@@ -1,23 +1,33 @@
 {
   "alabama": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d8f7fe5c-521d-4905-9326-0077b34a689b",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d8f7fe5c-521d-4905-9326-0077b34a689b",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d8f7fe5c-521d-4905-9326-0077b34a689b"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/d8f7fe5c-521d-4905-9326-0077b34a689b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=49102445-e9e1-433f-951d-0df926efd039",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9e058f28-8b0b-4f61-ad41-5ab8fac53afe",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=21d13f8a-558d-4e5e-a81b-ce63ea2f9add"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/0274bbf0-1737-4ec5-8c9d-3db5167709d1",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/2197253d-e5a6-4648-bdd5-3688a3d0280c",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/607b309d-e90d-4dda-9334-edb2e87a9fb7",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/607b309d-e90d-4dda-9334-edb2e87a9fb7",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/2197253d-e5a6-4648-bdd5-3688a3d0280c",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2197253d-e5a6-4648-bdd5-3688a3d0280c",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2197253d-e5a6-4648-bdd5-3688a3d0280c"
     }
   },
   "alaska": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b733842-f04c-49e9-ac81-446a54755205",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b733842-f04c-49e9-ac81-446a54755205",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b733842-f04c-49e9-ac81-446a54755205"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b733842-f04c-49e9-ac81-446a54755205",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=caca9ee7-f744-4830-995d-13c43aac4b96",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0c5275ef-b668-4b7a-a1d0-610785bda8e6",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0bd58c85-2967-48fb-80d9-a58644a3b7aa"
     },
     "continuing-education": {
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/ce79b8af-be8f-4894-a69b-c8916e37b2b5",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/196e31ef-37f0-45ea-8f13-d517b8d1dcc4",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/196e31ef-37f0-45ea-8f13-d517b8d1dcc4",
       "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
       "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
       "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
@@ -25,578 +35,818 @@
   },
   "arizona": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9decbf8c-41db-433d-8c38-261d5d2b9f13",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9decbf8c-41db-433d-8c38-261d5d2b9f13",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9decbf8c-41db-433d-8c38-261d5d2b9f13"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/9decbf8c-41db-433d-8c38-261d5d2b9f13",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=891da107-d874-45e9-ba27-144997fd66be",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=da4587b5-66ef-46d2-83d9-0e3b1fa562d0",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=56eece27-e017-455d-9e5e-f36c88ea16ec"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/667ad033-830e-40b9-a64f-b41989e37c9b",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6d024cf-7789-4956-ab4e-30bb6e5ec005",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/6142957c-9b99-40f0-86b3-229fc6c486bc",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/6142957c-9b99-40f0-86b3-229fc6c486bc",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6d024cf-7789-4956-ab4e-30bb6e5ec005",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6d024cf-7789-4956-ab4e-30bb6e5ec005",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6d024cf-7789-4956-ab4e-30bb6e5ec005"
     }
   },
   "arkansas": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c36f6de-2b40-4048-9a7f-9007bc04b58b",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c36f6de-2b40-4048-9a7f-9007bc04b58b",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c36f6de-2b40-4048-9a7f-9007bc04b58b"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c36f6de-2b40-4048-9a7f-9007bc04b58b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=ca717f74-94dd-4396-bab6-18a03a5953fb",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9bd7e3c9-0cde-4305-b8bf-4a024d475ecf",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a2395bd3-730d-4ca4-902c-02fe5cc62db1"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/82dcbbed-58e8-4ba2-be92-17698f2d5717",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/1342fadc-a39f-40f8-8adb-369084344b92",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/6669a707-d752-4c55-96de-4a1201e560fd",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/6669a707-d752-4c55-96de-4a1201e560fd",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1342fadc-a39f-40f8-8adb-369084344b92",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1342fadc-a39f-40f8-8adb-369084344b92",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1342fadc-a39f-40f8-8adb-369084344b92"
     }
   },
   "california": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/f310c2cc-fbf7-4971-8724-744ded64bdee",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f310c2cc-fbf7-4971-8724-744ded64bdee",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f310c2cc-fbf7-4971-8724-744ded64bdee"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/f310c2cc-fbf7-4971-8724-744ded64bdee",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cabd3561-5b90-4530-b15b-b52854919879",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a01248ea-fc24-4484-a4f9-9ae3fa56d150",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0916865b-b9f6-4ad5-a31b-1609f5cc8eae"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/4f595cdb-f8b7-444e-986e-c6da1ef986d4",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/647afc9b-8919-4c7a-abdf-119396df81ee",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/d1b4e4d7-f4d7-4758-abc2-9e5d9e220215",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/d1b4e4d7-f4d7-4758-abc2-9e5d9e220215",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/647afc9b-8919-4c7a-abdf-119396df81ee",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/647afc9b-8919-4c7a-abdf-119396df81ee",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/647afc9b-8919-4c7a-abdf-119396df81ee"
     }
   },
   "colorado": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/3eec3dbf-1f2e-4da7-ac1c-0a1e88814dc8",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3eec3dbf-1f2e-4da7-ac1c-0a1e88814dc8",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3eec3dbf-1f2e-4da7-ac1c-0a1e88814dc8"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/3eec3dbf-1f2e-4da7-ac1c-0a1e88814dc8",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c27da132-2b64-49b4-a69d-264bb57dafd0",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cc9f52a4-f435-4964-a8a1-0e69afb8494b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=43995e59-64b2-49c8-ab91-0f32351ae03d"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7439e95d-662b-46a0-82ac-a802f5058cf7",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7439e95d-662b-46a0-82ac-a802f5058cf7",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7439e95d-662b-46a0-82ac-a802f5058cf7"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/7439e95d-662b-46a0-82ac-a802f5058cf7",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/fb1ae626-20c1-4bff-89da-90973f5da95c",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/110573b5-e25e-4b7e-a7a3-7d228614f7dc",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/110573b5-e25e-4b7e-a7a3-7d228614f7dc",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/fb1ae626-20c1-4bff-89da-90973f5da95c",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/fb1ae626-20c1-4bff-89da-90973f5da95c",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/fb1ae626-20c1-4bff-89da-90973f5da95c"
     }
   },
   "connecticut": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/0a06875f-4e72-415d-98e3-6301bfff39e2",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0a06875f-4e72-415d-98e3-6301bfff39e2",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0a06875f-4e72-415d-98e3-6301bfff39e2"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/0a06875f-4e72-415d-98e3-6301bfff39e2",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=ebafe4a9-8805-4a6e-9127-373ac5b64d05",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=eec924e3-4d17-4d0e-ad3b-5908c861b1dc",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=00d660cc-9868-45f5-ae60-ead9f2101af3"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/f81f935f-ba70-4e27-8a20-de3a7d86bb00",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/2bfbf505-ab33-48f0-9475-a30637f984d3",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/2c914064-4c63-46d3-ba1b-111cdb384f3b",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/2c914064-4c63-46d3-ba1b-111cdb384f3b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/2bfbf505-ab33-48f0-9475-a30637f984d3",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2bfbf505-ab33-48f0-9475-a30637f984d3",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2bfbf505-ab33-48f0-9475-a30637f984d3"
     }
   },
   "delaware": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/0d8b2b86-0c97-408f-bd02-ab94aca64610",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0d8b2b86-0c97-408f-bd02-ab94aca64610",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0d8b2b86-0c97-408f-bd02-ab94aca64610"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/0d8b2b86-0c97-408f-bd02-ab94aca64610",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=531fd31d-edcc-4f81-a457-3f7a62f8669b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c327258e-dfae-4070-82da-1c34321415b0",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d61ca96b-af57-46cd-b7ce-835de3d1ead0"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/2cf08d73-93eb-436f-a7e2-1d999aee7911",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2cf08d73-93eb-436f-a7e2-1d999aee7911",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2cf08d73-93eb-436f-a7e2-1d999aee7911"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/2cf08d73-93eb-436f-a7e2-1d999aee7911",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/5e9fc63a-1307-4b2f-8a6e-3d2ae1bbb65f",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/5e98b2b0-2f18-454e-a52c-049b3ca1a29c",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/5e98b2b0-2f18-454e-a52c-049b3ca1a29c",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/5e9fc63a-1307-4b2f-8a6e-3d2ae1bbb65f",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/5e9fc63a-1307-4b2f-8a6e-3d2ae1bbb65f",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/5e9fc63a-1307-4b2f-8a6e-3d2ae1bbb65f"
     }
   },
   "florida": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f3d8c72c-dad7-4242-88f2-865f57b310a3",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2cc2ffac-050d-464e-8228-d771b592b7e0",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=aed7c453-a039-404a-bd9d-912e4f06458c"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/ebaefd96-d180-4179-962d-986dd772765d",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/ecb835f3-7ff8-4e78-acd6-4ac4b480b000",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/ecb835f3-7ff8-4e78-acd6-4ac4b480b000",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/ebaefd96-d180-4179-962d-986dd772765d",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ebaefd96-d180-4179-962d-986dd772765d",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ebaefd96-d180-4179-962d-986dd772765d"
     }
   },
   "georgia": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6869f12-13cc-4871-9325-5ac65862a43b",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6869f12-13cc-4871-9325-5ac65862a43b",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6869f12-13cc-4871-9325-5ac65862a43b"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6869f12-13cc-4871-9325-5ac65862a43b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=df56d56c-c661-4c7b-aa10-32cb89b6d398",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f46e57de-49b5-43d8-be5f-81849b1baf0a",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=018c700b-a039-4b74-ada8-851c5b5f46fa"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/52ab8c17-a0f5-4d24-9045-4e5ccbe6707d",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/f0cc4491-b267-48e1-be75-33180091fc2b",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/21889b11-24d1-4238-9207-21a8336df8b6",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/21889b11-24d1-4238-9207-21a8336df8b6",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/f0cc4491-b267-48e1-be75-33180091fc2b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f0cc4491-b267-48e1-be75-33180091fc2b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f0cc4491-b267-48e1-be75-33180091fc2b"
     }
   },
   "hawaii": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/62729bd8-04ac-4187-9496-455af420e925",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/62729bd8-04ac-4187-9496-455af420e925",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/62729bd8-04ac-4187-9496-455af420e925"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/62729bd8-04ac-4187-9496-455af420e925",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=43e92835-8d59-4072-85f6-40e5907b0bdd",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b122173f-1326-47ab-991a-75edf590b0f9",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=595e6580-f0a9-4356-936e-215feb8dce60"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/859d5477-4c17-4a95-97a0-0fcf16a29a39",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/95bafb1c-4698-4c93-b933-afb6c5180fc0",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/13390378-f593-4cda-bf49-6ac564e7d43b",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/13390378-f593-4cda-bf49-6ac564e7d43b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/95bafb1c-4698-4c93-b933-afb6c5180fc0",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/95bafb1c-4698-4c93-b933-afb6c5180fc0",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/95bafb1c-4698-4c93-b933-afb6c5180fc0"
     }
   },
   "idaho": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/490e22c8-9de8-43d8-a64a-34a04203172e",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/490e22c8-9de8-43d8-a64a-34a04203172e",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/490e22c8-9de8-43d8-a64a-34a04203172e"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/490e22c8-9de8-43d8-a64a-34a04203172e",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=21343c7d-dd10-4896-a22f-44dbfce4fe3d",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8122a4dd-15b7-4c50-a50d-92408cfe2591",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a3296cde-567a-4a94-b467-ae1176fd43f1"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/ef183729-d16d-4582-802e-5df4f6c8e8b0",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/74c8339b-8a8c-4b2d-838f-c8405320f22a",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/e8f593e0-8459-4287-9917-2e52462a0888",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/e8f593e0-8459-4287-9917-2e52462a0888",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/74c8339b-8a8c-4b2d-838f-c8405320f22a",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/74c8339b-8a8c-4b2d-838f-c8405320f22a",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/74c8339b-8a8c-4b2d-838f-c8405320f22a"
     }
   },
   "illinois": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/a4389a72-af0d-44b7-864e-c527d39de7e1",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a4389a72-af0d-44b7-864e-c527d39de7e1",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a4389a72-af0d-44b7-864e-c527d39de7e1"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/a4389a72-af0d-44b7-864e-c527d39de7e1",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=085e361f-56c9-4117-86a9-46088ea9ff4e",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=59515bed-2658-461b-b7ab-c4fe75fe5a16",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=16f00b78-ce98-4471-9d4f-c067418bb348"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/e9f200d7-2207-4046-87a6-16f48e43e386",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/b406f8ad-9fc9-46ed-89ce-8a7cf100cda9",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/d84f1b6c-6f99-4806-8854-c87f6a3b152c",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/d84f1b6c-6f99-4806-8854-c87f6a3b152c",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/b406f8ad-9fc9-46ed-89ce-8a7cf100cda9",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b406f8ad-9fc9-46ed-89ce-8a7cf100cda9",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b406f8ad-9fc9-46ed-89ce-8a7cf100cda9"
     }
   },
   "indiana": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/80a3ea9d-f5b5-4302-8599-ad3a3f47f22c",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/80a3ea9d-f5b5-4302-8599-ad3a3f47f22c",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/80a3ea9d-f5b5-4302-8599-ad3a3f47f22c"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/80a3ea9d-f5b5-4302-8599-ad3a3f47f22c",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=92617320-a261-4a8f-95b9-47b001499f03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8fe18314-5d0d-475f-84fa-ff05fda92a66",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=94b15ecd-fe48-4ed7-a473-e90847ec60c6"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/4fd9c55a-511f-4dbe-b04d-ce6b75454bc0",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/b85a0fc4-0a0c-4ec8-9028-58c712c9799e",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/c6e01d58-4f2b-477c-983a-8b4b8a13457c",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/c6e01d58-4f2b-477c-983a-8b4b8a13457c",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/b85a0fc4-0a0c-4ec8-9028-58c712c9799e",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b85a0fc4-0a0c-4ec8-9028-58c712c9799e",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b85a0fc4-0a0c-4ec8-9028-58c712c9799e"
     }
   },
   "iowa": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/bd1d1b57-225b-47e1-a4aa-bad20241e40b",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/bd1d1b57-225b-47e1-a4aa-bad20241e40b",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/bd1d1b57-225b-47e1-a4aa-bad20241e40b"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/bd1d1b57-225b-47e1-a4aa-bad20241e40b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cf2012c5-2582-44bd-a57b-47e6015455c4",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cd6d2b9e-3c4b-412a-b123-832e56ff1dc0",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1b1a83f8-6e36-4067-b3b3-265a97dbbd3a"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7a4f806b-1901-4e88-aabd-7fe28e5a0bc4",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7a4f806b-1901-4e88-aabd-7fe28e5a0bc4",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7a4f806b-1901-4e88-aabd-7fe28e5a0bc4"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/7a4f806b-1901-4e88-aabd-7fe28e5a0bc4",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/a1e26fbb-23aa-4937-9812-334de42ea054",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/b6fd6336-c607-417f-9237-88c5a8b9ccd6",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/b6fd6336-c607-417f-9237-88c5a8b9ccd6",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/a1e26fbb-23aa-4937-9812-334de42ea054",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a1e26fbb-23aa-4937-9812-334de42ea054",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a1e26fbb-23aa-4937-9812-334de42ea054"
     }
   },
   "kansas": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/08769b25-620e-4e1b-8a09-5a45a4c83bc1",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/08769b25-620e-4e1b-8a09-5a45a4c83bc1",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/08769b25-620e-4e1b-8a09-5a45a4c83bc1"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/08769b25-620e-4e1b-8a09-5a45a4c83bc1",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=84984577-e004-4bcf-a9d7-486becf6c06f",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=71c4aa82-7085-4b8f-acbb-3dd2f5c183fa",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=722259ff-3d57-4f3b-b455-8ba2237f28ca"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/8c61a0eb-bf76-428d-a093-47988065504b",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/cf8952b1-46f6-4855-b4b9-848e594a26b9",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/9071d65a-8901-4b7f-9c3b-d48fe70a26e2",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/9071d65a-8901-4b7f-9c3b-d48fe70a26e2",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/cf8952b1-46f6-4855-b4b9-848e594a26b9",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/cf8952b1-46f6-4855-b4b9-848e594a26b9",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/cf8952b1-46f6-4855-b4b9-848e594a26b9"
     }
   },
   "kentucky": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/6f649ac4-64e4-4c3d-a930-d75fce564258",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=81913337-887e-498a-ac82-618e82908292",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=dbae33b5-156a-4633-ad47-834b7856b752",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7075b75c-3ecd-499e-9145-2f534f4dda03"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/70fc7231-947f-4b29-8fb6-32dda18ee64f",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/b8c895f9-20b1-4995-b2ec-118d008032de",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/a17482a6-41bb-4037-bdad-de54540c298d",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/a17482a6-41bb-4037-bdad-de54540c298d",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/b8c895f9-20b1-4995-b2ec-118d008032de",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b8c895f9-20b1-4995-b2ec-118d008032de",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b8c895f9-20b1-4995-b2ec-118d008032de"
     }
   },
   "louisiana": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/80e052ad-b8fc-420a-ac02-79708e7270fb",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/80e052ad-b8fc-420a-ac02-79708e7270fb",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/80e052ad-b8fc-420a-ac02-79708e7270fb"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/80e052ad-b8fc-420a-ac02-79708e7270fb",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=06e0be43-bc08-4c9e-920a-77a99123f8af",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=163a373a-ba84-4204-ad63-3f38fa44808c",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=927d7984-3a47-4051-8036-00141feded18"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/da2546b3-b34c-4297-80bd-b071f4572dd5",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/a1981afb-6b12-4060-8ab6-63707ae12a73",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f18946c-8990-4ef9-898f-c606a3211342",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f18946c-8990-4ef9-898f-c606a3211342",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/a1981afb-6b12-4060-8ab6-63707ae12a73",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a1981afb-6b12-4060-8ab6-63707ae12a73",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a1981afb-6b12-4060-8ab6-63707ae12a73"
     }
   },
   "maine": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/39c8da21-9171-4a67-be71-b72fd16c571b",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/39c8da21-9171-4a67-be71-b72fd16c571b",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/39c8da21-9171-4a67-be71-b72fd16c571b"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/39c8da21-9171-4a67-be71-b72fd16c571b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f6acd5d6-ae03-46a8-b309-434871e74e75",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=ca29b587-841e-48c3-a274-a66a15a03f60",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=24c18ad5-be55-4d07-8f63-2be7a9bf33c3"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/b9024739-85b9-4796-a720-a3acebd05411",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/a50c08c0-1d04-4851-b713-4bac60c4bd4a",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed03c357-4b66-4b94-8899-688b35fd91f5",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed03c357-4b66-4b94-8899-688b35fd91f5",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/a50c08c0-1d04-4851-b713-4bac60c4bd4a",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a50c08c0-1d04-4851-b713-4bac60c4bd4a",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a50c08c0-1d04-4851-b713-4bac60c4bd4a"
     }
   },
   "maryland": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/871d8fbe-f0f3-4676-924a-ef14c6b740e7",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/871d8fbe-f0f3-4676-924a-ef14c6b740e7",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/871d8fbe-f0f3-4676-924a-ef14c6b740e7"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/871d8fbe-f0f3-4676-924a-ef14c6b740e7",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=aaef8236-de1b-41fb-bbf7-956318c00233",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c3b1e11-e0f9-431b-b7aa-739019d6096b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=88194663-0bbb-48c6-af6d-a3ff30e09f88"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1a27ce55-d1e6-4858-a082-10bca1918cc4",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1a27ce55-d1e6-4858-a082-10bca1918cc4",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1a27ce55-d1e6-4858-a082-10bca1918cc4"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/1a27ce55-d1e6-4858-a082-10bca1918cc4",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/7e20a6a3-eb72-4e4e-9a54-09fc6f0a0476",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/158d5224-7a36-42e3-b518-7f346cf0a284",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/158d5224-7a36-42e3-b518-7f346cf0a284",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7e20a6a3-eb72-4e4e-9a54-09fc6f0a0476",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7e20a6a3-eb72-4e4e-9a54-09fc6f0a0476",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7e20a6a3-eb72-4e4e-9a54-09fc6f0a0476"
     }
   },
   "massachusetts": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/50489b5c-e700-48e5-917a-70889340ae4f",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/50489b5c-e700-48e5-917a-70889340ae4f",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/50489b5c-e700-48e5-917a-70889340ae4f"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/50489b5c-e700-48e5-917a-70889340ae4f",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=53a83999-a979-4ea1-b83e-fb78ca55685d",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=25214593-872a-4473-8af1-38802d89906c",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=46d47464-0b5c-4595-b9bc-4a8fdd73cdb1"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/04c0998f-8814-4173-b63a-81646d89d5e3",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/04c0998f-8814-4173-b63a-81646d89d5e3",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/04c0998f-8814-4173-b63a-81646d89d5e3"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/04c0998f-8814-4173-b63a-81646d89d5e3",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/37cc2654-03d1-4333-8d27-93df22801324",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/c48adfc6-3bb1-4e1e-8534-094df8286d3b",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/c48adfc6-3bb1-4e1e-8534-094df8286d3b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/37cc2654-03d1-4333-8d27-93df22801324",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/37cc2654-03d1-4333-8d27-93df22801324",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/37cc2654-03d1-4333-8d27-93df22801324"
     }
   },
   "michigan": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/cd46bb12-5d66-47f8-a1c7-6526cd8de209",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/cd46bb12-5d66-47f8-a1c7-6526cd8de209",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/cd46bb12-5d66-47f8-a1c7-6526cd8de209"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/cd46bb12-5d66-47f8-a1c7-6526cd8de209",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4f9a2285-3d47-493f-9aaf-fa501e000854",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7f66b204-ec2b-49d5-b9b0-b08d075eac2e",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=533e778c-2447-4263-82ef-ea1068b9fddf"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/6a8cd6be-fdee-4e18-852e-63de34aaf424",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a120b54-d0c6-492b-a54d-c6ca43374595",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/556fb377-8318-4ecc-a5ad-349eb32334e8",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/556fb377-8318-4ecc-a5ad-349eb32334e8",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a120b54-d0c6-492b-a54d-c6ca43374595",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a120b54-d0c6-492b-a54d-c6ca43374595",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a120b54-d0c6-492b-a54d-c6ca43374595"
     }
   },
   "minnesota": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/d921724f-ad78-4c43-9c7a-22dba5f2279e",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1eda13be-f38f-42a7-9704-e6840aa78a9d",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5cbe2e66-80e9-476c-b235-b2dd81554cd8",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4d0b4ec5-40a4-4834-a578-5f2eae696d39"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/d287f6f4-056c-4af2-bda7-d87fa5a514a9",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b126c0c-5586-4ef0-b02c-cf63242dbabd",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/fbadfe11-348f-4d46-ae37-4bd0d17c2efa",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/fbadfe11-348f-4d46-ae37-4bd0d17c2efa",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b126c0c-5586-4ef0-b02c-cf63242dbabd",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b126c0c-5586-4ef0-b02c-cf63242dbabd",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b126c0c-5586-4ef0-b02c-cf63242dbabd"
     }
   },
   "mississippi": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/148f1799-79bb-4d58-bd06-f1857bca43f7",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/148f1799-79bb-4d58-bd06-f1857bca43f7",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/148f1799-79bb-4d58-bd06-f1857bca43f7"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/148f1799-79bb-4d58-bd06-f1857bca43f7",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0abd58f8-4974-447d-b4b9-95f62c508e76",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1fdc8bdf-7dae-44c8-8716-f0c9e9e26d2d",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7bffef36-5eb9-428f-b6ec-cb5990cf55e8"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/5f523fcd-3fb4-4e56-be7c-69e58d464b61",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/5f523fcd-3fb4-4e56-be7c-69e58d464b61",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/5f523fcd-3fb4-4e56-be7c-69e58d464b61"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/5f523fcd-3fb4-4e56-be7c-69e58d464b61",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/d0f56f52-ed22-43ff-b233-2ebc5dd2b689",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/aaf4b8a0-234d-4e66-b0a8-88abe3133aa1",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/aaf4b8a0-234d-4e66-b0a8-88abe3133aa1",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d0f56f52-ed22-43ff-b233-2ebc5dd2b689",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d0f56f52-ed22-43ff-b233-2ebc5dd2b689",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d0f56f52-ed22-43ff-b233-2ebc5dd2b689"
     }
   },
   "missouri": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/83fbb779-c363-4ee2-bf63-e0a4e75d1e61",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/83fbb779-c363-4ee2-bf63-e0a4e75d1e61",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/83fbb779-c363-4ee2-bf63-e0a4e75d1e61"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/83fbb779-c363-4ee2-bf63-e0a4e75d1e61",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b6b4a845-c064-4564-a94a-96462a1a76ab",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f9eb7e9a-d019-4347-a00f-78c071cd198d",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8b33fb75-cd37-4123-9d10-bcd4151e1d6d"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/e797e5a3-db9d-42fc-91f6-93e06f55c2ed",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e797e5a3-db9d-42fc-91f6-93e06f55c2ed",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e797e5a3-db9d-42fc-91f6-93e06f55c2ed"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/e797e5a3-db9d-42fc-91f6-93e06f55c2ed",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/f69d0297-573d-45cb-8989-2475025d8d1d",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/941ebab7-f762-4737-8388-b06773cef9ff",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/941ebab7-f762-4737-8388-b06773cef9ff",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/f69d0297-573d-45cb-8989-2475025d8d1d",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f69d0297-573d-45cb-8989-2475025d8d1d",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f69d0297-573d-45cb-8989-2475025d8d1d"
     }
   },
   "montana": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/8e49adb5-bbc9-499b-ab61-29d4cb57fefe",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/8e49adb5-bbc9-499b-ab61-29d4cb57fefe",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/8e49adb5-bbc9-499b-ab61-29d4cb57fefe"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/8e49adb5-bbc9-499b-ab61-29d4cb57fefe",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=01361bb5-03e1-47f0-89a2-9fd83548593e",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3fb721cb-e399-442e-8dcd-c7301c11751f",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d3c4b95e-b651-42ac-82ad-80287d8c4c78"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/4880f8a8-09d0-4af6-ba9b-23740bf05159",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/ef3e55b5-d0b1-4b6d-8007-50bd1c12bde4",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/974c8e47-0c6b-44ef-aaca-b21e13fcb5a9",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/974c8e47-0c6b-44ef-aaca-b21e13fcb5a9",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/ef3e55b5-d0b1-4b6d-8007-50bd1c12bde4",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ef3e55b5-d0b1-4b6d-8007-50bd1c12bde4",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ef3e55b5-d0b1-4b6d-8007-50bd1c12bde4"
     }
   },
   "nebraska": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/af7c77c5-8ad1-4d29-be53-7c38a798a202",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/af7c77c5-8ad1-4d29-be53-7c38a798a202",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/af7c77c5-8ad1-4d29-be53-7c38a798a202"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/af7c77c5-8ad1-4d29-be53-7c38a798a202",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d620df37-c680-4760-a624-acec2f7a8e17",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=da349cc2-9e4c-4176-a8ba-3c020d6e9ec9",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=014a20c5-9974-44f7-8d3a-44da87555055"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/2e52d43a-8218-4921-a633-6760a8f99038",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2e52d43a-8218-4921-a633-6760a8f99038",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2e52d43a-8218-4921-a633-6760a8f99038"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/2e52d43a-8218-4921-a633-6760a8f99038",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/cdd3fca1-84d4-4931-a91b-202219aa6a8f",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/cea1d107-0c64-487d-abac-0f96dd2fbb27",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/cea1d107-0c64-487d-abac-0f96dd2fbb27",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/cdd3fca1-84d4-4931-a91b-202219aa6a8f",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/cdd3fca1-84d4-4931-a91b-202219aa6a8f",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/cdd3fca1-84d4-4931-a91b-202219aa6a8f"
     }
   },
   "nevada": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/854561ec-18dc-4a90-895d-969fa0ce9e8a",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/854561ec-18dc-4a90-895d-969fa0ce9e8a",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/854561ec-18dc-4a90-895d-969fa0ce9e8a"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/854561ec-18dc-4a90-895d-969fa0ce9e8a",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5da81c0c-dbf2-4a5d-ba7c-ae0ea28353a2",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3ff13588-e207-4be8-a3ab-137fc52b6805",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f63e4e83-6e01-4830-b76c-fac7c5f1b689"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/fa450c8e-1770-4c0d-97c3-139da45a4fe8",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/845155bf-46de-4ad2-ae39-ace69fcd7652",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/09db30c8-5630-4e43-9aaf-287e0b5443c7",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/09db30c8-5630-4e43-9aaf-287e0b5443c7",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/845155bf-46de-4ad2-ae39-ace69fcd7652",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/845155bf-46de-4ad2-ae39-ace69fcd7652",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/845155bf-46de-4ad2-ae39-ace69fcd7652"
     }
   },
   "new-hampshire": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/b48a7909-a7d4-4cbd-8d60-fe3f657f9a94",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b48a7909-a7d4-4cbd-8d60-fe3f657f9a94",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b48a7909-a7d4-4cbd-8d60-fe3f657f9a94"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/b48a7909-a7d4-4cbd-8d60-fe3f657f9a94",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=034336e4-d669-462c-bbc7-b283e018bf9b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b02f48d4-7599-4bea-b1f2-0504dc1b52d3",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a0297f88-4846-40b0-8dbc-72abeea5773b"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/2f2c97a1-6746-4fdc-886a-57c29443cbfa",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/c91c1980-59c9-4445-8984-ca5144e5b0da",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/ad32cd28-bb98-495c-87da-81e64331dec5",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/ad32cd28-bb98-495c-87da-81e64331dec5",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/c91c1980-59c9-4445-8984-ca5144e5b0da",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c91c1980-59c9-4445-8984-ca5144e5b0da",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c91c1980-59c9-4445-8984-ca5144e5b0da"
     }
   },
   "new-jersey": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7dbad883-1e1a-471a-849b-ea4c9b71cf28",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7dbad883-1e1a-471a-849b-ea4c9b71cf28",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7dbad883-1e1a-471a-849b-ea4c9b71cf28"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/7dbad883-1e1a-471a-849b-ea4c9b71cf28",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5af2654e-0581-427f-b789-b49a34826b82",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=358cb138-b794-454e-941c-2d7a3c34c536",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2dfc4671-3fac-45c9-99f4-5d233a731303"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/859ff3a2-6127-4bfe-956a-c9793af39730",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/a5d95fad-6710-4e50-85cf-b20a12c510bf",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/a5681a80-a26f-48af-97f8-684167ff58ab",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/a5681a80-a26f-48af-97f8-684167ff58ab",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/a5d95fad-6710-4e50-85cf-b20a12c510bf",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a5d95fad-6710-4e50-85cf-b20a12c510bf",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a5d95fad-6710-4e50-85cf-b20a12c510bf"
     }
   },
   "new-mexico": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/ab01ad75-5d83-4fdc-ac2c-d0c9525e0ad3",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ab01ad75-5d83-4fdc-ac2c-d0c9525e0ad3",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ab01ad75-5d83-4fdc-ac2c-d0c9525e0ad3"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/ab01ad75-5d83-4fdc-ac2c-d0c9525e0ad3",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f5455269-1374-40b3-861b-b82423b39e27",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=645c6b93-1ba1-4fa0-a474-ba82b36e974e",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3b720aa5-2ee1-4ef5-b299-8e1339494a5e"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/7e49d77e-3d53-461d-a685-382dc7b2e726",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/7f4d540e-ce66-4611-af7e-66fa7ebb4ea0",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/cc74b59d-8c5b-44ed-9b18-d2c0d965f03e",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/cc74b59d-8c5b-44ed-9b18-d2c0d965f03e",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7f4d540e-ce66-4611-af7e-66fa7ebb4ea0",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7f4d540e-ce66-4611-af7e-66fa7ebb4ea0",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7f4d540e-ce66-4611-af7e-66fa7ebb4ea0"
     }
   },
   "new-york": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/246b98f2-ccba-4b3d-9aea-d20d9050015b",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/246b98f2-ccba-4b3d-9aea-d20d9050015b",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/246b98f2-ccba-4b3d-9aea-d20d9050015b"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/246b98f2-ccba-4b3d-9aea-d20d9050015b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3f772833-68e9-4936-85d0-ba61148ab380",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=644fbc94-9888-49a3-a6f9-64206cee7e4b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=162b5b29-daaf-4236-a779-ed33f0c6c327"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/6a16c9eb-789d-43ce-a9cc-538ac28dbec1",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/801d60b0-40cf-499b-b714-1d08aee5f13e",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/76e965a9-b226-43bb-8eeb-02141c3a3f05",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/76e965a9-b226-43bb-8eeb-02141c3a3f05",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/801d60b0-40cf-499b-b714-1d08aee5f13e",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/801d60b0-40cf-499b-b714-1d08aee5f13e",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/801d60b0-40cf-499b-b714-1d08aee5f13e"
     }
   },
   "north-carolina": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/01cc9bee-446f-48cb-b8a3-5ebe32e42425",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/01cc9bee-446f-48cb-b8a3-5ebe32e42425",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/01cc9bee-446f-48cb-b8a3-5ebe32e42425"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/01cc9bee-446f-48cb-b8a3-5ebe32e42425",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1ccbb2eb-a56d-48f0-8eaa-e644c343beae",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=da3b721d-d522-44dd-9db5-f83121c35426",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cb4cf42f-4c63-41e5-8fce-bcc8d07eadbf"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/4bd83b0b-94fc-4755-b185-0bb53b305c14",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/7b280a36-48f8-4801-8126-8c76e1551bfc",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/946fac4c-1aed-498f-bc33-ef60ad2a81d5",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/946fac4c-1aed-498f-bc33-ef60ad2a81d5",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7b280a36-48f8-4801-8126-8c76e1551bfc",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7b280a36-48f8-4801-8126-8c76e1551bfc",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7b280a36-48f8-4801-8126-8c76e1551bfc"
     }
   },
   "north-dakota": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5f557e-3011-4dc2-9e49-6649843030e4",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5f557e-3011-4dc2-9e49-6649843030e4",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5f557e-3011-4dc2-9e49-6649843030e4"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5f557e-3011-4dc2-9e49-6649843030e4",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2a2182b0-20e9-46f2-a8b9-e55bff425d97",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5e4e819b-418f-4498-981b-e062ae08a448",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3b1bd663-3c8c-4021-bc3f-07a405b9235f"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/24dfe404-dd4f-4f45-be62-51b2ef1ed822",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/24dfe404-dd4f-4f45-be62-51b2ef1ed822",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/24dfe404-dd4f-4f45-be62-51b2ef1ed822"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/24dfe404-dd4f-4f45-be62-51b2ef1ed822",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/8d1d6544-2bfe-465d-8dfc-5a3a4a34384c",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/942db6cf-aab6-4321-878b-ad82ed6c8bfd",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/942db6cf-aab6-4321-878b-ad82ed6c8bfd",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/8d1d6544-2bfe-465d-8dfc-5a3a4a34384c",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/8d1d6544-2bfe-465d-8dfc-5a3a4a34384c",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/8d1d6544-2bfe-465d-8dfc-5a3a4a34384c"
     }
   },
   "ohio": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/2d67f153-19c8-457f-99b3-7e919200da38",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2d67f153-19c8-457f-99b3-7e919200da38",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2d67f153-19c8-457f-99b3-7e919200da38"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/2d67f153-19c8-457f-99b3-7e919200da38",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8a356455-1ce8-4ffc-8436-c3de1c6e8dee",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=81af1a19-9e8f-46c4-90d9-925b64ffefe8",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=ff356bd8-f1dd-4f51-9e1f-124453edc184"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/cea78a7d-4a02-463d-8401-b524757e474e",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/63bda523-55a8-4286-85ac-f87516dbcfd9",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/e3b9bf80-4cc0-4253-a698-e7c9c13096f4",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/e3b9bf80-4cc0-4253-a698-e7c9c13096f4",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/63bda523-55a8-4286-85ac-f87516dbcfd9",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/63bda523-55a8-4286-85ac-f87516dbcfd9",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/63bda523-55a8-4286-85ac-f87516dbcfd9"
     }
   },
   "oklahoma": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/e4c713ae-2567-467a-a628-81b0dae7e434",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e4c713ae-2567-467a-a628-81b0dae7e434",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e4c713ae-2567-467a-a628-81b0dae7e434"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/e4c713ae-2567-467a-a628-81b0dae7e434",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=78faf7e7-37c3-40ae-8f8d-cd2ec649a52f",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=753e53b6-9553-46f5-9095-3d099cb715eb",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f297e3e9-808d-49bf-ae74-9e4b2371d3a4"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/8abdb09f-9f30-44d8-9e33-e2198ac42973",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5e6588-1a36-42ef-b4ba-4b4b65d63c06",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/756f345c-8791-4d8e-ac6b-0bedf5758e48",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/756f345c-8791-4d8e-ac6b-0bedf5758e48",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5e6588-1a36-42ef-b4ba-4b4b65d63c06",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5e6588-1a36-42ef-b4ba-4b4b65d63c06",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5e6588-1a36-42ef-b4ba-4b4b65d63c06"
     }
   },
   "oregon": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a9d022f-b90b-47ef-b85d-1cab1c57e8da",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a9d022f-b90b-47ef-b85d-1cab1c57e8da",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a9d022f-b90b-47ef-b85d-1cab1c57e8da"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a9d022f-b90b-47ef-b85d-1cab1c57e8da",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=dad50788-80c5-471f-9350-d0c7f19d2d7c",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0e49f80d-191a-47fb-b9c6-6e3bfd2e4fbf",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d955172b-e6e5-4c44-afbe-b48f045a4ab6"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/4247d02a-dfb4-42b5-8656-0a3f7b2b77ed",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/4247d02a-dfb4-42b5-8656-0a3f7b2b77ed",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/4247d02a-dfb4-42b5-8656-0a3f7b2b77ed"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/4247d02a-dfb4-42b5-8656-0a3f7b2b77ed",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/f9ea2d02-7d0f-4bdb-ad48-90b6529e8fbf",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/141e0b0a-ee75-4736-a6c5-faa5cc437363",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/141e0b0a-ee75-4736-a6c5-faa5cc437363",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/f9ea2d02-7d0f-4bdb-ad48-90b6529e8fbf",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f9ea2d02-7d0f-4bdb-ad48-90b6529e8fbf",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f9ea2d02-7d0f-4bdb-ad48-90b6529e8fbf"
     }
   },
   "pennsylvania": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/185edc5a-24d9-4d31-a1eb-8d3d531ab362",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/185edc5a-24d9-4d31-a1eb-8d3d531ab362",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/185edc5a-24d9-4d31-a1eb-8d3d531ab362"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/185edc5a-24d9-4d31-a1eb-8d3d531ab362",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7de0a8aa-fc44-4eb8-a83e-d4afb8efd02e",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=983e33c0-b895-4088-88c9-834a3dc9c978",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f6fe0350-8c5c-44e8-8b32-5fc62ce3ff2a"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/e62e0613-a255-4b2e-9fc1-a6da597e30d2",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/69d53f29-c34d-40a7-b848-d57e619e3c94",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/f68b3504-a6e3-4bfb-8ee5-aadde5db0168",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/f68b3504-a6e3-4bfb-8ee5-aadde5db0168",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/69d53f29-c34d-40a7-b848-d57e619e3c94",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/69d53f29-c34d-40a7-b848-d57e619e3c94",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/69d53f29-c34d-40a7-b848-d57e619e3c94"
     }
   },
   "rhode-island": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/18703c5c-7371-4036-9692-3a4c0a0c11eb",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/18703c5c-7371-4036-9692-3a4c0a0c11eb",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/18703c5c-7371-4036-9692-3a4c0a0c11eb"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/18703c5c-7371-4036-9692-3a4c0a0c11eb",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=19a7ba1c-1a04-4e89-8048-e10f98f45b3f",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b830e0a7-1345-4ae0-baed-e1ced1319abf",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2f83d60d-b2d6-4da9-862e-15ce0c2fd0c4"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/be56e57f-35c2-4d52-b65c-68c094c311c9",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/24e60fde-b888-4a0c-8d8f-0302d5a42cd2",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/695a29ba-49fb-4578-bfb1-19d317b65bda",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/695a29ba-49fb-4578-bfb1-19d317b65bda",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/24e60fde-b888-4a0c-8d8f-0302d5a42cd2",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/24e60fde-b888-4a0c-8d8f-0302d5a42cd2",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/24e60fde-b888-4a0c-8d8f-0302d5a42cd2"
     }
   },
   "south-carolina": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/59d1c163-12ed-46ab-a950-f4af27bc2e5b",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/59d1c163-12ed-46ab-a950-f4af27bc2e5b",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/59d1c163-12ed-46ab-a950-f4af27bc2e5b"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/59d1c163-12ed-46ab-a950-f4af27bc2e5b",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=12427cef-f429-4208-b6bc-0016d8fddf43",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a456f7c4-0a3c-4230-97c0-329fdb3e3b8d",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c7aa2eae-906a-4cf4-a306-5fdbbb328064"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/b869a132-507e-4d42-a821-bcb2d64bbae6",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b869a132-507e-4d42-a821-bcb2d64bbae6",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b869a132-507e-4d42-a821-bcb2d64bbae6"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/b869a132-507e-4d42-a821-bcb2d64bbae6",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/269990fd-1fd4-43e9-be66-beb141925024",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/079514aa-f8aa-4431-ae72-0ae4a526fe5c",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/079514aa-f8aa-4431-ae72-0ae4a526fe5c",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/269990fd-1fd4-43e9-be66-beb141925024",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/269990fd-1fd4-43e9-be66-beb141925024",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/269990fd-1fd4-43e9-be66-beb141925024"
     }
   },
   "south-dakota": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f299e10-2bde-4f6b-998e-23cd69629b73",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f299e10-2bde-4f6b-998e-23cd69629b73",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f299e10-2bde-4f6b-998e-23cd69629b73"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f299e10-2bde-4f6b-998e-23cd69629b73",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=45aa3dde-599f-4c54-80c8-0d01924775e8",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=49e113c1-8514-4e36-bb90-267d9a482667",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=86fd3eb0-79aa-43de-a311-12d9c597b1ff"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/2cde906d-53ea-40c8-b986-4db05781a201",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/08953a70-ab4d-460b-add2-93d4b362eb0a",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/8305cce3-ab50-49d8-96c9-3250d2d2e509",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/8305cce3-ab50-49d8-96c9-3250d2d2e509",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/08953a70-ab4d-460b-add2-93d4b362eb0a",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/08953a70-ab4d-460b-add2-93d4b362eb0a",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/08953a70-ab4d-460b-add2-93d4b362eb0a"
     }
   },
   "tennessee": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/eb20a1ed-fa9f-4e00-9e42-d491c2781ff2",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/eb20a1ed-fa9f-4e00-9e42-d491c2781ff2",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/eb20a1ed-fa9f-4e00-9e42-d491c2781ff2"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/eb20a1ed-fa9f-4e00-9e42-d491c2781ff2",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5e8763a9-e631-4185-8f90-19b477171354",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f1f4284e-9477-4191-9e84-f5b2e0dc66f3",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a6a5188e-c1d0-493b-b72d-1f99e90510d3"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/9edd98dd-5cc3-442d-aaed-eaa309f2b3d0",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/6d315e25-0438-401c-826a-c24b6c30e35d",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/c5d8021f-8a04-4703-a353-442786fe6019",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/c5d8021f-8a04-4703-a353-442786fe6019",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/6d315e25-0438-401c-826a-c24b6c30e35d",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/6d315e25-0438-401c-826a-c24b6c30e35d",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/6d315e25-0438-401c-826a-c24b6c30e35d"
     }
   },
   "texas": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/c393c81d-86f9-431f-9c3f-f8137ac7e3f7",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c393c81d-86f9-431f-9c3f-f8137ac7e3f7",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c393c81d-86f9-431f-9c3f-f8137ac7e3f7"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/c393c81d-86f9-431f-9c3f-f8137ac7e3f7",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=56097cb6-dfb5-461d-96b7-1fd958eba84a",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=67d3d051-a6ef-4075-895c-e15ebab0418d",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=70c2c5f6-ab12-4eb1-8b81-ae9ae45cc4dd"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/0c4df6e4-ceb0-4b87-ba8f-c4738347727a",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c7f4361-8603-45af-a275-599059546332",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/f6c8076d-49ec-47ae-a061-f8942935e4d9",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/f6c8076d-49ec-47ae-a061-f8942935e4d9",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c7f4361-8603-45af-a275-599059546332",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c7f4361-8603-45af-a275-599059546332",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c7f4361-8603-45af-a275-599059546332"
     }
   },
   "utah": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/c44e0981-609b-4b52-bd3c-0c7aa34f600d",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c44e0981-609b-4b52-bd3c-0c7aa34f600d",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c44e0981-609b-4b52-bd3c-0c7aa34f600d"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/c44e0981-609b-4b52-bd3c-0c7aa34f600d",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9f222a0f-fa70-4c57-b867-6425a0e99625",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5bff8688-2a26-4070-b705-b5ba57d070a5",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1388d962-3bbd-4bb7-b8a5-bb95d79c945c"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/08c1b204-95e5-424a-a42f-719ebdea2866",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/e2b4c171-9990-4a05-b7a4-684e44e3d57b",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/1381f64b-5bdd-4857-9d80-403219e2412c",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/1381f64b-5bdd-4857-9d80-403219e2412c",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/e2b4c171-9990-4a05-b7a4-684e44e3d57b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e2b4c171-9990-4a05-b7a4-684e44e3d57b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e2b4c171-9990-4a05-b7a4-684e44e3d57b"
     }
   },
   "vermont": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7c6f803b-87fe-4b81-8517-b78d7d1f5a5e",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7c6f803b-87fe-4b81-8517-b78d7d1f5a5e",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7c6f803b-87fe-4b81-8517-b78d7d1f5a5e"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/7c6f803b-87fe-4b81-8517-b78d7d1f5a5e",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1820be7d-837a-4906-8e91-658c578a284f",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e36657ec-5165-4f69-bf82-78c5a5cb39f0",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9ec3b4d8-081c-4531-9d57-4f0108fddfce"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1eabe447-0a86-48ef-9f02-b6a1986d3be7",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1eabe447-0a86-48ef-9f02-b6a1986d3be7",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1eabe447-0a86-48ef-9f02-b6a1986d3be7"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/08c1b204-95e5-424a-a42f-719ebdea2866",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/733e4204-90ba-4f1e-b7ee-404b80ff90dc",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/78432707-5f1e-41f4-b163-a7dd77371c07",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/78432707-5f1e-41f4-b163-a7dd77371c07",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/733e4204-90ba-4f1e-b7ee-404b80ff90dc",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/733e4204-90ba-4f1e-b7ee-404b80ff90dc",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/733e4204-90ba-4f1e-b7ee-404b80ff90dc"
     }
   },
   "virginia": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/696f5f3c-4be8-4ffc-b67c-362a12b07fbf",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/696f5f3c-4be8-4ffc-b67c-362a12b07fbf",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/696f5f3c-4be8-4ffc-b67c-362a12b07fbf"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/696f5f3c-4be8-4ffc-b67c-362a12b07fbf",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f0cdff75-fcb1-4585-bef0-ead667c93ab3",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a5426096-08e8-4ddc-8d3f-fb49bb3ea2dc",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=eb20a3e0-5b6e-4def-b708-623801ded5a2"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/23fdf4d5-6bb2-4752-bc4f-18b7e3e67478",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/23fdf4d5-6bb2-4752-bc4f-18b7e3e67478",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/23fdf4d5-6bb2-4752-bc4f-18b7e3e67478"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/1eabe447-0a86-48ef-9f02-b6a1986d3be7",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/9e914624-475c-4673-aa48-cfada10a3ac2",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/4b76bfd5-b42b-4daa-b53b-a71692ecc893",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/4b76bfd5-b42b-4daa-b53b-a71692ecc893",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9e914624-475c-4673-aa48-cfada10a3ac2",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9e914624-475c-4673-aa48-cfada10a3ac2",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9e914624-475c-4673-aa48-cfada10a3ac2"
     }
   },
   "washington": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed1b31ea-65fe-4098-bdfe-5959ecdbc9e0",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed1b31ea-65fe-4098-bdfe-5959ecdbc9e0",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed1b31ea-65fe-4098-bdfe-5959ecdbc9e0"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed1b31ea-65fe-4098-bdfe-5959ecdbc9e0",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a25f8722-d492-46ee-9fc0-caf2c7d8b5ce",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=65189d94-5fa7-4b57-aece-d0ac37a75f4c",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=ab025614-5cf3-49ea-b14e-b7a2655c1a73"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/d94a4448-5f92-4922-a757-8833692aedf5",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/b3393e94-9e8f-43d5-aff6-0bcae861c622",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/ddd588e4-64ad-4e43-b559-ed56118c6818",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/ddd588e4-64ad-4e43-b559-ed56118c6818",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/b3393e94-9e8f-43d5-aff6-0bcae861c622",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b3393e94-9e8f-43d5-aff6-0bcae861c622",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b3393e94-9e8f-43d5-aff6-0bcae861c622"
     }
   },
   "west-virginia": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/30052962-9f11-4481-bd1e-86991a6293aa",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/30052962-9f11-4481-bd1e-86991a6293aa",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/30052962-9f11-4481-bd1e-86991a6293aa"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/30052962-9f11-4481-bd1e-86991a6293aa",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0ab6e5ec-83b1-4bd4-a1bf-b4904cdb1657",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=10cd9154-f84b-4f63-994f-67d5345d4639",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=50604113-dc73-4f5b-b59b-2421811a0e5a"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/5dda7bdb-1c69-4138-b8e6-55400c6b7c9b",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/20502eeb-db3c-4a2f-8a15-638d1a86ef70",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/46d76e1d-8ab7-438a-abcd-4a086a044873",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/46d76e1d-8ab7-438a-abcd-4a086a044873",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/20502eeb-db3c-4a2f-8a15-638d1a86ef70",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/20502eeb-db3c-4a2f-8a15-638d1a86ef70",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/20502eeb-db3c-4a2f-8a15-638d1a86ef70"
     }
   },
   "wisconsin": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/0c85474f-1b4f-474f-ae7c-ca0fddf63012",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0c85474f-1b4f-474f-ae7c-ca0fddf63012",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0c85474f-1b4f-474f-ae7c-ca0fddf63012"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/0c85474f-1b4f-474f-ae7c-ca0fddf63012",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=de72c851-376b-4cf5-965c-aed9c4530bd8",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7096db11-7bf0-48df-9874-14df85eca2f6",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f91e21b6-4b73-48e6-b86e-4a0eac6fad82"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/cad3e302-4f84-447b-9b1d-b9c63847946e",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/3609af9c-9a4f-4e1e-b985-762ecec65bc6",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/df4bf9d2-388e-44ce-96da-43a3b8263563",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/df4bf9d2-388e-44ce-96da-43a3b8263563",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/3609af9c-9a4f-4e1e-b985-762ecec65bc6",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3609af9c-9a4f-4e1e-b985-762ecec65bc6",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3609af9c-9a4f-4e1e-b985-762ecec65bc6"
     }
   },
   "wyoming": {
     "prelicensing": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d7e646b5-cdc5-4977-b5bc-728404341fba",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d7e646b5-cdc5-4977-b5bc-728404341fba",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d7e646b5-cdc5-4977-b5bc-728404341fba"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/d7e646b5-cdc5-4977-b5bc-728404341fba",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=99e29148-ee9e-4c87-9a17-a46d7b0ba4df",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=051336b6-b91b-4c65-b679-e29b06b56e1a",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3a4c6b45-4c24-4e89-9841-d9051684cedc"
     },
     "continuing-education": {
-      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
-      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+      "category": "https://yourinsurancelicense.myabsorb.com/#/catalog/c038d38f-ddb0-47e8-9065-8131d1e81eb7",
+      "packages": "https://yourinsurancelicense.myabsorb.com/#/catalog/16b64c92-6301-4f94-8797-9ee167890c87",
+      "individual": "https://yourinsurancelicense.myabsorb.com/#/catalog/ac5da4d1-0668-40e0-988c-41bfde305d60",
+      "ethics": "https://yourinsurancelicense.myabsorb.com/#/catalog/ac5da4d1-0668-40e0-988c-41bfde305d60",
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/16b64c92-6301-4f94-8797-9ee167890c87",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/16b64c92-6301-4f94-8797-9ee167890c87",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/16b64c92-6301-4f94-8797-9ee167890c87"
     }
   }
 }

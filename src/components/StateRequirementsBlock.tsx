@@ -6,7 +6,8 @@ interface StateRequirementsBlockProps {
 }
 
 export default function StateRequirementsBlock({ stateData }: StateRequirementsBlockProps) {
-  const { name, doiName, doiUrl, examProvider, examProviderUrl, examBookingUrl, prelicensing, ce, examInfo, noCombinedExam, applicationBeforeExam } = stateData;
+  const { name, doiName, doiUrl, prelicensing, ce, examInfo, noCombinedExam, applicationBeforeExam } = stateData;
+  const { examProvider, examProviderUrl, examBookingUrl } = examInfo;
 
   return (
     <section className="bg-gray-bg py-16 px-4">
@@ -53,16 +54,16 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
             </h3>
             <ul className="space-y-2 text-sm">
               <li className="flex justify-between py-2 border-b border-gray-100">
-                <span className="text-gray-500">Life CE Hours</span>
-                <span className="font-semibold text-navy">{ce.life.hours} hrs / {ce.life.renewalYears} yr{ce.life.renewalYears > 1 ? "s" : ""}</span>
+                <span className="text-gray-500">Total CE Hours</span>
+                <span className="font-semibold text-navy">{ce.totalHours} hours</span>
               </li>
               <li className="flex justify-between py-2 border-b border-gray-100">
-                <span className="text-gray-500">Health CE Hours</span>
-                <span className="font-semibold text-navy">{ce.health.hours} hrs / {ce.health.renewalYears} yr{ce.health.renewalYears > 1 ? "s" : ""}</span>
+                <span className="text-gray-500">Renewal Period</span>
+                <span className="font-semibold text-navy">{ce.renewalPeriod}</span>
               </li>
               <li className="flex justify-between py-2">
-                <span className="text-gray-500">Life &amp; Health CE</span>
-                <span className="font-semibold text-navy">{ce.lifeAndHealth.hours} hrs / {ce.lifeAndHealth.renewalYears} yr{ce.lifeAndHealth.renewalYears > 1 ? "s" : ""}</span>
+                <span className="text-gray-500">Ethics Hours</span>
+                <span className="font-semibold text-navy">{ce.ethicsHours} hours required</span>
               </li>
             </ul>
           </div>
@@ -81,16 +82,16 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
                 <a href={examProviderUrl} target="_blank" rel="noopener noreferrer" className="font-semibold text-navy hover:text-gold transition-colors">{examProvider}</a>
               </li>
               <li className="flex justify-between py-2 border-b border-gray-100">
-                <span className="text-gray-500">Questions</span>
-                <span className="font-semibold text-navy">{examInfo.questions}</span>
-              </li>
-              <li className="flex justify-between py-2 border-b border-gray-100">
                 <span className="text-gray-500">Passing Score</span>
                 <span className="font-semibold text-navy">{examInfo.passingScore}%</span>
               </li>
+              <li className="flex justify-between py-2 border-b border-gray-100">
+                <span className="text-gray-500">Exam Fee</span>
+                <span className="font-semibold text-navy">${examInfo.examFee}</span>
+              </li>
               <li className="flex justify-between py-2">
-                <span className="text-gray-500">Time Limit</span>
-                <span className="font-semibold text-navy">{examInfo.timeLimit}</span>
+                <span className="text-gray-500">Results</span>
+                <span className="font-semibold text-navy">{examInfo.examResultsTiming}</span>
               </li>
             </ul>
             <a

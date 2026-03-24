@@ -4,7 +4,7 @@ import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
-import { getCEHubFAQs } from "@/lib/faq-data";
+import { getCEHubFAQs, buildFaqData } from "@/lib/faq-data";
 import StateHero from "@/components/StateHero";
 import LOASelector from "@/components/LOASelector";
 import FAQAccordion from "@/components/FAQAccordion";
@@ -26,7 +26,7 @@ export async function generateMetadata({
     pageType: "ce-hub",
     stateName: stateData.name,
     stateSlug: stateData.slug,
-    hours: stateData.ce.lifeAndHealth.hours,
+    hours: stateData.ce.totalHours,
   });
 }
 
@@ -40,11 +40,7 @@ export default async function CEHubPage({
   if (!stateData) notFound();
 
   const { ce } = stateData;
-  const faqs = getCEHubFAQs(
-    stateData.name,
-    ce.lifeAndHealth.hours,
-    ce.lifeAndHealth.renewalYears
-  );
+  const faqs = getCEHubFAQs(buildFaqData(stateData));
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -87,7 +83,7 @@ export default async function CEHubPage({
                 {stateData.name} CE Requirements
               </h2>
               <p className="text-gray-600 leading-relaxed mb-4">
-                {stateData.name} requires all licensed insurance producers to complete continuing education (CE) hours to renew their license every {ce.lifeAndHealth.renewalYears} year{ce.lifeAndHealth.renewalYears > 1 ? "s" : ""}. This ensures agents stay current with changing insurance products, regulations, and ethics requirements.
+                {stateData.name} requires all licensed insurance producers to complete continuing education (CE) hours to renew their license every {ce.renewalPeriod}. This ensures agents stay current with changing insurance products, regulations, and ethics requirements.
               </p>
               <p className="text-gray-600 leading-relaxed mb-4">
                 JustInsurance offers state-approved online CE courses that you can complete entirely at your own pace, on any device. When you finish, we report your completion directly to the {stateData.doiName} the same day — no paperwork, no delays.
@@ -105,16 +101,16 @@ export default async function CEHubPage({
               <h3 className="font-bold text-navy mb-4">CE Requirements Summary</h3>
               <ul className="space-y-3 text-sm">
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
-                  <span className="text-gray-500">Life CE Hours</span>
-                  <span className="font-bold text-navy">{ce.life.hours} hours every {ce.life.renewalYears} yr{ce.life.renewalYears > 1 ? "s" : ""}</span>
+                  <span className="text-gray-500">Total CE Hours</span>
+                  <span className="font-bold text-navy">{ce.totalHours} hours</span>
                 </li>
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
-                  <span className="text-gray-500">Health CE Hours</span>
-                  <span className="font-bold text-navy">{ce.health.hours} hours every {ce.health.renewalYears} yr{ce.health.renewalYears > 1 ? "s" : ""}</span>
+                  <span className="text-gray-500">Renewal Period</span>
+                  <span className="font-bold text-navy">{ce.renewalPeriod}</span>
                 </li>
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
-                  <span className="text-gray-500">Life &amp; Health CE</span>
-                  <span className="font-bold text-navy">{ce.lifeAndHealth.hours} hours every {ce.lifeAndHealth.renewalYears} yr{ce.lifeAndHealth.renewalYears > 1 ? "s" : ""}</span>
+                  <span className="text-gray-500">Ethics Hours Required</span>
+                  <span className="font-bold text-navy">{ce.ethicsHours} hours</span>
                 </li>
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                   <span className="text-gray-500">CE Reporting</span>

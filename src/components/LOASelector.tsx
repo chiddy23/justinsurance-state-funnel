@@ -15,7 +15,7 @@ interface LOACardData {
   slug: string;
   name: string;
   description: string;
-  hours: number;
+  hours: number | string;
   price: string;
   renewalYears?: number;
   pageHref: string;
@@ -68,9 +68,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             slug: "life",
             name: "Life Insurance CE",
             description: "Complete your life insurance continuing education requirements online. State-approved hours that keep your life license active and compliant.",
-            hours: stateData.ce.life.hours,
-            price: stateData.ce.life.price,
-            renewalYears: stateData.ce.life.renewalYears,
+            hours: stateData.ce.totalHours,
+            price: stateData.ce.packagePrice,
+            renewalYears: undefined,
             pageHref: `/${stateSlug}/continuing-education/life/`,
             enrollHref: getEnrollLink("life"),
           },
@@ -78,9 +78,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             slug: "health",
             name: "Health Insurance CE",
             description: "Complete your health insurance CE requirements online. Covers all required topics including ethics. Same-day reporting to your state DOI.",
-            hours: stateData.ce.health.hours,
-            price: stateData.ce.health.price,
-            renewalYears: stateData.ce.health.renewalYears,
+            hours: stateData.ce.totalHours,
+            price: stateData.ce.packagePrice,
+            renewalYears: undefined,
             pageHref: `/${stateSlug}/continuing-education/health/`,
             enrollHref: getEnrollLink("health"),
           },
@@ -88,9 +88,9 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             slug: "life-and-health",
             name: "Life & Health CE",
             description: "Fulfill the CE requirements for both your life and health licenses in one package. The most efficient way to renew your combined license.",
-            hours: stateData.ce.lifeAndHealth.hours,
-            price: stateData.ce.lifeAndHealth.price,
-            renewalYears: stateData.ce.lifeAndHealth.renewalYears,
+            hours: stateData.ce.totalHours,
+            price: stateData.ce.packagePrice,
+            renewalYears: undefined,
             pageHref: `/${stateSlug}/continuing-education/life-and-health/`,
             enrollHref: getEnrollLink("life-and-health"),
           },
@@ -133,10 +133,10 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                   <span className="text-gray-500 text-sm">Course Price</span>
                   <span className="text-navy font-bold">{card.price}</span>
                 </div>
-                {card.renewalYears && (
+                {courseType === "continuing-education" && (
                   <div className="flex justify-between items-center">
                     <span className="text-gray-500 text-sm">Renewal Cycle</span>
-                    <span className="text-navy font-bold">Every {card.renewalYears} yr{card.renewalYears > 1 ? "s" : ""}</span>
+                    <span className="text-navy font-bold">{stateData.ce.renewalPeriod}</span>
                   </div>
                 )}
               </div>

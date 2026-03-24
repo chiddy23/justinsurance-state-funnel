@@ -4,7 +4,7 @@ import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
-import { getPrelicensingHubFAQs } from "@/lib/faq-data";
+import { getPrelicensingHubFAQs, buildFaqData } from "@/lib/faq-data";
 import StateHero from "@/components/StateHero";
 import LOASelector from "@/components/LOASelector";
 import PassGuarantee from "@/components/PassGuarantee";
@@ -27,7 +27,7 @@ export async function generateMetadata({
     pageType: "prelicensing-hub",
     stateName: stateData.name,
     stateSlug: stateData.slug,
-    hours: stateData.prelicensing.lifeAndHealth.hours,
+    hours: typeof stateData.prelicensing.lifeAndHealth.hours === "number" ? stateData.prelicensing.lifeAndHealth.hours : undefined,
   });
 }
 
@@ -40,10 +40,7 @@ export default async function PrelicensingHubPage({
   const stateData = getStateBySlug(state);
   if (!stateData) notFound();
 
-  const faqs = getPrelicensingHubFAQs(
-    stateData.name,
-    stateData.prelicensing.lifeAndHealth.hours
-  );
+  const faqs = getPrelicensingHubFAQs(buildFaqData(stateData));
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -89,7 +86,7 @@ export default async function PrelicensingHubPage({
                 JustInsurance&apos;s {stateData.name} prelicensing courses are fully online and self-paced. You can study on any device, at any time. There are no live sessions to attend — just work through the lessons at your own pace and move on when you&apos;re ready.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                Once you complete the required hours and pass the course assessments, you&apos;ll receive an official certificate of completion. Present that certificate to schedule your {stateData.name} state licensing exam with {stateData.examProvider}.
+                Once you complete the required hours and pass the course assessments, you&apos;ll receive an official certificate of completion. Present that certificate to schedule your {stateData.name} state licensing exam with {stateData.examInfo.examProvider}.
               </p>
             </div>
             <div className="space-y-4">
@@ -97,7 +94,7 @@ export default async function PrelicensingHubPage({
                 { step: "1", title: "Enroll Online", desc: "Choose your line of authority and enroll in minutes. Instant access to all course materials." },
                 { step: "2", title: "Study at Your Pace", desc: `Complete ${stateData.prelicensing.lifeAndHealth.hours} hours of video lessons, readings, and quizzes on any device.` },
                 { step: "3", title: "Earn Your Certificate", desc: "Pass the course assessments to receive your official certificate of completion from JustInsurance." },
-                { step: "4", title: "Pass the State Exam", desc: `Schedule and pass the ${stateData.name} licensing exam with ${stateData.examProvider}, then apply for your license.` },
+                { step: "4", title: "Pass the State Exam", desc: `Schedule and pass the ${stateData.name} licensing exam with ${stateData.examInfo.examProvider}, then apply for your license.` },
               ].map((item) => (
                 <div key={item.step} className="flex items-start gap-4 bg-gray-bg rounded-lg p-4">
                   <div className="w-8 h-8 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
@@ -147,7 +144,7 @@ export default async function PrelicensingHubPage({
                 step: "3",
                 icon: "🎓",
                 title: "Pass the State Exam",
-                desc: `Schedule and pass the ${stateData.name} exam at a ${stateData.examProvider} testing center.`,
+                desc: `Schedule and pass the ${stateData.name} exam at a ${stateData.examInfo.examProvider} testing center.`,
               },
               {
                 step: "4",

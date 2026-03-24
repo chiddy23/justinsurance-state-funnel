@@ -4,7 +4,7 @@ import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
-import { getStateHubFAQs } from "@/lib/faq-data";
+import { getStateHubFAQs, buildFaqData } from "@/lib/faq-data";
 import StateHero from "@/components/StateHero";
 import TrustBar from "@/components/TrustBar";
 import TwoPathSelector from "@/components/TwoPathSelector";
@@ -42,7 +42,7 @@ export default async function StateHubPage({
   const stateData = getStateBySlug(state);
   if (!stateData) notFound();
 
-  const faqs = getStateHubFAQs(stateData.name, stateData.abbreviation);
+  const faqs = getStateHubFAQs(buildFaqData(stateData));
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },

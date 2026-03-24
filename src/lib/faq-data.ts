@@ -1,65 +1,208 @@
+import type { StateData } from "@/lib/states";
+
 export interface FAQ {
   question: string;
   answer: string;
 }
 
+export interface StateDataForFAQ {
+  name: string;
+  abbreviation: string;
+  doiName: string;
+  doiPhone: string;
+  doiUrl: string;
+  minAge: number;
+  residencyRequirement: string;
+  backgroundRequirement: string;
+  fingerprintRequirement: string;
+  applicationProcess: string;
+  applicationFee: string;
+  totalCostRange: string;
+  totalLicensingTime: string;
+  passingScore: number;
+  passRate: string;
+  examProvider: string;
+  examFee: string;
+  retakeWaitingPeriod: string;
+  retakeLimitInfo: string;
+  licenseDuration: string;
+  avgIncome: string;
+  firstYearIncome: string;
+  topProducerIncome: string;
+  jobGrowth: string;
+  reciprocityInfo: string;
+  sponsorshipRequirement: string;
+  // Prelicensing
+  lifeHours: string | number;
+  healthHours: string | number;
+  combinedHours: string | number;
+  lifePrice: string;
+  healthPrice: string;
+  combinedPrice: string;
+  combinedSavings: string;
+  courseAccessDays: string;
+  // CE
+  ceTotalHours: number;
+  ceRenewalPeriod: string;
+  ceEthicsHours: number;
+  cePackagePrice: string;
+}
+
+/**
+ * Build the rich StateDataForFAQ object from a StateData record.
+ * All data lives in states.ts — no secondary JSON import required.
+ */
+export function buildFaqData(stateData: StateData): StateDataForFAQ {
+  return {
+    name: stateData.name,
+    abbreviation: stateData.abbreviation,
+    doiName: stateData.doiName,
+    doiPhone: stateData.doiPhone,
+    doiUrl: stateData.doiUrl,
+    minAge: stateData.minAge,
+    residencyRequirement: stateData.residencyRequirement,
+    backgroundRequirement: stateData.backgroundRequirement,
+    fingerprintRequirement: stateData.fingerprintRequirement,
+    applicationProcess: stateData.applicationProcess,
+    applicationFee: stateData.applicationFee,
+    totalCostRange: stateData.totalCostRange,
+    totalLicensingTime: stateData.totalLicensingTime,
+    passingScore: stateData.examInfo.passingScore,
+    passRate: stateData.examInfo.passRate,
+    examProvider: stateData.examInfo.examProvider,
+    examFee: stateData.examInfo.examFee,
+    retakeWaitingPeriod: stateData.examInfo.retakeWaitingPeriod,
+    retakeLimitInfo: stateData.examInfo.retakeLimitInfo,
+    licenseDuration: stateData.licenseDuration,
+    avgIncome: stateData.avgIncome,
+    firstYearIncome: stateData.firstYearIncome,
+    topProducerIncome: stateData.topProducerIncome,
+    jobGrowth: stateData.jobGrowth,
+    reciprocityInfo: stateData.reciprocityInfo,
+    sponsorshipRequirement: stateData.sponsorshipRequirement,
+    lifeHours: stateData.prelicensing.life.hours,
+    healthHours: stateData.prelicensing.health.hours,
+    combinedHours: stateData.prelicensing.lifeAndHealth.hours,
+    lifePrice: stateData.prelicensing.life.price.replace("$", ""),
+    healthPrice: stateData.prelicensing.health.price.replace("$", ""),
+    combinedPrice: stateData.prelicensing.lifeAndHealth.price.replace("$", ""),
+    combinedSavings: stateData.combinedSavings,
+    courseAccessDays: stateData.courseAccessDays,
+    ceTotalHours: stateData.ce.totalHours,
+    ceRenewalPeriod: stateData.ce.renewalPeriod,
+    ceEthicsHours: stateData.ce.ethicsHours,
+    cePackagePrice: stateData.ce.packagePrice,
+  };
+}
+
+// ─── Internal helpers ─────────────────────────────────────────────────────────
+
+// Ensures a dollar value has exactly one $ prefix (handles "50", "$50", "$39")
+function $(val: string): string {
+  const s = val.toString().trim();
+  return s.startsWith("$") ? s : `$${s}`;
+}
+
+// Returns true when the state does not require prelicensing hours for a given LOA
+function isPleNotRequired(hours: string | number): boolean {
+  if (typeof hours === "number") return false;
+  const lower = hours.toLowerCase();
+  return (
+    lower.includes("not required") ||
+    lower.includes("none required") ||
+    lower.includes("no ") ||
+    lower === "0"
+  );
+}
+
+// Returns a readable hours string, e.g. "40 hours" or "Not Required"
+function formatHours(hours: string | number): string {
+  if (typeof hours === "number") return `${hours} hours`;
+  if (isPleNotRequired(hours)) return "Not Required";
+  if (hours.toString().toLowerCase().includes("hour")) return hours.toString();
+  return `${hours} hours`;
+}
+
+// ─── FAQ generators ───────────────────────────────────────────────────────────
+
 /**
  * FAQs for state hub pages (/[state]/)
  * Targets queries like "how to get [state] insurance license"
  */
-export function getStateHubFAQs(stateName: string, stateAbbrev: string): FAQ[] {
+export function getStateHubFAQs(data: StateDataForFAQ): FAQ[] {
+  const combinedIsRequired = !isPleNotRequired(data.combinedHours);
+  const pleStep = combinedIsRequired
+    ? `complete a state-approved prelicensing course (${formatHours(data.combinedHours)} for the combined Life & Health line)`
+    : `prepare for your exam — ${data.name} does not require a formal prelicensing course, though most candidates strongly recommend taking one`;
+
   return [
     {
-      question: `How do I get an insurance license in ${stateName}?`,
-      answer: `To get an insurance license in ${stateName}, you must complete a state-approved prelicensing education course, pass the ${stateAbbrev} state insurance licensing exam, and submit a license application through the National Insurance Producer Registry (NIPR) or directly to the ${stateName} Department of Insurance. Most candidates complete the entire process in four to eight weeks. JustInsurance offers fully online, self-paced prelicensing courses that meet all ${stateName} requirements and prepare you thoroughly for the state exam.`,
+      question: `How do I get my ${data.name} insurance license?`,
+      answer: `Getting your ${data.name} insurance license involves four steps. First, ${pleStep}. Second, pass the ${data.name} state licensing exam administered by ${data.examProvider} — you need a score of at least ${data.passingScore}% to pass. Third, complete a background check${data.fingerprintRequirement.toLowerCase().includes("not required") || data.fingerprintRequirement.toLowerCase().includes("no finger") ? "" : ", including fingerprinting"}. Fourth, ${data.applicationProcess} and pay the ${data.doiName} application fee of ${$(data.applicationFee)}. Most candidates complete the entire process in ${data.totalLicensingTime}. JustInsurance offers fully online, self-paced prelicensing courses approved for ${data.name} that get you to exam day confident and prepared.`,
     },
     {
-      question: `What types of insurance licenses are available in ${stateName}?`,
-      answer: `${stateName} issues licenses by line of authority (LOA). The most common lines for individual agents are Life Insurance, Health Insurance, and the combined Life & Health Insurance license. Most new agents pursue the combined Life & Health license because it unlocks the widest range of products—from term life and annuities to major medical, Medicare Supplement, and long-term care—with a single exam and license application.`,
+      question: `How much does it cost to get a ${data.name} insurance license?`,
+      answer: `The total cost to get your ${data.name} insurance license typically runs ${data.totalCostRange}. Here is how it breaks down: the ${data.examProvider} exam fee is ${$(data.examFee)}, the ${data.doiName} application fee is ${$(data.applicationFee)}${data.backgroundRequirement.toLowerCase().includes("required") ? ", and a background check adds a small additional cost" : ""}. If you need a prelicensing course, JustInsurance's ${data.name} combined Life & Health package is ${$(data.combinedPrice)} — that's ${$(data.combinedSavings)} less than purchasing Life and Health courses separately. Everything you need to get licensed, with no hidden fees.`,
     },
     {
-      question: `Do I need a background check to get an insurance license in ${stateName}?`,
-      answer: `Yes. ${stateName} requires all license applicants to disclose criminal history and consent to a background check as part of the application process. Certain felony convictions—particularly those involving dishonesty, fraud, or breach of trust—may disqualify an applicant or require additional review. Minor or older offenses do not automatically prevent licensure. If you have a prior conviction, it is best to review the ${stateName} Department of Insurance guidance or consult an attorney before investing in prelicensing education.`,
+      question: `How long does it take to get licensed in ${data.name}?`,
+      answer: `Most focused candidates complete the ${data.name} insurance licensing process in ${data.totalLicensingTime}. That timeframe covers${combinedIsRequired ? ` finishing your prelicensing course (you get ${data.courseAccessDays} days of access; most students finish in 5–10 days),` : ""} scheduling and passing the ${data.examProvider} state exam, clearing your background check, and waiting for the ${data.doiName} to process your application. The ${data.examProvider} exam delivers results quickly — most candidates receive their score before leaving the testing center. JustInsurance's self-paced format lets you move as fast or as steady as your schedule allows.`,
     },
     {
-      question: `How long does it take to get an insurance license in ${stateName}?`,
-      answer: `Most motivated candidates complete the ${stateName} insurance licensing process in four to eight weeks. This includes finishing your prelicensing course (typically one to three weeks studying at your own pace), scheduling and passing the state exam, and waiting for your license application to be processed—usually two to five business days when submitted online. JustInsurance courses are built for efficiency, so you can move as fast or as steady as your schedule allows.`,
+      question: `What is the ${data.name} insurance exam pass rate?`,
+      answer: `The ${data.name} insurance licensing exam has an overall first-attempt pass rate of around ${data.passRate}%. The exam is administered by ${data.examProvider} and requires a minimum score of ${data.passingScore}% to pass. Candidates who complete a thorough prelicensing course perform significantly better than those who attempt the exam without preparation. If you do not pass on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} JustInsurance includes a full-length practice exam that mirrors the actual ${data.examProvider} question format, so you know exactly what to expect on test day.`,
     },
     {
-      question: `How much does it cost to get an insurance license in ${stateName}?`,
-      answer: `The total cost of getting an insurance license in ${stateName} typically includes three components: the prelicensing course fee (JustInsurance courses start at $199), the state exam registration fee (usually $40–$80 depending on the exam provider), and the license application fee charged by the ${stateName} Department of Insurance (typically $25–$150 depending on the line of authority). Budget roughly $300–$500 in total before you take your first client.`,
+      question: `How much do insurance agents make in ${data.name}?`,
+      answer: `Insurance agents in ${data.name} earn an average of ${data.avgIncome} per year according to Bureau of Labor Statistics data. New agents starting out typically earn around ${data.firstYearIncome} in their first year while building a client base, and top producers in ${data.name} can earn ${data.topProducerIncome} or more annually. The ${data.name} insurance market is growing at approximately ${data.jobGrowth}%, keeping demand for new producers strong. Income is heavily influenced by the lines of authority you hold and whether you work as a captive or independent agent — the combined Life & Health license unlocks the broadest product range and highest earning potential.`,
     },
   ];
 }
 
 /**
  * FAQs for prelicensing hub pages (/[state]/prelicensing/)
- * Targets queries like "how many hours of prelicensing does [state] require"
+ * Targets queries like "[state] insurance prelicensing requirements"
  */
-export function getPrelicensingHubFAQs(
-  stateName: string,
-  prelicensingHours: number
-): FAQ[] {
+export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
+  const lifeRequired = !isPleNotRequired(data.lifeHours);
+  const healthRequired = !isPleNotRequired(data.healthHours);
+  const combinedRequired = !isPleNotRequired(data.combinedHours);
+
+  let hoursAnswer: string;
+  if (!lifeRequired && !healthRequired) {
+    hoursAnswer = `${data.name} does not mandate prelicensing education hours before sitting for the state insurance exam — you can schedule your ${data.examProvider} exam directly without completing a formal course. That said, the exam covers complex insurance law, policy types, and ${data.name}-specific regulations. Candidates who use a structured course consistently outperform those who attempt it unprepared. JustInsurance offers ${data.name} exam-prep courses to help you pass on your first try.`;
+  } else {
+    const parts: string[] = [];
+    if (lifeRequired) parts.push(`Life Insurance: ${formatHours(data.lifeHours)}`);
+    if (healthRequired) parts.push(`Health Insurance: ${formatHours(data.healthHours)}`);
+    if (combinedRequired) parts.push(`Life & Health (combined): ${formatHours(data.combinedHours)}`);
+    hoursAnswer = `${data.name} requires the following prelicensing education hours before you can sit for the state exam: ${parts.join("; ")}. These hours must be completed through a ${data.doiName}-approved provider. JustInsurance is an approved provider and our courses are certified to meet ${data.name}'s exact hour requirements for each line of authority.`;
+  }
+
+  const pleBeforeExamAnswer = combinedRequired
+    ? `Yes. ${data.name} requires proof of course completion before you can register for the state licensing exam through ${data.examProvider}. You must finish your approved prelicensing course, receive your certificate of completion, and submit it when scheduling your exam. You cannot sit for the ${data.name} exam without first satisfying the prelicensing hour requirement.`
+    : `${data.name} does not require a prelicensing certificate to schedule your exam through ${data.examProvider} — you can register at any time. However, passing the ${data.name} licensing exam without structured preparation is significantly harder. JustInsurance strongly recommends completing a prelicensing course before your exam date regardless of the state requirement.`;
+
   return [
     {
-      question: `How many prelicensing hours does ${stateName} require?`,
-      answer: `${stateName} requires candidates to complete a minimum of ${prelicensingHours} hours of approved prelicensing education before they can sit for the state insurance licensing exam. This requirement applies to the combined Life & Health line of authority. Individual Life-only or Health-only courses typically require fewer hours. JustInsurance courses are certified to meet the exact ${stateName} hour requirement for each line.`,
+      question: `How many hours of prelicensing does ${data.name} require?`,
+      answer: hoursAnswer,
     },
     {
-      question: `Can I take my ${stateName} insurance prelicensing course online?`,
-      answer: `Yes. ${stateName} approves online, self-paced prelicensing courses, and that is exactly what JustInsurance offers. You can study on your laptop, tablet, or phone—at home, on your lunch break, or anywhere with an internet connection. There are no scheduled live sessions to attend. You simply work through the course material, pass the built-in chapter quizzes, and complete the final exam to earn your certificate of completion, which you then submit to the state exam provider to schedule your licensing exam.`,
+      question: `Can I complete ${data.name} insurance prelicensing online?`,
+      answer: `Yes. ${data.name} approves online, self-paced prelicensing education, and that is exactly what JustInsurance provides. You can study on any device — laptop, tablet, or phone — from anywhere with an internet connection. There are no scheduled live sessions or fixed class times. Your enrollment gives you ${data.courseAccessDays} days of full course access, and most students complete the material in just 5–10 days. Once you finish, you receive a state-recognized certificate of completion immediately through the platform.`,
     },
     {
-      question: `What topics are covered in the ${stateName} insurance prelicensing course?`,
-      answer: `The ${stateName} prelicensing curriculum covers the foundational concepts every licensed insurance producer must know: insurance principles and contract law, types of life insurance policies (term, whole life, universal life, variable products), annuities, health insurance products (major medical, disability income, long-term care, Medicare), ${stateName}-specific insurance regulations and statutes, agent ethics and the Unfair Trade Practices Act, and policy provisions and riders. The final portion of the exam closely follows these topics, so mastering the course content is the best exam preparation.`,
+      question: `What does ${data.name} insurance prelicensing cover?`,
+      answer: `The ${data.name} prelicensing curriculum is organized around the specific lines of authority you plan to obtain. Life Insurance courses cover term life, whole life, universal life, variable products, annuities, policy provisions and riders, beneficiary designations, and underwriting basics. Health Insurance courses cover major medical, disability income, long-term care, Medicare Supplement, Medicaid, and group health. Both tracks include ${data.name}-specific insurance statutes and regulations, producer ethics, the Unfair Trade Practices Act, and state-mandated consumer protections. The combined Life & Health course covers all of the above in a single enrollment.`,
     },
     {
-      question: `How long does the ${stateName} insurance prelicensing course take to complete?`,
-      answer: `The time it takes depends on your study pace and prior familiarity with insurance concepts. Most students complete the ${stateName} prelicensing course in one to three weeks studying one to two hours per day. Because JustInsurance courses are fully self-paced, you can accelerate through sections you already know and spend more time on unfamiliar topics. There is no expiration deadline during your enrollment period, so you can take the time you need to feel truly prepared before you sit for the state exam.`,
+      question: `Do I need to finish prelicensing before taking the ${data.name} exam?`,
+      answer: pleBeforeExamAnswer,
     },
     {
-      question: `Does my ${stateName} prelicensing certificate expire?`,
-      answer: `Yes. In most states, including ${stateName}, a prelicensing certificate of completion is valid for a limited window—typically 12 months from the date of issuance—within which you must pass the state exam and apply for your license. If your certificate expires before you complete the process, you may be required to retake the prelicensing course. JustInsurance recommends scheduling your state exam promptly after you finish your course to avoid any expiration issues.`,
+      question: `How much does ${data.name} insurance prelicensing cost?`,
+      answer: `JustInsurance offers the following ${data.name} prelicensing courses: Life Insurance at ${$(data.lifePrice)}, Health Insurance at ${$(data.healthPrice)}, and the combined Life & Health package at ${$(data.combinedPrice)}. Buying the combined course saves you ${$(data.combinedSavings)} versus purchasing both individually. Every course includes all required hour content, chapter quizzes, a full-length practice exam, and your official certificate of completion — no hidden fees, no required add-ons. Your ${data.courseAccessDays}-day access window starts the moment you enroll.`,
     },
   ];
 }
@@ -68,31 +211,27 @@ export function getPrelicensingHubFAQs(
  * FAQs for CE hub pages (/[state]/continuing-education/)
  * Targets queries like "[state] insurance CE requirements" and renewal cycles
  */
-export function getCEHubFAQs(
-  stateName: string,
-  ceHours: number,
-  renewalYears: number
-): FAQ[] {
+export function getCEHubFAQs(data: StateDataForFAQ): FAQ[] {
   return [
     {
-      question: `What are the continuing education requirements for insurance agents in ${stateName}?`,
-      answer: `${stateName} requires licensed insurance producers to complete ${ceHours} hours of approved continuing education (CE) every ${renewalYears} year${renewalYears > 1 ? "s" : ""} to maintain an active license. A portion of those hours must typically cover ethics topics as mandated by state regulation. CE must be completed through an approved provider before your license renewal deadline. JustInsurance offers state-approved online CE courses that you can complete at your own pace—no classrooms or live sessions required.`,
+      question: `How many CE hours does ${data.name} require for insurance license renewal?`,
+      answer: `${data.name} requires ${data.ceTotalHours} hours of continuing education (CE) every ${data.ceRenewalPeriod} to maintain an active insurance producer license. Of those ${data.ceTotalHours} hours, ${data.ceEthicsHours} must specifically cover ethics and professional conduct — this is a mandatory component, not optional. All CE must be completed through a ${data.doiName}-approved provider before your license renewal deadline. JustInsurance is an approved provider and offers a complete ${data.ceTotalHours}-hour CE package for ${data.cePackagePrice}, including the required ethics hours.`,
     },
     {
-      question: `When do I need to renew my insurance license in ${stateName}?`,
-      answer: `${stateName} insurance licenses must be renewed every ${renewalYears} year${renewalYears > 1 ? "s" : ""}. Your renewal deadline is typically tied to your birth month or the anniversary of your original license issue date—check your ${stateName} Department of Insurance account for your exact deadline. You must complete all required CE hours and submit your renewal application before the deadline to avoid a lapse in licensure. JustInsurance recommends completing your CE at least 30 days before your renewal date.`,
+      question: `How much does ${data.name} insurance CE cost?`,
+      answer: `JustInsurance offers a complete ${data.name} CE package — covering all ${data.ceTotalHours} required hours including the ${data.ceEthicsHours}-hour ethics requirement — for ${data.cePackagePrice}. This is a flat-fee bundle with no per-course upsells or surprise charges. Individual CE courses are also available for agents who need only specific topics to round out their renewal hours. Every purchase includes immediate online access, self-paced completion, and automatic CE credit reporting to the ${data.doiName} on your behalf.`,
     },
     {
-      question: `Can I complete my ${stateName} insurance CE online?`,
-      answer: `Yes. ${stateName} approves online CE courses, and JustInsurance provides a full catalog of self-paced online CE courses that meet all state requirements. You can start and stop at any time, pick up where you left off, and complete your hours on any device. Once you finish a course, JustInsurance reports your completion directly to the state on your behalf, so your CE credit is recorded automatically without any extra steps on your part.`,
+      question: `Can I complete my ${data.name} insurance CE online?`,
+      answer: `Yes. ${data.name} approves online CE courses, and JustInsurance provides a full catalog of self-paced courses that meet all ${data.doiName} requirements. You can study on any device, pause and resume whenever you need to, and complete your ${data.ceTotalHours}-hour requirement in a single sitting or spread across multiple sessions. Once you finish each course, JustInsurance reports your completion electronically to the ${data.doiName} — you do not need to mail certificates or manually update your license record.`,
     },
     {
-      question: `What topics can count toward my ${stateName} CE requirement?`,
-      answer: `Approved CE topics in ${stateName} include ethics and professional conduct (typically required as a mandatory subset of total hours), life insurance products and regulations, health insurance products, Medicare and Medicaid, long-term care, annuities, ${stateName} insurance statutes and regulations, flood insurance, and more. JustInsurance offers courses across all approved topic areas, so you can choose subjects that are relevant to your practice and complete your ${ceHours}-hour requirement efficiently.`,
+      question: `What happens if I don't complete my ${data.name} CE on time?`,
+      answer: `If you fail to complete your ${data.ceTotalHours} CE hours and renew your license before your deadline, your ${data.name} insurance license will lapse. A lapsed license means you cannot legally sell, solicit, or negotiate insurance until it is reinstated. Reinstatement typically requires paying a late fee, submitting a reinstatement application to the ${data.doiName}, and in some cases completing additional CE hours beyond the standard ${data.ceTotalHours}. A lapsed license can also interrupt your commission flow and harm your carrier appointments. JustInsurance makes it easy to finish your hours well before your deadline — the entire ${data.cePackagePrice} package can be completed in a single day if needed.`,
     },
     {
-      question: `What happens if I miss my ${stateName} insurance license renewal deadline?`,
-      answer: `If you fail to complete your CE and renew your license before the ${stateName} deadline, your license will lapse. A lapsed license means you cannot legally sell or solicit insurance until your license is reinstated. ${stateName} typically offers a grace period or reinstatement window, but it may require additional fees, a reinstatement application, and in some cases completing additional CE hours. Letting your license lapse can also affect your ability to receive commissions. Complete your CE early to avoid this situation—JustInsurance makes it easy to finish in a single weekend if needed.`,
+      question: `Does ${data.name} require ethics CE hours?`,
+      answer: `Yes. ${data.name} mandates that ${data.ceEthicsHours} of your ${data.ceTotalHours} required CE hours specifically cover ethics and professional conduct. This is not optional — you must satisfy the ethics component separately from general CE hours, and the ${data.doiName} tracks it independently. Failing to complete the ethics hours is treated the same as failing to complete your total CE requirement. JustInsurance's ${data.cePackagePrice} CE package includes a fully approved ${data.ceEthicsHours}-hour ethics course, so your entire renewal requirement is covered in one purchase.`,
     },
   ];
 }
@@ -102,31 +241,38 @@ export function getCEHubFAQs(
  * Targets queries like "[state] [LOA] prelicensing course cost" and exam specifics
  */
 export function getPrelicensingCourseFAQs(
-  stateName: string,
+  data: StateDataForFAQ,
   loaName: string,
-  hours: number,
+  hours: string | number,
   price: string
 ): FAQ[] {
+  const hoursNotRequired = isPleNotRequired(hours);
+  const hoursDisplay = formatHours(hours);
+
+  const lengthAnswer = hoursNotRequired
+    ? `${data.name} does not impose a minimum hour requirement for ${loaName} prelicensing. However, the JustInsurance ${data.name} ${loaName} course is structured to cover every topic tested on the ${data.examProvider} exam. You get ${data.courseAccessDays} days of access from enrollment, and most students work through the full course in 5–10 days at a comfortable pace — no mandatory session times and no live classes to attend.`
+    : `The ${data.name} ${loaName} prelicensing course requires ${hoursDisplay} of state-approved education before you can sit for the licensing exam. JustInsurance's course is certified by the ${data.doiName} to fulfill this exact requirement. All ${hoursDisplay} are delivered through structured video lessons, reading materials, and chapter quizzes that you complete at your own pace. You have ${data.courseAccessDays} days of access from the day you enroll, and most students finish well within the first two weeks.`;
+
   return [
     {
-      question: `How many hours is the ${stateName} ${loaName} prelicensing course?`,
-      answer: `The ${stateName} ${loaName} prelicensing course requires ${hours} hours of approved education. This is the minimum required by the ${stateName} Department of Insurance before you can schedule your state licensing exam. The JustInsurance ${stateName} ${loaName} course is certified to fulfill this exact requirement. The ${hours} hours are delivered through video lessons, reading materials, and chapter quizzes that you complete at your own pace online.`,
+      question: `How long is the ${data.name} ${loaName} prelicensing course?`,
+      answer: lengthAnswer,
     },
     {
-      question: `How much does the ${stateName} ${loaName} prelicensing course cost?`,
-      answer: `The JustInsurance ${stateName} ${loaName} prelicensing course is priced at ${price}. This includes full access to all ${hours} hours of course content, chapter review quizzes, a comprehensive practice exam that mirrors the format of the actual state exam, and your official certificate of completion—everything you need to get exam-ready in one purchase, with no hidden fees.`,
+      question: `What is the pass rate for the ${data.name} ${loaName} exam?`,
+      answer: `The ${data.name} ${loaName} licensing exam, administered by ${data.examProvider}, has an overall first-attempt pass rate of approximately ${data.passRate}%. You need a score of at least ${data.passingScore}% to pass. Candidates who sit for the exam without structured preparation tend to struggle most with the ${data.name}-specific insurance law and regulation questions. JustInsurance's course includes a full-length practice exam modeled on the actual ${data.examProvider} content outline, so you can benchmark your readiness before you walk into the testing center.`,
     },
     {
-      question: `What does the ${stateName} ${loaName} insurance exam cover?`,
-      answer: `The ${stateName} ${loaName} insurance licensing exam covers the core knowledge required to sell ${loaName.toLowerCase()} products professionally. Expect questions on policy types and provisions, riders and exclusions, underwriting basics, beneficiary designations, claims procedures, state-specific ${stateName} insurance laws and regulations, producer conduct and ethics, and the Unfair Trade Practices Act. JustInsurance's course content maps directly to the official ${stateName} exam content outline so you study exactly what will be tested.`,
+      question: `What happens if I fail the ${data.name} ${loaName} exam?`,
+      answer: `If you do not pass the ${data.name} ${loaName} exam on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} Each retake requires paying the ${$(data.examFee)} exam fee again to ${data.examProvider}. JustInsurance recommends reviewing your score report after a failed attempt to identify weak areas, then spending additional time on those topics before rescheduling. Your JustInsurance course access remains active throughout your ${data.courseAccessDays}-day enrollment window, so you can review material at no extra cost.`,
     },
     {
-      question: `How hard is the ${stateName} ${loaName} insurance licensing exam?`,
-      answer: `The ${stateName} ${loaName} licensing exam is challenging for unprepared candidates, but very passable with the right preparation. First-time pass rates nationwide hover around 50–60% for candidates who take the exam without adequate study. Candidates who complete a thorough prelicensing course like the one offered by JustInsurance see significantly higher pass rates because they've reviewed all tested content and practiced with exam-style questions before test day. The key is not to rush—take the full practice exam before scheduling your real exam and aim for consistent scores above 75%.`,
+      question: `Is the JustInsurance ${data.name} ${loaName} course state-approved?`,
+      answer: `Yes. The JustInsurance ${data.name} ${loaName} prelicensing course is approved by the ${data.doiName} and meets all state education requirements for the ${loaName} line of authority. Upon completing the course, you receive an official certificate of completion that ${data.examProvider} accepts for exam registration. JustInsurance maintains active approval status with the ${data.doiName} and updates course content whenever ${data.name} insurance law or exam content outlines change.`,
     },
     {
-      question: `How long do I have access to the JustInsurance ${stateName} ${loaName} prelicensing course?`,
-      answer: `Once you enroll in the JustInsurance ${stateName} ${loaName} prelicensing course, you have access until you pass your state exam and receive your license—or for a full 12 months, whichever comes first. This gives you ample time to study without feeling rushed. If you have any questions along the way, JustInsurance support is available to help you get unstuck. Most students complete the course well within the first two to four weeks of enrollment.`,
+      question: `What's included in the ${data.name} ${loaName} prelicensing course?`,
+      answer: `The JustInsurance ${data.name} ${loaName} prelicensing course at ${$(price)} includes everything you need in a single purchase: ${hoursNotRequired ? "comprehensive" : hoursDisplay + " of"} state-approved course content organized by exam topic, chapter-by-chapter review quizzes to reinforce key concepts, a full-length practice exam that mirrors the format and difficulty of the actual ${data.examProvider} exam, ${data.courseAccessDays} days of unlimited access across all your devices, and your official state-recognized certificate of completion issued immediately when you finish. There are no hidden fees, no required textbooks, and no add-on costs.`,
     },
   ];
 }
@@ -136,31 +282,30 @@ export function getPrelicensingCourseFAQs(
  * Targets queries about CE hour requirements, renewal cycles, and online options
  */
 export function getCECourseFAQs(
-  stateName: string,
+  data: StateDataForFAQ,
   loaName: string,
-  hours: number,
-  renewalYears: number
+  hours: number
 ): FAQ[] {
   return [
     {
-      question: `How many CE hours do I need for my ${stateName} ${loaName} license?`,
-      answer: `${stateName} requires ${hours} continuing education hours every ${renewalYears} year${renewalYears > 1 ? "s" : ""} to renew a ${loaName} license. Some of those hours must cover ethics as a mandatory component. JustInsurance offers a complete ${stateName} ${loaName} CE package that meets all ${hours}-hour requirements with courses approved directly by the ${stateName} Department of Insurance.`,
+      question: `How many ${loaName} CE hours does ${data.name} require?`,
+      answer: `${data.name} requires ${data.ceTotalHours} total CE hours every ${data.ceRenewalPeriod} to renew any active insurance producer license, including the ${loaName} line. Of those ${data.ceTotalHours} hours, ${data.ceEthicsHours} must specifically cover ethics and professional conduct. The JustInsurance ${data.name} ${loaName} CE course covers ${hours} hours toward that total. If you want to satisfy your full ${data.ceTotalHours}-hour renewal requirement in one purchase, JustInsurance's complete CE package at ${data.cePackagePrice} bundles all required hours — including the mandatory ethics component.`,
     },
     {
-      question: `Can I complete my ${stateName} ${loaName} CE requirement entirely online?`,
-      answer: `Yes. JustInsurance's ${stateName} ${loaName} CE courses are 100% online and self-paced. You can complete your ${hours} required hours from any device, at any time that fits your schedule. There are no live sessions, no commutes to a classroom, and no rigid deadlines within the course itself. Once you finish, JustInsurance reports your completion electronically to ${stateName} so your CE credit appears on your license record automatically.`,
+      question: `How long do I have to complete my ${data.name} CE?`,
+      answer: `Your ${data.name} insurance license renews on a ${data.ceRenewalPeriod} cycle, and all ${data.ceTotalHours} CE hours must be completed before your renewal deadline. Your specific deadline is tied to your license issue date or birth month — log in to your ${data.doiName} producer portal to confirm the exact date. JustInsurance recommends finishing your CE at least 30 days before your renewal date to allow time for electronic reporting to process. If you are cutting it close, the JustInsurance ${data.name} CE course can be completed in a single day.`,
     },
     {
-      question: `When should I complete my ${stateName} ${loaName} CE before my license renewal?`,
-      answer: `Your CE must be completed and reported to ${stateName} before your license renewal deadline, which falls every ${renewalYears} year${renewalYears > 1 ? "s" : ""}. JustInsurance recommends finishing your CE at least 30 days before your renewal date to allow time for completion records to be processed and to handle any unexpected issues. Waiting until the last week is risky—if there's a reporting delay or you need to retake a course assessment, you could miss your deadline and face a license lapse.`,
+      question: `Does JustInsurance report my ${data.name} CE to the DOI?`,
+      answer: `Yes. When you complete a CE course through JustInsurance, we electronically report your completion directly to the ${data.doiName} — typically on the same day you finish. You do not need to mail certificates, fill out forms, or manually update your license record. After a few business days, log in to your ${data.doiName} producer portal to confirm your CE credits have been posted. If you see any discrepancy, JustInsurance support can resolve it quickly using your completion records.`,
     },
     {
-      question: `Does ${stateName} require ethics CE for ${loaName} license renewal?`,
-      answer: `Yes. Like most states, ${stateName} mandates that a portion of your required CE hours cover ethics and professional conduct topics. This ethics requirement is built into the total ${hours}-hour requirement. JustInsurance's ${stateName} ${loaName} CE catalog includes ethics-approved courses that fulfill this mandatory component, so you can complete your entire renewal requirement in one place without needing to source ethics courses separately.`,
+      question: `Can I start my ${data.name} CE before my renewal date?`,
+      answer: `Yes — and JustInsurance strongly recommends it. You can begin your ${data.name} CE courses at any point during your ${data.ceRenewalPeriod} renewal cycle. Starting early gives you the flexibility to spread your ${data.ceTotalHours} hours across multiple sessions, choose topics relevant to your practice, and avoid any last-minute technical issues. Completed CE hours are reported to the ${data.doiName} as you finish each course, so credits accumulate throughout the cycle rather than all at once at the end.`,
     },
     {
-      question: `Will JustInsurance report my ${stateName} CE hours to the state for me?`,
-      answer: `Yes. When you complete a CE course through JustInsurance, we electronically report your course completion to the ${stateName} Department of Insurance on your behalf. This reporting typically happens within one to two business days of course completion. You do not need to submit certificates yourself or manually update your state license record. We recommend logging into your ${stateName} Department of Insurance producer portal after a few days to confirm your CE credits have been posted before your renewal deadline.`,
+      question: `What topics are covered in the ${data.name} ${loaName} CE course?`,
+      answer: `The JustInsurance ${data.name} ${loaName} CE course covers the core topics required to keep your knowledge current and your license compliant. Expect content on ${loaName.toLowerCase()} product updates and regulatory changes specific to ${data.name}, consumer protection requirements, claims handling and suitability standards, ${data.name} insurance statutes governing producer conduct, and ethics and professional responsibility — satisfying the mandatory ${data.ceEthicsHours}-hour ethics component. All course content is reviewed and updated whenever the ${data.doiName} revises its approved topic list, so you are always studying current material.`,
     },
   ];
 }

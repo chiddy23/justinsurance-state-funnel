@@ -10,7 +10,7 @@ import {
   generateFAQSchema,
   SchemaMarkup,
 } from "@/lib/schema";
-import { getPrelicensingCourseFAQs } from "@/lib/faq-data";
+import { getPrelicensingCourseFAQs, buildFaqData } from "@/lib/faq-data";
 import catalogLinks from "@/lib/catalog-links.json";
 import StateHero from "@/components/StateHero";
 import CourseOverviewBox from "@/components/CourseOverviewBox";
@@ -88,13 +88,14 @@ export async function generateMetadata({
   const loaDef = LOA_DEFINITIONS[loa as LOASlug];
   if (!stateData || !loaDef) return {};
   const pricing = getCoursePricing(state, loa as LOASlug);
+  const hoursNum = typeof pricing?.hours === "number" ? pricing.hours : undefined;
   return generatePageMetadata({
     pageType: "prelicensing-course",
     stateName: stateData.name,
     stateSlug: stateData.slug,
     loaName: loaDef.name,
     loaSlug: loaDef.slug,
-    hours: pricing?.hours,
+    hours: hoursNum,
     price: pricing?.price,
   });
 }
@@ -114,11 +115,12 @@ export default async function PrelicensingCoursePage({
   if (!pricing) notFound();
 
   const enrollLink = getCatalogLink(stateData.slug, loaDef.slug);
+  const pricingHoursNum = typeof pricing.hours === "number" ? pricing.hours : 0;
   const faqs = getPrelicensingCourseFAQs(
-    stateData.name,
+    buildFaqData(stateData),
     loaDef.name,
     pricing.hours,
-    pricing.price
+    pricing.price.replace("$", "")
   );
   const learnBullets = WHAT_YOULL_LEARN[loaDef.slug];
 
@@ -126,7 +128,7 @@ export default async function PrelicensingCoursePage({
     stateName: stateData.name,
     loaName: loaDef.name,
     courseType: "prelicensing",
-    hours: pricing.hours,
+    hours: pricingHoursNum,
     price: pricing.price,
     description: `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, state-approved, online, self-paced. Pass guarantee included. ${pricing.price}.`,
   });
@@ -163,7 +165,7 @@ export default async function PrelicensingCoursePage({
       />
 
       <CourseOverviewBox
-        hours={pricing.hours}
+        hours={pricingHoursNum}
         price={pricing.price}
       />
 
@@ -196,9 +198,9 @@ export default async function PrelicensingCoursePage({
       <ExamInfoSection
         stateName={stateData.name}
         examInfo={stateData.examInfo}
-        examProvider={stateData.examProvider}
-        examProviderUrl={stateData.examProviderUrl}
-        examBookingUrl={stateData.examBookingUrl}
+        examProvider={stateData.examInfo.examProvider}
+        examProviderUrl={stateData.examInfo.examProviderUrl}
+        examBookingUrl={stateData.examInfo.examBookingUrl}
         noCombinedExam={stateData.noCombinedExam}
         applicationBeforeExam={stateData.applicationBeforeExam}
       />

@@ -10,7 +10,7 @@ import {
   generateFAQSchema,
   SchemaMarkup,
 } from "@/lib/schema";
-import { getCECourseFAQs } from "@/lib/faq-data";
+import { getCECourseFAQs, buildFaqData } from "@/lib/faq-data";
 import catalogLinks from "@/lib/catalog-links.json";
 import StateHero from "@/components/StateHero";
 import CourseOverviewBox from "@/components/CourseOverviewBox";
@@ -28,14 +28,6 @@ function getCatalogLink(stateSlug: string, loaSlug: LOASlug): string {
   if (!stateCatalog) return "https://yourinsurancelicense.myabsorb.com/";
   const section = stateCatalog["continuing-education"] as Record<string, string>;
   return section?.[loaSlug] ?? "https://yourinsurancelicense.myabsorb.com/";
-}
-
-function getCEPricing(stateSlug: string, loaSlug: LOASlug) {
-  const stateData = getStateBySlug(stateSlug);
-  if (!stateData) return null;
-  if (loaSlug === "life") return stateData.ce.life;
-  if (loaSlug === "health") return stateData.ce.health;
-  return stateData.ce.lifeAndHealth;
 }
 
 const CE_TOPICS: Record<LOASlug, string[]> = {
@@ -80,15 +72,14 @@ export async function generateMetadata({
   const stateData = getStateBySlug(state);
   const loaDef = LOA_DEFINITIONS[loa as LOASlug];
   if (!stateData || !loaDef) return {};
-  const pricing = getCEPricing(state, loa as LOASlug);
   return generatePageMetadata({
     pageType: "ce-course",
     stateName: stateData.name,
     stateSlug: stateData.slug,
     loaName: loaDef.name,
     loaSlug: loaDef.slug,
-    hours: pricing?.hours,
-    price: pricing?.price,
+    hours: stateData.ce.totalHours,
+    price: stateData.ce.packagePrice,
   });
 }
 
@@ -103,15 +94,12 @@ export default async function CECoursePage({
 
   if (!stateData || !loaDef) notFound();
 
-  const pricing = getCEPricing(state, loa as LOASlug);
-  if (!pricing) notFound();
-
+  const { ce } = stateData;
   const enrollLink = getCatalogLink(stateData.slug, loaDef.slug);
   const faqs = getCECourseFAQs(
-    stateData.name,
+    buildFaqData(stateData),
     loaDef.name,
-    pricing.hours,
-    pricing.renewalYears
+    ce.totalHours
   );
   const ceTopics = CE_TOPICS[loaDef.slug];
 
@@ -119,9 +107,9 @@ export default async function CECoursePage({
     stateName: stateData.name,
     loaName: loaDef.name,
     courseType: "continuing-education",
-    hours: pricing.hours,
-    price: pricing.price,
-    description: `${stateData.name} ${loaDef.name} continuing education course — ${pricing.hours} hours state-approved CE, online, self-paced. Same-day DOI reporting. ${pricing.price}.`,
+    hours: ce.totalHours,
+    price: ce.packagePrice,
+    description: `${stateData.name} ${loaDef.name} continuing education course — ${ce.totalHours} hours state-approved CE, online, self-paced. Same-day DOI reporting. ${ce.packagePrice}.`,
   });
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -160,15 +148,15 @@ export default async function CECoursePage({
       <StateHero
         eyebrow={`${stateData.name} ${loaDef.shortName} CE`}
         title={`${stateData.name} ${loaDef.name} Continuing Education Course`}
-        subtitle={`Complete your ${pricing.hours} required CE hours online, at your own pace. We report your completion to the ${stateData.doiName} the same day. Only ${pricing.price}.`}
+        subtitle={`Complete your ${ce.totalHours} required CE hours online, at your own pace. We report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`}
         ctaButtons={[
-          { text: `Enroll Now — ${pricing.price}`, href: enrollLink },
+          { text: `Enroll Now — ${ce.packagePrice}`, href: enrollLink },
         ]}
       />
 
       <CourseOverviewBox
-        hours={pricing.hours}
-        price={pricing.price}
+        hours={ce.totalHours}
+        price={ce.packagePrice}
         accessDuration="Until Completion"
         includes={[
           "State-approved CE content",
@@ -201,7 +189,7 @@ export default async function CECoursePage({
               {
                 step: "2",
                 title: "Complete Your CE",
-                desc: `Finish your ${pricing.hours}-hour ${loaDef.name} CE course online at your own pace — takes just a few hours.`,
+                desc: `Finish your ${ce.totalHours}-hour ${loaDef.name} CE course online at your own pace — takes just a few hours.`,
               },
               {
                 step: "3",
@@ -276,8 +264,8 @@ export default async function CECoursePage({
 
       <CTABanner
         title={`Renew Your ${stateData.name} ${loaDef.shortName} License Today`}
-        subtitle={`Complete your ${pricing.hours}-hour CE requirement online. Only ${pricing.price}. We report to the state same-day.`}
-        ctaText={`Enroll Now — ${pricing.price}`}
+        subtitle={`Complete your ${ce.totalHours}-hour CE requirement online. Only ${ce.packagePrice}. We report to the state same-day.`}
+        ctaText={`Enroll Now — ${ce.packagePrice}`}
         ctaHref={enrollLink}
         externalLink
       />
@@ -285,7 +273,7 @@ export default async function CECoursePage({
       <StickyMobileCTA
         text="Enroll Now"
         href={enrollLink}
-        price={pricing.price}
+        price={ce.packagePrice}
       />
     </>
   );

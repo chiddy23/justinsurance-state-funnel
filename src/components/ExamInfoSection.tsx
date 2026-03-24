@@ -41,16 +41,16 @@ export default function ExamInfoSection({
             </h3>
             <ul className="space-y-3">
               <li className="flex justify-between items-center">
-                <span className="text-gray-500 text-sm">Number of Questions</span>
-                <span className="font-bold text-navy">{examInfo.questions} questions</span>
-              </li>
-              <li className="flex justify-between items-center border-t border-gray-200 pt-3">
                 <span className="text-gray-500 text-sm">Passing Score</span>
                 <span className="font-bold text-navy">{examInfo.passingScore}%</span>
               </li>
               <li className="flex justify-between items-center border-t border-gray-200 pt-3">
-                <span className="text-gray-500 text-sm">Time Limit</span>
-                <span className="font-bold text-navy">{examInfo.timeLimit}</span>
+                <span className="text-gray-500 text-sm">Exam Fee</span>
+                <span className="font-bold text-navy">${examInfo.examFee}</span>
+              </li>
+              <li className="flex justify-between items-center border-t border-gray-200 pt-3">
+                <span className="text-gray-500 text-sm">Results Timing</span>
+                <span className="font-bold text-navy">{examInfo.examResultsTiming}</span>
               </li>
               <li className="flex justify-between items-center border-t border-gray-200 pt-3">
                 <span className="text-gray-500 text-sm">Exam Format</span>

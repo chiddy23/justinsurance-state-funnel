@@ -214,7 +214,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Alabama insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -316,7 +316,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Alaska insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -418,7 +418,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Arizona insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -520,7 +520,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Arkansas insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -622,7 +622,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available, though fingerprinting and additional fees apply. The exam requirement is waived for active nonresident licensees.",
     sponsorshipRequirement: "No sponsorship is required to obtain your California insurance license, though an appointment or broker bond is needed before transacting business.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -724,7 +724,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Colorado insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -826,7 +826,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Connecticut insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -928,7 +928,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Delaware insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -1030,7 +1030,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. Fingerprinting is required. Licenses lapse if unappointed for 48 consecutive months.",
     sponsorshipRequirement: "No sponsorship is required to obtain your Florida insurance producer license, though an active appointment is needed to transact business.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -1132,7 +1132,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. A notarized Citizenship Affidavit is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Georgia insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -1234,7 +1234,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Hawaii insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "19%",
 
@@ -1336,7 +1336,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Idaho insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "19%",
 
@@ -1438,7 +1438,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a standard Illinois insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -1540,7 +1540,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Indiana insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -1642,7 +1642,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Iowa insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -1744,7 +1744,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam, pre-licensing education, or certification letter is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Kansas insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -1846,7 +1846,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Kentucky insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "19%",
 
@@ -1948,7 +1948,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Louisiana insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -2050,7 +2050,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Maine insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -2152,7 +2152,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Maryland insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -2254,7 +2254,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a regular Massachusetts insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -2356,7 +2356,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Michigan insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -2458,7 +2458,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required to obtain a Minnesota insurance producer license, though an insurer appointment is required before transacting business.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "19%",
 
@@ -2560,7 +2560,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers whose home state offers equal reciprocity. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a regular Mississippi insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "19%",
 
@@ -2662,7 +2662,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam, pre-licensing education, or CE is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Missouri insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -2764,7 +2764,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Montana insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -2866,7 +2866,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a regular Nebraska insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -2968,7 +2968,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Nevada insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -3070,7 +3070,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your New Hampshire insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -3172,7 +3172,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a regular New Jersey insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -3274,7 +3274,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your New Mexico insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -3376,7 +3376,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. The exam requirement is waived.",
     sponsorshipRequirement: "Agent licenses in New York require at least one active company appointment to transact business. Broker licenses do not require an insurer appointment.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -3478,7 +3478,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your North Carolina insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -3580,7 +3580,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam, pre-licensing education, or fingerprinting is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your North Dakota insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -3682,7 +3682,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required if the home state reciprocates.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Ohio insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -3784,7 +3784,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Oklahoma insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "19%",
 
@@ -3886,7 +3886,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or pre-licensing education is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Oregon insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -3988,7 +3988,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or fingerprinting is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a standard Pennsylvania insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -4090,7 +4090,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Rhode Island insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -4192,7 +4192,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a standard South Carolina insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "20%",
 
@@ -4294,7 +4294,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your South Dakota insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -4396,7 +4396,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. Tennessee has reciprocity agreements with all other states.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a standard Tennessee insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -4498,7 +4498,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. Exam, CE, fingerprint, and criminal history requirements are all waived.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a permanent Texas insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "19%",
 
@@ -4600,7 +4600,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Utah insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -4702,7 +4702,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Vermont insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -4804,7 +4804,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Virginia insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "19%",
 
@@ -4906,7 +4906,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or fingerprinting is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Washington insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -5008,7 +5008,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your West Virginia insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "17%",
 
@@ -5110,7 +5110,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Wisconsin insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 
@@ -5212,7 +5212,7 @@ export const STATES: Record<string, StateData> = {
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam or fingerprinting is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining a permanent Wyoming insurance producer license.",
     courseWeeks: "1 to 2",
-    courseAccessDays: "60",
+    courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
 

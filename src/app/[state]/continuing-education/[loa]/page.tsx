@@ -154,6 +154,18 @@ export default async function CECoursePage({
         ]}
       />
 
+      {/* Trust Badge Strip */}
+      <div className="bg-navy-dark border-t border-white/10 py-3 px-4">
+        <div className="max-w-4xl mx-auto flex justify-center">
+          <span className="inline-flex items-center gap-1.5 bg-gold/20 text-gold px-3 py-1 rounded-full text-sm font-semibold">
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+            </svg>
+            Same-Day DOI Reporting
+          </span>
+        </div>
+      </div>
+
       <CourseOverviewBox
         hours={ce.totalHours}
         price={ce.packagePrice}
@@ -169,6 +181,25 @@ export default async function CECoursePage({
           "Expert support",
         ]}
       />
+
+      {/* Same-Day DOI Reporting Feature Row */}
+      <section className="bg-white px-4 pb-4">
+        <div className="max-w-4xl mx-auto">
+          <div className="bg-navy rounded-xl px-6 py-5 flex items-center gap-5">
+            <div className="flex-shrink-0 bg-gold rounded-full p-3">
+              <svg className="w-6 h-6 text-navy" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+            </div>
+            <div>
+              <p className="text-gold font-bold text-base">Same-Day DOI Reporting</p>
+              <p className="text-white/90 text-sm mt-0.5">
+                Finish your course and we electronically report your CE completion to the {stateData.doiName} the same business day — no paperwork, no mailing certificates.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* License Renewal Process */}
       <section className="bg-white py-16 px-4">

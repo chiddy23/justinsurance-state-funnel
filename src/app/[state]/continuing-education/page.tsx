@@ -74,6 +74,21 @@ export default async function CEHubPage({
         ]}
       />
 
+      {/* Same-Day DOI Reporting Banner */}
+      <section className="bg-navy text-white py-6">
+        <div className="max-w-4xl mx-auto px-4 flex items-center gap-4">
+          <div className="flex-shrink-0 bg-gold rounded-full p-3">
+            <svg className="w-8 h-8 text-navy" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+            </svg>
+          </div>
+          <div>
+            <p className="text-lg font-bold text-gold">Same-Day CE Reporting</p>
+            <p className="text-white/90">We report your CE completion to the {stateData.doiName} the same day you finish — so your license never lapses.</p>
+          </div>
+        </div>
+      </section>
+
       {/* CE Requirements Section */}
       <section className="bg-white py-16 px-4">
         <div className="max-w-5xl mx-auto">

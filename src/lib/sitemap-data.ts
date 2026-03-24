@@ -44,6 +44,26 @@ export function generateSitemapEntries(): SitemapEntry[] {
     priority: 1.0,
   });
 
+  // Global hub pages
+  const globalHubs: Array<{ path: string; priority: number }> = [
+    { path: "/prelicensing", priority: 0.85 },
+    { path: "/continuing-education", priority: 0.85 },
+    { path: "/life-insurance-license", priority: 0.8 },
+    { path: "/health-insurance-license", priority: 0.8 },
+    { path: "/life-and-health-insurance-license", priority: 0.8 },
+    { path: "/insurance-exam-guide", priority: 0.7 },
+    { path: "/license-renewal-guide", priority: 0.7 },
+    { path: "/faq", priority: 0.7 },
+  ];
+  for (const hub of globalHubs) {
+    entries.push({
+      url: BASE_URL + hub.path,
+      lastModified,
+      changeFrequency: "monthly",
+      priority: hub.priority,
+    });
+  }
+
   for (const stateSlug of ALL_STATE_SLUGS) {
     // State hub page
     entries.push({

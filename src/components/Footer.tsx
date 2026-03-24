@@ -19,7 +19,7 @@ export default function Footer() {
   return (
     <footer className="bg-navy text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <Link href="/">
@@ -69,11 +69,22 @@ export default function Footer() {
             <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Courses</h3>
             <ul className="space-y-2">
               <li><Link href="/" className="text-gray-300 hover:text-gold transition-colors text-sm">All States</Link></li>
-              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Prelicensing Courses</Link></li>
-              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Continuing Education (CE)</Link></li>
-              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Life Insurance License</Link></li>
-              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Health Insurance License</Link></li>
-              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Life &amp; Health License</Link></li>
+              <li><Link href="/prelicensing/" className="text-gray-300 hover:text-gold transition-colors text-sm">Prelicensing Courses</Link></li>
+              <li><Link href="/continuing-education/" className="text-gray-300 hover:text-gold transition-colors text-sm">Continuing Education (CE)</Link></li>
+              <li><Link href="/life-insurance-license/" className="text-gray-300 hover:text-gold transition-colors text-sm">Life Insurance License</Link></li>
+              <li><Link href="/health-insurance-license/" className="text-gray-300 hover:text-gold transition-colors text-sm">Health Insurance License</Link></li>
+              <li><Link href="/life-and-health-insurance-license/" className="text-gray-300 hover:text-gold transition-colors text-sm">Life &amp; Health License</Link></li>
+            </ul>
+          </div>
+
+          {/* Resources Column */}
+          <div>
+            <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Resources</h3>
+            <ul className="space-y-2">
+              <li><Link href="/insurance-exam-guide/" className="text-gray-300 hover:text-gold transition-colors text-sm">Exam Guide</Link></li>
+              <li><Link href="/license-renewal-guide/" className="text-gray-300 hover:text-gold transition-colors text-sm">Renewal Guide</Link></li>
+              <li><Link href="/faq/" className="text-gray-300 hover:text-gold transition-colors text-sm">FAQ</Link></li>
+              <li><Link href="/pass-rates/" className="text-gray-300 hover:text-gold transition-colors text-sm">Pass Rates</Link></li>
             </ul>
           </div>
 

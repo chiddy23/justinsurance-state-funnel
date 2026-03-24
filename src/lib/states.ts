@@ -1002,7 +1002,7 @@ export const STATES: Record<string, StateData> = {
     },
 
     ce: {
-      totalHours: 624204620164,
+      totalHours: 24,
       renewalPeriod: "2 years",
       ethicsHours: 4,
       requirementsUrl: "https://myfloridacfo.com/division/agents/licensing/agents-and-adjusters/continuing-education",
@@ -2226,7 +2226,7 @@ export const STATES: Record<string, StateData> = {
     },
 
     ce: {
-      totalHours: 36033453,
+      totalHours: 45,
       renewalPeriod: "3 years",
       ethicsHours: 3,
       requirementsUrl: "https://www.mass.gov/info-details/continuing-education-information-for-producers-public-insurance-adjusters-providers",
@@ -4776,7 +4776,7 @@ export const STATES: Record<string, StateData> = {
     },
 
     ce: {
-      totalHours: 1624,
+      totalHours: 24,
       renewalPeriod: "2 years",
       ethicsHours: 3,
       requirementsUrl: "https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/current-agents-agencies/continuing-education-requirements/",

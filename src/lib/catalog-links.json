@@ -1,0 +1,602 @@
+{
+  "alabama": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d8f7fe5c-521d-4905-9326-0077b34a689b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d8f7fe5c-521d-4905-9326-0077b34a689b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d8f7fe5c-521d-4905-9326-0077b34a689b"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "alaska": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b733842-f04c-49e9-ac81-446a54755205",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b733842-f04c-49e9-ac81-446a54755205",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9b733842-f04c-49e9-ac81-446a54755205"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "arizona": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9decbf8c-41db-433d-8c38-261d5d2b9f13",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9decbf8c-41db-433d-8c38-261d5d2b9f13",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9decbf8c-41db-433d-8c38-261d5d2b9f13"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "arkansas": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c36f6de-2b40-4048-9a7f-9007bc04b58b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c36f6de-2b40-4048-9a7f-9007bc04b58b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1c36f6de-2b40-4048-9a7f-9007bc04b58b"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "california": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/f310c2cc-fbf7-4971-8724-744ded64bdee",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f310c2cc-fbf7-4971-8724-744ded64bdee",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/f310c2cc-fbf7-4971-8724-744ded64bdee"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "colorado": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/3eec3dbf-1f2e-4da7-ac1c-0a1e88814dc8",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3eec3dbf-1f2e-4da7-ac1c-0a1e88814dc8",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3eec3dbf-1f2e-4da7-ac1c-0a1e88814dc8"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7439e95d-662b-46a0-82ac-a802f5058cf7",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7439e95d-662b-46a0-82ac-a802f5058cf7",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7439e95d-662b-46a0-82ac-a802f5058cf7"
+    }
+  },
+  "connecticut": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/0a06875f-4e72-415d-98e3-6301bfff39e2",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0a06875f-4e72-415d-98e3-6301bfff39e2",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0a06875f-4e72-415d-98e3-6301bfff39e2"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "delaware": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/0d8b2b86-0c97-408f-bd02-ab94aca64610",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0d8b2b86-0c97-408f-bd02-ab94aca64610",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0d8b2b86-0c97-408f-bd02-ab94aca64610"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/2cf08d73-93eb-436f-a7e2-1d999aee7911",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2cf08d73-93eb-436f-a7e2-1d999aee7911",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2cf08d73-93eb-436f-a7e2-1d999aee7911"
+    }
+  },
+  "florida": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1cffa495-3fe6-4cc3-8512-201f03ef6d88"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/eeb55a22-92ad-4b2b-833f-51cb10fcca08"
+    }
+  },
+  "georgia": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6869f12-13cc-4871-9325-5ac65862a43b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6869f12-13cc-4871-9325-5ac65862a43b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d6869f12-13cc-4871-9325-5ac65862a43b"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "hawaii": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/62729bd8-04ac-4187-9496-455af420e925",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/62729bd8-04ac-4187-9496-455af420e925",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/62729bd8-04ac-4187-9496-455af420e925"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "idaho": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/490e22c8-9de8-43d8-a64a-34a04203172e",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/490e22c8-9de8-43d8-a64a-34a04203172e",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/490e22c8-9de8-43d8-a64a-34a04203172e"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "illinois": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/a4389a72-af0d-44b7-864e-c527d39de7e1",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a4389a72-af0d-44b7-864e-c527d39de7e1",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/a4389a72-af0d-44b7-864e-c527d39de7e1"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "indiana": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/80a3ea9d-f5b5-4302-8599-ad3a3f47f22c",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/80a3ea9d-f5b5-4302-8599-ad3a3f47f22c",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/80a3ea9d-f5b5-4302-8599-ad3a3f47f22c"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "iowa": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/bd1d1b57-225b-47e1-a4aa-bad20241e40b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/bd1d1b57-225b-47e1-a4aa-bad20241e40b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/bd1d1b57-225b-47e1-a4aa-bad20241e40b"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7a4f806b-1901-4e88-aabd-7fe28e5a0bc4",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7a4f806b-1901-4e88-aabd-7fe28e5a0bc4",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7a4f806b-1901-4e88-aabd-7fe28e5a0bc4"
+    }
+  },
+  "kansas": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/08769b25-620e-4e1b-8a09-5a45a4c83bc1",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/08769b25-620e-4e1b-8a09-5a45a4c83bc1",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/08769b25-620e-4e1b-8a09-5a45a4c83bc1"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "kentucky": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "louisiana": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/80e052ad-b8fc-420a-ac02-79708e7270fb",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/80e052ad-b8fc-420a-ac02-79708e7270fb",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/80e052ad-b8fc-420a-ac02-79708e7270fb"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "maine": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/39c8da21-9171-4a67-be71-b72fd16c571b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/39c8da21-9171-4a67-be71-b72fd16c571b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/39c8da21-9171-4a67-be71-b72fd16c571b"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "maryland": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/871d8fbe-f0f3-4676-924a-ef14c6b740e7",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/871d8fbe-f0f3-4676-924a-ef14c6b740e7",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/871d8fbe-f0f3-4676-924a-ef14c6b740e7"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1a27ce55-d1e6-4858-a082-10bca1918cc4",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1a27ce55-d1e6-4858-a082-10bca1918cc4",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1a27ce55-d1e6-4858-a082-10bca1918cc4"
+    }
+  },
+  "massachusetts": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/50489b5c-e700-48e5-917a-70889340ae4f",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/50489b5c-e700-48e5-917a-70889340ae4f",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/50489b5c-e700-48e5-917a-70889340ae4f"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/04c0998f-8814-4173-b63a-81646d89d5e3",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/04c0998f-8814-4173-b63a-81646d89d5e3",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/04c0998f-8814-4173-b63a-81646d89d5e3"
+    }
+  },
+  "michigan": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/cd46bb12-5d66-47f8-a1c7-6526cd8de209",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/cd46bb12-5d66-47f8-a1c7-6526cd8de209",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/cd46bb12-5d66-47f8-a1c7-6526cd8de209"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "minnesota": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "mississippi": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/148f1799-79bb-4d58-bd06-f1857bca43f7",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/148f1799-79bb-4d58-bd06-f1857bca43f7",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/148f1799-79bb-4d58-bd06-f1857bca43f7"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/5f523fcd-3fb4-4e56-be7c-69e58d464b61",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/5f523fcd-3fb4-4e56-be7c-69e58d464b61",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/5f523fcd-3fb4-4e56-be7c-69e58d464b61"
+    }
+  },
+  "missouri": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/83fbb779-c363-4ee2-bf63-e0a4e75d1e61",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/83fbb779-c363-4ee2-bf63-e0a4e75d1e61",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/83fbb779-c363-4ee2-bf63-e0a4e75d1e61"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/e797e5a3-db9d-42fc-91f6-93e06f55c2ed",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e797e5a3-db9d-42fc-91f6-93e06f55c2ed",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e797e5a3-db9d-42fc-91f6-93e06f55c2ed"
+    }
+  },
+  "montana": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/8e49adb5-bbc9-499b-ab61-29d4cb57fefe",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/8e49adb5-bbc9-499b-ab61-29d4cb57fefe",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/8e49adb5-bbc9-499b-ab61-29d4cb57fefe"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "nebraska": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/af7c77c5-8ad1-4d29-be53-7c38a798a202",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/af7c77c5-8ad1-4d29-be53-7c38a798a202",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/af7c77c5-8ad1-4d29-be53-7c38a798a202"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/2e52d43a-8218-4921-a633-6760a8f99038",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2e52d43a-8218-4921-a633-6760a8f99038",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2e52d43a-8218-4921-a633-6760a8f99038"
+    }
+  },
+  "nevada": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/854561ec-18dc-4a90-895d-969fa0ce9e8a",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/854561ec-18dc-4a90-895d-969fa0ce9e8a",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/854561ec-18dc-4a90-895d-969fa0ce9e8a"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "new-hampshire": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/b48a7909-a7d4-4cbd-8d60-fe3f657f9a94",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b48a7909-a7d4-4cbd-8d60-fe3f657f9a94",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b48a7909-a7d4-4cbd-8d60-fe3f657f9a94"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "new-jersey": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7dbad883-1e1a-471a-849b-ea4c9b71cf28",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7dbad883-1e1a-471a-849b-ea4c9b71cf28",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7dbad883-1e1a-471a-849b-ea4c9b71cf28"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "new-mexico": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/ab01ad75-5d83-4fdc-ac2c-d0c9525e0ad3",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ab01ad75-5d83-4fdc-ac2c-d0c9525e0ad3",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ab01ad75-5d83-4fdc-ac2c-d0c9525e0ad3"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "new-york": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/246b98f2-ccba-4b3d-9aea-d20d9050015b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/246b98f2-ccba-4b3d-9aea-d20d9050015b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/246b98f2-ccba-4b3d-9aea-d20d9050015b"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "north-carolina": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/01cc9bee-446f-48cb-b8a3-5ebe32e42425",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/01cc9bee-446f-48cb-b8a3-5ebe32e42425",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/01cc9bee-446f-48cb-b8a3-5ebe32e42425"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "north-dakota": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5f557e-3011-4dc2-9e49-6649843030e4",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5f557e-3011-4dc2-9e49-6649843030e4",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/9c5f557e-3011-4dc2-9e49-6649843030e4"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/24dfe404-dd4f-4f45-be62-51b2ef1ed822",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/24dfe404-dd4f-4f45-be62-51b2ef1ed822",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/24dfe404-dd4f-4f45-be62-51b2ef1ed822"
+    }
+  },
+  "ohio": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/2d67f153-19c8-457f-99b3-7e919200da38",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2d67f153-19c8-457f-99b3-7e919200da38",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/2d67f153-19c8-457f-99b3-7e919200da38"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "oklahoma": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/e4c713ae-2567-467a-a628-81b0dae7e434",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e4c713ae-2567-467a-a628-81b0dae7e434",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/e4c713ae-2567-467a-a628-81b0dae7e434"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "oregon": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a9d022f-b90b-47ef-b85d-1cab1c57e8da",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a9d022f-b90b-47ef-b85d-1cab1c57e8da",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3a9d022f-b90b-47ef-b85d-1cab1c57e8da"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/4247d02a-dfb4-42b5-8656-0a3f7b2b77ed",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/4247d02a-dfb4-42b5-8656-0a3f7b2b77ed",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/4247d02a-dfb4-42b5-8656-0a3f7b2b77ed"
+    }
+  },
+  "pennsylvania": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/185edc5a-24d9-4d31-a1eb-8d3d531ab362",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/185edc5a-24d9-4d31-a1eb-8d3d531ab362",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/185edc5a-24d9-4d31-a1eb-8d3d531ab362"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "rhode-island": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/18703c5c-7371-4036-9692-3a4c0a0c11eb",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/18703c5c-7371-4036-9692-3a4c0a0c11eb",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/18703c5c-7371-4036-9692-3a4c0a0c11eb"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "south-carolina": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/59d1c163-12ed-46ab-a950-f4af27bc2e5b",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/59d1c163-12ed-46ab-a950-f4af27bc2e5b",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/59d1c163-12ed-46ab-a950-f4af27bc2e5b"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/b869a132-507e-4d42-a821-bcb2d64bbae6",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b869a132-507e-4d42-a821-bcb2d64bbae6",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/b869a132-507e-4d42-a821-bcb2d64bbae6"
+    }
+  },
+  "south-dakota": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f299e10-2bde-4f6b-998e-23cd69629b73",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f299e10-2bde-4f6b-998e-23cd69629b73",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/3f299e10-2bde-4f6b-998e-23cd69629b73"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "tennessee": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/eb20a1ed-fa9f-4e00-9e42-d491c2781ff2",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/eb20a1ed-fa9f-4e00-9e42-d491c2781ff2",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/eb20a1ed-fa9f-4e00-9e42-d491c2781ff2"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "texas": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/c393c81d-86f9-431f-9c3f-f8137ac7e3f7",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c393c81d-86f9-431f-9c3f-f8137ac7e3f7",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c393c81d-86f9-431f-9c3f-f8137ac7e3f7"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "utah": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/c44e0981-609b-4b52-bd3c-0c7aa34f600d",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c44e0981-609b-4b52-bd3c-0c7aa34f600d",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/c44e0981-609b-4b52-bd3c-0c7aa34f600d"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "vermont": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/7c6f803b-87fe-4b81-8517-b78d7d1f5a5e",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7c6f803b-87fe-4b81-8517-b78d7d1f5a5e",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/7c6f803b-87fe-4b81-8517-b78d7d1f5a5e"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/1eabe447-0a86-48ef-9f02-b6a1986d3be7",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1eabe447-0a86-48ef-9f02-b6a1986d3be7",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/1eabe447-0a86-48ef-9f02-b6a1986d3be7"
+    }
+  },
+  "virginia": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/696f5f3c-4be8-4ffc-b67c-362a12b07fbf",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/696f5f3c-4be8-4ffc-b67c-362a12b07fbf",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/696f5f3c-4be8-4ffc-b67c-362a12b07fbf"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/23fdf4d5-6bb2-4752-bc4f-18b7e3e67478",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/23fdf4d5-6bb2-4752-bc4f-18b7e3e67478",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/23fdf4d5-6bb2-4752-bc4f-18b7e3e67478"
+    }
+  },
+  "washington": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed1b31ea-65fe-4098-bdfe-5959ecdbc9e0",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed1b31ea-65fe-4098-bdfe-5959ecdbc9e0",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/ed1b31ea-65fe-4098-bdfe-5959ecdbc9e0"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "west-virginia": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/30052962-9f11-4481-bd1e-86991a6293aa",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/30052962-9f11-4481-bd1e-86991a6293aa",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/30052962-9f11-4481-bd1e-86991a6293aa"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "wisconsin": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/0c85474f-1b4f-474f-ae7c-ca0fddf63012",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0c85474f-1b4f-474f-ae7c-ca0fddf63012",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/0c85474f-1b4f-474f-ae7c-ca0fddf63012"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  },
+  "wyoming": {
+    "prelicensing": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d7e646b5-cdc5-4977-b5bc-728404341fba",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d7e646b5-cdc5-4977-b5bc-728404341fba",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d7e646b5-cdc5-4977-b5bc-728404341fba"
+    },
+    "continuing-education": {
+      "life": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03",
+      "life-and-health": "https://yourinsurancelicense.myabsorb.com/#/catalog/d9b7683f-f887-4812-b245-83979c53dd03"
+    }
+  }
+}

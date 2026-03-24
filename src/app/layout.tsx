@@ -13,10 +13,11 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: {
     template: "%s | JustInsurance",
-    default: "Online Insurance License Courses | JustInsurance",
+    default:
+      "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
   },
   description:
-    "Get your insurance license online. State-approved prelicensing and CE courses for all 50 states. Pass guarantee included. Enroll now.",
+    "Get your insurance license online in 49 states. $199 prelicensing, $59 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
   metadataBase: new URL("https://justinsuranceco.com"),
   robots: "index, follow",
   openGraph: {
@@ -24,12 +25,13 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://justinsuranceco.com/wp-content/uploads/2024/03/logo-300x97.png",
-        width: 300,
-        height: 97,
-        alt: "JustInsurance LLC",
+        url: "/og-image.png",
+        alt: "JustInsurance — Online Insurance License Courses",
       },
     ],
+  },
+  twitter: {
+    card: "summary_large_image",
   },
 };
 

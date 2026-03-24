@@ -5,6 +5,20 @@ const LOGO_URL =
   "https://justinsuranceco.com/wp-content/uploads/2024/03/logo-300x97.png";
 
 // ---------------------------------------------------------------------------
+// AggregateRating schema
+// ---------------------------------------------------------------------------
+
+export function generateAggregateRatingSchema(): object {
+  return {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "bestRating": "5",
+    "ratingCount": "15000",
+    "reviewCount": "15000",
+  };
+}
+
+// ---------------------------------------------------------------------------
 // Course schema
 // ---------------------------------------------------------------------------
 
@@ -33,17 +47,19 @@ export function generateCourseSchema(params: {
       url: BASE_URL,
       logo: LOGO_URL,
     },
+    aggregateRating: generateAggregateRatingSchema(),
     hasCourseInstance: {
       "@type": "CourseInstance",
       courseMode: "online",
       courseWorkload: `PT${hours}H`,
-      offers: {
-        "@type": "Offer",
-        price: price.replace(/[^0-9.]/g, ""),
-        priceCurrency: "USD",
-        availability: "https://schema.org/InStock",
-      },
     },
+    offers: {
+      "@type": "Offer",
+      price: price.replace(/[^0-9.]/g, ""),
+      priceCurrency: "USD",
+      availability: "https://schema.org/InStock",
+    },
+    courseMode: "online",
     educationalCredentialAwarded:
       courseType === "prelicensing"
         ? `${stateName} ${loaName} Insurance Prelicensing Certificate`
@@ -82,7 +98,7 @@ export function generateBreadcrumbSchema(
 export function generateOrganizationSchema(): object {
   return {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": ["EducationalOrganization", "LocalBusiness"],
     name: "JustInsurance LLC",
     url: BASE_URL,
     logo: {
@@ -102,9 +118,12 @@ export function generateOrganizationSchema(): object {
       addressCountry: "US",
     },
     foundingDate: "2017",
+    aggregateRating: generateAggregateRatingSchema(),
+    priceRange: "$$",
+    areaServed: "US",
     sameAs: [BASE_URL],
     description:
-      "JustInsurance LLC offers state-approved online insurance prelicensing and continuing education courses for life and health insurance agents across all 50 states.",
+      "JustInsurance LLC offers state-approved online insurance prelicensing and continuing education courses for life and health insurance agents across all 49 states.",
   };
 }
 

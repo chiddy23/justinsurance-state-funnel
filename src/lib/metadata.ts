@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 
 const BASE_URL = "https://justinsuranceco.com";
-const LOGO_URL =
-  "https://justinsuranceco.com/wp-content/uploads/2024/03/logo-300x97.png";
+const OG_IMAGE = "/og-image.png";
 
 export type PageType =
   | "home"
@@ -22,49 +21,60 @@ function buildCanonical(path: string): string {
   return `${BASE_URL}${normalised}`;
 }
 
-function buildTitle(pageType: PageType, params: PageMetadataParams): string {
-  // NOTE: Root layout uses template "%s | JustInsurance" (adds 17 chars).
-  // Keep the part BEFORE the suffix within 28-44 chars so total is 45-61.
+function buildTitle(
+  pageType: PageType,
+  params: PageMetadataParams
+): { absolute: string } {
+  // These titles are long and already include the brand name, so we bypass
+  // the root layout's "%s | JustInsurance" template via { absolute }.
   const { stateName = "", loaName = "" } = params;
 
+  let title: string;
   switch (pageType) {
     case "home":
-      return "Online Insurance License Courses";
+      title =
+        "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance";
+      break;
     case "state-hub":
-      return `${stateName} Insurance License Courses`;
+      title = `${stateName} Insurance License Online | $199 · Same-Day CE · Pass Guarantee | JustInsurance`;
+      break;
     case "prelicensing-hub":
-      return `${stateName} Insurance Prelicensing Courses`;
+      title = `${stateName} Insurance Prelicensing | $199 · Pass Guarantee | JustInsurance`;
+      break;
     case "ce-hub":
-      return `${stateName} Insurance CE & Renewal Courses`;
+      title = `${stateName} Insurance CE Courses | $59 · Same-Day Reporting | JustInsurance`;
+      break;
     case "prelicensing-course":
-      return `${stateName} ${loaName} Prelicensing Course`;
+      title = `${stateName} ${loaName} Prelicensing | $199 · Pass Guarantee | JustInsurance`;
+      break;
     case "ce-course":
-      return `${stateName} ${loaName} CE Course`;
+      title = `${stateName} ${loaName} CE Course | $59 · Same-Day Reporting | JustInsurance`;
+      break;
   }
+
+  return { absolute: title };
 }
 
 function buildDescription(
   pageType: PageType,
   params: PageMetadataParams
 ): string {
-  const { stateName = "", loaName = "", hours, price } = params;
-  const hoursStr = hours ? `${hours}-hour` : "";
-  const priceStr = price ? ` Starting at ${price}.` : "";
+  // All descriptions target ≤ 160 characters.
+  const { stateName = "", loaName = "" } = params;
 
-  // Target: 120-151 characters per description
   switch (pageType) {
     case "home":
-      return "Get your insurance license online. State-approved prelicensing and CE courses for all 50 states. Pass guarantee included. Enroll now.";
+      return "Get your insurance license online in 49 states. $199 prelicensing, $59 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.";
     case "state-hub":
-      return `Get your ${stateName} insurance license online. State-approved prelicensing and CE courses with pass guarantee. Enroll with JustInsurance.`;
+      return `Get your ${stateName} insurance license online. $199 prelicensing courses, $59 CE. Pass guarantee, same-day DOI reporting. Start with JustInsurance today.`;
     case "prelicensing-hub":
-      return `Complete ${stateName} insurance prelicensing online. Life, health, and combined courses. State-approved, pass guarantee. Enroll now.`;
+      return `${stateName} insurance prelicensing online. $199, state-approved, pass guarantee included. Life, health, and combined courses. Enroll now.`;
     case "ce-hub":
-      return `Renew your ${stateName} insurance license online. State-approved CE courses with same-day DOI reporting. Enroll with JustInsurance.`;
+      return `${stateName} insurance CE courses online. $59, same-day DOI reporting. Renew your license fast with JustInsurance.`;
     case "prelicensing-course":
-      return `${stateName} ${loaName} prelicensing online.${hoursStr ? ` ${hoursStr} state-approved course.` : ""} Practice exams, pass guarantee.${priceStr} Enroll now.`;
+      return `${stateName} ${loaName} prelicensing course. $199, state-approved, pass guarantee. Practice exams included. Enroll with JustInsurance.`;
     case "ce-course":
-      return `${stateName} ${loaName} CE course online. State-approved, self-paced with same-day DOI reporting.${priceStr} Enroll today.`;
+      return `${stateName} ${loaName} CE course. $59, same-day DOI reporting, self-paced online. Renew with JustInsurance today.`;
   }
 }
 
@@ -112,6 +122,9 @@ export function generatePageMetadata(params: PageMetadataParams): Metadata {
   const canonicalPath = buildCanonicalPath(pageType, params);
   const canonicalUrl = buildCanonical(canonicalPath);
 
+  // Extract the raw string for OG/Twitter (which don't accept { absolute })
+  const titleString = title.absolute;
+
   return {
     title,
     description,
@@ -120,25 +133,23 @@ export function generatePageMetadata(params: PageMetadataParams): Metadata {
       canonical: canonicalUrl,
     },
     openGraph: {
-      title,
+      title: titleString,
       description,
       url: canonicalUrl,
       siteName: "JustInsurance",
       type: "website",
       images: [
         {
-          url: LOGO_URL,
-          width: 300,
-          height: 97,
-          alt: "JustInsurance LLC",
+          url: OG_IMAGE,
+          alt: "JustInsurance — Online Insurance License Courses",
         },
       ],
     },
     twitter: {
-      card: "summary",
-      title,
+      card: "summary_large_image",
+      title: titleString,
       description,
-      images: [LOGO_URL],
+      images: [OG_IMAGE],
     },
   };
 }

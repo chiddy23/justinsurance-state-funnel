@@ -57,7 +57,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
     entries.push({
       url: `${BASE_URL}/${stateSlug}/prelicensing/`,
       lastModified,
-      changeFrequency: "weekly",
+      changeFrequency: "monthly",
       priority: 0.8,
     });
 
@@ -65,7 +65,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
     entries.push({
       url: `${BASE_URL}/${stateSlug}/continuing-education/`,
       lastModified,
-      changeFrequency: "weekly",
+      changeFrequency: "monthly",
       priority: 0.8,
     });
 
@@ -98,5 +98,5 @@ export function generateSitemapEntries(): SitemapEntry[] {
     }
   }
 
-  return entries;
+  return entries.filter((entry) => !entry.url.includes("/new-york"));
 }

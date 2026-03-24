@@ -48,11 +48,13 @@ export default function Navbar() {
           {/* Desktop nav */}
           <div className="hidden md:flex items-center gap-6">
             {/* Browse States Dropdown */}
-            <div className="relative">
+            <div
+              className="relative"
+              onMouseEnter={() => setDropdownOpen(true)}
+              onMouseLeave={() => setDropdownOpen(false)}
+            >
               <button
-                onMouseEnter={() => setDropdownOpen(true)}
-                onMouseLeave={() => setDropdownOpen(false)}
-                className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium"
+                className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium py-4"
                 aria-expanded={dropdownOpen}
               >
                 Browse States
@@ -62,38 +64,38 @@ export default function Navbar() {
               </button>
 
               {dropdownOpen && (
-                <div
-                  onMouseEnter={() => setDropdownOpen(true)}
-                  onMouseLeave={() => setDropdownOpen(false)}
-                  className="absolute top-full left-0 mt-1 w-56 bg-white rounded-lg shadow-xl border border-gray-100 py-2 z-50"
-                >
-                  {POPULAR_STATES.map((state) => (
-                    <Link
-                      key={state.slug}
-                      href={`/${state.slug}/`}
-                      className="block px-4 py-2 text-gray-dark hover:bg-gray-bg hover:text-navy transition-colors text-sm"
-                    >
-                      {state.name}
-                    </Link>
-                  ))}
-                  <div className="border-t border-gray-100 mt-1 pt-1">
-                    <Link
-                      href="/"
-                      className="block px-4 py-2 text-navy font-semibold hover:bg-gray-bg text-sm"
-                    >
-                      View All 49 States &rarr;
-                    </Link>
+                <div className="absolute top-full left-0 pt-0 w-56 z-50">
+                  <div className="bg-white rounded-lg shadow-xl border border-gray-100 py-2">
+                    {POPULAR_STATES.map((state) => (
+                      <Link
+                        key={state.slug}
+                        href={`/${state.slug}/`}
+                        className="block px-4 py-2 text-gray-dark hover:bg-gray-bg hover:text-navy transition-colors text-sm"
+                      >
+                        {state.name}
+                      </Link>
+                    ))}
+                    <div className="border-t border-gray-100 mt-1 pt-1">
+                      <Link
+                        href="/"
+                        className="block px-4 py-2 text-navy font-semibold hover:bg-gray-bg text-sm"
+                      >
+                        View All 49 States &rarr;
+                      </Link>
+                    </div>
                   </div>
                 </div>
               )}
             </div>
 
             {/* Resources Dropdown */}
-            <div className="relative">
+            <div
+              className="relative"
+              onMouseEnter={() => setResourcesOpen(true)}
+              onMouseLeave={() => setResourcesOpen(false)}
+            >
               <button
-                onMouseEnter={() => setResourcesOpen(true)}
-                onMouseLeave={() => setResourcesOpen(false)}
-                className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium"
+                className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium py-4"
                 aria-expanded={resourcesOpen}
               >
                 Resources
@@ -103,20 +105,18 @@ export default function Navbar() {
               </button>
 
               {resourcesOpen && (
-                <div
-                  onMouseEnter={() => setResourcesOpen(true)}
-                  onMouseLeave={() => setResourcesOpen(false)}
-                  className="absolute top-full left-0 mt-1 w-48 bg-white rounded-lg shadow-xl border border-gray-100 py-2 z-50"
-                >
-                  {RESOURCES_LINKS.map((link) => (
-                    <Link
-                      key={link.href}
-                      href={link.href}
-                      className="block px-4 py-2 text-gray-dark hover:bg-gray-bg hover:text-navy transition-colors text-sm"
-                    >
-                      {link.label}
-                    </Link>
-                  ))}
+                <div className="absolute top-full left-0 pt-0 w-48 z-50">
+                  <div className="bg-white rounded-lg shadow-xl border border-gray-100 py-2">
+                    {RESOURCES_LINKS.map((link) => (
+                      <Link
+                        key={link.href}
+                        href={link.href}
+                        className="block px-4 py-2 text-gray-dark hover:bg-gray-bg hover:text-navy transition-colors text-sm"
+                      >
+                        {link.label}
+                      </Link>
+                    ))}
+                  </div>
                 </div>
               )}
             </div>

@@ -2,18 +2,18 @@ import React from "react";
 
 const GENERIC_TESTIMONIALS = [
   {
-    name: "Sarah K.",
+    name: "Jennifer M.",
     role: "Licensed Agent",
     text: "JustInsurance's course content was thorough and well-organized. The practice exams were spot-on.",
     stars: 5,
-    initials: "SK",
+    initials: "JM",
   },
   {
-    name: "James T.",
+    name: "David R.",
     role: "Insurance Producer",
     text: "I passed on my first try thanks to JustInsurance. The self-paced format fit perfectly with my schedule.",
     stars: 5,
-    initials: "JT",
+    initials: "DR",
   },
 ];
 

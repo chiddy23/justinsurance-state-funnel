@@ -40,7 +40,9 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
-  const states = Object.values(STATES).sort((a, b) => a.name.localeCompare(b.name));
+  const states = Object.values(STATES)
+    .filter(s => s.slug !== "new-york")
+    .sort((a, b) => a.name.localeCompare(b.name));
 
   return (
     <>

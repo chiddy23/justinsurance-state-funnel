@@ -13,10 +13,10 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: {
     template: "%s | JustInsurance",
-    default: "Insurance License Courses | JustInsurance",
+    default: "Online Insurance License Courses | JustInsurance",
   },
   description:
-    "Get your insurance license online with JustInsurance. State-approved prelicensing and CE courses for life and health agents in all 50 states. Enroll today.",
+    "Get your insurance license online. State-approved prelicensing and CE courses for all 50 states. Pass guarantee included. Enroll now.",
   metadataBase: new URL("https://justinsuranceco.com"),
   robots: "index, follow",
   openGraph: {

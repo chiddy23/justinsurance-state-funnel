@@ -6,9 +6,9 @@ import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: "Insurance License Courses | JustInsurance",
+  title: "Online Insurance License Courses",
   description:
-    "Get your insurance license online with JustInsurance. State-approved prelicensing and CE courses for life and health agents in all 50 states. Enroll today.",
+    "Get your insurance license online. State-approved prelicensing and CE courses for all 50 states. Pass guarantee included. Enroll now.",
   alternates: {
     canonical: "https://justinsuranceco.com/",
   },

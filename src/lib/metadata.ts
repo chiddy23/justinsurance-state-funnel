@@ -29,27 +29,51 @@ function buildTitle(
   // the root layout's "%s | JustInsurance" template via { absolute }.
   const { stateName = "", loaName = "" } = params;
 
-  // Target: 45-61 characters per title
+  // Target: 45-61 characters. Use abbreviation for long state names to stay under limit.
+  const brand = "JustInsurance";
   let title: string;
   switch (pageType) {
     case "home":
-      title = "Online Insurance License Courses | $199 | JustInsurance";
+      title = `Online Insurance License Courses | $199 | ${brand}`;
       break;
     case "state-hub":
-      title = `${stateName} Insurance License Online | $199 | JustInsurance`;
+      title = `${stateName} Insurance License | $199 | ${brand}`;
       break;
     case "prelicensing-hub":
-      title = `${stateName} Insurance Prelicensing | $199 | JustInsurance`;
+      title = `${stateName} Insurance Prelicensing | $199 | ${brand}`;
       break;
     case "ce-hub":
-      title = `${stateName} Insurance CE Courses | $39 | JustInsurance`;
+      title = `${stateName} Insurance CE Courses | $39 | ${brand}`;
       break;
     case "prelicensing-course":
-      title = `${stateName} ${loaName} Prelicensing | $199 | JustInsurance`;
+      title = `${stateName} ${loaName} Prelicensing | $199 | ${brand}`;
       break;
     case "ce-course":
-      title = `${stateName} ${loaName} CE Course | $39 | JustInsurance`;
+      title = `${stateName} ${loaName} CE Course | $39 | ${brand}`;
       break;
+  }
+
+  // Trim if over 61 chars: drop price to fit
+  if (title.length > 61) {
+    switch (pageType) {
+      case "state-hub":
+        title = `${stateName} Insurance License Online | ${brand}`;
+        break;
+      case "prelicensing-hub":
+        title = `${stateName} Prelicensing Courses | ${brand}`;
+        break;
+      case "ce-hub":
+        title = `${stateName} CE Courses | $39 | ${brand}`;
+        break;
+      case "prelicensing-course":
+        title = `${stateName} ${loaName} Prelicensing | ${brand}`;
+        break;
+      case "ce-course":
+        title = `${stateName} ${loaName} CE Course | ${brand}`;
+        break;
+      default:
+        break;
+    }
   }
 
   return { absolute: title };

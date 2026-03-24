@@ -82,6 +82,7 @@ export default function Footer() {
             <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Resources</h3>
             <ul className="space-y-2">
               <li><Link href="/insurance-exam-guide/" className="text-gray-300 hover:text-gold transition-colors text-sm">Exam Guide</Link></li>
+              <li><Link href="/study-guide/" className="text-gray-300 hover:text-gold transition-colors text-sm">Study Guide</Link></li>
               <li><Link href="/license-renewal-guide/" className="text-gray-300 hover:text-gold transition-colors text-sm">Renewal Guide</Link></li>
               <li><Link href="/faq/" className="text-gray-300 hover:text-gold transition-colors text-sm">FAQ</Link></li>
               <li><Link href="/pass-rates/" className="text-gray-300 hover:text-gold transition-colors text-sm">Pass Rates</Link></li>

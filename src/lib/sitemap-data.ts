@@ -26,10 +26,11 @@ function todayString(): string {
  *   50  — state hub pages          (/[state]/)
  *   50  — prelicensing hub pages   (/[state]/prelicensing/)
  *   50  — CE hub pages             (/[state]/continuing-education/)
+ *   50  — requirements pages       (/[state]/requirements/)
  *   150 — prelicensing course pages (/[state]/prelicensing/[loa]/)
  *   150 — CE course pages          (/[state]/continuing-education/[loa]/)
  * ──────
- *   451 total
+ *   501 total
  */
 export function generateSitemapEntries(): SitemapEntry[] {
   const lastModified = todayString();
@@ -66,6 +67,14 @@ export function generateSitemapEntries(): SitemapEntry[] {
       lastModified,
       changeFrequency: "weekly",
       priority: 0.8,
+    });
+
+    // Requirements page
+    entries.push({
+      url: `${BASE_URL}/${stateSlug}/requirements/`,
+      lastModified,
+      changeFrequency: "monthly",
+      priority: 0.85,
     });
 
     // Individual prelicensing course pages (one per LOA)

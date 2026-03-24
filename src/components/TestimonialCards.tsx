@@ -1,28 +1,31 @@
 import React from "react";
 
-const TESTIMONIALS = [
-  {
-    name: "Marcus D.",
-    role: "Life & Health Agent, Florida",
-    text: "I was nervous about the licensing exam, but JustInsurance's practice tests were spot-on. I passed on my first try and had my license in hand three weeks after I enrolled. The video lessons made even the complicated state regulations easy to understand.",
-    stars: 5,
-    initials: "MD",
-  },
+const GENERIC_TESTIMONIALS = [
   {
     name: "Sarah K.",
-    role: "Independent Agent, Texas",
+    role: "Independent Agent",
     text: "The self-paced format was a game changer for me. I studied around my day job — a little each evening — and finished the course in two weeks. The flashcards were especially helpful for memorizing policy types. Highly recommend to anyone getting into insurance.",
     stars: 5,
     initials: "SK",
   },
   {
     name: "James T.",
-    role: "Insurance Broker, California",
+    role: "Insurance Broker",
     text: "I needed to renew my CE credits before my deadline and JustInsurance made it painless. Finished the entire course on a Saturday morning, and my completion was reported to the state by the next business day. Zero stress. Will use again for my next renewal.",
     stars: 5,
     initials: "JT",
   },
 ];
+
+export interface LeadTestimonial {
+  quote: string;
+  name: string;
+  title: string;
+}
+
+interface TestimonialCardsProps {
+  leadTestimonial?: LeadTestimonial;
+}
 
 function StarRating({ count }: { count: number }) {
   return (
@@ -36,7 +39,48 @@ function StarRating({ count }: { count: number }) {
   );
 }
 
-export default function TestimonialCards() {
+function TestimonialCard({
+  name,
+  role,
+  text,
+  stars,
+  initials,
+}: {
+  name: string;
+  role: string;
+  text: string;
+  stars: number;
+  initials: string;
+}) {
+  return (
+    <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-200 flex flex-col">
+      <StarRating count={stars} />
+      <p className="text-gray-700 text-sm leading-relaxed mt-4 mb-6 flex-grow">
+        &ldquo;{text}&rdquo;
+      </p>
+      <div className="flex items-center gap-3 mt-auto">
+        <div className="w-10 h-10 bg-navy rounded-full flex items-center justify-center flex-shrink-0">
+          <span className="text-white font-bold text-xs">{initials}</span>
+        </div>
+        <div>
+          <p className="font-semibold text-navy text-sm">{name}</p>
+          <p className="text-gray-400 text-xs">{role}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function getInitials(name: string): string {
+  return name
+    .split(" ")
+    .map((part) => part[0])
+    .join("")
+    .toUpperCase()
+    .slice(0, 2);
+}
+
+export default function TestimonialCards({ leadTestimonial }: TestimonialCardsProps) {
   return (
     <section className="bg-gray-bg py-16 px-4">
       <div className="max-w-5xl mx-auto">
@@ -48,22 +92,32 @@ export default function TestimonialCards() {
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {TESTIMONIALS.map((t) => (
-            <div key={t.name} className="bg-white rounded-xl p-6 shadow-sm border border-gray-200 flex flex-col">
-              <StarRating count={t.stars} />
-              <p className="text-gray-700 text-sm leading-relaxed mt-4 mb-6 flex-grow">
-                &ldquo;{t.text}&rdquo;
-              </p>
-              <div className="flex items-center gap-3 mt-auto">
-                <div className="w-10 h-10 bg-navy rounded-full flex items-center justify-center flex-shrink-0">
-                  <span className="text-white font-bold text-xs">{t.initials}</span>
-                </div>
-                <div>
-                  <p className="font-semibold text-navy text-sm">{t.name}</p>
-                  <p className="text-gray-400 text-xs">{t.role}</p>
-                </div>
-              </div>
-            </div>
+          {leadTestimonial ? (
+            <TestimonialCard
+              name={leadTestimonial.name}
+              role={leadTestimonial.title}
+              text={leadTestimonial.quote}
+              stars={5}
+              initials={getInitials(leadTestimonial.name)}
+            />
+          ) : (
+            <TestimonialCard
+              name="Marcus D."
+              role="Life & Health Agent"
+              text="I was nervous about the licensing exam, but JustInsurance's practice tests were spot-on. I passed on my first try and had my license in hand three weeks after I enrolled. The video lessons made even the complicated state regulations easy to understand."
+              stars={5}
+              initials="MD"
+            />
+          )}
+          {GENERIC_TESTIMONIALS.map((t) => (
+            <TestimonialCard
+              key={t.name}
+              name={t.name}
+              role={t.role}
+              text={t.text}
+              stars={t.stars}
+              initials={t.initials}
+            />
           ))}
         </div>
       </div>

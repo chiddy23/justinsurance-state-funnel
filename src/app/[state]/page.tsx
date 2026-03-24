@@ -42,7 +42,30 @@ export default async function StateHubPage({
   const stateData = getStateBySlug(state);
   if (!stateData) notFound();
 
-  const faqs = getStateHubFAQs(buildFaqData(stateData));
+  // Fix 2 & 3 — use realPassRate / marketGrowthRate when available, otherwise
+  // fall back to the existing examInfo / stateData values so FAQ text stays valid.
+  const faqData = {
+    ...buildFaqData(stateData),
+    passRate:
+      stateData.realPassRate !== null
+        ? String(stateData.realPassRate)
+        : stateData.examInfo.passRate,
+    jobGrowth:
+      stateData.marketGrowthRate !== null
+        ? String(stateData.marketGrowthRate)
+        : stateData.jobGrowth,
+  };
+
+  const baseFaqs = getStateHubFAQs(faqData);
+
+  // Fix 6 — append state-specific FAQ as question 6
+  const faqs = [
+    ...baseFaqs,
+    {
+      question: stateData.stateSpecificFAQ.question,
+      answer: stateData.stateSpecificFAQ.answer,
+    },
+  ];
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -55,6 +78,23 @@ export default async function StateHubPage({
     { name: stateData.name },
   ];
 
+  // Fix 1 — hero subtitle from stateSpecificIntro with fallback
+  const heroSubtitle =
+    stateData.stateSpecificIntro && stateData.stateSpecificIntro.trim() !== ""
+      ? stateData.stateSpecificIntro
+      : "State-approved prelicensing and CE courses. 100% online, self-paced, pass guarantee included.";
+
+  // Fix 7 — determine if special training requirements exist
+  const str = stateData.specialTrainingRequirements;
+  const hasSpecialTraining =
+    str.ltc !== null || str.nfip !== null || str.annuity !== null || str.other !== null;
+
+  const specialTrainingItems: { label: string; description: string }[] = [];
+  if (str.ltc !== null) specialTrainingItems.push({ label: "Long-Term Care (LTC)", description: str.ltc });
+  if (str.nfip !== null) specialTrainingItems.push({ label: "National Flood Insurance Program (NFIP)", description: str.nfip });
+  if (str.annuity !== null) specialTrainingItems.push({ label: "Annuity Training", description: str.annuity });
+  if (str.other !== null) specialTrainingItems.push({ label: "Additional Requirements", description: str.other });
+
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
@@ -62,10 +102,11 @@ export default async function StateHubPage({
 
       <BreadcrumbNav crumbs={crumbs} />
 
+      {/* Fix 1 — hero subtitle uses stateSpecificIntro */}
       <StateHero
         eyebrow={`${stateData.name} Insurance Licensing`}
         title={`Get Your ${stateData.name} Insurance License Online`}
-        subtitle={`State-approved prelicensing and CE courses for ${stateData.name} life and health insurance agents. 100% online, self-paced, pass guarantee included.`}
+        subtitle={heroSubtitle}
         ctaButtons={[
           { text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing/` },
           { text: "Renew with CE", href: `/${stateData.slug}/continuing-education/`, variant: "secondary" },
@@ -77,6 +118,28 @@ export default async function StateHubPage({
       <TwoPathSelector stateSlug={stateData.slug} stateName={stateData.name} />
 
       <StateRequirementsBlock stateData={stateData} />
+
+      {/* Fix 5 — Last Verified + Provider Approval Number */}
+      <section className="bg-white py-4 px-4 border-t border-gray-100">
+        <div className="max-w-5xl mx-auto flex flex-wrap gap-x-8 gap-y-1 text-xs text-gray-400">
+          <span>Last Verified: {stateData.lastVerified}</span>
+          {stateData.providerApprovalNumber !== "PENDING" && (
+            <span>Provider Approval #: {stateData.providerApprovalNumber}</span>
+          )}
+        </div>
+      </section>
+
+      {/* Fix 8 — Link to requirements page */}
+      <section className="bg-white pb-6 px-4">
+        <div className="max-w-5xl mx-auto">
+          <a
+            href={`/${stateData.slug}/requirements/`}
+            className="text-sm text-navy underline hover:text-gold transition-colors"
+          >
+            {stateData.name} insurance license requirements &rarr;
+          </a>
+        </div>
+      </section>
 
       {/* Why JustInsurance — inline section */}
       <section className="bg-white py-16 px-4">
@@ -130,9 +193,32 @@ export default async function StateHubPage({
         </div>
       </section>
 
-      <TestimonialCards />
+      {/* Fix 4 — Lead testimonial uses state-matched data */}
+      <TestimonialCards leadTestimonial={stateData.stateTestimonial} />
 
       <FAQAccordion faqs={faqs} heading={`${stateData.name} Insurance License FAQs`} />
+
+      {/* Fix 7 — Special training requirements section (FL, CA, TX, NY, etc.) */}
+      {hasSpecialTraining && (
+        <section className="bg-navy py-16 px-4">
+          <div className="max-w-5xl mx-auto">
+            <h2 className="text-2xl md:text-3xl font-bold text-white text-center mb-3">
+              Special Training Requirements for {stateData.name}
+            </h2>
+            <p className="text-blue-200 text-center mb-10 max-w-xl mx-auto">
+              {stateData.name} mandates additional training for agents selling certain product types. Review these requirements before you apply.
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {specialTrainingItems.map((item) => (
+                <div key={item.label} className="bg-white/10 rounded-xl p-6 border border-white/20">
+                  <h3 className="font-bold text-white mb-2 text-sm">{item.label}</h3>
+                  <p className="text-blue-100 text-sm leading-relaxed">{item.description}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <CTABanner
         title={`Ready to Get Your ${stateData.name} Insurance License?`}

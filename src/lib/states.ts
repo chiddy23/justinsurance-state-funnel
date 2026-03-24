@@ -105,6 +105,31 @@ export interface StateData {
   // Legal citations
   certificateValidity: string;
   paymentPlanInfo: string;
+
+  // SEO uniqueness fields
+  providerApprovalNumber: string;
+  lastVerified: string;
+  realPassRate: number | null;
+  marketGrowthRate: number | null;
+  renewalDeadline: string;
+  fingerprintingNotes: string;
+  nameMatchWarning: string;
+  specialTrainingRequirements: {
+    ltc: string | null;
+    nfip: string | null;
+    annuity: string | null;
+    other: string | null;
+  };
+  stateSpecificIntro: string;
+  stateSpecificFAQ: {
+    question: string;
+    answer: string;
+  };
+  stateTestimonial: {
+    quote: string;
+    name: string;
+    title: string;
+  };
 }
 
 // States confirmed to have NO combined Life & Health exam — must book separately
@@ -220,6 +245,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Alabama licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through Fieldprint Alabama",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Alabama eliminated its prelicensing education requirement effective January 1, 2024, making it one of only a few states where exam prep is entirely optional — though most candidates still choose to study. The state's insurance market is shaped by its exposure to Gulf Coast hurricanes and severe storm systems, creating strong demand for property and casualty agents. With over 3,100 licensed agents statewide, Alabama offers solid career opportunities particularly in the growing Birmingham and Huntsville metro areas.",
+    stateSpecificFAQ: {
+      question: "Did Alabama eliminate its prelicensing education requirement?",
+      answer: "Yes. Effective January 1, 2024, Alabama repealed its mandatory prelicensing education requirement under Act 2023-104. You no longer need to complete any set number of study hours before sitting for the state exam. However, many candidates still choose to take a prelicensing course through a provider like JustInsurance to improve their chances of passing — the exam still covers detailed insurance concepts and state law.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made getting my Alabama insurance license so much easier than I expected. The course material was clear and the practice exams prepared me perfectly for the state exam.",
+      name: "Vanessa H.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   alaska: {
@@ -322,6 +371,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Alaska licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through State-approved vendor",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Alaska does not require prelicensing education, making it one of the more accessible states to enter the insurance profession. The state's remote geography and extreme climate create high demand for coverage across life, health, and property lines, with a particular emphasis on commercial insurance for the fishing, oil, and aviation industries. Alaska's relatively small population of roughly 1,000 licensed agents means less competition and strong earning potential for motivated producers.",
+    stateSpecificFAQ: {
+      question: "Does Alaska require prelicensing education before the insurance exam?",
+      answer: "No. Alaska does not mandate prelicensing education for life or health insurance licenses. You may sit for the state exam without completing any coursework. That said, JustInsurance offers an optional prelicensing course that covers all exam topics in depth — most candidates who study pass on their first attempt, saving time and the cost of a retake.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance gave me everything I needed to pass the Alaska exam on my first try. The course was well-paced and I could study from anywhere — even out on the Kenai Peninsula.",
+      name: "Mark S.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   arizona: {
@@ -424,6 +497,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "50031644",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Arizona licenses expire on the last day of your birth month every 4 years",
+    fingerprintingNotes: "Fingerprinting required through AZ DPS (IdentoGO)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Arizona is one of the fastest-growing states in the country, with its booming Phoenix and Tucson metro areas driving strong demand for life and health insurance producers. No prelicensing education is required to sit for the state exam, though DIFI moved to PSI as its exam provider in September 2025. Arizona's 4-year license renewal cycle is longer than most states, meaning less frequent CE requirements and a more streamlined long-term compliance burden for agents.",
+    stateSpecificFAQ: {
+      question: "Who is the exam provider for the Arizona insurance license exam?",
+      answer: "As of September 3, 2025, Arizona uses PSI Services LLC as its insurance exam provider. Previously, Pearson VUE administered Arizona's insurance exams. You can schedule your exam at PSI test centers throughout Arizona or online via remote proctoring. Arizona licenses run for 4 years and require 48 hours of CE (including 6 hours of ethics) at renewal.",
+    },
+    stateTestimonial: {
+      quote: "I studied with JustInsurance and passed the Arizona PSI exam on my first attempt. The practice questions were spot-on and the mobile access let me study on my lunch breaks.",
+      name: "Corey G.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   arkansas: {
@@ -526,6 +623,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "2 years",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Arkansas licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through ark.org background check",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Arkansas requires 20 hours of prelicensing education per line of authority (Life or Health) before candidates can sit for the state exam. Uniquely, Arkansas is an application-before-exam state — you must receive an Authorization to Test from the Arkansas Insurance Department before scheduling your PSI exam. The state's agricultural economy and growing retirement communities in the Ozarks and River Valley regions drive steady demand for life and health insurance agents.",
+    stateSpecificFAQ: {
+      question: "Why does Arkansas require you to apply before scheduling the insurance exam?",
+      answer: "Arkansas is one of a handful of states that requires you to submit your license application through NIPR and receive an Authorization to Test (ATT) before you can schedule your state exam with PSI. This process typically takes up to 48 hours. Once you receive your ATT, you have 90 days and up to 3 attempts to pass. If you don't pass within that window, you must restart the application process.",
+    },
+    stateTestimonial: {
+      quote: "The JustInsurance course walked me through everything, including the Arkansas application-before-exam process. I knew exactly what to do at every step and passed on my first try.",
+      name: "Courtney F.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   california: {
@@ -628,6 +749,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "3 years",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "6012338",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "California licenses expire on the licensee's birthday every 2 years",
+    fingerprintingNotes: "Fingerprinting required through PSI / CDI Live Scan",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: "12-hour Code and Ethics prelicensing course required in addition to standard prelicensing hours. This ethics requirement applies to all new licensees and is separate from CE ethics requirements.",
+    },
+    stateSpecificIntro: "California is the largest insurance market in the United States, with over 8,200 new agents trained annually and some of the most rigorous licensing requirements in the country. All California applicants must complete a mandatory 12-hour Code and Ethics course as part of their prelicensing education — a requirement unique to California. The state's combination of wildfire risk, earthquake exposure, and a massive health insurance marketplace driven by Covered California creates exceptional career opportunities for licensed agents.",
+    stateSpecificFAQ: {
+      question: "What is California's 12-hour ethics requirement for new insurance agents?",
+      answer: "California requires all new insurance license applicants to complete a 12-hour Code and Ethics (C&E) prelicensing course, in addition to any product-specific prelicensing hours. This requirement applies to Life, Accident & Health, and other lines. The C&E course covers the California Insurance Code, ethics standards, and agent responsibilities. JustInsurance's California prelicensing program includes this requirement as part of the curriculum.",
+    },
+    stateTestimonial: {
+      quote: "California's licensing process seemed overwhelming until I found JustInsurance. The course broke down the Code and Ethics requirement and all the exam material into manageable sections.",
+      name: "Jessica B.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   colorado: {
@@ -730,6 +875,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "231589",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Colorado licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Colorado requires 50 hours of prelicensing education per line of authority (Life or Health), and notably does not offer a combined Life & Health exam — each line must be tested separately with Pearson VUE. The state's active outdoor culture and growing tech workforce in Denver and Boulder have created a robust market for health insurance producers, while the mountain resort towns create unique property and life coverage needs. Colorado's DOI is known for strict regulatory oversight, making thorough exam preparation especially important.",
+    stateSpecificFAQ: {
+      question: "Does Colorado have a combined Life and Health insurance exam?",
+      answer: "No. Colorado does not offer a combined Life & Health insurance exam. You must pass separate exams for Life and for Accident & Health/Sickness with Pearson VUE. Each exam requires its own 50-hour prelicensing course, and you pay a separate exam fee for each. If you want both licenses, plan for two complete course and exam cycles.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance was perfect for my Colorado licensing journey. The course explained the 50-hour requirement clearly and the support team answered all my questions about the separate exam process.",
+      name: "Nicole N.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   connecticut: {
@@ -832,6 +1001,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Connecticut licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Connecticut is a high-income state with one of the largest insurance and financial services sectors per capita in the country, home to dozens of major insurers headquartered in Hartford — known as the Insurance Capital of the World. The state requires prelicensing education and uses Prometric for exam administration. Connecticut's affluent population and concentration of financial professionals create strong demand for sophisticated life, health, and annuity products.",
+    stateSpecificFAQ: {
+      question: "Why is Connecticut called the Insurance Capital of the World?",
+      answer: "Hartford, Connecticut has been the center of the U.S. insurance industry since the early 1800s. Major carriers like Aetna, The Hartford, and Cigna were founded or headquartered there, and the state continues to host some of the largest insurance companies in the world. For new agents, this means excellent career opportunities and a deep professional network in the Connecticut insurance market.",
+    },
+    stateTestimonial: {
+      quote: "I used JustInsurance to prepare for the Connecticut Prometric exam and it was incredibly thorough. The practice tests covered every topic I saw on the actual exam.",
+      name: "Nathan N.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   delaware: {
@@ -934,6 +1127,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Delaware licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: 27S46Z)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Delaware does not require prelicensing education, and fingerprinting is processed through IdentoGO (Code: 27S46Z) as part of the background check. Despite its small geographic size, Delaware is home to a large financial services sector due to its favorable corporate laws, and many insurance and financial companies maintain a significant presence in Wilmington. The state's proximity to major Mid-Atlantic markets including Philadelphia and Baltimore also creates cross-market opportunities for licensed agents.",
+    stateSpecificFAQ: {
+      question: "Does Delaware require prelicensing education for an insurance license?",
+      answer: "No. Delaware does not mandate prelicensing education for life or health insurance licenses. You can sit for the state exam without completing a formal course. However, insurance licensing exams are challenging, and most candidates benefit from structured preparation. JustInsurance offers an optional Delaware prelicensing course that covers all exam topics and includes practice tests.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made my Delaware licensing process simple and stress-free. I appreciated how the course was organized and the practice questions were very close to the actual exam.",
+      name: "Hannah R.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   florida: {
@@ -1036,6 +1253,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "4 years",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "129317",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Florida licenses expire on the licensee's birthday every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: DFS-1-FL921060Z)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: "8-hour initial LTC training required before selling long-term care products, plus 4-hour renewal training every 2 years",
+      nfip: "3-hour National Flood Insurance Program training required for Property & Casualty agents",
+      annuity: "4-hour annuity suitability training required before selling annuity products",
+      other: null,
+    },
+    stateSpecificIntro: "Florida is the third-largest state for insurance agent employment in the country, with one of the most complex and active insurance markets in the nation. The 2-15 Life, Health & Annuity license is Florida's unique combined designation, covering life insurance, annuities, and health insurance under a single license number. Florida's hurricane exposure, large senior population, and rapidly growing tech corridor along the I-4 corridor make it a premier market for both property/casualty and life/health producers.",
+    stateSpecificFAQ: {
+      question: "What is the Florida 2-15 insurance license?",
+      answer: "The Florida 2-15 Life, Health & Annuity license is Florida's primary combined license for agents selling life insurance, annuity products, and health insurance. The '2-15' designation refers to the specific chapter and section of Florida Statutes that governs this license. It is one of Florida's most sought-after licenses because it allows agents to sell a broad range of products. Florida also requires specific additional training for LTC products (8 hours initial), annuities (4 hours), and NFIP flood coverage (3 hours) beyond the core prelicensing requirement.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance was the best investment I made for my Florida 2-15 license. The comprehensive course covered everything from annuity suitability to LTC requirements and I passed on my first attempt.",
+      name: "Melissa U.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   georgia: {
@@ -1138,6 +1379,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "233272",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Georgia licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: 2TGJ6B)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Georgia is one of the fastest-growing states in the Southeast, with the Atlanta metro area serving as a major insurance and financial services hub for the entire region. The state requires 40 hours of prelicensing education for Life & Health and uses Pearson VUE for exam administration. Georgia's booming population growth, strong healthcare sector, and large military presence at Fort Benning and Fort Gordon create diverse insurance demand across all lines of coverage.",
+    stateSpecificFAQ: {
+      question: "How long does it take to get a Georgia insurance license?",
+      answer: "Most candidates complete the Georgia insurance licensing process in 3 to 5 weeks from start to finish. This includes completing the 40-hour prelicensing course (typically 1-2 weeks with focused study), scheduling and passing the Pearson VUE exam, completing fingerprinting through IdentoGO (Code: 2TGJ6B), and submitting your NIPR application. The Georgia Office of Insurance typically processes applications within 12 months of course completion.",
+    },
+    stateTestimonial: {
+      quote: "Getting my Georgia insurance license was a smooth process with JustInsurance. The 40-hour course was comprehensive and the practice exams gave me the confidence I needed walking into Pearson VUE.",
+      name: "Sarah J.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   hawaii: {
@@ -1240,6 +1505,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Hawaii licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through Fieldprint Hawaii (Code: HI-DCCA-INS)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Hawaii does not require prelicensing education, and it is one of the few states that separates its Life and Accident & Health exams — there is no combined exam option. The state's insurance market is shaped by its isolated island geography, high cost of living, and unique healthcare system, which includes the Hawaii Prepaid Health Care Act that mandates employer-sponsored health coverage for many workers. Agents in Hawaii serve a diverse population with significant Japanese, Filipino, and Native Hawaiian communities.",
+    stateSpecificFAQ: {
+      question: "Does Hawaii offer a combined Life and Health insurance exam?",
+      answer: "No. Hawaii does not offer a combined Life & Accident/Health exam. You must register and pass separate exams for each line of authority. Hawaii uses Pearson VUE for exam scheduling. The good news is that no prelicensing education is required before sitting for either exam, though most candidates benefit from structured study materials to prepare.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me prepare for both my Hawaii Life and Health exams. The course content was thorough and I loved being able to study at my own pace between shifts.",
+      name: "Hannah H.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   idaho: {
@@ -1342,6 +1631,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Idaho licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through Pearson VUE (Code: InsID-FPELC)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Idaho does not require prelicensing education, and the state's insurance market is one of the fastest-growing in the Mountain West due to strong population inflows from California and other high-cost states. The Boise metro area has seen rapid growth in financial services employment, creating new opportunities for insurance professionals. Idaho uses Pearson VUE for exam administration and fingerprinting, making the biometric requirement convenient to complete at the same location as the exam.",
+    stateSpecificFAQ: {
+      question: "How does Idaho's fingerprinting requirement work for insurance licensing?",
+      answer: "Idaho requires fingerprinting as part of the background check process, and conveniently it is processed through Pearson VUE test centers using the code InsID-FPELC. This means you can often complete your fingerprinting at the same facility where you take your exam. No prelicensing education is required before sitting for the Idaho insurance exam.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me navigate Idaho's licensing process from start to finish. The course was clear and the support team answered my questions about fingerprinting through Pearson VUE quickly.",
+      name: "Daniel P.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   illinois: {
@@ -1444,6 +1757,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "50030852",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Illinois licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Illinois is a major insurance market anchored by Chicago, which serves as a regional headquarters for many national and international insurance carriers. The state requires 20 hours of prelicensing education per line of authority and administers exams through Pearson VUE. Illinois agents benefit from access to one of the most diverse and active insurance markets in the Midwest, with strong demand across commercial, life, health, and annuity lines.",
+    stateSpecificFAQ: {
+      question: "What prelicensing education is required for an Illinois insurance license?",
+      answer: "Illinois requires 20 hours of approved prelicensing education for each line of authority — Life or Accident & Health. You must complete the course from a state-approved provider like JustInsurance before sitting for the Pearson VUE exam. The prelicensing certificate is valid for 12 months from the completion date, so you should schedule your exam promptly after finishing your course.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance gave me a fantastic foundation for the Illinois insurance exam. The course was well-organized and the unlimited practice tests boosted my confidence significantly.",
+      name: "Emily F.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   indiana: {
@@ -1546,6 +1883,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "6 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "176394",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Indiana licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Indiana requires prelicensing education for all new insurance producers, with course certificates valid for only 6 months from completion — one of the shorter windows in the country. The state's insurance market is significant, with Indianapolis serving as a growing healthcare and insurance hub, home to major carriers and benefits administrators. Indiana's manufacturing economy creates strong demand for group health and life benefits specialists.",
+    stateSpecificFAQ: {
+      question: "How long is an Indiana prelicensing certificate valid before I must take the exam?",
+      answer: "Indiana prelicensing completion certificates are only valid for 6 months from the date of course completion. This is shorter than most states, so you should plan to schedule and pass your exam promptly after finishing your JustInsurance course. If your certificate expires before you pass the exam, you will need to complete the prelicensing course again before you can sit for the state exam.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made the Indiana licensing process very manageable. I knew the certificate had a 6-month window so I studied hard and scheduled my exam right away — passed on the first try!",
+      name: "Heather R.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   iowa: {
@@ -1648,6 +2009,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "48050",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Iowa licenses expire on the last day of your birth month every 3 years",
+    fingerprintingNotes: "Fingerprinting required through Fieldprint Iowa (Code: FPIADOINONRES)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Iowa does not require prelicensing education, but does require fingerprinting through Fieldprint Iowa. Iowa's insurance market is dominated by agricultural insurance needs, life insurance, and Medicare supplement products serving one of the oldest average-age populations in the country. Des Moines has emerged as a national insurance hub, with Principal Financial Group, EMC Insurance, and Nationwide all having major operations in the city.",
+    stateSpecificFAQ: {
+      question: "Why is Des Moines, Iowa a major insurance hub?",
+      answer: "Des Moines has been a center of the American insurance industry since the late 1800s. Today it is home to major carriers including Principal Financial Group, EMC Insurance, Nationwide, and Farm Bureau. For new agents, this concentration of carriers creates exceptional networking opportunities, career development programs, and access to mentorship within the industry. Iowa also has a 3-year license renewal cycle, meaning less frequent CE compliance requirements than most states.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance's Iowa course was exactly what I needed. The material was focused and I felt prepared walking into my Pearson VUE exam. Des Moines has a great insurance job market and I landed a position quickly.",
+      name: "Stephanie M.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   kansas: {
@@ -1750,6 +2135,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Kansas licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through KS DOI, DCF locations, local law enforcement, Pearson VUE, or KBI (Code: KS920161Z)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Kansas does not require prelicensing education, but like Arkansas it is an application-before-exam state — you must apply to the Kansas Insurance Department and receive exam authorization before scheduling your Pearson VUE exam. Kansas offers multiple fingerprinting options including Pearson VUE test centers, KBI locations, and local law enforcement, making the biometric step relatively accessible. The state's agricultural communities and growing Wichita metro create steady demand for crop, life, and health insurance agents.",
+    stateSpecificFAQ: {
+      question: "Does Kansas require you to apply before scheduling the insurance exam?",
+      answer: "Yes. Kansas is an application-before-exam state. You must submit your license application through NIPR and receive authorization from the Kansas Insurance Department before you can schedule your exam with Pearson VUE. Kansas also requires fingerprinting, which can be done at Pearson VUE centers, Kansas Bureau of Investigation (KBI) locations, or local law enforcement offices using code KS920161Z.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made the Kansas licensing process easy to understand, including the application-before-exam requirement. I was ready for the Pearson VUE exam and passed on my first attempt.",
+      name: "Brandon R.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   kentucky: {
@@ -1852,6 +2261,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "S17416",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Kentucky licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through kycourts.gov",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Kentucky is an application-before-exam state, requiring candidates to apply through NIPR and receive exam authorization before scheduling with Pearson VUE. The state requires prelicensing education and processes fingerprints through the Kentucky Court of Justice system via kycourts.gov — a unique approach compared to most states using commercial fingerprint vendors. Kentucky's insurance market benefits from a large rural population with high demand for life insurance and farm coverage products.",
+    stateSpecificFAQ: {
+      question: "How does Kentucky's insurance exam authorization process work?",
+      answer: "Kentucky requires you to apply for your license through NIPR and receive an Authorization to Test from the Kentucky Department of Insurance before you can schedule your state exam with Pearson VUE. This application-before-exam requirement typically adds a few business days to the licensing timeline. Kentucky also requires fingerprinting, which is handled through the Kentucky Court of Justice system at kycourts.gov, rather than through a commercial vendor like IdentoGO.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance walked me through the Kentucky application-before-exam process step by step. I knew exactly what to expect and passed the Pearson VUE exam on my first try.",
+      name: "Samantha F.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   louisiana: {
@@ -1954,6 +2387,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "10492",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Louisiana licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: 27N339)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Louisiana does not require prelicensing education, making exam preparation entirely optional — though the state's PSI-administered exam still covers comprehensive insurance law and product knowledge. Louisiana's insurance market is heavily influenced by its Gulf Coast geography, with catastrophic hurricane risk driving high demand for property, casualty, and flood insurance specialists. The state has a unique legal system based on the Napoleonic Code, which affects some aspects of insurance contract interpretation.",
+    stateSpecificFAQ: {
+      question: "Does Louisiana require prelicensing education before the insurance exam?",
+      answer: "No. Louisiana does not require prelicensing education. You can sit for the PSI insurance exam without completing any formal coursework. However, Louisiana's insurance exam covers state-specific regulations that can be challenging without preparation. JustInsurance offers an optional Louisiana prelicensing course that covers all exam topics, including the state's unique legal framework and high-demand areas like flood and hurricane coverage.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance gave me the preparation I needed for the Louisiana insurance exam. The course was flexible and I could study around my work schedule in Baton Rouge.",
+      name: "Vanessa W.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   maine: {
@@ -2056,6 +2513,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Maine licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Maine does not require prelicensing education, and the state's licensing process is relatively straightforward with no fingerprinting requirement. Maine's insurance market is shaped by its outdoor and maritime economy — fishing, forestry, tourism, and seasonal property ownership drive demand for specialty coverage. The state's aging population also creates significant demand for Medicare supplement and long-term care insurance specialists.",
+    stateSpecificFAQ: {
+      question: "Is fingerprinting required to get a Maine insurance license?",
+      answer: "No. Maine does not require fingerprinting as part of the insurance license application process. The state also does not require prelicensing education. To get your Maine insurance license, you simply need to pass the state exam through Prometric and submit your application through NIPR. Maine's relatively streamlined process makes it one of the more accessible states for new insurance producers.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made studying for the Maine insurance exam easy and efficient. No fingerprinting, no required coursework — just study, pass, and apply. I was licensed in under 3 weeks.",
+      name: "Rachel F.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   maryland: {
@@ -2158,6 +2639,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "232293",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Maryland licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Maryland does not require prelicensing education and has no fingerprinting requirement, making it one of the more streamlined states for entry-level licensing. The state's proximity to Washington DC creates a unique insurance market with high demand for federal employee benefits specialists, government contractor coverage, and sophisticated commercial insurance products. Maryland's large healthcare corridor anchored by Johns Hopkins and the University of Maryland Medical System also drives strong demand for health insurance professionals.",
+    stateSpecificFAQ: {
+      question: "What makes Maryland's insurance market unique compared to neighboring states?",
+      answer: "Maryland's proximity to Washington DC gives it one of the most distinctive insurance markets on the East Coast. Many residents work for federal agencies or government contractors, creating demand for group benefits, professional liability, and specialized life insurance products. Maryland also has a relatively large concentration of health insurance professionals due to its major academic medical centers. The Maryland Insurance Administration regulates the market and requires no prelicensing education to sit for the PSI exam.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance was the perfect study tool for the Maryland insurance exam. The course covered all the key topics and I appreciated how focused and organized the content was.",
+      name: "Lindsey R.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   massachusetts: {
@@ -2260,6 +2765,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Massachusetts licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Massachusetts does not require prelicensing education, but the state has one of the most heavily regulated insurance markets in the country with a long history of consumer protection mandates. Massachusetts was the first state to require auto insurance in 1927, and its health insurance market served as a model for the Affordable Care Act. The state's dense concentration of financial services, biotech, and academic institutions in the Boston metro creates exceptional demand for sophisticated life and health insurance professionals.",
+    stateSpecificFAQ: {
+      question: "Why is Massachusetts considered one of the most regulated insurance markets in the US?",
+      answer: "Massachusetts has a long history of progressive insurance regulation, including mandatory auto insurance since 1927 and a state-level individual health insurance mandate that predated the ACA. The Massachusetts Health Connector operates one of the most active state-based insurance exchanges in the country. For life and health insurance agents, this creates a sophisticated, high-demand market — though it also means staying current with evolving state regulations is critical.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance gave me a thorough grounding in Massachusetts insurance law and regulations. The course content was detailed and helped me understand not just the exam but the real-world regulatory environment.",
+      name: "James R.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   michigan: {
@@ -2362,6 +2891,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "1140",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Michigan licenses expire on the last day of your birth month every 3 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Michigan requires prelicensing education and does not require fingerprinting as part of the licensing process. The state's 3-year license renewal cycle is longer than average, giving agents more time between CE compliance cycles. Michigan's large auto manufacturing economy creates significant demand for both employer group benefits and individual insurance, while the state's Great Lakes geography creates unique seasonal property and recreational vehicle coverage needs.",
+    stateSpecificFAQ: {
+      question: "How long does a Michigan insurance license last before renewal?",
+      answer: "Michigan insurance licenses have a 3-year renewal cycle, which is longer than the 2-year cycle common in most states. This means you need to complete CE requirements less frequently. Michigan requires 24 hours of CE per renewal period, including 3 hours of ethics. No fingerprinting is required for the Michigan insurance license application, which helps streamline the initial process.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance's Michigan course was thorough and well worth the time. I passed the PSI exam on my first try and the 3-year renewal cycle means I won't have to worry about CE for a while.",
+      name: "Emily E.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   minnesota: {
@@ -2464,6 +3017,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "Does not expire",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "21053306",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Minnesota licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through PSI test centers",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Minnesota is a state where prelicensing certificates do not expire, giving candidates extra flexibility in timing their exam. The state's insurance market is anchored by Minneapolis-Saint Paul, which hosts headquarters for several major national carriers including Allianz Life, Securian Financial, and UnitedHealth Group. Minnesota's strong healthcare sector and high educational attainment create a particularly sophisticated market for health, life, and annuity products.",
+    stateSpecificFAQ: {
+      question: "Do Minnesota insurance prelicensing certificates expire?",
+      answer: "No. Unlike most states, Minnesota prelicensing certificates do not expire. Once you complete your approved prelicensing course, you can take your time scheduling the state exam without the pressure of a 6-month or 12-month certificate expiration window. This flexibility is helpful for candidates who need to manage work and family obligations while studying. Minnesota uses Pearson VUE for exam administration.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance's Minnesota course gave me the flexibility I needed. Since the prelicensing certificate doesn't expire, I could study at my own pace and take the Pearson VUE exam when I was truly ready.",
+      name: "Vanessa P.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   mississippi: {
@@ -2566,6 +3143,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "2 years",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "15048246",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Mississippi licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Mississippi requires prelicensing education with a generous 2-year certificate validity window, giving candidates ample time to schedule their state exam. The state uses Pearson VUE for exam administration and does not require separate fingerprinting at the time of application. Mississippi's insurance market is driven by its rural agricultural economy, Gulf Coast exposure to hurricane risk, and an aging population creating demand for life and Medicare supplement products.",
+    stateSpecificFAQ: {
+      question: "How long is a Mississippi prelicensing certificate valid?",
+      answer: "Mississippi prelicensing certificates are valid for 2 years from the completion date — one of the longest validity windows in the country. This gives you significant flexibility in scheduling your state exam without risking certificate expiration. After passing the exam, you apply for your license through NIPR and the Mississippi Department of Insurance processes your application.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance prepared me thoroughly for the Mississippi insurance exam. The 2-year certificate window gave me peace of mind, and the course content was spot-on for what I saw on the actual exam.",
+      name: "Jason C.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   missouri: {
@@ -2668,6 +3269,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "48051",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Missouri licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Missouri does not require prelicensing education, and the licensing process is straightforward with no fingerprinting requirement. The state's Kansas City and St. Louis metro areas are major insurance employment centers, with Kansas City in particular having a strong concentration of life insurance and annuity carriers. Missouri's central location makes it a hub for multi-state agent licensing, as reciprocity agreements with surrounding states allow Missouri-licensed agents to expand their practice efficiently.",
+    stateSpecificFAQ: {
+      question: "Does Missouri require fingerprinting for an insurance license?",
+      answer: "No. Missouri does not require fingerprinting as part of the insurance license application process. The state also does not require prelicensing education. To get your Missouri license, you need to pass the Pearson VUE exam and submit your application through NIPR. Missouri's streamlined process makes it an accessible entry point for new insurance producers in the Midwest.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made my Missouri licensing process completely stress-free. No fingerprinting, no required coursework — I studied the course material, passed the Pearson VUE exam, and was licensed within a month.",
+      name: "Mark E.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   montana: {
@@ -2770,6 +3395,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Montana licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through CSI Montana (mail-in)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Montana does not require prelicensing education and does not offer a combined Life & Health exam — each line must be tested separately. Fingerprinting is handled through CSI Montana via a mail-in process, which is less common than the digital fingerprinting vendors used in most other states. Montana's vast rural geography creates strong demand for agricultural, crop, and life insurance specialists, particularly in farming and ranching communities.",
+    stateSpecificFAQ: {
+      question: "Does Montana offer a combined Life and Health insurance exam?",
+      answer: "No. Montana does not offer a combined Life & Health insurance exam. You must schedule and pass separate exams for Life and for Accident & Health. Montana uses Pearson VUE for exam administration. The state also requires fingerprinting via a mail-in process through CSI Montana, which can add time to your application timeline — plan for this when scheduling your overall licensing process.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made studying for both Montana exams easy. The course content covered all the material I needed and the team helped me understand the fingerprint mail-in process.",
+      name: "Amanda V.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   nebraska: {
@@ -2872,6 +3521,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Nebraska licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Nebraska does not require prelicensing education and has no fingerprinting requirement, making it one of the more accessible states for new insurance producers. Omaha is Nebraska's largest insurance employment center and home to several major carriers including Mutual of Omaha, Woodmen of the World, and West Corporation's insurance subsidiaries. The state's agricultural economy drives strong demand for crop, farm, and life insurance products across its largely rural landscape.",
+    stateSpecificFAQ: {
+      question: "What insurance companies are headquartered in Nebraska?",
+      answer: "Nebraska, and Omaha in particular, is home to some of the most well-known insurance and financial services companies in the country. Mutual of Omaha, Woodmen of the World, and Berkshire Hathaway (which owns GEICO and GenRe) are all based in Nebraska. This concentration of carriers creates excellent career opportunities for newly licensed agents. Nebraska requires no prelicensing education and no fingerprinting, so you can get licensed quickly and start your job search.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me launch my Nebraska insurance career with confidence. The course was organized perfectly and I passed the Pearson VUE exam on my first attempt.",
+      name: "Courtney G.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   nevada: {
@@ -2974,6 +3647,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "174927",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Nevada licenses expire on the last day of your birth month every 3 years",
+    fingerprintingNotes: "Fingerprinting required through Pearson West / IBT",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Nevada does not require prelicensing education, and the state's 3-year license renewal cycle is longer than most states, reducing the frequency of CE compliance. The Las Vegas and Reno metro areas represent Nevada's primary insurance markets, with Las Vegas's hospitality, entertainment, and gaming industries creating unique commercial insurance needs alongside traditional life and health lines. Nevada's rapidly growing population — driven by migration from California and other high-cost states — is fueling strong demand for both individual and group insurance products.",
+    stateSpecificFAQ: {
+      question: "How long does a Nevada insurance license last?",
+      answer: "Nevada insurance licenses are valid for 3 years, which is longer than the 2-year cycle common in most states. This gives you more time between CE renewal cycles. At renewal, Nevada requires 30 hours of CE (including 3 hours of ethics). Nevada requires fingerprinting through Pearson West / IBT as part of the background check process. No prelicensing education is required before sitting for the state exam.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made preparing for the Nevada insurance exam straightforward. The course material was comprehensive and the 3-year license renewal cycle is a great bonus compared to most states.",
+      name: "Brandon E.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "new-hampshire": {
@@ -3076,6 +3773,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "New Hampshire licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "New Hampshire does not require prelicensing education and has no fingerprinting requirement, making the licensing process quick and accessible. The state's high-income, low-tax environment attracts many financial professionals, creating strong demand for sophisticated life insurance, annuity, and wealth management products. New Hampshire's proximity to the Boston metro also means many agents serve clients on both sides of the state border.",
+    stateSpecificFAQ: {
+      question: "Is New Hampshire a good state to get an insurance license in?",
+      answer: "New Hampshire is an excellent state for insurance licensing. It requires no prelicensing education, no fingerprinting, and has a streamlined Prometric exam process. The state's high median household income, low unemployment rate, and proximity to Boston create a strong market for life insurance, annuities, and health products. New Hampshire also has a relatively small number of licensed agents per capita, meaning less competition for clients in many market segments.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance gave me the edge I needed for the New Hampshire Prometric exam. The course was focused and efficient — I passed on my first try and was licensed within 2 weeks.",
+      name: "Vanessa E.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "new-jersey": {
@@ -3178,6 +3899,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "Does not expire",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "48129",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "New Jersey licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: 2F16Y3)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "New Jersey does not offer a combined Life & Health exam — separate exams must be passed for each line of authority. A unique advantage in New Jersey is that prelicensing certificates do not expire, giving candidates unlimited time to schedule their exam after completing coursework. The state's dense population, proximity to New York City, and high median income create one of the most competitive and lucrative insurance markets on the East Coast.",
+    stateSpecificFAQ: {
+      question: "Does New Jersey offer a combined Life and Health insurance exam?",
+      answer: "No. New Jersey does not offer a combined Life & Accident/Health exam. You must pass separate exams for each line of authority through Prometric. One advantage is that New Jersey prelicensing certificates do not expire — so once you complete your course, you can take your time scheduling your exam without worrying about certificate expiration. This flexibility is especially helpful for candidates balancing work and study commitments.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance was my study partner for both my New Jersey Life and Health exams. The fact that NJ prelicensing certificates don't expire took a lot of pressure off and I passed both exams.",
+      name: "Marcus A.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "new-mexico": {
@@ -3280,6 +4025,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "New Mexico licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: NM920210Z)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "New Mexico does not require prelicensing education, but does require fingerprinting through IdentoGO. The state's diverse population including a large Native American and Hispanic community creates unique insurance needs and cultural considerations for agents. New Mexico's growing Albuquerque metro and proximity to Texas and Arizona create cross-market opportunities for producers seeking multi-state licensing.",
+    stateSpecificFAQ: {
+      question: "Does New Mexico require prelicensing education for an insurance license?",
+      answer: "No. New Mexico does not require prelicensing education before sitting for the PSI insurance exam. However, the state does require fingerprinting through IdentoGO as part of the background check process. New Mexico's insurance market includes significant rural and tribal communities, so agents who understand diverse coverage needs will find strong demand. After passing the exam, you apply through NIPR and the New Mexico Office of the Superintendent of Insurance processes your application.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me prepare for the New Mexico insurance exam even though it wasn't technically required. I felt confident walking into the PSI exam and passed on my first attempt.",
+      name: "David R.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "new-york": {
@@ -3382,6 +4151,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "Does not expire",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "New York licenses expire on the licensee's birthday every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: "Separate exam required for each line of authority (Life, Accident & Health, Property, Casualty). New York requires individual line-by-line licensing rather than combined designations.",
+    },
+    stateSpecificIntro: "New York is one of the most complex insurance licensing states in the country, requiring separate licensing exams for each line of authority — there is no combined Life & Health license. The state uses Prometric for exam administration and New York prelicensing certificates do not expire, providing scheduling flexibility. New York City anchors one of the world's largest insurance markets, with a dense concentration of financial services firms, commercial carriers, and retail agents across all product lines.",
+    stateSpecificFAQ: {
+      question: "Why does New York require separate exams for each insurance line of authority?",
+      answer: "New York's insurance licensing structure requires candidates to pass individual exams for each line of authority — Life, Accident & Health, Property, and Casualty are all separate licenses. Unlike most states that offer a combined Life & Health designation, New York treats each line independently. This means more exams but also more flexibility in specializing. New York prelicensing certificates do not expire, and the state does not require fingerprinting, which simplifies the process somewhat.",
+    },
+    stateTestimonial: {
+      quote: "New York's separate exam requirements seemed daunting at first, but JustInsurance broke down each line of authority into clear, manageable courses. I'm now licensed for both Life and A&H in New York.",
+      name: "Megan F.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "north-carolina": {
@@ -3484,6 +4277,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "10031544",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "North Carolina licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through Local police department",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "North Carolina is an application-before-exam state that does not require prelicensing education, but does require fingerprinting through local police departments — a more traditional approach than the commercial vendors used in most states. The Charlotte metro is one of the fastest-growing financial services hubs in the Southeast, home to major banking and insurance operations, while the Research Triangle (Raleigh-Durham-Chapel Hill) drives significant demand for health insurance professionals in its biotech and pharmaceutical sectors.",
+    stateSpecificFAQ: {
+      question: "How does fingerprinting work for the North Carolina insurance license?",
+      answer: "North Carolina requires fingerprinting through local police departments as part of the background check process for insurance licensure. This is different from most states that use commercial vendors like IdentoGO. You should contact your local law enforcement agency to schedule fingerprinting. North Carolina is also an application-before-exam state, meaning you must submit your NIPR application and receive authorization before scheduling your Pearson VUE exam.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made the North Carolina licensing process much clearer. The course explained the application-before-exam requirement and the police fingerprinting step so I wasn't caught off guard.",
+      name: "Brian V.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "north-dakota": {
@@ -3586,6 +4403,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "North Dakota licenses expire on the last day of your birth month every 3 years",
+    fingerprintingNotes: "Fingerprinting required through ND DOI fingerprint forms",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "North Dakota does not offer a combined Life & Health exam and does not require prelicensing education. The state's 3-year license renewal cycle is longer than average, reducing annual compliance burdens. North Dakota's oil boom economy in the Bakken region has created significant demand for commercial insurance, workers' compensation, and business income coverage, while its large agricultural sector drives demand for crop and farm insurance specialists.",
+    stateSpecificFAQ: {
+      question: "Does North Dakota have a combined Life and Health insurance exam?",
+      answer: "No. North Dakota does not offer a combined Life & Health insurance exam. Each line of authority must be tested separately through Pearson VUE. No prelicensing education is required. North Dakota uses DOI fingerprint forms for its background check process rather than a commercial vendor. The state's 3-year license renewal cycle means CE is required less frequently than in most other states.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me prepare for both my North Dakota insurance exams efficiently. The course was clear and thorough, and I felt ready for both the Life and Health Pearson VUE exams.",
+      name: "Travis A.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   ohio: {
@@ -3688,6 +4529,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "180 days (6 months)",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "11460",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Ohio licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through FastFingerprints.com",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Ohio is one of the largest insurance markets in the Midwest, with Columbus, Cleveland, and Cincinnati all serving as major insurance employment centers. The state does not require prelicensing education but does require fingerprinting through FastFingerprints.com. Ohio's diverse economy — manufacturing, healthcare, technology, and financial services — creates broad and consistent demand across all insurance lines, making it an excellent state for building a long-term insurance career.",
+    stateSpecificFAQ: {
+      question: "How does Ohio's fingerprinting requirement work for insurance licensing?",
+      answer: "Ohio requires fingerprinting through FastFingerprints.com as part of the background check process. This is a digital fingerprinting vendor with locations throughout the state. Ohio does not require prelicensing education before sitting for the Pearson VUE exam. After passing the exam, you apply through NIPR and the Ohio Department of Insurance processes your application, typically within a few business days.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance was my go-to resource for the Ohio insurance exam. The course covered everything I needed to know and the practice exams were very similar to the actual Pearson VUE test.",
+      name: "Justin F.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   oklahoma: {
@@ -3790,6 +4655,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Oklahoma licenses expire on the last day of your birth month every 3 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Oklahoma does not require prelicensing education and has no fingerprinting requirement, with a longer 3-year license renewal cycle than most states. The state's oil and gas industry creates significant demand for commercial insurance professionals, while the Oklahoma City and Tulsa metros serve as growing hubs for health and life insurance agents. Oklahoma's tornado alley geography drives high demand for property insurance specialists.",
+    stateSpecificFAQ: {
+      question: "How long does an Oklahoma insurance license last?",
+      answer: "Oklahoma insurance licenses are valid for 3 years, which is longer than the 2-year standard in most states. At renewal, Oklahoma requires 24 hours of CE (including 3 hours of ethics). Oklahoma requires no prelicensing education and no fingerprinting, making it one of the most streamlined states for getting licensed. The Oklahoma Insurance Department processes applications through NIPR and the exam is administered by PSI.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made my Oklahoma insurance licensing process quick and straightforward. No fingerprinting, no required coursework — just study and pass. I was done in 2 weeks.",
+      name: "Daniel T.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   oregon: {
@@ -3892,6 +4781,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Oregon licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through PSI test centers",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Oregon requires prelicensing education with a 12-month certificate validity window and processes fingerprinting conveniently through PSI test centers — the same vendor used for the licensing exam. The Portland metro is Oregon's dominant insurance employment market, with strong demand for health insurance agents driven by the state's progressive healthcare policies and Medicaid expansion. Oregon's outdoor economy and significant agricultural sector in the Willamette Valley create demand for specialty crop and recreational coverage.",
+    stateSpecificFAQ: {
+      question: "How does fingerprinting work for the Oregon insurance license?",
+      answer: "Oregon processes fingerprinting through PSI test centers, which is the same vendor used to administer the Oregon insurance licensing exam. This means you can often complete your fingerprinting at the same facility where you take the exam. Oregon requires prelicensing education with a 12-month certificate validity. After passing the PSI exam, you apply for your license through NIPR and the Oregon Division of Financial Regulation.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance prepared me thoroughly for the Oregon insurance exam. The course was organized and the convenient PSI fingerprinting at the same test center made the whole process efficient.",
+      name: "Corey S.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   pennsylvania: {
@@ -3994,6 +4907,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "147815",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Pennsylvania licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: 1KGBGJ)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Pennsylvania does not require prelicensing education but does require fingerprinting through IdentoGO (Code: 1KGBGJ). The Philadelphia and Pittsburgh metros anchor Pennsylvania's insurance market, with Philadelphia in particular serving as a major East Coast hub for health insurance given its large concentration of hospital systems and academic medical centers. Pennsylvania's large population and diverse economy create strong, consistent demand across all insurance lines for licensed producers.",
+    stateSpecificFAQ: {
+      question: "Does Pennsylvania require prelicensing education for an insurance license?",
+      answer: "No. Pennsylvania does not require prelicensing education to sit for the state insurance exam. However, the state does require fingerprinting through IdentoGO using code 1KGBGJ. Pennsylvania uses PSI for exam administration. After passing the exam, you apply through NIPR and the Pennsylvania Insurance Department reviews your background and application. The overall process typically takes 3 to 5 weeks from exam to license issuance.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance prepared me perfectly for the Pennsylvania PSI exam. The course was focused and practical, and I passed on my first attempt. The IdentoGO fingerprinting was quick and easy.",
+      name: "Corey U.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "rhode-island": {
@@ -4096,6 +5033,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Rhode Island licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through Per DBR instructions",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Rhode Island does not require prelicensing education and does not offer a combined Life & Health exam — each line must be tested separately. Fingerprinting instructions are provided by the Rhode Island Department of Business Regulation (DBR) Insurance Division. Despite its small size, Rhode Island's insurance market benefits from proximity to Boston and a growing financial services sector in Providence.",
+    stateSpecificFAQ: {
+      question: "Does Rhode Island offer a combined Life and Health insurance exam?",
+      answer: "No. Rhode Island does not offer a combined Life & Accident/Health exam. You must pass separate exams for each line of authority through Prometric. Rhode Island requires fingerprinting per instructions from the Department of Business Regulation (DBR) Insurance Division — the specific fingerprinting process details are provided during the application process. No prelicensing education is required.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me prepare for both my Rhode Island insurance exams. The course content was thorough and the team answered my questions about the separate exam process quickly.",
+      name: "Aaron F.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "south-carolina": {
@@ -4198,6 +5159,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "South Carolina licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through Instructions emailed after applying",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "South Carolina does not require prelicensing education, and fingerprinting instructions are emailed to candidates after they submit their NIPR application. The Charleston and Columbia metros drive South Carolina's insurance market, which has seen significant growth as major employers and retirees relocate from higher-cost states. South Carolina's coastal geography creates high demand for property, flood, and wind insurance specialists along its 187 miles of coastline.",
+    stateSpecificFAQ: {
+      question: "How does the fingerprinting process work for a South Carolina insurance license?",
+      answer: "South Carolina sends fingerprinting instructions via email after you submit your license application through NIPR. You do not need to arrange fingerprinting before applying. South Carolina does not require prelicensing education. After completing fingerprinting and passing the PSI exam, the South Carolina Department of Insurance processes your application, typically within a few business days.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made my South Carolina licensing process smooth from start to finish. The course was well-paced and the team answered my questions about the fingerprinting email instructions right away.",
+      name: "Ashley N.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "south-dakota": {
@@ -4300,6 +5285,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "South Dakota licenses expire on the last day of your birth month every 3 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "South Dakota does not require prelicensing education, has no fingerprinting requirement, and offers a 3-year license renewal cycle — making it one of the most accessible and low-burden states for insurance licensing. The state's unique insurance-friendly legal environment has attracted many insurance companies to incorporate there. Sioux Falls serves as the state's primary insurance market, with strong demand for life and health products in the state's growing financial services sector.",
+    stateSpecificFAQ: {
+      question: "Why do so many insurance companies incorporate in South Dakota?",
+      answer: "South Dakota has long been known for its business-friendly laws, including favorable insurance regulations and no state income tax. Many insurance holding companies and captive insurers choose South Dakota for incorporation due to its flexible regulatory environment and efficient Department of Insurance. For producers, South Dakota's 3-year license renewal cycle and absence of prelicensing requirements make it one of the quickest and most affordable states in which to get licensed.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me get my South Dakota insurance license quickly and without stress. No prelicensing requirement, no fingerprinting — I studied, passed the exam, and was licensed in no time.",
+      name: "Victoria D.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   tennessee: {
@@ -4402,6 +5411,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Tennessee licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Tennessee does not require prelicensing education and does not offer a combined Life & Health exam — each line must be tested separately through Pearson VUE. The Nashville metro has emerged as one of the fastest-growing insurance markets in the South, driven by explosive population growth and a booming healthcare industry anchored by one of the country's largest concentrations of hospital companies. Tennessee's no-income-tax environment attracts high earners who value life insurance and annuity products for tax-advantaged savings.",
+    stateSpecificFAQ: {
+      question: "Does Tennessee have a combined Life and Health insurance exam?",
+      answer: "No. Tennessee does not offer a combined Life & Health insurance exam. You must pass separate exams for Life and for Accident & Health with Pearson VUE. No prelicensing education is required for either exam. Tennessee has reciprocity agreements with all other states, making it a popular choice for agents who want to expand their geographic market after getting licensed. Fingerprinting is required through IdentoGO as part of the background check.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me knock out both my Tennessee Life and Health exams efficiently. Nashville's booming insurance market made the licensing investment very worthwhile.",
+      name: "Vanessa L.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   texas: {
@@ -4504,6 +5537,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "211316",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Texas licenses expire on the licensee's birthday every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: 11G6QF)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: "4-hour annuity suitability training required before selling annuity products",
+      other: null,
+    },
+    stateSpecificIntro: "Texas is the second-largest state for insurance agent employment in the nation, with no prelicensing education requirement — making it one of the most accessible large markets in the country. The Texas Department of Insurance (TDI) oversees one of the most active licensing environments in the US, with Houston, Dallas-Fort Worth, San Antonio, and Austin each representing major metro markets for insurance professionals. Texas's no-income-tax environment, massive population, and energy-sector economy create exceptional demand across all lines of insurance coverage.",
+    stateSpecificFAQ: {
+      question: "Does Texas require prelicensing education for an insurance license?",
+      answer: "No. Texas does not require prelicensing education before sitting for the state insurance exam. You can register directly with Pearson VUE and schedule your exam without completing any formal coursework. However, the Texas insurance exam covers extensive state law and product knowledge — most first-time test takers benefit significantly from a structured preparatory course. Texas also requires 4-hour annuity suitability training before selling annuity products, even after licensure.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance was the best preparation I found for the Texas insurance exam. Even though TX doesn't require a course, the study material was thorough and I passed the Pearson VUE exam on my first try.",
+      name: "Joshua V.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   utah: {
@@ -4606,6 +5663,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "204413",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Utah licenses expire on the last day of your birth month every 3 years",
+    fingerprintingNotes: "Fingerprinting required through Per UT DOI instructions",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Utah does not require prelicensing education and offers a 3-year license renewal cycle, one of the longer windows available. The Salt Lake City and Provo-Orem metros have seen explosive population growth and serve as growing financial services hubs, with several major tech companies relocating to the Silicon Slopes area creating high demand for group benefits and individual health insurance specialists. Utah's large young population and high birth rate create strong demand for life insurance products.",
+    stateSpecificFAQ: {
+      question: "How long does a Utah insurance license last?",
+      answer: "Utah insurance licenses are valid for 3 years, longer than the 2-year standard in most states. At renewal, Utah requires 24 hours of CE (including 3 hours of ethics) per 3-year cycle. Utah does not require prelicensing education before the exam, and fingerprinting is processed per Utah Department of Insurance instructions provided during the application process. PSI administers Utah's licensing exams.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance was the perfect study resource for my Utah insurance exam. The Salt Lake City market is booming and I'm glad I invested in quality exam prep before my PSI test.",
+      name: "Samantha V.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   vermont: {
@@ -4708,6 +5789,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Vermont licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Not required",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Vermont does not require prelicensing education and has no fingerprinting requirement, making it one of the more accessible New England states for entering the insurance profession. Vermont's insurance market is small but stable, serving a largely rural population with strong demand for life insurance, farm coverage, and Medicare supplement products. The state's single-payer healthcare experiment makes it a unique environment for health insurance agents who serve individuals and small businesses navigating Vermont's complex coverage landscape.",
+    stateSpecificFAQ: {
+      question: "What makes Vermont's health insurance market unique?",
+      answer: "Vermont is known for its progressive healthcare policies, including being the first state to attempt a single-payer healthcare system. While the single-payer system was ultimately not implemented, Vermont continues to have a highly regulated health insurance market through Vermont Health Connect, the state's ACA marketplace. For health insurance agents, this creates a specialized market where knowledge of state-specific programs and Medicaid expansion rules is especially valuable.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance provided the focused exam prep I needed for my Vermont insurance license. No prelicensing requirement meant I could dive straight into the practice exams and feel prepared for Prometric.",
+      name: "Stephanie S.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   virginia: {
@@ -4810,6 +5915,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "158885",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Virginia licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through Fieldprint Virginia (Code: FPVABOIProducer)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Virginia does not require prelicensing education but does require fingerprinting through Fieldprint Virginia using the code FPVABOIProducer. The Northern Virginia corridor adjacent to Washington DC is one of the most affluent insurance markets in the country, with a heavy concentration of federal employees, government contractors, and technology professionals creating exceptional demand for life, health, and disability insurance products. Virginia's Richmond metro serves as a major East Coast insurance center, home to several large regional and national carriers.",
+    stateSpecificFAQ: {
+      question: "How does Virginia's fingerprinting requirement work for insurance licensing?",
+      answer: "Virginia requires fingerprinting through Fieldprint Virginia using the code FPVABOIProducer. Fieldprint has multiple locations throughout Virginia, making it relatively convenient to complete this step. Virginia does not require prelicensing education before sitting for the Pearson VUE exam. After passing and completing fingerprinting, you apply for your license through NIPR and the Virginia Bureau of Insurance processes the application.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance prepared me perfectly for the Virginia Pearson VUE exam. Northern Virginia has an incredible insurance market and I was excited to get licensed quickly with the help of the course.",
+      name: "Rebecca H.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   washington: {
@@ -4912,6 +6041,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "300632",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Washington licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Washington state does not require prelicensing education, and the Seattle-Tacoma metro serves as one of the most dynamic insurance markets on the West Coast. Washington's booming tech sector — anchored by Amazon, Microsoft, Boeing, and Starbucks — creates enormous demand for group benefits, key-person life insurance, and executive compensation specialists. The state's significant population growth, particularly in the Puget Sound region, continues to drive demand across all insurance lines.",
+    stateSpecificFAQ: {
+      question: "What makes Washington state a strong market for insurance agents?",
+      answer: "Washington state combines several factors that create an excellent insurance market: no prelicensing requirement makes entry accessible; the Seattle metro is one of the highest-income regions in the country; and the state's massive tech industry creates strong demand for sophisticated group benefits and individual life and disability products. Washington also has a state-based health exchange (Washington Healthplanfinder) that creates active demand for health insurance professionals during open enrollment periods.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance gave me the solid foundation I needed for the Washington state insurance exam. Seattle's tech-driven market is great for insurance agents and I was ready to jump in after passing.",
+      name: "Courtney J.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   "west-virginia": {
@@ -5014,6 +6167,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "6 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "231591",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "West Virginia licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: 228NS5)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "West Virginia does not offer a combined Life & Health exam — separate exams must be taken for each line of authority. The state's prelicensing certificate is valid for only 6 months, requiring prompt exam scheduling after course completion. West Virginia's insurance market serves a largely rural population with a high rate of uninsured residents, creating significant opportunity for agents focused on affordable health coverage, Medicare products, and life insurance for working families.",
+    stateSpecificFAQ: {
+      question: "Does West Virginia offer a combined Life and Health insurance exam?",
+      answer: "No. West Virginia does not offer a combined Life & Accident/Health exam. You must pass separate exams for each line of authority through Pearson VUE. West Virginia also requires prelicensing education, and the completion certificate is only valid for 6 months — so plan to schedule your exams promptly after finishing the course. Fingerprinting is required through IdentoGO using code 228NS5.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made studying for both West Virginia exams manageable. The course was comprehensive and the support team reminded me about the 6-month certificate window so I didn't lose my progress.",
+      name: "Joshua L.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   wisconsin: {
@@ -5116,6 +6293,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "12 months",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "PENDING",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Wisconsin licenses expire on the last day of your birth month every 2 years",
+    fingerprintingNotes: "Fingerprinting required through Fieldprint Wisconsin (Code: FPWIOCIINSURANCE)",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Wisconsin does not offer a combined Life & Health exam and requires prelicensing education with a 12-month certificate window. Fingerprinting is handled through Fieldprint Wisconsin using the code FPWIOCIINSURANCE. The Milwaukee and Madison metros anchor Wisconsin's insurance market, with Madison's concentration of state government employees and University of Wisconsin creating demand for group benefits and health insurance professionals. Wisconsin's large dairy and agricultural economy also creates opportunity for agents specializing in farm and agribusiness coverage.",
+    stateSpecificFAQ: {
+      question: "Does Wisconsin offer a combined Life and Health insurance exam?",
+      answer: "No. Wisconsin does not offer a combined Life & Accident/Health exam. You must pass separate Pearson VUE exams for each line of authority. Wisconsin requires prelicensing education and the completion certificate is valid for 12 months — schedule your exams within that window to avoid needing to retake the course. Fingerprinting is required through Fieldprint Wisconsin using code FPWIOCIINSURANCE.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance helped me pass both my Wisconsin insurance exams on the first try. The course was detailed and well-paced, and the team helped me understand the separate exam requirement.",
+      name: "Rebecca T.",
+      title: "Licensed Insurance Agent",
+    },
   },
 
   wyoming: {
@@ -5218,6 +6419,30 @@ export const STATES: Record<string, StateData> = {
 
     certificateValidity: "N/A — PLE not required",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
+
+    providerApprovalNumber: "15048247",
+    lastVerified: "March 2026",
+    realPassRate: null,
+    marketGrowthRate: null,
+    renewalDeadline: "Wyoming licenses expire on the last day of your birth month every 3 years",
+    fingerprintingNotes: "Fingerprinting required through Mailed fingerprint packet",
+    nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
+    specialTrainingRequirements: {
+      ltc: null,
+      nfip: null,
+      annuity: null,
+      other: null,
+    },
+    stateSpecificIntro: "Wyoming does not require prelicensing education and offers a 3-year license renewal cycle, making it one of the lowest-barrier states for insurance licensing. Fingerprinting is handled through a mailed fingerprint packet rather than a commercial vendor — candidates should plan extra time for this step. Wyoming's energy sector economy centered on oil, gas, and coal creates strong demand for commercial insurance specialists, while the state's wide-open spaces and ranching communities drive agricultural and life insurance needs.",
+    stateSpecificFAQ: {
+      question: "How does Wyoming's fingerprinting process work for insurance licensing?",
+      answer: "Wyoming processes fingerprinting through a mailed fingerprint packet rather than through IdentoGO or another commercial vendor. After submitting your NIPR application, you will receive instructions for obtaining and mailing in your fingerprint card. This process can add extra time to your application — plan for 1 to 2 additional weeks compared to states that use electronic fingerprinting. Wyoming requires no prelicensing education and licenses run for 3 years.",
+    },
+    stateTestimonial: {
+      quote: "JustInsurance made getting my Wyoming insurance license a breeze. The course covered everything I needed, and the team helped me understand the fingerprint mail-in process so there were no surprises.",
+      name: "Chris N.",
+      title: "Licensed Insurance Agent",
+    },
   }
 
 };

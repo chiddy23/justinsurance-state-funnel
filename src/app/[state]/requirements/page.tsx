@@ -1,0 +1,558 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { getStateBySlug } from "@/lib/states";
+import { generateStateParams } from "@/lib/generateStaticParams";
+import {
+  generateBreadcrumbSchema,
+  generateFAQSchema,
+  SchemaMarkup,
+} from "@/lib/schema";
+import StateHero from "@/components/StateHero";
+import FAQAccordion from "@/components/FAQAccordion";
+import CTABanner from "@/components/CTABanner";
+import BreadcrumbNav from "@/components/BreadcrumbNav";
+
+export function generateStaticParams() {
+  return generateStateParams();
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ state: string }>;
+}): Promise<Metadata> {
+  const { state } = await params;
+  const stateData = getStateBySlug(state);
+  if (!stateData) return {};
+  return {
+    title: `${stateData.name} Insurance License Requirements 2026`,
+    description: `Complete ${stateData.name} insurance license requirements: prelicensing hours, exam details, fingerprinting, CE renewal, and special training. Updated ${stateData.lastVerified}.`,
+    robots: "index, follow",
+    alternates: {
+      canonical: `https://justinsuranceco.com/${stateData.slug}/requirements/`,
+    },
+    openGraph: {
+      title: `${stateData.name} Insurance License Requirements 2026`,
+      description: `Complete ${stateData.name} insurance license requirements: prelicensing hours, exam details, fingerprinting, CE renewal, and special training. Updated ${stateData.lastVerified}.`,
+      url: `https://justinsuranceco.com/${stateData.slug}/requirements/`,
+      siteName: "JustInsurance",
+      type: "website",
+    },
+  };
+}
+
+export default async function RequirementsPage({
+  params,
+}: {
+  params: Promise<{ state: string }>;
+}) {
+  const { state } = await params;
+  const stateData = getStateBySlug(state);
+  if (!stateData) notFound();
+
+  const hasSpecialTraining =
+    stateData.specialTrainingRequirements.ltc !== null ||
+    stateData.specialTrainingRequirements.nfip !== null ||
+    stateData.specialTrainingRequirements.annuity !== null ||
+    stateData.specialTrainingRequirements.other !== null;
+
+  const hasFingerprinting =
+    stateData.fingerprintingNotes &&
+    !stateData.fingerprintingNotes.toLowerCase().includes("not required") &&
+    !stateData.fingerprintingNotes.toLowerCase().includes("no fingerprint");
+
+  // Build FAQ list — templated questions + state-specific FAQ
+  const faqs = [
+    {
+      question: `How long does it take to get a ${stateData.name} insurance license?`,
+      answer: `Most candidates complete the ${stateData.name} insurance licensing process in ${stateData.totalLicensingTime}. This includes completing prelicensing education, passing the state exam, fingerprinting (if required), and waiting for license approval after submitting your application.`,
+    },
+    {
+      question: `What happens if my name doesn't match my ID in ${stateData.name}?`,
+      answer: stateData.nameMatchWarning,
+    },
+    {
+      question: `Where do I get fingerprinted in ${stateData.name}?`,
+      answer: stateData.fingerprintingNotes,
+    },
+    {
+      question: `Can I transfer my insurance license from another state to ${stateData.name}?`,
+      answer: stateData.reciprocityInfo,
+    },
+    {
+      question: `How much does a ${stateData.name} insurance license cost?`,
+      answer: `The total cost to get your ${stateData.name} insurance license typically falls in the ${stateData.totalCostRange} range. This includes: prelicensing course fees, the exam fee ($${stateData.examInfo.examFee}), the state application fee ($${stateData.applicationFee}), and the background check cost ($${stateData.backgroundCheckCost}). Individual costs vary based on the line of authority you choose.`,
+    },
+    {
+      question: `What are the ${stateData.name} CE requirements?`,
+      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} hours of ethics training. Your renewal deadline is ${stateData.renewalDeadline}. JustInsurance offers state-approved CE packages starting at ${stateData.ce.packagePrice}.`,
+    },
+    // State-specific FAQ from data
+    stateData.stateSpecificFAQ,
+    {
+      question: `What are the prelicensing hour requirements in ${stateData.name}?`,
+      answer: `${stateData.name} requires${
+        typeof stateData.prelicensing.life.hours === "number"
+          ? ` ${stateData.prelicensing.life.hours} hours for Life,`
+          : ""
+      }${
+        typeof stateData.prelicensing.health.hours === "number"
+          ? ` ${stateData.prelicensing.health.hours} hours for Health,`
+          : ""
+      }${
+        typeof stateData.prelicensing.lifeAndHealth.hours === "number"
+          ? ` and ${stateData.prelicensing.lifeAndHealth.hours} hours for a combined Life & Health license.`
+          : typeof stateData.prelicensing.life.hours === "string"
+          ? ` ${stateData.prelicensing.life.hours}.`
+          : "."
+      } Courses are available fully online through JustInsurance.`,
+    },
+  ];
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: "Home", url: "https://justinsuranceco.com/" },
+    {
+      name: stateData.name,
+      url: `https://justinsuranceco.com/${stateData.slug}/`,
+    },
+    {
+      name: "Requirements",
+      url: `https://justinsuranceco.com/${stateData.slug}/requirements/`,
+    },
+  ]);
+  const faqSchema = generateFAQSchema(faqs);
+
+  const crumbs = [
+    { name: "Home", href: "/" },
+    { name: stateData.name, href: `/${stateData.slug}/` },
+    { name: "Requirements" },
+  ];
+
+  return (
+    <>
+      <SchemaMarkup schema={breadcrumbSchema} />
+      <SchemaMarkup schema={faqSchema} />
+
+      <BreadcrumbNav crumbs={crumbs} />
+
+      {/* ── 1. Hero ─────────────────────────────────────────────────────────── */}
+      <StateHero
+        eyebrow={`${stateData.name} License Requirements`}
+        title={`${stateData.name} Insurance License Requirements (2026)`}
+        subtitle={`Everything you need to know to get and keep your ${stateData.name} insurance license — hours, exam, fingerprinting, renewal, and state-specific rules.`}
+        ctaButtons={[
+          {
+            text: "Start My Course",
+            href: `/${stateData.slug}/prelicensing/`,
+          },
+          {
+            text: "Renew My License",
+            href: `/${stateData.slug}/continuing-education/`,
+            variant: "secondary",
+          },
+        ]}
+      />
+
+      {/* Verification badges under hero */}
+      <div className="bg-navy border-t border-blue-800 py-3 px-4">
+        <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-6 text-sm text-blue-200">
+          <span>Last Verified: {stateData.lastVerified}</span>
+          {stateData.providerApprovalNumber !== "PENDING" && (
+            <span>Provider Approval #{stateData.providerApprovalNumber}</span>
+          )}
+          <span>Approved by {stateData.doiAbbr}</span>
+        </div>
+      </div>
+
+      {/* ── 2. Quick Requirements Summary Table ─────────────────────────────── */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+            {stateData.name} Insurance License Requirements at a Glance
+          </h2>
+          <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
+            Key facts for getting and maintaining your {stateData.name}{" "}
+            insurance license.
+          </p>
+          <div className="overflow-x-auto rounded-xl border border-gray-200 shadow-sm">
+            <table className="w-full text-sm">
+              <tbody>
+                {[
+                  { label: "Minimum Age", value: `${stateData.minAge} years old` },
+                  { label: "Residency Requirement", value: stateData.residencyRequirement },
+                  {
+                    label: "Prelicensing Hours (Life)",
+                    value:
+                      typeof stateData.prelicensing.life.hours === "number"
+                        ? `${stateData.prelicensing.life.hours} hours`
+                        : String(stateData.prelicensing.life.hours),
+                  },
+                  {
+                    label: "Prelicensing Hours (Health)",
+                    value:
+                      typeof stateData.prelicensing.health.hours === "number"
+                        ? `${stateData.prelicensing.health.hours} hours`
+                        : String(stateData.prelicensing.health.hours),
+                  },
+                  {
+                    label: "Prelicensing Hours (Life & Health Combined)",
+                    value:
+                      typeof stateData.prelicensing.lifeAndHealth.hours === "number"
+                        ? `${stateData.prelicensing.lifeAndHealth.hours} hours`
+                        : String(stateData.prelicensing.lifeAndHealth.hours),
+                  },
+                  { label: "Exam Provider", value: stateData.examInfo.examProvider },
+                  { label: "Exam Fee", value: `$${stateData.examInfo.examFee}` },
+                  { label: "Passing Score", value: `${stateData.examInfo.passingScore}%` },
+                  { label: "Application Fee", value: `$${stateData.applicationFee}` },
+                  { label: "Background Check Cost", value: `$${stateData.backgroundCheckCost}` },
+                  {
+                    label: "Fingerprinting Required",
+                    value: hasFingerprinting ? "Yes" : "No",
+                  },
+                  {
+                    label: "CE Hours Required",
+                    value: `${stateData.ce.totalHours} hours every ${stateData.ce.renewalPeriod}`,
+                  },
+                  { label: "Ethics CE Hours", value: `${stateData.ce.ethicsHours} hours` },
+                  { label: "Renewal Deadline", value: stateData.renewalDeadline },
+                  { label: "License Duration", value: stateData.licenseDuration },
+                  {
+                    label: "Special Training Required",
+                    value: hasSpecialTraining ? "Yes (see below)" : "No",
+                  },
+                  { label: "Total Cost Estimate", value: stateData.totalCostRange },
+                  { label: "Total Licensing Time", value: stateData.totalLicensingTime },
+                ].map((row, i) => (
+                  <tr
+                    key={row.label}
+                    className={i % 2 === 0 ? "bg-white" : "bg-gray-bg"}
+                  >
+                    <td className="px-5 py-3.5 font-semibold text-navy w-1/2">
+                      {row.label}
+                    </td>
+                    <td className="px-5 py-3.5 text-gray-700">{row.value}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      {/* ── 3. Step-by-Step Licensing Process ───────────────────────────────── */}
+      <section className="bg-gray-bg py-16 px-4">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+            How to Get Your {stateData.name} Insurance License
+          </h2>
+          <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
+            Follow these five steps to go from zero to licensed in{" "}
+            {stateData.name}.
+          </p>
+          <div className="space-y-6">
+            {/* Step 1 */}
+            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
+              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                <span className="text-gray-dark font-bold">1</span>
+              </div>
+              <div className="flex-1">
+                <h3 className="font-bold text-navy text-lg mb-2">
+                  Complete Prelicensing Education
+                </h3>
+                {typeof stateData.prelicensing.lifeAndHealth.hours === "number" ? (
+                  <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                    {stateData.name} requires you to complete{" "}
+                    {stateData.prelicensing.lifeAndHealth.hours} hours of
+                    state-approved prelicensing education before sitting for
+                    the exam. JustInsurance&apos;s online courses let you
+                    study at your own pace on any device. You&apos;ll receive an
+                    official certificate of completion once you finish.
+                  </p>
+                ) : (
+                  <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                    Prelicensing education status for {stateData.name}:{" "}
+                    {String(stateData.prelicensing.life.hours)}. Check with
+                    the {stateData.doiName} for current requirements.
+                  </p>
+                )}
+                <Link
+                  href={`/${stateData.slug}/prelicensing/`}
+                  className="text-sm font-semibold text-gold hover:underline"
+                >
+                  Browse {stateData.name} Prelicensing Courses →
+                </Link>
+              </div>
+            </div>
+
+            {/* Step 2 */}
+            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
+              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                <span className="text-gray-dark font-bold">2</span>
+              </div>
+              <div className="flex-1">
+                <h3 className="font-bold text-navy text-lg mb-2">
+                  Schedule and Pass the State Exam
+                </h3>
+                <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                  The {stateData.name} insurance licensing exam is administered
+                  by {stateData.examInfo.examProvider}. The exam fee is $
+                  {stateData.examInfo.examFee}, and you&apos;ll need a passing
+                  score of {stateData.examInfo.passingScore}%. Schedule your
+                  exam online after completing your prelicensing education.
+                </p>
+                {stateData.examInfo.examBookingUrl && (
+                  <a
+                    href={stateData.examInfo.examBookingUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-sm font-semibold text-gold hover:underline"
+                  >
+                    Schedule Your Exam with {stateData.examInfo.examProvider} →
+                  </a>
+                )}
+              </div>
+            </div>
+
+            {/* Step 3 */}
+            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
+              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                <span className="text-gray-dark font-bold">3</span>
+              </div>
+              <div className="flex-1">
+                <h3 className="font-bold text-navy text-lg mb-2">
+                  Complete Fingerprinting
+                </h3>
+                <p className="text-gray-600 text-sm leading-relaxed">
+                  {stateData.fingerprintingNotes}
+                </p>
+              </div>
+            </div>
+
+            {/* Step 4 */}
+            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
+              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                <span className="text-gray-dark font-bold">4</span>
+              </div>
+              <div className="flex-1">
+                <h3 className="font-bold text-navy text-lg mb-2">
+                  Apply for Your License
+                </h3>
+                <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                  {stateData.applicationProcess} The application fee is $
+                  {stateData.applicationFee}. Processing typically takes{" "}
+                  {stateData.applicationProcessingTime}.
+                </p>
+                {stateData.licenseApplicationPortal && (
+                  <a
+                    href={stateData.licenseApplicationPortal}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-sm font-semibold text-gold hover:underline"
+                  >
+                    Apply for Your {stateData.name} License →
+                  </a>
+                )}
+              </div>
+            </div>
+
+            {/* Step 5 */}
+            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
+              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                <span className="text-gray-dark font-bold">5</span>
+              </div>
+              <div className="flex-1">
+                <h3 className="font-bold text-navy text-lg mb-2">
+                  Get Appointed and Start Selling
+                </h3>
+                <p className="text-gray-600 text-sm leading-relaxed">
+                  Once your {stateData.name} insurance license is issued, you
+                  must be appointed by an insurance carrier before you can sell
+                  their products. Each carrier you work with will submit an
+                  appointment request to the {stateData.doiName}. Appointments
+                  are typically processed within a few business days, and there
+                  is no additional exam required. Your sponsoring agency or
+                  carrier will guide you through this process.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── 4. Fingerprinting Requirements ──────────────────────────────────── */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-6">
+            {stateData.name} Fingerprinting Requirements
+          </h2>
+          <p className="text-gray-600 leading-relaxed mb-6">
+            {stateData.fingerprintingNotes}
+          </p>
+
+          {/* Name Match Warning callout */}
+          {stateData.nameMatchWarning && (
+            <div className="bg-yellow-50 border-l-4 border-gold rounded-lg p-5">
+              <div className="flex gap-3 items-start">
+                <svg
+                  className="w-5 h-5 text-gold flex-shrink-0 mt-0.5"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
+                  />
+                </svg>
+                <div>
+                  <p className="font-semibold text-yellow-900 mb-1">
+                    Name Match Requirement
+                  </p>
+                  <p className="text-yellow-800 text-sm leading-relaxed">
+                    {stateData.nameMatchWarning}
+                  </p>
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+      </section>
+
+      {/* ── 5. Special Training Requirements (conditional) ───────────────────── */}
+      {hasSpecialTraining && (
+        <section className="bg-gray-bg py-16 px-4">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+              Special Training Requirements for {stateData.name}
+            </h2>
+            <p className="text-gray-500 mb-8">
+              {stateData.name} requires additional training for agents selling
+              certain specialty products. These are separate from standard
+              prelicensing hours.
+            </p>
+            <div className="space-y-4">
+              {stateData.specialTrainingRequirements.ltc !== null && (
+                <div className="bg-white rounded-xl p-5 shadow-sm border-l-4 border-gold">
+                  <h3 className="font-bold text-navy mb-2">
+                    Long-Term Care (LTC) Training
+                  </h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">
+                    {stateData.specialTrainingRequirements.ltc}
+                  </p>
+                </div>
+              )}
+              {stateData.specialTrainingRequirements.nfip !== null && (
+                <div className="bg-white rounded-xl p-5 shadow-sm border-l-4 border-gold">
+                  <h3 className="font-bold text-navy mb-2">
+                    National Flood Insurance Program (NFIP) Training
+                  </h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">
+                    {stateData.specialTrainingRequirements.nfip}
+                  </p>
+                </div>
+              )}
+              {stateData.specialTrainingRequirements.annuity !== null && (
+                <div className="bg-white rounded-xl p-5 shadow-sm border-l-4 border-gold">
+                  <h3 className="font-bold text-navy mb-2">
+                    Annuity Training
+                  </h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">
+                    {stateData.specialTrainingRequirements.annuity}
+                  </p>
+                </div>
+              )}
+              {stateData.specialTrainingRequirements.other !== null && (
+                <div className="bg-white rounded-xl p-5 shadow-sm border-l-4 border-gold">
+                  <h3 className="font-bold text-navy mb-2">
+                    Additional Training Requirements
+                  </h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">
+                    {stateData.specialTrainingRequirements.other}
+                  </p>
+                </div>
+              )}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* ── 6. CE Renewal Requirements ──────────────────────────────────────── */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+            {stateData.name} CE Renewal Requirements
+          </h2>
+          <p className="text-gray-600 mb-8 leading-relaxed">
+            To keep your {stateData.name} insurance license active, you must
+            complete continuing education every {stateData.ce.renewalPeriod}.
+            Here are the details:
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 mb-8">
+            {[
+              {
+                label: "Total CE Hours",
+                value: `${stateData.ce.totalHours} hours`,
+              },
+              {
+                label: "Ethics Hours Required",
+                value: `${stateData.ce.ethicsHours} hours`,
+              },
+              {
+                label: "Renewal Period",
+                value: stateData.ce.renewalPeriod,
+              },
+              {
+                label: "Renewal Deadline",
+                value: stateData.renewalDeadline,
+              },
+              {
+                label: "CE Package Price",
+                value: stateData.ce.packagePrice,
+              },
+              {
+                label: "Regulatory Body",
+                value: stateData.doiAbbr,
+              },
+            ].map((item) => (
+              <div
+                key={item.label}
+                className="bg-gray-bg rounded-xl p-5 text-center"
+              >
+                <p className="text-2xl font-bold text-navy mb-1">
+                  {item.value}
+                </p>
+                <p className="text-gray-500 text-sm">{item.label}</p>
+              </div>
+            ))}
+          </div>
+          <div className="text-center">
+            <Link
+              href={`/${stateData.slug}/continuing-education/`}
+              className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold px-8 py-4 rounded-lg shadow transition-all hover:shadow-lg hover:-translate-y-0.5"
+            >
+              Browse {stateData.name} CE Courses →
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* ── 7. FAQ Section ──────────────────────────────────────────────────── */}
+      <FAQAccordion
+        faqs={faqs}
+        heading={`${stateData.name} Insurance License Requirements — FAQs`}
+      />
+
+      {/* ── 8. CTA Banner ───────────────────────────────────────────────────── */}
+      <CTABanner
+        title={`Ready to Get Your ${stateData.name} Insurance License?`}
+        subtitle={`Start your state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee.`}
+        ctaText="Start My Course Today"
+        ctaHref={`/${stateData.slug}/prelicensing/`}
+      />
+    </>
+  );
+}

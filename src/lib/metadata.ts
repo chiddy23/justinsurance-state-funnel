@@ -23,20 +23,21 @@ function buildCanonical(path: string): string {
 }
 
 function buildTitle(pageType: PageType, params: PageMetadataParams): string {
-  // NOTE: Root layout uses template "%s | JustInsurance", so do NOT append the brand suffix here
+  // NOTE: Root layout uses template "%s | JustInsurance" (adds 17 chars).
+  // Keep the part BEFORE the suffix within 28-44 chars so total is 45-61.
   const { stateName = "", loaName = "" } = params;
 
   switch (pageType) {
     case "home":
-      return "Insurance License Courses";
+      return "Online Insurance License Courses";
     case "state-hub":
       return `${stateName} Insurance License Courses`;
     case "prelicensing-hub":
-      return `${stateName} Insurance Prelicensing`;
+      return `${stateName} Insurance Prelicensing Courses`;
     case "ce-hub":
-      return `${stateName} Insurance CE Courses`;
+      return `${stateName} Insurance CE & Renewal Courses`;
     case "prelicensing-course":
-      return `${stateName} ${loaName} Prelicensing`;
+      return `${stateName} ${loaName} Prelicensing Course`;
     case "ce-course":
       return `${stateName} ${loaName} CE Course`;
   }
@@ -50,31 +51,20 @@ function buildDescription(
   const hoursStr = hours ? `${hours}-hour` : "";
   const priceStr = price ? ` Starting at ${price}.` : "";
 
+  // Target: 120-151 characters per description
   switch (pageType) {
     case "home":
-      return (
-        "Get your insurance license online with JustInsurance. State-approved prelicensing and CE courses for life and health agents in all 50 states. Enroll today."
-      );
+      return "Get your insurance license online. State-approved prelicensing and CE courses for all 50 states. Pass guarantee included. Enroll now.";
     case "state-hub":
-      return (
-        `Get your ${stateName} insurance license online. State-approved prelicensing courses and CE packages for life and health agents. Enroll with JustInsurance today.`
-      );
+      return `Get your ${stateName} insurance license online. State-approved prelicensing and CE courses with pass guarantee. Enroll with JustInsurance.`;
     case "prelicensing-hub":
-      return (
-        `Complete your ${stateName} insurance prelicensing online. State-approved courses for life, health, and life & health licenses. Pass guarantee included. Enroll now.`
-      );
+      return `Complete ${stateName} insurance prelicensing online. Life, health, and combined courses. State-approved, pass guarantee. Enroll now.`;
     case "ce-hub":
-      return (
-        `Renew your ${stateName} insurance license with state-approved CE courses. Life and health continuing education packages available online. Enroll with JustInsurance.`
-      );
+      return `Renew your ${stateName} insurance license online. State-approved CE courses with same-day DOI reporting. Enroll with JustInsurance.`;
     case "prelicensing-course":
-      return (
-        `Complete your ${stateName} ${loaName} prelicensing online. ${hoursStr ? `${hoursStr} state-approved course, ` : "State-approved course, "}practice exams, pass guarantee.${priceStr} Enroll today.`
-      );
+      return `${stateName} ${loaName} prelicensing online.${hoursStr ? ` ${hoursStr} state-approved course.` : ""} Practice exams, pass guarantee.${priceStr} Enroll now.`;
     case "ce-course":
-      return (
-        `Renew your ${stateName} ${loaName} insurance license with state-approved CE. Online, self-paced course with instant certificate.${priceStr} Enroll with JustInsurance today.`
-      );
+      return `${stateName} ${loaName} CE course online. State-approved, self-paced with same-day DOI reporting.${priceStr} Enroll today.`;
   }
 }
 

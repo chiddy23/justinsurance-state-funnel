@@ -540,13 +540,87 @@ export default async function RequirementsPage({
         </div>
       </section>
 
-      {/* ── 7. FAQ Section ──────────────────────────────────────────────────── */}
+      {/* ── 7. Legal References ─────────────────────────────────────────────── */}
+      {(() => {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const citations = (stateData as any).citations as {
+          insuranceCode?: string;
+          insuranceCodeFull?: string;
+          prelicenseCode?: string;
+          ceRequirementsCode?: string;
+          ceEthicsCode?: string;
+          providerRegulation?: string;
+          adminCodeName?: string;
+          adminCodeRef?: string;
+          adminCodeUrl?: string;
+          statutesUrl?: string;
+          ageCitation?: string;
+          educationCitation?: string;
+          examCitation?: string;
+          backgroundCitation?: string;
+          fingerprintCitation?: string;
+          applicationCitation?: string;
+        } | undefined;
+
+        if (!citations) return null;
+
+        const items: { label: string; value: string; url?: string }[] = [
+          { label: "Insurance Code", value: citations.insuranceCodeFull ?? "", url: citations.statutesUrl },
+          { label: "Prelicensing Education", value: citations.educationCitation ?? "" },
+          { label: "Examination Requirements", value: citations.examCitation ?? "" },
+          { label: "Age Requirements", value: citations.ageCitation ?? "" },
+          { label: "Background Check", value: citations.backgroundCitation ?? "" },
+          { label: "Fingerprinting", value: citations.fingerprintCitation ?? "" },
+          { label: "License Application", value: citations.applicationCitation ?? "" },
+          { label: "CE Requirements", value: citations.ceRequirementsCode ?? "" },
+          { label: "CE Ethics", value: citations.ceEthicsCode ?? "" },
+          { label: "Administrative Code", value: citations.adminCodeRef ?? "", url: citations.adminCodeUrl },
+          { label: "Provider Regulation", value: citations.providerRegulation ?? "" },
+        ].filter((item) => item.value.trim() !== "");
+
+        if (items.length === 0) return null;
+
+        return (
+          <section className="bg-gray-bg py-16 px-4">
+            <div className="max-w-5xl mx-auto">
+              <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+                {stateData.name} Insurance Licensing Laws &amp; Regulations
+              </h2>
+              <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
+                Legal citations and statutory references governing insurance licensing in {stateData.name}.
+              </p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {items.map((item) => (
+                  <div key={item.label} className="bg-white rounded-xl p-5 shadow-sm">
+                    <p className="font-semibold text-navy text-sm mb-1">{item.label}</p>
+                    <p className="text-gray-500 text-xs leading-relaxed">
+                      {item.value}
+                      {item.url && (
+                        <a
+                          href={item.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-navy underline ml-2 hover:text-gold"
+                        >
+                          View Statute
+                        </a>
+                      )}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </section>
+        );
+      })()}
+
+      {/* ── 8. FAQ Section ──────────────────────────────────────────────────── */}
       <FAQAccordion
         faqs={faqs}
         heading={`${stateData.name} Insurance License Requirements — FAQs`}
       />
 
-      {/* ── 8. CTA Banner ───────────────────────────────────────────────────── */}
+      {/* ── 9. CTA Banner ───────────────────────────────────────────────────── */}
       <CTABanner
         title={`Ready to Get Your ${stateData.name} Insurance License?`}
         subtitle={`Start your state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee.`}

@@ -129,6 +129,57 @@ export default async function StateHubPage({
         </div>
       </section>
 
+      {/* Legal Basis — brief citations block */}
+      {(() => {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const citations = (stateData as any).citations as {
+          insuranceCodeFull?: string;
+          prelicenseCode?: string;
+          ceRequirementsCode?: string;
+          statutesUrl?: string;
+        } | undefined;
+
+        if (!citations) return null;
+
+        const hasAny =
+          (citations.insuranceCodeFull ?? "").trim() !== "" ||
+          (citations.prelicenseCode ?? "").trim() !== "" ||
+          (citations.ceRequirementsCode ?? "").trim() !== "";
+
+        if (!hasAny) return null;
+
+        return (
+          <section className="bg-gray-bg py-6 px-4">
+            <div className="max-w-5xl mx-auto">
+              <h3 className="text-sm font-semibold text-navy mb-2">Legal References</h3>
+              <div className="text-xs text-gray-500 space-y-1">
+                {citations.insuranceCodeFull && (
+                  <p>
+                    Insurance Code: {citations.insuranceCodeFull}
+                    {citations.statutesUrl && (
+                      <a
+                        href={citations.statutesUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-navy underline ml-1"
+                      >
+                        View Statutes
+                      </a>
+                    )}
+                  </p>
+                )}
+                {citations.prelicenseCode && (
+                  <p>Prelicensing: {citations.prelicenseCode}</p>
+                )}
+                {citations.ceRequirementsCode && (
+                  <p>CE Requirements: {citations.ceRequirementsCode}</p>
+                )}
+              </div>
+            </div>
+          </section>
+        );
+      })()}
+
       {/* Fix 8 — Link to requirements page */}
       <section className="bg-white pb-6 px-4">
         <div className="max-w-5xl mx-auto">

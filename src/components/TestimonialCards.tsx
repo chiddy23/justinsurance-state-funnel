@@ -3,15 +3,15 @@ import React from "react";
 const GENERIC_TESTIMONIALS = [
   {
     name: "Sarah K.",
-    role: "Independent Agent",
-    text: "The self-paced format was a game changer for me. I studied around my day job — a little each evening — and finished the course in two weeks. The flashcards were especially helpful for memorizing policy types. Highly recommend to anyone getting into insurance.",
+    role: "Licensed Agent",
+    text: "JustInsurance's course content was thorough and well-organized. The practice exams were spot-on.",
     stars: 5,
     initials: "SK",
   },
   {
     name: "James T.",
-    role: "Insurance Broker",
-    text: "I needed to renew my CE credits before my deadline and JustInsurance made it painless. Finished the entire course on a Saturday morning, and my completion was reported to the state by the next business day. Zero stress. Will use again for my next renewal.",
+    role: "Insurance Producer",
+    text: "I passed on my first try thanks to JustInsurance. The self-paced format fit perfectly with my schedule.",
     stars: 5,
     initials: "JT",
   },

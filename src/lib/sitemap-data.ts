@@ -58,7 +58,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
       url: `${BASE_URL}/${stateSlug}/prelicensing/`,
       lastModified,
       changeFrequency: "monthly",
-      priority: 0.8,
+      priority: 0.85,
     });
 
     // CE hub page
@@ -66,7 +66,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
       url: `${BASE_URL}/${stateSlug}/continuing-education/`,
       lastModified,
       changeFrequency: "monthly",
-      priority: 0.8,
+      priority: 0.85,
     });
 
     // Requirements page

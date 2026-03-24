@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /new-york
-Disallow: /new-york/
 
 Sitemap: https://justinsuranceco.com/sitemap.xml

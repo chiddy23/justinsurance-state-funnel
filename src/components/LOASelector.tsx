@@ -3,6 +3,17 @@ import Link from "next/link";
 import type { StateData } from "@/lib/states";
 import catalogLinks from "@/lib/catalog-links.json";
 
+function isOptionalHours(hours: number | string): boolean {
+  if (typeof hours !== "string") return false;
+  const lower = hours.toLowerCase();
+  return lower.includes("none required") || lower.includes("not required");
+}
+
+function formatLoaHours(hours: number | string): string {
+  if (isOptionalHours(hours)) return "40 (recommended)";
+  return String(hours);
+}
+
 type CatalogLinks = typeof catalogLinks;
 
 interface LOASelectorProps {
@@ -127,7 +138,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               <div className="border-t border-gray-100 pt-4 mb-4 space-y-2">
                 <div className="flex justify-between items-center">
                   <span className="text-gray-500 text-sm">Hours Required</span>
-                  <span className="text-navy font-bold">{card.hours} hrs</span>
+                  <span className="text-navy font-bold">{formatLoaHours(card.hours)} hrs</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-gray-500 text-sm">Course Price</span>

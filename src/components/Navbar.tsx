@@ -79,6 +79,22 @@ export default function Navbar() {
               )}
             </div>
 
+            {/* Pass Rates */}
+            <Link
+              href="/pass-rates"
+              className="text-white hover:text-gold transition-colors font-medium"
+            >
+              Pass Rates
+            </Link>
+
+            {/* About */}
+            <Link
+              href="/"
+              className="text-white hover:text-gold transition-colors font-medium"
+            >
+              About
+            </Link>
+
             {/* Phone */}
             <a
               href="tel:7542239744"
@@ -132,6 +148,22 @@ export default function Navbar() {
             >
               View All 49 States &rarr;
             </Link>
+            <div className="border-t border-navy-light pt-3">
+              <Link
+                href="/pass-rates"
+                className="block px-2 py-2 text-white hover:text-gold transition-colors font-medium"
+                onClick={() => setMobileOpen(false)}
+              >
+                Pass Rates
+              </Link>
+              <Link
+                href="/"
+                className="block px-2 py-2 text-white hover:text-gold transition-colors font-medium"
+                onClick={() => setMobileOpen(false)}
+              >
+                About
+              </Link>
+            </div>
             <div className="border-t border-navy-light pt-3">
               <a
                 href="tel:7542239744"

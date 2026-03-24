@@ -5,7 +5,6 @@ const POPULAR_STATES = [
   { name: "Florida", slug: "florida" },
   { name: "Texas", slug: "texas" },
   { name: "California", slug: "california" },
-  { name: "New York", slug: "new-york" },
   { name: "Georgia", slug: "georgia" },
   { name: "Ohio", slug: "ohio" },
   { name: "Illinois", slug: "illinois" },
@@ -70,11 +69,11 @@ export default function Footer() {
             <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Courses</h3>
             <ul className="space-y-2">
               <li><Link href="/" className="text-gray-300 hover:text-gold transition-colors text-sm">All States</Link></li>
-              <li><span className="text-gray-300 text-sm">Prelicensing Courses</span></li>
-              <li><span className="text-gray-300 text-sm">Continuing Education (CE)</span></li>
-              <li><span className="text-gray-300 text-sm">Life Insurance License</span></li>
-              <li><span className="text-gray-300 text-sm">Health Insurance License</span></li>
-              <li><span className="text-gray-300 text-sm">Life &amp; Health License</span></li>
+              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Prelicensing Courses</Link></li>
+              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Continuing Education (CE)</Link></li>
+              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Life Insurance License</Link></li>
+              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Health Insurance License</Link></li>
+              <li><Link href="/#states" className="text-gray-300 hover:text-gold transition-colors text-sm">Life &amp; Health License</Link></li>
             </ul>
           </div>
 

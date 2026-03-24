@@ -5,9 +5,25 @@ interface StateRequirementsBlockProps {
   stateData: StateData;
 }
 
+function isOptionalHours(hours: number | string): boolean {
+  if (typeof hours !== "string") return false;
+  const lower = hours.toLowerCase();
+  return lower.includes("none required") || lower.includes("not required");
+}
+
+function formatHoursDisplay(hours: number | string): string {
+  if (isOptionalHours(hours)) return "40 hrs (recommended)";
+  return `${hours} hours`;
+}
+
 export default function StateRequirementsBlock({ stateData }: StateRequirementsBlockProps) {
   const { name, doiName, doiUrl, prelicensing, ce, examInfo, noCombinedExam, applicationBeforeExam } = stateData;
   const { examProvider, examProviderUrl, examBookingUrl } = examInfo;
+
+  const hasOptionalPrelicensing =
+    isOptionalHours(prelicensing.life.hours) ||
+    isOptionalHours(prelicensing.health.hours) ||
+    isOptionalHours(prelicensing.lifeAndHealth.hours);
 
   return (
     <section className="bg-gray-bg py-16 px-4">
@@ -31,17 +47,22 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
             <ul className="space-y-2 text-sm">
               <li className="flex justify-between py-2 border-b border-gray-100">
                 <span className="text-gray-500">Life Only</span>
-                <span className="font-semibold text-navy">{prelicensing.life.hours} hours &mdash; {prelicensing.life.price}</span>
+                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.life.hours)} &mdash; {prelicensing.life.price}</span>
               </li>
               <li className="flex justify-between py-2 border-b border-gray-100">
                 <span className="text-gray-500">Health Only</span>
-                <span className="font-semibold text-navy">{prelicensing.health.hours} hours &mdash; {prelicensing.health.price}</span>
+                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.health.hours)} &mdash; {prelicensing.health.price}</span>
               </li>
               <li className="flex justify-between py-2">
                 <span className="text-gray-500">Life &amp; Health</span>
-                <span className="font-semibold text-navy">{prelicensing.lifeAndHealth.hours} hours &mdash; {prelicensing.lifeAndHealth.price}</span>
+                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.lifeAndHealth.hours)} &mdash; {prelicensing.lifeAndHealth.price}</span>
               </li>
             </ul>
+            {hasOptionalPrelicensing && (
+              <p className="mt-4 text-xs text-gray-500 leading-relaxed">
+                {name} has no state-mandated prelicensing requirement, but candidates who complete a prep course pass at significantly higher rates.
+              </p>
+            )}
           </div>
 
           {/* CE Requirements */}

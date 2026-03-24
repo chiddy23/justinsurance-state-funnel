@@ -42,13 +42,13 @@ function buildTitle(
       title = `${stateName} Insurance Prelicensing | $199 · Pass Guarantee | JustInsurance`;
       break;
     case "ce-hub":
-      title = `${stateName} Insurance CE Courses | $59 · Same-Day Reporting | JustInsurance`;
+      title = `${stateName} Insurance CE Courses | $39 · Same-Day Reporting | JustInsurance`;
       break;
     case "prelicensing-course":
       title = `${stateName} ${loaName} Prelicensing | $199 · Pass Guarantee | JustInsurance`;
       break;
     case "ce-course":
-      title = `${stateName} ${loaName} CE Course | $59 · Same-Day Reporting | JustInsurance`;
+      title = `${stateName} ${loaName} CE Course | $39 · Same-Day Reporting | JustInsurance`;
       break;
   }
 
@@ -64,17 +64,17 @@ function buildDescription(
 
   switch (pageType) {
     case "home":
-      return "Get your insurance license online in 49 states. $199 prelicensing, $59 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.";
+      return "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.";
     case "state-hub":
-      return `Get your ${stateName} insurance license online. $199 prelicensing courses, $59 CE. Pass guarantee, same-day DOI reporting. Start with JustInsurance today.`;
+      return `Get your ${stateName} insurance license online. $199 prelicensing courses, $39 CE. Pass guarantee, same-day DOI reporting. Start with JustInsurance today.`;
     case "prelicensing-hub":
       return `${stateName} insurance prelicensing online. $199, state-approved, pass guarantee included. Life, health, and combined courses. Enroll now.`;
     case "ce-hub":
-      return `${stateName} insurance CE courses online. $59, same-day DOI reporting. Renew your license fast with JustInsurance.`;
+      return `${stateName} insurance CE courses online. $39, same-day DOI reporting. Renew your license fast with JustInsurance.`;
     case "prelicensing-course":
       return `${stateName} ${loaName} prelicensing course. $199, state-approved, pass guarantee. Practice exams included. Enroll with JustInsurance.`;
     case "ce-course":
-      return `${stateName} ${loaName} CE course. $59, same-day DOI reporting, self-paced online. Renew with JustInsurance today.`;
+      return `${stateName} ${loaName} CE course. $39, same-day DOI reporting, self-paced online. Renew with JustInsurance today.`;
   }
 }
 

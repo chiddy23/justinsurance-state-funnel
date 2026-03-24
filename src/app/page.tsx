@@ -11,7 +11,7 @@ export const metadata: Metadata = {
       "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
   },
   description:
-    "Get your insurance license online in 49 states. $199 prelicensing, $59 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
+    "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
   alternates: {
     canonical: "https://justinsuranceco.com/",
   },
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title:
       "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
     description:
-      "Get your insurance license online in 49 states. $199 prelicensing, $59 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
+      "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
     url: "https://justinsuranceco.com/",
     type: "website",
     images: [
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     title:
       "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
     description:
-      "Get your insurance license online in 49 states. $199 prelicensing, $59 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
+      "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
     images: ["/og-image.png"],
   },
 };
@@ -169,7 +169,7 @@ export default function HomePage() {
                   </svg>
                 ),
                 title: "Transparent, Affordable Pricing",
-                desc: "Prelicensing from $199 and CE from $59. No subscriptions, no hidden fees. Pay once, get licensed.",
+                desc: "Prelicensing from $199 and CE from $39. No subscriptions, no hidden fees. Pay once, get licensed.",
               },
             ].map((item) => (
               <div key={item.title} className="bg-white rounded-xl p-6 shadow-sm">

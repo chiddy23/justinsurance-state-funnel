@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
   },
   description:
-    "Get your insurance license online in 49 states. $199 prelicensing, $59 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
+    "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
   metadataBase: new URL("https://justinsuranceco.com"),
   robots: "index, follow",
   openGraph: {

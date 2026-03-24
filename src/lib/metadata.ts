@@ -29,26 +29,26 @@ function buildTitle(
   // the root layout's "%s | JustInsurance" template via { absolute }.
   const { stateName = "", loaName = "" } = params;
 
+  // Target: 45-61 characters per title
   let title: string;
   switch (pageType) {
     case "home":
-      title =
-        "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance";
+      title = "Online Insurance License Courses | $199 | JustInsurance";
       break;
     case "state-hub":
-      title = `${stateName} Insurance License Online | $199 · Same-Day CE · Pass Guarantee | JustInsurance`;
+      title = `${stateName} Insurance License Online | $199 | JustInsurance`;
       break;
     case "prelicensing-hub":
-      title = `${stateName} Insurance Prelicensing | $199 · Pass Guarantee | JustInsurance`;
+      title = `${stateName} Insurance Prelicensing | $199 | JustInsurance`;
       break;
     case "ce-hub":
-      title = `${stateName} Insurance CE Courses | $39 · Same-Day Reporting | JustInsurance`;
+      title = `${stateName} Insurance CE Courses | $39 | JustInsurance`;
       break;
     case "prelicensing-course":
-      title = `${stateName} ${loaName} Prelicensing | $199 · Pass Guarantee | JustInsurance`;
+      title = `${stateName} ${loaName} Prelicensing | $199 | JustInsurance`;
       break;
     case "ce-course":
-      title = `${stateName} ${loaName} CE Course | $39 · Same-Day Reporting | JustInsurance`;
+      title = `${stateName} ${loaName} CE Course | $39 | JustInsurance`;
       break;
   }
 
@@ -64,9 +64,9 @@ function buildDescription(
 
   switch (pageType) {
     case "home":
-      return "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.";
+      return "Get your insurance license online. $199 prelicensing, $39 CE in 49 states. Pass guarantee, same-day reporting. Enroll now.";
     case "state-hub":
-      return `Get your ${stateName} insurance license online. $199 prelicensing courses, $39 CE. Pass guarantee, same-day DOI reporting. Start with JustInsurance today.`;
+      return `Get your ${stateName} insurance license online. $199 prelicensing, $39 CE. Pass guarantee, same-day DOI reporting. Enroll today.`;
     case "prelicensing-hub":
       return `${stateName} insurance prelicensing online. $199, state-approved, pass guarantee included. Life, health, and combined courses. Enroll now.`;
     case "ce-hub":

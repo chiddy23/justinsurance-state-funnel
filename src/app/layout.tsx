@@ -14,10 +14,10 @@ export const metadata: Metadata = {
   title: {
     template: "%s | JustInsurance",
     default:
-      "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
+      "Online Insurance License Courses | $199 | JustInsurance",
   },
   description:
-    "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
+    "Get your insurance license online. $199 prelicensing, $39 CE in 49 states. Pass guarantee, same-day reporting. Enroll now.",
   metadataBase: new URL("https://justinsuranceco.com"),
   robots: "index, follow",
   openGraph: {

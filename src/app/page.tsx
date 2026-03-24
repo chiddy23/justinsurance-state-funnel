@@ -5,36 +5,24 @@ import TrustBar from "@/components/TrustBar";
 import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 
+const homeTitle = "Online Insurance License Courses | $199 | JustInsurance";
+const homeDesc = "Get your insurance license online. $199 prelicensing, $39 CE in 49 states. Pass guarantee, same-day reporting. Enroll now.";
+
 export const metadata: Metadata = {
-  title: {
-    absolute:
-      "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
-  },
-  description:
-    "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
-  alternates: {
-    canonical: "https://justinsuranceco.com/",
-  },
+  title: { absolute: homeTitle },
+  description: homeDesc,
+  alternates: { canonical: "https://justinsuranceco.com/" },
   openGraph: {
-    title:
-      "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
-    description:
-      "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
+    title: homeTitle,
+    description: homeDesc,
     url: "https://justinsuranceco.com/",
     type: "website",
-    images: [
-      {
-        url: "/og-image.png",
-        alt: "JustInsurance — Online Insurance License Courses",
-      },
-    ],
+    images: [{ url: "/og-image.png", alt: "JustInsurance — Online Insurance License Courses" }],
   },
   twitter: {
     card: "summary_large_image",
-    title:
-      "Online Insurance License Courses | $199 · 49 States · Pass Guarantee | JustInsurance",
-    description:
-      "Get your insurance license online in 49 states. $199 prelicensing, $39 CE. Pass guarantee, same-day reporting, 15,000+ students. Enroll with JustInsurance.",
+    title: homeTitle,
+    description: homeDesc,
     images: ["/og-image.png"],
   },
 };

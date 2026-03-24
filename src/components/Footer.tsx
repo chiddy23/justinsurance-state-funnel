@@ -114,17 +114,17 @@ export default function Footer() {
                 </li>
               ))}
               <li>
-                <Link href="/colorado" className="text-gray-300 hover:text-gold transition-colors text-sm">
+                <Link href="/colorado/" className="text-gray-300 hover:text-gold transition-colors text-sm">
                   Colorado
                 </Link>
               </li>
               <li>
-                <Link href="/washington" className="text-gray-300 hover:text-gold transition-colors text-sm">
+                <Link href="/washington/" className="text-gray-300 hover:text-gold transition-colors text-sm">
                   Washington
                 </Link>
               </li>
               <li>
-                <Link href="/tennessee" className="text-gray-300 hover:text-gold transition-colors text-sm">
+                <Link href="/tennessee/" className="text-gray-300 hover:text-gold transition-colors text-sm">
                   Tennessee
                 </Link>
               </li>

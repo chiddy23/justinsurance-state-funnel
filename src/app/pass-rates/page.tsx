@@ -4,7 +4,7 @@ import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance License Pass Rates | 93% First-Attempt | JustInsurance" },
+  title: { absolute: "Insurance Exam Pass Rates | 93% Pass Rate | JustInsurance" },
   description:
     "JustInsurance students pass at a 93% rate vs the ~55% national average. State-approved courses with practice exams and pass guarantee. See our results.",
   alternates: { canonical: "https://justinsuranceco.com/pass-rates" },

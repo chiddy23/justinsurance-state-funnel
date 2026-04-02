@@ -9,6 +9,7 @@ const RESOURCES_LINKS = [
   { label: "Renewal Guide", href: "/license-renewal-guide/" },
   { label: "FAQ", href: "/faq/" },
   { label: "Pass Rates", href: "/pass-rates/" },
+  { label: "Press & Media", href: "/press/" },
 ];
 
 const POPULAR_STATES = [

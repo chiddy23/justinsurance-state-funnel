@@ -179,7 +179,7 @@ export const STATES: Record<string, StateData> = {
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
     licenseDuration: "2 years",
     minAge: 18,
-    residencyRequirement: "Must be a resident of Alabama",
+    residencyRequirement: "No — Alabama licenses both residents and nonresidents",
     backgroundRequirement: "Criminal background check required",
     fingerprintRequirement: "Fingerprinting required through Fieldprint Alabama",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
@@ -230,7 +230,7 @@ export const STATES: Record<string, StateData> = {
 
     ce: {
       totalHours: 24,
-      renewalPeriod: "2 years (every 2 years)",
+      renewalPeriod: "2 years",
       ethicsHours: 3,
       requirementsUrl: "https://aldoi.gov/ContinuingEd/",
       packagePrice: "$39",
@@ -287,13 +287,13 @@ export const STATES: Record<string, StateData> = {
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
-    renewalDeadline: "Alabama licenses expire on the last day of your birth month every 2 years",
+    renewalDeadline: "Last day of your birth month (every 2 years)",
     fingerprintingNotes: "Fingerprinting required through Fieldprint Alabama",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
       ltc: null,
       nfip: null,
-      annuity: null,
+      annuity: "Agents selling annuity products must complete a one-time 4-hour annuity training course plus 4 hours of annuity-specific CE each renewal period, per Alabama Administrative Code 482-1-110.",
       other: null,
     },
     stateSpecificIntro: "Alabama eliminated its prelicensing education requirement effective January 1, 2024, making it one of only a few states where exam prep is entirely optional — though most candidates still choose to study. The state's insurance market is shaped by its exposure to Gulf Coast hurricanes and severe storm systems, creating strong demand for property and casualty agents. With over 3,100 licensed agents statewide, Alabama offers solid career opportunities particularly in the growing Birmingham and Huntsville metro areas.",

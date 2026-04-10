@@ -255,121 +255,156 @@ export default async function RequirementsPage({
             Follow these five steps to go from zero to licensed in{" "}
             {stateData.name}.
           </p>
-          <div className="space-y-6">
-            {/* Step 1 */}
-            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
-              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
-                <span className="text-gray-dark font-bold">1</span>
-              </div>
-              <div className="flex-1">
-                <h3 className="font-bold text-navy text-lg mb-2">
-                  Complete Prelicensing Education
-                </h3>
-                {typeof stateData.prelicensing.lifeAndHealth.hours === "number" ? (
-                  <p className="text-gray-600 text-sm leading-relaxed mb-3">
-                    {stateData.name} requires you to complete{" "}
-                    {stateData.prelicensing.lifeAndHealth.hours} hours of
-                    state-approved prelicensing education before sitting for
-                    the exam. JustInsurance&apos;s online courses let you
-                    study at your own pace on any device. You&apos;ll receive an
-                    official certificate of completion once you finish.
-                  </p>
-                ) : (
-                  <p className="text-gray-600 text-sm leading-relaxed mb-3">
-                    Prelicensing education status for {stateData.name}:{" "}
-                    {String(stateData.prelicensing.life.hours)}. Check with
-                    the {stateData.doiName} for current requirements.
-                  </p>
-                )}
-                <Link
-                  href={`/${stateData.slug}/prelicensing/`}
-                  className="text-sm font-semibold text-gold hover:underline"
-                >
-                  Browse {stateData.name} Prelicensing Courses →
-                </Link>
-              </div>
-            </div>
-
-            {/* Step 2 */}
-            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
-              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
-                <span className="text-gray-dark font-bold">2</span>
-              </div>
-              <div className="flex-1">
-                <h3 className="font-bold text-navy text-lg mb-2">
-                  Schedule and Pass the State Exam
-                </h3>
-                <p className="text-gray-600 text-sm leading-relaxed mb-3">
-                  The {stateData.name} insurance licensing exam is administered
-                  by {stateData.examInfo.examProvider}. The exam fee is $
-                  {stateData.examInfo.examFee}, and you&apos;ll need a passing
-                  score of {stateData.examInfo.passingScore}%. Schedule your
-                  exam online after completing your prelicensing education.
-                </p>
-                {stateData.examInfo.examBookingUrl && (
-                  <a
-                    href={stateData.examInfo.examBookingUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
+          {(() => {
+            const stepPrelicensing = {
+              key: "prelicensing",
+              title: "Complete Prelicensing Education",
+              content: (
+                <>
+                  {typeof stateData.prelicensing.lifeAndHealth.hours === "number" ? (
+                    <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                      {stateData.name} requires you to complete{" "}
+                      {stateData.prelicensing.lifeAndHealth.hours} hours of
+                      state-approved prelicensing education before sitting for
+                      the exam. JustInsurance&apos;s online courses let you
+                      study at your own pace on any device. You&apos;ll receive an
+                      official certificate of completion once you finish.
+                    </p>
+                  ) : (
+                    <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                      Prelicensing education status for {stateData.name}:{" "}
+                      {String(stateData.prelicensing.life.hours)}. Check with
+                      the {stateData.doiName} for current requirements.
+                    </p>
+                  )}
+                  <Link
+                    href={`/${stateData.slug}/prelicensing/`}
                     className="text-sm font-semibold text-gold hover:underline"
                   >
-                    Schedule Your Exam with {stateData.examInfo.examProvider} →
-                  </a>
-                )}
-              </div>
-            </div>
+                    Browse {stateData.name} Prelicensing Courses →
+                  </Link>
+                </>
+              ),
+            };
 
-            {/* Step 3 */}
-            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
-              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
-                <span className="text-gray-dark font-bold">3</span>
-              </div>
-              <div className="flex-1">
-                <h3 className="font-bold text-navy text-lg mb-2">
-                  Complete Fingerprinting
-                </h3>
+            const stepExamStandard = {
+              key: "exam",
+              title: "Schedule and Pass the State Exam",
+              content: (
+                <>
+                  <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                    The {stateData.name} insurance licensing exam is administered
+                    by {stateData.examInfo.examProvider}. The exam fee is $
+                    {stateData.examInfo.examFee}, and you&apos;ll need a passing
+                    score of {stateData.examInfo.passingScore}%. Schedule your
+                    exam online after completing your prelicensing education.
+                  </p>
+                  {stateData.examInfo.examBookingUrl && (
+                    <a
+                      href={stateData.examInfo.examBookingUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm font-semibold text-gold hover:underline"
+                    >
+                      Schedule Your Exam with {stateData.examInfo.examProvider} →
+                    </a>
+                  )}
+                </>
+              ),
+            };
+
+            const stepExamAfterATT = {
+              key: "exam",
+              title: "Schedule and Pass the State Exam",
+              content: (
+                <>
+                  <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                    The {stateData.name} insurance licensing exam is administered
+                    by {stateData.examInfo.examProvider}. The exam fee is $
+                    {stateData.examInfo.examFee}, and you&apos;ll need a passing
+                    score of {stateData.examInfo.passingScore}%. Schedule your
+                    exam online after receiving your Authorization to Test (ATT).
+                  </p>
+                  {stateData.examInfo.examBookingUrl && (
+                    <a
+                      href={stateData.examInfo.examBookingUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm font-semibold text-gold hover:underline"
+                    >
+                      Schedule Your Exam with {stateData.examInfo.examProvider} →
+                    </a>
+                  )}
+                </>
+              ),
+            };
+
+            const stepFingerprinting = {
+              key: "fingerprinting",
+              title: "Complete Fingerprinting",
+              content: (
                 <p className="text-gray-600 text-sm leading-relaxed">
                   {stateData.fingerprintingNotes}
                 </p>
-              </div>
-            </div>
+              ),
+            };
 
-            {/* Step 4 */}
-            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
-              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
-                <span className="text-gray-dark font-bold">4</span>
-              </div>
-              <div className="flex-1">
-                <h3 className="font-bold text-navy text-lg mb-2">
-                  Apply for Your License
-                </h3>
-                <p className="text-gray-600 text-sm leading-relaxed mb-3">
-                  {stateData.applicationProcess} The application fee is $
-                  {stateData.applicationFee}. Processing typically takes{" "}
-                  {stateData.applicationProcessingTime}.
-                </p>
-                {stateData.licenseApplicationPortal && (
-                  <a
-                    href={stateData.licenseApplicationPortal}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-sm font-semibold text-gold hover:underline"
-                  >
-                    Apply for Your {stateData.name} License →
-                  </a>
-                )}
-              </div>
-            </div>
+            const stepApplyStandard = {
+              key: "apply",
+              title: "Apply for Your License",
+              content: (
+                <>
+                  <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                    {stateData.applicationProcess} The application fee is $
+                    {stateData.applicationFee}. Processing typically takes{" "}
+                    {stateData.applicationProcessingTime}.
+                  </p>
+                  {stateData.licenseApplicationPortal && (
+                    <a
+                      href={stateData.licenseApplicationPortal}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm font-semibold text-gold hover:underline"
+                    >
+                      Apply for Your {stateData.name} License →
+                    </a>
+                  )}
+                </>
+              ),
+            };
 
-            {/* Step 5 */}
-            <div className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start">
-              <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
-                <span className="text-gray-dark font-bold">5</span>
-              </div>
-              <div className="flex-1">
-                <h3 className="font-bold text-navy text-lg mb-2">
-                  Get Appointed and Start Selling
-                </h3>
+            const stepApplyBeforeExam = {
+              key: "apply",
+              title: "Apply for Your License & Get ATT",
+              content: (
+                <>
+                  <p className="text-gray-600 text-sm leading-relaxed mb-3">
+                    {stateData.applicationProcess} The application fee is $
+                    {stateData.applicationFee}. Processing typically takes{" "}
+                    {stateData.applicationProcessingTime}.
+                  </p>
+                  <p className="text-sm text-amber-700 bg-amber-50 border border-amber-200 rounded-lg px-4 py-2 mb-3">
+                    You must receive your Authorization to Test (ATT) before you
+                    can schedule your exam.
+                  </p>
+                  {stateData.licenseApplicationPortal && (
+                    <a
+                      href={stateData.licenseApplicationPortal}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm font-semibold text-gold hover:underline"
+                    >
+                      Apply for Your {stateData.name} License →
+                    </a>
+                  )}
+                </>
+              ),
+            };
+
+            const stepAppointment = {
+              key: "appointment",
+              title: "Get Appointed and Start Selling",
+              content: (
                 <p className="text-gray-600 text-sm leading-relaxed">
                   Once your {stateData.name} insurance license is issued, you
                   must be appointed by an insurance carrier before you can sell
@@ -379,9 +414,46 @@ export default async function RequirementsPage({
                   is no additional exam required. Your sponsoring agency or
                   carrier will guide you through this process.
                 </p>
+              ),
+            };
+
+            const steps = stateData.applicationBeforeExam
+              ? [
+                  stepPrelicensing,
+                  stepApplyBeforeExam,
+                  stepFingerprinting,
+                  stepExamAfterATT,
+                  stepAppointment,
+                ]
+              : [
+                  stepPrelicensing,
+                  stepExamStandard,
+                  stepFingerprinting,
+                  stepApplyStandard,
+                  stepAppointment,
+                ];
+
+            return (
+              <div className="space-y-6">
+                {steps.map((step, index) => (
+                  <div
+                    key={step.key}
+                    className="bg-white rounded-xl p-6 shadow-sm flex gap-5 items-start"
+                  >
+                    <div className="w-10 h-10 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                      <span className="text-gray-dark font-bold">{index + 1}</span>
+                    </div>
+                    <div className="flex-1">
+                      <h3 className="font-bold text-navy text-lg mb-2">
+                        {step.title}
+                      </h3>
+                      {step.content}
+                    </div>
+                  </div>
+                ))}
               </div>
-            </div>
-          </div>
+            );
+          })()}
         </div>
       </section>
 

@@ -280,6 +280,9 @@ export default async function CECoursePage({
           <p className="text-blue-100 leading-relaxed">
             When you complete this CE course, JustInsurance reports your completion electronically to the {stateData.doiName} the same business day. No certificates to mail, no forms to fill out. Your CE credit is recorded automatically.
           </p>
+          <p className="text-xs text-blue-200/70 mt-2">
+            Processing times at the state level may vary. Most states reflect credits within 3-5 business days.
+          </p>
         </div>
       </section>
 

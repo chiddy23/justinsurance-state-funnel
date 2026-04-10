@@ -1337,7 +1337,7 @@ export const STATES: Record<string, StateData> = {
 
     agentLicensingUrl: "https://myfloridacfo.com/division/agents/licensing",
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
-    licenseDuration: "2 years",
+    licenseDuration: "Perpetual (CE renewal every 2 years)",
     minAge: 18,
     residencyRequirement: "Must be a resident of Florida",
     backgroundRequirement: "Criminal background check required",
@@ -1355,7 +1355,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "42",
+      examFee: "44",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://home.pearsonvue.com/fl/insurance",
       examBookingUrl: "https://home.pearsonvue.com/fl/insurance",
@@ -1447,7 +1447,7 @@ export const STATES: Record<string, StateData> = {
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
-    renewalDeadline: "Licensee's birthday (every 2 years)",
+    renewalDeadline: "Licensee's birthday (CE due every 2 years)",
     fingerprintingNotes: "Fingerprinting required through IdentoGO (Code: DFS-1-FL921060Z)",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {

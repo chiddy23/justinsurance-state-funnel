@@ -106,7 +106,7 @@ export default function Footer() {
               ))}
               <li>
                 <Link href="/" className="text-gold hover:text-gold-light transition-colors text-sm font-medium">
-                  View All 49 States &rarr;
+                  View All 50 States &rarr;
                 </Link>
               </li>
             </ul>

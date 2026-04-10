@@ -38,7 +38,7 @@ const gettingLicensedFaqs = [
   {
     question: "How much does it cost to get an insurance license?",
     answer:
-      "Total costs vary by state but typically range from $150 to $400. The main expenses are: prelicensing course ($69–$199 depending on the state and line of authority), exam fee ($40–$70), state license application fee ($30–$150), and background check/fingerprinting if required ($10–$50). JustInsurance provides an exact cost breakdown on each state's page.",
+      "Total costs vary by state but typically range from $150 to $400. The main expenses are: prelicensing course ($199), exam fee ($40–$70), state license application fee ($30–$150), and background check/fingerprinting if required ($10–$50). JustInsurance provides an exact cost breakdown on each state's page.",
   },
   {
     question: "Can I get licensed in multiple states?",
@@ -51,12 +51,12 @@ const ourCoursesFaqs = [
   {
     question: "How much do JustInsurance courses cost?",
     answer:
-      "Prelicensing courses start at $69 for single-line (Life or Health) and $99 for combined Life & Health — prices vary by state. CE packages start at $39. All courses are one-time purchases with no subscription or hidden fees. Volume discounts are available for agencies enrolling multiple agents.",
+      "Prelicensing courses are $199 for any line of authority — Life, Health, or combined Life & Health. Prices are the same whether you choose a single line or the combined course. CE packages start at $39. All courses are one-time purchases with no subscription or hidden fees. Volume discounts are available for agencies enrolling multiple agents.",
   },
   {
     question: "How long do I have access to the course?",
     answer:
-      "Prelicensing courses include 60 to 90 days of access from enrollment, depending on your state. CE courses are available until you complete them. If you need additional time, contact JustInsurance support and we will work with you. Most students complete their prelicensing course in 1 to 3 weeks.",
+      "Prelicensing courses include 30 days of access from enrollment. CE courses are available until you complete them. If you need additional time, contact JustInsurance support and we will work with you. Most students complete their prelicensing course in 1 to 3 weeks.",
   },
   {
     question: "What is included in a JustInsurance course?",

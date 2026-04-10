@@ -90,7 +90,7 @@ export default async function RequirementsPage({
     },
     {
       question: `What are the ${stateData.name} CE requirements?`,
-      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} hours of ethics training. Your renewal deadline is ${stateData.renewalDeadline}. JustInsurance offers state-approved CE packages starting at ${stateData.ce.packagePrice}.`,
+      answer: `${stateData.name} requires licensed insurance agents to complete ${stateData.ce.totalHours} hours of continuing education every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} hours of ethics training. Renewal deadline: ${stateData.renewalDeadline}. JustInsurance offers state-approved CE packages starting at ${stateData.ce.packagePrice}.`,
     },
     // State-specific FAQ from data
     stateData.stateSpecificFAQ,

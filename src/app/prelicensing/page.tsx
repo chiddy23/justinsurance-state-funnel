@@ -7,7 +7,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Insurance Prelicensing Courses | $199 | JustInsurance";
 const PAGE_DESC =
-  "State-approved insurance prelicensing courses online. $199, pass guarantee. Life, health, and combined. Start in any of 50 states.";
+  "State-approved insurance prelicensing courses online. $199, pass guarantee. Life, health, and combined. Start in any of 49 states.";
 const CANONICAL = "https://justinsuranceco.com/prelicensing";
 
 export const metadata: Metadata = {
@@ -33,12 +33,12 @@ const faqs = [
   {
     question: "What is insurance prelicensing?",
     answer:
-      "Insurance prelicensing is a state-mandated education requirement that must be completed before you can sit for your state insurance licensing exam. Each state specifies a minimum number of required hours — typically 20 to 40 hours — covering topics like insurance concepts, policy types, regulations, and ethics. JustInsurance courses satisfy these requirements in all 50 states where we operate.",
+      "Insurance prelicensing is a state-mandated education requirement that must be completed before you can sit for your state insurance licensing exam. Each state specifies a minimum number of required hours — typically 20 to 40 hours — covering topics like insurance concepts, policy types, regulations, and ethics. JustInsurance courses satisfy these requirements in all 49 states where we operate.",
   },
   {
     question: "How long does prelicensing take to complete?",
     answer:
-      "Most students complete their prelicensing course in 1 to 3 weeks studying part-time. The required hours vary by state and line of authority — life-only courses average around 20 hours, while combined life and health courses may require up to 40 hours. Because our courses are fully self-paced, you can accelerate or spread out your study as needed.",
+      "Most students complete their prelicensing course in 1 to 3 weeks studying part-time. The required hours vary by state and line of authority — life-only courses average around 20 hours, while combined life and health courses may require 40 to 60 hours depending on your state. Because our courses are fully self-paced, you can accelerate or spread out your study as needed.",
   },
   {
     question: "Do I need prelicensing before taking the state exam?",
@@ -92,7 +92,7 @@ export default function PrelicensingPage() {
             Insurance Prelicensing Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Complete your state-required prelicensing education online for $199. Self-paced, state-approved, and backed by our pass guarantee. Available in 50 states.
+            Complete your state-required prelicensing education online for $199. Self-paced, state-approved, and backed by our pass guarantee. Available in 49 states.
           </p>
           <a
             href="#states"

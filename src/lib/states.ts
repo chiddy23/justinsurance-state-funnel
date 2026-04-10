@@ -1346,7 +1346,7 @@ export const STATES: Record<string, StateData> = {
     applicationFee: "50",
     backgroundCheckCost: "50",
     totalCostRange: "$350-500 estimated total cost",
-    applicationProcessingTime: "Few days",
+    applicationProcessingTime: "2-5 business days",
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
@@ -5160,7 +5160,7 @@ export const STATES: Record<string, StateData> = {
 
     ce: {
       totalHours: 24,
-      renewalPeriod: "3 years",
+      renewalPeriod: "2 years",
       ethicsHours: 3,
       requirementsUrl: "https://insurance.ohio.gov/agents-and-agencies/agent-education",
       packagePrice: "$39",
@@ -7335,7 +7335,7 @@ export const STATES: Record<string, StateData> = {
 
     ce: {
       totalHours: 24,
-      renewalPeriod: "3 years",
+      renewalPeriod: "2 years",
       ethicsHours: 3,
       requirementsUrl: "https://doi.wyo.gov/licensing/ce",
       packagePrice: "$39",

@@ -42,6 +42,10 @@ export async function generateMetadata({
   };
 }
 
+function aOrAn(word: string): string {
+  return /^[aeiou]/i.test(word) ? "an" : "a";
+}
+
 export default async function RequirementsPage({
   params,
 }: {
@@ -65,7 +69,7 @@ export default async function RequirementsPage({
   // Build FAQ list — templated questions + state-specific FAQ
   const faqs = [
     {
-      question: `How long does it take to get a ${stateData.name} insurance license?`,
+      question: `How long does it take to get ${aOrAn(stateData.name)} ${stateData.name} insurance license?`,
       answer: `Most candidates complete the ${stateData.name} insurance licensing process in ${stateData.totalLicensingTime}. This includes completing prelicensing education, passing the state exam, fingerprinting (if required), and waiting for license approval after submitting your application.`,
     },
     {
@@ -81,7 +85,7 @@ export default async function RequirementsPage({
       answer: stateData.reciprocityInfo,
     },
     {
-      question: `How much does a ${stateData.name} insurance license cost?`,
+      question: `How much does ${aOrAn(stateData.name)} ${stateData.name} insurance license cost?`,
       answer: `The total cost to get your ${stateData.name} insurance license typically falls in the ${stateData.totalCostRange} range. This includes: prelicensing course fees, the exam fee ($${stateData.examInfo.examFee}), the state application fee ($${stateData.applicationFee}), and the background check cost ($${stateData.backgroundCheckCost}). Individual costs vary based on the line of authority you choose.`,
     },
     {

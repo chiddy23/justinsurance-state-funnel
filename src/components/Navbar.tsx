@@ -38,11 +38,11 @@ export default function Navbar() {
           <Link href="/" className="flex-shrink-0">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="https://justinsuranceco.com/wp-content/uploads/2024/03/logo-white-300x97.png"
+              src="/justinsurance-logo.png"
               alt="JustInsurance LLC"
-              width={150}
-              height={49}
-              className="h-10 w-auto"
+              width={180}
+              height={60}
+              className="h-12 w-auto"
             />
           </Link>
 

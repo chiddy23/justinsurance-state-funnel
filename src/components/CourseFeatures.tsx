@@ -1,6 +1,6 @@
 import React from "react";
 
-const FEATURES = [
+const PRELICENSING_FEATURES = [
   {
     icon: (
       <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -57,19 +57,78 @@ const FEATURES = [
   },
 ];
 
-export default function CourseFeatures() {
+const CE_FEATURES = [
+  {
+    icon: (
+      <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+      </svg>
+    ),
+    title: "State-Approved Content",
+    description: "Course content meets your state's CE requirements, including ethics hours.",
+  },
+  {
+    icon: (
+      <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+      </svg>
+    ),
+    title: "Self-Paced Online",
+    description: "Complete your CE hours on any device, at your own pace. No classroom required.",
+  },
+  {
+    icon: (
+      <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+      </svg>
+    ),
+    title: "Same-Day Reporting",
+    description: "We report your completion to your state's Department of Insurance the same day.",
+  },
+  {
+    icon: (
+      <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+      </svg>
+    ),
+    title: "Instant Certificate",
+    description: "Download your certificate of completion immediately after finishing your course.",
+  },
+  {
+    icon: (
+      <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18.364 5.636l-3.536 3.536m0 5.656l3.536 3.536M9.172 9.172L5.636 5.636m3.536 9.192l-3.536 3.536M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-5 0a4 4 0 11-8 0 4 4 0 018 0z" />
+      </svg>
+    ),
+    title: "Renewal Support",
+    description: "Questions about your renewal deadline or requirements? Our support team is here to help.",
+  },
+];
+
+interface CourseFeaturesProps {
+  variant?: "prelicensing" | "ce";
+}
+
+export default function CourseFeatures({ variant = "prelicensing" }: CourseFeaturesProps) {
+  const isCE = variant === "ce";
+  const features = isCE ? CE_FEATURES : PRELICENSING_FEATURES;
+  const heading = isCE ? "Everything You Need to Renew" : "Everything You Need to Pass";
+  const subheading = isCE
+    ? "Your CE course includes everything you need to complete your hours, get reported to the state, and keep your license active."
+    : "Your course includes all the tools proven to help students pass their state exam on the first try.";
+
   return (
     <section className="bg-gray-bg py-16 px-4">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-          Everything You Need to Pass
+          {heading}
         </h2>
         <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-          Your course includes all the tools proven to help students pass their state exam on the first try.
+          {subheading}
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {FEATURES.map((feature) => (
+          {features.map((feature) => (
             <div key={feature.title} className="bg-white rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow">
               <div className="text-navy mb-4">{feature.icon}</div>
               <h3 className="text-lg font-bold text-navy mb-2">{feature.title}</h3>

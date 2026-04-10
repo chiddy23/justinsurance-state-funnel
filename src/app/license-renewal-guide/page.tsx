@@ -31,7 +31,7 @@ const faqs = [
   {
     question: "Does JustInsurance report my CE completion to my state DOI?",
     answer:
-      "Yes. JustInsurance is an approved provider in all 49 states we serve. Once you complete a CE course, we report your completion directly to your state's Department of Insurance — typically the same business day. You do not need to submit anything yourself.",
+      "Yes. JustInsurance is an approved provider in all 50 states we serve. Once you complete a CE course, we report your completion directly to your state's Department of Insurance — typically the same business day. You do not need to submit anything yourself.",
   },
   {
     question: "Can I start CE courses before my renewal window opens?",
@@ -265,7 +265,7 @@ export default function LicenseRenewalGuidePage() {
               </p>
               <p className="text-white font-semibold">CE Credits Posted to Your State</p>
               <p className="text-blue-300 text-sm mt-2">
-                Available in all 49 states we serve. No manual submissions required.
+                Available in all 50 states we serve. No manual submissions required.
               </p>
             </div>
           </div>
@@ -279,7 +279,7 @@ export default function LicenseRenewalGuidePage() {
             CE Requirements by State
           </h2>
           <p className="text-gray-500 text-center mb-8 max-w-xl mx-auto">
-            CE hours and renewal cycles for all 49 states served by JustInsurance. Click any state to see full CE details and enroll.
+            CE hours and renewal cycles for all 50 states served by JustInsurance. Click any state to see full CE details and enroll.
           </p>
           <div className="overflow-x-auto">
             <table className="w-full bg-white rounded-xl shadow-sm border border-gray-100 text-sm">
@@ -358,7 +358,7 @@ export default function LicenseRenewalGuidePage() {
       {/* CTA */}
       <CTABanner
         title="Renew Your License Today"
-        subtitle="Complete your CE hours online with JustInsurance. $39 packages, same-day DOI reporting, available in all 49 states."
+        subtitle="Complete your CE hours online with JustInsurance. $39 packages, same-day DOI reporting, available in all 50 states."
         ctaText="Find CE Courses"
         ctaHref="/continuing-education"
       />

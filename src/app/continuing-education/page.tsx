@@ -7,7 +7,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Insurance CE Courses | $39 · Same-Day Reporting | JustInsurance";
 const PAGE_DESC =
-  "Renew your insurance license online. $39 CE packages, same-day DOI reporting. State-approved for 49 states. Enroll now.";
+  "Renew your insurance license online. $39 CE packages, same-day DOI reporting. State-approved for 50 states. Enroll now.";
 const CANONICAL = "https://justinsuranceco.com/continuing-education";
 
 export const metadata: Metadata = {
@@ -53,9 +53,9 @@ const faqs = [
 ];
 
 const stats = [
-  { value: "$39", label: "CE package price", sub: "Includes all required hours and ethics" },
+  { value: "From $39", label: "CE package price", sub: "Includes all required hours and ethics" },
   { value: "Same day", label: "DOI reporting", sub: "Credits recorded immediately upon completion" },
-  { value: "49", label: "States covered", sub: "State-approved CE in every market we serve" },
+  { value: "50", label: "States covered", sub: "State-approved CE in every market we serve" },
   { value: "2–4 hrs", label: "Avg. completion time", sub: "Complete your renewal in a single session" },
 ];
 
@@ -92,7 +92,7 @@ export default function ContinuingEducationPage() {
             Insurance Continuing Education (CE) Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Renew your insurance license online for $39. State-approved CE packages with same-day DOI reporting. Available in 49 states — no classroom required.
+            Renew your insurance license online starting at $39. State-approved CE packages with same-day DOI reporting. Available in 50 states — no classroom required.
           </p>
           <a
             href="#states"

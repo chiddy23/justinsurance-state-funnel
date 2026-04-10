@@ -17,6 +17,23 @@ const GENERIC_TESTIMONIALS = [
   },
 ];
 
+const CE_TESTIMONIALS = [
+  {
+    name: "Patricia L.",
+    role: "Licensed Agent, Renewal",
+    text: "Completed all my CE hours in one weekend. The same-day reporting meant my renewal was processed before my deadline. Couldn't be easier.",
+    stars: 5,
+    initials: "PL",
+  },
+  {
+    name: "Robert K.",
+    role: "Insurance Producer",
+    text: "I've renewed with JustInsurance three cycles in a row now. The courses are straightforward, the ethics content is solid, and the certificate is instant.",
+    stars: 5,
+    initials: "RK",
+  },
+];
+
 export interface LeadTestimonial {
   quote: string;
   name: string;
@@ -25,6 +42,7 @@ export interface LeadTestimonial {
 
 interface TestimonialCardsProps {
   leadTestimonial?: LeadTestimonial;
+  variant?: "prelicensing" | "ce";
 }
 
 function StarRating({ count }: { count: number }) {
@@ -80,15 +98,41 @@ function getInitials(name: string): string {
     .slice(0, 2);
 }
 
-export default function TestimonialCards({ leadTestimonial }: TestimonialCardsProps) {
+export default function TestimonialCards({ leadTestimonial, variant = "prelicensing" }: TestimonialCardsProps) {
+  const isCE = variant === "ce";
+
+  const heading = isCE ? "What Our Agents Say" : "What Our Students Say";
+  const subheading = isCE
+    ? "4.9 stars from 30,000+ agents who renewed with us"
+    : "4.9 stars from 30,000+ students licensed nationwide";
+  const genericTestimonials = isCE ? CE_TESTIMONIALS : GENERIC_TESTIMONIALS;
+
+  const defaultLead = isCE ? (
+    <TestimonialCard
+      name="Angela S."
+      role="Health Insurance Agent"
+      text="Renewing my license used to be a hassle — finding approved courses, waiting for credits to post, worrying about deadlines. JustInsurance handles all of it. I finished my hours, got my certificate, and they reported to my state the same day."
+      stars={5}
+      initials="AS"
+    />
+  ) : (
+    <TestimonialCard
+      name="Marcus D."
+      role="Life & Health Agent"
+      text="I was nervous about the licensing exam, but JustInsurance's practice tests were spot-on. I passed on my first try and had my license in hand three weeks after I enrolled. The video lessons made even the complicated state regulations easy to understand."
+      stars={5}
+      initials="MD"
+    />
+  );
+
   return (
     <section className="bg-gray-bg py-16 px-4">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-          What Our Students Say
+          {heading}
         </h2>
         <p className="text-gray-500 text-center mb-10">
-          4.9 stars from 15,000+ students licensed nationwide
+          {subheading}
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -101,15 +145,9 @@ export default function TestimonialCards({ leadTestimonial }: TestimonialCardsPr
               initials={getInitials(leadTestimonial.name)}
             />
           ) : (
-            <TestimonialCard
-              name="Marcus D."
-              role="Life & Health Agent"
-              text="I was nervous about the licensing exam, but JustInsurance's practice tests were spot-on. I passed on my first try and had my license in hand three weeks after I enrolled. The video lessons made even the complicated state regulations easy to understand."
-              stars={5}
-              initials="MD"
-            />
+            defaultLead
           )}
-          {GENERIC_TESTIMONIALS.map((t) => (
+          {genericTestimonials.map((t) => (
             <TestimonialCard
               key={t.name}
               name={t.name}

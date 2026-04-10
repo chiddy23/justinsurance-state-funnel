@@ -6,7 +6,7 @@ import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 
 const homeTitle = "Online Insurance License Courses | $199 | JustInsurance";
-const homeDesc = "Get your insurance license online. $199 prelicensing, $39 CE in 49 states. Pass guarantee, same-day reporting. Enroll now.";
+const homeDesc = "Get your insurance license online. $199 prelicensing, $39 CE in 50 states. Pass guarantee, same-day reporting. Enroll now.";
 
 export const metadata: Metadata = {
   title: { absolute: homeTitle },
@@ -46,7 +46,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            State-approved prelicensing and CE courses for all 49 states. 100% online, self-paced, and backed by our pass guarantee. Join 15,000+ agents who&apos;ve trusted JustInsurance.
+            State-approved prelicensing and CE courses for all 50 states. 100% online, self-paced, and backed by our pass guarantee. Join 30,000+ agents who&apos;ve trusted JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -74,7 +74,7 @@ export default function HomePage() {
             Choose Your State
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            We offer state-approved insurance prelicensing and CE courses in all 49 states. Click your state to get started.
+            We offer state-approved insurance prelicensing and CE courses in all 50 states. Click your state to get started.
           </p>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
@@ -100,7 +100,7 @@ export default function HomePage() {
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-            Why 15,000+ Agents Choose JustInsurance
+            Why 30,000+ Agents Choose JustInsurance
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
             We make getting and keeping your insurance license as simple as possible.

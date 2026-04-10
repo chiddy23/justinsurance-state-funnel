@@ -223,7 +223,7 @@ export default function StudyGuidePage() {
 
       {/* CTA Banner */}
       <CTABanner
-        title="Ready to Start? Join 15,000+ Successful Students."
+        title="Ready to Start? Join 30,000+ Successful Students."
         subtitle="State-approved prelicensing courses built around your state's exact exam content."
         ctaText="Start Your Course"
         ctaHref="/"

@@ -115,7 +115,8 @@ export default async function PrelicensingCoursePage({
   if (!pricing) notFound();
 
   const enrollLink = getCatalogLink(stateData.slug, loaDef.slug);
-  const pricingHoursNum = typeof pricing.hours === "number" ? pricing.hours : 0;
+  const hoursIsNumber = typeof pricing.hours === "number";
+  const pricingHoursNum = hoursIsNumber ? (pricing.hours as number) : undefined;
   const faqs = getPrelicensingCourseFAQs(
     buildFaqData(stateData),
     loaDef.name,
@@ -128,9 +129,11 @@ export default async function PrelicensingCoursePage({
     stateName: stateData.name,
     loaName: loaDef.name,
     courseType: "prelicensing",
-    hours: pricingHoursNum,
+    hours: pricingHoursNum ?? 0,
     price: pricing.price,
-    description: `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, state-approved, online, self-paced. Pass guarantee included. ${pricing.price}.`,
+    description: hoursIsNumber
+      ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, state-approved, online, self-paced. Pass guarantee included. ${pricing.price}.`
+      : `${stateData.name} ${loaDef.name} prelicensing course — state-approved, online, self-paced. Pass guarantee included. ${pricing.price}.`,
   });
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -158,16 +161,69 @@ export default async function PrelicensingCoursePage({
       <StateHero
         eyebrow={`${stateData.name} ${loaDef.shortName} Prelicensing`}
         title={`${stateData.name} ${loaDef.name} Prelicensing Course`}
-        subtitle={`${pricing.hours}-hour state-approved course. Study online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`}
+        subtitle={
+          hoursIsNumber
+            ? `${pricing.hours}-hour state-approved course. Study online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`
+            : `Complete our state-approved ${loaDef.name} prelicensing course online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`
+        }
         ctaButtons={[
           { text: `Enroll Now — ${pricing.price}`, href: enrollLink },
         ]}
       />
 
-      <CourseOverviewBox
-        hours={pricingHoursNum}
-        price={pricing.price}
-      />
+      {hoursIsNumber ? (
+        <CourseOverviewBox
+          hours={pricingHoursNum as number}
+          price={pricing.price}
+        />
+      ) : (
+        // When no mandatory hours, omit the Credit Hours stat to avoid showing "0"
+        <section className="bg-white py-12 px-4">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-8">
+              Course Overview
+            </h2>
+            <div className="bg-gray-bg rounded-2xl border border-gray-200 overflow-hidden">
+              <div className="grid grid-cols-1 md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-gray-200">
+                <div className="p-5 text-center">
+                  <p className="text-3xl font-bold text-gold">{pricing.price}</p>
+                  <p className="text-gray-500 text-sm mt-1">Course Price</p>
+                </div>
+                <div className="p-5 text-center">
+                  <p className="text-base font-bold text-navy">Online, Self-Paced</p>
+                  <p className="text-gray-500 text-sm mt-1">Course Format</p>
+                </div>
+                <div className="p-5 text-center">
+                  <p className="text-base font-bold text-navy">12 Months</p>
+                  <p className="text-gray-500 text-sm mt-1">Access Duration</p>
+                </div>
+              </div>
+              <div className="border-t border-gray-200 p-6">
+                <h3 className="font-semibold text-navy mb-4">What&apos;s Included</h3>
+                <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                  {[
+                    "Video lessons",
+                    "Interactive e-book",
+                    "Practice exams",
+                    "Flashcard review sets",
+                    "Progress tracking",
+                    "Expert support",
+                    "Certificate of completion",
+                    "Pass guarantee",
+                  ].map((item) => (
+                    <li key={item} className="flex items-center gap-2 text-gray-600 text-sm">
+                      <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                      </svg>
+                      {item}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* What You'll Learn */}
       <section className="bg-gray-bg py-16 px-4">
@@ -216,7 +272,11 @@ export default async function PrelicensingCoursePage({
 
       <CTABanner
         title={`Ready to Start Your ${stateData.name} ${loaDef.shortName} Prelicensing?`}
-        subtitle={`Enroll in our ${pricing.hours}-hour state-approved course today. Pass guarantee included. Only ${pricing.price}.`}
+        subtitle={
+          hoursIsNumber
+            ? `Enroll in our ${pricing.hours}-hour state-approved course today. Pass guarantee included. Only ${pricing.price}.`
+            : `Enroll in our state-approved ${loaDef.name} course today. Pass guarantee included. Only ${pricing.price}.`
+        }
         ctaText={`Enroll Now — ${pricing.price}`}
         ctaHref={enrollLink}
         externalLink

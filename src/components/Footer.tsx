@@ -19,21 +19,21 @@ export default function Footer() {
   return (
     <footer className="bg-navy text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8">
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <Link href="/">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
-                src="https://justinsuranceco.com/wp-content/uploads/2024/03/logo-white-300x97.png"
+                src="/justinsurance-logo.png"
                 alt="JustInsurance LLC"
-                width={150}
-                height={49}
-                className="h-10 w-auto mb-4"
+                width={180}
+                height={60}
+                className="h-12 w-auto mb-4"
               />
             </Link>
             <p className="text-gray-300 text-sm leading-relaxed mb-4">
-              State-approved online insurance prelicensing and CE courses for life and health agents in all 49 states. We&apos;ve helped 15,000+ students get and keep their insurance license.
+              State-approved online insurance prelicensing and CE courses for life and health agents in all 50 states. We&apos;ve helped 30,000+ students get and keep their insurance license.
             </p>
             <div className="space-y-2">
               <a
@@ -143,6 +143,15 @@ export default function Footer() {
               </li>
             </ul>
           </div>
+
+          {/* Legal Column */}
+          <div>
+            <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Legal</h3>
+            <ul className="space-y-2">
+              <li><Link href="/privacy-policy" className="text-gray-300 hover:text-gold transition-colors text-sm">Privacy Policy</Link></li>
+              <li><Link href="/terms" className="text-gray-300 hover:text-gold transition-colors text-sm">Terms of Service</Link></li>
+            </ul>
+          </div>
         </div>
 
         {/* Bottom bar */}
@@ -151,7 +160,7 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} JustInsurance LLC / Your Insurance License. All rights reserved.
           </p>
           <p className="text-gray-500 text-xs text-center">
-            State-approved insurance education since 2017 &mdash; 15,000+ students licensed
+            State-approved insurance education since 2017 &mdash; 30,000+ students licensed
           </p>
         </div>
       </div>

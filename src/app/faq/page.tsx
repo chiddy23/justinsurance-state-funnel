@@ -84,7 +84,7 @@ const continuingEducationFaqs = [
   {
     question: "Does JustInsurance report CE completions to my state?",
     answer:
-      "Yes. JustInsurance is a state-approved CE provider in all 49 states we serve. Completions are reported directly to your state's Department of Insurance — typically the same business day. You do not need to submit transcripts or paperwork yourself.",
+      "Yes. JustInsurance is a state-approved CE provider in all 50 states we serve. Completions are reported directly to your state's Department of Insurance — typically the same business day. You do not need to submit transcripts or paperwork yourself.",
   },
   {
     question: "What happens if I miss my CE deadline?",

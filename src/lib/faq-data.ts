@@ -97,6 +97,11 @@ export function buildFaqData(stateData: StateData): StateDataForFAQ {
 
 // ─── Internal helpers ─────────────────────────────────────────────────────────
 
+// Returns "an" before vowel-initial words, "a" otherwise
+function aOrAn(word: string): string {
+  return /^[aeiou]/i.test(word) ? "an" : "a";
+}
+
 // Ensures a dollar value has exactly one $ prefix (handles "50", "$50", "$39")
 function $(val: string): string {
   const s = val.toString().trim();
@@ -141,7 +146,7 @@ export function getStateHubFAQs(data: StateDataForFAQ): FAQ[] {
       answer: `Getting your ${data.name} insurance license involves four steps. First, ${pleStep}. Second, pass the ${data.name} state licensing exam administered by ${data.examProvider} — you need a score of at least ${data.passingScore}% to pass. Third, complete a background check${data.fingerprintRequirement.toLowerCase().includes("not required") || data.fingerprintRequirement.toLowerCase().includes("no finger") ? "" : ", including fingerprinting"}. Fourth, ${data.applicationProcess} and pay the ${data.doiName} application fee of ${$(data.applicationFee)}. Most candidates complete the entire process in ${data.totalLicensingTime}. JustInsurance offers fully online, self-paced prelicensing courses approved for ${data.name} that get you to exam day confident and prepared.`,
     },
     {
-      question: `How much does it cost to get a ${data.name} insurance license?`,
+      question: `How much does it cost to get ${aOrAn(data.name)} ${data.name} insurance license?`,
       answer: `The total cost to get your ${data.name} insurance license typically runs ${data.totalCostRange}. Here is how it breaks down: the ${data.examProvider} exam fee is ${$(data.examFee)}, the ${data.doiName} application fee is ${$(data.applicationFee)}${data.backgroundRequirement.toLowerCase().includes("required") ? ", and a background check adds a small additional cost" : ""}. If you need a prelicensing course, JustInsurance's ${data.name} combined Life & Health package is ${$(data.combinedPrice)} — that's ${$(data.combinedSavings)} less than purchasing Life and Health courses separately. Everything you need to get licensed, with no hidden fees.`,
     },
     {
@@ -149,8 +154,8 @@ export function getStateHubFAQs(data: StateDataForFAQ): FAQ[] {
       answer: `Most focused candidates complete the ${data.name} insurance licensing process in ${data.totalLicensingTime}. That timeframe covers${combinedIsRequired ? ` finishing your prelicensing course (you get ${data.courseAccessDays} days of access; most students finish in 5–10 days),` : ""} scheduling and passing the ${data.examProvider} state exam, clearing your background check, and waiting for the ${data.doiName} to process your application. The ${data.examProvider} exam delivers results quickly — most candidates receive their score before leaving the testing center. JustInsurance's self-paced format lets you move as fast or as steady as your schedule allows.`,
     },
     {
-      question: `What is the ${data.name} insurance exam pass rate?`,
-      answer: `The ${data.name} insurance licensing exam has an overall first-attempt pass rate of around ${data.passRate}%. The exam is administered by ${data.examProvider} and requires a minimum score of ${data.passingScore}% to pass. Candidates who complete a thorough prelicensing course perform significantly better than those who attempt the exam without preparation. If you do not pass on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} JustInsurance includes a full-length practice exam that mirrors the actual ${data.examProvider} question format, so you know exactly what to expect on test day.`,
+      question: `What is the pass rate for JustInsurance students on the ${data.name} insurance exam?`,
+      answer: `JustInsurance students pass the ${data.name} insurance licensing exam at a rate of ${data.passRate}% on their first attempt. The exam is administered by ${data.examProvider} and requires a minimum score of ${data.passingScore}% to pass. That strong outcome reflects the depth of our prelicensing curriculum — candidates who train with structured, state-approved material consistently outperform those who attempt the exam without preparation. If you do not pass on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} JustInsurance includes a full-length practice exam that mirrors the actual ${data.examProvider} question format, so you know exactly what to expect on test day.`,
     },
     {
       question: `How much do insurance agents make in ${data.name}?`,
@@ -259,8 +264,8 @@ export function getPrelicensingCourseFAQs(
       answer: lengthAnswer,
     },
     {
-      question: `What is the pass rate for the ${data.name} ${loaName} exam?`,
-      answer: `The ${data.name} ${loaName} licensing exam, administered by ${data.examProvider}, has an overall first-attempt pass rate of approximately ${data.passRate}%. You need a score of at least ${data.passingScore}% to pass. Candidates who sit for the exam without structured preparation tend to struggle most with the ${data.name}-specific insurance law and regulation questions. JustInsurance's course includes a full-length practice exam modeled on the actual ${data.examProvider} content outline, so you can benchmark your readiness before you walk into the testing center.`,
+      question: `What is the pass rate for JustInsurance students on the ${data.name} ${loaName} exam?`,
+      answer: `JustInsurance students pass the ${data.name} ${loaName} licensing exam at a rate of ${data.passRate}% on their first attempt. The exam is administered by ${data.examProvider} and requires a score of at least ${data.passingScore}% to pass. That result reflects how well our curriculum prepares candidates for the questions they will actually face — particularly the ${data.name}-specific insurance law and regulation questions where unprepared test-takers struggle most. JustInsurance's course includes a full-length practice exam modeled on the actual ${data.examProvider} content outline, so you can benchmark your readiness before you walk into the testing center.`,
     },
     {
       question: `What happens if I fail the ${data.name} ${loaName} exam?`,

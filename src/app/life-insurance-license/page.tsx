@@ -7,7 +7,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Life Insurance License Courses | $199 | JustInsurance";
 const PAGE_DESC =
-  "Get your life insurance license online. $199 prelicensing, pass guarantee. State-approved courses for 49 states.";
+  "Get your life insurance license online. $199 prelicensing, pass guarantee. State-approved courses for 50 states.";
 const CANONICAL = "https://justinsuranceco.com/life-insurance-license";
 
 export const metadata: Metadata = {
@@ -188,7 +188,7 @@ export default function LifeInsuranceLicensePage() {
 
       <CTABanner
         title="Start Your Life Insurance Career Today"
-        subtitle="Enroll in your state's prelicensing course for $199 and join 15,000+ agents who've trusted JustInsurance to get them licensed."
+        subtitle="Enroll in your state's prelicensing course for $199 and join 30,000+ agents who've trusted JustInsurance to get them licensed."
         ctaText="Find My State"
         ctaHref="#states"
       />

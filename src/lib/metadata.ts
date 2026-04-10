@@ -88,7 +88,7 @@ function buildDescription(
 
   switch (pageType) {
     case "home":
-      return "Get your insurance license online. $199 prelicensing, $39 CE in 49 states. Pass guarantee, same-day reporting. Enroll now.";
+      return "Get your insurance license online. $199 prelicensing, $39 CE in 50 states. Pass guarantee, same-day reporting. Enroll now.";
     case "state-hub":
       return `Get your ${stateName} insurance license online. $199 prelicensing, $39 CE. Pass guarantee, same-day DOI reporting. Enroll today.`;
     case "prelicensing-hub":

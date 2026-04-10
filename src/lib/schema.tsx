@@ -1,8 +1,7 @@
 import React from "react";
 
 const BASE_URL = "https://justinsuranceco.com";
-const LOGO_URL =
-  "https://justinsuranceco.com/wp-content/uploads/2024/03/logo-300x97.png";
+const LOGO_URL = "https://justinsuranceco.com/justinsurance-logo.png";
 
 // ---------------------------------------------------------------------------
 // AggregateRating schema
@@ -13,8 +12,8 @@ export function generateAggregateRatingSchema(): object {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
     "bestRating": "5",
-    "ratingCount": "15000",
-    "reviewCount": "15000",
+    "ratingCount": "30000",
+    "reviewCount": "30000",
   };
 }
 
@@ -123,7 +122,7 @@ export function generateOrganizationSchema(): object {
     areaServed: "US",
     sameAs: [BASE_URL],
     description:
-      "JustInsurance LLC offers state-approved online insurance prelicensing and continuing education courses for life and health insurance agents across all 49 states.",
+      "JustInsurance LLC offers state-approved online insurance prelicensing and continuing education courses for life and health insurance agents across all 50 states.",
   };
 }
 

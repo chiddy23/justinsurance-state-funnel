@@ -169,15 +169,14 @@ export default async function CECoursePage({
       <CourseOverviewBox
         hours={ce.totalHours}
         price={ce.packagePrice}
-        accessDuration="Until Completion"
+        accessDuration="365 Days"
         includes={[
-          "State-approved CE content",
-          "Online, self-paced access",
+          "All required CE hours",
           "Ethics hours included",
-          "Instant certificate of completion",
-          "Same-day DOI reporting",
-          "Mobile-friendly access",
+          "Interactive online modules",
           "Progress tracking",
+          "Same-day DOI reporting",
+          "Instant certificate of completion",
           "Expert support",
         ]}
       />
@@ -284,9 +283,9 @@ export default async function CECoursePage({
         </div>
       </section>
 
-      <CourseFeatures />
+      <CourseFeatures variant="ce" />
 
-      <TestimonialCards />
+      <TestimonialCards variant="ce" />
 
       <FAQAccordion
         faqs={faqs}

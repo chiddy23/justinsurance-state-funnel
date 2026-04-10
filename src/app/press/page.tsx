@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     absolute: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",
   },
   description:
-    "JustInsurance press coverage and media mentions. Featured on NASDAQ and Yahoo Finance for our 93% pass-rate breakthrough and solutions to the U.S. insurance agent shortage.",
+    "JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% student pass rate, 30,000+ agents trained across 50 states.",
   robots: "index, follow",
   alternates: {
     canonical: "https://justinsuranceco.com/press/",

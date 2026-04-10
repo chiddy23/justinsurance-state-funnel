@@ -5,7 +5,7 @@ import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 export const metadata: Metadata = {
   title: { absolute: "Terms of Service | JustInsurance" },
   description:
-    "Read the JustInsurance LLC Terms of Service governing use of our online insurance prelicensing and CE courses, including our pass guarantee, refund policy, and CE reporting.",
+    "JustInsurance LLC Terms of Service. Course access, payment, pass guarantee terms, CE reporting, and licensing for our online insurance education platform.",
   alternates: { canonical: "https://justinsuranceco.com/terms" },
 };
 

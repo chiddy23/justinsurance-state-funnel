@@ -40,27 +40,27 @@ function buildTitle(
       title = `${stateName} Insurance License | $199 | ${brand}`;
       break;
     case "prelicensing-hub":
-      title = `${stateName} Insurance Prelicensing | $199 | ${brand}`;
+      title = `${stateName} Insurance Prelicensing Course Online | ${brand}`;
       break;
     case "ce-hub":
-      title = `${stateName} Insurance CE Courses | $39 | ${brand}`;
+      title = `${stateName} Insurance CE Courses Online | ${brand}`;
       break;
     case "prelicensing-course":
-      title = `${stateName} ${loaName} Prelicensing | $199 | ${brand}`;
+      title = `${stateName} ${loaName} Prelicensing Course | $199 | ${brand}`;
       break;
     case "ce-course":
       title = `${stateName} ${loaName} CE Course | $39 | ${brand}`;
       break;
   }
 
-  // Trim if over 61 chars: drop price to fit
-  if (title.length > 61) {
+  // Trim if over 60 chars: drop price to fit
+  if (title.length > 60) {
     switch (pageType) {
       case "state-hub":
         title = `${stateName} Insurance License Online | ${brand}`;
         break;
       case "prelicensing-hub":
-        title = `${stateName} Prelicensing Courses | ${brand}`;
+        title = `${stateName} Prelicensing Course Online | ${brand}`;
         break;
       case "ce-hub":
         title = `${stateName} CE Courses | $39 | ${brand}`;
@@ -92,11 +92,11 @@ function buildDescription(
     case "state-hub":
       return `Get your ${stateName} insurance license online. $199 prelicensing, $39 CE. Pass guarantee, same-day DOI reporting. Enroll today.`;
     case "prelicensing-hub":
-      return `${stateName} insurance prelicensing online. $199, state-approved, pass guarantee included. Life, health, and combined courses. Enroll now.`;
+      return `Get your ${stateName} insurance license online. State-approved prelicensing, $199, pass guarantee. Self-paced with practice exams. Enroll now.`;
     case "ce-hub":
       return `${stateName} insurance CE courses online. $39, same-day DOI reporting. Renew your license fast with JustInsurance.`;
     case "prelicensing-course":
-      return `${stateName} ${loaName} prelicensing course. $199, state-approved, pass guarantee. Practice exams included. Enroll with JustInsurance.`;
+      return `${stateName} ${loaName} prelicensing course online. $199, state-approved, pass guarantee. Self-paced with practice exams. Enroll with JustInsurance.`;
     case "ce-course":
       return `${stateName} ${loaName} CE course. $39, same-day DOI reporting, self-paced online. Renew with JustInsurance today.`;
   }

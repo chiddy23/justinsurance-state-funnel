@@ -5,7 +5,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
-const PAGE_TITLE = "Insurance CE Courses | $39 · Same-Day Reporting | JustInsurance";
+const PAGE_TITLE = "Insurance CE Courses Online | From $39 | JustInsurance";
 const PAGE_DESC =
   "Renew your insurance license online. $39 CE packages, same-day DOI reporting. State-approved for 50 states. Enroll now.";
 const CANONICAL = "https://justinsuranceco.com/continuing-education";

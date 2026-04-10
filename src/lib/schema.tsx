@@ -46,7 +46,6 @@ export function generateCourseSchema(params: {
       url: BASE_URL,
       logo: LOGO_URL,
     },
-    aggregateRating: generateAggregateRatingSchema(),
     hasCourseInstance: {
       "@type": "CourseInstance",
       courseMode: "online",
@@ -159,10 +158,14 @@ export function SchemaMarkup({
 }: {
   schema: object;
 }): React.ReactElement {
+  // Escape "</script>" and HTML-significant sequences so the JSON-LD payload
+  // cannot accidentally close the surrounding <script> tag, which would
+  // produce a JSON parse error and invalidate the structured data.
+  const json = JSON.stringify(schema).replace(/<\//g, "<\\/");
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      dangerouslySetInnerHTML={{ __html: json }}
     />
   );
 }

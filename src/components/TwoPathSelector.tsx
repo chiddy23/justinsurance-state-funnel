@@ -80,7 +80,7 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
                 <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
-                Complete in one sitting
+                Complete at your own pace
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600">
                 <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">

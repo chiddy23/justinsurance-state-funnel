@@ -7401,10 +7401,10 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Wyoming does not require prelicensing education and offers a 3-year license renewal cycle, making it one of the lowest-barrier states for insurance licensing. Fingerprinting is handled through a mailed fingerprint packet rather than a commercial vendor — candidates should plan extra time for this step. Wyoming's energy sector economy centered on oil, gas, and coal creates strong demand for commercial insurance specialists, while the state's wide-open spaces and ranching communities drive agricultural and life insurance needs.",
+    stateSpecificIntro: "Wyoming does not require prelicensing education and offers a 2-year license renewal cycle, making it one of the lowest-barrier states for insurance licensing. Fingerprinting is handled through a mailed fingerprint packet rather than a commercial vendor — candidates should plan extra time for this step. Wyoming's energy sector economy centered on oil, gas, and coal creates strong demand for commercial insurance specialists, while the state's wide-open spaces and ranching communities drive agricultural and life insurance needs.",
     stateSpecificFAQ: {
       question: "How does Wyoming's fingerprinting process work for insurance licensing?",
-      answer: "Wyoming processes fingerprinting through a mailed fingerprint packet rather than through IdentoGO or another commercial vendor. After submitting your NIPR application, you will receive instructions for obtaining and mailing in your fingerprint card. This process can add extra time to your application — plan for 1 to 2 additional weeks compared to states that use electronic fingerprinting. Wyoming requires no prelicensing education and licenses run for 3 years.",
+      answer: "Wyoming processes fingerprinting through a mailed fingerprint packet rather than through IdentoGO or another commercial vendor. After submitting your NIPR application, you will receive instructions for obtaining and mailing in your fingerprint card. This process can add extra time to your application — plan for 1 to 2 additional weeks compared to states that use electronic fingerprinting. Wyoming requires no prelicensing education and licenses run for 2 years.",
     },
     stateTestimonial: {
       quote: "JustInsurance made getting my Wyoming insurance license a breeze. The course covered everything I needed, and the team helped me understand the fingerprint mail-in process so there were no surprises.",

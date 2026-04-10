@@ -7,7 +7,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Insurance Prelicensing Courses | $199 | JustInsurance";
 const PAGE_DESC =
-  "State-approved insurance prelicensing courses online. $199, pass guarantee. Life, health, and combined. Start in any of 49 states.";
+  "State-approved insurance prelicensing courses online. $199, pass guarantee. Life, health, and combined. Start in any of 50 states.";
 const CANONICAL = "https://justinsuranceco.com/prelicensing";
 
 export const metadata: Metadata = {
@@ -33,7 +33,7 @@ const faqs = [
   {
     question: "What is insurance prelicensing?",
     answer:
-      "Insurance prelicensing is a state-mandated education requirement that must be completed before you can sit for your state insurance licensing exam. Each state specifies a minimum number of required hours — typically 20 to 40 hours — covering topics like insurance concepts, policy types, regulations, and ethics. JustInsurance courses satisfy these requirements in all 49 states where we operate.",
+      "Insurance prelicensing is a state-mandated education requirement that must be completed before you can sit for your state insurance licensing exam. Each state specifies a minimum number of required hours — typically 20 to 40 hours — covering topics like insurance concepts, policy types, regulations, and ethics. JustInsurance courses satisfy these requirements in all 50 states where we operate.",
   },
   {
     question: "How long does prelicensing take to complete?",
@@ -55,7 +55,7 @@ const faqs = [
 const stats = [
   { value: "$199", label: "Flat course price", sub: "No hidden fees or subscriptions" },
   { value: "93%", label: "First-attempt pass rate", sub: "vs. ~55% national average" },
-  { value: "49", label: "States covered", sub: "State-approved in every market we serve" },
+  { value: "50", label: "States covered", sub: "State-approved in every market we serve" },
   { value: "1–3 wks", label: "Avg. completion time", sub: "Fully self-paced, no deadlines" },
 ];
 
@@ -92,7 +92,7 @@ export default function PrelicensingPage() {
             Insurance Prelicensing Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Complete your state-required prelicensing education online for $199. Self-paced, state-approved, and backed by our pass guarantee. Available in 49 states.
+            Complete your state-required prelicensing education online for $199. Self-paced, state-approved, and backed by our pass guarantee. Available in 50 states.
           </p>
           <a
             href="#states"

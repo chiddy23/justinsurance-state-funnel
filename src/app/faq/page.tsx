@@ -79,7 +79,7 @@ const continuingEducationFaqs = [
   {
     question: "How many CE hours do I need to renew my insurance license?",
     answer:
-      "Most states require 24 CE hours per 2-year renewal cycle. Exceptions include Arizona (48 hours / 4 years), Massachusetts (45 hours / 3 years), Iowa (36 hours / 3 years), Ohio (24 hours / 3 years), Wyoming (24 hours / 3 years), and South Dakota (10 hours / 1 year). Your state's requirement is shown on the /license-renewal-guide page.",
+      "Most states require 24 CE hours per 2-year renewal cycle. Exceptions include Arizona (48 hours / 4 years), Massachusetts (45 hours / 3 years), Iowa (36 hours / 3 years), Ohio (24 hours / 2 years), Wyoming (24 hours / 2 years), and South Dakota (10 hours / 1 year). Your state's requirement is shown on the /license-renewal-guide page.",
   },
   {
     question: "Does JustInsurance report CE completions to my state?",

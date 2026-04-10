@@ -83,7 +83,7 @@ const statesCEData: [string, string, number, string][] = [
   ["New Mexico", "new-mexico", 24, "2 years"],
   ["North Carolina", "north-carolina", 24, "2 years"],
   ["North Dakota", "north-dakota", 24, "2 years"],
-  ["Ohio", "ohio", 24, "3 years"],
+  ["Ohio", "ohio", 24, "2 years"],
   ["Oklahoma", "oklahoma", 24, "2 years"],
   ["Oregon", "oregon", 24, "2 years"],
   ["Pennsylvania", "pennsylvania", 24, "2 years"],
@@ -98,7 +98,7 @@ const statesCEData: [string, string, number, string][] = [
   ["Washington", "washington", 24, "2 years"],
   ["West Virginia", "west-virginia", 24, "2 years"],
   ["Wisconsin", "wisconsin", 24, "2 years"],
-  ["Wyoming", "wyoming", 24, "3 years"],
+  ["Wyoming", "wyoming", 24, "2 years"],
 ];
 
 const renewalSteps = [

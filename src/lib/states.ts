@@ -190,7 +190,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "3-5 days after passing your exam and applying",
     totalLicensingTime: "3-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031647",
 
     examInfo: {
       passingScore: 70,
@@ -335,7 +335,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-5 weeks (for focused applicants)",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500032027",
 
     examInfo: {
       passingScore: 70,
@@ -625,7 +625,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "Approximately 3-4 weeks from start to finish",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500028661",
 
     examInfo: {
       passingScore: 70,
@@ -1060,7 +1060,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "7-10 days after submitting all documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500029171",
 
     examInfo: {
       passingScore: 70,
@@ -1205,7 +1205,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "Within a couple weeks of submitting all documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031593",
 
     examInfo: {
       passingScore: 70,
@@ -1640,7 +1640,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "Less than 60 days after submitting all documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031918",
 
     examInfo: {
       passingScore: 70,
@@ -1785,7 +1785,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031591",
 
     examInfo: {
       passingScore: 70,
@@ -3090,7 +3090,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031615",
 
     examInfo: {
       passingScore: 70,
@@ -3815,7 +3815,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031592",
 
     examInfo: {
       passingScore: 70,
@@ -3960,7 +3960,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031589",
 
     examInfo: {
       passingScore: 70,
@@ -4250,7 +4250,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031611",
 
     examInfo: {
       passingScore: 70,
@@ -4975,7 +4975,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "less than a month after submitting all required documentation.",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031603",
 
     examInfo: {
       passingScore: 70,
@@ -5265,7 +5265,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031751",
 
     examInfo: {
       passingScore: 70,
@@ -5410,7 +5410,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "less than two weeks after submitting all required documentation.",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031572",
 
     examInfo: {
       passingScore: 70,
@@ -5700,7 +5700,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "less than three weeks after submitting all documentation.",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031750",
 
     examInfo: {
       passingScore: 70,
@@ -5845,7 +5845,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031569",
 
     examInfo: {
       passingScore: 70,
@@ -5990,7 +5990,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031730",
 
     examInfo: {
       passingScore: 70,
@@ -6570,7 +6570,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500031618",
 
     examInfo: {
       passingScore: 70,
@@ -7150,7 +7150,7 @@ export const STATES: Record<string, StateData> = {
     licenseIssueTime: "a few days after submitting all required documentation",
     totalLicensingTime: "2-4 weeks",
 
-    providerNumber: "5.00E+08",
+    providerNumber: "500028824",
 
     examInfo: {
       passingScore: 70,

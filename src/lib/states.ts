@@ -2660,7 +2660,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "36",
+      examFee: "67",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/ladi",
       examBookingUrl: "https://test-takers.psiexams.com/ladi",
@@ -2950,7 +2950,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "60",
+      examFee: "36",
       examProvider: "Prometric",
       examProviderUrl: "https://www.prometric.com/maryland/insurance",
       examBookingUrl: "https://www.prometric.com/maryland/insurance",
@@ -3095,7 +3095,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "39",
+      examFee: "55",
       examProvider: "Promteric",
       examProviderUrl: "https://www.prometric.com/massachusetts/insurance",
       examBookingUrl: "https://www.prometric.com/massachusetts/insurance",
@@ -3240,7 +3240,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "41",
+      examFee: "60",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/midifs",
       examBookingUrl: "https://test-takers.psiexams.com/midifs",
@@ -3385,7 +3385,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "45",
+      examFee: "39",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/mnins",
       examBookingUrl: "https://test-takers.psiexams.com/mnins",
@@ -3530,7 +3530,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "52",
+      examFee: "41",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://home.pearsonvue.com/ms/insurance",
       examBookingUrl: "https://home.pearsonvue.com/ms/insurance",
@@ -3675,7 +3675,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "29-35",
+      examFee: "45",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/mo/insurance",
       examBookingUrl: "https://www.pearsonvue.com/mo/insurance",
@@ -3820,7 +3820,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "59",
+      examFee: "52",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/mt/insurance",
       examBookingUrl: "https://www.pearsonvue.com/mt/insurance",
@@ -3965,7 +3965,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "43",
+      examFee: "29-35",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://test-takers.psiexams.com/neins",
       examBookingUrl: "https://test-takers.psiexams.com/neins",
@@ -4110,7 +4110,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "37",
+      examFee: "59",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://home.pearsonvue.com/nv/insurance",
       examBookingUrl: "https://home.pearsonvue.com/nv/insurance",
@@ -5125,7 +5125,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "49",
+      examFee: "45",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://www.psiexams.com/ohin",
       examBookingUrl: "https://www.psiexams.com/ohin",
@@ -5270,7 +5270,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "38",
+      examFee: "64",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/okins",
       examBookingUrl: "https://test-takers.psiexams.com/okins",
@@ -5415,7 +5415,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "45",
+      examFee: "49",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/orins",
       examBookingUrl: "https://test-takers.psiexams.com/orins",
@@ -5560,7 +5560,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "43",
+      examFee: "38",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/pain",
       examBookingUrl: "https://test-takers.psiexams.com/pain",
@@ -6140,7 +6140,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "55",
+      examFee: "59",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/tn/insurance",
       examBookingUrl: "https://www.pearsonvue.com/tn/insurance",
@@ -6285,7 +6285,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "39",
+      examFee: "85",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://home.pearsonvue.com/tx/insurance",
       examBookingUrl: "https://home.pearsonvue.com/tx/insurance",
@@ -6430,7 +6430,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "32",
+      examFee: "55",
       examProvider: "Prometric",
       examProviderUrl: "https://www.prometric.com/utah/insurance",
       examBookingUrl: "https://www.prometric.com/utah/insurance",
@@ -6575,7 +6575,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "50",
+      examFee: "39",
       examProvider: "Prometric",
       examProviderUrl: "https://www.prometric.com/vermont/insurance",
       examBookingUrl: "https://www.prometric.com/vermont/insurance",
@@ -6720,7 +6720,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "51",
+      examFee: "32",
       examProvider: "Prometric",
       examProviderUrl: "https://www.prometric.com/virginia/insurance",
       examBookingUrl: "https://www.prometric.com/virginia/insurance",
@@ -6865,7 +6865,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "35",
+      examFee: "50",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/waoic",
       examBookingUrl: "https://test-takers.psiexams.com/waoic",
@@ -7155,7 +7155,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "75",
+      examFee: "50",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/wiins",
       examBookingUrl: "https://test-takers.psiexams.com/wiins",
@@ -7300,7 +7300,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "96",
+      examFee: "84",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://home.pearsonvue.com/wy/insurance",
       examBookingUrl: "https://home.pearsonvue.com/wy/insurance",

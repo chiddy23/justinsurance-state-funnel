@@ -106,7 +106,7 @@ export function generateOrganizationSchema(): object {
       height: 97,
     },
     telephone: "754-223-9744",
-    email: "support@yourinsurancelicense.com",
+    email: "support@justinsuranceco.com",
     address: {
       "@type": "PostalAddress",
       streetAddress: "1806 N Flamingo Rd Ste 230",

@@ -173,10 +173,10 @@ export default function TermsPage() {
           <LI>
             Notify us immediately at{" "}
             <a
-              href="mailto:support@yourinsurancelicense.com"
+              href="mailto:support@justinsuranceco.com"
               className="text-navy underline hover:text-gold transition-colors"
             >
-              support@yourinsurancelicense.com
+              support@justinsuranceco.com
             </a>{" "}
             if you suspect unauthorized access to your account.
           </LI>
@@ -403,10 +403,10 @@ export default function TermsPage() {
           <p>
             Email:{" "}
             <a
-              href="mailto:support@yourinsurancelicense.com"
+              href="mailto:support@justinsuranceco.com"
               className="text-navy underline hover:text-gold transition-colors"
             >
-              support@yourinsurancelicense.com
+              support@justinsuranceco.com
             </a>
           </p>
           <p>

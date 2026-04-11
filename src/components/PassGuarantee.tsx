@@ -46,8 +46,8 @@ export default function PassGuarantee() {
 
           <p className="text-gray-500 text-sm">
             Guarantee applies to first-time exam attempts within 90 days of course completion. Contact{" "}
-            <a href="mailto:support@yourinsurancelicense.com" className="text-navy hover:text-gold transition-colors underline">
-              support@yourinsurancelicense.com
+            <a href="mailto:support@justinsuranceco.com" className="text-navy hover:text-gold transition-colors underline">
+              support@justinsuranceco.com
             </a>{" "}
             for details.
           </p>

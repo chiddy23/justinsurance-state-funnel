@@ -277,7 +277,7 @@ export default function FAQPage() {
               754-223-9744
             </a>
             <a
-              href="mailto:support@yourinsurancelicense.com"
+              href="mailto:support@justinsuranceco.com"
               className="inline-flex items-center justify-center gap-2 border border-navy text-navy font-semibold px-6 py-3 rounded-lg hover:bg-navy/5 transition-colors text-sm"
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

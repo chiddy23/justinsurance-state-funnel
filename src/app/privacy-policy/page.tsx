@@ -276,10 +276,10 @@ export default function PrivacyPolicyPage() {
           cannot guarantee absolute security. If you believe your account has been compromised,
           please contact us immediately at{" "}
           <a
-            href="mailto:support@yourinsurancelicense.com"
+            href="mailto:support@justinsuranceco.com"
             className="text-navy underline hover:text-gold transition-colors"
           >
-            support@yourinsurancelicense.com
+            support@justinsuranceco.com
           </a>
           .
         </P>
@@ -345,10 +345,10 @@ export default function PrivacyPolicyPage() {
         <P>
           To exercise any of these rights, contact us at{" "}
           <a
-            href="mailto:support@yourinsurancelicense.com"
+            href="mailto:support@justinsuranceco.com"
             className="text-navy underline hover:text-gold transition-colors"
           >
-            support@yourinsurancelicense.com
+            support@justinsuranceco.com
           </a>
           . We will respond within 30 days. We may need to verify your identity before processing
           your request.
@@ -382,10 +382,10 @@ export default function PrivacyPolicyPage() {
           <p>
             Email:{" "}
             <a
-              href="mailto:support@yourinsurancelicense.com"
+              href="mailto:support@justinsuranceco.com"
               className="text-navy underline hover:text-gold transition-colors"
             >
-              support@yourinsurancelicense.com
+              support@justinsuranceco.com
             </a>
           </p>
           <p>

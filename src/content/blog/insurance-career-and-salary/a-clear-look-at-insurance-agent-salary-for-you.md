@@ -16,7 +16,6 @@ imageAlt: >-
   setting.
 imageCredit: Photo by RDNE Stock project on Pexels
 ---
-
 ## Understand insurance agent salary
 
 When you consider a career as an insurance agent, thinking about potential earnings is probably at the top of your list. Insurance agent salary can vary widely. Factors like your location, experience, and the type of insurance products you sell all influence what you bring home each month. Many people are drawn to this field because the earning potential can be quite strong once you find the right combination of strategy and hard work.
@@ -72,4 +71,4 @@ You’ll want to explore what kind of marketing materials, lead generation progr
 
 By keeping your eyes on these details, you can make an informed decision about whether the insurance field aligns with your financial goals. A career as an insurance agent provides an opportunity to earn an income that can grow every year, while allowing you to help individuals and families safeguard what matters most.
 
-If you’re feeling ready to explore your next steps in insurance, consider contacting JustInsurance for further guidance. Discover if this rewarding career path offers the perfect blend of income and personal satisfaction for you. Above all, remember that an insurance agent salary often grows in direct proportion to the effort and strategic thinking you put into your professional journey. Keep setting your sights on your long-term goals, and your earnings may surprise you.
+If you’re feeling ready to explore your next steps in insurance, consider contacting JustInsurance for further guidance. Discover if this rewarding career path offers the perfect blend of income and personal satisfaction for you. Above all, remember that an insurance agent salary often grows in direct proportion to the effort and strategic thinking you put into your professional journey. Keep setting your sights on your long-term goals, and your earnings may surprise you. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

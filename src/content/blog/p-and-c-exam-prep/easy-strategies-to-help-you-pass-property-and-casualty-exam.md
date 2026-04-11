@@ -16,7 +16,6 @@ imageAlt: >-
   environment.
 imageCredit: Photo by Ketut Subiyanto on Pexels
 ---
-
 Many aspiring insurance professionals wonder how to pass property and casualty exam on their first try. You might feel pressure to memorize a wide range of policies, regulations, and industry jargon to reach a passing score. With the right plan and mindset, however, you can set yourself up for success and walk into your testing center with confidence.
 
 Below are strategies designed to simplify your study process, boost comprehension, and keep you motivated all the way through exam day. Whether you are new to insurance or refreshing your license credentials, you will find tips to help you build a winning approach.
@@ -92,4 +91,4 @@ Finally, remember you do not have to score 100 percent to pass. Even if a few qu
 
 Preparing for the property and casualty exam requires dedication, but it does not have to be a grueling experience. Establish a clear schedule, tailor your study methods to your learning preferences, and practice mindful strategies while taking the test. By focusing on the topics that matter most—and keeping yourself motivated and calm when exam day arrives—you drastically increase your likelihood of success.
 
-Once you pass, all the hours of preparation become worth it, opening doors for your insurance career and earning you the license you have been working so hard to achieve. Keep the momentum going, and trust that your supportive study habits will translate into continued growth, both professionally and personally.
+Once you pass, all the hours of preparation become worth it, opening doors for your insurance career and earning you the license you have been working so hard to achieve. Keep the momentum going, and trust that your supportive study habits will translate into continued growth, both professionally and personally. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

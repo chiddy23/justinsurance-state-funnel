@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-When you’re pursuing or renewing your insurance license in New York, there’s one critical factor you can’t ignore: your continuing education (CE) deadlines. Juggling these obligations might seem overwhelming, but it doesn’t have to be. A straightforward plan and the right resources can keep your license current and allow you to focus on advancing your insurance career. This post will guide you through the essential steps so you stay on track with your New York insurance CE deadlines.
+When you’re pursuing or renewing your insurance license in New York, there’s one critical factor you can’t ignore: your [continuing education](/continuing-education) (CE) deadlines. Juggling these obligations might seem overwhelming, but it doesn’t have to be. A straightforward plan and the right resources can keep your license current and allow you to focus on advancing your insurance career. This post will guide you through the essential steps so you stay on track with your New York insurance CE deadlines.
 
 ## Master your NY CE basics
 
@@ -27,7 +27,7 @@ Different lines of authority can have unique CE requirements. If you hold a life
 
 ## Know your licensing deadlines
 
-In New York, license renewal typically hinges on finishing all CE requirements before your specific renewal date. If your license expires in the middle of a busy season, plan ahead. Being late can lead to extra fees or even a lapse in your license if you don’t meet the deadline.
+In New York, [license renewal](/license-renewal-guide) typically hinges on finishing all CE requirements before your specific renewal date. If your license expires in the middle of a busy season, plan ahead. Being late can lead to extra fees or even a lapse in your license if you don’t meet the deadline.
 
 Try setting reminders at regular intervals so nothing falls through the cracks. A good rule of thumb is to mark your calendar at least six months before your expiration date. This allows you enough time to schedule courses, complete them without rushing, and ensure that your credits are properly reported. If unexpected obligations or emergencies arise, you’ll have a buffer to keep things on track.
 

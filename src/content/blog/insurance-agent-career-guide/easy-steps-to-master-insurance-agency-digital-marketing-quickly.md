@@ -15,7 +15,6 @@ image: >-
 imageAlt: A detailed view of a man signing official documents with a pen at a table.
 imageCredit: Photo by Ron Lach on Pexels
 ---
-
 ## Know your digital marketing foundation
 
 Insurance agency digital marketing begins with a clear understanding of the tools and platforms at your disposal. You want to make it simple for potential clients to find you and book time to discuss their coverage needs. Most new agents focus on top-of-the-funnel traffic, but the key is mapping out each stage of a prospect’s journey, from awareness to final purchase.
@@ -121,4 +120,4 @@ When you see a certain channel generating high-quality leads, double down on it.
 
 Take time each week to review your progress, experiment with new platforms, and refine your messaging. Every small step you take today brings you closer to building a thriving book of business.
 
-If you’re looking for more hands-on support or advanced strategies, consider connecting with JustInsurance. They offer insights tailored to new insurance agents eager to expand their digital reach. By combining the right tactics and consistent effort, you’ll be on your way to mastering insurance agency digital marketing faster than you might imagine.
+If you’re looking for more hands-on support or advanced strategies, consider connecting with JustInsurance. They offer insights tailored to new insurance agents eager to expand their digital reach. By combining the right tactics and consistent effort, you’ll be on your way to mastering insurance agency digital marketing faster than you might imagine. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

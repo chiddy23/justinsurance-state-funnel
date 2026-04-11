@@ -14,7 +14,6 @@ image: /blog/images/take-control-of-your-insurance-agent-lead-generation-journey
 imageAlt: Colleagues discussing data trends on a whiteboard with graphs and charts.
 imageCredit: Photo by www.kaboompics.com on Pexels
 ---
-
 Starting out in the insurance industry can be both exciting and overwhelming. You have studied, passed your licensing exams, and now it is time to put your knowledge into practice. One of the most important aspects of building a successful practice is insurance agent lead generation. When you know how to attract and nurture potential clients, you pave the way for steady growth and long-term success. Below, you will find actionable steps to help you generate steady leads, boost your confidence, and position yourself for lasting achievements in this ever-evolving field.
 
 ## Understand your lead goals
@@ -74,4 +73,4 @@ As you continue refining your insurance agent lead generation tactics, remember 
 
 If you ever feel stuck, consider speaking with fellow professionals or mentors who might have walked this path before. Discuss challenges and trade success stories, because learning from others can be a powerful shortcut to growth. You have plenty of options. Whether you lean on face-to-face conversations, digital marketing, or referral partnerships, each step you take helps you build a stronger practice.
 
-When you are ready to expand your horizons further, explore the resources at JustInsurance for additional support and tools that fit your stage of growth. You are not alone in this journey—just remember that consistent effort, genuine relationships, and real value offered to clients are the key ingredients. Keep going, and you will see your insurance practice flourish one lead at a time.
+When you are ready to expand your horizons further, explore the resources at JustInsurance for additional support and tools that fit your stage of growth. You are not alone in this journey—just remember that consistent effort, genuine relationships, and real value offered to clients are the key ingredients. Keep going, and you will see your insurance practice flourish one lead at a time. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

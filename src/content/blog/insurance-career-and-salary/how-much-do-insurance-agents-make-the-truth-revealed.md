@@ -16,7 +16,6 @@ imageAlt: >-
   setting.
 imageCredit: Photo by PNW Production on Pexels
 ---
-
 How much do insurance agents make? You’ve likely seen buzzwords about hefty commissions or heard stories of modest base salaries. The reality is that your earnings in this field can range widely depending on several factors, like your specialty and whether you work independently or as part of a bigger company. In this article, you’ll learn about the different components of an insurance agent’s income, common misconceptions, and tips on carving out a rewarding path in this profession. By the end, you’ll have a clear sense of what to expect and whether the financial side of being an insurance agent aligns with your goals.
 
 Insurance remains a people-focused industry. You’re often the first phone call a client makes when they need help understanding coverage or filing a claim. That high level of responsibility can come with long-term financial rewards. Your earning potential is partly tied to how you serve and retain clients, which makes people skills as important as policy knowledge. If you’re able to educate clients effectively, build trust, and stay on top of changing policies, you stand a good chance of improving your bottom line every year.
@@ -113,4 +112,4 @@ By now, you should have a clearer picture of the answer to “how much do insura
 
 When you’re ready to put these insights into action, consider connecting with established industry professionals for guidance. JustInsurance, for instance, offers resources that can help you learn more about the ins and outs of starting or improving your insurance business. The journey may feel challenging at first, but if you’re motivated, equipped with the right knowledge, and focused on delivering an outstanding client experience, you’ll be well on your way to sustaining—and growing—a financially rewarding career in insurance.
 
-Ready to see if this career is right for you? Take some time to explore the options, get the necessary licensing, and map out your financial goals. You’ll quickly discover how fulfilling it can be to protect people’s well-being while also earning a strong income.
+Ready to see if this career is right for you? Take some time to explore the options, get the necessary licensing, and map out your financial goals. You’ll quickly discover how fulfilling it can be to protect people’s well-being while also earning a strong income. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

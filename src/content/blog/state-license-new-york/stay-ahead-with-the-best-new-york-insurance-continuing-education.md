@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by AlphaTradeZone on Pexels
 ---
 
-If you are a New York resident aiming to keep your insurance credentials current, you probably already know how crucial New York insurance continuing education can be. Staying ahead means meeting the mandatory requirements and mastering everything from exam prep to career planning. The good news is that continuing education need not be complicated, and it often makes you a stronger agent for your clients. Below, you will find a friendly, step-by-step look at what you need to do, plus ways to streamline the process.
+If you are a New York resident aiming to keep your insurance credentials current, you probably already know how crucial New York insurance [continuing education](/continuing-education) can be. Staying ahead means meeting the mandatory requirements and mastering everything from exam prep to career planning. The good news is that continuing education need not be complicated, and it often makes you a stronger agent for your clients. Below, you will find a friendly, step-by-step look at what you need to do, plus ways to streamline the process.
 
 ## Why continuing education is essential
 

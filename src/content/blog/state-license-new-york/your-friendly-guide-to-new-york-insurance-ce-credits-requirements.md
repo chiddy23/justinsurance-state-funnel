@@ -16,7 +16,7 @@ imageAlt: 'Close-up of income statement, calculator, and planner for financial p
 imageCredit: Photo by Leeloo The First on Pexels
 ---
 
-If you live in New York and want to become a licensed insurance professional, you may have heard about New York insurance CE credits. These credits are part of the continuing education requirements that help you stay updated on important industry changes. Whether you are just beginning your journey or already hold a license, understanding how these credits fit into your licensing path can make all the difference in your long-term success.
+If you live in New York and want to become a licensed insurance professional, you may have heard about New York insurance CE credits. These credits are part of the [continuing education](/continuing-education) requirements that help you stay updated on important industry changes. Whether you are just beginning your journey or already hold a license, understanding how these credits fit into your licensing path can make all the difference in your long-term success.
 
 In this guide, you will walk through the process step by step, from meeting the state’s requirements to maintaining your license for years to come. Along the way, you will learn practical tips about exam preparation, timelines, costs, and how to ensure you keep your license in good standing. By the end, you should feel confident about each phase of your training and know exactly where to turn for extra support.
 

@@ -46,7 +46,7 @@ Earning solid commissions often requires an intentional strategy. First, maintai
 
 You also want to keep an eye on how you network. Building relationships with real estate agents, mortgage brokers, and financial advisors can lead to a reliable stream of referrals. Each new referral is a chance to earn another piece of commission without extensive cold-calling. Meanwhile, leveraging digital platforms and social media to showcase your expertise can give you additional opportunities to attract clients.
 
-If you are already working as an insurance agent, ask about any continuing education programs or advanced certifications. These qualifications can make you eligible for higher sales or leadership roles within your agency. In some cases, specialized credentials may open up new lines of coverage that enjoy higher commission percentages. Growing your skill set and base of knowledge is not just about prestige, it often translates directly into higher income.
+If you are already working as an insurance agent, ask about any [continuing education](/continuing-education) programs or advanced certifications. These qualifications can make you eligible for higher sales or leadership roles within your agency. In some cases, specialized credentials may open up new lines of coverage that enjoy higher commission percentages. Growing your skill set and base of knowledge is not just about prestige, it often translates directly into higher income.
 
 ## FAQ on commission rates
 

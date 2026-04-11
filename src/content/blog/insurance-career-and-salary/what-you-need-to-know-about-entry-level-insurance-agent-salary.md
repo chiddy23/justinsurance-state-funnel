@@ -34,7 +34,7 @@ Some agents enjoy a hybrid system, especially when new. You earn a “draw” ag
 
 As you develop your skills, you open the door to higher-level positions or specialized niches. For example, pivoting into commercial insurance or focusing on high-value clients can lead to bigger transaction sizes. Building a solid network of clients and referrals will also help you earn repeat commissions year over year.
 
-You’ll likely find that experienced insurance agents often surpass $50,000 to $60,000 annually, with many going beyond that range as they deepen their client base. Continuing education, earning specialized licenses, or seeking advanced certifications can position you as a go-to resource. Over time, these credentials translate into higher commissions and a stabler income.
+You’ll likely find that experienced insurance agents often surpass $50,000 to $60,000 annually, with many going beyond that range as they deepen their client base. [Continuing education](/continuing-education), earning specialized licenses, or seeking advanced certifications can position you as a go-to resource. Over time, these credentials translate into higher commissions and a stabler income.
 
 ## Tips for success as a new agent
 

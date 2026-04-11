@@ -45,7 +45,7 @@ Automation is another way to streamline your practice. Setting up automated emai
 
 Your first year in insurance lays the foundation for the rest of your career. Investing in ongoing skill-building not only keeps you sharp, but it also helps you adapt to an evolving industry. Seek out workshops, online courses, and mentorship opportunities, because a willingness to learn will set you apart.
 
-You might deepen your understanding of advanced products like annuities or commercial policies, or you could focus on improving communication and sales techniques. Each new skill adds value to the service you provide. Staying updated with your continuing education also demonstrates credibility to your clients. They trust you to know the latest, most relevant information for their insurance needs.
+You might deepen your understanding of advanced products like annuities or commercial policies, or you could focus on improving communication and sales techniques. Each new skill adds value to the service you provide. Staying updated with your [continuing education](/continuing-education) also demonstrates credibility to your clients. They trust you to know the latest, most relevant information for their insurance needs.
 
 ## Diversify your offerings
 

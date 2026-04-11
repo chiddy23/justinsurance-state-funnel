@@ -22,7 +22,7 @@ Continuing your insurance education is essential if you want to thrive in New Yo
 
 ## Understand the statewide requirements
 
-Before you dive into any classes, it helps to get a clear picture of New York's continuing education guidelines. In most cases, you will need to complete 15 credit hours of New York insurance CE every two years, though the exact requirements can vary based on the type of license you hold. Adhering to these regulations ensures you remain compliant and avoid renewal delays.
+Before you dive into any classes, it helps to get a clear picture of New York's [continuing education](/continuing-education) guidelines. In most cases, you will need to complete 15 credit hours of New York insurance CE every two years, though the exact requirements can vary based on the type of license you hold. Adhering to these regulations ensures you remain compliant and avoid renewal delays.
 
 If you’re new to the process, it is useful to research specific guidelines on the New York State Department of Financial Services website. You will find detailed information that breaks down the coursework and deadlines, helping you understand exactly what to expect. By doing this homework early, you can minimize stress and avoid last-minute rushes to fulfill your credit hours.
 

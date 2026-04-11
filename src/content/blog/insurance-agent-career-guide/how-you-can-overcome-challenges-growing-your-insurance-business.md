@@ -15,7 +15,6 @@ image: >-
 imageAlt: Man in suit standing on urban rooftop with city skyline at sunset.
 imageCredit: Photo by Miguel  Sánchez on Pexels
 ---
-
 Growing your insurance business can feel like an uphill climb in your first year. You likely have goals for building a steady client base, yet the path is often full of unexpected twists. Whether you’re juggling lead generation or figuring out how to stand out in a competitive market, a few targeted strategies can help you move forward faster and more confidently.
 
 Below, you’ll find practical guidance on tackling common obstacles, cultivating deeper client relationships, and ensuring your business is set up for long-term growth.
@@ -76,4 +75,4 @@ If possible, delegate or automate day-to-day activities. Online scheduling tools
 
 In your journey toward growing your insurance business, remember that progress often comes from a series of small but steady improvements. Keep marketing efforts focused, build meaningful connections, and stay open to continuing your education. If you need more guidance, JustInsurance offers a range of resources designed to support new agents in developing a successful practice.
 
-Give yourself time to see results. By focusing on nurturing client relationships and continually refining your expertise, you’ll build a thriving business that benefits both you and the people you serve.
+Give yourself time to see results. By focusing on nurturing client relationships and continually refining your expertise, you’ll build a thriving business that benefits both you and the people you serve. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

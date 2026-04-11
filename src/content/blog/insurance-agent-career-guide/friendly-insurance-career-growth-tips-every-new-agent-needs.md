@@ -16,7 +16,6 @@ imageAlt: >-
   professional office setting.
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
-
 Getting started in the insurance industry can feel exciting, but you might also wonder how to grow a thriving career from day one. This guide presents practical insurance career growth tips you can use to build a solid foundation and steadily expand your practice. By focusing on relationships, long-term strategy, and targeted skill development, you can gain momentum in your first year and continue advancing for many years to come.
 
 ## Build a strong professional foundation
@@ -95,4 +94,4 @@ Growing your insurance career means consistently nurturing relationships, divers
 
 Begin with one improvement idea, such as strengthening your follow-up routine or enrolling in a specialized course. Then add another, and another. Your proactive effort compounds over time, revealing a flourishing career built on trust, knowledge, and an unshakable commitment to your clients.
 
-Ready to see bigger results? Start implementing these insurance career growth tips today and watch your progress accelerate. Your next client is waiting, and you’re all set to serve them better than ever.
+Ready to see bigger results? Start implementing these insurance career growth tips today and watch your progress accelerate. Your next client is waiting, and you’re all set to serve them better than ever. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

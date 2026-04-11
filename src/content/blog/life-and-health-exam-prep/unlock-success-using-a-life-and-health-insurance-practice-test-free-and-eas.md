@@ -17,7 +17,6 @@ imageAlt: >-
   stationery.
 imageCredit: Photo by www.kaboompics.com on Pexels
 ---
-
 If you’re preparing to become a licensed insurance professional, a life and health insurance practice test free of charge can be a powerful tool to help you get there. It’s natural to feel a little overwhelmed when you see how much information is on the exam. But taking practice tests can make the process easier and more straightforward.
 
 Below you’ll find proven strategies to guide your study approach and boost your confidence on exam day. With practice, the right mindset, and free resources, you can unlock success sooner than you think.
@@ -75,4 +74,4 @@ Reviewing sample questions gives you a taste of how the exam words its prompts. 
 
 As you refine your study plan and tackle more practice tests, it’s normal to feel a mix of anticipation and nerves. That’s where JustInsurance can help. With easy-to-access study tools and ongoing support, JustInsurance guides you to the right resources so you can make the most of your free practice test sessions. You’ll find insights on complex policy details, state-specific rules, and exam-taking strategies that can tip the scales in your favor.
 
-Preparing for a life and health insurance exam can open doors to a stable and rewarding career. By using a life and health insurance practice test free of charge, you’re already taking a major step toward mastering the material and feeling at ease with the exam format. When you’re ready, explore what JustInsurance has to offer. Then walk into your exam day with the confidence that comes from plenty of preparation—and the knowledge that success is within your reach.
+Preparing for a life and health insurance exam can open doors to a stable and rewarding career. By using a life and health insurance practice test free of charge, you’re already taking a major step toward mastering the material and feeling at ease with the exam format. When you’re ready, explore what JustInsurance has to offer. Then walk into your exam day with the confidence that comes from plenty of preparation—and the knowledge that success is within your reach. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

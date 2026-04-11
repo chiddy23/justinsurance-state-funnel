@@ -19,7 +19,7 @@ imageCredit: Photo by Bia Limova on Pexels
 
 Understand why CE matters
 
-When you begin your journey to get an insurance license in New York, you quickly discover how vital continuing education (CE) is for staying on top of your game. New York insurance CE requirements are in place to make sure you are always well-prepared to assist clients with evolving policies, regulations, and coverage changes. Think of CE courses as your ongoing mentorship — every session you complete will help you build better relationships with clients and offer more accurate, up-to-date guidance.
+When you begin your journey to get an insurance license in New York, you quickly discover how vital [continuing education](/continuing-education) (CE) is for staying on top of your game. New York insurance CE requirements are in place to make sure you are always well-prepared to assist clients with evolving policies, regulations, and coverage changes. Think of CE courses as your ongoing mentorship — every session you complete will help you build better relationships with clients and offer more accurate, up-to-date guidance.
 
 Taking continuing education seriously can also boost your confidence. After all, there is a lot to learn in a field that addresses everything from life insurance to property and casualty coverage. Each year tends to bring new compliance details and regulatory updates. By consistently meeting your CE obligations, you will maintain a smooth, valid license and deliver top-quality service.
 
@@ -37,7 +37,7 @@ Try to plan enough time for review so the exam topics feel familiar. Some exam p
 
 ## Meet New York insurance CE requirements
 
-After you obtain your license, you will need to keep it active by fulfilling the state’s continuing education mandates. In New York, CE credits generally must be completed within specific two-year cycles corresponding to your license renewal date. The exact number of credits required depends on the licenses you hold, whether you are a new licensee, and any specialty lines you maintain.
+After you obtain your license, you will need to keep it active by fulfilling the state’s continuing education mandates. In New York, CE credits generally must be completed within specific two-year cycles corresponding to your [license renewal](/license-renewal-guide) date. The exact number of credits required depends on the licenses you hold, whether you are a new licensee, and any specialty lines you maintain.
 
 Here are a few things to keep in mind as you plan your CE activities:
 

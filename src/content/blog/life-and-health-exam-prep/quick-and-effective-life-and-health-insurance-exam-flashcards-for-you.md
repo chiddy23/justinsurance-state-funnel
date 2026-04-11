@@ -17,7 +17,6 @@ imageAlt: >-
   accounting themes.
 imageCredit: Photo by Jakub Zerdzicki on Pexels
 ---
-
 ## Understand the power of flashcards
 
 Life and health insurance exam flashcards can be one of the most effective study tools you have. They help you memorize facts, definitions, and key concepts, all while keeping your attention sharp. Rather than staring at lengthy textbooks or notes, flashcards let you focus on bite-sized information for quick recall.
@@ -73,4 +72,4 @@ Give yourself credit for investing in well-structured study habits—it makes a 
 
 If you’re looking for deeper insights and personalized guidance, consider exploring the resources from JustInsurance. Their modules and support tools can enhance your flashcard sessions by giving you targeted feedback on the areas you want to strengthen. Taking these steps now will set you up for success both on the test and in your future insurance career.
 
-Good luck with your studies. You’ve got this!
+Good luck with your studies. You’ve got this! Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

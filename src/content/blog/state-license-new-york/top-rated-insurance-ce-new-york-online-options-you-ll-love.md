@@ -15,7 +15,7 @@ imageAlt: Three professionals engaged in a business meeting at a cafe.
 imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
-Staying on top of your continuing education (CE) is a must if you want to maintain your New York insurance license. With a growing number of insurance CE New York online courses, you have a convenient path to sharpen your skills, meet departmental requirements, and keep moving forward in your career. Below, you’ll find a clear, step-by-step guide to completing your New York insurance CE and ensuring you stay fully compliant.
+Staying on top of your [continuing education](/continuing-education) (CE) is a must if you want to maintain your New York insurance license. With a growing number of insurance CE New York online courses, you have a convenient path to sharpen your skills, meet departmental requirements, and keep moving forward in your career. Below, you’ll find a clear, step-by-step guide to completing your New York insurance CE and ensuring you stay fully compliant.
 
 ## Understand your New York insurance CE requirements
 
@@ -63,4 +63,4 @@ Look for course catalogs that align with your license type, or speak to an advis
 
 Complying with your CE requirements is a pivotal part of maintaining your New York insurance license. By selecting the right insurance CE New York online courses, creating a dedicated study schedule, and carefully tracking your progress, you’ll be ready for each renewal with confidence. Identify how many hours you need, find a provider that fits your learning style, and let the process unfold step by step.
 
-As soon as you finish reading this, consider jotting down a quick plan. Which courses catch your eye? How many sessions will you need to block off weekly? Once those questions are answered, you’ll have a clear roadmap to follow. And if you’re still searching for a place to begin, it may be worthwhile to explore options at JustInsurance. By taking those first steps now, you’re ensuring a smoother path to a license renewal—and one less item on your professional to-do list.
+As soon as you finish reading this, consider jotting down a quick plan. Which courses catch your eye? How many sessions will you need to block off weekly? Once those questions are answered, you’ll have a clear roadmap to follow. And if you’re still searching for a place to begin, it may be worthwhile to explore options at JustInsurance. By taking those first steps now, you’re ensuring a smoother path to a [license renewal](/license-renewal-guide)—and one less item on your professional to-do list.

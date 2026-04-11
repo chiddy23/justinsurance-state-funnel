@@ -18,7 +18,6 @@ imageAlt: >-
   setting.
 imageCredit: Photo by Kampus Production on Pexels
 ---
-
 Insurance:  how to get insurance appointments
 
 Congratulations on passing your insurance exam!
@@ -90,4 +89,4 @@ As you can see, getting appointed is not just a bureaucratic formality, it is yo
 
 Ready to grow your insurance career? Start exploring carrier options today, finalize your appointments, and embrace the rewarding journey of helping people protect what matters most in their lives.
 
-Your role as an insurance agent is powerful, and it starts the moment you secure that first appointment. By investing time into research, licensing, and carrier relationships, you lay a strong foundation for future success. Keep learning, stay connected with industry updates, and watch your confidence grow as you help clients day after day.
+Your role as an insurance agent is powerful, and it starts the moment you secure that first appointment. By investing time into research, licensing, and carrier relationships, you lay a strong foundation for future success. Keep learning, stay connected with industry updates, and watch your confidence grow as you help clients day after day. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

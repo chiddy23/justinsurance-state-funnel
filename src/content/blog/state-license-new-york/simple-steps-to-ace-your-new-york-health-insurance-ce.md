@@ -17,7 +17,7 @@ imageCredit: Photo by Olasupo John on Pexels
 
 If you’re ready to broaden your expertise and keep your license in good standing, completing your New York health insurance CE credits is an essential step. The process can seem daunting at first, but it’s really about planning, preparation, and a confident approach to your studies. As you progress, you’ll gain valuable insights that ultimately help you serve your clients better and stay up to date on industry developments.
 
-In this guide, you’ll find practical tips that walk you through key aspects of New York’s continuing education requirements. From clarifying your obligations to scheduling regular study time, these pointers give you a clear strategy to fulfill your CE credits without stress. Let’s dive in and get you on track to success.
+In this guide, you’ll find practical tips that walk you through key aspects of New York’s [continuing education](/continuing-education) requirements. From clarifying your obligations to scheduling regular study time, these pointers give you a clear strategy to fulfill your CE credits without stress. Let’s dive in and get you on track to success.
 
 ## Understand your CE basics
 

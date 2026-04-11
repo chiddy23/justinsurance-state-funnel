@@ -16,7 +16,6 @@ imageAlt: >-
   indoors.
 imageCredit: Photo by Jakub Zerdzicki on Pexels
 ---
-
 ## Clarify your mission
 
 Your first step in insurance agent business planning is to clearly define what success looks like for you. Think about why you entered this profession and where you want to be in the next few years. Do you want to focus on a specific type of insurance or maybe provide a broad range of policies? When you have a well-defined mission, it becomes easier to chart a path toward the results you want.
@@ -80,4 +79,4 @@ Consider revisiting it at least once a quarter. Check your numbers, see where yo
 
 Absolutely. Building an insurance practice is a team effort. Talk to your upline supervisor, seek out mentors, or collaborate with peers. You can also look to providers like JustInsurance for training materials, product knowledge, and marketing support.
 
-Ready to strengthen your insurance agent business planning? Remember that every small improvement brings you one step closer to a thriving practice. If you want more helpful strategies or ready-made resources, consider reaching out for assistance. You don’t have to navigate the journey alone. Take action today to refine your plan, connect with the right prospects, and grow your client base in a way that feels both profitable and fulfilling.
+Ready to strengthen your insurance agent business planning? Remember that every small improvement brings you one step closer to a thriving practice. If you want more helpful strategies or ready-made resources, consider reaching out for assistance. You don’t have to navigate the journey alone. Take action today to refine your plan, connect with the right prospects, and grow your client base in a way that feels both profitable and fulfilling. Explore our [insurance prelicensing courses](/prelicensing) and [continuing education](/continuing-education) resources to get started.

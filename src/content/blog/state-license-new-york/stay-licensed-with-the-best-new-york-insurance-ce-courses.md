@@ -15,7 +15,7 @@ imageAlt: Confident young adult working on a laptop in a stylish modern office s
 imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
-New York insurance continuing education (CE) courses are a crucial piece of staying licensed and confident in your insurance career. Whether you are just beginning your journey toward becoming an insurance professional or you already hold a New York license and want to renew, understanding the requirements for both pre-licensing and ongoing CE will help you meet state guidelines. Below, you will find clear steps to follow, practical tips to stay motivated, and insider pointers on making the most of your learning experience.
+New York insurance [continuing education](/continuing-education) (CE) courses are a crucial piece of staying licensed and confident in your insurance career. Whether you are just beginning your journey toward becoming an insurance professional or you already hold a New York license and want to renew, understanding the requirements for both pre-licensing and ongoing CE will help you meet state guidelines. Below, you will find clear steps to follow, practical tips to stay motivated, and insider pointers on making the most of your learning experience.
 
 ## Understand New York CE requirements
 

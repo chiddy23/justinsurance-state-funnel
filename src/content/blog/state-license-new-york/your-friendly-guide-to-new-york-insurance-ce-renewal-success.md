@@ -15,7 +15,7 @@ imageAlt: Three professionals discussing a data presentation in an office settin
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-Are you ready to tackle your New York insurance CE renewal with confidence? Whether you’ve been in the insurance field for years or you’re relatively new, staying on top of your continuing education can feel overwhelming at first. Fortunately, a friendly approach and a clear roadmap can transform the experience from stressful to empowering. Below, you’ll find practical steps that show you exactly how to meet New York’s CE requirements and advance your professional goals.
+Are you ready to tackle your New York insurance CE renewal with confidence? Whether you’ve been in the insurance field for years or you’re relatively new, staying on top of your [continuing education](/continuing-education) can feel overwhelming at first. Fortunately, a friendly approach and a clear roadmap can transform the experience from stressful to empowering. Below, you’ll find practical steps that show you exactly how to meet New York’s CE requirements and advance your professional goals.
 
 ## Understand your renewal basics
 
@@ -52,7 +52,7 @@ Many professionals find success by dedicating a small portion of time each week 
 
 Completing your training is just part of the picture. You also need to compile proof of your CE completion and submit the necessary forms or documentation through the state’s official channels. Keep track of your certificates and confirm that each course was approved by New York’s licensing board. If you’ve taken different classes at multiple providers, organize your completion documents into one folder so they’re easy to locate when it’s time to apply.
 
-You'll generally process your license renewal through the Department of Financial Services site, which outlines the steps clearly. Don’t wait to complete that final part. If you’ve finished your credits but forget to file promptly, your license could expire. Whether you’re renewing online or via mail, following the outlined steps and submitting ahead of the deadline ensures a smoother outcome.
+You'll generally process your [license renewal](/license-renewal-guide) through the Department of Financial Services site, which outlines the steps clearly. Don’t wait to complete that final part. If you’ve finished your credits but forget to file promptly, your license could expire. Whether you’re renewing online or via mail, following the outlined steps and submitting ahead of the deadline ensures a smoother outcome.
 
 ## Stay on top of future updates
 

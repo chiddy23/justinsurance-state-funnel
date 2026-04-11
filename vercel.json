@@ -10,8 +10,6 @@
     { "source": "/refund-policy", "destination": "/", "statusCode": 302 },
     { "source": "/contact", "destination": "/", "statusCode": 302 },
     { "source": "/services", "destination": "/", "statusCode": 302 },
-    { "source": "/blog", "destination": "/", "statusCode": 302 },
-    { "source": "/blog/:path*", "destination": "/", "statusCode": 302 },
     { "source": "/from-basics-to-pro-comprehensive-online-courses-for-your-insurance-license", "destination": "/", "statusCode": 302 },
     { "source": "/:state/", "destination": "/:state", "statusCode": 301 }
   ],

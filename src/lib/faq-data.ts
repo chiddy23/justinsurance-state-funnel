@@ -159,7 +159,7 @@ export function getStateHubFAQs(data: StateDataForFAQ): FAQ[] {
     },
     {
       question: `How much do insurance agents make in ${data.name}?`,
-      answer: `Insurance agents in ${data.name} earn an average of ${data.avgIncome} per year according to Bureau of Labor Statistics data. New agents starting out typically earn around ${data.firstYearIncome} in their first year while building a client base, and top producers in ${data.name} can earn ${data.topProducerIncome} or more annually. The ${data.name} insurance market is growing at approximately ${data.jobGrowth}%, keeping demand for new producers strong. Income is heavily influenced by the lines of authority you hold and whether you work as a captive or independent agent — the combined Life & Health license unlocks the broadest product range and highest earning potential.`,
+      answer: `Insurance agents in ${data.name} earn an average of ${data.avgIncome} per year according to Bureau of Labor Statistics data. New agents starting out typically earn around ${data.firstYearIncome} in their first year while building a client base, and top producers in ${data.name} can earn ${data.topProducerIncome} or more annually. Demand for new insurance producers remains steady in ${data.name}. Income is heavily influenced by the lines of authority you hold and whether you work as a captive or independent agent — the combined Life & Health license unlocks the broadest product range and highest earning potential.`,
     },
   ];
 }

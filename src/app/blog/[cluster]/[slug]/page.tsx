@@ -196,11 +196,6 @@ export default async function BlogPostPage({
                 priority
               />
             </div>
-            {post.imageCredit && (
-              <p className="text-xs text-gray-400 mt-2 text-right">
-                {post.imageCredit}
-              </p>
-            )}
           </div>
         </div>
       )}

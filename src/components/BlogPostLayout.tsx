@@ -88,17 +88,6 @@ export default function BlogPostLayout({ post, htmlContent }: BlogPostLayoutProp
         </div>
       </header>
 
-      {/* Image credit strip */}
-      {post.imageCredit && (
-        <div className="bg-gray-bg border-b border-gray-200">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-1.5">
-            <p className="text-gray-400 text-xs">
-              Image credit: {post.imageCredit}
-            </p>
-          </div>
-        </div>
-      )}
-
       {/* ── Article body ── */}
       <div className="bg-white py-12">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">

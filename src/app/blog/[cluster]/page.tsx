@@ -34,14 +34,31 @@ export async function generateMetadata({
     .replace(/^State License\s*[–-]\s*/i, "")
     .trim();
 
-  // Build title that stays under 60 chars. Try each suffix in order.
-  const candidates = [
-    `${cleanName} Articles | JustInsurance Blog`,
-    `${cleanName} | JustInsurance Blog`,
-    `${cleanName} | JustInsurance`,
-    `${cleanName}`,
-  ];
-  const title = candidates.find((c) => c.length <= 60) || candidates[candidates.length - 1].slice(0, 57) + "...";
+  // Is this a state-license cluster? If so, use a keyword-rich title.
+  const isStateCluster = clusterSlug.startsWith("state-license-");
+
+  // Build title that stays 45-60 chars (SEO sweet spot). Try keyword-rich
+  // candidates first, then fall back to shorter versions if needed.
+  const candidates = isStateCluster
+    ? [
+        `${cleanName} Insurance License Guide | JustInsurance`,
+        `${cleanName} Insurance License | JustInsurance Blog`,
+        `${cleanName} Insurance License Articles | JustInsurance`,
+        `${cleanName} Insurance License | JustInsurance`,
+        `${cleanName} Insurance License Guide`,
+      ]
+    : [
+        `${cleanName} Articles & Guides | JustInsurance Blog`,
+        `${cleanName} Articles | JustInsurance Blog`,
+        `${cleanName} | JustInsurance Blog`,
+        `${cleanName} | JustInsurance`,
+      ];
+
+  // Pick first candidate in 45-60 char range, fallback to first under 60.
+  const title =
+    candidates.find((c) => c.length >= 45 && c.length <= 60) ||
+    candidates.find((c) => c.length <= 60) ||
+    candidates[candidates.length - 1].slice(0, 57) + "...";
 
   const description = `Browse ${cluster.postCount} expert articles on ${cleanName.toLowerCase()} — written by licensed insurance agents with real industry experience.`;
 

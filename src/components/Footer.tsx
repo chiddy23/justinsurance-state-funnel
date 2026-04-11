@@ -165,6 +165,7 @@ export default function Footer() {
             <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Legal</h3>
             <ul className="space-y-2">
               <li><Link href="/about" className="text-gray-300 hover:text-gold transition-colors text-sm">About Us</Link></li>
+              <li><Link href="/contact" className="text-gray-300 hover:text-gold transition-colors text-sm">Contact</Link></li>
               <li><Link href="/privacy-policy" className="text-gray-300 hover:text-gold transition-colors text-sm">Privacy Policy</Link></li>
               <li><Link href="/terms" className="text-gray-300 hover:text-gold transition-colors text-sm">Terms of Service</Link></li>
             </ul>

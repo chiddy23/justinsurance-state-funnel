@@ -12,6 +12,7 @@ const RESOURCES_LINKS = [
   { label: "FAQ", href: "/faq/" },
   { label: "Pass Rates", href: "/pass-rates/" },
   { label: "Press & Media", href: "/press/" },
+  { label: "Contact", href: "/contact" },
 ];
 
 const POPULAR_STATES = [

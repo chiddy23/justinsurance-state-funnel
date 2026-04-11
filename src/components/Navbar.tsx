@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import Link from "next/link";
 
 const RESOURCES_LINKS = [
+  { label: "About Us", href: "/about" },
   { label: "Exam Guide", href: "/insurance-exam-guide/" },
   { label: "Study Guide", href: "/study-guide/" },
   { label: "Renewal Guide", href: "/license-renewal-guide/" },

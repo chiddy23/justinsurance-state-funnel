@@ -28,8 +28,22 @@ export async function generateMetadata({
   const cluster = getClusterBySlug(clusterSlug);
   if (!cluster) return {};
 
-  const title = `${cluster.name} Articles | JustInsurance Blog`;
-  const description = `Browse ${cluster.postCount} expert articles on ${cluster.name.toLowerCase()} — written by licensed insurance agents with real industry experience.`;
+  // Clean up cluster name (strip editorial artifacts like "Insurance Education > Buyer's Guide >")
+  const cleanName = cluster.name
+    .replace(/^Insurance Education\s*>\s*[^>]+>\s*/i, "")
+    .replace(/^State License\s*[–-]\s*/i, "")
+    .trim();
+
+  // Build title that stays under 60 chars. Try each suffix in order.
+  const candidates = [
+    `${cleanName} Articles | JustInsurance Blog`,
+    `${cleanName} | JustInsurance Blog`,
+    `${cleanName} | JustInsurance`,
+    `${cleanName}`,
+  ];
+  const title = candidates.find((c) => c.length <= 60) || candidates[candidates.length - 1].slice(0, 57) + "...";
+
+  const description = `Browse ${cluster.postCount} expert articles on ${cleanName.toLowerCase()} — written by licensed insurance agents with real industry experience.`;
 
   return {
     title: { absolute: title },
@@ -59,17 +73,23 @@ export default async function ClusterPage({
   const cluster = getClusterBySlug(clusterSlug);
   if (!cluster) notFound();
 
+  // Clean cluster name for display (strip editorial prefixes)
+  const cleanName = cluster.name
+    .replace(/^Insurance Education\s*>\s*[^>]+>\s*/i, "")
+    .replace(/^State License\s*[–-]\s*/i, "")
+    .trim();
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: "Blog", href: "/blog" },
-    { name: cluster.name },
+    { name: cleanName },
   ];
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
     { name: "Blog", url: "https://justinsuranceco.com/blog" },
     {
-      name: cluster.name,
+      name: cleanName,
       url: `https://justinsuranceco.com/blog/${clusterSlug}`,
     },
   ]);
@@ -77,8 +97,8 @@ export default async function ClusterPage({
   const collectionSchema = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: `${cluster.name} | JustInsurance Blog`,
-    description: `${cluster.postCount} articles on ${cluster.name.toLowerCase()} from JustInsurance.`,
+    name: `${cleanName} | JustInsurance Blog`,
+    description: `${cluster.postCount} articles on ${cleanName.toLowerCase()} from JustInsurance.`,
     url: `https://justinsuranceco.com/blog/${clusterSlug}`,
     publisher: {
       "@type": "Organization",
@@ -100,11 +120,11 @@ export default async function ClusterPage({
             JustInsurance Blog
           </p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
-            {cluster.name}: Expert Guides
+            {cleanName}: Expert Guides
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-3xl mx-auto">
             {cluster.postCount} expert article{cluster.postCount !== 1 ? "s" : ""} on{" "}
-            {cluster.name.toLowerCase()} — written by licensed insurance agents to help
+            {cleanName.toLowerCase()} — written by licensed insurance agents to help
             you get licensed, stay compliant, and grow your career.
           </p>
         </div>

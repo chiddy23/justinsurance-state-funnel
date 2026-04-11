@@ -200,10 +200,11 @@ export default function AboutPage() {
         <div className="max-w-3xl mx-auto">
           <H2 id="origin">The Origin Story</H2>
           <P>
-            Justin vom Eigen didn&apos;t start in insurance. He started in car sales, where he
-            learned how people actually make decisions — and that trust is the thing that closes
-            deals. In 2017 he jumped to New York Life as a licensed agent, then moved into
-            recruiting at Senior Life Services as a regional team builder.
+            Justin vom Eigen studied at Northeastern University before starting his career in
+            car sales — where he learned how people actually make decisions, and that trust is
+            the thing that closes deals. In 2017 he jumped to New York Life as a licensed
+            agent, then moved into recruiting at Senior Life Services as a regional team
+            builder.
           </P>
           <P>
             That&apos;s where the problem became obvious. Justin kept recruiting smart, motivated
@@ -345,17 +346,10 @@ export default function AboutPage() {
         <div className="max-w-3xl mx-auto">
           <H2 id="justin">About Justin vom Eigen</H2>
           <P>
-            Justin vom Eigen is the Founder and CEO of JustInsurance LLC. He studied at
-            Northeastern University before starting his career in car sales — an experience he
-            credits with teaching him how people actually buy, not how textbooks say they
-            should.
-          </P>
-          <P>
-            In 2017 he became a licensed insurance agent at New York Life, where he spent two
-            years writing life and health policies and learning the business from the inside.
-            From there he moved to Senior Life Services as a Regional Team Builder, where his job
-            was recruiting and onboarding new agents — and where he saw firsthand just how broken
-            the prelicensing pipeline was.
+            Justin vom Eigen is the Founder and CEO of JustInsurance LLC. A Northeastern
+            University alum, he spent two years writing life and health policies as a licensed
+            agent at New York Life before moving into recruiting and onboarding at Senior Life
+            Services — where he saw firsthand just how broken the prelicensing pipeline was.
           </P>
           <P>
             Before JustInsurance was a company, it was a YouTube channel. Justin started{" "}

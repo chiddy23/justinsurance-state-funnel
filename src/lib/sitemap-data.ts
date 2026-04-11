@@ -55,6 +55,10 @@ export function generateSitemapEntries(): SitemapEntry[] {
     { path: "/license-renewal-guide", priority: 0.7 },
     { path: "/faq", priority: 0.7 },
     { path: "/study-guide", priority: 0.7 },
+    { path: "/about", priority: 0.6 },
+    { path: "/press", priority: 0.5 },
+    { path: "/privacy-policy", priority: 0.3 },
+    { path: "/terms", priority: 0.3 },
   ];
   for (const hub of globalHubs) {
     entries.push({

@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by itay verchik on Pexels
 ---
 
-Whether you want to become a life, health, or property and casualty insurance agent, Virginia insurance pre-licensing courses can make your entire learning experience straightforward. You might feel overwhelmed by the state requirements and exam prep steps, but having a clear roadmap can save you huge amounts of time. Below, you will find everything you need to know about getting your Virginia insurance license, from who qualifies, to how soon you can get started, and the best ways to stay on top of your continuing education.
+Whether you want to become a life, health, or property and casualty insurance agent, [Virginia insurance pre-licensing courses](/virginia/prelicensing) can make your entire learning experience straightforward. You might feel overwhelmed by the state requirements and exam prep steps, but having a clear roadmap can save you huge amounts of time. Below, you will find everything you need to know about getting your [Virginia insurance license](/virginia), from who qualifies, to how soon you can get started, and the best ways to stay on top of your continuing education.
 
 ## Start your journey
 

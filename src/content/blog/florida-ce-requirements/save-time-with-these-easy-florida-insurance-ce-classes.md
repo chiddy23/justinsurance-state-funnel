@@ -19,7 +19,7 @@ imageCredit: Photo by Suhas Hanjar on Pexels
 
 Understand your Florida CE requirements
 
-It all starts with knowing how many credit hours you need to maintain your insurance license in Florida. The state typically requires you to earn continuing education (CE) credits in specific topic areas, such as ethics, law, or specialized product knowledge. Before you commit to any Florida insurance CE classes, take a moment to review these requirements on the Florida Department of Financial Services website so you can enroll in courses that actually count.
+It all starts with knowing how many credit hours you need to maintain your insurance [license in Florida](/florida). The state typically requires you to earn continuing education (CE) credits in specific topic areas, such as ethics, law, or specialized product knowledge. Before you commit to any [Florida insurance CE](/florida/continuing-education) classes, take a moment to review these requirements on the [Florida Department of Financial Services](/florida/requirements) website so you can enroll in courses that actually count.
 
 It is also important to keep up with any updates or changes to CE regulations. These changes could impact the number of hours you need or the type of courses required for your license renewal. Staying on top of any new rules prevents wasted time on non-compliant classes and helps you focus on courses that are relevant to the areas you sell or plan to sell in the future.
 

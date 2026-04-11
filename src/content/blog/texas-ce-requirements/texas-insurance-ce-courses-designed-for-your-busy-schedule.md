@@ -19,7 +19,7 @@ imageCredit: Photo by Kampus Production on Pexels
 
 ## Understand your continuing education requirements
 
-Texas insurance CE courses are an essential part of maintaining your insurance license and staying informed about industry changes. These courses allow you to expand your professional skills, protect your clients with up-to-date knowledge, and meet state license renewal requirements. By focusing on topics most relevant to your line of work, you sharpen your expertise without wasting time on unrelated lessons.
+[Texas insurance CE](/texas/continuing-education) courses are an essential part of maintaining your insurance license and staying informed about industry changes. These courses allow you to expand your professional skills, protect your clients with up-to-date knowledge, and meet state license renewal requirements. By focusing on topics most relevant to your line of work, you sharpen your expertise without wasting time on unrelated lessons.
 
 You’re not just checking a box or fulfilling a bureaucratic obligation. Instead, these courses empower you to effectively advise your clients and grow your business. Whether it’s learning about emerging industry trends or deepening your understanding of professional ethics, each course you complete can enhance your credibility among peers and customers.
 
@@ -29,7 +29,7 @@ Today’s busy schedule calls for flexibility. Fortunately, you have several opt
 
 ### Online, live, or self-paced
 
-Many providers offer Texas insurance CE courses in multiple formats. Online classes are often designed to work around your commitments, letting you start and stop course modules whenever you need to. For those who enjoy an interactive experience, live webinars provide real-time engagement with instructors and fellow agents. Self-paced modules, on the other hand, can be paused or replayed if you need to review complex topics.
+Many providers offer [Texas insurance](/texas) CE courses in multiple formats. Online classes are often designed to work around your commitments, letting you start and stop course modules whenever you need to. For those who enjoy an interactive experience, live webinars provide real-time engagement with instructors and fellow agents. Self-paced modules, on the other hand, can be paused or replayed if you need to review complex topics.
 
 No single format fits everyone. It’s worth exploring various styles—especially if you’ve never tried a certain format before—to see which blends best with your daily routine.
 
@@ -66,7 +66,7 @@ You’ll find that maximizing your study time is as much about choosing the righ
 Below are answers to some of the most frequently asked questions about completing your Texas insurance continuing education requirements:
 
 1.  How many hours of CE do I need?  
-    Most Texas insurance licenses require 24 credit hours of CE per renewal cycle, including two hours of ethics or consumer protection. However, always verify specific requirements with the Texas Department of Insurance.
+    Most Texas insurance licenses require 24 credit hours of CE per renewal cycle, including two hours of ethics or consumer protection. However, always verify specific requirements with the [Texas Department of Insurance](/texas/requirements).
 2.  Can I carry over extra credits?  
     Texas generally does not allow carryover credits from one renewal period to the next. Each cycle, you must earn the full 24 hours required.
 3.  Do I have to take an exam for every course?  

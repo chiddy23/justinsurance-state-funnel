@@ -118,7 +118,7 @@ Below are a few sample questions to give you a taste of how the actual exam migh
 1.  How many hours of study are typically needed to pass?  
     Every learner is different, but many successful test-takers devote 40 to 60 hours in total. Spread your study over a few weeks to avoid cramming.
 2.  Is the exam the same in every state?  
-    While many core concepts overlap, each state tailors its own licensing exam. Make sure you choose study materials that match your state’s regulations and requirements.
+    While many core concepts overlap, each state tailors its own [licensing exam](/prelicensing). Make sure you choose study materials that match your state’s regulations and requirements.
 3.  What score do I need to pass the exam?  
     Most states require somewhere around 70 percent, although the exact passing score may vary. You can check your state’s department of insurance website for current guidelines.
 4.  If I fail, how soon can I retake the exam?  

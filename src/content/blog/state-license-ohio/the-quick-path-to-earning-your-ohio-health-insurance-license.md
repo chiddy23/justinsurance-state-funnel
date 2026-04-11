@@ -17,9 +17,9 @@ imageAlt: >-
 imageCredit: Photo by Moe Magners on Pexels
 ---
 
-## Know your Ohio license requirements
+## Know your [Ohio license requirements](/ohio/requirements)
 
-Obtaining your Ohio health insurance license opens a pathway to helping individuals, families, and businesses make informed decisions about vital insurance coverage. Before you can start, you need to meet specific state requirements. First, you must be at least 18 years old. You should also have legal authorization to work in the United States. There may be a criminal background check involved, so be prepared to supply fingerprints and any necessary documentation.
+Obtaining your [Ohio health insurance license](/ohio) opens a pathway to helping individuals, families, and businesses make informed decisions about vital insurance coverage. Before you can start, you need to meet specific state requirements. First, you must be at least 18 years old. You should also have legal authorization to work in the United States. There may be a criminal background check involved, so be prepared to supply fingerprints and any necessary documentation.
 
 Gather any required identification ahead of time to avoid delays. These basic prerequisites ensure that everyone who applies is ready to uphold professional standards and serve Ohio consumers with integrity.
 

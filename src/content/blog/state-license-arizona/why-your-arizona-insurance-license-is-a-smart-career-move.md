@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Tran Nhu Tuan on Pexels
 ---
 
-If you've been looking for a rewarding career path in the Grand Canyon State, an Arizona insurance license could be your key to success. With friendly state regulations and a thriving economy, Arizona is an excellent place to start a new profession helping people protect their homes, health, and financial security. From flexible hours to solid earning potential, licensing as an insurance agent is one of the smartest career investments you can make in Arizona.
+If you've been looking for a rewarding career path in the Grand Canyon State, an [Arizona insurance license](/arizona) could be your key to success. With friendly state regulations and a thriving economy, Arizona is an excellent place to start a new profession helping people protect their homes, health, and financial security. From flexible hours to solid earning potential, licensing as an insurance agent is one of the smartest career investments you can make in Arizona.
 
 ## Recognize the benefits
 

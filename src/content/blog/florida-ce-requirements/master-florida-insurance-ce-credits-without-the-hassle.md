@@ -17,11 +17,11 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-Completing Florida insurance CE credits can feel like one more hurdle in your already busy schedule. However, meeting these continuing education requirements is an important part of keeping your license active and your knowledge current. By learning how the system works and planning your approach, you can stay in good standing with the state while continuing to grow in your insurance career.
+Completing [Florida insurance CE](/florida/continuing-education) credits can feel like one more hurdle in your already busy schedule. However, meeting these continuing education requirements is an important part of keeping your license active and your knowledge current. By learning how the system works and planning your approach, you can stay in good standing with the state while continuing to grow in your insurance career.
 
 It helps to focus on a few key steps. You want to understand what Florida’s rules are, how to track your hours, and how to choose study resources that fit your learning style. When you have the right strategy, the process becomes something you can handle with less stress and more confidence.
 
-## Understand Florida insurance CE credits
+## Understand [Florida insurance](/florida) CE credits
 
 At their core, Florida insurance CE credits help you maintain up-to-date knowledge on regulations, coverage plans, and best practices so that your clients receive accurate guidance. Once you have your license, you are required to complete a set number of continuing education hours within specific renewal periods to stay in compliance.
 
@@ -29,7 +29,7 @@ The number of credits you need partly depends on your license type. For instance
 
 ## Meet the state requirements
 
-The Florida Department of Financial Services oversees CE requirements, so it is worth reviewing its guidelines at least once a year. You might see modifications to credit-hour requirements or new courses added to the roster. This can happen when regulations change or the state updates certain license categories.
+The [Florida Department of Financial Services](/florida/requirements) oversees CE requirements, so it is worth reviewing its guidelines at least once a year. You might see modifications to credit-hour requirements or new courses added to the roster. This can happen when regulations change or the state updates certain license categories.
 
 You will usually have a renewal deadline every couple of years. Within that timeframe, you must complete mandatory courses in ethics, coverage updates, or other topics relevant to your line of authority. Even if these courses seem redundant, they often provide fresh insights. From updates on long-term care policies to compliance nuances, each requirement helps you continue delivering accurate advice to the public.
 

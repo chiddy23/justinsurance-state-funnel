@@ -41,7 +41,7 @@ Another common oversight is failing to confirm that your provider reports comple
 
 Because each state mandates different CE course hours, the challenge often lies in organizing and scheduling your studies. A reliable CE management platform can streamline your renewal journey. If you prefer online classes, choose a state-approved portal that allows you to fit your study sessions around client appointments and personal commitments.
 
-Below is a simple snapshot of how CE requirements can differ among four large states. This table should help you see why it’s critical to review your state’s specific mandates:
+Below is a simple snapshot of how [CE requirements](/continuing-education) can differ among four large states. This table should help you see why it’s critical to review your state’s specific mandates:
 
 State
 

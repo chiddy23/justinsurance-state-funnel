@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by Matthias Zomer on Pexels
 ---
 
-If you plan to launch a career selling or advising on insurance in the Lone Star State, you’ll need to tackle the texas insurance license application process. While it might sound like a lot of paperwork and exams, the path is more straightforward than you might think. The key is to start with a clear understanding of what’s required, then follow each step carefully. Before you know it, you’ll be on your way to helping Texas residents protect what matters most.
+If you plan to launch a career selling or advising on insurance in the Lone Star State, you’ll need to tackle the [texas insurance license](/texas) application process. While it might sound like a lot of paperwork and exams, the path is more straightforward than you might think. The key is to start with a clear understanding of what’s required, then follow each step carefully. Before you know it, you’ll be on your way to helping Texas residents protect what matters most.
 
 ## Recognize license types in Texas
 
@@ -29,7 +29,7 @@ Take a moment to reflect on the fields that interest you most. If you enjoy disc
 
 ## Confirm eligibility prerequisites
 
-Before you start studying, it’s crucial to make sure you meet Texas’s eligibility criteria. The Texas Department of Insurance (TDI) requires applicants to be at least 18 years old. You’ll need a valid government-issued ID. Additionally, expect to provide fingerprints as part of a routine background check.
+Before you start studying, it’s crucial to make sure you meet Texas’s eligibility criteria. The [Texas Department of Insurance](/texas/requirements) (TDI) requires applicants to be at least 18 years old. You’ll need a valid government-issued ID. Additionally, expect to provide fingerprints as part of a routine background check.
 
 If you have any concerns about prior criminal history, it’s wise to contact TDI for clarification. A past offense won’t always disqualify your application, but you want everything squared away before investing time in pre-licensing classes or exam fees. By confirming eligibility early, you can plan your path with confidence.
 
@@ -77,7 +77,7 @@ Try not to cram the night before. Instead, review your notes or practice quizzes
 
 ## Submit the official application
 
-Once you pass the exam, it’s time for the formalities of the texas insurance license application. You’ll submit this paperwork (or online form) to TDI. Be prepared to pay the application fee, which varies based on license type, but typically ranges from $50 to $100. You’ll also need to provide proof that you’ve met all pre-licensing requirements and exam credentials.
+Once you pass the exam, it’s time for the formalities of the texas insurance license application. You’ll submit this paperwork (or online form) to TDI. Be prepared to pay the application fee, which varies based on license type, but typically ranges from $50 to $100. You’ll also need to provide proof that you’ve met all [pre-licensing requirements](/texas/prelicensing) and exam credentials.
 
 Double-check that every section of your application is accurate, from your personal contact details to your license class information. Simple typos can slow the process, potentially resulting in additional fees if corrections are needed. After submission, follow up with TDI’s online portal or help desk if you haven’t received any updates within a few weeks.
 

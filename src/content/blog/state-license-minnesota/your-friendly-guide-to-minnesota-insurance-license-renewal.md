@@ -53,7 +53,7 @@ Combined L&H / P&C
 
 3 total
 
-The ethics requirement is a topic many new producers overlook. You must complete at least 3 hours on ethics-related content in every renewal cycle. It's also important to stick with approved CE providers recognized by the Minnesota Department of Commerce. If you’re not certain about a course’s approval status, contact the provider or check the state’s online resources for verification.
+The ethics requirement is a topic many new producers overlook. You must complete at least 3 hours on ethics-related content in every renewal cycle. It's also important to stick with approved CE providers recognized by the [Minnesota Department of Commerce](/minnesota/requirements). If you’re not certain about a course’s approval status, contact the provider or check the state’s online resources for verification.
 
 ## Meet important renewal deadlines
 
@@ -82,6 +82,6 @@ It's also common to accidentally choose courses that don't match your lines of a
 
 ## Take your next step
 
-Minnesota insurance license renewal doesn't have to feel like a burden. By staying on top of your CE credits, following the timeline, and confirming you're meeting ethics requirements, you can renew without stress. If you find yourself looking for accessible, approved courses, consider checking out JustInsurance as a helpful resource.
+[Minnesota insurance license](/minnesota) renewal doesn't have to feel like a burden. By staying on top of your CE credits, following the timeline, and confirming you're meeting ethics requirements, you can renew without stress. If you find yourself looking for accessible, approved courses, consider checking out JustInsurance as a helpful resource.
 
 When you're ready, head to the Minnesota Department of Commerce’s official site to complete your renewal application. A valid, up-to-date license helps you focus on serving your clients and growing your insurance career. Your next step is simply taking the initiative to stay informed, plan ahead, and keep your license in good standing. Good luck, and keep up the great work!

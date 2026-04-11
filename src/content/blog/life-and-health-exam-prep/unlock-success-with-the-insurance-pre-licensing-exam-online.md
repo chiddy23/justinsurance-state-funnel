@@ -101,6 +101,6 @@ If you are taking the exam from home, ensure your environment is quiet and that 
 
 Whether you are a recent graduate, a career changer, or someone recruited by an insurance agency, remember that this exam is an important part of your professional journey. Taking time to study thoroughly builds not only your knowledge but also your confidence in serving future clients.
 
-At JustInsurance, we understand how challenging starting a new career can be, so we are committed to helping you excel every step of the way. Our online pre-licensing courses and practical study tools are designed to fit into your schedule without sacrificing quality. Once you complete your online prep and pass the insurance exam, you will be on track to guide others toward financial security and peace of mind.
+At JustInsurance, we understand how challenging starting a new career can be, so we are committed to helping you excel every step of the way. Our online [pre-licensing courses](/prelicensing) and practical study tools are designed to fit into your schedule without sacrificing quality. Once you complete your online prep and pass the insurance exam, you will be on track to guide others toward financial security and peace of mind.
 
 Ready to begin? Make the leap today by signing up for an online pre-licensing program that fits your learning style. With consistent effort and the right resources, you can unlock success on the insurance pre-licensing exam online and open the door to a rewarding, stable, and impactful career. Good luck, and happy studying!

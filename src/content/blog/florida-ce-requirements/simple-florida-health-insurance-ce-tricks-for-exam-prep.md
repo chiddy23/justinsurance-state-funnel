@@ -15,7 +15,7 @@ imageAlt: Close-up of hands writing in notebook with laptop and sticky notes nea
 imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
-Florida health insurance CE can feel overwhelming when you first begin preparing for your licensure exam. With so many regulations, study materials, and deadlines, it might seem like you need months of advanced planning. However, you can streamline the process by focusing on a few key strategies and staying consistent in your approach. Whether you are a recent graduate or a professional changing careers, these tips will help you feel more confident about passing your exam and maintaining your continuing education (CE) requirements.
+[Florida health insurance CE](/florida/continuing-education) can feel overwhelming when you first begin preparing for your licensure exam. With so many regulations, study materials, and deadlines, it might seem like you need months of advanced planning. However, you can streamline the process by focusing on a few key strategies and staying consistent in your approach. Whether you are a recent graduate or a professional changing careers, these tips will help you feel more confident about passing your exam and maintaining your continuing education (CE) requirements.
 
 In the following sections, you will discover straightforward techniques to break down the Florida health insurance CE requirements, create an efficient study schedule, and practice with purpose. By the time you finish reading, you will have a clear roadmap to pass your exams and stay compliant in the long run.
 
@@ -74,7 +74,7 @@ Once you pass your exam and secure your license, you will have ongoing CE requir
 
 ### What is Florida health insurance CE and why do I need it?
 
-Florida health insurance CE refers to the continuing education requirement mandated by the Florida Department of Financial Services. You need it to stay current on changes in rules, regulations, and industry practices, which helps maintain the integrity and quality of service you provide to clients.
+Florida health insurance CE refers to the continuing education requirement mandated by the [Florida Department of Financial Services](/florida/requirements). You need it to stay current on changes in rules, regulations, and industry practices, which helps maintain the integrity and quality of service you provide to clients.
 
 ### How often do I need to complete my CE credits?
 

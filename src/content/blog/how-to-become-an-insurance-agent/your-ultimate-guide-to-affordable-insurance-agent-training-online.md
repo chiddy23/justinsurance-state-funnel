@@ -37,7 +37,7 @@ Meeting your state’s licensing requirements is essential if you want to legall
 2.  Background check  
     Many states also run a background check on new applicants, primarily focusing on criminal history. If you have a questionable record, you may need to submit additional paperwork or speak to a licensing representative about your eligibility.
 3.  Passing the state exam  
-    After finishing your pre-licensing course, you will typically schedule a computer-based exam. Expect multiple-choice questions on relevant regulations, ethical practices, insurance products, and state laws.
+    After finishing your [pre-licensing course](/prelicensing), you will typically schedule a computer-based exam. Expect multiple-choice questions on relevant regulations, ethical practices, insurance products, and state laws.
 
 Consider a quick call or email to your state’s insurance department if you feel unsure about any step. Confirming the details up front will prevent unwelcome surprises later on and help you tailor your online training program to meet the exact requirements.
 
@@ -90,7 +90,7 @@ Up to $100
 
 Textbooks, practice exams, or study aids
 
-Ongoing CE courses
+Ongoing [CE courses](/continuing-education)
 
 $50–$200/year
 

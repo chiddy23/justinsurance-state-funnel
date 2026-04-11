@@ -23,7 +23,7 @@ Below are five essential stages to guide you from the earliest planning stages a
 
 Every aspiring insurance producer in Indiana has to meet certain criteria, so your first step is to confirm you’re on solid footing. Generally, you’ll need to be at least 18 years old and be willing to undergo a background check. While minor offenses may not automatically disqualify you, more serious issues could affect approval.
 
-Contact the Indiana Department of Insurance if you’re uncertain about any specific requirements. Checking early helps you spot potential roadblocks and address them before investing time in pre-licensing education. By making sure you meet these requirements, you set yourself up for a smooth journey and avoid last-minute surprises.
+Contact the [Indiana Department of Insurance](/indiana/requirements) if you’re uncertain about any specific requirements. Checking early helps you spot potential roadblocks and address them before investing time in pre-licensing education. By making sure you meet these requirements, you set yourself up for a smooth journey and avoid last-minute surprises.
 
 ## Complete required coursework
 
@@ -85,7 +85,7 @@ You might want to commit to a regular schedule for completing CE courses instead
 
 ## Frequently asked questions
 
-1.  How long does it take to get an Indiana insurance license?  
+1.  How long does it take to get an [Indiana insurance license](/indiana)?  
     Most people finish their pre-licensing coursework and pass the exam within a couple of months, depending on how intensively they study. Once you pass, your official application review typically takes a few weeks.
 2.  What happens if I fail the exam on my first try?  
     Failing once doesn’t prevent you from trying again. You can reschedule, finish any further study you need, and take the exam again. Check exam provider guidelines for retake policies and fees.

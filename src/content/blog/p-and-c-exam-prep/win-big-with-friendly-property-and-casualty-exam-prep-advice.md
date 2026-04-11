@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-Whether you are brand-new to insurance or have been planning to test for a while, effective property and casualty exam prep can make all the difference in your success. Many people feel pressure when facing a licensing exam, and that is completely normal. With the right approach, you can absorb the material, test with confidence, and move one step closer to a rewarding career.
+Whether you are brand-new to insurance or have been planning to test for a while, effective property and casualty exam prep can make all the difference in your success. Many people feel pressure when facing a [licensing exam](/prelicensing), and that is completely normal. With the right approach, you can absorb the material, test with confidence, and move one step closer to a rewarding career.
 
 ## Understand the exam structure
 

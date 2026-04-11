@@ -20,7 +20,7 @@ imageCredit: Photo by cottonbro studio on Pexels
 
 ## Overview of the exam
 
-Preparing to take the Indiana insurance license exam can open new doors in your career. Whether you aim to become a licensed producer in life, health, property, or casualty insurance, the first step is understanding what to expect. Typically, the exam is administered as a multiple-choice test, and you’ll need a specific minimum score to pass. For the most up-to-date information, check with the Indiana Department of Insurance so you know the exact requirements for your exam line.
+Preparing to take the [Indiana insurance license exam](/indiana/requirements) can open new doors in your career. Whether you aim to become a licensed producer in life, health, property, or casualty insurance, the first step is understanding what to expect. Typically, the exam is administered as a multiple-choice test, and you’ll need a specific minimum score to pass. For the most up-to-date information, check with the Indiana Department of Insurance so you know the exact requirements for your exam line.
 
 Most exams last around two hours. During that time, you’ll answer questions designed to test both your knowledge of insurance regulations and your grasp of the practical concepts necessary for day-to-day work. The format is generally straightforward, but it’s still a challenge if you don’t prepare properly. Spending time on the basics, such as terminology and policy types, can help you avoid surprises on test day.
 
@@ -41,7 +41,7 @@ As you dig into these areas, aim for a working knowledge of key forms, industry 
 
 ## Complete your pre-licensing
 
-To qualify for the Indiana insurance license exam, you may need to finish a required pre-licensing course. These courses help you understand state-specific laws while also teaching general insurance principles. Think of them as your main study guide. Instead of scouring random online articles or flipping through outdated textbooks, you’ll have a structured program to keep your focus.
+To qualify for the [Indiana insurance license](/indiana) exam, you may need to finish a required pre-licensing course. These courses help you understand state-specific laws while also teaching general insurance principles. Think of them as your main study guide. Instead of scouring random online articles or flipping through outdated textbooks, you’ll have a structured program to keep your focus.
 
 Look for courses approved by the Indiana Department of Insurance. An approved provider ensures you’re covering exam-relevant essentials without wasting time. Many options combine online modules with practice quizzes, flashcards, and final assessments that mimic the real exam experience. If you're brand-new to insurance, these resources can clarify tough concepts like policy limits or premium calculations more efficiently than self-study alone.
 

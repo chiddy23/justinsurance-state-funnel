@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
-If you are exploring a new career path in the insurance world, it is crucial to understand the insurance agent job qualifications that can set you up for success. While the exact requirements can vary by state, you typically need to meet certain standards, complete pre-licensing courses, and pass an exam. There is a lot to learn, but each step is manageable with the right planning. By discovering the mix of licensing, education, and professional skills involved, you will be prepared to thrive as an insurance agent.
+If you are exploring a new career path in the insurance world, it is crucial to understand the insurance agent job qualifications that can set you up for success. While the exact requirements can vary by state, you typically need to meet certain standards, complete [pre-licensing courses](/prelicensing), and pass an exam. There is a lot to learn, but each step is manageable with the right planning. By discovering the mix of licensing, education, and professional skills involved, you will be prepared to thrive as an insurance agent.
 
 ## Understand your basic qualifications
 

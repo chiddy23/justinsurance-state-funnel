@@ -18,7 +18,7 @@ imageCredit: Photo by Takeshi Arai on Pexels
 
 ## Understand the renewal process
 
-When you hold an active insurance license, meeting your insurance CE renewal requirements state by state can feel like a puzzle. Each state sets its own rules regarding how many continuing education credits you need, which courses are acceptable, and how often you must renew. It might seem overwhelming at first, but once you understand the basics, it becomes much easier to plan out your schedule and fulfill your requirements on time.
+When you hold an active [insurance license](/prelicensing), meeting your insurance CE renewal requirements state by state can feel like a puzzle. Each state sets its own rules regarding how many continuing education credits you need, which courses are acceptable, and how often you must renew. It might seem overwhelming at first, but once you understand the basics, it becomes much easier to plan out your schedule and fulfill your requirements on time.
 
 To begin, confirm your specific licensing renewal period, which often ranges from one to two years. Next, look into how many credits you must complete in each renewal cycle. Some states also require ethics-specific credits or specialized training if you sell certain types of products, such as long-term care or annuities. Getting clarity on these details upfront saves you from last-minute scrambling.
 
@@ -30,7 +30,7 @@ Start by visiting your state’s official insurance department website, or look 
 
 ## Choose your CE format
 
-Fortunately, CE courses come in many formats, so you can find one that matches your learning style and busy schedule. Whether you prefer the convenience of online classes or the structure of traditional in-person seminars, you’ll likely have multiple options available.
+Fortunately, [CE courses](/continuing-education) come in many formats, so you can find one that matches your learning style and busy schedule. Whether you prefer the convenience of online classes or the structure of traditional in-person seminars, you’ll likely have multiple options available.
 
 Below is a brief overview of common formats you might encounter when fulfilling your continuing education needs:
 

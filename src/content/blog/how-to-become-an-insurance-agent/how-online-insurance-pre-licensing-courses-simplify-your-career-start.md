@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-Online insurance pre-licensing courses give you a flexible and convenient path into a growing industry. If you are exploring a career change or launching your professional life, these courses can streamline your journey toward becoming a licensed insurance agent. Instead of juggling rigid class schedules, you can learn at your own pace, often from the comfort of your home. Below, you will discover how the licensing process works, the benefits of taking classes online, and strategies to help you prepare for a successful career in insurance.
+Online [insurance pre-licensing courses](/prelicensing) give you a flexible and convenient path into a growing industry. If you are exploring a career change or launching your professional life, these courses can streamline your journey toward becoming a licensed insurance agent. Instead of juggling rigid class schedules, you can learn at your own pace, often from the comfort of your home. Below, you will discover how the licensing process works, the benefits of taking classes online, and strategies to help you prepare for a successful career in insurance.
 
 ## Understand the licensing process
 

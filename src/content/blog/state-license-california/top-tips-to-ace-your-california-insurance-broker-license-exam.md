@@ -17,11 +17,11 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-You might feel both excited and a bit overwhelmed as you prepare for your California insurance broker license exam. After all, the license opens the door to new career opportunities, but there are several steps to follow before you can expand your professional horizon. In this guide, you will find each stage clearly explained, from understanding basic qualifications to putting your best foot forward on exam day. By the end, you will feel more confident, organized, and ready to ace the test.
+You might feel both excited and a bit overwhelmed as you prepare for your [California insurance broker license](/california) exam. After all, the license opens the door to new career opportunities, but there are several steps to follow before you can expand your professional horizon. In this guide, you will find each stage clearly explained, from understanding basic qualifications to putting your best foot forward on exam day. By the end, you will feel more confident, organized, and ready to ace the test.
 
 ## Understand the licensing requirements
 
-Before you even think about study materials, check that you meet the basic requirements outlined by the California Department of Insurance. You typically have to be at least 18 years old, reside in or intend to do business in California, and have a clear criminal record. These standards help ensure that you will be well-prepared to serve clients ethically and responsibly.
+Before you even think about study materials, check that you meet the basic requirements outlined by the [California Department of Insurance](/california/requirements). You typically have to be at least 18 years old, reside in or intend to do business in California, and have a clear criminal record. These standards help ensure that you will be well-prepared to serve clients ethically and responsibly.
 
 Background checks are often part of the application. You will need to submit your fingerprints, which are then screened by the Department of Justice and the FBI. If you have any past infractions, do not assume automatic rejection. Instead, openly disclose the issues and provide documentation if requested. Often, transparency is appreciated and can speed up the review process.
 

@@ -26,7 +26,7 @@ Before you begin, take heart in knowing that the insurance sector thrives on kno
 
 ## Know the licensing requirements
 
-To earn your license in Michigan, you must fulfill several requirements set by the Michigan Department of Insurance and Financial Services (DIFS). These rules ensure you are prepared to serve clients ethically, legally, and effectively before you sell any policies.
+To earn your license in Michigan, you must fulfill several requirements set by the [Michigan Department of Insurance and Financial Services](/michigan/requirements) (DIFS). These rules ensure you are prepared to serve clients ethically, legally, and effectively before you sell any policies.
 
 In most cases, you must meet the following prerequisites:
 
@@ -138,4 +138,4 @@ Enrolling in Michigan insurance licensing classes is one of the best ways to ens
 
 If you are looking for a trusted partner to guide you, consider connecting with JustInsurance, an organization known for its robust pre-licensing programs that help new agents learn at a comfortable pace. From user-friendly study materials to exam review sessions, you will find the support you need to tackle the licensing exam with greater ease.
 
-Above all, remember that this process is not just about passing a test. It is about building a foundation for a career that lets you protect families, businesses, and communities in times of need. With a solid understanding of the material and a dedication to serving your clients, you will be well on your way to success in the competitive but rewarding insurance field. Embrace each step, stay focused, and look forward to the moment you proudly observe your Michigan insurance license on the wall—your ticket to a meaningful new chapter.
+Above all, remember that this process is not just about passing a test. It is about building a foundation for a career that lets you protect families, businesses, and communities in times of need. With a solid understanding of the material and a dedication to serving your clients, you will be well on your way to success in the competitive but rewarding insurance field. Embrace each step, stay focused, and look forward to the moment you proudly observe your [Michigan insurance license](/michigan) on the wall—your ticket to a meaningful new chapter.

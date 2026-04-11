@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Werner Pfennig on Pexels
 ---
 
-Keywords: north carolina health insurance license
+Keywords: [north carolina health insurance license](/north-carolina)
 
 To get your North Carolina health insurance license, you need to fulfill a series of simple but important steps. Although the process can feel daunting at first, you can build confidence by learning the requirements, preparing thoroughly, and taking it one stage at a time. Below, you will find the essential steps and practical tips for earning your health insurance license in North Carolina, so you can start your new career feeling empowered.
 
@@ -45,7 +45,7 @@ Completing your pre-licensing coursework successfully is a big milestone, showin
 
 ## Schedule your licensing exam
 
-Once you finish the required pre-licensing hours, you’re ready to take the North Carolina licensing exam. There is usually a separate exam for each type of license, such as health, or life and health combined.
+Once you finish the required pre-licensing hours, you’re ready to take the [North Carolina licensing exam](/north-carolina/requirements). There is usually a separate exam for each type of license, such as health, or life and health combined.
 
 To get started, locate a test provider authorized by the NCDOI and set up an exam appointment that suits your schedule. Be prepared to pay an examination fee when you book the date. While the amount can change over time, most fees fall within a moderate range and can be paid by credit or debit card.
 

@@ -15,7 +15,7 @@ imageAlt: Professionals reviewing data charts on paper during a business meeting
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-If you have ever considered working as an insurance adjuster in Texas, you may be pleasantly surprised by how straightforward the path can be. Obtaining a Texas insurance adjuster license does not have to be an intimidating process, even if you are brand new to the world of insurance. In fact, with the proper resources, you can complete your pre-licensing coursework, pass your exam, and file your application in a relatively short timeframe. The key is knowing each step in advance—and that is exactly what this article will show you.
+If you have ever considered working as an insurance adjuster in Texas, you may be pleasantly surprised by how straightforward the path can be. Obtaining a [Texas insurance adjuster license](/texas) does not have to be an intimidating process, even if you are brand new to the world of insurance. In fact, with the proper resources, you can complete your pre-licensing coursework, pass your exam, and file your application in a relatively short timeframe. The key is knowing each step in advance—and that is exactly what this article will show you.
 
 Before you know it, you will be well on your way to adjusting claims, investigating accidents, and helping people navigate their insurance matters, all while enjoying a rewarding career. Below is a step-by-step breakdown of how to get your Texas insurance adjuster license, from choosing an approved pre-licensing provider to maintaining your credential in the years to come.
 
@@ -23,7 +23,7 @@ Before you know it, you will be well on your way to adjusting claims, investigat
 
 Texas offers several types of adjuster licenses, but the All-Lines Adjuster License is among the most comprehensive and popular. It typically allows you to handle a variety of claim types such as property, casualty, and even workers' compensation within the state. If you would prefer a narrower specialty, you can look into other options, like a Property and Casualty Adjuster License, although your job prospects might be broader with the all-lines designation.
 
-Regardless of the license type you choose, you need to meet the same foundational requirements. You must be at least 18 years old, reside in or be employed in Texas, and meet any pre-licensing education and exam mandates set by the Texas Department of Insurance. If you have a criminal history, you may also need to undergo additional scrutiny. By confirming your eligibility early on, you can avoid any hassles down the road.
+Regardless of the license type you choose, you need to meet the same foundational requirements. You must be at least 18 years old, reside in or be employed in Texas, and meet any pre-licensing education and exam mandates set by the [Texas Department of Insurance](/texas/requirements). If you have a criminal history, you may also need to undergo additional scrutiny. By confirming your eligibility early on, you can avoid any hassles down the road.
 
 ## Choose an approved provider
 

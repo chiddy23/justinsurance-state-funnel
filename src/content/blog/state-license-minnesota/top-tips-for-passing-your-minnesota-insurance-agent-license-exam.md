@@ -24,7 +24,7 @@ You might be wondering how to tackle the Minnesota insurance agent license exam 
 
 Before you dive into study mode, start by understanding what the Minnesota insurance agent license exam covers. This exam typically evaluates your knowledge of state regulations, ethical guidelines, and the differences among life, health, property, and casualty insurance lines. Each line of authority has its own requirements, so make sure you know where you should focus your energy.
 
-The Minnesota Department of Commerce requires you to complete a pre-licensing course before taking the official exam. These courses often include textbooks, online modules, or in-person sessions designed to teach you the fundamentals. You will need to submit a certificate of completion when registering for the exam, so keep thorough records of your course progress.
+The [Minnesota Department of Commerce](/minnesota/requirements) requires you to complete a pre-licensing course before taking the official exam. These courses often include textbooks, online modules, or in-person sessions designed to teach you the fundamentals. You will need to submit a certificate of completion when registering for the exam, so keep thorough records of your course progress.
 
 Consider which line of authority you plan to pursue. If you want to sell multiple types of coverage, you will likely need to take more than one exam. Be prepared to schedule accordingly so you can devote time and attention to each. Remember, a strong foundation in the basics will help you answer exam questions more quickly and with greater accuracy.
 
@@ -69,7 +69,7 @@ In addition, consider connecting with peers or mentors who have recently passed 
 
 ## Prepare for your next steps
 
-After finishing your exam, your first big milestone is hopefully a passing score. You will receive instructions on how to apply for your official Minnesota insurance license. Usually, this involves completing an application, paying a state fee, and possibly going through a background check.
+After finishing your exam, your first big milestone is hopefully a passing score. You will receive instructions on how to apply for your official [Minnesota insurance license](/minnesota). Usually, this involves completing an application, paying a state fee, and possibly going through a background check.
 
 Your journey does not end with the license. To stay current, you will need to complete continuing education (CE) courses. These courses help you keep pace with changes in insurance laws and best practices. They also ensure that, as a producer, you can offer clients accurate and honest guidance over the long term.
 

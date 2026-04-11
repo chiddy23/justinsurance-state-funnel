@@ -15,7 +15,7 @@ imageAlt: Spacious and modern conference room with sleek furniture and natural l
 imageCredit: Photo by MINEIA  MARTINS on Pexels
 ---
 
-Getting your Arizona insurance producer license can seem daunting at first, but the entire process is easier than you might think. By following a clear sequence of steps — from pre-licensing coursework to the official exam — you can feel confident every step of the way. Together, we will walk through the essentials so you know exactly what to expect and how to prepare.
+Getting your [Arizona insurance producer](/arizona) license can seem daunting at first, but the entire process is easier than you might think. By following a clear sequence of steps — from pre-licensing coursework to the official exam — you can feel confident every step of the way. Together, we will walk through the essentials so you know exactly what to expect and how to prepare.
 
 Whether you plan to focus on life and health insurance or property and casualty lines, Arizona’s requirements are straightforward once you break them down. With the right mindset, organised materials, and a bit of support, you will quickly position yourself for a fulfilling new career as an insurance producer.
 
@@ -49,13 +49,13 @@ When exam day arrives, show up early with the required identification and your s
 
 ## Submit your license application
 
-After successfully passing your exam, your next step is submitting the official application to the Arizona Department of Insurance and Financial Institutions. This application confirms your exam results and other background details. You may also pay your licensing fees at this time, typically online.
+After successfully passing your exam, your next step is submitting the official application to the [Arizona Department of Insurance and Financial Institutions](/arizona/requirements). This application confirms your exam results and other background details. You may also pay your licensing fees at this time, typically online.
 
 Be sure to follow the instructions carefully when completing the application form. Missing or inaccurate information can result in processing delays. You will also want to keep copies of all confirmations or receipts for your personal records. Once you are officially approved, the Arizona Department of Insurance will grant you your producer license, signifying you can legally sell and negotiate insurance in the state.
 
 ## Keep your license current
 
-Getting your license is an accomplishment worth celebrating, but it is not the end of your journey. Arizona requires continuing education (CE) to ensure you stay up to date on the latest rules, products, and industry best practices. Most lines of authority have a specific number of credits you must earn every renewal cycle.
+Getting your license is an accomplishment worth celebrating, but it is not the end of your journey. [Arizona requires continuing education](/arizona/continuing-education) (CE) to ensure you stay up to date on the latest rules, products, and industry best practices. Most lines of authority have a specific number of credits you must earn every renewal cycle.
 
 Research which CE courses fit your career goals. If you enjoy helping families plan long-term security, prioritize life and health insurance classes. If you lean more toward property coverage, make sure your coursework reflects that focus. Staying informed is not just about meeting legal requirements — it also gives you a professional edge when you are speaking with clients.
 

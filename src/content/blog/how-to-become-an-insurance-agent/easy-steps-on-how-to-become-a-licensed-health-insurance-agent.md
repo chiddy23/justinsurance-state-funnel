@@ -35,7 +35,7 @@ Before you register for classes or schedule a test, confirm that you meet the st
 
 Confirm these details through your state’s department of insurance or its official licensing website. Ensuring you meet the foundational criteria now will prevent surprises when you apply for your license later.
 
-## Complete pre-licensing courses
+## Complete [pre-licensing courses](/prelicensing)
 
 Most states require you to enroll in specific pre-licensing courses before taking the licensing exam. These courses lay the groundwork on topics such as insurance laws, ethical practices, and policy structures. They also provide a clear overview of Health Maintenance Organization (HMO) plans, Preferred Provider Organizations (PPOs), and state-specific regulations.
 

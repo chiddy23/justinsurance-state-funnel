@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
-You might feel a bit overwhelmed when you first look into the Washington insurance license cost. With different fees, courses, and processes to consider, it can be tricky to figure out exactly how much to budget. Fortunately, you can simplify the process by knowing where your money goes and how to prepare for each step. Below, you will find a clear breakdown of potential expenses, along with tips to help you plan intelligently and avoid any financial surprises.
+You might feel a bit overwhelmed when you first look into the [Washington insurance license](/washington) cost. With different fees, courses, and processes to consider, it can be tricky to figure out exactly how much to budget. Fortunately, you can simplify the process by knowing where your money goes and how to prepare for each step. Below, you will find a clear breakdown of potential expenses, along with tips to help you plan intelligently and avoid any financial surprises.
 
 ## Understand the main fees
 
@@ -39,7 +39,7 @@ The exam fee often ranges around $55 to $65 per attempt, although exact pricing 
 
 ## Cover application and fingerprint fees
 
-When you successfully pass the exam, you must then apply for your license with the Washington Office of the Insurance Commissioner. There is an application fee, which generally falls around $60 for each license type. If you plan to hold multiple lines, you might pay separate fees, so keep that in mind when mapping out your budget.
+When you successfully pass the exam, you must then apply for your license with the [Washington Office of the Insurance Commissioner](/washington/requirements). There is an application fee, which generally falls around $60 for each license type. If you plan to hold multiple lines, you might pay separate fees, so keep that in mind when mapping out your budget.
 
 Fingerprinting is also a requirement in Washington for new license applicants. You will typically pay around $40 to $50 for digital fingerprinting. This is a one-time cost that supports the state’s background check, ensuring you meet the ethical standards required to sell insurance.
 

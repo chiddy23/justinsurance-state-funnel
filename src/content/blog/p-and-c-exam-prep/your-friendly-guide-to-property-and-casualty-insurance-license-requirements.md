@@ -29,13 +29,13 @@ Understanding property and casualty insurance license requirements is your first
 Each state has its own set of property and casualty insurance license requirements, though many follow similar guidelines. Typically, you need to:
 
 1.  Meet the minimum age requirement (often 18 years old).
-2.  Complete a pre-licensing course approved by your state.
+2.  Complete a [pre-licensing course](/prelicensing) approved by your state.
 3.  Pass the official licensing exam.
 4.  Undergo a background check and submit the necessary application forms.
 
 When you research your state’s regulations, you might find small variations in testing formats, required study hours, or fees. Pay close attention to all the details. Even minor rules, like how your name appears on identification documents, can be important when you arrive at the test center.
 
-Getting a license not only demonstrates your knowledge, but it also signals to clients and employers that you are trustworthy and qualified. Make sure you keep track of your license’s expiration date and any continuing education requirements. By maintaining your license, you show your commitment to staying informed and up to date on current industry standards.
+Getting a license not only demonstrates your knowledge, but it also signals to clients and employers that you are trustworthy and qualified. Make sure you keep track of your license’s expiration date and any [continuing education requirements](/continuing-education). By maintaining your license, you show your commitment to staying informed and up to date on current industry standards.
 
 ## Key steps to becoming licensed
 

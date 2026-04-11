@@ -16,7 +16,7 @@ imageAlt: 'African American businessman checking watch, standing against stone w
 imageCredit: Photo by Barbara Olsen on Pexels
 ---
 
-Master Description: Navigate your Illinois insurance license application with our friendly step-by-step guide for confident success.
+Master Description: Navigate your [Illinois insurance license](/illinois) application with our friendly step-by-step guide for confident success.
 
   
 Navigating the Illinois insurance license application process can feel like a challenge, but you have plenty of ways to make it straightforward. By following clear steps and understanding each phase, you can build confidence and set yourself on track for a rewarding insurance career in Illinois.
@@ -71,7 +71,7 @@ Keep an eye on your email in case the state requests any clarifications. Respond
 
 ## Stay connected with any updates
 
-Once you submit everything, the Illinois Department of Insurance will review your materials and let you know if anything else is needed. Processing can take a few weeks, so this is a good time to organize your next steps. Maybe you are considering which agencies to apply to, or you are thinking of setting up your own independent consultancy.
+Once you submit everything, the [Illinois Department of Insurance](/illinois/requirements) will review your materials and let you know if anything else is needed. Processing can take a few weeks, so this is a good time to organize your next steps. Maybe you are considering which agencies to apply to, or you are thinking of setting up your own independent consultancy.
 
 Keep an eye on your inbox for status updates. If the timeline feels longer than expected, you can reach out to the department’s contact line to confirm your application’s standing. You could also verify your license status through official online listings. Having your license in hand is a major step, but do not forget that continuous education will be part of your career going forward.
 

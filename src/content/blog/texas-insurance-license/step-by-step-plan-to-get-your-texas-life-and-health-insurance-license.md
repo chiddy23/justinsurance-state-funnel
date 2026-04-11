@@ -18,13 +18,13 @@ imageAlt: >-
 imageCredit: Photo by Kaushal Moradiya on Pexels
 ---
 
-If you’re ready to launch a new career in the insurance industry, earning your Texas life and health insurance license is your crucial first step. This license allows you to help fellow Texans safeguard their financial futures, and it can open up new opportunities for professional growth. Because the process involves pre-licensing education, state exams, and a final application, it helps to have a clear plan from the start.
+If you’re ready to launch a new career in the insurance industry, earning your [Texas life and health insurance license](/texas) is your crucial first step. This license allows you to help fellow Texans safeguard their financial futures, and it can open up new opportunities for professional growth. Because the process involves pre-licensing education, state exams, and a final application, it helps to have a clear plan from the start.
 
 Below, you’ll learn each stage of the journey, from confirming your eligibility through maintaining your license. You’ll also discover practical tips on meeting requirements, preparing for exams, and keeping track of important documentation. By the end, you should have a better sense of how to navigate the entire licensing process with confidence.
 
 ## Confirm your eligibility
 
-Before you invest time and resources, take a moment to ensure you meet the state’s basic prerequisites. In Texas, you typically need to be at least 18 years old and a resident of the state, with no disqualifying criminal history. Most individuals fall under these requirements with no issue, but it’s best to check the Texas Department of Insurance (TDI) website for the latest details and any special circumstances.
+Before you invest time and resources, take a moment to ensure you meet the state’s basic prerequisites. In Texas, you typically need to be at least 18 years old and a resident of the state, with no disqualifying criminal history. Most individuals fall under these requirements with no issue, but it’s best to check the [Texas Department of Insurance](/texas/requirements) (TDI) website for the latest details and any special circumstances.
 
 You’ll also need a Social Security number and a valid government-issued photo ID. Keep these documents handy, because you’ll likely need quick access when you fill out applications and verify your identity later on. If you find that you have a unique situation—such as a past criminal record—consult the TDI’s guidelines to see if you qualify or require any additional steps.
 

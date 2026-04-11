@@ -22,7 +22,7 @@ imageCredit: Photo by MART  PRODUCTION on Pexels
 
 If you plan to become an insurance producer in the Hoosier State, you first need to satisfy the Indiana insurance pre-licensing education requirements. These rules help ensure you have a solid understanding of insurance concepts and state regulations before taking your exam and applying for a license. By completing these prerequisites, you gain the confidence to serve clients effectively from the moment you begin your new career.
 
-Indiana offers several lines of authority you may choose, such as Life, Health, Property, or Casualty. Each line has its own pre-licensing requirements, and some people decide to combine Life & Health or Property & Casualty to broaden their career paths. Regardless of which path you pick, you will have to show proof of successful course completion when you register for your licensing exam.
+Indiana offers several lines of authority you may choose, such as Life, Health, Property, or Casualty. Each line has its own [pre-licensing requirements](/indiana/prelicensing), and some people decide to combine Life & Health or Property & Casualty to broaden their career paths. Regardless of which path you pick, you will have to show proof of successful course completion when you register for your licensing exam.
 
 By the time you finish your pre-licensing coursework, you will have a clear sense of the laws and standards that apply to insurance sales in Indiana. This emphasis on foundational knowledge is designed to protect both you and your future clients.
 
@@ -36,7 +36,7 @@ Even though the total hours may seem like a lot, most trainers break the materia
 
 ## Select an approved provider
 
-Once you know the required study hours, your next step is to choose a pre-licensing provider approved by the Indiana Department of Insurance. Many organizations provide high-quality courses, but it is important to verify that the one you select meets all credential standards.
+Once you know the required study hours, your next step is to choose a pre-licensing provider approved by the [Indiana Department of Insurance](/indiana/requirements). Many organizations provide high-quality courses, but it is important to verify that the one you select meets all credential standards.
 
 Below are some factors to consider when evaluating providers:
 
@@ -61,7 +61,7 @@ Once you pass your exam, you are just a few steps away from receiving your licen
 
 Before filing, double-check that your background information is correct and that you have met all requirements for each line of authority you plan to sell, such as Life & Health or Property & Casualty. You may also have to undergo fingerprinting and a background check, so give yourself enough time to schedule and complete those tasks.
 
-Filing your application promptly after you pass your exam can eliminate unnecessary delays. Having your certificate of completion and exam results on hand reduces back-and-forth and speeds up the review process. Once the state approves your application, you can officially call yourself a licensed Indiana insurance producer.
+Filing your application promptly after you pass your exam can eliminate unnecessary delays. Having your certificate of completion and exam results on hand reduces back-and-forth and speeds up the review process. Once the state approves your application, you can officially call yourself a licensed [Indiana insurance producer](/indiana).
 
 ## Frequently asked questions
 

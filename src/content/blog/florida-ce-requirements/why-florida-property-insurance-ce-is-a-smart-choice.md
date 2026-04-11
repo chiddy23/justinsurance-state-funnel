@@ -15,7 +15,7 @@ imageAlt: A child engaging in online learning at home with lesson papers and a l
 imageCredit: Photo by cottonbro studio on Pexels
 ---
 
-Understand Florida property insurance CE
+Understand [Florida property insurance CE](/florida/continuing-education)
 
 Florida property insurance continuing education (CE) is all about enhancing your insurance knowledge so you can protect families and businesses with greater confidence. By staying current with Florida’s evolving regulations and best practices, you keep your license active and demonstrate your commitment to professional excellence. As you prepare to meet your ongoing CE obligations, you also reinforce your reputation as a trustworthy insurance agent.
 
@@ -29,7 +29,7 @@ This added layer of expertise also contributes to long-term career stability. Cl
 
 ## Fulfill key requirements
 
-The Florida Department of Financial Services sets the continuing education requirements you need to satisfy in order to maintain your license. In many cases, you must complete a set number of credit hours every two years, with a portion specifically focused on your property insurance specialty. Be sure to confirm current regulations directly through official channels, as requirements can vary based on the type of license and how long you have been licensed.
+The [Florida Department of Financial Services](/florida/requirements) sets the continuing education requirements you need to satisfy in order to maintain your license. In many cases, you must complete a set number of credit hours every two years, with a portion specifically focused on your property insurance specialty. Be sure to confirm current regulations directly through official channels, as requirements can vary based on the type of license and how long you have been licensed.
 
 Once you know your required hours, choose a state-approved provider that offers courses covering property insurance topics. These courses typically explore policy updates, modern underwriting strategies, and related state laws. With online, in-person, and self-paced study formats, you have the flexibility to select a method that fits comfortably around your professional and personal schedule.
 
@@ -44,7 +44,7 @@ You also gain:
 -   Larger professional network: Peer interaction, whether in-person or virtual, helps you build a solid industry network.
 -   Potential for higher earnings: Agents who are well-informed can present clients with more comprehensive coverage options, leading to stronger relationships and potentially larger sales.
 
-Adopting the habit of continuous learning sets you apart as a professional who truly cares about doing right by clients. Not only does this help you keep your Florida property insurance license in good standing, it creates stronger customer loyalty over time.
+Adopting the habit of continuous learning sets you apart as a professional who truly cares about doing right by clients. Not only does this help you keep your [Florida property insurance license](/florida) in good standing, it creates stronger customer loyalty over time.
 
 ## Frequently asked questions
 

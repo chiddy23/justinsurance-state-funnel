@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Max Medyk on Pexels
 ---
 
-## North Carolina adjuster license basics
+## [North Carolina adjuster license](/north-carolina) basics
 
 If you're aiming for your North Carolina adjuster license, you may be wondering where to begin or how to confirm you're on the right track. Think of this process as a step-by-step journey that equips you with knowledge, satisfies state mandates, and sets you up for success in the insurance world. Even if this is your first time tackling an insurance credential, you can find plenty of helpful resources to guide you every step of the way.
 
@@ -28,7 +28,7 @@ In this article, you'll discover what each stage of the adjuster license path en
 
 North Carolina has clear guidelines for becoming a licensed adjuster, and meeting these requirements is often simpler than you might expect. You need to be at least 18 years of age, submit a completed license application, and undergo a background check. If you have any legal or financial issues on your record, you may want to address those ahead of time to avoid unexpected delays.
 
-The state also requires successful completion of a licensing exam specific to adjusters. This exam ensures you're comfortable handling everything from policy coverage to claims processes. When you finish the exam, you'll apply for your license through the North Carolina Department of Insurance website. Keep in mind that application fees and exam fees are separate, so budgeting for both will help you navigate the process smoothly.
+The state also requires successful completion of a licensing exam specific to adjusters. This exam ensures you're comfortable handling everything from policy coverage to claims processes. When you finish the exam, you'll apply for your license through the [North Carolina Department of Insurance](/north-carolina/requirements) website. Keep in mind that application fees and exam fees are separate, so budgeting for both will help you navigate the process smoothly.
 
 ## Complete your pre-licensing preparation
 

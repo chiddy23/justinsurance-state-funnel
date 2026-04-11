@@ -3,7 +3,7 @@ title: Your Ultimate Guide to the Virginia Insurance Licensing Process
 description: >-
   Unlock the Virginia insurance licensing process with our friendly guide and
   tips to help you pass with ease. Virginia licensing expert tips.
-keyword: virginia insurance licensing process
+keyword: virginia insurance licensing process guide
 targetKeywords: virginia insurance licensing process
 cluster: state-license-virginia
 clusterName: State License – Virginia
@@ -24,7 +24,7 @@ Some of the basics include meeting eligibility requirements, completing state-ap
 
 ## Check basic eligibility
 
-Before you commit time and money to the process, confirm you’re officially eligible to apply for a Virginia insurance license. Typically, you must:
+Before you commit time and money to the process, confirm you’re officially eligible to apply for a [Virginia insurance license](/virginia). Typically, you must:
 
 1.  Be at least 18 years old.
 2.  Be a legal resident of Virginia or plan on applying as a non-resident under certain conditions.
@@ -51,7 +51,7 @@ Many pre-licensing courses can be done in-person or online, so pick the format t
 
 ## Schedule your Virginia exam
 
-Once your coursework is done, you can register for the Virginia insurance exam. You’ll need to pay an exam fee, which varies by license type. Keep in mind that seats can fill up quickly in some areas, so book your slot as soon as you know you’re ready.
+Once your coursework is done, you can register for the [Virginia insurance exam](/virginia/requirements). You’ll need to pay an exam fee, which varies by license type. Keep in mind that seats can fill up quickly in some areas, so book your slot as soon as you know you’re ready.
 
 Most testing vendors offer a network of exam centers across Virginia and possibly neighboring states. If you live in a rural location, plan for any extra travel time. You can check the exam provider’s official website for details on locations, available dates, and the forms of identification you’ll need on test day. Since testing is done electronically, you can usually view your results soon after completion, which means you won’t have to wait anxiously for weeks to learn whether you passed.
 

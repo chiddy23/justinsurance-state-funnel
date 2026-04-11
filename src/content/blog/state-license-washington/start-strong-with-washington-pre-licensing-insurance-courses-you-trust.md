@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Thirdman on Pexels
 ---
 
-## Understand your Washington pre-licensing requirements
+## Understand your [Washington pre-licensing](/washington/prelicensing) requirements
 
 Before you can start your insurance career in Washington, you need pre-licensing training that meets state guidelines. Most learners complete separate courses for life & health or property & casualty, depending on which lines of authority they want. Completing these educational requirements ensures you have a solid grasp of every core concept—from policy types and regulations to ethics and consumer protections.
 
@@ -30,7 +30,7 @@ As you evaluate course options, look for programs that balance key factors: enga
 
 In particular, make sure you choose a provider that offers:
 
-1.  Up-to-date content: The insurance landscape changes frequently. You want the latest materials that reflect current Washington regulations.
+1.  Up-to-date content: The insurance landscape changes frequently. You want the latest materials that reflect current [Washington regulations](/washington/requirements).
 2.  Flexible study options: Online modules or on-demand videos let you fit lessons into your schedule. If you prefer live classes, confirm when and where they are held.
 3.  Exam prep tools: Practice tests, flashcards, and quizzes are game-changers for remembering terms and concepts. Solid test prep reduces stress and boosts confidence.
 4.  Supportive community: A mentor or instructor who can clarify tough sections can turn confusion into understanding. Check whether you can reach out with questions between sessions.
@@ -106,7 +106,7 @@ When selecting a format, think about which environment helps you absorb informat
 
 ## Take your next step
 
-Securing a Washington insurance license starts with the right educational foundation. When you choose quality Washington pre-licensing insurance courses, you show potential employers that you take your professional goals seriously. A supportive learning environment can make all the difference between merely passing and truly understanding the content.
+Securing a [Washington insurance license](/washington) starts with the right educational foundation. When you choose quality Washington pre-licensing insurance courses, you show potential employers that you take your professional goals seriously. A supportive learning environment can make all the difference between merely passing and truly understanding the content.
 
 At JustInsurance, we believe that every aspiring agent deserves well-structured courses, up-to-date exam prep, and real-person support. By focusing on these essentials, you gain the knowledge, confidence, and credentials you need to launch your insurance career.
 

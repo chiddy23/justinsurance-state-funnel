@@ -17,9 +17,9 @@ imageAlt: >-
 imageCredit: Photo by olia danilevich on Pexels
 ---
 
-Are you looking for Florida insurance CE courses that feel approachable, flexible, and designed to help you fulfill your professional requirements without stress? Below, you will find a friendly guide that breaks down your options and shows you how to pick the perfect fit for your schedule and learning style. By the end, you will feel ready to tackle your continuing education responsibilities with renewed confidence.
+Are you looking for [Florida insurance](/florida) CE courses that feel approachable, flexible, and designed to help you fulfill your professional requirements without stress? Below, you will find a friendly guide that breaks down your options and shows you how to pick the perfect fit for your schedule and learning style. By the end, you will feel ready to tackle your continuing education responsibilities with renewed confidence.
 
-## Understand Florida insurance CE requirements
+## Understand [Florida insurance CE requirements](/florida/continuing-education)
 
 Florida’s Department of Financial Services requires insurance agents to complete a set number of CE hours based on license type, practice area, and years of experience. These requirements help you stay current on changes in regulations, policy details, and best practices. As you advance in your career, these courses become a practical way to update your knowledge and better serve your clients.
 
@@ -74,7 +74,7 @@ Below are some common questions individuals have when exploring Florida insuranc
 2.  Can I mix online and in-person classes? Yes. Many agents combine the convenience of online modules with occasional in-person seminars. You might, for example, complete your core topics online and attend a workshop for specialized subjects or networking opportunities.
 3.  How do I keep track of my completed credits? Most accredited providers will submit your course completions directly to Florida’s Department of Financial Services. You can also keep your own records through a personal account to check your progress or address any errors promptly.
 4.  Do different licenses have different CE requirements? Absolutely. Life, health, property, and other licenses may have varying credit totals or topic areas to fulfill. If you hold multiple licenses, verify each set of requirements so that you can complete the correct courses and stay fully compliant.
-5.  Will extra credits carry over to my next renewal period? It depends on the Florida regulations for your specific license. Some credits may not roll over. Because of this, you should plan your continuing education around the current renewal period rather than relying on leftover credits.
+5.  Will extra credits carry over to my next renewal period? It depends on the [Florida regulations](/florida/requirements) for your specific license. Some credits may not roll over. Because of this, you should plan your continuing education around the current renewal period rather than relying on leftover credits.
 
 ## Choose your next step
 

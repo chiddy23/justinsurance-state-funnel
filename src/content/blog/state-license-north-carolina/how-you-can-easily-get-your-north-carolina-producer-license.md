@@ -31,7 +31,7 @@ When you’re first exploring a career in insurance, it’s natural to have ques
 
 Like most states, North Carolina has some baseline requirements for becoming an insurance producer. You must be at least 18 years old and legally able to work in the United States. Additionally, you’ll go through a background check that ensures there are no issues preventing you from holding a license.
 
-If you have any concerns about your eligibility, it’s a good idea to check with the North Carolina Department of Insurance before you invest time and money in pre-licensing courses. Often, the department’s website provides direct guidance on potential background issues and how they might affect your application. That way, you’ll have clarity from the very beginning.
+If you have any concerns about your eligibility, it’s a good idea to check with the [North Carolina Department of Insurance](/north-carolina/requirements) before you invest time and money in pre-licensing courses. Often, the department’s website provides direct guidance on potential background issues and how they might affect your application. That way, you’ll have clarity from the very beginning.
 
 ## Finish pre-licensing education
 
@@ -53,7 +53,7 @@ Be prepared to pay application fees and any processing costs. The fee amounts ca
 
 ## Maintain your license
 
-Once your North Carolina producer license is approved, you’re officially able to sell insurance within the lines of authority you selected. While this is a major accomplishment, there are still responsibilities to keep in mind. North Carolina requires continuing education (CE) credits to ensure you stay current on the latest insurance regulations and best practices.
+Once your North Carolina producer license is approved, you’re officially able to sell insurance within the lines of authority you selected. While this is a major accomplishment, there are still responsibilities to keep in mind. [North Carolina requires continuing education](/north-carolina/continuing-education) (CE) credits to ensure you stay current on the latest insurance regulations and best practices.
 
 Your ongoing CE obligations typically need to be met every two years. Failure to meet these requirements can result in license suspension or additional penalties. Most producers find that spaced-out study schedules and timely course selection help them meet these rules hassle-free, so mark the renewal deadlines on your calendar and plan ahead.
 

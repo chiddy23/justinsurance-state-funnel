@@ -20,7 +20,7 @@ imageCredit: Photo by C'Pho Ngondo R.Rouge on Pexels
 
 ## Understand Washington pre-licensing requirements
 
-Before you dive into your online Washington insurance pre-licensing classes, it’s essential to know exactly what the state requires of you. In Washington, you must complete a specified number of pre-licensing hours for each line of authority you plan to pursue—life & disability (health) and property & casualty being the most common. Once you finish those courses, you’ll need to pass a state licensing exam. That exam covers everything from basic insurance terminology to Washington-specific regulations.
+Before you dive into your online [Washington insurance](/washington) pre-licensing classes, it’s essential to know exactly what the state requires of you. In Washington, you must complete a specified number of pre-licensing hours for each line of authority you plan to pursue—life & disability (health) and property & casualty being the most common. Once you finish those courses, you’ll need to pass a state licensing exam. That exam covers everything from basic insurance terminology to Washington-specific regulations.
 
 Each line of authority has its own prerequisites, and fulfilling them ensures you’re well-prepared to represent clients accurately and ethically. Think of it as building a foundation of knowledge that you’ll continue to refine throughout your career. And if you’re new to the industry, don’t worry: many programs are designed to guide you step by step, so you can feel confident in your progress.
 
@@ -47,7 +47,7 @@ Not all pre-licensing programs deliver the same experience. To make an informed 
 
 ## Comparing popular WA programs
 
-When searching for the right pre-licensing course in Washington, it helps to compare a few key offerings side by side. Below is a quick glance at how three popular providers stack up.
+When searching for the right [pre-licensing course in Washington](/washington/prelicensing), it helps to compare a few key offerings side by side. Below is a quick glance at how three popular providers stack up.
 
 Program
 
@@ -88,7 +88,7 @@ Below are some common questions people ask when deciding on online pre-licensing
 4.  Are there tuition assistance plans available?  
     Many providers offer payment plans or discounts if you bundle multiple lines of authority. Check with your course provider to see if you qualify for any financial incentives.
 5.  How do I schedule my licensing exam once I finish?  
-    After completing your required hours, you’ll typically visit the Washington Office of the Insurance Commissioner website or an approved testing vendor. From there, you can pick a date and time that fits your schedule.
+    After completing your required hours, you’ll typically visit the [Washington Office of the Insurance Commissioner](/washington/requirements) website or an approved testing vendor. From there, you can pick a date and time that fits your schedule.
 
 ## Take the next step
 

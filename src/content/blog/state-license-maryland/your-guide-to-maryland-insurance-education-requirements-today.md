@@ -15,7 +15,7 @@ imageAlt: A young businessman in a tailored suit exudes confidence and professio
 imageCredit: Photo by Нұржас Тұрарбек on Pexels
 ---
 
-You may feel daunted by the idea of getting your Maryland insurance license, especially when you hear about the education requirements you must meet. Luckily, these requirements are designed to help you master fundamental insurance concepts before you start serving clients. By understanding the process step by step, you can fulfill Maryland insurance education requirements without confusion or unnecessary stress.
+You may feel daunted by the idea of getting your [Maryland insurance license](/maryland), especially when you hear about the education requirements you must meet. Luckily, these requirements are designed to help you master fundamental insurance concepts before you start serving clients. By understanding the process step by step, you can fulfill Maryland insurance education requirements without confusion or unnecessary stress.
 
 Getting licensed often opens up exciting career possibilities. Whether you plan to focus on life and health, property and casualty, or both, Maryland’s guidelines remain consistent in their goal—ensuring you gain the knowledge needed to confidently serve policyholders. Below, you’ll find insights on pre-licensing courses, continuing education, and answers to frequently asked questions so you can feel ready to start your insurance journey.
 
@@ -55,7 +55,7 @@ During your course, expect to learn about policy types, relevant Maryland regula
 
 ## Fulfill continuing education
 
-Once you earn your Maryland insurance license, your learning journey isn’t over. Maryland requires continuing education (CE) to keep you up to speed on policy changes, evolving products, and best practices for serving policyholders. These CE requirements generally apply every renewal period (commonly two years) and can include mandatory ethics courses to ensure you hold yourself to high professional standards.
+Once you earn your Maryland insurance license, your learning journey isn’t over. [Maryland requires continuing education](/maryland/continuing-education) (CE) to keep you up to speed on policy changes, evolving products, and best practices for serving policyholders. These CE requirements generally apply every renewal period (commonly two years) and can include mandatory ethics courses to ensure you hold yourself to high professional standards.
 
 You’ll find that completing CE can feel more manageable when you treat it as an opportunity for career growth. Taking targeted courses—like advanced life insurance planning or property damage claims—enhances the expertise you share with your clients. Plus, you’ll stay in good standing with the Maryland Insurance Administration. Keep track of your credits and deadlines to avoid late fees or license suspensions. It’s all part of ensuring you maintain the knowledge you worked so hard to gain in your pre-licensing process.
 
@@ -69,7 +69,7 @@ Below are some frequently asked questions about Maryland insurance education req
     Yes, you’ll normally have to complete the required hours for each license type, unless a combined course is available (such as life and health). Always verify with your chosen provider whether they offer bundled classes that can save you time and money.
 3.  Can I take my pre-licensing course online, or do I have to attend in-person classes?  
     Many Maryland-approved course providers let you study online, which can be helpful if you work full-time or have a busy schedule. In-person options still exist for those who learn best in a classroom environment. Pick whichever format helps you absorb the material effectively.
-4.  How do I schedule my Maryland insurance licensing exam?  
+4.  How do I schedule my [Maryland insurance licensing exam](/maryland/requirements)?  
     Once you’ve finished your pre-licensing course, you’ll typically be able to register for the exam through the test administrator’s website or phone system. You’ll need to provide your certificate of completion and pay the exam fee. Exam sessions are offered regularly, so you can usually choose a date and location that works for you.
 5.  What if I fail my exam on the first try?  
     Failing an exam isn’t the end of the road. You can retake it, though you may need to wait a set number of days and pay another exam fee. As soon as you know which topics tripped you up, go back through your course materials and focus on those areas. With additional study and practice exams, your next attempt will likely be more successful.

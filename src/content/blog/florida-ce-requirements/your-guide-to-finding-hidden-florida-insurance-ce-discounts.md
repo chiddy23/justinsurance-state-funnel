@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Nataliya Vaitkevich on Pexels
 ---
 
-In your quest to renew your Florida insurance license, every cost-saving strategy matters. Continuing education requirements can be more expensive than anticipated, which is why it is worthwhile to uncover lesser-known discounts. By exploring the right offers and promotions, you can save significantly on your Florida insurance CE courses and fulfill your requirements without breaking the bank.
+In your quest to renew your [Florida insurance license](/florida), every cost-saving strategy matters. Continuing education requirements can be more expensive than anticipated, which is why it is worthwhile to uncover lesser-known discounts. By exploring the right offers and promotions, you can save significantly on your [Florida insurance CE](/florida/continuing-education) courses and fulfill your requirements without breaking the bank.
 
 ## Recognize the value of discounts
 
@@ -62,7 +62,7 @@ When you choose an online-only format, you also save on travel expenses and can 
 3.  Can I combine multiple discounts?  
     Providers often limit you to one discount or promo code at a time. However, it never hurts to ask. If the provider’s policies allow stacking two offers, you could save even more. Always check the terms and conditions listed on the provider’s site or call their support line.
 4.  Do online courses meet the same requirements as in-person classes?  
-    Most providers ensure their online courses meet Florida’s continuing education requirements, but confirm the provider’s state approval status to be safe. Check any official approval numbers provided or read the details on the course description. If you have any doubts, contact the Florida Department of Financial Services to confirm.
+    Most providers ensure their online courses meet Florida’s continuing education requirements, but confirm the provider’s state approval status to be safe. Check any official approval numbers provided or read the details on the course description. If you have any doubts, contact the [Florida Department of Financial Services](/florida/requirements) to confirm.
 5.  What if I have last-minute CE requirements?  
     Some discount deals apply to both live and self-paced classes. If you are close to your deadline, look for fast-track or on-demand options. While it is ideal to plan ahead, last-minute courses can still be affordable if you spot a timely promotion or discount code.
 

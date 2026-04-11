@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by Alex Green on Pexels
 ---
 
-If you’re ready to pursue an exciting new career path, it’s important to fully understand the Tennessee insurance license requirements before you dive in. Whether you plan to tackle life and health or property and casualty lines, your next steps will involve some formal education, a licensing exam, and a bit of paperwork. A streamlined approach can make the entire process simpler—especially if you know what to expect. Below, you’ll find a helpful roadmap to get you from curious candidate to newly licensed insurance professional.
+If you’re ready to pursue an exciting new career path, it’s important to fully understand the [Tennessee insurance license requirements](/tennessee/requirements) before you dive in. Whether you plan to tackle life and health or property and casualty lines, your next steps will involve some formal education, a licensing exam, and a bit of paperwork. A streamlined approach can make the entire process simpler—especially if you know what to expect. Below, you’ll find a helpful roadmap to get you from curious candidate to newly licensed insurance professional.
 
 ## Confirm your eligibility
 
@@ -58,7 +58,7 @@ Receiving your license is a major milestone, but your work doesn’t end there. 
 
 To avoid any last-minute scrambles, consider setting reminders as soon as you’re licensed. Map out which courses you’ll take and ensure they’re all approved for Tennessee’s CE requirements. Consistent compliance not only helps you renew on time but also keeps your knowledge current so you can offer sound advice to your clients.
 
-## FAQs about Tennessee insurance license requirements
+## FAQs about [Tennessee insurance license](/tennessee) requirements
 
 1.  Which lines of insurance can I get licensed for in Tennessee?  
     Tennessee offers licenses for several lines of authority. Common types include life, health, property, and casualty insurance. You can opt for one line at a time or pursue multiple lines if you’d like to expand your skill set.

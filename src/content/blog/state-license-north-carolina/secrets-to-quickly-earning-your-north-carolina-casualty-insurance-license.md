@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-Keywords: north carolina casualty insurance license
+Keywords: [north carolina casualty insurance license](/north-carolina)
 
 ## Understand the licensing basics
 
@@ -35,7 +35,7 @@ Your first move is to ensure you meet the state’s basic standards for licensin
 -   Complete fingerprinting and a background check
 -   Submit an application and fee
 
-Always double-check these criteria on the North Carolina Department of Insurance website or trusted local resources. If you spot any specific paperwork or fee changes, take care of them right away to keep your progress on track.
+Always double-check these criteria on the [North Carolina Department of Insurance](/north-carolina/requirements) website or trusted local resources. If you spot any specific paperwork or fee changes, take care of them right away to keep your progress on track.
 
 Most people find it reassuring to gather necessary documents and schedule fingerprinting early. Handling these steps up front will save you from rushing at the last minute. You’ll also feel confident knowing you’ve met every requirement before moving on.
 

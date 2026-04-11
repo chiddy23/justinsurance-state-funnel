@@ -37,7 +37,7 @@ Tuition can vary, so consider shopping around for a program that meets your budg
 
 ## Prepare for your licensing exam
 
-Once you finish your pre-licensing hours, you can register for the state licensing exam. This test generally includes multiple-choice questions, and you’ll receive a pass or fail score right away. The content you studied during your pre-licensing course will be directly tested, so make sure to review those materials in the week leading up to your exam.
+Once you finish your pre-licensing hours, you can register for the state licensing exam. This test generally includes multiple-choice questions, and you’ll receive a pass or fail score right away. The content you studied during your [pre-licensing course](/prelicensing) will be directly tested, so make sure to review those materials in the week leading up to your exam.
 
 The cost of the exam typically ranges from about $50 to $100, but it may be higher in some states. You might also pay a separate fee to file your application after you pass. Below is a quick glance at what you can expect:
 
@@ -81,7 +81,7 @@ When you’ve built a strong foundation, it’s time to officially launch your i
 
 As a new agent, it’s natural to feel nervous during your first client meetings or policy consultations. However, the insurance business is all about consistent progress. Each conversation, whether it leads to a sale or not, helps you refine your approach. Over time, you’ll develop a clearer understanding of common client concerns, and you’ll become more adept at tailoring recommendations.
 
-Never overlook opportunities to sharpen your skills. As regulations and industry standards evolve, continuing education is essential. Most states require you to renew your license every couple of years, often by completing additional coursework. This ensures you stay up to date and remain an informed advocate for your clients.
+Never overlook opportunities to sharpen your skills. As regulations and industry standards evolve, continuing education is essential. Most states require you to [renew your license](/continuing-education) every couple of years, often by completing additional coursework. This ensures you stay up to date and remain an informed advocate for your clients.
 
 It’s also wise to review emerging insurance trends. For instance, telehealth coverage or cybersecurity insurance might gain traction, prompting new training or licensing options. Staying alert to these developments ensures that you’re always one step ahead. Your dedication to providing accurate information will set you apart and build trust with current and future clients.
 

@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Ron Lach on Pexels
 ---
 
-Meeting your Texas insurance CE requirements does not have to be stressful or time-consuming. With a solid strategy in place, you can quickly complete your continuing education credits and keep your license active. Below, you will find a step-by-step approach to help you cut through the noise and stay focused on the most efficient ways to fulfill your obligations.
+Meeting your [Texas insurance CE requirements](/texas/continuing-education) does not have to be stressful or time-consuming. With a solid strategy in place, you can quickly complete your continuing education credits and keep your license active. Below, you will find a step-by-step approach to help you cut through the noise and stay focused on the most efficient ways to fulfill your obligations.
 
 ## Understand the Texas insurance CE basics
 
@@ -51,8 +51,8 @@ If you realize you are about to miss a deadline due to unforeseen circumstances,
 
 ## Frequently asked questions
 
-1.  How many continuing education hours do I need for my Texas insurance license?  
-    The specific hours depend on your license type and often include mandatory ethics and specialty topics. You will want to confirm the exact total on the Texas Department of Insurance website or through a reliable CE provider.
+1.  How many continuing education hours do I need for my [Texas insurance license](/texas)?  
+    The specific hours depend on your license type and often include mandatory ethics and specialty topics. You will want to confirm the exact total on the [Texas Department of Insurance](/texas/requirements) website or through a reliable CE provider.
 2.  Can I complete all my CE courses online?  
     Yes, you can often fulfill most—if not all—of your CE requirements through online courses. However, always double-check with the provider to confirm that their online courses are approved by the state.
 3.  What happens if I miss my CE deadline?  

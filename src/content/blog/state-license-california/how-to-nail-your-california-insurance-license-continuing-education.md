@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
-Securing your California insurance license continuing education doesn’t have to be a daunting task. With a solid roadmap and the right support, you can fulfill these requirements while strengthening your expertise in the insurance field. Whether you’re renewing your existing license or aiming to add more lines of authority, you’ll find that each step contributes to your professional growth and success. Think of it as an opportunity to expand your skills, not just a checkbox on your to-do list.
+Securing your [California insurance license](/california) continuing education doesn’t have to be a daunting task. With a solid roadmap and the right support, you can fulfill these requirements while strengthening your expertise in the insurance field. Whether you’re renewing your existing license or aiming to add more lines of authority, you’ll find that each step contributes to your professional growth and success. Think of it as an opportunity to expand your skills, not just a checkbox on your to-do list.
 
 ## Know your continuing education basics
 
@@ -28,7 +28,7 @@ Most courses you’ll encounter focus on the real-world challenges you face dail
 
 ## Meet the California requirements
 
-To begin, double-check your license’s renewal date. The California Department of Insurance (CDI) may send reminders, but relying solely on email prompts can lead to last-minute scrambles if your inbox misses an update. In general, you’ll want to finish your CE before the deadline to avoid late penalties or even a lapse in your license.
+To begin, double-check your license’s renewal date. The [California Department of Insurance](/california/requirements) (CDI) may send reminders, but relying solely on email prompts can lead to last-minute scrambles if your inbox misses an update. In general, you’ll want to finish your CE before the deadline to avoid late penalties or even a lapse in your license.
 
 Keep in mind:
 

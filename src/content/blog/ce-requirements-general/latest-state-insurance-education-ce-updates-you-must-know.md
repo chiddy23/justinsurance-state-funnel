@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
-## Understand the new CE requirements
+## Understand the new [CE requirements](/continuing-education)
 
 If you are an insurance agent actively seeking to renew your license, you have likely noticed recent state insurance education CE updates. These changes, rolling out across different states, affect everything from the number of hours you must complete to which subject areas you need to cover. While staying compliant might sound overwhelming, keeping up with these updates is much simpler if you break them down into manageable steps. By understanding your obligations early, you reduce stress, avoid last-minute rushes, and maintain your professional credibility.
 

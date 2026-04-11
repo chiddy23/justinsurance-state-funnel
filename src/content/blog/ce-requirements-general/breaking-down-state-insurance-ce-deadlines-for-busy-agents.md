@@ -23,7 +23,7 @@ By understanding key deadlines and setting up systems to track them, you’ll sa
 
 ## Understand your CE timeline
 
-Your CE timeline starts the moment you sit for your licensing exam. In most cases, once you’ve passed and received your license, the clock begins ticking toward your first renewal. From then on, you’ll typically have a set number of months or years to complete your continuing education credits before your license expires.
+Your CE timeline starts the moment you sit for your [licensing exam](/prelicensing). In most cases, once you’ve passed and received your license, the clock begins ticking toward your first renewal. From then on, you’ll typically have a set number of months or years to complete your continuing education credits before your license expires.
 
 A common mistake is focusing solely on the total hours required while overlooking the renewal date. Some states have specific cycles like biennial or triennial deadlines, and others follow your birth month. The final due date might also shift if it falls on a weekend or holiday, so it’s essential to confirm the exact cutoff in your home state.
 
@@ -151,4 +151,4 @@ Most CE providers supply a completion certificate. Keep a file—digital or pape
 
 Navigating state insurance CE deadlines can feel like a full-time job on top of your existing workload, but you don’t have to do it alone. At JustInsurance, we believe in making professional development both accessible and effective. When you’re ready to plan your path to compliance, consider exploring CE packages that fit your busy schedule and learning style.
 
-Get started today so you can focus on growing your business instead of worrying about missed deadlines. You’ll find that the peace of mind is worth every minute you invest in staying current. Take your next step now and make sure your CE requirements are squared away long before your license renewal date arrives.
+Get started today so you can focus on growing your business instead of worrying about missed deadlines. You’ll find that the peace of mind is worth every minute you invest in staying current. Take your next step now and make sure your [CE requirements](/continuing-education) are squared away long before your license renewal date arrives.

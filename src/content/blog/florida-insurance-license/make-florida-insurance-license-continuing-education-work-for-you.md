@@ -20,7 +20,7 @@ imageCredit: Photo by PeopleByOwen on Pexels
 
 ## Explore the importance of continuing education
 
-Florida insurance license continuing education is more than just a box you check every renewal cycle. It helps you deepen your expertise, stay on top of regulatory changes, and remain a trusted adviser for clients. When you understand what the state of Florida requires and how to meet those standards, you position yourself for a long, successful career in the industry.
+[Florida insurance license](/florida) continuing education is more than just a box you check every renewal cycle. It helps you deepen your expertise, stay on top of regulatory changes, and remain a trusted adviser for clients. When you understand what the state of Florida requires and how to meet those standards, you position yourself for a long, successful career in the industry.
 
 Continuing education also keeps you relevant in a rapidly evolving market. Insurance products and guidelines can change quickly, and regular coursework ensures you stay current rather than playing catch-up. Commit to a positive mindset around ongoing learning now, and you will discover that growth becomes an exciting part of your professional journey.
 
@@ -32,7 +32,7 @@ Once you have confirmed your basic eligibility, you can register for the mandato
 
 ## Complete the pre-licensing steps
 
-To become a licensed insurance agent in Florida, you must fulfill specific pre-licensing requirements. These requirements can vary based on the type of insurance you plan to sell, but most lines require a set number of credit hours. For instance, if you choose life and health insurance, you will complete a different set of coursework than you would for property and casualty.
+To become a licensed insurance agent in Florida, you must fulfill specific [pre-licensing requirements](/florida/prelicensing). These requirements can vary based on the type of insurance you plan to sell, but most lines require a set number of credit hours. For instance, if you choose life and health insurance, you will complete a different set of coursework than you would for property and casualty.
 
 Rather than rushing to find the fastest option, choose a course provider that teaches you both the core topics needed to pass your exam and the practical knowledge to serve clients well. You will usually study topics like state regulations, policy provisions, ethical standards, and underwriting basics, so look for programs that dedicate ample time to each area. When you finish, you should feel capable of translating those lessons into real client interactions.
 

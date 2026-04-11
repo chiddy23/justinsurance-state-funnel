@@ -15,11 +15,11 @@ imageAlt: Family sitting on couch having a meeting with a real estate agent indo
 imageCredit: Photo by Alena Darmel on Pexels
 ---
 
-Master Description: Master the Illinois insurance licensing process with friendly help so you can earn your license quickly.
+Master Description: Master the [Illinois insurance](/illinois) licensing process with friendly help so you can earn your license quickly.
 
 To begin your Illinois insurance licensing process, you need to confirm that you meet the state’s basic eligibility requirements. In most cases, you must be at least 18 years old and a resident of Illinois. You should also be prepared to pass a background check, which may include fingerprinting.
 
-It’s a good idea to review the Illinois Department of Insurance’s website for the most current guidelines. Requirements can change occasionally, and verifying details early helps you avoid surprises. If you have any doubts or concerns, contact the department directly to clarify what you need before moving forward.
+It’s a good idea to review the [Illinois Department of Insurance](/illinois/requirements)’s website for the most current guidelines. Requirements can change occasionally, and verifying details early helps you avoid surprises. If you have any doubts or concerns, contact the department directly to clarify what you need before moving forward.
 
 ## Identify your license type
 

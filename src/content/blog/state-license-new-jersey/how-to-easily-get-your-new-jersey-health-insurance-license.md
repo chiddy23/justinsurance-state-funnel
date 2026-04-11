@@ -15,7 +15,7 @@ imageAlt: A diverse team collaborates on a workspace board with charts and plans
 imageCredit: Photo by Monstera Production on Pexels
 ---
 
-If you’re aiming for a New Jersey health insurance license, you’ll be happy to know the process is straightforward with the right preparation. Once you meet the state’s basic eligibility requirements, you can move quickly through pre-licensing, exams, and paperwork. In the end, you’ll have the knowledge and credentials needed to help individuals and families find the coverage they truly need.
+If you’re aiming for a [New Jersey health insurance license](/new-jersey), you’ll be happy to know the process is straightforward with the right preparation. Once you meet the state’s basic eligibility requirements, you can move quickly through pre-licensing, exams, and paperwork. In the end, you’ll have the knowledge and credentials needed to help individuals and families find the coverage they truly need.
 
 Securing a health insurance license can feel intimidating if you’ve never gone through a licensing process before. The good news is that New Jersey’s regulations are designed to ensure you’re well-prepared for the real-world situations you’ll face as an agent. Below, you’ll find a step-by-step guide to help you navigate everything from pre-licensing courses to applying for your official license. By following these tips, you’ll be on your way to launching a rewarding new career in insurance.
 
@@ -47,7 +47,7 @@ On exam day, arrive early and bring a valid, government-issued photo ID. You’l
 
 ## Complete your application
 
-Once you’ve passed the state exam, congratulations are in order. You’ll want to submit your official license application to the New Jersey Department of Banking and Insurance as soon as possible. Typically, you fill out an online application, pay the licensing fee, and upload any supporting documents that the state requires. This can include your photo ID, proof of pre-licensing completion, and test scores.
+Once you’ve passed the state exam, congratulations are in order. You’ll want to submit your official license application to the [New Jersey Department of Banking and Insurance](/new-jersey/requirements) as soon as possible. Typically, you fill out an online application, pay the licensing fee, and upload any supporting documents that the state requires. This can include your photo ID, proof of pre-licensing completion, and test scores.
 
 The application process is relatively quick, and you’ll usually receive your license in digital form once it’s approved. Make a note of your license number, as you’ll need it when you work with clients, insurance carriers, or potential employers. At this point, you’re well on your way to helping New Jersey residents secure the health insurance coverage they need.
 

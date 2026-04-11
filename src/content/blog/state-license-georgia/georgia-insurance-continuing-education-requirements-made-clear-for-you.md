@@ -16,17 +16,17 @@ imageAlt: Mother and daughter consulting with a doctor in a modern home setting.
 imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
-By the time you dive into Georgia insurance continuing education requirements, you might already have a sense of what it takes to keep your license active in this state. Still, understanding each step can feel like a puzzle when you have so many details to manage – especially if you are new to the insurance world. The good news is that meeting Georgia’s CE rules is simpler than you might think once you have a clear roadmap.
+By the time you dive into [Georgia insurance continuing education](/georgia/continuing-education) requirements, you might already have a sense of what it takes to keep your license active in this state. Still, understanding each step can feel like a puzzle when you have so many details to manage – especially if you are new to the insurance world. The good news is that meeting Georgia’s CE rules is simpler than you might think once you have a clear roadmap.
 
 Whether you are just getting started in the field or want to stay compliant with changing regulations, focusing on both short-term tasks and long-term planning can save you from unnecessary headaches. Below, you will find the key steps you need to follow, from securing your initial license to scheduling future courses that keep you up to date.
 
 ## Get familiar with licensing steps
 
-Before you fulfill your continuing education obligations, you first need to obtain your Georgia insurance license. A few straightforward tasks will help you get there.
+Before you fulfill your continuing education obligations, you first need to obtain your [Georgia insurance license](/georgia). A few straightforward tasks will help you get there.
 
 You will begin by taking a pre-licensing course, which covers the specific lines of insurance you plan to sell. Each course involves a set number of hours, typically taken online or in person, depending on your preference. While the tuition costs can vary, you can usually expect to pay a fee for the course materials plus the exam. Once you have completed your pre-licensing hours, you will register for and pass the state license exam, which tests you on Georgia insurance laws and standard industry practices.
 
-Depending on your background, you may also need to submit a fingerprint or background check. Ensure you budget both time and costs for these tasks. After you pass the exam and verify your background, you will apply for your license with the Georgia Office of Insurance and Safety Fire Commissioner. Each of these steps can be completed relatively quickly, but it helps to start early so you avoid last-minute stress.
+Depending on your background, you may also need to submit a fingerprint or background check. Ensure you budget both time and costs for these tasks. After you pass the exam and verify your background, you will apply for your license with the [Georgia Office of Insurance and Safety Fire Commissioner](/georgia/requirements). Each of these steps can be completed relatively quickly, but it helps to start early so you avoid last-minute stress.
 
 ## Understand continuing education rules
 

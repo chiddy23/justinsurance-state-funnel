@@ -20,7 +20,7 @@ imageAlt: >-
 imageCredit: Photo by Erick Ortega on Pexels
 ---
 
-Your Washington insurance license application process can feel overwhelming at first, especially if you are new to the insurance industry. Fortunately, breaking it down into manageable steps ensures you cover each requirement and move forward with confidence. Below, you will find a friendly, straightforward guide to help you navigate this important milestone in your insurance career.
+Your [Washington insurance license](/washington) application process can feel overwhelming at first, especially if you are new to the insurance industry. Fortunately, breaking it down into manageable steps ensures you cover each requirement and move forward with confidence. Below, you will find a friendly, straightforward guide to help you navigate this important milestone in your insurance career.
 
 ## Understand the basics
 
@@ -42,7 +42,7 @@ If you anticipate needing any special accommodations for the exam, this is also 
 
 ## Schedule and pass the exam
 
-When you have your pre-licensing done and documents prepared, you are ready to tackle the Washington insurance licensing exam. You will pick a testing date through a state-approved exam provider. Plan ahead—exam slots can fill quickly, especially during peak times of the year.
+When you have your pre-licensing done and documents prepared, you are ready to tackle the [Washington insurance licensing exam](/washington/requirements). You will pick a testing date through a state-approved exam provider. Plan ahead—exam slots can fill quickly, especially during peak times of the year.
 
 If test-taking anxiety is a concern, try to give yourself enough study time before the exam date. Reviewing sample questions and practice exams can help you get familiar with the format and pinpoint any weak areas. On exam day, pace yourself, read each question carefully, and re-check your answers if you have time.
 

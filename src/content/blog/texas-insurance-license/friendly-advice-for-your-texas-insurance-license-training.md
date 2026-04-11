@@ -17,7 +17,7 @@ imageCredit: Photo by Anna Shvets on Pexels
 
 ## Understand licensure basics
 
-Embarking on your Texas insurance license training may feel overwhelming at first, but understanding the process helps you begin with confidence. One of the first things you need to know is that the Texas Department of Insurance (TDI) requires pre-licensing coursework before you can register for your state exam. This coursework is designed to provide a solid foundation, covering important insurance terms, regulations, and ethics. You will also learn about different lines of authority, such as life insurance or property and casualty, so you can decide which area suits you best.
+Embarking on your [Texas insurance license](/texas) training may feel overwhelming at first, but understanding the process helps you begin with confidence. One of the first things you need to know is that the Texas Department of Insurance (TDI) requires pre-licensing coursework before you can register for your state exam. This coursework is designed to provide a solid foundation, covering important insurance terms, regulations, and ethics. You will also learn about different lines of authority, such as life insurance or property and casualty, so you can decide which area suits you best.
 
 The pre-licensing phase isn’t just about cramming information. It’s about gaining practical knowledge that directly applies to your career in insurance. By having a clear sense of the rules and responsibilities, you’ll feel less stress when exam day arrives. Most importantly, you’ll be much better prepared to handle real-world insurance scenarios once you’re fully licensed.
 
@@ -29,7 +29,7 @@ It may help to set clear milestones to track your progress. For example, you mig
 
 ## Complete your required coursework
 
-Once your schedule is set, it’s time to dive into the actual coursework. Make sure you choose a state-approved provider with a track record of guiding learners through the Texas insurance licensing requirements. Most providers offer online modules, textbooks, or a combination of both. That flexibility can be a game-changer if you’re studying around a busy schedule or prefer learning at your own pace.
+Once your schedule is set, it’s time to dive into the actual coursework. Make sure you choose a state-approved provider with a track record of guiding learners through the [Texas insurance licensing requirements](/texas/requirements). Most providers offer online modules, textbooks, or a combination of both. That flexibility can be a game-changer if you’re studying around a busy schedule or prefer learning at your own pace.
 
 Consider setting aside dedicated study blocks, free from distractions like social media or TV. During these blocks, highlight the main points in your material and take detailed notes you can revisit later. It’s also a good idea to quiz yourself regularly, because repetition reinforces memory. With consistent review, you’ll remember essential statutes, definitions, and procedures much more easily.
 

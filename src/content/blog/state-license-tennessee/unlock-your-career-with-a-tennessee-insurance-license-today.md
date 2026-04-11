@@ -19,7 +19,7 @@ imageCredit: Photo by Engin Akyurt on Pexels
 
 ## Understand the opportunity
 
-A Tennessee insurance license opens the door to a flexible and rewarding career path. You not only help people protect their families, homes, and businesses, but you also position yourself for long-term growth in a robust industry. By earning your license, you become eligible to work with top insurance carriers, offer specialized coverage, and build lasting client relationships.
+A [Tennessee insurance license](/tennessee) opens the door to a flexible and rewarding career path. You not only help people protect their families, homes, and businesses, but you also position yourself for long-term growth in a robust industry. By earning your license, you become eligible to work with top insurance carriers, offer specialized coverage, and build lasting client relationships.
 
 When you think about it, this field can suit many lifestyles. Whether you are a career changer seeking something more stable or a newcomer eager to learn a new trade, insurance can offer a fresh start. You get the chance to explore different lines of authority, such as life and health or property and casualty, depending on where your interests lie.
 
@@ -43,7 +43,7 @@ Study thoroughly as each exam covers specific regulations, ethical practices, an
 
 ## Submit your licensing application
 
-After you pass your exam, you will complete a licensing application through the Tennessee Department of Commerce and Insurance. This step usually involves paying a processing fee and confirming you have passed both your background check and the required test. Make sure to include all necessary identification and documentation, because any missing items can delay your approval.
+After you pass your exam, you will complete a licensing application through the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). This step usually involves paying a processing fee and confirming you have passed both your background check and the required test. Make sure to include all necessary identification and documentation, because any missing items can delay your approval.
 
 It usually takes a short while for the state to issue your license, although processing times vary. During this waiting period, you might prepare your résumé or start networking with local agencies so you can be ready to jump into work as soon as your certification is official.
 

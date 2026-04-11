@@ -16,11 +16,11 @@ imageAlt: A man in a city skyscraper office using a laptop with a cityscape view
 imageCredit: Photo by cottonbro studio on Pexels
 ---
 
-Keywords: north carolina insurance licensing requirements
+Keywords: [north carolina insurance licensing requirements](/north-carolina/requirements)
 
 ## Understand licensing fundamentals
 
-Meeting North Carolina insurance licensing requirements may feel daunting at first, but once you break it down, you’ll see it’s a straightforward process. If you’re a resident looking to become licensed for the first time, knowing exactly what’s involved will help you avoid surprises and get you on track from day one. Ultimately, the goal is to ensure you’re well-prepared to serve clients responsibly and confidently once you start working in the insurance field.
+Meeting [North Carolina insurance](/north-carolina) licensing requirements may feel daunting at first, but once you break it down, you’ll see it’s a straightforward process. If you’re a resident looking to become licensed for the first time, knowing exactly what’s involved will help you avoid surprises and get you on track from day one. Ultimately, the goal is to ensure you’re well-prepared to serve clients responsibly and confidently once you start working in the insurance field.
 
 Insurance licensing in North Carolina is regulated by the North Carolina Department of Insurance. They outline the specific types of licenses, such as Life, Accident and Health, Property, or Casualty. Each license type has its own guidelines, so the first step is determining which lines of authority you want to pursue. If you choose multiple lines, you’ll likely need to meet distinct requirements for each one.
 
@@ -58,7 +58,7 @@ Protects against liability
 
 Auto, General liability
 
-## Complete pre-licensing requirements
+## Complete [pre-licensing requirements](/north-carolina/prelicensing)
 
 Before you can sign up for the state exam, you must fulfill a set number of pre-licensing hours in your chosen lines of authority. These courses cover the core principles, ethics, and regulations required to pass the exam and practice insurance safely. You can take your pre-licensing classes in person or online, depending on your preference and learning style.
 

@@ -95,7 +95,7 @@ If you notice that something’s off, reach out right away. It’s better to fix
 
 ## Push your progress with helpful resources
 
-Nobody expects you to memorize every licensing rule or remember every detail from your pre-licensing course. Turn to these resources when questions pop up:
+Nobody expects you to memorize every licensing rule or remember every detail from your [pre-licensing course](/prelicensing). Turn to these resources when questions pop up:
 
 -   Your state insurance department website.
 -   Peer forums or local study groups.
@@ -114,7 +114,7 @@ Here are five common questions people have after passing their insurance exam:
 3.  “Am I allowed to practice while my application is pending?”  
     In most states, you must wait for your official license number before conducting any insurance business. Practicing prematurely could lead to penalties or delays.
 4.  “Do I need continuing education (CE) right away?”  
-    You typically don’t need CE credits until you’ve been licensed for a certain period. However, confirming your state’s CE requirements early is wise, since you’ll have to renew your license periodically.
+    You typically don’t need CE credits until you’ve been licensed for a certain period. However, confirming your state’s [CE requirements](/continuing-education) early is wise, since you’ll have to renew your license periodically.
 5.  “Why is my background check taking so long?”  
     Delays can happen if records need clarification or if there’s a backlog at processing centers. Communication is key. If you sense a hold-up, contact the agency to see if more information is needed.
 

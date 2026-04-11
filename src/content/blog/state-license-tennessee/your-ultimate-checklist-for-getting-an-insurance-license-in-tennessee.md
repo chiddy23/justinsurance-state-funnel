@@ -29,7 +29,7 @@ You might be new to the insurance world or simply exploring a fresh opportunity.
 Below is a clear path to follow. It’s designed to make each crucial step in the licensing process feel more achievable and less overwhelming.
 
 1.  Confirm you meet eligibility requirements  
-    Tennessee typically requires you to be at least 18 years old, reside in or plan to conduct business in the state, and have a clean criminal record. Make sure you have valid identification and a Social Security number. It’s also wise to review the official guidelines from the Tennessee Department of Commerce and Insurance to confirm that you’re eligible.
+    Tennessee typically requires you to be at least 18 years old, reside in or plan to conduct business in the state, and have a clean criminal record. Make sure you have valid identification and a Social Security number. It’s also wise to review the official guidelines from the [Tennessee Department of Commerce and Insurance](/tennessee/requirements) to confirm that you’re eligible.
 2.  Choose the right license type for you  
     Before diving into pre-licensing courses, decide which lines of authority you want to sell. Popular options include Life, Accident & Health or Property & Casualty. You can get both, but note that each license may have distinct exam requirements. Picking the correct focus upfront will keep you from juggling multiple applications later.
 3.  Complete your required pre-licensing courses  
@@ -39,7 +39,7 @@ Below is a clear path to follow. It’s designed to make each crucial step in th
 5.  Pass the exam with confidence  
     On exam day, arrive at least 30 minutes early to handle any check-in procedures. You’ll typically answer multiple-choice questions covering terminology, state-specific regulations, and policy scenarios. Remember that partial knowledge can trip you up, so commit to a thorough study plan beforehand. Once you pass, you’ll receive an exam score report which you’ll need for your application.
 6.  Submit your license application  
-    With your exam passed, you can file your application online through the official state portal. Make sure to include all necessary documentation, such as your exam results and application fee. If everything is in order, your license should be issued soon afterward. At this point, you can legally pursue work as a Tennessee insurance producer.
+    With your exam passed, you can file your application online through the official state portal. Make sure to include all necessary documentation, such as your exam results and application fee. If everything is in order, your license should be issued soon afterward. At this point, you can legally pursue work as a [Tennessee insurance producer](/tennessee).
 7.  Maintain your credentials long-term  
     Even after you’re licensed, the journey doesn’t end. Tennessee requires you to complete continuing education (CE) courses to keep your license active. Set calendar reminders to start your CE in plenty of time. Staying current with CE helps you keep up with industry changes, so you can continue providing top-quality service.
 

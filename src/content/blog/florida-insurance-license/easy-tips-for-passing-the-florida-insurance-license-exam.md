@@ -15,7 +15,7 @@ imageAlt: Senior man engaging with consultants at a business meeting indoors.
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-If you plan to become a licensed insurance agent in Florida, having a clear florida insurance license study guide is one of the most effective ways to prepare. It can feel intimidating at first—there are rules to learn, pre-licensing steps to complete, and exams to schedule. The good news is that with the right approach, you can tackle each step confidently and achieve your goal of working in Florida’s insurance industry.
+If you plan to become a licensed insurance agent in Florida, having a clear [florida insurance license](/florida) study guide is one of the most effective ways to prepare. It can feel intimidating at first—there are rules to learn, pre-licensing steps to complete, and exams to schedule. The good news is that with the right approach, you can tackle each step confidently and achieve your goal of working in Florida’s insurance industry.
 
 Below, you will find a straightforward path toward your license, from understanding basic requirements to setting yourself up for success on exam day. By the end, you will know exactly what to do next and how to keep moving forward with your new credential.
 
@@ -25,7 +25,7 @@ Before picking up any textbooks, it is helpful to know why the Florida insurance
 
 Florida has its own guidelines for insurance licensing, so be sure you are fully aware of the subjects covered on the exam you plan to take. Each license type has its own areas of emphasis and targeted knowledge that insurers expect you to understand. Identifying these early lets you study the right material without wasting time on content that is not directly tested.
 
-## Meet pre-licensing requirements
+## Meet [pre-licensing requirements](/florida/prelicensing)
 
 Florida requires you to complete a pre-licensing course approved by the Department of Financial Services. These courses vary in length depending on the license you want—commonly, they can range from 40 to 60 hours for lines like life or health insurance. Most instruction is available online, making it convenient to schedule around your other commitments.
 
@@ -37,7 +37,7 @@ Even if you already have some insurance knowledge, the official pre-licensing co
 
 After meeting your pre-licensing requirements, it is time to put together a personalized florida insurance license study guide. You might be tempted to jump straight into exam practice, but a structured guide helps you absorb information faster and more thoroughly.
 
-Start by compiling the core topics that will appear on your exam. Look to your course materials, state-specific outlines, and any official bulletins from the Florida Department of Financial Services. Then, decide how to tackle each topic. Some people prefer reading textbooks, while others rely on flashcards or recorded lectures. Pick the method that best fits your learning style.
+Start by compiling the core topics that will appear on your exam. Look to your course materials, state-specific outlines, and any official bulletins from the [Florida Department of Financial Services](/florida/requirements). Then, decide how to tackle each topic. Some people prefer reading textbooks, while others rely on flashcards or recorded lectures. Pick the method that best fits your learning style.
 
 Be sure to keep track of your daily or weekly progress. Break down your schedule into manageable segments, focusing on one concept or chapter at a time. This keeps you consistent and helps prevent information overload. You will also be able to see which areas need more review, so you can circle back and reinforce your understanding before the exam.
 

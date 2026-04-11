@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-Keywords: north carolina insurance license renewal
+Keywords: [north carolina insurance license](/north-carolina) renewal
 
 Navigating the north carolina insurance license renewal and initial licensing process might feel intimidating at first. But with the right approach and a little organization, it becomes much simpler than you’d expect. This guide walks you through it step by step, from preparing for your first exam to making sure you stay compliant with ongoing requirements. You’ll discover how to fulfill official prerequisites, schedule the test, track costs, and plan for renewals so you’re never caught off guard. By the end, you’ll understand exactly what to expect and how to keep your license active for the long run.
 
@@ -26,9 +26,9 @@ Navigating the north carolina insurance license renewal and initial licensing pr
 
 Before focusing on renewals, it helps to know the path you’ll take to get your license in the first place. In North Carolina, you typically need to complete a specific set of pre-licensing steps to become eligible for the state exam. You’ll pick the type of insurance license you want—like life, health, property, or casualty—and then follow the education requirements for that category.
 
-Having a clear grasp of what the North Carolina Department of Insurance expects lets you streamline your prep time. You’ll learn exactly which documents to collect, how many hours of pre-licensing education you’ll need, and how to handle background checks if required. Once you see the process laid out in front of you, it won’t seem so complicated.
+Having a clear grasp of what the [North Carolina Department of Insurance](/north-carolina/requirements) expects lets you streamline your prep time. You’ll learn exactly which documents to collect, how many hours of pre-licensing education you’ll need, and how to handle background checks if required. Once you see the process laid out in front of you, it won’t seem so complicated.
 
-## Meet the pre-licensing requirements
+## Meet the [pre-licensing requirements](/north-carolina/prelicensing)
 
 Nearly every insurance license aspirant in North Carolina must complete a state-approved pre-licensing course. This is your chance to build a solid foundation of knowledge so you’ll feel confident during the exam. Courses commonly cover policy types, state regulations, ethics, and any specialized content for your chosen line of authority.
 

@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Kindel Media on Pexels
 ---
 
-Are you looking to launch a rewarding career in insurance? Finding the best NJ insurance pre-licensing classes is a crucial first step toward earning your New Jersey insurance license. Whether you hope to specialize in life, health, property, casualty, or another line of authority, completing the state’s required education sets you on the path to success. Below, you will find clear guidance on the licensing process, along with tips on choosing a pre-licensing course and what to expect when exam day arrives.
+Are you looking to launch a rewarding career in insurance? Finding the best NJ insurance pre-licensing classes is a crucial first step toward earning your [New Jersey insurance license](/new-jersey). Whether you hope to specialize in life, health, property, casualty, or another line of authority, completing the state’s required education sets you on the path to success. Below, you will find clear guidance on the licensing process, along with tips on choosing a pre-licensing course and what to expect when exam day arrives.
 
 ## Explore why a license matters
 
@@ -28,7 +28,7 @@ If you eventually wish to add additional lines of insurance—such as property, 
 
 ## Confirm your requirements
 
-Before you begin your pre-licensing journey, it is wise to understand the basic requirements set by the New Jersey Department of Banking and Insurance. Typically, you need to:
+Before you begin your pre-licensing journey, it is wise to understand the basic requirements set by the [New Jersey Department of Banking and Insurance](/new-jersey/requirements). Typically, you need to:
 
 1.  Be at least 18 years old.
 2.  Complete a certain number of hours of pre-licensing education for each line of authority (for instance, life or health).

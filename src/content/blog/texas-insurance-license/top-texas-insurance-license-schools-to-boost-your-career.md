@@ -17,17 +17,17 @@ imageAlt: >-
 imageCredit: Photo by cottonbro studio on Pexels
 ---
 
-When you think about launching a career in insurance, exploring the best Texas insurance license schools can be a game-changer. Whether you are looking to sell auto, life, health, or property insurance, getting licensed in Texas requires following a few important steps. Below, you will learn about each stage of earning your license, from meeting basic requirements to selecting a pre-licensing program that matches your learning style. By the end, you will feel more confident about your journey and know how to move forward with resources like JustInsurance.
+When you think about launching a career in insurance, exploring the best [Texas insurance license](/texas) schools can be a game-changer. Whether you are looking to sell auto, life, health, or property insurance, getting licensed in Texas requires following a few important steps. Below, you will learn about each stage of earning your license, from meeting basic requirements to selecting a pre-licensing program that matches your learning style. By the end, you will feel more confident about your journey and know how to move forward with resources like JustInsurance.
 
 ## Understand Texas license basics
 
-Before diving into any coursework, it helps to know exactly what a Texas insurance license entails. The Texas Department of Insurance (TDI) oversees the licensing process for producers across all insurance lines, including life and health, property and casualty, and more specialized areas.
+Before diving into any coursework, it helps to know exactly what a Texas insurance license entails. The [Texas Department of Insurance](/texas/requirements) (TDI) oversees the licensing process for producers across all insurance lines, including life and health, property and casualty, and more specialized areas.
 
 Each line of insurance is unique, so you will want to confirm which type of coverage you plan to sell. Most new agents start with either life insurance or property and casualty, but it depends on your career goals. You can always add lines later, giving you the flexibility to grow your expertise over time.
 
 Additionally, anyone seeking to become a licensed insurance agent in Texas must be at least 18 years old and a resident of the state (or a non-resident who meets Texas guidelines). You will also need to pass a background check that verifies your trustworthiness with clients’ financial and personal information.
 
-## Meet pre-licensing requirements
+## Meet [pre-licensing requirements](/texas/prelicensing)
 
 Texas, like most states, mandates specific coursework before you can sit for the licensing exam. Requirements vary depending on the license you are pursuing. For example, life and health insurance applicants and property and casualty applicants often need a certain number of hours in an approved pre-licensing course. These classes will break down insurance terminology, state regulations, policy structures, and ethical standards you must uphold.
 

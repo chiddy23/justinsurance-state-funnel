@@ -15,11 +15,11 @@ imageAlt: Business professionals discussing documents in a modern meeting room.
 imageCredit: Photo by Vlada Karpovich on Pexels
 ---
 
-Whether you recently decided to become an insurance agent or you have a longstanding interest in the field, your California insurance license application can feel like a big step. There are several stages to the process, from confirming your eligibility to actually preparing for exam day. Fortunately, each phase is straightforward once you understand what to expect. This guide will walk you through every step, so you can approach the application confidently and set yourself up for success in the insurance industry.
+Whether you recently decided to become an insurance agent or you have a longstanding interest in the field, your [California insurance license](/california) application can feel like a big step. There are several stages to the process, from confirming your eligibility to actually preparing for exam day. Fortunately, each phase is straightforward once you understand what to expect. This guide will walk you through every step, so you can approach the application confidently and set yourself up for success in the insurance industry.
 
 ## Meet the basic requirements
 
-Before working through the details of your california insurance license application, be sure you meet the general criteria set by the California Department of Insurance. First, you typically need to be at least 18 years old. You also should be prepared to undergo a background check, which will look at any criminal or financial issues. Next, consider whether you have the time to fulfill the educational and testing requirements that must be completed before the state officially grants you a license.
+Before working through the details of your california insurance license application, be sure you meet the general criteria set by the [California Department of Insurance](/california/requirements). First, you typically need to be at least 18 years old. You also should be prepared to undergo a background check, which will look at any criminal or financial issues. Next, consider whether you have the time to fulfill the educational and testing requirements that must be completed before the state officially grants you a license.
 
 If you have questions about whether something in your background might be a barrier, the California Department of Insurance often posts guidelines to clarify what could prevent licensure. In many cases, minor issues do not disqualify you, but certain felonies or unresolved financial matters could delay or complicate your application. By clarifying these points now, you can move forward without surprises later.
 

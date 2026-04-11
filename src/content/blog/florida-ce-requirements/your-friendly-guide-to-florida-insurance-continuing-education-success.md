@@ -18,7 +18,7 @@ imageCredit: Photo by Pavel Danilyuk on Pexels
 
 Understand your continuing education requirements
 
-If you have your Florida insurance license, completing continuing education (CE) is essential to maintain it. Florida insurance continuing education ensures you stay updated on new regulations and industry best practices, so you can provide clients with the best possible service. You’ll find that the Florida Department of Financial Services typically requires a set number of credit hours every two years, which usually includes an important ethics component.
+If you have your [Florida insurance license](/florida), completing continuing education (CE) is essential to maintain it. [Florida insurance continuing education](/florida/continuing-education) ensures you stay updated on new regulations and industry best practices, so you can provide clients with the best possible service. You’ll find that the [Florida Department of Financial Services](/florida/requirements) typically requires a set number of credit hours every two years, which usually includes an important ethics component.
 
 Along with standard refresher courses, you can explore specialized topics like annuities, life insurance benefits, or health coverage updates. The goal is to deepen your industry knowledge and maintain a valid license in good standing.
 

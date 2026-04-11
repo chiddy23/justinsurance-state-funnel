@@ -69,7 +69,7 @@ Before making a final decision, consider consulting with a professional experien
 
 ## Get licensed and appointed
 
-Earning the appropriate licenses is a critical step in how to start an insurance agency. You likely already hold at least one insurance license if you plan to write coverage. However, you may need multiple licenses if you intend to sell different lines, such as property and casualty, life, or health. State requirements vary, and you will need to stay current on continuing education to maintain your license.
+Earning the appropriate licenses is a critical step in how to start an insurance agency. You likely already hold at least one [insurance license](/prelicensing) if you plan to write coverage. However, you may need multiple licenses if you intend to sell different lines, such as property and casualty, life, or health. State requirements vary, and you will need to stay current on continuing education to maintain your license.
 
 Beyond licensing, you will also need to secure appointments with one or more carriers. An appointment allows you to sell policies on behalf of that insurance company. When selecting which carriers to partner with:
 

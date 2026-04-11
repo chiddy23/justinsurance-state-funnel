@@ -16,7 +16,7 @@ imageAlt: A joyful woman proudly displays an adoption certificate.
 imageCredit: Photo by olia danilevich on Pexels
 ---
 
-Natural light doesn’t just brighten an apartment, it can also revitalize your insurance career—especially when you consider how critical it is to stay current with state-specific insurance CE courses. Meeting continuing education requirements can feel complicated, but it doesn’t have to be overwhelming. By understanding the rules in your state and choosing courses that address your needs (and possible specialties), you’ll maintain a valid license and enhance your services for clients who trust your expertise.
+Natural light doesn’t just brighten an apartment, it can also revitalize your insurance career—especially when you consider how critical it is to stay current with state-specific insurance CE courses. Meeting [continuing education requirements](/continuing-education) can feel complicated, but it doesn’t have to be overwhelming. By understanding the rules in your state and choosing courses that address your needs (and possible specialties), you’ll maintain a valid license and enhance your services for clients who trust your expertise.
 
 Below you’ll find everything you need to know about meeting CE requirements in a way that respects your busy schedule. Think of it as a roadmap, guiding you from basic regulations to picking the right provider. By the end, you’ll see how easy it can be to plan your coursework, earn credits, and take your career to the next level.
 

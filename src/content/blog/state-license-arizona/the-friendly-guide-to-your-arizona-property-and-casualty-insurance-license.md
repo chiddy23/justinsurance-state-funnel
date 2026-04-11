@@ -50,9 +50,9 @@ On the day of the exam, try to arrive 15 to 30 minutes early. This little cushio
 
 ## Submitting your license application
 
-Congratulations on passing the exam. Your next step is to complete the license application process, which typically includes a background check and fingerprinting. You’ll file your application with the Arizona Department of Insurance and Financial Institutions, either online or by mail. Be sure to review all instructions carefully so you don’t miss any paperwork.
+Congratulations on passing the exam. Your next step is to complete the license application process, which typically includes a background check and fingerprinting. You’ll file your application with the [Arizona Department of Insurance and Financial Institutions](/arizona/requirements), either online or by mail. Be sure to review all instructions carefully so you don’t miss any paperwork.
 
-Processing times vary, but in many cases, you’ll know your status within a couple of weeks. Once your license is approved, you’re officially authorized to discuss and sell property and casualty insurance in Arizona. Keep a copy of your license number handy—you’ll need it any time you apply for appointments with insurance carriers.
+Processing times vary, but in many cases, you’ll know your status within a couple of weeks. Once your license is approved, you’re officially authorized to discuss and sell property and casualty [insurance in Arizona](/arizona). Keep a copy of your license number handy—you’ll need it any time you apply for appointments with insurance carriers.
 
 ## Maintaining and renewing your license
 

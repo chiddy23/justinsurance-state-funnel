@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Gustavo Fring on Pexels
 ---
 
-Master Description: Compare your license options with our friendly Illinois insurance license comparison guide and get licensed
+Master Description: Compare your license options with our friendly [Illinois insurance license](/illinois) comparison guide and get licensed
 
   
 Whether you are just getting started or exploring options to switch specialties, this Illinois insurance license comparison can help you figure out which path suits your needs best. By examining the different license types, the course requirements, and the costs, you will have a clear picture of how to move forward. Plus, understanding the process upfront saves you from surprises later on and keeps you focused on your goals.
@@ -64,7 +64,7 @@ Auto, liability, legal responsibility
 
 Note that taking a combined Life & Health or Property & Casualty license typically requires 40 total hours if you decide to pursue both at once. However, some people prefer to handle them one at a time to avoid overload. Ultimately, your choice comes down to how focused or broad you want your client work to be.
 
-## Review the pre-licensing requirements
+## Review the [pre-licensing requirements](/illinois/prelicensing)
 
 Once you have pinned down the license or combination you want, the official next step is to complete your mandatory pre-licensing coursework. In Illinois, this typically involves 20 hours of training per insurance line, with at least 7.5 of those hours delivered through a live or interactive format. That means you can study online through self-study modules, but you also need something more hands-on, like webinars or in-person classes.
 

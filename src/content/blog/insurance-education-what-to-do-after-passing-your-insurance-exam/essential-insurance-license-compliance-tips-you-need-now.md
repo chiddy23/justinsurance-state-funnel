@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by cottonbro studio on Pexels
 ---
 
-Earning your insurance license is a significant achievement, but the work does not stop at passing the exam. A licensed agent is held to ongoing standards that protect clients and the public alike. Understanding your insurance license compliance obligations from day one — covering everything from appointment requirements to renewal deadlines to recordkeeping — keeps your career on solid ground. By building good habits early, you will safeguard your professional reputation and be free to focus on growing your practice.
+Earning your [insurance license](/prelicensing) is a significant achievement, but the work does not stop at passing the exam. A licensed agent is held to ongoing standards that protect clients and the public alike. Understanding your insurance license compliance obligations from day one — covering everything from appointment requirements to renewal deadlines to recordkeeping — keeps your career on solid ground. By building good habits early, you will safeguard your professional reputation and be free to focus on growing your practice.
 
 ## Understand licensing basics
 
@@ -33,7 +33,7 @@ Finally, do not let your insurance license application process slip through the 
 
 Once you have your license in hand, the next big responsibility is to fulfill continuing education (CE) requirements. These requirements are not optional, they are a critical part of the profession. States mandate a specific number of CE credits that must be completed within each renewal cycle. If you fail to finish them on schedule, you risk losing your license or facing penalties that might hurt your business.
 
-Seek out CE courses that align with your area of expertise. This is your chance to learn more about new products, stay current on the latest regulations, or improve your sales skills. Many organizations offer online courses that let you study at your own pace. If you prefer a live learning environment, you can also explore in-person seminars or training sessions. The key is to find a format that works for you and to schedule these courses well ahead of any deadlines.
+Seek out [CE courses](/continuing-education) that align with your area of expertise. This is your chance to learn more about new products, stay current on the latest regulations, or improve your sales skills. Many organizations offer online courses that let you study at your own pace. If you prefer a live learning environment, you can also explore in-person seminars or training sessions. The key is to find a format that works for you and to schedule these courses well ahead of any deadlines.
 
 Do not forget to file your completed CE credits. Most states use third-party tracking systems, and it is ultimately your job to verify that your credits are accurately recorded. Set up reminders on your calendar or phone to ensure you stay consistent. The goal is to keep your skills sharp and your license in the clear, which builds trust with both clients and carriers.
 

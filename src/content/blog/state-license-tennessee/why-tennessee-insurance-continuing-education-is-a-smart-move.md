@@ -19,13 +19,13 @@ imageCredit: Photo by MART  PRODUCTION on Pexels
 
 ## Understand the CE requirements
 
-Tennessee insurance continuing education can feel like just another task on your to-do list, but it’s actually an essential part of your professional journey. In Tennessee, the Department of Commerce and Insurance typically requires licensed agents to complete a set number of CE hours every two years. This ensures that you stay updated and well-versed in the latest policies, regulations, and industry changes.
+[Tennessee insurance continuing education](/tennessee/continuing-education) can feel like just another task on your to-do list, but it’s actually an essential part of your professional journey. In Tennessee, the Department of Commerce and Insurance typically requires licensed agents to complete a set number of CE hours every two years. This ensures that you stay updated and well-versed in the latest policies, regulations, and industry changes.
 
 You’ll find that meeting Tennessee’s CE requirements is easier when you plan ahead. Many providers offer online courses you can take at your own pace, so you can fit your studies around client meetings or family time. Even when your schedule seems packed, staying on top of continuing education keeps you in good standing with the state and ultimately protects your clients’ best interests.
 
 ## Keep your license active
 
-No one likes the idea of a professional license lapsing unexpectedly. Tennessee insurance continuing education requirements play a key role in ensuring your license remains valid. When you keep up with your CE hours, you won’t have to worry about last-minute scrambles to regain active status or pay unnecessary fees. Instead, you’ll move through renewal periods smoothly and maintain the trust of both clients and carriers.
+No one likes the idea of a professional license lapsing unexpectedly. [Tennessee insurance](/tennessee) continuing education requirements play a key role in ensuring your license remains valid. When you keep up with your CE hours, you won’t have to worry about last-minute scrambles to regain active status or pay unnecessary fees. Instead, you’ll move through renewal periods smoothly and maintain the trust of both clients and carriers.
 
 If you hold multiple lines of authority, you’ll want to confirm how many hours are assigned to each line. That way, you’ll never face an unpleasant surprise at renewal time. Rather than seeing CE courses as an extra burden, think of them as your insurance against costly disruptions. By proactively scheduling your coursework, you can rest assured that your professional credentials stay intact.
 
@@ -55,7 +55,7 @@ You might even qualify for new roles within your agency or be asked to mentor ju
 Below are five questions many people have when planning their Tennessee insurance continuing education. If you’ve had concerns about the process, these answers will likely put your mind at ease.
 
 1.  How often do I need to complete CE?  
-    In most cases, you need to fulfill CE courses every two years before your license renewal deadline. Be sure to verify specific timelines with the Tennessee Department of Commerce and Insurance, as they vary by license type.
+    In most cases, you need to fulfill CE courses every two years before your license renewal deadline. Be sure to verify specific timelines with the [Tennessee Department of Commerce and Insurance](/tennessee/requirements), as they vary by license type.
 2.  Can I choose my own courses?  
     Yes. You can usually select courses that interest you, as long as they’re approved by the state. Most agents blend mandatory core topics, like ethics, with elective courses that strengthen their particular line of authority.
 3.  What happens if I miss my CE deadline?  

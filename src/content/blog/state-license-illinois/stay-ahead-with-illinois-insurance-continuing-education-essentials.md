@@ -16,7 +16,7 @@ imageAlt: Group of professionals in a boardroom engaged in a focused business me
 imageCredit: Photo by MART  PRODUCTION on Pexels
 ---
 
-Illinois insurance continuing education plays a pivotal role in maintaining a valid license and staying informed about industry standards. Whether you are just beginning the licensing process or renewing your existing credentials, focusing on your ongoing education ensures you can confidently serve clients across the state. Below, you will discover key steps and insights that help you comply with Illinois requirements, plan your continuing education goals effectively, and invest in your career.
+[Illinois insurance continuing education](/illinois/continuing-education) plays a pivotal role in maintaining a valid license and staying informed about industry standards. Whether you are just beginning the licensing process or renewing your existing credentials, focusing on your ongoing education ensures you can confidently serve clients across the state. Below, you will discover key steps and insights that help you comply with Illinois requirements, plan your continuing education goals effectively, and invest in your career.
 
 ## Know your continuing education foundations
 
@@ -24,14 +24,14 @@ A strong grasp of continuing education (CE) requirements helps you navigate impo
 
 Many agents find CE courses helpful not only for meeting state requirements but also for refreshing product knowledge and learning new industry trends. The right CE program can strengthen your credibility, making clients more confident in your advice and reinforcing your reputation as a reliable resource. You benefit personally by cultivating deeper expertise, while your clients receive the most up-to-date information on coverage options.
 
-## Step by step to get your Illinois insurance license
+## Step by step to get your [Illinois insurance license](/illinois)
 
 If you are still on the path to becoming a licensed insurance producer in Illinois, knowing the basic application steps ensures a smoother process. Many prospective agents find it helpful to break down each task into manageable chunks:
 
 1.  Complete the pre-licensing education: Illinois requires a certain number of pre-licensing hours, usually split between different types of coverage. Make sure you sign up for an approved course that matches your chosen lines of authority, such as life and health or property and casualty.
 2.  Schedule the exam: Once you finish your required hours, schedule your licensing exam with an approved testing provider. Give yourself extra study time to review practice questions and class materials.
 3.  Take the licensing exam: Arrive early on test day, bring proper identification, and stay focused. Passing scores demonstrate your mastery of the core insurance principles you’ll need in the field.
-4.  Apply to the Illinois Department of Insurance: After passing the exam, submit your application and pay the necessary fees. Take note of the instructions for each coverage type, as requirements can differ slightly depending on what you plan to sell.
+4.  Apply to the [Illinois Department of Insurance](/illinois/requirements): After passing the exam, submit your application and pay the necessary fees. Take note of the instructions for each coverage type, as requirements can differ slightly depending on what you plan to sell.
 5.  Complete a background check: You typically need to complete a fingerprint-based background check or produce relevant documents to prove you meet the state’s standards of trustworthiness and reliability.
 6.  Maintain your new license: Once issued, you can market your services and serve clients in your chosen lines of authority. From here, you are ready for the upcoming renewal cycles and continuing education courses.
 

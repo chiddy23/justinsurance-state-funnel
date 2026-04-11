@@ -16,7 +16,7 @@ imageAlt: Confident businesswoman analyzing documents indoors in an office setti
 imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
-So you’re ready to earn your California property and casualty license. This step can lead you toward an exciting career in the insurance field, helping clients protect their homes, vehicles, and businesses. While it may feel daunting at first, the process is actually straightforward once you understand each requirement.
+So you’re ready to earn your [California property and casualty license](/california). This step can lead you toward an exciting career in the insurance field, helping clients protect their homes, vehicles, and businesses. While it may feel daunting at first, the process is actually straightforward once you understand each requirement.
 
 ## Gather eligibility requirements
 

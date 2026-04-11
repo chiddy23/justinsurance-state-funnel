@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Ryan Beirne on Pexels
 ---
 
-You may have heard that the Florida insurance license requirements can feel overwhelming at first. The good news is that the process becomes much easier once you know what to expect. Whether you plan to sell life insurance, health insurance, property and casualty, or a combination of these, understanding the steps in advance helps you move forward with confidence. Below, you will find a friendly, step-by-step guide to meeting Florida’s key requirements and earning your license.
+You may have heard that the [Florida insurance license requirements](/florida/requirements) can feel overwhelming at first. The good news is that the process becomes much easier once you know what to expect. Whether you plan to sell life insurance, health insurance, property and casualty, or a combination of these, understanding the steps in advance helps you move forward with confidence. Below, you will find a friendly, step-by-step guide to meeting Florida’s key requirements and earning your license.
 
 ## Check basic eligibility criteria
 
@@ -27,7 +27,7 @@ Generally, you must be at least 18 years old and a legal resident of Florida or 
 
 ## Complete your pre-licensing education
 
-Florida has separate pre-licensing requirements for different lines of insurance, such as life, health, and property and casualty. These courses equip you with the knowledge needed to pass the exam and serve your future clients responsibly. You can take these courses online or in a classroom, depending on your learning style and schedule.
+Florida has separate [pre-licensing requirements](/florida/prelicensing) for different lines of insurance, such as life, health, and property and casualty. These courses equip you with the knowledge needed to pass the exam and serve your future clients responsibly. You can take these courses online or in a classroom, depending on your learning style and schedule.
 
 The table below offers a quick look at the typical course hour requirements for popular license types:
 
@@ -79,7 +79,7 @@ If you have any past legal issues, do not panic. Being transparent and submittin
 
 ## Maintain your license
 
-Getting your Florida insurance license is only the beginning of your professional journey. To stay in good standing with the state, you need to meet continuing education (CE) requirements. CE courses ensure that your knowledge remains current and that you are aware of changes in insurance laws, rules, and industry trends.
+Getting your [Florida insurance license](/florida) is only the beginning of your professional journey. To stay in good standing with the state, you need to meet continuing education (CE) requirements. CE courses ensure that your knowledge remains current and that you are aware of changes in insurance laws, rules, and industry trends.
 
 You may be required to complete a certain number of CE hours every two years. For instance, life and health license holders might take a short course on emerging medical coverage options, while property and casualty licensees might have to study updated flood insurance regulations. Keeping your license active is simpler if you plan your continuing education throughout the renewal cycle, rather than rushing toward the deadline.
 

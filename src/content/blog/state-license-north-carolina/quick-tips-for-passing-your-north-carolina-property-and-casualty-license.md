@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Kindel Media on Pexels
 ---
 
-Keywords:north carolina property and casualty license
+Keywords:[north carolina property and casualty license](/north-carolina)
 
 ## Understand the exam prerequisites
 
@@ -34,7 +34,7 @@ Look for courses offered by reputable providers that focus on interactivity, suc
 
 ## Schedule your exam
 
-Once you finish your pre-licensing program, you are ready to schedule your state exam. You will typically register through an approved testing service, so confirm the process on the official North Carolina Department of Insurance website. Aim to book your test date a week or two in advance to get your preferred time slot, especially if you plan to test on weekends or wish to avoid busy periods.
+Once you finish your pre-licensing program, you are ready to schedule your state exam. You will typically register through an approved testing service, so confirm the process on the official [North Carolina Department of Insurance](/north-carolina/requirements) website. Aim to book your test date a week or two in advance to get your preferred time slot, especially if you plan to test on weekends or wish to avoid busy periods.
 
 When selecting a test day, consider your personal schedule so you can give yourself time to review. If you have a demanding workweek, it may be helpful to choose an early weekend appointment so you can focus on final prep sessions without rushing.
 

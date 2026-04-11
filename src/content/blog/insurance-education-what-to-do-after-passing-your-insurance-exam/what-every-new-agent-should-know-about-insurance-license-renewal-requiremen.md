@@ -34,7 +34,7 @@ Each state sets its own renewal cycle, typically ranging from one to two years. 
 
 Keeping track of key dates is simpler when you create a calendar reminder or set an alert on your phone. If you hold multiple licenses, make sure to note each of their renewal timelines. The easier it is to see your deadlines coming up, the less likely you are to face last-minute stress.
 
-## Meet continuing education requirements
+## Meet [continuing education requirements](/continuing-education)
 
 Continuing education (CE) is at the heart of most insurance license renewal requirements. It ensures that you stay informed on ever-changing regulations, industry trends, and best practices. Each state has a required number of CE credit hours, and these often include coursework in ethics or specific insurance topics relevant to your license lines.
 
@@ -63,7 +63,7 @@ Starting at least 60 to 90 days before your license expiration date is a smart t
 If your license lapses, you are no longer authorized to sell insurance or earn commissions on new business. Any policies requiring an active licensed agent may need to be reassigned, which can disrupt client relationships. Renewing on time protects both your business and your clients.
 
 **Do I need to retake any exams when I renew?**
-In most states, you do not need to retake the licensing exam during a standard renewal as long as your license remains continuously active and you fulfill your CE requirements. If your license expires and you need to reapply from scratch, an exam may be required.
+In most states, you do not need to retake the [licensing exam](/prelicensing) during a standard renewal as long as your license remains continuously active and you fulfill your CE requirements. If your license expires and you need to reapply from scratch, an exam may be required.
 
 **Where can I find my state's exact renewal requirements?**
 Your state's department of insurance website is the most reliable source. Many states also offer licensee portals where you can check your current license status, CE credit totals, and upcoming deadlines all in one place.

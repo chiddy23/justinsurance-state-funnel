@@ -19,7 +19,7 @@ imageCredit: Photo by Anastasia  Shuraeva on Pexels
 
 ## Understand the licensing requirements
 
-Choosing the best California insurance license schools starts with knowing the prerequisites for your insurance license. In California, you generally need to be at least 18 years old and clear any required background checks before you can earn a license. Since the state wants to ensure you fully grasp insurance processes and regulations, you must take a pre-licensing education course approved by the California Department of Insurance (CDI). This course covers essential topics like insurance ethics, state regulations, and consumer protection.
+Choosing the best [California insurance license](/california) schools starts with knowing the prerequisites for your insurance license. In California, you generally need to be at least 18 years old and clear any required background checks before you can earn a license. Since the state wants to ensure you fully grasp insurance processes and regulations, you must take a pre-licensing education course approved by the [California Department of Insurance](/california/requirements) (CDI). This course covers essential topics like insurance ethics, state regulations, and consumer protection.
 
 A typical pre-licensing course includes a specific number of study hours mandated by the state. If you’re going for a Life-Only license, for example, you often need 20 hours of general insurance education plus 12 hours of ethics training. Timelines vary by license type, so you’ll want to verify how many hours you must complete. Once you finish the coursework, you’ll receive a certificate that allows you to sit for the official licensing exam.
 

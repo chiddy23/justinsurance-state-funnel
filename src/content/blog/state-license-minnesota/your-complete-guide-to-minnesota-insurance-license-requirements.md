@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by energepic.com on Pexels
 ---
 
-Getting your Minnesota insurance license requirements squared away can feel challenging at first, but once you understand the process, you are well on your way to a rewarding insurance career. Whether you are interested in life and health or property and casualty, having the right knowledge puts you in the driver’s seat. Below, you will find a clear step-by-step guide to help you meet all the necessary requirements and move forward with confidence.
+Getting your [Minnesota insurance license requirements](/minnesota/requirements) squared away can feel challenging at first, but once you understand the process, you are well on your way to a rewarding insurance career. Whether you are interested in life and health or property and casualty, having the right knowledge puts you in the driver’s seat. Below, you will find a clear step-by-step guide to help you meet all the necessary requirements and move forward with confidence.
 
 ## Understand the licensing process
 
@@ -49,7 +49,7 @@ In many cases, you will have access to study guides, quizzes, and practice exams
 
 ## Schedule and pass your exam
 
-Once you have satisfied the pre-licensing requirements, you can register for your Minnesota insurance licensing exam. You will need to pick a testing date, pay the exam fee, and ensure that you have proper identification on test day. Exam locations may vary. Check your nearest testing center or see if the state offers remote exam options.
+Once you have satisfied the [pre-licensing requirements](/minnesota/prelicensing), you can register for your Minnesota insurance licensing exam. You will need to pick a testing date, pay the exam fee, and ensure that you have proper identification on test day. Exam locations may vary. Check your nearest testing center or see if the state offers remote exam options.
 
 It is natural to feel some pre-exam jitters. However, focused practice makes a big difference. To set yourself up for success:
 
@@ -74,7 +74,7 @@ Make sure to track your CE credits to avoid any lapses. Missing your renewal dea
 
 ## Frequently asked questions
 
-Below are five common questions that often pop up when taking the first steps toward a Minnesota insurance license:
+Below are five common questions that often pop up when taking the first steps toward a [Minnesota insurance license](/minnesota):
 
 1.  How long does the entire licensing process take?  
     The timeline varies widely from person to person. Pre-licensing education can span a few weeks, depending on how fast you complete the course material. After passing your exam, the application typically takes a few days or weeks to process.

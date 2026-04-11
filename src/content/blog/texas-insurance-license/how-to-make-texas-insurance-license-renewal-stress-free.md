@@ -15,7 +15,7 @@ imageAlt: A hand signs a formal contract with a pen on a wooden desk.
 imageCredit: Photo by Pixabay on Pexels
 ---
 
-Whether you’re renewing for the first time or the fifth, navigating Texas insurance license renewal can feel a bit overwhelming. With regulations to follow, documents to gather, and education requirements to meet, it sometimes feels like there are too many steps. The good news is that a systematic approach can reduce stress and help ensure you remain in good standing as an insurance professional.
+Whether you’re renewing for the first time or the fifth, navigating [Texas insurance license](/texas) renewal can feel a bit overwhelming. With regulations to follow, documents to gather, and education requirements to meet, it sometimes feels like there are too many steps. The good news is that a systematic approach can reduce stress and help ensure you remain in good standing as an insurance professional.
 
 ## Understand Texas licensing basics
 
@@ -81,7 +81,7 @@ Another frequent mistake unfolds when licensees forget to update personal data s
 
 ## Where to find additional help
 
-If you prefer guidance, consider reaching out to industry associations or insurance professional networks. Colleagues often have experience dealing with the same challenges you face, from picking the right CE provider to scheduling exam dates. When in doubt, you can also speak with the Texas Department of Insurance to clarify any renewal-related questions.
+If you prefer guidance, consider reaching out to industry associations or insurance professional networks. Colleagues often have experience dealing with the same challenges you face, from picking the right CE provider to scheduling exam dates. When in doubt, you can also speak with the [Texas Department of Insurance](/texas/requirements) to clarify any renewal-related questions.
 
 In addition, companies like JustInsurance offer resources to keep you current with state requirements and training courses. Access to a streamlined platform can ease the paperwork load and make you feel more confident as you file each form.
 

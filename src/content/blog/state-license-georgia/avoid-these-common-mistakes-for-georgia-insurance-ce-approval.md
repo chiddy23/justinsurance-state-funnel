@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Minh Phuc on Pexels
 ---
 
-If you are seeking Georgia insurance CE approval to maintain or obtain your license, you may already know that meeting the state’s strict requirements can feel daunting. It is tempting to rush through the process or assume you have everything handled. Yet a single oversight can cause serious delays, wasted money, and ongoing frustration. By taking a methodical approach and learning from others’ slip-ups, you can ensure your efforts in continuing education (CE) lead to a smooth and successful outcome.
+If you are seeking [Georgia insurance CE](/georgia/continuing-education) approval to maintain or obtain your license, you may already know that meeting the state’s strict requirements can feel daunting. It is tempting to rush through the process or assume you have everything handled. Yet a single oversight can cause serious delays, wasted money, and ongoing frustration. By taking a methodical approach and learning from others’ slip-ups, you can ensure your efforts in continuing education (CE) lead to a smooth and successful outcome.
 
 Below, you will find the key steps you need for licensing and renewal, along with common pitfalls to avoid.
 
@@ -29,7 +29,7 @@ Being selective now can prevent headaches later. Approved courses will issue cer
 
 ## Meet basic licensing requirements
 
-If you have not yet gotten your Georgia insurance license, focusing on licensing before CE is the first order of business. You will need to complete any necessary pre-licensing courses, pay exam fees, and pass state exams that test your insurance knowledge. It is wise to start planning at least a few months in advance to account for:
+If you have not yet gotten your [Georgia insurance license](/georgia), focusing on licensing before CE is the first order of business. You will need to complete any necessary pre-licensing courses, pay exam fees, and pass state exams that test your insurance knowledge. It is wise to start planning at least a few months in advance to account for:
 
 1.  Pre-licensing education. Georgia requires a specific number of hours in pre-licensing coursework for each line of authority (such as Life, Health, or Property and Casualty).
 2.  State exam scheduling. The licensing exam can book up quickly, especially around peak times. Scheduling well ahead prevents last-minute stress.

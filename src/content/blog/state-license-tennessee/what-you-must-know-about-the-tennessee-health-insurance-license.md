@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by cottonbro studio on Pexels
 ---
 
-If you’re ready to pursue a fulfilling career as an insurance agent in Tennessee, understanding the Tennessee health insurance license process is your first big step. You might be wondering about the requirements, the exams, and how to keep your new license in good standing once you’ve passed. This guide will walk you through each step, so you can concentrate on what matters most—helping clients access the coverage they need for a secure future.
+If you’re ready to pursue a fulfilling career as an insurance agent in Tennessee, understanding the [Tennessee health insurance license](/tennessee) process is your first big step. You might be wondering about the requirements, the exams, and how to keep your new license in good standing once you’ve passed. This guide will walk you through each step, so you can concentrate on what matters most—helping clients access the coverage they need for a secure future.
 
 Along the way, you’ll discover key details on pre-licensing education, exam preparation, and license maintenance. Think of this as your friendly roadmap. It’s designed to break down the key steps, clear up any confusion, and give you the confidence you need to launch your insurance career in the Volunteer State.
 
@@ -33,7 +33,7 @@ As a licensed health insurance agent, you become a helpful resource for individu
 
 Before you can sign up for the official state exam, Tennessee requires you to complete a set amount of pre-licensing education. Courses vary in length, covering topics like state insurance regulations, policy provisions, ethics, and the fundamentals of health coverage. These classes are designed to ensure you fully grasp the responsibilities of an insurance agent before you start working with clients.
 
-When searching for a pre-licensing course provider, check that it’s officially approved by the Tennessee Department of Commerce and Insurance. Whether you prefer in-person learning, live webinars, or online modules, flexibility is usually available. Focus on staying consistent with your study schedule—treat each lesson as a building block toward exam success.
+When searching for a pre-licensing course provider, check that it’s officially approved by the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Whether you prefer in-person learning, live webinars, or online modules, flexibility is usually available. Focus on staying consistent with your study schedule—treat each lesson as a building block toward exam success.
 
 ## Schedule and pass the exam
 

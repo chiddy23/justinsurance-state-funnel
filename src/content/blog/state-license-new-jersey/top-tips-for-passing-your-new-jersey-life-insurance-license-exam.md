@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-If you dream of helping others secure their financial future, becoming a licensed life insurance agent in New Jersey is a significant first step. Getting your New Jersey life insurance license might feel overwhelming at first, but with a solid study plan and a focused strategy, you can pass the exam and start your new career with confidence. Below, you will find a clear, step-by-step guide that explains exactly what you need to know, from pre-licensing coursework to exam-day preparation.
+If you dream of helping others secure their financial future, becoming a licensed life insurance agent in New Jersey is a significant first step. Getting your [New Jersey life insurance license](/new-jersey) might feel overwhelming at first, but with a solid study plan and a focused strategy, you can pass the exam and start your new career with confidence. Below, you will find a clear, step-by-step guide that explains exactly what you need to know, from pre-licensing coursework to exam-day preparation.
 
 ## Check your eligibility requirements
 
@@ -28,7 +28,7 @@ Before you dive into test prep, make sure you are qualified to apply for a life 
 2.  Verify your legal residency or citizenship status.
 3.  Provide any necessary background information, such as criminal history, if required.
 
-It is also helpful to visit the New Jersey Department of Banking and Insurance website for the most current regulations. By meeting basic eligibility criteria, you avoid surprises later and can focus on studying for the exam.
+It is also helpful to visit the [New Jersey Department of Banking and Insurance](/new-jersey/requirements) website for the most current regulations. By meeting basic eligibility criteria, you avoid surprises later and can focus on studying for the exam.
 
 ## Complete the required education
 

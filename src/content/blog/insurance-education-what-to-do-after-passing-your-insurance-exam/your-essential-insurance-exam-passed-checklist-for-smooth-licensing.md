@@ -44,7 +44,7 @@ Below are a few documents you may need to prepare:
 
 -   Proof of passing the state insurance exam
 -   Government-issued photo ID (driver’s license, passport, etc.)
--   Pre-licensing education certificate (if required by your state)
+-   [Pre-licensing education](/prelicensing) certificate (if required by your state)
 -   Any other relevant training or certification records
 
 Use a checklist to mark off each piece of documentation you have on file. A simple spreadsheet or notes app on your phone can ensure nothing slips through the cracks.
@@ -65,7 +65,7 @@ It is helpful to itemize your fees in advance. That way, you will know exactly h
 
 Once licensed, many states expect you to complete continuing education (CE) on a regular cycle. This is the key to staying current on industry changes, product updates, and ethical standards. Even if you just passed your exam, it is never too soon to investigate which CE courses will be most beneficial for your practice.
 
-Some jurisdictions allow you to begin earning CE credits as soon as your license is granted. Others may have specific guidelines about what topics or providers they recognize. Justinsurance can help you connect with curated resources that align with your state’s CE requirements, making it easier to stay on top of your ongoing education.
+Some jurisdictions allow you to begin earning CE credits as soon as your license is granted. Others may have specific guidelines about what topics or providers they recognize. Justinsurance can help you connect with curated resources that align with your state’s [CE requirements](/continuing-education), making it easier to stay on top of your ongoing education.
 
 ## Explore career opportunities
 

@@ -20,7 +20,7 @@ imageCredit: Photo by Anastasia  Shuraeva on Pexels
 
 ## Grasp the basics of your license
 
-Understanding the Virginia property and casualty insurance license is often your first step toward a thriving insurance career. This license authorizes you to sell insurance policies that protect individuals and businesses against property losses and liability claims. For instance, you might help a homeowner prepare for unexpected storm damage or assist a local business in protecting against lawsuits. Because the scope of property and casualty is so broad, having this license in Virginia can open doors to a wide range of opportunities.
+Understanding the Virginia property and casualty insurance license is often your first step toward a thriving insurance career. This license authorizes you to sell insurance policies that protect individuals and businesses against property losses and liability claims. For instance, you might help a homeowner prepare for unexpected storm damage or assist a local business in protecting against lawsuits. Because the scope of property and casualty is so broad, having this [license in Virginia](/virginia) can open doors to a wide range of opportunities.
 
 When you hold a property and casualty license, you manage policies that are essential for financial security. This is especially important for Virginia residents who face the risk of hurricanes on the coast, winter storms in mountainous areas, and the usual day-to-day hazards that come with running a business. By becoming licensed, you position yourself to guide clients through sometimes confusing policy options while building meaningful, long-term relationships.
 
@@ -28,9 +28,9 @@ When you hold a property and casualty license, you manage policies that are esse
 
 Before you dive into the licensing process, confirm you're eligible. At minimum, you need to be at least 18 years old and have a government-issued ID. Virginia is known for its thorough oversight, so you may also need to undergo a background check. Misdemeanor convictions typically don't block you from licensing, but felonies could complicate matters.
 
-If you do have a criminal record, be prepared to provide documentation. Often, the Virginia State Corporation Commission (SCC) will ask for an explanation of your circumstances. Honesty is key, because incomplete or inaccurate disclosures can lead to delays or a rejected application. Check official guidelines for any special conditions or waiting periods.
+If you do have a criminal record, be prepared to provide documentation. Often, the [Virginia State Corporation Commission](/virginia/requirements) (SCC) will ask for an explanation of your circumstances. Honesty is key, because incomplete or inaccurate disclosures can lead to delays or a rejected application. Check official guidelines for any special conditions or waiting periods.
 
-## Complete pre-licensing requirements
+## Complete [pre-licensing requirements](/virginia/prelicensing)
 
 Once you confirm your eligibility, it's time to enroll in a state-approved pre-licensing course. The number of mandatory course hours varies, but typically you need around 20 hours focusing specifically on property and casualty content. This coursework helps you master important topics, from understanding fundamental policy changes to explaining factors that affect policy premiums.
 

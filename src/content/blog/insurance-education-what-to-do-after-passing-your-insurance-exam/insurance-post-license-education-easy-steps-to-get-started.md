@@ -43,7 +43,7 @@ If you’re unsure about any detail, contact your state’s licensing board for 
 
 ## Enroll in a recognized program
 
-When it’s time to pick a post-license program, credibility is everything. You’ll find plenty of options—from online classes to in-person seminars—so look for a provider that is approved by your state’s insurance commission. Verify the course meets all the specified requirements, and double-check that the credits will count toward your license renewal.
+When it’s time to pick a post-license program, credibility is everything. You’ll find plenty of options—from online classes to in-person seminars—so look for a provider that is approved by your state’s insurance commission. Verify the course meets all the specified requirements, and double-check that the credits will count toward your [license renewal](/continuing-education).
 
 Once you have your short list, compare programs on factors like:
 

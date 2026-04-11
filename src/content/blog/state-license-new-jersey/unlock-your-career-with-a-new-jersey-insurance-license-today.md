@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by caffeine on Pexels
 ---
 
-If you are looking to launch a meaningful and stable career in the Garden State, obtaining a New Jersey insurance license can be your defining move. This license not only increases your earning potential, but also gives you the chance to help people navigate important financial and personal decisions. Best of all, becoming a licensed insurance professional might be easier than you think once you understand the steps involved.
+If you are looking to launch a meaningful and stable career in the Garden State, obtaining a [New Jersey insurance license](/new-jersey) can be your defining move. This license not only increases your earning potential, but also gives you the chance to help people navigate important financial and personal decisions. Best of all, becoming a licensed insurance professional might be easier than you think once you understand the steps involved.
 
 Below, you will find a clear road map for getting your new license, from meeting the basic requirements to preparing for the exam and submitting your application. Whether you are fresh out of school or exploring a late-career change, the process can fit into your schedule if you plan strategically. Read on to learn how to start your new journey.
 
@@ -40,11 +40,11 @@ Most individuals who start a new insurance career meet these basic conditions qu
 
 ## Complete your mandatory pre-licensing
 
-Each state sets its own pre-licensing requirements, and New Jersey is no exception. You will need to complete a specific number of hours in an approved training course before you are allowed to register for the exam. The number of hours depends on the type of insurance license you seek. Common lines of authority include Life, Health, and Property & Casualty.
+Each state sets its own [pre-licensing requirements](/new-jersey/prelicensing), and New Jersey is no exception. You will need to complete a specific number of hours in an approved training course before you are allowed to register for the exam. The number of hours depends on the type of insurance license you seek. Common lines of authority include Life, Health, and Property & Casualty.
 
 During your pre-licensing courses, you will gain an understanding of policy types, insurance regulations, ethical standards, and more. This foundation is critical for passing the exam because it helps you interpret the specific questions you will face. Keep in mind that you do not have to speed through the material. Moving at a consistent but steady pace can help you absorb the content more effectively.
 
-Once you finish, your course provider will often administer a certificate of completion. This is a key document you will submit alongside your insurance license application. Check that the course you choose is approved by the New Jersey Department of Banking and Insurance to avoid hiccups later.
+Once you finish, your course provider will often administer a certificate of completion. This is a key document you will submit alongside your insurance license application. Check that the course you choose is approved by the [New Jersey Department of Banking and Insurance](/new-jersey/requirements) to avoid hiccups later.
 
 ## Schedule and pass the exam
 

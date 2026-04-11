@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by khezez  | خزاز on Pexels
 ---
 
-If you’re ready to start a new career path and need your Virginia life insurance license, a few strategic steps can help you feel prepared and confident. You may be surprised that the process is more straightforward than it first appears. By understanding the requirements, exploring study strategies, and choosing resources that fit your learning style, you’ll be on track to pass your exam and begin serving clients throughout Virginia.
+If you’re ready to start a new career path and need your [Virginia life insurance license](/virginia), a few strategic steps can help you feel prepared and confident. You may be surprised that the process is more straightforward than it first appears. By understanding the requirements, exploring study strategies, and choosing resources that fit your learning style, you’ll be on track to pass your exam and begin serving clients throughout Virginia.
 
 ## Understand licensing basics
 

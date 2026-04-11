@@ -98,7 +98,7 @@ Below are some frequently asked questions that come up when people begin prepari
 -   Can I retake the exam if I don’t pass on the first try?  
     Yes, most states allow multiple attempts, but you may need to wait a specified period or pay a retake fee. Make sure to confirm this with your state’s licensing authority.
 -   How important is pre-licensing education?  
-    Pre-licensing courses often cover everything you need to know, and many states make them mandatory. Even if they aren’t required in your jurisdiction, a solid course can drastically improve your exam readiness.
+    [Pre-licensing courses](/prelicensing) often cover everything you need to know, and many states make them mandatory. Even if they aren’t required in your jurisdiction, a solid course can drastically improve your exam readiness.
 -   When can I start using practice tests?  
     You can start practice tests after learning the basics of each topic, or you can integrate them into every stage of your study process. Most people benefit from a blend of early and continuous practice to track progress over time.
 

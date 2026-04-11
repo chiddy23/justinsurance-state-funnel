@@ -34,7 +34,7 @@ By getting familiar with the exam’s breakdown, you reduce the chance of surpri
 
 Once you know how your exam is structured, the next task is creating a solid study plan. You will want to map out daily or weekly goals so that you can keep track of your progress and avoid last-minute cramming. Small, consistent study sessions often work best because they let you absorb information in manageable chunks.
 
-Try to prioritize the most heavily tested areas. If you notice you are struggling with certain concepts, schedule extra review time or seek additional resources. Flashcards and study groups can help break up the monotony of reading text-heavy materials and keep you engaged. If you are taking a pre-licensing course, follow along diligently and ask questions when something is unclear.
+Try to prioritize the most heavily tested areas. If you notice you are struggling with certain concepts, schedule extra review time or seek additional resources. Flashcards and study groups can help break up the monotony of reading text-heavy materials and keep you engaged. If you are taking a [pre-licensing course](/prelicensing), follow along diligently and ask questions when something is unclear.
 
 A schedule also helps reduce stress. By planning ahead, you will know exactly where you stand and when it is time to shift your focus to new material. Steady progress, rather than frantic late-night sessions, tends to yield better results.
 

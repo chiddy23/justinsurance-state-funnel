@@ -20,7 +20,7 @@ imageCredit: Photo by August de Richelieu on Pexels
 
 Insurance CE compliance by state can feel like an endless puzzle, especially when you’re juggling policies and clients every day. Yet continuing education remains one of the most valuable ways to maintain a competitive edge. By renewing your insurance knowledge regularly, you stay current on fresh regulations, best practices, and evolving trends. This not only keeps you compliant, but also helps you better serve your clients.
 
-In many cases, continuing education is mandatory for you to maintain your insurance license. Fulfilling these requirements signals responsibility and professionalism. Your clients want an agent who understands their needs in a changing market, and CE courses empower you to offer relevant advice. Ultimately, investing the time in CE helps you grow your business by strengthening trust and credibility.
+In many cases, continuing education is mandatory for you to maintain your [insurance license](/prelicensing). Fulfilling these requirements signals responsibility and professionalism. Your clients want an agent who understands their needs in a changing market, and CE courses empower you to offer relevant advice. Ultimately, investing the time in CE helps you grow your business by strengthening trust and credibility.
 
 ## Understand varying state rules
 
@@ -93,6 +93,6 @@ Below are common concerns that many agents have when trying to fulfill insurance
 5.  Should I keep paper certificates of completion?  
     It’s a great idea, even if you also store them digitally. Having both paper and electronic records ensures you can quickly produce proof of completion if needed.
 
-Remember, the complexity of different state requirements may feel daunting, but there are plenty of resources to guide you. JustInsurance offers a user-friendly approach to insurance continuing education, helping you manage your credits smoothly and with confidence.
+Remember, the complexity of different state requirements may feel daunting, but there are plenty of resources to guide you. JustInsurance offers a user-friendly approach to [insurance continuing education](/continuing-education), helping you manage your credits smoothly and with confidence.
 
 When you stay on top of your CE responsibilities, you do more than maintain your license—you demonstrate dedication to your career and to your clients’ well-being. If you’re ready to make the process simpler, reach out for tips on finding the right courses and managing each step of your renewal. By planning ahead and keeping good records, you’ll navigate each renewal cycle with ease.

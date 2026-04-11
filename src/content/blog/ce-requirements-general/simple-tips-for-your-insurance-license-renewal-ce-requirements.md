@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-## Know your insurance license renewal CE requirements
+## Know your [insurance license](/prelicensing) renewal [CE requirements](/continuing-education)
 
 If you’re a licensed insurance agent, you’ve likely heard the phrase “insurance license renewal CE requirements” more times than you can count. In most states, continuing education (CE) is a mandatory part of renewing your insurance license. The catch is that each state sets its own rules. Some might require 24 hours of CE over two years, while others insist on a different number of hours or specific distribution across course topics.
 

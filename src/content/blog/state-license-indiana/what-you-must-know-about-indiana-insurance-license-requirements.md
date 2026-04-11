@@ -18,11 +18,11 @@ imageAlt: >-
 imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
-Getting your start in the insurance industry can feel like stepping into uncharted territory. When you are an Indiana resident aiming to become a licensed producer, it is vital to understand Indiana insurance license requirements from day one.
+Getting your start in the insurance industry can feel like stepping into uncharted territory. When you are an Indiana resident aiming to become a licensed producer, it is vital to understand [Indiana insurance license requirements](/indiana/requirements) from day one.
 
 Having clear guidance makes all the difference. You will find that the process is more straightforward when you break it down into manageable steps, from completing your pre-licensing coursework to passing the exam and maintaining your credentials over time.
 
-## Explore Indiana insurance license basics
+## Explore [Indiana insurance license](/indiana) basics
 
 Before you dive in, it helps to know the key lines of authority you can pursue in Indiana. Most new agents start with either Life and Health (L&H) or Property and Casualty (P&C) licenses, although there are other specialties too. Deciding which license to obtain depends on the type of insurance products you want to sell and the clients you plan to serve.
 

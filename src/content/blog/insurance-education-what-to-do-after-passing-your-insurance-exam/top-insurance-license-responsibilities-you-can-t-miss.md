@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-Insurance: insurance license responsibilities
+Insurance: [insurance license](/prelicensing) responsibilities
 
 Congratulations on passing your insurance exam! Right now, you’re probably both excited and a bit unsure about what comes next. Understanding your insurance license responsibilities is key to a successful journey in this profession. From maintaining compliance to upholding ethics and completing ongoing education, there’s plenty to keep in mind. Let’s walk through each responsibility step by step so you’ll feel confident moving forward.
 
@@ -78,7 +78,7 @@ You’ll need to apply for a nonresident license in those other states, followin
 
 Throughout your career, being consistent with these responsibilities will help you thrive and build lasting relationships. As you navigate the path ahead, keep in mind that you’re part of a trusted profession, one where your guidance can have a meaningful impact on people’s lives.
 
-If you’re looking for extra guidance, JustInsurance offers resources tailored to help new professionals like you fulfill continuing education requirements and renew on time. Be proactive about meeting your responsibilities early—this will save you headaches later and position you as a reliable advisor in the insurance world.
+If you’re looking for extra guidance, JustInsurance offers resources tailored to help new professionals like you fulfill [continuing education requirements](/continuing-education) and renew on time. Be proactive about meeting your responsibilities early—this will save you headaches later and position you as a reliable advisor in the insurance world.
 
 Ready to apply what you’ve learned? Take your newly earned license and focus on delivering the best possible service. Embrace compliance, grow your professional ethics, and make ongoing education a normal part of your schedule. That approach will set you on a solid path toward a fulfilling and impactful insurance career.
 

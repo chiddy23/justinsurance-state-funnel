@@ -18,7 +18,7 @@ imageCredit: Photo by RDNE Stock project on Pexels
 
 Welcome to this helpful guide on colorado insurance continuing education. Whether you are a first-time license seeker or switching careers, staying current on your educational requirements is a key step in pursuing a successful insurance career. Here, you will learn why continuing education (CE) matters, how to fulfill Colorado’s requirements, and tips for making the most of your CE journey.
 
-## Understand Colorado CE requirements
+## Understand [Colorado CE requirements](/colorado/continuing-education)
 
 Colorado requires licensed insurance professionals to complete CE hours to maintain active credentials. Typically, you must renew your license every two years. During this window, you are expected to complete a set number of hours (often 24) of approved coursework in your chosen line of authority, such as life, health, or property and casualty. Some lines have more specific requirements, so always confirm details well before your renewal date.
 
@@ -50,7 +50,7 @@ When you become proactive about your learning, you will find that fulfilling CE 
 
 Below are some common questions about Colorado insurance continuing education.
 
-1.  How often do I need to renew my insurance license in Colorado?  
+1.  How often do I need to renew my insurance [license in Colorado](/colorado)?  
     You generally need to renew your license every two years. During that time, you must complete a specified number of CE hours relevant to your license type.
 2.  Are there any mandatory courses within the required CE hours?  
     Colorado may designate certain mandatory topics, especially if regulations change. Keep an eye on state announcements and always choose CE providers who specify which courses satisfy state-required subjects.

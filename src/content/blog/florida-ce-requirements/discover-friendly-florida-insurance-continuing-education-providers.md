@@ -18,11 +18,11 @@ imageAlt: >-
 imageCredit: Photo by Felicity Tai on Pexels
 ---
 
-Understand Florida continuing education
+Understand [Florida continuing education](/florida/continuing-education)
 
 You might feel excited about becoming a licensed insurance agent in Florida, but staying compliant over the long haul can be just as crucial as passing your initial exam. Florida insurance continuing education providers offer the courses you need to maintain your license, keep your knowledge fresh, and protect your clients’ interests. If you are new to the ongoing requirements, you are in the right place. By the time you finish reading, you will have a clear path forward to meet your Florida continuing education (CE) obligations.
 
-Every insurance state license has distinct renewal rules, but Florida's are straightforward once you know what to expect. You will typically need to complete a certain number of CE hours every two years, with specific topics required by the Florida Department of Financial Services. While it might seem daunting at first, the right approach and a friendly provider make the process manageable.
+Every insurance state license has distinct renewal rules, but Florida's are straightforward once you know what to expect. You will typically need to complete a certain number of CE hours every two years, with specific topics required by the [Florida Department of Financial Services](/florida/requirements). While it might seem daunting at first, the right approach and a friendly provider make the process manageable.
 
 ## Fulfill your credit requirements
 
@@ -69,7 +69,7 @@ On top of that, feel free to explore specialized electives once you have met the
 
 ## FAQ about Florida insurance continuing education
 
-1.  How often do I need to renew my Florida insurance license?  
+1.  How often do I need to renew my [Florida insurance license](/florida)?  
     You will typically renew your license every two years. You must complete your required continuing education hours before your specific renewal deadline to remain active.
 2.  How many CE hours am I required to complete?  
     The number of hours varies based on your license type and how long you have held it. Newer licensees often need to complete more hours than those licensed for many years. Always verify the latest requirements on the Florida Department of Financial Services website.

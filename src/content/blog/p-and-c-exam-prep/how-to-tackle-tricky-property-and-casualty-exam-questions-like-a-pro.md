@@ -22,7 +22,7 @@ Below, you will find practical techniques broken down into manageable steps. You
 
 ## Get familiar with the exam
 
-Before you dive deep into books and practice tests, start by understanding the structure of the property and casualty licensing exam. Different states and testing agencies often assess the same core topics but can vary slightly in question format or length. Typically, you will face multiple-choice questions that assess both technical knowledge and real-world application.
+Before you dive deep into books and practice tests, start by understanding the structure of the property and casualty [licensing exam](/prelicensing). Different states and testing agencies often assess the same core topics but can vary slightly in question format or length. Typically, you will face multiple-choice questions that assess both technical knowledge and real-world application.
 
 Spend a bit of time reading the exam outline provided by your state department of insurance. This outline will give you an overview of the key areas such as policy types, underwriting procedures, legal requirements, and claim handling. Having this bird's-eye view helps you see which sections might demand extra focus in your preparation.
 

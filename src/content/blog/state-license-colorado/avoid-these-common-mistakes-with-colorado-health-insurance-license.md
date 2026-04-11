@@ -20,7 +20,7 @@ imageCredit: Photo by Luis Sevilla on Pexels
 
 Know the licensing basics
 
-Getting your Colorado health insurance license is an exciting step toward a fresh career in the insurance field. Before you dive in, it helps to understand the core requirements. You will typically need to complete a certain number of pre-licensing hours, which cover vital topics such as insurance ethics, policy types, and state regulations. Make sure you verify how many hours are required for your Colorado license, since health insurance lines sometimes have unique prerequisites compared to other lines like life or property and casualty.
+Getting your [Colorado health insurance license](/colorado) is an exciting step toward a fresh career in the insurance field. Before you dive in, it helps to understand the core requirements. You will typically need to complete a certain number of pre-licensing hours, which cover vital topics such as insurance ethics, policy types, and state regulations. Make sure you verify how many hours are required for your Colorado license, since health insurance lines sometimes have unique prerequisites compared to other lines like life or property and casualty.
 
 Take your time to absorb each topic and focus on areas that directly impact consumer protection and industry best practices. By thoroughly guiding yourself through the coursework, you will build a solid foundation that makes the rest of the process less stressful.
 
@@ -28,7 +28,7 @@ Take your time to absorb each topic and focus on areas that directly impact cons
 
 In your eagerness to finish the pre-licensing coursework, it can be easy to forget you also need a background check. Most states, including Colorado, conduct fingerprint-based checks to ensure that aspiring insurance professionals meet ethical standards. If you have any potential issues in your past, don’t panic just yet. In many cases, you can submit additional information or letters of explanation, but you do need to follow the correct procedures to the letter.
 
-Properly scheduling and completing your fingerprints helps avoid delays in getting your license. Check the Colorado Division of Insurance website for an authorized vendor, so your results go straight to the state. Plan this step as early as possible, because a hold-up here can set your entire application back, even if you’ve finished your coursework and exam.
+Properly scheduling and completing your fingerprints helps avoid delays in getting your license. Check the [Colorado Division of Insurance](/colorado/requirements) website for an authorized vendor, so your results go straight to the state. Plan this step as early as possible, because a hold-up here can set your entire application back, even if you’ve finished your coursework and exam.
 
 ## Avoid rushed study methods
 

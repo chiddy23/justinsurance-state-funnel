@@ -17,11 +17,11 @@ imageAlt: >-
 imageCredit: Photo by Gera Cejas on Pexels
 ---
 
-You might feel a bit overwhelmed when you first see all the Washington insurance license requirements. But once you break them down into manageable steps, the entire process can be surprisingly straightforward. Each requirement is designed to ensure you know the rules, regulations, and ethical obligations of the insurance industry, so you can serve clients with confidence. Whether you plan on selling Life and Health policies, Property and Casualty coverage, or both, it all starts with meeting Washington’s official standards.
+You might feel a bit overwhelmed when you first see all the [Washington insurance license requirements](/washington/requirements). But once you break them down into manageable steps, the entire process can be surprisingly straightforward. Each requirement is designed to ensure you know the rules, regulations, and ethical obligations of the insurance industry, so you can serve clients with confidence. Whether you plan on selling Life and Health policies, Property and Casualty coverage, or both, it all starts with meeting Washington’s official standards.
 
 Below, you will find a clear road map for each step, from completing pre-licensing courses to finalizing your license application. By the end, you will understand the costs, timelines, and study strategies that are key to success, as well as where to turn for additional support. Let’s get you set up to conquer your exam and launch an exciting career in insurance.
 
-## Make sense of Washington insurance license requirements
+## Make sense of [Washington insurance license](/washington) requirements
 
 Washington requires you to obtain a license for each major line of insurance you plan to sell, such as Life, Disability (Health), Property, and Casualty. While it might sound like a lot, each license primarily follows a similar path.
 

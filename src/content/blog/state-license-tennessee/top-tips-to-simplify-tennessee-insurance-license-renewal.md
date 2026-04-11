@@ -15,13 +15,13 @@ imageAlt: Detailed financial data chart showcasing stock market trends and analy
 imageCredit: Photo by Tima Miroshnichenko on Pexels
 ---
 
-Your Tennessee insurance license renewal can be a straightforward process when you break it down step by step. If you stay informed about the specific CE hours you need, prepare your online profile early, and keep track of the official renewal window, you will save yourself a lot of stress. Below are guidelines and tips to make renewing your license smoother, whether you are working in life and health, property and casualty, or another insurance line.
+Your [Tennessee insurance license](/tennessee) renewal can be a straightforward process when you break it down step by step. If you stay informed about the specific CE hours you need, prepare your online profile early, and keep track of the official renewal window, you will save yourself a lot of stress. Below are guidelines and tips to make renewing your license smoother, whether you are working in life and health, property and casualty, or another insurance line.
 
 ## Understand renewal basics
 
 Before diving into forms and CE courses, you first want to identify your renewal cycle. Tennessee generally requires you to renew your license every two years, though any exemptions or special rules depend on the type of license you hold. If you are juggling multiple lines, confirm that you know exactly which ones need to be renewed and how any overlapping requirements might affect your schedule.
 
-It is also important to make sure your contact details on file with the Tennessee Department of Commerce and Insurance are correct. If you relocated or switched email addresses recently, update that information right away. Failing to update this data means you may not receive renewal notices or other important alerts in a timely manner.
+It is also important to make sure your contact details on file with the [Tennessee Department of Commerce and Insurance](/tennessee/requirements) are correct. If you relocated or switched email addresses recently, update that information right away. Failing to update this data means you may not receive renewal notices or other important alerts in a timely manner.
 
 ## Stay on top of CE
 

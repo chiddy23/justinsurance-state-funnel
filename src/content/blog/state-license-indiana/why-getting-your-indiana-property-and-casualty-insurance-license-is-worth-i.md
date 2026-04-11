@@ -22,7 +22,7 @@ If you live in Indiana and are thinking about starting a new career in insurance
 
 Property and casualty (P&C) insurance covers a broad array of policies that protect people’s homes, vehicles, and businesses. Having a P&C license in Indiana means you can sell and discuss coverage details for auto, homeowners, liability, and more. Because these policies are so common, you will see continuous demand for knowledgeable insurance professionals who can guide clients through big decisions.
 
-What sets the Indiana property and casualty license apart is its versatility. It is not uncommon to start by focusing on one type of policy—like auto insurance—and then branch out into various lines of coverage. This breadth of specialties can keep your daily work interesting as you learn to craft personalized solutions for a wide range of customer needs.
+What sets the [Indiana property and casualty license](/indiana) apart is its versatility. It is not uncommon to start by focusing on one type of policy—like auto insurance—and then branch out into various lines of coverage. This breadth of specialties can keep your daily work interesting as you learn to craft personalized solutions for a wide range of customer needs.
 
 ## Explore the benefits of licensing
 
@@ -52,7 +52,7 @@ Some individuals eventually pivot to specialize in niche areas, like farm or com
 
 ## Prepare for licensing success
 
-Getting your Indiana property and casualty insurance license involves a straightforward yet meaningful process. You begin by completing a pre-licensing program approved by the Indiana Department of Insurance, which helps you grasp essential topics like state regulations, policy types, and ethical standards. Afterward, you will be eligible to take the licensing exam.
+Getting your Indiana property and casualty insurance license involves a straightforward yet meaningful process. You begin by completing a pre-licensing program approved by the [Indiana Department of Insurance](/indiana/requirements), which helps you grasp essential topics like state regulations, policy types, and ethical standards. Afterward, you will be eligible to take the licensing exam.
 
 One useful method for staying organized is to tackle your exam preparation in stages. That way, you can solidify your knowledge as you go without feeling overwhelmed. Here is a quick approach you can adapt:
 

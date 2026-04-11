@@ -30,7 +30,7 @@ Typical range
 
 Description
 
-Pre-licensing courses
+[Pre-licensing courses](/prelicensing)
 
 $150 – $400
 

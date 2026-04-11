@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Luis Sevilla on Pexels
 ---
 
-You’ve taken the first step toward a new career path by setting your sights on a Colorado property and casualty license. Whether you’re switching industries or just starting out, understanding how to navigate the exam process is key to moving forward with confidence. A solid plan, the right resources, and a bit of encouragement can make all the difference. Below, you’ll find strategies to help you succeed, from organizing your study routine to tackling test-taking techniques.
+You’ve taken the first step toward a new career path by setting your sights on a [Colorado property and casualty license](/colorado). Whether you’re switching industries or just starting out, understanding how to navigate the exam process is key to moving forward with confidence. A solid plan, the right resources, and a bit of encouragement can make all the difference. Below, you’ll find strategies to help you succeed, from organizing your study routine to tackling test-taking techniques.
 
 ## Understand the exam structure
 

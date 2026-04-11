@@ -17,13 +17,13 @@ imageAlt: >-
 imageCredit: Photo by Ketut Subiyanto on Pexels
 ---
 
-Getting your New Jersey insurance license can dramatically open up career opportunities, whether you plan to work with life, health, property, or casualty coverage. At first, the NJ insurance license requirements might feel overwhelming, but the process is actually more straightforward than you might think. By following the right steps and dedicating time to study, you will be well on your way to helping others secure their financial futures.
+Getting your [New Jersey insurance license](/new-jersey) can dramatically open up career opportunities, whether you plan to work with life, health, property, or casualty coverage. At first, the NJ insurance license requirements might feel overwhelming, but the process is actually more straightforward than you might think. By following the right steps and dedicating time to study, you will be well on your way to helping others secure their financial futures.
 
 Below, you will find a clear overview of everything you need to do to meet these requirements and launch your insurance career with confidence.
 
 ## Check the basic eligibility
 
-In New Jersey, you must be at least 18 years old to start the insurance licensing process. You also need a clean legal history, although certain minor infractions may still be permissible depending on the specific circumstances. If you have any concerns about your background, consider reaching out to the New Jersey Department of Banking and Insurance for guidance before you begin studying.
+In New Jersey, you must be at least 18 years old to start the insurance licensing process. You also need a clean legal history, although certain minor infractions may still be permissible depending on the specific circumstances. If you have any concerns about your background, consider reaching out to the [New Jersey Department of Banking and Insurance](/new-jersey/requirements) for guidance before you begin studying.
 
 Most aspiring agents start by choosing a line of authority. You can focus on life, health, property, casualty, or a combination of these lines. Decide what interests you and aligns with your career goals because your eventual coursework will reflect that focus. Although it might feel like a big decision, remember that you can always add more lines in the future.
 

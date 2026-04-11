@@ -23,7 +23,7 @@ Following a structured plan is the best way to tackle each stage, from choosing 
 
 ## Know the Texas insurance requirements
 
-You can only apply for a Texas insurance license if you meet the state prerequisites, so it’s wise to confirm your eligibility upfront. Generally, you must be at least 18 years old and meet the Texas Department of Insurance’s (TDI) standards, which include submitting to fingerprinting and a background check. These checks verify that you haven’t committed any disqualifying offenses that might keep you from working with sensitive client information.
+You can only apply for a [Texas insurance license](/texas) if you meet the state prerequisites, so it’s wise to confirm your eligibility upfront. Generally, you must be at least 18 years old and meet the [Texas Department of Insurance](/texas/requirements)’s (TDI) standards, which include submitting to fingerprinting and a background check. These checks verify that you haven’t committed any disqualifying offenses that might keep you from working with sensitive client information.
 
 You’ll also want to decide early on if you aim to focus on more than one line of authority (such as Life & Health or Property & Casualty). Having a clear sense of your goals will guide you toward specialized courses and help you plan for multiple exams, if needed. Some future agents choose to start with one license type and add new lines at a later date.
 

@@ -19,7 +19,7 @@ imageCredit: Photo by Gustavo Fring on Pexels
 
 ## Understand the licensing landscape
 
-Pursuing your insurance license in California can open many doors, whether you plan to specialize in life insurance, property and casualty insurance, or a combination of lines. Before you dive in, it helps to have a clear picture of the California insurance license requirements. By following a few structured steps, you’ll get closer to your goal of selling insurance confidently and compliantly.
+Pursuing your insurance license in California can open many doors, whether you plan to specialize in life insurance, property and casualty insurance, or a combination of lines. Before you dive in, it helps to have a clear picture of the [California insurance license requirements](/california/requirements). By following a few structured steps, you’ll get closer to your goal of selling insurance confidently and compliantly.
 
 Most people start the licensing process with a few common questions. You might wonder who’s eligible, how to enroll in pre-licensing courses, or how difficult the exam will be. Rest assured that, with a focused approach, you’ll find each step more straightforward than you might expect.
 
@@ -35,7 +35,7 @@ If you meet these criteria, you’re officially on track to pursue your insuranc
 
 ## Complete pre-licensing education
 
-One of the fundamental California insurance license requirements is completing a pre-licensing education course specific to your desired line of authority. Typically, this involves a set number of hours that covers essential topics, such as policy provisions, ethics, and state-specific regulations.
+One of the fundamental [California insurance license](/california) requirements is completing a pre-licensing education course specific to your desired line of authority. Typically, this involves a set number of hours that covers essential topics, such as policy provisions, ethics, and state-specific regulations.
 
 • Life Insurance License: Expect around 20 hours of general coursework, plus 12 hours of ethics and California insurance code.  
 • Accident and Health License: Similarly, around 20 hours of coursework, plus the 12-hour ethics and code requirement.  

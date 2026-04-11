@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Marina Agrelo on Pexels
 ---
 
-Maryland insurance license eligibility is more than just a box to check. It is your first step toward a rewarding career in the insurance industry. Whether you plan to specialize in life and health or property and casualty, understanding the requirements set by the Maryland Insurance Administration helps you prepare confidently. This guide walks you through each step so you can meet the standards and get closer to helping individuals and businesses protect what matters most.
+[Maryland insurance license](/maryland) eligibility is more than just a box to check. It is your first step toward a rewarding career in the insurance industry. Whether you plan to specialize in life and health or property and casualty, understanding the requirements set by the [Maryland Insurance Administration](/maryland/requirements) helps you prepare confidently. This guide walks you through each step so you can meet the standards and get closer to helping individuals and businesses protect what matters most.
 
 ## Understand your basic requirements
 

@@ -17,13 +17,13 @@ imageAlt: >-
 imageCredit: Photo by Mizuno K on Pexels
 ---
 
-You may feel overwhelmed when you first investigate how to get your Florida health insurance license, but rest assured—it’s a straightforward process if you understand the steps. Think of it as a journey that starts with basic state requirements and finishes with a license that lets you help others secure important health coverage. By learning about the application process and exam tips early, you set yourself up for success and skip potential roadblocks along the way.
+You may feel overwhelmed when you first investigate how to get your [Florida health insurance license](/florida), but rest assured—it’s a straightforward process if you understand the steps. Think of it as a journey that starts with basic state requirements and finishes with a license that lets you help others secure important health coverage. By learning about the application process and exam tips early, you set yourself up for success and skip potential roadblocks along the way.
 
 ## Know the basic requirements
 
 One of the first things Florida looks for in an applicant is your eligibility. You must be at least 18 years old, a U.S. citizen or legal resident, and you should be prepared to pass a background check. This background screening usually checks for any serious legal infractions or outstanding issues that could prevent you from holding a public-facing role.
 
-Depending on your situation, you might also need to provide fingerprints and official documents proving your identity. Make sure to follow the Florida Department of Financial Services guidelines to avoid surprises while you gather the paperwork.
+Depending on your situation, you might also need to provide fingerprints and official documents proving your identity. Make sure to follow the [Florida Department of Financial Services](/florida/requirements) guidelines to avoid surprises while you gather the paperwork.
 
 ### Timing and fees
 

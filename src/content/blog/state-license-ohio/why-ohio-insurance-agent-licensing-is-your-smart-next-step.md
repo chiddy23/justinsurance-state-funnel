@@ -51,7 +51,7 @@ If test-day nerves do set in, try taking a few deep breaths just before you begi
 
 After you pass the exam, the next step is to apply for your license. In many cases, you’ll do this online through the National Insurance Producer Registry (NIPR) system, although some people prefer mailing forms the old-fashioned way. Either approach is acceptable, but the online route can be faster.
 
-You’ll need to provide details like your exam passing information, background check results, and proof of completed coursework. Make sure your application is error-free—something as small as a missing signature can delay approval. Once you hit submit, the typical turnaround for an Ohio insurance license is anywhere from a few days to a couple of weeks. As soon as your license arrives, you’re officially ready to represent clients.
+You’ll need to provide details like your exam passing information, background check results, and proof of completed coursework. Make sure your application is error-free—something as small as a missing signature can delay approval. Once you hit submit, the typical turnaround for an [Ohio insurance license](/ohio) is anywhere from a few days to a couple of weeks. As soon as your license arrives, you’re officially ready to represent clients.
 
 ## Start your insurance career
 

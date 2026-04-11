@@ -28,7 +28,7 @@ A property and casualty (P&C) license lets you advise on everything from renter 
 
 ## Complete your pre-licensing requirements
 
-Before you can take the Maryland property and casualty insurance exam, the state requires that you complete a specified number of pre-licensing hours. This coursework covers essential topics such as policy types, underwriting basics, and Maryland insurance regulations. Before choosing a provider, verify the program meets state requirements so you can get credit for every hour you devote to studying.
+Before you can take the Maryland property and casualty insurance exam, the state requires that you complete a specified number of pre-licensing hours. This coursework covers essential topics such as policy types, underwriting basics, and [Maryland insurance](/maryland) regulations. Before choosing a provider, verify the program meets state requirements so you can get credit for every hour you devote to studying.
 
 In addition to formal coursework, it is often helpful to review supplemental material or join study sessions with fellow candidates. Group discussions can clarify tricky concepts like premium ratings or policy exclusions. You can also explore online tutorial videos for more examples of how property and casualty coverage applies to real-life scenarios. The key is to make sure you understand fundamental principles before sitting for your exam.
 
@@ -56,9 +56,9 @@ Below are five common questions as you navigate the journey toward your Maryland
 1.  Do I need prior insurance experience to start?  
     You do not need any background in insurance to begin your P&C license training. The pre-licensing courses and study materials will cover everything you need.
 2.  How long does the pre-licensing course take?  
-    The duration varies by provider, but most Maryland pre-licensing programs range from 20 to 40 hours. You can usually complete them on weekends or weekdays, depending on your schedule.
+    The duration varies by provider, but most [Maryland pre-licensing](/maryland/prelicensing) programs range from 20 to 40 hours. You can usually complete them on weekends or weekdays, depending on your schedule.
 3.  What happens after I pass the exam?  
-    Once you pass, you will submit a license application with the Maryland Insurance Administration. After approval, you receive your official license to start working as a P&C agent.
+    Once you pass, you will submit a license application with the [Maryland Insurance Administration](/maryland/requirements). After approval, you receive your official license to start working as a P&C agent.
 4.  Is the exam difficult?  
     The exam requires focused study and a solid understanding of insurance terms. However, with good preparation and practice tests, most candidates find it manageable.
 5.  Can I sell other insurance lines with a P&C license?  

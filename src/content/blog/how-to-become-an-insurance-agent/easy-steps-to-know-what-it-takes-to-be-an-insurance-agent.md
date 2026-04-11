@@ -54,7 +54,7 @@ Estimated range
 
 Notes
 
-Pre-licensing courses
+[Pre-licensing courses](/prelicensing)
 
 $150 – $400
 

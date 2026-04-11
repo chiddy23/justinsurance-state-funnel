@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by George Milton on Pexels
 ---
 
-Facing your life and health insurance licensing exam can feel daunting, especially if you’re worried about making mistakes that could slow your progress. Fortunately, pre-licensing courses for insurance can help you avoid unnecessary setbacks and prepare you for success right from the start. By recognizing the most common pitfalls and taking a more purposeful approach to your studies, you’re far more likely to walk into test day feeling confident.
+Facing your life and health insurance licensing exam can feel daunting, especially if you’re worried about making mistakes that could slow your progress. Fortunately, [pre-licensing courses](/prelicensing) for insurance can help you avoid unnecessary setbacks and prepare you for success right from the start. By recognizing the most common pitfalls and taking a more purposeful approach to your studies, you’re far more likely to walk into test day feeling confident.
 
 Below, you’ll find friendly and practical tips to help you understand what to focus on during your pre-licensing journey. Keeping these suggestions in mind will ensure that your hard work pays off in the form of a passing score and a smooth path to your new career.
 

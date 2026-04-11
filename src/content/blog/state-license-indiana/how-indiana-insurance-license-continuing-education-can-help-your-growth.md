@@ -16,7 +16,7 @@ imageAlt: 'Young woman concentrating while typing on a laptop, seated at a desk 
 imageCredit: Photo by Ron Lach on Pexels
 ---
 
-So you’re ready to take the next step in your insurance career. Maybe you’ve recently earned your license, or perhaps you’re already looking towards renewal. In either case, your Indiana insurance license continuing education is a key milestone you won’t want to overlook. Think of continuing education (CE) as an opportunity for professional growth, not just a task to keep your license valid. By meeting CE requirements on time, you’ll stay compliant and gain valuable skills that can help you better serve your clients.
+So you’re ready to take the next step in your insurance career. Maybe you’ve recently earned your license, or perhaps you’re already looking towards renewal. In either case, your [Indiana insurance license](/indiana) continuing education is a key milestone you won’t want to overlook. Think of continuing education (CE) as an opportunity for professional growth, not just a task to keep your license valid. By meeting CE requirements on time, you’ll stay compliant and gain valuable skills that can help you better serve your clients.
 
 ## Understand your continuing education requirements
 
@@ -61,7 +61,7 @@ Yes, Indiana usually allows you to carry over a surplus of up to 12 hours. Howev
 
 ### 3\. What types of courses count toward CE?
 
-Any course approved by the Indiana Department of Insurance qualifies, including online modules, in-person classes, and professional seminars. Be sure to confirm approval status before you sign up.
+Any course approved by the [Indiana Department of Insurance](/indiana/requirements) qualifies, including online modules, in-person classes, and professional seminars. Be sure to confirm approval status before you sign up.
 
 ### 4\. Do I have to take separate CE for different lines of authority?
 

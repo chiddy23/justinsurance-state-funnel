@@ -27,7 +27,7 @@ Insurance licensing requirements can vary from state to state, but the fundament
 
 Most states require you to be at least 18 years old, pass a state exam, and go through a background check. Before you move forward, visit your state’s insurance department website to verify the specific prerequisites. This step ensures you know exactly what training hours you must complete and which forms you need to submit.
 
-## Complete your pre-licensing courses
+## Complete your [pre-licensing courses](/prelicensing)
 
 In many states, you have to enroll in mandatory pre-licensing courses before you can schedule your exam. These courses range from 20 to 40 hours (or more) for each line of authority. Although studying for that long may sound daunting, think of it as building a foundation for your future success. You are learning the regulations, ethical responsibilities, and product details you will rely on every day in your new career.
 
@@ -97,7 +97,7 @@ Keep in mind that you might need to factor in travel expenses for test centers i
 
 Earning your license is the beginning of a long, meaningful career, but you also must keep up with continuing education (CE) requirements to retain your credentials. Each renewal cycle, you will need a certain number of CE hours. Topics often include ethics, new insurance laws, or advanced product knowledge that benefits both you and your clients.
 
-If you are balancing a hectic schedule, look for CE courses online. Many are self-paced, making them easy to fit around your daily life. Staying current also means you gain sharper skills, which can help you stand out to potential employers or clients. Approach CE as an ongoing professional investment rather than a mere requirement.
+If you are balancing a hectic schedule, look for [CE courses](/continuing-education) online. Many are self-paced, making them easy to fit around your daily life. Staying current also means you gain sharper skills, which can help you stand out to potential employers or clients. Approach CE as an ongoing professional investment rather than a mere requirement.
 
 ## Grow your career in insurance
 

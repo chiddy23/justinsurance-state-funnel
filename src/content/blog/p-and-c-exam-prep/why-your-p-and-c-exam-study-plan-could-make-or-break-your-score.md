@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by The Lazy Artist Gallery on Pexels
 ---
 
-Preparing for your property and casualty (P&C) insurance licensing exam can feel daunting. There’s a wide range of topics to cover, from basic policy provisions to complex underwriting guidelines. Yet, having a well-structured p&c exam study plan can simplify your path to success. By knowing what to study, how to organize it, and when to review, you’ll feel fully prepared once exam day arrives.
+Preparing for your property and casualty (P&C) [insurance licensing exam](/prelicensing) can feel daunting. There’s a wide range of topics to cover, from basic policy provisions to complex underwriting guidelines. Yet, having a well-structured p&c exam study plan can simplify your path to success. By knowing what to study, how to organize it, and when to review, you’ll feel fully prepared once exam day arrives.
 
 A clear plan doesn’t just help you pass the test. It shapes how you retain information and apply it later, ensuring that once you’re licensed, you’ll have a confident foundation to serve clients. Your study strategy could very well make or break your final score, so it’s worth giving it the attention and effort it deserves.
 

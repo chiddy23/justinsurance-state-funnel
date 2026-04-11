@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
-Colorado insurance license renewal can feel like one more administrative chore, but keeping your license active is a crucial part of maintaining a successful insurance career in Colorado. By staying on top of renewal requirements and deadlines, you ensure that your clients receive the best possible guidance. Plus, when you fully understand the process, you can focus on helping others, rather than stressing over paperwork.
+[Colorado insurance license](/colorado) renewal can feel like one more administrative chore, but keeping your license active is a crucial part of maintaining a successful insurance career in Colorado. By staying on top of renewal requirements and deadlines, you ensure that your clients receive the best possible guidance. Plus, when you fully understand the process, you can focus on helping others, rather than stressing over paperwork.
 
 Below, you will find a practical overview of what goes into renewing your license, from key continuing education steps to common deadlines. This friendly guide will walk you through each detail and leave you with a clear plan of action.
 
@@ -57,7 +57,7 @@ Life, Health, Property, and Casualty combined
 
 3
 
-When choosing CE courses, be sure they are approved by the Colorado Division of Insurance. The courses should address relevant topics for your licensed line of authority, but you can also add electives to expand your knowledge. There are many ways to earn these hours, including in-person classes, online modules, and self-study options.
+When choosing CE courses, be sure they are approved by the [Colorado Division of Insurance](/colorado/requirements). The courses should address relevant topics for your licensed line of authority, but you can also add electives to expand your knowledge. There are many ways to earn these hours, including in-person classes, online modules, and self-study options.
 
 ## Complete the renewal steps
 

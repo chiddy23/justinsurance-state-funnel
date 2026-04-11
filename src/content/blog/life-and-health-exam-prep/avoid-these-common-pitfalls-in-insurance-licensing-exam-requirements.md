@@ -28,7 +28,7 @@ Take time to visit your state’s insurance department website or official exam 
 
 ## Avoid these registration oversights
 
-The registration process might look straightforward, but small mistakes can lead to big delays. You’ll generally need to complete a pre-licensing course, provide the certificate of completion, and schedule your test. Check whether your state requires a specific number of pre-licensing hours, and confirm that the provider you choose is approved by your local regulator.
+The registration process might look straightforward, but small mistakes can lead to big delays. You’ll generally need to complete a [pre-licensing course](/prelicensing), provide the certificate of completion, and schedule your test. Check whether your state requires a specific number of pre-licensing hours, and confirm that the provider you choose is approved by your local regulator.
 
 Don’t forget important ID requirements on test day. If you arrive with an expired driver’s license or a mismatch between your ID name and your registration details, you’ll be turned away. Double-check these details early, and leave yourself time to correct errors. Being proactive saves you from unnecessary last-minute stress.
 
@@ -86,7 +86,7 @@ Practicing with questions like these helps you spot any areas of confusion so yo
 4.  How soon can I expect my official exam results?  
     Many states and testing providers offer immediate pass/fail notices. However, you might need to wait a few days for official confirmation if the exam includes essay questions or if your state department processes results manually.
 5.  Do I have to renew my license after passing the exam?  
-    Yes. Once you’re licensed, you’ll typically need to complete continuing education (CE) requirements and renew your license every one to two years. The rules vary by state, so always keep track of deadlines for renewals and CE credits.
+    Yes. Once you’re licensed, you’ll typically need to complete continuing education (CE) requirements and [renew your license](/continuing-education) every one to two years. The rules vary by state, so always keep track of deadlines for renewals and CE credits.
 
 ## Your next step to success
 

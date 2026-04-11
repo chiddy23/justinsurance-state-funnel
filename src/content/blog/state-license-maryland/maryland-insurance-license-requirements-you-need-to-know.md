@@ -3,7 +3,7 @@ title: Maryland Insurance License Requirements You Need to Know
 description: >-
   Secure your Maryland insurance license renewal with friendly expert tips to
   keep your career thriving. Maryland licensing expert tips.
-keyword: maryland insurance license renewal
+keyword: maryland insurance license renewal requirements
 targetKeywords: maryland insurance license renewal
 cluster: state-license-maryland
 clusterName: State License –  Maryland
@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Lukas Blazek on Pexels
 ---
 
-## Why your Maryland insurance license renewal matters
+## Why your [Maryland insurance license](/maryland) renewal matters
 
 Your Maryland insurance license is a gateway to serving clients effectively and keeping your professional momentum going. Maybe you’re dedicated to advising people on property and casualty lines, or you’re guiding them through life and health insurance. No matter your specialty, renewing your license on time is a cornerstone of trustworthy service and ongoing career success.
 
@@ -25,7 +25,7 @@ Letting your license lapse can halt your ability to earn commissions, delay your
 
 ## Check your current status
 
-The first step in Maryland insurance license renewal is to get an accurate view of your license status. Double-check the expiration date, your license numbers, and any new regulations that might affect your renewal. All that information is typically found on the Maryland Insurance Administration’s (MIA) official website. If you notice anything amiss, address it right away so you don’t encounter delays later.
+The first step in Maryland insurance license renewal is to get an accurate view of your license status. Double-check the expiration date, your license numbers, and any new regulations that might affect your renewal. All that information is typically found on the [Maryland Insurance Administration](/maryland/requirements)’s (MIA) official website. If you notice anything amiss, address it right away so you don’t encounter delays later.
 
 ## Complete your continuing education requirements
 

@@ -15,13 +15,13 @@ imageAlt: Close-up of a credit card payment being processed at a POS terminal.
 imageCredit: Photo by energepic.com on Pexels
 ---
 
-Whether you are just beginning your search for Tennessee insurance pre-licensing courses or you already have a few options in mind, you want to make sure you choose a program that sets you up for success. Earning your Tennessee insurance license is a major step toward a long-term career in the industry, and a solid pre-licensing course can streamline your path. The key is sorting through the different course types, features, and costs in order to find a program that matches your learning style and career goals.
+Whether you are just beginning your search for [Tennessee insurance pre-licensing courses](/tennessee/prelicensing) or you already have a few options in mind, you want to make sure you choose a program that sets you up for success. Earning your [Tennessee insurance license](/tennessee) is a major step toward a long-term career in the industry, and a solid pre-licensing course can streamline your path. The key is sorting through the different course types, features, and costs in order to find a program that matches your learning style and career goals.
 
 It’s completely normal to feel overwhelmed by all the course material and state requirements, especially if you’re new to the world of insurance. With the right resources, though, you can confidently prepare for your license exam and build a strong foundation for your new role in life, health, property, casualty, or any other line of authority you plan to pursue.
 
 ## Understand your licensing requirements
 
-Before you dive into choosing a pre-licensing course, take time to review the official licensing requirements from the Tennessee Department of Commerce and Insurance. Each line of authority in Tennessee has its own set of pre-licensing hours you must complete in order to sit for the state exam. That means your study plan may vary depending on whether you’re going for life & health, property & casualty, or both.
+Before you dive into choosing a pre-licensing course, take time to review the official licensing requirements from the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Each line of authority in Tennessee has its own set of pre-licensing hours you must complete in order to sit for the state exam. That means your study plan may vary depending on whether you’re going for life & health, property & casualty, or both.
 
 You’ll also want to verify that you meet the general eligibility criteria, which typically include being at least 18 years old and passing a background check. Different Tennessee insurance pre-licensing courses are designed to align with these official rules, so once you understand which licenses you want, you’ll have a clearer view of the exact courses needed.
 

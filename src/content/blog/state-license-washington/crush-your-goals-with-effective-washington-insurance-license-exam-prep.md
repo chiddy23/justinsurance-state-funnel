@@ -16,7 +16,7 @@ imageAlt: Close-up of hands analyzing insurance policy paperwork with pen on tab
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-Whether you are seeking a new career path or simply looking to add a valuable credential, taking the Washington insurance license exam is a major milestone. With the right Washington insurance license exam prep, you can approach test day feeling ready to tackle every question. Below, you’ll find the essentials for structuring your study time, honing your test-taking strategies, and conquering common stumbling blocks. Remember, the goal isn’t just to pass the exam, but to launch a successful journey in Washington’s insurance industry.
+Whether you are seeking a new career path or simply looking to add a valuable credential, taking the [Washington insurance license exam](/washington/requirements) is a major milestone. With the right [Washington insurance license](/washington) exam prep, you can approach test day feeling ready to tackle every question. Below, you’ll find the essentials for structuring your study time, honing your test-taking strategies, and conquering common stumbling blocks. Remember, the goal isn’t just to pass the exam, but to launch a successful journey in Washington’s insurance industry.
 
 ## Understand the exam basics
 
@@ -101,7 +101,7 @@ Working with a reputable provider, like JustInsurance, can give you structured s
 
 4.  Can I self-study, or do I need a course?
 
--   Self-study is possible, but a structured course ensures you meet Washington’s pre-licensing requirements and stay on track. Many students find that guided lessons and interactive quizzes help them absorb and recall information more effectively.
+-   Self-study is possible, but a structured course ensures you meet Washington’s [pre-licensing requirements](/washington/prelicensing) and stay on track. Many students find that guided lessons and interactive quizzes help them absorb and recall information more effectively.
 
 5.  How do I register for the exam?
 

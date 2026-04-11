@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Ono  Kosuki on Pexels
 ---
 
-Renewing your Georgia insurance license can feel like a big deal, but it does not have to be stressful. When you focus on the essentials—such as required credit hours and important deadlines—you will quickly see that the Georgia insurance CE renewal process is easier than you might think. Below, you will find a detailed walkthrough to help you meet every requirement on time, study effectively, and renew your license with total confidence.
+Renewing your [Georgia insurance license](/georgia) can feel like a big deal, but it does not have to be stressful. When you focus on the essentials—such as required credit hours and important deadlines—you will quickly see that the [Georgia insurance CE](/georgia/continuing-education) renewal process is easier than you might think. Below, you will find a detailed walkthrough to help you meet every requirement on time, study effectively, and renew your license with total confidence.
 
 ## Understand continuing education basics
 

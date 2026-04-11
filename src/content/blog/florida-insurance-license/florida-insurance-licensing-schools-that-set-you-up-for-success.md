@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
-## Know the florida insurance licensing requirements
+## Know the [florida insurance licensing requirements](/florida/requirements)
 
 Florida sets clear guidelines for anyone hoping to become a licensed insurance agent. You usually need to be at least 18 years old, a US citizen or legal resident, and without any major criminal infractions on your record. One of your first steps is to pick which license type you want, such as life, health, or property and casualty. Each license comes with its own pre-licensing course requirement to ensure you know key concepts before you ever speak to a potential client.
 
@@ -62,7 +62,7 @@ Taking a deep breath and trusting your preparation can make a world of differenc
 
 Passing the exam is a major achievement, but you still need to complete your formal application to become a licensed agent. The Florida DFS typically asks for a background check that involves submitting fingerprints, which you can do through an authorized vendor. Once you have done that and passed, the department will review your application and exam results before issuing your license.
 
-This application step also includes paying certain fees for your license issuance, and you will want to keep track of deadlines. You will often receive updates from the DFS about your status if there are any questions or hiccups. Once your license is approved, you will have official credentials allowing you to sell insurance in Florida.
+This application step also includes paying certain fees for your license issuance, and you will want to keep track of deadlines. You will often receive updates from the DFS about your status if there are any questions or hiccups. Once your license is approved, you will have official credentials allowing you to sell [insurance in Florida](/florida).
 
 ### Being prepared for extra steps
 

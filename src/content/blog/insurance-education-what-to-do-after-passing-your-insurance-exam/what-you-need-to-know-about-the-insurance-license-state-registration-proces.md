@@ -20,7 +20,7 @@ imageAlt: >-
 imageCredit: Photo by PICHA Stock on Pexels
 ---
 
-Insurance: insurance license state registration process
+Insurance: [insurance license](/prelicensing) state registration process
 
 Congratulations on passing your insurance exam! You have accomplished an important milestone that opens the door to a rewarding career. Yet, passing the exam is only the first step toward becoming a fully licensed agent. Before you can officially sell policies or advise clients, you must complete the insurance license state registration process.
 

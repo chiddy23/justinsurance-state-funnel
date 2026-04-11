@@ -44,7 +44,7 @@ Your primary responsibility early on is gathering information. Visit your stateâ
 
 ## Compare licensing by state
 
-Pre-licensing courses and exam formats can differ significantly between states. You could face pre-licensing education requirements ranging from about 20 hours in one state to more than 50 hours in another. Costs and exam structures also vary, so it pays to do careful research before committing time and money.
+[Pre-licensing courses](/prelicensing) and exam formats can differ significantly between states. You could face pre-licensing education requirements ranging from about 20 hours in one state to more than 50 hours in another. Costs and exam structures also vary, so it pays to do careful research before committing time and money.
 
 To give you a simple snapshot, here is an example table comparing a few states. Always confirm the official figures with your stateâ€™s department of insurance because rules can change:
 

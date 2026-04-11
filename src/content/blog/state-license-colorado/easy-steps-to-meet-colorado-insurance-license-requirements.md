@@ -17,9 +17,9 @@ imageAlt: >-
 imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
-To land your dream role in the insurance industry, you first need to meet the Colorado insurance license requirements. Whether you are transitioning from another career or just starting out, the process may feel intimidating. Fortunately, you can break it down into easy steps, so you know exactly what to expect at every turn.
+To land your dream role in the insurance industry, you first need to meet the [Colorado insurance license requirements](/colorado/requirements). Whether you are transitioning from another career or just starting out, the process may feel intimidating. Fortunately, you can break it down into easy steps, so you know exactly what to expect at every turn.
 
-## Understand the basic colorado insurance license requirements
+## Understand the basic [colorado insurance license](/colorado) requirements
 
 Before you commit to hours of study, get clear on what Colorado law expects from you as a future insurance professional. The state requires you to complete pre-licensing coursework in your chosen line of authority, pass a licensing exam, submit fingerprints for a background check, and finally apply for your license through the National Insurance Producer Registry (NIPR).
 
@@ -99,7 +99,7 @@ Below are answers to the most frequent questions from prospective insurance agen
 4.  Does Colorado accept online pre-licensing classes?  
     Yes, Colorado typically allows online pre-licensing education. Make sure your course provides the accredited certificates you need for the exam and licensing application.
 5.  How can I renew my license once I have it?  
-    Colorado requires continuing education (CE) credits to keep your license active. Check renewal deadlines, complete the necessary CE hours, and submit your renewal application through the NIPR.
+    [Colorado requires continuing education](/colorado/continuing-education) (CE) credits to keep your license active. Check renewal deadlines, complete the necessary CE hours, and submit your renewal application through the NIPR.
 
 ## Conclusion
 

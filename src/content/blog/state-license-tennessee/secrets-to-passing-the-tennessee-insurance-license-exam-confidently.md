@@ -18,11 +18,11 @@ imageAlt: >-
 imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
-You want to pass the Tennessee insurance license exam with confidence, and that journey begins with solid preparation and the right mindset. Whether you are pursuing your Life & Health or Property & Casualty license, a few proven strategies can help ensure you feel prepared and at ease on test day. Below, you will find advice on understanding the exam, structuring your routine, improving test-taking skills, and boosting your confidence so you are ready to succeed.
+You want to pass the [Tennessee insurance license exam](/tennessee/requirements) with confidence, and that journey begins with solid preparation and the right mindset. Whether you are pursuing your Life & Health or Property & Casualty license, a few proven strategies can help ensure you feel prepared and at ease on test day. Below, you will find advice on understanding the exam, structuring your routine, improving test-taking skills, and boosting your confidence so you are ready to succeed.
 
 ## Understand the exam basics
 
-Before diving into your study materials, spend a little time getting familiar with the basics of the Tennessee insurance license exam. Knowing what to expect sets the tone for your entire preparation process.
+Before diving into your study materials, spend a little time getting familiar with the basics of the [Tennessee insurance license](/tennessee) exam. Knowing what to expect sets the tone for your entire preparation process.
 
 Start by confirming which lines of insurance you will be tested on. Each track, such as Life & Health or Property & Casualty, may have separate requirements regarding the number of pre-licensing hours and the key topics that appear on the test. You can find official guidelines in state-issued manuals or by talking with professional insurance educators.
 

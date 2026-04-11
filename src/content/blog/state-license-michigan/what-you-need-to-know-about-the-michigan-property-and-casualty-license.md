@@ -16,7 +16,7 @@ imageAlt: Man in black suit using phone on a Toronto rooftop with skyline view.
 imageCredit: Photo by Sean Kernerman on Pexels
 ---
 
-Keywords: michigan property and casualty license
+Keywords: [michigan property and casualty license](/michigan)
 
 If you are looking to jump-start your career in the insurance industry, earning a Michigan property and casualty license is an essential step. This license allows you to help clients insure their homes, vehicles, and other personal or commercial property. The process might feel daunting at first, but with the right preparation, you can navigate it smoothly and confidently. Below, you will find an overview of the requirements and key steps you need to take, from understanding Michigan’s licensing rules to scheduling your exam and submitting your application.
 
@@ -34,7 +34,7 @@ Having this license not only allows you to serve a wide range of clients, but it
 
 Like every state, Michigan has regulations in place to ensure you are equipped with the knowledge and professionalism needed to serve customers ethically. Most importantly, you must be at least 18 years old and reside in Michigan or hold Michigan as your principal place of business. You should also be prepared to pass a background check during the application phase.
 
-Keep in mind, if you have any prior legal or financial issues, the Michigan Department of Insurance and Financial Services (DIFS) may request additional paperwork. Being honest and thorough with your information streamlines the approval process later on. If you are unsure about your eligibility, you can visit the DIFS website or contact them directly to clarify your status before you invest time and money in the coursework and exam.
+Keep in mind, if you have any prior legal or financial issues, the [Michigan Department of Insurance and Financial Services](/michigan/requirements) (DIFS) may request additional paperwork. Being honest and thorough with your information streamlines the approval process later on. If you are unsure about your eligibility, you can visit the DIFS website or contact them directly to clarify your status before you invest time and money in the coursework and exam.
 
 ## Complete your pre-licensing education
 

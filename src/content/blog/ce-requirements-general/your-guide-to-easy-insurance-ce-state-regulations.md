@@ -23,7 +23,7 @@ If you’ve ever wondered which courses to take, when to complete them, or how e
 
 ## Understand why continuing education matters
 
-In the insurance field, you’re expected to keep learning. Regulators want to see that you’re up to date on new policy guidelines, ethical considerations, and evolving products. By fulfilling your CE requirements, you not only safeguard your license but also provide better service to your clients.
+In the insurance field, you’re expected to keep learning. Regulators want to see that you’re up to date on new policy guidelines, ethical considerations, and evolving products. By fulfilling your [CE requirements](/continuing-education), you not only safeguard your license but also provide better service to your clients.
 
 Beyond preventing license suspensions, continuing education helps you sharpen your skills. From learning about cutting-edge life insurance policies to mastering property and casualty trends, fresh expertise can translate into better sales, loyal customers, and a positive reputation among industry peers.
 

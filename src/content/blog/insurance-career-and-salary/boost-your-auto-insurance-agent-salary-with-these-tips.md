@@ -67,7 +67,7 @@ Not always. Some agencies offer a base salary plus commission, while others oper
 
 ### Do I need a degree to become an auto insurance agent?
 
-A college degree isn’t always required. Typically, you just need to pass your state’s insurance licensing exam. However, investing in professional development courses and advanced training can help differentiate you from other agents and potentially drive up your salary.
+A college degree isn’t always required. Typically, you just need to pass your state’s [insurance licensing exam](/prelicensing). However, investing in professional development courses and advanced training can help differentiate you from other agents and potentially drive up your salary.
 
 ### How quickly can I increase my earnings?
 

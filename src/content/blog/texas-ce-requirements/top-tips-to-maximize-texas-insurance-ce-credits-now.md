@@ -15,11 +15,11 @@ imageAlt: A diverse group participates in a virtual meeting using modern technol
 imageCredit: Photo by MART  PRODUCTION on Pexels
 ---
 
-You may already know that staying on top of your Texas insurance CE credits is essential for maintaining your license and growing your career. But sometimes, the process can feel confusing, time-consuming, or just plain overwhelming. By focusing on a few strategic steps, you can check off your requirements faster and gain valuable expertise that boosts your professional edge. Below are practical tips to help you maximize your continuing education, stay compliant, and ultimately succeed as a Texas insurance agent.
+You may already know that staying on top of your [Texas insurance CE](/texas/continuing-education) credits is essential for maintaining your license and growing your career. But sometimes, the process can feel confusing, time-consuming, or just plain overwhelming. By focusing on a few strategic steps, you can check off your requirements faster and gain valuable expertise that boosts your professional edge. Below are practical tips to help you maximize your continuing education, stay compliant, and ultimately succeed as a [Texas insurance](/texas) agent.
 
 ## Know your Texas CE requirements
 
-Before you do anything else, it helps to understand the continuing education requirements set by the Texas Department of Insurance (TDI). Most licenses require a certain number of CE hours every renewal cycle, usually spread across specific topics like ethics or specialized product lines.
+Before you do anything else, it helps to understand the continuing education requirements set by the [Texas Department of Insurance](/texas/requirements) (TDI). Most licenses require a certain number of CE hours every renewal cycle, usually spread across specific topics like ethics or specialized product lines.
 
 Some licenses, for example, mandate ethics credits each term. Others might require you to complete specific training on new regulations. Make sure you confirm what applies to your line of authority so you can plan a balanced schedule of courses. Taking the time to identify your exact obligations up front prevents scrambling to meet last-minute requirements.
 

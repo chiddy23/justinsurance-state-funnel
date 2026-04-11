@@ -94,7 +94,7 @@ Practice questions are one of the most effective ways to evaluate your knowledge
 2.  How much time do I need to study?  
     It depends on your background. If you have experience in insurance, you may only need a few weeks of focused preparation. If you are new, consider a longer study period—maybe one to two months—to fully grasp the material.
 3.  Do I need additional courses or textbooks?  
-    Many states require pre-licensing courses. Even if they are not mandatory where you live, consider using a reputable course or textbook to keep your lessons organized and ensure you cover all licensure requirements.
+    Many states require [pre-licensing courses](/prelicensing). Even if they are not mandatory where you live, consider using a reputable course or textbook to keep your lessons organized and ensure you cover all licensure requirements.
 4.  What if I fail the exam on my first try?  
     Stay calm. Most states allow you to retake the exam after a short waiting period or by scheduling a new date. Use your initial experience as a learning tool—review the results to see which areas need more attention.
 5.  Can practice exams really help me pass?  

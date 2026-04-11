@@ -19,7 +19,7 @@ imageCredit: Photo by Cup of  Couple on Pexels
 
 ## Understand your professional opportunity
 
-If you are looking for a career that blends stability, growth potential, and community impact, an insurance license is a step worth exploring. In Washington State, insurance is a diverse field that covers everything from life and health policies to property and casualty lines. Before you begin, you need to make sure you meet all basic Washington insurance license eligibility requirements. Getting prepared now can help you smoothly navigate the process and set yourself up for success once you start working with clients.
+If you are looking for a career that blends stability, growth potential, and community impact, an insurance license is a step worth exploring. In Washington State, insurance is a diverse field that covers everything from life and health policies to property and casualty lines. Before you begin, you need to make sure you meet all basic [Washington insurance license](/washington) eligibility requirements. Getting prepared now can help you smoothly navigate the process and set yourself up for success once you start working with clients.
 
 Insurance in Washington also plays an important role in protecting families, small businesses, and entire communities. By becoming a licensed agent, you will have the chance to guide others in selecting coverage that suits their needs, whether that is health coverage for a growing family or commercial property insurance for a local entrepreneur. It all starts with completing a few key steps that prove to the state you are ready to take on this responsibility.
 
@@ -48,7 +48,7 @@ Once you understand the core requirements, the actual path to licensure is prett
 2.  Complete your pre-licensing education  
     Select a program that covers the exam content in your chosen lines of authority. You will receive a certificate of completion or proof of course hours, which you often need when scheduling your exam.
 3.  Pass the state exam  
-    After finishing your education, register for the official Washington insurance licensing exam. Testing services will verify that you have met all the prerequisites. Be sure to arrive on time, bring proper identification, and keep track of your passing score report once you finish.
+    After finishing your education, register for the official [Washington insurance licensing exam](/washington/requirements). Testing services will verify that you have met all the prerequisites. Be sure to arrive on time, bring proper identification, and keep track of your passing score report once you finish.
 4.  Submit your license application  
     Once you pass your exam, submit the appropriate application to the OIC. Include your score report, any background documentation, and the license fee. If everything is in order, you can usually expect to receive your license without a long waiting period.
 

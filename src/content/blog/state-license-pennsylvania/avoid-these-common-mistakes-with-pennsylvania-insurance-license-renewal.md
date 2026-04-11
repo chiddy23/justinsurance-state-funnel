@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Jonathan Borba on Pexels
 ---
 
-Before you submit your next Pennsylvania insurance license renewal application, it helps to know the most common pitfalls and how to avoid them. Even if you are just beginning your journey toward becoming a licensed insurance agent, understanding these issues now will prevent headaches later. Below, you will find simple steps and clear guidance to keep your license in good standing, fulfill your continuing education requirements, and sidestep last-minute scrambling.
+Before you submit your next [Pennsylvania insurance license](/pennsylvania) renewal application, it helps to know the most common pitfalls and how to avoid them. Even if you are just beginning your journey toward becoming a licensed insurance agent, understanding these issues now will prevent headaches later. Below, you will find simple steps and clear guidance to keep your license in good standing, fulfill your continuing education requirements, and sidestep last-minute scrambling.
 
 ## Know the renewal basics
 
@@ -28,7 +28,7 @@ The renewal process typically includes completing the mandatory continuing educa
 
 ## Complete your continuing education
 
-If you plan your continuing education (CE) courses in advance, you are far less likely to scramble at the last moment. The Pennsylvania Insurance Department requires a specific number of CE credits every renewal cycle. Often, these courses update you on the latest state regulations or broaden your knowledge of new insurance products. When you see continuing education as an opportunity to upgrade your skills rather than a chore, you will be more inclined to finish it without procrastination.
+If you plan your continuing education (CE) courses in advance, you are far less likely to scramble at the last moment. The [Pennsylvania Insurance Department](/pennsylvania/requirements) requires a specific number of CE credits every renewal cycle. Often, these courses update you on the latest state regulations or broaden your knowledge of new insurance products. When you see continuing education as an opportunity to upgrade your skills rather than a chore, you will be more inclined to finish it without procrastination.
 
 While each agent’s situation varies, aim to stay consistent in your approach. You could schedule a couple of hours each month to study, or sign up for a program that splits the required lessons into manageable segments. Either way, reviewing the rules that apply to your license class ensures you do not take the wrong courses or miss a crucial topic.
 

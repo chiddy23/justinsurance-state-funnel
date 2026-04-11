@@ -21,7 +21,7 @@ Natural light can brighten any space, and the same principle applies to understa
 
 Before you dive into gathering paperwork, it helps to have a basic overview of the path ahead. New Jersey requires you to complete certain pre-licensing coursework, pass a licensing exam, and then apply for your official license. Each step involves deadlines, fees, and documentation, but the overall process is straightforward once you know the timeline.
 
-NJ insurance licensing rules often include specific education hour requirements, so make sure you verify each one before you begin. You will also want to keep track of any changes the New Jersey Department of Banking and Insurance might announce, since those can affect your preparation.
+NJ insurance licensing rules often include specific education hour requirements, so make sure you verify each one before you begin. You will also want to keep track of any changes the [New Jersey Department of Banking and Insurance](/new-jersey/requirements) might announce, since those can affect your preparation.
 
 Most importantly, realize that becoming a licensed insurance producer is a professional milestone—once you have that license in hand, you can build your career offering the insurance products consumers need in their daily lives. Whether you plan on selling property and casualty, life, health, or another line of coverage, you can open new doors in a well-regulated industry that provides stability and growth.
 
@@ -33,7 +33,7 @@ Knowing the general steps is great, but the first official checkpoint is meeting
 2.  Have a valid Social Security number.
 3.  Be a resident of New Jersey (or a qualifying out-of-state resident if applying for a nonresident license).
 
-Unlike some professions, there is no specific college degree requirement to become a New Jersey insurance producer. However, you will still complete coursework to prepare for your licensing exam. Documentation proving your legal name, address, and age may also come into play as you fill out forms. It is a good idea to keep digital and hard copies of your vital documents in a safe spot.
+Unlike some professions, there is no specific college degree requirement to become a [New Jersey insurance producer](/new-jersey). However, you will still complete coursework to prepare for your licensing exam. Documentation proving your legal name, address, and age may also come into play as you fill out forms. It is a good idea to keep digital and hard copies of your vital documents in a safe spot.
 
 ## Complete the pre-licensing steps
 

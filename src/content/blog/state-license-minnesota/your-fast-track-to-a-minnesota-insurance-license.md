@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Moe Magners on Pexels
 ---
 
-Natural curiosity about the possibilities of a new career often brings you to the question of how to get your Minnesota insurance license. Whether you are switching careers or looking to expand your professional options, focusing on a streamlined path can save you both time and effort. Below, you will find a friendly, step-by-step guide designed to help you achieve your license as quickly and efficiently as possible. By following these steps, you will be poised to earn your credentials and begin offering life and health or property and casualty insurance services to the residents of Minnesota.
+Natural curiosity about the possibilities of a new career often brings you to the question of how to get your [Minnesota insurance license](/minnesota). Whether you are switching careers or looking to expand your professional options, focusing on a streamlined path can save you both time and effort. Below, you will find a friendly, step-by-step guide designed to help you achieve your license as quickly and efficiently as possible. By following these steps, you will be poised to earn your credentials and begin offering life and health or property and casualty insurance services to the residents of Minnesota.
 
 ## Gather your prerequisites
 
@@ -33,7 +33,7 @@ You can fast-track this process by choosing a structured, reputable course provi
 
 ## Pass your licensing exam
 
-When you have met your pre-licensing education requirements, it is time to sit for the Minnesota insurance licensing exam. Here is how to make the testing process as efficient as possible:
+When you have met your pre-licensing education requirements, it is time to sit for the [Minnesota insurance licensing exam](/minnesota/requirements). Here is how to make the testing process as efficient as possible:
 
 1.  Schedule promptly. Register through the authorized testing provider so you can secure your preferred test date and location. It is generally best to book your exam soon after you finish pre-licensing training so the information stays fresh in your mind.
 2.  Review the exam details. Familiarize yourself with the test format. For most lines of authority, you can expect a combination of multiple-choice questions covering general insurance concepts and state-specific regulations.

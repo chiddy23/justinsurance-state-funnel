@@ -17,11 +17,11 @@ imageAlt: >-
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-You might feel overwhelmed by the idea of renewing your Indiana insurance license, but there is good news: once you know a few key details, the process is easier than you’d expect. This guide breaks down the steps, offers practical tips on continuing education (CE), and points you toward simple ways to stay on track. By the end, you’ll be prepared to complete your renewal with confidence.
+You might feel overwhelmed by the idea of renewing your [Indiana insurance license](/indiana), but there is good news: once you know a few key details, the process is easier than you’d expect. This guide breaks down the steps, offers practical tips on continuing education (CE), and points you toward simple ways to stay on track. By the end, you’ll be prepared to complete your renewal with confidence.
 
 ## Gather the basics of renewal
 
-A clear understanding of your renewal requirements helps everything else fall into place more smoothly. In Indiana, insurance licenses generally need to be renewed every two years. That means you will often stay in sync with the state’s continuing education schedule. Pay attention to any notices or emails you receive from the Indiana Department of Insurance, as these contain information about official deadlines and any changes to the renewal process.
+A clear understanding of your renewal requirements helps everything else fall into place more smoothly. In Indiana, insurance licenses generally need to be renewed every two years. That means you will often stay in sync with the state’s continuing education schedule. Pay attention to any notices or emails you receive from the [Indiana Department of Insurance](/indiana/requirements), as these contain information about official deadlines and any changes to the renewal process.
 
 Remember that renewal hinges not just on meeting deadlines, but on fulfilling CE obligations. The good news is that even if you hold multiple lines of authority, you won’t necessarily have to repeat lengthy courses for each type of coverage. Instead, you can take relevant courses that satisfy the total CE requirement across your lines. This approach saves time and simplifies planning.
 

@@ -74,7 +74,7 @@ Seek support from peers
 Study groups and online forums can provide motivation when you’re feeling stuck. Hearing how others approach their exam prep might inspire you to try fresh techniques.
 
 Keep your goal in sight  
-Remind yourself why you’re pursuing an insurance license in the first place. Perhaps you want a stable career or a chance to help families protect their financial future. Keeping your “why” in mind fuels perseverance.
+Remind yourself why you’re pursuing an [insurance license](/prelicensing) in the first place. Perhaps you want a stable career or a chance to help families protect their financial future. Keeping your “why” in mind fuels perseverance.
 
 Practice exam pacing  
 When you do practice tests, time yourself. If you’re rushing to finish at the last minute, you may be missing easy questions. Steady pacing and quick decision-making go hand in hand when tackling multiple-choice exams.

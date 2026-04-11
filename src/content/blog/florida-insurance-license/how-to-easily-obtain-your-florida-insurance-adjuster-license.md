@@ -15,7 +15,7 @@ imageAlt: 'Digital calculator resting on a wooden table, selective focus.'
 imageCredit: Photo by Dione Neris on Pexels
 ---
 
-You may be surprised by how straightforward it can be to earn your Florida insurance adjuster license once you understand the process. By learning the requirements, completing your pre-licensing steps, and preparing for the state exam, you set yourself up for a rewarding career helping individuals and businesses navigate insurance claims. Below, you will find a clear, friendly roadmap that guides you from the first moment you decide to become an adjuster to the day you land your official license.
+You may be surprised by how straightforward it can be to earn your [Florida insurance adjuster license](/florida) once you understand the process. By learning the requirements, completing your pre-licensing steps, and preparing for the state exam, you set yourself up for a rewarding career helping individuals and businesses navigate insurance claims. Below, you will find a clear, friendly roadmap that guides you from the first moment you decide to become an adjuster to the day you land your official license.
 
 ## Know the role of insurance adjusters
 
@@ -45,7 +45,7 @@ Most exam administrations take place at testing centers across Florida, and you 
 
 ## Apply for your license
 
-With the state exam under your belt, the next step is to submit your application. You can handle this online through the Florida Department of Financial Services (DFS) portal. Generally, you will fill out a detailed form that requests personal information, course details, exam results, and any professional background data the state might need. You will also pay an application fee, which typically ranges from $50 to $100.
+With the state exam under your belt, the next step is to submit your application. You can handle this online through the [Florida Department of Financial Services](/florida/requirements) (DFS) portal. Generally, you will fill out a detailed form that requests personal information, course details, exam results, and any professional background data the state might need. You will also pay an application fee, which typically ranges from $50 to $100.
 
 Once you have submitted everything accurately, the DFS will review your application. Approval timelines can vary, but many applicants receive a decision within a few weeks. Try to keep an eye on your inbox for any requests for additional documents or clarifications that could delay final approval.
 

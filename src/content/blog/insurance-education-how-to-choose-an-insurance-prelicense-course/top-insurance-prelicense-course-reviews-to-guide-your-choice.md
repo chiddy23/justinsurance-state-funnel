@@ -89,4 +89,4 @@ Balancing schedule, budget, and learning style is the key to finding your ideal 
 
 If you are looking for a reliable recommendation, JustInsurance is often mentioned by students who value a straightforward setup. It provides an intuitive online platform that helps you progress step by step, and it is known for prioritizing up-to-date materials. That said, the final decision comes down to your unique needs and preferences.
 
-Once you settle on the right course, commit fully to your study plan. By investing your energy in a structured and reputable program, you are setting yourself on a solid path to passing your insurance licensing exam. Pick the course that sparks your confidence and begin your study journey today.
+Once you settle on the right course, commit fully to your study plan. By investing your energy in a structured and reputable program, you are setting yourself on a solid path to passing your [insurance licensing exam](/prelicensing). Pick the course that sparks your confidence and begin your study journey today.

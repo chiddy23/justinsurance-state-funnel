@@ -19,13 +19,13 @@ imageCredit: Photo by Kampus Production on Pexels
 
 ## Understand your licensing basics
 
-Getting your Georgia insurance license is your gateway to a promising career, but it does involve a few important steps you should know. First, you'll complete a pre-licensing education program to make sure you have the foundational knowledge needed to advise clients effectively. Then, you'll need to pass Georgia's official licensing exam, submit a license application, and successfully undergo a background check. These steps ensure you meet the state's professional standards and are ready to serve policyholders.
+Getting your [Georgia insurance license](/georgia) is your gateway to a promising career, but it does involve a few important steps you should know. First, you'll complete a pre-licensing education program to make sure you have the foundational knowledge needed to advise clients effectively. Then, you'll need to pass Georgia's official licensing exam, submit a license application, and successfully undergo a background check. These steps ensure you meet the state's professional standards and are ready to serve policyholders.
 
-Maintaining your license is just as crucial as earning it. Once you're officially licensed, Georgia requires continuing education (CE) to keep your skills current. This ongoing education helps you stay up to date on new regulations, coverage options, and best practices. Because the insurance industry changes quickly, meeting the Georgia insurance CE deadline each renewal period is vital for protecting both your career and your clients.
+Maintaining your license is just as crucial as earning it. Once you're officially licensed, Georgia requires continuing education (CE) to keep your skills current. This ongoing education helps you stay up to date on new regulations, coverage options, and best practices. Because the insurance industry changes quickly, meeting the [Georgia insurance CE](/georgia/continuing-education) deadline each renewal period is vital for protecting both your career and your clients.
 
 ## Steps to get your Georgia insurance license
 
-### Complete your pre-licensing requirements
+### Complete your [pre-licensing requirements](/georgia/prelicensing)
 
 Georgia requires you to finish a certain number of pre-licensing hours tailored to the type of insurance you plan to sell. Health, Life, Property, and Casualty lines each have different course hours, so confirm the exact total you need from the Georgia Department of Insurance. You’ll learn about policy structures, state regulations, ethical practices, and other key coverage details. Many learners choose online courses for flexibility, especially if you’re working or attending school, but in-person classes are also an option if you prefer a classroom setting.
 

@@ -18,11 +18,11 @@ imageAlt: >-
 imageCredit: Photo by Thirdman on Pexels
 ---
 
-Whether you’re starting a new career or looking to expand your credentials, getting your Maryland life and health insurance license can unlock exciting opportunities in the insurance field. This license gives you the authority to help people plan for the future, protect their families’ interests, and navigate important decisions about life and health coverage. In Maryland, the process is straightforward if you know each step ahead of time.
+Whether you’re starting a new career or looking to expand your credentials, getting your [Maryland life and health insurance license](/maryland) can unlock exciting opportunities in the insurance field. This license gives you the authority to help people plan for the future, protect their families’ interests, and navigate important decisions about life and health coverage. In Maryland, the process is straightforward if you know each step ahead of time.
 
 Before you dive in, remember that you’re preparing for an industry that values credibility, compassion, and accuracy. By following a clear roadmap, you can efficiently meet Maryland’s requirements and set yourself up for long-term success in your insurance career.
 
-## Understand Maryland licensing requirements
+## Understand [Maryland licensing requirements](/maryland/requirements)
 
 To work as a life and health insurance producer in Maryland, you generally need to be at least 18 years old and possess a clean criminal record. The state also requires specific pre-licensing education hours for each line of authority, which you must complete before applying to take the licensing exam.
 

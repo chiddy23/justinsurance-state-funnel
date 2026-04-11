@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Lukas Blazek on Pexels
 ---
 
-You might already know that continuing education (CE) plays a major role in keeping your insurance license active. Yet when it comes to CE requirements by state insurance rules, it can feel like each state speaks a different language. Understanding how these rules vary across the country can help you stay compliant, renew on time, and continue growing in your career.
+You might already know that continuing education (CE) plays a major role in keeping your [insurance license](/prelicensing) active. Yet when it comes to [CE requirements](/continuing-education) by state insurance rules, it can feel like each state speaks a different language. Understanding how these rules vary across the country can help you stay compliant, renew on time, and continue growing in your career.
 
 ## Recognize the importance of CE
 

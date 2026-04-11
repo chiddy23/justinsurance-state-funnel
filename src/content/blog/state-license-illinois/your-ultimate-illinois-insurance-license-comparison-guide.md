@@ -1,16 +1,20 @@
 ---
-title: "Your Ultimate Illinois Insurance License Comparison Guide"
-description: "Your Ultimate Illinois Insurance License Comparison Guide"
-keyword: "illinois insurance license comparison"
-targetKeywords: "illinois insurance license comparison"
-cluster: "state-license-illinois"
-clusterName: "State License – Illinois"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-ultimate-illinois-insurance-license-comparison-guide.jpg"
-imageAlt: "An elderly businessman reviewing documents at his desk in a modern office setting."
-imageCredit: "Photo by Gustavo Fring on Pexels"
+title: Your Ultimate Illinois Insurance License Comparison Guide
+description: >-
+  Your Ultimate Illinois Insurance License Comparison Guide. Illinois licensing
+  made simple. Read the full guide from JustInsurance.
+keyword: illinois insurance license comparison
+targetKeywords: illinois insurance license comparison
+cluster: state-license-illinois
+clusterName: State License – Illinois
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-ultimate-illinois-insurance-license-comparison-guide.jpg
+imageAlt: >-
+  An elderly businessman reviewing documents at his desk in a modern office
+  setting.
+imageCredit: Photo by Gustavo Fring on Pexels
 ---
 
 Master Description: Compare your license options with our friendly Illinois insurance license comparison guide and get licensed

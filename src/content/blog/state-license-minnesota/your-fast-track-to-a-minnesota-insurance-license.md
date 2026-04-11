@@ -1,16 +1,20 @@
 ---
-title: "Your Fast Track to a Minnesota Insurance License"
-description: "Fast-track your Minnesota insurance license with our friendly guide. Prep, pass, and launch your career!"
-keyword: "minnesota insurance license"
-targetKeywords: "minnesota insurance license"
-cluster: "state-license-minnesota"
-clusterName: "State License –  Minnesota"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-fast-track-to-a-minnesota-insurance-license.jpg"
-imageAlt: "A diverse group of coworkers actively brainstorming and collaborating in a modern, colorful office setting."
-imageCredit: "Photo by Moe Magners on Pexels"
+title: Your Fast Track to a Minnesota Insurance License
+description: >-
+  Fast-track your Minnesota insurance license with our friendly guide. Prep,
+  pass, and launch your career! Minnesota licensing expert advice.
+keyword: minnesota insurance license
+targetKeywords: minnesota insurance license
+cluster: state-license-minnesota
+clusterName: State License –  Minnesota
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-fast-track-to-a-minnesota-insurance-license.jpg
+imageAlt: >-
+  A diverse group of coworkers actively brainstorming and collaborating in a
+  modern, colorful office setting.
+imageCredit: Photo by Moe Magners on Pexels
 ---
 
 Natural curiosity about the possibilities of a new career often brings you to the question of how to get your Minnesota insurance license. Whether you are switching careers or looking to expand your professional options, focusing on a streamlined path can save you both time and effort. Below, you will find a friendly, step-by-step guide designed to help you achieve your license as quickly and efficiently as possible. By following these steps, you will be poised to earn your credentials and begin offering life and health or property and casualty insurance services to the residents of Minnesota.

@@ -1,16 +1,20 @@
 ---
-title: "Find the Best Maryland Insurance License Classes for You"
-description: "Unlock your future with maryland insurance license classes designed just for you in Baltimore-Washington!"
-keyword: "maryland insurance license classes"
-targetKeywords: "maryland insurance license classes"
-cluster: "state-license-maryland"
-clusterName: "State License –  Maryland"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/find-the-best-maryland-insurance-license-classes-for-you.jpg"
-imageAlt: "A hand holding a pen signing a document, close-up shot with focus on the paper."
-imageCredit: "Photo by Tima Miroshnichenko on Pexels"
+title: Find the Best Maryland Insurance License Classes for You
+description: >-
+  Unlock your future with maryland insurance license classes designed just for
+  you in Baltimore-Washington! Maryland licensing expert tips.
+keyword: maryland insurance license classes
+targetKeywords: maryland insurance license classes
+cluster: state-license-maryland
+clusterName: State License –  Maryland
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/find-the-best-maryland-insurance-license-classes-for-you.jpg
+imageAlt: >-
+  A hand holding a pen signing a document, close-up shot with focus on the
+  paper.
+imageCredit: Photo by Tima Miroshnichenko on Pexels
 ---
 
 ## Start with the basics

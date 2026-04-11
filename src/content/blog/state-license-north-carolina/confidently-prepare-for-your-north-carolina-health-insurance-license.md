@@ -1,16 +1,21 @@
 ---
-title: "Confidently Prepare for Your North Carolina Health Insurance License"
-description: "Master your north carolina health insurance license exam with friendly tips and pass with confidence."
-keyword: "s: north carolina health insurance license"
-targetKeywords: "north carolina health insurance license"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/confidently-prepare-for-your-north-carolina-health-insurance-license.jpg"
-imageAlt: "Business professionals wearing masks attending a conference meeting in a modern setting."
-imageCredit: "Photo by Werner Pfennig on Pexels"
+title: Confidently Prepare for Your North Carolina Health Insurance License
+description: >-
+  Master your north carolina health insurance license exam with friendly tips
+  and pass with confidence. North Carolina licensing tips.
+keyword: 's: north carolina health insurance license'
+targetKeywords: north carolina health insurance license
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/confidently-prepare-for-your-north-carolina-health-insurance-license.jpg
+imageAlt: >-
+  Business professionals wearing masks attending a conference meeting in a
+  modern setting.
+imageCredit: Photo by Werner Pfennig on Pexels
 ---
 
 Keywords: north carolina health insurance license

@@ -1,16 +1,20 @@
 ---
-title: "A Clear Look at Insurance Agent Salary for You"
-description: "Curious about insurance agent salary? Get average pay and tips to see if this career fits your goals."
-keyword: "insurance agent salary"
-targetKeywords: "insurance agent salary, how much do insurance agents make"
-cluster: "insurance-career-and-salary"
-clusterName: "Insurance Career & Salary"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/a-clear-look-at-insurance-agent-salary-for-you.jpg"
-imageAlt: "Real estate agent explaining home inspection checklist to clients in an office setting."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: A Clear Look at Insurance Agent Salary for You
+description: >-
+  Curious about insurance agent salary? Get average pay and tips to see if this
+  career fits your goals. Real insights from licensed agents.
+keyword: insurance agent salary
+targetKeywords: 'insurance agent salary, how much do insurance agents make'
+cluster: insurance-career-and-salary
+clusterName: Insurance Career & Salary
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/a-clear-look-at-insurance-agent-salary-for-you.jpg
+imageAlt: >-
+  Real estate agent explaining home inspection checklist to clients in an office
+  setting.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 ## Understand insurance agent salary

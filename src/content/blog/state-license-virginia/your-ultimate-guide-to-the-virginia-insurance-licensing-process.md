@@ -1,16 +1,19 @@
 ---
-title: "Your Ultimate Guide to the Virginia Insurance Licensing Process"
-description: "Unlock the Virginia insurance licensing process with our friendly guide and tips to help you pass with ease."
-keyword: "virginia insurance licensing process"
-targetKeywords: "virginia insurance licensing process"
-cluster: "state-license-virginia"
-clusterName: "State License – Virginia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-ultimate-guide-to-the-virginia-insurance-licensing-process.jpg"
-imageAlt: "Stylish home office desk with modern technology ideal for productivity."
-imageCredit: "Photo by Darina Belonogova on Pexels"
+title: Your Ultimate Guide to the Virginia Insurance Licensing Process
+description: >-
+  Unlock the Virginia insurance licensing process with our friendly guide and
+  tips to help you pass with ease. Virginia licensing expert tips.
+keyword: virginia insurance licensing process
+targetKeywords: virginia insurance licensing process
+cluster: state-license-virginia
+clusterName: State License – Virginia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-ultimate-guide-to-the-virginia-insurance-licensing-process.jpg
+imageAlt: Stylish home office desk with modern technology ideal for productivity.
+imageCredit: Photo by Darina Belonogova on Pexels
 ---
 
 ## Understand the licensing process

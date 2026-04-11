@@ -1,16 +1,21 @@
 ---
-title: "Everything You Should Know About Illinois Life Insurance License Requirements"
-description: "Everything You Should Know About Illinois Life Insurance License Requirements"
-keyword: "illinois life insurance license requirements"
-targetKeywords: "illinois life insurance license requirements"
-cluster: "state-license-illinois"
-clusterName: "State License – Illinois"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/everything-you-should-know-about-illinois-life-insurance-license-requiremen.jpg"
-imageAlt: "Workplace with modern opened netbook with blank screen placed on white desk with stationery and green potted plant"
-imageCredit: "Photo by Ann poan on Pexels"
+title: Everything You Should Know About Illinois Life Insurance License Requirements
+description: >-
+  Everything You Should Know About Illinois Life Insurance License Requirements.
+  Illinois licensing made simple. Read the full guide from JustInsurance.
+keyword: illinois life insurance license requirements
+targetKeywords: illinois life insurance license requirements
+cluster: state-license-illinois
+clusterName: State License – Illinois
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/everything-you-should-know-about-illinois-life-insurance-license-requiremen.jpg
+imageAlt: >-
+  Workplace with modern opened netbook with blank screen placed on white desk
+  with stationery and green potted plant
+imageCredit: Photo by Ann poan on Pexels
 ---
 
 Master Description: Fast-track your insurance career with friendly tips to meet Illinois life insurance license requirements.

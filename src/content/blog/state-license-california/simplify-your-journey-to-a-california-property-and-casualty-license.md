@@ -1,16 +1,19 @@
 ---
-title: "Simplify Your Journey to a California Property and Casualty License"
-description: "Easily navigate your first steps to a California property and casualty license with our friendly tips."
-keyword: "california property and casualty license"
-targetKeywords: "california property and casualty license"
-cluster: "state-license-california"
-clusterName: "State License – California"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/simplify-your-journey-to-a-california-property-and-casualty-license.jpg"
-imageAlt: "Confident businesswoman analyzing documents indoors in an office setting."
-imageCredit: "Photo by Pavel Danilyuk on Pexels"
+title: Simplify Your Journey to a California Property and Casualty License
+description: >-
+  Easily navigate your first steps to a California property and casualty license
+  with our friendly tips. California licensing expert tips.
+keyword: california property and casualty license
+targetKeywords: california property and casualty license
+cluster: state-license-california
+clusterName: State License – California
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/simplify-your-journey-to-a-california-property-and-casualty-license.jpg
+imageAlt: Confident businesswoman analyzing documents indoors in an office setting.
+imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
 So you’re ready to earn your California property and casualty license. This step can lead you toward an exciting career in the insurance field, helping clients protect their homes, vehicles, and businesses. While it may feel daunting at first, the process is actually straightforward once you understand each requirement.

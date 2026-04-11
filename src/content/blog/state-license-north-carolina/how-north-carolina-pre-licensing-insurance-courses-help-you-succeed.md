@@ -1,16 +1,21 @@
 ---
-title: "How North Carolina Pre-Licensing Insurance Courses Help You Succeed"
-description: "Ace your exam and launch your career with north carolina pre-licensing insurance courses for your success."
-keyword: "s: north carolina pre-licensing insurance courses"
-targetKeywords: "north carolina pre-licensing insurance courses"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-north-carolina-pre-licensing-insurance-courses-help-you-succeed.jpg"
-imageAlt: "Professional hands signing a document in an office setting for business purposes."
-imageCredit: "Photo by cottonbro studio on Pexels"
+title: How North Carolina Pre-Licensing Insurance Courses Help You Succeed
+description: >-
+  Ace your exam and launch your career with north carolina pre-licensing
+  insurance courses for your success. North Carolina licensing tips.
+keyword: 's: north carolina pre-licensing insurance courses'
+targetKeywords: north carolina pre-licensing insurance courses
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/how-north-carolina-pre-licensing-insurance-courses-help-you-succeed.jpg
+imageAlt: >-
+  Professional hands signing a document in an office setting for business
+  purposes.
+imageCredit: Photo by cottonbro studio on Pexels
 ---
 
 ## Understand the North Carolina licensing process

@@ -1,16 +1,19 @@
 ---
-title: "Your Friendly Guide to Florida Insurance Continuing Education Success"
-description: "Master Florida insurance continuing education with our friendly guide of smart tips and practice questions."
-keyword: "florida insurance continuing education"
-targetKeywords: "florida insurance continuing education providers"
-cluster: "florida-ce-requirements"
-clusterName: "Florida CE Requirements"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-friendly-guide-to-florida-insurance-continuing-education-success.jpg"
-imageAlt: "Team analyzing business reports and charts during a collaborative meeting."
-imageCredit: "Photo by Pavel Danilyuk on Pexels"
+title: Your Friendly Guide to Florida Insurance Continuing Education Success
+description: >-
+  Master Florida insurance continuing education with our friendly guide of smart
+  tips and practice questions. Florida CE renewal made easy.
+keyword: florida insurance continuing education
+targetKeywords: florida insurance continuing education providers
+cluster: florida-ce-requirements
+clusterName: Florida CE Requirements
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-friendly-guide-to-florida-insurance-continuing-education-success.jpg
+imageAlt: Team analyzing business reports and charts during a collaborative meeting.
+imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
 Understand your continuing education requirements

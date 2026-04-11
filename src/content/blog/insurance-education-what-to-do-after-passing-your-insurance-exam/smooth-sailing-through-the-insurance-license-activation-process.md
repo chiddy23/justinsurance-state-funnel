@@ -1,16 +1,23 @@
 ---
-title: "Smooth Sailing Through the Insurance License Activation Process"
-description: "Simplify your insurance license activation process with friendly, step-by-step tips for post-exam success"
-keyword: ""
-targetKeywords: "post insurance exam guide"
-cluster: "insurance-education-what-to-do-after-passing-your-insurance-exam"
-clusterName: "Insurance Education > Post-License > What to Do After Passing Your Insurance Exam"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/smooth-sailing-through-the-insurance-license-activation-process.jpg"
-imageAlt: "A professional woman in a business suit smiling confidently outside a modern building."
-imageCredit: "Photo by Shazard R. on Pexels"
+title: Smooth Sailing Through the Insurance License Activation Process
+description: >-
+  Simplify your insurance license activation process with friendly, step-by-step
+  tips for post-exam success. Next steps after passing your exam.
+keyword: ''
+targetKeywords: post insurance exam guide
+cluster: insurance-education-what-to-do-after-passing-your-insurance-exam
+clusterName: >-
+  Insurance Education > Post-License > What to Do After Passing Your Insurance
+  Exam
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/smooth-sailing-through-the-insurance-license-activation-process.jpg
+imageAlt: >-
+  A professional woman in a business suit smiling confidently outside a modern
+  building.
+imageCredit: Photo by Shazard R. on Pexels
 ---
 
 Insurance:  post insurance exam guide

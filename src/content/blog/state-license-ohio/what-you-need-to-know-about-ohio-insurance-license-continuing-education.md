@@ -1,16 +1,21 @@
 ---
-title: "What You Need to Know About Ohio Insurance License Continuing Education"
-description: "See how ohio insurance license continuing education helps you stay licensed, confident and compliant."
-keyword: "ohio insurance license continuing education"
-targetKeywords: "ohio insurance license continuing education"
-cluster: "state-license-ohio"
-clusterName: "State License – Ohio"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-need-to-know-about-ohio-insurance-license-continuing-education.jpg"
-imageAlt: "A family discusses real estate documents at home with a realtor, fostering communication and planning."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: What You Need to Know About Ohio Insurance License Continuing Education
+description: >-
+  See how ohio insurance license continuing education helps you stay licensed,
+  confident and compliant. Ohio licensing expert guidance.
+keyword: ohio insurance license continuing education
+targetKeywords: ohio insurance license continuing education
+cluster: state-license-ohio
+clusterName: State License – Ohio
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-you-need-to-know-about-ohio-insurance-license-continuing-education.jpg
+imageAlt: >-
+  A family discusses real estate documents at home with a realtor, fostering
+  communication and planning.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 When you begin exploring the ohio insurance license continuing education requirements, it’s natural to have a few questions. How many hours do you need? What topics must you cover? Where can you study? This guide walks you through the most important points, from initial licensing to maintaining that license in Ohio. By the end, you’ll know exactly what to expect and how to keep your credentials up to date.

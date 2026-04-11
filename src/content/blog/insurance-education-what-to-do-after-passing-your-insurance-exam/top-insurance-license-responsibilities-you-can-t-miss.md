@@ -1,16 +1,22 @@
 ---
-title: "Top Insurance License Responsibilities You Can’t Miss"
-description: "Learn what insurance license responsibilities you can’t miss to breeze through your post-exam steps."
-keyword: ""
-targetKeywords: "insurance license responsibilities"
-cluster: "insurance-education-what-to-do-after-passing-your-insurance-exam"
-clusterName: "Insurance Education > Post-License > What to Do After Passing Your Insurance Exam"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-insurance-license-responsibilities-you-can-t-miss.jpg"
-imageAlt: "An advisor discussing financial documents with a senior couple indoors in a cozy living room setting."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: Top Insurance License Responsibilities You Can’t Miss
+description: >-
+  Learn what insurance license responsibilities you can’t miss to breeze through
+  your post-exam steps. Next steps after passing your exam.
+keyword: ''
+targetKeywords: insurance license responsibilities
+cluster: insurance-education-what-to-do-after-passing-your-insurance-exam
+clusterName: >-
+  Insurance Education > Post-License > What to Do After Passing Your Insurance
+  Exam
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/top-insurance-license-responsibilities-you-can-t-miss.jpg
+imageAlt: >-
+  An advisor discussing financial documents with a senior couple indoors in a
+  cozy living room setting.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 Insurance: insurance license responsibilities

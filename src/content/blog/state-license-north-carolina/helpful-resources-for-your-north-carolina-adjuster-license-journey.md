@@ -1,16 +1,21 @@
 ---
-title: "Helpful Resources for Your North Carolina Adjuster License Journey"
-description: "Kickstart your north carolina adjuster license with friendly tips and essential pre-licensing resources."
-keyword: "s: north carolina adjuster license"
-targetKeywords: "north carolina adjuster license"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/helpful-resources-for-your-north-carolina-adjuster-license-journey.jpg"
-imageAlt: "Two business professionals having a meeting outdoors, exchanging business cards."
-imageCredit: "Photo by Max Medyk on Pexels"
+title: Helpful Resources for Your North Carolina Adjuster License Journey
+description: >-
+  Kickstart your north carolina adjuster license with friendly tips and
+  essential pre-licensing resources. North Carolina licensing tips.
+keyword: 's: north carolina adjuster license'
+targetKeywords: north carolina adjuster license
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/helpful-resources-for-your-north-carolina-adjuster-license-journey.jpg
+imageAlt: >-
+  Two business professionals having a meeting outdoors, exchanging business
+  cards.
+imageCredit: Photo by Max Medyk on Pexels
 ---
 
 ## North Carolina adjuster license basics

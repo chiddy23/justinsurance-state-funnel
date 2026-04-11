@@ -1,16 +1,18 @@
 ---
-title: "Take Control of Your Insurance Agent Lead Generation Journey"
-description: "Jumpstart your insurance agent lead generation and build loyal clientele fast in your first year."
-keyword: "insurance agent lead generation"
-targetKeywords: "insurance agent lead generation"
-cluster: "insurance-agent-career-guide"
-clusterName: "Insurance Agent Career Guide"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/take-control-of-your-insurance-agent-lead-generation-journey.jpg"
-imageAlt: "Colleagues discussing data trends on a whiteboard with graphs and charts."
-imageCredit: "Photo by www.kaboompics.com on Pexels"
+title: Take Control of Your Insurance Agent Lead Generation Journey
+description: >-
+  Jumpstart your insurance agent lead generation and build loyal clientele fast
+  in your first year. Career tips from industry experts.
+keyword: insurance agent lead generation
+targetKeywords: insurance agent lead generation
+cluster: insurance-agent-career-guide
+clusterName: Insurance Agent Career Guide
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/take-control-of-your-insurance-agent-lead-generation-journey.jpg
+imageAlt: Colleagues discussing data trends on a whiteboard with graphs and charts.
+imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
 Starting out in the insurance industry can be both exciting and overwhelming. You have studied, passed your licensing exams, and now it is time to put your knowledge into practice. One of the most important aspects of building a successful practice is insurance agent lead generation. When you know how to attract and nurture potential clients, you pave the way for steady growth and long-term success. Below, you will find actionable steps to help you generate steady leads, boost your confidence, and position yourself for lasting achievements in this ever-evolving field.

@@ -1,16 +1,20 @@
 ---
-title: "Your Guide to Easy Insurance CE State Regulations"
-description: "Simplify insurance ce state regulations with our friendly guide so you can renew your license effortlessly."
-keyword: "insurance ce state regulations"
-targetKeywords: "insurance ce state regulations"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-guide-to-easy-insurance-ce-state-regulations.jpg"
-imageAlt: "Two businessmen reviewing financial charts on a laptop and tablet in a modern office setting."
-imageCredit: "Photo by AlphaTradeZone on Pexels"
+title: Your Guide to Easy Insurance CE State Regulations
+description: >-
+  Simplify insurance ce state regulations with our friendly guide so you can
+  renew your license effortlessly. State-by-state CE compliance tips.
+keyword: insurance ce state regulations
+targetKeywords: insurance ce state regulations
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-guide-to-easy-insurance-ce-state-regulations.jpg
+imageAlt: >-
+  Two businessmen reviewing financial charts on a laptop and tablet in a modern
+  office setting.
+imageCredit: Photo by AlphaTradeZone on Pexels
 ---
 
 You might be juggling your busy client schedules, meetings, and personal life all at once. Amid these responsibilities, keeping pace with insurance CE state regulations can seem daunting, especially when every state has its own set of rules. Yet staying on top of continuing education (CE) ensures your license remains in good standing and demonstrates your commitment to professional growth.

@@ -1,16 +1,20 @@
 ---
-title: "Easy California Insurance License Requirements You Must Know"
-description: "Master California insurance license requirements with our friendly guide so you can get licensed fast"
-keyword: "california insurance license requirements"
-targetKeywords: "california insurance pre-licensing courses"
-cluster: "state-license-california"
-clusterName: "State License – California"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/easy-california-insurance-license-requirements-you-must-know.jpg"
-imageAlt: "Smiling man in a suit working on a laptop at a table in a modern office setting."
-imageCredit: "Photo by Gustavo Fring on Pexels"
+title: Easy California Insurance License Requirements You Must Know
+description: >-
+  Master California insurance license requirements with our friendly guide so
+  you can get licensed fast. California licensing expert tips.
+keyword: california insurance license requirements
+targetKeywords: california insurance pre-licensing courses
+cluster: state-license-california
+clusterName: State License – California
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/easy-california-insurance-license-requirements-you-must-know.jpg
+imageAlt: >-
+  Smiling man in a suit working on a laptop at a table in a modern office
+  setting.
+imageCredit: Photo by Gustavo Fring on Pexels
 ---
 
 ## Understand the licensing landscape

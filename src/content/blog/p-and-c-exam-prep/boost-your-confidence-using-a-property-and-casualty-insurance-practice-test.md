@@ -1,16 +1,21 @@
 ---
-title: "Boost Your Confidence Using a Property and Casualty Insurance Practice Test"
-description: "Boost your confidence with our property and casualty insurance practice test and ace your pre-licensing exam."
-keyword: "property and casualty insurance practice test"
-targetKeywords: "property and casualty insurance practice test"
-cluster: "p-and-c-exam-prep"
-clusterName: "P&C Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/boost-your-confidence-using-a-property-and-casualty-insurance-practice-test.jpg"
-imageAlt: "Elderly woman in pink coat working on a laptop at a white desk surrounded by artistic frames."
-imageCredit: "Photo by Ivan S on Pexels"
+title: Boost Your Confidence Using a Property and Casualty Insurance Practice Test
+description: >-
+  Boost your confidence with our property and casualty insurance practice test
+  and ace your pre-licensing exam. Complete P&C exam prep guidance.
+keyword: property and casualty insurance practice test
+targetKeywords: property and casualty insurance practice test
+cluster: p-and-c-exam-prep
+clusterName: P&C Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/boost-your-confidence-using-a-property-and-casualty-insurance-practice-test.jpg
+imageAlt: >-
+  Elderly woman in pink coat working on a laptop at a white desk surrounded by
+  artistic frames.
+imageCredit: Photo by Ivan S on Pexels
 ---
 
 Preparing for the property and casualty insurance licensing exam can feel overwhelming. You might be juggling dense textbooks, complicated terminology, and a ticking clock until test day. One straightforward way to calm your nerves and boost your confidence is to use a property and casualty insurance practice test. These simulated exams give you a preview of the real thing and help pinpoint areas where you need more review.

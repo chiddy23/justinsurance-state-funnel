@@ -1,16 +1,21 @@
 ---
-title: "Florida Insurance Licensing Schools That Set You Up for Success"
-description: "Explore florida insurance licensing schools that help you ace the exam and kickstart your career."
-keyword: "florida insurance licensing schools"
-targetKeywords: "florida insurance licensing schools"
-cluster: "florida-insurance-license"
-clusterName: "Florida Insurance License"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/florida-insurance-licensing-schools-that-set-you-up-for-success.jpg"
-imageAlt: "A couple consults a professional in an office setting, discussing important matters."
-imageCredit: "Photo by Pavel Danilyuk on Pexels"
+title: Florida Insurance Licensing Schools That Set You Up for Success
+description: >-
+  Explore florida insurance licensing schools that help you ace the exam and
+  kickstart your career. Licensed agent insights for Florida.
+keyword: florida insurance licensing schools
+targetKeywords: florida insurance licensing schools
+cluster: florida-insurance-license
+clusterName: Florida Insurance License
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/florida-insurance-licensing-schools-that-set-you-up-for-success.jpg
+imageAlt: >-
+  A couple consults a professional in an office setting, discussing important
+  matters.
+imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
 ## Know the florida insurance licensing requirements

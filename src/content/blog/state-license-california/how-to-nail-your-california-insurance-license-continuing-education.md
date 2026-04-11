@@ -1,16 +1,21 @@
 ---
-title: "How to Nail Your California Insurance License Continuing Education"
-description: "Nail your California insurance license continuing education with friendly tips to breeze through renewal."
-keyword: "california insurance license continuing education"
-targetKeywords: "california insurance license continuing education"
-cluster: "state-license-california"
-clusterName: "State License – California"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-to-nail-your-california-insurance-license-continuing-education.jpg"
-imageAlt: "A financial advisor discusses paperwork with a client at a desk in a modern office."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: How to Nail Your California Insurance License Continuing Education
+description: >-
+  Nail your California insurance license continuing education with friendly tips
+  to breeze through renewal. California licensing expert tips.
+keyword: california insurance license continuing education
+targetKeywords: california insurance license continuing education
+cluster: state-license-california
+clusterName: State License – California
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/how-to-nail-your-california-insurance-license-continuing-education.jpg
+imageAlt: >-
+  A financial advisor discusses paperwork with a client at a desk in a modern
+  office.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 Securing your California insurance license continuing education doesn’t have to be a daunting task. With a solid roadmap and the right support, you can fulfill these requirements while strengthening your expertise in the insurance field. Whether you’re renewing your existing license or aiming to add more lines of authority, you’ll find that each step contributes to your professional growth and success. Think of it as an opportunity to expand your skills, not just a checkbox on your to-do list.

@@ -1,16 +1,21 @@
 ---
-title: "Quick Tips for Passing Your North Carolina Property and Casualty License"
-description: "Crush your north carolina property and casualty license exam with friendly, quick tips for first-timers"
-keyword: "s:north carolina property and casualty license"
-targetKeywords: "north carolina property and casualty license"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/quick-tips-for-passing-your-north-carolina-property-and-casualty-license.jpg"
-imageAlt: "Hands typing on a laptop at a desk with an insurance paper and plant, suggesting a work environment."
-imageCredit: "Photo by Kindel Media on Pexels"
+title: Quick Tips for Passing Your North Carolina Property and Casualty License
+description: >-
+  Crush your north carolina property and casualty license exam with friendly,
+  quick tips for first-timers. North Carolina licensing tips.
+keyword: 's:north carolina property and casualty license'
+targetKeywords: north carolina property and casualty license
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/quick-tips-for-passing-your-north-carolina-property-and-casualty-license.jpg
+imageAlt: >-
+  Hands typing on a laptop at a desk with an insurance paper and plant,
+  suggesting a work environment.
+imageCredit: Photo by Kindel Media on Pexels
 ---
 
 Keywords:north carolina property and casualty license

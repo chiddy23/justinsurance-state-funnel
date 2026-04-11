@@ -1,16 +1,20 @@
 ---
-title: "What to Expect From Your Illinois Insurance License Cost"
-description: "What to Expect From Your Illinois Insurance License Cost"
-keyword: "illinois insurance license cost"
-targetKeywords: "illinois insurance license cost"
-cluster: "state-license-illinois"
-clusterName: "State License – Illinois"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-to-expect-from-your-illinois-insurance-license-cost.jpg"
-imageAlt: "Professional man checking time with wristwatch while holding a laptop bag outside modern office."
-imageCredit: "Photo by Mizuno K on Pexels"
+title: What to Expect From Your Illinois Insurance License Cost
+description: >-
+  What to Expect From Your Illinois Insurance License Cost. Illinois licensing
+  made simple. Read the full guide from JustInsurance.
+keyword: illinois insurance license cost
+targetKeywords: illinois insurance license cost
+cluster: state-license-illinois
+clusterName: State License – Illinois
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/what-to-expect-from-your-illinois-insurance-license-cost.jpg
+imageAlt: >-
+  Professional man checking time with wristwatch while holding a laptop bag
+  outside modern office.
+imageCredit: Photo by Mizuno K on Pexels
 ---
 
 Master Description: Curious about your Illinois insurance license cost? Get clear fee breakdowns, exam tips, and hacks.

@@ -1,16 +1,19 @@
 ---
-title: "How Indiana Insurance License Continuing Education Can Help Your Growth"
-description: "Unlock new opportunities with Indiana insurance license continuing education and watch your career thrive."
-keyword: "indiana insurance license continuing education"
-targetKeywords: "indiana insurance license continuing education"
-cluster: "state-license-indiana"
-clusterName: "State License –  Indiana"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-indiana-insurance-license-continuing-education-can-help-your-growth.jpg"
-imageAlt: "Young woman concentrating while typing on a laptop, seated at a desk indoors."
-imageCredit: "Photo by Ron Lach on Pexels"
+title: How Indiana Insurance License Continuing Education Can Help Your Growth
+description: >-
+  Unlock new opportunities with Indiana insurance license continuing education
+  and watch your career thrive. Indiana licensing expert guidance.
+keyword: indiana insurance license continuing education
+targetKeywords: indiana insurance license continuing education
+cluster: state-license-indiana
+clusterName: State License –  Indiana
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/how-indiana-insurance-license-continuing-education-can-help-your-growth.jpg
+imageAlt: 'Young woman concentrating while typing on a laptop, seated at a desk indoors.'
+imageCredit: Photo by Ron Lach on Pexels
 ---
 
 So you’re ready to take the next step in your insurance career. Maybe you’ve recently earned your license, or perhaps you’re already looking towards renewal. In either case, your Indiana insurance license continuing education is a key milestone you won’t want to overlook. Think of continuing education (CE) as an opportunity for professional growth, not just a task to keep your license valid. By meeting CE requirements on time, you’ll stay compliant and gain valuable skills that can help you better serve your clients.

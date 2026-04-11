@@ -1,16 +1,23 @@
 ---
-title: "Get Confident and Ready for Your Maryland Property and Casualty Insurance License"
-description: "Ace your Maryland property and casualty insurance license exam with friendly tips for confidence and success."
-keyword: "maryland property and casualty insurance license"
-targetKeywords: "maryland property and casualty insurance license"
-cluster: "state-license-maryland"
-clusterName: "State License –  Maryland"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/get-confident-and-ready-for-your-maryland-property-and-casualty-insurance-l.jpg"
-imageAlt: "A hand points a pen at business graphs on a wooden table, highlighting data analysis."
-imageCredit: "Photo by Lukas Blazek on Pexels"
+title: >-
+  Get Confident and Ready for Your Maryland Property and Casualty Insurance
+  License
+description: >-
+  Ace your Maryland property and casualty insurance license exam with friendly
+  tips for confidence and success. Maryland licensing expert tips.
+keyword: maryland property and casualty insurance license
+targetKeywords: maryland property and casualty insurance license
+cluster: state-license-maryland
+clusterName: State License –  Maryland
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/get-confident-and-ready-for-your-maryland-property-and-casualty-insurance-l.jpg
+imageAlt: >-
+  A hand points a pen at business graphs on a wooden table, highlighting data
+  analysis.
+imageCredit: Photo by Lukas Blazek on Pexels
 ---
 
 ## Understand the role of a property and casualty license

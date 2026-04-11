@@ -1,16 +1,21 @@
 ---
-title: "Find the Best Illinois Insurance Pre-Licensing Courses for You"
-description: "Find the Best Illinois Insurance Pre-Licensing Courses for You"
-keyword: "illinois insurance pre-licensing courses"
-targetKeywords: "illinois insurance pre-licensing courses"
-cluster: "state-license-illinois"
-clusterName: "State License – Illinois"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/find-the-best-illinois-insurance-pre-licensing-courses-for-you.jpg"
-imageAlt: "A close-up of a hand highlighting a contract, emphasizing important legal terms."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: Find the Best Illinois Insurance Pre-Licensing Courses for You
+description: >-
+  Find the Best Illinois Insurance Pre-Licensing Courses for You. Illinois
+  licensing made simple. Read the full guide from JustInsurance.
+keyword: illinois insurance pre-licensing courses
+targetKeywords: illinois insurance pre-licensing courses
+cluster: state-license-illinois
+clusterName: State License – Illinois
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/find-the-best-illinois-insurance-pre-licensing-courses-for-you.jpg
+imageAlt: >-
+  A close-up of a hand highlighting a contract, emphasizing important legal
+  terms.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 Master Description: Discover the best Illinois insurance pre-licensing courses to help you earn your license with confidence!

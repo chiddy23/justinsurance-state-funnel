@@ -1,16 +1,18 @@
 ---
-title: "Your Friendly Guide to New York Insurance CE Renewal Success"
-description: "Breeze through your New York insurance CE renewal with friendly tips to keep your license active."
-keyword: "new york insurance ce renewal"
-targetKeywords: "new york insurance ce renewal"
-cluster: "state-license-new-york"
-clusterName: "State License – New York"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-friendly-guide-to-new-york-insurance-ce-renewal-success.jpg"
-imageAlt: "Three professionals discussing a data presentation in an office setting."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: Your Friendly Guide to New York Insurance CE Renewal Success
+description: >-
+  Breeze through your New York insurance CE renewal with friendly tips to keep
+  your license active. New York licensing expert guidance.
+keyword: new york insurance ce renewal
+targetKeywords: new york insurance ce renewal
+cluster: state-license-new-york
+clusterName: State License – New York
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-friendly-guide-to-new-york-insurance-ce-renewal-success.jpg
+imageAlt: Three professionals discussing a data presentation in an office setting.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 Are you ready to tackle your New York insurance CE renewal with confidence? Whether you’ve been in the insurance field for years or you’re relatively new, staying on top of your continuing education can feel overwhelming at first. Fortunately, a friendly approach and a clear roadmap can transform the experience from stressful to empowering. Below, you’ll find practical steps that show you exactly how to meet New York’s CE requirements and advance your professional goals.

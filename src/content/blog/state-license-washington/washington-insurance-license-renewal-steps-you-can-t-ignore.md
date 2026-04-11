@@ -1,16 +1,20 @@
 ---
-title: "Washington Insurance License Renewal: Steps You Can’t Ignore"
-description: "Make your Washington insurance license renewal a breeze with our friendly step-by-step guide you can't miss."
-keyword: "washington insurance license renewal"
-targetKeywords: "washington insurance license renewal"
-cluster: "state-license-washington"
-clusterName: "State License – Washington"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/washington-insurance-license-renewal-steps-you-can-t-ignore.jpg"
-imageAlt: "A realtor discusses property details with a diverse couple viewing a house interior."
-imageCredit: "Photo by Pavel Danilyuk on Pexels"
+title: 'Washington Insurance License Renewal: Steps You Can’t Ignore'
+description: >-
+  Make your Washington insurance license renewal a breeze with our friendly
+  step-by-step guide you can't miss. Washington licensing expert guidance.
+keyword: washington insurance license renewal
+targetKeywords: washington insurance license renewal
+cluster: state-license-washington
+clusterName: State License – Washington
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/washington-insurance-license-renewal-steps-you-can-t-ignore.jpg
+imageAlt: >-
+  A realtor discusses property details with a diverse couple viewing a house
+  interior.
+imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
 ## Understand renewal basics

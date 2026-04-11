@@ -1,16 +1,20 @@
 ---
-title: "Why Tennessee Insurance Continuing Education Is a Smart Move"
-description: "Make a smart move: boost your insurance career with Tennessee insurance continuing education."
-keyword: "tennessee insurance continuing education"
-targetKeywords: "tennessee insurance continuing education"
-cluster: "state-license-tennessee"
-clusterName: "State License –  Tennessee"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/why-tennessee-insurance-continuing-education-is-a-smart-move.jpg"
-imageAlt: "Business meeting with video call setup, highlighting teamwork and communication in a modern office environment."
-imageCredit: "Photo by MART  PRODUCTION on Pexels"
+title: Why Tennessee Insurance Continuing Education Is a Smart Move
+description: >-
+  Make a smart move: boost your insurance career with Tennessee insurance
+  continuing education. Tennessee licensing expert guidance.
+keyword: tennessee insurance continuing education
+targetKeywords: tennessee insurance continuing education
+cluster: state-license-tennessee
+clusterName: State License –  Tennessee
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/why-tennessee-insurance-continuing-education-is-a-smart-move.jpg
+imageAlt: >-
+  Business meeting with video call setup, highlighting teamwork and
+  communication in a modern office environment.
+imageCredit: Photo by MART  PRODUCTION on Pexels
 ---
 
 ## Understand the CE requirements

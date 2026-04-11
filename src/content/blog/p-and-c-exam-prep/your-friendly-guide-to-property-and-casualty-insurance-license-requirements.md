@@ -1,16 +1,21 @@
 ---
-title: "Your Friendly Guide to Property and Casualty Insurance License Requirements"
-description: "Get friendly tips on property and casualty insurance license requirements and ace your exam with confidence."
-keyword: "property and casualty insurance license requirements"
-targetKeywords: "property and casualty insurance license requirements"
-cluster: "p-and-c-exam-prep"
-clusterName: "P&C Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-friendly-guide-to-property-and-casualty-insurance-license-requirements.jpg"
-imageAlt: "Young couple consulting with a financial advisor using a calculator and documents in a bright office setting."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: Your Friendly Guide to Property and Casualty Insurance License Requirements
+description: >-
+  Get friendly tips on property and casualty insurance license requirements and
+  ace your exam with confidence. Complete P&C exam prep guidance.
+keyword: property and casualty insurance license requirements
+targetKeywords: property and casualty insurance license requirements
+cluster: p-and-c-exam-prep
+clusterName: P&C Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-friendly-guide-to-property-and-casualty-insurance-license-requirements.jpg
+imageAlt: >-
+  Young couple consulting with a financial advisor using a calculator and
+  documents in a bright office setting.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 ## Why property and casualty insurance matters

@@ -1,16 +1,20 @@
 ---
-title: "Your Guide to Affordable New York Insurance CE Classes"
-description: "Get affordable New York insurance CE to quickly earn your license and save on course fees today."
-keyword: "affordable new york insurance ce"
-targetKeywords: "affordable new york insurance ce"
-cluster: "state-license-new-york"
-clusterName: "State License – New York"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-guide-to-affordable-new-york-insurance-ce-classes.jpg"
-imageAlt: "Close-up of a hand signing a legal document with a fountain pen, symbolizing signature and agreement."
-imageCredit: "Photo by Pixabay on Pexels"
+title: Your Guide to Affordable New York Insurance CE Classes
+description: >-
+  Get affordable New York insurance CE to quickly earn your license and save on
+  course fees today. New York licensing expert guidance.
+keyword: affordable new york insurance ce
+targetKeywords: affordable new york insurance ce
+cluster: state-license-new-york
+clusterName: State License – New York
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-guide-to-affordable-new-york-insurance-ce-classes.jpg
+imageAlt: >-
+  Close-up of a hand signing a legal document with a fountain pen, symbolizing
+  signature and agreement.
+imageCredit: Photo by Pixabay on Pexels
 ---
 
 If you're aiming to keep your insurance license active in New York, affordable New York insurance CE classes can be your ticket to maintaining compliance without straining your budget. Knowing what's expected of you is the first step. Generally, New York requires you to complete continuing education (CE) hours on a regular cycle to stay current with ever-evolving industry regulations.

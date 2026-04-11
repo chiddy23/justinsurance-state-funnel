@@ -1,16 +1,21 @@
 ---
-title: "Unlock Success with Texas Insurance Continuing Education Courses"
-description: "Unlock your success with Texas insurance continuing education courses for licensed agents. Start now!"
-keyword: "texas insurance continuing education courses"
-targetKeywords: "texas insurance continuing education courses"
-cluster: "texas-ce-requirements"
-clusterName: "Texas CE Requirements"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/unlock-success-with-texas-insurance-continuing-education-courses.jpg"
-imageAlt: "Modern desk setup with a laptop and analytical charts showcasing data interpretation and business analysis."
-imageCredit: "Photo by Lukas Blazek on Pexels"
+title: Unlock Success with Texas Insurance Continuing Education Courses
+description: >-
+  Unlock your success with Texas insurance continuing education courses for
+  licensed agents. Start now! Texas CE compliance guidance.
+keyword: texas insurance continuing education courses
+targetKeywords: texas insurance continuing education courses
+cluster: texas-ce-requirements
+clusterName: Texas CE Requirements
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/unlock-success-with-texas-insurance-continuing-education-courses.jpg
+imageAlt: >-
+  Modern desk setup with a laptop and analytical charts showcasing data
+  interpretation and business analysis.
+imageCredit: Photo by Lukas Blazek on Pexels
 ---
 
 ## Unlock the value of Texas insurance CE

@@ -1,16 +1,21 @@
 ---
-title: "Michigan Pre-Licensing Courses Insurance: Friendly Tips for You"
-description: "Get friendly tips for Michigan pre-licensing courses insurance and breeze through your first license exam"
-keyword: "s: michigan pre-licensing courses insurance"
-targetKeywords: "michigan pre-licensing courses insurance"
-cluster: "state-license-michigan"
-clusterName: "State License – Michigan"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/michigan-pre-licensing-courses-insurance-friendly-tips-for-you.jpg"
-imageAlt: "Portrait of a happy businessman in a black suit, smiling with confidence in an indoor setting."
-imageCredit: "Photo by KATRIN  BOLOVTSOVA on Pexels"
+title: 'Michigan Pre-Licensing Courses Insurance: Friendly Tips for You'
+description: >-
+  Get friendly tips for Michigan pre-licensing courses insurance and breeze
+  through your first license exam. Michigan licensing made easy.
+keyword: 's: michigan pre-licensing courses insurance'
+targetKeywords: michigan pre-licensing courses insurance
+cluster: state-license-michigan
+clusterName: State License – Michigan
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/michigan-pre-licensing-courses-insurance-friendly-tips-for-you.jpg
+imageAlt: >-
+  Portrait of a happy businessman in a black suit, smiling with confidence in an
+  indoor setting.
+imageCredit: Photo by KATRIN  BOLOVTSOVA on Pexels
 ---
 
 Keywords: michigan pre-licensing courses insurance

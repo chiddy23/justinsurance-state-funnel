@@ -1,16 +1,19 @@
 ---
-title: "Get Ahead Fast with Michigan Insurance License Requirements Explained"
-description: "Get ahead fast with Michigan insurance license requirements: friendly tips and guidance to help you pass."
-keyword: "s: michigan insurance license requirements"
-targetKeywords: "michigan insurance license requirements"
-cluster: "state-license-michigan"
-clusterName: "State License – Michigan"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/get-ahead-fast-with-michigan-insurance-license-requirements-explained.jpg"
-imageAlt: "Stylish man in suit outdoors exuding confidence and professionalism."
-imageCredit: "Photo by Murat IŞIK on Pexels"
+title: Get Ahead Fast with Michigan Insurance License Requirements Explained
+description: >-
+  Get ahead fast with Michigan insurance license requirements: friendly tips and
+  guidance to help you pass. Michigan licensing made easy.
+keyword: 's: michigan insurance license requirements'
+targetKeywords: michigan insurance license requirements
+cluster: state-license-michigan
+clusterName: State License – Michigan
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/get-ahead-fast-with-michigan-insurance-license-requirements-explained.jpg
+imageAlt: Stylish man in suit outdoors exuding confidence and professionalism.
+imageCredit: Photo by Murat IŞIK on Pexels
 ---
 
 Keywords: michigan insurance license requirements

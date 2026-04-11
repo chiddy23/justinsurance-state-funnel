@@ -1,16 +1,18 @@
 ---
-title: "Master the Illinois Insurance Licensing Process with Ease"
-description: "Master the Illinois Insurance Licensing Process with Ease"
-keyword: "illinois insurance licensing process"
-targetKeywords: "illinois insurance licensing process"
-cluster: "state-license-illinois"
-clusterName: "State License – Illinois"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/master-the-illinois-insurance-licensing-process-with-ease.jpg"
-imageAlt: "Family sitting on couch having a meeting with a real estate agent indoors."
-imageCredit: "Photo by Alena Darmel on Pexels"
+title: Master the Illinois Insurance Licensing Process with Ease
+description: >-
+  Master the Illinois Insurance Licensing Process with Ease. Illinois licensing
+  made simple. Read the full guide from JustInsurance.
+keyword: illinois insurance licensing process
+targetKeywords: illinois insurance licensing process
+cluster: state-license-illinois
+clusterName: State License – Illinois
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/master-the-illinois-insurance-licensing-process-with-ease.jpg
+imageAlt: Family sitting on couch having a meeting with a real estate agent indoors.
+imageCredit: Photo by Alena Darmel on Pexels
 ---
 
 Master Description: Master the Illinois insurance licensing process with friendly help so you can earn your license quickly.

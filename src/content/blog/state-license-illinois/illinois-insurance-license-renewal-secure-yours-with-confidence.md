@@ -1,16 +1,19 @@
 ---
-title: "Illinois Insurance License Renewal: Secure Yours with Confidence"
-description: "Illinois Insurance License Renewal: Secure Yours with Confidence"
-keyword: "illinois insurance license renewal"
-targetKeywords: "illinois insurance license renewal"
-cluster: "state-license-illinois"
-clusterName: "State License – Illinois"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/illinois-insurance-license-renewal-secure-yours-with-confidence.jpg"
-imageAlt: "Two professionals discussing business strategies in a modern office setting."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: 'Illinois Insurance License Renewal: Secure Yours with Confidence'
+description: >-
+  Illinois Insurance License Renewal: Secure Yours with Confidence. Illinois
+  licensing made simple. Read the full guide from JustInsurance.
+keyword: illinois insurance license renewal
+targetKeywords: illinois insurance license renewal
+cluster: state-license-illinois
+clusterName: State License – Illinois
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/illinois-insurance-license-renewal-secure-yours-with-confidence.jpg
+imageAlt: Two professionals discussing business strategies in a modern office setting.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 Master Description: Master your Illinois insurance license renewal with our friendly guide full of tips and deadline reminders.

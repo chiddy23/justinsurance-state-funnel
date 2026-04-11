@@ -1,16 +1,20 @@
 ---
-title: "What Insurance Agent Commission Rates Mean for Your Wallet"
-description: "See how insurance agent commission rates affect your income and if this career matches your financial goals."
-keyword: "insurance agent commission rates"
-targetKeywords: "insurance agent commission rates"
-cluster: "insurance-career-and-salary"
-clusterName: "Insurance Career & Salary"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-insurance-agent-commission-rates-mean-for-your-wallet.jpg"
-imageAlt: "Group of business professionals discussing financial strategies in a modern office setting."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: What Insurance Agent Commission Rates Mean for Your Wallet
+description: >-
+  See how insurance agent commission rates affect your income and if this career
+  matches your financial goals. Real insights from licensed agents.
+keyword: insurance agent commission rates
+targetKeywords: insurance agent commission rates
+cluster: insurance-career-and-salary
+clusterName: Insurance Career & Salary
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/what-insurance-agent-commission-rates-mean-for-your-wallet.jpg
+imageAlt: >-
+  Group of business professionals discussing financial strategies in a modern
+  office setting.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 ## Understand insurance agent commission rates

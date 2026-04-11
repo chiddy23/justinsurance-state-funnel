@@ -1,16 +1,23 @@
 ---
-title: "What Every New Agent Should Know About Insurance License Renewal Requirements"
-description: "Navigate insurance license renewal requirements with friendly tips to keep your license active."
-keyword: ""
-targetKeywords: "insurance license renewal requirements"
-cluster: "insurance-education-what-to-do-after-passing-your-insurance-exam"
-clusterName: "Insurance Education > Post-License > What to Do After Passing Your Insurance Exam"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-every-new-agent-should-know-about-insurance-license-renewal-requiremen.jpg"
-imageAlt: "Man in glasses observing tall modern skyscrapers, showcasing contemporary architecture from a low angle."
-imageCredit: "Photo by Luke Miller on Pexels"
+title: What Every New Agent Should Know About Insurance License Renewal Requirements
+description: >-
+  Navigate insurance license renewal requirements with friendly tips to keep
+  your license active. Next steps after passing your exam.
+keyword: ''
+targetKeywords: insurance license renewal requirements
+cluster: insurance-education-what-to-do-after-passing-your-insurance-exam
+clusterName: >-
+  Insurance Education > Post-License > What to Do After Passing Your Insurance
+  Exam
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-every-new-agent-should-know-about-insurance-license-renewal-requiremen.jpg
+imageAlt: >-
+  Man in glasses observing tall modern skyscrapers, showcasing contemporary
+  architecture from a low angle.
+imageCredit: Photo by Luke Miller on Pexels
 ---
 
 You’ve just passed your insurance exam, and that’s a big milestone worth celebrating. While you’re taking in that success, it’s also important to understand how to fulfill your insurance license renewal requirements before you ever run out of time. Having a clear action plan now will help you keep your license in good standing and allow you to focus on growing your client base and expertise.

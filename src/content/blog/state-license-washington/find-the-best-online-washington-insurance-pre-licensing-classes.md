@@ -1,16 +1,21 @@
 ---
-title: "Find the Best Online Washington Insurance Pre-Licensing Classes"
-description: "Discover online Washington insurance pre-licensing classes to launch your career and ace the licensing exam."
-keyword: "online washington insurance pre-licensing classes"
-targetKeywords: "online washington insurance pre-licensing classes"
-cluster: "state-license-washington"
-clusterName: "State License – Washington"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/find-the-best-online-washington-insurance-pre-licensing-classes.jpg"
-imageAlt: "Portrait of a confident man wearing a black suit and red tie, looking assertive."
-imageCredit: "Photo by C'Pho Ngondo R.Rouge on Pexels"
+title: Find the Best Online Washington Insurance Pre-Licensing Classes
+description: >-
+  Discover online Washington insurance pre-licensing classes to launch your
+  career and ace the licensing exam. Washington licensing expert guidance.
+keyword: online washington insurance pre-licensing classes
+targetKeywords: online washington insurance pre-licensing classes
+cluster: state-license-washington
+clusterName: State License – Washington
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/find-the-best-online-washington-insurance-pre-licensing-classes.jpg
+imageAlt: >-
+  Portrait of a confident man wearing a black suit and red tie, looking
+  assertive.
+imageCredit: Photo by C'Pho Ngondo R.Rouge on Pexels
 ---
 
 ## Understand Washington pre-licensing requirements

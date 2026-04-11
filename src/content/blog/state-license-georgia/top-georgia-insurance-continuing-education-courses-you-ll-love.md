@@ -1,16 +1,21 @@
 ---
-title: "Top Georgia Insurance Continuing Education Courses You’ll Love"
-description: "Elevate your career with Georgia insurance continuing education courses—easily renew your license online"
-keyword: "georgia insurance continuing education"
-targetKeywords: "georgia insurance continuing education"
-cluster: "state-license-georgia"
-clusterName: "State License – Georgia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-georgia-insurance-continuing-education-courses-you-ll-love.jpg"
-imageAlt: "Professional woman showcasing a home insurance policy document with confidence and clarity."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Top Georgia Insurance Continuing Education Courses You’ll Love
+description: >-
+  Elevate your career with Georgia insurance continuing education courses—easily
+  renew your license online. Georgia licensing expert advice.
+keyword: georgia insurance continuing education
+targetKeywords: georgia insurance continuing education
+cluster: state-license-georgia
+clusterName: State License – Georgia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/top-georgia-insurance-continuing-education-courses-you-ll-love.jpg
+imageAlt: >-
+  Professional woman showcasing a home insurance policy document with confidence
+  and clarity.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 Georgia insurance continuing education keeps you informed on evolving regulations, new products, and best practices that benefit both you and your clients. Staying current also ensures you maintain an active license, which is crucial if you plan to thrive in the industry long-term. Whether you’re brand new to the field or simply looking to renew, here’s how to navigate Georgia’s CE requirements and find courses you’ll actually enjoy taking.

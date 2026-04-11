@@ -1,16 +1,20 @@
 ---
-title: "Top Florida Insurance License Requirements You Must Know"
-description: "Ready to master the Florida insurance license requirements and kickstart your insurance career today?"
-keyword: "florida insurance license requirements"
-targetKeywords: "florida insurance license requirements"
-cluster: "florida-insurance-license"
-clusterName: "Florida Insurance License"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-florida-insurance-license-requirements-you-must-know.jpg"
-imageAlt: "Aerial shot capturing the serene waves and sandy beach of Manasota Key, Florida."
-imageCredit: "Photo by Ryan Beirne on Pexels"
+title: Top Florida Insurance License Requirements You Must Know
+description: >-
+  Ready to master the Florida insurance license requirements and kickstart your
+  insurance career today? Licensed agent insights for Florida.
+keyword: florida insurance license requirements
+targetKeywords: florida insurance license requirements
+cluster: florida-insurance-license
+clusterName: Florida Insurance License
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/top-florida-insurance-license-requirements-you-must-know.jpg
+imageAlt: >-
+  Aerial shot capturing the serene waves and sandy beach of Manasota Key,
+  Florida.
+imageCredit: Photo by Ryan Beirne on Pexels
 ---
 
 You may have heard that the Florida insurance license requirements can feel overwhelming at first. The good news is that the process becomes much easier once you know what to expect. Whether you plan to sell life insurance, health insurance, property and casualty, or a combination of these, understanding the steps in advance helps you move forward with confidence. Below, you will find a friendly, step-by-step guide to meeting Florida’s key requirements and earning your license.

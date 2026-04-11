@@ -1,16 +1,21 @@
 ---
-title: "Everything You Need for Indiana Insurance Pre-Licensing Education Requirements"
-description: "Meet your Indiana insurance pre-licensing education requirements with our friendly guide and ace your exam!"
-keyword: "indiana insurance pre-licensing education requirements"
-targetKeywords: "indiana insurance pre-licensing education requirements"
-cluster: "state-license-indiana"
-clusterName: "State License –  Indiana"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/everything-you-need-for-indiana-insurance-pre-licensing-education-requireme.jpg"
-imageAlt: "Businesswoman in retro office attire making important phone call, focused and attentive."
-imageCredit: "Photo by MART  PRODUCTION on Pexels"
+title: Everything You Need for Indiana Insurance Pre-Licensing Education Requirements
+description: >-
+  Meet your Indiana insurance pre-licensing education requirements with our
+  friendly guide and ace your exam! Indiana licensing expert guidance.
+keyword: indiana insurance pre-licensing education requirements
+targetKeywords: indiana insurance pre-licensing education requirements
+cluster: state-license-indiana
+clusterName: State License –  Indiana
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/everything-you-need-for-indiana-insurance-pre-licensing-education-requireme.jpg
+imageAlt: >-
+  Businesswoman in retro office attire making important phone call, focused and
+  attentive.
+imageCredit: Photo by MART  PRODUCTION on Pexels
 ---
 
 ## Know the pre-licensing basics

@@ -1,16 +1,21 @@
 ---
-title: "Top Tips for Passing the Minnesota Property and Casualty Insurance License"
-description: "Get friendly tips to ace your Minnesota property and casualty insurance license exam on your first try"
-keyword: "minnesota property and casualty insurance license"
-targetKeywords: "minnesota property and casualty insurance license"
-cluster: "state-license-minnesota"
-clusterName: "State License –  Minnesota"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-tips-for-passing-the-minnesota-property-and-casualty-insurance-license.jpg"
-imageAlt: "A man with eyeglasses looks surprised while reading. His expression shows shock and disbelief."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Top Tips for Passing the Minnesota Property and Casualty Insurance License
+description: >-
+  Get friendly tips to ace your Minnesota property and casualty insurance
+  license exam on your first try. Minnesota licensing expert advice.
+keyword: minnesota property and casualty insurance license
+targetKeywords: minnesota property and casualty insurance license
+cluster: state-license-minnesota
+clusterName: State License –  Minnesota
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/top-tips-for-passing-the-minnesota-property-and-casualty-insurance-license.jpg
+imageAlt: >-
+  A man with eyeglasses looks surprised while reading. His expression shows
+  shock and disbelief.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 You might feel a little anxious when you think about earning your Minnesota property and casualty insurance license. The idea of memorizing policies, legal requirements, and state rules can sound like a lot to manage. Fortunately, with a focused approach, the right preparation strategies, and practical test-day tips, you can greatly increase your chances of success on the exam.

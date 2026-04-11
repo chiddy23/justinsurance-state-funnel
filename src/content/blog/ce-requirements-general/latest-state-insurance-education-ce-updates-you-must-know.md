@@ -1,16 +1,20 @@
 ---
-title: "Latest State Insurance Education CE Updates You Must Know"
-description: "Don't miss state insurance education ce updates you need to finish your CE credits and renew your license on time."
-keyword: "state insurance education ce updates"
-targetKeywords: "state insurance education ce updates"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/latest-state-insurance-education-ce-updates-you-must-know.jpg"
-imageAlt: "Professional businessman in a café using a laptop and earphones for a video call."
-imageCredit: "Photo by Vitaly Gariev on Pexels"
+title: Latest State Insurance Education CE Updates You Must Know
+description: >-
+  Don't miss state insurance education ce updates you need to finish your CE
+  credits and renew your license on time. State-by-state CE compliance tips.
+keyword: state insurance education ce updates
+targetKeywords: state insurance education ce updates
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/latest-state-insurance-education-ce-updates-you-must-know.jpg
+imageAlt: >-
+  Professional businessman in a café using a laptop and earphones for a video
+  call.
+imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
 ## Understand the new CE requirements

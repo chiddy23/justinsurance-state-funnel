@@ -1,16 +1,20 @@
 ---
-title: "Unlock Your Career with a New Jersey Insurance License Today"
-description: "Get your new jersey insurance license now: expert tips, easy pre-licensing courses, friendly support."
-keyword: "new jersey insurance license"
-targetKeywords: "new jersey insurance license"
-cluster: "state-license-new-jersey"
-clusterName: "State License – New Jersey"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/unlock-your-career-with-a-new-jersey-insurance-license-today.jpg"
-imageAlt: "A relaxing workspace setup featuring a cup of tea, candle, and laptop for productivity."
-imageCredit: "Photo by caffeine on Pexels"
+title: Unlock Your Career with a New Jersey Insurance License Today
+description: >-
+  Get your new jersey insurance license now: expert tips, easy pre-licensing
+  courses, friendly support. New Jersey licensing expert tips.
+keyword: new jersey insurance license
+targetKeywords: new jersey insurance license
+cluster: state-license-new-jersey
+clusterName: State License – New Jersey
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/unlock-your-career-with-a-new-jersey-insurance-license-today.jpg
+imageAlt: >-
+  A relaxing workspace setup featuring a cup of tea, candle, and laptop for
+  productivity.
+imageCredit: Photo by caffeine on Pexels
 ---
 
 If you are looking to launch a meaningful and stable career in the Garden State, obtaining a New Jersey insurance license can be your defining move. This license not only increases your earning potential, but also gives you the chance to help people navigate important financial and personal decisions. Best of all, becoming a licensed insurance professional might be easier than you think once you understand the steps involved.

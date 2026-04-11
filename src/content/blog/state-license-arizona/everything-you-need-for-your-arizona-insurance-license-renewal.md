@@ -1,16 +1,21 @@
 ---
-title: "Everything You Need for Your Arizona Insurance License Renewal"
-description: "Simplify your Arizona insurance license renewal with our friendly guide to deadlines, requirements and tips."
-keyword: "arizona insurance license renewal"
-targetKeywords: "arizona insurance license renewal"
-cluster: "state-license-arizona"
-clusterName: "State License – Arizona"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/everything-you-need-for-your-arizona-insurance-license-renewal.jpg"
-imageAlt: "Empty modern conference room with sleek black chairs and wooden desks, perfect for business meetings."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Everything You Need for Your Arizona Insurance License Renewal
+description: >-
+  Simplify your Arizona insurance license renewal with our friendly guide to
+  deadlines, requirements and tips. Arizona licensing expert guidance.
+keyword: arizona insurance license renewal
+targetKeywords: arizona insurance license renewal
+cluster: state-license-arizona
+clusterName: State License – Arizona
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/everything-you-need-for-your-arizona-insurance-license-renewal.jpg
+imageAlt: >-
+  Empty modern conference room with sleek black chairs and wooden desks, perfect
+  for business meetings.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 If you are licensed to sell insurance in Arizona, keeping your credentials current is essential for continuing to serve clients and maintain your status as a trusted advisor. Whether you are a first-time agent or moving from another state, understanding the arizona insurance license renewal process can save you time, money, and stress. Below, you will find clear insights into the renewal requirements, continuing education guidelines, deadlines, and more. By the end, you will be ready to tackle your renewal with confidence.

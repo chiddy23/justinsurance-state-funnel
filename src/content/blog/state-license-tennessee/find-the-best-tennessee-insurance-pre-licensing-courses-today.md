@@ -1,16 +1,18 @@
 ---
-title: "Find the Best Tennessee Insurance Pre-Licensing Courses Today"
-description: "Unlock your future with Tennessee insurance pre-licensing courses designed to help you pass the license exam."
-keyword: "tennessee insurance pre-licensing courses"
-targetKeywords: "tennessee insurance pre-licensing courses"
-cluster: "state-license-tennessee"
-clusterName: "State License –  Tennessee"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/find-the-best-tennessee-insurance-pre-licensing-courses-today.jpg"
-imageAlt: "Close-up of a credit card payment being processed at a POS terminal."
-imageCredit: "Photo by energepic.com on Pexels"
+title: Find the Best Tennessee Insurance Pre-Licensing Courses Today
+description: >-
+  Unlock your future with Tennessee insurance pre-licensing courses designed to
+  help you pass the license exam. Tennessee licensing expert guidance.
+keyword: tennessee insurance pre-licensing courses
+targetKeywords: tennessee insurance pre-licensing courses
+cluster: state-license-tennessee
+clusterName: State License –  Tennessee
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/find-the-best-tennessee-insurance-pre-licensing-courses-today.jpg
+imageAlt: Close-up of a credit card payment being processed at a POS terminal.
+imageCredit: Photo by energepic.com on Pexels
 ---
 
 Whether you are just beginning your search for Tennessee insurance pre-licensing courses or you already have a few options in mind, you want to make sure you choose a program that sets you up for success. Earning your Tennessee insurance license is a major step toward a long-term career in the industry, and a solid pre-licensing course can streamline your path. The key is sorting through the different course types, features, and costs in order to find a program that matches your learning style and career goals.

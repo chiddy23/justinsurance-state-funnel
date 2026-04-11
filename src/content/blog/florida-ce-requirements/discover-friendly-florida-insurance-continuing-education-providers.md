@@ -1,16 +1,21 @@
 ---
-title: "Discover Friendly Florida Insurance Continuing Education Providers"
-description: "Find friendly Florida insurance continuing education providers to ace your exam and launch your career."
-keyword: "florida insurance continuing education providers"
-targetKeywords: "florida insurance continuing education providers"
-cluster: "florida-ce-requirements"
-clusterName: "Florida CE Requirements"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/discover-friendly-florida-insurance-continuing-education-providers.jpg"
-imageAlt: "Business meeting with three professionals collaborating in a modern conference room setting."
-imageCredit: "Photo by Felicity Tai on Pexels"
+title: Discover Friendly Florida Insurance Continuing Education Providers
+description: >-
+  Find friendly Florida insurance continuing education providers to ace your
+  exam and launch your career. Florida CE renewal made easy.
+keyword: florida insurance continuing education providers
+targetKeywords: florida insurance continuing education providers
+cluster: florida-ce-requirements
+clusterName: Florida CE Requirements
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/discover-friendly-florida-insurance-continuing-education-providers.jpg
+imageAlt: >-
+  Business meeting with three professionals collaborating in a modern conference
+  room setting.
+imageCredit: Photo by Felicity Tai on Pexels
 ---
 
 Understand Florida continuing education

@@ -1,16 +1,21 @@
 ---
-title: "Top Michigan Insurance Licensing Classes to Kickstart Your Career"
-description: "Kickstart your career with Michigan insurance licensing classes that help you pass your exam confidently."
-keyword: "s: michigan insurance licensing classes"
-targetKeywords: "michigan insurance licensing classes"
-cluster: "state-license-michigan"
-clusterName: "State License – Michigan"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-michigan-insurance-licensing-classes-to-kickstart-your-career.jpg"
-imageAlt: "Top view of a stylish workspace with laptop, coffee, and plant for a productive day."
-imageCredit: "Photo by dada _design on Pexels"
+title: Top Michigan Insurance Licensing Classes to Kickstart Your Career
+description: >-
+  Kickstart your career with Michigan insurance licensing classes that help you
+  pass your exam confidently. Michigan licensing made easy.
+keyword: 's: michigan insurance licensing classes'
+targetKeywords: michigan insurance licensing classes
+cluster: state-license-michigan
+clusterName: State License – Michigan
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/top-michigan-insurance-licensing-classes-to-kickstart-your-career.jpg
+imageAlt: >-
+  Top view of a stylish workspace with laptop, coffee, and plant for a
+  productive day.
+imageCredit: Photo by dada _design on Pexels
 ---
 
 Keywords: michigan insurance licensing classes

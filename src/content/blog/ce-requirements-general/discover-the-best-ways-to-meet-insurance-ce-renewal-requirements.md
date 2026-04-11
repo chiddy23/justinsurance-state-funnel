@@ -1,16 +1,19 @@
 ---
-title: "Discover the Best Ways to Meet Insurance CE Renewal Requirements"
-description: "Stay compliant: discover your insurance CE renewal requirements in your state with our quick, friendly guide!"
-keyword: "insurance ce renewal requirements state"
-targetKeywords: "insurance ce renewal requirements state"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/discover-the-best-ways-to-meet-insurance-ce-renewal-requirements.jpg"
-imageAlt: "Silhouette of a man facing a dramatic city skyline under stormy clouds."
-imageCredit: "Photo by Takeshi Arai on Pexels"
+title: Discover the Best Ways to Meet Insurance CE Renewal Requirements
+description: >-
+  Stay compliant: discover your insurance CE renewal requirements in your state
+  with our quick, friendly guide! State-by-state CE compliance tips.
+keyword: insurance ce renewal requirements state
+targetKeywords: insurance ce renewal requirements state
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/discover-the-best-ways-to-meet-insurance-ce-renewal-requirements.jpg
+imageAlt: Silhouette of a man facing a dramatic city skyline under stormy clouds.
+imageCredit: Photo by Takeshi Arai on Pexels
 ---
 
 ## Understand the renewal process

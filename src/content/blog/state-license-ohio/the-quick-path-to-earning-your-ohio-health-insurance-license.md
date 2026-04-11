@@ -1,16 +1,20 @@
 ---
-title: "The Quick Path to Earning Your Ohio Health Insurance License"
-description: "Get your Ohio health insurance license fast with easy pre-licensing tips and guidance just for you."
-keyword: "ohio health insurance license"
-targetKeywords: "ohio health insurance license"
-cluster: "state-license-ohio"
-clusterName: "State License – Ohio"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/the-quick-path-to-earning-your-ohio-health-insurance-license.jpg"
-imageAlt: "A group of diverse coworkers collaborating on a project in a modern office setting."
-imageCredit: "Photo by Moe Magners on Pexels"
+title: The Quick Path to Earning Your Ohio Health Insurance License
+description: >-
+  Get your Ohio health insurance license fast with easy pre-licensing tips and
+  guidance just for you. Ohio licensing expert guidance.
+keyword: ohio health insurance license
+targetKeywords: ohio health insurance license
+cluster: state-license-ohio
+clusterName: State License – Ohio
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/the-quick-path-to-earning-your-ohio-health-insurance-license.jpg
+imageAlt: >-
+  A group of diverse coworkers collaborating on a project in a modern office
+  setting.
+imageCredit: Photo by Moe Magners on Pexels
 ---
 
 ## Know your Ohio license requirements

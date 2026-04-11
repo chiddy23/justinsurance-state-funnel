@@ -1,16 +1,21 @@
 ---
-title: "Stay Ahead with This Must-Know Indiana Insurance License Exam Info"
-description: "Master your indiana insurance license exam with friendly tips, strategies, and confidence-building advice."
-keyword: "indiana insurance license exam"
-targetKeywords: "indiana insurance license exam"
-cluster: "state-license-indiana"
-clusterName: "State License –  Indiana"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/stay-ahead-with-this-must-know-indiana-insurance-license-exam-info.jpg"
-imageAlt: "Close-up of a person typing on a sleek computer keyboard in a modern workspace setting."
-imageCredit: "Photo by cottonbro studio on Pexels"
+title: Stay Ahead with This Must-Know Indiana Insurance License Exam Info
+description: >-
+  Master your indiana insurance license exam with friendly tips, strategies, and
+  confidence-building advice. Indiana licensing expert guidance.
+keyword: indiana insurance license exam
+targetKeywords: indiana insurance license exam
+cluster: state-license-indiana
+clusterName: State License –  Indiana
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/stay-ahead-with-this-must-know-indiana-insurance-license-exam-info.jpg
+imageAlt: >-
+  Close-up of a person typing on a sleek computer keyboard in a modern workspace
+  setting.
+imageCredit: Photo by cottonbro studio on Pexels
 ---
 
 ## Overview of the exam

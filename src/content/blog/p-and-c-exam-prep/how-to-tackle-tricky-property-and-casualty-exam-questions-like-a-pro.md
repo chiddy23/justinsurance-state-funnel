@@ -1,16 +1,19 @@
 ---
-title: "How to Tackle Tricky Property and Casualty Exam Questions Like a Pro"
-description: "Master property and casualty exam questions with friendly strategies that boost your confidence and score."
-keyword: "property and casualty exam questions"
-targetKeywords: "property and casualty exam questions"
-cluster: "p-and-c-exam-prep"
-clusterName: "P&C Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-to-tackle-tricky-property-and-casualty-exam-questions-like-a-pro.jpg"
-imageAlt: "A woman engaging in a video conference using a laptop at home, taking notes."
-imageCredit: "Photo by Anna Shvets on Pexels"
+title: How to Tackle Tricky Property and Casualty Exam Questions Like a Pro
+description: >-
+  Master property and casualty exam questions with friendly strategies that
+  boost your confidence and score. Complete P&C exam prep guidance.
+keyword: property and casualty exam questions
+targetKeywords: property and casualty exam questions
+cluster: p-and-c-exam-prep
+clusterName: P&C Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/how-to-tackle-tricky-property-and-casualty-exam-questions-like-a-pro.jpg
+imageAlt: 'A woman engaging in a video conference using a laptop at home, taking notes.'
+imageCredit: Photo by Anna Shvets on Pexels
 ---
 
 You may be feeling both excited and anxious about tackling property and casualty exam questions. These questions can sometimes come across as overly tricky or confusing, but rest assured that a clear plan and the right mindset will help you navigate them more confidently. By focusing on consistent study habits, understanding question formats, and getting comfortable with the typical pitfalls, you can step into the exam room ready to shine.

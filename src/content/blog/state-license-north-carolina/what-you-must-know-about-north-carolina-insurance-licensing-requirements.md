@@ -1,16 +1,19 @@
 ---
-title: "What You Must Know About North Carolina Insurance Licensing Requirements"
-description: "Get tips to help you meet north carolina insurance licensing requirements and ace your exam easily."
-keyword: "s: north carolina insurance licensing requirements"
-targetKeywords: "north carolina insurance licensing requirements"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-must-know-about-north-carolina-insurance-licensing-requirements.jpg"
-imageAlt: "A man in a city skyscraper office using a laptop with a cityscape view."
-imageCredit: "Photo by cottonbro studio on Pexels"
+title: What You Must Know About North Carolina Insurance Licensing Requirements
+description: >-
+  Get tips to help you meet north carolina insurance licensing requirements and
+  ace your exam easily. North Carolina licensing tips.
+keyword: 's: north carolina insurance licensing requirements'
+targetKeywords: north carolina insurance licensing requirements
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-you-must-know-about-north-carolina-insurance-licensing-requirements.jpg
+imageAlt: A man in a city skyscraper office using a laptop with a cityscape view.
+imageCredit: Photo by cottonbro studio on Pexels
 ---
 
 Keywords: north carolina insurance licensing requirements

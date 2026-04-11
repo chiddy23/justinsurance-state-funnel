@@ -1,16 +1,21 @@
 ---
-title: "Discover the Best Michigan Insurance License Exam Locations Near You"
-description: "Find Michigan insurance license exam locations near you and ace your first exam with ease."
-keyword: "s:  michigan insurance license exam locations"
-targetKeywords: "michigan insurance license exam locations"
-cluster: "state-license-michigan"
-clusterName: "State License – Michigan"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/discover-the-best-michigan-insurance-license-exam-locations-near-you.jpg"
-imageAlt: "Top view of colleagues discussing charts and graphs on a wooden table during a business meeting."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: Discover the Best Michigan Insurance License Exam Locations Near You
+description: >-
+  Find Michigan insurance license exam locations near you and ace your first
+  exam with ease. Michigan licensing made easy.
+keyword: 's:  michigan insurance license exam locations'
+targetKeywords: michigan insurance license exam locations
+cluster: state-license-michigan
+clusterName: State License – Michigan
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/discover-the-best-michigan-insurance-license-exam-locations-near-you.jpg
+imageAlt: >-
+  Top view of colleagues discussing charts and graphs on a wooden table during a
+  business meeting.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 Keywords:  michigan insurance license exam locations

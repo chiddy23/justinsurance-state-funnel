@@ -1,16 +1,21 @@
 ---
-title: "The Friendly Guide to Your Arizona Property and Casualty Insurance License"
-description: "Get your Arizona property and casualty insurance license with friendly tips and start your career"
-keyword: "arizona property and casualty insurance license"
-targetKeywords: "arizona property and casualty insurance license"
-cluster: "state-license-arizona"
-clusterName: "State License – Arizona"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/the-friendly-guide-to-your-arizona-property-and-casualty-insurance-license.jpg"
-imageAlt: "Desk with colorful graphs, sticky notes, and a marker, perfect for data analysis themes."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: The Friendly Guide to Your Arizona Property and Casualty Insurance License
+description: >-
+  Get your Arizona property and casualty insurance license with friendly tips
+  and start your career. Arizona licensing expert guidance.
+keyword: arizona property and casualty insurance license
+targetKeywords: arizona property and casualty insurance license
+cluster: state-license-arizona
+clusterName: State License – Arizona
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/the-friendly-guide-to-your-arizona-property-and-casualty-insurance-license.jpg
+imageAlt: >-
+  Desk with colorful graphs, sticky notes, and a marker, perfect for data
+  analysis themes.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 ## Understanding your Arizona property and casualty insurance license

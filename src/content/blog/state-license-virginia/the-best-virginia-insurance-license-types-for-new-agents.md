@@ -1,16 +1,18 @@
 ---
-title: "The Best Virginia Insurance License Types for New Agents"
-description: "Unlock the best Virginia insurance license types for new agents and launch your career with confidence!"
-keyword: "virginia insurance licensing process"
-targetKeywords: "virginia insurance licensing process"
-cluster: "state-license-virginia"
-clusterName: "State License – Virginia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg"
-imageAlt: "High-angle view of a contract document with pens and a case on a wooden table."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: The Best Virginia Insurance License Types for New Agents
+description: >-
+  Unlock the best Virginia insurance license types for new agents and launch
+  your career with confidence! Virginia licensing expert tips.
+keyword: virginia insurance licensing process
+targetKeywords: virginia insurance licensing process
+cluster: state-license-virginia
+clusterName: State License – Virginia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
+imageAlt: High-angle view of a contract document with pens and a case on a wooden table.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 ## Start your journey in Virginia insurance

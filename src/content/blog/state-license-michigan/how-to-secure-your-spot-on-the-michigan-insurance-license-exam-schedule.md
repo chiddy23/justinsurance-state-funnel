@@ -1,16 +1,19 @@
 ---
-title: "How to Secure Your Spot on the Michigan Insurance License Exam Schedule"
-description: "Secure your spot on the Michigan insurance license exam schedule: a friendly guide to picking your date."
-keyword: "s: michigan insurance license exam schedule"
-targetKeywords: "michigan insurance license exam schedule"
-cluster: "state-license-michigan"
-clusterName: "State License – Michigan"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-to-secure-your-spot-on-the-michigan-insurance-license-exam-schedule.jpg"
-imageAlt: "Three businessmen analyzing financial charts on a screen in an office setting."
-imageCredit: "Photo by Gustavo Fring on Pexels"
+title: How to Secure Your Spot on the Michigan Insurance License Exam Schedule
+description: >-
+  Secure your spot on the Michigan insurance license exam schedule: a friendly
+  guide to picking your date. Michigan licensing made easy.
+keyword: 's: michigan insurance license exam schedule'
+targetKeywords: michigan insurance license exam schedule
+cluster: state-license-michigan
+clusterName: State License – Michigan
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/how-to-secure-your-spot-on-the-michigan-insurance-license-exam-schedule.jpg
+imageAlt: Three businessmen analyzing financial charts on a screen in an office setting.
+imageCredit: Photo by Gustavo Fring on Pexels
 ---
 
 Keywords: michigan insurance license exam schedule

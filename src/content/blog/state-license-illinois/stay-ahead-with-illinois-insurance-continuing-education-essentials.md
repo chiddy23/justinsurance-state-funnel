@@ -1,16 +1,19 @@
 ---
-title: "Stay Ahead with Illinois Insurance Continuing Education Essentials"
-description: "Get ahead with Illinois insurance continuing education tips to easily renew your license."
-keyword: "illinois insurance continuing education"
-targetKeywords: "illinois insurance continuing education"
-cluster: "state-license-illinois"
-clusterName: "State License – Illinois"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/stay-ahead-with-illinois-insurance-continuing-education-essentials.jpg"
-imageAlt: "Group of professionals in a boardroom engaged in a focused business meeting."
-imageCredit: "Photo by MART  PRODUCTION on Pexels"
+title: Stay Ahead with Illinois Insurance Continuing Education Essentials
+description: >-
+  Get ahead with Illinois insurance continuing education tips to easily renew
+  your license. Illinois licensing made simple.
+keyword: illinois insurance continuing education
+targetKeywords: illinois insurance continuing education
+cluster: state-license-illinois
+clusterName: State License – Illinois
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/stay-ahead-with-illinois-insurance-continuing-education-essentials.jpg
+imageAlt: Group of professionals in a boardroom engaged in a focused business meeting.
+imageCredit: Photo by MART  PRODUCTION on Pexels
 ---
 
 Illinois insurance continuing education plays a pivotal role in maintaining a valid license and staying informed about industry standards. Whether you are just beginning the licensing process or renewing your existing credentials, focusing on your ongoing education ensures you can confidently serve clients across the state. Below, you will discover key steps and insights that help you comply with Illinois requirements, plan your continuing education goals effectively, and invest in your career.

@@ -1,16 +1,20 @@
 ---
-title: "Maryland Insurance License Eligibility: A Clear Guide for You"
-description: "Master your Maryland insurance education requirements and start a career in life, health or P&C insurance."
-keyword: "maryland insurance license eligibility"
-targetKeywords: "maryland insurance license eligibility"
-cluster: "state-license-maryland"
-clusterName: "State License –  Maryland"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/maryland-insurance-license-eligibility-a-clear-guide-for-you.jpg"
-imageAlt: "Close-up of a hand using a calculator on an office desk for accurate calculations."
-imageCredit: "Photo by Marina Agrelo on Pexels"
+title: 'Maryland Insurance License Eligibility: A Clear Guide for You'
+description: >-
+  Master your Maryland insurance education requirements and start a career in
+  life, health or P&C insurance. Maryland licensing expert tips.
+keyword: maryland insurance license eligibility
+targetKeywords: maryland insurance license eligibility
+cluster: state-license-maryland
+clusterName: State License –  Maryland
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/maryland-insurance-license-eligibility-a-clear-guide-for-you.jpg
+imageAlt: >-
+  Close-up of a hand using a calculator on an office desk for accurate
+  calculations.
+imageCredit: Photo by Marina Agrelo on Pexels
 ---
 
 Maryland insurance license eligibility is more than just a box to check. It is your first step toward a rewarding career in the insurance industry. Whether you plan to specialize in life and health or property and casualty, understanding the requirements set by the Maryland Insurance Administration helps you prepare confidently. This guide walks you through each step so you can meet the standards and get closer to helping individuals and businesses protect what matters most.

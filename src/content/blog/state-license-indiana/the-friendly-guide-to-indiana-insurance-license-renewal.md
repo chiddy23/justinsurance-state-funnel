@@ -1,16 +1,20 @@
 ---
-title: "The Friendly Guide to Indiana Insurance License Renewal"
-description: "Simplify your Indiana insurance license renewal with our friendly guide to keep you compliant and exam-ready."
-keyword: "indiana insurance license renewal"
-targetKeywords: "indiana insurance license renewal"
-cluster: "state-license-indiana"
-clusterName: "State License –  Indiana"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/the-friendly-guide-to-indiana-insurance-license-renewal.jpg"
-imageAlt: "Two senior clients and a consultant discussing documents and using a tablet in a modern office."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: The Friendly Guide to Indiana Insurance License Renewal
+description: >-
+  Simplify your Indiana insurance license renewal with our friendly guide to
+  keep you compliant and exam-ready. Indiana licensing expert guidance.
+keyword: indiana insurance license renewal
+targetKeywords: indiana insurance license renewal
+cluster: state-license-indiana
+clusterName: State License –  Indiana
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/the-friendly-guide-to-indiana-insurance-license-renewal.jpg
+imageAlt: >-
+  Two senior clients and a consultant discussing documents and using a tablet in
+  a modern office.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 You might feel overwhelmed by the idea of renewing your Indiana insurance license, but there is good news: once you know a few key details, the process is easier than you’d expect. This guide breaks down the steps, offers practical tips on continuing education (CE), and points you toward simple ways to stay on track. By the end, you’ll be prepared to complete your renewal with confidence.

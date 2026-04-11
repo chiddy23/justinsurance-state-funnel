@@ -1,16 +1,20 @@
 ---
-title: "Breaking Down State Insurance CE Deadlines for Busy Agents"
-description: "Never miss state insurance ce deadlines with our friendly guide ensuring you renew your license stress-free."
-keyword: "state insurance ce deadlines"
-targetKeywords: "state insurance ce deadlines"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/breaking-down-state-insurance-ce-deadlines-for-busy-agents.jpg"
-imageAlt: "A diverse group of professionals engaged in an office meeting, discussing business strategies."
-imageCredit: "Photo by Tiger Lily on Pexels"
+title: Breaking Down State Insurance CE Deadlines for Busy Agents
+description: >-
+  Never miss state insurance ce deadlines with our friendly guide ensuring you
+  renew your license stress-free. State-by-state CE compliance tips.
+keyword: state insurance ce deadlines
+targetKeywords: state insurance ce deadlines
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/breaking-down-state-insurance-ce-deadlines-for-busy-agents.jpg
+imageAlt: >-
+  A diverse group of professionals engaged in an office meeting, discussing
+  business strategies.
+imageCredit: Photo by Tiger Lily on Pexels
 ---
 
 Staying on top of your state insurance CE deadlines can sometimes feel like one big juggling act. You have policies to manage, clients to nurture, and a mountain of day-to-day tasks that never seems to shrink. Yet, missing a CE renewal date can lead to penalties, license suspensions, or even lost business opportunities.

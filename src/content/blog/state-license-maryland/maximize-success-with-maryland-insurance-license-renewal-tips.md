@@ -1,16 +1,20 @@
 ---
-title: "Maximize Success with Maryland Insurance License Renewal Tips"
-description: "Secure your Maryland insurance license renewal with friendly expert tips to keep your career thriving."
-keyword: "maryland insurance license renewal"
-targetKeywords: "maryland insurance license renewal"
-cluster: "state-license-maryland"
-clusterName: "State License –  Maryland"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/maximize-success-with-maryland-insurance-license-renewal-tips.jpg"
-imageAlt: "A professional business meeting with three people discussing documents in an office setting."
-imageCredit: "Photo by Pavel Danilyuk on Pexels"
+title: Maximize Success with Maryland Insurance License Renewal Tips
+description: >-
+  Secure your Maryland insurance license renewal with friendly expert tips to
+  keep your career thriving. Maryland licensing expert tips.
+keyword: maryland insurance license renewal
+targetKeywords: maryland insurance license renewal
+cluster: state-license-maryland
+clusterName: State License –  Maryland
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/maximize-success-with-maryland-insurance-license-renewal-tips.jpg
+imageAlt: >-
+  A professional business meeting with three people discussing documents in an
+  office setting.
+imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
 ## Why your Maryland insurance license renewal matters

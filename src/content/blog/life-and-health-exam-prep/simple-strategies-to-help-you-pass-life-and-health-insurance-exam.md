@@ -1,16 +1,19 @@
 ---
-title: "Simple Strategies to Help You Pass Life and Health Insurance Exam"
-description: "Learn how to pass life and health insurance exam with easy tips to boost your confidence and score."
-keyword: "how to pass life and health insurance exam"
-targetKeywords: "how to pass life and health insurance exam"
-cluster: "life-and-health-exam-prep"
-clusterName: "Life & Health Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/simple-strategies-to-help-you-pass-life-and-health-insurance-exam.jpg"
-imageAlt: "Businesswomen in a corporate meeting in a modern conference room."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: Simple Strategies to Help You Pass Life and Health Insurance Exam
+description: >-
+  Learn how to pass life and health insurance exam with easy tips to boost your
+  confidence and score. Expert tips from licensed agents.
+keyword: how to pass life and health insurance exam
+targetKeywords: how to pass life and health insurance exam
+cluster: life-and-health-exam-prep
+clusterName: Life & Health Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/simple-strategies-to-help-you-pass-life-and-health-insurance-exam.jpg
+imageAlt: Businesswomen in a corporate meeting in a modern conference room.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 ## Why passing this exam matters

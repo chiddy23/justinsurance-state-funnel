@@ -1,16 +1,20 @@
 ---
-title: "How to Choose the Best California Insurance License Schools"
-description: "Find the top California insurance license schools to jumpstart your insurance career with expert guidance."
-keyword: "california insurance license schools"
-targetKeywords: "california insurance license schools"
-cluster: "state-license-california"
-clusterName: "State License – California"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-to-choose-the-best-california-insurance-license-schools.jpg"
-imageAlt: "A couple discusses home buying details with a realtor inside a modern apartment."
-imageCredit: "Photo by Anastasia  Shuraeva on Pexels"
+title: How to Choose the Best California Insurance License Schools
+description: >-
+  Find the top California insurance license schools to jumpstart your insurance
+  career with expert guidance. California licensing expert tips.
+keyword: california insurance license schools
+targetKeywords: california insurance license schools
+cluster: state-license-california
+clusterName: State License – California
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/how-to-choose-the-best-california-insurance-license-schools.jpg
+imageAlt: >-
+  A couple discusses home buying details with a realtor inside a modern
+  apartment.
+imageCredit: Photo by Anastasia  Shuraeva on Pexels
 ---
 
 ## Understand the licensing requirements

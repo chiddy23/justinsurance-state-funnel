@@ -1,16 +1,21 @@
 ---
-title: "What You Must Know About Insurance Continuing Education State Guidelines"
-description: "Stay on track with insurance continuing education state guidelines and renew your license easily."
-keyword: "insurance continuing education state guidelines"
-targetKeywords: "insurance continuing education state guidelines"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-must-know-about-insurance-continuing-education-state-guidelines.jpg"
-imageAlt: "Business meeting with diverse team discussing projects in a modern conference room."
-imageCredit: "Photo by Christina Morillo on Pexels"
+title: What You Must Know About Insurance Continuing Education State Guidelines
+description: >-
+  Stay on track with insurance continuing education state guidelines and renew
+  your license easily. State-by-state CE compliance tips.
+keyword: insurance continuing education state guidelines
+targetKeywords: insurance continuing education state guidelines
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-you-must-know-about-insurance-continuing-education-state-guidelines.jpg
+imageAlt: >-
+  Business meeting with diverse team discussing projects in a modern conference
+  room.
+imageCredit: Photo by Christina Morillo on Pexels
 ---
 
 ## Know the basics of insurance continuing education

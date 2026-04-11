@@ -1,16 +1,20 @@
 ---
-title: "Top Tips for Passing Your Florida Health Insurance License"
-description: "Ace your florida health insurance license exam with friendly expert tips designed just for you!"
-keyword: "florida health insurance license"
-targetKeywords: "florida health insurance license"
-cluster: "florida-insurance-license"
-clusterName: "Florida Insurance License"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-tips-for-passing-your-florida-health-insurance-license.jpg"
-imageAlt: "Professional woman on a video call, working remotely from home office with a laptop."
-imageCredit: "Photo by Mizuno K on Pexels"
+title: Top Tips for Passing Your Florida Health Insurance License
+description: >-
+  Ace your florida health insurance license exam with friendly expert tips
+  designed just for you! Licensed agent insights for Florida.
+keyword: florida health insurance license
+targetKeywords: florida health insurance license
+cluster: florida-insurance-license
+clusterName: Florida Insurance License
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/top-tips-for-passing-your-florida-health-insurance-license.jpg
+imageAlt: >-
+  Professional woman on a video call, working remotely from home office with a
+  laptop.
+imageCredit: Photo by Mizuno K on Pexels
 ---
 
 You may feel overwhelmed when you first investigate how to get your Florida health insurance license, but rest assured—it’s a straightforward process if you understand the steps. Think of it as a journey that starts with basic state requirements and finishes with a license that lets you help others secure important health coverage. By learning about the application process and exam tips early, you set yourself up for success and skip potential roadblocks along the way.

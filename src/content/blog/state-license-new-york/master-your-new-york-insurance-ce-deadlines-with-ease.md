@@ -1,16 +1,20 @@
 ---
-title: "Master Your New York Insurance CE Deadlines With Ease"
-description: "Stay on track with your New York insurance CE deadlines and breeze through your requirements with confidence"
-keyword: "new york insurance ce deadlines"
-targetKeywords: "new york insurance ce deadlines"
-cluster: "state-license-new-york"
-clusterName: "State License – New York"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/master-your-new-york-insurance-ce-deadlines-with-ease.jpg"
-imageAlt: "Young woman presenting a home insurance policy document while pointing with a pen."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Master Your New York Insurance CE Deadlines With Ease
+description: >-
+  Stay on track with your New York insurance CE deadlines and breeze through
+  your requirements with confidence. New York licensing expert guidance.
+keyword: new york insurance ce deadlines
+targetKeywords: new york insurance ce deadlines
+cluster: state-license-new-york
+clusterName: State License – New York
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/master-your-new-york-insurance-ce-deadlines-with-ease.jpg
+imageAlt: >-
+  Young woman presenting a home insurance policy document while pointing with a
+  pen.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 When you’re pursuing or renewing your insurance license in New York, there’s one critical factor you can’t ignore: your continuing education (CE) deadlines. Juggling these obligations might seem overwhelming, but it doesn’t have to be. A straightforward plan and the right resources can keep your license current and allow you to focus on advancing your insurance career. This post will guide you through the essential steps so you stay on track with your New York insurance CE deadlines.

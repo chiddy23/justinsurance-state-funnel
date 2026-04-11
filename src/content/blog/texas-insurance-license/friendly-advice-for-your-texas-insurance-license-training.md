@@ -1,16 +1,18 @@
 ---
-title: "Friendly Advice for Your Texas Insurance License Training"
-description: "Get friendly Texas insurance license training tips to ace your exam, boost confidence, and pass with ease"
-keyword: "texas insurance license training"
-targetKeywords: "texas insurance license training"
-cluster: "texas-insurance-license"
-clusterName: "Texas Insurance License"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/friendly-advice-for-your-texas-insurance-license-training.jpg"
-imageAlt: "A sleek laptop on a desk in a modern home office with vibrant green plants."
-imageCredit: "Photo by Anna Shvets on Pexels"
+title: Friendly Advice for Your Texas Insurance License Training
+description: >-
+  Get friendly Texas insurance license training tips to ace your exam, boost
+  confidence, and pass with ease. Expert Texas licensing guidance.
+keyword: texas insurance license training
+targetKeywords: texas insurance license training
+cluster: texas-insurance-license
+clusterName: Texas Insurance License
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/friendly-advice-for-your-texas-insurance-license-training.jpg
+imageAlt: A sleek laptop on a desk in a modern home office with vibrant green plants.
+imageCredit: Photo by Anna Shvets on Pexels
 ---
 
 ## Understand licensure basics

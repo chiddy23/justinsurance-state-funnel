@@ -1,16 +1,20 @@
 ---
-title: "How You Can Easily Get Your North Carolina Producer License"
-description: "Get your North Carolina producer license easily with our step-by-step guide, tips, and friendly support."
-keyword: "s: north carolina producer license"
-targetKeywords: "north carolina producer license"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-you-can-easily-get-your-north-carolina-producer-license.jpg"
-imageAlt: "A professional individual signs legal documents at a desk in an office setting."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: How You Can Easily Get Your North Carolina Producer License
+description: >-
+  Get your North Carolina producer license easily with our step-by-step guide,
+  tips, and friendly support. North Carolina licensing tips.
+keyword: 's: north carolina producer license'
+targetKeywords: north carolina producer license
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/how-you-can-easily-get-your-north-carolina-producer-license.jpg
+imageAlt: >-
+  A professional individual signs legal documents at a desk in an office
+  setting.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 Keywords: north carolina producer license

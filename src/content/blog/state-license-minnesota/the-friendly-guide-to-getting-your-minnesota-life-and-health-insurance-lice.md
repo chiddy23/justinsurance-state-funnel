@@ -1,16 +1,19 @@
 ---
-title: "The Friendly Guide to Getting Your Minnesota Life and Health Insurance License"
-description: "Get your Minnesota life and health insurance license easily with our friendly, step-by-step beginner’s guide!"
-keyword: "minnesota life and health insurance license"
-targetKeywords: "minnesota life and health insurance license"
-cluster: "state-license-minnesota"
-clusterName: "State License –  Minnesota"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/the-friendly-guide-to-getting-your-minnesota-life-and-health-insurance-lice.jpg"
-imageAlt: "Home office setup with a man using a laptop with green screen."
-imageCredit: "Photo by Vitaly Gariev on Pexels"
+title: The Friendly Guide to Getting Your Minnesota Life and Health Insurance License
+description: >-
+  Get your Minnesota life and health insurance license easily with our friendly,
+  step-by-step beginner’s guide! Minnesota licensing expert advice.
+keyword: minnesota life and health insurance license
+targetKeywords: minnesota life and health insurance license
+cluster: state-license-minnesota
+clusterName: State License –  Minnesota
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/the-friendly-guide-to-getting-your-minnesota-life-and-health-insurance-lice.jpg
+imageAlt: Home office setup with a man using a laptop with green screen.
+imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
 Natural light can make a small apartment feel twice as big. Similarly, a friendly roadmap can make the process of getting your Minnesota life and health insurance license feel simpler than you might expect. Whether you are changing careers or just beginning your professional journey, this guide will walk you through each step in a straightforward, encouraging way. By the end, you’ll feel ready to take action and confidently move toward your new insurance career.

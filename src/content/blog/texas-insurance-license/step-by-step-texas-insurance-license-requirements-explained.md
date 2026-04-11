@@ -1,16 +1,20 @@
 ---
-title: "Step-by-Step Texas Insurance License Requirements Explained"
-description: "See how you can meet Texas insurance license requirements with our friendly, easy step-by-step guide."
-keyword: "texas insurance license requirements"
-targetKeywords: "texas insurance license requirements"
-cluster: "texas-insurance-license"
-clusterName: "Texas Insurance License"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/step-by-step-texas-insurance-license-requirements-explained.jpg"
-imageAlt: "Elegant workspace featuring polka dot notebook, gold accents, and decor elements on a wooden desk."
-imageCredit: "Photo by Anna Zanovelli Bacci on Pexels"
+title: Step-by-Step Texas Insurance License Requirements Explained
+description: >-
+  See how you can meet Texas insurance license requirements with our friendly,
+  easy step-by-step guide. Expert Texas licensing guidance.
+keyword: texas insurance license requirements
+targetKeywords: texas insurance license requirements
+cluster: texas-insurance-license
+clusterName: Texas Insurance License
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/step-by-step-texas-insurance-license-requirements-explained.jpg
+imageAlt: >-
+  Elegant workspace featuring polka dot notebook, gold accents, and decor
+  elements on a wooden desk.
+imageCredit: Photo by Anna Zanovelli Bacci on Pexels
 ---
 
 ## Understand the basics

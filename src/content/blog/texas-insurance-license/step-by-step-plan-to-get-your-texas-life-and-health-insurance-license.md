@@ -1,16 +1,21 @@
 ---
-title: "Step-by-Step Plan to Get Your Texas Life and Health Insurance License"
-description: "Get your Texas life and health insurance license with our plan. Study, pass the exam and launch your career!"
-keyword: "texas life and health insurance license"
-targetKeywords: "texas insurance license cost"
-cluster: "texas-insurance-license"
-clusterName: "Texas Insurance License"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/step-by-step-plan-to-get-your-texas-life-and-health-insurance-license.jpg"
-imageAlt: "Concentrated young man using laptop indoors, seated on blue couch with smartphone."
-imageCredit: "Photo by Kaushal Moradiya on Pexels"
+title: Step-by-Step Plan to Get Your Texas Life and Health Insurance License
+description: >-
+  Get your Texas life and health insurance license with our plan. Study, pass
+  the exam and launch your career! Expert Texas licensing guidance.
+keyword: texas life and health insurance license
+targetKeywords: texas insurance license cost
+cluster: texas-insurance-license
+clusterName: Texas Insurance License
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/step-by-step-plan-to-get-your-texas-life-and-health-insurance-license.jpg
+imageAlt: >-
+  Concentrated young man using laptop indoors, seated on blue couch with
+  smartphone.
+imageCredit: Photo by Kaushal Moradiya on Pexels
 ---
 
 If you’re ready to launch a new career in the insurance industry, earning your Texas life and health insurance license is your crucial first step. This license allows you to help fellow Texans safeguard their financial futures, and it can open up new opportunities for professional growth. Because the process involves pre-licensing education, state exams, and a final application, it helps to have a clear plan from the start.

@@ -1,16 +1,21 @@
 ---
-title: "Avoid These Common Mistakes When Getting Your Arizona Health Insurance License"
-description: "Avoid common mistakes and breeze through your Arizona health insurance license exam with our friendly tips."
-keyword: "arizona health insurance license"
-targetKeywords: "arizona life insurance license"
-cluster: "state-license-arizona"
-clusterName: "State License – Arizona"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/avoid-these-common-mistakes-when-getting-your-arizona-health-insurance-lice.jpg"
-imageAlt: "A sleek laptop on a glass desk with a plant, showcasing a modern workspace setup."
-imageCredit: "Photo by Karina Finger on Pexels"
+title: Avoid These Common Mistakes When Getting Your Arizona Health Insurance License
+description: >-
+  Avoid common mistakes and breeze through your Arizona health insurance license
+  exam with our friendly tips. Arizona licensing expert guidance.
+keyword: arizona health insurance license
+targetKeywords: arizona life insurance license
+cluster: state-license-arizona
+clusterName: State License – Arizona
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/avoid-these-common-mistakes-when-getting-your-arizona-health-insurance-lice.jpg
+imageAlt: >-
+  A sleek laptop on a glass desk with a plant, showcasing a modern workspace
+  setup.
+imageCredit: Photo by Karina Finger on Pexels
 ---
 
 For many aspiring professionals across the state, earning your Arizona health insurance license is the first step to a dynamic and rewarding career. However, in the rush to fulfill requirements, it is easy to make mistakes that slow your progress, or even block you from obtaining your license. The good news is that these errors are preventable with the right information and a bit of careful planning.

@@ -1,16 +1,21 @@
 ---
-title: "Your Essential Insurance Exam Passed Checklist for Smooth Licensing"
-description: "Use your insurance exam passed checklist to breeze through post license steps and kickstart your career."
-keyword: ""
-targetKeywords: "insurance exam passed checklist"
-cluster: "insurance-education-what-to-do-after-passing-your-insurance-exam"
-clusterName: "Insurance Education > Post-License > What to Do After Passing Your Insurance Exam"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-essential-insurance-exam-passed-checklist-for-smooth-licensing.jpg"
-imageAlt: "Cozy office workspace with a calculator, laptop, and notes on a wooden desk."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Your Essential Insurance Exam Passed Checklist for Smooth Licensing
+description: >-
+  Use your insurance exam passed checklist to breeze through post license steps
+  and kickstart your career. Next steps after passing your exam.
+keyword: ''
+targetKeywords: insurance exam passed checklist
+cluster: insurance-education-what-to-do-after-passing-your-insurance-exam
+clusterName: >-
+  Insurance Education > Post-License > What to Do After Passing Your Insurance
+  Exam
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-essential-insurance-exam-passed-checklist-for-smooth-licensing.jpg
+imageAlt: 'Cozy office workspace with a calculator, laptop, and notes on a wooden desk.'
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 Insurance: insurance exam passed checklist

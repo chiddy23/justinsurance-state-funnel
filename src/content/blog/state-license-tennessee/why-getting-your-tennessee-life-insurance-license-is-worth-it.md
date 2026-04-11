@@ -1,16 +1,20 @@
 ---
-title: "Why Getting Your Tennessee Life Insurance License Is Worth It"
-description: "Kickstart your career and boost earnings with your Tennessee life insurance license—see why it’s worth it."
-keyword: "tennessee life insurance license"
-targetKeywords: "tennessee life insurance license"
-cluster: "state-license-tennessee"
-clusterName: "State License –  Tennessee"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/why-getting-your-tennessee-life-insurance-license-is-worth-it.jpg"
-imageAlt: "Businessman in a sleek gray suit with arms crossed, looking confident in a modern office."
-imageCredit: "Photo by Vitaly Gariev on Pexels"
+title: Why Getting Your Tennessee Life Insurance License Is Worth It
+description: >-
+  Kickstart your career and boost earnings with your Tennessee life insurance
+  license—see why it’s worth it. Tennessee licensing expert guidance.
+keyword: tennessee life insurance license
+targetKeywords: tennessee life insurance license
+cluster: state-license-tennessee
+clusterName: State License –  Tennessee
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/why-getting-your-tennessee-life-insurance-license-is-worth-it.jpg
+imageAlt: >-
+  Businessman in a sleek gray suit with arms crossed, looking confident in a
+  modern office.
+imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
 Obtaining your Tennessee life insurance license can feel like a major move, especially if you are new to the world of insurance. Yet this one credential holds the power to launch a reliable and flexible career. It not only proves you can guide others in making wise insurance decisions, but it also opens the door to higher earnings and broader professional influence.

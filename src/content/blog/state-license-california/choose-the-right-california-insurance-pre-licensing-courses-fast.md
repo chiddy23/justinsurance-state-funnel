@@ -1,16 +1,21 @@
 ---
-title: "Choose the Right California Insurance Pre-Licensing Courses Fast"
-description: "Find the best California insurance pre-licensing courses to launch your insurance career fast and confidently"
-keyword: "california insurance pre-licensing courses"
-targetKeywords: "california insurance pre-licensing courses"
-cluster: "state-license-california"
-clusterName: "State License – California"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/choose-the-right-california-insurance-pre-licensing-courses-fast.jpg"
-imageAlt: "Two business professionals signing a contract at a desk; collaborating in an office."
-imageCredit: "Photo by Pavel Danilyuk on Pexels"
+title: Choose the Right California Insurance Pre-Licensing Courses Fast
+description: >-
+  Find the best California insurance pre-licensing courses to launch your
+  insurance career fast and confidently. California licensing expert tips.
+keyword: california insurance pre-licensing courses
+targetKeywords: california insurance pre-licensing courses
+cluster: state-license-california
+clusterName: State License – California
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/choose-the-right-california-insurance-pre-licensing-courses-fast.jpg
+imageAlt: >-
+  Two business professionals signing a contract at a desk; collaborating in an
+  office.
+imageCredit: Photo by Pavel Danilyuk on Pexels
 ---
 
 ## Learn the basics of California insurance pre-licensing

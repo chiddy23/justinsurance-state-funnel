@@ -1,16 +1,21 @@
 ---
-title: "Quick and Effective Life and Health Insurance Exam Flashcards for You"
-description: "Get quick life and health insurance exam flashcards to boost your prep and ace your first licensing test"
-keyword: "life and health insurance exam flashcards"
-targetKeywords: "life and health insurance exam flashcards"
-cluster: "life-and-health-exam-prep"
-clusterName: "Life & Health Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/quick-and-effective-life-and-health-insurance-exam-flashcards-for-you.jpg"
-imageAlt: "Calculator with glasses and folders on an office desk. Perfect for finance and accounting themes."
-imageCredit: "Photo by Jakub Zerdzicki on Pexels"
+title: Quick and Effective Life and Health Insurance Exam Flashcards for You
+description: >-
+  Get quick life and health insurance exam flashcards to boost your prep and ace
+  your first licensing test. Expert tips from licensed agents.
+keyword: life and health insurance exam flashcards
+targetKeywords: life and health insurance exam flashcards
+cluster: life-and-health-exam-prep
+clusterName: Life & Health Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/quick-and-effective-life-and-health-insurance-exam-flashcards-for-you.jpg
+imageAlt: >-
+  Calculator with glasses and folders on an office desk. Perfect for finance and
+  accounting themes.
+imageCredit: Photo by Jakub Zerdzicki on Pexels
 ---
 
 ## Understand the power of flashcards

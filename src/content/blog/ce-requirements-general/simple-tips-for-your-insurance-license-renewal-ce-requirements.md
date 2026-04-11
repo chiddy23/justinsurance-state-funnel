@@ -1,16 +1,21 @@
 ---
-title: "Simple Tips for Your Insurance License Renewal CE Requirements"
-description: "Master your insurance license renewal ce requirements with state-by-state tips to breeze through credits."
-keyword: "insurance license renewal ce requirements"
-targetKeywords: "insurance license renewal ce requirements"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/simple-tips-for-your-insurance-license-renewal-ce-requirements.jpg"
-imageAlt: "Close-up of home insurance documents with a laptop, symbolizing modern paperwork processes."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Simple Tips for Your Insurance License Renewal CE Requirements
+description: >-
+  Master your insurance license renewal ce requirements with state-by-state tips
+  to breeze through credits. State-by-state CE compliance tips.
+keyword: insurance license renewal ce requirements
+targetKeywords: insurance license renewal ce requirements
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/simple-tips-for-your-insurance-license-renewal-ce-requirements.jpg
+imageAlt: >-
+  Close-up of home insurance documents with a laptop, symbolizing modern
+  paperwork processes.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 ## Know your insurance license renewal CE requirements

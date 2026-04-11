@@ -1,16 +1,21 @@
 ---
-title: "Surprising Facts About Insurance Agent Earnings You Should Know"
-description: "Curious about your insurance agent earnings? Discover surprising facts to level up your income now."
-keyword: "insurance agent earnings"
-targetKeywords: "insurance agent earnings"
-cluster: "insurance-career-and-salary"
-clusterName: "Insurance Career & Salary"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/surprising-facts-about-insurance-agent-earnings-you-should-know.jpg"
-imageAlt: "Modern office desk setup with laptop, smartphone, coffee, and calendar for productive work environment."
-imageCredit: "Photo by Aleksandar Cvetanovic on Pexels"
+title: Surprising Facts About Insurance Agent Earnings You Should Know
+description: >-
+  Curious about your insurance agent earnings? Discover surprising facts to
+  level up your income now. Real insights from licensed agents.
+keyword: insurance agent earnings
+targetKeywords: insurance agent earnings
+cluster: insurance-career-and-salary
+clusterName: Insurance Career & Salary
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/surprising-facts-about-insurance-agent-earnings-you-should-know.jpg
+imageAlt: >-
+  Modern office desk setup with laptop, smartphone, coffee, and calendar for
+  productive work environment.
+imageCredit: Photo by Aleksandar Cvetanovic on Pexels
 ---
 
 ## Understand the typical income range

@@ -1,16 +1,19 @@
 ---
-title: "Your Friendly Guide to New York Insurance CE Credits Requirements"
-description: "Get your new york insurance ce credits with our friendly guide to stress-free NY license renewal."
-keyword: "new york insurance ce credits"
-targetKeywords: "new york insurance ce credits"
-cluster: "state-license-new-york"
-clusterName: "State License – New York"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-friendly-guide-to-new-york-insurance-ce-credits-requirements.jpg"
-imageAlt: "Close-up of income statement, calculator, and planner for financial planning."
-imageCredit: "Photo by Leeloo The First on Pexels"
+title: Your Friendly Guide to New York Insurance CE Credits Requirements
+description: >-
+  Get your new york insurance ce credits with our friendly guide to stress-free
+  NY license renewal. New York licensing expert guidance.
+keyword: new york insurance ce credits
+targetKeywords: new york insurance ce credits
+cluster: state-license-new-york
+clusterName: State License – New York
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-friendly-guide-to-new-york-insurance-ce-credits-requirements.jpg
+imageAlt: 'Close-up of income statement, calculator, and planner for financial planning.'
+imageCredit: Photo by Leeloo The First on Pexels
 ---
 
 If you live in New York and want to become a licensed insurance professional, you may have heard about New York insurance CE credits. These credits are part of the continuing education requirements that help you stay updated on important industry changes. Whether you are just beginning your journey or already hold a license, understanding how these credits fit into your licensing path can make all the difference in your long-term success.

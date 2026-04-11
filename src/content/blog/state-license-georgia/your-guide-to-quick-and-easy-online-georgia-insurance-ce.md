@@ -1,16 +1,20 @@
 ---
-title: "Your Guide to Quick and Easy Online Georgia Insurance CE"
-description: "Get your online Georgia insurance CE done fast and easy with our friendly guide designed just for you."
-keyword: "georgia insurance continuing education"
-targetKeywords: "georgia insurance continuing education"
-cluster: "state-license-georgia"
-clusterName: "State License – Georgia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-guide-to-quick-and-easy-online-georgia-insurance-ce.jpg"
-imageAlt: "A striking studio portrait of a young woman in a black lace blouse, showcasing elegance and strength."
-imageCredit: "Photo by Korede  Adenola on Pexels"
+title: Your Guide to Quick and Easy Online Georgia Insurance CE
+description: >-
+  Get your online Georgia insurance CE done fast and easy with our friendly
+  guide designed just for you. Georgia licensing expert advice.
+keyword: georgia insurance continuing education
+targetKeywords: georgia insurance continuing education
+cluster: state-license-georgia
+clusterName: State License – Georgia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-guide-to-quick-and-easy-online-georgia-insurance-ce.jpg
+imageAlt: >-
+  A striking studio portrait of a young woman in a black lace blouse, showcasing
+  elegance and strength.
+imageCredit: Photo by Korede  Adenola on Pexels
 ---
 
 ## Understand Georgia insurance CE basics

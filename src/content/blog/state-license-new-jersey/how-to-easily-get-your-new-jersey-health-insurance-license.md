@@ -1,16 +1,18 @@
 ---
-title: "How to Easily Get Your New Jersey Health Insurance License"
-description: "Easily get your new jersey health insurance license with friendly, step-by-step tips designed just for you."
-keyword: "new jersey health insurance license"
-targetKeywords: "new jersey health insurance license"
-cluster: "state-license-new-jersey"
-clusterName: "State License – New Jersey"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-to-easily-get-your-new-jersey-health-insurance-license.jpg"
-imageAlt: "A diverse team collaborates on a workspace board with charts and plans."
-imageCredit: "Photo by Monstera Production on Pexels"
+title: How to Easily Get Your New Jersey Health Insurance License
+description: >-
+  Easily get your new jersey health insurance license with friendly,
+  step-by-step tips designed just for you. New Jersey licensing expert tips.
+keyword: new jersey health insurance license
+targetKeywords: new jersey health insurance license
+cluster: state-license-new-jersey
+clusterName: State License – New Jersey
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/how-to-easily-get-your-new-jersey-health-insurance-license.jpg
+imageAlt: A diverse team collaborates on a workspace board with charts and plans.
+imageCredit: Photo by Monstera Production on Pexels
 ---
 
 If you’re aiming for a New Jersey health insurance license, you’ll be happy to know the process is straightforward with the right preparation. Once you meet the state’s basic eligibility requirements, you can move quickly through pre-licensing, exams, and paperwork. In the end, you’ll have the knowledge and credentials needed to help individuals and families find the coverage they truly need.

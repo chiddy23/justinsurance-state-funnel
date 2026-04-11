@@ -1,16 +1,21 @@
 ---
-title: "Avoid These Common Mistakes with Colorado Health Insurance License"
-description: "Avoid common mistakes and fast-track your health insurance license in Colorado with friendly expert tips."
-keyword: "colorado health insurance license"
-targetKeywords: "colorado health insurance license"
-cluster: "state-license-colorado"
-clusterName: "State License – Colorado"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/avoid-these-common-mistakes-with-colorado-health-insurance-license.jpg"
-imageAlt: "Diverse team engaged in a corporate meeting with laptops in a bright, modern office setting."
-imageCredit: "Photo by Luis Sevilla on Pexels"
+title: Avoid These Common Mistakes with Colorado Health Insurance License
+description: >-
+  Avoid common mistakes and fast-track your health insurance license in Colorado
+  with friendly expert tips. Colorado agent licensing guidance.
+keyword: colorado health insurance license
+targetKeywords: colorado health insurance license
+cluster: state-license-colorado
+clusterName: State License – Colorado
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/avoid-these-common-mistakes-with-colorado-health-insurance-license.jpg
+imageAlt: >-
+  Diverse team engaged in a corporate meeting with laptops in a bright, modern
+  office setting.
+imageCredit: Photo by Luis Sevilla on Pexels
 ---
 
 Know the licensing basics

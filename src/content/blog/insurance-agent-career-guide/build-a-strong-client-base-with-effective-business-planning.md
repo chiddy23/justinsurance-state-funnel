@@ -1,16 +1,20 @@
 ---
-title: "Build a Strong Client Base with Effective Business Planning"
-description: "Grow your client base with friendly insurance agent business planning for first-year wins"
-keyword: "insurance agent business planning"
-targetKeywords: "insurance agent business planning"
-cluster: "insurance-agent-career-guide"
-clusterName: "Insurance Agent Career Guide"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/build-a-strong-client-base-with-effective-business-planning.jpg"
-imageAlt: "Close-up of hands using a calculator and keyboard in a financial setting, indoors."
-imageCredit: "Photo by Jakub Zerdzicki on Pexels"
+title: Build a Strong Client Base with Effective Business Planning
+description: >-
+  Grow your client base with friendly insurance agent business planning for
+  first-year wins. Career tips from industry experts.
+keyword: insurance agent business planning
+targetKeywords: insurance agent business planning
+cluster: insurance-agent-career-guide
+clusterName: Insurance Agent Career Guide
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/build-a-strong-client-base-with-effective-business-planning.jpg
+imageAlt: >-
+  Close-up of hands using a calculator and keyboard in a financial setting,
+  indoors.
+imageCredit: Photo by Jakub Zerdzicki on Pexels
 ---
 
 ## Clarify your mission

@@ -1,16 +1,18 @@
 ---
-title: "What You Should Know About Insurance Agent Income Potential"
-description: "Unlock your insurance agent income potential with expert insights on boosting your earnings."
-keyword: "insurance agent income potential"
-targetKeywords: "insurance agent income potential"
-cluster: "insurance-career-and-salary"
-clusterName: "Insurance Career & Salary"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-should-know-about-insurance-agent-income-potential.jpg"
-imageAlt: "A close-up of a classic rotary and modern landline phone on a desk."
-imageCredit: "Photo by Themba Mtegha on Pexels"
+title: What You Should Know About Insurance Agent Income Potential
+description: >-
+  Unlock your insurance agent income potential with expert insights on boosting
+  your earnings. Real insights from licensed agents.
+keyword: insurance agent income potential
+targetKeywords: insurance agent income potential
+cluster: insurance-career-and-salary
+clusterName: Insurance Career & Salary
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/what-you-should-know-about-insurance-agent-income-potential.jpg
+imageAlt: A close-up of a classic rotary and modern landline phone on a desk.
+imageCredit: Photo by Themba Mtegha on Pexels
 ---
 
 ## Understand insurance agent roles

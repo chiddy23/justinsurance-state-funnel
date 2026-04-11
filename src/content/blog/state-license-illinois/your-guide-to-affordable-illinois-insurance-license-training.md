@@ -1,16 +1,18 @@
 ---
-title: "Your Guide to Affordable Illinois Insurance License Training"
-description: "Your Guide to Affordable Illinois Insurance License Training"
-keyword: "illinois insurance license training"
-targetKeywords: "illinois insurance license training"
-cluster: "state-license-illinois"
-clusterName: "State License – Illinois"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-guide-to-affordable-illinois-insurance-license-training.jpg"
-imageAlt: "Two business professionals reviewing documents together."
-imageCredit: "Photo by www.kaboompics.com on Pexels"
+title: Your Guide to Affordable Illinois Insurance License Training
+description: >-
+  Your Guide to Affordable Illinois Insurance License Training. Illinois
+  licensing made simple. Read the full guide from JustInsurance.
+keyword: illinois insurance license training
+targetKeywords: illinois insurance license training
+cluster: state-license-illinois
+clusterName: State License – Illinois
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-guide-to-affordable-illinois-insurance-license-training.jpg
+imageAlt: Two business professionals reviewing documents together.
+imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
 Master Description: Get affordable Illinois insurance license training with friendly expert support to jumpstart your career

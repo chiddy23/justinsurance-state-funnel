@@ -1,16 +1,20 @@
 ---
-title: "Your Friendly Guide to New York Insurance CE Requirements"
-description: "Easily navigate New York insurance CE requirements with this friendly guide to keep your license current."
-keyword: "new york insurance ce requirements"
-targetKeywords: "new york insurance ce requirements"
-cluster: "state-license-new-york"
-clusterName: "State License – New York"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-friendly-guide-to-new-york-insurance-ce-requirements.jpg"
-imageAlt: "Close-up of two businessmen shaking hands, symbolizing agreement and partnership."
-imageCredit: "Photo by Bia Limova on Pexels"
+title: Your Friendly Guide to New York Insurance CE Requirements
+description: >-
+  Easily navigate New York insurance CE requirements with this friendly guide to
+  keep your license current. New York licensing expert guidance.
+keyword: new york insurance ce requirements
+targetKeywords: new york insurance ce requirements
+cluster: state-license-new-york
+clusterName: State License – New York
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-friendly-guide-to-new-york-insurance-ce-requirements.jpg
+imageAlt: >-
+  Close-up of two businessmen shaking hands, symbolizing agreement and
+  partnership.
+imageCredit: Photo by Bia Limova on Pexels
 ---
 
 Understand why CE matters

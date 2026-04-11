@@ -1,16 +1,20 @@
 ---
-title: "Save Time with These Easy Florida Insurance CE Classes"
-description: "Save time with easy Florida insurance CE classes that fit your schedule and help you pass your license exam."
-keyword: "florida insurance ce classes"
-targetKeywords: "florida insurance ce classes"
-cluster: "florida-ce-requirements"
-clusterName: "Florida CE Requirements"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/save-time-with-these-easy-florida-insurance-ce-classes.jpg"
-imageAlt: "Tidy desk setup with a laptop, analog clock, and desk decor in a modern home workspace setting."
-imageCredit: "Photo by Suhas Hanjar on Pexels"
+title: Save Time with These Easy Florida Insurance CE Classes
+description: >-
+  Save time with easy Florida insurance CE classes that fit your schedule and
+  help you pass your license exam. Florida CE renewal made easy.
+keyword: florida insurance ce classes
+targetKeywords: florida insurance ce classes
+cluster: florida-ce-requirements
+clusterName: Florida CE Requirements
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/save-time-with-these-easy-florida-insurance-ce-classes.jpg
+imageAlt: >-
+  Tidy desk setup with a laptop, analog clock, and desk decor in a modern home
+  workspace setting.
+imageCredit: Photo by Suhas Hanjar on Pexels
 ---
 
 Understand your Florida CE requirements

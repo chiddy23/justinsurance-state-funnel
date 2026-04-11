@@ -1,16 +1,21 @@
 ---
-title: "Simple Steps for Michigan Insurance License Continuing Education Success"
-description: "Master your Michigan insurance license continuing education with simple steps tailored for you."
-keyword: "s: michigan insurance license continuing educat"
-targetKeywords: "michigan insurance license continuing education"
-cluster: "state-license-michigan"
-clusterName: "State License – Michigan"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/simple-steps-for-michigan-insurance-license-continuing-education-success.jpg"
-imageAlt: "Close-up of a hand signing a formal document with a fountain pen, indicating agreement."
-imageCredit: "Photo by Pixabay on Pexels"
+title: Simple Steps for Michigan Insurance License Continuing Education Success
+description: >-
+  Master your Michigan insurance license continuing education with simple steps
+  tailored for you. Michigan licensing made easy.
+keyword: 's: michigan insurance license continuing educat'
+targetKeywords: michigan insurance license continuing education
+cluster: state-license-michigan
+clusterName: State License – Michigan
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/simple-steps-for-michigan-insurance-license-continuing-education-success.jpg
+imageAlt: >-
+  Close-up of a hand signing a formal document with a fountain pen, indicating
+  agreement.
+imageCredit: Photo by Pixabay on Pexels
 ---
 
 Keywords: michigan insurance license continuing educat

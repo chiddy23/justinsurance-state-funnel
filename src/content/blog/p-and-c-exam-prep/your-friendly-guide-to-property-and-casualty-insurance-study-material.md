@@ -1,16 +1,21 @@
 ---
-title: "Your Friendly Guide to Property and Casualty Insurance Study Material"
-description: "Master your exam with friendly property and casualty insurance study material and feel confident on test day."
-keyword: "property and casualty insurance study material"
-targetKeywords: "property and casualty insurance study material"
-cluster: "p-and-c-exam-prep"
-clusterName: "P&C Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-friendly-guide-to-property-and-casualty-insurance-study-material.jpg"
-imageAlt: "Business professionals handshake demonstrating diversity and collaboration in an office setting."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Your Friendly Guide to Property and Casualty Insurance Study Material
+description: >-
+  Master your exam with friendly property and casualty insurance study material
+  and feel confident on test day. Complete P&C exam prep guidance.
+keyword: property and casualty insurance study material
+targetKeywords: property and casualty insurance study material
+cluster: p-and-c-exam-prep
+clusterName: P&C Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-friendly-guide-to-property-and-casualty-insurance-study-material.jpg
+imageAlt: >-
+  Business professionals handshake demonstrating diversity and collaboration in
+  an office setting.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 Preparing for your property and casualty insurance licensing exam can feel overwhelming at first. Luckily, you have a wealth of property and casualty insurance study material at your fingertips—once you get to know where to look and how to use it.

@@ -1,16 +1,19 @@
 ---
-title: "What You Need to Know About the Michigan Property and Casualty License"
-description: "Ready to ace your Michigan property and casualty license exam? Get clear steps, study tips, and expert help"
-keyword: "s: michigan property and casualty license"
-targetKeywords: "michigan property and casualty license"
-cluster: "state-license-michigan"
-clusterName: "State License – Michigan"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-need-to-know-about-the-michigan-property-and-casualty-license.jpg"
-imageAlt: "Man in black suit using phone on a Toronto rooftop with skyline view."
-imageCredit: "Photo by Sean Kernerman on Pexels"
+title: What You Need to Know About the Michigan Property and Casualty License
+description: >-
+  Ready to ace your Michigan property and casualty license exam? Get clear
+  steps, study tips, and expert help. Michigan licensing made easy.
+keyword: 's: michigan property and casualty license'
+targetKeywords: michigan property and casualty license
+cluster: state-license-michigan
+clusterName: State License – Michigan
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-you-need-to-know-about-the-michigan-property-and-casualty-license.jpg
+imageAlt: Man in black suit using phone on a Toronto rooftop with skyline view.
+imageCredit: Photo by Sean Kernerman on Pexels
 ---
 
 Keywords: michigan property and casualty license

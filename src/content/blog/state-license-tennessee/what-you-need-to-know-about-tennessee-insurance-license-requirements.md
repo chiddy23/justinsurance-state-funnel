@@ -1,16 +1,22 @@
 ---
-title: "What You Need to Know About Tennessee Insurance License Requirements"
-description: "Meet Tennessee insurance license requirements with ease and start your insurance career today."
-keyword: "tennessee insurance license requirements"
-targetKeywords: "tennessee insurance license requirements"
-cluster: "state-license-tennessee"
-clusterName: "State License –  Tennessee"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-need-to-know-about-tennessee-insurance-license-requirements.jpg"
-imageAlt: "Professional ethnic female psychotherapist asking questions to black male patient and taking notes in clipboard while sitting together at table in modern psychotherapy center"
-imageCredit: "Photo by Alex Green on Pexels"
+title: What You Need to Know About Tennessee Insurance License Requirements
+description: >-
+  Meet Tennessee insurance license requirements with ease and start your
+  insurance career today. Tennessee licensing expert guidance.
+keyword: tennessee insurance license requirements
+targetKeywords: tennessee insurance license requirements
+cluster: state-license-tennessee
+clusterName: State License –  Tennessee
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-you-need-to-know-about-tennessee-insurance-license-requirements.jpg
+imageAlt: >-
+  Professional ethnic female psychotherapist asking questions to black male
+  patient and taking notes in clipboard while sitting together at table in
+  modern psychotherapy center
+imageCredit: Photo by Alex Green on Pexels
 ---
 
 If you’re ready to pursue an exciting new career path, it’s important to fully understand the Tennessee insurance license requirements before you dive in. Whether you plan to tackle life and health or property and casualty lines, your next steps will involve some formal education, a licensing exam, and a bit of paperwork. A streamlined approach can make the entire process simpler—especially if you know what to expect. Below, you’ll find a helpful roadmap to get you from curious candidate to newly licensed insurance professional.

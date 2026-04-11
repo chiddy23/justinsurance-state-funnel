@@ -1,16 +1,19 @@
 ---
-title: "Easy Steps to Master Insurance Agency Digital Marketing Quickly"
-description: "Quickly boost your clientele with easy insurance agency digital marketing steps for new agents."
-keyword: "insurance agency digital marketing"
-targetKeywords: "insurance agency digital marketing"
-cluster: "insurance-agent-career-guide"
-clusterName: "Insurance Agent Career Guide"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/easy-steps-to-master-insurance-agency-digital-marketing-quickly.jpg"
-imageAlt: "A detailed view of a man signing official documents with a pen at a table."
-imageCredit: "Photo by Ron Lach on Pexels"
+title: Easy Steps to Master Insurance Agency Digital Marketing Quickly
+description: >-
+  Quickly boost your clientele with easy insurance agency digital marketing
+  steps for new agents. Career tips from industry experts.
+keyword: insurance agency digital marketing
+targetKeywords: insurance agency digital marketing
+cluster: insurance-agent-career-guide
+clusterName: Insurance Agent Career Guide
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/easy-steps-to-master-insurance-agency-digital-marketing-quickly.jpg
+imageAlt: A detailed view of a man signing official documents with a pen at a table.
+imageCredit: Photo by Ron Lach on Pexels
 ---
 
 ## Know your digital marketing foundation

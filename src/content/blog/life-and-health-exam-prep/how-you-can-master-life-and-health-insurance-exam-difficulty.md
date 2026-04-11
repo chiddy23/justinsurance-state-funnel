@@ -1,16 +1,18 @@
 ---
-title: "How You Can Master Life and Health Insurance Exam Difficulty"
-description: "Conquer life and health insurance exam difficulty with proven study tips to help you pass on your first try"
-keyword: "life and health insurance exam difficulty"
-targetKeywords: "life and health insurance exam difficulty"
-cluster: "life-and-health-exam-prep"
-clusterName: "Life & Health Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-you-can-master-life-and-health-insurance-exam-difficulty.jpg"
-imageAlt: "South Asian woman in plaid shirt using laptop on bench in park setting."
-imageCredit: "Photo by Shantanu Kumar on Pexels"
+title: How You Can Master Life and Health Insurance Exam Difficulty
+description: >-
+  Conquer life and health insurance exam difficulty with proven study tips to
+  help you pass on your first try. Expert tips from licensed agents.
+keyword: life and health insurance exam difficulty
+targetKeywords: life and health insurance exam difficulty
+cluster: life-and-health-exam-prep
+clusterName: Life & Health Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/how-you-can-master-life-and-health-insurance-exam-difficulty.jpg
+imageAlt: South Asian woman in plaid shirt using laptop on bench in park setting.
+imageCredit: Photo by Shantanu Kumar on Pexels
 ---
 
 ## Understanding life and health insurance exam difficulty

@@ -1,16 +1,21 @@
 ---
-title: "Why Your P&C Exam Study Plan Makes or Breaks You"
-description: "Unlock the power of your p&c exam study plan—get friendly tips to boost your confidence and nail the test!"
-keyword: "p&c exam study plan"
-targetKeywords: "p&c exam study plan"
-cluster: "p-and-c-exam-prep"
-clusterName: "P&C Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/why-your-p-and-c-exam-study-plan-could-make-or-break-your-score.jpg"
-imageAlt: "Stylish businessman in Dubai with city skyline in background, holding briefcase."
-imageCredit: "Photo by The Lazy Artist Gallery on Pexels"
+title: Why Your P&C Exam Study Plan Makes or Breaks You
+description: >-
+  Unlock the power of your p&c exam study plan—get friendly tips to boost your
+  confidence and nail the test! Complete P&C exam prep guidance.
+keyword: p&c exam study plan
+targetKeywords: p&c exam study plan
+cluster: p-and-c-exam-prep
+clusterName: P&C Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/why-your-p-and-c-exam-study-plan-could-make-or-break-your-score.jpg
+imageAlt: >-
+  Stylish businessman in Dubai with city skyline in background, holding
+  briefcase.
+imageCredit: Photo by The Lazy Artist Gallery on Pexels
 ---
 
 Preparing for your property and casualty (P&C) insurance licensing exam can feel daunting. There’s a wide range of topics to cover, from basic policy provisions to complex underwriting guidelines. Yet, having a well-structured p&c exam study plan can simplify your path to success. By knowing what to study, how to organize it, and when to review, you’ll feel fully prepared once exam day arrives.

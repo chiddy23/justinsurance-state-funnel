@@ -1,16 +1,21 @@
 ---
-title: "Top Life and Health Insurance Exam Questions and Answers You Need"
-description: "Boost your confidence with life and health insurance exam prep and ace your state licensing exam with ease."
-keyword: "life and health insurance exam prep"
-targetKeywords: "life and health insurance exam prep"
-cluster: "life-and-health-exam-prep"
-clusterName: "Life & Health Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-life-and-health-insurance-exam-questions-and-answers-you-need.jpg"
-imageAlt: "A multicultural group of professionals engaged in a business meeting in a modern conference room."
-imageCredit: "Photo by Werner Pfennig on Pexels"
+title: Top Life and Health Insurance Exam Questions and Answers You Need
+description: >-
+  Boost your confidence with life and health insurance exam prep and ace your
+  state licensing exam with ease. Expert tips from licensed agents.
+keyword: life and health insurance exam prep
+targetKeywords: life and health insurance exam prep
+cluster: life-and-health-exam-prep
+clusterName: Life & Health Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/top-life-and-health-insurance-exam-questions-and-answers-you-need.jpg
+imageAlt: >-
+  A multicultural group of professionals engaged in a business meeting in a
+  modern conference room.
+imageCredit: Photo by Werner Pfennig on Pexels
 ---
 
 ## Understand why the exam matters

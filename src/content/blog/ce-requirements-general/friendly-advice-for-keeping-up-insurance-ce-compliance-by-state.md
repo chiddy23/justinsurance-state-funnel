@@ -1,16 +1,19 @@
 ---
-title: "Friendly Advice for Keeping Up Insurance CE Compliance by State"
-description: "Get friendly advice for insurance CE compliance by state so you can renew your license stress-free."
-keyword: "insurance ce compliance by state"
-targetKeywords: "insurance ce compliance by state"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/friendly-advice-for-keeping-up-insurance-ce-compliance-by-state.jpg"
-imageAlt: "A young girl focuses on distance learning with her laptop at home."
-imageCredit: "Photo by August de Richelieu on Pexels"
+title: Friendly Advice for Keeping Up Insurance CE Compliance by State
+description: >-
+  Get friendly advice for insurance CE compliance by state so you can renew your
+  license stress-free. State-by-state CE compliance tips.
+keyword: insurance ce compliance by state
+targetKeywords: insurance ce compliance by state
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/friendly-advice-for-keeping-up-insurance-ce-compliance-by-state.jpg
+imageAlt: A young girl focuses on distance learning with her laptop at home.
+imageCredit: Photo by August de Richelieu on Pexels
 ---
 
 ## Explore why CE matters

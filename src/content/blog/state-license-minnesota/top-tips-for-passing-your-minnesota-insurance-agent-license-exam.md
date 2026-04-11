@@ -1,16 +1,21 @@
 ---
-title: "Top Tips for Passing Your Minnesota Insurance Agent License Exam"
-description: "Friendly tips to ace your Minnesota insurance agent license exam and launch your dream insurance career."
-keyword: "minnesota insurance agent license"
-targetKeywords: "minnesota insurance agent license"
-cluster: "state-license-minnesota"
-clusterName: "State License –  Minnesota"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-tips-for-passing-your-minnesota-insurance-agent-license-exam.jpg"
-imageAlt: "Portrait of a confident businessman holding papers in formal attire inside an office"
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: Top Tips for Passing Your Minnesota Insurance Agent License Exam
+description: >-
+  Friendly tips to ace your Minnesota insurance agent license exam and launch
+  your dream insurance career. Minnesota licensing expert advice.
+keyword: minnesota insurance agent license
+targetKeywords: minnesota insurance agent license
+cluster: state-license-minnesota
+clusterName: State License –  Minnesota
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/top-tips-for-passing-your-minnesota-insurance-agent-license-exam.jpg
+imageAlt: >-
+  Portrait of a confident businessman holding papers in formal attire inside an
+  office
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 You might be wondering how to tackle the Minnesota insurance agent license exam without feeling overwhelmed. A clear plan, consistent study habits, and the right resources can make a big difference. Read on for practical tips that can help you feel confident on test day and cross the finish line with your new license in hand.

@@ -1,16 +1,18 @@
 ---
-title: "Easy Ways to Prepare for Your Ohio Insurance License Test"
-description: "Discover easy tips to help you ace your Ohio insurance license test and breeze through pre-licensing prep"
-keyword: "ohio insurance license"
-targetKeywords: "ohio insurance license"
-cluster: "state-license-ohio"
-clusterName: "State License – Ohio"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/easy-ways-to-prepare-for-your-ohio-insurance-license-test.jpg"
-imageAlt: "Real estate agent discussing property details with a couple in a modern room."
-imageCredit: "Photo by Gustavo Fring on Pexels"
+title: Easy Ways to Prepare for Your Ohio Insurance License Test
+description: >-
+  Discover easy tips to help you ace your Ohio insurance license test and breeze
+  through pre-licensing prep. Ohio licensing expert guidance.
+keyword: ohio insurance license
+targetKeywords: ohio insurance license
+cluster: state-license-ohio
+clusterName: State License – Ohio
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/easy-ways-to-prepare-for-your-ohio-insurance-license-test.jpg
+imageAlt: Real estate agent discussing property details with a couple in a modern room.
+imageCredit: Photo by Gustavo Fring on Pexels
 ---
 
 ## Understand the basics

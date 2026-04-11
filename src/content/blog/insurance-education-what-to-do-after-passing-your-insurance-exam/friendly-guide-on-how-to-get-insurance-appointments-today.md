@@ -1,16 +1,22 @@
 ---
-title: "Friendly Guide on How to Get Insurance Appointments Today"
-description: "Learn how to get insurance appointments today with a friendly guide to next steps after passing your exam."
-keyword: ""
-targetKeywords: "how to get insurance appointments"
-cluster: "insurance-education-what-to-do-after-passing-your-insurance-exam"
-clusterName: "Insurance Education > Post-License > What to Do After Passing Your Insurance Exam"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/friendly-guide-on-how-to-get-insurance-appointments-today.jpg"
-imageAlt: "Senior couple discussing documents with a business advisor in a modern office setting."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: Friendly Guide on How to Get Insurance Appointments Today
+description: >-
+  Learn how to get insurance appointments today with a friendly guide to next
+  steps after passing your exam. Next steps after passing your exam.
+keyword: ''
+targetKeywords: how to get insurance appointments
+cluster: insurance-education-what-to-do-after-passing-your-insurance-exam
+clusterName: >-
+  Insurance Education > Post-License > What to Do After Passing Your Insurance
+  Exam
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/friendly-guide-on-how-to-get-insurance-appointments-today.jpg
+imageAlt: >-
+  Senior couple discussing documents with a business advisor in a modern office
+  setting.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 Insurance:  how to get insurance appointments

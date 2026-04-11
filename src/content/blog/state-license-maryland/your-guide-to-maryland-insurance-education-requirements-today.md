@@ -1,16 +1,18 @@
 ---
-title: "Your Guide to Maryland Insurance Education Requirements Today"
-description: "Master your Maryland insurance education requirements and start a career in life, health or P&C insurance."
-keyword: "maryland insurance education requirements"
-targetKeywords: "maryland insurance education requirements"
-cluster: "state-license-maryland"
-clusterName: "State License –  Maryland"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-guide-to-maryland-insurance-education-requirements-today.jpg"
-imageAlt: "A young businessman in a tailored suit exudes confidence and professionalism."
-imageCredit: "Photo by Нұржас Тұрарбек on Pexels"
+title: Your Guide to Maryland Insurance Education Requirements Today
+description: >-
+  Master your Maryland insurance education requirements and start a career in
+  life, health or P&C insurance. Maryland licensing expert tips.
+keyword: maryland insurance education requirements
+targetKeywords: maryland insurance education requirements
+cluster: state-license-maryland
+clusterName: State License –  Maryland
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-guide-to-maryland-insurance-education-requirements-today.jpg
+imageAlt: A young businessman in a tailored suit exudes confidence and professionalism.
+imageCredit: Photo by Нұржас Тұрарбек on Pexels
 ---
 
 You may feel daunted by the idea of getting your Maryland insurance license, especially when you hear about the education requirements you must meet. Luckily, these requirements are designed to help you master fundamental insurance concepts before you start serving clients. By understanding the process step by step, you can fulfill Maryland insurance education requirements without confusion or unnecessary stress.

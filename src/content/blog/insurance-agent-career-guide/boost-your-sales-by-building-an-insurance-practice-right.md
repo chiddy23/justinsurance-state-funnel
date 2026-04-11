@@ -1,16 +1,20 @@
 ---
-title: "Boost Your Sales by Building an Insurance Practice Right"
-description: "Boost your sales with friendly tips on building an insurance practice in your first year."
-keyword: "building an insurance practice"
-targetKeywords: "building an insurance practice"
-cluster: "insurance-agent-career-guide"
-clusterName: "Insurance Agent Career Guide"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/boost-your-sales-by-building-an-insurance-practice-right.jpg"
-imageAlt: "Detailed business stages displayed onscreen, useful for planning and strategy sessions."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: Boost Your Sales by Building an Insurance Practice Right
+description: >-
+  Boost your sales with friendly tips on building an insurance practice in your
+  first year. Career tips from industry experts.
+keyword: building an insurance practice
+targetKeywords: building an insurance practice
+cluster: insurance-agent-career-guide
+clusterName: Insurance Agent Career Guide
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/boost-your-sales-by-building-an-insurance-practice-right.jpg
+imageAlt: >-
+  Detailed business stages displayed onscreen, useful for planning and strategy
+  sessions.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 Building an insurance practice that steadily brings in new clients can seem daunting in your first year. Yet, it’s a step-by-step process that starts with setting clear goals and establishing a genuine commitment to serve. Whether you focus on life insurance, property coverage, or another specialty, every practice begins with the same spark: protecting what matters most to your clients. By defining your purpose early, you position yourself to boost your sales and earn a loyal customer base.

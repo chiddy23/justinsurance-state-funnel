@@ -1,16 +1,20 @@
 ---
-title: "Why Getting a Colorado Life Insurance License Is Worth It"
-description: "Get your Colorado life insurance license to unlock a rewarding career and financial stability today."
-keyword: "colorado insurance license"
-targetKeywords: "colorado life insurance license"
-cluster: "state-license-colorado"
-clusterName: "State License – Colorado"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/why-getting-a-colorado-life-insurance-license-is-worth-it.jpg"
-imageAlt: "Three individuals collaborating on a home insurance policy document. Elements include a clipboard, notes, and pointing hands."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Why Getting a Colorado Life Insurance License Is Worth It
+description: >-
+  Get your Colorado life insurance license to unlock a rewarding career and
+  financial stability today. Colorado agent licensing guidance.
+keyword: colorado insurance license
+targetKeywords: colorado life insurance license
+cluster: state-license-colorado
+clusterName: State License – Colorado
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/why-getting-a-colorado-life-insurance-license-is-worth-it.jpg
+imageAlt: >-
+  Three individuals collaborating on a home insurance policy document. Elements
+  include a clipboard, notes, and pointing hands.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 ## Discover the value of a Colorado life insurance license

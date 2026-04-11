@@ -1,16 +1,20 @@
 ---
-title: "Don’t Miss the Georgia Insurance CE Deadline: What You Need"
-description: "Don't miss the Georgia Insurance CE deadline! Find out what you need to complete credits and stay licensed."
-keyword: "georgia insurance ce deadline"
-targetKeywords: "georgia insurance ce deadline"
-cluster: "state-license-georgia"
-clusterName: "State License – Georgia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/don-t-miss-the-georgia-insurance-ce-deadline-what-you-need.jpg"
-imageAlt: "Senior couple discussing insurance options with a consultant in an office setting."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: 'Don’t Miss the Georgia Insurance CE Deadline: What You Need'
+description: >-
+  Don't miss the Georgia Insurance CE deadline! Find out what you need to
+  complete credits and stay licensed. Georgia licensing expert advice.
+keyword: georgia insurance ce deadline
+targetKeywords: georgia insurance ce deadline
+cluster: state-license-georgia
+clusterName: State License – Georgia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/don-t-miss-the-georgia-insurance-ce-deadline-what-you-need.jpg
+imageAlt: >-
+  Senior couple discussing insurance options with a consultant in an office
+  setting.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 ## Understand your licensing basics

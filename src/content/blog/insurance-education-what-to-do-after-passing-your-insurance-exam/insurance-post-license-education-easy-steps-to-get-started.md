@@ -1,16 +1,22 @@
 ---
-title: "Insurance Post-License Education: Easy Steps to Get Started"
-description: "Start your insurance post-license education to complete applications, training and launch your career now"
-keyword: ""
-targetKeywords: "insurance post-license education"
-cluster: "insurance-education-what-to-do-after-passing-your-insurance-exam"
-clusterName: "Insurance Education > Post-License > What to Do After Passing Your Insurance Exam"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/insurance-post-license-education-easy-steps-to-get-started.jpg"
-imageAlt: "Detailed view of a hand writing a signature on an official document with a ballpoint pen."
-imageCredit: "Photo by Tima Miroshnichenko on Pexels"
+title: 'Insurance Post-License Education: Easy Steps to Get Started'
+description: >-
+  Start your insurance post-license education to complete applications, training
+  and launch your career now. Next steps after passing your exam.
+keyword: ''
+targetKeywords: insurance post-license education
+cluster: insurance-education-what-to-do-after-passing-your-insurance-exam
+clusterName: >-
+  Insurance Education > Post-License > What to Do After Passing Your Insurance
+  Exam
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/insurance-post-license-education-easy-steps-to-get-started.jpg
+imageAlt: >-
+  Detailed view of a hand writing a signature on an official document with a
+  ballpoint pen.
+imageCredit: Photo by Tima Miroshnichenko on Pexels
 ---
 
 Insurance: insurance post-license education

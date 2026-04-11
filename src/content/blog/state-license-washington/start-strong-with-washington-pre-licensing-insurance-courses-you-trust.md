@@ -1,16 +1,21 @@
 ---
-title: "Start Strong with Washington Pre-Licensing Insurance Courses You Trust"
-description: "Kickstart your career with friendly Washington pre-licensing insurance courses for your first license."
-keyword: "washington pre-licensing insurance courses"
-targetKeywords: "washington pre-licensing insurance courses"
-cluster: "state-license-washington"
-clusterName: "State License – Washington"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/start-strong-with-washington-pre-licensing-insurance-courses-you-trust.jpg"
-imageAlt: "A close-up image of two businesspeople shaking hands in an office environment symbolizing agreement and partnership."
-imageCredit: "Photo by Thirdman on Pexels"
+title: Start Strong with Washington Pre-Licensing Insurance Courses You Trust
+description: >-
+  Kickstart your career with friendly Washington pre-licensing insurance courses
+  for your first license. Washington licensing expert guidance.
+keyword: washington pre-licensing insurance courses
+targetKeywords: washington pre-licensing insurance courses
+cluster: state-license-washington
+clusterName: State License – Washington
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/start-strong-with-washington-pre-licensing-insurance-courses-you-trust.jpg
+imageAlt: >-
+  A close-up image of two businesspeople shaking hands in an office environment
+  symbolizing agreement and partnership.
+imageCredit: Photo by Thirdman on Pexels
 ---
 
 ## Understand your Washington pre-licensing requirements

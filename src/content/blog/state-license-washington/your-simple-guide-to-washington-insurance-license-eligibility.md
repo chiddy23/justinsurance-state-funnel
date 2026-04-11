@@ -1,16 +1,20 @@
 ---
-title: "Your Simple Guide to Washington Insurance License Eligibility"
-description: "Discover if you meet washington insurance license eligibility and kickstart your insurance career today."
-keyword: "washington insurance license eligibility"
-targetKeywords: "washington insurance license eligibility"
-cluster: "state-license-washington"
-clusterName: "State License – Washington"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-simple-guide-to-washington-insurance-license-eligibility.jpg"
-imageAlt: "A minimalist workspace with a laptop and a cup of coffee on a clean desk, perfect for technology or productivity themes."
-imageCredit: "Photo by Cup of  Couple on Pexels"
+title: Your Simple Guide to Washington Insurance License Eligibility
+description: >-
+  Discover if you meet washington insurance license eligibility and kickstart
+  your insurance career today. Washington licensing expert guidance.
+keyword: washington insurance license eligibility
+targetKeywords: washington insurance license eligibility
+cluster: state-license-washington
+clusterName: State License – Washington
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-simple-guide-to-washington-insurance-license-eligibility.jpg
+imageAlt: >-
+  A minimalist workspace with a laptop and a cup of coffee on a clean desk,
+  perfect for technology or productivity themes.
+imageCredit: Photo by Cup of  Couple on Pexels
 ---
 
 ## Understand your professional opportunity

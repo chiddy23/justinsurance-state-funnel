@@ -1,16 +1,20 @@
 ---
-title: "Unlock Success Knowing CE Requirements by State Insurance"
-description: "Stay on track with your ce requirements by state insurance and breeze through renewal with our friendly guide"
-keyword: "ce requirements by state insurance"
-targetKeywords: "ce requirements by state insurance"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/unlock-success-knowing-ce-requirements-by-state-insurance.jpg"
-imageAlt: "A close-up view of a business document with charts and graphs on a wooden desk."
-imageCredit: "Photo by Lukas Blazek on Pexels"
+title: Unlock Success Knowing CE Requirements by State Insurance
+description: >-
+  Stay on track with your ce requirements by state insurance and breeze through
+  renewal with our friendly guide. State-by-state CE compliance tips.
+keyword: ce requirements by state insurance
+targetKeywords: ce requirements by state insurance
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/unlock-success-knowing-ce-requirements-by-state-insurance.jpg
+imageAlt: >-
+  A close-up view of a business document with charts and graphs on a wooden
+  desk.
+imageCredit: Photo by Lukas Blazek on Pexels
 ---
 
 You might already know that continuing education (CE) plays a major role in keeping your insurance license active. Yet when it comes to CE requirements by state insurance rules, it can feel like each state speaks a different language. Understanding how these rules vary across the country can help you stay compliant, renew on time, and continue growing in your career.

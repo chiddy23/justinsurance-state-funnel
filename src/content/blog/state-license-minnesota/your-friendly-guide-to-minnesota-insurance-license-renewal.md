@@ -1,16 +1,20 @@
 ---
-title: "Your Friendly Guide to Minnesota Insurance License Renewal"
-description: "Streamline your Minnesota insurance license renewal with our guide and keep your producer status active!"
-keyword: "minnesota insurance license renewal"
-targetKeywords: "minnesota insurance license renewal"
-cluster: "state-license-minnesota"
-clusterName: "State License –  Minnesota"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-friendly-guide-to-minnesota-insurance-license-renewal.jpg"
-imageAlt: "A sleek silver laptop sits open on a wooden desk with a green backdrop, illustrating a modern workspace."
-imageCredit: "Photo by Krzysztof Niedziela on Pexels"
+title: Your Friendly Guide to Minnesota Insurance License Renewal
+description: >-
+  Streamline your Minnesota insurance license renewal with our guide and keep
+  your producer status active! Minnesota licensing expert advice.
+keyword: minnesota insurance license renewal
+targetKeywords: minnesota insurance license renewal
+cluster: state-license-minnesota
+clusterName: State License –  Minnesota
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-friendly-guide-to-minnesota-insurance-license-renewal.jpg
+imageAlt: >-
+  A sleek silver laptop sits open on a wooden desk with a green backdrop,
+  illustrating a modern workspace.
+imageCredit: Photo by Krzysztof Niedziela on Pexels
 ---
 
 ## Grasp the basics of renewal

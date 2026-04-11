@@ -1,16 +1,19 @@
 ---
-title: "Unlock Success with Your Pennsylvania Property and Casualty License"
-description: "Easily get your Pennsylvania property and casualty license with our friendly guide to breeze through your exam."
-keyword: "pennsylvania property and casualty license"
-targetKeywords: "pennsylvania property and casualty license"
-cluster: "state-license-pennsylvania"
-clusterName: "State License – Pennsylvania"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/unlock-success-with-your-pennsylvania-property-and-casualty-license.jpg"
-imageAlt: "Team collaboration over financial documents in a modern office setting."
-imageCredit: "Photo by veerasak Piyawatanakul on Pexels"
+title: Unlock Success with Your Pennsylvania Property and Casualty License
+description: >-
+  Easily get your Pennsylvania property and casualty license with our friendly
+  guide to breeze through your exam. Pennsylvania licensing expert tips.
+keyword: pennsylvania property and casualty license
+targetKeywords: pennsylvania property and casualty license
+cluster: state-license-pennsylvania
+clusterName: State License – Pennsylvania
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/unlock-success-with-your-pennsylvania-property-and-casualty-license.jpg
+imageAlt: Team collaboration over financial documents in a modern office setting.
+imageCredit: Photo by veerasak Piyawatanakul on Pexels
 ---
 
 Unlocking opportunities in the insurance industry often begins with one specific milestone: earning your Pennsylvania property and casualty license. If you live in Pennsylvania and dream of a professional path that balances stability, flexibility, and the satisfaction of helping others, this license can be your key to entering a field with countless growth possibilities. Below, you’ll find a clear, step-by-step guide to getting started, along with tips for long-term success.

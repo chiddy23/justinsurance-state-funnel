@@ -1,16 +1,20 @@
 ---
-title: "Unlock Your Career with a Tennessee Insurance License Today"
-description: "Launch your insurance career by quickly earning a Tennessee insurance license with our friendly guide."
-keyword: "tennessee insurance license"
-targetKeywords: "tennessee insurance license"
-cluster: "state-license-tennessee"
-clusterName: "State License –  Tennessee"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/unlock-your-career-with-a-tennessee-insurance-license-today.jpg"
-imageAlt: "Close-up of a vintage landline phone on a marble counter in a blurred indoor setting."
-imageCredit: "Photo by Engin Akyurt on Pexels"
+title: Unlock Your Career with a Tennessee Insurance License Today
+description: >-
+  Launch your insurance career by quickly earning a Tennessee insurance license
+  with our friendly guide. Tennessee licensing expert guidance.
+keyword: tennessee insurance license
+targetKeywords: tennessee insurance license
+cluster: state-license-tennessee
+clusterName: State License –  Tennessee
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/unlock-your-career-with-a-tennessee-insurance-license-today.jpg
+imageAlt: >-
+  Close-up of a vintage landline phone on a marble counter in a blurred indoor
+  setting.
+imageCredit: Photo by Engin Akyurt on Pexels
 ---
 
 ## Understand the opportunity

@@ -1,16 +1,21 @@
 ---
-title: "Boost Your Success with Virginia Property and Casualty Insurance License Advice"
-description: "Boost your success with friendly advice to earn your Virginia property and casualty insurance license."
-keyword: "virginia property and casualty insurance license"
-targetKeywords: "virginia property and casualty insurance license"
-cluster: "state-license-virginia"
-clusterName: "State License – Virginia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/boost-your-success-with-virginia-property-and-casualty-insurance-license-ad.jpg"
-imageAlt: "Hands pointing at business plan on laptop screen in modern office."
-imageCredit: "Photo by Anastasia  Shuraeva on Pexels"
+title: >-
+  Boost Your Success with Virginia Property and Casualty Insurance License
+  Advice
+description: >-
+  Boost your success with friendly advice to earn your Virginia property and
+  casualty insurance license. Virginia licensing expert tips.
+keyword: virginia property and casualty insurance license
+targetKeywords: virginia property and casualty insurance license
+cluster: state-license-virginia
+clusterName: State License – Virginia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/boost-your-success-with-virginia-property-and-casualty-insurance-license-ad.jpg
+imageAlt: Hands pointing at business plan on laptop screen in modern office.
+imageCredit: Photo by Anastasia  Shuraeva on Pexels
 ---
 
 ## Grasp the basics of your license

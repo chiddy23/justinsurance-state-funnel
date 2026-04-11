@@ -1,16 +1,20 @@
 ---
-title: "Friendly Insights on Part Time Insurance Agent Salary Options"
-description: "Ready to see your part time insurance agent salary? Learn to maximize earnings on your own terms."
-keyword: "part time insurance agent salary"
-targetKeywords: "part time insurance agent salary"
-cluster: "insurance-career-and-salary"
-clusterName: "Insurance Career & Salary"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/friendly-insights-on-part-time-insurance-agent-salary-options.jpg"
-imageAlt: "Family discusses new home purchase with real estate agent in a cozy living room setting."
-imageCredit: "Photo by Alena Darmel on Pexels"
+title: Friendly Insights on Part Time Insurance Agent Salary Options
+description: >-
+  Ready to see your part time insurance agent salary? Learn to maximize earnings
+  on your own terms. Real insights from licensed agents.
+keyword: part time insurance agent salary
+targetKeywords: part time insurance agent salary
+cluster: insurance-career-and-salary
+clusterName: Insurance Career & Salary
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/friendly-insights-on-part-time-insurance-agent-salary-options.jpg
+imageAlt: >-
+  Family discusses new home purchase with real estate agent in a cozy living
+  room setting.
+imageCredit: Photo by Alena Darmel on Pexels
 ---
 
 If you are considering a career in insurance but want the flexibility of working fewer hours, becoming a part-time insurance agent may be the perfect match. Part-time roles in this field allow you to earn commissions for selling insurance policies while keeping the rest of your schedule open for family, school, or other responsibilities. You might be wondering how much you can realistically earn, whether you can sustain a decent income, and how to get started on the right path without sacrificing stability.

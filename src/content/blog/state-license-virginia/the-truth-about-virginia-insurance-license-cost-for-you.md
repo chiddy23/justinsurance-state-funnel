@@ -1,16 +1,20 @@
 ---
-title: "The Truth About Virginia Insurance License Cost for You"
-description: "Curious about your Virginia insurance license cost? Find the fees and simple ways to save today."
-keyword: "virginia insurance license cost"
-targetKeywords: "virginia insurance license cost"
-cluster: "state-license-virginia"
-clusterName: "State License – Virginia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg"
-imageAlt: "Low angle view of a contemporary urban office building showcasing modern architectural design."
-imageCredit: "Photo by Adrien Olichon on Pexels"
+title: The Truth About Virginia Insurance License Cost for You
+description: >-
+  Curious about your Virginia insurance license cost? Find the fees and simple
+  ways to save today. Virginia licensing expert tips.
+keyword: virginia insurance license cost
+targetKeywords: virginia insurance license cost
+cluster: state-license-virginia
+clusterName: State License – Virginia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg
+imageAlt: >-
+  Low angle view of a contemporary urban office building showcasing modern
+  architectural design.
+imageCredit: Photo by Adrien Olichon on Pexels
 ---
 
 ## Understand the Virginia insurance license cost

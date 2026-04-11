@@ -1,16 +1,23 @@
 ---
-title: "What You Need to Know About the Insurance License State Registration Process"
-description: "Use your post insurance exam guide to breeze through licensing, submit your application and start your career"
-keyword: ""
-targetKeywords: "insurance license state registration process"
-cluster: "insurance-education-what-to-do-after-passing-your-insurance-exam"
-clusterName: "Insurance Education > Post-License > What to Do After Passing Your Insurance Exam"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-need-to-know-about-the-insurance-license-state-registration-proces.jpg"
-imageAlt: "Four African American women enjoying a lively business discussion in an office setting."
-imageCredit: "Photo by PICHA Stock on Pexels"
+title: What You Need to Know About the Insurance License State Registration Process
+description: >-
+  Use your post insurance exam guide to breeze through licensing, submit your
+  application and start your career. Next steps after passing your exam.
+keyword: ''
+targetKeywords: insurance license state registration process
+cluster: insurance-education-what-to-do-after-passing-your-insurance-exam
+clusterName: >-
+  Insurance Education > Post-License > What to Do After Passing Your Insurance
+  Exam
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-you-need-to-know-about-the-insurance-license-state-registration-proces.jpg
+imageAlt: >-
+  Four African American women enjoying a lively business discussion in an office
+  setting.
+imageCredit: Photo by PICHA Stock on Pexels
 ---
 
 Insurance: insurance license state registration process

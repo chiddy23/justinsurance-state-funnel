@@ -1,16 +1,18 @@
 ---
-title: "Top-Rated Insurance CE New York Online Options You’ll Love"
-description: "Find top-rated insurance ce new york online courses you’ll love, fit your schedule and earn credits easily!"
-keyword: "insurance ce new york online"
-targetKeywords: "insurance ce new york online"
-cluster: "state-license-new-york"
-clusterName: "State License – New York"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/top-rated-insurance-ce-new-york-online-options-you-ll-love.jpg"
-imageAlt: "Three professionals engaged in a business meeting at a cafe."
-imageCredit: "Photo by Vitaly Gariev on Pexels"
+title: Top-Rated Insurance CE New York Online Options You’ll Love
+description: >-
+  Find top-rated insurance ce new york online courses you’ll love, fit your
+  schedule and earn credits easily! New York licensing expert guidance.
+keyword: insurance ce new york online
+targetKeywords: insurance ce new york online
+cluster: state-license-new-york
+clusterName: State License – New York
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/top-rated-insurance-ce-new-york-online-options-you-ll-love.jpg
+imageAlt: Three professionals engaged in a business meeting at a cafe.
+imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
 Staying on top of your continuing education (CE) is a must if you want to maintain your New York insurance license. With a growing number of insurance CE New York online courses, you have a convenient path to sharpen your skills, meet departmental requirements, and keep moving forward in your career. Below, you’ll find a clear, step-by-step guide to completing your New York insurance CE and ensuring you stay fully compliant.

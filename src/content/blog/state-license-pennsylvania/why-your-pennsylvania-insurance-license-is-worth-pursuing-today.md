@@ -1,16 +1,21 @@
 ---
-title: "Why Your Pennsylvania Insurance License Is Worth Pursuing Today"
-description: "Easily get your Pennsylvania property and casualty license with our friendly guide to breeze through your exam."
-keyword: "pennsylvania property and casualty license"
-targetKeywords: "pennsylvania property and casualty license"
-cluster: "state-license-pennsylvania"
-clusterName: "State License – Pennsylvania"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/why-your-pennsylvania-insurance-license-is-worth-pursuing-today.jpg"
-imageAlt: "Four professionals in a modern office, two men shaking hands signifying agreement."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Why Your Pennsylvania Insurance License Is Worth Pursuing Today
+description: >-
+  Easily get your Pennsylvania property and casualty license with our friendly
+  guide to breeze through your exam. Pennsylvania licensing expert tips.
+keyword: pennsylvania property and casualty license
+targetKeywords: pennsylvania property and casualty license
+cluster: state-license-pennsylvania
+clusterName: State License – Pennsylvania
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/why-your-pennsylvania-insurance-license-is-worth-pursuing-today.jpg
+imageAlt: >-
+  Four professionals in a modern office, two men shaking hands signifying
+  agreement.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 ## Understanding the advantages of the license

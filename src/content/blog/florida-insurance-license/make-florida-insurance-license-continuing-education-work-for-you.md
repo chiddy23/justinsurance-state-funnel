@@ -1,16 +1,21 @@
 ---
-title: "Make Florida Insurance License Continuing Education Work for You"
-description: "Elevate your career with florida insurance license continuing education: tips to pass exams and stand out."
-keyword: "florida insurance license continuing education"
-targetKeywords: "florida insurance license continuing education"
-cluster: "florida-insurance-license"
-clusterName: "Florida Insurance License"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/make-florida-insurance-license-continuing-education-work-for-you.jpg"
-imageAlt: "Captivating night view of Miami's skyline with shimmering city lights reflecting on the water."
-imageCredit: "Photo by PeopleByOwen on Pexels"
+title: Make Florida Insurance License Continuing Education Work for You
+description: >-
+  Elevate your career with florida insurance license continuing education: tips
+  to pass exams and stand out. Licensed agent insights for Florida.
+keyword: florida insurance license continuing education
+targetKeywords: florida insurance license continuing education
+cluster: florida-insurance-license
+clusterName: Florida Insurance License
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/make-florida-insurance-license-continuing-education-work-for-you.jpg
+imageAlt: >-
+  Captivating night view of Miami's skyline with shimmering city lights
+  reflecting on the water.
+imageCredit: Photo by PeopleByOwen on Pexels
 ---
 
 ## Explore the importance of continuing education

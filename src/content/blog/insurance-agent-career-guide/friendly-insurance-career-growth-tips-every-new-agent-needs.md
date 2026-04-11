@@ -1,16 +1,20 @@
 ---
-title: "Friendly Insurance Career Growth Tips Every New Agent Needs"
-description: "Grow your client base and confidence with insurance career growth tips every new agent needs."
-keyword: "insurance career growth tips"
-targetKeywords: "insurance career growth tips"
-cluster: "insurance-agent-career-guide"
-clusterName: "Insurance Agent Career Guide"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/friendly-insurance-career-growth-tips-every-new-agent-needs.jpg"
-imageAlt: "Top view of home insurance forms, laptop, and documents on a desk, conveying a professional office setting."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Friendly Insurance Career Growth Tips Every New Agent Needs
+description: >-
+  Grow your client base and confidence with insurance career growth tips every
+  new agent needs. Career tips from industry experts.
+keyword: insurance career growth tips
+targetKeywords: insurance career growth tips
+cluster: insurance-agent-career-guide
+clusterName: Insurance Agent Career Guide
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/friendly-insurance-career-growth-tips-every-new-agent-needs.jpg
+imageAlt: >-
+  Top view of home insurance forms, laptop, and documents on a desk, conveying a
+  professional office setting.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 Getting started in the insurance industry can feel exciting, but you might also wonder how to grow a thriving career from day one. This guide presents practical insurance career growth tips you can use to build a solid foundation and steadily expand your practice. By focusing on relationships, long-term strategy, and targeted skill development, you can gain momentum in your first year and continue advancing for many years to come.

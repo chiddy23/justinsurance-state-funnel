@@ -1,16 +1,21 @@
 ---
-title: "Secrets to Quickly Earning Your North Carolina Casualty Insurance License"
-description: "Discover how you can quickly earn your North Carolina casualty insurance license with friendly expert tips."
-keyword: "s: north carolina casualty insurance license"
-targetKeywords: "north carolina casualty insurance license"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/secrets-to-quickly-earning-your-north-carolina-casualty-insurance-license.jpg"
-imageAlt: "A young couple shakes hands with a real estate agent during a home tour or negotiation in a modern setting."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Secrets to Quickly Earning Your North Carolina Casualty Insurance License
+description: >-
+  Discover how you can quickly earn your North Carolina casualty insurance
+  license with friendly expert tips. North Carolina licensing tips.
+keyword: 's: north carolina casualty insurance license'
+targetKeywords: north carolina casualty insurance license
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/secrets-to-quickly-earning-your-north-carolina-casualty-insurance-license.jpg
+imageAlt: >-
+  A young couple shakes hands with a real estate agent during a home tour or
+  negotiation in a modern setting.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 Keywords: north carolina casualty insurance license

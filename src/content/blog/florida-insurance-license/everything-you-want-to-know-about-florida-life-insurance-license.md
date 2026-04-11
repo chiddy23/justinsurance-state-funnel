@@ -1,16 +1,21 @@
 ---
-title: "Everything You Want to Know About Florida Life Insurance License"
-description: "Unlock your Florida life insurance license hassle-free with clear steps, expert study tips, and exam success."
-keyword: "florida life insurance license"
-targetKeywords: "florida life insurance license"
-cluster: "florida-insurance-license"
-clusterName: "Florida Insurance License"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/everything-you-want-to-know-about-florida-life-insurance-license.jpg"
-imageAlt: "Close-up of a modern office building facade with glowing lights seen through windows at dusk."
-imageCredit: "Photo by Carsten Ruthemann on Pexels"
+title: Everything You Want to Know About Florida Life Insurance License
+description: >-
+  Unlock your Florida life insurance license hassle-free with clear steps,
+  expert study tips, and exam success. Licensed agent insights for Florida.
+keyword: florida life insurance license
+targetKeywords: florida life insurance license
+cluster: florida-insurance-license
+clusterName: Florida Insurance License
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/everything-you-want-to-know-about-florida-life-insurance-license.jpg
+imageAlt: >-
+  Close-up of a modern office building facade with glowing lights seen through
+  windows at dusk.
+imageCredit: Photo by Carsten Ruthemann on Pexels
 ---
 
 ## Know the basics

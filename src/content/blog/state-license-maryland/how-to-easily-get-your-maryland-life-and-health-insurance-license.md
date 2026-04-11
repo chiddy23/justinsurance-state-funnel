@@ -1,16 +1,21 @@
 ---
-title: "How to Easily Get Your Maryland Life and Health Insurance License"
-description: "Get your Maryland life and health insurance license easily today with our friendly step-by-step guide."
-keyword: "maryland life and health insurance license"
-targetKeywords: "maryland life and health insurance license"
-cluster: "state-license-maryland"
-clusterName: "State License –  Maryland"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/how-to-easily-get-your-maryland-life-and-health-insurance-license.jpg"
-imageAlt: "Close-up of two businessmen shaking hands, symbolizing partnership and teamwork."
-imageCredit: "Photo by Thirdman on Pexels"
+title: How to Easily Get Your Maryland Life and Health Insurance License
+description: >-
+  Get your Maryland life and health insurance license easily today with our
+  friendly step-by-step guide. Maryland licensing expert tips.
+keyword: maryland life and health insurance license
+targetKeywords: maryland life and health insurance license
+cluster: state-license-maryland
+clusterName: State License –  Maryland
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/how-to-easily-get-your-maryland-life-and-health-insurance-license.jpg
+imageAlt: >-
+  Close-up of two businessmen shaking hands, symbolizing partnership and
+  teamwork.
+imageCredit: Photo by Thirdman on Pexels
 ---
 
 Whether you’re starting a new career or looking to expand your credentials, getting your Maryland life and health insurance license can unlock exciting opportunities in the insurance field. This license gives you the authority to help people plan for the future, protect their families’ interests, and navigate important decisions about life and health coverage. In Maryland, the process is straightforward if you know each step ahead of time.

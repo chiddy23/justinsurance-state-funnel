@@ -1,16 +1,20 @@
 ---
-title: "Maryland Insurance License Requirements You Need to Know"
-description: "Secure your Maryland insurance license renewal with friendly expert tips to keep your career thriving."
-keyword: "maryland insurance license renewal"
-targetKeywords: "maryland insurance license renewal"
-cluster: "state-license-maryland"
-clusterName: "State License –  Maryland"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/maryland-insurance-license-requirements-you-need-to-know.jpg"
-imageAlt: "Top view of charts and colored pencils on a desk next to a laptop, perfect for business or education themes."
-imageCredit: "Photo by Lukas Blazek on Pexels"
+title: Maryland Insurance License Requirements You Need to Know
+description: >-
+  Secure your Maryland insurance license renewal with friendly expert tips to
+  keep your career thriving. Maryland licensing expert tips.
+keyword: maryland insurance license renewal
+targetKeywords: maryland insurance license renewal
+cluster: state-license-maryland
+clusterName: State License –  Maryland
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/maryland-insurance-license-requirements-you-need-to-know.jpg
+imageAlt: >-
+  Top view of charts and colored pencils on a desk next to a laptop, perfect for
+  business or education themes.
+imageCredit: Photo by Lukas Blazek on Pexels
 ---
 
 ## Why your Maryland insurance license renewal matters

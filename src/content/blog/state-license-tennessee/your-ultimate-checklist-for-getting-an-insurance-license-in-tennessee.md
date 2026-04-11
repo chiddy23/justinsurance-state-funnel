@@ -1,16 +1,21 @@
 ---
-title: "Your Ultimate Checklist for Getting an Insurance License in Tennessee"
-description: "Discover how to get an insurance license in Tennessee with your easy step-by-step checklist today!"
-keyword: "how to get an insurance license in tennessee"
-targetKeywords: "how to get an insurance license in tennessee"
-cluster: "state-license-tennessee"
-clusterName: "State License –  Tennessee"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-ultimate-checklist-for-getting-an-insurance-license-in-tennessee.jpg"
-imageAlt: "Business meeting with woman in a white shirt discussing documents with clients."
-imageCredit: "Photo by Ron Lach on Pexels"
+title: Your Ultimate Checklist for Getting an Insurance License in Tennessee
+description: >-
+  Discover how to get an insurance license in Tennessee with your easy
+  step-by-step checklist today! Tennessee licensing expert guidance.
+keyword: how to get an insurance license in tennessee
+targetKeywords: how to get an insurance license in tennessee
+cluster: state-license-tennessee
+clusterName: State License –  Tennessee
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-ultimate-checklist-for-getting-an-insurance-license-in-tennessee.jpg
+imageAlt: >-
+  Business meeting with woman in a white shirt discussing documents with
+  clients.
+imageCredit: Photo by Ron Lach on Pexels
 ---
 
 ## Start your licensing journey

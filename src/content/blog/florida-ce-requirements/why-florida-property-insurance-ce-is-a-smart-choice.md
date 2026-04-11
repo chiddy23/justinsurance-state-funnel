@@ -1,16 +1,18 @@
 ---
-title: "Why Florida Property Insurance CE Is a Smart Choice"
-description: "Ace your licensing exam with florida property insurance ce courses made easy for aspiring agents."
-keyword: "florida property insurance ce"
-targetKeywords: "florida property insurance ce"
-cluster: "florida-ce-requirements"
-clusterName: "Florida CE Requirements"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/why-florida-property-insurance-ce-is-a-smart-choice.jpg"
-imageAlt: "A child engaging in online learning at home with lesson papers and a laptop."
-imageCredit: "Photo by cottonbro studio on Pexels"
+title: Why Florida Property Insurance CE Is a Smart Choice
+description: >-
+  Ace your licensing exam with florida property insurance ce courses made easy
+  for aspiring agents. Florida CE renewal made easy.
+keyword: florida property insurance ce
+targetKeywords: florida property insurance ce
+cluster: florida-ce-requirements
+clusterName: Florida CE Requirements
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/why-florida-property-insurance-ce-is-a-smart-choice.jpg
+imageAlt: A child engaging in online learning at home with lesson papers and a laptop.
+imageCredit: Photo by cottonbro studio on Pexels
 ---
 
 Understand Florida property insurance CE

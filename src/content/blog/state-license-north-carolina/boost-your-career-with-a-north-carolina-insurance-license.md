@@ -1,16 +1,20 @@
 ---
-title: "Boost Your Career with a North Carolina Insurance License"
-description: "Boost your career with a north carolina insurance license—friendly guidance and simple steps for your success"
-keyword: "s: north carolina insurance license"
-targetKeywords: "north carolina insurance license"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/boost-your-career-with-a-north-carolina-insurance-license.jpg"
-imageAlt: "A confident blonde woman posed against a neutral background wearing a white shirt."
-imageCredit: "Photo by Augusto Carneiro Junior on Pexels"
+title: Boost Your Career with a North Carolina Insurance License
+description: >-
+  Boost your career with a north carolina insurance license—friendly guidance
+  and simple steps for your success. North Carolina licensing tips.
+keyword: 's: north carolina insurance license'
+targetKeywords: north carolina insurance license
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/boost-your-career-with-a-north-carolina-insurance-license.jpg
+imageAlt: >-
+  A confident blonde woman posed against a neutral background wearing a white
+  shirt.
+imageCredit: Photo by Augusto Carneiro Junior on Pexels
 ---
 
 Keywords: north carolina insurance license

@@ -1,16 +1,21 @@
 ---
-title: "Avoid These Common Mistakes When Getting Your License in Virginia"
-description: "Avoid mistakes and ace your Virginia health insurance license with friendly tips to ensure your success!"
-keyword: "virginia insurance continuing education"
-targetKeywords: "virginia insurance continuing education"
-cluster: "state-license-virginia"
-clusterName: "State License – Virginia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/avoid-these-common-mistakes-when-getting-your-license-in-virginia.jpg"
-imageAlt: "Stylish workspace featuring a laptop showing time, clipboard with a calendar, and glasses."
-imageCredit: "Photo by Leeloo The First on Pexels"
+title: Avoid These Common Mistakes When Getting Your License in Virginia
+description: >-
+  Avoid mistakes and ace your Virginia health insurance license with friendly
+  tips to ensure your success! Virginia licensing expert tips.
+keyword: virginia insurance continuing education
+targetKeywords: virginia insurance continuing education
+cluster: state-license-virginia
+clusterName: State License – Virginia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/avoid-these-common-mistakes-when-getting-your-license-in-virginia.jpg
+imageAlt: >-
+  Stylish workspace featuring a laptop showing time, clipboard with a calendar,
+  and glasses.
+imageCredit: Photo by Leeloo The First on Pexels
 ---
 
 When you set your sights on earning a Virginia health insurance license, you take an important step toward a rewarding career in the insurance industry. You might already be dreaming about helping people find coverage, but rushing the process can lead to missteps that slow you down. By avoiding a handful of common errors, you give yourself the best chance to succeed right from the start.

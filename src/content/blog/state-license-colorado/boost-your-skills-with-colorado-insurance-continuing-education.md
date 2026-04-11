@@ -1,16 +1,19 @@
 ---
-title: "Boost Your Skills with Colorado Insurance Continuing Education"
-description: "Boost your career with Colorado insurance continuing education—courses to earn and renew your license."
-keyword: "colorado insurance continuing education"
-targetKeywords: "colorado insurance continuing education"
-cluster: "state-license-colorado"
-clusterName: "State License – Colorado"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/boost-your-skills-with-colorado-insurance-continuing-education.jpg"
-imageAlt: "A hand using a calculator on a wooden desk surrounded by blue folders."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: Boost Your Skills with Colorado Insurance Continuing Education
+description: >-
+  Boost your career with Colorado insurance continuing education—courses to earn
+  and renew your license. Colorado agent licensing guidance.
+keyword: colorado insurance continuing education
+targetKeywords: colorado insurance continuing education
+cluster: state-license-colorado
+clusterName: State License – Colorado
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/boost-your-skills-with-colorado-insurance-continuing-education.jpg
+imageAlt: A hand using a calculator on a wooden desk surrounded by blue folders.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 Welcome to this helpful guide on colorado insurance continuing education. Whether you are a first-time license seeker or switching careers, staying current on your educational requirements is a key step in pursuing a successful insurance career. Here, you will learn why continuing education (CE) matters, how to fulfill Colorado’s requirements, and tips for making the most of your CE journey.

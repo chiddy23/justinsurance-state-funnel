@@ -1,16 +1,21 @@
 ---
-title: "Your Complete Guide to Minnesota Insurance License Requirements"
-description: "Your friendly guide makes Minnesota insurance license requirements easy to follow for first-timers."
-keyword: "minnesota insurance license requirements"
-targetKeywords: "minnesota insurance license requirements"
-cluster: "state-license-minnesota"
-clusterName: "State License –  Minnesota"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-complete-guide-to-minnesota-insurance-license-requirements.jpg"
-imageAlt: "Close-up of a hand signing a contract, showcasing a pen and elegant handwriting."
-imageCredit: "Photo by energepic.com on Pexels"
+title: Your Complete Guide to Minnesota Insurance License Requirements
+description: >-
+  Your friendly guide makes Minnesota insurance license requirements easy to
+  follow for first-timers. Minnesota licensing expert advice.
+keyword: minnesota insurance license requirements
+targetKeywords: minnesota insurance license requirements
+cluster: state-license-minnesota
+clusterName: State License –  Minnesota
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-complete-guide-to-minnesota-insurance-license-requirements.jpg
+imageAlt: >-
+  Close-up of a hand signing a contract, showcasing a pen and elegant
+  handwriting.
+imageCredit: Photo by energepic.com on Pexels
 ---
 
 Getting your Minnesota insurance license requirements squared away can feel challenging at first, but once you understand the process, you are well on your way to a rewarding insurance career. Whether you are interested in life and health or property and casualty, having the right knowledge puts you in the driver’s seat. Below, you will find a clear step-by-step guide to help you meet all the necessary requirements and move forward with confidence.

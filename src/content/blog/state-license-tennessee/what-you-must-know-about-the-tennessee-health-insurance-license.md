@@ -1,16 +1,22 @@
 ---
-title: "What You Must Know About the Tennessee Health Insurance License"
-description: "Get your Tennessee Health Insurance License with friendly tips on requirements, exam prep and career success"
-keyword: "tennessee health insurance license"
-targetKeywords: "tennessee health insurance license"
-cluster: "state-license-tennessee"
-clusterName: "State License –  Tennessee"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-must-know-about-the-tennessee-health-insurance-license.jpg"
-imageAlt: "Professional team engaged in a business meeting at a conference table in a modern office environment."
-imageCredit: "Photo by cottonbro studio on Pexels"
+title: What You Must Know About the Tennessee Health Insurance License
+description: >-
+  Get your Tennessee Health Insurance License with friendly tips on
+  requirements, exam prep and career success. Tennessee licensing expert
+  guidance.
+keyword: tennessee health insurance license
+targetKeywords: tennessee health insurance license
+cluster: state-license-tennessee
+clusterName: State License –  Tennessee
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-you-must-know-about-the-tennessee-health-insurance-license.jpg
+imageAlt: >-
+  Professional team engaged in a business meeting at a conference table in a
+  modern office environment.
+imageCredit: Photo by cottonbro studio on Pexels
 ---
 
 If you’re ready to pursue a fulfilling career as an insurance agent in Tennessee, understanding the Tennessee health insurance license process is your first big step. You might be wondering about the requirements, the exams, and how to keep your new license in good standing once you’ve passed. This guide will walk you through each step, so you can concentrate on what matters most—helping clients access the coverage they need for a secure future.

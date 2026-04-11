@@ -1,16 +1,20 @@
 ---
-title: "Your Guide to Finding Hidden Florida Insurance CE Discounts"
-description: "Unlock hidden Florida insurance CE discounts to slash your exam prep costs and boost your licensing success."
-keyword: "florida insurance ce discounts"
-targetKeywords: "florida insurance ce discounts"
-cluster: "florida-ce-requirements"
-clusterName: "Florida CE Requirements"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-guide-to-finding-hidden-florida-insurance-ce-discounts.jpg"
-imageAlt: "EU Digital COVID Certificate with passport and vaccination details for safe travelers."
-imageCredit: "Photo by Nataliya Vaitkevich on Pexels"
+title: Your Guide to Finding Hidden Florida Insurance CE Discounts
+description: >-
+  Unlock hidden Florida insurance CE discounts to slash your exam prep costs and
+  boost your licensing success. Florida CE renewal made easy.
+keyword: florida insurance ce discounts
+targetKeywords: florida insurance ce discounts
+cluster: florida-ce-requirements
+clusterName: Florida CE Requirements
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-guide-to-finding-hidden-florida-insurance-ce-discounts.jpg
+imageAlt: >-
+  EU Digital COVID Certificate with passport and vaccination details for safe
+  travelers.
+imageCredit: Photo by Nataliya Vaitkevich on Pexels
 ---
 
 In your quest to renew your Florida insurance license, every cost-saving strategy matters. Continuing education requirements can be more expensive than anticipated, which is why it is worthwhile to uncover lesser-known discounts. By exploring the right offers and promotions, you can save significantly on your Florida insurance CE courses and fulfill your requirements without breaking the bank.

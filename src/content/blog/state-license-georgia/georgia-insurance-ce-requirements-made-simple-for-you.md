@@ -1,16 +1,20 @@
 ---
-title: "Georgia Insurance CE Requirements Made Simple for You"
-description: "Simplify georgia insurance ce requirements and keep your license up to date with our friendly guide."
-keyword: "georgia insurance continuing education"
-targetKeywords: "georgia insurance continuing education"
-cluster: "state-license-georgia"
-clusterName: "State License – Georgia"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/georgia-insurance-ce-requirements-made-simple-for-you.jpg"
-imageAlt: "Lawyers consulting with clients in a modern office setting, discussing legal matters."
-imageCredit: "Photo by www.kaboompics.com on Pexels"
+title: Georgia Insurance CE Requirements Made Simple for You
+description: >-
+  Simplify georgia insurance ce requirements and keep your license up to date
+  with our friendly guide. Georgia licensing expert advice.
+keyword: georgia insurance continuing education
+targetKeywords: georgia insurance continuing education
+cluster: state-license-georgia
+clusterName: State License – Georgia
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/georgia-insurance-ce-requirements-made-simple-for-you.jpg
+imageAlt: >-
+  Lawyers consulting with clients in a modern office setting, discussing legal
+  matters.
+imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
 You might be surprised to learn that meeting Georgia insurance CE requirements doesn’t have to be complicated. Whether you’re early in your journey to obtain a new insurance license or looking to renew an existing one, a clear road map helps you avoid confusion and meet every state mandate on time. In Georgia, continuing education (CE) is designed to keep your knowledge current and your skills sharp. By understanding both the pre-licensing and ongoing CE process, you’ll be able to build a solid foundation for your long-term success in the insurance industry.

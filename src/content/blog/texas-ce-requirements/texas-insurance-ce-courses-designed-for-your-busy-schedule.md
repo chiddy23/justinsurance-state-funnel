@@ -1,16 +1,20 @@
 ---
-title: "Texas Insurance CE Courses Designed for Your Busy Schedule"
-description: "Stay ahead of your CE requirements with flexible Texas insurance CE courses designed for your busy schedule."
-keyword: "texas insurance ce courses"
-targetKeywords: "texas insurance ce courses"
-cluster: "texas-ce-requirements"
-clusterName: "Texas CE Requirements"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/texas-insurance-ce-courses-designed-for-your-busy-schedule.jpg"
-imageAlt: "A man and woman having a business discussion seated on a sofa in a stylish room."
-imageCredit: "Photo by Kampus Production on Pexels"
+title: Texas Insurance CE Courses Designed for Your Busy Schedule
+description: >-
+  Stay ahead of your CE requirements with flexible Texas insurance CE courses
+  designed for your busy schedule. Texas CE compliance guidance.
+keyword: texas insurance ce courses
+targetKeywords: texas insurance ce courses
+cluster: texas-ce-requirements
+clusterName: Texas CE Requirements
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/texas-insurance-ce-courses-designed-for-your-busy-schedule.jpg
+imageAlt: >-
+  A man and woman having a business discussion seated on a sofa in a stylish
+  room.
+imageCredit: Photo by Kampus Production on Pexels
 ---
 
 ## Understand your continuing education requirements

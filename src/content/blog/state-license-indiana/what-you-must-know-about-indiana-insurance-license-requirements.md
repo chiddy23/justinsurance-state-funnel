@@ -1,16 +1,21 @@
 ---
-title: "What You Must Know About Indiana Insurance License Requirements"
-description: "Get friendly tips to navigate Indiana insurance license requirements, from pre-licensing steps to exam prep."
-keyword: "indiana insurance license requirements"
-targetKeywords: "indiana insurance license requirements"
-cluster: "state-license-indiana"
-clusterName: "State License –  Indiana"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/what-you-must-know-about-indiana-insurance-license-requirements.jpg"
-imageAlt: "Close-up of a person organizing money with cryptocurrency coins on a wooden table, symbolizing modern finance."
-imageCredit: "Photo by www.kaboompics.com on Pexels"
+title: What You Must Know About Indiana Insurance License Requirements
+description: >-
+  Get friendly tips to navigate Indiana insurance license requirements, from
+  pre-licensing steps to exam prep. Indiana licensing expert guidance.
+keyword: indiana insurance license requirements
+targetKeywords: indiana insurance license requirements
+cluster: state-license-indiana
+clusterName: State License –  Indiana
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/what-you-must-know-about-indiana-insurance-license-requirements.jpg
+imageAlt: >-
+  Close-up of a person organizing money with cryptocurrency coins on a wooden
+  table, symbolizing modern finance.
+imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
 Getting your start in the insurance industry can feel like stepping into uncharted territory. When you are an Indiana resident aiming to become a licensed producer, it is vital to understand Indiana insurance license requirements from day one.

@@ -1,16 +1,21 @@
 ---
-title: "Quick and Clear Advice on North Carolina Insurance License Renewal"
-description: "Need north carolina insurance license renewal? Follow friendly step-by-step advice to renew your license fast"
-keyword: "s: north carolina insurance license renewal"
-targetKeywords: "north carolina insurance license renewal"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/quick-and-clear-advice-on-north-carolina-insurance-license-renewal.jpg"
-imageAlt: "Close-up of hands writing in a notebook while using a calculator. Ideal for finance and business concepts."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Quick and Clear Advice on North Carolina Insurance License Renewal
+description: >-
+  Need north carolina insurance license renewal? Follow friendly step-by-step
+  advice to renew your license fast. North Carolina licensing tips.
+keyword: 's: north carolina insurance license renewal'
+targetKeywords: north carolina insurance license renewal
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/quick-and-clear-advice-on-north-carolina-insurance-license-renewal.jpg
+imageAlt: >-
+  Close-up of hands writing in a notebook while using a calculator. Ideal for
+  finance and business concepts.
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 Keywords: north carolina insurance license renewal

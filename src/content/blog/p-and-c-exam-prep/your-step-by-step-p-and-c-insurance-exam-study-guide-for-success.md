@@ -1,16 +1,21 @@
 ---
-title: "Your Step-by-Step P&C Insurance Study Guide"
-description: "Boost your exam prep with our p&c insurance exam study guide and ace your licensing test today!"
-keyword: "p&c insurance exam study guide"
-targetKeywords: "p&c insurance exam study guide"
-cluster: "p-and-c-exam-prep"
-clusterName: "P&C Exam Prep"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-step-by-step-p-and-c-insurance-exam-study-guide-for-success.jpg"
-imageAlt: "African American men in suits shaking hands in a formal law office setting with USA flags and globe."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: Your Step-by-Step P&C Insurance Study Guide
+description: >-
+  Boost your exam prep with our p&c insurance exam study guide and ace your
+  licensing test today! Complete P&C exam prep guidance.
+keyword: p&c insurance exam study guide
+targetKeywords: p&c insurance exam study guide
+cluster: p-and-c-exam-prep
+clusterName: P&C Exam Prep
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/your-step-by-step-p-and-c-insurance-exam-study-guide-for-success.jpg
+imageAlt: >-
+  African American men in suits shaking hands in a formal law office setting
+  with USA flags and globe.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 If you are looking for a friendly yet comprehensive p&c insurance exam study guide, you have come to the right place. Preparing for the Property and Casualty (P&C) insurance licensing exam involves more than just memorizing key terms and definitions. You want to feel confident, resourceful, and ready when you walk into the exam room. Below, you will find a clear path to help you stay organized, maintain motivation, and conquer any test anxieties. Let’s dive in.

@@ -1,16 +1,19 @@
 ---
-title: "Friendly Advice for Texas Insurance Continuing Education Success"
-description: "Ace your texas insurance continuing education with friendly tips to breeze through CE requirements."
-keyword: "texas insurance continuing education"
-targetKeywords: "texas insurance continuing education online"
-cluster: "texas-ce-requirements"
-clusterName: "Texas CE Requirements"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/friendly-advice-for-texas-insurance-continuing-education-success.jpg"
-imageAlt: "Focused student working on a computer in a bright, modern study space."
-imageCredit: "Photo by Mikhail Nilov on Pexels"
+title: Friendly Advice for Texas Insurance Continuing Education Success
+description: >-
+  Ace your texas insurance continuing education with friendly tips to breeze
+  through CE requirements. Texas CE compliance guidance.
+keyword: texas insurance continuing education
+targetKeywords: texas insurance continuing education online
+cluster: texas-ce-requirements
+clusterName: Texas CE Requirements
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/friendly-advice-for-texas-insurance-continuing-education-success.jpg
+imageAlt: 'Focused student working on a computer in a bright, modern study space.'
+imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
 ## Get familiar with Texas insurance continuing education basics

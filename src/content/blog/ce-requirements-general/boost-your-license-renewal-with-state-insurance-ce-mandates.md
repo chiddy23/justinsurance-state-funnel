@@ -1,16 +1,20 @@
 ---
-title: "Boost Your License Renewal with State Insurance CE Mandates"
-description: "Navigate state insurance CE mandates to fast-track your license renewal, earn credits, and stay compliant."
-keyword: "state insurance ce mandates"
-targetKeywords: "state insurance ce mandates"
-cluster: "ce-requirements-general"
-clusterName: "CE Requirements (General)"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/boost-your-license-renewal-with-state-insurance-ce-mandates.jpg"
-imageAlt: "A discussion between two professionals focusing on financial documents in a modern office setting."
-imageCredit: "Photo by RDNE Stock project on Pexels"
+title: Boost Your License Renewal with State Insurance CE Mandates
+description: >-
+  Navigate state insurance CE mandates to fast-track your license renewal, earn
+  credits, and stay compliant. State-by-state CE compliance tips.
+keyword: state insurance ce mandates
+targetKeywords: state insurance ce mandates
+cluster: ce-requirements-general
+clusterName: CE Requirements (General)
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/boost-your-license-renewal-with-state-insurance-ce-mandates.jpg
+imageAlt: >-
+  A discussion between two professionals focusing on financial documents in a
+  modern office setting.
+imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
 State insurance CE mandates can feel like yet another hurdle in your busy schedule, but they are a crucial step to keep your license active and your knowledge current. Different states impose their own rules about continuing education (CE) hours, topics, and renewal cycles, which can sometimes lead to confusion. By getting familiar with these mandates, you ensure smooth license renewal without last-minute stress or penalties. Below, you'll find key tips to stay on top of your requirements, save time, and keep your career on track.

@@ -1,16 +1,23 @@
 ---
-title: "The Ultimate Checklist for Your Washington Insurance License Application Process"
-description: "Ace your Washington insurance license application process with our friendly, step-by-step checklist."
-keyword: "washington insurance license application process"
-targetKeywords: "washington insurance license application process"
-cluster: "state-license-washington"
-clusterName: "State License – Washington"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/the-ultimate-checklist-for-your-washington-insurance-license-application-pr.jpg"
-imageAlt: "Professional portrait of a confident business woman in formal attire, perfect for corporate themes."
-imageCredit: "Photo by Erick Ortega on Pexels"
+title: >-
+  The Ultimate Checklist for Your Washington Insurance License Application
+  Process
+description: >-
+  Ace your Washington insurance license application process with our friendly,
+  step-by-step checklist. Washington licensing expert guidance.
+keyword: washington insurance license application process
+targetKeywords: washington insurance license application process
+cluster: state-license-washington
+clusterName: State License – Washington
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/the-ultimate-checklist-for-your-washington-insurance-license-application-pr.jpg
+imageAlt: >-
+  Professional portrait of a confident business woman in formal attire, perfect
+  for corporate themes.
+imageCredit: Photo by Erick Ortega on Pexels
 ---
 
 Your Washington insurance license application process can feel overwhelming at first, especially if you are new to the insurance industry. Fortunately, breaking it down into manageable steps ensures you cover each requirement and move forward with confidence. Below, you will find a friendly, straightforward guide to help you navigate this important milestone in your insurance career.

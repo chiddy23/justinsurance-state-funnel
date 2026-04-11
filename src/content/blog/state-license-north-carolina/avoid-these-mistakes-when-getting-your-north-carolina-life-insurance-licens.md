@@ -1,16 +1,19 @@
 ---
-title: "Avoid These Mistakes When Getting Your North Carolina Life Insurance License"
-description: "Skip pitfalls on your north carolina life insurance license journey with friendly tips for new applicants."
-keyword: "s: north carolina life insurance license"
-targetKeywords: "north carolina life insurance license"
-cluster: "state-license-north-carolina"
-clusterName: "State License – North Carolina"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/avoid-these-mistakes-when-getting-your-north-carolina-life-insurance-licens.jpg"
-imageAlt: "Close-up of a person typing code on a computer in an office setting."
-imageCredit: "Photo by Mizuno K on Pexels"
+title: Avoid These Mistakes When Getting Your North Carolina Life Insurance License
+description: >-
+  Skip pitfalls on your north carolina life insurance license journey with
+  friendly tips for new applicants. North Carolina licensing tips.
+keyword: 's: north carolina life insurance license'
+targetKeywords: north carolina life insurance license
+cluster: state-license-north-carolina
+clusterName: State License – North Carolina
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: >-
+  /blog/images/avoid-these-mistakes-when-getting-your-north-carolina-life-insurance-licens.jpg
+imageAlt: Close-up of a person typing code on a computer in an office setting.
+imageCredit: Photo by Mizuno K on Pexels
 ---
 
 Keywords: north carolina life insurance license

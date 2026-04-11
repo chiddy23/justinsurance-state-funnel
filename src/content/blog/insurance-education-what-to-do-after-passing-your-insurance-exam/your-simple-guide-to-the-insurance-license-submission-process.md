@@ -1,16 +1,20 @@
 ---
-title: "Your Simple Guide to the Insurance License Submission Process"
-description: "Simplify your insurance license submission process with friendly guidance to secure your license fast."
-keyword: ""
-targetKeywords: "insurance license compliance tips"
-cluster: "insurance-education-what-to-do-after-passing-your-insurance-exam"
-clusterName: "Insurance Education > Post-License > What to Do After Passing Your Insurance Exam"
-type: "supporting"
-date: "2026-04-11"
-author: "Justin vom Eigen"
-image: "/blog/images/your-simple-guide-to-the-insurance-license-submission-process.jpg"
-imageAlt: "Focused young businessman taking notes on a notepad while working outdoors."
-imageCredit: "Photo by Ketut Subiyanto on Pexels"
+title: Your Simple Guide to the Insurance License Submission Process
+description: >-
+  Simplify your insurance license submission process with friendly guidance to
+  secure your license fast. Next steps after passing your exam.
+keyword: ''
+targetKeywords: insurance license compliance tips
+cluster: insurance-education-what-to-do-after-passing-your-insurance-exam
+clusterName: >-
+  Insurance Education > Post-License > What to Do After Passing Your Insurance
+  Exam
+type: supporting
+date: '2026-04-11'
+author: Justin vom Eigen
+image: /blog/images/your-simple-guide-to-the-insurance-license-submission-process.jpg
+imageAlt: Focused young businessman taking notes on a notepad while working outdoors.
+imageCredit: Photo by Ketut Subiyanto on Pexels
 ---
 
 Congratulations on passing your insurance exam! This achievement brings you one step closer to a fulfilling career, but there is still one important stage left: completing the insurance license submission process. Below is a clear, step-by-step look at what you need to do right after you pass your exam, along with helpful tips to guide you toward a smooth and timely application. By understanding each phase, you will reduce potential delays and move confidently toward your new role in the insurance industry.

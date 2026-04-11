@@ -445,12 +445,7 @@ export default function AboutPage() {
           </P>
           <P>
             Our brand principle is simple:{" "}
-            <strong className="text-navy">
-              Built by a licensed agent, for the people who want to become one.
-            </strong>{" "}
-            We don&apos;t sell insurance, we don&apos;t recruit agents into a sales org, and we
-            don&apos;t take a cut of anyone&apos;s commissions. We teach the exam, we handle the
-            licensing paperwork, and we get out of your way.
+            <strong className="text-navy">Built by agents, for agents.</strong>
           </P>
           <P>
             If you&apos;re ready to get your insurance license — or renew one you already hold —

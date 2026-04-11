@@ -13,8 +13,6 @@ imageAlt: "Focused young businessman taking notes on a notepad while working out
 imageCredit: "Photo by Ketut Subiyanto on Pexels"
 ---
 
-Insurance:  insurance license compliance tips
-
 Congratulations on passing your insurance exam! This achievement brings you one step closer to a fulfilling career, but there is still one important stage left: completing the insurance license submission process. Below is a clear, step-by-step look at what you need to do right after you pass your exam, along with helpful tips to guide you toward a smooth and timely application. By understanding each phase, you will reduce potential delays and move confidently toward your new role in the insurance industry.
 
 ## Check your exam results

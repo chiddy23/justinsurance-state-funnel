@@ -56,6 +56,20 @@ It might also be worthwhile to check out what other professionals in your field 
 5.  Where can I find approved CE providers?  
     You can search on the Florida Department of Financial Services website or ask for referrals from colleagues. JustInsurance also offers courses designed specifically for Florida licensees.
 
+## Frequently Asked Questions
+
+**Can I carry over unused CE credits to my next renewal cycle?**
+Generally, no. Florida does not allow unused CE credits from one cycle to roll over into the next. Credits must be earned and applied within the current two-year renewal period, so plan your coursework accordingly rather than banking on leftovers.
+
+**What if a course I completed disappears from the approved provider list?**
+If a course loses its approval status after you completed it, your credits may still count as long as they were approved at the time you took them. Keep your completion certificates as documentation in case questions arise during an audit.
+
+**Are there any exemptions from CE requirements?**
+Some licensees — such as those in their first renewal period — may qualify for reduced CE requirements. Florida also provides limited exemptions for certain hardship situations. Contact the Florida Department of Financial Services directly to confirm whether any exemption applies to your specific license type.
+
+**How do I know my course completions have been reported to the state?**
+Most approved providers report completions electronically within a few days. You can verify your credits by logging into the MyProfile portal on the Florida Department of Financial Services website. If credits are missing, contact your course provider promptly to have them resubmit the records.
+
 ## Ready to take the next step?
 
 Completing your Florida insurance continuing education doesn’t have to be stressful. With a little organization—like setting reminders and choosing the right course provider—you’ll breeze through the process. JustInsurance is here to help you stay current, manage your deadlines, and keep your license active. If you’re ready to get started, sign up for a course today and secure your success in the Florida insurance industry.

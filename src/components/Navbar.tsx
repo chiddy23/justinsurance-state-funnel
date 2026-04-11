@@ -66,8 +66,7 @@ export default function Navbar() {
                 </svg>
               </button>
 
-              {dropdownOpen && (
-                <div className="absolute top-full left-0 pt-0 w-56 z-50">
+              <div className={`absolute top-full left-0 pt-0 w-56 z-50 transition-opacity duration-150 ${dropdownOpen ? "opacity-100 visible" : "opacity-0 invisible"}`}>
                   <div className="bg-white rounded-lg shadow-xl border border-gray-100 py-2">
                     {POPULAR_STATES.map((state) => (
                       <Link
@@ -88,7 +87,6 @@ export default function Navbar() {
                     </div>
                   </div>
                 </div>
-              )}
             </div>
 
             {/* Resources Dropdown */}
@@ -107,8 +105,7 @@ export default function Navbar() {
                 </svg>
               </button>
 
-              {resourcesOpen && (
-                <div className="absolute top-full left-0 pt-0 w-48 z-50">
+              <div className={`absolute top-full left-0 pt-0 w-48 z-50 transition-opacity duration-150 ${resourcesOpen ? "opacity-100 visible" : "opacity-0 invisible"}`}>
                   <div className="bg-white rounded-lg shadow-xl border border-gray-100 py-2">
                     {RESOURCES_LINKS.map((link) => (
                       <Link
@@ -121,7 +118,6 @@ export default function Navbar() {
                     ))}
                   </div>
                 </div>
-              )}
             </div>
 
             {/* Phone */}

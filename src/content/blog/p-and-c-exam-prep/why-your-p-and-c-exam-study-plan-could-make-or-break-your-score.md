@@ -1,5 +1,5 @@
 ---
-title: "Why Your P&C Exam Study Plan Could Make or Break Your Score"
+title: "Why Your P&C Exam Study Plan Makes or Breaks You"
 description: "Unlock the power of your p&c exam study plan—get friendly tips to boost your confidence and nail the test!"
 keyword: "p&c exam study plan"
 targetKeywords: "p&c exam study plan"

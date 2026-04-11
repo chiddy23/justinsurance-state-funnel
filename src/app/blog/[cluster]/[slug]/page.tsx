@@ -259,7 +259,7 @@ export default async function BlogPostPage({
         <section className="bg-white py-14 px-4">
           <div className="max-w-7xl mx-auto">
             <h2 className="text-2xl font-bold text-navy mb-6">
-              More from {post.clusterName}
+              Related Articles
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {related.map((rel) => (

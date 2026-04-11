@@ -1,5 +1,5 @@
 ---
-title: "Your Step-by-Step P&C Insurance Exam Study Guide for Success"
+title: "Your Step-by-Step P&C Insurance Study Guide"
 description: "Boost your exam prep with our p&c insurance exam study guide and ace your licensing test today!"
 keyword: "p&c insurance exam study guide"
 targetKeywords: "p&c insurance exam study guide"

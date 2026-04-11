@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
-import { getAllClusters, getLatestPosts } from "@/lib/blog";
+import { getAllClusters, getAllPosts, getLatestPosts } from "@/lib/blog";
 
 export const metadata: Metadata = {
   title: {
@@ -34,9 +34,28 @@ export default function BlogIndexPage() {
   const clusters = getAllClusters();
   const latest = getLatestPosts(6);
 
+  const collectionSchema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "JustInsurance Blog",
+    description:
+      "Expert articles on insurance licensing, continuing education, and exam prep — written by licensed insurance agents.",
+    url: "https://justinsuranceco.com/blog",
+    publisher: {
+      "@type": "Organization",
+      name: "JustInsurance LLC",
+      url: "https://justinsuranceco.com",
+    },
+    hasPart: {
+      "@type": "ItemList",
+      numberOfItems: getAllPosts().length,
+    },
+  };
+
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
+      <SchemaMarkup schema={collectionSchema} />
       <BreadcrumbNav crumbs={crumbs} />
 
       {/* Hero */}

@@ -59,6 +59,20 @@ Below are common questions many agents ask as they plan their next steps:
 
 -   It’s wise to start early. Fast-tracking your CE can prevent last-minute stress and help you stay focused on growing your client base and refining your skill set.
 
+## Frequently Asked Questions
+
+**What happens if I miss my Texas CE deadline?**
+If you fail to complete your CE credits before your renewal date, your license may be suspended or placed on inactive status. Reinstatement typically requires paying a late fee and submitting proof that you have finished the required hours. Avoid this situation by tracking your deadline and starting courses early.
+
+**Can I take CE courses from out-of-state providers?**
+Yes, as long as the provider is approved by the Texas Department of Insurance. Many national providers hold multi-state approvals, so you have a wide selection. Always confirm a course's approval status before enrolling to make sure your credits will count.
+
+**Do I need to keep copies of my CE completion certificates?**
+Yes. While most approved providers report completions directly to the state, you should retain your certificates for at least the current and prior renewal period. In the event of a discrepancy or audit, having personal records makes it easy to resolve any issues quickly.
+
+**Can I take CE courses in areas outside my current specialty?**
+Absolutely. The Texas Department of Insurance allows you to choose elective topics beyond your primary line of authority. Taking courses in adjacent areas — like annuities, flood insurance, or surplus lines — can broaden your expertise and open new revenue opportunities.
+
 ## Take your next step
 
 Pursuing your CE early isn’t just about fulfilling a requirement. It’s an opportunity to highlight your dedication to serving clients with up-to-date knowledge and to keep your career on track in a rapidly shifting marketplace. By choosing a flexible online format, planning your study sessions, and selecting relevant coursework, you turn a mandatory process into a growth opportunity.

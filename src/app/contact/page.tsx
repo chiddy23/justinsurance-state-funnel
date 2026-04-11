@@ -193,7 +193,7 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-bold text-navy mb-2">State Licensing Process</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Questions about your state's prelicensing hours, exam fees, fingerprinting,
+                  Questions about your state&apos;s prelicensing hours, exam fees, fingerprinting,
                   or application process? Every state is different — see our{" "}
                   <Link href="/" className="text-navy underline hover:text-gold">
                     state directory
@@ -218,7 +218,7 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-bold text-navy mb-2">Agency & Volume Enrollment</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  If you're recruiting new agents or onboarding a team, we offer agency
+                  If you&apos;re recruiting new agents or onboarding a team, we offer agency
                   dashboards, API integration, and bulk pricing. Email us for a
                   demo or consultation.
                 </p>

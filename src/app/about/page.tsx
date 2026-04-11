@@ -444,10 +444,13 @@ export default function AboutPage() {
             changers who need modern instruction, and for agencies who need reliable candidates.
           </P>
           <P>
-            Our brand line says it best:{" "}
+            Our brand principle is simple:{" "}
             <strong className="text-navy">
-              Agents designed FOR Agents, BY Agents. NOT an MLM.
-            </strong>
+              Built by a licensed agent, for the people who want to become one.
+            </strong>{" "}
+            We don&apos;t sell insurance, we don&apos;t recruit agents into a sales org, and we
+            don&apos;t take a cut of anyone&apos;s commissions. We teach the exam, we handle the
+            licensing paperwork, and we get out of your way.
           </P>
           <P>
             If you&apos;re ready to get your insurance license — or renew one you already hold —

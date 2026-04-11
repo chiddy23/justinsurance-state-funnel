@@ -60,7 +60,22 @@ export async function generateMetadata({
     candidates.find((c) => c.length <= 60) ||
     candidates[candidates.length - 1].slice(0, 57) + "...";
 
-  const description = `Browse ${cluster.postCount} expert articles on ${cleanName.toLowerCase()} — written by licensed insurance agents with real industry experience.`;
+  // Build a description in the 120-155 char SEO sweet spot, keyword-rich.
+  // Use state name in the text for state clusters to differentiate from other states.
+  const descBase = isStateCluster
+    ? `Expert guides on ${cleanName} insurance licensing, exam prep, and continuing education. ${cluster.postCount} articles from licensed insurance agents.`
+    : `${cluster.postCount} expert articles on ${cleanName.toLowerCase()} from JustInsurance. Real-world guidance from licensed insurance agents to help you get licensed.`;
+
+  // Ensure 120-155 char range
+  let description = descBase;
+  if (description.length > 155) {
+    description = description.slice(0, 152).replace(/\s+\S*$/, "") + "...";
+  } else if (description.length < 120) {
+    description = description + " Start your insurance career with confidence.";
+    if (description.length > 155) {
+      description = description.slice(0, 152).replace(/\s+\S*$/, "") + "...";
+    }
+  }
 
   return {
     title: { absolute: title },

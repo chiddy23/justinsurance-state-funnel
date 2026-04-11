@@ -1,3 +1,5 @@
+import fs from "fs";
+import path from "path";
 import { ALL_STATE_SLUGS } from "./states";
 import { ALL_LOA_SLUGS } from "./loa";
 
@@ -29,8 +31,11 @@ function todayString(): string {
  *   50  — requirements pages       (/[state]/requirements/)
  *   150 — prelicensing course pages (/[state]/prelicensing/[loa]/)
  *   150 — CE course pages          (/[state]/continuing-education/[loa]/)
+ *   1   — blog index               (/blog)
+ *   29  — blog cluster pages       (/blog/[cluster])
+ *   279 — blog post pages          (/blog/[cluster]/[slug])
  * ──────
- *   501 total
+ *   ~813 total (minus /new-york filtered entries)
  */
 export function generateSitemapEntries(): SitemapEntry[] {
   const lastModified = todayString();
@@ -121,6 +126,45 @@ export function generateSitemapEntries(): SitemapEntry[] {
         priority: 0.7,
       });
     }
+  }
+
+  // Blog entries — read from src/content/blog/_index.json at build time
+  const blogIndexPath = path.join(process.cwd(), "src", "content", "blog", "_index.json");
+  interface BlogPost {
+    slug: string;
+    cluster: string;
+  }
+  const blogPosts: BlogPost[] = JSON.parse(fs.readFileSync(blogIndexPath, "utf8"));
+
+  // Derive unique cluster slugs from the post data
+  const clusterSlugs = Array.from(new Set(blogPosts.map((p) => p.cluster)));
+
+  // Blog index page
+  entries.push({
+    url: BASE_URL + "/blog",
+    lastModified,
+    changeFrequency: "weekly",
+    priority: 0.85,
+  });
+
+  // Blog cluster pages (/blog/[cluster])
+  for (const clusterSlug of clusterSlugs) {
+    entries.push({
+      url: `${BASE_URL}/blog/${clusterSlug}`,
+      lastModified,
+      changeFrequency: "weekly",
+      priority: 0.8,
+    });
+  }
+
+  // Individual blog post pages (/blog/[cluster]/[slug])
+  for (const post of blogPosts) {
+    entries.push({
+      url: `${BASE_URL}/blog/${post.cluster}/${post.slug}`,
+      lastModified,
+      changeFrequency: "monthly",
+      priority: 0.7,
+    });
   }
 
   return entries.filter((entry) => !entry.url.includes("/new-york"));

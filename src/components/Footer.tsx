@@ -19,7 +19,7 @@ export default function Footer() {
   return (
     <footer className="bg-navy text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-7 gap-8">
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <Link href="/">
@@ -141,6 +141,22 @@ export default function Footer() {
                   Tennessee
                 </Link>
               </li>
+            </ul>
+          </div>
+
+          {/* Blog Column */}
+          <div>
+            <h3 className="text-white font-semibold mb-4 text-sm uppercase tracking-wide">Blog</h3>
+            <ul className="space-y-2">
+              <li><Link href="/blog" className="text-gray-300 hover:text-gold transition-colors text-sm">All Articles</Link></li>
+              <li><Link href="/blog/life-and-health-exam-prep" className="text-gray-300 hover:text-gold transition-colors text-sm">Exam Prep</Link></li>
+              <li><Link href="/blog/ce-requirements-general" className="text-gray-300 hover:text-gold transition-colors text-sm">CE Requirements</Link></li>
+              <li><Link href="/blog/florida-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Florida License</Link></li>
+              <li><Link href="/blog/texas-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Texas License</Link></li>
+              <li><Link href="/blog/state-license-california" className="text-gray-300 hover:text-gold transition-colors text-sm">California License</Link></li>
+              <li><Link href="/blog/state-license-new-york" className="text-gray-300 hover:text-gold transition-colors text-sm">New York License</Link></li>
+              <li><Link href="/blog/how-to-become-an-insurance-agent" className="text-gray-300 hover:text-gold transition-colors text-sm">Become an Agent</Link></li>
+              <li><Link href="/blog" className="text-gold hover:text-gold-light transition-colors text-sm font-medium">View All Articles &rarr;</Link></li>
             </ul>
           </div>
 

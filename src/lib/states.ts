@@ -792,19 +792,19 @@ export const STATES: Record<string, StateData> = {
         hours: 12,
         price: "$199",
         totalCost: "$545.00",
-        completionTime: "20 hours",
+        completionTime: "12 hours",
       },
       health: {
         hours: 12,
         price: "$199",
         totalCost: "$545.00",
-        completionTime: "20 hours",
+        completionTime: "12 hours",
       },
       lifeAndHealth: {
         hours: 12,
         price: "$199",
         totalCost: "$744.00",
-        completionTime: "40 hours",
+        completionTime: "12 hours",
       },
     },
 
@@ -874,12 +874,12 @@ export const STATES: Record<string, StateData> = {
       ltc: null,
       nfip: null,
       annuity: null,
-      other: "12-hour Code and Ethics prelicensing course required in addition to standard prelicensing hours. This ethics requirement applies to all new licensees and is separate from CE ethics requirements.",
+      other: "12-hour Code and Ethics prelicensing course required for all new licensees. As of January 1, 2026, California AB 943 eliminated the line-specific product hour requirement — the 12-hour Code and Ethics course is now the only mandatory prelicensing education for Life, Accident & Health, and P&C applicants. This ethics requirement is separate from CE ethics requirements.",
     },
-    stateSpecificIntro: "California is the largest insurance market in the United States, with over 8,200 new agents trained annually and some of the most rigorous licensing requirements in the country. All California applicants must complete a mandatory 12-hour Code and Ethics course as part of their prelicensing education — a requirement unique to California. The state's combination of wildfire risk, earthquake exposure, and a massive health insurance marketplace driven by Covered California creates exceptional career opportunities for licensed agents.",
+    stateSpecificIntro: "California is the largest insurance market in the United States, with over 8,200 new agents trained annually. As of January 1, 2026, California Assembly Bill 943 restructured prelicensing — eliminating the line-specific product hour mandate and keeping only a 12-hour Code and Ethics course as the required education for new license applicants. The state's combination of wildfire risk, earthquake exposure, and a massive health insurance marketplace driven by Covered California creates exceptional career opportunities for licensed agents.",
     stateSpecificFAQ: {
       question: "What is California's 12-hour ethics requirement for new insurance agents?",
-      answer: "California requires all new insurance license applicants to complete a 12-hour Code and Ethics (C&E) prelicensing course, in addition to any product-specific prelicensing hours. This requirement applies to Life, Accident & Health, and other lines. The C&E course covers the California Insurance Code, ethics standards, and agent responsibilities. JustInsurance's California prelicensing program includes this requirement as part of the curriculum.",
+      answer: "California requires all new insurance license applicants to complete a 12-hour Code and Ethics (C&E) prelicensing course. As of January 1, 2026, California Assembly Bill 943 eliminated the previous line-specific product prelicensing hour requirement — the 12-hour C&E course is now the only mandatory prelicensing education for Life, Accident & Health, and P&C applicants. The course covers the California Insurance Code, ethics standards, and agent responsibilities. JustInsurance's California prelicensing program covers everything you need for the C&E requirement and the state exam.",
     },
     stateTestimonial: {
       quote: "California's licensing process seemed overwhelming until I found JustInsurance. The course broke down the Code and Ethics requirement and all the exam material into manageable sections.",

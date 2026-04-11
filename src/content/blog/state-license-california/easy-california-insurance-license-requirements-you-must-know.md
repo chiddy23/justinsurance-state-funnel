@@ -35,13 +35,13 @@ If you meet these criteria, you’re officially on track to pursue your insuranc
 
 ## Complete pre-licensing education
 
-One of the fundamental [California insurance license](/california) requirements is completing a pre-licensing education course specific to your desired line of authority. Typically, this involves a set number of hours that covers essential topics, such as policy provisions, ethics, and state-specific regulations.
+One of the fundamental [California insurance license](/california) requirements is completing state-approved pre-licensing education. As of January 1, 2026, California Assembly Bill 943 restructured this requirement — the line-specific product hour mandate was eliminated, and the only required prelicensing course is now the 12-hour Code and Ethics course.
 
-• Life Insurance License: Expect around 20 hours of general coursework, plus 12 hours of ethics and California insurance code.  
-• Accident and Health License: Similarly, around 20 hours of coursework, plus the 12-hour ethics and code requirement.  
-• Property and Casualty License: Look for another 20 hours of coursework, again with the 12-hour ethics and code requirement.
+• Life Insurance License: Complete the 12-hour Code and Ethics prelicensing course. This covers California Insurance Code, ethics, and producer responsibilities.
+• Accident and Health License: The same 12-hour Code and Ethics course satisfies the prelicensing requirement for Accident and Health applicants.
+• Property and Casualty License: P&C applicants also complete the 12-hour Code and Ethics course to meet CDI's current prelicensing mandate.
 
-If you want both a Life and Accident & Health license, for example, you can often combine the coursework for a more efficient path. Most providers offer flexible online classes or in-person sessions, so you can study around your schedule. Keep all your course-completion certificates handy, because you’ll need them to verify you’ve met the state’s education standards.
+While product-specific study hours are no longer mandated, most candidates still take additional exam prep beyond the required Ethics course to prepare for the state exam. Keep your course-completion certificate handy, because you’ll need it to verify you’ve met the state’s education standards when scheduling your exam.
 
 ## Register for the exam
 

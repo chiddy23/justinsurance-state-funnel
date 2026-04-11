@@ -1,8 +1,8 @@
 ---
 title: Discover the Best Ways to Meet Insurance CE Renewal Requirements
 description: >-
-  Stay compliant: discover your insurance CE renewal requirements in your state
-  with our quick, friendly guide! State-by-state CE compliance tips.
+  Insurance ce renewal requirements state: total CE hours required, ethics
+  credit rules, approved course formats, and renewal filing steps for 2026.
 keyword: insurance ce renewal requirements state
 targetKeywords: insurance ce renewal requirements state
 cluster: ce-requirements-general

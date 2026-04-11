@@ -1,8 +1,9 @@
 ---
 title: Fast-Track Your Success with a Colorado Insurance License
 description: >-
-  Fast-track your Colorado insurance license with easy exam tips and support to
-  kick off your insurance career. Colorado agent licensing guidance.
+  How to get a colorado insurance license — prelicensing hours, exam costs,
+  application steps, fingerprinting, and timeline explained by licensed
+  insurance
 keyword: how to get a colorado insurance license
 targetKeywords: colorado insurance license
 cluster: state-license-colorado

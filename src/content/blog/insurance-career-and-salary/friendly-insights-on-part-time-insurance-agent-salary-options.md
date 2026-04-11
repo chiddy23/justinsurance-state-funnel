@@ -1,8 +1,8 @@
 ---
 title: Friendly Insights on Part Time Insurance Agent Salary Options
 description: >-
-  Ready to see your part time insurance agent salary? Learn to maximize earnings
-  on your own terms. Real insights from licensed agents.
+  Part time insurance agent salary breakdown: base vs. commission pay,
+  top-earning specialties, and career growth advice from licensed insurance
 keyword: part time insurance agent salary
 targetKeywords: part time insurance agent salary
 cluster: insurance-career-and-salary

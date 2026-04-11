@@ -1,8 +1,9 @@
 ---
 title: Everything You Want to Know About Florida Life Insurance License
 description: >-
-  Unlock your Florida life insurance license hassle-free with clear steps,
-  expert study tips, and exam success. Licensed agent insights for Florida.
+  Florida life insurance license requirements: education hours, state exam
+  details, background check, application fees, and timeline from licensed
+  insurance
 keyword: florida life insurance license requirements
 targetKeywords: florida life insurance license
 cluster: florida-insurance-license

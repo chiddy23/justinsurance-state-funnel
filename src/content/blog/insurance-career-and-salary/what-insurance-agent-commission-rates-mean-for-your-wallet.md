@@ -1,8 +1,8 @@
 ---
 title: What Insurance Agent Commission Rates Mean for Your Wallet
 description: >-
-  See how insurance agent commission rates affect your income and if this career
-  matches your financial goals. Real insights from licensed agents.
+  Insurance agent commission rates — salary benchmarks, commission structures,
+  income growth factors, and expert tips from licensed insurance agents.
 keyword: insurance agent commission rates
 targetKeywords: insurance agent commission rates
 cluster: insurance-career-and-salary

@@ -1,8 +1,8 @@
 ---
 title: Your Friendly Guide to New York Insurance CE Requirements
 description: >-
-  Easily navigate New York insurance CE requirements with this friendly guide to
-  keep your license current. New York licensing expert guidance.
+  New york insurance ce requirements — how many credits you need, which
+  providers qualify, ethics hour rules, and renewal steps for licensed agents.
 keyword: new york insurance ce requirements
 targetKeywords: new york insurance ce requirements
 cluster: state-license-new-york

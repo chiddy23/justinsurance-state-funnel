@@ -1,8 +1,8 @@
 ---
 title: Unlock Success with Your Pennsylvania Property and Casualty License
 description: >-
-  Easily get your Pennsylvania property and casualty license with our friendly
-  guide to breeze through your exam. Pennsylvania licensing expert tips.
+  Pennsylvania property and casualty license exam: how the exam is scored, what
+  topics appear most often, and how licensed agents prepared to pass on the
 keyword: pennsylvania property and casualty license exam
 targetKeywords: pennsylvania property and casualty license
 cluster: state-license-pennsylvania

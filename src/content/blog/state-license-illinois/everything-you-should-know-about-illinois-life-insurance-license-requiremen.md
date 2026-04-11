@@ -1,8 +1,8 @@
 ---
 title: Everything You Should Know About Illinois Life Insurance License Requirements
 description: >-
-  Everything You Should Know About Illinois Life Insurance License Requirements.
-  Illinois licensing made simple. Read the full guide from JustInsurance.
+  Illinois life insurance license requirements: step-by-step process covering
+  prelicensing education, state exam, background check, and NIPR application
 keyword: illinois life insurance license requirements
 targetKeywords: illinois life insurance license requirements
 cluster: state-license-illinois

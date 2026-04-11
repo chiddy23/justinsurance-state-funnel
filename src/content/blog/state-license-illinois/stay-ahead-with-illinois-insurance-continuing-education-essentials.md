@@ -1,8 +1,8 @@
 ---
 title: Stay Ahead with Illinois Insurance Continuing Education Essentials
 description: >-
-  Get ahead with Illinois insurance continuing education tips to easily renew
-  your license. Illinois licensing made simple.
+  Illinois insurance continuing education breakdown: required credits, ethics
+  hour mandates, approved online providers, and renewal deadlines from licensed
 keyword: illinois insurance continuing education
 targetKeywords: illinois insurance continuing education
 cluster: state-license-illinois

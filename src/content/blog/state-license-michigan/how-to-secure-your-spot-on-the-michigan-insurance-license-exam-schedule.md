@@ -1,8 +1,8 @@
 ---
 title: How to Secure Your Spot on the Michigan Insurance License Exam Schedule
 description: >-
-  Secure your spot on the Michigan insurance license exam schedule: a friendly
-  guide to picking your date. Michigan licensing made easy.
+  S: michigan insurance license exam schedule overview: exam format, passing
+  score requirements, key study areas, and preparation advice from licensed
 keyword: 's: michigan insurance license exam schedule'
 targetKeywords: michigan insurance license exam schedule
 cluster: state-license-michigan

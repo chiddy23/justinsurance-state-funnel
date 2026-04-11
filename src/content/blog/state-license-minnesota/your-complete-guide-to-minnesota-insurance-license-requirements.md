@@ -1,8 +1,8 @@
 ---
 title: Your Complete Guide to Minnesota Insurance License Requirements
 description: >-
-  Your friendly guide makes Minnesota insurance license requirements easy to
-  follow for first-timers. Minnesota licensing expert advice.
+  Minnesota insurance license requirements: education hours, state exam details,
+  background check, application fees, and timeline from licensed insurance
 keyword: minnesota insurance license requirements
 targetKeywords: minnesota insurance license requirements
 cluster: state-license-minnesota

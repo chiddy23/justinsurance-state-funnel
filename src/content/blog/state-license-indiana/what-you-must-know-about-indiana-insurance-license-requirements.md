@@ -1,8 +1,8 @@
 ---
 title: What You Must Know About Indiana Insurance License Requirements
 description: >-
-  Get friendly tips to navigate Indiana insurance license requirements, from
-  pre-licensing steps to exam prep. Indiana licensing expert guidance.
+  Indiana insurance license requirements: education requirements, exam format,
+  background check process, application steps, and fees from licensed
 keyword: indiana insurance license requirements
 targetKeywords: indiana insurance license requirements
 cluster: state-license-indiana

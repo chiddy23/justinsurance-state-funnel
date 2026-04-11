@@ -1,8 +1,8 @@
 ---
 title: Friendly Advice for Keeping Up Insurance CE Compliance by State
 description: >-
-  Get friendly advice for insurance CE compliance by state so you can renew your
-  license stress-free. State-by-state CE compliance tips.
+  Insurance ce compliance by state: required hours, ethics credits, reporting
+  deadlines, and renewal steps. State-approved CE guidance from licensed
 keyword: insurance ce compliance by state
 targetKeywords: insurance ce compliance by state
 cluster: ce-requirements-general

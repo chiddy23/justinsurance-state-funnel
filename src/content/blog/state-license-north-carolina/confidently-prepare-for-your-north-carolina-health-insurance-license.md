@@ -1,8 +1,9 @@
 ---
 title: Confidently Prepare for Your North Carolina Health Insurance License
 description: >-
-  Master your north carolina health insurance license exam with friendly tips
-  and pass with confidence. North Carolina licensing tips.
+  S: north carolina health insurance license: education hours, state exam
+  details, background check, application fees, and timeline from licensed
+  insurance
 keyword: 's: north carolina health insurance license'
 targetKeywords: north carolina health insurance license
 cluster: state-license-north-carolina

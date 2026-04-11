@@ -1,8 +1,8 @@
 ---
 title: Friendly Advice for a Smooth Pennsylvania Health Insurance License Process
 description: >-
-  Ace your Pennsylvania health insurance license with friendly study tips and
-  simple guidance for first-timers. Pennsylvania licensing expert tips.
+  Pennsylvania health insurance license overview: prelicensing course hours,
+  exam registration, application process, and fees. Licensed agent guidance for
 keyword: pennsylvania health insurance license
 targetKeywords: pennsylvania health insurance license
 cluster: state-license-pennsylvania

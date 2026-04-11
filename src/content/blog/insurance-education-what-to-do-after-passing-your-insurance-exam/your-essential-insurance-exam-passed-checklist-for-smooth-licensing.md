@@ -1,8 +1,8 @@
 ---
 title: Your Essential Insurance Exam Passed Checklist for Smooth Licensing
 description: >-
-  Use your insurance exam passed checklist to breeze through post license steps
-  and kickstart your career. Next steps after passing your exam.
+  Insurance exam passed checklist: study strategies, key topic breakdowns,
+  practice questions, and what to expect on test day from licensed agents.
 keyword: ''
 targetKeywords: insurance exam passed checklist
 cluster: insurance-education-what-to-do-after-passing-your-insurance-exam

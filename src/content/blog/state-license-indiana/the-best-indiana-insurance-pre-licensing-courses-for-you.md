@@ -1,8 +1,8 @@
 ---
 title: The Best Indiana Insurance Pre-Licensing Courses for You
 description: >-
-  Find the best Indiana insurance pre-licensing courses to fit your busy life
-  and set you up for exam success. Indiana licensing expert guidance.
+  Everything you need to know about indiana insurance pre-licensing courses:
+  process overview, key steps, costs, and expert guidance from licensed agents.
 keyword: indiana insurance pre-licensing courses
 targetKeywords: indiana insurance pre-licensing courses
 cluster: state-license-indiana

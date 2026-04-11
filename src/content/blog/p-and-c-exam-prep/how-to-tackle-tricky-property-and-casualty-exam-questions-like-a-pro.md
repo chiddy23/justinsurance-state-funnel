@@ -1,8 +1,8 @@
 ---
 title: How to Tackle Tricky Property and Casualty Exam Questions Like a Pro
 description: >-
-  Master property and casualty exam questions with friendly strategies that
-  boost your confidence and score. Complete P&C exam prep guidance.
+  Property and casualty exam questions: how the exam is scored, what topics
+  appear most often, and how licensed agents prepared to pass on the first try.
 keyword: property and casualty exam questions
 targetKeywords: property and casualty exam questions
 cluster: p-and-c-exam-prep

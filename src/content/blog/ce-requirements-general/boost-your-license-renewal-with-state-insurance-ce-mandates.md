@@ -1,8 +1,8 @@
 ---
 title: Boost Your License Renewal with State Insurance CE Mandates
 description: >-
-  Navigate state insurance CE mandates to fast-track your license renewal, earn
-  credits, and stay compliant. State-by-state CE compliance tips.
+  State insurance ce mandates overview: required credits, approved providers,
+  renewal windows, and step-by-step compliance tips for insurance license
 keyword: state insurance ce mandates
 targetKeywords: state insurance ce mandates
 cluster: ce-requirements-general

@@ -1,8 +1,8 @@
 ---
 title: What You Must Know About North Carolina Insurance Licensing Requirements
 description: >-
-  Get tips to help you meet north carolina insurance licensing requirements and
-  ace your exam easily. North Carolina licensing tips.
+  S: north carolina insurance licensing requirements guide: course hours, exam
+  fees, application process, and timeline to get your license. Expert tips from
 keyword: 's: north carolina insurance licensing requirements'
 targetKeywords: north carolina insurance licensing requirements
 cluster: state-license-north-carolina

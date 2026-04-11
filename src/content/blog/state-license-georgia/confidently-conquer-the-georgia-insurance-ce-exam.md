@@ -1,8 +1,8 @@
 ---
 title: Confidently Conquer the Georgia Insurance CE Exam
 description: >-
-  Confidently conquer your Georgia insurance CE exam with friendly tips, proven
-  strategies and study support. Georgia licensing expert advice.
+  Georgia insurance ce exam: how many hours you need, which courses qualify,
+  ethics requirements, and how to file your renewal on time.
 keyword: georgia insurance ce exam
 targetKeywords: georgia insurance ce exam
 cluster: state-license-georgia

@@ -1,8 +1,8 @@
 ---
 title: Friendly Insurance Career Growth Tips Every New Agent Needs
 description: >-
-  Grow your client base and confidence with insurance career growth tips every
-  new agent needs. Career tips from industry experts.
+  Insurance career growth tips overview: salary ranges by specialty, commission
+  vs. base pay, and long-term earning potential from licensed agents.
 keyword: insurance career growth tips
 targetKeywords: insurance career growth tips
 cluster: insurance-agent-career-guide

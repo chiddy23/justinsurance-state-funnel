@@ -1,8 +1,8 @@
 ---
 title: Top Michigan Insurance Licensing Classes to Kickstart Your Career
 description: >-
-  Kickstart your career with Michigan insurance licensing classes that help you
-  pass your exam confidently. Michigan licensing made easy.
+  S: michigan insurance licensing classes: education hours, state exam details,
+  background check, application fees, and timeline from licensed insurance
 keyword: 's: michigan insurance licensing classes'
 targetKeywords: michigan insurance licensing classes
 cluster: state-license-michigan

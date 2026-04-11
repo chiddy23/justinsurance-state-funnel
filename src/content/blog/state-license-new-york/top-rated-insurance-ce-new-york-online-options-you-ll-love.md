@@ -1,8 +1,8 @@
 ---
 title: Top-Rated Insurance CE New York Online Options You’ll Love
 description: >-
-  Find top-rated insurance ce new york online courses you’ll love, fit your
-  schedule and earn credits easily! New York licensing expert guidance.
+  Insurance ce new york online: total CE hours required, ethics credit rules,
+  approved course formats, and renewal filing steps for 2026.
 keyword: insurance ce new york online
 targetKeywords: insurance ce new york online
 cluster: state-license-new-york

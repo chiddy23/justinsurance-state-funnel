@@ -1,8 +1,8 @@
 ---
 title: Top Tips to Simplify Tennessee Insurance License Renewal
 description: >-
-  Simplify your Tennessee insurance license renewal with friendly, step-by-step
-  tips for a stress-free process. Tennessee licensing expert guidance.
+  Tennessee insurance license renewal: required prelicensing hours, exam
+  registration, state fees, application steps, and tips from licensed insurance
 keyword: tennessee insurance license renewal
 targetKeywords: tennessee insurance license renewal
 cluster: state-license-tennessee

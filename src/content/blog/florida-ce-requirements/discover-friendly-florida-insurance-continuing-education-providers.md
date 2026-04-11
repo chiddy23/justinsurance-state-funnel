@@ -1,8 +1,9 @@
 ---
 title: Discover Friendly Florida Insurance Continuing Education Providers
 description: >-
-  Find friendly Florida insurance continuing education providers to ace your
-  exam and launch your career. Florida CE renewal made easy.
+  Florida insurance continuing education providers guide: required hours,
+  approved topics, ethics credits, online course options, and renewal filing
+  from
 keyword: florida insurance continuing education providers
 targetKeywords: florida insurance continuing education providers
 cluster: florida-ce-requirements

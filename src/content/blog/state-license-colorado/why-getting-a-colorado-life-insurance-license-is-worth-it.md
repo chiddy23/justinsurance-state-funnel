@@ -1,8 +1,9 @@
 ---
 title: Why Getting a Colorado Life Insurance License Is Worth It
 description: >-
-  Get your Colorado life insurance license to unlock a rewarding career and
-  financial stability today. Colorado agent licensing guidance.
+  Colorado life insurance license: required prelicensing hours, exam
+  registration, state fees, application steps, and tips from licensed insurance
+  agents.
 keyword: colorado life insurance license
 targetKeywords: colorado life insurance license
 cluster: state-license-colorado

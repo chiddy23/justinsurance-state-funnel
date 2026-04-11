@@ -1,8 +1,8 @@
 ---
 title: Easy California Insurance License Requirements You Must Know
 description: >-
-  Master California insurance license requirements with our friendly guide so
-  you can get licensed fast. California licensing expert tips.
+  California insurance license requirements: education requirements, exam
+  format, background check process, application steps, and fees from licensed
 keyword: california insurance license requirements
 targetKeywords: california insurance pre-licensing courses
 cluster: state-license-california

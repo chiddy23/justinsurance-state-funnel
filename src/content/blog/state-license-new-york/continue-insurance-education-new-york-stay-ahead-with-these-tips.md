@@ -1,8 +1,8 @@
 ---
 title: 'Continue Insurance Education New York: Stay Ahead With These Tips'
 description: >-
-  Stay ahead: continue insurance education in New York with friendly tips that
-  boost your license and career. New York licensing expert guidance.
+  Continue insurance education new york breakdown: education requirements, exam
+  details, application steps, and licensing fees. Updated 2026 from licensed
 keyword: continue insurance education new york
 targetKeywords: continue insurance education new york
 cluster: state-license-new-york

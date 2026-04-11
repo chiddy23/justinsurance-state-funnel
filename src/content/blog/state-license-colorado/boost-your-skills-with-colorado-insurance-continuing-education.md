@@ -1,8 +1,9 @@
 ---
 title: Boost Your Skills with Colorado Insurance Continuing Education
 description: >-
-  Boost your career with Colorado insurance continuing education—courses to earn
-  and renew your license. Colorado agent licensing guidance.
+  Colorado insurance continuing education: state-required CE hours, ethics
+  credit mandates, approved course formats, and how to submit your renewal by
+  the
 keyword: colorado insurance continuing education
 targetKeywords: colorado insurance continuing education
 cluster: state-license-colorado

@@ -1,8 +1,8 @@
 ---
 title: Your Guide to Finding Hidden Florida Insurance CE Discounts
 description: >-
-  Unlock hidden Florida insurance CE discounts to slash your exam prep costs and
-  boost your licensing success. Florida CE renewal made easy.
+  Florida insurance ce discounts: total CE hours required, ethics credit rules,
+  approved course formats, and renewal filing steps for 2026.
 keyword: florida insurance ce discounts
 targetKeywords: florida insurance ce discounts
 cluster: florida-ce-requirements

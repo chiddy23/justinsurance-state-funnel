@@ -1,8 +1,9 @@
 ---
 title: Get Your Arizona Insurance Producer License Without Stress
 description: >-
-  Get your Arizona insurance producer license stress-free with our friendly
-  guide to passing on your first try. Arizona licensing expert guidance.
+  Arizona insurance producer license: education hours, state exam details,
+  background check, application fees, and timeline from licensed insurance
+  agents.
 keyword: arizona insurance producer license
 targetKeywords: arizona insurance producer license
 cluster: state-license-arizona

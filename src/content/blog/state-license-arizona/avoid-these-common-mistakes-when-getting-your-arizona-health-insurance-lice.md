@@ -1,8 +1,8 @@
 ---
 title: Avoid These Common Mistakes When Getting Your Arizona Health Insurance License
 description: >-
-  Avoid common mistakes and breeze through your Arizona health insurance license
-  exam with our friendly tips. Arizona licensing expert guidance.
+  Arizona health insurance license — prelicensing hours, exam costs, application
+  steps, fingerprinting, and timeline explained by licensed insurance agents.
 keyword: arizona health insurance license
 targetKeywords: arizona life insurance license
 cluster: state-license-arizona

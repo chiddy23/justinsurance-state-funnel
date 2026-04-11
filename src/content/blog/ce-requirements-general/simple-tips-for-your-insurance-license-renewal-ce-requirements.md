@@ -1,8 +1,8 @@
 ---
 title: Simple Tips for Your Insurance License Renewal CE Requirements
 description: >-
-  Master your insurance license renewal ce requirements with state-by-state tips
-  to breeze through credits. State-by-state CE compliance tips.
+  Insurance license renewal ce requirements: total CE hours required, ethics
+  credit rules, approved course formats, and renewal filing steps for 2026.
 keyword: insurance license renewal ce requirements
 targetKeywords: insurance license renewal ce requirements
 cluster: ce-requirements-general

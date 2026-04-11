@@ -1,8 +1,8 @@
 ---
 title: How NJ Insurance Licensing Rules Affect Your License Journey
 description: >-
-  Uncover nj insurance licensing rules to smoothly navigate your NJ license
-  journey with ease and confidence! New Jersey licensing expert tips.
+  Nj insurance licensing rules: education hours, state exam details, background
+  check, application fees, and timeline from licensed insurance agents.
 keyword: nj insurance licensing rules
 targetKeywords: nj insurance licensing rules
 cluster: state-license-new-jersey

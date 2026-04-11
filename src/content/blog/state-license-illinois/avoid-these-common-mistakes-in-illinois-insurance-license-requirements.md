@@ -1,8 +1,9 @@
 ---
 title: Avoid These Common Mistakes in Illinois Insurance License Requirements
 description: >-
-  Avoid These Common Mistakes in Illinois Insurance License Requirements.
-  Illinois licensing made simple. Read the full guide from JustInsurance.
+  Illinois insurance license requirements: step-by-step process covering
+  prelicensing education, state exam, background check, and NIPR application.
+  Updated
 keyword: illinois insurance license requirements
 targetKeywords: illinois insurance license requirements
 cluster: state-license-illinois

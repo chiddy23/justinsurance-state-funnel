@@ -1,8 +1,8 @@
 ---
 title: Boost Your Sales by Building an Insurance Practice Right
 description: >-
-  Boost your sales with friendly tips on building an insurance practice in your
-  first year. Career tips from industry experts.
+  Building an insurance practice: how agents get paid, typical income ranges,
+  top-earning lines of insurance, and career advice from licensed pros.
 keyword: building an insurance practice
 targetKeywords: building an insurance practice
 cluster: insurance-agent-career-guide

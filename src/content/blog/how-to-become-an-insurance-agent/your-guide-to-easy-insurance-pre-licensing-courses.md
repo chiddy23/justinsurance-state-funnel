@@ -1,8 +1,9 @@
 ---
 title: Your Guide to Easy Insurance Pre-Licensing Courses
 description: >-
-  Go from zero experience to licensed agent with insurance pre-licensing courses
-  that kickstart your career. Step-by-step career guide.
+  Insurance pre-licensing courses: a clear walkthrough of the process,
+  requirements, timelines, and tips from licensed insurance agents. Updated
+  2026.
 keyword: insurance pre-licensing courses
 targetKeywords: insurance pre-licensing courses
 cluster: how-to-become-an-insurance-agent

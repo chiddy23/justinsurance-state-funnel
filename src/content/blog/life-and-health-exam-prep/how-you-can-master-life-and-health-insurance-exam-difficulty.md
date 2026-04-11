@@ -1,8 +1,8 @@
 ---
 title: How You Can Master Life and Health Insurance Exam Difficulty
 description: >-
-  Conquer life and health insurance exam difficulty with proven study tips to
-  help you pass on your first try. Expert tips from licensed agents.
+  Life and health insurance exam difficulty strategies from licensed agents: how
+  to study, common topics, practice question formats, and passing tips for
 keyword: life and health insurance exam difficulty
 targetKeywords: life and health insurance exam difficulty
 cluster: life-and-health-exam-prep

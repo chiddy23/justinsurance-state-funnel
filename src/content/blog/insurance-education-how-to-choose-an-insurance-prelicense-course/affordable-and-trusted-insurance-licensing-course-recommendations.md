@@ -1,8 +1,8 @@
 ---
 title: Affordable and Trusted Insurance Licensing Course Recommendations
 description: >-
-  Get insurance licensing course recommendations to fit your budget, state
-  approval, access and pass guarantee. Pick the best prelicense course.
+  Insurance licensing course recommendations: process overview, requirements,
+  timelines, common pitfalls, and guidance from licensed insurance agents in
 keyword: insurance licensing course recommendations
 targetKeywords: insurance licensing course recommendations
 cluster: insurance-education-how-to-choose-an-insurance-prelicense-course

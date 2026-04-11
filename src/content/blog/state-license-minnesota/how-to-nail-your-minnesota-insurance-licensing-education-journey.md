@@ -1,8 +1,8 @@
 ---
 title: How to Nail Your Minnesota Insurance Licensing Education Journey
 description: >-
-  Ace your Minnesota insurance licensing education with friendly tips to pass
-  and start your insurance career. Minnesota licensing expert advice.
+  Minnesota insurance licensing education: education hours, state exam details,
+  background check, application fees, and timeline from licensed insurance
 keyword: minnesota insurance licensing education
 targetKeywords: minnesota insurance licensing education
 cluster: state-license-minnesota

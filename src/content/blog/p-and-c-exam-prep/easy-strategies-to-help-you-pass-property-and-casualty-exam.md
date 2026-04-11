@@ -1,8 +1,9 @@
 ---
 title: Easy Strategies to Help You Pass Property and Casualty Exam
 description: >-
-  Discover how to pass property and casualty exam with easy strategies to boost
-  your confidence. Complete P&C exam prep guidance.
+  How to pass property and casualty exam: what to study, how the exam is
+  structured, common question types, and preparation strategies from licensed
+  agents.
 keyword: how to pass property and casualty exam
 targetKeywords: how to pass property and casualty exam
 cluster: p-and-c-exam-prep

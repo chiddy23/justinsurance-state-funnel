@@ -1,8 +1,8 @@
 ---
 title: Your Friendly Guide to Property and Casualty Insurance Study Material
 description: >-
-  Master your exam with friendly property and casualty insurance study material
-  and feel confident on test day. Complete P&C exam prep guidance.
+  Property and casualty insurance study material: what to study, how the exam is
+  structured, common question types, and preparation strategies from licensed
 keyword: property and casualty insurance study material
 targetKeywords: property and casualty insurance study material
 cluster: p-and-c-exam-prep

@@ -1,8 +1,8 @@
 ---
 title: Start Strong with Washington Pre-Licensing Insurance Courses You Trust
 description: >-
-  Kickstart your career with friendly Washington pre-licensing insurance courses
-  for your first license. Washington licensing expert guidance.
+  Washington pre-licensing insurance courses: credit requirements, ethics
+  mandates, approved course providers, and step-by-step renewal process from
 keyword: washington pre-licensing insurance courses
 targetKeywords: washington pre-licensing insurance courses
 cluster: state-license-washington

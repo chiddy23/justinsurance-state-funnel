@@ -1,8 +1,8 @@
 ---
 title: Discover Powerful State-Specific Insurance CE Courses for Your License
 description: >-
-  Renew your license stress-free with state-specific insurance ce courses
-  tailored to your CE requirements. State-by-state CE compliance tips.
+  State-specific insurance ce courses: state-required CE hours, ethics credit
+  mandates, approved course formats, and how to submit your renewal by the
 keyword: state-specific insurance ce courses
 targetKeywords: state-specific insurance ce courses
 cluster: ce-requirements-general

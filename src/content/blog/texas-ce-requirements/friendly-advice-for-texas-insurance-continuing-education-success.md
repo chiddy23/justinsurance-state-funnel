@@ -1,8 +1,9 @@
 ---
 title: Friendly Advice for Texas Insurance Continuing Education Success
 description: >-
-  Ace your texas insurance continuing education with friendly tips to breeze
-  through CE requirements. Texas CE compliance guidance.
+  Texas insurance continuing education: required hours, ethics credits,
+  reporting deadlines, and renewal steps. State-approved CE guidance from
+  licensed
 keyword: texas insurance continuing education
 targetKeywords: texas insurance continuing education online
 cluster: texas-ce-requirements

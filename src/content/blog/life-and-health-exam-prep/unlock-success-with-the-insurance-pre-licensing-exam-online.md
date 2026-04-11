@@ -1,8 +1,8 @@
 ---
 title: Unlock Success with the Insurance Pre-Licensing Exam Online
 description: >-
-  Unlock success on your state life & health exam with insurance pre-licensing
-  exam online—start studying now! Expert tips from licensed agents.
+  Insurance pre-licensing exam online guide covering exam format, key topics,
+  study schedules, and practice questions to help you pass on your first try.
 keyword: insurance pre-licensing exam online
 targetKeywords: insurance pre-licensing exam online
 cluster: life-and-health-exam-prep

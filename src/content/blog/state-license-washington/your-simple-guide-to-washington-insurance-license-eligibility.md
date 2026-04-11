@@ -1,8 +1,8 @@
 ---
 title: Your Simple Guide to Washington Insurance License Eligibility
 description: >-
-  Discover if you meet washington insurance license eligibility and kickstart
-  your insurance career today. Washington licensing expert guidance.
+  Washington insurance license eligibility overview: prelicensing course hours,
+  exam registration, application process, and fees. Licensed agent guidance
 keyword: washington insurance license eligibility
 targetKeywords: washington insurance license eligibility
 cluster: state-license-washington

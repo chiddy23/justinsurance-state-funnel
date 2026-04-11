@@ -1,8 +1,8 @@
 ---
 title: Avoid These Mistakes When Getting Your North Carolina Life Insurance License
 description: >-
-  Skip pitfalls on your north carolina life insurance license journey with
-  friendly tips for new applicants. North Carolina licensing tips.
+  S: north carolina life insurance license overview: prelicensing course hours,
+  exam registration, application process, and fees. Licensed agent guidance
 keyword: 's: north carolina life insurance license'
 targetKeywords: north carolina life insurance license
 cluster: state-license-north-carolina

@@ -1,8 +1,9 @@
 ---
 title: Essential Insurance License Compliance Tips You Need Now
 description: >-
-  Get insurance license compliance tips to guide you through post-exam steps and
-  finalize your application. Next steps after passing your exam.
+  Insurance license compliance tips: education hours, state exam details,
+  background check, application fees, and timeline from licensed insurance
+  agents.
 keyword: ''
 targetKeywords: insurance license compliance tips
 cluster: insurance-education-what-to-do-after-passing-your-insurance-exam

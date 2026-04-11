@@ -1,8 +1,8 @@
 ---
 title: What You Need to Know About the Pennsylvania Insurance Licensing Exam
 description: >-
-  Get friendly tips and proven strategies to ace your Pennsylvania insurance
-  licensing exam on your first try! Pennsylvania licensing expert tips.
+  Pennsylvania insurance licensing exam: how long it takes, what courses you
+  need, exam registration, fees, and application steps from licensed agents in
 keyword: pennsylvania insurance licensing exam
 targetKeywords: pennsylvania insurance licensing exam
 cluster: state-license-pennsylvania

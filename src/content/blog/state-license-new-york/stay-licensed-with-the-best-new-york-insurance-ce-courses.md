@@ -1,8 +1,8 @@
 ---
 title: Stay Licensed with the Best New York Insurance CE Courses
 description: >-
-  Stay licensed with new york insurance ce courses crafted for your busy
-  life—learn at your own pace! New York licensing expert guidance.
+  New york insurance ce courses: CE hour requirements, ethics credits, approved
+  providers, and renewal deadlines explained by licensed insurance
 keyword: new york insurance ce courses
 targetKeywords: new york insurance ce courses
 cluster: state-license-new-york

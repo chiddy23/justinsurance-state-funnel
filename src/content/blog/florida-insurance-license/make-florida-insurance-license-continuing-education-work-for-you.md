@@ -1,8 +1,8 @@
 ---
 title: Make Florida Insurance License Continuing Education Work for You
 description: >-
-  Elevate your career with florida insurance license continuing education: tips
-  to pass exams and stand out. Licensed agent insights for Florida.
+  Florida insurance license continuing education: how many hours you need, which
+  courses qualify, ethics requirements, and how to file your renewal on time.
 keyword: florida insurance license continuing education
 targetKeywords: florida insurance license continuing education
 cluster: florida-insurance-license

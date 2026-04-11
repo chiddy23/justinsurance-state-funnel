@@ -1,8 +1,8 @@
 ---
 title: Washington Insurance License Requirements Made Easy for You
 description: >-
-  Easily navigate Washington insurance license requirements and launch your
-  insurance career today! Washington licensing expert guidance.
+  Washington insurance license requirements breakdown: education requirements,
+  exam details, application steps, and licensing fees. Updated 2026 from
 keyword: washington insurance license requirements
 targetKeywords: washington insurance license requirements
 cluster: state-license-washington
@@ -77,7 +77,7 @@ $150–$200 per course
 
 Exam Registration
 
-~$79 per exam
+~$35 per exam
 
 1–2 weeks to schedule
 

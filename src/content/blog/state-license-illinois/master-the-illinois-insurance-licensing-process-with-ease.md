@@ -1,8 +1,8 @@
 ---
 title: Master the Illinois Insurance Licensing Process with Ease
 description: >-
-  Master the Illinois Insurance Licensing Process with Ease. Illinois licensing
-  made simple. Read the full guide from JustInsurance.
+  Illinois insurance licensing process: what you need to know about prelicensing
+  hours, exam costs, background checks, and the state application process in
 keyword: illinois insurance licensing process
 targetKeywords: illinois insurance licensing process
 cluster: state-license-illinois

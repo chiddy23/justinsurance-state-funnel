@@ -1,8 +1,8 @@
 ---
 title: Maximize Success with Maryland Insurance License Renewal Tips
 description: >-
-  Secure your Maryland insurance license renewal with friendly expert tips to
-  keep your career thriving. Maryland licensing expert tips.
+  Maryland insurance license renewal tips: required prelicensing hours, exam
+  registration, state fees, application steps, and tips from licensed insurance
 keyword: maryland insurance license renewal tips
 targetKeywords: maryland insurance license renewal
 cluster: state-license-maryland

@@ -1,8 +1,8 @@
 ---
 title: Smooth Sailing Through the Insurance License Activation Process
 description: >-
-  Simplify your insurance license activation process with friendly, step-by-step
-  tips for post-exam success. Next steps after passing your exam.
+  Post insurance exam guide: how the exam is scored, what topics appear most
+  often, and how licensed agents prepared to pass on the first try.
 keyword: ''
 targetKeywords: post insurance exam guide
 cluster: insurance-education-what-to-do-after-passing-your-insurance-exam

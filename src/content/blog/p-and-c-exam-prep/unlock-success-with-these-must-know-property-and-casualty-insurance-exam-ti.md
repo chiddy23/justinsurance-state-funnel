@@ -1,8 +1,8 @@
 ---
 title: Unlock Success with These Must-Know Property and Casualty Insurance Exam Tips
 description: >-
-  Unlock success with property and casualty insurance exam tips to help you ace
-  your licensing exam. Complete P&C exam prep guidance.
+  Property and casualty insurance exam tips guide covering exam format, key
+  topics, study schedules, and practice questions to help you pass on your first
 keyword: property and casualty insurance exam tips
 targetKeywords: property and casualty insurance exam tips
 cluster: p-and-c-exam-prep

@@ -1,8 +1,8 @@
 ---
 title: Top Tips to Pass Your Virginia Life Insurance License Exam
 description: >-
-  Get friendly tips to ace your virginia life insurance license exam and pass on
-  your first try! Virginia licensing expert tips.
+  Virginia life insurance license — prelicensing hours, exam costs, application
+  steps, fingerprinting, and timeline explained by licensed insurance agents.
 keyword: virginia life insurance license
 targetKeywords: virginia life insurance license
 cluster: state-license-virginia

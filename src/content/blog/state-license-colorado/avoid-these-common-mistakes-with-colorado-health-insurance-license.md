@@ -1,8 +1,8 @@
 ---
 title: Avoid These Common Mistakes with Colorado Health Insurance License
 description: >-
-  Avoid common mistakes and fast-track your health insurance license in Colorado
-  with friendly expert tips. Colorado agent licensing guidance.
+  Colorado health insurance license explained: prelicensing hours, exam fees,
+  application steps, and what to expect. Updated 2026 guidance from licensed
 keyword: colorado health insurance license
 targetKeywords: colorado health insurance license
 cluster: state-license-colorado

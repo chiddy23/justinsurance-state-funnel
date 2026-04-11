@@ -1,9 +1,9 @@
 ---
 title: What You Must Know About the Tennessee Health Insurance License
 description: >-
-  Get your Tennessee Health Insurance License with friendly tips on
-  requirements, exam prep and career success. Tennessee licensing expert
-  guidance.
+  Tennessee health insurance license: required prelicensing hours, exam
+  registration, state fees, application steps, and tips from licensed insurance
+  agents.
 keyword: tennessee health insurance license
 targetKeywords: tennessee health insurance license
 cluster: state-license-tennessee

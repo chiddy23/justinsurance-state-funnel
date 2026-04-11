@@ -1,8 +1,8 @@
 ---
 title: How to Easily Get Your Maryland Life and Health Insurance License
 description: >-
-  Get your Maryland life and health insurance license easily today with our
-  friendly step-by-step guide. Maryland licensing expert tips.
+  Maryland life and health insurance license — prelicensing hours, exam costs,
+  application steps, fingerprinting, and timeline explained by licensed
 keyword: maryland life and health insurance license
 targetKeywords: maryland life and health insurance license
 cluster: state-license-maryland

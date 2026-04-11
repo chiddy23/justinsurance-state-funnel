@@ -1,8 +1,8 @@
 ---
 title: Surprising Facts About Insurance Agent Earnings You Should Know
 description: >-
-  Curious about your insurance agent earnings? Discover surprising facts to
-  level up your income now. Real insights from licensed agents.
+  Insurance agent earnings breakdown: base vs. commission pay, top-earning
+  specialties, and career growth advice from licensed insurance professionals.
 keyword: insurance agent earnings
 targetKeywords: insurance agent earnings
 cluster: insurance-career-and-salary

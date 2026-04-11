@@ -1,8 +1,8 @@
 ---
 title: Your Guide to Easy Insurance CE State Regulations
 description: >-
-  Simplify insurance ce state regulations with our friendly guide so you can
-  renew your license effortlessly. State-by-state CE compliance tips.
+  Insurance ce state regulations: how many hours you need, which courses
+  qualify, ethics requirements, and how to file your renewal on time.
 keyword: insurance ce state regulations
 targetKeywords: insurance ce state regulations
 cluster: ce-requirements-general

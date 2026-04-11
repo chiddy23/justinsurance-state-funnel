@@ -1,8 +1,8 @@
 ---
 title: Save Time with These Easy Florida Insurance CE Classes
 description: >-
-  Save time with easy Florida insurance CE classes that fit your schedule and
-  help you pass your license exam. Florida CE renewal made easy.
+  Florida insurance ce classes: state-required CE hours, ethics credit mandates,
+  approved course formats, and how to submit your renewal by the deadline.
 keyword: florida insurance ce classes
 targetKeywords: florida insurance ce classes
 cluster: florida-ce-requirements

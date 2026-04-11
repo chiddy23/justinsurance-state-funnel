@@ -1,8 +1,8 @@
 ---
 title: What You Need to Know About Ohio Insurance License Continuing Education
 description: >-
-  See how ohio insurance license continuing education helps you stay licensed,
-  confident and compliant. Ohio licensing expert guidance.
+  Ohio insurance license continuing education — how many credits you need, which
+  providers qualify, ethics hour rules, and renewal steps for licensed agents.
 keyword: ohio insurance license continuing education
 targetKeywords: ohio insurance license continuing education
 cluster: state-license-ohio

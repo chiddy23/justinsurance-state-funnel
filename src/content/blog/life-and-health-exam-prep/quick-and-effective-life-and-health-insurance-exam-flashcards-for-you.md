@@ -1,8 +1,9 @@
 ---
 title: Quick and Effective Life and Health Insurance Exam Flashcards for You
 description: >-
-  Get quick life and health insurance exam flashcards to boost your prep and ace
-  your first licensing test. Expert tips from licensed agents.
+  Life and health insurance exam flashcards: study strategies, key topic
+  breakdowns, practice questions, and what to expect on test day from licensed
+  agents.
 keyword: life and health insurance exam flashcards
 targetKeywords: life and health insurance exam flashcards
 cluster: life-and-health-exam-prep

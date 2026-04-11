@@ -1,8 +1,8 @@
 ---
 title: Your Guide to Maryland Insurance Education Requirements Today
 description: >-
-  Master your Maryland insurance education requirements and start a career in
-  life, health or P&C insurance. Maryland licensing expert tips.
+  Maryland insurance education requirements: education requirements, exam
+  format, background check process, application steps, and fees from licensed
 keyword: maryland insurance education requirements
 targetKeywords: maryland insurance education requirements
 cluster: state-license-maryland

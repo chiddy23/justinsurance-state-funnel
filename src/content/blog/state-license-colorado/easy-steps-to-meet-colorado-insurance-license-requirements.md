@@ -1,8 +1,8 @@
 ---
 title: Easy Steps to Meet Colorado Insurance License Requirements
 description: >-
-  Discover how you can easily meet Colorado insurance license requirements and
-  launch your insurance career. Colorado agent licensing guidance.
+  Colorado insurance license requirements overview: prelicensing course hours,
+  exam registration, application process, and fees. Licensed agent guidance for
 keyword: colorado insurance license requirements
 targetKeywords: colorado insurance license requirements
 cluster: state-license-colorado

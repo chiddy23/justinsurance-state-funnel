@@ -1,8 +1,8 @@
 ---
 title: How Pennsylvania Pre-Licensing Insurance Courses Boost Your Career
 description: >-
-  Get ahead with Pennsylvania pre-licensing insurance courses that jumpstart
-  your insurance career success! Pennsylvania licensing expert tips.
+  Pennsylvania pre-licensing insurance courses — how many credits you need,
+  which providers qualify, ethics hour rules, and renewal steps for licensed
 keyword: pennsylvania pre-licensing insurance courses
 targetKeywords: pennsylvania pre-licensing insurance courses
 cluster: state-license-pennsylvania

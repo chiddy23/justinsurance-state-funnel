@@ -1,8 +1,8 @@
 ---
 title: Avoid These Common Mistakes with Pennsylvania Insurance License Renewal
 description: >-
-  Don’t let errors derail your Pennsylvania insurance license renewal. Get
-  friendly tips to breeze through! Pennsylvania licensing expert tips.
+  Pennsylvania insurance license renewal: education hours, state exam details,
+  background check, application fees, and timeline from licensed insurance
 keyword: pennsylvania insurance license renewal
 targetKeywords: pennsylvania insurance license renewal
 cluster: state-license-pennsylvania

@@ -1,8 +1,8 @@
 ---
 title: Simple Florida Health Insurance CE Tricks for Exam Prep
 description: >-
-  Ace your Florida health insurance CE exam with simple, friendly tricks to
-  boost your prep and confidence. Florida CE renewal made easy.
+  Florida health insurance ce guide covering credit requirements, approved
+  providers, ethics hours, and renewal deadlines from licensed insurance
 keyword: florida health insurance ce
 targetKeywords: florida health insurance ce
 cluster: florida-ce-requirements

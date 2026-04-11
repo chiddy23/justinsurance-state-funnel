@@ -1,8 +1,9 @@
 ---
 title: Breaking Down State Insurance CE Deadlines for Busy Agents
 description: >-
-  Never miss state insurance ce deadlines with our friendly guide ensuring you
-  renew your license stress-free. State-by-state CE compliance tips.
+  State insurance ce deadlines breakdown: required credits, ethics hour
+  mandates, approved online providers, and renewal deadlines from licensed
+  agents.
 keyword: state insurance ce deadlines
 targetKeywords: state insurance ce deadlines
 cluster: ce-requirements-general

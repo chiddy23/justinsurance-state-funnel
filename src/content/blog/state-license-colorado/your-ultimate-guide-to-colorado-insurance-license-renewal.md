@@ -1,8 +1,8 @@
 ---
 title: Your Ultimate Guide to Colorado Insurance License Renewal
 description: >-
-  Simplify your colorado insurance license renewal with friendly tips on
-  deadlines, CE, and industry insights. Colorado agent licensing guidance.
+  Colorado insurance license renewal overview: prelicensing course hours, exam
+  registration, application process, and fees. Licensed agent guidance for 2026.
 keyword: colorado insurance license renewal
 targetKeywords: colorado insurance license renewal
 cluster: state-license-colorado

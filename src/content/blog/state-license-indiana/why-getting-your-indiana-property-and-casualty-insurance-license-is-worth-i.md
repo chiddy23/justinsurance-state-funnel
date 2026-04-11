@@ -1,8 +1,8 @@
 ---
 title: Why Getting Your Indiana Property and Casualty Insurance License Is Worth It
 description: >-
-  See why your Indiana property and casualty insurance license unlocks new
-  opportunities and career growth. Indiana licensing expert guidance.
+  Indiana property and casualty insurance license — prelicensing hours, exam
+  costs, application steps, fingerprinting, and timeline explained by licensed
 keyword: indiana property and casualty insurance license
 targetKeywords: indiana property and casualty insurance license
 cluster: state-license-indiana

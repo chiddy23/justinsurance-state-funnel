@@ -1,8 +1,8 @@
 ---
 title: Unlock Success Knowing CE Requirements by State Insurance
 description: >-
-  Stay on track with your ce requirements by state insurance and breeze through
-  renewal with our friendly guide. State-by-state CE compliance tips.
+  Ce requirements by state insurance breakdown: required credits, ethics hour
+  mandates, approved online providers, and renewal deadlines from licensed
 keyword: ce requirements by state insurance
 targetKeywords: ce requirements by state insurance
 cluster: ce-requirements-general

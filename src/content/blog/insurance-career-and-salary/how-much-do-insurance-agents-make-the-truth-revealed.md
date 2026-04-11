@@ -1,8 +1,8 @@
 ---
 title: How Much Do Insurance Agents Make? The Truth Revealed
 description: >-
-  Curious how much do insurance agents make? Discover average pay and tips to
-  boost your earnings now. Real insights from licensed agents.
+  How much do insurance agents make overview: salary ranges by specialty,
+  commission vs. base pay, and long-term earning potential from licensed agents.
 keyword: how much do insurance agents make
 targetKeywords: how much do insurance agents make
 cluster: insurance-career-and-salary

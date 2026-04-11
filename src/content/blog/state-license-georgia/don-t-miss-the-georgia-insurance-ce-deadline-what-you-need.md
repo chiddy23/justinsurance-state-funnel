@@ -1,8 +1,8 @@
 ---
 title: 'Don’t Miss the Georgia Insurance CE Deadline: What You Need'
 description: >-
-  Don't miss the Georgia Insurance CE deadline! Find out what you need to
-  complete credits and stay licensed. Georgia licensing expert advice.
+  Georgia insurance ce deadline guide: required hours, approved topics, ethics
+  credits, online course options, and renewal filing from licensed agents.
 keyword: georgia insurance ce deadline
 targetKeywords: georgia insurance ce deadline
 cluster: state-license-georgia

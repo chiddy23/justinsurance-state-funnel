@@ -1,8 +1,8 @@
 ---
 title: Everything You Must Know About Your California Insurance Agent License
 description: >-
-  Get your California insurance agent license with friendly exam tips,
-  requirements, and easy steps for you. California licensing expert tips.
+  California insurance agent license renewal guide: course hours, exam fees,
+  application process, and timeline to get your license. Expert tips from
 keyword: california insurance agent license renewal
 targetKeywords: california insurance license renewal
 cluster: state-license-california

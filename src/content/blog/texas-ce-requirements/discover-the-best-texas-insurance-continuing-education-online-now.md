@@ -1,8 +1,8 @@
 ---
 title: Discover the Best Texas Insurance Continuing Education Online Now
 description: >-
-  Find friendly Texas insurance continuing education online to fit your schedule
-  and boost your career. Texas CE compliance guidance.
+  Texas insurance continuing education online guide: required hours, approved
+  topics, ethics credits, online course options, and renewal filing from
 keyword: texas insurance continuing education online
 targetKeywords: texas insurance continuing education online
 cluster: texas-ce-requirements

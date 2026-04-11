@@ -1,8 +1,8 @@
 ---
 title: Simple Steps for Michigan Insurance License Continuing Education Success
 description: >-
-  Master your Michigan insurance license continuing education with simple steps
-  tailored for you. Michigan licensing made easy.
+  S: michigan insurance license continuing educat: required education hours,
+  exam registration steps, application fees, and what to expect from licensed
 keyword: 's: michigan insurance license continuing educat'
 targetKeywords: michigan insurance license continuing education
 cluster: state-license-michigan

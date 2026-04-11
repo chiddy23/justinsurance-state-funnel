@@ -1,8 +1,9 @@
 ---
 title: Avoid Mistakes with These Florida Insurance CE Requirements
 description: >-
-  Ace Florida insurance CE requirements and avoid mistakes so you pass your
-  licensing exam on the first try. Florida CE renewal made easy.
+  Florida insurance ce requirements guide: required hours, approved topics,
+  ethics credits, online course options, and renewal filing from licensed
+  agents.
 keyword: florida insurance ce requirements
 targetKeywords: florida insurance ce requirements
 cluster: florida-ce-requirements

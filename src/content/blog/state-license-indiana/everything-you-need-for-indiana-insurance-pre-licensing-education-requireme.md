@@ -1,8 +1,8 @@
 ---
 title: Everything You Need for Indiana Insurance Pre-Licensing Education Requirements
 description: >-
-  Meet your Indiana insurance pre-licensing education requirements with our
-  friendly guide and ace your exam! Indiana licensing expert guidance.
+  Indiana insurance pre-licensing education requirements: step-by-step process
+  covering prelicensing education, state exam, background check, and NIPR
 keyword: indiana insurance pre-licensing education requirements
 targetKeywords: indiana insurance pre-licensing education requirements
 cluster: state-license-indiana

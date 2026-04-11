@@ -1,9 +1,8 @@
 ---
 title: What You Need to Know About Texas Insurance License Application
 description: >-
-  Navigate your Texas insurance license application with ease and
-  confidence—your step-by-step guide to success. Expert Texas licensing
-  guidance.
+  Texas insurance license application: what you need to know about prelicensing
+  hours, exam costs, background checks, and the state application process in
 keyword: texas insurance license application
 targetKeywords: texas insurance license application
 cluster: texas-insurance-license

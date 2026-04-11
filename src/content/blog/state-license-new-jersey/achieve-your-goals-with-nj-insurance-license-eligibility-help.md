@@ -1,8 +1,8 @@
 ---
 title: Achieve Your Goals with NJ Insurance License Eligibility Help
 description: >-
-  Check your NJ insurance license eligibility today and fast-track your
-  insurance career in New Jersey! New Jersey licensing expert tips.
+  Nj insurance license eligibility: step-by-step process covering prelicensing
+  education, state exam, background check, and NIPR application. Updated 2026.
 keyword: nj insurance license eligibility
 targetKeywords: nj insurance license eligibility
 cluster: state-license-new-jersey

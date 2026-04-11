@@ -1,8 +1,8 @@
 ---
 title: Easy Steps for Your Florida Insurance License Renewal
 description: >-
-  Simplify your Florida insurance license renewal with easy, friendly steps so
-  you breeze through in no time! Licensed agent insights for Florida.
+  Florida insurance license renewal steps overview: prelicensing course hours,
+  exam registration, application process, and fees. Licensed agent guidance for
 keyword: florida insurance license renewal steps
 targetKeywords: florida insurance license renewal
 cluster: florida-insurance-license

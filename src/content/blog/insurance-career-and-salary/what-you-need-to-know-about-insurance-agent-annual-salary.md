@@ -1,8 +1,8 @@
 ---
 title: What You Need to Know About Insurance Agent Annual Salary
 description: >-
-  Curious about your insurance agent annual salary? Discover average earnings
-  and tips to boost your income. Real insights from licensed agents.
+  Insurance agent annual salary guide covering average pay, commission splits,
+  top-earning niches, and career development paths for insurance professionals.
 keyword: insurance agent annual salary
 targetKeywords: insurance agent annual salary
 cluster: insurance-career-and-salary

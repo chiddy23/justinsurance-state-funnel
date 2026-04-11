@@ -1,8 +1,9 @@
 ---
 title: Top Tips for Passing Your New Jersey Life Insurance License Exam
 description: >-
-  Boost your confidence and nail your New Jersey life insurance license exam
-  with these friendly, easy tips. New Jersey licensing expert tips.
+  New jersey life insurance license: education requirements, exam format,
+  background check process, application steps, and fees from licensed
+  professionals.
 keyword: new jersey life insurance license
 targetKeywords: new jersey life insurance license
 cluster: state-license-new-jersey

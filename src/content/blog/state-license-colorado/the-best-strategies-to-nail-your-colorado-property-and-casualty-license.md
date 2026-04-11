@@ -1,8 +1,9 @@
 ---
 title: The Best Strategies to Nail Your Colorado Property and Casualty License
 description: >-
-  Master your Colorado property and casualty license with tips to ace the exam
-  and start your insurance career. Colorado agent licensing guidance.
+  Colorado property and casualty license: what you need to know about
+  prelicensing hours, exam costs, background checks, and the state application
+  process
 keyword: colorado property and casualty license
 targetKeywords: colorado property and casualty license
 cluster: state-license-colorado

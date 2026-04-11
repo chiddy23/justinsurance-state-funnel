@@ -1,8 +1,8 @@
 ---
 title: How to Nail Your California Insurance License Continuing Education
 description: >-
-  Nail your California insurance license continuing education with friendly tips
-  to breeze through renewal. California licensing expert tips.
+  California insurance license continuing education guide covering credit
+  requirements, approved providers, ethics hours, and renewal deadlines from
 keyword: california insurance license continuing education
 targetKeywords: california insurance license continuing education
 cluster: state-license-california

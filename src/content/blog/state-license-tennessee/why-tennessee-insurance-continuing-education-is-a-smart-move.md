@@ -1,8 +1,8 @@
 ---
 title: Why Tennessee Insurance Continuing Education Is a Smart Move
 description: >-
-  Make a smart move: boost your insurance career with Tennessee insurance
-  continuing education. Tennessee licensing expert guidance.
+  Tennessee insurance continuing education — how many credits you need, which
+  providers qualify, ethics hour rules, and renewal steps for licensed agents.
 keyword: tennessee insurance continuing education
 targetKeywords: tennessee insurance continuing education
 cluster: state-license-tennessee

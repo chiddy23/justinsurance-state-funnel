@@ -1,8 +1,8 @@
 ---
 title: Maryland Insurance License Requirements You Need to Know
 description: >-
-  Secure your Maryland insurance license renewal with friendly expert tips to
-  keep your career thriving. Maryland licensing expert tips.
+  Maryland insurance license renewal requirements: education requirements, exam
+  format, background check process, application steps, and fees from licensed
 keyword: maryland insurance license renewal requirements
 targetKeywords: maryland insurance license renewal
 cluster: state-license-maryland

@@ -1,8 +1,9 @@
 ---
 title: Top Tips for Passing Your Florida Health Insurance License
 description: >-
-  Ace your florida health insurance license exam with friendly expert tips
-  designed just for you! Licensed agent insights for Florida.
+  Florida health insurance license: required prelicensing hours, exam
+  registration, state fees, application steps, and tips from licensed insurance
+  agents.
 keyword: florida health insurance license
 targetKeywords: florida health insurance license
 cluster: florida-insurance-license

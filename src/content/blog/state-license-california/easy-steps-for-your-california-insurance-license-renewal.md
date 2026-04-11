@@ -1,8 +1,8 @@
 ---
 title: Easy Steps for Your California Insurance License Renewal
 description: >-
-  Streamline your California insurance license renewal with our friendly
-  step-by-step guide designed for you. California licensing expert tips.
+  California insurance license renewal steps: what you need to know about
+  prelicensing hours, exam costs, background checks, and the state application
 keyword: california insurance license renewal steps
 targetKeywords: california insurance license renewal
 cluster: state-license-california

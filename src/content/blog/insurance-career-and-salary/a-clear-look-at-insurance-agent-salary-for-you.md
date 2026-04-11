@@ -1,8 +1,8 @@
 ---
 title: A Clear Look at Insurance Agent Salary for You
 description: >-
-  Curious about insurance agent salary? Get average pay and tips to see if this
-  career fits your goals. Real insights from licensed agents.
+  Insurance agent salary: income ranges, commission structures, specialty pay
+  differences, and career tips from licensed insurance professionals.
 keyword: insurance agent salary
 targetKeywords: 'insurance agent salary, how much do insurance agents make'
 cluster: insurance-career-and-salary

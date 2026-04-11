@@ -1,8 +1,9 @@
 ---
 title: Top California Insurance License Training to Jumpstart Your Career
 description: >-
-  Jumpstart your career with top California insurance license training designed
-  for first-time agents like you! California licensing expert tips.
+  California insurance license training: a clear walkthrough of the process,
+  requirements, timelines, and tips from licensed insurance agents. Updated
+  2026.
 keyword: california insurance license training
 targetKeywords: california insurance license training
 cluster: state-license-california

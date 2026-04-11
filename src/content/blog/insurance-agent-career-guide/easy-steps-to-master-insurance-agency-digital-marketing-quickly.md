@@ -1,8 +1,8 @@
 ---
 title: Easy Steps to Master Insurance Agency Digital Marketing Quickly
 description: >-
-  Quickly boost your clientele with easy insurance agency digital marketing
-  steps for new agents. Career tips from industry experts.
+  Insurance agency digital marketing — salary benchmarks, commission structures,
+  income growth factors, and expert tips from licensed insurance agents.
 keyword: insurance agency digital marketing
 targetKeywords: insurance agency digital marketing
 cluster: insurance-agent-career-guide

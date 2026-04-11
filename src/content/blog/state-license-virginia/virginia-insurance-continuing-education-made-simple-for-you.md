@@ -1,8 +1,8 @@
 ---
 title: Virginia Insurance Continuing Education Made Simple for You
 description: >-
-  Master Virginia insurance continuing education with simple tips to help you
-  renew your license stress-free. Virginia licensing expert tips.
+  Virginia insurance continuing education renewal breakdown: required credits,
+  ethics hour mandates, approved online providers, and renewal deadlines from
 keyword: virginia insurance continuing education renewal
 targetKeywords: virginia insurance continuing education
 cluster: state-license-virginia

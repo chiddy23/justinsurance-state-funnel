@@ -1,8 +1,8 @@
 ---
 title: Step-by-Step Texas Insurance License Requirements Explained
 description: >-
-  See how you can meet Texas insurance license requirements with our friendly,
-  easy step-by-step guide. Expert Texas licensing guidance.
+  Texas insurance license requirements: required prelicensing hours, exam
+  registration, state fees, application steps, and tips from licensed insurance
 keyword: texas insurance license requirements
 targetKeywords: texas insurance license requirements
 cluster: texas-insurance-license

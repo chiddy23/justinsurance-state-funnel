@@ -1,8 +1,8 @@
 ---
 title: Your Friendly Guide to Pennsylvania Insurance License Fees
 description: >-
-  Easily plan your pennsylvania insurance license fees with our friendly
-  step-by-step guide. Pennsylvania licensing expert tips.
+  Pennsylvania insurance license fees: required prelicensing hours, exam
+  registration, state fees, application steps, and tips from licensed insurance
 keyword: pennsylvania insurance license fees
 targetKeywords: pennsylvania insurance license fees
 cluster: state-license-pennsylvania

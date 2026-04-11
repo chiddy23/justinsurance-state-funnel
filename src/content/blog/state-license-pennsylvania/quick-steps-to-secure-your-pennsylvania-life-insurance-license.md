@@ -1,8 +1,8 @@
 ---
 title: Quick Steps to Secure Your Pennsylvania Life Insurance License
 description: >-
-  Quickly secure your Pennsylvania life insurance license with our friendly,
-  easy-to-follow steps just for you. Pennsylvania licensing expert tips.
+  Pennsylvania life insurance license: what you need to know about prelicensing
+  hours, exam costs, background checks, and the state application process in
 keyword: pennsylvania life insurance license
 targetKeywords: pennsylvania life insurance license
 cluster: state-license-pennsylvania

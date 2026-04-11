@@ -1,8 +1,9 @@
 ---
 title: Your Fast Track to a Minnesota Insurance License
 description: >-
-  Fast-track your Minnesota insurance license with our friendly guide. Prep,
-  pass, and launch your career! Minnesota licensing expert advice.
+  Minnesota insurance license explained: prelicensing hours, exam fees,
+  application steps, and what to expect. Updated 2026 guidance from licensed
+  agents.
 keyword: minnesota insurance license
 targetKeywords: minnesota insurance license
 cluster: state-license-minnesota

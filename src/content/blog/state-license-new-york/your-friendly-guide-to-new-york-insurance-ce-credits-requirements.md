@@ -1,8 +1,8 @@
 ---
 title: Your Friendly Guide to New York Insurance CE Credits Requirements
 description: >-
-  Get your new york insurance ce credits with our friendly guide to stress-free
-  NY license renewal. New York licensing expert guidance.
+  New york insurance ce credits guide covering credit requirements, approved
+  providers, ethics hours, and renewal deadlines from licensed insurance
 keyword: new york insurance ce credits
 targetKeywords: new york insurance ce credits
 cluster: state-license-new-york

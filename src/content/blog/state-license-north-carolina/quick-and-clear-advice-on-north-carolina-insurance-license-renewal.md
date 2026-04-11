@@ -1,8 +1,8 @@
 ---
 title: Quick and Clear Advice on North Carolina Insurance License Renewal
 description: >-
-  Need north carolina insurance license renewal? Follow friendly step-by-step
-  advice to renew your license fast. North Carolina licensing tips.
+  S: north carolina insurance license renewal guide: course hours, exam fees,
+  application process, and timeline to get your license. Expert tips from
 keyword: 's: north carolina insurance license renewal'
 targetKeywords: north carolina insurance license renewal
 cluster: state-license-north-carolina

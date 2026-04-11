@@ -1,8 +1,9 @@
 ---
 title: Your Guide to Affordable Illinois Insurance License Training
 description: >-
-  Your Guide to Affordable Illinois Insurance License Training. Illinois
-  licensing made simple. Read the full guide from JustInsurance.
+  Illinois insurance license training: what it covers, how it works, what to
+  expect, and step-by-step guidance from licensed insurance professionals in
+  2026.
 keyword: illinois insurance license training
 targetKeywords: illinois insurance license training
 cluster: state-license-illinois

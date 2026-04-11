@@ -1,8 +1,8 @@
 ---
 title: Your Guide to Quick and Easy Online Georgia Insurance CE
 description: >-
-  Get your online Georgia insurance CE done fast and easy with our friendly
-  guide designed just for you. Georgia licensing expert advice.
+  Georgia insurance continuing education online overview: required credits,
+  approved providers, renewal windows, and step-by-step compliance tips for
 keyword: georgia insurance continuing education online
 targetKeywords: georgia insurance continuing education
 cluster: state-license-georgia

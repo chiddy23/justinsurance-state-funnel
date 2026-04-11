@@ -1,8 +1,8 @@
 ---
 title: Everything You Need for Your Arizona Insurance License Renewal
 description: >-
-  Simplify your Arizona insurance license renewal with our friendly guide to
-  deadlines, requirements and tips. Arizona licensing expert guidance.
+  Arizona insurance license renewal deadlines explained: prelicensing hours,
+  exam fees, application steps, and what to expect. Updated 2026 guidance from
 keyword: arizona insurance license renewal deadlines
 targetKeywords: arizona insurance license renewal
 cluster: state-license-arizona

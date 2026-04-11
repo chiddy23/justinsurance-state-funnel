@@ -1,8 +1,8 @@
 ---
 title: Quick Tips for Passing Your North Carolina Property and Casualty License
 description: >-
-  Crush your north carolina property and casualty license exam with friendly,
-  quick tips for first-timers. North Carolina licensing tips.
+  S:north carolina property and casualty license: education hours, state exam
+  details, background check, application fees, and timeline from licensed
 keyword: 's:north carolina property and casualty license'
 targetKeywords: north carolina property and casualty license
 cluster: state-license-north-carolina

@@ -1,8 +1,8 @@
 ---
 title: Top Insurance Sales Training Programs to Grow Your Clientele
 description: >-
-  Find top insurance sales training programs to boost your skills, expand your
-  network, and grow your clientele. Career tips from industry experts.
+  Insurance sales training programs breakdown: base vs. commission pay,
+  top-earning specialties, and career growth advice from licensed insurance
 keyword: insurance sales training programs
 targetKeywords: insurance sales training programs
 cluster: insurance-agent-career-guide

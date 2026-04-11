@@ -1,8 +1,8 @@
 ---
 title: Crush Your Goals with Effective Washington Insurance License Exam Prep
 description: >-
-  Boost your Washington insurance license exam prep with friendly tips and
-  proven strategies to ace your test! Washington licensing expert guidance.
+  Washington insurance license exam prep guide covering exam format, key topics,
+  study schedules, and practice questions to help you pass on your first try.
 keyword: washington insurance license exam prep
 targetKeywords: washington insurance license exam prep
 cluster: state-license-washington

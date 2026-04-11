@@ -1,8 +1,9 @@
 ---
 title: Why You Shouldn’t Delay Getting Your Virginia Insurance Adjuster License
 description: >-
-  Don’t wait—start your path to a virginia insurance adjuster license today and
-  secure your future. Virginia licensing expert tips.
+  Virginia insurance adjuster license — prelicensing hours, exam costs,
+  application steps, fingerprinting, and timeline explained by licensed
+  insurance
 keyword: virginia insurance adjuster license
 targetKeywords: virginia insurance adjuster license
 cluster: state-license-virginia

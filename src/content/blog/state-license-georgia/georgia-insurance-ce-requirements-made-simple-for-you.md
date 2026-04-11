@@ -1,8 +1,8 @@
 ---
 title: Georgia Insurance CE Requirements Made Simple for You
 description: >-
-  Simplify georgia insurance ce requirements and keep your license up to date
-  with our friendly guide. Georgia licensing expert advice.
+  Georgia insurance ce requirements guide guide covering credit requirements,
+  approved providers, ethics hours, and renewal deadlines from licensed
 keyword: georgia insurance ce requirements guide
 targetKeywords: georgia insurance continuing education
 cluster: state-license-georgia

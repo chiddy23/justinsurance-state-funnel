@@ -1,8 +1,9 @@
 ---
 title: Your Ultimate Insurance Prelicensing Course Comparison Guide
 description: >-
-  Insurance prelicensing course comparison: evaluate price, state approvals &
-  more to pick the best course. Pick the best prelicense course.
+  Insurance prelicensing course comparison: how to get started, key
+  requirements, process steps, and practical tips from licensed insurance
+  professionals.
 keyword: insurance prelicensing course comparison
 targetKeywords: insurance prelicensing course comparison
 cluster: insurance-education-how-to-choose-an-insurance-prelicense-course

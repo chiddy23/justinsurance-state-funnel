@@ -1,8 +1,8 @@
 ---
 title: Discover Friendly Florida Insurance CE Courses You’ll Love
 description: >-
-  Get exam-ready with friendly Florida insurance CE courses designed for you,
-  making learning easy and fun! Florida CE renewal made easy.
+  Florida insurance ce courses: total CE hours required, ethics credit rules,
+  approved course formats, and renewal filing steps for 2026.
 keyword: florida insurance ce courses
 targetKeywords: florida insurance ce courses
 cluster: florida-ce-requirements

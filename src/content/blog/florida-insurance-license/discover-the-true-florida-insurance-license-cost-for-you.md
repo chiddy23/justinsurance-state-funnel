@@ -1,8 +1,8 @@
 ---
 title: Discover the True Florida Insurance License Cost for You
 description: >-
-  Simplify your Florida insurance license renewal with easy, friendly steps so
-  you breeze through in no time! Licensed agent insights for Florida.
+  Florida insurance license renewal cost: education hours, state exam details,
+  background check, application fees, and timeline from licensed insurance
 keyword: florida insurance license renewal cost
 targetKeywords: florida insurance license renewal
 cluster: florida-insurance-license

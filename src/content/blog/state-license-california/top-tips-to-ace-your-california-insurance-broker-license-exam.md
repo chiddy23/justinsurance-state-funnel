@@ -1,8 +1,8 @@
 ---
 title: Top Tips to Ace Your California Insurance Broker License Exam
 description: >-
-  Ace your California insurance broker license exam easily with friendly tips to
-  pass on your first try. California licensing expert tips.
+  California insurance broker license: education requirements, exam format,
+  background check process, application steps, and fees from licensed
 keyword: california insurance broker license
 targetKeywords: california insurance broker license
 cluster: state-license-california

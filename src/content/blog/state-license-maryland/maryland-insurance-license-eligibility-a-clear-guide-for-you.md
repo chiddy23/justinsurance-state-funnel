@@ -1,8 +1,9 @@
 ---
 title: 'Maryland Insurance License Eligibility: A Clear Guide for You'
 description: >-
-  Master your Maryland insurance education requirements and start a career in
-  life, health or P&C insurance. Maryland licensing expert tips.
+  Maryland insurance license eligibility: required education hours, exam
+  registration steps, application fees, and what to expect from licensed agents
+  in
 keyword: maryland insurance license eligibility
 targetKeywords: maryland insurance license eligibility
 cluster: state-license-maryland

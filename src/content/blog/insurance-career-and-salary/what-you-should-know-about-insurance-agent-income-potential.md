@@ -1,8 +1,8 @@
 ---
 title: What You Should Know About Insurance Agent Income Potential
 description: >-
-  Unlock your insurance agent income potential with expert insights on boosting
-  your earnings. Real insights from licensed agents.
+  Insurance agent income potential: what agents actually earn, commission
+  structures, income by specialty, and how to increase your earnings in 2026.
 keyword: insurance agent income potential
 targetKeywords: insurance agent income potential
 cluster: insurance-career-and-salary

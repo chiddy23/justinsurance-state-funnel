@@ -1,8 +1,8 @@
 ---
 title: Your Friendly Guide to Property and Casualty Insurance License Requirements
 description: >-
-  Get friendly tips on property and casualty insurance license requirements and
-  ace your exam with confidence. Complete P&C exam prep guidance.
+  Property and casualty insurance license requirements: what to study, how the
+  exam is structured, common question types, and preparation strategies from
 keyword: property and casualty insurance license requirements
 targetKeywords: property and casualty insurance license requirements
 cluster: p-and-c-exam-prep

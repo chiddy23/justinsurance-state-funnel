@@ -1,8 +1,8 @@
 ---
 title: Stay Ahead with the Best New York Insurance Continuing Education
 description: >-
-  Advance your career with top New York insurance continuing education courses,
-  earn credits and stay licensed! New York licensing expert guidance.
+  New york insurance continuing education: credit requirements, ethics mandates,
+  approved course providers, and step-by-step renewal process from licensed
 keyword: new york insurance continuing education
 targetKeywords: new york insurance continuing education
 cluster: state-license-new-york

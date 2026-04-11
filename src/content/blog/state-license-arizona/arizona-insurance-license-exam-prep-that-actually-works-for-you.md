@@ -1,8 +1,8 @@
 ---
 title: Arizona Insurance License Exam Prep That Actually Works for You
 description: >-
-  Boost your confidence with friendly Arizona insurance license exam prep that's
-  tailored for your success. Arizona licensing expert guidance.
+  Arizona insurance license exam prep overview: exam format, passing score
+  requirements, key study areas, and preparation advice from licensed agents in
 keyword: arizona insurance license exam prep
 targetKeywords: arizona insurance license exam prep
 cluster: state-license-arizona

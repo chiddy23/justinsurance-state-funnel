@@ -1,8 +1,8 @@
 ---
 title: Why Getting Your Tennessee Life Insurance License Is Worth It
 description: >-
-  Kickstart your career and boost earnings with your Tennessee life insurance
-  license—see why it’s worth it. Tennessee licensing expert guidance.
+  Tennessee life insurance license guide: course hours, exam fees, application
+  process, and timeline to get your license. Expert tips from licensed agents.
 keyword: tennessee life insurance license
 targetKeywords: tennessee life insurance license
 cluster: state-license-tennessee

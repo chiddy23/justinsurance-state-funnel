@@ -1,8 +1,9 @@
 ---
 title: Easy Tips for Passing the Florida Insurance License Exam
 description: >-
-  Pass on your first try with our friendly Florida insurance license study guide
-  and simple exam tips! Licensed agent insights for Florida.
+  Florida insurance license study guide prep guide with practice questions,
+  study strategies, and test-day tips from licensed agents. 93% first-attempt
+  pass
 keyword: florida insurance license study guide
 targetKeywords: florida insurance license study guide
 cluster: florida-insurance-license

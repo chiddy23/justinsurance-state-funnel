@@ -1,8 +1,8 @@
 ---
 title: Top Tips for Passing the Minnesota Property and Casualty Insurance License
 description: >-
-  Get friendly tips to ace your Minnesota property and casualty insurance
-  license exam on your first try. Minnesota licensing expert advice.
+  Minnesota property and casualty insurance license: education hours, state exam
+  details, background check, application fees, and timeline from licensed
 keyword: minnesota property and casualty insurance license
 targetKeywords: minnesota property and casualty insurance license
 cluster: state-license-minnesota

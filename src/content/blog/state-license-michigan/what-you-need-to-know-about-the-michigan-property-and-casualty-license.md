@@ -1,8 +1,8 @@
 ---
 title: What You Need to Know About the Michigan Property and Casualty License
 description: >-
-  Ready to ace your Michigan property and casualty license exam? Get clear
-  steps, study tips, and expert help. Michigan licensing made easy.
+  S: michigan property and casualty license — prelicensing hours, exam costs,
+  application steps, fingerprinting, and timeline explained by licensed
 keyword: 's: michigan property and casualty license'
 targetKeywords: michigan property and casualty license
 cluster: state-license-michigan

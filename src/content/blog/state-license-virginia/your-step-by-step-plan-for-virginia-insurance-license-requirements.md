@@ -1,8 +1,8 @@
 ---
 title: Your Step-by-Step Plan for Virginia Insurance License Requirements
 description: >-
-  Master Virginia insurance license requirements with our friendly guide and
-  start your licensing journey today. Virginia licensing expert tips.
+  Virginia insurance license requirements: education requirements, exam format,
+  background check process, application steps, and fees from licensed
 keyword: virginia insurance license requirements
 targetKeywords: virginia insurance license requirements
 cluster: state-license-virginia

@@ -1,8 +1,8 @@
 ---
 title: Find the Best Illinois Insurance Pre-Licensing Courses for You
 description: >-
-  Find the Best Illinois Insurance Pre-Licensing Courses for You. Illinois
-  licensing made simple. Read the full guide from JustInsurance.
+  Complete guide to illinois insurance pre-licensing courses: key topics
+  covered, step-by-step instructions, and expert advice from licensed insurance
 keyword: illinois insurance pre-licensing courses
 targetKeywords: illinois insurance pre-licensing courses
 cluster: state-license-illinois

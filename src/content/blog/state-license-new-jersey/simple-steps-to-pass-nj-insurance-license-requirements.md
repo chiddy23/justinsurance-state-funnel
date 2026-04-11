@@ -1,8 +1,8 @@
 ---
 title: Simple Steps to Pass NJ Insurance License Requirements
 description: >-
-  Navigate NJ insurance license requirements with simple, friendly steps to ace
-  your first exam. New Jersey licensing expert tips.
+  Nj insurance license requirements guide: course hours, exam fees, application
+  process, and timeline to get your license. Expert tips from licensed agents.
 keyword: nj insurance license requirements
 targetKeywords: nj insurance license requirements
 cluster: state-license-new-jersey

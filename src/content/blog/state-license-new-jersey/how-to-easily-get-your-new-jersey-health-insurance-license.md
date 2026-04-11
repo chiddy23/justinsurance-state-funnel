@@ -1,8 +1,9 @@
 ---
 title: How to Easily Get Your New Jersey Health Insurance License
 description: >-
-  Easily get your new jersey health insurance license with friendly,
-  step-by-step tips designed just for you. New Jersey licensing expert tips.
+  New jersey health insurance license guide: course hours, exam fees,
+  application process, and timeline to get your license. Expert tips from
+  licensed
 keyword: new jersey health insurance license
 targetKeywords: new jersey health insurance license
 cluster: state-license-new-jersey

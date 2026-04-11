@@ -1,8 +1,8 @@
 ---
 title: Top Florida Insurance License Requirements You Must Know
 description: >-
-  Ready to master the Florida insurance license requirements and kickstart your
-  insurance career today? Licensed agent insights for Florida.
+  Florida insurance license requirements overview: prelicensing course hours,
+  exam registration, application process, and fees. Licensed agent guidance for
 keyword: florida insurance license requirements
 targetKeywords: florida insurance license requirements
 cluster: florida-insurance-license
@@ -37,7 +37,7 @@ Required course hours
 
 Life (including annuity)
 
-40–60 hours
+30 hours
 
 Health
 

@@ -1,8 +1,8 @@
 ---
 title: Texas Insurance CE Courses Designed for Your Busy Schedule
 description: >-
-  Stay ahead of your CE requirements with flexible Texas insurance CE courses
-  designed for your busy schedule. Texas CE compliance guidance.
+  Texas insurance ce courses guide covering credit requirements, approved
+  providers, ethics hours, and renewal deadlines from licensed insurance
 keyword: texas insurance ce courses
 targetKeywords: texas insurance ce courses
 cluster: texas-ce-requirements

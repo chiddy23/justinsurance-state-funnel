@@ -1,8 +1,8 @@
 ---
 title: The Friendly Guide to Getting Your Minnesota Life and Health Insurance License
 description: >-
-  Get your Minnesota life and health insurance license easily with our friendly,
-  step-by-step beginner’s guide! Minnesota licensing expert advice.
+  Minnesota life and health insurance license: how long it takes, what courses
+  you need, exam registration, fees, and application steps from licensed agents
 keyword: minnesota life and health insurance license
 targetKeywords: minnesota life and health insurance license
 cluster: state-license-minnesota

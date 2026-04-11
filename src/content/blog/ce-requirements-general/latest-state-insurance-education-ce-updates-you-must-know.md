@@ -1,8 +1,8 @@
 ---
 title: Latest State Insurance Education CE Updates You Must Know
 description: >-
-  Don't miss state insurance education ce updates you need to finish your CE
-  credits and renew your license on time. State-by-state CE compliance tips.
+  State insurance education ce updates explained: CE hour totals, approved
+  course types, ethics mandates, and compliance deadlines for licensed insurance
 keyword: state insurance education ce updates
 targetKeywords: state insurance education ce updates
 cluster: ce-requirements-general

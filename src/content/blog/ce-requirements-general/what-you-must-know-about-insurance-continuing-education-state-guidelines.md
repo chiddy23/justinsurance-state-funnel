@@ -1,8 +1,9 @@
 ---
 title: What You Must Know About Insurance Continuing Education State Guidelines
 description: >-
-  Stay on track with insurance continuing education state guidelines and renew
-  your license easily. State-by-state CE compliance tips.
+  Insurance continuing education state guidelines guide: required hours,
+  approved topics, ethics credits, online course options, and renewal filing
+  from
 keyword: insurance continuing education state guidelines
 targetKeywords: insurance continuing education state guidelines
 cluster: ce-requirements-general

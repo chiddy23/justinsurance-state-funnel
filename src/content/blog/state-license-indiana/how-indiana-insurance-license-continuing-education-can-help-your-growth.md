@@ -1,8 +1,9 @@
 ---
 title: How Indiana Insurance License Continuing Education Can Help Your Growth
 description: >-
-  Unlock new opportunities with Indiana insurance license continuing education
-  and watch your career thrive. Indiana licensing expert guidance.
+  Indiana insurance license continuing education guide covering credit
+  requirements, approved providers, ethics hours, and renewal deadlines from
+  licensed
 keyword: indiana insurance license continuing education
 targetKeywords: indiana insurance license continuing education
 cluster: state-license-indiana

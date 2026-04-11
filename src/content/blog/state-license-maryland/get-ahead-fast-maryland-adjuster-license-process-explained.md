@@ -1,8 +1,9 @@
 ---
 title: 'Get Ahead Fast: Maryland Adjuster License Process Explained'
 description: >-
-  Navigate the Maryland adjuster license process with ease and jump-start your
-  insurance career in no time. Maryland licensing expert tips.
+  Maryland adjuster license cost and process: education hours, state exam
+  details, background check, application fees, and timeline from licensed
+  insurance
 keyword: maryland adjuster license cost and process
 targetKeywords: maryland insurance license cost
 cluster: state-license-maryland

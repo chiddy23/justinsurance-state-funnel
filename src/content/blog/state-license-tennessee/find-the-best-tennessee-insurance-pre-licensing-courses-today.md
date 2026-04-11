@@ -1,8 +1,8 @@
 ---
 title: Find the Best Tennessee Insurance Pre-Licensing Courses Today
 description: >-
-  Unlock your future with Tennessee insurance pre-licensing courses designed to
-  help you pass the license exam. Tennessee licensing expert guidance.
+  Everything you need to know about tennessee insurance pre-licensing courses:
+  process overview, key steps, costs, and expert guidance from licensed agents.
 keyword: tennessee insurance pre-licensing courses
 targetKeywords: tennessee insurance pre-licensing courses
 cluster: state-license-tennessee

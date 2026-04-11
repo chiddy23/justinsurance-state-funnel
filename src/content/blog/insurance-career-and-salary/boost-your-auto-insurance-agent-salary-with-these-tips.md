@@ -1,8 +1,8 @@
 ---
 title: Boost Your Auto Insurance Agent Salary with These Tips
 description: >-
-  Discover how you can maximize your auto insurance agent salary with proven
-  tips for higher earnings. Real insights from licensed agents.
+  Auto insurance agent salary: how agents get paid, typical income ranges,
+  top-earning lines of insurance, and career advice from licensed pros.
 keyword: auto insurance agent salary
 targetKeywords: auto insurance agent salary
 cluster: insurance-career-and-salary

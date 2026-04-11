@@ -1,8 +1,8 @@
 ---
 title: What You Need to Know About Pennsylvania Insurance Licensing Requirements
 description: >-
-  Your easy, friendly guide to Pennsylvania insurance licensing requirements for
-  first-time applicants. Pennsylvania licensing expert tips.
+  Pennsylvania insurance licensing requirements guide: course hours, exam fees,
+  application process, and timeline to get your license. Expert tips from
 keyword: pennsylvania insurance licensing requirements
 targetKeywords: pennsylvania insurance licensing requirements
 cluster: state-license-pennsylvania

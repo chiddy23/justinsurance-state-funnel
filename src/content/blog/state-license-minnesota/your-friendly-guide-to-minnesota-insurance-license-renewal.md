@@ -1,8 +1,8 @@
 ---
 title: Your Friendly Guide to Minnesota Insurance License Renewal
 description: >-
-  Streamline your Minnesota insurance license renewal with our guide and keep
-  your producer status active! Minnesota licensing expert advice.
+  Minnesota insurance license renewal: required prelicensing hours, exam
+  registration, state fees, application steps, and tips from licensed insurance
 keyword: minnesota insurance license renewal
 targetKeywords: minnesota insurance license renewal
 cluster: state-license-minnesota

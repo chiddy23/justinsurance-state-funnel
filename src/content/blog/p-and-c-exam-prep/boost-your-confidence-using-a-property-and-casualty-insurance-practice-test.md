@@ -1,8 +1,8 @@
 ---
 title: Boost Your Confidence Using a Property and Casualty Insurance Practice Test
 description: >-
-  Boost your confidence with our property and casualty insurance practice test
-  and ace your pre-licensing exam. Complete P&C exam prep guidance.
+  Property and casualty insurance practice test strategies from licensed agents:
+  how to study, common topics, practice question formats, and passing tips
 keyword: property and casualty insurance practice test
 targetKeywords: property and casualty insurance practice test
 cluster: p-and-c-exam-prep

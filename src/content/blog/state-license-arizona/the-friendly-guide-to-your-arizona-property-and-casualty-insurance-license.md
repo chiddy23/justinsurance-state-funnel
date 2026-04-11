@@ -1,8 +1,8 @@
 ---
 title: The Friendly Guide to Your Arizona Property and Casualty Insurance License
 description: >-
-  Get your Arizona property and casualty insurance license with friendly tips
-  and start your career. Arizona licensing expert guidance.
+  Arizona property and casualty insurance license: education hours, state exam
+  details, background check, application fees, and timeline from licensed
 keyword: arizona property and casualty insurance license
 targetKeywords: arizona property and casualty insurance license
 cluster: state-license-arizona

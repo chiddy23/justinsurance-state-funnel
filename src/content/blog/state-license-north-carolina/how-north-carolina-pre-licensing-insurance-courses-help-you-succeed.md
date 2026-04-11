@@ -1,8 +1,8 @@
 ---
 title: How North Carolina Pre-Licensing Insurance Courses Help You Succeed
 description: >-
-  Ace your exam and launch your career with north carolina pre-licensing
-  insurance courses for your success. North Carolina licensing tips.
+  S: north carolina pre-licensing insurance courses explained: CE hour totals,
+  approved course types, ethics mandates, and compliance deadlines for licensed
 keyword: 's: north carolina pre-licensing insurance courses'
 targetKeywords: north carolina pre-licensing insurance courses
 cluster: state-license-north-carolina

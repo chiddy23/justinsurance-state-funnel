@@ -1,8 +1,9 @@
 ---
 title: Stay Ahead with Minnesota Insurance License Continuing Education Essentials
 description: >-
-  Ace your Minnesota insurance license continuing education with friendly tips
-  to streamline your CE journey. Minnesota licensing expert advice.
+  Minnesota insurance license continuing education guide: required hours,
+  approved topics, ethics credits, online course options, and renewal filing
+  from
 keyword: minnesota insurance license continuing education
 targetKeywords: minnesota insurance license continuing education
 cluster: state-license-minnesota

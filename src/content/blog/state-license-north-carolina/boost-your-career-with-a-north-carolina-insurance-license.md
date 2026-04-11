@@ -1,8 +1,9 @@
 ---
 title: Boost Your Career with a North Carolina Insurance License
 description: >-
-  Boost your career with a north carolina insurance license—friendly guidance
-  and simple steps for your success. North Carolina licensing tips.
+  S: north carolina insurance license guide: course hours, exam fees,
+  application process, and timeline to get your license. Expert tips from
+  licensed
 keyword: 's: north carolina insurance license'
 targetKeywords: north carolina insurance license
 cluster: state-license-north-carolina

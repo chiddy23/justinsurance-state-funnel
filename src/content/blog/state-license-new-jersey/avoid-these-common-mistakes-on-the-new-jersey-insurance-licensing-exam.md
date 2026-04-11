@@ -1,8 +1,8 @@
 ---
 title: Avoid These Common Mistakes on the New Jersey Insurance Licensing Exam
 description: >-
-  Ace your New Jersey insurance licensing exam by avoiding common mistakes—boost
-  your confidence & pass. New Jersey licensing expert tips.
+  New jersey insurance licensing exam prep guide covering exam format, key
+  topics, study schedules, and practice questions to help you pass on your first
 keyword: new jersey insurance licensing exam prep
 targetKeywords: new jersey insurance pre-licensing courses
 cluster: state-license-new-jersey

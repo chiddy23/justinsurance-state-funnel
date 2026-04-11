@@ -1,8 +1,9 @@
 ---
 title: Top Georgia Insurance Continuing Education Courses You’ll Love
 description: >-
-  Elevate your career with Georgia insurance continuing education courses—easily
-  renew your license online. Georgia licensing expert advice.
+  Georgia insurance continuing education courses: total CE hours required,
+  ethics credit rules, approved course formats, and renewal filing steps for
+  2026.
 keyword: georgia insurance continuing education courses
 targetKeywords: georgia insurance continuing education
 cluster: state-license-georgia

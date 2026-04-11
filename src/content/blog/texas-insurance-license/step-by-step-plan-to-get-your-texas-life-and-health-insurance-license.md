@@ -1,8 +1,8 @@
 ---
 title: Step-by-Step Plan to Get Your Texas Life and Health Insurance License
 description: >-
-  Get your Texas life and health insurance license with our plan. Study, pass
-  the exam and launch your career! Expert Texas licensing guidance.
+  Texas life and health insurance license: education requirements, exam format,
+  background check process, application steps, and fees from licensed
 keyword: texas life and health insurance license
 targetKeywords: texas insurance license cost
 cluster: texas-insurance-license

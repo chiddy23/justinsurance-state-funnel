@@ -1,8 +1,8 @@
 ---
 title: Your Ultimate Checklist for Getting an Insurance License in Tennessee
 description: >-
-  Discover how to get an insurance license in Tennessee with your easy
-  step-by-step checklist today! Tennessee licensing expert guidance.
+  How to get an insurance license in tennessee: what you need to know about
+  prelicensing hours, exam costs, background checks, and the state application
 keyword: how to get an insurance license in tennessee
 targetKeywords: how to get an insurance license in tennessee
 cluster: state-license-tennessee

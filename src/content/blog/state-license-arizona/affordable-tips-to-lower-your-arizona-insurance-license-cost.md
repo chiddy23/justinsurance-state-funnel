@@ -1,8 +1,9 @@
 ---
 title: Affordable Tips to Lower Your Arizona Insurance License Cost
 description: >-
-  Save big on your Arizona insurance license cost with friendly, easy tips to
-  get licensed without high fees! Arizona licensing expert guidance.
+  Arizona insurance license application cost overview: prelicensing course
+  hours, exam registration, application process, and fees. Licensed agent
+  guidance
 keyword: arizona insurance license application cost
 targetKeywords: arizona insurance license application
 cluster: state-license-arizona

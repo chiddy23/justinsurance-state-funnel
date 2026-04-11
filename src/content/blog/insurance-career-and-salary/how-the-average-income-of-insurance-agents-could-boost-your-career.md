@@ -1,8 +1,8 @@
 ---
 title: How the Average Income of Insurance Agents Could Boost Your Career
 description: >-
-  Find out how the average income of insurance agents can boost your career and
-  maximize your earnings. Real insights from licensed agents.
+  Average income of insurance agents overview: salary ranges by specialty,
+  commission vs. base pay, and long-term earning potential from licensed agents.
 keyword: average income of insurance agents
 targetKeywords: average income of insurance agents
 cluster: insurance-career-and-salary

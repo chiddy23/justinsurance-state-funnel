@@ -1,8 +1,8 @@
 ---
 title: Build a Strong Client Base with Effective Business Planning
 description: >-
-  Grow your client base with friendly insurance agent business planning for
-  first-year wins. Career tips from industry experts.
+  Insurance agent business planning: what agents actually earn, commission
+  structures, income by specialty, and how to increase your earnings in 2026.
 keyword: insurance agent business planning
 targetKeywords: insurance agent business planning
 cluster: insurance-agent-career-guide

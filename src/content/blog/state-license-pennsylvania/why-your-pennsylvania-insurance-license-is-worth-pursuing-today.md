@@ -1,8 +1,8 @@
 ---
 title: Why Your Pennsylvania Insurance License Is Worth Pursuing Today
 description: >-
-  Easily get your Pennsylvania property and casualty license with our friendly
-  guide to breeze through your exam. Pennsylvania licensing expert tips.
+  Pennsylvania insurance license requirements — prelicensing hours, exam costs,
+  application steps, fingerprinting, and timeline explained by licensed
 keyword: pennsylvania insurance license requirements
 targetKeywords: pennsylvania property and casualty license
 cluster: state-license-pennsylvania

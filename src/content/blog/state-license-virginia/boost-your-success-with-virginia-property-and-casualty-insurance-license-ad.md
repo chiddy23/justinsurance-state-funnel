@@ -3,8 +3,8 @@ title: >-
   Boost Your Success with Virginia Property and Casualty Insurance License
   Advice
 description: >-
-  Boost your success with friendly advice to earn your Virginia property and
-  casualty insurance license. Virginia licensing expert tips.
+  Virginia property and casualty insurance license: how long it takes, what
+  courses you need, exam registration, fees, and application steps from licensed
 keyword: virginia property and casualty insurance license
 targetKeywords: virginia property and casualty insurance license
 cluster: state-license-virginia

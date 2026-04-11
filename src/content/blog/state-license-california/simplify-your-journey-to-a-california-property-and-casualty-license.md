@@ -1,8 +1,9 @@
 ---
 title: Simplify Your Journey to a California Property and Casualty License
 description: >-
-  Easily navigate your first steps to a California property and casualty license
-  with our friendly tips. California licensing expert tips.
+  California property and casualty license — prelicensing hours, exam costs,
+  application steps, fingerprinting, and timeline explained by licensed
+  insurance
 keyword: california property and casualty license
 targetKeywords: california property and casualty license
 cluster: state-license-california

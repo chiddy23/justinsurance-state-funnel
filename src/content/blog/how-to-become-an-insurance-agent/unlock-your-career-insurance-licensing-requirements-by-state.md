@@ -1,8 +1,9 @@
 ---
 title: 'Unlock Your Career: Insurance Licensing Requirements by State'
 description: >-
-  Discover insurance licensing requirements by state and launch your new career,
-  no experience needed! Step-by-step career guide.
+  Insurance licensing requirements by state guide: course hours, exam fees,
+  application process, and timeline to get your license. Expert tips from
+  licensed
 keyword: insurance licensing requirements by state
 targetKeywords: insurance licensing requirements by state
 cluster: how-to-become-an-insurance-agent

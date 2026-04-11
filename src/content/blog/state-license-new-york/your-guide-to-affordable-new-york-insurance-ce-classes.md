@@ -1,8 +1,8 @@
 ---
 title: Your Guide to Affordable New York Insurance CE Classes
 description: >-
-  Get affordable New York insurance CE to quickly earn your license and save on
-  course fees today. New York licensing expert guidance.
+  Affordable new york insurance ce: total CE hours required, ethics credit
+  rules, approved course formats, and renewal filing steps for 2026.
 keyword: affordable new york insurance ce
 targetKeywords: affordable new york insurance ce
 cluster: state-license-new-york

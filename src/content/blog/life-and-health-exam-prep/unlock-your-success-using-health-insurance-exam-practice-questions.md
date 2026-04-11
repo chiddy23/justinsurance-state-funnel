@@ -1,8 +1,8 @@
 ---
 title: Unlock Your Success Using Health Insurance Exam Practice Questions
 description: >-
-  Nail your life & health licensing exam with health insurance exam practice
-  questions and pass on first try. Expert tips from licensed agents.
+  Health insurance exam practice questions overview: exam format, passing score
+  requirements, key study areas, and preparation advice from licensed agents
 keyword: health insurance exam practice questions
 targetKeywords: health insurance exam practice questions
 cluster: life-and-health-exam-prep

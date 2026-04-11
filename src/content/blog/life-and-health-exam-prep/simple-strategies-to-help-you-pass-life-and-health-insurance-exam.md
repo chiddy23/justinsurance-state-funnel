@@ -1,8 +1,8 @@
 ---
 title: Simple Strategies to Help You Pass Life and Health Insurance Exam
 description: >-
-  Learn how to pass life and health insurance exam with easy tips to boost your
-  confidence and score. Expert tips from licensed agents.
+  How to pass life and health insurance exam: study strategies, key topic
+  breakdowns, practice questions, and what to expect on test day from licensed
 keyword: how to pass life and health insurance exam
 targetKeywords: how to pass life and health insurance exam
 cluster: life-and-health-exam-prep

@@ -1,8 +1,8 @@
 ---
 title: Master Your New York Insurance CE Deadlines With Ease
 description: >-
-  Stay on track with your New York insurance CE deadlines and breeze through
-  your requirements with confidence. New York licensing expert guidance.
+  New york insurance ce deadlines — how many credits you need, which providers
+  qualify, ethics hour rules, and renewal steps for licensed agents.
 keyword: new york insurance ce deadlines
 targetKeywords: new york insurance ce deadlines
 cluster: state-license-new-york

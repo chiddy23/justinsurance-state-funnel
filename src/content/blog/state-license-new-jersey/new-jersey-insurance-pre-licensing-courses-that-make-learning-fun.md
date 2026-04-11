@@ -1,8 +1,9 @@
 ---
 title: New Jersey Insurance Pre-Licensing Courses That Make Learning Fun
 description: >-
-  Discover fun New Jersey insurance pre-licensing courses to help you learn fast
-  and pass with ease. New Jersey licensing expert tips.
+  New jersey insurance pre-licensing courses online: process overview,
+  requirements, timelines, common pitfalls, and guidance from licensed insurance
+  agents
 keyword: new jersey insurance pre-licensing courses online
 targetKeywords: new jersey insurance pre-licensing courses
 cluster: state-license-new-jersey

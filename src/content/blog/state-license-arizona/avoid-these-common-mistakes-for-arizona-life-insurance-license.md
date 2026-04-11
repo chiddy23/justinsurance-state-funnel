@@ -1,8 +1,8 @@
 ---
 title: Avoid These Common Mistakes for Arizona Life Insurance License
 description: >-
-  Avoid common mistakes and breeze through your Arizona life insurance license
-  prep with our friendly guide. Arizona licensing expert guidance.
+  Arizona life insurance license — prelicensing hours, exam costs, application
+  steps, fingerprinting, and timeline explained by licensed insurance agents.
 keyword: arizona life insurance license
 targetKeywords: arizona life insurance license
 cluster: state-license-arizona

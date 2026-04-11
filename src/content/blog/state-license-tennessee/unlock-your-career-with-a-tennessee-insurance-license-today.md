@@ -1,8 +1,8 @@
 ---
 title: Unlock Your Career with a Tennessee Insurance License Today
 description: >-
-  Launch your insurance career by quickly earning a Tennessee insurance license
-  with our friendly guide. Tennessee licensing expert guidance.
+  Tennessee insurance license — prelicensing hours, exam costs, application
+  steps, fingerprinting, and timeline explained by licensed insurance agents.
 keyword: tennessee insurance license
 targetKeywords: tennessee insurance license
 cluster: state-license-tennessee

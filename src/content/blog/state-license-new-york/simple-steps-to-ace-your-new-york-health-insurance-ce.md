@@ -1,8 +1,9 @@
 ---
 title: Simple Steps to Ace Your New York Health Insurance CE
 description: >-
-  Ace your New York health insurance CE with simple, friendly steps and
-  fast-track your continuing ed success. New York licensing expert guidance.
+  New york health insurance ce breakdown: required credits, ethics hour
+  mandates, approved online providers, and renewal deadlines from licensed
+  agents.
 keyword: new york health insurance ce
 targetKeywords: new york health insurance ce
 cluster: state-license-new-york

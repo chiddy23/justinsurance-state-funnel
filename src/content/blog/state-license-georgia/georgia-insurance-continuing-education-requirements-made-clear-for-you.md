@@ -1,8 +1,8 @@
 ---
 title: Georgia Insurance Continuing Education Requirements Made Clear for You
 description: >-
-  Follow georgia insurance continuing education requirements to renew your
-  license with ease and peace of mind. Georgia licensing expert advice.
+  Georgia insurance continuing education requirements: total CE hours required,
+  ethics credit rules, approved course formats, and renewal filing steps for
 keyword: georgia insurance continuing education requirements
 targetKeywords: georgia insurance continuing education requirements
 cluster: state-license-georgia

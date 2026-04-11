@@ -1,8 +1,8 @@
 ---
 title: The Best Virginia Insurance License Types for New Agents
 description: >-
-  Unlock the best Virginia insurance license types for new agents and launch
-  your career with confidence! Virginia licensing expert tips.
+  Virginia insurance license types for new agents: education hours, state exam
+  details, background check, application fees, and timeline from licensed
 keyword: virginia insurance license types for new agents
 targetKeywords: virginia insurance licensing process
 cluster: state-license-virginia

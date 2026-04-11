@@ -1,8 +1,9 @@
 ---
 title: Your Ultimate Illinois Insurance License Comparison Guide
 description: >-
-  Your Ultimate Illinois Insurance License Comparison Guide. Illinois licensing
-  made simple. Read the full guide from JustInsurance.
+  Illinois insurance license comparison explained: prelicensing hours, exam
+  fees, application steps, and what to expect. Updated 2026 guidance from
+  licensed
 keyword: illinois insurance license comparison
 targetKeywords: illinois insurance license comparison
 cluster: state-license-illinois

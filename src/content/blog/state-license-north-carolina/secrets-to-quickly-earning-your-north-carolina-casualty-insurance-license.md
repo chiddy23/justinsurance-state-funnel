@@ -1,8 +1,8 @@
 ---
 title: Secrets to Quickly Earning Your North Carolina Casualty Insurance License
 description: >-
-  Discover how you can quickly earn your North Carolina casualty insurance
-  license with friendly expert tips. North Carolina licensing tips.
+  S: north carolina casualty insurance license: required education hours, exam
+  registration steps, application fees, and what to expect from licensed agents
 keyword: 's: north carolina casualty insurance license'
 targetKeywords: north carolina casualty insurance license
 cluster: state-license-north-carolina

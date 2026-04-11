@@ -1,8 +1,8 @@
 ---
 title: What You Need to Know About the Insurance License State Registration Process
 description: >-
-  Use your post insurance exam guide to breeze through licensing, submit your
-  application and start your career. Next steps after passing your exam.
+  Complete guide to insurance license state registration process: key topics
+  covered, step-by-step instructions, and expert advice from licensed insurance
 keyword: ''
 targetKeywords: insurance license state registration process
 cluster: insurance-education-what-to-do-after-passing-your-insurance-exam

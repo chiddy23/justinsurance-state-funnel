@@ -1,8 +1,9 @@
 ---
 title: Easy Steps to Know What It Takes to Be an Insurance Agent
 description: >-
-  Find out what does it take to be an insurance agent with easy steps to launch
-  your career in insurance. Step-by-step career guide.
+  What does it take to be an insurance agent walkthrough: what to expect,
+  step-by-step requirements, important deadlines, and advice from licensed
+  insurance
 keyword: what does it take to be an insurance agent
 targetKeywords: what does it take to be an insurance agent
 cluster: how-to-become-an-insurance-agent

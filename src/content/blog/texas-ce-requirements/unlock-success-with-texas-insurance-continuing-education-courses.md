@@ -1,8 +1,8 @@
 ---
 title: Unlock Success with Texas Insurance Continuing Education Courses
 description: >-
-  Unlock your success with Texas insurance continuing education courses for
-  licensed agents. Start now! Texas CE compliance guidance.
+  Texas insurance continuing education courses — how many credits you need,
+  which providers qualify, ethics hour rules, and renewal steps for licensed
 keyword: texas insurance continuing education courses
 targetKeywords: texas insurance continuing education courses
 cluster: texas-ce-requirements

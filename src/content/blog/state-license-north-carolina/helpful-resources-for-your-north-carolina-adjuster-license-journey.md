@@ -1,8 +1,8 @@
 ---
 title: Helpful Resources for Your North Carolina Adjuster License Journey
 description: >-
-  Kickstart your north carolina adjuster license with friendly tips and
-  essential pre-licensing resources. North Carolina licensing tips.
+  S: north carolina adjuster license: what you need to know about prelicensing
+  hours, exam costs, background checks, and the state application process in
 keyword: 's: north carolina adjuster license'
 targetKeywords: north carolina adjuster license
 cluster: state-license-north-carolina

@@ -1,8 +1,9 @@
 ---
 title: Get Ahead Fast with Michigan Insurance License Requirements Explained
 description: >-
-  Get ahead fast with Michigan insurance license requirements: friendly tips and
-  guidance to help you pass. Michigan licensing made easy.
+  S: michigan insurance license requirements: education hours, state exam
+  details, background check, application fees, and timeline from licensed
+  insurance
 keyword: 's: michigan insurance license requirements'
 targetKeywords: michigan insurance license requirements
 cluster: state-license-michigan

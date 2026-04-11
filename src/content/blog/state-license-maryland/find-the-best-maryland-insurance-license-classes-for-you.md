@@ -1,8 +1,9 @@
 ---
 title: Find the Best Maryland Insurance License Classes for You
 description: >-
-  Unlock your future with maryland insurance license classes designed just for
-  you in Baltimore-Washington! Maryland licensing expert tips.
+  Maryland insurance license classes online walkthrough: what to expect,
+  step-by-step requirements, important deadlines, and advice from licensed
+  insurance
 keyword: maryland insurance license classes online
 targetKeywords: maryland insurance license classes
 cluster: state-license-maryland

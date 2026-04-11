@@ -1,8 +1,8 @@
 ---
 title: How to Navigate the Illinois Insurance License Application with Confidence
 description: >-
-  How to Navigate the Illinois Insurance License Application with Confidence.
-  Illinois licensing made simple. Read the full guide from JustInsurance.
+  Illinois insurance license application: how long it takes, what courses you
+  need, exam registration, fees, and application steps from licensed agents in
 keyword: illinois insurance license application
 targetKeywords: illinois insurance license application
 cluster: state-license-illinois

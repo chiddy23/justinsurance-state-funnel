@@ -1,8 +1,9 @@
 ---
 title: How You Can Meet Texas Insurance CE Requirements Quickly
 description: >-
-  Quickly meet Texas insurance CE requirements with friendly tips on simple
-  courses tailored for your success. Texas CE compliance guidance.
+  Texas insurance ce requirements overview: required credits, approved
+  providers, renewal windows, and step-by-step compliance tips for insurance
+  license
 keyword: texas insurance ce requirements
 targetKeywords: texas insurance ce requirements
 cluster: texas-ce-requirements

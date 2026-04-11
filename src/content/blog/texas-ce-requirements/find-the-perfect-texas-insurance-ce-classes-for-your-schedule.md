@@ -1,8 +1,8 @@
 ---
 title: Find the Perfect Texas Insurance CE Classes for Your Schedule
 description: >-
-  Find texas insurance ce classes that fit your schedule and breeze through
-  credits with confidence. Texas CE compliance guidance.
+  Texas insurance ce classes for your schedule guide: required hours, approved
+  topics, ethics credits, online course options, and renewal filing from
 keyword: texas insurance ce classes for your schedule
 targetKeywords: texas insurance ce classes
 cluster: texas-ce-requirements

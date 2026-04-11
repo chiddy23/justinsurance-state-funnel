@@ -1,8 +1,8 @@
 ---
 title: Your Friendly Guide to New York Insurance CE Renewal Success
 description: >-
-  Breeze through your New York insurance CE renewal with friendly tips to keep
-  your license active. New York licensing expert guidance.
+  New york insurance ce renewal guide: required hours, approved topics, ethics
+  credits, online course options, and renewal filing from licensed agents.
 keyword: new york insurance ce renewal
 targetKeywords: new york insurance ce renewal
 cluster: state-license-new-york

@@ -245,7 +245,7 @@ export default async function StateHubPage({
       </section>
 
       {/* Fix 4 — Lead testimonial uses state-matched data */}
-      <TestimonialCards leadTestimonial={stateData.stateTestimonial} />
+      <TestimonialCards leadTestimonial={stateData.stateTestimonial} seed={stateData.slug} />
 
       <FAQAccordion faqs={faqs} heading={`${stateData.name} Insurance License FAQs`} />
 

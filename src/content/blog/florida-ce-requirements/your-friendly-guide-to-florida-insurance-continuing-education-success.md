@@ -1,8 +1,8 @@
 ---
 title: Your Friendly Guide to Florida Insurance Continuing Education Success
 description: >-
-  Master Florida insurance continuing education with our friendly guide of smart
-  tips and practice questions. Florida CE renewal made easy.
+  Florida insurance continuing education: how many hours you need, which courses
+  qualify, ethics requirements, and how to file your renewal on time.
 keyword: florida insurance continuing education
 targetKeywords: florida insurance continuing education providers
 cluster: florida-ce-requirements

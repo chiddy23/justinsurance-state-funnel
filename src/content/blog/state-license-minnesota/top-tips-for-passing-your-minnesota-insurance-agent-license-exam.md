@@ -1,8 +1,8 @@
 ---
 title: Top Tips for Passing Your Minnesota Insurance Agent License Exam
 description: >-
-  Friendly tips to ace your Minnesota insurance agent license exam and launch
-  your dream insurance career. Minnesota licensing expert advice.
+  Minnesota insurance agent license breakdown: education requirements, exam
+  details, application steps, and licensing fees. Updated 2026 from licensed
 keyword: minnesota insurance agent license
 targetKeywords: minnesota insurance agent license
 cluster: state-license-minnesota

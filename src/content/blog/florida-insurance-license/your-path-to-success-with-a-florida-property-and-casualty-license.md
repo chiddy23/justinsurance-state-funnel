@@ -1,8 +1,8 @@
 ---
 title: Your Path to Success with a Florida Property and Casualty License
 description: >-
-  Unlock your Florida life insurance license hassle-free with clear steps,
-  expert study tips, and exam success. Licensed agent insights for Florida.
+  Florida property and casualty license: how long it takes, what courses you
+  need, exam registration, fees, and application steps from licensed agents in
 keyword: florida property and casualty license
 targetKeywords: florida life insurance license
 cluster: florida-insurance-license

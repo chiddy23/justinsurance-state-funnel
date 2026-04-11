@@ -1,8 +1,8 @@
 ---
 title: Win Big with Friendly Property and Casualty Exam Prep Advice
 description: >-
-  Ace your property and casualty exam prep with friendly tips to boost your
-  confidence and pass with ease. Complete P&C exam prep guidance.
+  Property and casualty exam prep: what to study, how the exam is structured,
+  common question types, and preparation strategies from licensed agents.
 keyword: property and casualty exam prep
 targetKeywords: property and casualty exam prep
 cluster: p-and-c-exam-prep

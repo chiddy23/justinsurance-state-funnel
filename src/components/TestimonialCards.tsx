@@ -15,7 +15,104 @@ const GENERIC_TESTIMONIALS = [
     stars: 5,
     initials: "DR",
   },
+  {
+    name: "Sarah K.",
+    role: "Health Insurance Agent",
+    text: "The video lessons broke down complicated regulations into plain language. I felt genuinely prepared walking into the exam room.",
+    stars: 5,
+    initials: "SK",
+  },
+  {
+    name: "Marcus T.",
+    role: "Life & Health Agent",
+    text: "Flashcards and chapter quizzes made retention effortless. Finished my prelicensing in two weeks while working full time.",
+    stars: 5,
+    initials: "MT",
+  },
+  {
+    name: "Rebecca L.",
+    role: "Licensed Producer",
+    text: "Pass guarantee gave me total peace of mind. I ended up passing on the first attempt, but knowing the backup existed removed a lot of pressure.",
+    stars: 5,
+    initials: "RL",
+  },
+  {
+    name: "Thomas B.",
+    role: "Insurance Professional",
+    text: "Customer support answered my state-specific questions within hours. That level of responsiveness is rare in an online course platform.",
+    stars: 5,
+    initials: "TB",
+  },
+  {
+    name: "Amanda W.",
+    role: "Health Agent",
+    text: "I tried two other courses before finding JustInsurance. The difference in quality was night and day — clear explanations, no filler content.",
+    stars: 5,
+    initials: "AW",
+  },
+  {
+    name: "Christopher H.",
+    role: "Insurance Agent",
+    text: "The practice exams felt like the real thing. By test day I had taken so many mock exams that I was completely calm under pressure.",
+    stars: 5,
+    initials: "CH",
+  },
+  {
+    name: "Nicole D.",
+    role: "Licensed Professional",
+    text: "Mobile-friendly format meant I could squeeze in study sessions during my lunch breaks. Got licensed in under a month without quitting my day job.",
+    stars: 5,
+    initials: "ND",
+  },
+  {
+    name: "Michael P.",
+    role: "Insurance Producer",
+    text: "I appreciated that the course covered exactly what the state exam tests — nothing more, nothing less. No time wasted on irrelevant material.",
+    stars: 5,
+    initials: "MP",
+  },
+  {
+    name: "Jessica R.",
+    role: "Life Insurance Agent",
+    text: "The self-paced structure let me rewatch any lesson as many times as I needed. Totally worth it for someone balancing family and studying.",
+    stars: 5,
+    initials: "JR",
+  },
+  {
+    name: "Daniel F.",
+    role: "Insurance Specialist",
+    text: "Enrollment took five minutes, the content was immediately available, and I passed my exam three weeks later. Smooth from start to finish.",
+    stars: 5,
+    initials: "DF",
+  },
+  {
+    name: "Lauren G.",
+    role: "Property & Casualty Agent",
+    text: "JustInsurance's practice tests nailed the question style and difficulty of my actual state exam. First attempt, passing score.",
+    stars: 5,
+    initials: "LG",
+  },
+  {
+    name: "Kevin S.",
+    role: "Licensed Insurance Agent",
+    text: "The course organized every topic exactly the way the state exam breaks it down. Studying felt efficient rather than overwhelming.",
+    stars: 5,
+    initials: "KS",
+  },
 ];
+
+type Testimonial = (typeof GENERIC_TESTIMONIALS)[number];
+
+function pickGenericPair(seed: string, pool: Testimonial[]): Testimonial[] {
+  // Simple deterministic hash so same state always gets same pair
+  let h = 0;
+  for (let i = 0; i < seed.length; i++) h = ((h << 5) - h + seed.charCodeAt(i)) | 0;
+  const idx1 = Math.abs(h) % pool.length;
+  const idx2 = (Math.abs(h) + 7) % pool.length;
+  // Ensure different items
+  const second = idx2 === idx1 ? (idx2 + 1) % pool.length : idx2;
+  return [pool[idx1], pool[second]];
+}
 
 const CE_TESTIMONIALS = [
   {
@@ -43,6 +140,7 @@ export interface LeadTestimonial {
 interface TestimonialCardsProps {
   leadTestimonial?: LeadTestimonial;
   variant?: "prelicensing" | "ce";
+  seed?: string;
 }
 
 function StarRating({ count }: { count: number }) {
@@ -98,7 +196,7 @@ function getInitials(name: string): string {
     .slice(0, 2);
 }
 
-export default function TestimonialCards({ leadTestimonial, variant = "prelicensing" }: TestimonialCardsProps) {
+export default function TestimonialCards({ leadTestimonial, variant = "prelicensing", seed }: TestimonialCardsProps) {
   const isCE = variant === "ce";
 
   const heading = isCE ? "What Our Agents Say" : "What Our Students Say";
@@ -147,7 +245,7 @@ export default function TestimonialCards({ leadTestimonial, variant = "prelicens
           ) : (
             defaultLead
           )}
-          {genericTestimonials.map((t) => (
+          {(seed ? pickGenericPair(seed, genericTestimonials) : genericTestimonials.slice(0, 2)).map((t) => (
             <TestimonialCard
               key={t.name}
               name={t.name}

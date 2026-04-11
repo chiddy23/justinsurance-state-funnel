@@ -1,8 +1,9 @@
 ---
 title: Your Simple Guide to the Insurance License Submission Process
 description: >-
-  Simplify your insurance license submission process with friendly guidance to
-  secure your license fast. Next steps after passing your exam.
+  Insurance license compliance tips — prelicensing hours, exam costs,
+  application steps, fingerprinting, and timeline explained by licensed
+  insurance agents.
 keyword: ''
 targetKeywords: insurance license compliance tips
 cluster: insurance-education-what-to-do-after-passing-your-insurance-exam

@@ -1,8 +1,8 @@
 ---
 title: What Every New Agent Should Know About Insurance License Renewal Requirements
 description: >-
-  Navigate insurance license renewal requirements with friendly tips to keep
-  your license active. Next steps after passing your exam.
+  Insurance license renewal requirements: education hours, state exam details,
+  background check, application fees, and timeline from licensed insurance
 keyword: ''
 targetKeywords: insurance license renewal requirements
 cluster: insurance-education-what-to-do-after-passing-your-insurance-exam

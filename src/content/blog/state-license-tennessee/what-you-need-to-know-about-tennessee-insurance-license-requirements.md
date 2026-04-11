@@ -1,8 +1,8 @@
 ---
 title: What You Need to Know About Tennessee Insurance License Requirements
 description: >-
-  Meet Tennessee insurance license requirements with ease and start your
-  insurance career today. Tennessee licensing expert guidance.
+  Tennessee insurance license requirements explained: prelicensing hours, exam
+  fees, application steps, and what to expect. Updated 2026 guidance from
 keyword: tennessee insurance license requirements
 targetKeywords: tennessee insurance license requirements
 cluster: state-license-tennessee

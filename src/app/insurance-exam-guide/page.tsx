@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import Link from "next/link";
 
@@ -46,6 +47,22 @@ const faqs = [
 ];
 
 const faqSchema = generateFAQSchema(faqs);
+
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: "The Key To Passing Your Insurance Exam On The First Try",
+  description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
+  thumbnailUrl: `https://i.ytimg.com/vi/guiU55wnIqc/hqdefault.jpg`,
+  uploadDate: "2024-01-01",
+  contentUrl: `https://www.youtube.com/watch?v=guiU55wnIqc`,
+  embedUrl: `https://www.youtube-nocookie.com/embed/guiU55wnIqc`,
+  publisher: {
+    "@type": "Organization",
+    name: "JustInsurance LLC",
+    url: "https://justinsuranceco.com",
+  },
+};
 
 const examTopics = [
   {
@@ -122,6 +139,7 @@ export default function InsuranceExamGuidePage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={videoSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -332,6 +350,8 @@ export default function InsuranceExamGuidePage() {
           </Link>
         </div>
       </section>
+
+      <YouTubeEmbed videoId="guiU55wnIqc" title="The Key To Passing Your Insurance Exam On The First Try" />
 
       {/* FAQ */}
       <FAQAccordion faqs={faqs} heading="Insurance Exam FAQ" />

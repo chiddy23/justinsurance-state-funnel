@@ -3,6 +3,7 @@ import Link from "next/link";
 import { STATES } from "@/lib/states";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
 const PAGE_TITLE = "Insurance Prelicensing Courses | $199 | JustInsurance";
@@ -59,6 +60,22 @@ const stats = [
   { value: "1–3 wks", label: "Avg. completion time", sub: "Fully self-paced, no deadlines" },
 ];
 
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: "Pass Your Life & Health Insurance Exam — Full Live Class",
+  description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
+  thumbnailUrl: `https://i.ytimg.com/vi/sjk5B8bdO68/hqdefault.jpg`,
+  uploadDate: "2024-01-01",
+  contentUrl: `https://www.youtube.com/watch?v=sjk5B8bdO68`,
+  embedUrl: `https://www.youtube-nocookie.com/embed/sjk5B8bdO68`,
+  publisher: {
+    "@type": "Organization",
+    name: "JustInsurance LLC",
+    url: "https://justinsuranceco.com",
+  },
+};
+
 export default function PrelicensingPage() {
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -74,6 +91,7 @@ export default function PrelicensingPage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={videoSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -185,6 +203,8 @@ export default function PrelicensingPage() {
           </div>
         </div>
       </section>
+
+      <YouTubeEmbed videoId="sjk5B8bdO68" title="Pass Your Life & Health Insurance Exam — Full Live Class" />
 
       <CTABanner
         title="Ready to Start Your Prelicensing Course?"

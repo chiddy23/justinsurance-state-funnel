@@ -105,7 +105,7 @@ const renewalSteps = [
   {
     step: "1",
     title: "Complete Your CE Hours",
-    body: "Enroll in a JustInsurance CE package for your state. All courses are online and self-paced — complete them on your schedule, from any device. Most agents finish their required hours in one or two evenings.",
+    body: "Enroll in a JustInsurance CE package for your state. All courses are online and self-paced — complete them on your schedule, from any device. Study at your own pace over days or weeks.",
   },
   {
     step: "2",

@@ -5,6 +5,8 @@ import Image from "next/image";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 import { getAllClusters, getClusterBySlug } from "@/lib/blog";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
+import videoData from "@/lib/youtube-videos.json";
 
 // ---------------------------------------------------------------------------
 // Static params
@@ -105,6 +107,9 @@ export default async function ClusterPage({
   const cluster = getClusterBySlug(clusterSlug);
   if (!cluster) notFound();
 
+  const videoKey = `/blog/${clusterSlug}`;
+  const video = (videoData as Record<string, { videoId: string; title: string }>)[videoKey] ?? null;
+
   // Clean cluster name for display (strip editorial prefixes)
   const cleanName = cluster.name
     .replace(/^Insurance Education\s*>\s*[^>]+>\s*/i, "")
@@ -143,6 +148,23 @@ export default async function ClusterPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={collectionSchema} />
+      {video && (
+        <SchemaMarkup schema={{
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          name: video.title,
+          description: `Insurance exam prep video from the Insurance Exam Prep YouTube channel.`,
+          thumbnailUrl: `https://i.ytimg.com/vi/${video.videoId}/hqdefault.jpg`,
+          uploadDate: "2024-01-01",
+          contentUrl: `https://www.youtube.com/watch?v=${video.videoId}`,
+          embedUrl: `https://www.youtube-nocookie.com/embed/${video.videoId}`,
+          publisher: {
+            "@type": "Organization",
+            name: "JustInsurance LLC",
+            url: "https://justinsuranceco.com",
+          },
+        }} />
+      )}
       <BreadcrumbNav crumbs={crumbs} />
 
       {/* Hero */}
@@ -199,6 +221,8 @@ export default async function ClusterPage({
           </div>
         </div>
       </section>
+
+      {video && <YouTubeEmbed videoId={video.videoId} title={video.title} />}
 
       {/* Back to Blog */}
       <section className="bg-gray-bg py-10 px-4">

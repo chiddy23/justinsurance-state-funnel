@@ -3,6 +3,7 @@ import Link from "next/link";
 import { STATES } from "@/lib/states";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
 const PAGE_TITLE = "Life Insurance License Courses | $199 | JustInsurance";
@@ -59,6 +60,22 @@ const stats = [
   { value: "$100K+", label: "Top producer income", sub: "Avg. annual earnings for experienced agents" },
 ];
 
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: "30 MORE Life Insurance Exam Terms You MUST Know (in UNDER 30 Minutes)",
+  description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
+  thumbnailUrl: `https://i.ytimg.com/vi/dl3L1bb6hMA/hqdefault.jpg`,
+  uploadDate: "2024-01-01",
+  contentUrl: `https://www.youtube.com/watch?v=dl3L1bb6hMA`,
+  embedUrl: `https://www.youtube-nocookie.com/embed/dl3L1bb6hMA`,
+  publisher: {
+    "@type": "Organization",
+    name: "JustInsurance LLC",
+    url: "https://justinsuranceco.com",
+  },
+};
+
 export default function LifeInsuranceLicensePage() {
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -74,6 +91,7 @@ export default function LifeInsuranceLicensePage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={videoSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -185,6 +203,8 @@ export default function LifeInsuranceLicensePage() {
           </div>
         </div>
       </section>
+
+      <YouTubeEmbed videoId="dl3L1bb6hMA" title="30 MORE Life Insurance Exam Terms You MUST Know (in UNDER 30 Minutes)" />
 
       <CTABanner
         title="Start Your Life Insurance Career Today"

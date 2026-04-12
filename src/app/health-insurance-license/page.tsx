@@ -3,6 +3,7 @@ import Link from "next/link";
 import { STATES } from "@/lib/states";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
 const PAGE_TITLE = "Health Insurance License Courses | $199 | JustInsurance";
@@ -59,6 +60,22 @@ const stats = [
   { value: "10,000+", label: "Medicare enrollees per day", sub: "Turning 65 in the U.S. daily" },
 ];
 
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: "Health Insurance Exam Practice Questions (30 MUST-KNOW) — Part 2",
+  description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
+  thumbnailUrl: `https://i.ytimg.com/vi/VqyHMiRvKSU/hqdefault.jpg`,
+  uploadDate: "2024-01-01",
+  contentUrl: `https://www.youtube.com/watch?v=VqyHMiRvKSU`,
+  embedUrl: `https://www.youtube-nocookie.com/embed/VqyHMiRvKSU`,
+  publisher: {
+    "@type": "Organization",
+    name: "JustInsurance LLC",
+    url: "https://justinsuranceco.com",
+  },
+};
+
 export default function HealthInsuranceLicensePage() {
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -74,6 +91,7 @@ export default function HealthInsuranceLicensePage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={videoSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -185,6 +203,8 @@ export default function HealthInsuranceLicensePage() {
           </div>
         </div>
       </section>
+
+      <YouTubeEmbed videoId="VqyHMiRvKSU" title="Health Insurance Exam Practice Questions (30 MUST-KNOW) — Part 2" />
 
       <CTABanner
         title="Ready to Enter the Health Insurance Market?"

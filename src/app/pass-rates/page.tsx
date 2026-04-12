@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
@@ -14,6 +15,22 @@ const breadcrumbSchema = generateBreadcrumbSchema([
   { name: "Home", url: "https://justinsuranceco.com/" },
   { name: "Pass Rates", url: "https://justinsuranceco.com/pass-rates" },
 ]);
+
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: "Pass Your Life & Health Exam Using ONLY AI",
+  description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
+  thumbnailUrl: `https://i.ytimg.com/vi/eoAHA07LXeI/hqdefault.jpg`,
+  uploadDate: "2024-01-01",
+  contentUrl: `https://www.youtube.com/watch?v=eoAHA07LXeI`,
+  embedUrl: `https://www.youtube-nocookie.com/embed/eoAHA07LXeI`,
+  publisher: {
+    "@type": "Organization",
+    name: "JustInsurance LLC",
+    url: "https://justinsuranceco.com",
+  },
+};
 
 const features = [
   {
@@ -47,6 +64,7 @@ export default function PassRatesPage() {
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
+      <SchemaMarkup schema={videoSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -193,6 +211,8 @@ export default function PassRatesPage() {
           </p>
         </div>
       </section>
+
+      <YouTubeEmbed videoId="eoAHA07LXeI" title="Pass Your Life & Health Exam Using ONLY AI" />
 
       {/* CTA */}
       <CTABanner

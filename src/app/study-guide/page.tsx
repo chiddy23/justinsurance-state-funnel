@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import Link from "next/link";
 
@@ -41,6 +42,22 @@ const faqs = [
 ];
 
 const faqSchema = generateFAQSchema(faqs);
+
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: "HMO vs. PPO — What's The Difference?",
+  description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
+  thumbnailUrl: `https://i.ytimg.com/vi/fAhk1eLT6tE/hqdefault.jpg`,
+  uploadDate: "2024-01-01",
+  contentUrl: `https://www.youtube.com/watch?v=fAhk1eLT6tE`,
+  embedUrl: `https://www.youtube-nocookie.com/embed/fAhk1eLT6tE`,
+  publisher: {
+    "@type": "Organization",
+    name: "JustInsurance LLC",
+    url: "https://justinsuranceco.com",
+  },
+};
 
 const goals = [
   {
@@ -105,6 +122,7 @@ export default function StudyGuidePage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={videoSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -217,6 +235,8 @@ export default function StudyGuidePage() {
           </div>
         </div>
       </section>
+
+      <YouTubeEmbed videoId="fAhk1eLT6tE" title="HMO vs. PPO — What's The Difference?" />
 
       {/* FAQ */}
       <FAQAccordion faqs={faqs} heading="Insurance Exam Study Guide FAQ" />

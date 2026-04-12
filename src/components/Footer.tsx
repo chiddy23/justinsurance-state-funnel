@@ -175,7 +175,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-navy-light mt-10 pt-6 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm text-center sm:text-left">
-            &copy; {new Date().getFullYear()} JustInsurance LLC / Your Insurance License. All rights reserved.
+            &copy; {new Date().getFullYear()} JustInsurance LLC. All rights reserved.
           </p>
           <p className="text-gray-500 text-xs text-center">
             State-approved insurance education since 2017 &mdash; 30,000+ students licensed

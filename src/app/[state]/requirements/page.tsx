@@ -30,7 +30,7 @@ export async function generateMetadata({
     description: `Complete ${stateData.name} insurance license requirements: prelicensing hours, exam details, fingerprinting, CE renewal, and special training. Updated ${stateData.lastVerified}.`,
     robots: "index, follow",
     alternates: {
-      canonical: `https://justinsuranceco.com/${stateData.slug}/requirements/`,
+      canonical: `https://justinsuranceco.com/${stateData.slug}/requirements`,
     },
     openGraph: {
       title: `${stateData.name} Insurance License Requirements 2026`,

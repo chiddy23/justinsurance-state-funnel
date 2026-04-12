@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     "JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% student pass rate, 30,000+ agents trained across 50 states.",
   robots: "index, follow",
   alternates: {
-    canonical: "https://justinsuranceco.com/press/",
+    canonical: "https://justinsuranceco.com/press",
   },
   openGraph: {
     title: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",

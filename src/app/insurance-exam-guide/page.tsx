@@ -9,7 +9,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: { absolute: "Insurance Licensing Exam Guide 2026 | JustInsurance" },
   description:
-    "Complete guide to the insurance licensing exam. Format, scoring, study tips, what to expect on test day. 93% pass rate.",
+    "Complete guide to the insurance licensing exam: format, scoring, study tips, and what to expect on test day. 93% JustInsurance student pass rate.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-exam-guide" },
 };
 

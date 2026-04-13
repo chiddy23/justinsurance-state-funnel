@@ -6,14 +6,14 @@ import Link from "next/link";
 const RESOURCES_LINKS = [
   { label: "About Us", href: "/about" },
   { label: "Blog", href: "/blog" },
-  { label: "Exam Guide", href: "/insurance-exam-guide/" },
-  { label: "Study Guide", href: "/study-guide/" },
-  { label: "Renewal Guide", href: "/license-renewal-guide/" },
-  { label: "FAQ", href: "/faq/" },
-  { label: "Pass Rates", href: "/pass-rates/" },
+  { label: "Exam Guide", href: "/insurance-exam-guide" },
+  { label: "Study Guide", href: "/study-guide" },
+  { label: "Renewal Guide", href: "/license-renewal-guide" },
+  { label: "FAQ", href: "/faq" },
+  { label: "Pass Rates", href: "/pass-rates" },
   { label: "Partner With Us", href: "/partners" },
   { label: "Partner Resources", href: "/partner-resources" },
-  { label: "Press & Media", href: "/press/" },
+  { label: "Press & Media", href: "/press" },
   { label: "Contact", href: "/contact" },
 ];
 

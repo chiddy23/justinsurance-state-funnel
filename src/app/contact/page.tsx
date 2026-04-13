@@ -108,7 +108,7 @@ export default function ContactPage() {
                 754-223-9744
               </a>
               <p className="text-gray-500 text-sm mt-2">
-                Monday–Friday, 9am–6pm ET
+                Monday–Sunday, 8am–8pm ET
               </p>
             </div>
 

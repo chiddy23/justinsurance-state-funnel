@@ -6,7 +6,7 @@ import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
-const PAGE_TITLE = "Insurance Prelicensing Courses | $199 | JustInsurance";
+const PAGE_TITLE = "Insurance Prelicensing Courses | All 50 States | JustInsurance";
 const PAGE_DESC =
   "State-approved insurance prelicensing courses online. $199, pass guarantee. Life, health, and combined. Start in any of 50 states.";
 const CANONICAL = "https://justinsuranceco.com/prelicensing";

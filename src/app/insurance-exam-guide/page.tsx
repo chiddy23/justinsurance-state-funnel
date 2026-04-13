@@ -7,9 +7,9 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance Licensing Exam Guide 2026 | JustInsurance" },
+  title: { absolute: "Insurance License Exam Guide 2026 | How to Pass | JustInsurance" },
   description:
-    "Complete guide to the insurance licensing exam: format, scoring, study tips, and what to expect on test day. 93% JustInsurance student pass rate.",
+    "Everything you need to pass your insurance license exam. State-by-state exam details, Pearson VUE and PSI prep tips, practice questions, and pass rate data.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-exam-guide" },
 };
 

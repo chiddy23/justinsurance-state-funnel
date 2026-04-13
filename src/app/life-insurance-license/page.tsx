@@ -6,7 +6,7 @@ import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
-const PAGE_TITLE = "Life Insurance License Courses | $199 | JustInsurance";
+const PAGE_TITLE = "Life Insurance License Course | Online | JustInsurance";
 const PAGE_DESC =
   "Get your life insurance license online. $199 state-approved prelicensing with pass guarantee. Self-paced courses available in all 50 states. Enroll today.";
 const CANONICAL = "https://justinsuranceco.com/life-insurance-license";

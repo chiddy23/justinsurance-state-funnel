@@ -5,8 +5,8 @@ import TrustBar from "@/components/TrustBar";
 import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 
-const homeTitle = "Online Insurance License Courses | $199 | JustInsurance";
-const homeDesc = "Get your insurance license online. $199 prelicensing, $39 CE in 50 states. Pass guarantee, same-day reporting. Enroll now.";
+const homeTitle = "Insurance Prelicensing & CE Courses | JustInsurance";
+const homeDesc = "State-approved insurance prelicensing and CE courses for all 50 states. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.";
 
 export const metadata: Metadata = {
   title: { absolute: homeTitle },

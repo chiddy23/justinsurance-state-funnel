@@ -4,9 +4,9 @@ import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance Licensing FAQ | JustInsurance" },
+  title: { absolute: "Insurance License FAQ | Common Questions | JustInsurance" },
   description:
-    "Frequently asked questions about insurance licensing, prelicensing courses, CE renewal, and JustInsurance. Get answers fast.",
+    "Answers to the most common insurance licensing questions — requirements, exam scheduling, CE hours, costs, and how to apply in your state.",
   alternates: { canonical: "https://justinsuranceco.com/faq" },
 };
 

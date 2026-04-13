@@ -31,50 +31,48 @@ function buildTitle(
 
   // Target: 45-61 characters. Use abbreviation for long state names to stay under limit.
   const brand = "JustInsurance";
-  let title: string;
-  switch (pageType) {
-    case "home":
-      title = `Online Insurance License Courses | $199 | ${brand}`;
-      break;
-    case "state-hub":
-      title = `${stateName} Insurance License | $199 | ${brand}`;
-      break;
-    case "prelicensing-hub":
-      title = `${stateName} Insurance Prelicensing Course Online | ${brand}`;
-      break;
-    case "ce-hub":
-      title = `${stateName} Insurance CE Courses Online | ${brand}`;
-      break;
-    case "prelicensing-course":
-      title = `${stateName} ${loaName} Prelicensing Course | $199 | ${brand}`;
-      break;
-    case "ce-course":
-      title = `${stateName} ${loaName} CE Course | $39 | ${brand}`;
-      break;
-  }
+  // Build title candidates ordered by preference — pick first that fits ≤60 chars.
+  // Strategy: keyword-rich primary, progressively shorter fallbacks.
+  const hours = params.hours;
+  const hourStr = hours ? `${hours} Hours` : "";
 
-  // Trim if over 60 chars: drop price to fit
-  if (title.length > 60) {
-    switch (pageType) {
-      case "state-hub":
-        title = `${stateName} Insurance License Online | ${brand}`;
-        break;
-      case "prelicensing-hub":
-        title = `${stateName} Prelicensing Course Online | ${brand}`;
-        break;
-      case "ce-hub":
-        title = `${stateName} CE Courses | $39 | ${brand}`;
-        break;
-      case "prelicensing-course":
-        title = `${stateName} ${loaName} Prelicensing | ${brand}`;
-        break;
-      case "ce-course":
-        title = `${stateName} ${loaName} CE Course | ${brand}`;
-        break;
-      default:
-        break;
-    }
-  }
+  const candidatesByType: Record<PageType, string[]> = {
+    home: [
+      `Insurance Prelicensing & CE Courses | ${brand}`,
+    ],
+    "state-hub": [
+      `${stateName} Insurance License | State-Approved | ${brand}`,
+      `${stateName} Insurance License Course | ${brand}`,
+      `${stateName} Insurance License | ${brand}`,
+    ],
+    "prelicensing-hub": [
+      `${stateName} Insurance Prelicensing | ${hourStr} | ${brand}`,
+      `${stateName} Insurance Prelicensing Course | ${brand}`,
+      `${stateName} Prelicensing Course | ${brand}`,
+    ].filter(t => !t.includes("| |")), // remove empty hours variant
+    "ce-hub": [
+      `${stateName} Insurance CE | Same-Day Reporting | ${brand}`,
+      `${stateName} Insurance CE Courses | ${brand}`,
+      `${stateName} CE Courses | ${brand}`,
+    ],
+    "prelicensing-course": [
+      `${stateName} ${loaName} Prelicensing Course | $199 | ${brand}`,
+      `${stateName} ${loaName} Prelicensing Course | ${brand}`,
+      `${stateName} ${loaName} Prelicensing | ${brand}`,
+    ],
+    "ce-course": [
+      `${stateName} ${loaName} CE | Same-Day Reporting | ${brand}`,
+      `${stateName} ${loaName} CE Course | ${brand}`,
+      `${stateName} ${loaName} CE | ${brand}`,
+    ],
+  };
+
+  const candidates = candidatesByType[pageType];
+  // Pick first candidate in 45-60 range, fallback to first under 60.
+  const title =
+    candidates.find((c) => c.length >= 45 && c.length <= 60) ||
+    candidates.find((c) => c.length <= 60) ||
+    candidates[candidates.length - 1].slice(0, 57) + "...";
 
   return { absolute: title };
 }
@@ -86,19 +84,25 @@ function buildDescription(
   // All descriptions target ≤ 160 characters.
   const { stateName = "", loaName = "" } = params;
 
+  // Descriptions: 120-155 chars, include 2+ conversion signals (93% pass rate, $199, pass guarantee, state-approved, same-day reporting).
+  const hours = params.hours;
+
   switch (pageType) {
     case "home":
-      return "Get your insurance license online. $199 prelicensing, $39 CE in 50 states. Pass guarantee, same-day reporting. Enroll now.";
+      return "State-approved insurance prelicensing and CE courses for all 50 states. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.";
     case "state-hub":
-      return `Get your ${stateName} insurance license online. $199 prelicensing, $39 CE. Pass guarantee, same-day DOI reporting. Enroll today.`;
-    case "prelicensing-hub":
-      return `Get your ${stateName} insurance license online. State-approved prelicensing, $199, pass guarantee. Self-paced with practice exams. Enroll now.`;
+      return `Get your ${stateName} insurance license online. State-approved prelicensing and CE, 93% pass rate, same-day CE reporting. Pass guarantee — from $199.`;
+    case "prelicensing-hub": {
+      const h = hours ? `${hours}-hour ` : "";
+      const desc = `Complete your ${stateName} insurance prelicensing requirement online. ${h}State-approved course, self-paced, practice exams included. 93% pass rate. $199.`;
+      return desc.length <= 155 ? desc : `Complete your ${stateName} insurance prelicensing online. State-approved, self-paced, 93% pass rate, pass guarantee. $199.`;
+    }
     case "ce-hub":
-      return `${stateName} insurance CE courses online. $39, same-day DOI reporting. Renew your license fast with JustInsurance.`;
+      return `Renew your ${stateName} insurance license with state-approved CE courses. Complete online at your own pace, same-day DOI reporting. From $39.`;
     case "prelicensing-course":
-      return `${stateName} ${loaName} prelicensing course online. $199, state-approved, pass guarantee. Self-paced with practice exams. Enroll with JustInsurance.`;
+      return `${stateName} ${loaName} insurance prelicensing course online. $199, state-approved, 93% pass rate, pass guarantee. Self-paced with practice exams.`;
     case "ce-course":
-      return `${stateName} ${loaName} CE course. $39, same-day DOI reporting, self-paced online. Renew with JustInsurance today.`;
+      return `${stateName} ${loaName} CE course online. Same-day DOI reporting, self-paced, state-approved. Renew your insurance license with JustInsurance. From $39.`;
   }
 }
 

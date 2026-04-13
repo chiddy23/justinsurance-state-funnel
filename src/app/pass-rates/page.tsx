@@ -5,9 +5,9 @@ import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance Exam Pass Rates | 93% Pass Rate | JustInsurance" },
+  title: { absolute: "Insurance Exam Pass Rates | 93.2% First-Attempt | JustInsurance" },
   description:
-    "JustInsurance students pass at a 93% rate vs the ~55% national average. State-approved courses with practice exams and pass guarantee. See our results.",
+    "JustInsurance students pass their insurance licensing exam at a 93.2% first-attempt rate vs ~55% national average. See how our courses compare.",
   alternates: { canonical: "https://justinsuranceco.com/pass-rates" },
 };
 

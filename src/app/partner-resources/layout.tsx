@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: { absolute: "Partner Resources | Training Videos | JustInsurance" },
   description:
-    "Training videos for JustInsurance partner agencies. Dashboard walkthroughs, onboarding systems, communication best practices, and recruit-facing study guides.",
+    "Training videos for JustInsurance partner agencies. Dashboard walkthroughs, onboarding systems, and recruit-facing study guides.",
   alternates: { canonical: "https://justinsuranceco.com/partner-resources" },
   openGraph: {
     title: "Partner Resources | Training Videos | JustInsurance",

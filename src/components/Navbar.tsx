@@ -12,6 +12,7 @@ const RESOURCES_LINKS = [
   { label: "FAQ", href: "/faq/" },
   { label: "Pass Rates", href: "/pass-rates/" },
   { label: "Partner With Us", href: "/partners" },
+  { label: "Partner Resources", href: "/partner-resources" },
   { label: "Press & Media", href: "/press/" },
   { label: "Contact", href: "/contact" },
 ];

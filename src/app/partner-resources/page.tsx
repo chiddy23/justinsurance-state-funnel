@@ -3,124 +3,44 @@
 import React, { useState } from "react";
 import Link from "next/link";
 
-const VIDEOS = [
-  {
-    id: "GvOwVZCh67c",
-    title: "Day 1 Call",
-    description: "What to expect on your first day as a JustInsurance partner. We walk through the onboarding process, set expectations, and get your agency started.",
-    category: "Getting Started",
-  },
-  {
-    id: "0pQ4NZklyzo",
-    title: "Absorb Dashboard Walkthrough",
-    description: "Full walkthrough of the agency dashboard — track enrollments, monitor progress, view completions, and manage your recruits in real time.",
-    category: "Getting Started",
-  },
-  {
-    id: "MPMfm4IJYyU",
-    title: "Licensed To Launch System",
-    description: "Our end-to-end system for taking a recruit from zero to licensed. Covers the full pipeline: enrollment, study plan, exam prep, and post-exam steps.",
-    category: "Systems & Strategy",
-  },
-  {
-    id: "AJdHNlx5utI",
-    title: "Communication Best Practices",
-    description: "How to communicate effectively with your recruits throughout the licensing process. Timing, tone, and the messages that keep candidates on track.",
-    category: "Systems & Strategy",
-  },
-  {
-    id: "BN3GvN1_9QA",
-    title: "What To Do If A Candidate Fails",
-    description: "A candidate failed their exam — now what? How to handle the conversation, rebuild confidence, and get them back on track for a retake.",
-    category: "Systems & Strategy",
-  },
-  {
-    id: "aK-hPCE6qpw",
-    title: "How To Contact Our Team",
-    description: "The fastest ways to reach JustInsurance support for partner-level issues. Who to contact, when, and what information to have ready.",
-    category: "Support",
-  },
-  {
-    id: "pZyvz2UAh8A",
-    title: "Candidate Experience",
-    description: "What your recruits see from their side — the enrollment flow, course interface, practice exams, and certificate delivery. Share this with new hires.",
-    category: "For Your Recruits",
-  },
-  {
-    id: "KcA7vw_S3zo",
-    title: "How To Study Effectively",
-    description: "Study strategies that work for the insurance licensing exam. Send this to recruits who need a structured approach to their coursework.",
-    category: "For Your Recruits",
-  },
-  {
-    id: "pOzZH75Nn0w",
-    title: "Exam Day Expectations",
-    description: "Everything your recruits need to know before exam day — what to bring, what to expect, how the test works, and how to stay calm under pressure.",
-    category: "For Your Recruits",
-  },
+// ── Video data ──
+const PARTNER_VIDEOS = [
+  { id: "GvOwVZCh67c", title: "How To Run the Day 1 Call", desc: "The script and framework for your first call with a new candidate \u2014 questions to ask, how to set the timeline, how to create urgency." },
+  { id: "0pQ4NZklyzo", title: "Absorb Dashboard Walkthrough", desc: "How to log in, find your users, and read the data that tells you who\u2019s on track and who needs intervention." },
+  { id: "MPMfm4IJYyU", title: "Licensed To Launch Dashboard", desc: "How to use our pipeline system to see candidates by exam date, spot red flags, and know exactly when to follow up." },
+  { id: "AJdHNlx5utI", title: "Communication Best Practices", desc: "The follow-up cadence that works \u2014 when to call, when to text, and how to hold candidates accountable." },
+  { id: "BN3GvN1_9QA", title: "What To Do When a Candidate Fails", desc: "How to have the conversation, diagnose what went wrong, get them rebooked, and request a custom retake study plan." },
+  { id: "aK-hPCE6qpw", title: "How To Contact Our Team", desc: "Every way to reach JustInsurance support \u2014 for questions, escalations, report cards, or custom study plans." },
 ];
 
-const CATEGORIES = [
-  "All",
-  "Getting Started",
-  "Systems & Strategy",
-  "Support",
-  "For Your Recruits",
+const CANDIDATE_VIDEOS = [
+  { id: "pZyvz2UAh8A", title: "The Candidate Experience", desc: "Everything your candidate sees from enrollment through exam day \u2014 the platform, coursework, practice exams, and our support texts." },
+  { id: "KcA7vw_S3zo", title: "How To Study Effectively", desc: "The right order to go through the material, when to start practice exams, and how to hit the benchmarks." },
+  { id: "pOzZH75Nn0w", title: "What To Expect on Exam Day", desc: "Where to go, what to bring, what the testing center looks like, and how the exam is structured." },
 ];
 
-function VideoCard({
-  video,
-  onPlay,
-}: {
-  video: (typeof VIDEOS)[0];
-  onPlay: (id: string) => void;
-}) {
+function VideoCard({ id, title, desc, onPlay }: { id: string; title: string; desc: string; onPlay: (id: string) => void }) {
   return (
     <div className="bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-shadow">
-      <button
-        onClick={() => onPlay(video.id)}
-        className="relative w-full cursor-pointer group"
-        style={{ aspectRatio: "16/9" }}
-        aria-label={`Play: ${video.title}`}
-      >
+      <button onClick={() => onPlay(id)} className="relative w-full cursor-pointer group" style={{ aspectRatio: "16/9" }} aria-label={`Play: ${title}`}>
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`}
-          alt={video.title}
-          className="w-full h-full object-cover"
-          loading="lazy"
-        />
+        <img src={`https://i.ytimg.com/vi/${id}/hqdefault.jpg`} alt={title} className="w-full h-full object-cover" loading="lazy" />
         <div className="absolute inset-0 bg-black/30 group-hover:bg-black/40 transition-colors flex items-center justify-center">
           <div className="w-14 h-14 bg-red-600 rounded-full flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-            <svg className="w-7 h-7 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M8 5v14l11-7z" />
-            </svg>
+            <svg className="w-7 h-7 text-white ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" /></svg>
           </div>
         </div>
       </button>
       <div className="p-5">
-        <span className="text-xs font-semibold text-gold uppercase tracking-wide">
-          {video.category}
-        </span>
-        <h3 className="font-bold text-navy mt-1 mb-2 text-base leading-snug">
-          {video.title}
-        </h3>
-        <p className="text-gray-600 text-sm leading-relaxed">
-          {video.description}
-        </p>
+        <h3 className="font-bold text-navy mb-2 text-base">{title}</h3>
+        <p className="text-gray-600 text-sm leading-relaxed">{desc}</p>
       </div>
     </div>
   );
 }
 
 export default function PartnerResourcesPage() {
-  const [activeFilter, setActiveFilter] = useState("All");
   const [playingId, setPlayingId] = useState<string | null>(null);
-
-  const filtered =
-    activeFilter === "All"
-      ? VIDEOS
-      : VIDEOS.filter((v) => v.category === activeFilter);
 
   return (
     <>
@@ -129,22 +49,14 @@ export default function PartnerResourcesPage() {
         <div className="max-w-7xl mx-auto">
           <ol className="flex flex-wrap items-center gap-1 text-sm text-gray-500">
             <li className="flex items-center gap-1">
-              <Link href="/" className="hover:text-navy hover:underline transition-colors">
-                Home
-              </Link>
+              <Link href="/" className="hover:text-navy hover:underline">Home</Link>
             </li>
             <li className="flex items-center gap-1">
-              <svg className="w-3 h-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-              </svg>
-              <Link href="/partners" className="hover:text-navy hover:underline transition-colors">
-                Partners
-              </Link>
+              <svg className="w-3 h-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
+              <Link href="/partners" className="hover:text-navy hover:underline">Partners</Link>
             </li>
             <li className="flex items-center gap-1">
-              <svg className="w-3 h-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-              </svg>
+              <svg className="w-3 h-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
               <span className="text-navy font-medium">Resources</span>
             </li>
           </ol>
@@ -152,107 +64,275 @@ export default function PartnerResourcesPage() {
       </nav>
 
       {/* Hero */}
-      <section className="bg-navy text-white py-16 px-4">
+      <section className="bg-navy text-white py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
-          <p className="text-gold font-semibold text-sm uppercase tracking-widest mb-4">
-            Partner Resources
-          </p>
+          <p className="text-gold font-semibold text-sm uppercase tracking-widest mb-4">Agency Partner Guide</p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
-            Training Videos for Partner Agencies
+            Get Them Licensed. The First Time.
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-3xl mx-auto">
-            Everything you need to onboard recruits, use the dashboard, and get your
-            candidates licensed faster. Share the recruit-facing videos directly with
-            your team.
+            The playbook your team needs to turn enrollments into passes. Videos, benchmarks, follow-up cadence, and the mistakes to avoid.
           </p>
         </div>
       </section>
 
-      {/* Video Player Modal */}
+      {/* Video Modal */}
       {playingId && (
-        <div
-          className="fixed inset-0 bg-black/80 z-50 flex items-center justify-center p-4"
-          onClick={() => setPlayingId(null)}
-        >
-          <div
-            className="relative w-full max-w-4xl"
-            onClick={(e) => e.stopPropagation()}
-          >
-            <button
-              onClick={() => setPlayingId(null)}
-              className="absolute -top-10 right-0 text-white hover:text-gold text-sm font-semibold"
-            >
-              Close &times;
-            </button>
+        <div className="fixed inset-0 bg-black/80 z-50 flex items-center justify-center p-4" onClick={() => setPlayingId(null)}>
+          <div className="relative w-full max-w-4xl" onClick={(e) => e.stopPropagation()}>
+            <button onClick={() => setPlayingId(null)} className="absolute -top-10 right-0 text-white hover:text-gold text-sm font-semibold">Close &times;</button>
             <div style={{ aspectRatio: "16/9" }} className="rounded-xl overflow-hidden">
-              <iframe
-                src={`https://www.youtube-nocookie.com/embed/${playingId}?autoplay=1&rel=0`}
-                title="Partner Resource Video"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                className="w-full h-full"
-              />
+              <iframe src={`https://www.youtube-nocookie.com/embed/${playingId}?autoplay=1&rel=0`} title="Video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className="w-full h-full" />
             </div>
           </div>
         </div>
       )}
 
-      {/* Filter + Grid */}
-      <section className="bg-white py-12 px-4">
-        <div className="max-w-7xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-8">
-            Browse by Category
-          </h2>
-          {/* Category filter */}
-          <div className="flex flex-wrap gap-2 justify-center mb-10">
-            {CATEGORIES.map((cat) => (
-              <button
-                key={cat}
-                onClick={() => setActiveFilter(cat)}
-                className={`px-4 py-2 rounded-full text-sm font-semibold transition-colors ${
-                  activeFilter === cat
-                    ? "bg-navy text-white"
-                    : "bg-gray-bg text-gray-600 hover:bg-gray-200"
-                }`}
-              >
-                {cat}
-              </button>
-            ))}
-          </div>
-
-          {/* Video grid */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filtered.map((video) => (
-              <VideoCard key={video.id} video={video} onPlay={setPlayingId} />
+      {/* ── DAY ONE ── */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Day One: The Golden Hour</h2>
+          <p className="text-gray-500 mb-8">Everything below should happen within the first hour of enrollment. This is where pass rates are won or lost.</p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+            {[
+              { num: "1", title: "Call them. Now.", desc: "Not a text. A phone call. Learn their goals, set expectations, and establish that you\u2019re invested in their success." },
+              { num: "2", title: "Schedule their state exam today.", desc: "Our highest-performing partners have candidates book their exam the same day they enroll. Urgency drives results." },
+              { num: "3", title: "Brief them on our support line.", desc: "They\u2019ll get texts from 754-223-9744. Tell them to respond \u2014 or text us if they need help booking their exam." },
+              { num: "4", title: "Set the timeline.", desc: "14 days for Life & Health. 10 days for a single line of authority. This is a sprint." },
+            ].map((s) => (
+              <div key={s.num} className="bg-gray-bg rounded-xl p-5 border border-gray-200 flex gap-4 items-start">
+                <div className="w-9 h-9 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                  <span className="text-gray-dark font-bold text-sm">{s.num}</span>
+                </div>
+                <div>
+                  <h3 className="font-bold text-navy text-sm mb-1">{s.title}</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">{s.desc}</p>
+                </div>
+              </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* CTA */}
+      {/* ── STUDY BENCHMARKS ── */}
       <section className="bg-gray-bg py-16 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-4">
-            Not a Partner Yet?
-          </h2>
-          <p className="text-gray-600 mb-8 leading-relaxed">
-            Apply for the agency partnership program and get access to dashboards,
-            bulk pricing, and dedicated support.
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Study Benchmarks</h2>
+          <p className="text-gray-500 mb-8">The numbers that predict a pass. If your candidates hit these targets, they pass.</p>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            {[
+              { val: "30 hrs", label: "Life & Health combined" },
+              { val: "20 hrs", label: "Life or Health only" },
+              { val: "80%+", label: "Practice exams, 2\u20133x in a row" },
+              { val: "90 min", label: "State laws section" },
+              { val: "30 min", label: "Exam prep videos" },
+            ].map((s) => (
+              <div key={s.label} className="bg-white rounded-xl p-5 border border-gray-200 text-center">
+                <p className="text-2xl font-bold text-navy">{s.val}</p>
+                <p className="text-gray-500 text-xs mt-1">{s.label}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-gray-600 text-sm mt-6 bg-white rounded-lg p-4 border border-gray-200">
+            <strong className="text-navy">The #1 thing that matters during the study period: daily engagement.</strong> Not everyone has the same schedule \u2014 some candidates can put in 4 hours a day, others can only do 1. That&apos;s fine. What matters is that they&apos;re logging in and studying every single day.
           </p>
+        </div>
+      </section>
+
+      {/* ── COMMUNICATION CADENCE ── */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Follow-Up Cadence</h2>
+          <p className="text-gray-500 mb-8">Enroll and disappear? That&apos;s how you lose people. Stay in their ear.</p>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {[
+              { day: "Day 1", action: "Phone call" },
+              { day: "Day 3", action: "Progress check" },
+              { day: "Day 5", action: "Review stats" },
+              { day: "Day 7", action: "Accountability" },
+            ].map((c) => (
+              <div key={c.day} className="bg-gray-bg rounded-xl p-5 border border-gray-200 text-center">
+                <p className="text-lg font-bold text-navy">{c.day}</p>
+                <p className="text-gray-600 text-sm mt-1">{c.action}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-gray-600 text-sm mt-4">Days 5\u20136 before exam: final push. Check benchmarks and make the call on whether they&apos;re ready.</p>
+        </div>
+      </section>
+
+      {/* ── WARNING SIGNS ── */}
+      <section className="bg-red-50 py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Warning Signs: Red Flags</h2>
+          <p className="text-gray-500 mb-8">If you see any of these, pick up the phone. Don&apos;t wait.</p>
+          <div className="space-y-3">
+            {[
+              "No login for 2+ days. Every missed day compounds. They\u2019re falling behind.",
+              "Won\u2019t schedule their exam. If they keep pushing it back, it\u2019s motivation \u2014 not readiness.",
+              "Practice scores under 70% close to exam day. They\u2019re not ready. Consider rescheduling.",
+              "Course incomplete, exam in 3 days. They\u2019re skipping foundations and gambling on practice exams alone.",
+              "Asks to reschedule more than once. One time is fine. A pattern means avoidance.",
+            ].map((flag, i) => (
+              <div key={i} className="bg-white rounded-lg p-4 border border-red-200 flex gap-3 items-start">
+                <span className="text-red-500 font-bold text-lg flex-shrink-0">!</span>
+                <p className="text-gray-700 text-sm leading-relaxed">{flag}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── RECOVERY ── */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">If a Candidate Fails</h2>
+          <p className="text-gray-500 mb-8">Not ideal, but not the end. Diagnose, adjust, rebook.</p>
+          <div className="space-y-4">
+            {[
+              { num: "1", text: "Check the stats. 30 hours logged? 80%+ on practice exams? If not, the data tells the story. Hold them accountable." },
+              { num: "2", text: "Email their report card to matt@yourinsurancelicense.com. Matt builds custom retake study plans based on their weak areas." },
+              { num: "3", text: "Rebook fast. Momentum dies quickly after a failure. The longer they wait, the less likely they return." },
+            ].map((s) => (
+              <div key={s.num} className="bg-gray-bg rounded-xl p-5 border border-gray-200 flex gap-4 items-start">
+                <div className="w-9 h-9 bg-navy rounded-full flex items-center justify-center flex-shrink-0">
+                  <span className="text-white font-bold text-sm">{s.num}</span>
+                </div>
+                <p className="text-gray-700 text-sm leading-relaxed">{s.text}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-gray-600 text-sm mt-6 italic">Think of it like dialing leads. They can have the best script in the world \u2014 but if they don&apos;t make the dials, they don&apos;t make sales. Same here.</p>
+        </div>
+      </section>
+
+      {/* ── POST-EXAM ── */}
+      <section className="bg-gray-bg py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">After They Pass</h2>
+          <p className="text-gray-500 mb-8">Passing the exam is not the finish line \u2014 it&apos;s the starting line.</p>
+          <div className="space-y-4">
+            {[
+              { num: "1", title: "Celebrate the win.", text: "Call them. Congratulate them. This is the moment they feel most bought-in to your agency." },
+              { num: "2", title: "Get fingerprints done immediately.", text: "Candidates who delay fingerprints after passing tend to stall out entirely. Schedule within 24\u201348 hours." },
+              { num: "3", title: "Submit the license application.", text: "Walk them through the state application process. The faster they\u2019re licensed, the faster they\u2019re producing." },
+              { num: "4", title: "Our team can help.", text: "Need guidance on fingerprints or the license application for their state? Reach out \u2014 we\u2019ll walk you through it." },
+            ].map((s) => (
+              <div key={s.num} className="bg-white rounded-xl p-5 border border-gray-200 flex gap-4 items-start">
+                <div className="w-9 h-9 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
+                  <span className="text-gray-dark font-bold text-sm">{s.num}</span>
+                </div>
+                <div>
+                  <h3 className="font-bold text-navy text-sm mb-1">{s.title}</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">{s.text}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── COMMON MISTAKES ── */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Common Mistakes Partners Make</h2>
+          <p className="text-gray-500 mb-8">We&apos;ve seen these patterns hundreds of times. Every one of them costs you licensed agents.</p>
+          <div className="space-y-3">
+            {[
+              { title: "Enrolling people and then going silent.", desc: "The most common mistake, by far. You enroll someone, don\u2019t call them for 3 days, and by then they\u2019ve already lost momentum. The Day 1 call exists for a reason." },
+              { title: "Assuming people will study on their own.", desc: "They won\u2019t. Most candidates need someone checking in on them regularly. If you\u2019re not looking at the dashboard and following up, nobody is." },
+              { title: "Not rescheduling exams when the numbers aren\u2019t there.", desc: "If a candidate is 3 days from their exam and hasn\u2019t hit the benchmarks, letting them sit for it is setting them up to fail. Push the exam back." },
+              { title: "Blaming the course material.", desc: "Our pass rate is 93%+ for a reason. When someone fails, it\u2019s almost always because the time and reps weren\u2019t there \u2014 not because the material was lacking." },
+              { title: "Letting candidates drift for weeks.", desc: "A 14-day sprint turns into a 30-day crawl, and then they never take the exam. Keep the timeline tight. Urgency is your best tool." },
+            ].map((m, i) => (
+              <div key={i} className="bg-gray-bg rounded-xl p-5 border border-gray-200">
+                <div className="flex gap-3 items-start">
+                  <span className="text-red-500 font-bold text-lg flex-shrink-0">&times;</span>
+                  <div>
+                    <h3 className="font-bold text-navy text-sm mb-1">{m.title}</h3>
+                    <p className="text-gray-600 text-sm leading-relaxed">{m.desc}</p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── FAQ ── */}
+      <section className="bg-gray-bg py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-8">Frequently Asked Questions</h2>
+          <div className="space-y-3">
+            {[
+              { q: "Can a candidate retake the exam if they fail?", a: "Yes. Most states allow retakes, though there may be a waiting period (typically 24 hours to 30 days). Email the report card to matt@yourinsurancelicense.com and we\u2019ll build a custom retake plan." },
+              { q: "How do I add another candidate?", a: "Reach out to our team via text at 754-223-9744 or through your agency contact, and we\u2019ll get them enrolled and set up in the system." },
+              { q: "What if a candidate needs more time on the course?", a: "Course access doesn\u2019t expire on a hard deadline, but the goal is to keep the timeline tight. If they need more time, have them reschedule their exam \u2014 but don\u2019t let \u201Cmore time\u201D become an excuse." },
+              { q: "What states do you cover?", a: "We offer pre-licensing and continuing education courses in all 50 states. Contact us if you have questions about a specific state\u2019s requirements." },
+              { q: "How does the 754-223-9744 support line work?", a: "Our team sends automated check-in texts to enrolled candidates and responds to incoming questions. It\u2019s not a replacement for your follow-up \u2014 it\u2019s a supplement." },
+              { q: "Who do I contact if I have a question that\u2019s not here?", a: "Text or call 754-223-9744, or email matt@yourinsurancelicense.com." },
+            ].map((faq, i) => (
+              <details key={i} className="group border border-gray-200 rounded-xl overflow-hidden bg-white">
+                <summary className="flex items-center justify-between gap-4 p-5 cursor-pointer list-none hover:bg-gray-bg transition-colors select-none">
+                  <span className="font-semibold text-navy text-sm leading-snug">{faq.q}</span>
+                  <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gray-bg flex items-center justify-center text-navy group-open:rotate-45 transition-transform duration-200">
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" /></svg>
+                  </span>
+                </summary>
+                <div className="px-5 pb-5 pt-1 bg-gray-bg border-t border-gray-200">
+                  <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+                </div>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── TRAINING VIDEOS ── */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-7xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Training Videos</h2>
+          <p className="text-gray-500 mb-10">Short, focused walkthroughs. Watch all of them before your first enrollment.</p>
+
+          <h3 className="text-lg font-bold text-navy mb-4 flex items-center gap-2">
+            <span className="w-2 h-2 bg-gold rounded-full" /> For You (The Partner)
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            {PARTNER_VIDEOS.map((v) => (
+              <VideoCard key={v.id} id={v.id} title={v.title} desc={v.desc} onPlay={setPlayingId} />
+            ))}
+          </div>
+
+          <h3 className="text-lg font-bold text-navy mb-4 flex items-center gap-2">
+            <span className="w-2 h-2 bg-gold rounded-full" /> Send These to Your Candidates
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {CANDIDATE_VIDEOS.map((v) => (
+              <VideoCard key={v.id} id={v.id} title={v.title} desc={v.desc} onPlay={setPlayingId} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── CONTACT FOOTER ── */}
+      <section className="bg-navy py-16 px-4">
+        <div className="max-w-3xl mx-auto text-center">
+          <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
+            Need Help? We&apos;re Here.
+          </h2>
+          <p className="text-blue-100 text-lg mb-8">Reach out anytime \u2014 we&apos;re in this with you.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href="/partners"
-              className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-8 py-3 rounded-lg shadow-lg transition-all"
-            >
-              Apply to Partner
-            </Link>
-            <a
-              href="tel:7542239744"
-              className="inline-block bg-white border-2 border-navy text-navy font-bold text-lg px-8 py-3 rounded-lg hover:bg-navy hover:text-white transition-colors"
-            >
-              Call 754-223-9744
+            <a href="tel:7542239744" className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-8 py-3 rounded-lg shadow-lg transition-all">
+              754-223-9744
+            </a>
+            <a href="mailto:matt@yourinsurancelicense.com" className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-3 rounded-lg hover:bg-white hover:text-navy transition-colors">
+              matt@yourinsurancelicense.com
             </a>
           </div>
+          <p className="text-blue-200/60 text-sm mt-6">
+            Not a partner yet?{" "}
+            <Link href="/partners" className="text-gold hover:underline">Apply here</Link>
+          </p>
         </div>
       </section>
     </>

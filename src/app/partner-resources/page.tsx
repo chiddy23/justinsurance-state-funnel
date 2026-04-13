@@ -88,27 +88,27 @@ export default function PartnerResourcesPage() {
         </div>
       )}
 
-      {/* ── DAY ONE ── */}
+      {/* ── TRAINING VIDEOS ── */}
       <section className="bg-white py-16 px-4">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Day One: The Golden Hour</h2>
-          <p className="text-gray-500 mb-8">Everything below should happen within the first hour of enrollment. This is where pass rates are won or lost.</p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-            {[
-              { num: "1", title: "Call them. Now.", desc: "Not a text. A phone call. Learn their goals, set expectations, and establish that you\u2019re invested in their success." },
-              { num: "2", title: "Schedule their state exam today.", desc: "Our highest-performing partners have candidates book their exam the same day they enroll. Urgency drives results." },
-              { num: "3", title: "Brief them on our support line.", desc: "They\u2019ll get texts from 754-223-9744. Tell them to respond \u2014 or text us if they need help booking their exam." },
-              { num: "4", title: "Set the timeline.", desc: "14 days for Life & Health. 10 days for a single line of authority. This is a sprint." },
-            ].map((s) => (
-              <div key={s.num} className="bg-gray-bg rounded-xl p-5 border border-gray-200 flex gap-4 items-start">
-                <div className="w-9 h-9 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
-                  <span className="text-gray-dark font-bold text-sm">{s.num}</span>
-                </div>
-                <div>
-                  <h3 className="font-bold text-navy text-sm mb-1">{s.title}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed">{s.desc}</p>
-                </div>
-              </div>
+        <div className="max-w-7xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Training Videos</h2>
+          <p className="text-gray-500 mb-10">Short, focused walkthroughs. Watch all of them before your first enrollment.</p>
+
+          <h3 className="text-lg font-bold text-navy mb-4 flex items-center gap-2">
+            <span className="w-2 h-2 bg-gold rounded-full" /> For You (The Partner)
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            {PARTNER_VIDEOS.map((v) => (
+              <VideoCard key={v.id} id={v.id} title={v.title} desc={v.desc} onPlay={setPlayingId} />
+            ))}
+          </div>
+
+          <h3 className="text-lg font-bold text-navy mb-4 flex items-center gap-2">
+            <span className="w-2 h-2 bg-gold rounded-full" /> Send These to Your Candidates
+          </h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {CANDIDATE_VIDEOS.map((v) => (
+              <VideoCard key={v.id} id={v.id} title={v.title} desc={v.desc} onPlay={setPlayingId} />
             ))}
           </div>
         </div>
@@ -136,99 +136,6 @@ export default function PartnerResourcesPage() {
           <p className="text-gray-600 text-sm mt-6 bg-white rounded-lg p-4 border border-gray-200">
             <strong className="text-navy">The #1 thing that matters during the study period: daily engagement.</strong> Not everyone has the same schedule \u2014 some candidates can put in 4 hours a day, others can only do 1. That&apos;s fine. What matters is that they&apos;re logging in and studying every single day.
           </p>
-        </div>
-      </section>
-
-      {/* ── COMMUNICATION CADENCE ── */}
-      <section className="bg-white py-16 px-4">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Follow-Up Cadence</h2>
-          <p className="text-gray-500 mb-8">Enroll and disappear? That&apos;s how you lose people. Stay in their ear.</p>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {[
-              { day: "Day 1", action: "Phone call" },
-              { day: "Day 3", action: "Progress check" },
-              { day: "Day 5", action: "Review stats" },
-              { day: "Day 7", action: "Accountability" },
-            ].map((c) => (
-              <div key={c.day} className="bg-gray-bg rounded-xl p-5 border border-gray-200 text-center">
-                <p className="text-lg font-bold text-navy">{c.day}</p>
-                <p className="text-gray-600 text-sm mt-1">{c.action}</p>
-              </div>
-            ))}
-          </div>
-          <p className="text-gray-600 text-sm mt-4">Days 5\u20136 before exam: final push. Check benchmarks and make the call on whether they&apos;re ready.</p>
-        </div>
-      </section>
-
-      {/* ── WARNING SIGNS ── */}
-      <section className="bg-red-50 py-16 px-4">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Warning Signs: Red Flags</h2>
-          <p className="text-gray-500 mb-8">If you see any of these, pick up the phone. Don&apos;t wait.</p>
-          <div className="space-y-3">
-            {[
-              "No login for 2+ days. Every missed day compounds. They\u2019re falling behind.",
-              "Won\u2019t schedule their exam. If they keep pushing it back, it\u2019s motivation \u2014 not readiness.",
-              "Practice scores under 70% close to exam day. They\u2019re not ready. Consider rescheduling.",
-              "Course incomplete, exam in 3 days. They\u2019re skipping foundations and gambling on practice exams alone.",
-              "Asks to reschedule more than once. One time is fine. A pattern means avoidance.",
-            ].map((flag, i) => (
-              <div key={i} className="bg-white rounded-lg p-4 border border-red-200 flex gap-3 items-start">
-                <span className="text-red-500 font-bold text-lg flex-shrink-0">!</span>
-                <p className="text-gray-700 text-sm leading-relaxed">{flag}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ── RECOVERY ── */}
-      <section className="bg-white py-16 px-4">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">If a Candidate Fails</h2>
-          <p className="text-gray-500 mb-8">Not ideal, but not the end. Diagnose, adjust, rebook.</p>
-          <div className="space-y-4">
-            {[
-              { num: "1", text: "Check the stats. 30 hours logged? 80%+ on practice exams? If not, the data tells the story. Hold them accountable." },
-              { num: "2", text: "Email their report card to matt@yourinsurancelicense.com. Matt builds custom retake study plans based on their weak areas." },
-              { num: "3", text: "Rebook fast. Momentum dies quickly after a failure. The longer they wait, the less likely they return." },
-            ].map((s) => (
-              <div key={s.num} className="bg-gray-bg rounded-xl p-5 border border-gray-200 flex gap-4 items-start">
-                <div className="w-9 h-9 bg-navy rounded-full flex items-center justify-center flex-shrink-0">
-                  <span className="text-white font-bold text-sm">{s.num}</span>
-                </div>
-                <p className="text-gray-700 text-sm leading-relaxed">{s.text}</p>
-              </div>
-            ))}
-          </div>
-          <p className="text-gray-600 text-sm mt-6 italic">Think of it like dialing leads. They can have the best script in the world \u2014 but if they don&apos;t make the dials, they don&apos;t make sales. Same here.</p>
-        </div>
-      </section>
-
-      {/* ── POST-EXAM ── */}
-      <section className="bg-gray-bg py-16 px-4">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">After They Pass</h2>
-          <p className="text-gray-500 mb-8">Passing the exam is not the finish line \u2014 it&apos;s the starting line.</p>
-          <div className="space-y-4">
-            {[
-              { num: "1", title: "Celebrate the win.", text: "Call them. Congratulate them. This is the moment they feel most bought-in to your agency." },
-              { num: "2", title: "Get fingerprints done immediately.", text: "Candidates who delay fingerprints after passing tend to stall out entirely. Schedule within 24\u201348 hours." },
-              { num: "3", title: "Submit the license application.", text: "Walk them through the state application process. The faster they\u2019re licensed, the faster they\u2019re producing." },
-              { num: "4", title: "Our team can help.", text: "Need guidance on fingerprints or the license application for their state? Reach out \u2014 we\u2019ll walk you through it." },
-            ].map((s) => (
-              <div key={s.num} className="bg-white rounded-xl p-5 border border-gray-200 flex gap-4 items-start">
-                <div className="w-9 h-9 bg-gold rounded-full flex items-center justify-center flex-shrink-0">
-                  <span className="text-gray-dark font-bold text-sm">{s.num}</span>
-                </div>
-                <div>
-                  <h3 className="font-bold text-navy text-sm mb-1">{s.title}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed">{s.text}</p>
-                </div>
-              </div>
-            ))}
-          </div>
         </div>
       </section>
 
@@ -283,32 +190,6 @@ export default function PartnerResourcesPage() {
                   <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
                 </div>
               </details>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ── TRAINING VIDEOS ── */}
-      <section className="bg-white py-16 px-4">
-        <div className="max-w-7xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Training Videos</h2>
-          <p className="text-gray-500 mb-10">Short, focused walkthroughs. Watch all of them before your first enrollment.</p>
-
-          <h3 className="text-lg font-bold text-navy mb-4 flex items-center gap-2">
-            <span className="w-2 h-2 bg-gold rounded-full" /> For You (The Partner)
-          </h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-            {PARTNER_VIDEOS.map((v) => (
-              <VideoCard key={v.id} id={v.id} title={v.title} desc={v.desc} onPlay={setPlayingId} />
-            ))}
-          </div>
-
-          <h3 className="text-lg font-bold text-navy mb-4 flex items-center gap-2">
-            <span className="w-2 h-2 bg-gold rounded-full" /> Send These to Your Candidates
-          </h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {CANDIDATE_VIDEOS.map((v) => (
-              <VideoCard key={v.id} id={v.id} title={v.title} desc={v.desc} onPlay={setPlayingId} />
             ))}
           </div>
         </div>

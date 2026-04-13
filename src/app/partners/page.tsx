@@ -76,24 +76,18 @@ const steps = [
 ];
 
 interface FormData {
-  agencyName: string;
   fullName: string;
-  title: string;
   email: string;
   phone: string;
-  states: string;
   agentsPerMonth: string;
   heardFrom: string;
   about: string;
 }
 
 const initialForm: FormData = {
-  agencyName: "",
   fullName: "",
-  title: "",
   email: "",
   phone: "",
-  states: "",
   agentsPerMonth: "",
   heardFrom: "",
   about: "",
@@ -179,52 +173,8 @@ export default function PartnersPage() {
         </div>
       </section>
 
-      {/* Why Partner */}
-      <section className="bg-white py-16 px-4">
-        <div className="max-w-5xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-            Why Partner With Us
-          </h2>
-          <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            Tools and support built specifically for agencies that recruit and onboard
-            insurance agents.
-          </p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {features.map((f) => (
-              <div key={f.title} className="bg-gray-bg rounded-xl p-6 border border-gray-200">
-                <div className="w-10 h-10 bg-navy rounded-full flex items-center justify-center text-gold mb-4">
-                  {f.icon}
-                </div>
-                <h3 className="font-bold text-navy mb-2 text-sm">{f.title}</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">{f.desc}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* How It Works */}
-      <section className="bg-gray-bg py-16 px-4">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-10">
-            How It Works
-          </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {steps.map((s) => (
-              <div key={s.num} className="text-center bg-white rounded-xl p-6 border border-gray-200">
-                <div className="w-10 h-10 bg-navy rounded-full flex items-center justify-center mx-auto mb-3">
-                  <span className="text-white font-bold text-sm">{s.num}</span>
-                </div>
-                <h3 className="font-bold text-navy mb-2 text-sm">{s.title}</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">{s.desc}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Partnership Form */}
-      <section id="apply" className="bg-white py-16 px-4 scroll-mt-8">
+      {/* Partnership Form — FIRST after hero */}
+      <section id="apply" className="bg-white py-16 px-4">
         <div className="max-w-2xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
             Apply to Partner
@@ -250,52 +200,22 @@ export default function PartnersPage() {
             </div>
           ) : (
             <form onSubmit={handleSubmit} className="space-y-5">
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-                <div>
-                  <label htmlFor="agencyName" className="block text-sm font-semibold text-navy mb-1">
-                    Agency / Company Name *
-                  </label>
-                  <input
-                    type="text"
-                    id="agencyName"
-                    name="agencyName"
-                    required
-                    value={form.agencyName}
-                    onChange={handleChange}
-                    className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:border-navy focus:ring-1 focus:ring-navy outline-none"
-                  />
-                </div>
-                <div>
-                  <label htmlFor="fullName" className="block text-sm font-semibold text-navy mb-1">
-                    Your Full Name *
-                  </label>
-                  <input
-                    type="text"
-                    id="fullName"
-                    name="fullName"
-                    required
-                    value={form.fullName}
-                    onChange={handleChange}
-                    className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:border-navy focus:ring-1 focus:ring-navy outline-none"
-                  />
-                </div>
+              <div>
+                <label htmlFor="fullName" className="block text-sm font-semibold text-navy mb-1">
+                  Your Full Name *
+                </label>
+                <input
+                  type="text"
+                  id="fullName"
+                  name="fullName"
+                  required
+                  value={form.fullName}
+                  onChange={handleChange}
+                  className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:border-navy focus:ring-1 focus:ring-navy outline-none"
+                />
               </div>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
-                <div>
-                  <label htmlFor="title" className="block text-sm font-semibold text-navy mb-1">
-                    Your Title / Role *
-                  </label>
-                  <input
-                    type="text"
-                    id="title"
-                    name="title"
-                    required
-                    value={form.title}
-                    onChange={handleChange}
-                    className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:border-navy focus:ring-1 focus:ring-navy outline-none"
-                  />
-                </div>
                 <div>
                   <label htmlFor="email" className="block text-sm font-semibold text-navy mb-1">
                     Email Address *
@@ -310,9 +230,6 @@ export default function PartnersPage() {
                     className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:border-navy focus:ring-1 focus:ring-navy outline-none"
                   />
                 </div>
-              </div>
-
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
                 <div>
                   <label htmlFor="phone" className="block text-sm font-semibold text-navy mb-1">
                     Phone Number *
@@ -323,21 +240,6 @@ export default function PartnersPage() {
                     name="phone"
                     required
                     value={form.phone}
-                    onChange={handleChange}
-                    className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:border-navy focus:ring-1 focus:ring-navy outline-none"
-                  />
-                </div>
-                <div>
-                  <label htmlFor="states" className="block text-sm font-semibold text-navy mb-1">
-                    State(s) You Operate In *
-                  </label>
-                  <input
-                    type="text"
-                    id="states"
-                    name="states"
-                    required
-                    placeholder="e.g. FL, TX, CA"
-                    value={form.states}
                     onChange={handleChange}
                     className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:border-navy focus:ring-1 focus:ring-navy outline-none"
                   />
@@ -422,6 +324,50 @@ export default function PartnersPage() {
               </button>
             </form>
           )}
+        </div>
+      </section>
+
+      {/* Why Partner */}
+      <section className="bg-gray-bg py-16 px-4">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+            Why Partner With Us
+          </h2>
+          <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
+            Tools and support built specifically for agencies that recruit and onboard
+            insurance agents.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {features.map((f) => (
+              <div key={f.title} className="bg-white rounded-xl p-6 border border-gray-200">
+                <div className="w-10 h-10 bg-navy rounded-full flex items-center justify-center text-gold mb-4">
+                  {f.icon}
+                </div>
+                <h3 className="font-bold text-navy mb-2 text-sm">{f.title}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{f.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* How It Works */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-10">
+            How It Works
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {steps.map((s) => (
+              <div key={s.num} className="text-center bg-gray-bg rounded-xl p-6 border border-gray-200">
+                <div className="w-10 h-10 bg-navy rounded-full flex items-center justify-center mx-auto mb-3">
+                  <span className="text-white font-bold text-sm">{s.num}</span>
+                </div>
+                <h3 className="font-bold text-navy mb-2 text-sm">{s.title}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{s.desc}</p>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
 

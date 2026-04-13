@@ -40,11 +40,28 @@ function buildTitle(
     home: [
       `Insurance Prelicensing & CE Courses | ${brand}`,
     ],
-    "state-hub": [
-      `${stateName} Insurance License | State-Approved | ${brand}`,
-      `${stateName} Insurance License Course | ${brand}`,
-      `${stateName} Insurance License | ${brand}`,
-    ],
+    "state-hub": (() => {
+      // State-specific title overrides
+      const stateSlug = params.stateSlug || "";
+      const overrides: Record<string, string[]> = {
+        florida: [
+          `Florida Insurance License | Courses & CE | ${brand}`,
+        ],
+        texas: [
+          `Texas Insurance License | Exam Prep & CE | ${brand}`,
+        ],
+        california: [
+          `California Insurance License | CDI-Approved | ${brand}`,
+        ],
+      };
+      if (overrides[stateSlug]) return overrides[stateSlug];
+      // Default pattern for all other states
+      return [
+        `${stateName} Insurance License | Courses & CE | ${brand}`,
+        `${stateName} Insurance License Course | ${brand}`,
+        `${stateName} Insurance License | ${brand}`,
+      ];
+    })(),
     "prelicensing-hub": [
       `${stateName} Insurance Prelicensing | ${hourStr} | ${brand}`,
       `${stateName} Insurance Prelicensing Course | ${brand}`,

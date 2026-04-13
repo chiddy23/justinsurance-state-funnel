@@ -172,12 +172,12 @@ export default function PartnerResourcesPage() {
           <h2 className="text-2xl md:text-3xl font-bold text-navy mb-8">Frequently Asked Questions</h2>
           <div className="space-y-3">
             {[
-              { q: "Can a candidate retake the exam if they fail?", a: "Yes. Most states allow retakes, though there may be a waiting period (typically 24 hours to 30 days). Email the report card to matt@yourinsurancelicense.com and we\u2019ll build a custom retake plan." },
+              { q: "Can a candidate retake the exam if they fail?", a: "Yes. Most states allow retakes, though there may be a waiting period (typically 24 hours to 30 days). Email the report card to support@yourinsurancelicense.com and we\u2019ll build a custom retake plan." },
               { q: "How do I add another candidate?", a: "Reach out to our team via text at 754-223-9744 or through your agency contact, and we\u2019ll get them enrolled and set up in the system." },
               { q: "What if a candidate needs more time on the course?", a: "Course access doesn\u2019t expire on a hard deadline, but the goal is to keep the timeline tight. If they need more time, have them reschedule their exam \u2014 but don\u2019t let \u201Cmore time\u201D become an excuse." },
               { q: "What states do you cover?", a: "We offer pre-licensing and continuing education courses in all 50 states. Contact us if you have questions about a specific state\u2019s requirements." },
               { q: "How does the 754-223-9744 support line work?", a: "Our team sends automated check-in texts to enrolled candidates and responds to incoming questions. It\u2019s not a replacement for your follow-up \u2014 it\u2019s a supplement." },
-              { q: "Who do I contact if I have a question that\u2019s not here?", a: "Text or call 754-223-9744, or email matt@yourinsurancelicense.com." },
+              { q: "Who do I contact if I have a question that\u2019s not here?", a: "Text or call 754-223-9744, or email support@yourinsurancelicense.com." },
             ].map((faq, i) => (
               <details key={i} className="group border border-gray-200 rounded-xl overflow-hidden bg-white">
                 <summary className="flex items-center justify-between gap-4 p-5 cursor-pointer list-none hover:bg-gray-bg transition-colors select-none">
@@ -201,13 +201,13 @@ export default function PartnerResourcesPage() {
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
             Need Help? We&apos;re Here.
           </h2>
-          <p className="text-blue-100 text-lg mb-8">Reach out anytime \u2014 we&apos;re in this with you.</p>
+          <p className="text-blue-100 text-lg mb-8">Reach out anytime &mdash; we&apos;re in this with you.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="tel:7542239744" className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-8 py-3 rounded-lg shadow-lg transition-all">
               754-223-9744
             </a>
-            <a href="mailto:matt@yourinsurancelicense.com" className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-3 rounded-lg hover:bg-white hover:text-navy transition-colors">
-              matt@yourinsurancelicense.com
+            <a href="mailto:support@yourinsurancelicense.com" className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-3 rounded-lg hover:bg-white hover:text-navy transition-colors">
+              support@yourinsurancelicense.com
             </a>
           </div>
           <p className="text-blue-200/60 text-sm mt-6">

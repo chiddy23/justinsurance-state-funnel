@@ -157,13 +157,13 @@ export default function Navbar() {
 
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className="md:hidden bg-navy-dark border-t border-navy-light">
+        <div className="md:hidden bg-navy-dark border-t border-navy-light max-h-[80vh] overflow-y-auto">
           <div className="px-4 py-3 space-y-1">
             <p className="text-gold font-semibold text-sm uppercase tracking-wide py-2">Popular States</p>
             {POPULAR_STATES.map((state) => (
               <Link
                 key={state.slug}
-                href={`/${state.slug}/`}
+                href={`/${state.slug}`}
                 className="block px-2 py-2 text-white hover:text-gold transition-colors"
                 onClick={() => setMobileOpen(false)}
               >

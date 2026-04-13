@@ -62,6 +62,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
     { path: "/study-guide", priority: 0.7 },
     { path: "/about", priority: 0.6 },
     { path: "/partners", priority: 0.6 },
+    { path: "/partner-resources", priority: 0.5 },
     { path: "/contact", priority: 0.5 },
     { path: "/press", priority: 0.5 },
     { path: "/privacy-policy", priority: 0.3 },

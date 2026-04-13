@@ -163,12 +163,12 @@ export default function PartnersPage() {
             >
               Apply to Partner
             </a>
-            <a
-              href="tel:7542239744"
+            <Link
+              href="/partner-resources"
               className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-white hover:text-navy transition-all"
             >
-              Call 754-223-9744
-            </a>
+              Partner Resources
+            </Link>
           </div>
         </div>
       </section>

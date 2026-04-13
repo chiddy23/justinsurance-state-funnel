@@ -59,7 +59,8 @@ export default function Navbar() {
               onMouseEnter={() => setDropdownOpen(true)}
               onMouseLeave={() => setDropdownOpen(false)}
             >
-              <button
+              <Link
+                href="/#states"
                 className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium py-4"
                 aria-expanded={dropdownOpen}
               >
@@ -67,7 +68,7 @@ export default function Navbar() {
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                 </svg>
-              </button>
+              </Link>
 
               <div className={`absolute top-full left-0 pt-0 w-56 z-50 transition-opacity duration-150 ${dropdownOpen ? "opacity-100 visible" : "opacity-0 invisible"}`}>
                   <div className="bg-white rounded-lg shadow-xl border border-gray-100 py-2">

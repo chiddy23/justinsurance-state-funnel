@@ -11,6 +11,7 @@ const RESOURCES_LINKS = [
   { label: "Renewal Guide", href: "/license-renewal-guide/" },
   { label: "FAQ", href: "/faq/" },
   { label: "Pass Rates", href: "/pass-rates/" },
+  { label: "Partner With Us", href: "/partners" },
   { label: "Press & Media", href: "/press/" },
   { label: "Contact", href: "/contact" },
 ];

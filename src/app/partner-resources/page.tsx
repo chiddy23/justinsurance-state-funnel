@@ -200,6 +200,9 @@ export default function PartnerResourcesPage() {
       {/* Filter + Grid */}
       <section className="bg-white py-12 px-4">
         <div className="max-w-7xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-8">
+            Browse by Category
+          </h2>
           {/* Category filter */}
           <div className="flex flex-wrap gap-2 justify-center mb-10">
             {CATEGORIES.map((cat) => (

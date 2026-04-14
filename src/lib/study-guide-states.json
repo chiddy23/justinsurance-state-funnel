@@ -1,0 +1,1180 @@
+[
+  {
+    "name": "Alabama",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 8%",
+      "Life 35%",
+      "Annuities 10%",
+      "Health 30%",
+      "AL Laws 17%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "NIPR.com within 90 days",
+    "fails": [
+      "Confusing Alabama's 30-day free look period (replacement policies) with the standard 10-day period",
+      "Missing questions on Alabama's life insurance replacement regulations (specific disclosure forms required)",
+      "Underestimating the state law section — 17% of L&H questions are Alabama-specific"
+    ],
+    "law": "Alabama requires agents to complete a 20-hour pre-licensing course approved by the Alabama Department of Insurance. The course must include specific modules on Alabama insurance law and ethics.",
+    "tip": "The Pearson VUE interface uses a 'mark and review' feature. Use it aggressively — mark uncertain questions and come back. The 2.5-hour limit is generous; most students finish with time to spare."
+  },
+  {
+    "name": "Alaska",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "Life 35%",
+      "Health 30%",
+      "General 15%",
+      "AK Regulations 20%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "Alaska Division of Insurance within 180 days",
+    "fails": [
+      "Alaska's surplus lines regulations — unique rules for placing coverage with non-admitted insurers",
+      "Variable product licensing — requires FINRA securities registration in addition to state license",
+      "Mixing up Alaska's continuing education requirements with pre-licensing requirements"
+    ],
+    "law": "Alaska requires agents to provide a Notice Regarding Replacement whenever a new policy may cause an existing one to lapse or be surrendered. This signed form must be retained by the agent.",
+    "tip": "PSI exams in Alaska follow the same format nationwide. The state-specific law section (20%) is where many students drop points. Focus extra study time on the Alaska Division of Insurance's official regulations."
+  },
+  {
+    "name": "Arizona",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 34%",
+      "Health 30%",
+      "Annuities 9%",
+      "AZ Laws 17%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "NIPR.com; license issued within 2–3 business days",
+    "fails": [
+      "Arizona's Community Property rules and how they affect beneficiary designations",
+      "Distinction between admitted vs. non-admitted insurers in Arizona",
+      "Arizona's unclaimed property laws as they relate to life insurance proceeds"
+    ],
+    "law": "Arizona is a community property state. Assets acquired during marriage are jointly owned, which can affect insurance policy ownership and beneficiary designations. Spouse's consent may be required.",
+    "tip": "Pearson VUE centers are in Phoenix, Tucson, and Flagstaff. Book early — centers fill up in Phoenix. Exam scoring is immediate; you'll know your result before leaving the testing center."
+  },
+  {
+    "name": "Arkansas",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 36%",
+      "Health 28%",
+      "Annuities 9%",
+      "AR Laws 17%"
+    ],
+    "retake": "24-hour wait; no retake limit",
+    "apply": "NIPR.com within 90 days",
+    "fails": [
+      "Arkansas's replacement regulations — very specific disclosure requirements",
+      "Long-term care partnership program rules unique to Arkansas",
+      "The Arkansas Insurance Code sections on unfair claims practices"
+    ],
+    "law": "Arkansas participates in the Long-Term Care Partnership Program, allowing policyholders to protect assets equal to their LTC benefits paid from Medicaid spend-down requirements.",
+    "tip": "The state law section weighs 17% of the exam — don't underestimate it. Study directly from the Arkansas Insurance Department's official exam content outline, which lists specific statutes tested."
+  },
+  {
+    "name": "California",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "52 hours",
+    "topics": [
+      "General 10%",
+      "Life 30%",
+      "Health 30%",
+      "CA Laws 30%"
+    ],
+    "retake": "24-hour wait (1st–2nd); 30-day wait after 3rd+ failure",
+    "apply": "CDI online portal; fingerprinting required",
+    "fails": [
+      "California's extensive state law section (30%) — the largest of any state",
+      "California-specific ethics requirements — anti-fraud and unfair competition rules heavily tested",
+      "FAIR Plan — California's insurer of last resort for high-risk properties including fire zones"
+    ],
+    "law": "California requires 52 hours of pre-licensing education — significantly more than most states. The California Insurance Code has strict rules around life settlement regulations and the California Life and Health Insurance Guarantee Association (CLHIGA).",
+    "tip": "California's 30% state law weight means you're essentially studying two exams. The CDI publishes a detailed exam outline — use it as your study checklist. Many students fail because they underweight the California-specific material."
+  },
+  {
+    "name": "Colorado",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "Annuities 10%",
+      "CO Laws 17%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "NIPR.com; Colorado Division of Insurance processes within 3–5 days",
+    "fails": [
+      "Colorado's hailstorm-related property claims procedures",
+      "Managed care regulations specific to Colorado's insurance market",
+      "Senior protection laws around the sale of annuities to elderly clients"
+    ],
+    "law": "Colorado has strong senior protection regulations — agents must follow specific suitability standards when selling annuities or life insurance to seniors (65+), including documenting financial situation.",
+    "tip": "Colorado exams are in Denver, Colorado Springs, and Fort Collins. Bring two forms of ID — a government-issued photo ID and a secondary ID."
+  },
+  {
+    "name": "Connecticut",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "Annuities 9%",
+      "CT Laws 18%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "Connecticut Insurance Department; fingerprinting required",
+    "fails": [
+      "Connecticut's 40-hour pre-licensing requirement — students often underestimate the course depth",
+      "Connecticut's mandatory managed care regulations — specific requirements for HMOs and PPOs",
+      "Surplus lines tax requirements unique to Connecticut"
+    ],
+    "law": "Connecticut requires 40 hours of pre-licensing education — double the national norm. The Connecticut Insurance Department is one of the more rigorous regulators in the country.",
+    "tip": "PSI provides an official candidate handbook for Connecticut. Download it and review the content outline page by page. Connecticut's state law section is heavier than average — plan for it."
+  },
+  {
+    "name": "Delaware",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 30%",
+      "DE Laws 25%"
+    ],
+    "retake": "24-hour wait between attempts",
+    "apply": "Delaware Department of Insurance via NIPR.com",
+    "fails": [
+      "Delaware's insurance holding company regulations — DE is a major corporate domicile",
+      "Surplus lines licensing provisions specific to Delaware",
+      "Delaware's specific replacement and disclosure rules for life insurance"
+    ],
+    "law": "Delaware is home to hundreds of insurance companies due to its corporate-friendly laws. The exam tests specific rules about insurance holding company systems — groups of companies under common ownership or control.",
+    "tip": "Delaware's exam covers 25% state law — higher than average. If you have a background in corporate law or finance, the holding company regulations will feel familiar."
+  },
+  {
+    "name": "Florida",
+    "admin": "Pearson VUE",
+    "questions": 160,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health/Annuities 28%",
+      "FL Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "FL DFS MyProfile portal; fingerprinting required",
+    "fails": [
+      "Florida's 27% state law section — the state has uniquely complex insurance regulations",
+      "Florida No-Fault (PIP) auto insurance — specific personal injury protection rules",
+      "Citizens Property Insurance Corporation — Florida's insurer of last resort for homeowners"
+    ],
+    "law": "Florida has a 40-hour pre-licensing requirement and a large state law section (27%). Florida also has unique health insurance mandates including specific continuation of coverage rules and strong consumer protections that go beyond federal COBRA requirements.",
+    "tip": "Florida's exam has 160 questions — 10 more than most states. The 40-hour pre-licensing requirement must include specific Florida law content. Practice answering questions quickly; time can be a factor here."
+  },
+  {
+    "name": "Georgia",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 9%",
+      "Life 35%",
+      "Health 29%",
+      "GA Laws 27%"
+    ],
+    "retake": "24-hour wait; no retake limit",
+    "apply": "Georgia Office of Insurance via NIPR.com",
+    "fails": [
+      "Georgia's 40-hour requirement — students rush the pre-licensing course and arrive underprepared",
+      "Georgia FAIR Plan provisions for high-risk properties",
+      "Replacement regulations specific to Georgia"
+    ],
+    "law": "Georgia requires a specific Notice to Applicant form whenever an agent replaces an existing life insurance policy. This form must be signed by the applicant and retained by the agent.",
+    "tip": "Pearson VUE centers are in Atlanta, Augusta, Savannah, and Macon. Schedule at least 2 weeks out in Atlanta. Complete your 40-hour course from an approved provider; Georgia audits records."
+  },
+  {
+    "name": "Hawaii",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "HI Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Hawaii Insurance Division via NIPR.com",
+    "fails": [
+      "Hawaii's mandatory employer health insurance law — unique in the nation",
+      "Hawaii's HIPA (Prepaid Health Care Act) rules",
+      "Understanding Hawaii's no-fault auto insurance requirements"
+    ],
+    "law": "Hawaii is the only state with a mandatory employer health care law (the Prepaid Health Care Act). Employers must provide health coverage to employees working 20+ hours per week.",
+    "tip": "Hawaii's PSI exam centers are in Honolulu. If you're on a neighbor island, you'll need to travel to Oahu (or use approved remote proctoring if available). Plan travel and accommodations well in advance."
+  },
+  {
+    "name": "Idaho",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "ID Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Idaho Department of Insurance via NIPR.com",
+    "fails": [
+      "Idaho's surplus lines regulations",
+      "Workers' compensation provisions — Idaho has a state-run fund alongside private insurers",
+      "Idaho-specific crop insurance provisions (agriculture is a major industry)"
+    ],
+    "law": "Idaho has a State Insurance Fund for workers' compensation — a public entity that competes with private insurers. Agents need to understand the role of the State Insurance Fund.",
+    "tip": "Idaho's exam is straightforward compared to coastal states. The state law section focuses on standard NAIC model law applications. Thorough study of universal concepts will carry you far."
+  },
+  {
+    "name": "Illinois",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "IL Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Illinois Department of Insurance via NIPR.com",
+    "fails": [
+      "Illinois's 28% state law section — higher weighting than most states",
+      "Illinois Life and Health Insurance Guaranty Association rules",
+      "Variable annuity regulations specific to Illinois"
+    ],
+    "law": "Illinois has detailed regulations around life insurance replacement — agents must complete a Replacement Notice and provide specific disclosures. Illinois also has strong rules about rebating and twisting.",
+    "tip": "Illinois PSI centers are in Chicago, Springfield, and Rockford. Book Chicago centers at least 2 weeks out. Exam scores are reported immediately upon submission."
+  },
+  {
+    "name": "Indiana",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "IN Laws 28%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "Indiana Department of Insurance via NIPR.com",
+    "fails": [
+      "Indiana's unfair claims settlement practices specific provisions",
+      "Senior-specific annuity suitability rules",
+      "Indiana's producer licensing reciprocity agreements"
+    ],
+    "law": "Indiana has specific producer licensing requirements including a background check for all new applicants. Felony convictions can disqualify an applicant.",
+    "tip": "Students who fail Indiana often cite the state law section. Study the Indiana Insurance Code's producer licensing and unfair practices sections closely — these are the highest-frequency test topics."
+  },
+  {
+    "name": "Iowa",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "IA Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Iowa Insurance Division via NIPR.com",
+    "fails": [
+      "Iowa's crop insurance provisions — major agricultural state",
+      "Iowa Life and Health Guarantee Association rules",
+      "Continuing education requirements for post-licensing"
+    ],
+    "law": "Iowa is a major agricultural state and includes questions about crop insurance and multi-peril crop insurance (MPCI). These federally-backed programs through the USDA Risk Management Agency are unique to agricultural states.",
+    "tip": "Don't skip the crop insurance material. Iowa examiners include it specifically because it's unique to the state's market. A few crop insurance questions can be the difference between passing and failing at 70%."
+  },
+  {
+    "name": "Kansas",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 34%",
+      "Health 28%",
+      "KS Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Kansas Insurance Department via NIPR.com",
+    "fails": [
+      "Tornado/windstorm specific property coverage provisions — Kansas is in Tornado Alley",
+      "Kansas automobile liability laws including required minimums",
+      "Medicare Supplement (Medigap) regulations in Kansas"
+    ],
+    "law": "Kansas has specific windstorm deductible requirements for property policies. Because Kansas sits in Tornado Alley, insurers may apply separate higher deductibles for windstorm losses.",
+    "tip": "PSI centers in Kansas are in Wichita, Topeka, and Overland Park. Wichita centers book up quickly. Book 1–2 weeks in advance."
+  },
+  {
+    "name": "Kentucky",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "KY Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Kentucky Department of Insurance via NIPR.com",
+    "fails": [
+      "Kentucky's insurance fraud statutes — more detailed than many states",
+      "Workers' compensation in Kentucky — unique system structure",
+      "Life settlement regulations specific to Kentucky"
+    ],
+    "law": "Kentucky's Commissioner of Insurance has broad authority to regulate market conduct. The exam tests specific enforcement provisions — what triggers a market conduct examination, what penalties apply.",
+    "tip": "Focus extra study time on the state law section's enforcement and penalties provisions — these are frequently tested and students often underestimate the level of specificity required."
+  },
+  {
+    "name": "Louisiana",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "LA Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Louisiana Department of Insurance via NIPR.com",
+    "fails": [
+      "Louisiana's Civil Law tradition — LA operates under civil law (not common law)",
+      "Flood insurance regulations — Louisiana's Gulf Coast location makes flood coverage central",
+      "Louisiana Citizens Property Insurance Corporation rules"
+    ],
+    "law": "Louisiana is the only state with a legal system based on the Napoleonic Code (Civil Law) rather than English common law. This affects insurance contract interpretation and beneficiary rights.",
+    "tip": "You don't need to be a legal scholar on Civil Law. Know that Louisiana's legal tradition is different and that this can affect policy interpretation — especially around beneficiary rights and community property."
+  },
+  {
+    "name": "Maine",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 30%",
+      "ME Laws 25%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "Maine Bureau of Insurance via NIPR.com",
+    "fails": [
+      "Maine's individual health insurance market rules — strong consumer protections",
+      "Maine's guaranteed issue health insurance regulations",
+      "Long-term care partnership program specifics"
+    ],
+    "law": "Maine has strong guaranteed issue health insurance laws — insurers cannot deny individual health coverage based on health status. This pre-dates the ACA and is more expansive.",
+    "tip": "Maine's health insurance market rules are more consumer-protective than most states. If a question gives you a scenario where an insurer denies an individual health policy in Maine, the answer is almost certainly that this is NOT allowed."
+  },
+  {
+    "name": "Maryland",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 33%",
+      "Health 28%",
+      "MD Laws 29%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Maryland Insurance Administration via NIPR.com",
+    "fails": [
+      "Maryland's 29% state law section — one of the highest weightings in the country",
+      "Maryland Health Connection (ACA marketplace) interaction with private insurance",
+      "Surplus lines regulations specific to Maryland"
+    ],
+    "law": "Maryland has the Maryland Insurance Administration (MIA) with strong consumer protection mandates. The exam specifically tests the Insurance Article of the Maryland Code, including the Commissioner's power to examine, fine, and revoke licenses.",
+    "tip": "Maryland's 29% state law section demands serious attention. Use the MIA's official study guide as a primary reference. Students who treat the state section as secondary frequently fail Maryland's exam on the first try."
+  },
+  {
+    "name": "Massachusetts",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 10%",
+      "Life 30%",
+      "Health 28%",
+      "MA Laws 32%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "MA Division of Insurance via NIPR.com; CORI check required",
+    "fails": [
+      "Massachusetts's 32% state law section — the highest state law weight in the entire country",
+      "Massachusetts auto insurance (unique system — managed competition with state-structured forms)",
+      "Chapter 176D (unfair claims settlement practices) — frequently tested in detail"
+    ],
+    "law": "Massachusetts has a unique automobile insurance system — historically the only state where most auto insurance rates were set by the state. Today it's managed competition, but MA still has unique auto regulations.",
+    "tip": "Massachusetts's 32% state law weight means you need to treat the Massachusetts Insurance Code as a second subject entirely. Budget at least 5 extra hours specifically on MA law."
+  },
+  {
+    "name": "Michigan",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "MI Laws 28%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "Michigan DIFS via NIPR.com",
+    "fails": [
+      "Michigan's no-fault auto insurance system — one of the most complex in the country",
+      "The Michigan Catastrophic Claims Association (MCCA) — unique to Michigan",
+      "Michigan's unlimited PIP option and the 2020 auto insurance reform"
+    ],
+    "law": "Michigan underwent a major auto insurance reform in 2020. Drivers can now choose PIP benefit levels: unlimited, $500K, $250K, $50K (Medicaid recipients), or opt-out (Medicare recipients).",
+    "tip": "Michigan's 2020 auto reform is fresh material — don't use older prep books that don't cover these changes. The Michigan DIFS website has official guidance on the new PIP tiers."
+  },
+  {
+    "name": "Minnesota",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "MN Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Minnesota Commerce Department via NIPR.com",
+    "fails": [
+      "Minnesota's no-fault auto insurance requirements",
+      "Minnesota Life and Health Guaranty Association provisions",
+      "Senior citizen protection regulations in insurance sales"
+    ],
+    "law": "Minnesota is a no-fault auto insurance state. Drivers must carry PIP coverage that pays medical expenses regardless of fault. Know Minnesota's minimum PIP requirements and threshold rules.",
+    "tip": "The no-fault auto system appears in multiple question formats. Understanding the verbal threshold vs. monetary threshold is a key distinction to master."
+  },
+  {
+    "name": "Mississippi",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "MS Laws 27%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "Mississippi Insurance Department via NIPR.com",
+    "fails": [
+      "Mississippi's producer licensing requirements and background check provisions",
+      "Mississippi Life and Health Guaranty Association rules and coverage limits",
+      "Replacement regulations specific to Mississippi — disclosure form requirements"
+    ],
+    "law": "Mississippi requires agents to complete a 20-hour pre-licensing course and pass a background check before licensure. Agents must be appointed by an insurer before transacting business on behalf of that insurer.",
+    "tip": "Focus on the state law section which covers the Mississippi Insurance Department's producer licensing rules, unfair practices statutes, and continuing education requirements."
+  },
+  {
+    "name": "Missouri",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "MO Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Missouri DCI via NIPR.com",
+    "fails": [
+      "Missouri's unfair trade practices regulations",
+      "Annuity suitability standards specific to Missouri",
+      "Missouri Life and Health Guaranty Association rules"
+    ],
+    "law": "Missouri has specific annuity suitability regulations requiring agents to make documented recommendations based on the client's financial profile. Know what information must be gathered before recommending an annuity.",
+    "tip": "Missouri's annuity suitability questions tend to be scenario-based. Centers are in Kansas City, St. Louis, and Springfield. Practice applying the suitability rules to real client situations."
+  },
+  {
+    "name": "Montana",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "MT Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Montana CSI via NIPR.com",
+    "fails": [
+      "Montana's Workers' Compensation State Fund — Montana has a competitive state fund",
+      "Rural agricultural coverage provisions",
+      "Montana's unfair discrimination rules in underwriting"
+    ],
+    "law": "Montana has strong unfair discrimination laws in insurance that prohibit basing coverage decisions on certain protected characteristics. Know what Montana specifically prohibits insurers from using as a rating factor.",
+    "tip": "PSI has limited centers in Montana — Billings, Great Falls, and Missoula. Rural applicants should plan travel accordingly. Schedule at least 2–3 weeks ahead."
+  },
+  {
+    "name": "Nebraska",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "NE Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Nebraska DOI via NIPR.com",
+    "fails": [
+      "Nebraska's crop insurance provisions — major agricultural state",
+      "Nebraska's Life Settlement Act — regulations governing life policy sales to investors",
+      "Continuing education requirements post-licensure"
+    ],
+    "law": "Nebraska has a Life Settlement Act that regulates the sale of life insurance policies on the secondary market. Know the definition of a life settlement, who needs to be licensed, and disclosure requirements.",
+    "tip": "Nebraska and Iowa share similar agricultural insurance themes. Nebraska's Pearson VUE center is primarily in Omaha."
+  },
+  {
+    "name": "Nevada",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "NV Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Nevada Division of Insurance via NIPR.com",
+    "fails": [
+      "Nevada's continuing education ethics requirement — unique mandatory ethics hours",
+      "Senior-specific annuity suitability standards",
+      "Nevada's anti-rebating provisions"
+    ],
+    "law": "Nevada has strict rules about annuity suitability for seniors. Agents must complete a one-time 8-hour training course on senior suitability before selling annuities to clients age 65+.",
+    "tip": "Nevada's exam is held in Las Vegas, Reno, and Henderson. Las Vegas centers book very quickly — schedule at least 2 weeks out. The senior annuity suitability content is Nevada-specific and worth focused study time."
+  },
+  {
+    "name": "New Hampshire",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "NH Laws 27%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "New Hampshire Insurance Department via NIPR.com",
+    "fails": [
+      "New Hampshire's 40-hour pre-licensing requirement",
+      "Unique auto insurance provisions — NH is one of only two states that doesn't require auto insurance",
+      "Workers' compensation exemptions for small employers"
+    ],
+    "law": "New Hampshire is one of only two states in the U.S. that doesn't mandate auto liability insurance. Drivers may legally drive without insurance but are personally liable for any damages they cause.",
+    "tip": "The auto insurance exemption is the most memorable and tested NH-specific fact. No other state has this exact provision."
+  },
+  {
+    "name": "New Jersey",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 34%",
+      "Health 29%",
+      "NJ Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "New Jersey DOBI via NIPR.com",
+    "fails": [
+      "New Jersey's no-fault PIP auto insurance — one of the more complex no-fault systems",
+      "New Jersey's individual health insurance market regulations — strong consumer protections",
+      "FAIR Plan and JUA (Joint Underwriting Association) for hard-to-insure properties"
+    ],
+    "law": "New Jersey has strong individual health insurance market regulations including guaranteed issue and community rating requirements. Insurers in New Jersey cannot deny individual health coverage based on health status.",
+    "tip": "Map out NJ's two lawsuit options clearly in your notes. Scenario questions will describe a driver and ask which option is in effect based on the described coverage situation."
+  },
+  {
+    "name": "New Mexico",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "NM Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "New Mexico OSI via NIPR.com",
+    "fails": [
+      "New Mexico's community property rules and insurance implications",
+      "New Mexico's Workers' Compensation Act specifics",
+      "Health insurance continuation rules beyond COBRA"
+    ],
+    "law": "New Mexico is a community property state, meaning property acquired during marriage is jointly owned by both spouses. This affects beneficiary rights, policy ownership, and characterization of insurance proceeds.",
+    "tip": "New Mexico's PSI centers are in Albuquerque and Santa Fe. The community property rules overlap with Arizona and other Western community property states."
+  },
+  {
+    "name": "New York",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "NY Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "NY DFS via NIPR.com; fingerprinting required",
+    "fails": [
+      "New York's state law section (27% L&H) — one of the most heavily regulated states",
+      "New York's unique auto no-fault (PIP) system with specific mandatory benefits",
+      "NY Insurance Law Article 54 — life settlements and viatical settlements"
+    ],
+    "law": "New York is one of the most heavily regulated states for Life & Health. New York has unique health insurance mandates — insurers must cover certain benefits that other states don't require.",
+    "tip": "New York requires fingerprinting and a background check before your license is issued — not before the exam. Pass first, then start the background process."
+  },
+  {
+    "name": "North Carolina",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "NC Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "NC DOI via NIPR.com",
+    "fails": [
+      "FAIR Plan provisions — North Carolina has a specific program for high-risk properties",
+      "NC's beach and coastal properties — North Carolina Insurance Underwriting Association (NCIUA)",
+      "Medicare Supplement regulations specific to NC"
+    ],
+    "law": "The North Carolina Insurance Underwriting Association (NCIUA) — also called the Beach Plan — provides wind and hail coverage for coastal properties that private insurers won't cover.",
+    "tip": "Pearson VUE centers are in Charlotte, Raleigh, Greensboro, and Wilmington. The NCIUA/Beach Plan content is NC-specific and won't appear on most other state exams."
+  },
+  {
+    "name": "North Dakota",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "ND Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "ND Insurance Department via NIPR.com",
+    "fails": [
+      "North Dakota's monopolistic state workers' comp fund (Workforce Safety & Insurance)",
+      "Crop and farm insurance provisions",
+      "ND's surplus lines regulations"
+    ],
+    "law": "North Dakota is one of four monopolistic workers' compensation states — all workers' comp must be purchased from the state-operated Workforce Safety & Insurance (WSI). Private workers' comp insurers cannot compete in North Dakota.",
+    "tip": "The four monopolistic workers' comp states — North Dakota, Ohio, Washington, and Wyoming — are frequently tested as a group. Know all four by name. The mnemonic 'NOWW' helps lock them in."
+  },
+  {
+    "name": "Ohio",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "OH Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Ohio DOI via NIPR.com",
+    "fails": [
+      "Ohio's monopolistic workers' comp fund (BWC) — Bureau of Workers' Compensation",
+      "Ohio's specific annuity replacement regulations",
+      "Ohio Life and Health Guarantee Association rules"
+    ],
+    "law": "Ohio's Bureau of Workers' Compensation (BWC) is the state's workers' compensation fund. Ohio is a monopolistic workers' comp state — private insurers generally cannot sell workers' comp to Ohio employers.",
+    "tip": "PSI centers are in Columbus, Cleveland, Cincinnati, and Toledo. Focus on Ohio's Life and Health Guarantee Association coverage limits and the specific replacement regulations."
+  },
+  {
+    "name": "Oklahoma",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "OK Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Oklahoma ID via NIPR.com",
+    "fails": [
+      "Tornado/severe weather property coverage provisions — Oklahoma is in Tornado Alley",
+      "Oklahoma's windstorm deductible rules",
+      "The Oklahoma FAIR Plan for high-risk properties"
+    ],
+    "law": "Oklahoma, like Kansas, sits in Tornado Alley. Insurers in Oklahoma can apply separate wind/tornado deductibles on property policies. Know how these deductibles work and how they interact with standard policy deductibles.",
+    "tip": "Oklahoma's exam content is fairly standard. The windstorm and tornado coverage provisions are the most unique elements. Study these specifically using the Oklahoma Insurance Department's producer licensing guide."
+  },
+  {
+    "name": "Oregon",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "OR Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Oregon Insurance Division via NIPR.com",
+    "fails": [
+      "Oregon's rebating exception — Oregon actually allows certain forms of rebating",
+      "Oregon's auto insurance minimum requirements",
+      "Oregon's small employer health insurance regulations"
+    ],
+    "law": "Oregon is one of very few states with a limited rebating exception. Most states prohibit rebating entirely. In Oregon, certain premium discounts or incentives are permitted under specific conditions.",
+    "tip": "If a question asks whether rebating is always illegal in Oregon — the answer is NO. Know the specific conditions under which Oregon permits limited rebating. This is Oregon's most unique exam topic."
+  },
+  {
+    "name": "Pennsylvania",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "24 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "PA Laws 27%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "Pennsylvania ID via NIPR.com",
+    "fails": [
+      "Pennsylvania's no-fault choice auto insurance (limited tort vs. full tort)",
+      "Pennsylvania's FAIR Plan for property coverage",
+      "State-specific health insurance continuation rules beyond COBRA"
+    ],
+    "law": "Pennsylvania has specific health insurance continuation rules beyond COBRA. The Pennsylvania Insurance Department requires carriers to offer continuation of group health coverage to employees and dependents who lose group coverage.",
+    "tip": "Pennsylvania's 24-hour pre-licensing requirement is slightly different from the 20-hour norm. Make sure your course is approved by the Pennsylvania Insurance Department and meets the 24-hour minimum."
+  },
+  {
+    "name": "Rhode Island",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "RI Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Rhode Island DOI via NIPR.com",
+    "fails": [
+      "Rhode Island's 40-hour pre-licensing requirement",
+      "Rhode Island's health insurance market rules — small state, specific carrier regulations",
+      "RI Life and Health Guaranty Association provisions"
+    ],
+    "law": "Rhode Island requires 40 hours of pre-licensing education and has specific continuing education requirements (24 hours every 2 years including 3 hours of ethics). The Rhode Island Insurance Division regulates both the market and agent conduct closely.",
+    "tip": "Rhode Island's PSI center is in Providence — the only testing location in the state. Book well in advance. The exam follows PSI's standard interface."
+  },
+  {
+    "name": "South Carolina",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "SC Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "SC DOI via NIPR.com",
+    "fails": [
+      "SC Wind Pool — South Carolina Wind and Hail Underwriting Association for coastal properties",
+      "Senior protection regulations around annuity sales",
+      "SC's unfair trade practices statute specifics"
+    ],
+    "law": "The South Carolina Wind and Hail Underwriting Association (SC Wind Pool) provides coverage for properties in coastal counties that private insurers won't write.",
+    "tip": "Coastal wind coverage pools are tested in every coastal state — SC Wind Pool for SC, NCIUA for NC, Louisiana Citizens for Louisiana, TWIA for Texas, MWUA for Mississippi. Learning the concept once helps you apply it state by state."
+  },
+  {
+    "name": "South Dakota",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "SD Laws 27%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "South Dakota DOI via NIPR.com",
+    "fails": [
+      "Trust-owned life insurance (TOLI) — South Dakota is a major trust domicile",
+      "South Dakota's surplus lines regulations",
+      "Credit insurance regulations unique to South Dakota"
+    ],
+    "law": "South Dakota is one of the most popular trust domicile states. This creates a unique market for trust-owned life insurance (TOLI) — life policies owned by irrevocable life insurance trusts (ILITs).",
+    "tip": "South Dakota's exam includes questions about insurance trust structures you won't see in most other states. 3–5 questions can make the difference. Review TOLI and irrevocable trust basics before your exam."
+  },
+  {
+    "name": "Tennessee",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "TN Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Tennessee TDCI via NIPR.com",
+    "fails": [
+      "Tennessee's free look period — 10 days for most policies but 30 days for Medicare Supplement",
+      "TennCare — Tennessee's Medicaid program and its interaction with private insurance",
+      "Tennessee Life and Health Guaranty Association limits"
+    ],
+    "law": "TennCare is Tennessee's Medicaid managed care program. Tennessee contracts with private managed care organizations to deliver Medicaid benefits. Agents need to understand how TennCare interacts with private coverage.",
+    "tip": "Tennessee's TennCare/Medicaid interaction questions are specific to TN but follow standard coordination of benefits logic. If you understand general Medicaid coordination rules, Tennessee's questions won't surprise you."
+  },
+  {
+    "name": "Texas",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "40 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "TX Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Texas TDI via Sircon.com",
+    "fails": [
+      "Texas's 28–30% state law section — huge and very specific",
+      "Texas Workers' Compensation opt-out — Texas is the ONLY state where employers can legally opt out",
+      "Texas Windstorm Insurance Association (TWIA) for Gulf Coast properties"
+    ],
+    "law": "Texas is the only state in the country where employers can legally opt out of workers' compensation. 'Non-subscriber' employers choose not to carry workers' comp but lose certain legal protections and can face civil lawsuits from injured employees.",
+    "tip": "Texas has Pearson VUE centers in every major city. The 40-hour pre-licensing and 28–30% state law weight make Texas one of the more demanding exams. The workers' comp opt-out is THE most Texas-specific exam topic — know it cold."
+  },
+  {
+    "name": "Utah",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "UT Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Utah DOI via NIPR.com",
+    "fails": [
+      "Utah's insurance fraud statutes — strict enforcement with civil and criminal penalties",
+      "Medicare Supplement standardized plan rules",
+      "Utah's continuing education requirements post-license"
+    ],
+    "law": "Utah has strong insurance fraud statutes with specific civil and criminal penalties. Know the difference between civil fraud (insurance fraud as a tort) and criminal fraud (a felony under Utah law).",
+    "tip": "Utah's PSI centers are in Salt Lake City and Provo. The fraud statutes section is tested specifically in Utah — review the Utah Insurance Fraud Act's definitions and penalties."
+  },
+  {
+    "name": "Vermont",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "VT Laws 27%"
+    ],
+    "retake": "24-hour wait; no limit",
+    "apply": "Vermont DFR via NIPR.com",
+    "fails": [
+      "Vermont's single-payer health care history — VT was the first state to pass a single-payer law (later repealed)",
+      "Vermont Captive Insurance regulations — Vermont is the #1 captive insurance domicile in the U.S.",
+      "Small employer health insurance market rules specific to Vermont"
+    ],
+    "law": "Vermont is the #1 captive insurance domicile in the United States. A captive insurance company is a closely held insurer whose primary purpose is to insure the risks of its owner(s).",
+    "tip": "The captive insurance concept is unique to Vermont in the licensing exam context. Most students don't study it — which means those who do have an advantage."
+  },
+  {
+    "name": "Virginia",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "VA Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Bureau of Insurance (VA SCC) via NIPR.com",
+    "fails": [
+      "Virginia's auto insurance alternative — VA allows a 'pay-to-not-insure' annual fee option",
+      "Virginia Life, Accident & Sickness Insurance Guaranty Association specifics",
+      "Virginia's surplus lines regulations"
+    ],
+    "law": "Virginia allows drivers to pay an annual uninsured motor vehicle fee to the DMV instead of carrying liability insurance. This is NOT insurance — it allows uninsured driving but doesn't protect the driver from financial liability.",
+    "tip": "Virginia's Pearson VUE centers are in Richmond, Norfolk, Northern Virginia, and Roanoke. Virginia and New Hampshire are the only two states with this type of provision — know both."
+  },
+  {
+    "name": "Washington",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "WA Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Washington OIC via NIPR.com",
+    "fails": [
+      "Washington's monopolistic workers' comp fund (L&I — Department of Labor & Industries)",
+      "Washington State's Long-Term Care insurance mandate (WA Cares Fund) — unique in the U.S.",
+      "Washington's auto insurance minimum requirements"
+    ],
+    "law": "Washington is a monopolistic workers' comp state AND passed the WA Cares Fund — the nation's first mandatory state long-term care program (2021). Washington employees pay a payroll tax (0.58% of wages) and can receive LTC benefits after a vesting period.",
+    "tip": "The WA Cares Fund is a nationally unique exam topic. Washington agents must understand how the state LTC mandate works, who is exempt, and how it interacts with private LTC insurance."
+  },
+  {
+    "name": "Washington D.C.",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "D.C. Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "DC DISB via NIPR.com",
+    "fails": [
+      "D.C.'s unique jurisdiction status — not a state, governed by unique laws",
+      "D.C.'s mandatory health insurance provisions — D.C. has its own individual mandate",
+      "D.C. workers' compensation system — operates differently from surrounding states"
+    ],
+    "law": "Washington D.C. has its own individual health insurance mandate requiring residents to maintain qualifying health coverage. D.C. enacted its own mandate after the federal ACA individual mandate penalty was reduced to $0 in 2019.",
+    "tip": "D.C.'s exam is administered by Pearson VUE centers serving the Northern Virginia/Maryland area. The D.C. individual mandate is the most distinctive local law element."
+  },
+  {
+    "name": "West Virginia",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "WV Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "West Virginia OIC via NIPR.com",
+    "fails": [
+      "WV's competitive state workers' comp history (BrickStreet/Encova Insurance privatization)",
+      "Mining and extraction industry insurance provisions",
+      "WVOIC consumer protection regulations"
+    ],
+    "law": "West Virginia privatized its workers' compensation system in 2008, moving from a monopolistic state fund to a private market. WV is NO LONGER a monopolistic workers' comp state — private insurers compete freely.",
+    "tip": "The workers' comp privatization is the most important historical change for West Virginia's exam. Students often assume WV has a state monopoly like OH, ND, WA, and WY. It doesn't — this is a common and costly trap."
+  },
+  {
+    "name": "Wisconsin",
+    "admin": "Pearson VUE",
+    "questions": 150,
+    "time": "2.5 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 27%",
+      "WI Laws 28%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Wisconsin OCI via NIPR.com",
+    "fails": [
+      "Wisconsin's community property rules — WI is one of only nine community property states",
+      "Wisconsin's insurance small claims court process",
+      "Continuing education post-license requirements"
+    ],
+    "law": "Wisconsin is one of nine community property states. The Wisconsin Marital Property Act governs joint ownership of marital assets, which affects insurance beneficiary designations and policy ownership.",
+    "tip": "Memorize all nine community property states: Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin. Mnemonic: 'All Cars Idling Loudly Need New Tires Will Work.'"
+  },
+  {
+    "name": "Wyoming",
+    "admin": "PSI",
+    "questions": 150,
+    "time": "3 hours",
+    "pass": "70%",
+    "hours": "20 hours",
+    "topics": [
+      "General 10%",
+      "Life 35%",
+      "Health 28%",
+      "WY Laws 27%"
+    ],
+    "retake": "24-hour wait; unlimited",
+    "apply": "Wyoming DOI via NIPR.com",
+    "fails": [
+      "Wyoming's monopolistic workers' comp fund (Wyoming Workers' Compensation Division)",
+      "Oil and gas industry insurance provisions",
+      "Wyoming's specific surplus lines tax requirements"
+    ],
+    "law": "Wyoming is one of four monopolistic workers' compensation states — all workers' comp coverage must go through the state-operated Wyoming Workers' Compensation Division. Private workers' comp insurers cannot compete in Wyoming.",
+    "tip": "PSI centers are in Cheyenne and Casper. Book 2–3 weeks ahead. Wyoming's exam is straightforward otherwise — focus heavily on the monopolistic workers' comp concept and standard universal concepts. The NOWW mnemonic covers Wyoming perfectly."
+  }
+]

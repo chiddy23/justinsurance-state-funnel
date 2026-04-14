@@ -139,6 +139,28 @@ export default function PracticeExamHubPage() {
         </div>
       </section>
 
+      {/* Free study guide CTA */}
+      <section className="bg-gray-bg py-10 px-4 border-b border-gray-200">
+        <div className="max-w-3xl mx-auto text-center">
+          <p className="text-gold font-semibold uppercase tracking-wide text-xs mb-2">
+            Free Resource
+          </p>
+          <h3 className="text-xl md:text-2xl font-bold text-navy mb-2">
+            Not Ready to Buy Yet? Start With Our Free Study Guide
+          </h3>
+          <p className="text-gray-600 mb-4 max-w-xl mx-auto">
+            The most comprehensive free insurance exam study guide online — universal concepts,
+            50-term glossary, all 50 state breakdowns, mnemonics, and a 7-day plan.
+          </p>
+          <Link
+            href="/study-guide"
+            className="inline-block bg-white border-2 border-gold hover:bg-gold/10 text-gold-dark font-bold py-2.5 px-6 rounded-lg transition-colors"
+          >
+            Read the Free Study Guide →
+          </Link>
+        </div>
+      </section>
+
       {/* Why practice exams work */}
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-5xl mx-auto">

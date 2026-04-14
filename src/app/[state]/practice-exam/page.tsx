@@ -220,6 +220,25 @@ export default async function PracticeExamPage({
         </div>
       </section>
 
+      {/* Secondary CTA — prelicensing course (placed under purchase cards for visibility) */}
+      <section className="bg-navy py-16 px-4">
+        <div className="max-w-3xl mx-auto text-center">
+          <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">
+            Want the Full Prep Package?
+          </h2>
+          <p className="text-blue-100 leading-relaxed mb-6">
+            Our {stateName} prelicensing course includes a full practice exam at no extra cost.
+            Get the complete curriculum plus the practice exam — one purchase, test-ready in days.
+          </p>
+          <Link
+            href={`/${slug}/prelicensing`}
+            className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-8 rounded-lg transition-colors"
+          >
+            See {stateName} Prelicensing Courses
+          </Link>
+        </div>
+      </section>
+
       {/* How to use it — benchmarks */}
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-4xl mx-auto">
@@ -290,25 +309,6 @@ export default async function PracticeExamPage({
               <p className="text-gray-600 text-sm">Free video lessons on the hardest exam topics — HMOs vs PPOs, riders, annuities, and more.</p>
             </a>
           </div>
-        </div>
-      </section>
-
-      {/* Secondary CTA — prelicensing course */}
-      <section className="bg-navy py-16 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">
-            Want the Full Prep Package?
-          </h2>
-          <p className="text-blue-100 leading-relaxed mb-6">
-            Our {stateName} prelicensing course includes a full practice exam at no extra cost.
-            Get the complete curriculum plus the practice exam — one purchase, test-ready in days.
-          </p>
-          <Link
-            href={`/${slug}/prelicensing`}
-            className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-8 rounded-lg transition-colors"
-          >
-            See {stateName} Prelicensing Courses
-          </Link>
         </div>
       </section>
 

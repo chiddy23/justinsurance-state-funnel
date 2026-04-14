@@ -6984,7 +6984,7 @@ export const STATES: Record<string, StateData> = {
         gracePeriod: "None — license suspended on expiration date",
         reinstatementFee: "$30/line renewal fee + late renewal penalty (amount not published online)",
         reinstatementWindow: "Up to 2 years (unusually long); after 2 years, full relicensing including exam",
-        carryForward: "Not publicly addressed — contact Vermont DFR",
+        carryForward: "No — excess credits do not carry forward",
         lapseConsequence: "Your license is suspended immediately at expiration and must be reinstated within 2 years via the initial application process, or you must retake the exam.",
       },
     },

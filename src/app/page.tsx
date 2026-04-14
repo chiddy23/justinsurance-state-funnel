@@ -132,7 +132,7 @@ export default function HomePage() {
                   </svg>
                 ),
                 title: "Pass Guarantee",
-                desc: "Complete the course and take your exam. If you don't pass, we refund your course fee. No questions asked.",
+                desc: "Meet the study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of enrollment. If you don't pass, we refund your course fee.",
               },
               {
                 icon: (

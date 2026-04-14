@@ -49,7 +49,7 @@ const faqs = [
   {
     question: "What happens if I don't pass the licensing exam?",
     answer:
-      "JustInsurance backs every prelicensing course with a pass guarantee. If you complete the full course — including all required practice exams — and do not pass your state licensing exam, we will refund your course fee in full. No questions asked. Our 93% first-attempt pass rate reflects the quality of our curriculum, but the guarantee gives you peace of mind either way.",
+      "JustInsurance backs every prelicensing course with a pass guarantee. If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. Our 93% first-attempt pass rate reflects the quality of our curriculum, but the guarantee gives you peace of mind either way.",
   },
 ];
 

@@ -216,7 +216,7 @@ export default async function StateHubPage({
               {
                 icon: "✅",
                 title: "Pass Guarantee",
-                desc: "Complete the course and take your exam. If you don't pass, we refund your course fee. Simple as that.",
+                desc: "Meet the study hours, score 80%+ on the practice exam three times, and test within 30 days of enrollment. If you don't pass, we refund your course fee.",
               },
               {
                 icon: "⚡",

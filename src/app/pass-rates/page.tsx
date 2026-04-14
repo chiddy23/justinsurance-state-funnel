@@ -56,7 +56,7 @@ const features = [
   {
     title: "Pass Guarantee",
     description:
-      "We're so confident in our courses that we back them with a pass guarantee. Complete the full course, take your state exam, and if you don't pass, we refund your course fee.",
+      "We're so confident in our courses that we back them with a pass guarantee. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of your first enrollment. If you don't pass, we refund your course fee.",
   },
 ];
 

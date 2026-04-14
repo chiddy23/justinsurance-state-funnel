@@ -308,7 +308,7 @@ export default function InsuranceExamGuidePage() {
               <strong className="text-navy">Review your score report.</strong> Your exam results include a breakdown by topic area. Use this to identify exactly where to focus your review — not just study everything again from scratch.
             </p>
             <p>
-              <strong className="text-navy">Use our pass guarantee.</strong> JustInsurance students who complete the full course and still do not pass their state exam are eligible for a full refund of their course fee. We stand behind our content.
+              <strong className="text-navy">Use our pass guarantee.</strong> JustInsurance students who meet the recommended study hours, score 80%+ on the practice exam three times in a row, and sit for their first-time state exam within 30 days of first enrollment are eligible for a full refund of their course fee if they don&apos;t pass. We stand behind our content.
             </p>
             <p>
               <strong className="text-navy">Most students pass on the second attempt</strong> when they take time to address the weak areas identified in their score report. The exam is passable — you just need the right preparation.

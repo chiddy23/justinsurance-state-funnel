@@ -135,7 +135,7 @@ export default function ExamInfoSection({
               <div>
                 <p className="font-semibold text-success text-sm">Pass Guarantee</p>
                 <p className="text-gray-600 text-sm mt-1">
-                  JustInsurance students who complete the full course pass at significantly higher rates. Our practice exams are built to mirror the actual state exam. If you complete the course and don&apos;t pass, we&apos;ll refund your course fee.
+                  JustInsurance students who complete the full course pass at significantly higher rates. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of your first enrollment. If you don&apos;t pass, we&apos;ll refund your course fee.
                 </p>
               </div>
             </div>

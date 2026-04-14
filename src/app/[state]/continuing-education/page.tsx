@@ -9,6 +9,7 @@ import StateHero from "@/components/StateHero";
 import LOASelector from "@/components/LOASelector";
 import FAQAccordion from "@/components/FAQAccordion";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import CEComplianceSection from "@/components/CEComplianceSection";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -206,6 +207,14 @@ export default async function CEHubPage({
           </p>
         </div>
       </section>
+
+      {ce.compliance && (
+        <CEComplianceSection
+          stateName={stateData.name}
+          doiName={stateData.doiName}
+          compliance={ce.compliance}
+        />
+      )}
 
       <FAQAccordion
         faqs={faqs}

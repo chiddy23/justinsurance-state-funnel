@@ -46,6 +46,13 @@ export interface StateDataForFAQ {
   ceRenewalPeriod: string;
   ceEthicsHours: number;
   cePackagePrice: string;
+  // CE compliance (optional — only populated for states with researched data)
+  ceLateFee?: string;
+  ceGracePeriod?: string;
+  ceReinstatementFee?: string;
+  ceReinstatementWindow?: string;
+  ceCarryForward?: string;
+  ceLapseConsequence?: string;
 }
 
 /**
@@ -92,6 +99,12 @@ export function buildFaqData(stateData: StateData): StateDataForFAQ {
     ceRenewalPeriod: stateData.ce.renewalPeriod,
     ceEthicsHours: stateData.ce.ethicsHours,
     cePackagePrice: stateData.ce.packagePrice,
+    ceLateFee: stateData.ce.compliance?.lateFee,
+    ceGracePeriod: stateData.ce.compliance?.gracePeriod,
+    ceReinstatementFee: stateData.ce.compliance?.reinstatementFee,
+    ceReinstatementWindow: stateData.ce.compliance?.reinstatementWindow,
+    ceCarryForward: stateData.ce.compliance?.carryForward,
+    ceLapseConsequence: stateData.ce.compliance?.lapseConsequence,
   };
 }
 
@@ -232,8 +245,26 @@ export function getCEHubFAQs(data: StateDataForFAQ): FAQ[] {
     },
     {
       question: `What happens if I don't complete my ${data.name} CE on time?`,
-      answer: `If you fail to complete your ${data.ceTotalHours} CE hours and renew your license before your deadline, your ${data.name} insurance license will lapse. A lapsed license means you cannot legally sell, solicit, or negotiate insurance until it is reinstated. Reinstatement typically requires paying a late fee, submitting a reinstatement application to the ${data.doiName}, and in some cases completing additional CE hours beyond the standard ${data.ceTotalHours}. A lapsed license can also interrupt your commission flow and harm your carrier appointments. JustInsurance makes it easy to finish your hours well before your deadline — the entire ${data.cePackagePrice} package can be completed in a single day if needed.`,
+      answer: data.ceLapseConsequence
+        ? `${data.ceLapseConsequence} Specifically in ${data.name}: the grace period is ${data.ceGracePeriod}, the late fee is ${data.ceLateFee}, and reinstatement runs ${data.ceReinstatementFee} with a window of ${data.ceReinstatementWindow}. A lapsed license also interrupts your commission flow and can trigger carrier appointment reviews. JustInsurance makes it easy to finish your hours well before your deadline — the entire ${data.cePackagePrice} package can be completed in a single day if needed.`
+        : `If you fail to complete your ${data.ceTotalHours} CE hours and renew your license before your deadline, your ${data.name} insurance license will lapse. A lapsed license means you cannot legally sell, solicit, or negotiate insurance until it is reinstated. Reinstatement typically requires paying a late fee, submitting a reinstatement application to the ${data.doiName}, and in some cases completing additional CE hours beyond the standard ${data.ceTotalHours}. A lapsed license can also interrupt your commission flow and harm your carrier appointments. JustInsurance makes it easy to finish your hours well before your deadline — the entire ${data.cePackagePrice} package can be completed in a single day if needed.`,
     },
+    ...(data.ceReinstatementFee
+      ? [
+          {
+            question: `How do I reinstate a lapsed ${data.name} insurance license?`,
+            answer: `If your ${data.name} insurance license has lapsed, you typically have ${data.ceReinstatementWindow} to reinstate it before you must re-apply as a new licensee. Reinstatement in ${data.name} runs ${data.ceReinstatementFee}, and you must complete any outstanding CE hours from the lapsed period before the ${data.doiName} will process your reinstatement. The sooner you act, the simpler the process — waiting too long can mean retaking prelicensing education and the state exam from scratch. JustInsurance courses report electronically to the ${data.doiName}, so once your hours are complete your reinstatement moves fast.`,
+          },
+        ]
+      : []),
+    ...(data.ceCarryForward
+      ? [
+          {
+            question: `Do unused CE hours carry forward in ${data.name}?`,
+            answer: `Carry-forward policy in ${data.name}: ${data.ceCarryForward}. Carry-forward rules matter if you finish your required hours early in the cycle — in some states, the extra hours apply to your next renewal period, while in others any excess is simply lost. Ethics hours often have separate, stricter carry-forward rules than general CE hours, so even if general hours roll over, you typically need a fresh ethics course each cycle. For the current official carry-forward policy, always verify with the ${data.doiName}, which is the authoritative source of truth for your CE account.`,
+          },
+        ]
+      : []),
     {
       question: `Does ${data.name} require ethics CE hours?`,
       answer: `Yes. ${data.name} mandates that ${data.ceEthicsHours} of your ${data.ceTotalHours} required CE hours specifically cover ethics and professional conduct. This is not optional — you must satisfy the ethics component separately from general CE hours, and the ${data.doiName} tracks it independently. Failing to complete the ethics hours is treated the same as failing to complete your total CE requirement. JustInsurance's ${data.cePackagePrice} CE package includes a fully approved ${data.ceEthicsHours}-hour ethics course, so your entire renewal requirement is covered in one purchase.`,

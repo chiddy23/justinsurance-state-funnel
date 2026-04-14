@@ -7,6 +7,7 @@ const RESOURCES_LINKS = [
   { label: "About Us", href: "/about" },
   { label: "Blog", href: "/blog" },
   { label: "Exam Guide", href: "/insurance-exam-guide" },
+  { label: "Practice Exams", href: "/practice-exam" },
   { label: "Study Guide", href: "/study-guide" },
   { label: "Renewal Guide", href: "/license-renewal-guide" },
   { label: "FAQ", href: "/faq" },

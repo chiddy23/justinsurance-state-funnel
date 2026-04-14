@@ -53,6 +53,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
   const globalHubs: Array<{ path: string; priority: number }> = [
     { path: "/prelicensing", priority: 0.85 },
     { path: "/continuing-education", priority: 0.85 },
+    { path: "/practice-exam", priority: 0.85 },
     { path: "/life-insurance-license", priority: 0.8 },
     { path: "/health-insurance-license", priority: 0.8 },
     { path: "/life-and-health-insurance-license", priority: 0.8 },

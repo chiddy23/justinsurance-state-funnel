@@ -10,7 +10,8 @@ export type PageType =
   | "ce-hub"
   | "prelicensing-course"
   | "ce-course"
-  | "practice-exam";
+  | "practice-exam"
+  | "practice-exam-hub";
 
 // ---------------------------------------------------------------------------
 // Internal helpers
@@ -88,6 +89,11 @@ function buildTitle(
       `${stateName} Insurance Practice Exam | ${brand}`,
       `${stateName} Practice Exam | ${brand}`,
     ],
+    "practice-exam-hub": [
+      `Insurance Practice Exams by State | $59 | ${brand}`,
+      `Insurance Practice Exams | All 50 States | ${brand}`,
+      `Insurance Practice Exams | ${brand}`,
+    ],
   };
 
   const candidates = candidatesByType[pageType];
@@ -128,6 +134,8 @@ function buildDescription(
       return `${stateName} ${loaName} CE course online. Same-day DOI reporting, self-paced, state-approved. Renew your insurance license with JustInsurance. From $39.`;
     case "practice-exam":
       return `${stateName} insurance practice exam — Life, Health, and Life & Health versions. Mirror the real state exam. Boost your score, pass with confidence. $59.`;
+    case "practice-exam-hub":
+      return `State-approved insurance practice exams for all 50 states. Life, Health, and Life & Health — mirror the real state exam. Pick your state to start. $59.`;
   }
 }
 
@@ -152,6 +160,8 @@ function buildCanonicalPath(
       return `/${stateSlug}/continuing-education/${loaSlug}/`;
     case "practice-exam":
       return `/${stateSlug}/practice-exam/`;
+    case "practice-exam-hub":
+      return "/practice-exam/";
   }
 }
 

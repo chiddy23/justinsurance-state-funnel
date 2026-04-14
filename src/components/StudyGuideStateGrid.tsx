@@ -42,27 +42,27 @@ function StateCard({
 
   return (
     <article className="bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden">
-      <button
-        onClick={onToggle}
-        aria-expanded={isOpen}
-        className={`w-full flex items-center justify-between px-5 py-4 text-left transition-colors ${
-          isOpen
-            ? "bg-gold/10 border-b border-gold/30"
-            : "bg-navy hover:bg-navy-light"
-        }`}
-      >
-        <h3 className={`font-bold text-lg m-0 ${isOpen ? "text-navy" : "text-white"}`}>
-          {state.name}
-        </h3>
-        <span
-          className={`text-xl transition-transform duration-200 ${
-            isOpen ? "rotate-180 text-gold-dark" : "text-gold"
+      <h3 className="m-0">
+        <button
+          onClick={onToggle}
+          aria-expanded={isOpen}
+          className={`w-full flex items-center justify-between px-5 py-4 text-left font-bold text-lg transition-colors ${
+            isOpen
+              ? "bg-gold/10 border-b border-gold/30 text-navy"
+              : "bg-navy hover:bg-navy-light text-white"
           }`}
-          aria-hidden="true"
         >
-          ▾
-        </span>
-      </button>
+          <span>{state.name}</span>
+          <span
+            className={`text-xl transition-transform duration-200 ${
+              isOpen ? "rotate-180 text-gold-dark" : "text-gold"
+            }`}
+            aria-hidden="true"
+          >
+            ▾
+          </span>
+        </button>
+      </h3>
 
       {/* Always-visible overview stats (even when closed) */}
       <div className="grid grid-cols-2 md:grid-cols-3 gap-3 px-5 py-4 bg-gray-bg/50 text-sm">

@@ -17,35 +17,35 @@ export default function PassGuarantee() {
           </h2>
 
           <p className="text-gray-700 text-lg mb-6 leading-relaxed">
-            We&apos;re so confident in our courses that we back them with a pass guarantee. Complete the full course, take your practice exams seriously, and show up prepared. If you don&apos;t pass your state exam, <strong>we&apos;ll refund your course fee</strong>. No runaround. No excuses.
+            We&apos;re so confident in our courses that we back them with a pass guarantee. Put in the study time, master the practice exam, and test within your window. If you still don&apos;t pass your state exam, <strong>we&apos;ll refund your course fee</strong>. No runaround. No excuses.
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-left mb-8">
             <div className="bg-white rounded-lg p-4 shadow-sm">
               <div className="flex items-center gap-2 mb-2">
                 <span className="text-gold font-bold text-lg">1</span>
-                <p className="font-semibold text-navy text-sm">Complete the Course</p>
+                <p className="font-semibold text-navy text-sm">Meet the Study Hours</p>
               </div>
-              <p className="text-gray-600 text-sm">Finish all video lessons, readings, and chapter quizzes in full.</p>
+              <p className="text-gray-600 text-sm">Complete the recommended study hours for your state — 20 hours for a single line, or 40 hours for a dual line in states that don&apos;t require prelicensing.</p>
             </div>
             <div className="bg-white rounded-lg p-4 shadow-sm">
               <div className="flex items-center gap-2 mb-2">
                 <span className="text-gold font-bold text-lg">2</span>
-                <p className="font-semibold text-navy text-sm">Take the Practice Exam</p>
+                <p className="font-semibold text-navy text-sm">Master the Practice Exam</p>
               </div>
-              <p className="text-gray-600 text-sm">Complete the full practice exam and review all incorrect answers.</p>
+              <p className="text-gray-600 text-sm">Score 80% or higher on the practice exam three times in a row before sitting for the state exam.</p>
             </div>
             <div className="bg-white rounded-lg p-4 shadow-sm">
               <div className="flex items-center gap-2 mb-2">
                 <span className="text-gold font-bold text-lg">3</span>
-                <p className="font-semibold text-navy text-sm">Don&apos;t Pass? Get Refunded</p>
+                <p className="font-semibold text-navy text-sm">Test Within 30 Days</p>
               </div>
-              <p className="text-gray-600 text-sm">If you still don&apos;t pass your state exam, we refund your course fee — simple as that.</p>
+              <p className="text-gray-600 text-sm">Take your first-time state exam attempt within 30 days of your first enrollment in the course.</p>
             </div>
           </div>
 
           <p className="text-gray-500 text-sm">
-            Guarantee applies to first-time exam attempts within 90 days of course completion. Contact{" "}
+            Guarantee applies to first-time state exam attempts within 30 days of your first course enrollment, and requires the recommended study hours plus three consecutive 80%+ practice exam scores. Contact{" "}
             <a href="mailto:support@justinsuranceco.com" className="text-navy hover:text-gold transition-colors underline">
               support@justinsuranceco.com
             </a>{" "}

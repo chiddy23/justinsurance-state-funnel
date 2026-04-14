@@ -66,7 +66,7 @@ const ourCoursesFaqs = [
   {
     question: "Does JustInsurance offer a pass guarantee?",
     answer:
-      "Yes. If you complete the full JustInsurance prelicensing course — including all required practice exams — and do not pass your state licensing exam on the first attempt, we will refund your course fee in full. This guarantee reflects our confidence in the quality of our course content and your preparation.",
+      "Yes. If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. This guarantee reflects our confidence in the quality of our course content and your preparation.",
   },
   {
     question: "Are JustInsurance courses fully online?",

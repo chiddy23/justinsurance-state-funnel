@@ -246,12 +246,17 @@ export default function TermsPage() {
         </P>
         <UL>
           <LI>
-            You must complete 100% of the course content, including all required chapter quizzes
-            and practice exams, as tracked by our learning platform.
+            You must complete the recommended study hours for your state — 20 hours for a single
+            line of authority, or 40 hours for a dual line (Life &amp; Health) in states that do
+            not require prelicensing — as tracked by our learning platform.
           </LI>
           <LI>
-            You must sit for your first state licensing exam attempt within 90 days of the date
-            your course completion certificate is issued.
+            You must score 80% or higher on the practice exam three times in a row before sitting
+            for the state licensing exam.
+          </LI>
+          <LI>
+            You must sit for your first state licensing exam attempt within 30 days of your first
+            enrollment in the course.
           </LI>
           <LI>
             You must fail the exam on that first attempt (a passing score disqualifies the

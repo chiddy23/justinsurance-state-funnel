@@ -45,14 +45,18 @@ function StateCard({
       <button
         onClick={onToggle}
         aria-expanded={isOpen}
-        className={`w-full flex items-center justify-between px-5 py-4 text-left hover:bg-gray-bg transition-colors ${
-          isOpen ? "border-b border-gray-200" : ""
+        className={`w-full flex items-center justify-between px-5 py-4 text-left transition-colors ${
+          isOpen
+            ? "bg-gold/10 border-b border-gold/30"
+            : "bg-navy hover:bg-navy-light"
         }`}
       >
-        <span className="font-bold text-navy text-lg">{state.name}</span>
+        <span className={`font-bold text-lg ${isOpen ? "text-navy" : "text-white"}`}>
+          {state.name}
+        </span>
         <span
-          className={`text-gold text-xl transition-transform duration-200 ${
-            isOpen ? "rotate-180" : ""
+          className={`text-xl transition-transform duration-200 ${
+            isOpen ? "rotate-180 text-gold-dark" : "text-gold"
           }`}
           aria-hidden="true"
         >

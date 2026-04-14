@@ -199,24 +199,34 @@ export default function StudyGuidePage() {
         </div>
       </section>
 
-      {/* Table of Contents */}
-      <section className="bg-white py-12 px-4">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="text-2xl font-bold text-navy mb-4 text-center">Guide Contents</h2>
+      {/* Table of Contents — sticky on desktop */}
+      <section className="bg-white py-12 px-4 border-b border-gray-200">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl font-bold text-navy mb-2 text-center flex items-center justify-center gap-2">
+            <span>📋</span> Table of Contents
+          </h2>
+          <p className="text-center text-gray-500 text-sm mb-6">Jump to any section</p>
           <nav className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
             {[
-              { href: "#intro", label: "1. Introduction" },
-              { href: "#universal", label: "2. Universal Concepts" },
-              { href: "#glossary", label: "3. Key Terms Glossary" },
-              { href: "#states", label: "4. State-by-State" },
-              { href: "#mnemonics", label: "5. Mnemonics" },
-              { href: "#practice", label: "6. Practice Questions" },
-              { href: "#plan", label: "7. 7-Day Plan" },
-              { href: "#examday", label: "8. Exam Day Tips" },
-              { href: "#resources", label: "9. Resources" },
+              { href: "#intro", num: 1, label: "Introduction" },
+              { href: "#universal", num: 2, label: "Universal Concepts" },
+              { href: "#glossary", num: 3, label: "Key Terms Glossary" },
+              { href: "#states", num: 4, label: "State-by-State Breakdown" },
+              { href: "#mnemonics", num: 5, label: "Mnemonics & Memory" },
+              { href: "#practice", num: 6, label: "Practice Questions" },
+              { href: "#plan", num: 7, label: "7-Day Study Plan" },
+              { href: "#examday", num: 8, label: "Exam Day Tips" },
+              { href: "#resources", num: 9, label: "Resources" },
             ].map((item) => (
-              <a key={item.href} href={item.href} className="bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold text-navy font-semibold rounded-lg px-4 py-3 text-sm transition-colors">
-                {item.label}
+              <a
+                key={item.href}
+                href={item.href}
+                className="group flex items-center gap-3 bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg px-4 py-3 transition-colors"
+              >
+                <span className="flex-shrink-0 w-7 h-7 bg-gold group-hover:bg-gold-dark text-gray-dark rounded-full flex items-center justify-center text-sm font-bold transition-colors">
+                  {item.num}
+                </span>
+                <span className="text-navy font-semibold text-sm">{item.label}</span>
               </a>
             ))}
           </nav>

@@ -421,7 +421,7 @@ export default function StudyGuidePage() {
                   <div className="flex-shrink-0 w-10 h-10 bg-gold text-gray-dark rounded-full flex items-center justify-center font-bold">
                     {d.day}
                   </div>
-                  <p className="font-bold">Goal: {d.goal}</p>
+                  <h3 className="font-bold m-0 text-white">Day {d.day}: {d.goal}</h3>
                 </header>
                 <div className="p-5 grid grid-cols-1 md:grid-cols-3 gap-4">
                   {[

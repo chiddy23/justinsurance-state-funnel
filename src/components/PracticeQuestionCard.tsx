@@ -13,8 +13,12 @@ export default function PracticeQuestionCard({ q }: { q: PracticeQ }) {
   return (
     <article className="bg-white rounded-xl border border-gray-200 shadow-sm overflow-hidden">
       <header className="bg-navy text-white px-5 py-3 flex items-center justify-between">
-        <span className="font-bold">{q.id.toUpperCase()}</span>
-        <span className="text-gold text-xs font-semibold uppercase tracking-wide">{q.tag}</span>
+        <h3 className="font-bold m-0 text-white">
+          {q.id.toUpperCase()}
+          <span className="ml-3 text-gold text-xs font-semibold uppercase tracking-wide">
+            {q.tag}
+          </span>
+        </h3>
       </header>
       <div className="p-5">
         <p className="text-navy font-medium mb-4 leading-relaxed">{q.text}</p>

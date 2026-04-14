@@ -51,9 +51,9 @@ function StateCard({
             : "bg-navy hover:bg-navy-light"
         }`}
       >
-        <span className={`font-bold text-lg ${isOpen ? "text-navy" : "text-white"}`}>
+        <h3 className={`font-bold text-lg m-0 ${isOpen ? "text-navy" : "text-white"}`}>
           {state.name}
-        </span>
+        </h3>
         <span
           className={`text-xl transition-transform duration-200 ${
             isOpen ? "rotate-180 text-gold-dark" : "text-gold"

@@ -29,7 +29,7 @@ import {
 } from "@/lib/study-guide-content";
 
 export const metadata: Metadata = {
-  title: { absolute: "The Ultimate Insurance Exam Study Guide | Free | JustInsurance" },
+  title: { absolute: "Free Insurance Exam Study Guide | JustInsurance" },
   description:
     "The most comprehensive free insurance exam study guide online. Universal concepts, 50-term glossary, state-by-state breakdown, mnemonics, 10 practice questions, and a 7-day study plan.",
   alternates: { canonical: "https://justinsuranceco.com/study-guide" },

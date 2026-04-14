@@ -119,6 +119,26 @@ export default function PracticeExamHubPage() {
         </div>
       </section>
 
+      {/* Prelicensing upsell (moved up for visibility) */}
+      <section className="bg-navy py-16 px-4">
+        <div className="max-w-3xl mx-auto text-center">
+          <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">
+            Need the Full Prep Package?
+          </h2>
+          <p className="text-blue-100 leading-relaxed mb-6">
+            Our state-approved prelicensing courses include a full-length practice exam at no extra
+            cost — plus complete video lessons, readings, and quizzes. One purchase, test-ready in
+            days, and backed by our pass guarantee.
+          </p>
+          <Link
+            href="/prelicensing"
+            className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-8 rounded-lg transition-colors"
+          >
+            See Prelicensing Courses
+          </Link>
+        </div>
+      </section>
+
       {/* Why practice exams work */}
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-5xl mx-auto">
@@ -178,26 +198,6 @@ export default function PracticeExamHubPage() {
               </Link>
             ))}
           </div>
-        </div>
-      </section>
-
-      {/* Prelicensing upsell */}
-      <section className="bg-navy py-16 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">
-            Need the Full Prep Package?
-          </h2>
-          <p className="text-blue-100 leading-relaxed mb-6">
-            Our state-approved prelicensing courses include a full-length practice exam at no extra
-            cost — plus complete video lessons, readings, and quizzes. One purchase, test-ready in
-            days, and backed by our pass guarantee.
-          </p>
-          <Link
-            href="/prelicensing"
-            className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-8 rounded-lg transition-colors"
-          >
-            See Prelicensing Courses
-          </Link>
         </div>
       </section>
 

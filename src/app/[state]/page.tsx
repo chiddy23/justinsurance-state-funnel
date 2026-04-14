@@ -11,6 +11,7 @@ import TwoPathSelector from "@/components/TwoPathSelector";
 import StateRequirementsBlock from "@/components/StateRequirementsBlock";
 import TestimonialCards from "@/components/TestimonialCards";
 import FAQAccordion from "@/components/FAQAccordion";
+import PracticeExamCTA from "@/components/PracticeExamCTA";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 
@@ -246,6 +247,12 @@ export default async function StateHubPage({
 
       {/* Fix 4 — Lead testimonial uses state-matched data */}
       <TestimonialCards leadTestimonial={stateData.stateTestimonial} seed={stateData.slug} />
+
+      <PracticeExamCTA
+        stateName={stateData.name}
+        stateSlug={stateData.slug}
+        practiceExams={stateData.practiceExams}
+      />
 
       <FAQAccordion faqs={faqs} heading={`${stateData.name} Insurance License FAQs`} />
 

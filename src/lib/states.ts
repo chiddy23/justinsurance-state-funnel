@@ -21,6 +21,13 @@ export interface CoursePricing {
   completionTime: string;
 }
 
+export interface PracticeExams {
+  lifeUrl: string;
+  healthUrl: string;
+  combinedUrl: string;
+  price: string;
+}
+
 export interface CEComplianceData {
   lateFee: string;
   gracePeriod: string;
@@ -86,6 +93,7 @@ export interface StateData {
     lifeAndHealth: CoursePricing;
   };
   ce: CEInfo;
+  practiceExams?: PracticeExams;
 
   // Income/career data
   studentsCount: string;
@@ -256,6 +264,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires and you cannot transact insurance until CE is completed and reinstatement fees are paid.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5b4e7714-0d2e-4ae1-931d-583b93971c5d",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=89a6df5c-d42c-438a-a8bf-aa2d07d25c14",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f4004c54-821e-411d-b106-bcee71b4cd7c",
+      price: "$59",
+    },
 
     studentsCount: "3,100",
     avgIncome: "$91,730",
@@ -408,6 +422,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — up to 8 excess hours may carry forward",
         lapseConsequence: "Your license lapses and all outstanding CE must be completed before you can reinstate and legally sell insurance.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=89c33f6f-80ce-48cd-b448-86704b69a5dd",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=97686641-0a77-40f0-b30b-5436b13893fd",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=46023adf-a27d-4faf-8540-c1562f6f8f86",
+      price: "$59",
     },
 
     studentsCount: "1,000",
@@ -562,6 +582,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires, you must stop transacting insurance, and you owe a $100 late fee plus renewal fee to reinstate.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1a614939-4bbb-4300-af16-10b7e2ae9447",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e9aa084d-c13d-4967-98af-223ac58e1d42",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=84b3876f-22ef-4332-bdb7-f28ee267584b",
+      price: "$59",
+    },
 
     studentsCount: "3,200",
     avgIncome: "$67,580",
@@ -714,6 +740,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — CE carry-forward not permitted under Rule 50",
         lapseConsequence: "Your license lapses and you must complete delinquent CE and pay reinstatement fees before legally transacting insurance again.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cf58d827-80c1-4551-8075-a7da6580a4fa",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c97903c1-d180-4dd1-b058-1b612a80a8c0",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=25d338d2-278f-425b-b028-58364623357a",
+      price: "$59",
     },
 
     studentsCount: "2,300",
@@ -868,6 +900,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "You cannot legally sell insurance until you pay a 50% reinstatement penalty and complete CE, and after one year you must start over as a new applicant.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f88d9358-edd3-4e91-801d-7b9be129cbb2",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=099553b5-d927-4131-9c0e-fa888a962e50",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3b3b9fd8-8f26-4aac-a0e6-20f08565db0a",
+      price: "$59",
+    },
 
     studentsCount: "8,200",
     avgIncome: "$91,620",
@@ -1020,6 +1058,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — up to 12 carryover CE credits within 120 days of continuation",
         lapseConsequence: "Your license expires and you must file a new application and pay initial fees to resume transacting insurance.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c58c31f6-eafd-40eb-9b48-aeb4b9bd26e6",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b5ed9fec-723f-4829-8a8d-2a5a3b3a33f7",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4551c6d4-169a-4ac7-8838-a5827d952aa1",
+      price: "$59",
     },
 
     studentsCount: "3,300",
@@ -1174,6 +1218,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires and you face $320 in late fees, or must retake prelicensing and the exam if over a year late.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0932bc2b-331c-475f-b542-82445727ae7c",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=899e433d-911e-4d7c-98ba-ff4695b79a61",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d3d26908-7b43-4140-9de8-b266a1bfb6c4",
+      price: "$59",
+    },
 
     studentsCount: "2,900",
     avgIncome: "$100,950",
@@ -1326,6 +1376,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — CE carry-forward not permitted per Regulation 504",
         lapseConsequence: "Your license lapses if CE and fees are not received by February 28, and you cannot transact insurance until reinstated.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b9fdc55d-81f2-4243-a08f-1191dcf531f3",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7b5c341b-6acd-43fe-9ac8-9db664c751bd",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=fd23c43a-b3c8-496c-99d7-53c41d7370eb",
+      price: "$59",
     },
 
     studentsCount: "1,000",
@@ -1480,6 +1536,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your appointments get cancelled, you cannot write business, and you must pay a fine under a Settlement Stipulation plus reinstatement fees.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=340a0fad-c2a0-4167-9f92-300a23b76a56",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=426d8291-a76d-4dea-9530-d64923a29b0b",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b4739074-7857-46ed-a007-20366123426a",
+      price: "$59",
+    },
 
     studentsCount: "6,400",
     avgIncome: "$80,300",
@@ -1632,6 +1694,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — excess credits do not carry to next renewal period",
         lapseConsequence: "Your license expires, and after a 15-day grace period you pay $280 to reinstate; after 12 months you must reapply as a new licensee.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d74f178f-20f2-4050-bda5-ad02be7adf62",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a93828f1-38e2-48b9-9303-d70b43258ddd",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5f62c246-925e-4be9-8e0d-78046bb1e5ba",
+      price: "$59",
     },
 
     studentsCount: "3,600",
@@ -1786,6 +1854,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license lapses immediately on expiration and you must pay $300 plus complete CE within 1 year or relicense entirely.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6c9e4d10-2075-46cd-9adf-f9df96821f05",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1b291abc-310a-40a9-b198-40927c9e0424",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=74a1c87e-290e-4e82-827a-d43ec37edeba",
+      price: "$59",
+    },
 
     studentsCount: "2,000",
     avgIncome: "$68,630",
@@ -1938,6 +2012,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — CE carry-forward not permitted",
         lapseConsequence: "Your license becomes inactive immediately at expiration, and you owe escalating penalties up to $300 plus reinstatement fees.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=de363d26-c79d-4e47-a22d-de19cee4f969",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=bbafcc37-3e43-45e1-9010-17d80da755b8",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c29c762-e687-4e24-9f41-96422fa3d657",
+      price: "$59",
     },
 
     studentsCount: "2,300",
@@ -2092,6 +2172,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "You cannot legally transact insurance in Illinois; carriers may withhold commissions until your license is reinstated.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=43cb464f-8f0f-4f20-99cd-bcedec4db7c6",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=24e21b1d-9c8b-4205-875b-7fbc03315e36",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7419aad2-8163-4082-8639-fb4a4966fa04",
+      price: "$59",
+    },
 
     studentsCount: "3,900",
     avgIncome: "$96,810",
@@ -2244,6 +2330,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — CE carry-forward not permitted (24 hrs biennial)",
         lapseConsequence: "Your license expires and you owe $160 in renewal and penalty fees to reinstate within 12 months or must relicense entirely.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=00268c67-a7b5-4e41-bb6b-bcb725aa0227",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f782d583-572a-465d-bb0c-02669ab82337",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=33001b38-91b9-4202-a3ce-5cd3380f819c",
+      price: "$59",
     },
 
     studentsCount: "3,000",
@@ -2398,6 +2490,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires and you must clear CE, pay $150 in fees, and reinstate within 12 months or reapply as new.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9f3685d9-3501-4092-a72f-88b3e2de9386",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0e22db57-8cbe-43e5-a02c-ecc7c34f788a",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5f4c7d2b-d1fc-4535-be57-be8f6e93c6cf",
+      price: "$59",
+    },
 
     studentsCount: "2,700",
     avgIncome: "$77,600",
@@ -2550,6 +2648,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — CE carry-forward not permitted",
         lapseConsequence: "Your license terminates and you owe a $100 reinstatement fee plus the $50 renewal fee to return to active status.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f55fce46-4c7a-4b8d-9883-6c9555939275",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b570aaf4-97ce-483e-87dd-9d55531e45a0",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=146a65c5-8f78-4b5e-8e38-342345e8bff7",
+      price: "$59",
     },
 
     studentsCount: "2,500",
@@ -2704,6 +2808,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license cancels after the 2-month late window, and you must file a full re-application within 12 months or complete prelicensing and the exam again.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8b932c97-e07a-4edd-af42-528f0a3e003d",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7b15e989-dc6f-4f70-8fc7-6875a0eb41be",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d3cfe7a0-5236-41c6-bd7a-ec6fdf86117c",
+      price: "$59",
+    },
 
     studentsCount: "2,600",
     avgIncome: "$90,150",
@@ -2856,6 +2966,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — up to 10 hours (general credits only); none for adjusters",
         lapseConsequence: "Your license lapses and cannot be reinstated until all outstanding CE is completed and the reinstatement fee is paid.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=17f4ea9c-7b6e-4887-9cd3-d32c1b41213e",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9ce30398-aa3e-4011-8c80-4506f475bf32",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=261117da-5b52-4172-a55e-0b8f459d0ac5",
+      price: "$59",
     },
 
     studentsCount: "2,900",
@@ -3010,6 +3126,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license is suspended and then cancelled; you must retake the licensing exam and reapply if not cured within the window.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2ac3dc87-55c4-4618-b128-12668966435d",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b988278b-fd52-421e-b2b9-c132b519c261",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=11573f07-960c-4f42-a484-e6af813db7e3",
+      price: "$59",
+    },
 
     studentsCount: "2,400",
     avgIncome: "$72,270",
@@ -3162,6 +3284,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — excess credits do not carry forward",
         lapseConsequence: "Your license expires and you must complete CE, pay renewal plus a $100 reinstatement fee within one year or reapply entirely.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4bb00ba4-d22b-4652-8ef4-c024130390ed",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=abc7548f-965b-40f9-8a40-8d86a331a793",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=409bf8ec-a4a4-4de3-bc32-046d1c251fcc",
+      price: "$59",
     },
 
     studentsCount: "2,700",
@@ -3316,6 +3444,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license may be suspended and you must pay a $450 to $525 reinstatement fee plus complete all outstanding CE hours.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5e677fe8-0404-4051-99e1-826ea7389b45",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c39071d6-cb3b-42af-8270-858f84808429",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=118c2034-a812-45d7-b7e9-f648eb029b5b",
+      price: "$59",
+    },
 
     studentsCount: "3,600",
     avgIncome: "$102,020",
@@ -3469,6 +3603,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license is suspended or inactive and must be reinstated through NIPR with completed CE within 12 months or reapplication is required.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=89c1f8df-6518-4ec9-bba2-740a02b33beb",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=894d5ca8-5af9-471e-b2fa-7a512da86743",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2904d8fc-7f92-4289-8585-ae3cda26973e",
+      price: "$59",
+    },
 
     studentsCount: "4,200",
     avgIncome: "$71,140",
@@ -3621,6 +3761,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — excess credits do not carry forward",
         lapseConsequence: "Your license lapses and you must pay double the renewal fee within 12 months or retake the licensing exam to requalify.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a06815c3-125a-424b-8b50-d44997ff45b2",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9a9776a5-4d2d-46f0-b511-08b8741498f5",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8cacd30d-d9a3-4fa1-89b3-64b8d9712a57",
+      price: "$59",
     },
 
     studentsCount: "2,900",
@@ -3928,6 +4074,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires and you owe $25 per month in late fees, capped at one year, after which you must reapply entirely.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e0575fd1-d0dc-41e5-9370-912f72ccae9a",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=39c9541d-9dc1-44c2-bb16-c5004de1162d",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1ec3c9d7-950d-403a-a0d6-718d5a34ce72",
+      price: "$59",
+    },
 
     studentsCount: "3,600",
     avgIncome: "$71,040",
@@ -4081,6 +4233,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license lapses and you must pay a $100 late fee and complete CE within one year or reapply as a new applicant.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=79919ed5-66f5-4bc6-95b0-7a64294eb095",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=37750141-6173-4a1c-8ce0-bc090cb112e4",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4b9c2b23-3d7a-4690-a8b4-e51a55ee3c8d",
+      price: "$59",
+    },
 
     studentsCount: "1,000",
     avgIncome: "$74,490",
@@ -4233,6 +4391,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Not publicly posted — contact Nebraska DOI",
         lapseConsequence: "Your license expires and requires a $40 late fee within 30 days or a $90 reinstatement application within one year.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=edbb7c67-1279-4b5c-afd9-753227113b93",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=51cc3c60-1ccb-4dbc-bad5-0f11b718837d",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=583d003e-1553-44cf-83b2-66b001ec36aa",
+      price: "$59",
     },
 
     studentsCount: "1,000",
@@ -4540,6 +4704,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires, late renewals are not accepted, and you must file a new application with double the license fee within two years.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b9da7991-f9df-43aa-817f-717ef795dbf1",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3b93e593-7b48-45ca-880b-9004a6efa372",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=edb7bd89-0444-4dd2-a529-dda7c06e8380",
+      price: "$59",
+    },
 
     studentsCount: "2,400",
     avgIncome: "$72,460",
@@ -4692,6 +4862,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — up to 12 CE credits carry over; ethics cannot carry over",
         lapseConsequence: "Your license expires and you have one year to reinstate with a $250 late fee before you must reapply as a new producer.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=13580bc0-b1fa-4af6-b2ce-90c0feb3207f",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e4fb6dd5-b301-4274-aea8-948d4a59db50",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c968e4b-e0f1-44a0-9d69-741621204a79",
+      price: "$59",
     },
 
     studentsCount: "3,900",
@@ -4846,6 +5022,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license has a 30-day grace period with a $150 late fee; after that you pay $180 to reinstate within a year or must retest and re-fingerprint.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e2b6ca7d-1ad7-48de-ab3c-43f50c1690bd",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=59ee3a6c-b6a8-45f0-b784-ed073c447074",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c5acbba5-5f4c-49e6-a2ea-fdc68bf9f448",
+      price: "$59",
+    },
 
     studentsCount: "2,500",
     avgIncome: "$68,530",
@@ -4998,6 +5180,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Likely no — no current official carry-forward language (NY S.6122-A pending; monitor for signature)",
         lapseConsequence: "You must complete all 15 CE credits and file a relicensing application with a $10 fee, and if more than 2 years pass you must start over with a new license.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=109d177e-02bd-48c4-9f48-c98457c13397",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5096c1a8-fb31-46e8-abe9-4b84bb7965c1",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=75e20e4e-b2f6-424d-90c0-d2371e300d68",
+      price: "$59",
     },
 
     studentsCount: "6,400",
@@ -5152,6 +5340,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "You cannot legally transact insurance in NC; after the 4-month window you must retake prelicensing education and pass the state exam again.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8f77e1c8-e668-41b8-8f23-9f5233e167b2",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a9cabc5b-b613-4107-838a-3d8e3700f281",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f528b064-b6f1-40fb-9cbd-df2e6df964e3",
+      price: "$59",
+    },
 
     studentsCount: "4,200",
     avgIncome: "$76,080",
@@ -5304,6 +5498,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — up to 12 credits (courses within 365 days of expiration); ethics not carried",
         lapseConsequence: "Your license and all appointments are canceled and you must reapply as a new licensee with a $100 fee.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=866b9e5d-5c38-4bb4-b44e-38887471884c",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e9824027-ae8c-4984-a680-a0d48e039699",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a64fed55-405d-4cf1-8d57-67af38fc29f7",
+      price: "$59",
     },
 
     studentsCount: "2,300",
@@ -5458,6 +5658,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license is suspended and you cannot transact insurance in Ohio until CE is completed and reinstatement fees are paid.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c3f6355-ea4a-4dd5-b083-eb2d703856b1",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7f5f5524-85a6-4533-ba0f-d378a2ec8098",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=46f4e3c8-a4fb-4be0-8fda-be2b0ed9f8d0",
+      price: "$59",
+    },
 
     studentsCount: "4,200",
     avgIncome: "$79,940",
@@ -5610,6 +5816,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — 6 excess hours carry forward as general credits",
         lapseConsequence: "Your license expires and you must complete CE and pay double the renewal fee within 90 days to reinstate.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4fed1297-dc61-4095-8bc7-256e40a468c6",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a2306372-2154-4428-85ff-5bb55f10cefd",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6a1fa7a7-8494-4fe7-bc87-89273827d039",
+      price: "$59",
     },
 
     studentsCount: "2,800",
@@ -5764,6 +5976,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires and you have 12 months to late renew with a $90 fee before you must reapply as a new licensee.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c2c636cb-5f95-463f-887c-480df6452a9a",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=73859f9a-2c6e-46a5-826d-e87890c31314",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=72c8d06b-b553-4eca-908c-c2741e7f61c6",
+      price: "$59",
+    },
 
     studentsCount: "3,000",
     avgIncome: "$75,000",
@@ -5916,6 +6134,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — up to 24 hours may carry forward",
         lapseConsequence: "You cannot legally transact insurance in PA; all outstanding CE for the lapsed period must be completed before reinstatement.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3dd8987a-afee-4906-bb3c-8f7220f19b45",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4465c4e3-78dc-4db0-8f9a-bc6f2b43e035",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1d2c0cf6-8a41-4ecc-ab4a-f8562a4230e7",
+      price: "$59",
     },
 
     studentsCount: "4,700",
@@ -6070,6 +6294,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license has a no-penalty 30-day grace, then a $170 reinstatement window through month 12, after which you must reapply as a new licensee.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e6e1ffd9-9f45-4969-966c-10b3d6bccc7c",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=58a7e2f9-bca8-4286-ae4a-1b06b767ca23",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1ba2d308-c508-4d96-b2be-82b51bf31d82",
+      price: "$59",
+    },
 
     studentsCount: "2,300",
     avgIncome: "$84,090",
@@ -6222,6 +6452,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — up to 18 excess credits carry to next biennium",
         lapseConsequence: "Your license is canceled after 180 days and you must retake the state exam, refingerprint, and reapply as a new licensee.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=af92e72f-ee1f-4782-91ad-72d8daf47ec8",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=321c09e4-d10c-460c-b7d0-8bafee3ba2af",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1dd439d9-3b82-423f-9fe6-879c9ef54067",
+      price: "$59",
     },
 
     studentsCount: "3,100",
@@ -6376,6 +6612,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license lapses, all appointments terminate, and you must complete prior-period CE plus pay double renewal to reinstate within 12 months.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=38f40720-67ec-4750-b8e7-8f9260bf56a3",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2e18eeb7-63b2-4904-b3d6-72cee19a7f2c",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=17885e75-ae9f-45f6-9de5-91c21bdc6c2a",
+      price: "$59",
+    },
 
     studentsCount: "2,200",
     avgIncome: "$77,300",
@@ -6528,6 +6770,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Not publicly posted — contact Tennessee TDCI",
         lapseConsequence: "Your license expires and after 60 days you must request reinstatement; after one year you must retest and reapply.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9520c7d3-bab5-4577-98fd-c8a71e346c8d",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d69234f6-2390-4ae9-a468-a3c00672f287",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a73ba06d-48fb-439e-8670-fb37324f2bce",
+      price: "$59",
     },
 
     studentsCount: "2,900",
@@ -6682,6 +6930,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "You're fined $50 for every CE hour missed, pay a $25 late fee, and after 90 days must reinstate with new fingerprints and a new application.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9dd576eb-8f99-410e-9a21-d144eec96921",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=cfbf9d27-cd45-4f05-8eb6-b93e8077c407",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e32819fa-eb9c-437f-8b9b-ee7830a4f8e5",
+      price: "$59",
+    },
 
     studentsCount: "7,600",
     avgIncome: "$66,490",
@@ -6834,6 +7088,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Not publicly posted — contact Utah UID",
         lapseConsequence: "Your license inactivates and you have one year to complete CE and pay reinstatement fees before you must reapply as new.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=ac3ccd1b-a378-46a3-ad12-6f1389184a9a",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=3d070fb8-2dc0-4c04-ab56-8c7d6581cdbd",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c7f74a8d-fae8-40f5-982d-80002ecccfa9",
+      price: "$59",
     },
 
     studentsCount: "2,400",
@@ -6988,6 +7248,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license is suspended immediately at expiration and must be reinstated within 2 years via the initial application process, or you must retake the exam.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=9a3b2971-56c3-43c9-afab-8084f402394f",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=eded95f7-2af9-4fa8-8805-979823167489",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8a6cd6ff-97ef-4a2c-8345-41578eed1507",
+      price: "$59",
+    },
 
     studentsCount: "1,100",
     avgIncome: "$86,670",
@@ -7140,6 +7406,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "No — excess CE credits do not carry forward",
         lapseConsequence: "You cannot legally transact insurance in Virginia; all CE must be completed before reinstatement is submitted through Sircon.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4b030cd3-5c92-46d4-a2cb-44615b011cb6",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=fc5586af-52ad-4c09-a635-690ce0d7d873",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=69b1ecd1-1b18-4e05-b245-42055b4ea45d",
+      price: "$59",
     },
 
     studentsCount: "3,400",
@@ -7294,6 +7566,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license has a 60-day late renewal window at $82.50/line, then a $165 reinstatement window through month 12 before you must reapply.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a5b79ee5-d62c-441b-9de8-d78f41b851f4",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2f9b19aa-a721-427c-9c6f-806d70359c7c",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=11becb90-965f-4890-a7a4-01d8eb1ae8ec",
+      price: "$59",
+    },
 
     studentsCount: "3,100",
     avgIncome: "$77,030",
@@ -7446,6 +7724,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Yes — up to 6 excess hours may carry forward",
         lapseConsequence: "Your license lapses and you must complete CE plus pay double the renewal fee within 12 months to reinstate without retesting.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=eee07e14-a439-4e63-b219-cbbaf323d8a8",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0e3f743e-8d4e-49a7-9607-653921533360",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6110472d-574b-4a97-9997-80162dca918e",
+      price: "$59",
     },
 
     studentsCount: "2,300",
@@ -7600,6 +7884,12 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires instantly with no late renewal option; you have 1 year to pay $70 plus any required testing or you must relicense entirely.",
       },
     },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=b6a7798d-f672-4963-82cb-aad240ad2995",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=525e6bba-23b3-4b98-97ad-f7bd56c1eb57",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=20e8c9d2-9845-4e1e-ae0b-a63b51233d68",
+      price: "$59",
+    },
 
     studentsCount: "3,000",
     avgIncome: "$87,280",
@@ -7752,6 +8042,12 @@ export const STATES: Record<string, StateData> = {
         carryForward: "Not publicly posted — contact Wyoming DOI",
         lapseConsequence: "Your license expires and you must finish CE and pay double the renewal fee within 12 months to reinstate.",
       },
+    },
+    practiceExams: {
+      lifeUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c1032591-71f6-4eb8-abc7-bbfd3ddd3211",
+      healthUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=306578e6-4bbb-43ae-b83e-62f4a8fad89b",
+      combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0bb58a80-43d4-417b-9174-bd81903e720d",
+      price: "$59",
     },
 
     studentsCount: "1,000",

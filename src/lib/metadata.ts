@@ -9,7 +9,8 @@ export type PageType =
   | "prelicensing-hub"
   | "ce-hub"
   | "prelicensing-course"
-  | "ce-course";
+  | "ce-course"
+  | "practice-exam";
 
 // ---------------------------------------------------------------------------
 // Internal helpers
@@ -82,6 +83,11 @@ function buildTitle(
       `${stateName} ${loaName} CE Course | ${brand}`,
       `${stateName} ${loaName} CE | ${brand}`,
     ],
+    "practice-exam": [
+      `${stateName} Insurance Practice Exam | $59 | ${brand}`,
+      `${stateName} Insurance Practice Exam | ${brand}`,
+      `${stateName} Practice Exam | ${brand}`,
+    ],
   };
 
   const candidates = candidatesByType[pageType];
@@ -120,6 +126,8 @@ function buildDescription(
       return `${stateName} ${loaName} insurance prelicensing course online. $199, state-approved, 93% pass rate, pass guarantee. Self-paced with practice exams.`;
     case "ce-course":
       return `${stateName} ${loaName} CE course online. Same-day DOI reporting, self-paced, state-approved. Renew your insurance license with JustInsurance. From $39.`;
+    case "practice-exam":
+      return `${stateName} insurance practice exam — Life, Health, and Life & Health versions. Mirror the real state exam. Boost your score, pass with confidence. $59.`;
   }
 }
 
@@ -142,6 +150,8 @@ function buildCanonicalPath(
       return `/${stateSlug}/prelicensing/${loaSlug}/`;
     case "ce-course":
       return `/${stateSlug}/continuing-education/${loaSlug}/`;
+    case "practice-exam":
+      return `/${stateSlug}/practice-exam/`;
   }
 }
 

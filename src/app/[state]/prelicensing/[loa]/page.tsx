@@ -20,6 +20,7 @@ import PassGuarantee from "@/components/PassGuarantee";
 import TestimonialCards from "@/components/TestimonialCards";
 import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
+import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StickyMobileCTA from "@/components/StickyMobileCTA";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 
@@ -262,6 +263,19 @@ export default async function PrelicensingCoursePage({
       />
 
       <PassGuarantee />
+
+      <PracticeExamCTA
+        stateName={stateData.name}
+        stateSlug={stateData.slug}
+        practiceExams={stateData.practiceExams}
+        loa={
+          loaDef.slug === "life"
+            ? "Life"
+            : loaDef.slug === "health"
+            ? "Health"
+            : "Life + Health"
+        }
+      />
 
       <TestimonialCards />
 

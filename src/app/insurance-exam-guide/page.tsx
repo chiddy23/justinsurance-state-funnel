@@ -5,6 +5,12 @@ import FAQAccordion from "@/components/FAQAccordion";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import Link from "next/link";
+import { STATES } from "@/lib/states";
+
+const ALL_STATES_FOR_EXAM_GUIDE = Object.values(STATES)
+  .filter((s) => s.practiceExams)
+  .map((s) => ({ slug: s.slug, name: s.name }))
+  .sort((a, b) => a.name.localeCompare(b.name));
 
 export const metadata: Metadata = {
   title: { absolute: "Insurance License Exam Guide 2026 | How to Pass | JustInsurance" },
@@ -352,6 +358,36 @@ export default function InsuranceExamGuidePage() {
       </section>
 
       <YouTubeEmbed videoId="guiU55wnIqc" title="The Key To Passing Your Insurance Exam On The First Try" />
+
+      {/* Paid practice exams — state picker */}
+      <section className="bg-gray-bg py-16 px-4">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-8">
+            <p className="text-gold font-semibold uppercase tracking-wide text-sm mb-2">
+              Boost Your Score
+            </p>
+            <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+              State-Specific Practice Exams — $59
+            </h2>
+            <p className="text-gray-600 max-w-2xl mx-auto">
+              Full-length practice exams that mirror the real state exam. Detailed answer
+              explanations, unlimited retakes. Available for all 48 states in Life, Health, and
+              Life &amp; Health. Pick your state to get started.
+            </p>
+          </div>
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
+            {ALL_STATES_FOR_EXAM_GUIDE.map((s) => (
+              <Link
+                key={s.slug}
+                href={`/${s.slug}/practice-exam`}
+                className="bg-white border border-gray-200 rounded-lg px-3 py-2 text-sm font-medium text-navy hover:border-gold hover:text-gold-dark transition-colors text-center"
+              >
+                {s.name}
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
 
       {/* FAQ */}
       <FAQAccordion faqs={faqs} heading="Insurance Exam FAQ" />

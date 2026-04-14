@@ -110,6 +110,14 @@ export function generateSitemapEntries(): SitemapEntry[] {
       priority: 0.85,
     });
 
+    // Practice exam page (paid offering)
+    entries.push({
+      url: `${BASE_URL}/${stateSlug}/practice-exam/`,
+      lastModified,
+      changeFrequency: "monthly",
+      priority: 0.85,
+    });
+
     // Individual prelicensing course pages (one per LOA)
     for (const loaSlug of ALL_LOA_SLUGS) {
       entries.push({

@@ -106,7 +106,15 @@ export default async function StateHubPage({
       {/* Fix 1 — hero subtitle uses stateSpecificIntro */}
       <StateHero
         eyebrow={`${stateData.name} Insurance Licensing`}
-        title={`Get Your ${stateData.name} Insurance License Online`}
+        title={
+          stateData.slug === "florida"
+            ? "Florida 2-15 License: Prelicensing & CE Courses Online"
+            : stateData.slug === "texas"
+            ? "Get Your Texas Insurance License — No Prelicensing Required"
+            : stateData.slug === "california"
+            ? "California Insurance License: 12-Hour Ethics + State Exam Prep"
+            : `Get Your ${stateData.name} Insurance License Online`
+        }
         subtitle={heroSubtitle}
         ctaButtons={[
           { text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing/` },

@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance License FAQ | Common Questions | JustInsurance" },
+  title: { absolute: "Insurance Licensing FAQ 2026: Exam, CE & Renewal | JustInsurance" },
   description:
     "Answers to the most common insurance licensing questions — requirements, exam scheduling, CE hours, costs, and how to apply in your state.",
   alternates: { canonical: "https://justinsuranceco.com/faq" },
@@ -219,7 +220,7 @@ export default function FAQPage() {
             Help Center
           </p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
-            Frequently Asked Questions
+            Insurance Licensing FAQ
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
             Answers to the most common questions about getting and renewing your insurance license.
@@ -239,10 +240,77 @@ export default function FAQPage() {
         </div>
       </section>
 
+      {/* State-specific quick links */}
+      <section className="bg-white py-12 px-4 border-b border-gray-100">
+        <div className="max-w-3xl mx-auto text-center">
+          <p className="text-gray-700 mb-4">
+            For state-specific requirements, hours, and exam details, select your state:
+          </p>
+          <nav className="flex flex-wrap justify-center gap-2 text-sm">
+            {[
+              { slug: "florida", name: "Florida" },
+              { slug: "texas", name: "Texas" },
+              { slug: "california", name: "California" },
+              { slug: "new-york", name: "New York" },
+              { slug: "georgia", name: "Georgia" },
+              { slug: "ohio", name: "Ohio" },
+              { slug: "illinois", name: "Illinois" },
+              { slug: "pennsylvania", name: "Pennsylvania" },
+            ].map((s) => (
+              <Link
+                key={s.slug}
+                href={`/${s.slug}`}
+                className="bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold text-navy font-semibold rounded-lg px-3 py-1.5 transition-colors"
+              >
+                {s.name}
+              </Link>
+            ))}
+            <Link
+              href="/"
+              className="bg-navy hover:bg-navy-light text-white font-semibold rounded-lg px-3 py-1.5 transition-colors"
+            >
+              View all 50 states →
+            </Link>
+          </nav>
+        </div>
+      </section>
+
       {/* Getting Licensed */}
       <div id="getting-licensed">
         <FAQCategory heading="Getting Licensed" faqs={gettingLicensedFaqs} altBg={false} />
       </div>
+
+      {/* Links after Getting Licensed to related pages */}
+      <section className="bg-white py-8 px-4">
+        <div className="max-w-3xl mx-auto text-sm text-gray-600 text-center">
+          <p>
+            See also:{" "}
+            <Link href="/prelicensing" className="text-gold-dark hover:underline font-semibold">
+              Prelicensing courses
+            </Link>
+            {" · "}
+            <Link href="/continuing-education" className="text-gold-dark hover:underline font-semibold">
+              CE packages from $39
+            </Link>
+            {" · "}
+            <Link href="/practice-exam" className="text-gold-dark hover:underline font-semibold">
+              Practice exams
+            </Link>
+            {" · "}
+            <Link href="/study-guide" className="text-gold-dark hover:underline font-semibold">
+              Free study guide
+            </Link>
+            {" · "}
+            <a href="https://www.nipr.com" target="_blank" rel="noopener noreferrer" className="text-gold-dark hover:underline font-semibold">
+              NIPR reciprocal licensing
+            </a>
+            {" · "}
+            <Link href="/contact" className="text-gold-dark hover:underline font-semibold">
+              Contact support
+            </Link>
+          </p>
+        </div>
+      </section>
 
       {/* Our Courses */}
       <div id="our-courses">

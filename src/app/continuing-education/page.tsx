@@ -123,6 +123,42 @@ export default function ContinuingEducationPage() {
         </div>
       </section>
 
+      {/* CE topics covered */}
+      <section className="bg-gray-bg py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-4">
+            What Our CE Packages Cover
+          </h2>
+          <p className="text-gray-700 leading-relaxed mb-6">
+            Every JustInsurance CE package includes all required credit hours for
+            your state, the mandatory ethics course, and any state-specific specialty
+            topics. Depending on your state, packages may include:
+          </p>
+          <ul className="space-y-3 mb-6">
+            {[
+              { label: "Ethics (required in all states)", desc: "typically 3–4 hours, included in every package" },
+              { label: "Annuity suitability", desc: "required before selling annuity products in most states" },
+              { label: "Long-term care (LTC) training", desc: "required for agents selling LTC products" },
+              { label: "National Flood Insurance Program (NFIP)", desc: "required for Property & Casualty agents in flood-prone states" },
+              { label: "General CE electives", desc: "insurance law updates, product knowledge, regulatory changes" },
+            ].map((t) => (
+              <li key={t.label} className="bg-white rounded-lg p-4 border border-gray-200 flex gap-3">
+                <span className="flex-shrink-0 w-6 h-6 bg-gold rounded-full flex items-center justify-center text-gray-dark text-xs font-bold mt-0.5">
+                  ✓
+                </span>
+                <p className="text-gray-700 text-sm">
+                  <strong className="text-navy">{t.label}</strong> — {t.desc}
+                </p>
+              </li>
+            ))}
+          </ul>
+          <p className="text-gray-700 leading-relaxed">
+            Select your state below to see the exact package contents, required
+            hours, and pricing for your license type.
+          </p>
+        </div>
+      </section>
+
       {/* Stats */}
       <section className="bg-gray-50 py-16 px-4" style={{ backgroundColor: "#F5F7FA" }}>
         <div className="max-w-5xl mx-auto">

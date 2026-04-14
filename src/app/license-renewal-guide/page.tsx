@@ -6,7 +6,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance License Renewal Guide | CE by State | JustInsurance" },
+  title: { absolute: "Insurance License Renewal Guide 2026 | CE by State | JustInsurance" },
   description:
     "How to renew your insurance license — CE hour requirements by state, renewal deadlines, and how to report your CE. Same-day reporting. Updated 2026.",
   alternates: { canonical: "https://justinsuranceco.com/license-renewal-guide" },

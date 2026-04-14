@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
@@ -145,10 +146,12 @@ export default function PassRatesPage() {
           <div className="bg-white rounded-xl p-8 shadow-sm space-y-5 text-gray-700 leading-relaxed">
             <p>
               <strong className="text-navy">Our 93% figure</strong> is based on
-              student-reported survey data collected from JustInsurance course
-              completers. It reflects students who finished the full prelicensing
-              course — including all required practice exams — before sitting for
-              their state licensing exam.
+              analysis of JustInsurance student performance data, measured among
+              students who completed the full course and met our recommended study
+              metrics — finishing the recommended hours and scoring 80% or higher
+              on the practice exam three times in a row before sitting for the
+              state licensing exam. Individual results vary based on preparation,
+              state, and line of authority.
             </p>
             <p>
               <strong className="text-navy">The ~55% national average</strong> reflects
@@ -213,6 +216,43 @@ export default function PassRatesPage() {
       </section>
 
       <YouTubeEmbed videoId="eoAHA07LXeI" title="Pass Your Life & Health Exam Using ONLY AI" />
+
+      {/* State links for SEO + conversion */}
+      <section className="bg-white py-12 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto text-center">
+          <h2 className="text-xl md:text-2xl font-bold text-navy mb-3">
+            See Pass Rate Data in Action — Explore Our Top States
+          </h2>
+          <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
+            Every state page includes the same 93% pass rate, state-approved
+            curriculum, and pass guarantee — plus state-specific exam details.
+          </p>
+          <nav className="flex flex-wrap justify-center gap-2 text-sm">
+            {[
+              { slug: "florida", name: "Florida" },
+              { slug: "texas", name: "Texas" },
+              { slug: "california", name: "California" },
+              { slug: "new-york", name: "New York" },
+              { slug: "georgia", name: "Georgia" },
+              { slug: "ohio", name: "Ohio" },
+            ].map((s) => (
+              <Link
+                key={s.slug}
+                href={`/${s.slug}`}
+                className="bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold text-navy font-semibold rounded-lg px-4 py-2 transition-colors"
+              >
+                {s.name}
+              </Link>
+            ))}
+            <Link
+              href="/"
+              className="bg-navy hover:bg-navy-light text-white font-semibold rounded-lg px-4 py-2 transition-colors"
+            >
+              All 50 states →
+            </Link>
+          </nav>
+        </div>
+      </section>
 
       {/* CTA */}
       <CTABanner

@@ -139,7 +139,7 @@ export default async function PracticeExamPage({
       <section className="bg-navy text-white py-6">
         <div className="max-w-5xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
           <div>
-            <p className="text-2xl font-bold text-gold">{examInfo.passRate}%</p>
+            <p className="text-2xl font-bold text-gold">{Math.round(parseFloat(examInfo.passRate))}%</p>
             <p className="text-sm text-blue-100">JustInsurance pass rate</p>
           </div>
           <div>

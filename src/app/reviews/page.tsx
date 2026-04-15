@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
-import { ALL_TESTIMONIALS, YOUTUBE_TESTIMONIAL_COUNT, type Testimonial } from "@/lib/testimonials";
+import { ALL_TESTIMONIALS, type Testimonial } from "@/lib/testimonials";
 
 export const metadata: Metadata = {
   title: { absolute: "JustInsurance Student Reviews & Testimonials" },

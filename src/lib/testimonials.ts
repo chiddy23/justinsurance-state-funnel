@@ -124,6 +124,14 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     videoId: "hADoF38rhdk",
   },
   {
+    name: "Jennyonthewok",
+    initials: "JE",
+    source: "youtube",
+    state: "Florida",
+    text: "LETS GOOO! Passed my (FL) life exam this morning on my 1st try with a 91% following your videos!",
+    videoId: "qoKyq9XrbuY",
+  },
+  {
     name: "Solselentor",
     initials: "SO",
     source: "youtube",
@@ -186,6 +194,14 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     state: "Connecticut",
     text: "just pass life,health, accident, CT state exam! thanks!",
     videoId: "zcCOK4ztwec",
+  },
+  {
+    name: "Student, Alabama",
+    initials: "AL",
+    source: "youtube",
+    state: "Alabama",
+    text: "Passed my Alabama Life and Health exam yesterday I listened to a lot of your videos. Thanks bro",
+    videoId: "NOteKHV251Q",
   },
   {
     name: "Lavitz",
@@ -396,22 +412,6 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     videoId: "BHoI_O47eE8",
   },
   {
-    name: "Tayyoung",
-    initials: "TA",
-    source: "youtube",
-    state: "Utah",
-    text: "Justin thank you for putting out great content to help people pass their exam. I really appreciate it. These videos were extremely helpful. All the best from Utah.",
-    videoId: "bP1q3rK6bI0",
-  },
-  {
-    name: "Bumblebee",
-    initials: "BU",
-    source: "youtube",
-    state: "Florida",
-    text: "I passed my exam with an 82 yesterday! Just gotta get fingerprinted and ill be good to go. Where do we go to apply to work for with you? Im in FL",
-    videoId: "bP1q3rK6bI0",
-  },
-  {
     name: "Danielapinto",
     initials: "DA",
     source: "youtube",
@@ -545,11 +545,11 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     videoId: "zcCOK4ztwec",
   },
   {
-    name: "Sakaedavis",
-    initials: "SA",
+    name: "Nbarakat",
+    initials: "NB",
     source: "youtube",
-    text: "I watched this video along with the insurance terms video and passed my exam two days ago! You had me laughing in the exam. Thank you so much! I created a study group with some people I recruited and immediately sent your videos in the chat. I even compiled your questions in the video and now host live kahoots games to make it more interesting for them. YOU ARE AMAZING!",
-    videoId: "it9dlxYAAbY",
+    text: "Studying for the exam now. This helped alot more than the book did, thank you",
+    videoId: "7lREsWXDNFY",
   },
 
 ];

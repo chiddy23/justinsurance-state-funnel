@@ -352,6 +352,77 @@ export default function LicenseRenewalGuidePage() {
         </div>
       </section>
 
+      {/* What if my license has already lapsed? */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-6">
+            What If My License Has Already Lapsed?
+          </h2>
+          <div className="space-y-4 text-gray-700 leading-relaxed">
+            <p>
+              If you missed your renewal deadline, your options depend on how
+              long ago your license expired and which state you&apos;re in. Most
+              states allow reinstatement within a grace period — typically 30 to
+              90 days after expiration — by completing delinquent CE, paying late
+              fees, and submitting a reinstatement application. After the grace
+              period, reinstatement rules vary dramatically.
+            </p>
+            <p>
+              <strong className="text-navy">Short windows (1 month or less):</strong>{" "}
+              Ohio gives a 1-month grace period with a $50 late fee. Pennsylvania
+              allows 60 days for retroactive reinstatement.
+            </p>
+            <p>
+              <strong className="text-navy">Medium windows (90 days - 1 year):</strong>{" "}
+              Texas gives a 90-day late renewal window. Nevada, Oregon, Wisconsin,
+              and West Virginia allow up to 12 months. Illinois allows 12 months
+              via NIPR with a $430 reinstatement total.
+            </p>
+            <p>
+              <strong className="text-navy">Long windows (2 years):</strong>{" "}
+              Vermont allows reinstatement up to 2 years after expiration via the
+              initial licensing application process.
+            </p>
+            <p>
+              <strong className="text-navy">No grace period, immediate lapse:</strong>{" "}
+              California, Illinois (for CE completion), New York, and Wisconsin
+              lapse immediately on expiration. Oklahoma, North Carolina, and a
+              handful of other states have strict non-grace structures.
+            </p>
+            <p>
+              After the reinstatement window closes, most states require you to
+              retake the prelicensing course AND pass the state licensing exam
+              again — essentially starting over. The safest approach is to
+              complete your CE at least 30 days before your expiration date to
+              allow time for same-day reporting and state processing. For the
+              exact rules in your state, see the {`"`}What Happens If You Miss Your CE
+              Deadline?{`"`} section on your state&apos;s CE page (e.g.,{" "}
+              <Link href="/florida/continuing-education" className="text-gold-dark font-semibold hover:underline">Florida</Link>
+              ,{" "}
+              <Link href="/texas/continuing-education" className="text-gold-dark font-semibold hover:underline">Texas</Link>
+              ,{" "}
+              <Link href="/california/continuing-education" className="text-gold-dark font-semibold hover:underline">California</Link>
+              ).
+            </p>
+            <p>
+              If your license has already lapsed, contact your state&apos;s
+              Department of Insurance to confirm reinstatement requirements
+              before enrolling in a CE course — some states require specific
+              course content to satisfy the delinquent hours, not just any
+              CE package.
+            </p>
+            <p className="pt-2">
+              Our support team can help navigate state-specific reinstatement
+              rules —{" "}
+              <Link href="/contact" className="text-gold-dark font-semibold hover:underline">contact us</Link>
+              {" "}or call{" "}
+              <a href="tel:7542239744" className="text-gold-dark font-semibold hover:underline">754-223-9744</a>
+              .
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* FAQ */}
       <FAQAccordion faqs={faqs} heading="License Renewal FAQ" />
 

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
+import { ALL_TESTIMONIALS, YOUTUBE_TESTIMONIAL_COUNT, type Testimonial } from "@/lib/testimonials";
 
 export const metadata: Metadata = {
   title: { absolute: "JustInsurance Student Reviews & Testimonials" },
@@ -10,34 +11,14 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://justinsuranceco.com/reviews" },
 };
 
-interface Review {
-  name: string;
-  role: string;
-  state?: string;
-  text: string;
-  initials: string;
-}
+const REVIEWS = ALL_TESTIMONIALS;
 
-const REVIEWS: Review[] = [
-  { name: "Marcus D.", role: "Life & Health Agent", state: "Florida", text: "I was nervous about the licensing exam, but JustInsurance's practice tests were spot-on. I passed on my first try and had my license in hand three weeks after I enrolled. The video lessons made even the complicated state regulations easy to understand.", initials: "MD" },
-  { name: "Jennifer M.", role: "Licensed Agent", state: "Texas", text: "JustInsurance's course content was thorough and well-organized. The practice exams were spot-on.", initials: "JM" },
-  { name: "David R.", role: "Insurance Producer", state: "Georgia", text: "I passed on my first try thanks to JustInsurance. The self-paced format fit perfectly with my schedule.", initials: "DR" },
-  { name: "Sarah K.", role: "Health Insurance Agent", state: "California", text: "The video lessons broke down complicated regulations into plain language. I felt genuinely prepared walking into the exam room.", initials: "SK" },
-  { name: "Marcus T.", role: "Life & Health Agent", state: "New York", text: "Flashcards and chapter quizzes made retention effortless. Finished my prelicensing in two weeks while working full time.", initials: "MT" },
-  { name: "Rebecca L.", role: "Licensed Producer", state: "Ohio", text: "Pass guarantee gave me total peace of mind. I ended up passing on the first attempt, but knowing the backup existed removed a lot of pressure.", initials: "RL" },
-  { name: "Thomas B.", role: "Insurance Professional", state: "Pennsylvania", text: "Customer support answered my state-specific questions within hours. That level of responsiveness is rare in an online course platform.", initials: "TB" },
-  { name: "Amanda W.", role: "Health Agent", state: "Illinois", text: "I tried two other courses before finding JustInsurance. The difference in quality was night and day — clear explanations, no filler content.", initials: "AW" },
-  { name: "Christopher H.", role: "Insurance Agent", state: "Arizona", text: "The practice exams felt like the real thing. By test day I had taken so many mock exams that I was completely calm under pressure.", initials: "CH" },
-  { name: "Nicole D.", role: "Licensed Professional", state: "North Carolina", text: "Mobile-friendly format meant I could squeeze in study sessions during my lunch breaks. Got licensed in under a month without quitting my day job.", initials: "ND" },
-  { name: "Michael P.", role: "Insurance Producer", state: "Virginia", text: "I appreciated that the course covered exactly what the state exam tests — nothing more, nothing less. No time wasted on irrelevant material.", initials: "MP" },
-  { name: "Jessica R.", role: "Life Insurance Agent", state: "Michigan", text: "The self-paced structure let me rewatch any lesson as many times as I needed. Totally worth it for someone balancing family and studying.", initials: "JR" },
-  { name: "Daniel F.", role: "Insurance Specialist", state: "Washington", text: "Enrollment took five minutes, the content was immediately available, and I passed my exam three weeks later. Smooth from start to finish.", initials: "DF" },
-  { name: "Lauren G.", role: "Property & Casualty Agent", state: "Massachusetts", text: "JustInsurance's practice tests nailed the question style and difficulty of my actual state exam. First attempt, passing score.", initials: "LG" },
-  { name: "Kevin S.", role: "Licensed Insurance Agent", state: "New Jersey", text: "The course organized every topic exactly the way the state exam breaks it down. Studying felt efficient rather than overwhelming.", initials: "KS" },
-  { name: "Patricia L.", role: "Licensed Agent (CE Renewal)", state: "Tennessee", text: "Completed all my CE hours in one weekend. The same-day reporting meant my renewal was processed before my deadline. Couldn't be easier.", initials: "PL" },
-  { name: "Robert K.", role: "Insurance Producer (CE Renewal)", state: "Oregon", text: "I've renewed with JustInsurance three cycles in a row now. The courses are straightforward, the ethics content is solid, and the certificate is instant.", initials: "RK" },
-  { name: "Angela S.", role: "Health Insurance Agent (CE Renewal)", state: "Colorado", text: "Renewing my license used to be a hassle — finding approved courses, waiting for credits to post, worrying about deadlines. JustInsurance handles all of it.", initials: "AS" },
-];
+function sourceLabel(t: Testimonial): string {
+  if (t.source === "youtube") return "via YouTube comment";
+  if (t.source === "ce-renewal") return t.licenseType ? `CE Renewal · ${t.state ?? ""}`.trim() : "CE Renewal";
+  if (t.licenseType) return `${t.licenseType}${t.state ? " · " + t.state : ""}`;
+  return t.state ? `Verified Student · ${t.state}` : "Verified Student";
+}
 
 const breadcrumbSchema = generateBreadcrumbSchema([
   { name: "Home", url: "https://justinsuranceco.com/" },
@@ -157,13 +138,23 @@ export default function ReviewsPage() {
                   &ldquo;{r.text}&rdquo;
                 </p>
                 <div className="flex items-center gap-3 mt-auto pt-4 border-t border-gray-100">
-                  <div className="w-10 h-10 bg-navy rounded-full flex items-center justify-center flex-shrink-0">
+                  <div className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 ${r.source === "youtube" ? "bg-red-600" : "bg-navy"}`}>
                     <span className="text-white font-bold text-xs">{r.initials}</span>
                   </div>
-                  <div>
-                    <p className="font-semibold text-navy text-sm" itemProp="author">{r.name}</p>
+                  <div className="flex-1 min-w-0">
+                    <p className="font-semibold text-navy text-sm flex items-center gap-2 flex-wrap" itemProp="author">
+                      {r.name}
+                      {r.source === "youtube" && (
+                        <span className="inline-flex items-center gap-1 bg-red-50 text-red-700 text-[10px] font-bold uppercase tracking-wide px-1.5 py-0.5 rounded">
+                          <svg className="w-3 h-3" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                            <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                          </svg>
+                          YouTube
+                        </span>
+                      )}
+                    </p>
                     <p className="text-gray-500 text-xs">
-                      {r.role}
+                      {sourceLabel(r)}
                       {r.state && (
                         <>
                           {" · "}

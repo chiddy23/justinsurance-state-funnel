@@ -9,6 +9,7 @@ const RESOURCES_LINKS = [
   { label: "Exam Guide", href: "/insurance-exam-guide" },
   { label: "Practice Exams", href: "/practice-exam" },
   { label: "Study Guide", href: "/study-guide" },
+  { label: "Compare Providers", href: "/compare" },
   { label: "Renewal Guide", href: "/license-renewal-guide" },
   { label: "FAQ", href: "/faq" },
   { label: "Pass Rates", href: "/pass-rates" },

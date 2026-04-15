@@ -25,33 +25,27 @@ const breadcrumbSchema = generateBreadcrumbSchema([
   { name: "Reviews", url: "https://justinsuranceco.com/reviews" },
 ]);
 
-// AggregateRating + individual Review schema
+// Organization + AggregateRating only.
+// Note: We intentionally do NOT embed individual Review objects inline here.
+// Google's policy restricts Product/Organization schema with self-hosted
+// review markup (self-serving review policy). AggregateRating alone is
+// acceptable and still eligible for star-rating SERP display when backed
+// by on-page evidence. Individual reviews are displayed in the page body
+// for user credibility but not marked up as Review schema.
 const aggregateRatingSchema = {
   "@context": "https://schema.org",
-  "@type": "Product",
-  name: "JustInsurance Insurance Prelicensing & CE Courses",
+  "@type": "Organization",
+  name: "JustInsurance LLC",
+  url: "https://justinsuranceco.com",
   description:
     "State-approved insurance prelicensing and continuing education courses for all 50 states. 100% online, self-paced, with same-day CE reporting and a published pass guarantee.",
-  brand: { "@type": "Brand", name: "JustInsurance" },
   aggregateRating: {
     "@type": "AggregateRating",
     ratingValue: "4.9",
     bestRating: "5",
     worstRating: "1",
     ratingCount: "30000",
-    reviewCount: REVIEWS.length.toString(),
   },
-  review: REVIEWS.map((r) => ({
-    "@type": "Review",
-    author: { "@type": "Person", name: r.name },
-    reviewRating: {
-      "@type": "Rating",
-      ratingValue: "5",
-      bestRating: "5",
-      worstRating: "1",
-    },
-    reviewBody: r.text,
-  })),
 };
 
 function StarRow() {
@@ -130,11 +124,9 @@ export default function ReviewsPage() {
               <article
                 key={r.name + r.state}
                 className="bg-white rounded-xl border border-gray-200 shadow-sm p-6 flex flex-col"
-                itemScope
-                itemType="https://schema.org/Review"
               >
                 <StarRow />
-                <p className="text-gray-700 text-sm leading-relaxed mt-4 mb-6 flex-grow" itemProp="reviewBody">
+                <p className="text-gray-700 text-sm leading-relaxed mt-4 mb-6 flex-grow">
                   &ldquo;{r.text}&rdquo;
                 </p>
                 <div className="flex items-center gap-3 mt-auto pt-4 border-t border-gray-100">
@@ -142,7 +134,7 @@ export default function ReviewsPage() {
                     <span className="text-white font-bold text-xs">{r.initials}</span>
                   </div>
                   <div className="flex-1 min-w-0">
-                    <p className="font-semibold text-navy text-sm flex items-center gap-2 flex-wrap" itemProp="author">
+                    <p className="font-semibold text-navy text-sm flex items-center gap-2 flex-wrap">
                       {r.name}
                       {r.source === "youtube" && (
                         r.videoId ? (

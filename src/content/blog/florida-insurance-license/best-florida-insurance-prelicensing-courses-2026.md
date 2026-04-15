@@ -20,9 +20,9 @@ If you're about to spend $199+ on Florida 2-15 prelicensing, the marketing pages
 
 Here's what you actually need to know before picking a Florida 2-15 prelicensing course in 2026:
 
-- **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — everything included. Published 93% pass rate. 30-day guarantee window from enrollment.
-- **XCEL Solutions**: Lower-looking base price, but flashcards, realistic exam simulations, extended access, and other essentials are paid upgrades. 30-day course access pressures you to test before you're ready. "Live sessions" are pre-recorded. No disclosed pass rate.
-- **ExamFX**: Established provider, but flashcards and live sessions cost extra. The pass guarantee requires you to sit for the state exam within **3 days** of first scoring 80% on their practice test — often impossible to schedule. No disclosed pass rate.
+- **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — everything included. 93% pass rate published with full methodology. 30-day refund guarantee window from enrollment.
+- **XCEL Solutions**: Lower-looking base price, but flashcards, exam simulations, livestream classes, and extended access are paid upgrades. Course access splits into 30 days prelicensing + 30 days exam prep review (60 days total but two consecutive clocks). Markets "top industry pass rates" but does not publish a specific figure with methodology. No refund-style guarantee — failed students get continued course access instead.
+- **ExamFX**: Established provider, but flashcards and livestream classes cost extra. Pass guarantee requires sitting for the state exam within **3 calendar days** of passing their Readiness Exam at 80%+ — often impossible to schedule. Publishes pass rate figures (93%/94%/95%/99%) but discloses no methodology.
 
 If you're testing soon and want straightforward pricing with every feature included: JustInsurance. If you're on the tightest possible budget and are disciplined enough to finish in under 30 days: XCEL with the full add-on stack. If you already have a Pearson VUE exam appointment within 3 days of when you expect to hit 80%: ExamFX.
 
@@ -60,8 +60,8 @@ For Florida specifically, realistic practice simulations matter because Pearson 
 ### Live instructor support
 
 - **JustInsurance**: Live instructor sessions **5× weekly**, included in the $199 base course. Ask questions in real time, get state-specific 2-15 clarifications, and hear other candidates work through concepts.
-- **XCEL**: "Live" sessions are typically pre-recorded videos accessed on-demand — not actually live. This is a frequent XCEL complaint.
-- **ExamFX**: Live sessions approximately once per week, and they're a **paid upgrade** rather than included.
+- **XCEL**: Offers genuine livestream instructor classes (with webcam and government-ID verification required), but typically as a **paid upgrade** rather than part of the base package. Also has on-demand recorded content.
+- **ExamFX**: Livestream classes are a **paid upgrade** rather than included in the base course, with more limited frequency than a daily-access model.
 
 ### Flashcards and vocabulary
 
@@ -72,7 +72,7 @@ For Florida specifically, realistic practice simulations matter because Pearson 
 ### Course access duration
 
 - **JustInsurance**: Multiple extension options included — you don't have to test before you're ready.
-- **XCEL**: 30 days of course access. Extending requires a paid upgrade. For candidates new to insurance, 30 days is aggressive — most students benefit from 2–3 weeks of study plus a buffer for exam scheduling and potential retakes.
+- **XCEL**: Standard package gives 30 days for the prelicensing course **plus** 30 days for the prep review — 60 days total but split across two consecutive phases, not one continuous window. Extending the prelicensing phase requires a paid upgrade. For candidates new to insurance, the 30-day prelicensing clock can still feel rushed if you need extra time on the main 40-hour curriculum.
 - **ExamFX**: Access varies by package; extensions available but often require upgrading.
 
 ### White-glove licensing support
@@ -83,7 +83,7 @@ For Florida specifically, realistic practice simulations matter because Pearson 
 
 ## The pass guarantee problem
 
-Every major prelicensing provider offers some form of "pass guarantee" — refund your money if you don't pass. The terms matter more than the existence of the guarantee.
+Every major prelicensing provider has some form of safety net for students who don't pass — but the structure varies dramatically. The terms matter far more than the existence of the safety net.
 
 ### JustInsurance pass guarantee
 
@@ -96,10 +96,13 @@ Published on every course page. Same terms every state.
 
 ### ExamFX pass guarantee
 
-- Score 80% on ExamFX's practice exam
-- Sit for the state exam within **3 days** of hitting that 80%
+- Pass ExamFX's Readiness Exam at 80% or higher
+- Sit for the state licensing exam within **3 calendar days** of passing the Readiness Exam
+- Only the first state exam attempt qualifies (second-attempt failures don't qualify)
+- Submit your score sheet within 30 days of the licensing exam
+- Refunds exclude company-paid packages and shipping costs
 
-The 3-day window is the problem. Pearson VUE testing centers in Florida — particularly in Miami, Orlando, Tampa, and Jacksonville — are typically booked 1–2 weeks out. Scheduling an exam on 3 days of notice is often impossible for working adults. Missing the 3-day window voids the guarantee. This is the most frequently cited ExamFX complaint on reviews.
+The 3-day window is the problem. Pearson VUE testing centers in Florida — particularly in Miami, Orlando, Tampa, and Jacksonville — are typically booked 1–2 weeks out. Scheduling an exam within 72 hours is often impossible for working adults. Missing the 3-day window voids the guarantee. This is the most frequently cited ExamFX complaint on reviews. Source: [examfx.com/resources/pass-guarantee](https://www.examfx.com/resources/pass-guarantee).
 
 ### XCEL Solutions pass guarantee
 

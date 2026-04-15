@@ -18,7 +18,7 @@ let removed = 0;
 for (const phrase of REMOVE_PATTERNS) {
   // Match: "  {\n ... text: \"... ${phrase} ...\",\n  },\n"
   const escaped = phrase.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  const re = new RegExp(`  \\{\\s*\\n(?:    [^\\n]+\\n){1,6}    text: "[^"]*${escaped}[^"]*",\\s*\\n  \\},?\\s*\\n`, "g");
+  const re = new RegExp(`  \\{\\s*\\n(?:    [^\\n]+\\n){1,8}    text: "[^"]*${escaped}[^"]*",\\s*\\n(?:    [^\\n]+\\n){0,3}  \\},?\\s*\\n`, "g");
   const before = src.length;
   src = src.replace(re, "");
   if (src.length < before) {

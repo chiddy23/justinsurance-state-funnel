@@ -282,6 +282,7 @@ export default async function StateHubPage({
                 quote: youtubeMatch.text,
                 name: youtubeMatch.name,
                 title: `via YouTube comment${youtubeMatch.licenseType ? " · " + youtubeMatch.licenseType : ""}`,
+                youtubeVideoId: youtubeMatch.videoId,
               }}
               seed={stateData.slug}
             />

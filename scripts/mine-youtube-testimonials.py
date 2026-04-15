@@ -222,6 +222,7 @@ def main():
         if c["state"]:
             lines.append(f'    state: "{c["state"]}",')
         lines.append(f'    text: "{text_escaped}",')
+        lines.append(f'    videoId: "{c["video_id"]}",')
         lines.append("  },")
         ts_lines.append("\n".join(lines))
 

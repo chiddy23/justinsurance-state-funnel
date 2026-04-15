@@ -135,6 +135,8 @@ export interface LeadTestimonial {
   quote: string;
   name: string;
   title: string;
+  /** When present, renders a YouTube source link on the card */
+  youtubeVideoId?: string;
 }
 
 interface TestimonialCardsProps {
@@ -161,13 +163,16 @@ function TestimonialCard({
   text,
   stars,
   initials,
+  youtubeVideoId,
 }: {
   name: string;
   role: string;
   text: string;
   stars: number;
   initials: string;
+  youtubeVideoId?: string;
 }) {
+  const isYoutube = Boolean(youtubeVideoId);
   return (
     <div className="bg-white rounded-xl p-6 shadow-sm border border-gray-200 flex flex-col">
       <StarRating count={stars} />
@@ -175,11 +180,27 @@ function TestimonialCard({
         &ldquo;{text}&rdquo;
       </p>
       <div className="flex items-center gap-3 mt-auto">
-        <div className="w-10 h-10 bg-navy rounded-full flex items-center justify-center flex-shrink-0">
+        <div className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 ${isYoutube ? "bg-red-600" : "bg-navy"}`}>
           <span className="text-white font-bold text-xs">{initials}</span>
         </div>
-        <div>
-          <p className="font-semibold text-navy text-sm">{name}</p>
+        <div className="flex-1 min-w-0">
+          <p className="font-semibold text-navy text-sm flex items-center gap-2 flex-wrap">
+            {name}
+            {isYoutube && (
+              <a
+                href={`https://www.youtube.com/watch?v=${youtubeVideoId}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="See this comment on YouTube (opens in new tab)"
+                className="inline-flex items-center gap-1 bg-red-50 hover:bg-red-100 text-red-700 hover:text-red-800 text-[10px] font-bold uppercase tracking-wide px-1.5 py-0.5 rounded transition-colors"
+              >
+                <svg className="w-3 h-3" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                  <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                </svg>
+                YouTube<span aria-hidden="true" className="text-[9px]">↗</span>
+              </a>
+            )}
+          </p>
           <p className="text-gray-400 text-xs">{role}</p>
         </div>
       </div>
@@ -241,6 +262,7 @@ export default function TestimonialCards({ leadTestimonial, variant = "prelicens
               text={leadTestimonial.quote}
               stars={5}
               initials={getInitials(leadTestimonial.name)}
+              youtubeVideoId={leadTestimonial.youtubeVideoId}
             />
           ) : (
             defaultLead

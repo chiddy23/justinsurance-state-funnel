@@ -191,6 +191,28 @@ export default function ReviewsPage() {
         </div>
       </section>
 
+      {/* Competitor comparison cross-link */}
+      <section className="bg-white py-10 px-4 border-t border-gray-100">
+        <div className="max-w-3xl mx-auto text-center">
+          <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-2">
+            Still Comparing?
+          </p>
+          <h2 className="text-xl md:text-2xl font-bold text-navy mb-3">
+            See Why Students Chose JustInsurance Over XCEL and ExamFX
+          </h2>
+          <p className="text-gray-600 mb-5 max-w-2xl mx-auto text-sm">
+            Side-by-side comparison of the three major prelicensing providers —
+            18 feature points, real pricing, and honest guarantee terms.
+          </p>
+          <Link
+            href="/compare"
+            className="inline-block bg-navy hover:bg-navy-light text-white font-bold py-2.5 px-6 rounded-lg transition-colors text-sm"
+          >
+            Compare Providers →
+          </Link>
+        </div>
+      </section>
+
       {/* Methodology note */}
       <section className="bg-gray-bg py-12 px-4">
         <div className="max-w-3xl mx-auto text-center">

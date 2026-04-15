@@ -86,6 +86,9 @@ export default function Footer() {
               <li><Link href="/license-renewal-guide" className="text-gray-300 hover:text-gold transition-colors text-sm">Renewal Guide</Link></li>
               <li><Link href="/faq" className="text-gray-300 hover:text-gold transition-colors text-sm">FAQ</Link></li>
               <li><Link href="/pass-rates" className="text-gray-300 hover:text-gold transition-colors text-sm">Pass Rates</Link></li>
+              <li><Link href="/reviews" className="text-gray-300 hover:text-gold transition-colors text-sm">Reviews</Link></li>
+              <li><Link href="/compare" className="text-gray-300 hover:text-gold transition-colors text-sm">Compare Providers</Link></li>
+              <li><Link href="/practice-exam" className="text-gray-300 hover:text-gold transition-colors text-sm">Practice Exams</Link></li>
               <li><Link href="/press" className="text-gray-300 hover:text-gold transition-colors text-sm">Press &amp; Media</Link></li>
             </ul>
           </div>

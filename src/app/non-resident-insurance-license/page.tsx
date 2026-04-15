@@ -8,7 +8,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: { absolute: "Non-Resident Insurance License: Reciprocity Guide" },
   description:
-    "Most states let you apply for a non-resident insurance license through NIPR with no new exam. Here are the fees, reciprocity rules, and step-by-step process.",
+    "Most states let you apply for a non-resident insurance license through NIPR with no new exam. Fees, reciprocity rules, and the application process.",
   alternates: { canonical: "https://justinsuranceco.com/non-resident-insurance-license" },
 };
 
@@ -21,7 +21,7 @@ const faqs = [
   {
     question: "Do I need to retake the state exam to get a non-resident license?",
     answer:
-      "In almost every case, no. Under NAIC reciprocity standards (adopted by 49 states plus DC), if you hold an active resident license in good standing, you can apply for a non-resident license in another state without retesting. The one practical exception is if your resident state is not considered reciprocal by the target state — this is rare but does occur in edge cases.",
+      "In almost every case, no. Under NAIC reciprocity standards (adopted by all 50 states plus DC), if you hold an active resident license in good standing, you can apply for a non-resident license in another state without retesting. The one practical exception is if your resident state is not considered reciprocal by the target state — this is rare but does occur in edge cases.",
   },
   {
     question: "How long does a non-resident license application take?",
@@ -87,14 +87,14 @@ const reciprocityData: { name: string; category: "Full" | "Partial" | "Extra"; n
   { name: "Pennsylvania", category: "Full", note: "No retesting; full NIPR integration" },
   { name: "North Carolina", category: "Full", note: "Full reciprocity for resident producers in good standing" },
   { name: "Indiana", category: "Full", note: "Fast turnaround, often under a week" },
-  { name: "Arizona", category: "Full", note: "Full reciprocity; 4-year license cycle applies to non-residents too" },
+  { name: "Arizona", category: "Full", note: "Full reciprocity; Arizona runs a 4-year CE cycle that non-residents can satisfy via home-state reciprocity" },
   { name: "Missouri", category: "Full", note: "Standard NIPR application, reciprocal on all major LOAs" },
   { name: "Virginia", category: "Full", note: "Reciprocal under NAIC framework" },
   { name: "Illinois", category: "Full", note: "Reciprocal; non-residents file through NIPR" },
   { name: "California", category: "Extra", note: "May require supplemental Form 441-9 for LOAs beyond the basics; longer background review" },
   { name: "Florida", category: "Extra", note: "Separate state-specific CE rules still apply for certain LOAs; longer processing" },
   { name: "Hawaii", category: "Extra", note: "Higher fees; periodic supplemental documentation requests" },
-  { name: "New York", category: "Partial", note: "Reciprocal but with unique surplus lines and adjuster carveouts" },
+  { name: "New York", category: "Extra", note: "Reciprocal for standard LOAs; unique carveouts for surplus lines and public adjuster lines" },
 ];
 
 const pitfalls = [
@@ -173,7 +173,7 @@ export default function NonResidentInsuranceLicensePage() {
             <p>
               Under the{" "}
               <a href="https://content.naic.org/" className="text-navy underline hover:text-gold" target="_blank" rel="noopener noreferrer">National Association of Insurance Commissioners (NAIC)</a>
-              {" "}Producer Licensing Model Act, 49 states plus the District of Columbia have adopted reciprocity provisions. That means your home-state license is the gateway to nearly every other state in the country without having to sit through another{" "}
+              {" "}Producer Licensing Model Act, all 50 states plus the District of Columbia have adopted reciprocity provisions. That means your home-state license is the gateway to nearly every other state in the country without having to sit through another{" "}
               <Link href="/prelicensing" className="text-navy underline hover:text-gold">prelicensing course</Link>
               {" "}or{" "}
               <Link href="/practice-exam" className="text-navy underline hover:text-gold">state exam</Link>.
@@ -324,7 +324,7 @@ export default function NonResidentInsuranceLicensePage() {
               </div>
             </div>
             <p>
-              <strong>CE for non-residents.</strong> Under NAIC reciprocity, 40+ states explicitly waive CE for non-residents whose home-state CE is current. That means the bulk of your ongoing cost is absorbed by the CE you already take at home. Our{" "}
+              <strong>CE for non-residents.</strong> Under NAIC reciprocity, most states waive CE for non-residents whose home-state CE is current. That means the bulk of your ongoing cost is absorbed by the CE you already take at home. Our{" "}
               <Link href="/continuing-education" className="text-navy underline hover:text-gold">CE catalog</Link>
               {" "}starts at $39 for the full home-state package, and that completion satisfies the reciprocal non-resident states automatically.
             </p>

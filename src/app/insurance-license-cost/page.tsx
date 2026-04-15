@@ -6,9 +6,9 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: { absolute: "How Much Does an Insurance License Cost?" },
+  title: { absolute: "How Much Does an Insurance License Cost? 2026 Fees" },
   description:
-    "Typical all-in cost for an insurance license runs $300 to $600, but fees vary by state. See state-by-state exam, application, and fingerprint fee data for 2026.",
+    "Insurance license all-in cost runs $300 to $600. State-by-state exam, application, and fingerprint fees for 2026.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-license-cost" },
 };
 
@@ -21,7 +21,7 @@ const faqs = [
   {
     question: "How much does an insurance license cost in total?",
     answer:
-      "For most candidates, the total out-of-pocket cost falls between $300 and $600. That figure includes a prelicensing course ($199 at JustInsurance), the state exam fee (ranging from about $29 in Missouri to $98 in California), the state application fee (as low as $10 in Michigan and Ohio, as high as $225 in Massachusetts), and fingerprinting or background check costs ($10 to $50 in most states). If you add an optional state-specific practice exam ($59), you are still usually under $600.",
+      "For most candidates, the total out-of-pocket cost falls between $300 and $600. That figure includes a prelicensing course ($199 at JustInsurance), the state exam fee (ranging from about $29 in Missouri to $98 in California), the state application fee (as low as $10 in Michigan and Ohio, as high as $225 in Massachusetts), and fingerprinting or background check costs ($30 to $50 in most states). If you add an optional state-specific practice exam ($59), you are still usually under $600.",
   },
   {
     question: "Why does the cost vary so much between states?",
@@ -36,7 +36,7 @@ const faqs = [
   {
     question: "Do I have to pay for fingerprinting separately?",
     answer:
-      "In most states, yes. Fingerprinting and background check fees typically run $10 to $50 and are paid directly to a vendor like IdentoGO or Fieldprint, not to the Department of Insurance. A few states bundle the background check cost into the application fee. Check your state&apos;s licensing page or the NIPR application portal for specifics.",
+      "In most states, yes. Fingerprinting and background check fees typically run $30 to $50 and are paid directly to a vendor like IdentoGO or Fieldprint, not to the Department of Insurance. A few states bundle the background check cost into the application fee. Check your state&apos;s licensing page or the NIPR application portal for specifics.",
   },
   {
     question: "What happens if I fail the exam — how much extra does that cost?",
@@ -46,7 +46,7 @@ const faqs = [
   {
     question: "Are there ongoing costs after I get my license?",
     answer:
-      "Yes. Licenses renew every 1 to 3 years depending on the state, and most states require continuing education (typically 24 CE hours per 2-year cycle). Renewal fees range from about $20 to $100 per line. If you get appointed by a carrier, the appointment fee (usually $10 to $40 per carrier per state) is typically paid by the carrier, not the agent. See the /license-renewal-guide for full state-by-state renewal data.",
+      "Yes. Licenses renew every 1 to 3 years depending on the state, and most states require continuing education (typically 24 CE hours per 2-year cycle). Renewal fees range from about $20 to $100 per line. If you get appointed by a carrier, the appointment fee (usually $10 to $40 per carrier per state) is typically paid by the carrier, not the agent. Our license renewal guide has full state-by-state renewal data.",
   },
 ];
 
@@ -83,7 +83,7 @@ const stateFeeTable: { state: string; slug: string; examFee: string; appFee: str
 const hiddenCosts = [
   {
     title: "Retake Fees",
-    body: "Every failed attempt is a full exam fee paid again. In California that is $98 per try. In Illinois it is $92. Three failed attempts in a high-fee state can exceed $290 in exam fees alone — more than the entire prelicensing course.",
+    body: "Every failed attempt is a full exam fee paid again. In California that is $98 per try. In Illinois it is $92. In California, three failed attempts adds up to $294 in exam fees alone — more than the prelicensing course itself.",
   },
   {
     title: "Expiration and Reinstatement Penalties",
@@ -171,11 +171,11 @@ export default function InsuranceLicenseCostPage() {
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Prelicensing course:</strong> $150 to $400 depending on provider. JustInsurance is a flat $199 per line.</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">State exam fee:</strong> $29 in Missouri to $98 in California (paid per attempt).</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">State application fee:</strong> $10 in Michigan or Ohio to $225 in Massachusetts.</span></li>
-              <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Fingerprinting or background check:</strong> $10 to $50 through IdentoGO, Fieldprint, or an equivalent vendor.</span></li>
+              <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Fingerprinting or background check:</strong> $30 to $50 through IdentoGO, Fieldprint, or an equivalent vendor.</span></li>
               <li className="flex gap-3"><span className="text-gold font-bold">•</span><span><strong className="text-navy">Optional practice exam:</strong> $59 for a state-specific, full-length simulated exam.</span></li>
             </ul>
             <p className="text-gray-700 leading-relaxed mt-4">
-              Candidates in low-fee states like Michigan or Texas can get fully licensed for under $320. Candidates in California, Illinois, or Massachusetts should plan for closer to $600, largely because the application fee is front-loaded.
+              Candidates in low-fee states like Michigan can get fully licensed for under $300. Texas runs about $330. Candidates in California, Illinois, or Massachusetts should plan for closer to $600, largely because the application fee is front-loaded.
             </p>
           </div>
         </div>
@@ -223,7 +223,7 @@ export default function InsuranceLicenseCostPage() {
             </div>
 
             <div className="bg-white rounded-xl p-7 shadow-sm border border-gray-100">
-              <h3 className="font-bold text-navy text-lg mb-3">4. Fingerprinting and Background Check — $10 to $50</h3>
+              <h3 className="font-bold text-navy text-lg mb-3">4. Fingerprinting and Background Check — $30 to $50</h3>
               <p className="text-gray-700 leading-relaxed text-sm">
                 Most states require a fingerprint-based background check. You schedule an appointment with IdentoGO, Fieldprint, or your state&apos;s designated vendor and pay the vendor directly. Typical cost is $30 to $50. A few states bundle the background check into the application fee — check your state&apos;s DOI page for the specifics before you book.
               </p>

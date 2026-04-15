@@ -84,18 +84,18 @@ const phases = [
 ];
 
 const stateTimes = [
-  { state: "Florida", hours: "40 hr (2-15) / 60 hr (2-20)", issuance: "Real-time via NIPR", total: "2–4 weeks", notes: "eAppoint + fingerprints through MorphoTrust" },
-  { state: "Texas", hours: "40 hr per line", issuance: "Real-time via Sircon/NIPR", total: "2–4 weeks", notes: "IdentoGO fingerprints, no state exam fee surprise" },
-  { state: "Georgia", hours: "40 hr per line", issuance: "Real-time via NIPR", total: "2–3 weeks", notes: "Fastest turnaround in the Southeast" },
+  { state: "Florida", hours: "60 hr combined 2-15", issuance: "Real-time via NIPR", total: "2–4 weeks", notes: "MyProfile portal + fingerprints through IdentoGO" },
+  { state: "Texas", hours: "Not required (optional)", issuance: "Real-time via Sircon/NIPR", total: "2–4 weeks", notes: "IdentoGO fingerprints; no prelicensing mandate" },
+  { state: "Georgia", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "2–3 weeks", notes: "Fastest turnaround in the Southeast" },
   { state: "California", hours: "12 hr Ethics & Code (post-AB 943)", issuance: "Batch review", total: "4–8 weeks", notes: "Live Scan fingerprints, CDI manual review common" },
-  { state: "New York", hours: "20 hr (Life) / 20 hr (Health)", issuance: "Batch review", total: "6–10 weeks", notes: "DFS processes applications in weekly cycles" },
-  { state: "Illinois", hours: "20 hr per line", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "IDOI issues within 48 hours of clean app" },
-  { state: "Ohio", hours: "20 hr per line", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "ODI uses Sircon for producer licensing" },
-  { state: "Pennsylvania", hours: "24 hr per line", issuance: "Batch review", total: "4–6 weeks", notes: "PID reviews applications weekly" },
-  { state: "North Carolina", hours: "20 hr per line", issuance: "Batch review", total: "4–7 weeks", notes: "NCDOI manual review standard" },
-  { state: "Arizona", hours: "40 hr per line", issuance: "Real-time via NIPR", total: "2–4 weeks", notes: "ADOI posts licenses within 1 business day" },
-  { state: "Michigan", hours: "20 hr per line", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "DIFS issues quickly after clean background" },
-  { state: "Washington", hours: "20 hr per line", issuance: "Batch review", total: "4–6 weeks", notes: "OIC uses Prometric for testing" },
+  { state: "New York", hours: "20 hr per line (40 combined)", issuance: "Batch review", total: "6–10 weeks", notes: "DFS processes applications in weekly cycles" },
+  { state: "Illinois", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "IDOI issues within 48 hours of clean app" },
+  { state: "Ohio", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "ODI uses Sircon for producer licensing" },
+  { state: "Pennsylvania", hours: "Not required (optional)", issuance: "Batch review", total: "4–6 weeks", notes: "PID reviews applications weekly" },
+  { state: "North Carolina", hours: "Not required (optional)", issuance: "Batch review", total: "4–7 weeks", notes: "NCDOI manual review standard" },
+  { state: "Arizona", hours: "Not required (optional)", issuance: "Real-time via NIPR", total: "2–4 weeks", notes: "DIFI posts licenses within 1 business day" },
+  { state: "Michigan", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "DIFS issues quickly after clean background" },
+  { state: "Washington", hours: "Not required (optional)", issuance: "Batch review", total: "4–6 weeks", notes: "OIC uses Prometric for testing" },
 ];
 
 const weekPlan = [

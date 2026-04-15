@@ -12,6 +12,7 @@ import StateRequirementsBlock from "@/components/StateRequirementsBlock";
 import TestimonialCards from "@/components/TestimonialCards";
 import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
+import StateNoticesSection from "@/components/StateNoticesSection";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 
@@ -123,6 +124,13 @@ export default async function StateHubPage({
       />
 
       <TrustBar />
+
+      {stateData.specialNotices && (
+        <StateNoticesSection
+          stateName={stateData.name}
+          notices={stateData.specialNotices}
+        />
+      )}
 
       <TwoPathSelector stateSlug={stateData.slug} stateName={stateData.name} />
 

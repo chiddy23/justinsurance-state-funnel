@@ -94,6 +94,16 @@ export default function PracticeExamHubPage() {
           <p className="text-blue-100 text-sm mt-4">
             {STATES_WITH_EXAMS.length} states available · instant access · unlimited retakes
           </p>
+
+          <div className="mt-6 pt-6 border-t border-white/10 flex flex-col sm:flex-row items-center justify-center gap-3 text-sm">
+            <span className="text-blue-100">Want the full prep package?</span>
+            <Link
+              href="/prelicensing"
+              className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-2 px-5 rounded-lg transition-colors"
+            >
+              Enroll in Prelicensing →
+            </Link>
+          </div>
         </div>
       </section>
 

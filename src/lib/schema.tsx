@@ -8,12 +8,16 @@ const LOGO_URL = "https://justinsuranceco.com/justinsurance-logo.png";
 // ---------------------------------------------------------------------------
 
 export function generateAggregateRatingSchema(): object {
+  // Per Schema.org: ratingCount = total ratings (aggregate satisfaction signal,
+  // backed by internal student data). reviewCount is intentionally omitted at
+  // the sitewide Organization level — it's only set on /reviews where actual
+  // displayed reviews can be counted, to comply with Google's review schema
+  // policies that require reviewCount to reflect real reviews.
   return {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
     "bestRating": "5",
     "ratingCount": "30000",
-    "reviewCount": "30000",
   };
 }
 

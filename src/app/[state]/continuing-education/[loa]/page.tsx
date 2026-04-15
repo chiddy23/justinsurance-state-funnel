@@ -288,7 +288,7 @@ export default async function CECoursePage({
 
       <CourseFeatures variant="ce" />
 
-      <TestimonialCards variant="ce" />
+      <TestimonialCards variant="ce" stateName={stateData.name} seed={stateData.slug} />
 
       <FAQAccordion
         faqs={faqs}

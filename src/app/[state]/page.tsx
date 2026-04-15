@@ -10,7 +10,6 @@ import TrustBar from "@/components/TrustBar";
 import TwoPathSelector from "@/components/TwoPathSelector";
 import StateRequirementsBlock from "@/components/StateRequirementsBlock";
 import TestimonialCards from "@/components/TestimonialCards";
-import { getTestimonialForState } from "@/lib/testimonials";
 import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StateNoticesSection from "@/components/StateNoticesSection";
@@ -271,25 +270,9 @@ export default async function StateHubPage({
       </section>
 
       {/* Fix 4 — Lead testimonial uses state-matched data */}
-      {(() => {
-        // Prefer a real YouTube comment for this state when one exists in
-        // src/lib/testimonials.ts. Falls back to the states.ts default.
-        const youtubeMatch = getTestimonialForState(stateData.name);
-        if (youtubeMatch && youtubeMatch.source === "youtube") {
-          return (
-            <TestimonialCards
-              leadTestimonial={{
-                quote: youtubeMatch.text,
-                name: youtubeMatch.name,
-                title: `via YouTube comment${youtubeMatch.licenseType ? " · " + youtubeMatch.licenseType : ""}`,
-                youtubeVideoId: youtubeMatch.videoId,
-              }}
-              seed={stateData.slug}
-            />
-          );
-        }
-        return <TestimonialCards leadTestimonial={stateData.stateTestimonial} seed={stateData.slug} />;
-      })()}
+      {/* Auto-fills all 3 cards with state-specific YouTube testimonials
+          (falling back to generic when fewer than 3 are available). */}
+      <TestimonialCards stateName={stateData.name} seed={stateData.slug} />
 
       <PracticeExamCTA
         stateName={stateData.name}

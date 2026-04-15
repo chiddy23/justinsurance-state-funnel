@@ -1,4 +1,5 @@
 import React from "react";
+import { ALL_TESTIMONIALS, type Testimonial } from "@/lib/testimonials";
 
 const GENERIC_TESTIMONIALS = [
   {
@@ -101,9 +102,9 @@ const GENERIC_TESTIMONIALS = [
   },
 ];
 
-type Testimonial = (typeof GENERIC_TESTIMONIALS)[number];
+type LocalTestimonial = (typeof GENERIC_TESTIMONIALS)[number];
 
-function pickGenericPair(seed: string, pool: Testimonial[]): Testimonial[] {
+function pickGenericPair(seed: string, pool: LocalTestimonial[]): LocalTestimonial[] {
   // Simple deterministic hash so same state always gets same pair
   let h = 0;
   for (let i = 0; i < seed.length; i++) h = ((h << 5) - h + seed.charCodeAt(i)) | 0;
@@ -143,6 +144,8 @@ interface TestimonialCardsProps {
   leadTestimonial?: LeadTestimonial;
   variant?: "prelicensing" | "ce";
   seed?: string;
+  /** When set, fills cards with state-specific YouTube testimonials first, falling back to generic. Overrides leadTestimonial. */
+  stateName?: string;
 }
 
 function StarRating({ count }: { count: number }) {
@@ -217,7 +220,43 @@ function getInitials(name: string): string {
     .slice(0, 2);
 }
 
-export default function TestimonialCards({ leadTestimonial, variant = "prelicensing", seed }: TestimonialCardsProps) {
+/**
+ * Pick up to `count` testimonials from the unified testimonials.ts source,
+ * prioritizing state-specific YouTube comments, then generic YouTube comments,
+ * then verified students for that state, then filler from the local pool.
+ */
+function pickFromUnified(
+  stateName: string,
+  count: number,
+  variant: "prelicensing" | "ce"
+): Testimonial[] {
+  const isCE = variant === "ce";
+  const pool = ALL_TESTIMONIALS.filter((t) =>
+    isCE ? t.source === "ce-renewal" : t.source !== "ce-renewal"
+  );
+
+  const stateMatches = (t: Testimonial) =>
+    t.state?.toLowerCase() === stateName.toLowerCase();
+
+  const stateYoutube = pool.filter((t) => t.source === "youtube" && stateMatches(t));
+  const genericYoutube = pool.filter((t) => t.source === "youtube" && !stateMatches(t));
+  const stateVerified = pool.filter((t) => t.source === "verified-student" && stateMatches(t));
+  const genericVerified = pool.filter((t) => t.source === "verified-student" && !stateMatches(t));
+
+  const combined = [...stateYoutube, ...stateVerified, ...genericYoutube, ...genericVerified];
+  // Deduplicate by name+text
+  const seen = new Set<string>();
+  const unique: Testimonial[] = [];
+  for (const t of combined) {
+    const key = t.name + "|" + t.text.slice(0, 60);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    unique.push(t);
+  }
+  return unique.slice(0, count);
+}
+
+export default function TestimonialCards({ leadTestimonial, variant = "prelicensing", seed, stateName }: TestimonialCardsProps) {
   const isCE = variant === "ce";
 
   const heading = isCE ? "What Our Agents Say" : "What Our Students Say";
@@ -225,6 +264,61 @@ export default function TestimonialCards({ leadTestimonial, variant = "prelicens
     ? "4.9 stars from 30,000+ agents who renewed with us"
     : "4.9 stars from 30,000+ students licensed nationwide";
   const genericTestimonials = isCE ? CE_TESTIMONIALS : GENERIC_TESTIMONIALS;
+
+  // New path: when stateName is provided, render 3 unified testimonials
+  // (state-YouTube-first, then generic YouTube, then verified-student, then filler).
+  // This gives state pages multiple YouTube-linked cards instead of just 1 lead.
+  if (stateName) {
+    const picks = pickFromUnified(stateName, 3, variant);
+    if (picks.length > 0) {
+      const cards = picks.map((t) => (
+        <TestimonialCard
+          key={t.name + t.videoId}
+          name={t.name}
+          role={
+            t.source === "youtube"
+              ? `via YouTube comment${t.licenseType ? " · " + t.licenseType : t.state ? " · " + t.state : ""}`
+              : t.source === "ce-renewal"
+              ? `CE Renewal${t.state ? " · " + t.state : ""}`
+              : t.licenseType
+              ? `${t.licenseType} Agent${t.state ? " · " + t.state : ""}`
+              : `Licensed${t.state ? " · " + t.state : ""}`
+          }
+          text={t.text}
+          stars={5}
+          initials={t.initials}
+          youtubeVideoId={t.videoId}
+        />
+      ));
+      // Pad with filler if fewer than 3 unified results
+      while (cards.length < 3) {
+        const fallback = genericTestimonials[cards.length % genericTestimonials.length];
+        cards.push(
+          <TestimonialCard
+            key={"filler-" + cards.length}
+            name={fallback.name}
+            role={fallback.role}
+            text={fallback.text}
+            stars={fallback.stars}
+            initials={fallback.initials}
+          />
+        );
+      }
+      return (
+        <section className="bg-gray-bg py-16 px-4">
+          <div className="max-w-5xl mx-auto">
+            <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+              {heading}
+            </h2>
+            <p className="text-gray-500 text-center mb-10">
+              {subheading}
+            </p>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">{cards}</div>
+          </div>
+        </section>
+      );
+    }
+  }
 
   const defaultLead = isCE ? (
     <TestimonialCard

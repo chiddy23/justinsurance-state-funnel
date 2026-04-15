@@ -277,7 +277,7 @@ export default async function PrelicensingCoursePage({
         }
       />
 
-      <TestimonialCards />
+      <TestimonialCards stateName={stateData.name} seed={stateData.slug} />
 
       <FAQAccordion
         faqs={faqs}

@@ -33,6 +33,8 @@ export async function generateMetadata({
     pageType: "state-hub",
     stateName: stateData.name,
     stateSlug: stateData.slug,
+    stateAbbreviation: stateData.abbreviation,
+    examProvider: stateData.examInfo?.examProvider,
   });
 }
 

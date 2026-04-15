@@ -35,7 +35,7 @@ export async function generateMetadata({
     openGraph: {
       title: `${stateData.name} Insurance License Requirements 2026`,
       description: `Complete ${stateData.name} insurance license requirements: prelicensing hours, exam details, fingerprinting, CE renewal, and special training. Updated ${stateData.lastVerified}.`,
-      url: `https://justinsuranceco.com/${stateData.slug}/requirements/`,
+      url: `https://justinsuranceco.com/${stateData.slug}/requirements`,
       siteName: "JustInsurance",
       type: "website",
     },
@@ -122,7 +122,7 @@ export default async function RequirementsPage({
     },
     {
       name: "Requirements",
-      url: `https://justinsuranceco.com/${stateData.slug}/requirements/`,
+      url: `https://justinsuranceco.com/${stateData.slug}/requirements`,
     },
   ]);
   const faqSchema = generateFAQSchema(faqs);
@@ -696,12 +696,45 @@ export default async function RequirementsPage({
         heading={`${stateData.name} Insurance License Requirements — FAQs`}
       />
 
-      {/* ── 9. CTA Banner ───────────────────────────────────────────────────── */}
+      {/* ── 9. Related Guides ───────────────────────────────────────────────── */}
+      <section className="py-12 bg-gray-50">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl font-bold text-navy mb-6">Related {stateData.name} Licensing Guides</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            <Link href="/how-long-to-get-insurance-license" className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-semibold text-navy mb-1">Licensing Timeline</div>
+              <div className="text-sm text-gray-600">How long it takes from enrollment to an active license number.</div>
+            </Link>
+            <Link href="/insurance-license-cost" className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-semibold text-navy mb-1">Total License Cost</div>
+              <div className="text-sm text-gray-600">State-by-state breakdown of exam, application, and fingerprint fees.</div>
+            </Link>
+            <Link href="/non-resident-insurance-license" className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-semibold text-navy mb-1">Non-Resident License</div>
+              <div className="text-sm text-gray-600">Already licensed elsewhere? See the reciprocity process for {stateData.name}.</div>
+            </Link>
+            <Link href={`/${stateData.slug}/practice-exam`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-semibold text-navy mb-1">{stateData.name} Practice Exam</div>
+              <div className="text-sm text-gray-600">Mirror the real {stateData.examInfo?.examProvider || "state"} exam before test day.</div>
+            </Link>
+            <Link href={`/${stateData.slug}/prelicensing`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-semibold text-navy mb-1">{stateData.name} Prelicensing</div>
+              <div className="text-sm text-gray-600">State-approved prelicensing courses for every line of authority.</div>
+            </Link>
+            <Link href={`/${stateData.slug}/continuing-education`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-semibold text-navy mb-1">{stateData.name} CE Courses</div>
+              <div className="text-sm text-gray-600">Renew your license with state-approved continuing education.</div>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* ── 10. CTA Banner ──────────────────────────────────────────────────── */}
       <CTABanner
         title={`Ready to Get Your ${stateData.name} Insurance License?`}
         subtitle={`Start your state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee.`}
         ctaText="Start My Course Today"
-        ctaHref={`/${stateData.slug}/prelicensing/`}
+        ctaHref={`/${stateData.slug}/prelicensing`}
       />
     </>
   );

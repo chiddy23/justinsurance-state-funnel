@@ -206,6 +206,29 @@ export default function PrelicensingPage() {
 
       <YouTubeEmbed videoId="sjk5B8bdO68" title="Pass Your Life & Health Insurance Exam — Full Live Class" />
 
+      <section className="py-12 bg-gray-50">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl font-bold text-navy mb-6 text-center">Prelicensing Courses by Line of Authority</h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <Link href="/life-insurance-license" className="block p-6 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-bold text-navy mb-2">Life Insurance License</div>
+              <div className="text-sm text-gray-600">Everything to know about the Life-only line: exam content, prelicensing hours, and state-by-state fees.</div>
+            </Link>
+            <Link href="/health-insurance-license" className="block p-6 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-bold text-navy mb-2">Health Insurance License</div>
+              <div className="text-sm text-gray-600">Accident &amp; Sickness (Health) line — coursework, exam prep, and Medicare/Medigap considerations.</div>
+            </Link>
+            <Link href="/life-and-health-insurance-license" className="block p-6 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-bold text-navy mb-2">Life &amp; Health License</div>
+              <div className="text-sm text-gray-600">The combined L&amp;H license — one exam covering both lines, and the most common starter license.</div>
+            </Link>
+          </div>
+          <div className="mt-6 text-center text-sm text-gray-600">
+            New to the industry? See our guides on <Link href="/how-long-to-get-insurance-license" className="text-navy underline hover:text-gold">how long licensing takes</Link> and <Link href="/insurance-license-cost" className="text-navy underline hover:text-gold">total license cost</Link>.
+          </div>
+        </div>
+      </section>
+
       <CTABanner
         title="Ready to Start Your Prelicensing Course?"
         subtitle="Pick your state, enroll in minutes, and start studying today. Pass guarantee included with every course."

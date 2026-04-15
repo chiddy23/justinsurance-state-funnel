@@ -88,7 +88,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
   for (const stateSlug of ALL_STATE_SLUGS) {
     // State hub page
     entries.push({
-      url: `${BASE_URL}/${stateSlug}/`,
+      url: `${BASE_URL}/${stateSlug}`,
       lastModified,
       changeFrequency: "weekly",
       priority: 0.9,
@@ -96,7 +96,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
 
     // Prelicensing hub page
     entries.push({
-      url: `${BASE_URL}/${stateSlug}/prelicensing/`,
+      url: `${BASE_URL}/${stateSlug}/prelicensing`,
       lastModified,
       changeFrequency: "monthly",
       priority: 0.85,
@@ -104,7 +104,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
 
     // CE hub page
     entries.push({
-      url: `${BASE_URL}/${stateSlug}/continuing-education/`,
+      url: `${BASE_URL}/${stateSlug}/continuing-education`,
       lastModified,
       changeFrequency: "monthly",
       priority: 0.85,
@@ -112,7 +112,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
 
     // Requirements page
     entries.push({
-      url: `${BASE_URL}/${stateSlug}/requirements/`,
+      url: `${BASE_URL}/${stateSlug}/requirements`,
       lastModified,
       changeFrequency: "monthly",
       priority: 0.85,
@@ -120,7 +120,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
 
     // Practice exam page (paid offering)
     entries.push({
-      url: `${BASE_URL}/${stateSlug}/practice-exam/`,
+      url: `${BASE_URL}/${stateSlug}/practice-exam`,
       lastModified,
       changeFrequency: "monthly",
       priority: 0.85,
@@ -129,7 +129,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
     // Individual prelicensing course pages (one per LOA)
     for (const loaSlug of ALL_LOA_SLUGS) {
       entries.push({
-        url: `${BASE_URL}/${stateSlug}/prelicensing/${loaSlug}/`,
+        url: `${BASE_URL}/${stateSlug}/prelicensing/${loaSlug}`,
         lastModified,
         changeFrequency: "monthly",
         priority: 0.7,
@@ -139,7 +139,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
     // Individual CE course pages (one per LOA)
     for (const loaSlug of ALL_LOA_SLUGS) {
       entries.push({
-        url: `${BASE_URL}/${stateSlug}/continuing-education/${loaSlug}/`,
+        url: `${BASE_URL}/${stateSlug}/continuing-education/${loaSlug}`,
         lastModified,
         changeFrequency: "monthly",
         priority: 0.7,

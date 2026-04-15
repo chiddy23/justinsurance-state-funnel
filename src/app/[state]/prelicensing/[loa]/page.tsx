@@ -94,6 +94,7 @@ export async function generateMetadata({
     pageType: "prelicensing-course",
     stateName: stateData.name,
     stateSlug: stateData.slug,
+    stateAbbreviation: stateData.abbreviation,
     loaName: loaDef.name,
     loaSlug: loaDef.slug,
     hours: hoursNum,

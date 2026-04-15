@@ -76,6 +76,7 @@ export async function generateMetadata({
     pageType: "ce-course",
     stateName: stateData.name,
     stateSlug: stateData.slug,
+    stateAbbreviation: stateData.abbreviation,
     loaName: loaDef.name,
     loaSlug: loaDef.slug,
     hours: stateData.ce.totalHours,

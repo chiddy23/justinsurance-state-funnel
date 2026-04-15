@@ -29,7 +29,8 @@ function buildTitle(
 ): { absolute: string } {
   // These titles are long and already include the brand name, so we bypass
   // the root layout's "%s | JustInsurance" template via { absolute }.
-  const { stateName = "", loaName = "" } = params;
+  const { stateName = "", stateAbbreviation = "", loaName = "" } = params;
+  const shortState = stateAbbreviation || stateName;
 
   // Target: 45-61 characters. Use abbreviation for long state names to stay under limit.
   const brand = "JustInsurance";
@@ -78,11 +79,13 @@ function buildTitle(
       `${stateName} ${loaName} Prelicensing Course | $199 | ${brand}`,
       `${stateName} ${loaName} Prelicensing Course | ${brand}`,
       `${stateName} ${loaName} Prelicensing | ${brand}`,
+      `${shortState} ${loaName} Prelicensing | ${brand}`,
     ],
     "ce-course": [
       `${stateName} ${loaName} CE | Same-Day Reporting | ${brand}`,
       `${stateName} ${loaName} CE Course | ${brand}`,
       `${stateName} ${loaName} CE | ${brand}`,
+      `${shortState} ${loaName} CE Course | ${brand}`,
     ],
     "practice-exam": [
       `${stateName} Insurance Practice Exam | $59 | ${brand}`,
@@ -119,15 +122,28 @@ function buildDescription(
   switch (pageType) {
     case "home":
       return "State-approved insurance prelicensing and CE courses for all 50 states. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.";
-    case "state-hub":
-      return `Get your ${stateName} insurance license online. State-approved prelicensing and CE, 93% pass rate, same-day CE reporting. Pass guarantee — from $199.`;
+    case "state-hub": {
+      const ep = params.examProvider;
+      const providerBit = ep ? `${ep} exam prep, ` : "";
+      const desc = `Get your ${stateName} insurance license online — ${providerBit}state-approved prelicensing, 93% pass rate, pass guarantee. From $199.`;
+      return desc.length <= 160
+        ? desc
+        : `Get your ${stateName} insurance license online. State-approved prelicensing and CE, 93% pass rate, pass guarantee. From $199.`;
+    }
     case "prelicensing-hub": {
       const h = hours ? `${hours}-hour ` : "";
       const desc = `Complete your ${stateName} insurance prelicensing requirement online. ${h}State-approved course, self-paced, practice exams included. 93% pass rate. $199.`;
       return desc.length <= 155 ? desc : `Complete your ${stateName} insurance prelicensing online. State-approved, self-paced, 93% pass rate, pass guarantee. $199.`;
     }
-    case "ce-hub":
+    case "ce-hub": {
+      const ch = params.ceHours;
+      const cp = params.ceRenewalPeriod;
+      if (ch && cp) {
+        const desc = `Renew your ${stateName} insurance license — ${ch} CE hours every ${cp}. State-approved, same-day DOI reporting, self-paced. From $39.`;
+        if (desc.length <= 160) return desc;
+      }
       return `Renew your ${stateName} insurance license with state-approved CE courses. Complete online at your own pace, same-day DOI reporting. From $39.`;
+    }
     case "prelicensing-course":
       return `${stateName} ${loaName} insurance prelicensing course online. $199, state-approved, 93% pass rate, pass guarantee. Self-paced with practice exams.`;
     case "ce-course":
@@ -173,10 +189,14 @@ export interface PageMetadataParams {
   pageType: PageType;
   stateName?: string;
   stateSlug?: string;
+  stateAbbreviation?: string;
   loaName?: string;
   loaSlug?: string;
   hours?: number;
   price?: string;
+  examProvider?: string;
+  ceHours?: number;
+  ceRenewalPeriod?: string;
 }
 
 export function generatePageMetadata(params: PageMetadataParams): Metadata {

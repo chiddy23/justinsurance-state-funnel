@@ -27,7 +27,10 @@ export async function generateMetadata({
     pageType: "ce-hub",
     stateName: stateData.name,
     stateSlug: stateData.slug,
+    stateAbbreviation: stateData.abbreviation,
     hours: stateData.ce.totalHours,
+    ceHours: stateData.ce.totalHours,
+    ceRenewalPeriod: stateData.ce.renewalPeriod,
   });
 }
 

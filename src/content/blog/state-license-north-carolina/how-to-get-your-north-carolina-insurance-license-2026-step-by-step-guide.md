@@ -13,7 +13,7 @@ clusterName: State License – North Carolina
 type: pillar
 date: '2026-04-15'
 author: Justin vom Eigen
-image: /blog/images/how-to-get-your-north-carolina-insurance-license-2026-step-by-step-guide.jpg
+image: /blog/images/boost-your-career-with-a-north-carolina-insurance-license.jpg
 imageAlt: >-
   Producer highlighting North Carolina insurance statutes next to a Pearson
   VUE exam admission ticket on a desk.

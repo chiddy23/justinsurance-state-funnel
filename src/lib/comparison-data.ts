@@ -4,7 +4,8 @@
 export type ComparisonValue =
   | { kind: "yes"; label?: string }
   | { kind: "no"; label?: string }
-  | { kind: "partial"; label: string };
+  | { kind: "upcharge"; label: string }
+  | { kind: "limited"; label: string };
 
 export interface ComparisonRow {
   feature: string;
@@ -61,8 +62,8 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "100+ Video Lessons Covering Every Exam Topic",
     justinsurance: { kind: "yes", label: "100+ videos" },
-    xcel: { kind: "partial", label: "Limited videos" },
-    examfx: { kind: "partial", label: "Limited videos" },
+    xcel: { kind: "limited", label: "Limited videos" },
+    examfx: { kind: "limited", label: "Limited videos" },
   },
   {
     feature: "State Exam Outline Covered by AI",
@@ -79,14 +80,14 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "Practice Exams",
     justinsurance: { kind: "yes", label: "Unlimited + adaptive" },
-    xcel: { kind: "partial", label: "2–3 static exams" },
-    examfx: { kind: "partial", label: "2–3 static exams" },
+    xcel: { kind: "limited", label: "2–3 static exams" },
+    examfx: { kind: "limited", label: "2–3 static exams" },
   },
   {
     feature: "Live Instructor Sessions",
     justinsurance: { kind: "yes", label: "5× weekly, included" },
-    xcel: { kind: "partial", label: "Upcharge, pre-recorded" },
-    examfx: { kind: "partial", label: "Upcharge, 1× weekly" },
+    xcel: { kind: "upcharge", label: "Pre-recorded, paid add-on" },
+    examfx: { kind: "upcharge", label: "1× weekly, paid add-on" },
   },
   {
     feature: "AI-Powered Realistic Exam Simulations",
@@ -97,8 +98,8 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "Flashcards Included",
     justinsurance: { kind: "yes", label: "Included" },
-    xcel: { kind: "partial", label: "Upcharge" },
-    examfx: { kind: "partial", label: "Upcharge" },
+    xcel: { kind: "upcharge", label: "Paid add-on" },
+    examfx: { kind: "upcharge", label: "Paid add-on" },
   },
   {
     feature: "White-Glove Licensing Process Support",
@@ -145,14 +146,14 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "Course Customization & Adaptation",
     justinsurance: { kind: "yes", label: "Adapts to weak areas" },
-    xcel: { kind: "partial", label: "Fixed curriculum" },
-    examfx: { kind: "partial", label: "Fixed curriculum" },
+    xcel: { kind: "limited", label: "Fixed curriculum" },
+    examfx: { kind: "limited", label: "Fixed curriculum" },
   },
   {
     feature: "Support Hours",
     justinsurance: { kind: "yes", label: "7 days, 12–15 hrs (M–F 7a–10p, Sat/Sun 8a–8p)" },
-    xcel: { kind: "partial", label: "6 days (M–F 8:30a–7p, no weekend text support)" },
-    examfx: { kind: "partial", label: "5.5 days (M–F 7a–6p, Sat 10a–2p)" },
+    xcel: { kind: "limited", label: "6 days (M–F 8:30a–7p, no weekend text support)" },
+    examfx: { kind: "limited", label: "5.5 days (M–F 7a–6p, Sat 10a–2p)" },
   },
   {
     feature: "Interactive Learning Portal",

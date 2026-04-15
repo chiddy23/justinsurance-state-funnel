@@ -13,7 +13,7 @@ clusterName: State License – Illinois
 type: pillar
 date: '2026-04-15'
 author: Justin vom Eigen
-image: /blog/images/how-to-get-your-illinois-insurance-license-2026-step-by-step-guide.jpg
+image: /blog/images/avoid-these-common-mistakes-in-illinois-insurance-license-requirements.jpg
 imageAlt: >-
   Candidate highlighting Illinois insurance statutes in a study notebook next
   to a printed Pearson VUE confirmation.

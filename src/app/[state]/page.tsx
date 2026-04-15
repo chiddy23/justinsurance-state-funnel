@@ -270,6 +270,65 @@ export default async function StateHubPage({
         practiceExams={stateData.practiceExams}
       />
 
+      {(() => {
+        const blogMap: Record<string, { href: string; title: string }> = {
+          florida: {
+            href: "/blog/florida-insurance-license/best-florida-insurance-prelicensing-courses-2026",
+            title: "Best Florida Insurance Prelicensing Courses 2026: JustInsurance vs XCEL vs ExamFX",
+          },
+          georgia: {
+            href: "/blog/state-license-georgia/how-to-get-your-georgia-insurance-license-2026-step-by-step-guide",
+            title: "How to Get Your Georgia Insurance License: 2026 Step-by-Step Guide",
+          },
+          ohio: {
+            href: "/blog/state-license-ohio/how-to-get-your-ohio-insurance-license-2026-step-by-step-guide",
+            title: "How to Get Your Ohio Insurance License: 2026 Step-by-Step Guide",
+          },
+          illinois: {
+            href: "/blog/state-license-illinois/how-to-get-your-illinois-insurance-license-2026-step-by-step-guide",
+            title: "How to Get Your Illinois Insurance License: 2026 Step-by-Step Guide",
+          },
+          pennsylvania: {
+            href: "/blog/state-license-pennsylvania/how-to-get-your-pennsylvania-insurance-license-2026-step-by-step-guide",
+            title: "How to Get Your Pennsylvania Insurance License: 2026 Step-by-Step Guide",
+          },
+          arizona: {
+            href: "/blog/state-license-arizona/how-to-get-your-arizona-insurance-license-2026-step-by-step-guide",
+            title: "How to Get Your Arizona Insurance License: 2026 Step-by-Step Guide",
+          },
+          "north-carolina": {
+            href: "/blog/state-license-north-carolina/how-to-get-your-north-carolina-insurance-license-2026-step-by-step-guide",
+            title: "How to Get Your North Carolina Insurance License: 2026 Step-by-Step Guide",
+          },
+        };
+        const feat = blogMap[stateData.slug];
+        if (!feat) return null;
+        return (
+          <section className="bg-white py-12 px-4 border-t border-gray-100">
+            <div className="max-w-3xl mx-auto">
+              <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-2 text-center">
+                Deep Dive
+              </p>
+              <a
+                href={feat.href}
+                className="block bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-xl p-6 transition-colors group"
+              >
+                <h3 className="text-lg md:text-xl font-bold text-navy mb-2 group-hover:text-gold-dark transition-colors">
+                  {feat.title}
+                </h3>
+                <p className="text-gray-600 text-sm">
+                  Full walkthrough of the {stateData.name} licensing process with
+                  primary-source data from the {stateData.doiName}, Pearson VUE/PSI, and NIPR.
+                </p>
+                <p className="mt-3 text-gold-dark font-semibold text-sm group-hover:underline">
+                  Read the full {stateData.name} guide →
+                </p>
+              </a>
+            </div>
+          </section>
+        );
+      })()}
+
       <FAQAccordion faqs={faqs} heading={`${stateData.name} Insurance License FAQs`} />
 
       {/* Fix 7 — Special training requirements section (FL, CA, TX, NY, etc.) */}

@@ -13,7 +13,7 @@ clusterName: State License – Arizona
 type: pillar
 date: '2026-04-15'
 author: Justin vom Eigen
-image: /blog/images/how-to-get-your-arizona-insurance-license-2026-step-by-step-guide.jpg
+image: /blog/images/affordable-tips-to-lower-your-arizona-insurance-license-cost.jpg
 imageAlt: >-
   Insurance producer reviewing Arizona Revised Statutes Title 20 sections on
   a laptop beside printed PSI exam instructions.

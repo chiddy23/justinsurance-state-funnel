@@ -13,7 +13,7 @@ clusterName: State License – Pennsylvania
 type: pillar
 date: '2026-04-15'
 author: Justin vom Eigen
-image: /blog/images/how-to-get-your-pennsylvania-insurance-license-2026-step-by-step-guide.jpg
+image: /blog/images/avoid-these-common-mistakes-with-pennsylvania-insurance-license-renewal.jpg
 imageAlt: >-
   Insurance producer reviewing Pennsylvania Insurance Department paperwork at
   a desk with ID and payment card ready for PSI scheduling.

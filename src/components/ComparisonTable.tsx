@@ -39,14 +39,27 @@ function Cell({ value, emphasized }: { value: ComparisonValue; emphasized?: bool
       </div>
     );
   }
-  // partial
+  if (value.kind === "upcharge") {
+    return (
+      <div className="flex flex-col items-center gap-1 text-gray-600">
+        <span
+          className="flex-shrink-0 px-2 h-7 rounded-full bg-amber-100 text-amber-700 flex items-center justify-center text-xs font-bold"
+          aria-label="Paid upcharge required"
+        >
+          $ Upcharge
+        </span>
+        <span className="text-xs text-center leading-tight">{value.label}</span>
+      </div>
+    );
+  }
+  // limited
   return (
     <div className="flex flex-col items-center gap-1 text-gray-600">
       <span
-        className="flex-shrink-0 px-2 h-7 rounded-full bg-amber-100 text-amber-700 flex items-center justify-center text-xs font-bold"
-        aria-label="Partial"
+        className="flex-shrink-0 w-7 h-7 rounded-full bg-amber-100 text-amber-700 flex items-center justify-center text-xs font-bold"
+        aria-label="Limited"
       >
-        $ Upcharge
+        !
       </span>
       <span className="text-xs text-center leading-tight">{value.label}</span>
     </div>

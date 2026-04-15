@@ -10,7 +10,7 @@ clusterName: Florida Insurance License
 type: pillar
 date: '2026-04-15'
 author: Justin vom Eigen
-image: /blog/images/best-florida-insurance-prelicensing-courses-2026.jpg
+image: /blog/images/discover-the-true-florida-insurance-license-cost-for-you.jpg
 imageAlt: Side-by-side comparison of three prelicensing course provider logos on a desk with study materials
 ---
 

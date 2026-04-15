@@ -13,7 +13,7 @@ clusterName: State License – Ohio
 type: pillar
 date: '2026-04-15'
 author: Justin vom Eigen
-image: /blog/images/how-to-get-your-ohio-insurance-license-2026-step-by-step-guide.jpg
+image: /blog/images/avoid-these-common-mistakes-with-ohio-insurance-license-renewal.jpg
 imageAlt: >-
   Producer studying insurance regulations with Ohio outline materials on a
   desk beside a laptop.

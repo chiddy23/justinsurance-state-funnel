@@ -13,7 +13,7 @@ clusterName: State License – Georgia
 type: pillar
 date: '2026-04-15'
 author: Justin vom Eigen
-image: /blog/images/how-to-get-your-georgia-insurance-license-2026-step-by-step-guide.jpg
+image: /blog/images/avoid-these-common-mistakes-for-georgia-insurance-ce-approval.jpg
 imageAlt: >-
   Insurance professional reviewing licensing paperwork and laptop screen in
   a bright Georgia office workspace.

@@ -80,7 +80,16 @@ export default async function PrelicensingHubPage({
                 What is Insurance Prelicensing?
               </h2>
               <p className="text-gray-600 leading-relaxed mb-4">
-                Before you can take the {stateData.name} insurance licensing exam, state law requires you to complete a minimum number of hours of approved prelicensing education. This education covers the insurance concepts, policy types, and {stateData.name} regulations you need to know to sell insurance professionally and ethically.
+                {(() => {
+                  const hrs = stateData.prelicensing.lifeAndHealth.hours;
+                  const required =
+                    typeof hrs === "number" ||
+                    (typeof hrs === "string" && !/not required|none|no /i.test(hrs));
+                  if (required) {
+                    return `Before you can take the ${stateData.name} insurance licensing exam, state law requires you to complete a minimum number of hours of approved prelicensing education. This education covers the insurance concepts, policy types, and ${stateData.name} regulations you need to know to sell insurance professionally and ethically.`;
+                  }
+                  return `${stateData.name} does not require a formal prelicensing course to sit for the state licensing exam — but preparation still matters. JustInsurance's ${stateData.name} prelicensing course covers the insurance concepts, policy types, and ${stateData.name} regulations tested on the exam, giving you the structure first-time passers rely on even when it's not state-mandated.`;
+                })()}
               </p>
               <p className="text-gray-600 leading-relaxed mb-4">
                 JustInsurance&apos;s {stateData.name} prelicensing courses are fully online and self-paced. You can study on any device, at any time. There are no live sessions to attend — just work through the lessons at your own pace and move on when you&apos;re ready.

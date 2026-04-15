@@ -168,7 +168,7 @@ export function getStateHubFAQs(data: StateDataForFAQ): FAQ[] {
     },
     {
       question: `What is the pass rate for JustInsurance students on the ${data.name} insurance exam?`,
-      answer: `JustInsurance students pass the ${data.name} insurance licensing exam at a rate of ${data.passRate}% on their first attempt. The exam is administered by ${data.examProvider} and requires a minimum score of ${data.passingScore}% to pass. That strong outcome reflects the depth of our prelicensing curriculum — candidates who train with structured, state-approved material consistently outperform those who attempt the exam without preparation. If you do not pass on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} JustInsurance includes a full-length practice exam that mirrors the actual ${data.examProvider} question format, so you know exactly what to expect on test day.`,
+      answer: `JustInsurance students nationwide pass insurance licensing exams at a rate of approximately ${Math.round(parseFloat(data.passRate))}% on their first attempt — measured among students who complete the full course, finish the recommended study hours, and score 80%+ three times in a row on the practice exam before testing. The ${data.name} exam is administered by ${data.examProvider} and requires a minimum score of ${data.passingScore}% to pass. If you do not pass on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} See our full pass rate methodology at /pass-rates.`,
     },
     {
       question: `How much do insurance agents make in ${data.name}?`,
@@ -296,7 +296,7 @@ export function getPrelicensingCourseFAQs(
     },
     {
       question: `What is the pass rate for JustInsurance students on the ${data.name} ${loaName} exam?`,
-      answer: `JustInsurance students pass the ${data.name} ${loaName} licensing exam at a rate of ${data.passRate}% on their first attempt. The exam is administered by ${data.examProvider} and requires a score of at least ${data.passingScore}% to pass. That result reflects how well our curriculum prepares candidates for the questions they will actually face — particularly the ${data.name}-specific insurance law and regulation questions where unprepared test-takers struggle most. JustInsurance's course includes a full-length practice exam modeled on the actual ${data.examProvider} content outline, so you can benchmark your readiness before you walk into the testing center.`,
+      answer: `JustInsurance students nationwide pass insurance licensing exams at a rate of approximately ${Math.round(parseFloat(data.passRate))}% on their first attempt — measured among students who complete the full course, finish the recommended study hours, and score 80%+ three times in a row on the practice exam before testing. The ${data.name} ${loaName} exam is administered by ${data.examProvider} and requires a score of at least ${data.passingScore}% to pass. JustInsurance's course includes a full-length practice exam modeled on the actual ${data.examProvider} content outline, so you can benchmark your readiness. Full pass rate methodology at /pass-rates.`,
     },
     {
       question: `What happens if I fail the ${data.name} ${loaName} exam?`,

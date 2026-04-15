@@ -52,9 +52,14 @@ export async function generateMetadata({
 
   const canonicalUrl = `https://justinsuranceco.com/blog/${cluster}/${slug}`;
 
+  // Thin/templated clusters flagged for noindex pending rewrite
+  const NOINDEX_CLUSTERS = new Set(["ce-requirements-general"]);
+  const isNoindexed = NOINDEX_CLUSTERS.has(cluster);
+
   return {
     title: { absolute: metaTitle },
     description: post.description,
+    robots: isNoindexed ? { index: false, follow: true } : undefined,
     alternates: { canonical: canonicalUrl },
     openGraph: {
       title: post.title,

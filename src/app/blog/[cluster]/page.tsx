@@ -79,9 +79,16 @@ export async function generateMetadata({
     }
   }
 
+  // Thin/templated clusters flagged for noindex pending rewrite
+  const NOINDEX_CLUSTERS = new Set([
+    "ce-requirements-general",
+  ]);
+  const isNoindexed = NOINDEX_CLUSTERS.has(clusterSlug);
+
   return {
     title: { absolute: title },
     description,
+    robots: isNoindexed ? { index: false, follow: true } : undefined,
     alternates: { canonical: `https://justinsuranceco.com/blog/${clusterSlug}` },
     openGraph: {
       title,

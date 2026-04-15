@@ -30,15 +30,15 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "XCEL Solutions",
     domain: "xcelsolutions.com",
     weaknesses: [
-      "30-day access window creates pressure to test before you're ready",
-      "Live sessions not actually live — pre-recorded 'virtual classroom' videos",
-      "Flashcards, simulations, and extensions are all paid upcharges",
-      "Fixed curriculum — can't adapt to your weak areas",
-      "No weekend support, no text/chat support",
-      "Pass rate not disclosed publicly",
+      "Course access is split: 30 days prelicensing + 30 days prep review (60 days total across two phases, not continuous)",
+      "Livestream classes are a paid upgrade, not included in the base package",
+      "Flashcards, exam simulations, and extended access are all paid add-ons",
+      "Fixed curriculum — doesn't adapt to your weak areas",
+      "No universally-advertised refund-style pass guarantee (policy is 'keep studying for free if you fail')",
+      "No weekend or text support in standard plans",
     ],
     youShouldKnow:
-      "XCEL positions itself as a budget-friendly option but layers the essentials you actually need — flashcards, realistic exam simulations, extra access time — behind upcharges. Reviewers consistently flag the 30-day clock as rushed. If you're new to insurance and unsure how long you'll need, the flat extended-access model at JustInsurance removes that anxiety.",
+      "XCEL positions itself as a budget-friendly option but layers the essentials you actually need — flashcards, realistic exam simulations, livestream instructor access, extended study time — behind paid upgrades. The base package gives you 30 days of prelicensing access plus 30 days of prep review, but that's two separate clocks, not one continuous window. If you're new to insurance and want everything bundled without surprises, the all-inclusive model at JustInsurance is more predictable.",
   },
   examfx: {
     slug: "examfx",
@@ -46,15 +46,15 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "ExamFX",
     domain: "examfx.com",
     weaknesses: [
-      "Guarantee requires testing within 3 days of hitting 80% — unrealistic for working adults",
-      "Live sessions only 1× per week, and they're a paid upcharge",
-      "Flashcards charged separately",
-      "Fixed curriculum — no adaptation to your weak areas",
-      "Pass rate not disclosed publicly",
-      "5.5-day support window (no Sundays, limited Saturdays)",
+      "Pass guarantee requires testing within 3 calendar days of passing their Readiness Exam at 80%+ — unrealistic for most working adults",
+      "Pass guarantee only covers the first state exam attempt; second-attempt failures don't qualify",
+      "Refunds exclude company-paid packages and shipping costs",
+      "Livestream classes and flashcards are paid upgrades",
+      "Fixed curriculum — doesn't adapt to your weak areas",
+      "Publishes pass rate figures (93%/94%/95%/99%) but discloses no methodology or sample size",
     ],
     youShouldKnow:
-      "ExamFX's published guarantee requires you to sit for the state exam within 3 days of hitting 80% on their practice test. That's a common complaint — most adults with jobs can't schedule a Pearson VUE or PSI appointment with 3 days of notice. JustInsurance's guarantee window is 30 days from enrollment, not 3 days from a score, which matches how real people schedule exams.",
+      "ExamFX's pass guarantee has a specific trigger: pass their Readiness Exam at 80%+, then sit for the state licensing exam within 3 calendar days. That's the friction point — most adults can't schedule a Pearson VUE or PSI appointment with 3 days of notice. ExamFX does publish pass rates on their site (93% aggregate, 94% Life & Health), but they don't disclose how those figures were calculated. JustInsurance's guarantee allows 30 days from first enrollment to sit for the exam, and our 93% pass rate is published with full methodology at /pass-rates.",
   },
 };
 
@@ -86,8 +86,8 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "Live Instructor Sessions",
     justinsurance: { kind: "yes", label: "5× weekly, included" },
-    xcel: { kind: "upcharge", label: "Pre-recorded, paid add-on" },
-    examfx: { kind: "upcharge", label: "1× weekly, paid add-on" },
+    xcel: { kind: "upcharge", label: "Livestream classes, paid upgrade" },
+    examfx: { kind: "upcharge", label: "Paid upgrade, limited frequency" },
   },
   {
     feature: "AI-Powered Realistic Exam Simulations",
@@ -114,10 +114,10 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     examfx: { kind: "no" },
   },
   {
-    feature: "Published First-Attempt Pass Rate",
-    justinsurance: { kind: "yes", label: "93% (methodology disclosed)" },
-    xcel: { kind: "no", label: "Not disclosed" },
-    examfx: { kind: "no", label: "Not disclosed" },
+    feature: "Published Pass Rate with Methodology",
+    justinsurance: { kind: "yes", label: "93%, methodology disclosed" },
+    xcel: { kind: "no", label: "Not published" },
+    examfx: { kind: "limited", label: "Rate shown, no methodology" },
   },
   {
     feature: "AI-Optimized Text — 4th/5th Grade Reading Level",

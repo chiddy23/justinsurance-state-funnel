@@ -103,20 +103,20 @@ The 3-day window is the problem. Pearson VUE testing centers in Florida — part
 
 ### XCEL Solutions pass guarantee
 
-- No universally-advertised pass guarantee
-- Refund eligibility varies by package and by state
+- No refund-style pass guarantee
+- If you fail, you get continued course access at no additional cost (as long as your enrollment hasn't expired)
 
-Without a universal, prominently-published guarantee, refund claims are handled case-by-case. That's not necessarily bad, but it isn't a guarantee in the same sense as the other two providers.
+XCEL's approach is different from the other two providers: they don't refund your money if you fail — they let you keep studying. That can be valuable if you want another shot with the same materials, but it isn't a financial backstop in the way JustInsurance's refund guarantee or ExamFX's conditional guarantee is.
 
 ## Pass rates: the transparency test
 
 A provider that believes in its curriculum publishes pass rate data with methodology. Here's what each provider publishes for Florida 2-15 candidates:
 
 - **JustInsurance**: 93% first-attempt pass rate among students who complete the full course and meet the recommended study metrics — finishing the recommended hours and scoring 80% or higher on the practice exam three times in a row before sitting for the state exam. [Full methodology published at /pass-rates](/pass-rates).
-- **XCEL**: No pass rate disclosed publicly.
-- **ExamFX**: No pass rate disclosed publicly.
+- **XCEL**: Markets "top industry first-time pass rates" but does not publish a specific figure with methodology on product pages.
+- **ExamFX**: Prominently displays pass rate figures (93% aggregate, 94% Life & Health, 95% Life, 99% Property & Casualty) but does not disclose the methodology, sample size, or time period behind those numbers.
 
-Without published methodology, pass rate claims are unverifiable. JustInsurance is currently the only major Florida 2-15 provider that publishes both the figure and the methodology behind it. That transparency matters for a $199 decision.
+JustInsurance is currently the only major Florida 2-15 provider that publishes both the figure and the methodology. A pass rate without methodology is a claim, not a measurement — the transparency matters for a $199 decision.
 
 ## Pricing breakdown: what you actually pay
 

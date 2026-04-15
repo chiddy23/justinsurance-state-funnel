@@ -1,9 +1,6 @@
 ---
-title: 'How to Get Your Pennsylvania Insurance License: 2026 Step-by-Step Guide'
-description: >-
-  Pennsylvania charges a $55 resident producer application fee, routes exams
-  through PSI, uses IdentoGO code 1KGBGJ after you pass, and encodes LTC
-  training minimums in 31 Pa. Code § 39a.9—here is the resident sequence.
+title: 'How to Get Your Pennsylvania Insurance License 2026'
+description: 'Pennsylvania charges $55 for resident producer applications, routes exams through PSI, and uses IdentoGO for fingerprinting after you pass.'
 keyword: how to get Pennsylvania insurance license
 targetKeywords: >-
   Pennsylvania insurance producer license, Pennsylvania PSI exam,
@@ -23,7 +20,7 @@ Pennsylvania still wants you to pass PSI exams before you wander into fingerprin
 
 ## Schedule PSI with the PID-specific phone tree
 
-Pennsylvania’s licensing page routes you to the [PSI Pennsylvania test-taker portal](https://test-takers.psiexams.com/pain) and lists **888-818-5822** as the scheduling phone. Keep a credit card handy; the page recommends Visa, MasterCard, or American Express because you can apply for the license at the testing center through Sircon or NIPR right after you pass. That is a convenience feature—still read the ID rules so remote proctors do not bounce you for a mismatched middle initial.
+Pennsylvania’s licensing page routes you to the [PSI Pennsylvania test-taker portal](https://test-takers.psiexams.com/pa/insurance) and lists **888-818-5822** as the scheduling phone. Keep a credit card handy; the page recommends Visa, MasterCard, or American Express because you can apply for the license at the testing center through Sircon or NIPR right after you pass. That is a convenience feature—still read the ID rules so remote proctors do not bounce you for a mismatched middle initial.
 
 ## Fingerprint only after you pass and file—otherwise you repay
 
@@ -66,6 +63,6 @@ Pass PSI, pay the **$55** resident application fee through Sircon or NIPR immedi
 - [Commonwealth of Pennsylvania — Initial Insurance Producer Licensing Process](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html)
 - [Pennsylvania Code — 31 Pa. Code § 39a.9 (LTC training requirements)](https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/031/chapter39a/s39a.9.html&d=reduce)
 - [NIPR — Pennsylvania licensing overview (12-month score validity)](https://nipr.com/licensing-center/state-information/pennsylvania)
-- [PSI — Pennsylvania insurance exam scheduling](https://test-takers.psiexams.com/pain)
+- [PSI — Pennsylvania insurance exam scheduling](https://test-takers.psiexams.com/pa/insurance)
 
 **Word count:** ~1,480 words

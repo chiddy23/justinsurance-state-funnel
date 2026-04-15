@@ -1,9 +1,6 @@
 ---
-title: 'How to Get Your Arizona Insurance License: 2026 Step-by-Step Guide'
-description: >-
-  Arizona producers must keep transaction records at a principal place of
-  business for three years (A.R.S. § 20-290), pass PSI exams with scores good
-  for 12 months (NIPR), and satisfy A.R.S. § 20-1691.12 before selling LTC.
+title: 'How to Get Your Arizona Insurance License in 2026'
+description: 'Arizona producers must keep records 3 years (A.R.S. § 20-290), pass PSI exams (12-month NIPR validity), and meet A.R.S. § 20-1691.12 for LTC sales.'
 keyword: how to get Arizona insurance license
 targetKeywords: >-
   Arizona insurance producer license, Arizona PSI insurance exam,

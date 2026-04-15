@@ -1,9 +1,6 @@
 ---
-title: 'How to Get Your Ohio Insurance License: 2026 Step-by-Step Guide'
-description: >-
-  Ohio still requires 20 clock hours of ODI-approved prelicensing per major
-  line, a 180-day certificate window, and PSI scheduling—NIPR lists a 6-month
-  exam score validity you need to sync with applications.
+title: 'How to Get Your Ohio Insurance License in 2026'
+description: 'Ohio requires 20 clock hours of ODI-approved prelicensing per major line, a 180-day certificate window, and PSI exam scheduling for producers.'
 keyword: how to get Ohio insurance license
 targetKeywords: >-
   Ohio insurance producer license, Ohio PSI insurance exam, Ohio Department
@@ -67,7 +64,7 @@ Ohio’s continuing education rules live on a separate ODI page linked from NIPR
 
 ## Why the Ohio hour stack still matters in 2026
 
-Other states trimmed hours (Georgia’s **8.0**-hour rule is the clearest contrast on OCI’s education page), but Ohio kept the **20**-hour-per-line standard because ODI still treats each line as a separate knowledge domain. That policy choice matters for carriers: Ohio producers often carry Property and Casualty plus Life and Health in the same shop, meaning **80** hours of prelicensing before a single combined exam pair in each pair. Budget payroll training calendars accordingly—your new hire cannot “speed run” Ohio the way a Georgia-only hire might.
+Other states trimmed hours (Georgia’s **8.0**-hour rule is the clearest contrast on OCI’s education page), but Ohio kept the **20**-hour-per-line standard because ODI still treats each line as a separate knowledge domain. That policy choice matters for carriers: Ohio producers often carry Property and Casualty plus Life and Health in the same shop, meaning **80** hours of prelicensing before they can sit for both combined exam pairs. Budget payroll training calendars accordingly—your new hire cannot “speed run” Ohio the way a Georgia-only hire might.
 
 ## Bottom line
 

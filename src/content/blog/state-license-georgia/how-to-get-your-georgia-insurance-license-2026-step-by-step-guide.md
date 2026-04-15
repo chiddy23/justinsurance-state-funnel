@@ -1,9 +1,6 @@
 ---
-title: 'How to Get Your Georgia Insurance License: 2026 Step-by-Step Guide'
-description: >-
-  Georgia resident licensing now routes through Sircon, uses Pearson VUE exams
-  ($63), and sets major-line prelicensing at 8.0 clock hours under Rule
-  120-2-3-.08—here is the sequence agents follow.
+title: 'How to Get Your Georgia Insurance License in 2026'
+description: 'Georgia routes resident producer applications through Sircon, uses Pearson VUE exams, and sets prelicensing at 8.0 hours under Rule 120-2-3-.08.'
 keyword: how to get Georgia insurance license
 targetKeywords: >-
   Georgia insurance producer license, Georgia Pearson VUE insurance exam,

@@ -1,9 +1,6 @@
 ---
-title: 'How to Get Your North Carolina Insurance License: 2026 Step-by-Step Guide'
-description: >-
-  North Carolina still requires DOI-approved prelicensing before Pearson VUE
-  seat time, keeps exam scores valid for 12 months on NIPR, and publishes fee
-  tables in Pearson’s PID downloads—plan around G.S. 58-33-30’s 20-hour floor.
+title: 'How to Get a North Carolina Insurance License 2026'
+description: 'North Carolina requires DOI-approved prelicensing before Pearson VUE exams, keeps scores valid 12 months on NIPR, with G.S. § 58-33-30 setting hours.'
 keyword: how to get North Carolina insurance license
 targetKeywords: >-
   North Carolina insurance producer license, North Carolina Pearson VUE exam,
@@ -13,7 +10,7 @@ clusterName: State License – North Carolina
 type: pillar
 date: '2026-04-15'
 author: Justin vom Eigen
-image: /blog/images/boost-your-career-with-a-north-carolina-insurance-license.jpg
+image: /blog/images/how-north-carolina-pre-licensing-insurance-courses-help-you-succeed.jpg
 imageAlt: >-
   Producer highlighting North Carolina insurance statutes next to a Pearson
   VUE exam admission ticket on a desk.
@@ -27,7 +24,7 @@ Pearson’s [North Carolina insurance exam hub](https://www.pearsonvue.com/us/en
 
 ## Schedule exams through Pearson using NIPR’s published phones
 
-NIPR lists Pearson’s North Carolina licensing office at **5425 Page Road, Durham, NC 27703** and gives **866-265-6329** as a Pearson contact, alongside **800-274-0668** for scheduling. Keep both numbers when web accounts lock you out the week of your test.
+Pearson VUE's North Carolina licensing office mailing address is **PO Box 14209, Raleigh, NC 27620**, with **866-265-6329** as the candidate services number. Physical testing centers are located across the state — confirm your closest center on the Pearson VUE NC portal when you book. Keep the phone number handy when web accounts lock you out the week of your test.
 
 ## Use NCDOI’s producer hub for CE lookups and bulletins
 

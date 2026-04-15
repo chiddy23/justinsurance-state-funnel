@@ -1,9 +1,6 @@
 ---
-title: 'How to Get Your Illinois Insurance License: 2026 Step-by-Step Guide'
-description: >-
-  Illinois still requires 20 hours of prelicensing per line (7.5 in a
-  classroom or live web class), Pearson VUE general plus state exams passed
-  within 90 days of each other, and a 5-day cooling period before NIPR filing.
+title: 'How to Get Your Illinois Insurance License in 2026'
+description: 'Illinois requires 20 hours of prelicensing per line (7.5 classroom or live web), Pearson VUE general + state exams, and a 5-day NIPR cooling period.'
 keyword: how to get Illinois insurance license
 targetKeywords: >-
   Illinois insurance producer license, Illinois Pearson VUE insurance exam,

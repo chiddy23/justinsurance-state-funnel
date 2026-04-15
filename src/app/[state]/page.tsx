@@ -13,6 +13,7 @@ import TestimonialCards from "@/components/TestimonialCards";
 import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StateNoticesSection from "@/components/StateNoticesSection";
+import StateProviderBadge from "@/components/StateProviderBadge";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 
@@ -124,6 +125,13 @@ export default async function StateHubPage({
       />
 
       <TrustBar />
+
+      <StateProviderBadge
+        stateName={stateData.name}
+        doiName={stateData.doiName}
+        providerNumber={stateData.providerNumber}
+        doiUrl={stateData.doiUrl}
+      />
 
       {stateData.specialNotices && (
         <StateNoticesSection

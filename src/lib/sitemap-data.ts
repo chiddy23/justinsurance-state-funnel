@@ -55,6 +55,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
     { path: "/continuing-education", priority: 0.85 },
     { path: "/practice-exam", priority: 0.85 },
     { path: "/compare", priority: 0.8 },
+    { path: "/reviews", priority: 0.75 },
     { path: "/compare/xcel", priority: 0.75 },
     { path: "/compare/examfx", priority: 0.75 },
     { path: "/life-insurance-license", priority: 0.8 },

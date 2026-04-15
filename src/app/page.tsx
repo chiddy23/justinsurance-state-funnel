@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
 import TrustBar from "@/components/TrustBar";
+import PressLogosBar from "@/components/PressLogosBar";
 import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 
@@ -66,6 +67,7 @@ export default function HomePage() {
       </section>
 
       <TrustBar />
+      <PressLogosBar />
 
       {/* State Grid */}
       <section id="states" className="bg-white py-16 px-4">

@@ -1713,22 +1713,22 @@ export const STATES: Record<string, StateData> = {
 
     prelicensing: {
       life: {
-        hours: 20,
+        hours: 8,
         price: "$199",
         totalCost: "$417.50",
-        completionTime: "20 hours",
+        completionTime: "8 hours",
       },
       health: {
-        hours: 20,
+        hours: 8,
         price: "$199",
         totalCost: "$417.50",
-        completionTime: "20 hours",
+        completionTime: "8 hours",
       },
       lifeAndHealth: {
-        hours: 40,
+        hours: 16,
         price: "$199",
         totalCost: "$616.50",
-        completionTime: "40 hours",
+        completionTime: "16 hours",
       },
     },
 
@@ -1774,7 +1774,7 @@ export const STATES: Record<string, StateData> = {
 
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. A notarized Citizenship Affidavit is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Georgia insurance producer license.",
-    courseWeeks: "1 to 2",
+    courseWeeks: "less than 1",
     courseAccessDays: "30",
     combinedSavings: "199",
     combinedVsSinglePercent: "18%",
@@ -1814,13 +1814,13 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Georgia is one of the fastest-growing states in the Southeast, with the Atlanta metro area serving as a major insurance and financial services hub for the entire region. The state requires 40 hours of prelicensing education for Life & Health and uses Pearson VUE for exam administration. Georgia's booming population growth, strong healthcare sector, and large military presence at Fort Benning and Fort Gordon create diverse insurance demand across all lines of coverage.",
+    stateSpecificIntro: "Georgia is one of the fastest-growing states in the Southeast, with the Atlanta metro area serving as a major insurance and financial services hub for the entire region. Effective June 24, 2025, Georgia reduced prelicensing education to just 8 hours per line of authority (16 hours combined for Life & Health) — one of the shortest prelicensing requirements in the country. Exams are administered by Pearson VUE. Georgia's booming population growth, strong healthcare sector, and large military presence at Fort Benning and Fort Gordon create diverse insurance demand across all lines of coverage.",
     stateSpecificFAQ: {
       question: "How long does it take to get a Georgia insurance license?",
-      answer: "Most candidates complete the Georgia insurance licensing process in 3 to 5 weeks from start to finish. This includes completing the 40-hour prelicensing course (typically 1-2 weeks with focused study), scheduling and passing the Pearson VUE exam, completing fingerprinting through IdentoGO (Code: 2TGJ6B), and submitting your NIPR application. The Georgia Office of Insurance typically processes applications within 12 months of course completion.",
+      answer: "Most candidates complete the Georgia insurance licensing process in 1 to 2 weeks from start to finish. This includes completing the 16-hour Life & Health prelicensing course (usually 2-3 days with focused study), scheduling and passing the Pearson VUE exam, completing fingerprinting through IdentoGO (Code: 2TGJ6B), and submitting your NIPR application. Georgia reduced prelicensing hours from 20 to 8 per line of authority effective June 24, 2025, making it one of the fastest states to get licensed.",
     },
     stateTestimonial: {
-      quote: "Getting my Georgia insurance license was a smooth process with JustInsurance. The 40-hour course was comprehensive and the practice exams gave me the confidence I needed walking into Pearson VUE.",
+      quote: "Getting my Georgia insurance license was a smooth process with JustInsurance. The 16-hour Life & Health course was concise and the practice exams gave me the confidence I needed walking into Pearson VUE.",
       name: "Sarah J.",
       title: "Licensed Insurance Agent",
     },

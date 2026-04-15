@@ -86,7 +86,7 @@ const phases = [
 const stateTimes = [
   { state: "Florida", hours: "60 hr combined 2-15", issuance: "Real-time via NIPR", total: "2–4 weeks", notes: "MyProfile portal + fingerprints through IdentoGO" },
   { state: "Texas", hours: "Not required (optional)", issuance: "Real-time via Sircon/NIPR", total: "2–4 weeks", notes: "IdentoGO fingerprints; no prelicensing mandate" },
-  { state: "Georgia", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "2–3 weeks", notes: "Fastest turnaround in the Southeast" },
+  { state: "Georgia", hours: "8 hr per line (16 combined, post-Jun 2025)", issuance: "Real-time via NIPR", total: "1–2 weeks", notes: "Shortest prelicensing in the Southeast" },
   { state: "California", hours: "12 hr Ethics & Code (post-AB 943)", issuance: "Batch review", total: "4–8 weeks", notes: "Live Scan fingerprints, CDI manual review common" },
   { state: "New York", hours: "20 hr per line (40 combined)", issuance: "Batch review", total: "6–10 weeks", notes: "DFS processes applications in weekly cycles" },
   { state: "Illinois", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "IDOI issues within 48 hours of clean app" },

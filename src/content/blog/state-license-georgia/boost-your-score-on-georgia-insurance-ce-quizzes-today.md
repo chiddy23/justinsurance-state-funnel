@@ -34,7 +34,7 @@ Meeting these requirements ensures that you stay licensed and up to date on indu
 
 If you are brand new to the insurance industry in Georgia, your first step is getting your initial license before you even worry about CE quizzes. The state requires:
 
--   A certain number of hours in pre-licensing coursework (this can range from 20 to 40 hours depending on the type of insurance license).
+-   A certain number of hours in pre-licensing coursework. In Georgia, this is 8 hours per line of authority (16 hours for Life & Health combined), effective June 24, 2025, when Georgia reduced prelicensing from 20 to 8 hours per line of authority.
 -   A passing grade on the official licensing exam for your chosen line of authority.
 -   An application submission through the National Insurance Producer Registry (NIPR).
 

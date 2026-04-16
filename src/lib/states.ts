@@ -1642,7 +1642,7 @@ export const STATES: Record<string, StateData> = {
     certificateValidity: "4 years",
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
-    providerApprovalNumber: "373671",
+    providerApprovalNumber: "129317",
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,

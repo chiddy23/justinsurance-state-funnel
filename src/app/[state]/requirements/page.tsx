@@ -27,16 +27,23 @@ export async function generateMetadata({
   const { state } = await params;
   const stateData = getStateBySlug(state);
   if (!stateData) return {};
+  // Keep title <= 60 chars — use abbreviation for long state names
+  const brand = "JustInsurance";
+  const fullTitle = `${stateData.name} Insurance License Requirements 2026 | ${brand}`;
+  const shortTitle = `${stateData.abbreviation} Insurance License Requirements 2026 | ${brand}`;
+  const title = fullTitle.length <= 60 ? fullTitle : shortTitle;
+  // Keep description <= 155 chars for all 50 state names including DC
+  const description = `${stateData.name} insurance license requirements 2026: prelicensing hours, exam, fingerprinting, fees, CE renewal. Updated ${stateData.lastVerified}.`;
   return {
-    title: `${stateData.name} Insurance License Requirements 2026`,
-    description: `Complete ${stateData.name} insurance license requirements: prelicensing hours, exam details, fingerprinting, CE renewal, and special training. Updated ${stateData.lastVerified}.`,
+    title,
+    description,
     robots: "index, follow",
     alternates: {
       canonical: `https://justinsuranceco.com/${stateData.slug}/requirements`,
     },
     openGraph: {
-      title: `${stateData.name} Insurance License Requirements 2026`,
-      description: `Complete ${stateData.name} insurance license requirements: prelicensing hours, exam details, fingerprinting, CE renewal, and special training. Updated ${stateData.lastVerified}.`,
+      title,
+      description,
       url: `https://justinsuranceco.com/${stateData.slug}/requirements`,
       siteName: "JustInsurance",
       type: "website",

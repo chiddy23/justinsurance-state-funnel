@@ -30,24 +30,9 @@ const breadcrumbSchema = generateBreadcrumbSchema([
 // Note: We intentionally do NOT embed individual Review objects inline here.
 // Google's policy restricts Product/Organization schema with self-hosted
 // review markup (self-serving review policy). AggregateRating alone is
-// acceptable and still eligible for star-rating SERP display when backed
-// by on-page evidence. Individual reviews are displayed in the page body
-// for user credibility but not marked up as Review schema.
-const aggregateRatingSchema = {
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  name: "JustInsurance LLC",
-  url: "https://justinsuranceco.com",
-  description:
-    "State-approved insurance prelicensing and continuing education courses for all 50 states. 100% online, self-paced, with same-day CE reporting and a published pass guarantee.",
-  aggregateRating: {
-    "@type": "AggregateRating",
-    ratingValue: "5.0",
-    bestRating: "5",
-    worstRating: "1",
-    ratingCount: "30000",
-  },
-};
+// AggregateRating schema stripped until Google review count reaches 25+.
+// Visual "5.0 on Google" badges remain on-page (HTML only).
+// Re-enable Organization+AggregateRating schema here once review volume is credible.
 
 function StarRow() {
   return (
@@ -65,7 +50,6 @@ export default function ReviewsPage() {
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
-      <SchemaMarkup schema={aggregateRatingSchema} />
 
       <BreadcrumbNav
         crumbs={[

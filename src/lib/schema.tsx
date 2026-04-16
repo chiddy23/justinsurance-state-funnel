@@ -7,18 +7,20 @@ const LOGO_URL = "https://justinsuranceco.com/justinsurance-logo.png";
 // AggregateRating schema
 // ---------------------------------------------------------------------------
 
-export function generateAggregateRatingSchema(): object {
-  // Per Schema.org: ratingCount = total ratings (aggregate satisfaction signal,
-  // backed by internal student data). reviewCount is intentionally omitted at
-  // the sitewide Organization level — it's only set on /reviews where actual
-  // displayed reviews can be counted, to comply with Google's review schema
-  // policies that require reviewCount to reflect real reviews.
-  return {
-    "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "bestRating": "5",
-    "ratingCount": "30000",
-  };
+export function generateAggregateRatingSchema(): object | null {
+  // STRIPPED: AggregateRating schema removed until Google review count
+  // reaches 25+. A 5.0 with 4 reviews looks thin in rich result snippets
+  // and can hurt trust vs competitors with thousands of reviews.
+  // Visual "5.0 on Google" badges remain on-page (HTML only, no schema).
+  // Re-enable by returning the object below once ratingCount is credible:
+  // return {
+  //   "@type": "AggregateRating",
+  //   "ratingValue": "5.0",
+  //   "bestRating": "5",
+  //   "worstRating": "1",
+  //   "ratingCount": "XX",
+  // };
+  return null;
 }
 
 // ---------------------------------------------------------------------------

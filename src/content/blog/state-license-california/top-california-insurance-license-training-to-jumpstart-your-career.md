@@ -33,7 +33,7 @@ Before you dive into an official training program, you need to make sure you mee
 
 -   You must be at least 18 years old.
 -   You need a clean criminal background, as outlined by the California Department of Insurance (CDI).
--   You must complete pre-licensing education hours that correspond to the type of insurance you plan to sell (for example, life, health, or property and casualty).
+-   You must complete [pre-licensing education hours](/california/prelicensing) that correspond to the type of insurance you plan to sell (for example, life, health, or property and casualty).
 -   You are required to pass the appropriate licensing exam, administered by the CDI or an authorized testing center.
 
 Once these are fulfilled, you can apply for your official license. The underlying rules and specifics can vary, so it is always a good idea to verify the current regulations on the CDI website. If you stay organized from the very start, your training path will be far smoother.
@@ -64,6 +64,6 @@ If you want guidance in selecting a training provider or simply a boost in choos
 
 When you feel ready to enroll, remember that a well-structured course from a trusted training source is an investment in your future. Your learning experience will shape how you interact with clients, how you stay motivated in your field, and how successful you become at passing your licensing exam the first time around.
 
-Finally, as you wrap up your study schedule and prepare for the next phase, do not forget that continuous education is part of the insurance profession. Staying on top of new regulations and industry changes helps you remain competitive and credible in the long run.
+Finally, as you wrap up your study schedule and prepare for the next phase, do not forget that [continuing education](/california/continuing-education) is part of the insurance profession. Staying on top of new regulations and industry changes helps you remain competitive and credible in the long run.
 
 Take the first step today by exploring your pre-licensing coursework options and mapping your time commitments. With diligent preparation, a clear plan, and the right support, you can quickly gain the expertise you need to thrive in California’s vibrant insurance marketplace. Whether you dream of helping families secure the right policy or you want to expand your professional toolkit, your future as a licensed insurance agent starts with effective training and a commitment to lifelong learning. Remember, the sooner you begin, the sooner you can celebrate your new career milestone.

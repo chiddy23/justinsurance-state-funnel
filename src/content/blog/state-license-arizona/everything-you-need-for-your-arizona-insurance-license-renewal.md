@@ -28,7 +28,7 @@ For instance, you might qualify for streamlined renewal if you have held your li
 
 ## Plan your continuing education
 
-Arizona law requires most insurance professionals to complete a set number of CE hours before renewing. Courses typically cover ethics, your specific line of authority, and broader industry knowledge. You will often need to select courses from approved providers to ensure they count toward your total hours. Think of these classes not just as a requirement, but also as a valuable refresher. Updated laws, new products, and changing client needs make CE an important tool for staying relevant in a competitive market.
+[Arizona continuing education](/arizona/continuing-education) law requires most insurance professionals to complete a set number of CE hours before renewing. Courses typically cover ethics, your specific line of authority, and broader industry knowledge. You will often need to select courses from approved providers to ensure they count toward your total hours. Think of these classes not just as a requirement, but also as a valuable refresher. Updated laws, new products, and changing client needs make CE an important tool for staying relevant in a competitive market.
 
 One effective strategy is to schedule your CE courses well before your license expires. Trying to finish all the hours in a single weekend can overload you and reduce how much you actually learn. Instead, treat continuing education like an ongoing growth opportunity. You will find that completing courses regularly throughout the year feels less stressful and helps you retain more information.
 

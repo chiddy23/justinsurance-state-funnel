@@ -30,7 +30,7 @@ While the Maryland Insurance Administration enforces these requirements, it’s 
 
 ## Take your pre-licensing course
 
-Once you understand the basic requirements, your next step is enrolling in a pre-licensing course. This program focuses on Maryland insurance regulations and the fundamentals of life and health policies. You’ll explore topics like term and whole life insurance, health maintenance organizations, claims processes, and more.
+Once you understand the basic requirements, your next step is enrolling in a [Maryland prelicensing course](/maryland/prelicensing). This program focuses on Maryland insurance regulations and the fundamentals of life and health policies. You’ll explore topics like term and whole life insurance, health maintenance organizations, claims processes, and more.
 
 • Look for approved providers who align with your schedule.  
 • Dedicate adequate study time each week, so you stay on track.  
@@ -65,7 +65,7 @@ It’s natural to feel excited and maybe a bit restless while you wait. Stay pro
 1.  How soon can I expect my license after passing the exam?  
     In most cases, you’ll get your license within a few days to a couple of weeks, depending on any additional paperwork or fingerprinting requirements. Monitor your email or licensure portal for updates.
 2.  Do I need to renew my Maryland license?  
-    Yes. Maryland requires license renewal every two years. You’ll also need to complete continuing education credits to keep your knowledge current and maintain compliance.
+    Yes. Maryland requires license renewal every two years. You’ll also need to complete [Maryland continuing education](/maryland/continuing-education) credits to keep your knowledge current and maintain compliance.
 3.  What happens if I fail the exam on the first try?  
     You can typically retake the exam after paying the necessary fee and rescheduling. It’s best to use the gap between attempts to review areas where you struggled.
 4.  Are online pre-licensing courses acceptable in Maryland?  

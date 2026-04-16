@@ -25,7 +25,7 @@ Many people overlook the importance of confirming their eligibility early, only 
 
 ## Complete your pre-licensing education
 
-Before you can sit for the [Texas insurance licensing exam](/texas/requirements), you must enroll in a state-approved pre-licensing course. The number of hours required may vary based on the lines of authority you want to pursue, such as Life, Accident and Health, or Property and Casualty. These courses typically cover insurance laws, policy outlines, and industry ethics.
+Before you can sit for the [Texas insurance licensing exam](/texas/requirements), you must enroll in a state-approved [pre-licensing course](/texas/prelicensing). The number of hours required may vary based on the lines of authority you want to pursue, such as Life, Accident and Health, or Property and Casualty. These courses typically cover insurance laws, policy outlines, and industry ethics.
 
 Most pre-licensing programs allow you to move at your own pace, so you can finish in a matter of weeks if you dedicate yourself to studying consistently. Some people prefer online courses for convenience, while others choose in-person classes for the chance to ask questions face-to-face. Whatever format you pick, staying engaged and completing all required hours sets you up for success on exam day.
 

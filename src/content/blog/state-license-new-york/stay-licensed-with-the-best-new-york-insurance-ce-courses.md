@@ -15,7 +15,7 @@ imageAlt: Confident young adult working on a laptop in a stylish modern office s
 imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
-New York insurance [continuing education](/continuing-education) (CE) courses are a crucial piece of staying licensed and confident in your insurance career. Whether you are just beginning your journey toward becoming an insurance professional or you already hold a New York license and want to renew, understanding the requirements for both pre-licensing and ongoing CE will help you meet state guidelines. Below, you will find clear steps to follow, practical tips to stay motivated, and insider pointers on making the most of your learning experience.
+[New York insurance continuing education](/new-york/continuing-education) (CE) courses are a crucial piece of staying licensed and confident in your insurance career. Whether you are just beginning your journey toward becoming an insurance professional or you already hold a New York license and want to renew, understanding the requirements for both pre-licensing and ongoing CE will help you meet state guidelines. Below, you will find clear steps to follow, practical tips to stay motivated, and insider pointers on making the most of your learning experience.
 
 ## Understand New York CE requirements
 
@@ -25,7 +25,7 @@ By taking the right courses, you will be better prepared to offer informed guida
 
 ## Complete your license pre-work
 
-If you are brand new to the insurance field, you will begin with pre-licensing education. This is distinct from ongoing CE but sets the foundation for your entire career. During these initial courses, you will focus on core insurance principles and specialized content matching the line of authority you intend to pursue, such as Life, Accident & Health, or Property & Casualty.
+If you are brand new to the insurance field, you will begin with [New York prelicensing courses](/new-york/prelicensing). This is distinct from ongoing CE but sets the foundation for your entire career. During these initial courses, you will focus on core insurance principles and specialized content matching the line of authority you intend to pursue, such as Life, Accident & Health, or Property & Casualty.
 
 Plan to invest time in studying the basics. By building a strong foundation, you will grasp more advanced topics later on without feeling overwhelmed. Pre-licensing requirements vary depending on the license, but expect to complete anywhere from 20 to 40 hours of coursework.
 

@@ -86,7 +86,7 @@ Once the application is successfully submitted, you will receive confirmation, o
 
 ## Keep your license valid
 
-Congratulations, you are now officially licensed to sell insurance in Pennsylvania. But your work does not stop here. One crucial part of the Pennsylvania insurance licensing requirements is maintaining and renewing your license. Renewal periods can vary, but you typically need to complete a specified amount of continuing education (CE) credits to remain in good standing.
+Congratulations, you are now officially licensed to sell insurance in Pennsylvania. But your work does not stop here. One crucial part of the Pennsylvania insurance licensing requirements is maintaining and renewing your license. Renewal periods can vary, but you typically need to complete a specified amount of [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) credits to remain in good standing.
 
 Continuing education is all about staying up to date on new products, regulatory changes, and industry best practices. CE courses are offered through the same providers that conduct pre-licensing sessions, and you can often choose topics that align with your specific line of authority. Completing these courses not only satisfies requirements but also keeps your professional knowledge sharp and relevant.
 

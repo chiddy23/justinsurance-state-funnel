@@ -27,7 +27,7 @@ Stay aware of any updates to Arizona regulations. Although major changes don’t
 
 ## Complete your pre-licensing
 
-Most insurance lines in Arizona require a specific amount of pre-licensing education before you’re allowed to register for the exam. These classes help you learn basic insurance concepts, policy structures, and state regulations that you’ll need to serve clients effectively.
+Most insurance lines in Arizona require a specific amount of [Arizona insurance prelicensing](/arizona/prelicensing) education before you’re allowed to register for the exam. These classes help you learn basic insurance concepts, policy structures, and state regulations that you’ll need to serve clients effectively.
 
 If you plan to offer multiple lines of coverage, you’ll need to meet the pre-licensing hours for each line. Studying thoroughly also benefits you in the long run. Not only will a complete understanding of insurance fundamentals help you pass the exam, but it will also prepare you for real-life client scenarios.
 
@@ -93,7 +93,7 @@ Below are answers to some questions people often have about meeting Arizona insu
 4.  Is self-study an option or do I need formal classes?  
     Arizona requires an approved pre-licensing program. You may be able to study on your own after completing a structured course, but you must meet the official curriculum hours to qualify for the exam.
 5.  Will I need to renew my license at some point?  
-    Yes. All Arizona insurance licenses must be renewed periodically. You’ll have continuing education (CE) requirements to maintain your license, specific to each line of authority you hold.
+    Yes. All Arizona insurance licenses must be renewed periodically. You’ll have [Arizona continuing education](/arizona/continuing-education) (CE) requirements to maintain your license, specific to each line of authority you hold.
 
 ## Move forward with confidence
 

@@ -44,10 +44,10 @@ Beyond sales abilities, obtaining a Colorado life insurance license strengthens 
 
 ## Follow the steps toward your license
 
-1.  Complete the required pre-licensing education: You must typically finish a set number of course hours, which prepares you for the types of questions on the state exam.
+1.  Complete the required [Colorado insurance prelicensing](/colorado/prelicensing) education: You must typically finish a set number of course hours, which prepares you for the types of questions on the state exam.
 2.  Pass the state licensing exam: This is your chance to prove you understand Colorado's life insurance regulations, policy options, and ethical constraints.
 3.  Apply for your license: Once you have passed the exam, you will complete an application that includes submitting your score report and undergoing a background check.
-4.  Maintain your license: Expect to complete ongoing continuing education, ensuring you stay updated on new laws and product changes.
+4.  Maintain your license: Expect to complete ongoing [Colorado continuing education](/colorado/continuing-education), ensuring you stay updated on new laws and product changes.
 
 Each step is straightforward but requires diligence and time. Finding a solid pre-licensing provider can be your main focus when getting started. Some courses are online, offering flexibility, while others are classroom-based for those who want in-person interaction.
 

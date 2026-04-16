@@ -31,7 +31,7 @@ Don’t worry if you are entirely new to insurance. Before you invest any time o
 
 ## Complete your pre-licensing
 
-Once you settle on the line(s) of insurance you want to pursue, it is time to fulfill Washington’s pre-licensing education requirement. Depending on which license you seek, you will generally need either 20 hours of coursework per line or 40 hours for combined lines like Life and Disability.
+Once you settle on the line(s) of insurance you want to pursue, it is time to fulfill [Washington’s prelicensing education requirement](/washington/prelicensing). Depending on which license you seek, you will generally need either 20 hours of coursework per line or 40 hours for combined lines like Life and Disability.
 
 Pre-licensing courses cover essential concepts like policy provisions, state regulations, marketing practices, and ethics. The material is usually found online or in classroom settings, taught by experts who know how to break down complex topics in practical terms. Many find the self-paced online platforms convenient if they have a packed schedule or prefer to learn at their own pace.
 
@@ -114,4 +114,4 @@ Once you submit your application, you will typically wait a few business days fo
 
 Earning your Washington insurance license can be a clear and rewarding process if you know where to focus your energy. By completing a reputable pre-licensing program, tackling the exam with confidence, and submitting your application correctly, you are already well on your way to a meaningful insurance career. More importantly, you will have the knowledge and credentials to help people protect what matters most to them.
 
-If you have been considering the next move in your career, this is your sign to take action. Start with a pre-licensing course if you have not already enrolled, then follow up with the exam at your earliest convenience. Once you secure your license, you will be ready to explore agency opportunities or even go independent. Interested in more guidance? Reach out to JustInsurance for study materials, licensing tips, and personalized support. Your successful future in Washington insurance is just around the corner. Good luck on your licensing journey!
+If you have been considering the next move in your career, this is your sign to take action. Start with a pre-licensing course if you have not already enrolled, then follow up with the exam at your earliest convenience. Once you secure your license, you will be ready to explore agency opportunities or even go independent, and plan for [Washington continuing education](/washington/continuing-education) each renewal cycle. Interested in more guidance? Reach out to JustInsurance for study materials, licensing tips, and personalized support. Your successful future in Washington insurance is just around the corner. Good luck on your licensing journey!

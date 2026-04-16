@@ -35,7 +35,7 @@ If you have any concerns about your eligibility, it’s a good idea to check wit
 
 ## Finish pre-licensing education
 
-Once you’ve confirmed you meet the basic requirements, your next step is to complete a state-approved pre-licensing course. This coursework covers the essentials of insurance, policy types, and state regulations. The number of credit hours can vary depending on which license type you’re pursuing, but you’ll typically need to dedicate around 20 hours for each line of authority (for example, Life, Accident and Health, or Property and Casualty).
+Once you’ve confirmed you meet the basic requirements, your next step is to complete a state-approved [North Carolina prelicensing](/north-carolina/prelicensing) course. This coursework covers the essentials of insurance, policy types, and state regulations. The number of credit hours can vary depending on which license type you’re pursuing, but you’ll typically need to dedicate around 20 hours for each line of authority (for example, Life, Accident and Health, or Property and Casualty).
 
 You can choose between online or in-person classes, depending on your schedule and learning preferences. Online classes tend to offer more flexibility, allowing you to progress whenever you have spare time. In-person options let you ask questions on the spot and often come with peer support. Either way, the goal is the same: to give you a solid foundation in insurance topics so you can feel confident on exam day.
 

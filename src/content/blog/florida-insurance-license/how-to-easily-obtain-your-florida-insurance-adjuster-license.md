@@ -32,7 +32,7 @@ From there, it is a matter of ensuring you have the time and resources to comple
 
 ## Complete pre-licensing education
 
-Once you confirm you meet the basic requirements, the next step is to enroll in a state-approved pre-licensing education course. These courses walk you through essential topics like Florida insurance regulations, ethics, the claims process, and different policy types. If you are new to insurance, this structured overview will help you master the fundamentals before attempting the exam.
+Once you confirm you meet the basic requirements, the next step is to enroll in a state-approved [Florida pre-licensing education course](/florida/prelicensing). These courses walk you through essential topics like Florida insurance regulations, ethics, the claims process, and different policy types. If you are new to insurance, this structured overview will help you master the fundamentals before attempting the exam.
 
 You will often find flexible options for completing your course. You could choose an online format that fits neatly into your schedule, or an in-person experience if you prefer a classroom setting. Course durations vary, but plan on dedicating at least 40 hours to studying. By the time you wrap up your classes, you should feel confident about what to expect in the state’s licensing exam.
 
@@ -52,7 +52,7 @@ Once you have submitted everything accurately, the DFS will review your applicat
 
 ## Maintain your license
 
-Earning your Florida insurance adjuster license is a major accomplishment, and you will want to keep it in good standing. Florida requires ongoing continuing education (CE) to ensure you stay current with any shifts in regulations or best practices. CE requirements can vary by license type, but you can expect to complete a certain number of hours every two years.
+Earning your Florida insurance adjuster license is a major accomplishment, and you will want to keep it in good standing. Florida requires ongoing [continuing education](/florida/continuing-education) (CE) to ensure you stay current with any shifts in regulations or best practices. CE requirements can vary by license type, but you can expect to complete a certain number of hours every two years.
 
 Often, you will focus part of your CE on specific topics such as law and ethics, and the rest can be on subjects that boost your professional development. Thankfully, many of these courses are offered online, so you can fit them around your schedule. Staying on top of CE not only keeps your license active, it also helps you deliver top-notch service to clients.
 

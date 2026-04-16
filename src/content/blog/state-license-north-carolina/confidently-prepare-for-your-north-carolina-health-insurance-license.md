@@ -31,7 +31,7 @@ If these criteria are true for you, you’re already on track. However, if you h
 
 ## Choose a pre-licensing course
 
-A state-approved pre-licensing course is required for most individuals hoping to earn a North Carolina health insurance license. You’ll cover key topics like policy types, state regulations, and ethical sales practices, helping you build a solid foundation of expertise.
+A state-approved [North Carolina prelicensing](/north-carolina/prelicensing) course is required for most individuals hoping to earn a North Carolina health insurance license. You’ll cover key topics like policy types, state regulations, and ethical sales practices, helping you build a solid foundation of expertise.
 
 Look for courses geared specifically toward health insurance or life and health combined, since you often need separate certifications to sell each type of coverage. You can find both classroom-based sessions and online offerings. If your schedule is tight, an online course might let you learn at your own pace without sacrificing quality.
 
@@ -86,7 +86,7 @@ Keep an eye on your email for requests for additional documentation. Respond pro
 
 ## Stay certified after licensing
 
-Passing your exam and receiving your license is a tremendous achievement, but your professional journey doesn’t end there. In North Carolina, you must meet ongoing continuing education (CE) requirements to keep your license active. CE hours ensure you stay up-to-date on insurance laws, policy changes, and best practices.
+Passing your exam and receiving your license is a tremendous achievement, but your professional journey doesn’t end there. In North Carolina, you must meet ongoing [North Carolina continuing education](/north-carolina/continuing-education) (CE) requirements to keep your license active. CE hours ensure you stay up-to-date on insurance laws, policy changes, and best practices.
 
 Check the NCDOI website for specific CE hour requirements tied to your health insurance license. You may need to report these hours every two years. Planning ahead and spreading out your coursework can help you avoid last-minute scrambles.
 

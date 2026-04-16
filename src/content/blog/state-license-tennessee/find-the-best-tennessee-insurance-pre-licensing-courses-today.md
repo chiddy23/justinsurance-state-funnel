@@ -67,7 +67,7 @@ It’s not unusual to need a second attempt. You’ll simply schedule another ex
 
 ### 4\. Are there any ongoing education requirements after I’m licensed?
 
-Yes, once you hold your Tennessee insurance license, you need to complete continuing education (CE) credits regularly to maintain it. Different lines of authority have different CE requirements, so it’s wise to keep track of these deadlines to avoid any license lapses.
+Yes, once you hold your Tennessee insurance license, you need to complete [Tennessee continuing education](/tennessee/continuing-education) (CE) credits regularly to maintain it. Different lines of authority have different CE requirements, so it’s wise to keep track of these deadlines to avoid any license lapses.
 
 ### 5\. How do I determine if a course is state-approved?
 

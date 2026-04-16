@@ -57,7 +57,7 @@ Keep in mind that you might have additional hours if you hold multiple lines of 
 Before you can tackle your continuing education, you first need to make sure you meet the basic requirements for a Georgia insurance license. If you are new to this process, here are the core steps you will typically complete:
 
 1.  Make sure you are at least 18 years old.
-2.  Take a state-approved pre-licensing course relevant to the line of insurance you plan to sell.
+2.  Take a state-approved [Georgia insurance prelicensing](/georgia/prelicensing) course relevant to the line of insurance you plan to sell.
 3.  Pass the official licensing exam administered by a testing provider approved by Georgia.
 4.  Submit your license application and pay the associated fees.
 5.  Undergo a background check if required.

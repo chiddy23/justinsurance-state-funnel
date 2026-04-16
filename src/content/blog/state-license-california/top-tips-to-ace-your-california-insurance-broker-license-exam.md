@@ -27,7 +27,7 @@ Background checks are often part of the application. You will need to submit you
 
 ## Complete your pre-licensing education
 
-Once you confirm you meet the basic qualifications, you need to fulfill the pre-licensing education requirement. The specific number of study hours depends on the exact license lines you choose (Property, Casualty, Life, Health, or a combination). In any case, completion of approved coursework is crucial. These structured lessons familiarize you with policy provisions, state regulations, insurance ethics, and the broader responsibilities of a broker.
+Once you confirm you meet the basic qualifications, you need to fulfill the [pre-licensing education requirement](/california/prelicensing). The specific number of study hours depends on the exact license lines you choose (Property, Casualty, Life, Health, or a combination). In any case, completion of approved coursework is crucial. These structured lessons familiarize you with policy provisions, state regulations, insurance ethics, and the broader responsibilities of a broker.
 
 Course providers offer both online and classroom options. Online platforms can be particularly helpful if you balance work or family obligations. You can set your own pace and revisit lessons on more challenging topics. Keep track of your progress by reviewing any quizzes or self-assessments that come with the course. These checkpoints highlight areas where you may need extra study time before the real exam.
 
@@ -66,7 +66,7 @@ The state will verify your score, fingerprints, and any other paperwork you subm
 
 ## Maintain your license going forward
 
-Receiving your license is a major accomplishment, but your journey does not end there. In California, brokers renew their licenses every two years and need to meet continuing education (CE) requirements. CE courses help keep you updated on new insurance regulations, product changes, and industry trends. Being diligent with these ongoing requirements ensures that your skills remain fresh and that you continue to offer knowledgeable guidance to clients.
+Receiving your license is a major accomplishment, but your journey does not end there. In California, brokers renew their licenses every two years and need to meet [continuing education](/california/continuing-education) (CE) requirements. CE courses help keep you updated on new insurance regulations, product changes, and industry trends. Being diligent with these ongoing requirements ensures that your skills remain fresh and that you continue to offer knowledgeable guidance to clients.
 
 To stay on top of CE deadlines, set up reminders a few months before your license expires. This cushion of time helps you complete CE courses at a comfortable pace, rather than frantically rushing at the last minute. Many approved providers offer flexible schedules, remote learning, or in-person classes, so choose whatever suits you best.
 

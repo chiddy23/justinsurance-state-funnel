@@ -70,7 +70,7 @@ Below is a quick refresher on the essential steps to earn your license:
 
 While the process can be intense, keep in mind your goals for a rewarding insurance career. Visualize the people you'll guide and the problems you'll help solve. Whether it's protecting homes from storm damage or advising small business owners on liability coverage, becoming certified in property and casualty transforms you into a valuable resource for your clients.
 
-Always stay on top of ongoing education requirements in Virginia. Licensed insurance professionals typically must complete continuing education credits to remain current on industry changes. These extra courses and updates can seem like extra work, but they often bring fresh insights and greater expertise. When your clients sense that you're knowledgeable and staying informed, they value your guidance even more.
+Always stay on top of ongoing education requirements in Virginia. Licensed insurance professionals typically must complete [Virginia continuing education](/virginia/continuing-education) credits to remain current on industry changes. These extra courses and updates can seem like extra work, but they often bring fresh insights and greater expertise. When your clients sense that you're knowledgeable and staying informed, they value your guidance even more.
 
 ## Position yourself for success
 

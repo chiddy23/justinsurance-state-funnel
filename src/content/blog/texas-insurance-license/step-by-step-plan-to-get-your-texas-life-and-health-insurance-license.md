@@ -30,7 +30,7 @@ You’ll also need a Social Security number and a valid government-issued photo 
 
 ## Enroll in a pre-licensing course
 
-Texas requires you to complete specific pre-licensing education before you can sit for the life and health insurance exam. The exact number of hours may vary, but it’s usually around 40 hours of coursework covering topics like policy provisions, ethical conduct, state regulations, and insurance products. These structured lessons are designed to give you a solid foundation so you feel prepared and knowledgeable when it’s time for the test.
+Texas requires you to complete specific [Texas pre-licensing education](/texas/prelicensing) before you can sit for the life and health insurance exam. The exact number of hours may vary, but it’s usually around 40 hours of coursework covering topics like policy provisions, ethical conduct, state regulations, and insurance products. These structured lessons are designed to give you a solid foundation so you feel prepared and knowledgeable when it’s time for the test.
 
 Pre-licensing courses are offered online or in-person, providing flexibility to fit your schedule. If you’re someone who wants a more hands-on approach, a classroom setting might be a good fit. On the other hand, online courses can be ideal if you’re balancing a full-time job or other commitments. In either case, make sure the course you select is approved by the TDI so you receive the official course completion certificate.
 
@@ -65,7 +65,7 @@ Once you’ve completed the exam, you’ll usually receive immediate feedback on
 
 After you pass, submit your official application to the TDI. The application typically asks for personal information, exam documentation, and a background check. You’ll also pay a licensing fee, so have a credit or debit card ready for online submissions.
 
-This final stage can take a few weeks for processing and background checks. Once approved, you’ll receive your Texas life and health insurance license, allowing you to start working with clients and connecting them to important coverage options. From there, it’s all about maintaining your license by completing continuing education (CE) credits. CE ensures you’re always up to date with the latest industry regulations and best practices.
+This final stage can take a few weeks for processing and background checks. Once approved, you’ll receive your Texas life and health insurance license, allowing you to start working with clients and connecting them to important coverage options. From there, it’s all about maintaining your license by completing [continuing education](/texas/continuing-education) (CE) credits. CE ensures you’re always up to date with the latest industry regulations and best practices.
 
 ## Keep key documents in order
 

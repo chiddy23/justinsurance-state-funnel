@@ -31,7 +31,7 @@ It is also key to decide which line of insurance you want to pursue. The most co
 
 ## Complete required pre-licensing
 
-Next, you will need to complete state-approved pre-licensing courses for each insurance line you plan to sell. These courses typically cover core insurance concepts, Washington-specific regulations, and best practices for client interactions. Because you must include proof of your completed coursework in your application, it is a good idea to keep the certificate you receive from the training provider in a safe place.
+Next, you will need to complete state-approved [Washington prelicensing courses](/washington/prelicensing) for each insurance line you plan to sell. These courses typically cover core insurance concepts, Washington-specific regulations, and best practices for client interactions. Because you must include proof of your completed coursework in your application, it is a good idea to keep the certificate you receive from the training provider in a safe place.
 
 You might find both classroom-based and online options. Online courses can be more flexible, allowing you to progress at your own pace. Classroom learning, on the other hand, offers live interactions with instructors and peers. Select the format that fits your schedule and learning style.
 
@@ -123,7 +123,7 @@ Costs can vary depending on the lines of authority you choose, the exam fees, an
 
 ### Do I need continuing education after licensing?
 
-Yes, Washington requires you to complete continuing education to maintain your insurance license. These courses enhance your professional knowledge and keep you updated on changes in state regulations and industry best practices.
+Yes, Washington requires you to complete [continuing education](/washington/continuing-education) to maintain your insurance license. These courses enhance your professional knowledge and keep you updated on changes in state regulations and industry best practices.
 
 ### Which documents should I keep for my records?
 

@@ -27,7 +27,7 @@ Before you can truly conquer [Tennessee insurance license](/tennessee) exam ques
 
 In Tennessee, you typically have two main categories of exams: Life & Health (L&H) and Property & Casualty (P&C). You may opt to take just one or both, depending on your career path. Each category covers a range of topics such as state regulations, general insurance principles, policy provisions, and ethical practices.
 
-It helps to check the Tennessee Department of Commerce and Insurance website for the exact content outlines. Familiarize yourself with required hours of pre-licensing education, the format and length of the exam, any fees involved, and how to book your test date. By clarifying all the “who, what, where, and how” questions in advance, you’ll remove a lot of stress from your experience.
+It helps to check the Tennessee Department of Commerce and Insurance website for the exact content outlines. Familiarize yourself with required hours of [Tennessee prelicensing education](/tennessee/prelicensing), the format and length of the exam, any fees involved, and how to book your test date. By clarifying all the “who, what, where, and how” questions in advance, you’ll remove a lot of stress from your experience.
 
 ## Create a solid study schedule
 
@@ -102,4 +102,4 @@ It might feel like a lot of information to absorb, but the right approach can ma
 
 This is your chance to lay the foundation for a growing, fulfilling career in insurance. By preparing properly and drawing on the strategies above, you can walk into the exam room with your head held high, ready to tackle each question one at a time.
 
-Looking to turn your newfound knowledge into a future-proof career? Start your pre-licensing studies today and step confidently toward your next opportunity. Good luck as you push forward, and remember that every step you take now sets you up for long-term success in the insurance field.
+Once licensed, plan for [Tennessee continuing education](/tennessee/continuing-education) every renewal cycle so you stay current on state rules. Looking to turn your newfound knowledge into a future-proof career? Start your pre-licensing studies today and step confidently toward your next opportunity. Good luck as you push forward, and remember that every step you take now sets you up for long-term success in the insurance field.

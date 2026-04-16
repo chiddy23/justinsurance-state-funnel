@@ -35,7 +35,7 @@ If you meet these criteria, you’re officially on track to pursue your insuranc
 
 ## Complete pre-licensing education
 
-One of the fundamental [California insurance license](/california) requirements is completing state-approved pre-licensing education. As of January 1, 2026, California Assembly Bill 943 restructured this requirement — the line-specific product hour mandate was eliminated, and the only required prelicensing course is now the 12-hour Code and Ethics course.
+One of the fundamental [California insurance license](/california) requirements is completing state-approved [pre-licensing education](/california/prelicensing). As of January 1, 2026, California Assembly Bill 943 restructured this requirement — the line-specific product hour mandate was eliminated, and the only required prelicensing course is now the 12-hour Code and Ethics course.
 
 • Life Insurance License: Complete the 12-hour Code and Ethics prelicensing course. This covers California Insurance Code, ethics, and producer responsibilities.
 • Accident and Health License: The same 12-hour Code and Ethics course satisfies the prelicensing requirement for Accident and Health applicants.
@@ -78,7 +78,7 @@ You’ll typically receive an email or letter from the California Department of 
 
 ## Maintain continuing education
 
-Earning your license is an impressive milestone, and you’ll want to maintain it with ongoing education. In California, you need to fulfill continuing education (CE) credits for each renewal cycle, including consumer protection topics, ethics, and subjects relevant to your license lines.
+Earning your license is an impressive milestone, and you’ll want to maintain it with ongoing education. In California, you need to fulfill [continuing education](/california/continuing-education) (CE) credits for each renewal cycle, including consumer protection topics, ethics, and subjects relevant to your license lines.
 
 For example, a standard rule is to complete 24 hours of CE—at least some of which must focus on ethics—prior to renewing your license every two years. Stay current with these requirements so you never run into compliance issues that could disrupt your ability to serve clients.
 

@@ -32,7 +32,7 @@ Try visualizing your day-to-day responsibilities as an agent. You will be explai
 
 ## Complete the pre-licensing steps
 
-Before you dive too deeply into practice exams, make sure you check off any state-required prerequisites. You will likely need to complete a certain number of pre-licensing course hours approved by the Colorado Division of Insurance. Once you finish these courses, you will receive a certificate of completion—an important document you will need for scheduling your exam.
+Before you dive too deeply into practice exams, make sure you check off any state-required prerequisites. You will likely need to complete a certain number of [Colorado insurance prelicensing](/colorado/prelicensing) course hours approved by the Colorado Division of Insurance. Once you finish these courses, you will receive a certificate of completion—an important document you will need for scheduling your exam.
 
 Keep in mind that requirements can vary depending on the line of authority you intend to pursue. For instance, training hours for life and health insurance might differ from property and casualty training. Here are some practical tips as you finish your course:
 

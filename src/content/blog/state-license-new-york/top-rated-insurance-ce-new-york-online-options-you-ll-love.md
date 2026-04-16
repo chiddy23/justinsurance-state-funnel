@@ -15,7 +15,7 @@ imageAlt: Three professionals engaged in a business meeting at a cafe.
 imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
-Staying on top of your [continuing education](/continuing-education) (CE) is a must if you want to maintain your New York insurance license. With a growing number of insurance CE New York online courses, you have a convenient path to sharpen your skills, meet departmental requirements, and keep moving forward in your career. Below, you’ll find a clear, step-by-step guide to completing your New York insurance CE and ensuring you stay fully compliant.
+Staying on top of your [New York continuing education](/new-york/continuing-education) (CE) is a must if you want to maintain your New York insurance license. With a growing number of insurance CE New York online courses, you have a convenient path to sharpen your skills, meet departmental requirements, and keep moving forward in your career. Below, you’ll find a clear, step-by-step guide to completing your New York insurance CE and ensuring you stay fully compliant.
 
 ## Understand your New York insurance CE requirements
 

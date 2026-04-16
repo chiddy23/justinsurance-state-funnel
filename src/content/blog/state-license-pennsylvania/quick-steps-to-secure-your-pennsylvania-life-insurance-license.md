@@ -26,7 +26,7 @@ Most people who apply already have a strong desire to help others navigate impor
 
 ## Complete pre-licensing education
 
-Pre-licensing training is required in Pennsylvania so you can develop a thorough understanding of life insurance principles before you ever meet with a future client. The state mandates a certain number of credit hours that focus on relevant topics. By completing this coursework, you establish the core knowledge you need to answer your clients’ questions accurately.
+[Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) training is required so you can develop a thorough understanding of life insurance principles before you ever meet with a future client. The state mandates a certain number of credit hours that focus on relevant topics. By completing this coursework, you establish the core knowledge you need to answer your clients’ questions accurately.
 
 1.  Consider a self-paced online course if you have a busy schedule and need flexible hours.
 2.  In-person classroom sessions might be best if you learn faster through live interaction.
@@ -62,7 +62,7 @@ Keep a digital copy of your license on your computer or phone for quick referenc
 
 Securing your Pennsylvania life insurance license is not just about passing a test. It is about stepping into a role that allows you to guide others in safeguarding their families’ financial futures. After you have your license in hand, you might decide to join an established insurance agency or branch out on your own. Either way, you are now positioned to learn the ins and outs of client relationships, policy structuring, and effective marketing.
 
-You will also need to stay current through continuing education requirements, which Pennsylvania enforces to ensure that insurance professionals remain up to date on new regulations and industry trends. This ongoing learning is a great way to keep expanding your expertise. If you ever need further guidance, JustInsurance can connect you with the resources needed to refine your approach and sharpen your knowledge.
+You will also need to stay current through [Pennsylvania continuing education](/pennsylvania/continuing-education) requirements, which the state enforces to ensure that insurance professionals remain up to date on new regulations and industry trends. This ongoing learning is a great way to keep expanding your expertise. If you ever need further guidance, JustInsurance can connect you with the resources needed to refine your approach and sharpen your knowledge.
 
 ## Your call to action
 

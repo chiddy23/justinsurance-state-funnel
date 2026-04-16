@@ -92,7 +92,7 @@ Once your application is processed and approved, you can officially call yoursel
 
 Navigating your license requirements can feel a bit overwhelming at times, so you want a supportive partner in your corner. That's where JustInsurance can help you move from curious beginner to confident professional. As you research course providers and resources, keep in mind that JustInsurance strives to streamline the process, offering intuitive course design and mentor guidance that ensures you're fully prepared.
 
-By following a pre-licensing curriculum through an approved program, you give yourself the best chance of success when exam day arrives. Plus, forging a relationship with a reputable provider can open doors for ongoing training, networking events, or specialized certifications. These extras can go a long way toward helping you advance in your new career.
+By following a pre-licensing curriculum through an approved program, you give yourself the best chance of success when exam day arrives. Plus, forging a relationship with a reputable provider can open doors for ongoing training, [North Carolina continuing education](/north-carolina/continuing-education), networking events, or specialized certifications. These extras can go a long way toward helping you advance in your new career.
 
 ## Taking action to launch your insurance career
 

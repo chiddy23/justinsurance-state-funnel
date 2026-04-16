@@ -79,7 +79,7 @@ If you have any past legal issues, do not panic. Being transparent and submittin
 
 ## Maintain your license
 
-Getting your [Florida insurance license](/florida) is only the beginning of your professional journey. To stay in good standing with the state, you need to meet continuing education (CE) requirements. CE courses ensure that your knowledge remains current and that you are aware of changes in insurance laws, rules, and industry trends.
+Getting your [Florida insurance license](/florida) is only the beginning of your professional journey. To stay in good standing with the state, you need to meet [continuing education](/florida/continuing-education) (CE) requirements. CE courses ensure that your knowledge remains current and that you are aware of changes in insurance laws, rules, and industry trends.
 
 You may be required to complete a certain number of CE hours every two years. For instance, life and health license holders might take a short course on emerging medical coverage options, while property and casualty licensees might have to study updated flood insurance regulations. Keeping your license active is simpler if you plan your continuing education throughout the renewal cycle, rather than rushing toward the deadline.
 

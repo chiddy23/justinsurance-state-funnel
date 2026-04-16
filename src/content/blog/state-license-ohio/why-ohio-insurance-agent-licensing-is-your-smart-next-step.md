@@ -35,7 +35,7 @@ If you’re unsure about your background, it’s worth verifying any past incide
 
 ## Fulfill your pre-licensing education
 
-Pre-licensing courses are mandatory for each line of authority you plan to sell. For instance, if you’re aiming for both Life and Health, you’ll need to complete two sets of courses. These classes typically cover core insurance concepts, state regulations, and ethical practices, leaving you well-prepared for real-life situations.
+[Ohio prelicensing](/ohio/prelicensing) courses are mandatory for each line of authority you plan to sell. For instance, if you’re aiming for both Life and Health, you’ll need to complete two sets of courses. These classes typically cover core insurance concepts, state regulations, and ethical practices, leaving you well-prepared for real-life situations.
 
 The hours can vary by line of authority, but most students find it manageable to complete them within a few weeks. Depending on your preferred learning style, you can choose in-person sessions or online modules. Many budding agents find that flexible scheduling options help them balance family obligations or a day job alongside their studies.
 
@@ -87,7 +87,7 @@ $30-$50 application
 
 These figures can change based on demand and the provider you use. Always double-check current fees and timeframes so that you can budget accordingly.
 
-Once you’ve made it through these steps, you’re free to choose a path that suits your ambitions. You might partner with an established company to gain hands-on experience and a stable paycheck. Alternatively, you can embark on your own, setting your client meetings and marketing plans. Don’t forget to keep up with continuing education—Ohio requires ongoing study to maintain your license and expand your knowledge.
+Once you’ve made it through these steps, you’re free to choose a path that suits your ambitions. You might partner with an established company to gain hands-on experience and a stable paycheck. Alternatively, you can embark on your own, setting your client meetings and marketing plans. Don’t forget to keep up with [Ohio continuing education](/ohio/continuing-education)—the state requires ongoing study to maintain your license and expand your knowledge.
 
 Embracing your new role as an agent can be incredibly fulfilling. You’ll be guiding individuals through crucial decisions, whether you’re helping a family protect their home or assisting a new entrepreneur in understanding potential risks. With each milestone, you’ll develop credibility, a loyal customer base, and a steady source of income.
 

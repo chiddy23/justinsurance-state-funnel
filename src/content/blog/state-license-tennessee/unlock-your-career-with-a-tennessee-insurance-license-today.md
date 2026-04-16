@@ -31,7 +31,7 @@ These requirements help ensure that licensed agents are trustworthy and meet cer
 
 ## Enroll in pre-licensing education
 
-Your next big step is to complete a pre-licensing course that focuses on the insurance line you are most interested in. For instance, if you plan to sell auto and homeowners insurance, you would take a property and casualty pre-licensing course. If you are more drawn to life and health, sign up for a program covering those topics.
+Your next big step is to complete a [Tennessee prelicensing course](/tennessee/prelicensing) that focuses on the insurance line you are most interested in. For instance, if you plan to sell auto and homeowners insurance, you would take a property and casualty pre-licensing course. If you are more drawn to life and health, sign up for a program covering those topics.
 
 Look for programs that combine interactive learning with straightforward study materials. Providers like JustInsurance offer user-friendly feedback and practice exams to help you target your weak spots. By immersing yourself in one of these courses, you gain essential skills that can boost your confidence when it is time to take the state licensing exam.
 
@@ -49,7 +49,7 @@ It usually takes a short while for the state to issue your license, although pro
 
 ## Maintain your license over time
 
-Earning your license is only the beginning. To keep it valid, you need to fulfill continuing education (CE) hours as required by Tennessee law. Renewal cycles prompt you to update your knowledge on new products, changing regulations, and evolving industry trends.
+Earning your license is only the beginning. To keep it valid, you need to fulfill [Tennessee continuing education](/tennessee/continuing-education) (CE) hours as required by state law. Renewal cycles prompt you to update your knowledge on new products, changing regulations, and evolving industry trends.
 
 At first, it may seem like another round of homework. In reality, CE courses give you the chance to expand your skill set and stay competitive in a fast-paced market. Whether you choose in-person workshops or online classes, these courses keep you current so your clients can trust your guidance.
 

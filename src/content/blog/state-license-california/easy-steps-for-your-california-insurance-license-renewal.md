@@ -27,7 +27,7 @@ Give yourself a little extra time before your license expires, especially if thi
 
 ## Meet your continuing education obligations
 
-California insurance professionals must typically complete continuing education (CE) courses to stay current with industry knowledge. For most license types, you need 24 hours of state-approved CE credits every two years. Out of those, 3 hours must focus on ethics training. Although 24 hours may seem like a lot, spacing out your coursework throughout the two-year period makes it manageable.
+California insurance professionals must typically complete [continuing education](/california/continuing-education) (CE) courses to stay current with industry knowledge. For most license types, you need 24 hours of state-approved CE credits every two years. Out of those, 3 hours must focus on ethics training. Although 24 hours may seem like a lot, spacing out your coursework throughout the two-year period makes it manageable.
 
 Put together a realistic plan for your CE credits and explore options that fit your schedule and learning style. Look for flexible online courses or classroom sessions that align with your specialty. Taking courses that genuinely interest you, such as marketing products to underserved populations or understanding new policy regulations, can also make the hours feel more rewarding.
 
@@ -41,7 +41,7 @@ Make sure to proofread all the details on your form before you send it in. Any m
 
 You might hear from other people that renewing means taking the same exam you did the first time around. Fortunately, for most California insurance license renewals, you do not need to retake the full licensing exam, as long as your license remains active. Instead, your continued learning is verified through the CE credits you complete.
 
-However, if your license has lapsed or you are seeking to add a new line of authority, you may need additional pre-licensing courses and perhaps another exam. To avoid confusion, confirm with the Department of Insurance whether an exam applies to your renewal situation. A quick phone call or a visit to their official website can help clarify any special requirements.
+However, if your license has lapsed or you are seeking to add a new line of authority, you may need additional [pre-licensing courses](/california/prelicensing) and perhaps another exam. To avoid confusion, confirm with the Department of Insurance whether an exam applies to your renewal situation. A quick phone call or a visit to their official website can help clarify any special requirements.
 
 ## Plan your timeline and budget
 

@@ -41,7 +41,7 @@ Most people find it reassuring to gather necessary documents and schedule finger
 
 ## Complete required pre-licensing
 
-Once you’re certain you meet the state’s standards, the next block is your pre-licensing education. This step covers essential insurance concepts, policy types, and regulatory guidelines that directly prepare you for the state exam. While it may sound like a lot, these courses are specifically designed to equip you with what you need and streamline your progress.
+Once you’re certain you meet the state’s standards, the next block is your [North Carolina prelicensing](/north-carolina/prelicensing) education. This step covers essential insurance concepts, policy types, and regulatory guidelines that directly prepare you for the state exam. While it may sound like a lot, these courses are specifically designed to equip you with what you need and streamline your progress.
 
 Some online programs let you learn at your own pace, so you can study after work or on weekends without overhauling your schedule. If you prefer a classroom vibe, look for in-person lessons that include lively group discussions and Q&A sessions. Either way, you’ll be covering topics such as accident and health fundamentals, key legal principles, and state-specific rules around licensing procedures.
 
@@ -65,7 +65,7 @@ On test day, arrive early and bring everything you need, including valid ID and 
 
 Congratulations if you’ve reached this stage. Once you pass and receive your North Carolina casualty insurance license, you can officially start working with clients. It’s a fantastic feeling to know you’re helping people protect what matters most.
 
-Remember that your journey doesn’t end with the exam. You’ll need continuing education (CE) credits to maintain your license eventually. These credits ensure you stay updated on new rules, changing coverage options, and best practices. By setting a personal schedule for renewing your license and fulfilling CE requirements, you’ll avoid last-minute scrambles and keep your expertise sharp.
+Remember that your journey doesn’t end with the exam. You’ll need [North Carolina continuing education](/north-carolina/continuing-education) (CE) credits to maintain your license eventually. These credits ensure you stay updated on new rules, changing coverage options, and best practices. By setting a personal schedule for renewing your license and fulfilling CE requirements, you’ll avoid last-minute scrambles and keep your expertise sharp.
 
 Don’t forget to keep expanding your skill set. Hiring managers and potential clients appreciate agents who commit to professional growth and stay updated on emerging insurance trends. As you build your business, think about adding specializations, such as commercial liability or personal lines, to serve more clients.
 

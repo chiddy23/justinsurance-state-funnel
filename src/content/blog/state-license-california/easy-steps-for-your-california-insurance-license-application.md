@@ -25,7 +25,7 @@ If you have questions about whether something in your background might be a barr
 
 ## Complete your pre-licensing education
 
-California requires specific pre-licensing coursework, which varies depending on the type of license you’re seeking. For example, if you want to sell life insurance, property and casualty insurance, or other specialized lines, you will have to complete a set number of hours in state-approved classes. These courses are designed to give you foundational knowledge in insurance products, ethics, laws, and industry best practices.
+California requires specific [pre-licensing coursework](/california/prelicensing), which varies depending on the type of license you’re seeking. For example, if you want to sell life insurance, property and casualty insurance, or other specialized lines, you will have to complete a set number of hours in state-approved classes. These courses are designed to give you foundational knowledge in insurance products, ethics, laws, and industry best practices.
 
 Rather than thinking of pre-licensing classes as just another requirement, treat them as an opportunity to build confidence. You will learn critical terminology, policy structures, and compliance standards that you will use daily once you start your insurance career. If you are juggling a busy schedule, you can explore online coursework at your own pace, or you might prefer a classroom environment where you can engage with an instructor. Make sure the provider you choose is approved by the California Department of Insurance, to ensure you get credit for your hours.
 
@@ -68,7 +68,7 @@ In the days leading up to your test, schedule time to review your strongest and 
 
 ## Maintain your license
 
-Once you receive your insurance license, it does not stop there. Staying current on the latest regulations, product changes, and best practices is crucial for long-term success. California requires agents to complete continuing education (CE) credits to keep their license active. The exact requirements vary by license type, but you should expect to renew your license every two years and complete a set number of CE hours.
+Once you receive your insurance license, it does not stop there. Staying current on the latest regulations, product changes, and best practices is crucial for long-term success. California requires agents to complete [continuing education](/california/continuing-education) (CE) credits to keep their license active. The exact requirements vary by license type, but you should expect to renew your license every two years and complete a set number of CE hours.
 
 Maintaining a good reputation in the industry and abiding by ethical guidelines also helps preserve your license. Whenever you update your personal information or change roles, you may need to notify the California Department of Insurance to keep your file up to date. By making sure all your information is current and completing CE courses regularly, you avoid the stress of a last-minute scramble when it is time to renew.
 

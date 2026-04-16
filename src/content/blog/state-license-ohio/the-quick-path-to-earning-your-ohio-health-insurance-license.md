@@ -26,7 +26,7 @@ Gather any required identification ahead of time to avoid delays. These basic pr
 
 ## Complete your pre-licensing education
 
-Once you confirm you meet the state’s age and work eligibility requirements, the next step is finishing a pre-licensing education course. Ohio requires you to complete a specific number of hours studying relevant insurance topics before you’re allowed to book the licensing exam. These hours are meant to give you a solid foundation in ethics, state regulations, and the overall health insurance landscape.
+Once you confirm you meet the state’s age and work eligibility requirements, the next step is finishing an [Ohio prelicensing](/ohio/prelicensing) education course. Ohio requires you to complete a specific number of hours studying relevant insurance topics before you’re allowed to book the licensing exam. These hours are meant to give you a solid foundation in ethics, state regulations, and the overall health insurance landscape.
 
 Your coursework may span several days or a couple of weeks, depending on your schedule. You can choose an in-person class or a virtual learning format—whichever fits best into your daily routine. To help you stay on track, it’s a good idea to carve out regular study times and keep your notes organized. Thorough preparation now lays a strong groundwork for passing the exam on your first try.
 
@@ -59,7 +59,7 @@ Keep an eye on your email for updates. If you find mistakes or missing informati
 
 Receiving your Ohio health insurance license is a major milestone worth celebrating. It signals that you’re prepared to guide others through the complexities of medical coverage, benefits, and policy selection. Right after licensing, many people choose to join an established agency or work alongside a seasoned insurance professional to expand their practical knowledge. This real-world experience brings clarity to what you learned in your coursework and how to apply it in client conversations.
 
-As you build your client base, remember that constant learning is part of your new profession. Keeping up with continuing education will help you maintain your license, adapt to new industry regulations, and improve your client interactions. You can also attend webinars, workshops, or relevant conferences to stay informed about product updates and best practices. Over time, you’ll gain deeper insights into common consumer challenges and discover how to address them effectively.
+As you build your client base, remember that constant learning is part of your new profession. Keeping up with [Ohio continuing education](/ohio/continuing-education) will help you maintain your license, adapt to new industry regulations, and improve your client interactions. You can also attend webinars, workshops, or relevant conferences to stay informed about product updates and best practices. Over time, you’ll gain deeper insights into common consumer challenges and discover how to address them effectively.
 
 Staying organized is key, especially as you begin to juggle multiple quotes, policies, and renewals. Whether you use digital spreadsheets or good old-fashioned binders, having a dependable system for client information will streamline your daily tasks and help you impress your customers with a professional approach.
 

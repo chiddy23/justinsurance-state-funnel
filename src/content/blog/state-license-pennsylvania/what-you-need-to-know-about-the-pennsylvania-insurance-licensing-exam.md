@@ -28,7 +28,7 @@ Each type of insurance license (like life, health, property, or casualty) may ha
 
 ## Fulfill your pre-licensing course
 
-Pennsylvania typically requires you to take an approved pre-licensing education course for each line of authority you want to sell, such as life or health insurance. These courses can range from 20 to 40 hours of classwork, depending on the license type. Some programs allow you to study online at your own pace, while others offer classroom sessions if you prefer face-to-face instruction.
+Pennsylvania typically requires you to take an approved [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) course for each line of authority you want to sell, such as life or health insurance. These courses can range from 20 to 40 hours of classwork, depending on the license type. Some programs allow you to study online at your own pace, while others offer classroom sessions if you prefer face-to-face instruction.
 
 Try to choose a provider that matches your learning style. If you’re more of a visual learner, look for a course with video tutorials and interactive quizzes. If you like a more traditional approach, live classes might offer a personal touch. Completing your required coursework not only meets state regulations, but it also gives you the foundation to tackle the Pennsylvania insurance licensing exam with clarity and confidence.
 
@@ -62,7 +62,7 @@ Show up early enough to cope with traffic, parking, and any pre-check-in procedu
 
 ## Celebrate your new license
 
-After you complete the exam, you’ll receive information about your results—often right away. If you pass, congratulations are in order. Your next step is to apply for your official insurance license through the Pennsylvania Insurance Department. At this point, you’re on your way to a rewarding career helping people protect what matters most.
+After you complete the exam, you’ll receive information about your results—often right away. If you pass, congratulations are in order. Your next step is to apply for your official insurance license through the Pennsylvania Insurance Department. Down the road, our [Pennsylvania continuing education](/pennsylvania/continuing-education) courses will keep your license active through each renewal cycle. At this point, you’re on your way to a rewarding career helping people protect what matters most.
 
 Even if you don’t pass on your first try, don’t be discouraged. Count every attempt as a learning experience. You can resolve any knowledge gaps, fine-tune your test-taking strategy, and usually retest within a short timeframe.
 

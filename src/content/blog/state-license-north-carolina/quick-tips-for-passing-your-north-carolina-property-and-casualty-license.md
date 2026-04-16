@@ -28,7 +28,7 @@ You will also be asked to submit fingerprints and undergo a background check. Th
 
 ## Complete a pre-licensing course
 
-North Carolina requires that you finish a pre-licensing course specific to the property and casualty lines of authority. This coursework covers topics such as policy types, state regulations, underwriting guidelines, and ethics. Because the exam tests you on these core concepts, your pre-licensing class is more than just a formality, it builds the foundation for your future success in the industry.
+North Carolina requires that you finish a [North Carolina prelicensing](/north-carolina/prelicensing) course specific to the property and casualty lines of authority. This coursework covers topics such as policy types, state regulations, underwriting guidelines, and ethics. Because the exam tests you on these core concepts, your pre-licensing class is more than just a formality, it builds the foundation for your future success in the industry.
 
 Look for courses offered by reputable providers that focus on interactivity, such as live webinars or practice quizzes you can retake. As you study, take note of any topics that come up frequently, such as property insurance fundamentals and liability coverage limits. By engaging with the material often, you will reduce your chances of last-minute cramming and walk into the testing center with greater confidence.
 
@@ -92,7 +92,7 @@ North Carolina typically issues a digital license you can print at home or keep 
 
 ## Keep learning with continuing education
 
-Holding a North Carolina property and casualty license is just the beginning. You will need to renew it periodically by completing continuing education (CE) credits. These courses cover updates to regulations, interesting case studies, and advanced product knowledge to keep you at the top of your game.
+Holding a North Carolina property and casualty license is just the beginning. You will need to renew it periodically by completing [North Carolina continuing education](/north-carolina/continuing-education) (CE) credits. These courses cover updates to regulations, interesting case studies, and advanced product knowledge to keep you at the top of your game.
 
 The CE requirement not only protects consumers by ensuring that you stay informed, but it also helps you expand your insurance expertise. Working CE into your schedule can be as easy as dedicating a few hours each quarter to keep your knowledge fresh. Some providers package CE courses together at a discount, so you can fulfill multiple credit requirements at once.
 

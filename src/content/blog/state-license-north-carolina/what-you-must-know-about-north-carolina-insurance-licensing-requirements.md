@@ -90,7 +90,7 @@ After you complete your exam, you’ll learn whether you passed. Sometimes resul
 
 Once you pass the exam, you’ll need to apply for your license with the North Carolina Department of Insurance. This application involves a fee and may require you to submit final documentation like your passing exam notice and proof of pre-licensing education. Double-check the instructions closely so you don’t miss any crucial details.
 
-As you prepare to take on clients, keep in mind that continuing education is a key part of maintaining your license. Over time, you’ll need to update your knowledge on new regulations, products, and ethical guidelines. It’s a good habit to stay curious and always keep learning. Your commitment to ongoing professional development will give you—and your clients—greater peace of mind.
+As you prepare to take on clients, keep in mind that [North Carolina continuing education](/north-carolina/continuing-education) is a key part of maintaining your license. Over time, you’ll need to update your knowledge on new regulations, products, and ethical guidelines. It’s a good habit to stay curious and always keep learning. Your commitment to ongoing professional development will give you—and your clients—greater peace of mind.
 
 By staying organized and proactive, you can move through each step quickly. And if you’re looking for extra support, JustInsurance offers helpful resources specifically for first-time licensing candidates. You can often find updated practice tests, study packets, and insider tips that make your transition into a licensed professional smoother.
 

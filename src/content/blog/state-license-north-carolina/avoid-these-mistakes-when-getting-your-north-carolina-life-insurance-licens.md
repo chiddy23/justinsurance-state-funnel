@@ -48,7 +48,7 @@ Be proactive by scheduling your fingerprinting or background check as early as y
 
 ## Neglecting continuing education
 
-While your primary focus might be on passing the life insurance exam, remember that continuing education (CE) is an ongoing part of being an insurance professional in North Carolina. After you earn your license, the state has regular CE requirements to ensure you stay updated on laws, practices, and industry trends. If you overlook these requirements, you risk lapsing in your license status.
+While your primary focus might be on passing the life insurance exam, remember that continuing education (CE) is an ongoing part of being an insurance professional in North Carolina. After you earn your license, the state has regular [North Carolina continuing education](/north-carolina/continuing-education) requirements to ensure you stay updated on laws, practices, and industry trends. If you overlook these requirements, you risk lapsing in your license status.
 
 Early in your journey, become familiar with the CE expectations and set up reminders for your renewal deadlines. This approach not only helps you maintain your license but also keeps you informed on emerging topics that can improve your service to clients. If you ignore continuing education, you’ll eventually face penalties and potentially have to retake courses. By staying ahead in your CE duties, you’ll demonstrate credibility while avoiding added complications later.
 

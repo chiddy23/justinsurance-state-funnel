@@ -67,7 +67,7 @@ Keep in mind that short, focused sessions often yield better results than marath
 
 Once you pass, you are not done yet. Florida will issue your official insurance license after you submit your passing scores, application, and background check (if applicable). Double-check all documentation to prevent delays in receiving your license. After that, you will be legally allowed to discuss and sell insurance products for the lines you tested in.
 
-Keep in mind there are ongoing requirements to maintain your license. Florida, like most other states, enforces continuing education (CE) hours that agents need to fulfill every few years. CE courses keep you informed of new regulations or industry trends, ensuring consumers get up-to-date guidance on their insurance needs.
+Keep in mind there are ongoing requirements to maintain your license. Florida, like most other states, enforces [continuing education](/florida/continuing-education) (CE) hours that agents need to fulfill every few years. CE courses keep you informed of new regulations or industry trends, ensuring consumers get up-to-date guidance on their insurance needs.
 
 For newly licensed agents, it is wise to seek mentorship or connect with a reputable agency right away. On-the-job experience can solidify what you learned during training and keep you on track for long-term career growth.
 

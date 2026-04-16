@@ -29,7 +29,7 @@ If you have concerns about your eligibility, you can consult the state’s guide
 
 ## Complete pre-licensing education
 
-Before you can take the licensing exam, you need to complete a pre-licensing course approved by the state. The number of hours required can differ depending on the line of authority—life, health, property, or casualty—but you can generally expect to complete at least 20–40 hours for each line you want to sell. This coursework is designed to ensure you have all the knowledge necessary to advise clients responsibly.
+Before you can take the licensing exam, you need to complete a [Tennessee prelicensing course](/tennessee/prelicensing) approved by the state. The number of hours required can differ depending on the line of authority—life, health, property, or casualty—but you can generally expect to complete at least 20–40 hours for each line you want to sell. This coursework is designed to ensure you have all the knowledge necessary to advise clients responsibly.
 
 Pre-licensing courses are offered in various formats. Online programs often let you learn at your own pace, while in-person classes provide a structured schedule. It all comes down to your personal preference, but make sure you choose a Tennessee-approved provider so your completion certificate is valid when it’s time to schedule your exam. Many providers, including JustInsurance, cater specifically to Tennessee regulations and can pinpoint the key topics you must master.
 
@@ -54,7 +54,7 @@ Be prepared to provide details about your background, including any prior licens
 
 ## Maintain your license
 
-Receiving your license is a major milestone, but your work doesn’t end there. The state requires you to meet continuing education (CE) requirements to keep your license in good standing. Although the specific rules may vary, expectancy is around 24 credit hours of approved CE courses every two years, usually including a portion dedicated to ethics.
+Receiving your license is a major milestone, but your work doesn’t end there. The state requires you to meet [Tennessee continuing education](/tennessee/continuing-education) (CE) requirements to keep your license in good standing. Although the specific rules may vary, expectancy is around 24 credit hours of approved CE courses every two years, usually including a portion dedicated to ethics.
 
 To avoid any last-minute scrambles, consider setting reminders as soon as you’re licensed. Map out which courses you’ll take and ensure they’re all approved for Tennessee’s CE requirements. Consistent compliance not only helps you renew on time but also keeps your knowledge current so you can offer sound advice to your clients.
 

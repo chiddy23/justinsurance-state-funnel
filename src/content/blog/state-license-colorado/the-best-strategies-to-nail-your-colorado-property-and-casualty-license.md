@@ -23,7 +23,7 @@ You’ve taken the first step toward a new career path by setting your sights on
 
 ## Understand the exam structure
 
-Colorado requires that you complete pre-licensing education for property and casualty insurance. You’ll typically cover core topics such as insurance regulation, general insurance concepts, property insurance basics, and liability fundamentals. The exam format often includes multiple-choice questions focusing on Colorado-specific regulations as well as broader national insurance principles.
+Colorado requires that you complete [Colorado insurance prelicensing](/colorado/prelicensing) education for property and casualty insurance. You’ll typically cover core topics such as insurance regulation, general insurance concepts, property insurance basics, and liability fundamentals. The exam format often includes multiple-choice questions focusing on Colorado-specific regulations as well as broader national insurance principles.
 
 Exam content is separated into distinct sections, so it’s helpful to know what percentage of the test each topic usually takes up. This knowledge allows you to prioritize your study time on areas that carry the most weight. You’ll also face questions designed to test your ability to apply insurance concepts to hypothetical scenarios. Concepts like underwriting, risk management, and claims processes are central to the exam, so expect to see those woven through many questions.
 

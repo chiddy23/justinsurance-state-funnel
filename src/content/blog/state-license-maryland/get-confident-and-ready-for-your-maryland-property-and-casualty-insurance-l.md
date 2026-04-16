@@ -40,7 +40,7 @@ A solid study plan not only helps you absorb information but also boosts your co
 -   Set specific goals: Decide on daily or weekly objectives, such as reading one chapter per day or scoring at least 85% on practice quizzes.
 -   Use memory techniques: Summarize complex rules in your own words or create flashcards to review terms like “liability coverage” and “deductible.”
 -   Practice test simulations: Timed quizzes foster a real exam environment... by remaining calm under time constraints, you can focus on answering accurately.
--   Review state regulations carefully: Maryland laws can differ from those of other states, so pay close attention to local guidelines on policy disclosures, renewals, and claims processing.
+-   Review state regulations carefully: Maryland laws can differ from those of other states, so pay close attention to local guidelines on policy disclosures, [renewals and continuing education](/maryland/continuing-education), and claims processing.
 
 Studying incrementally and testing your understanding often will prepare you more thoroughly than cramming at the last minute. Remember that each small step builds your knowledge base.
 

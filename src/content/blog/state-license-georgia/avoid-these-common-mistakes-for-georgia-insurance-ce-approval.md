@@ -31,7 +31,7 @@ Being selective now can prevent headaches later. Approved courses will issue cer
 
 If you have not yet gotten your [Georgia insurance license](/georgia), focusing on licensing before CE is the first order of business. You will need to complete any necessary pre-licensing courses, pay exam fees, and pass state exams that test your insurance knowledge. It is wise to start planning at least a few months in advance to account for:
 
-1.  Pre-licensing education. Georgia requires a specific number of hours in pre-licensing coursework for each line of authority (such as Life, Health, or Property and Casualty).
+1.  Pre-licensing education. Georgia requires a specific number of hours in [Georgia insurance prelicensing](/georgia/prelicensing) coursework for each line of authority (such as Life, Health, or Property and Casualty).
 2.  State exam scheduling. The licensing exam can book up quickly, especially around peak times. Scheduling well ahead prevents last-minute stress.
 3.  Application and background check fees. You will have to pay a state application fee, plus any criminal history background costs. Always keep extra money in your budget for administrative charges that may arise.
 

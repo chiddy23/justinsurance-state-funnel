@@ -27,7 +27,7 @@ Because insurance covers so many areas, your training will touch on topics like 
 
 ## Complete pre-licensing courses
 
-Next comes the essential step of finishing a state-approved pre-licensing course. You’ll find both in-person and online classes, so you can pick a format that aligns with your schedule. Many providers even offer practice exams, flash cards, or extra study sessions to reinforce challenging topics. Take the time to find a course that fits your learning style, because a strong grasp of insurance concepts can make the official licensing exam less intimidating.
+Next comes the essential step of finishing a state-approved [Maryland prelicensing course](/maryland/prelicensing). You’ll find both in-person and online classes, so you can pick a format that aligns with your schedule. Many providers even offer practice exams, flash cards, or extra study sessions to reinforce challenging topics. Take the time to find a course that fits your learning style, because a strong grasp of insurance concepts can make the official licensing exam less intimidating.
 
 Below is a quick look at the typical pre-licensing hours required for major lines of authority in Maryland. These numbers are approximate, so always confirm the latest requirements before enrolling in a course:
 

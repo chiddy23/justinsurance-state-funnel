@@ -60,7 +60,7 @@ On exam day, you will take a computer-based test and usually receive your score 
 
 After passing your exam, you will submit an application and any required documentation to the TDI for final approval. You may need to get fingerprinted and complete a background check as part of this process. Once those steps are done, you will have your official license and can begin selling insurance in the state of Texas.
 
-The journey does not stop there. Building your career means finding a supportive agency or broker to partner with, continuing your education as regulations and products evolve, and nurturing relationships with clients. Maintaining your license will involve completing continuing education (CE) courses that keep you up to date on the latest industry trends.
+The journey does not stop there. Building your career means finding a supportive agency or broker to partner with, continuing your education as regulations and products evolve, and nurturing relationships with clients. Maintaining your license will involve completing [continuing education](/texas/continuing-education) (CE) courses that keep you up to date on the latest industry trends.
 
 When you are ready to turn your license into a long-term career, organizations like JustInsurance can help you connect with mentors, access advanced training, and identify potential leads. Many new agents find that having a network of experienced professionals is invaluable for learning the industry’s ins and outs.
 

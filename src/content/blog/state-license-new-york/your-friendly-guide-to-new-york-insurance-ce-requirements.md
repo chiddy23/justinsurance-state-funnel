@@ -19,13 +19,13 @@ imageCredit: Photo by Bia Limova on Pexels
 
 Understand why CE matters
 
-When you begin your journey to get an insurance license in New York, you quickly discover how vital [continuing education](/continuing-education) (CE) is for staying on top of your game. New York insurance CE requirements are in place to make sure you are always well-prepared to assist clients with evolving policies, regulations, and coverage changes. Think of CE courses as your ongoing mentorship — every session you complete will help you build better relationships with clients and offer more accurate, up-to-date guidance.
+When you begin your journey to get an insurance license in New York, you quickly discover how vital [New York continuing education](/new-york/continuing-education) (CE) is for staying on top of your game. New York insurance CE requirements are in place to make sure you are always well-prepared to assist clients with evolving policies, regulations, and coverage changes. Think of CE courses as your ongoing mentorship — every session you complete will help you build better relationships with clients and offer more accurate, up-to-date guidance.
 
 Taking continuing education seriously can also boost your confidence. After all, there is a lot to learn in a field that addresses everything from life insurance to property and casualty coverage. Each year tends to bring new compliance details and regulatory updates. By consistently meeting your CE obligations, you will maintain a smooth, valid license and deliver top-quality service.
 
 ## Complete your pre-licensing education
 
-Before diving fully into the world of CE credits, it helps to understand the path leading up to your license. New York State requires you to complete pre-licensing education for every line of insurance you plan to sell — life, health, property, or any other specific line. These courses teach you the fundamentals of ethics, state regulations, and industry-specific knowledge.
+Before diving fully into the world of CE credits, it helps to understand the path leading up to your license. New York State requires you to complete [New York prelicensing courses](/new-york/prelicensing) for every line of insurance you plan to sell — life, health, property, or any other specific line. These courses teach you the fundamentals of ethics, state regulations, and industry-specific knowledge.
 
 Make sure you pick a state-approved provider so your pre-licensing hours count. Each line of authority has its own minimum hour requirement, and choosing an engaging and supportive provider can make your study experience far more enjoyable. By building a solid foundation here, you will find it much easier to stay ahead of the curve when you start your continuing education courses down the road.
 

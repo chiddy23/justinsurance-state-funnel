@@ -30,7 +30,7 @@ Once you pass the background check, the next step is selecting the type of licen
 
 ## Complete pre-licensing education
 
-California law requires you to take a specific number of approved classroom or online study hours before you can apply to sit for the exam. This mandatory pre-licensing education is designed to give you a clear foundation in insurance terms, ethics, and regulations.
+California law requires you to take a specific number of approved classroom or online study hours before you can apply to sit for the exam. This mandatory [pre-licensing education](/california/prelicensing) is designed to give you a clear foundation in insurance terms, ethics, and regulations.
 
 Most people complete these courses in one of two ways. Some opt for live or virtual class sessions that follow a regular schedule, while others choose a self-paced online course that fits their routine. The key is to pick a state-approved education provider. As part of your decision, read reviews, compare course prices, and think about whether you want the student support that often comes with an instructor-led class.
 
@@ -55,7 +55,7 @@ Once you pass, you can formally submit your license application online. Applicat
 
 ## Maintain your license
 
-Getting your California insurance agent license is only the first step. To keep your license active, you’ll need to meet continuing education requirements every renewal cycle. The state wants to be sure that you remain current on changes in insurance law, new products, and consumer protection best practices. For many lines of authority, you’ll need to renew every two years.
+Getting your California insurance agent license is only the first step. To keep your license active, you’ll need to meet [continuing education](/california/continuing-education) requirements every renewal cycle. The state wants to be sure that you remain current on changes in insurance law, new products, and consumer protection best practices. For many lines of authority, you’ll need to renew every two years.
 
 Most continuing education courses can be taken online, which makes it easier to keep up with the renewal schedule. Additionally, keep in mind that ethics training is a recurring requirement. Planning out these courses early in your renewal period prevents a last-minute rush.
 

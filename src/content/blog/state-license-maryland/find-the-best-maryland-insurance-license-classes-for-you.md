@@ -82,7 +82,7 @@ Below are some common questions many new candidates have about Maryland insuranc
 4.  Can I retake the exam if I fail?  
     Yes. If you do not pass on your first try, you can schedule a retake. Use your score report to pinpoint any topics that need more attention. Many providers, including JustInsurance, provide additional study resources and support if you have to retake the exam.
 5.  When do I renew my license?  
-    Typically, Maryland insurance licenses must be renewed every two years. The exact renewal requirements can vary, but expect to complete continuing education (CE) courses to stay up to date with industry changes. When you keep your license active, you maintain your ability to sell insurance and keep your professional status in good standing.
+    Typically, Maryland insurance licenses must be renewed every two years. The exact renewal requirements can vary, but expect to complete [Maryland continuing education](/maryland/continuing-education) (CE) courses to stay up to date with industry changes. When you keep your license active, you maintain your ability to sell insurance and keep your professional status in good standing.
 
 ## Take your next step
 

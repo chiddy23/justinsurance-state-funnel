@@ -58,7 +58,7 @@ The [Ohio licensing exam](/ohio/requirements) is typically administered at appro
 
 Once you are in the testing room, you will have a set amount of time to complete all questions. Passing scores usually require correct answers on around 70 percent of the exam. If that number seems high, just remember that your thorough preparation—especially the practice tests you have taken—provides the calm and confidence to tackle each question. If you do not pass on your first attempt, you can retake the exam, but you will pay additional fees, so it is much more efficient to go in prepared.
 
-You also have some administrative tasks to handle after you pass, like completing a background check and submitting your license application. That is where your organization skills pay off. If you keep track of key documents and deadlines, you can move onto the next step of your career without unnecessary hang-ups.
+You also have some administrative tasks to handle after you pass, like completing a background check and submitting your license application. After licensing, our [Ohio continuing education](/ohio/continuing-education) courses keep your credential active through each renewal cycle. That is where your organization skills pay off. If you keep track of key documents and deadlines, you can move onto the next step of your career without unnecessary hang-ups.
 
 ## Key takeaways and next steps
 

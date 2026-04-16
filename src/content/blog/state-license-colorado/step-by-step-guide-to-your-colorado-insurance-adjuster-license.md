@@ -36,7 +36,7 @@ For many people, the background check is a routine process. However, if you have
 
 ## Complete pre-licensing education
 
-Once you confirm your eligibility, it’s time to enroll in a state-approved pre-licensing program. This training gives you a solid foundation in Colorado laws, ethics, and insurance principles—especially as they apply to the adjuster role. Depending on the type of lines you wish to adjust (property, casualty, or both), your required coursework can vary.
+Once you confirm your eligibility, it’s time to enroll in a state-approved [Colorado insurance prelicensing](/colorado/prelicensing) program. This training gives you a solid foundation in Colorado laws, ethics, and insurance principles—especially as they apply to the adjuster role. Depending on the type of lines you wish to adjust (property, casualty, or both), your required coursework can vary.
 
 Pre-licensing courses can cover:
 
@@ -63,7 +63,7 @@ Remember to keep your contact information updated with the Department of Insuran
 
 ## Maintain and renew your license
 
-Like most professional credentials, your license comes with renewal requirements and continuing education (CE). Colorado will require you to complete a certain number of CE hours within each renewal period. This ensures your knowledge remains current, especially as insurance regulations and best practices evolve.
+Like most professional credentials, your license comes with renewal requirements and continuing education (CE). Colorado will require you to complete a certain number of [Colorado continuing education](/colorado/continuing-education) hours within each renewal period. This ensures your knowledge remains current, especially as insurance regulations and best practices evolve.
 
 When choosing CE courses, look for subjects that help you grow professionally. For example, you might select advanced claims investigation or negotiation tactics to sharpen your expertise. Maintaining an active license also ensures you’re not limited in the types of claims you can handle or the clients you can serve. Think of renewing your license as an opportunity to refine your skill set rather than just another obligation.
 

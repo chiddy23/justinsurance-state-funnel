@@ -92,4 +92,4 @@ Many providers offer bundles that include books, online resources, and exam prep
 
 ### Study schedule
 
-Depending on your other commitments, you might finish your required coursework in less than a week, or you may stretch it out over a month. However, rushing through materials can leave you with gaps in knowledge. Aim for a balanced pace: plan a set number of study hours every day or week, and stick to it. This approach may save you time in the long run, because you’re less likely to retake the exam if you’re fully prepared.
+Depending on your other commitments, you might finish your required coursework in less than a week, or you may stretch it out over a month. However, rushing through materials can leave you with gaps in knowledge. Aim for a balanced pace: plan a set number of study hours every day or week, and stick to it. This approach may save you time in the long run, because you’re less likely to retake the exam if you’re fully prepared. Once licensed, you'll maintain your credential with ongoing [California continuing education](/california/continuing-education).

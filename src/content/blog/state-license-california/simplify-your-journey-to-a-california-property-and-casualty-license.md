@@ -27,7 +27,7 @@ Most people find it useful to gather necessary documents ahead of time. This can
 
 ## Complete pre-licensing education
 
-Once you confirm you’re eligible, your next milestone is to complete approved pre-licensing hours. California requires a set number of study hours for each line of insurance. For a property and casualty license, you’ll need to take specific courses that cover state regulations, industry terminology, and policy structures.
+Once you confirm you’re eligible, your next milestone is to complete approved [pre-licensing hours](/california/prelicensing). California requires a set number of study hours for each line of insurance. For a property and casualty license, you’ll need to take specific courses that cover state regulations, industry terminology, and policy structures.
 
 Plan your schedule in a way that fits your personal learning style. Some people prefer enrolling in an in-person class, while others succeed with online study modules that you can tackle anytime. Whichever route you choose, give yourself enough time to review materials thoroughly. You want to build a solid foundation in property and casualty coverage before attempting the official exam.
 
@@ -58,7 +58,7 @@ As soon as you’ve passed your exam and submitted your background check, you ca
 
 ## Maintain your momentum
 
-You’ll soon be ready to serve clients with a valid California property and casualty license in hand. However, your commitment to learning doesn’t end on exam day. In most cases, renewals are required every two years, and continuing education (CE) courses are necessary to keep you up to date with regulatory changes and industry trends.
+You’ll soon be ready to serve clients with a valid California property and casualty license in hand. However, your commitment to learning doesn’t end on exam day. In most cases, renewals are required every two years, and [continuing education](/california/continuing-education) (CE) courses are necessary to keep you up to date with regulatory changes and industry trends.
 
 Staying on top of these requirements shows clients you’re dedicated to maintaining high standards and competitive knowledge. If you want to expand your business or offer additional lines of insurance, you can explore further license endorsements or even pursue more advanced designations. By keeping your momentum going, you’ll set yourself apart as a trusted insurance professional.
 

@@ -34,7 +34,7 @@ Once you’re satisfied that you meet the typical criteria, gather any proof of 
 
 ## Complete pre-licensing education
 
-Here’s where you really start digging into the insurance industry. Ohio requires you to take approved pre-licensing courses that cover the key topics and practices specific to the license line you want. These classes provide the knowledge base you’ll draw on throughout your career—from understanding policy language to explaining coverage details to future clients.
+Here’s where you really start digging into the insurance industry. Ohio requires you to take approved [Ohio prelicensing](/ohio/prelicensing) courses that cover the key topics and practices specific to the license line you want. These classes provide the knowledge base you’ll draw on throughout your career—from understanding policy language to explaining coverage details to future clients.
 
 If you register for in-person or online options, look for courses that encourage frequent Q&A sessions, practice exams, and engaging lessons. Interactive classes not only keep you motivated, but they also help you retain more information. You can expect to spend anywhere from 20 to 40 hours (or more) studying. Keep your notes handy for easy review when exam time approaches.
 

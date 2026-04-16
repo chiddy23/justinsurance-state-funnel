@@ -65,7 +65,7 @@ Below is a quick snapshot of how you might structure your prep:
 
 After you pass your exam and receive your North Carolina adjuster license, you're officially ready to handle claims and explore new job openings. Many beginners start at independent adjusting firms or insurance agencies for hands-on training. From there, you can specialize in areas like property, casualty, or crop insurance, depending on your interests.
 
-Continuing education is also an ongoing part of your career. North Carolina, like most states, requires you to stay updated through periodic coursework so your license remains active. This not only keeps you in good standing but ensures your knowledge remains fresh and relevant. By keeping a pulse on regulatory changes and staying involved with industry groups, you'll continue growing your expertise over time.
+Continuing education is also an ongoing part of your career. North Carolina, like most states, requires you to stay updated through periodic [North Carolina continuing education](/north-carolina/continuing-education) coursework so your license remains active. This not only keeps you in good standing but ensures your knowledge remains fresh and relevant. By keeping a pulse on regulatory changes and staying involved with industry groups, you'll continue growing your expertise over time.
 
 ## Your next step
 

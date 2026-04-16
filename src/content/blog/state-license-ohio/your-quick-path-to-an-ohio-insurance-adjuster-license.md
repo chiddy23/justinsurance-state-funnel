@@ -100,7 +100,7 @@ Double-check all the forms for accuracy before you finalize them. Mistakes in yo
 
 ## Maintain and renew your license
 
-Your Ohio insurance adjuster license remains valid for a specific time frame, after which you’ll need to renew. Renewals often involve completing continuing education (CE) requirements. These classes help you stay up to date on new regulations, technology, and best practices, so you’re always equipped to provide accurate guidance to policyholders.
+Your Ohio insurance adjuster license remains valid for a specific time frame, after which you’ll need to renew. Renewals often involve completing [Ohio continuing education](/ohio/continuing-education) (CE) requirements. These classes help you stay up to date on new regulations, technology, and best practices, so you’re always equipped to provide accurate guidance to policyholders.
 
 Be sure to track your CE credits and keep copies of your certificates. When it’s time to renew, you’ll submit your proof of continuing education, the renewal form, and any associated fees. Missing the renewal deadline can result in penalties or even license expiration, so mark your calendar or set an alert on your phone to stay current.
 

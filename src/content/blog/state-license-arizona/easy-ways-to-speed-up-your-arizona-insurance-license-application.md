@@ -28,7 +28,7 @@ If you are relocating from another state, you can often transfer part of your kn
 
 ## Complete pre-licensing education
 
-Once you confirm your exam requirements, the next logical move is to enroll in an approved pre-licensing course. Quality coursework goes beyond memorizing vocabulary, giving you a deeper look into Arizona’s unique regulations. More importantly, these classes help you feel prepared for the state exam without needing endless retakes.
+Once you confirm your exam requirements, the next logical move is to enroll in an approved [Arizona insurance prelicensing](/arizona/prelicensing) course. Quality coursework goes beyond memorizing vocabulary, giving you a deeper look into Arizona’s unique regulations. More importantly, these classes help you feel prepared for the state exam without needing endless retakes.
 
 While you can choose from in-person or online programs, figure out what best fits your learning style. Many find that flexible online options let them set a pace that keeps momentum without overwhelming their schedule. This also helps you finish the mandated hours quickly, so you can sign up for your exam sooner.
 

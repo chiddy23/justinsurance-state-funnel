@@ -27,7 +27,7 @@ If any part of the process feels overwhelming, remember that it’s normal to ha
 
 ## Complete your continuing education
 
-A major part of the renewal process is completing the required CE hours. In Washington, most licensees need 24 hours of CE coursework every two years, which must include at least 3 hours of ethics training. If you hold several lines of authority, such as both Life & Disability and Property & Casualty, you’ll generally still only need a total of 24 hours. Be sure to confirm your specific obligations with the OIC to avoid any surprises.
+A major part of the renewal process is completing the required [Washington continuing education](/washington/continuing-education) hours. In Washington, most licensees need 24 hours of CE coursework every two years, which must include at least 3 hours of ethics training. If you hold several lines of authority, such as both Life & Disability and Property & Casualty, you’ll generally still only need a total of 24 hours. Be sure to confirm your specific obligations with the OIC to avoid any surprises.
 
 Below is a sample breakdown of typical CE hour requirements. Always double-check current regulations to make sure you meet the most up-to-date standards.
 
@@ -78,7 +78,7 @@ In a nutshell, you have options. You can pursue formal CE courses through local 
 Below are some of the most common questions asked by individuals renewing a Washington insurance license. Reviewing these can help you avoid typical glitches and get your renewal in on time.
 
 1.  What happens if I miss my renewal deadline?  
-    If you don’t renew by the due date, you can be charged late fees and potentially lose your license. You might also need to reapply and meet extra requirements before you can legally conduct insurance business in Washington.
+    If you don’t renew by the due date, you can be charged late fees and potentially lose your license. You might also need to reapply, repeat [Washington prelicensing](/washington/prelicensing), and meet extra requirements before you can legally conduct insurance business in Washington.
 2.  How many continuing education hours do I need?  
     Most licensees in Washington need 24 CE hours every two years, including 3 hours of ethics. Be sure to confirm your specific requirements with the OIC because rules can differ slightly based on your line of authority.
 3.  Do I have to retake the licensing exam for renewal?  

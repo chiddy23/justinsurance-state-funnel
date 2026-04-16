@@ -20,7 +20,7 @@ imageCredit: Photo by Luis Sevilla on Pexels
 
 Know the licensing basics
 
-Getting your [Colorado health insurance license](/colorado) is an exciting step toward a fresh career in the insurance field. Before you dive in, it helps to understand the core requirements. You will typically need to complete a certain number of pre-licensing hours, which cover vital topics such as insurance ethics, policy types, and state regulations. Make sure you verify how many hours are required for your Colorado license, since health insurance lines sometimes have unique prerequisites compared to other lines like life or property and casualty.
+Getting your [Colorado health insurance license](/colorado) is an exciting step toward a fresh career in the insurance field. Before you dive in, it helps to understand the core requirements. You will typically need to complete a certain number of [Colorado insurance prelicensing](/colorado/prelicensing) hours, which cover vital topics such as insurance ethics, policy types, and state regulations. Make sure you verify how many hours are required for your Colorado license, since health insurance lines sometimes have unique prerequisites compared to other lines like life or property and casualty.
 
 Take your time to absorb each topic and focus on areas that directly impact consumer protection and industry best practices. By thoroughly guiding yourself through the coursework, you will build a solid foundation that makes the rest of the process less stressful.
 
@@ -51,7 +51,7 @@ Staying on top of these matters makes test day much smoother, letting you focus 
 
 ## Complete your continuing education
 
-Earning your Colorado health insurance license marks the beginning, not the end, of your learning journey. Many newcomers to the industry overlook how vital continuing education (CE) is to their long-term success. Colorado requires licensed professionals to renew and maintain their licenses by taking CE courses at defined intervals. Missing these renewal requirements means risking fines, penalties, or even losing your license.
+Earning your Colorado health insurance license marks the beginning, not the end, of your learning journey. Many newcomers to the industry overlook how vital continuing education (CE) is to their long-term success. Colorado requires licensed professionals to renew and maintain their licenses by taking [Colorado continuing education](/colorado/continuing-education) courses at defined intervals. Missing these renewal requirements means risking fines, penalties, or even losing your license.
 
 Plan early by keeping a calendar of your CE deadlines. Be proactive in finding CE options that genuinely enrich your knowledge, rather than leaving them for the last minute. By consistently expanding your professional skill set, you provide better service to your clients and stay on top of changing state regulations.
 

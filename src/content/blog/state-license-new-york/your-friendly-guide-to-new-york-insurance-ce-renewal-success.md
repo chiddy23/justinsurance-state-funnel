@@ -15,7 +15,7 @@ imageAlt: Three professionals discussing a data presentation in an office settin
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-Are you ready to tackle your New York insurance CE renewal with confidence? Whether you’ve been in the insurance field for years or you’re relatively new, staying on top of your [continuing education](/continuing-education) can feel overwhelming at first. Fortunately, a friendly approach and a clear roadmap can transform the experience from stressful to empowering. Below, you’ll find practical steps that show you exactly how to meet New York’s CE requirements and advance your professional goals.
+Are you ready to tackle your New York insurance CE renewal with confidence? Whether you’ve been in the insurance field for years or you’re relatively new, staying on top of your [New York continuing education](/new-york/continuing-education) can feel overwhelming at first. Fortunately, a friendly approach and a clear roadmap can transform the experience from stressful to empowering. Below, you’ll find practical steps that show you exactly how to meet New York’s CE requirements and advance your professional goals.
 
 ## Understand your renewal basics
 

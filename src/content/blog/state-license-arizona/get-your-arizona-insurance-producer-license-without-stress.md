@@ -34,7 +34,7 @@ Double-check that your ID is valid and up to date, and be sure you know what for
 
 ## Complete your pre-licensing coursework
 
-The state of Arizona requires pre-licensing education before you can register for the official exam. These courses are specifically designed to help you grasp insurance fundamentals and the regulations that apply to your chosen line of authority. You can opt for in-person classes or choose from a variety of online programs if you prefer a flexible schedule.
+The state of Arizona requires [Arizona insurance prelicensing](/arizona/prelicensing) education before you can register for the official exam. These courses are specifically designed to help you grasp insurance fundamentals and the regulations that apply to your chosen line of authority. You can opt for in-person classes or choose from a variety of online programs if you prefer a flexible schedule.
 
 As you progress through the material, pay close attention to both national insurance principles and Arizona-specific laws. Keep detailed notes, ask your instructors for clarifications whenever something is unclear, and commit the key concepts to memory. This is your foundation, so a solid grasp of the coursework will make the exam much easier.
 

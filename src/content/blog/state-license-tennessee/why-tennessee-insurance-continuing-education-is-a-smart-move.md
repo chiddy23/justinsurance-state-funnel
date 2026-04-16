@@ -67,6 +67,6 @@ Below are five questions many people have when planning their Tennessee insuranc
 
 ## Take the next step
 
-By investing time in Tennessee insurance continuing education, you’re not just meeting a requirement, you’re delivering better service, staying legally compliant, and positioning yourself for bigger professional wins. If you’re looking to start or advance your insurance career, a trusted partner like JustInsurance can help pair you with reputable CE courses tailored to your needs.
+By investing time in Tennessee insurance continuing education, you’re not just meeting a requirement, you’re delivering better service, staying legally compliant, and positioning yourself for bigger professional wins. If you’re looking to start or advance your insurance career, a trusted partner like JustInsurance can help pair you with [Tennessee prelicensing](/tennessee/prelicensing) and reputable CE courses tailored to your needs.
 
 Plan your next CE session now and secure your professional growth on your terms. You’ll gain fresh skills that keep you in high demand and ensure you’re always ready to offer sound advice to clients. Start focusing on your next CE requirement today, and watch how it energizes your entire approach to insurance. After all, a confident, knowledgeable agent stands out in any market.

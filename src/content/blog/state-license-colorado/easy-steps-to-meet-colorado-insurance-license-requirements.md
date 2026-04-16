@@ -59,7 +59,7 @@ Understanding the distinction between these lines helps you choose one, or more 
 
 ## Complete your pre-licensing education
 
-Pre-licensing education is mandatory for earning your Colorado insurance license. This training covers everything from fundamentals of life and health insurance to the specific policies and regulations for property and casualty lines. Courses typically range between 50 to 100 hours, depending on whether you are pursuing one or multiple lines.
+[Colorado insurance prelicensing](/colorado/prelicensing) education is mandatory for earning your Colorado insurance license. This training covers everything from fundamentals of life and health insurance to the specific policies and regulations for property and casualty lines. Courses typically range between 50 to 100 hours, depending on whether you are pursuing one or multiple lines.
 
 During your coursework, focus closely on topics related to Colorado regulations. You will also learn key ethical standards and consumer-protection measures. Remember to keep track of your completion records, because you might need them when scheduling your exam or applying for your license.
 

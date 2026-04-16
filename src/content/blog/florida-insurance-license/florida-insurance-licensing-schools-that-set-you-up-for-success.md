@@ -31,7 +31,7 @@ A license proves you are prepared to guide everyday people through important dec
 
 ## Choose the right pre-licensing program
 
-After you confirm which type of license you want, the next step is to explore Florida insurance licensing schools. These are typically online or in-person programs dedicated to helping you master the curriculum in a way that suits your schedule. Some schools let you work at your own pace, while others offer live instruction via real-time webinars. You might also find weekend workshops if you prefer an in-person experience.
+After you confirm which type of license you want, the next step is to explore [Florida insurance licensing schools](/florida/prelicensing). These are typically online or in-person programs dedicated to helping you master the curriculum in a way that suits your schedule. Some schools let you work at your own pace, while others offer live instruction via real-time webinars. You might also find weekend workshops if you prefer an in-person experience.
 
 With so many options, how do you decide? Begin by checking the Florida Department of Financial Services (DFS) website for a list of approved providers. Read reviews from current or former students to see how well each school supports their learners. If you have a unique schedule, look for courses that offer flexible access. The goal is to find a learning method that resonates with you so you feel confident by the time you finish.
 
@@ -77,7 +77,7 @@ JustInsurance, among other organizations, can also provide helpful job boards an
 
 ### Encourage ongoing learning
 
-The journey does not end when you start working. Insurance is a changing field, so your clients will rely on you to stay on top of emerging trends and new regulations. Many successful agents nurture their careers by signing up for continuing education courses, professional workshops, and industry conferences. By remaining engaged with current best practices, you keep your license active, deliver top-notch service, and chart a clear path for growth.
+The journey does not end when you start working. Insurance is a changing field, so your clients will rely on you to stay on top of emerging trends and new regulations. Many successful agents nurture their careers by signing up for [continuing education courses](/florida/continuing-education), professional workshops, and industry conferences. By remaining engaged with current best practices, you keep your license active, deliver top-notch service, and chart a clear path for growth.
 
 ## Final thoughts and next steps
 

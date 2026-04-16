@@ -23,7 +23,7 @@ Getting your [Florida insurance license](/florida) can feel like a big step, but
 
 Before diving into the different costs, let’s clarify what Florida insurance licenses are and why they matter to you. In Florida, you usually choose from various license types, such as the 2-15 (Life, Health, and Annuities) or the 2-20 (General Lines), depending on the kind of insurance products you plan to sell. Each license has a few unique requirements, but their cost structures are fairly similar.
 
-You’ll go through pre-licensing courses, fingerprinting, the state exam, application paperwork, and sometimes additional expenses like study materials or any optional workshops. Once you have a handle on these costs, you can develop a timeline that fits your personal and financial schedule.
+You’ll go through [Florida pre-licensing courses](/florida/prelicensing), fingerprinting, the state exam, application paperwork, and sometimes additional expenses like study materials or any optional workshops. Once you have a handle on these costs, you can develop a timeline that fits your personal and financial schedule.
 
 ## Meet Florida’s licensing requirements
 
@@ -92,7 +92,7 @@ When you add up each line, the grand total might land around $300 to $500 or mor
 
 ## Plan for future fees
 
-Obtaining your Florida insurance license is only the beginning. Throughout your career, you’ll need to maintain your license by completing continuing education (CE) credits. The state’s CE requirements can vary, but most licenses must be renewed every two years with proof of your coursework. CE courses often come with fees to cover instruction and any materials, so be sure to budget for this recurring cost.
+Obtaining your Florida insurance license is only the beginning. Throughout your career, you’ll need to maintain your license by completing [Florida continuing education](/florida/continuing-education) (CE) credits. The state’s CE requirements can vary, but most licenses must be renewed every two years with proof of your coursework. CE courses often come with fees to cover instruction and any materials, so be sure to budget for this recurring cost.
 
 Another cost you might encounter is Errors & Omissions (E&O) insurance, especially if you open an independent agency or transition into a role that requires personal liability coverage. E&O insurance premiums can range widely, so it’s always good to review your options and speak with a trusted insurance provider or consult your employer for group rate discounts.
 

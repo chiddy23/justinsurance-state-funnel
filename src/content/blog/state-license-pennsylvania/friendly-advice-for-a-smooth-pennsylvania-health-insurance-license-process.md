@@ -30,7 +30,7 @@ Beyond these core requirements, you should anticipate a few administrative tasks
 
 ## Complete pre-licensing education
 
-Pennsylvania requires specific training hours before you can take the health insurance licensing exam. This training ensures you know the fundamentals of state regulations, policy types, and ethical considerations. Pre-licensing courses are available online and in person, so picking the best option depends on your learning style. You might find virtual classes more flexible, while in-person classes can offer hands-on discussions.
+Pennsylvania requires specific [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) hours before you can take the health insurance licensing exam. This training ensures you know the fundamentals of state regulations, policy types, and ethical considerations. Pre-licensing courses are available online and in person, so picking the best option depends on your learning style. You might find virtual classes more flexible, while in-person classes can offer hands-on discussions.
 
 Take the time to choose a solid provider with a clear curriculum that targets essential topics. Most courses blend lectures with practice questions to help you retain information. You’ll explore topics like health insurance laws, policy provisions, disability income coverage, and more. By completing your coursework thoroughly, you’ll build a strong foundation and feel more comfortable tackling exam questions later.
 
@@ -55,7 +55,7 @@ Double-check that you’ve attached every required document to avoid delays. Som
 
 ## Maintain your new license
 
-Once you’ve secured your license, remember that it doesn’t last forever. In Pennsylvania, you’ll need to renew it periodically, which typically involves continuing education (CE) requirements. These additional courses benefit you and your clients by keeping you informed about new laws and evolving industry trends. CE hours might focus on ethical practices, healthcare reform updates, or more advanced topics relevant to your line of authority.
+Once you’ve secured your license, remember that it doesn’t last forever. In Pennsylvania, you’ll need to renew it periodically, which typically involves [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) requirements. These additional courses benefit you and your clients by keeping you informed about new laws and evolving industry trends. CE hours might focus on ethical practices, healthcare reform updates, or more advanced topics relevant to your line of authority.
 
 Be sure to track your renewal dates and fulfill your CE units well before the deadline. Many agents set reminders a few months in advance. By staying proactive, you’ll avoid rush fees or potential lapses in your licensure status. This ensures you can keep working with clients without interruption and continue to grow your professional reputation.
 

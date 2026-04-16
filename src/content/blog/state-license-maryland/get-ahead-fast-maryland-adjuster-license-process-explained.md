@@ -30,7 +30,7 @@ Adjusting also offers high flexibility and an opportunity to specialize in speci
 
 Before diving into coursework or exams, you need to confirm that you meet Maryland’s basic licensing requirements. Generally, you need to be at least 18 years old, a resident of Maryland (or a resident from another state whose laws are similar to Maryland’s), and able to pass a background check. Fingerprinting is usually required so that the state can review your criminal history record.
 
-Your pre-licensing education is the next big step. Depending on the line of authority you choose, Maryland may require a set number of classroom or self-study hours. Make sure you understand which courses align with your goal, whether it is property, casualty, life, health, or a combination. Completion of these foundational lessons ensures you have the knowledge to pass the state exam and perform effectively on the job.
+Your pre-licensing education is the next big step. Depending on the line of authority you choose, [Maryland prelicensing courses](/maryland/prelicensing) may require a set number of classroom or self-study hours. Make sure you understand which courses align with your goal, whether it is property, casualty, life, health, or a combination. Completion of these foundational lessons ensures you have the knowledge to pass the state exam and perform effectively on the job.
 
 ## Navigate the exam steps
 
@@ -91,7 +91,7 @@ Below are answers to five common questions that often arise during the Maryland 
 3.  Is there a limit to how many times I can retake the exam if I fail?  
     Maryland does not typically impose a strict limit on exam retakes. However, you must pay the exam fee each time. Review missed questions, focus on weak spots, and retake the exam once you feel fully prepared.
 4.  Will I need continuing education (CE) after obtaining the license?  
-    Generally, Maryland requires adjusters to meet ongoing CE requirements to maintain active licensure. These classes keep you informed about regulatory updates and new policies. Noncompliance can lead to license suspension, so stay on top of your renewal dates.
+    Generally, Maryland requires adjusters to meet ongoing [Maryland continuing education](/maryland/continuing-education) requirements to maintain active licensure. These classes keep you informed about regulatory updates and new policies. Noncompliance can lead to license suspension, so stay on top of your renewal dates.
 5.  Can I apply for a reciprocal license if I move or work across state lines?  
     Many states have reciprocal agreements with Maryland, considering that you hold an active, valid license in good standing. You can often apply for a license in the new state without repeating the entire pre-licensing process. Always verify specific rules for each state.
 

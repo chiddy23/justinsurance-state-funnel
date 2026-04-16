@@ -33,7 +33,7 @@ If you meet the age requirement and don’t have significant legal barriers, you
 
 ## Finish pre-licensing education
 
-Virginia requires a specific number of pre-licensing study hours to ensure you have a sound understanding of life insurance products and state regulations. These courses often blend textbooks, practice quizzes, and interactive lessons. You’ll learn the basics of policy types, premiums, underwriting, and ethical conduct, all of which you’ll need to know cold by exam day.
+Virginia requires a specific number of [Virginia prelicensing](/virginia/prelicensing) study hours to ensure you have a sound understanding of life insurance products and state regulations. These courses often blend textbooks, practice quizzes, and interactive lessons. You’ll learn the basics of policy types, premiums, underwriting, and ethical conduct, all of which you’ll need to know cold by exam day.
 
 When selecting a course, look for user-friendly content that caters to your schedule. Some people prefer live classroom settings, while others thrive with flexible online platforms. If you need guidance, JustInsurance can point you to reputable pre-licensing options that fit a variety of budgets and lifestyles. The key is to find a study plan that supports steady progress, so you keep learning new information while reinforcing what you’ve already covered.
 
@@ -72,7 +72,7 @@ One of the nicest perks of licensure is that you can start helping Virginia resi
 
 ## Stay mindful of continuing education
 
-Earning your license is an important milestone, but it’s not a one-and-done process. Virginia requires ongoing continuing education (CE) to keep your license active. These CE courses ensure that you stay updated on new regulations, industry shifts, and evolving customer needs. You’ll find a variety of flexible programs—both online and in-person—to satisfy these requirements every renewal cycle.
+Earning your license is an important milestone, but it’s not a one-and-done process. Virginia requires ongoing [continuing education](/virginia/continuing-education) (CE) to keep your license active. These CE courses ensure that you stay updated on new regulations, industry shifts, and evolving customer needs. You’ll find a variety of flexible programs—both online and in-person—to satisfy these requirements every renewal cycle.
 
 Looking ahead at your new career, it’s helpful to map out when you’ll complete CE credits. That way, you won’t scramble to fulfill the requirement just before your license expires. Think of continuing education not as a chore, but as a chance to broaden your expertise and better serve your clients. You might discover specialty areas within life insurance that pique your interest, such as final expense plans or college fund policies.
 

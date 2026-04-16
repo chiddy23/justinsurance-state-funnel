@@ -29,7 +29,7 @@ Think about whether a combined license makes sense. Some professionals choose to
 
 ## Finish pre-licensing education
 
-Illinois requires you to complete a set number of pre-licensing hours before you can sit for the exam. Usually, you’ll need 20 hours per major line of authority, such as life or health. That time is split between classroom instruction and self-study, though you can also choose an online-only course if you prefer to learn at your own pace.
+Illinois requires you to complete a set number of [Illinois insurance prelicensing](/illinois/prelicensing) hours before you can sit for the exam. Usually, you’ll need 20 hours per major line of authority, such as life or health. That time is split between classroom instruction and self-study, though you can also choose an online-only course if you prefer to learn at your own pace.
 
 When selecting a pre-licensing provider, double-check that they’re approved by the Illinois Department of Insurance. Reputable programs often provide practice quizzes, structured lessons, and direct instructor access for questions. This structured approach ensures you have a solid understanding of all essential topics, including policy details, state regulations, and ethical standards.
 
@@ -58,7 +58,7 @@ After you submit, you’ll typically wait a few days to a couple of weeks for th
 
 ## Keep moving forward
 
-Congratulations, you’ve completed the main steps of the Illinois insurance licensing process. It’s an exciting milestone that sets you up for a career full of growth opportunities. Remember to keep your license active by meeting any continuing education (CE) requirements and staying up to date with state regulations.
+Congratulations, you’ve completed the main steps of the Illinois insurance licensing process. It’s an exciting milestone that sets you up for a career full of growth opportunities. Remember to keep your license active by meeting any [Illinois continuing education](/illinois/continuing-education) (CE) requirements and staying up to date with state regulations.
 
 If you’re looking for ongoing guidance or have questions that come up after licensure, JustInsurance can be a reliable resource. Their experts are familiar with the ins and outs of insurance licensing in Illinois, and they’re ready to support you as you settle into your new role. Whether you need mentorship, product training, or simply a community of fellow professionals, reaching out can keep you motivated and informed.
 

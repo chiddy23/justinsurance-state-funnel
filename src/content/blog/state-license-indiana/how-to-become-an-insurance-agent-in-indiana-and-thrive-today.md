@@ -33,7 +33,7 @@ Spend some extra time with your course materials and consider supplementary reso
 
 ## Register and pass your exam
 
-Once you finish your pre-licensing courses, the next step is to schedule your state licensing exam. You will find a list of approved testing providers on the IDOI website. On exam day, bring your identification and arrive early to give yourself time to relax and focus before your test begins.
+Once you finish your [Indiana prelicensing courses](/indiana/prelicensing), the next step is to schedule your state licensing exam. You will find a list of approved testing providers on the IDOI website. On exam day, bring your identification and arrive early to give yourself time to relax and focus before your test begins.
 
 The exam is typically multiple-choice and centered on real-world scenarios. It covers:
 

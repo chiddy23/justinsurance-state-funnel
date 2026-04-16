@@ -38,7 +38,7 @@ These eligibility factors help protect consumers by screening candidates for sui
 
 ## Complete your pre-licensing
 
-If you meet the basic requirements, your next step is to enroll in and finish a state-approved pre-licensing course. Pre-licensing is not just a formality, but rather a deep dive into insurance laws, policy structures, and ethical guidelines. You will study crucial topics, including how premiums are calculated, what types of life insurance exist, and the responsibilities you will have once you become a licensed agent.
+If you meet the basic requirements, your next step is to enroll in and finish a state-approved [Florida pre-licensing course](/florida/prelicensing). Pre-licensing is not just a formality, but rather a deep dive into insurance laws, policy structures, and ethical guidelines. You will study crucial topics, including how premiums are calculated, what types of life insurance exist, and the responsibilities you will have once you become a licensed agent.
 
 Pre-licensing courses are available online or in person. Online study lets you learn at your own pace, which is convenient if you are working or juggling other commitments. Many programs offer practice exams, reading materials, and student support. Most importantly, you will earn a certificate of completion when you finish the required hours. This certificate is your golden ticket to register for the state exam, so be sure to store it in a safe place.
 
@@ -60,7 +60,7 @@ This is also a good time to explore your options for agency affiliations or part
 
 ## Keep your license current
 
-You have worked hard to earn your Florida life insurance license, so maintaining it should be an ongoing priority. Florida, like many states, requires continuing education (CE) to ensure you stay updated on changes to insurance laws, product updates, and ethical guidelines. You will typically need to complete a specified number of CE credits every two years, although exact requirements may vary based on specialized license categories.
+You have worked hard to earn your Florida life insurance license, so maintaining it should be an ongoing priority. Florida, like many states, requires [continuing education](/florida/continuing-education) (CE) to ensure you stay updated on changes to insurance laws, product updates, and ethical guidelines. You will typically need to complete a specified number of CE credits every two years, although exact requirements may vary based on specialized license categories.
 
 Setting calendar reminders for CE deadlines is a simple yet effective way to avoid accidental lapses. Choosing topics that spark your interest can also help you stay motivated and engaged. Beyond fulfilling the state mandate, continuing education can strengthen your credibility and deepen your expertise. Clients will sense your commitment to professional excellence, and that can lead to more referrals and satisfied policyholders.
 

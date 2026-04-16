@@ -29,7 +29,7 @@ Making time to renew before it expires gives you a sense of security. You will n
 
 ## Know your CE requirements
 
-In Colorado, you are required to complete continuing education (CE) hours to remain up to date on relevant industry regulations and best practices. Generally speaking, producers must accumulate 24 hours of CE every two years, with at least 3 of those hours dedicated to ethics. The exact details can vary depending on your specific license lines, but many core requirements overlap.
+In Colorado, you are required to complete [Colorado continuing education](/colorado/continuing-education) (CE) hours to remain up to date on relevant industry regulations and best practices. Generally speaking, producers must accumulate 24 hours of CE every two years, with at least 3 of those hours dedicated to ethics. The exact details can vary depending on your specific license lines, but many core requirements overlap.
 
 Below is a simple overview:
 

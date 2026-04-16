@@ -48,7 +48,7 @@ Effective [Arizona insurance license](/arizona) exam prep goes beyond memorizing
 3.  Keep an eye on the clock. If you get stuck on a tough question, mark it for review (if the exam system allows) and move on. You can return to it later.
 4.  Pay attention to state-specific rules. Arizona’s licensing laws and continuing education requirements can differ from other states, so double-check those details in your study material rather than relying on general insurance knowledge alone.
 
-You might also consider taking a prep course. Some learners do well studying on their own, while others benefit from a structured, instructor-led environment. Providers like JustInsurance have courses tailored to Arizona’s requirements, offering updated practice exams and easy-to-read materials so you never feel lost.
+You might also consider taking a prep course. Some learners do well studying on their own, while others benefit from a structured, instructor-led environment. Providers like JustInsurance have [Arizona insurance prelicensing](/arizona/prelicensing) courses tailored to Arizona’s requirements, offering updated practice exams and easy-to-read materials so you never feel lost.
 
 ## Try sample practice questions
 
@@ -85,7 +85,7 @@ Below are five of the most common questions about the Arizona insurance license 
 4.  What if I fail on my first try?  
     You can retake the exam, although you will need to pay the registration fee again. Use your score report to pinpoint weak topics and revise your study plan before scheduling a retake.
 5.  How long is my license valid, and how do I renew?  
-    Arizona insurance licenses typically remain active for up to four years, and you’ll need to complete any state-mandated continuing education requirements before you can renew.
+    Arizona insurance licenses typically remain active for up to four years, and you’ll need to complete any state-mandated [Arizona continuing education](/arizona/continuing-education) requirements before you can renew.
 
 ## Start your insurance career
 

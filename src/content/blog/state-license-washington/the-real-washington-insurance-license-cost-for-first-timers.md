@@ -28,7 +28,7 @@ Keep in mind that fees can vary between providers and change over time. What you
 
 ## Plan your pre-licensing courses
 
-Before you can sit for your exam, you will likely need to complete a state-approved pre-licensing course. These courses are designed to give you a solid foundation in insurance concepts and regulations, and are often the gateway to feeling confident when test day arrives.
+Before you can sit for your exam, you will likely need to complete a state-approved [Washington prelicensing course](/washington/prelicensing). These courses are designed to give you a solid foundation in insurance concepts and regulations, and are often the gateway to feeling confident when test day arrives.
 
 Many online platforms offer convenient self-paced courses. These can cost anywhere from $150 to $300 or more, depending on how comprehensive the package is. Some programs offer additional perks, such as exam simulations or instructor support, which may cost extra. If your budget is lean, you can find more basic options starting closer to $100, but be sure to balance cost with the quality of instruction.
 
@@ -113,4 +113,4 @@ Many providers offer optional add-ons, like printed textbooks or live webinars, 
 
 Earning your insurance license in Washington can open new doors, but it does not have to be financially daunting if you plan ahead. From setting aside funds for pre-licensing classes to verifying exam and fingerprinting fees, the clearer you are on your expenses, the smoother the path will be. If you have more questions or want additional guidance on making smart choices around your Washington insurance license cost, you can explore resources like JustInsurance for easy-to-follow support.
 
-Remember, your commitment and preparation are investments in yourself and your future career. With a realistic budget and strong study plan, you will be ready to jumpstart your insurance journey with confidence. Good luck with your licensing process, and do not forget to enjoy the learning experience along the way!
+Factor [Washington continuing education](/washington/continuing-education) into your long-term budget too, since you will need CE to renew every cycle. Remember, your commitment and preparation are investments in yourself and your future career. With a realistic budget and strong study plan, you will be ready to jumpstart your insurance journey with confidence. Good luck with your licensing process, and do not forget to enjoy the learning experience along the way!

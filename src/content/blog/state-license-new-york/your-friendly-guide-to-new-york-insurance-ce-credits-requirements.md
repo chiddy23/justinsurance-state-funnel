@@ -16,7 +16,7 @@ imageAlt: 'Close-up of income statement, calculator, and planner for financial p
 imageCredit: Photo by Leeloo The First on Pexels
 ---
 
-If you live in New York and want to become a licensed insurance professional, you may have heard about New York insurance CE credits. These credits are part of the [continuing education](/continuing-education) requirements that help you stay updated on important industry changes. Whether you are just beginning your journey or already hold a license, understanding how these credits fit into your licensing path can make all the difference in your long-term success.
+If you live in New York and want to become a licensed insurance professional, you may have heard about New York insurance CE credits. These credits are part of the [New York continuing education](/new-york/continuing-education) requirements that help you stay updated on important industry changes. Whether you are just beginning your journey or already hold a license, understanding how these credits fit into your licensing path can make all the difference in your long-term success.
 
 In this guide, you will walk through the process step by step, from meeting the state’s requirements to maintaining your license for years to come. Along the way, you will learn practical tips about exam preparation, timelines, costs, and how to ensure you keep your license in good standing. By the end, you should feel confident about each phase of your training and know exactly where to turn for extra support.
 
@@ -28,7 +28,7 @@ If you plan to handle multiple lines, you will need to meet requirements for eac
 
 ## Complete your pre-licensing steps
 
-Pre-licensing courses are the foundation of your insurance education. They teach you the fundamentals—such as policy structures, state regulations, and ethical responsibilities—before you take your official license exam. Most students take these courses through approved providers that cater to busy schedules. The course length typically depends on your line of authority, but you can expect anywhere from 20 to 40 hours of study.
+[New York prelicensing courses](/new-york/prelicensing) are the foundation of your insurance education. They teach you the fundamentals—such as policy structures, state regulations, and ethical responsibilities—before you take your official license exam. Most students take these courses through approved providers that cater to busy schedules. The course length typically depends on your line of authority, but you can expect anywhere from 20 to 40 hours of study.
 
 While you can complete these classes in a classroom setting, many aspiring agents choose online learning for flexibility. Once you wrap up your pre-licensing course, you will receive a certification of completion. Hold on to this certificate, since it is your ticket to scheduling and taking the official state exam.
 

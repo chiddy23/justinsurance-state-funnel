@@ -25,7 +25,7 @@ If you’re aiming to sell a specialized product—like life insurance or health
 
 ## Complete your pre-licensing training
 
-Once you know which line(s) of insurance you’ll handle, your next step is to sign up for a state-approved pre-licensing course. This is where you’ll receive the official instruction required for each license type. Think of it as the classroom phase of your training, where you’ll learn about policy types, ethics, and state insurance regulations.
+Once you know which line(s) of insurance you’ll handle, your next step is to sign up for a state-approved [Ohio prelicensing](/ohio/prelicensing) course. This is where you’ll receive the official instruction required for each license type. Think of it as the classroom phase of your training, where you’ll learn about policy types, ethics, and state insurance regulations.
 
 You can often choose between in-person sessions and online learning. In-person classes let you ask questions on the spot and interact with an instructor. Online programs offer flexibility if you have a busy schedule or prefer to study at your own pace. Whichever option you pick, make sure it’s from a provider recognized by the Ohio Department of Insurance.
 

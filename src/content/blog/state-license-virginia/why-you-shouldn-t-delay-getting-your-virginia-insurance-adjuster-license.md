@@ -25,7 +25,7 @@ Your adjuster license is more than a piece of paper. It represents specialized k
 
 ## Know the state requirements
 
-Before diving into your study materials, it’s important to understand Virginia’s licensing criteria. The State Corporation Commission (SCC) oversees the licensing process. As long as you meet the age requirement of 18 or older, you’re halfway to qualifying. You will also need to take an approved pre-licensing course covering essential insurance principles, ethics, and regulations specific to Virginia. Once you’ve finished these prerequisites, you become eligible to schedule the official exam. This helps ensure you’re well prepared for the unique challenges of working as an adjuster.
+Before diving into your study materials, it’s important to understand Virginia’s licensing criteria. The State Corporation Commission (SCC) oversees the licensing process. As long as you meet the age requirement of 18 or older, you’re halfway to qualifying. You will also need to take an approved [Virginia prelicensing course](/virginia/prelicensing) covering essential insurance principles, ethics, and regulations specific to Virginia. Once you’ve finished these prerequisites, you become eligible to schedule the official exam. This helps ensure you’re well prepared for the unique challenges of working as an adjuster.
 
 To help you visualize the process, here are the key requirements at a glance:
 
@@ -53,7 +53,7 @@ Once you pass, submit your results and application to the SCC right away. This s
 
 ## Stay current with renewals
 
-Securing your Virginia insurance adjuster license is only the beginning. Virginia typically requires licensees to complete periodic continuing education to keep knowledge updated and on par with new regulations. Renewing on schedule upholds your credibility and signals that you take your professional obligations seriously. Missing these deadlines could lead to penalties or suspension of your license, halting your progress just as your career gains momentum.
+Securing your Virginia insurance adjuster license is only the beginning. Virginia typically requires licensees to complete periodic [continuing education](/virginia/continuing-education) to keep knowledge updated and on par with new regulations. Renewing on schedule upholds your credibility and signals that you take your professional obligations seriously. Missing these deadlines could lead to penalties or suspension of your license, halting your progress just as your career gains momentum.
 
 Keep a close watch on official guidelines for renewal time frames, as they may vary depending on the type of insurance lines you handle. If you plan to expand your business into other states, again you’ll need to follow their rules too. It’s all part of building a consistent habit of meeting educational requirements on time. The more seamlessly you integrate renewals into your professional routine, the more secure your adjuster status becomes.
 

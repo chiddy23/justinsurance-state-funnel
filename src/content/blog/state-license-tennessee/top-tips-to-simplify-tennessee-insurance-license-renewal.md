@@ -25,7 +25,7 @@ It is also important to make sure your contact details on file with the [Tenness
 
 ## Stay on top of CE
 
-Completing continuing education (CE) is one of the most critical parts of your renewal. Tennessee requires a set number of credit hours for each two-year cycle, typically including a certain portion of ethics-related courses. Life, accident, and health agents usually share similar requirements, while property and casualty producers follow guidelines unique to those lines. Make sure you verify the exact CE needed for your license class so you are not left scrambling at the last minute.
+Completing [Tennessee continuing education](/tennessee/continuing-education) (CE) is one of the most critical parts of your renewal. Tennessee requires a set number of credit hours for each two-year cycle, typically including a certain portion of ethics-related courses. Life, accident, and health agents usually share similar requirements, while property and casualty producers follow guidelines unique to those lines. Make sure you verify the exact CE needed for your license class so you are not left scrambling at the last minute.
 
 Continuing education should be more than a licensing formality, though. If you choose courses that align with your professional goals, you will strengthen your expertise and offer more value to your clients. Rather than just completing the bare minimum, focus on relevant topics like new policy technologies, claim trends, and customer service best practices. Those who see CE as an opportunity for professional growth often stand out to prospective customers.
 
@@ -77,6 +77,6 @@ If you run into obstacles, JustInsurance can guide you through course selection,
 
 ## Take the next step
 
-Renewing your Tennessee insurance license should feel like a chance to refresh your professional knowledge and ensure you are operating at the highest standard. By focusing on your continuing education, gathering the right documents, and initiating your application early, you will avoid the last-minute chaos that sometimes derails renewals.
+If you are switching into a new line of authority, you may need to return to [Tennessee prelicensing](/tennessee/prelicensing) before you can renew into that line. Renewing your Tennessee insurance license should feel like a chance to refresh your professional knowledge and ensure you are operating at the highest standard. By focusing on your continuing education, gathering the right documents, and initiating your application early, you will avoid the last-minute chaos that sometimes derails renewals.
 
 If you need personalized assistance, consider reaching out to JustInsurance, where specialists can address your individual needs. Staying on top of your license status also makes you more attractive to potential clients and employers, because it shows commitment and reliability. Take these steps seriously, follow the rules diligently, and you will be set for a seamless renewal that keeps your insurance career thriving.

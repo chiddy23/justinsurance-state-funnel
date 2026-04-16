@@ -50,7 +50,7 @@ On exam day, arrive early and don’t forget required identification, such as a 
 
 ## Maintain and renew your license
 
-The learning doesn’t stop once you’re licensed. North Carolina, like most states, has a continuing education (CE) requirement that needs to be met every renewal cycle. You’ll want to keep track of the exact number of credit hours needed (this can vary depending on your license type), as well as any deadlines the state enforces.
+The learning doesn’t stop once you’re licensed. North Carolina, like most states, has a [North Carolina continuing education](/north-carolina/continuing-education) (CE) requirement that needs to be met every renewal cycle. You’ll want to keep track of the exact number of credit hours needed (this can vary depending on your license type), as well as any deadlines the state enforces.
 
 Renewing on time is critical. Failing to do so can lead to late fees or even a lapse in your ability to practice. The north carolina insurance license renewal process is straightforward if you stay organized. Here’s what you can do:
 

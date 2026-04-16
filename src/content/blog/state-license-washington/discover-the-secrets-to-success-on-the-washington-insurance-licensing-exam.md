@@ -26,7 +26,7 @@ Understanding the exam format is crucial to feeling comfortable on test day. In 
 
 Expect computer-based, multiple-choice questions. The test typically requires quick thinking and familiarity with industry language. You will need to show you understand state laws and how different insurance products work in everyday life. For example, you might see a question on Washington’s specific licensing requirements or temporary insurance agreements. Focus on learning how terms and rules apply in real scenarios to boost both your confidence and your exam score.
 
-Exam fees vary from year to year. Be sure to check with official sources, such as the Washington Office of the Insurance Commissioner, for the latest information on scheduling, costs, and available exam times. The registration process tends to be straightforward, but it is a good idea to confirm you have all the right documents and prerequisites (like completing pre-licensing education) before signing up.
+Exam fees vary from year to year. Be sure to check with official sources, such as the Washington Office of the Insurance Commissioner, for the latest information on scheduling, costs, and available exam times. The registration process tends to be straightforward, but it is a good idea to confirm you have all the right documents and prerequisites (like completing [Washington prelicensing education](/washington/prelicensing)) before signing up.
 
 ## Build your study timeline                
 
@@ -83,7 +83,7 @@ Answer Key and Explanations:
 1.  How many times can I take the Washington insurance licensing exam if I fail?  
     You can retake the exam as many times as necessary, although you will likely pay a new exam fee each time. It can help to review failed test sections carefully before attempting again.
 2.  Do I need to renew my license?  
-    Yes. Your Washington insurance producer license usually requires renewal every few years. Be prepared to meet any continuing education hours and pay renewal fees to keep your license active.
+    Yes. Your Washington insurance producer license usually requires renewal every few years. Be prepared to meet any [Washington continuing education](/washington/continuing-education) hours and pay renewal fees to keep your license active.
 3.  Is there a specific dress code when taking the exam?  
     Generally, you do not have to follow a formal dress code, but most testing centers encourage comfortable and non-distracting clothing. Avoid bringing items like hoodies or oversized jackets that might delay your check-in at the center.
 4.  Will my scores be available right away?  

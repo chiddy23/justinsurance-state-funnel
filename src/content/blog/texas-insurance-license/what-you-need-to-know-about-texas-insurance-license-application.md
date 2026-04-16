@@ -86,7 +86,7 @@ In most cases, approval happens within two to three weeks, assuming your backgro
 
 ## Keep these tips in mind
 
-Navigating a professional licensing process can sometimes feel overwhelming, but a few conscious steps will help you stay on track. First, maintain well-organized records of your coursework and exam documentation. You might need them not just for your application, but for any future renewals.
+Navigating a professional licensing process can sometimes feel overwhelming, but a few conscious steps will help you stay on track. First, maintain well-organized records of your coursework and exam documentation. You might need them not just for your application, but for any future renewals and [Texas continuing education](/texas/continuing-education) cycles.
 
 Second, set aside a realistic budget for fees, study materials, and potential retests, just in case you don’t pass on your first try (and that’s okay, it happens). Having a little financial cushion can alleviate extra stress. Finally, consider getting acquainted with relevant insurance associations or mentors in your area. They can provide up-to-date insights on the industry, plus tips on growing your career.
 

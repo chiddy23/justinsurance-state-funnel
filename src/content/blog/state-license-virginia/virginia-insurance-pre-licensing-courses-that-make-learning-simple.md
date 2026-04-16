@@ -68,7 +68,7 @@ Along with the application, you will pay the licensing fee. If everything is in 
 
 ## Continue professional growth
 
-After passing your exam and receiving your license, you will want to keep your momentum. Continuing Education (CE) is the key to staying current with industry changes and refining your expertise. Virginia may require you to renew your license every couple of years, and during that time, you will complete a certain number of CE credits.
+After passing your exam and receiving your license, you will want to keep your momentum. [Virginia continuing education](/virginia/continuing-education) (CE) is the key to staying current with industry changes and refining your expertise. Virginia may require you to renew your license every couple of years, and during that time, you will complete a certain number of CE credits.
 
 Beyond meeting the legal obligations, your dedication to lifelong learning can set you apart in a busy field. You might pursue advanced certifications or explore new specialty areas that match your clients’ needs. Building your credibility through ongoing education makes you more confident and reliable in an industry that values professionalism.
 

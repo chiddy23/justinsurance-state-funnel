@@ -59,7 +59,7 @@ One tip is to organize daily or weekly study sessions so you avoid the stressful
 
 ## Maintain ongoing compliance
 
-Earning your license is an important milestone, but your responsibilities do not end with passing the exam. Arizona requires that all insurance professionals maintain their license through periodic renewals and continuing education (CE). Failing to meet these routine requirements can result in costly penalties, as well as the potential suspension of your license.
+Earning your license is an important milestone, but your responsibilities do not end with passing the exam. Arizona requires that all insurance professionals maintain their license through periodic renewals and [Arizona continuing education](/arizona/continuing-education) (CE). Failing to meet these routine requirements can result in costly penalties, as well as the potential suspension of your license.
 
 Start a calendar reminder for mandatory CE credits and stay informed about any changes in state regulations. If you plan on adding additional lines of authority, you will need to complete the relevant coursework and possibly sit for a new exam. By keeping your license current and staying proactive about professional development, you show clients, employers, and the state that you take your role seriously.
 

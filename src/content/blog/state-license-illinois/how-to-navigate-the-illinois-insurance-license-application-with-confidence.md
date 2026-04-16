@@ -33,7 +33,7 @@ Try to gather any personal records you might need sooner rather than later. Thes
 
 ## Complete your pre-licensing education
 
-Once you know the type of license you want, you can sign up for pre-licensing education. This step ensures you have the foundational knowledge to advise clients responsibly. In Illinois, you usually have to complete a set number of hours for each line of authority you wish to pursue.
+Once you know the type of license you want, you can sign up for [Illinois insurance prelicensing](/illinois/prelicensing) education. This step ensures you have the foundational knowledge to advise clients responsibly. In Illinois, you usually have to complete a set number of hours for each line of authority you wish to pursue.
 
 For example, life and health insurance requires one block of coursework, while property and casualty has another. You can choose between online classes and in-person sessions from approved providers, so pick the style that suits your schedule and learning preferences. Be sure to set aside enough study time each week. This might mean revisiting your notes at the end of each day or quizzing yourself on new topics.
 
@@ -73,7 +73,7 @@ Keep an eye on your email in case the state requests any clarifications. Respond
 
 Once you submit everything, the [Illinois Department of Insurance](/illinois/requirements) will review your materials and let you know if anything else is needed. Processing can take a few weeks, so this is a good time to organize your next steps. Maybe you are considering which agencies to apply to, or you are thinking of setting up your own independent consultancy.
 
-Keep an eye on your inbox for status updates. If the timeline feels longer than expected, you can reach out to the department’s contact line to confirm your application’s standing. You could also verify your license status through official online listings. Having your license in hand is a major step, but do not forget that continuous education will be part of your career going forward.
+Keep an eye on your inbox for status updates. If the timeline feels longer than expected, you can reach out to the department’s contact line to confirm your application’s standing. You could also verify your license status through official online listings. Having your license in hand is a major step, but do not forget that [Illinois continuing education](/illinois/continuing-education) will be part of your career going forward.
 
 ## Final thoughts
 

@@ -30,7 +30,7 @@ In Illinois, you must be at least 18 years old. You also need to complete certai
 
 ## Choose your pre-licensing course
 
-Finding a pre-licensing course that suits both your budget and learning style is an important first step. Most course providers offer in-person classes, online self-paced modules, or live webinars. This choice affects not only how much you’ll pay, but also how effectively you’ll study and retain information.
+Finding an [Illinois insurance prelicensing](/illinois/prelicensing) course that suits both your budget and learning style is an important first step. Most course providers offer in-person classes, online self-paced modules, or live webinars. This choice affects not only how much you’ll pay, but also how effectively you’ll study and retain information.
 
 Some pre-licensing programs allow you to bundle multiple lines of authority into a single package, which may lower your total costs if you plan to become licensed in more than one line. Course providers often post reviews or testimonials from past students—you might find that these are just as valuable as the official sales pitch, because they give you insight into how much support and guidance you can expect.
 
@@ -92,7 +92,7 @@ Be sure to fill out the application accurately. Mistakes can delay your license 
 
 ## Maintain your license over time
 
-The cost of an Illinois insurance license doesn’t end once the state grants you permission to sell insurance. You’ll need to keep up with continuing education (CE) requirements to remain in good standing and renew your license periodically. As you budget for the future, factor in CE course fees, which can vary based on the provider. Although these costs aren’t usually as high as your initial pre-licensing fees, they’re still an important ongoing investment in your career.
+The cost of an Illinois insurance license doesn’t end once the state grants you permission to sell insurance. You’ll need to keep up with [Illinois continuing education](/illinois/continuing-education) (CE) requirements to remain in good standing and renew your license periodically. As you budget for the future, factor in CE course fees, which can vary based on the provider. Although these costs aren’t usually as high as your initial pre-licensing fees, they’re still an important ongoing investment in your career.
 
 Some professionals choose to pay for an online subscription package that covers all their CE requirements for a set period, saving money in the long run. Others prefer to pick individual courses that target the specific areas they want to develop. Either way, it’s good to remember that you’ll need a few extra dollars every renewal cycle.
 

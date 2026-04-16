@@ -28,7 +28,7 @@ Beyond personal satisfaction, holding a Pennsylvania insurance license can also 
 
 Before pursuing your license, it helps to know exactly what you need to achieve. Pennsylvania's Department of Insurance outlines specific prerequisites depending on the lines of authority you intend to offer — for instance, life insurance versus property and casualty. One of your earliest steps is confirming you meet the minimum age requirement, which is typically 18. You'll also need a clean legal record, as any serious violations can raise red flags when you submit your application.
 
-In most cases, you need to complete a certain number of pre-licensing education hours for each line of authority. These courses ensure you're knowledgeable about state regulations, ethics, and specific coverage details. You should confirm the exact hour requirements through official state resources because they can shift periodically. Keeping track of any changes in the rules means you'll stay on the right path while preparing to take your exam.
+In most cases, you need to complete a certain number of [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) education hours for each line of authority. These courses ensure you're knowledgeable about state regulations, ethics, and specific coverage details. You should confirm the exact hour requirements through official state resources because they can shift periodically. Keeping track of any changes in the rules means you'll stay on the right path while preparing to take your exam.
 
 ## Complete pre-licensing courses
 
@@ -63,7 +63,7 @@ When you're stuck on specific coursework or uncertain about which line of author
 
 ## Explore next steps
 
-Once your application is approved, you're ready to operate as a licensed insurance agent in Pennsylvania. This achievement could mark the beginning of a brand-new career that offers job stability, the satisfaction of serving others, and long-term earning potential. You'll also continue learning throughout your career, since the state requires periodic continuing education to maintain your license.
+Once your application is approved, you're ready to operate as a licensed insurance agent in Pennsylvania. This achievement could mark the beginning of a brand-new career that offers job stability, the satisfaction of serving others, and long-term earning potential. You'll also continue learning throughout your career, since the state requires periodic [Pennsylvania continuing education](/pennsylvania/continuing-education) to maintain your license.
 
 If you're looking for additional support, consider scheduling a conversation with JustInsurance. They can help you select courses, set you up for exam success, and walk you through each license renewal period. By taking these steps, you can build a meaningful career rooted in protecting individuals and businesses in your community. That sense of fulfillment is a big reason so many people find their niche in the insurance field.
 

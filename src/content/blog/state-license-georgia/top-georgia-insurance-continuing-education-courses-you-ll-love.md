@@ -31,7 +31,7 @@ You’ll also stay in good standing with the Georgia Department of Insurance, pr
 
 If you’re brand new to insurance, you’ll start by getting your initial license for the line of insurance you intend to sell. This process typically includes:
 
-1.  Completing a pre-licensing course — in Georgia, 8 hours per line of authority (16 hours for Life & Health combined) as of June 24, 2025, when Georgia reduced prelicensing from 20 to 8 hours per line of authority. Other states may require more.
+1.  Completing a [Georgia insurance prelicensing](/georgia/prelicensing) course — in Georgia, 8 hours per line of authority (16 hours for Life & Health combined) as of June 24, 2025, when Georgia reduced prelicensing from 20 to 8 hours per line of authority. Other states may require more.
 2.  Registering for and passing the official state exam.
 3.  Submitting your license application along with any relevant fees.
 

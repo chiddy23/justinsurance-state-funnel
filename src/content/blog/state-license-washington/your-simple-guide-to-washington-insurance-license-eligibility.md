@@ -37,7 +37,7 @@ Washington requires candidates to undergo a background check that reviews both f
 
 ### Pre-licensing education
 
-To demonstrate your competence, you will need to complete a minimum number of pre-licensing education hours specific to the line of authority you want to sell. Life and disability (health) insurance, for instance, each require a certain number of credits, while property and casualty lines have their own education standards. Pre-licensing courses can be taken in-person or online, depending on your schedule. Look for programs that are approved by the Washington Insurance Commissioner to avoid any confusion about qualifying coursework.
+To demonstrate your competence, you will need to complete a minimum number of [Washington prelicensing education](/washington/prelicensing) hours specific to the line of authority you want to sell. Life and disability (health) insurance, for instance, each require a certain number of credits, while property and casualty lines have their own education standards. Pre-licensing courses can be taken in-person or online, depending on your schedule. Look for programs that are approved by the Washington Insurance Commissioner to avoid any confusion about qualifying coursework.
 
 ## Steps to become licensed
 
@@ -66,7 +66,7 @@ Below are some frequently asked questions about Washington insurance license eli
 2.  What if I have a previous misdemeanor or felony conviction? Having a criminal record, especially a felony, does not guarantee rejection, but the OIC will look closely at those circumstances. If your conviction involved fraud, dishonesty, or financial misconduct, you may face additional scrutiny. It is best to provide all requested documentation so that a proper determination can be made.
 3.  How hard is the pre-licensing exam? Difficulty varies from person to person, but passing rates are generally reasonable if you study properly. Pre-licensing courses cover all the exam topics. You can also find practice exams to help boost your confidence.
 4.  Can I get licensed for multiple lines at once? Yes, you may pursue multiple lines, like life and health or property and casualty, under your Washington insurance license. Just keep in mind that separate exams and course requirements apply to each line. You can often schedule both exams back to back if you prefer to do everything in one go.
-5.  When do I have to renew my license? In Washington, most insurance licenses renew every two years. You will need to complete continuing education classes and pay a renewal fee. The OIC sends renewal reminders, but it is good to mark your calendar so you do not miss any deadlines.
+5.  When do I have to renew my license? In Washington, most insurance licenses renew every two years. You will need to complete [Washington continuing education](/washington/continuing-education) classes and pay a renewal fee. The OIC sends renewal reminders, but it is good to mark your calendar so you do not miss any deadlines.
 
 ## Start your journey with JustInsurance
 

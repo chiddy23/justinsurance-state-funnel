@@ -22,7 +22,7 @@ Whether you are brand-new to Arizona or relocating from another state, understan
 
 The state of Arizona requires you to complete certain steps before earning your insurance license. Fees typically come from a few key areas: your pre-licensing education, fingerprinting for a background check, the state exam, and your application.
 
-First, you need to pay for a pre-licensing course that covers the material for your specific lines of authority, such as Life & Health or Property & Casualty. Next, you must submit fingerprints to the [Arizona Department of Insurance and Financial Institutions](/arizona/requirements) (DIFI), which usually involves an additional fee. You will also pay to sit for the official licensing exam, plus a separate application fee to finalize your license.
+First, you need to pay for an [Arizona insurance prelicensing](/arizona/prelicensing) course that covers the material for your specific lines of authority, such as Life & Health or Property & Casualty. Next, you must submit fingerprints to the [Arizona Department of Insurance and Financial Institutions](/arizona/requirements) (DIFI), which usually involves an additional fee. You will also pay to sit for the official licensing exam, plus a separate application fee to finalize your license.
 
 Although it can seem like a lot at first, each cost serves a distinct purpose, from verifying your education to ensuring the integrity of your background information. The good news is that you have plenty of options to help you make budget-friendly choices every step of the way.
 
@@ -82,7 +82,7 @@ If you move to Arizona and hold a license from another state, you may qualify fo
 
 ### Are there any ongoing costs to keep my license?
 
-Yes. Beyond the initial application fees, you will need to renew your license roughly every four years, paying a renewal fee in the process. It is also important to stay current with the state’s continuing education requirements, which may involve additional classes and fees.
+Yes. Beyond the initial application fees, you will need to renew your license roughly every four years, paying a renewal fee in the process. It is also important to stay current with the state’s [Arizona continuing education](/arizona/continuing-education) requirements, which may involve additional classes and fees.
 
 ### Should I take an in-person or online pre-licensing course?
 

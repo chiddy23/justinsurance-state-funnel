@@ -27,7 +27,7 @@ In Pennsylvania, each line of authority (like life or property) you want covered
 
 ## Complete your pre-licensing course
 
-Every new insurance agent in Pennsylvania must fulfill a set number of pre-licensing education hours—usually around 24 for each major line of authority. These hours are designed to give you a thorough overview of essential insurance concepts, policy structures, and legal requirements. The coursework typically includes reading assignments, quizzes, and practice exams that simulate the real test environment.
+Every new insurance agent in Pennsylvania must fulfill a set number of [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) education hours—usually around 24 for each major line of authority. These hours are designed to give you a thorough overview of essential insurance concepts, policy structures, and legal requirements. The coursework typically includes reading assignments, quizzes, and practice exams that simulate the real test environment.
 
 Choosing a state-approved pre-licensing provider matters. The course cost can vary, often landing between $100 and $300 depending on the provider, the course format (online or in-person), and any additional materials included. You might see some packages that integrate practice tests or supplemental study resources. Whichever option you pick, make sure it fits your learning style. After all, you want to enter the exam feeling confident and well-prepared.
 
@@ -89,7 +89,7 @@ Soon after submitting your application, you’ll receive instructions for additi
 
 ## Factor in continuing education
 
-After you secure your license, your journey isn’t officially over. To maintain your license year after year, Pennsylvania requires you to complete continuing education (CE) credits. CE fees can vary, depending on the courses you take and whether they’re part of a package deal. For example, some providers might combine courses into a discount bundle if you need multiple credits.
+After you secure your license, your journey isn’t officially over. To maintain your license year after year, Pennsylvania requires you to complete [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) credits. CE fees can vary, depending on the courses you take and whether they’re part of a package deal. For example, some providers might combine courses into a discount bundle if you need multiple credits.
 
 Each renewal cycle requires you to meet a set number of CE hours, which helps you stay updated on new insurance laws and best practices. Plan for these costs ahead of time, so they don’t catch you off-guard when your renewal date comes around. Keeping your license in good standing also means you’ll have more credibility with clients. They’ll appreciate knowing you’re always learning and staying on top of industry updates.
 

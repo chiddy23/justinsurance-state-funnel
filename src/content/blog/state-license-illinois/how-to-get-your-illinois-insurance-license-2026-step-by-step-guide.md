@@ -48,7 +48,7 @@ NIPR links DOI’s [FAQs on producer licensing exam changes](https://idoi.illino
 
 ## After licensure: CE and renewal ride on a different chapter of law
 
-DOI points renewals to its [resident renewal instructions](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html). Illinois also prorates NIPR fees to match birth-month expirations, per the resident producer page. None of that replaces prelicensing—it stacks on top.
+DOI points renewals to its [resident renewal instructions](https://idoi.illinois.gov/producers/licensescertificationsfaqs/renew-resident-producer-license.html). Our [Illinois continuing education](/illinois/continuing-education) page tracks how producers report credits before each birth-month expiration. Illinois also prorates NIPR fees to match birth-month expirations, per the resident producer page. None of that replaces prelicensing—it stacks on top.
 
 ## Residency moves have their own DOI page—do not wing it with NIPR alone
 

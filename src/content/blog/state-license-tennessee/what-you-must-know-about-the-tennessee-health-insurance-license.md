@@ -31,7 +31,7 @@ As a licensed health insurance agent, you become a helpful resource for individu
 
 ## Complete your pre-licensing education
 
-Before you can sign up for the official state exam, Tennessee requires you to complete a set amount of pre-licensing education. Courses vary in length, covering topics like state insurance regulations, policy provisions, ethics, and the fundamentals of health coverage. These classes are designed to ensure you fully grasp the responsibilities of an insurance agent before you start working with clients.
+Before you can sign up for the official state exam, Tennessee requires you to complete a set amount of [Tennessee prelicensing education](/tennessee/prelicensing). Courses vary in length, covering topics like state insurance regulations, policy provisions, ethics, and the fundamentals of health coverage. These classes are designed to ensure you fully grasp the responsibilities of an insurance agent before you start working with clients.
 
 When searching for a pre-licensing course provider, check that it’s officially approved by the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Whether you prefer in-person learning, live webinars, or online modules, flexibility is usually available. Focus on staying consistent with your study schedule—treat each lesson as a building block toward exam success.
 
@@ -56,7 +56,7 @@ When you file your application, you’ll pay a licensing fee. The fee covers adm
 
 ## Maintain your license
 
-Once you secure your Tennessee health insurance license, keeping it active is key. Tennessee mandates continuing education (CE) courses to ensure agents stay updated on new laws, emerging products, and best practices. CE credits have to be completed by your renewal deadline, so plan ahead and schedule your courses early.
+Once you secure your Tennessee health insurance license, keeping it active is key. Tennessee mandates [continuing education](/tennessee/continuing-education) (CE) courses to ensure agents stay updated on new laws, emerging products, and best practices. CE credits have to be completed by your renewal deadline, so plan ahead and schedule your courses early.
 
 Neglecting CE requirements could lead to a lapsed license, which disrupts your career momentum. Stay on top of renewal dates and maintain a personal calendar to track all your obligations. By consistently investing in your professional growth, you’ll remain a trusted authority for your clients.
 

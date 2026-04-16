@@ -29,7 +29,7 @@ Renewing your license also helps you stay updated on new regulations, emerging i
 
 If you are in the early stages of your insurance career, it is important to know the steps for obtaining your first Illinois insurance license, so you will be prepared to keep it valid later. Here is a straightforward path to follow:
 
-1.  Take a pre-licensing course. Illinois requires a set number of hours in pre-licensing education, covering fundamentals like policy provisions, state regulations, and ethical considerations.
+1.  Take a pre-licensing course. Illinois requires a set number of hours in [Illinois insurance prelicensing](/illinois/prelicensing) education, covering fundamentals like policy provisions, state regulations, and ethical considerations.
 2.  Pass the state exam. Once you finish the required course, you can register for the state licensing test. Depending on the type of license you seek (such as Life, Health, or Property & Casualty), you will take an exam specific to that line of insurance.
 3.  Submit your fingerprints. This background check is mandatory and helps confirm your identity, ensuring compliance with state regulations.
 4.  Apply for your license. After passing the exam, file an application through the [Illinois Department of Insurance](/illinois/requirements) website. Once approved, you will officially be a licensed insurance professional.
@@ -38,7 +38,7 @@ By going through these steps, you gain a solid foundation in insurance practices
 
 ## Meeting continuing education (CE) hours
 
-Once you have that hard-earned license in hand, the state of Illinois requires you to complete regular continuing education in order to maintain it. In most cases, you must complete 24 credit hours of CE every two years, with 3 of those hours focusing on ethics. These courses range from in-depth policy analysis to cutting-edge industry trends, ensuring that you keep pace with the latest insights in insurance.
+Once you have that hard-earned license in hand, the state of Illinois requires you to complete regular [Illinois continuing education](/illinois/continuing-education) in order to maintain it. In most cases, you must complete 24 credit hours of CE every two years, with 3 of those hours focusing on ethics. These courses range from in-depth policy analysis to cutting-edge industry trends, ensuring that you keep pace with the latest insights in insurance.
 
 When planning your CE, look for courses that align with your business goals and personal interest areas. If life insurance is your specialty, for example, focusing on advanced annuities or healthcare policies can help you serve clients with greater expertise. By making CE relevant to your everyday work, you add immediate value to your practice while satisfying state requirements.
 

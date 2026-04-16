@@ -32,7 +32,7 @@ Beyond that, it’s a good idea to collect all the paperwork you might need, suc
 
 ## Completing pre-licensing education
 
-Arizona typically requires a certain number of pre-licensing study hours for the property and casualty lines. While the state does not strictly mandate a classroom course, many find it beneficial to enroll in a prep program or choose an online study course. Structured classes can provide interactive lessons, quizzes, and personalized guidance, which can really boost your confidence before test day.
+Arizona typically requires a certain number of [Arizona insurance prelicensing](/arizona/prelicensing) study hours for the property and casualty lines. While the state does not strictly mandate a classroom course, many find it beneficial to enroll in a prep program or choose an online study course. Structured classes can provide interactive lessons, quizzes, and personalized guidance, which can really boost your confidence before test day.
 
 During this stage, try to focus on real-world examples. Property and casualty insurance covers everything from a minor fender bender in a supermarket parking lot to significant losses from natural disasters. Imagining how these policies apply in everyday life makes the material stick, especially if you prefer learning by doing rather than just memorizing facts.
 
@@ -56,7 +56,7 @@ Processing times vary, but in many cases, you’ll know your status within a cou
 
 ## Maintaining and renewing your license
 
-Like most professional credentials, your Arizona property and casualty insurance license requires periodic renewal. You’ll need to complete continuing education (CE) hours before your license expires. CE courses are designed to keep you up to date on regulatory changes, new products, and industry best practices.
+Like most professional credentials, your Arizona property and casualty insurance license requires periodic renewal. You’ll need to complete [Arizona continuing education](/arizona/continuing-education) (CE) hours before your license expires. CE courses are designed to keep you up to date on regulatory changes, new products, and industry best practices.
 
 By planning your CE hours early, you’ll avoid last-minute scrambling and keep your knowledge fresh. Whether you choose classroom sessions or online webinars, ongoing education helps you deliver better service to your clients and confidently discuss evolving coverage options.
 

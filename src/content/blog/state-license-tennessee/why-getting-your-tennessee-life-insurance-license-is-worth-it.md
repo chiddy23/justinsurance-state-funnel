@@ -29,7 +29,7 @@ Preparing for the licensing exam typically includes study materials and pre-lice
 
 Below is a simple overview of the steps you might follow to earn your license:
 
--   Complete a required pre-licensing program from a state-approved provider.
+-   Complete a required [Tennessee prelicensing program](/tennessee/prelicensing) from a state-approved provider.
 -   Sign up for your life insurance exam at a convenient test center.
 -   Present necessary ID at the testing site and successfully pass the exam.
 -   Undergo a background check if required by the state.
@@ -72,4 +72,4 @@ Working toward your Tennessee life insurance license can have a lasting impact o
 
 If you are ready to take the first step, consider researching pre-licensing courses and exam information that matches your schedule. Think about the communities you want to serve, and envision the meaningful conversations you will have with clients who need protection for their loved ones. Are you feeling driven to make a real difference? Your next move is in your hands.
 
-You are invited to connect with JustInsurance if you want extra guidance or a community of supportive peers who share similar goals. It could be the helping hand that keeps you on track and motivated to succeed. All that is left is for you to get started. The opportunity to grow and positively impact others is right in front of you—why not reach out and claim it?
+Keep [Tennessee continuing education](/tennessee/continuing-education) on your radar so your license stays active after every renewal. You are invited to connect with JustInsurance if you want extra guidance or a community of supportive peers who share similar goals. It could be the helping hand that keeps you on track and motivated to succeed. All that is left is for you to get started. The opportunity to grow and positively impact others is right in front of you—why not reach out and claim it?

@@ -38,7 +38,7 @@ Some lines of insurance, like life and health, may include additional specifics,
 
 Ohio requires a certain number of study hours before sitting for the insurance exam. Depending on the license you plan to pursue, this total can vary. Make sure you choose a state-approved provider that fits your budget, schedule, and learning style.
 
-Many aspiring agents pick online pre-licensing courses. Online courses let you go at your own pace and revisit modules as needed. If you prefer in-person instruction, you can find classroom-based options in most major Ohio cities. Either way, consider comparing course outlines, instructor credentials, and pass rates when deciding.
+Many aspiring agents pick online [Ohio prelicensing](/ohio/prelicensing) courses. Online courses let you go at your own pace and revisit modules as needed. If you prefer in-person instruction, you can find classroom-based options in most major Ohio cities. Either way, consider comparing course outlines, instructor credentials, and pass rates when deciding.
 
 Studying is much more than memorizing facts. You will get comfortable with insurance laws, ethics, and real-world scenarios, so you feel confident on exam day. Try not to rush: pacing your study sessions over a few weeks or months typically results in better retention and a steadier build of knowledge.
 
@@ -60,7 +60,7 @@ At this stage, you might begin exploring your next steps, like deciding where to
 
 ## Keep your knowledge growing
 
-Insurance is an ever-evolving industry, and the learning does not end once you pass the exam. Continuing Education (CE) is a requirement in Ohio to maintain an active license, but do not think of it just as an obligation. CE courses help you stay on top of new laws, product updates, and best practices that benefit both you and your future clients.
+Insurance is an ever-evolving industry, and the learning does not end once you pass the exam. [Ohio continuing education](/ohio/continuing-education) (CE) is a requirement to maintain an active license, but do not think of it just as an obligation. CE courses help you stay on top of new laws, product updates, and best practices that benefit both you and your future clients.
 
 Many people find it helpful to schedule ongoing study sessions every year—this routine keeps you informed and ahead of the curve. Additionally, exploring professional memberships or networking groups can introduce you to peers, mentors, and advanced training opportunities. Insurance is a relationship-based business at heart, so building your professional circle will pay off in the long run.
 

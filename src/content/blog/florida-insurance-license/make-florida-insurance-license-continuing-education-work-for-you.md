@@ -44,7 +44,7 @@ Exam day can feel intimidating, but you will do yourself a huge favor by setting
 
 ## Keep your license current
 
-Once you earn that hard-fought Florida insurance license, your professional journey is just beginning. The state regularly updates its regulations, and your clients will expect you to know the latest rules, policies, and best practices. This is where Florida insurance license continuing education comes in.
+Once you earn that hard-fought Florida insurance license, your professional journey is just beginning. The state regularly updates its regulations, and your clients will expect you to know the latest rules, policies, and best practices. This is where [Florida insurance license continuing education](/florida/continuing-education) comes in.
 
 To maintain your license in good standing, you need to complete a set number of credit hours every renewal cycle. The exact number depends on your license type, but in general, you will be required to cover:
 

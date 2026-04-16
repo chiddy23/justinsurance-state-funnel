@@ -36,7 +36,7 @@ Some new agents also explore personal lines insurance, which focuses on policies
 
 ## Complete pre-licensing education
 
-Texas requires you to take approved pre-licensing courses before you sit for the official exam. These courses are designed to familiarize you with critical insurance topics, including ethics, state regulations, contract structure, and more. The number of hours varies depending on the license you seek, so it’s important to confirm exactly how many hours of study you need.
+Texas requires you to take approved [Texas pre-licensing courses](/texas/prelicensing) before you sit for the official exam. These courses are designed to familiarize you with critical insurance topics, including ethics, state regulations, contract structure, and more. The number of hours varies depending on the license you seek, so it’s important to confirm exactly how many hours of study you need.
 
 In addition to meeting the mandatory education requirements, solid coursework gives you a better foundation for advising future clients. Many individuals find that working with a company like JustInsurance can help streamline course selection, ensuring you’re fully prepared for the exam. The more thorough you are with your studies now, the more confident you’ll feel when it’s time to test.
 
@@ -61,7 +61,7 @@ Once your application is approved, you’ll receive confirmation from the TDI. Y
 
 ## Maintain ongoing compliance
 
-Getting your license is only the first part of being a conscientious insurance professional. To continue serving clients legally, you’ll need to stay on top of Texas continuation and renewal rules. Most lines of insurance require ongoing continuing education (CE) to ensure your knowledge remains current. CE courses focus on areas like policy changes, industry updates, and ethics compliance.
+Getting your license is only the first part of being a conscientious insurance professional. To continue serving clients legally, you’ll need to stay on top of Texas continuation and renewal rules. Most lines of insurance require ongoing [continuing education](/texas/continuing-education) (CE) to ensure your knowledge remains current. CE courses focus on areas like policy changes, industry updates, and ethics compliance.
 
 It’s easy to meet CE requirements by consulting approved providers and scheduling classes that align with your work calendar. Keeping up with these courses — and any new regulations the TDI sets forth — not only protects your license status but also boosts your reputation among clients. Remember that you want to be the go-to source for reliable insurance guidance, and continual learning is an excellent way to demonstrate your expertise.
 

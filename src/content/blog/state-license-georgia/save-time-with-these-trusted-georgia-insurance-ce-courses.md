@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-[Georgia insurance CE](/georgia/continuing-education) courses can save you time and reduce stress as you work toward renewing your insurance license. With the right steps in place, these courses not only help you meet legal requirements but also expand your knowledge and skill set. Understanding everything from licensing deadlines to exam preparation ensures you invest your energy wisely and avoid last-minute cramming. Below, you’ll find a breakdown of how to prepare for continuing education, how much you might spend, and how to finish the process faster.
+[Georgia insurance CE](/georgia/continuing-education) courses can save you time and reduce stress as you work toward renewing your insurance license. If you have not yet been licensed, our [Georgia insurance prelicensing](/georgia/prelicensing) courses cover the state-required study hours before you sit for the exam. With the right steps in place, these courses not only help you meet legal requirements but also expand your knowledge and skill set. Understanding everything from licensing deadlines to exam preparation ensures you invest your energy wisely and avoid last-minute cramming. Below, you’ll find a breakdown of how to prepare for continuing education, how much you might spend, and how to finish the process faster.
 
 ## Understand why continuing education is essential
 

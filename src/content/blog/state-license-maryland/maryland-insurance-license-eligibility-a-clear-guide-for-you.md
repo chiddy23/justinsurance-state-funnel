@@ -36,7 +36,7 @@ Residency is not just for record-keeping. By showing you are truly based in Mary
 
 ## Complete your pre-licensing education
 
-To qualify for the state exam, you need formal pre-licensing education tied to each line of authority you wish to pursue. This requirement ensures you have a deep understanding of insurance fundamentals, policy specifics, and state regulations. While course details vary by provider, you can typically expect these topics:
+To qualify for the state exam, you need formal [Maryland prelicensing education](/maryland/prelicensing) tied to each line of authority you wish to pursue. This requirement ensures you have a deep understanding of insurance fundamentals, policy specifics, and state regulations. While course details vary by provider, you can typically expect these topics:
 
 -   Maryland insurance laws and ethics
 -   Policy types, terms, and definitions

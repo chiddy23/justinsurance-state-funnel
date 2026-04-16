@@ -21,7 +21,7 @@ You might be surprised at how quickly small charges add up when you pursue your 
 
 ## Understand the licensing process
 
-Before you dive into the specific costs, it helps to have a basic overview of the licensing steps in Maryland. You need to complete a pre-licensing course, pass the official licensing exam, and submit application forms through the National Insurance Producer Registry (NIPR). In most cases, you must also complete fingerprinting or a background check. Each of these actions has an associated fee.
+Before you dive into the specific costs, it helps to have a basic overview of the licensing steps in Maryland. You need to complete a pre-licensing course, pass the official licensing exam, and submit application forms through the National Insurance Producer Registry (NIPR). In most cases, you must also complete fingerprinting or a background check. Each of these actions has an associated fee. Start by reviewing [Maryland prelicensing courses](/maryland/prelicensing) so you know exactly which hours apply to your chosen line of authority.
 
 If you plan to sell more than one line of insurance, such as life and health or property and casualty, you might pay separate exam fees, course fees, or other administrative charges. Keeping track of these items in advance helps you stay organized and avoid unpleasant surprises when you start the application process.
 
@@ -99,7 +99,7 @@ Some course providers offer package deals when you register for more than one li
 
 ### 5\. How long does my insurance license last?
 
-Most Maryland insurance licenses remain active for two years. After that, you will pay a renewal fee and meet any continuing education requirements. Budgeting for this renewal well in advance helps avoid a lapse, which could force you to reapply.
+Most Maryland insurance licenses remain active for two years. After that, you will pay a renewal fee and meet any [Maryland continuing education](/maryland/continuing-education) requirements. Budgeting for this renewal well in advance helps avoid a lapse, which could force you to reapply.
 
 ## Take the next step
 

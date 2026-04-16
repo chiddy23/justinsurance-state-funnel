@@ -27,7 +27,7 @@ Regardless of the license type you choose, you need to meet the same foundationa
 
 ## Choose an approved provider
 
-Texas requires that you complete a state-approved pre-licensing course before you can sit for the exam—unless you qualify for an exemption. Pre-licensing providers must adhere to the guidelines set by the state, and you will find that many offer courses tailored for busy learners. Some allow you to study at your own pace, while others have structured, instructor-led sessions.
+Texas requires that you complete a state-approved [Texas pre-licensing course](/texas/prelicensing) before you can sit for the exam—unless you qualify for an exemption. Pre-licensing providers must adhere to the guidelines set by the state, and you will find that many offer courses tailored for busy learners. Some allow you to study at your own pace, while others have structured, instructor-led sessions.
 
 When comparing providers, you want to look into factors like price, course format, and student support. Classes can range from fully online to a hybrid of virtual and in-person learning. If you are balancing a job and family obligations, you might prefer an on-demand, online curriculum that fits into your schedule. On the other hand, if you prefer real-time guidance and accountability, a live or instructor-led option can help keep you on track.
 
@@ -62,7 +62,7 @@ While many applicants sail through this part without any trouble, you do want to
 
 Congratulations, you are now an official Texas insurance adjuster—at least, you will be once your application is approved! However, your journey does not end there. Staying an active adjuster means keeping up with renewal deadlines, continuing education, and any changes in state requirements. Generally, you will renew your license every two years, and specific continuing education hours are mandatory for renewal.
 
-Continuing education helps you stay informed about evolving laws, coverage options, and best practices in claims handling. This allows you to serve your clients better and improves your long-term career prospects. Be sure to track your continuing education credits carefully so there are no surprises when you approach renewal. Many adjusters find a continuing education provider that fits their learning style and schedule, making it easier to meet deadlines and stay compliant.
+[Texas continuing education](/texas/continuing-education) helps you stay informed about evolving laws, coverage options, and best practices in claims handling. This allows you to serve your clients better and improves your long-term career prospects. Be sure to track your continuing education credits carefully so there are no surprises when you approach renewal. Many adjusters find a continuing education provider that fits their learning style and schedule, making it easier to meet deadlines and stay compliant.
 
 ## Final thoughts and next steps
 

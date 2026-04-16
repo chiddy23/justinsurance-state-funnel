@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by AlphaTradeZone on Pexels
 ---
 
-If you are a New York resident aiming to keep your insurance credentials current, you probably already know how crucial New York insurance [continuing education](/continuing-education) can be. Staying ahead means meeting the mandatory requirements and mastering everything from exam prep to career planning. The good news is that continuing education need not be complicated, and it often makes you a stronger agent for your clients. Below, you will find a friendly, step-by-step look at what you need to do, plus ways to streamline the process.
+If you are a New York resident aiming to keep your insurance credentials current, you probably already know how crucial [New York continuing education](/new-york/continuing-education) can be. Staying ahead means meeting the mandatory requirements and mastering everything from exam prep to career planning. The good news is that continuing education need not be complicated, and it often makes you a stronger agent for your clients. Below, you will find a friendly, step-by-step look at what you need to do, plus ways to streamline the process.
 
 ## Why continuing education is essential
 
@@ -28,7 +28,7 @@ It can be easy to let coursework slide, but prioritizing it now helps you avoid 
 
 ## Navigating your initial New York insurance license
 
-Your insurance journey in New York starts with meeting specific prerequisites before you can tackle continuing education. You must be at least 18 years old and complete state-approved pre-licensing coursework tailored to your desired license type, such as Life, Accident, and Health or Property and Casualty.
+Your insurance journey in New York starts with meeting specific prerequisites before you can tackle continuing education. You must be at least 18 years old and complete state-approved [New York prelicensing courses](/new-york/prelicensing) tailored to your desired license type, such as Life, Accident, and Health or Property and Casualty.
 
 Next comes your licensing exam:
 

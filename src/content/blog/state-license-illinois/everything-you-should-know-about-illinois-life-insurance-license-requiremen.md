@@ -39,7 +39,7 @@ You also need a valid Social Security number to complete the application forms. 
 
 ## Complete the pre-licensing course
 
-Before you can sit for the life insurance licensing exam, Illinois requires you to attend a state-approved pre-licensing course. This training ensures you have a solid grasp of insurance principles, policy details, and relevant laws.
+Before you can sit for the life insurance licensing exam, Illinois requires you to attend a state-approved [Illinois insurance prelicensing](/illinois/prelicensing) course. This training ensures you have a solid grasp of insurance principles, policy details, and relevant laws.
 
 These courses often run around 20 hours for a single line of authority like life insurance. Expect a mix of core learning modules, reading assignments, and practice quizzes. Most providers offer in-person classes, online modules, or a combination of both. Choose a format that aligns with your schedule and learning style.
 
@@ -83,7 +83,7 @@ Getting licensed opens a wealth of opportunities for you. You’ll be able to he
 ### Staying active and compliant
 
 • Renew your license every two years in Illinois.  
-• Complete required continuing education (CE) hours on time—often around 24 hours per renewal cycle.  
+• Complete required [Illinois continuing education](/illinois/continuing-education) (CE) hours on time—often around 24 hours per renewal cycle.  
 • Keep up with changes in state insurance laws, tax regulations, and industry best practices.
 
 Staying engaged in the profession by joining insurance associations or attending industry webinars helps you remain informed and credible. Many new agents overlook the importance of continuing education and community networking, but these activities can significantly boost your long-term success.

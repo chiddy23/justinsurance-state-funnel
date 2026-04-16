@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Loveleen Cherub on Pexels
 ---
 
-You’re not alone if the [Georgia insurance CE](/georgia/continuing-education) exam feels like a hurdle on your path to maintaining a valid insurance license. In fact, continuing education can be the key to staying competitive in the state’s insurance market. Completing your CE requirements successfully, and then passing any relevant exam, doesn’t have to be stressful. When you understand Georgia’s rules, pick the right courses, and prepare strategically, you’ll be in a prime position to succeed.
+You’re not alone if the [Georgia insurance CE](/georgia/continuing-education) exam feels like a hurdle on your path to maintaining a valid insurance license. If you are still working toward your initial license, our [Georgia insurance prelicensing](/georgia/prelicensing) courses prepare you for the state exam before CE obligations begin. In fact, continuing education can be the key to staying competitive in the state’s insurance market. Completing your CE requirements successfully, and then passing any relevant exam, doesn’t have to be stressful. When you understand Georgia’s rules, pick the right courses, and prepare strategically, you’ll be in a prime position to succeed.
 
 ## Understand Georgia CE basics
 

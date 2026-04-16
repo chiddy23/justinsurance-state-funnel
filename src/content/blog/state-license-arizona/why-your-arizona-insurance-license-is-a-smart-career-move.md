@@ -33,7 +33,7 @@ Some professionals opt to hold multiple lines to serve a broader client base. Be
 
 ## Understand your exam requirements
 
-Before you can sell insurance in Arizona, you’ll need to pass a required licensing exam. The state mandates that you complete a pre-licensing course, which covers key topics such as basic insurance terminology, policy types, and Arizona-specific regulations. For many aspiring agents, having a comprehensive study approach is crucial for passing the exam on the first attempt. A thorough grasp of these fundamentals lays the foundation for your success as an insurance professional.
+Before you can sell insurance in Arizona, you’ll need to pass a required licensing exam. The state mandates that you complete an [Arizona insurance prelicensing](/arizona/prelicensing) course, which covers key topics such as basic insurance terminology, policy types, and Arizona-specific regulations. For many aspiring agents, having a comprehensive study approach is crucial for passing the exam on the first attempt. A thorough grasp of these fundamentals lays the foundation for your success as an insurance professional.
 
 To prepare effectively, consider these study guidelines:
 
@@ -76,7 +76,7 @@ Absolutely. Many agents in Arizona carry licenses for multiple lines, such as Li
 
 ### 5\. How often do I need to renew my license?
 
-Your license renewal cycle typically runs every four years. However, you’re required to meet specific continuing education requirements to keep your license active and your knowledge current. Staying on top of these requirements ensures you remain legally compliant and trusted by your clients.
+Your license renewal cycle typically runs every four years. However, you’re required to meet specific [Arizona continuing education](/arizona/continuing-education) requirements to keep your license active and your knowledge current. Staying on top of these requirements ensures you remain legally compliant and trusted by your clients.
 
 ## Take your next step
 

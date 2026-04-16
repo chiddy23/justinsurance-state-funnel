@@ -45,7 +45,7 @@ By considering where you want to focus your expertise—individual life, group h
 
 ## Complete pre-licensing education
 
-Next comes your required coursework. Virginia mandates that you finish pre-licensing education before sitting for your exam. This involves passing approved classes designed to cover essential industry knowledge, ethical considerations, and state laws.
+Next comes your required coursework. Virginia mandates that you finish [Virginia prelicensing education](/virginia/prelicensing) before sitting for your exam. This involves passing approved classes designed to cover essential industry knowledge, ethical considerations, and state laws.
 
 Many pre-licensing courses can be done in-person or online, so pick the format that best suits your learning style. You’ll often find self-paced options that work around a busy schedule. Consider the course provider’s reputation, your budget, and any extra resources—like practice exams or exam reviews—that improve comprehension. Once you’ve completed the required hours, you’ll receive a certificate of completion you must present when scheduling your official exam.
 
@@ -69,7 +69,7 @@ Once you hit submit, you might wait a few days or weeks for approval. If everyth
 
 ## Plan your next steps
 
-As a newly licensed insurance professional, you’ll want to connect with an agency or company that matches your specialties. Some individuals go the independent route, while others sign on with established agencies. Whichever path you choose, remember to keep your license active by meeting renewal requirements and fulfilling any continuing education (CE) obligations set by the state.
+As a newly licensed insurance professional, you’ll want to connect with an agency or company that matches your specialties. Some individuals go the independent route, while others sign on with established agencies. Whichever path you choose, remember to keep your license active by meeting renewal requirements and fulfilling any [Virginia continuing education](/virginia/continuing-education) (CE) obligations set by the state.
 
 Don’t forget that your license is just the beginning. Many people decide to layer on additional lines of authority over time, especially when they notice new client needs or want to expand their portfolio. At JustInsurance, you’ll find helpful resources for ongoing training, industry updates, and a network of professionals committed to your growth.
 

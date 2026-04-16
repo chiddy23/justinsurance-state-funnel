@@ -18,7 +18,7 @@ imageCredit: Photo by Anna Shvets on Pexels
 
 ## Understand licensure basics
 
-Embarking on your [Texas insurance license](/texas) training may feel overwhelming at first, but understanding the process helps you begin with confidence. One of the first things you need to know is that the Texas Department of Insurance (TDI) requires pre-licensing coursework before you can register for your state exam. This coursework is designed to provide a solid foundation, covering important insurance terms, regulations, and ethics. You will also learn about different lines of authority, such as life insurance or property and casualty, so you can decide which area suits you best.
+Embarking on your [Texas insurance license](/texas) training may feel overwhelming at first, but understanding the process helps you begin with confidence. One of the first things you need to know is that the Texas Department of Insurance (TDI) requires pre-licensing coursework before you can register for your state exam. This [Texas prelicensing coursework](/texas/prelicensing) is designed to provide a solid foundation, covering important insurance terms, regulations, and ethics. You will also learn about different lines of authority, such as life insurance or property and casualty, so you can decide which area suits you best.
 
 The pre-licensing phase isn’t just about cramming information. It’s about gaining practical knowledge that directly applies to your career in insurance. By having a clear sense of the rules and responsibilities, you’ll feel less stress when exam day arrives. Most importantly, you’ll be much better prepared to handle real-world insurance scenarios once you’re fully licensed.
 
@@ -63,7 +63,7 @@ Timing also matters. Many people complete their coursework in a few weeks if the
 
 Once you pass the exam, you’re well on your way to assisting clients with their insurance needs. Don’t be surprised if you feel a mixture of excitement and relief. At this point, you’ll officially apply for your license with the TDI and wait for your application to be processed. After the TDI grants your license, you can officially represent insurers and help customers understand their policy options in areas like health, life, or property insurance.
 
-Keep your momentum going by staying up-to-date with continuing education (CE) requirements in Texas. CE courses not only keep your license active but also expand your expertise. This will help you serve clients at a consistently high level. It’s easy to forget the details if you stop learning for too long, so schedule your CE courses right away.
+Keep your momentum going by staying up-to-date with [continuing education](/texas/continuing-education) (CE) requirements in Texas. CE courses not only keep your license active but also expand your expertise. This will help you serve clients at a consistently high level. It’s easy to forget the details if you stop learning for too long, so schedule your CE courses right away.
 
 ## Get the right support
 

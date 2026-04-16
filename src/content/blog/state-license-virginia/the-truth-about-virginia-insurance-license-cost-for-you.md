@@ -59,7 +59,7 @@ To handle fingerprinting, you can often schedule an appointment at an approved f
 
 ## Maintain your license after certification
 
-Earning a Virginia insurance license is not the end of the story. You also need to uphold your licensure by completing continuing education (CE) hours and renewing your license periodically. This effort ensures you remain current on new laws, regulations, and emerging insurance products that could affect your clients.
+Earning a Virginia insurance license is not the end of the story. You also need to uphold your licensure by completing [Virginia continuing education](/virginia/continuing-education) (CE) hours and renewing your license periodically. This effort ensures you remain current on new laws, regulations, and emerging insurance products that could affect your clients.
 
 In many cases, you will complete a required number of CE hours every two years to keep your license valid. The cost for continuing education can vary based on the courses you choose. It is a good idea to budget in advance for these classes so you are not caught off guard by unexpected fees. You might consider focusing on areas that are especially relevant to your client base, whether that is life, health, property, or various specialized forms of coverage.
 

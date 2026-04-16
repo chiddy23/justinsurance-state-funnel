@@ -32,7 +32,7 @@ Plan ahead for both the schedule and cost of filing your application. Fees vary 
 
 ## Complete your pre-licensing course
 
-Once you confirm your eligibility, you’ll need to sign up for a state-approved pre-licensing course. Florida often requires a certain number of study hours—commonly around 40 hours for a health insurance license. This coursework covers important insurance topics such as policy provisions, underwriting, and state regulations.
+Once you confirm your eligibility, you’ll need to sign up for a state-approved [Florida pre-licensing course](/florida/prelicensing). Florida often requires a certain number of study hours—commonly around 40 hours for a health insurance license. This coursework covers important insurance topics such as policy provisions, underwriting, and state regulations.
 
 You can choose between in-person classes and online programs, depending on your schedule and learning style. In-person classes offer face-to-face interaction, while online courses let you learn at your own pace. Whichever path you pick, focus diligently on understanding the material, not just memorizing it for an exam.
 
@@ -68,7 +68,7 @@ If you encounter an especially tough question, avoid rushing to guess under pres
 
 After you pass your exam, you’re not quite done. You’ll still need to submit final documents, such as your exam completion certificate and any remaining paperwork required by the Florida Department of Financial Services. Once they approve your application, you’ll receive your official license in the mail or via email, depending on the system Florida has in place at that time.
 
-Your newly acquired license will open the door to a range of career opportunities. Some new license holders begin by working with established insurance agencies, while others prefer to start as independent agents. Whichever path you choose, remember to keep your license active by completing continuing education (CE) requirements every renewal cycle. These CE courses help you stay current with changes in state regulations and insurance products.
+Your newly acquired license will open the door to a range of career opportunities. Some new license holders begin by working with established insurance agencies, while others prefer to start as independent agents. Whichever path you choose, remember to keep your license active by completing [continuing education](/florida/continuing-education) (CE) requirements every renewal cycle. These CE courses help you stay current with changes in state regulations and insurance products.
 
 ### Explore ways to stay on track
 

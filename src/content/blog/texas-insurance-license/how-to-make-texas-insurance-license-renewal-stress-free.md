@@ -35,7 +35,7 @@ If you happen to miss your renewal deadline, there’s often a short grace perio
 
 ## Fulfill continuing education requirements
 
-To maintain your Texas insurance license, the state requires a set number of continuing education hours every two-year cycle. This ensures that you keep up with changes in insurance laws and industry trends. The exact number of hours may vary depending on the lines of authority you hold, but many licensees complete around 24 hours of instruction, which often includes ethics training.
+To maintain your Texas insurance license, the state requires a set number of [continuing education](/texas/continuing-education) hours every two-year cycle. This ensures that you keep up with changes in insurance laws and industry trends. The exact number of hours may vary depending on the lines of authority you hold, but many licensees complete around 24 hours of instruction, which often includes ethics training.
 
 When choosing a CE provider, look for state approval to guarantee your hours count. You can find a list of approved courses on the regulatory board’s website or through recognized training institutions. Many people prefer online programs because they let you study at your own pace without juggling class schedules.
 
@@ -63,7 +63,7 @@ Some professionals pay out of pocket, while others receive reimbursement from an
 
 ## Tips for a great exam experience
 
-If your renewal cycle or expanded lines of authority require an exam, don’t worry, you can prepare effectively without stress. Start your study journey by reviewing the latest Texas insurance regulations. While you likely recall much of what you learned in your pre-licensing course, updating your knowledge on recent legislative changes can give you an extra edge.
+If your renewal cycle or expanded lines of authority require an exam, don’t worry, you can prepare effectively without stress. Start your study journey by reviewing the latest Texas insurance regulations. While you likely recall much of what you learned in your [Texas pre-licensing course](/texas/prelicensing), updating your knowledge on recent legislative changes can give you an extra edge.
 
 To study efficiently:
 

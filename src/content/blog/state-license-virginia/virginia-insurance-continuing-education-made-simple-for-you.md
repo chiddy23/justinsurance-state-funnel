@@ -29,7 +29,7 @@ Some people find the regulations and steps overwhelming at first, but once you r
 
 Pre-licensing courses are crucial because they give you the tools and terminology to understand how policies function. This is also your chance to learn the state-specific guidelines that will appear on the exam. Most training providers offer flexible formats, such as in-person classes or online modules you can tackle at your own pace.
 
-If you have never studied insurance before, do not worry. You will find that pre-licensing training is structured to start you off with the essentials—from basic policy clauses to understanding deductibles and premiums. After all, your clients will rely on you to clarify these aspects, so building a solid skill set early in your career can pay off in the long run.
+If you have never studied insurance before, do not worry. You will find that [Virginia prelicensing training](/virginia/prelicensing) is structured to start you off with the essentials—from basic policy clauses to understanding deductibles and premiums. After all, your clients will rely on you to clarify these aspects, so building a solid skill set early in your career can pay off in the long run.
 
 You will generally need to complete each module and demonstrate your understanding through small quizzes or practice questions. Pay close attention to areas where you struggle so that you can circle back for extra review. It is easy to skip over tricky chapters when you study on your own, but mastering every section now will save you headaches later. Remember, the goal is to pass the state exam and feel prepared to advise real-world clients.
 

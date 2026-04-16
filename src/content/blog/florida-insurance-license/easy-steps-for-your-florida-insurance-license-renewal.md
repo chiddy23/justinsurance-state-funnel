@@ -23,7 +23,7 @@ You might feel a bit overwhelmed when it comes time to renew your [Florida insur
 
 Before diving into your renewal, it helps to clearly understand the basics of the Florida insurance license itself. Florida generally requires you to hold a license if you plan to sell or advise on insurance products within the state. The license you obtain depends on the type of insurance you want to specialize in, such as life insurance, health insurance, or property and casualty coverage.
 
-If you’re just getting started, you’ll need to complete a pre-licensing course approved by Florida regulators. This course introduces you to essential policy details, ethical considerations, and legal guidelines. Upon finishing the course, you’ll sit for a state exam. Once you pass, the [Florida Department of Financial Services](/florida/requirements) (DFS) issues your license, giving you the green light to start working in the industry. From that point onward, your license remains valid for a set period, and you must renew it before it expires.
+If you’re just getting started, you’ll need to complete a [Florida pre-licensing course](/florida/prelicensing) approved by Florida regulators. This course introduces you to essential policy details, ethical considerations, and legal guidelines. Upon finishing the course, you’ll sit for a state exam. Once you pass, the [Florida Department of Financial Services](/florida/requirements) (DFS) issues your license, giving you the green light to start working in the industry. From that point onward, your license remains valid for a set period, and you must renew it before it expires.
 
 ## Know your renewal schedule
 
@@ -33,7 +33,7 @@ By marking renewal dates on your calendar or setting digital reminders, you’ll
 
 ## Fulfill continuing education requirements
 
-One of the most important steps in renewing your license is completing your required continuing education (CE) credits. The exact number of credit hours varies, but many insurance professionals in Florida need to fulfill about 24 hours of CE every two-year cycle. CE courses help you stay up to date on emerging products, regulatory changes, and industry best practices, so you continue to serve clients effectively.
+One of the most important steps in renewing your license is completing your required [Florida continuing education](/florida/continuing-education) (CE) credits. The exact number of credit hours varies, but many insurance professionals in Florida need to fulfill about 24 hours of CE every two-year cycle. CE courses help you stay up to date on emerging products, regulatory changes, and industry best practices, so you continue to serve clients effectively.
 
 Below is a quick overview of how to choose and track your CE credits:
 

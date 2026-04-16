@@ -22,7 +22,7 @@ When you set your sights on earning a [Virginia health insurance license](/virgi
 
 ## Understand the licensing requirements
 
-The first mistake many aspiring agents make is not taking the time to learn the must-know details of Virginia’s licensing process. In general, you must be at least 18 years old, comply with fingerprinting and background checks, and complete the required pre-licensing coursework before you can even register for the exam.
+The first mistake many aspiring agents make is not taking the time to learn the must-know details of Virginia’s licensing process. In general, you must be at least 18 years old, comply with fingerprinting and background checks, and complete the required [Virginia prelicensing coursework](/virginia/prelicensing) before you can even register for the exam.
 
 These pre-licensing hours are not optional. They’re mandatory classes designed to give you an overview of important terms, regulations, and ethical standards that shape the insurance business. Skipping a portion of these can jeopardize your eligibility to take the exam or delay your license approval. Pay attention to all the topics covered in your course, since the exam questions often match these areas of study quite closely.
 
@@ -72,7 +72,7 @@ Staying motivated and informed is easier when you have a network in your corner.
 
 Earning your license is a big victory, but in most states, you’ll eventually need to renew or complete continuing education courses to keep your license active. Virginia is no exception. Don’t neglect these ongoing requirements, or you risk letting your license lapse.
 
-Once you’re fully licensed, mark your calendar with any upcoming renewal deadlines and note any continuing education hours you need. Completing these courses on time shows that you’re staying current with ever-updating insurance laws and best practices. Plus, keeping your license active ensures you won’t face interruptions in your ability to sell policies or advise clients.
+Once you’re fully licensed, mark your calendar with any upcoming renewal deadlines and note any [Virginia continuing education](/virginia/continuing-education) hours you need. Completing these courses on time shows that you’re staying current with ever-updating insurance laws and best practices. Plus, keeping your license active ensures you won’t face interruptions in your ability to sell policies or advise clients.
 
 ## Final thoughts and next steps
 

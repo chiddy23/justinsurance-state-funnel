@@ -36,7 +36,7 @@ Meeting the character requirement is just as vital as meeting the age and reside
 
 ## Complete your pre-licensing
 
-Once you’ve confirmed your eligibility, you’ll need to take the required pre-licensing education. Currently, Florida mandates a specific number of credit hours that you must complete through an approved course provider. These classes cover core insurance terms, legal guidelines, policy structures, and ethical practices.
+Once you’ve confirmed your eligibility, you’ll need to take the required [Florida pre-licensing education](/florida/prelicensing). Currently, Florida mandates a specific number of credit hours that you must complete through an approved course provider. These classes cover core insurance terms, legal guidelines, policy structures, and ethical practices.
 
 When choosing a pre-licensing program, look for interactive lessons and up-to-date resources that match Florida statutes. If you have a busy schedule, many providers offer online courses you can complete at your own pace. Completing these courses thoroughly sets you up for success in the state exam, so avoid rushing through the material.
 
@@ -86,7 +86,7 @@ No additional cost
 
 ## Maintain your license
 
-Congratulations if you’ve passed your exam and earned your license. Even after your license is issued, your work isn’t finished. In Florida, you must maintain continuing education (CE) credits to keep your property and casualty license active. This requirement ensures you stay current on policy changes, industry updates, and ethical practices.
+Congratulations if you’ve passed your exam and earned your license. Even after your license is issued, your work isn’t finished. In Florida, you must maintain [continuing education](/florida/continuing-education) (CE) credits to keep your property and casualty license active. This requirement ensures you stay current on policy changes, industry updates, and ethical practices.
 
 The good news is that most CE courses are flexible and easily fit into a work schedule. You can choose from in-person workshops, virtual seminars, or self-study modules. Keep track of your CE deadlines and meet them on time to avoid any late fees or license suspensions. By staying engaged in ongoing learning, you’ll build expertise that benefits both you and your clients.
 

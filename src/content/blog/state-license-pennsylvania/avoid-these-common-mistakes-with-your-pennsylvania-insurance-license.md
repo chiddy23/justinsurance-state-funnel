@@ -26,7 +26,7 @@ It’s easy to overlook the fact that each line of authority has its own set of 
 
 ## Complete your pre-licensing courses
 
-Finishing the mandatory coursework is often the most time-consuming phase. Pre-licensing courses range from about 20 hours for each line of authority all the way up to 40 hours or more, depending on provider requirements. Many people accidentally shortchange themselves by selecting the cheapest or fastest course without verifying whether it meets Pennsylvania’s licensing standards.
+Finishing the mandatory coursework is often the most time-consuming phase. [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) courses range from about 20 hours for each line of authority all the way up to 40 hours or more, depending on provider requirements. Many people accidentally shortchange themselves by selecting the cheapest or fastest course without verifying whether it meets Pennsylvania’s licensing standards.
 
 A better approach is to compare programs carefully. Look for:
 
@@ -66,7 +66,7 @@ Pennsylvania also requires a background check as part of the license issuance pr
 
 ## Keep your license active
 
-After all the work you pour into earning your Pennsylvania insurance producer license, don’t let it lapse due to neglect. Continuing Education (CE) is essential to maintaining an active license status, and the requirement depends on your lines of authority. Keep track of the renew-by dates and required hours well in advance, so you’re not scrambling at the last minute.
+After all the work you pour into earning your Pennsylvania insurance producer license, don’t let it lapse due to neglect. [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) is essential to maintaining an active license status, and the requirement depends on your lines of authority. Keep track of the renew-by dates and required hours well in advance, so you’re not scrambling at the last minute.
 
 If you transition between agencies or personal situations change (like moving to another state), be sure to update your contact information with the Pennsylvania Insurance Department. A small oversight like failing to report a new address could result in missing renewal notices, which can lead to an expired license.
 

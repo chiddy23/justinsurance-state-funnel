@@ -28,7 +28,7 @@ In addition, you’ll want to familiarize yourself with the specific lines of in
 
 ## Complete the pre-licensing education
 
-Once you’ve confirmed your eligibility, your next step is completing a state-approved pre-licensing course. These courses are designed to help you build a strong foundation in insurance terminology and regulations, as well as ethical standards and best practices in Virginia. Whether you prefer in-person classes or online study, you’ll want to dedicate enough time to thoroughly learn the material, since it factors heavily into your exam performance.
+Once you’ve confirmed your eligibility, your next step is completing a state-approved [Virginia prelicensing course](/virginia/prelicensing). These courses are designed to help you build a strong foundation in insurance terminology and regulations, as well as ethical standards and best practices in Virginia. Whether you prefer in-person classes or online study, you’ll want to dedicate enough time to thoroughly learn the material, since it factors heavily into your exam performance.
 
 Below are some common lines of authority and their required study hours:
 
@@ -55,7 +55,7 @@ Once your license is issued, it’s wise to keep digital and hard copies of your
 
 ## Maintain your Virginia license
 
-Earning your license is a big win—but staying licensed requires ongoing attention. Virginia mandates continuing education (CE) credits to ensure you remain up to date with industry regulations, ethical standards, and best practices. CE courses vary in length, price, and topic, so choose ones that truly benefit your career trajectory. You’ll need to complete these credits before each renewal period, which typically occurs every two years.
+Earning your license is a big win—but staying licensed requires ongoing attention. Virginia mandates [continuing education](/virginia/continuing-education) (CE) credits to ensure you remain up to date with industry regulations, ethical standards, and best practices. CE courses vary in length, price, and topic, so choose ones that truly benefit your career trajectory. You’ll need to complete these credits before each renewal period, which typically occurs every two years.
 
 Renewal itself is a straightforward process. You’ll confirm you’ve met the CE requirements, pay a renewal fee, and update any personal information that may have changed. Keeping your contact details current in state databases is important, since official reminders often arrive by mail or email. Missing a renewal deadline can result in additional fees or even the suspension of your license, so mark those dates on your calendar well in advance.
 

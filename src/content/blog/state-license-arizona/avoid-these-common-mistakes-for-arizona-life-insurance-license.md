@@ -24,7 +24,7 @@ Below are some of the most frequent missteps to watch for as you prepare for you
 
 ## Review the state requirements
 
-One of the biggest oversights is failing to understand Arizona’s unique licensing prerequisites. Each state has distinct regulations, and Arizona is no exception. This includes mandatory pre-licensing education, application paperwork, and exam details.
+One of the biggest oversights is failing to understand Arizona’s unique licensing prerequisites. Each state has distinct regulations, and Arizona is no exception. This includes mandatory [Arizona insurance prelicensing](/arizona/prelicensing) education, application paperwork, and exam details.
 
 If you skip verifying these requirements with the Arizona Department of Insurance, you could end up taking irrelevant courses or neglecting essential steps. A good rule of thumb is to always confirm whether you need a separate license for life, health, property, or casualty lines. By confirming these details early, you can register for the correct classes and develop a clear study plan.
 
@@ -58,7 +58,7 @@ When tackling each question, read it carefully and identify the specific concept
 
 Securing your Arizona life insurance license is just the beginning. Many new licensees overlook continuing education requirements, which can lead to issues when it’s time to renew. This is easy to do, especially if you’re juggling daily job responsibilities, client meetings, and personal commitments.
 
-Arizona typically requires ongoing education to keep your license active. By ignoring these rules, you risk letting your license lapse, forcing you to retake exams, resend paperwork, or pay penalties. Even worse, your reputation could suffer if clients learn that you allowed your license to expire.
+Arizona typically requires ongoing [Arizona continuing education](/arizona/continuing-education) to keep your license active. By ignoring these rules, you risk letting your license lapse, forcing you to retake exams, resend paperwork, or pay penalties. Even worse, your reputation could suffer if clients learn that you allowed your license to expire.
 
 To avoid this problem, create a simple calendar reminder or set up an alert on your phone with enough lead time to complete the necessary courses. This way, you’ll keep your knowledge up to date, stay compliant, and maintain your good standing in the industry.
 

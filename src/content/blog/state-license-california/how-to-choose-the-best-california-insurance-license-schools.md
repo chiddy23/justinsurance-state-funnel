@@ -20,7 +20,7 @@ imageCredit: Photo by Anastasia  Shuraeva on Pexels
 
 ## Understand the licensing requirements
 
-Choosing the best [California insurance license](/california) schools starts with knowing the prerequisites for your insurance license. In California, you generally need to be at least 18 years old and clear any required background checks before you can earn a license. Since the state wants to ensure you fully grasp insurance processes and regulations, you must take a pre-licensing education course approved by the [California Department of Insurance](/california/requirements) (CDI). This course covers essential topics like insurance ethics, state regulations, and consumer protection.
+Choosing the best [California insurance license schools](/california/prelicensing) starts with knowing the prerequisites for your insurance license. In California, you generally need to be at least 18 years old and clear any required background checks before you can earn a license. Since the state wants to ensure you fully grasp insurance processes and regulations, you must take a pre-licensing education course approved by the [California Department of Insurance](/california/requirements) (CDI). This course covers essential topics like insurance ethics, state regulations, and consumer protection.
 
 Under California's AB 943 (effective January 1, 2026), the only mandatory prelicensing course is the 12-hour Code and Ethics course — the line-specific product hour requirement was eliminated. Most candidates still choose to add structured exam prep on top of the required Ethics course to pass the state licensing exam with confidence. Once you complete the Ethics course, you’ll receive a certificate that allows you to sit for the official licensing exam.
 
@@ -35,7 +35,7 @@ Before settling on a school, clarify which license you're aiming for, because ea
 -   Property and Casualty: For auto, home, and business insurance
 -   Personal Lines: For personal property needs like auto or home
 
-When selecting from various California insurance license schools, confirm that the institution caters to your specific license type. Some programs bundle Life and Health courses together, while others specialize in Property and Casualty. If you decide later to add more licenses, check whether the school offers continuing education or extra courses to expand your credentials.
+When selecting from various California insurance license schools, confirm that the institution caters to your specific license type. Some programs bundle Life and Health courses together, while others specialize in Property and Casualty. If you decide later to add more licenses, check whether the school offers [continuing education](/california/continuing-education) or extra courses to expand your credentials.
 
 ## Explore course formats
 

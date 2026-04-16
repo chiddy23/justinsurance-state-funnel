@@ -31,7 +31,7 @@ For most applicants, completing a fingerprint-based background check is also par
 
 ## Complete your pre-licensing education
 
-Texas requires a minimum number of pre-licensing education hours for anyone seeking an insurance license. These courses, usually offered online or in-person, cover essential topics such as policy types, ethical practices, claim handling, and Texas-specific regulations. They’re designed to give you a firm foundation in insurance principles so you can serve clients responsibly.
+Texas requires a minimum number of [pre-licensing education](/texas/prelicensing) hours for anyone seeking an insurance license. These courses, usually offered online or in-person, cover essential topics such as policy types, ethical practices, claim handling, and Texas-specific regulations. They’re designed to give you a firm foundation in insurance principles so you can serve clients responsibly.
 
 Because you have multiple course providers and formats to choose from, it’s wise to do some research on quality and price. Many aspiring agents in Texas turn to JustInsurance for friendly, user-focused courses. Not only do reputable programs cover the required curriculum, but they also prepare you thoroughly for the official state exam.
 
@@ -59,7 +59,7 @@ There is also an application fee, so keep that in mind as you budget for the pro
 
 ## Next steps after licensing
 
-Congratulations — once your paperwork is approved, you’ll officially be licensed to sell insurance in the state of Texas. At this point, you might want to consider your continuing education (CE) obligations. Texas requires licensees to complete a certain number of CE hours within each renewal period to stay up to date on laws and industry practices. Mark these renewal dates on your calendar to avoid missing deadlines.
+Congratulations — once your paperwork is approved, you’ll officially be licensed to sell insurance in the state of Texas. At this point, you might want to consider your continuing education (CE) obligations. Texas requires licensees to complete a certain number of [CE hours](/texas/continuing-education) within each renewal period to stay up to date on laws and industry practices. Mark these renewal dates on your calendar to avoid missing deadlines.
 
 You’ll also want to build relationships with insurance carriers or agencies that match your professional goals. Many new licensees explore different lines of insurance and seek mentorship within established agencies to gain practical experience. By continually learning and applying new expertise, you’ll quickly develop a strong reputation and earn client trust.
 

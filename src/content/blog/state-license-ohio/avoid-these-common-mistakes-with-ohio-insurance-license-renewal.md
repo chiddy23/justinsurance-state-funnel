@@ -47,7 +47,7 @@ A good habit is to set reminders in your calendar or phone about 90 days before 
 
 ## Avoid underestimating continuing education
 
-Continuing education (CE) is more than just a checkbox. It’s designed to keep your industry knowledge up to date and ensure you’re offering clients the best possible guidance. For renewal in Ohio, you need to complete a certain number of hours in state-approved CE courses. Topics can range from general insurance ethics to product-specific training.
+Continuing education (CE) is more than just a checkbox. It’s designed to keep your industry knowledge up to date and ensure you’re offering clients the best possible guidance. For renewal in Ohio, you need to complete a certain number of hours in state-approved [Ohio continuing education](/ohio/continuing-education) courses. Topics can range from general insurance ethics to product-specific training.
 
 A frequent mistake is thinking you can breeze through these courses in one day. While you might be able to fit them into a condensed schedule, it’s more comfortable to spread them out over several weeks. Rushing through your CE at the last minute also increases your risk of errors in attendance or missing a mandatory topic. Plan your CE courses alongside your work schedule, and keep proof of completion on file in case the state requests verification.
 

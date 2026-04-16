@@ -28,7 +28,7 @@ If you’re in doubt about your background or any specific eligibility questions
 
 ## Complete your pre-licensing education
 
-The next step to earning your Pennsylvania property and casualty license is registering for the required pre-licensing education. Pennsylvania mandates a set number of pre-licensing hours before you can sit for the state exam. The exact number of hours can vary, so you’ll want to confirm the current requirements with an approved education provider.
+The next step to earning your Pennsylvania property and casualty license is registering for the required pre-licensing education. Pennsylvania mandates a set number of [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) hours before you can sit for the state exam. The exact number of hours can vary, so you’ll want to confirm the current requirements with an approved education provider.
 
 Once you’ve verified how many hours you need, choose a program that fits your schedule and learning style. Some people thrive in an online course environment, where you can study whenever you have free time. Others prefer an in-person classroom setting with live instruction and immediate feedback. Reputable providers like JustInsurance can guide you through the essentials, from risk management principles to policy details, ensuring you’re thoroughly prepared for the final exam.
 
@@ -50,7 +50,7 @@ At this stage, the state will conduct a final review to ensure you meet all guid
 
 ## Maintain and renew your credentials
 
-Licensure is just the beginning. Whether you plan to join an insurance agency, work with a brokerage, or open your own practice, you’ll need to keep your license active by meeting renewal requirements. In Pennsylvania, this usually involves completing a specific number of continuing education hours within each renewal period, which lasts a few years. Check with the Pennsylvania Insurance Department or your education provider about the exact requirements for renewing a property and casualty license.
+Licensure is just the beginning. Whether you plan to join an insurance agency, work with a brokerage, or open your own practice, you’ll need to keep your license active by meeting renewal requirements. In Pennsylvania, this usually involves completing a specific number of [Pennsylvania continuing education](/pennsylvania/continuing-education) hours within each renewal period, which lasts a few years. Check with the Pennsylvania Insurance Department or your education provider about the exact requirements for renewing a property and casualty license.
 
 Continuing education is more than a legal obligation. It’s also your chance to stay sharp, discover new coverage trends, and master industry updates. That way, you’ll always be able to suggest policies that meet your clients’ changing needs. If you want to diversify your expertise, you can pursue specialty lines or additional licenses over time. Each new certification can make you more marketable as an insurance professional.
 

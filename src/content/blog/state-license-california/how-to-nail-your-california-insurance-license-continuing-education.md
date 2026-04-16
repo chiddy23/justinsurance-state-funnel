@@ -18,11 +18,11 @@ imageAlt: >-
 imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
-Securing your [California insurance license](/california) continuing education doesn’t have to be a daunting task. With a solid roadmap and the right support, you can fulfill these requirements while strengthening your expertise in the insurance field. Whether you’re renewing your existing license or aiming to add more lines of authority, you’ll find that each step contributes to your professional growth and success. Think of it as an opportunity to expand your skills, not just a checkbox on your to-do list.
+Securing your [California insurance license](/california) continuing education doesn’t have to be a daunting task. If you're still working toward your initial license, start with our [California prelicensing courses](/california/prelicensing) before tackling CE. With a solid roadmap and the right support, you can fulfill these requirements while strengthening your expertise in the insurance field. Whether you’re renewing your existing license or aiming to add more lines of authority, you’ll find that each step contributes to your professional growth and success. Think of it as an opportunity to expand your skills, not just a checkbox on your to-do list.
 
 ## Know your continuing education basics
 
-California mandates that all licensed insurance agents complete a set number of continuing education (CE) hours every renewal cycle. Typically, you need 24 hours of approved coursework every two years, including ethics training. If you’re licensed for specific lines of authority, you may need additional courses to remain compliant. For most agents, this program ensures you stay up to date on regulations, market trends, and best practices.
+California mandates that all licensed insurance agents complete a set number of [continuing education](/california/continuing-education) (CE) hours every renewal cycle. Typically, you need 24 hours of approved coursework every two years, including ethics training. If you’re licensed for specific lines of authority, you may need additional courses to remain compliant. For most agents, this program ensures you stay up to date on regulations, market trends, and best practices.
 
 Most courses you’ll encounter focus on the real-world challenges you face daily. When you approach these classes with curiosity, you’ll discover new strategies to serve clients better, avoid compliance issues, and keep your career on an upward trajectory. By treating your CE requirements as a key part of your overall professional development, you’re positioning yourself for long-term success.
 

@@ -28,7 +28,7 @@ The renewal process typically includes completing the mandatory continuing educa
 
 ## Complete your continuing education
 
-If you plan your continuing education (CE) courses in advance, you are far less likely to scramble at the last moment. The [Pennsylvania Insurance Department](/pennsylvania/requirements) requires a specific number of CE credits every renewal cycle. Often, these courses update you on the latest state regulations or broaden your knowledge of new insurance products. When you see continuing education as an opportunity to upgrade your skills rather than a chore, you will be more inclined to finish it without procrastination.
+If you plan your continuing education (CE) courses in advance, you are far less likely to scramble at the last moment. The [Pennsylvania Insurance Department](/pennsylvania/requirements) requires a specific number of [Pennsylvania continuing education](/pennsylvania/continuing-education) credits every renewal cycle. Often, these courses update you on the latest state regulations or broaden your knowledge of new insurance products. When you see continuing education as an opportunity to upgrade your skills rather than a chore, you will be more inclined to finish it without procrastination.
 
 While each agent’s situation varies, aim to stay consistent in your approach. You could schedule a couple of hours each month to study, or sign up for a program that splits the required lessons into manageable segments. Either way, reviewing the rules that apply to your license class ensures you do not take the wrong courses or miss a crucial topic.
 
@@ -47,7 +47,7 @@ One simple method is to set calendar alerts or phone reminders several weeks bef
 
 ## Avoid last-minute exam stress
 
-If you are a first-time applicant, you know how critical the pre-licensing exam can be. But for license renewals, additional exams may sometimes be required if you let your license expire or need an additional line of authority. Waiting until the last minute to schedule an exam can create unnecessary tension. Testing centers might have limited availability, especially near peak deadlines.
+If you are a first-time applicant, you know how critical the [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) exam can be. But for license renewals, additional exams may sometimes be required if you let your license expire or need an additional line of authority. Waiting until the last minute to schedule an exam can create unnecessary tension. Testing centers might have limited availability, especially near peak deadlines.
 
 To prevent stress, research your testing center options early and consider booking your timeslot as soon as you confirm your need for an exam. That way, you can select a date that complements your schedule. You also get enough time to prepare properly, rather than cramming in a panic. If you do not need an additional exam, make sure to keep track of any alternative requirements that might apply to your particular license type.
 

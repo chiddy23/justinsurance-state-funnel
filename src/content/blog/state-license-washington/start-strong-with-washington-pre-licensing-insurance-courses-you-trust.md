@@ -110,4 +110,4 @@ Securing a [Washington insurance license](/washington) starts with the right edu
 
 At JustInsurance, we believe that every aspiring agent deserves well-structured courses, up-to-date exam prep, and real-person support. By focusing on these essentials, you gain the knowledge, confidence, and credentials you need to launch your insurance career.
 
-Ready to begin? Explore your course options today and enroll in a program that suits your learning style and schedule. With good preparation, you can pass the exam on your first try and get licensed faster. The possibilities that follow are well within your reach, so take that next step forward. Your future in the Washington insurance industry is waiting.
+Ready to begin? Explore your course options today and enroll in a program that suits your learning style and schedule. With good preparation, you can pass the exam on your first try and get licensed faster, then stay sharp with [Washington continuing education](/washington/continuing-education) each renewal. The possibilities that follow are well within your reach, so take that next step forward. Your future in the Washington insurance industry is waiting.

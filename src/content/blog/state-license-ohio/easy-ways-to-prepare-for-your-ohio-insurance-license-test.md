@@ -29,7 +29,7 @@ Typically, you must be at least 18 years old and a resident of the state. You sh
 
 ## Complete pre-licensing education
 
-Ohio requires you to complete a set number of pre-licensing education hours before you’re eligible to take the final licensing exam. The number of hours can vary based on the type of insurance license you pursue, so it’s important to plan accordingly. Common lines of authority can include:
+Ohio requires you to complete a set number of [Ohio prelicensing](/ohio/prelicensing) education hours before you’re eligible to take the final licensing exam. The number of hours can vary based on the type of insurance license you pursue, so it’s important to plan accordingly. Common lines of authority can include:
 
 -   Life insurance
 -   Accident and health insurance
@@ -80,4 +80,4 @@ Earning your Ohio insurance license is more than just passing an exam. It’s th
 
 If you’d like additional support through each step, JustInsurance can help you navigate the exam process and ensure you meet every requirement. With personalized guidance, you’ll feel more confident about your ability to succeed, both on the exam day and in your new insurance career.
 
-Take it one stage at a time, focus on your goals, and don’t forget to celebrate each milestone along the way. You’re already on the path to success, and with thoughtful preparation, you’ll soon be a licensed agent serving clients throughout Ohio. Good luck, and welcome to an exciting, opportunity-filled field.
+Once you are licensed, our [Ohio continuing education](/ohio/continuing-education) courses keep your credential active through each renewal cycle. Take it one stage at a time, focus on your goals, and don’t forget to celebrate each milestone along the way. You’re already on the path to success, and with thoughtful preparation, you’ll soon be a licensed agent serving clients throughout Ohio. Good luck, and welcome to an exciting, opportunity-filled field.

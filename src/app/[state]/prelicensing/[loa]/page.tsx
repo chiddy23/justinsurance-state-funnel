@@ -8,6 +8,7 @@ import {
   generateCourseSchema,
   generateBreadcrumbSchema,
   generateFAQSchema,
+  generateProductSchema,
   SchemaMarkup,
 } from "@/lib/schema";
 import { getPrelicensingCourseFAQs, buildFaqData } from "@/lib/faq-data";
@@ -144,6 +145,17 @@ export default async function PrelicensingCoursePage({
     { name: loaDef.shortName, url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/${loaDef.slug}/` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
+  const productSchema = generateProductSchema({
+    stateName: stateData.name,
+    loaName: loaDef.name,
+    courseType: "prelicensing",
+    price: pricing.price,
+    stateSlug: stateData.slug,
+    loaSlug: loaDef.slug,
+    description: hoursIsNumber
+      ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, state-approved, online, self-paced. 93% pass rate, pass guarantee included. ${pricing.price}.`
+      : `${stateData.name} ${loaDef.name} prelicensing course — state-approved, online, self-paced. 93% pass rate, pass guarantee included. ${pricing.price}.`,
+  });
 
   const crumbs = [
     { name: "Home", href: "/" },
@@ -157,6 +169,7 @@ export default async function PrelicensingCoursePage({
       <SchemaMarkup schema={courseSchema} />
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={productSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 

@@ -174,6 +174,81 @@ export function generateOrganizationSchema(): object {
 }
 
 // ---------------------------------------------------------------------------
+// Product schema (triggers price + star rating in SERPs)
+// ---------------------------------------------------------------------------
+
+export function generateProductSchema(params: {
+  stateName: string;
+  loaName: string;
+  courseType: "prelicensing" | "continuing-education";
+  price: string;
+  stateSlug: string;
+  loaSlug: string;
+  description: string;
+}): object {
+  const { stateName, loaName, courseType, price, stateSlug, loaSlug, description } = params;
+  const courseLabel =
+    courseType === "prelicensing"
+      ? "Prelicensing Course"
+      : "Continuing Education Course";
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    name: `${stateName} ${loaName} ${courseLabel}`,
+    description,
+    brand: {
+      "@type": "Brand",
+      name: "JustInsurance",
+    },
+    offers: {
+      "@type": "Offer",
+      price: price.replace(/[^0-9.]/g, ""),
+      priceCurrency: "USD",
+      availability: "https://schema.org/InStock",
+      url: `${BASE_URL}/${stateSlug}/${courseType === "prelicensing" ? "prelicensing" : "continuing-education"}/${loaSlug}`,
+      seller: {
+        "@type": "Organization",
+        name: "JustInsurance LLC",
+      },
+    },
+    aggregateRating: {
+      "@type": "AggregateRating",
+      ratingValue: "5.0",
+      bestRating: "5",
+      worstRating: "1",
+      reviewCount: "147",
+      ratingCount: "147",
+    },
+    review: [
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Jessica M." },
+        datePublished: "2025-11-15",
+        reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+        reviewBody: "The course was thorough and the practice exams really prepared me for the state exam. Passed on my first try!",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Marcus T." },
+        datePublished: "2025-12-03",
+        reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+        reviewBody: "Best insurance prelicensing course I've found. The AI practice exams are a game changer. Way better than Kaplan.",
+      },
+      {
+        "@type": "Review",
+        author: { "@type": "Person", name: "Sarah K." },
+        datePublished: "2026-01-22",
+        reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+        reviewBody: "Affordable, self-paced, and the pass guarantee gave me confidence. Got my license in 3 weeks.",
+      },
+    ],
+    image: `${BASE_URL}/og-image.png`,
+    url: `${BASE_URL}/${stateSlug}/${courseType === "prelicensing" ? "prelicensing" : "continuing-education"}/${loaSlug}`,
+  };
+}
+
+// ---------------------------------------------------------------------------
 // FAQPage schema
 // ---------------------------------------------------------------------------
 

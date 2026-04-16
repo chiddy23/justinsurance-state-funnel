@@ -239,11 +239,13 @@ function pickFromUnified(
     t.state?.toLowerCase() === stateName.toLowerCase();
 
   const stateYoutube = pool.filter((t) => t.source === "youtube" && stateMatches(t));
+  const stateGoogle = pool.filter((t) => t.source === "google" && stateMatches(t));
   const genericYoutube = pool.filter((t) => t.source === "youtube" && !stateMatches(t));
+  const genericGoogle = pool.filter((t) => t.source === "google" && !stateMatches(t));
   const stateVerified = pool.filter((t) => t.source === "verified-student" && stateMatches(t));
   const genericVerified = pool.filter((t) => t.source === "verified-student" && !stateMatches(t));
 
-  const combined = [...stateYoutube, ...stateVerified, ...genericYoutube, ...genericVerified];
+  const combined = [...stateYoutube, ...stateGoogle, ...stateVerified, ...genericYoutube, ...genericGoogle, ...genericVerified];
   // Deduplicate by name+text
   const seen = new Set<string>();
   const unique: Testimonial[] = [];
@@ -278,6 +280,8 @@ export default function TestimonialCards({ leadTestimonial, variant = "prelicens
           role={
             t.source === "youtube"
               ? `via YouTube comment${t.licenseType ? " · " + t.licenseType : t.state ? " · " + t.state : ""}`
+              : t.source === "google"
+              ? `via Google Review${t.state ? " · " + t.state : ""}`
               : t.source === "ce-renewal"
               ? `CE Renewal${t.state ? " · " + t.state : ""}`
               : t.licenseType

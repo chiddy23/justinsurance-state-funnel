@@ -10,7 +10,7 @@
 // 4. Set licenseType to "Life", "Health", "Life & Health", "P&C", "CE", or omit
 // 5. Quote the comment as written — typos and casual tone are credibility signals
 
-export type TestimonialSource = "youtube" | "verified-student" | "ce-renewal";
+export type TestimonialSource = "youtube" | "verified-student" | "ce-renewal" | "google";
 
 export interface Testimonial {
   /** Display name — first + last initial preferred for privacy */
@@ -558,9 +558,34 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
 // Public exports — site reads from these
 // ---------------------------------------------------------------------------
 
-/** All testimonials, YouTube first (most credible), then generic */
+// ---------------------------------------------------------------------------
+// Google Business Profile reviews (verified, 5-star)
+// ---------------------------------------------------------------------------
+export const GOOGLE_REVIEWS: Testimonial[] = [
+  {
+    name: "Fernando M.",
+    initials: "FM",
+    text: "Great customer service from Kathleen in helping me resolve my issue. She was friendly, persistent and showed concern in helping me solve my problem.",
+    source: "google",
+  },
+  {
+    name: "Dee L.",
+    initials: "DL",
+    text: "Justin is great! He's videos on YouTube helped me a lot. Bought his practice test as well helped me a ton! Highly recommend.",
+    source: "google",
+  },
+  {
+    name: "Pari B.",
+    initials: "PB",
+    text: "Very informative and nice staff",
+    source: "google",
+  },
+];
+
+/** All testimonials, YouTube first (most credible), Google next, then generic */
 export const ALL_TESTIMONIALS: Testimonial[] = [
   ...YOUTUBE_COMMENTS,
+  ...GOOGLE_REVIEWS,
   ...GENERIC_TESTIMONIALS,
 ];
 

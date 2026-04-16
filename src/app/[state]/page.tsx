@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
-import { generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
+import { generateBreadcrumbSchema, generateFAQSchema, generateStateHubCourseSchema, SchemaMarkup } from "@/lib/schema";
 import { getStateHubFAQs, buildFaqData } from "@/lib/faq-data";
 import StateHero from "@/components/StateHero";
 import TrustBar from "@/components/TrustBar";
@@ -77,6 +77,13 @@ export default async function StateHubPage({
     { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}/` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
+  const lahHours = stateData.prelicensing?.lifeAndHealth?.hours;
+  const courseSchema = generateStateHubCourseSchema({
+    stateName: stateData.name,
+    stateSlug: stateData.slug,
+    price: stateData.prelicensing?.lifeAndHealth?.price || "$199",
+    hours: typeof lahHours === "number" ? lahHours : undefined,
+  });
 
   const crumbs = [
     { name: "Home", href: "/" },
@@ -104,6 +111,7 @@ export default async function StateHubPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={courseSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 

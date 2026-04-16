@@ -15,7 +15,7 @@ export function generateAggregateRatingSchema(): object {
   // policies that require reviewCount to reflect real reviews.
   return {
     "@type": "AggregateRating",
-    "ratingValue": "4.9",
+    "ratingValue": "5.0",
     "bestRating": "5",
     "ratingCount": "30000",
   };
@@ -71,6 +71,50 @@ export function generateCourseSchema(params: {
     inLanguage: "en-US",
     isAccessibleForFree: false,
     url: BASE_URL,
+  };
+}
+
+// ---------------------------------------------------------------------------
+// State-hub Course schema (surfaces course rich results on /[state]/ pages)
+// ---------------------------------------------------------------------------
+
+export function generateStateHubCourseSchema(params: {
+  stateName: string;
+  stateSlug: string;
+  price: string;
+  hours?: number | string;
+}): object {
+  const { stateName, stateSlug, price, hours } = params;
+  const hoursNum = typeof hours === "number" ? hours : undefined;
+  return {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    name: `${stateName} Insurance Prelicensing Course — Life & Health`,
+    description: `State-approved online insurance prelicensing course for ${stateName}. Pass your ${stateName} state licensing exam on the first attempt. 100% online, self-paced, includes practice exams and pass guarantee.`,
+    provider: {
+      "@type": "Organization",
+      name: "JustInsurance LLC",
+      url: BASE_URL,
+      logo: LOGO_URL,
+    },
+    hasCourseInstance: {
+      "@type": "CourseInstance",
+      courseMode: "online",
+      ...(hoursNum ? { courseWorkload: `PT${hoursNum}H` } : {}),
+    },
+    offers: {
+      "@type": "Offer",
+      price: price.replace(/[^0-9.]/g, ""),
+      priceCurrency: "USD",
+      availability: "https://schema.org/InStock",
+      url: `${BASE_URL}/${stateSlug}/prelicensing`,
+    },
+    courseMode: "online",
+    educationalCredentialAwarded: `${stateName} Insurance Prelicensing Certificate`,
+    ...(hoursNum ? { timeRequired: `PT${hoursNum}H` } : {}),
+    inLanguage: "en-US",
+    isAccessibleForFree: false,
+    url: `${BASE_URL}/${stateSlug}`,
   };
 }
 

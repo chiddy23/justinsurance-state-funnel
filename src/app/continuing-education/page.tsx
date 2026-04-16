@@ -3,6 +3,7 @@ import Link from "next/link";
 import { STATES } from "@/lib/states";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
+import TestimonialCards from "@/components/TestimonialCards";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
 const PAGE_TITLE = "Insurance CE Courses | Same-Day Reporting | JustInsurance";
@@ -65,6 +66,32 @@ export default function ContinuingEducationPage() {
     { name: "Continuing Education", url: CANONICAL },
   ]);
   const faqSchema = generateFAQSchema(faqs);
+  const courseSchema = {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    name: "Insurance Continuing Education (CE) Courses",
+    description: "State-approved online insurance CE courses for license renewal. All 50 states covered. Same-day reporting to your state DOI. From $39.",
+    provider: {
+      "@type": "Organization",
+      name: "JustInsurance LLC",
+      url: "https://justinsuranceco.com",
+      logo: "https://justinsuranceco.com/justinsurance-logo.png",
+    },
+    hasCourseInstance: {
+      "@type": "CourseInstance",
+      courseMode: "online",
+    },
+    offers: {
+      "@type": "Offer",
+      price: "39",
+      priceCurrency: "USD",
+      availability: "https://schema.org/InStock",
+      url: CANONICAL,
+    },
+    courseMode: "online",
+    inLanguage: "en-US",
+    url: CANONICAL,
+  };
 
   const states = Object.values(STATES)
     .filter((s) => s.slug !== "new-york")
@@ -74,6 +101,7 @@ export default function ContinuingEducationPage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={courseSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -159,6 +187,21 @@ export default function ContinuingEducationPage() {
         </div>
       </section>
 
+      {/* CE vs Prelicensing callout */}
+      <section className="bg-white py-8 px-4">
+        <div className="max-w-3xl mx-auto">
+          <div className="bg-blue-50 border-l-4 border-gold rounded-r-lg p-5">
+            <p className="font-bold text-navy mb-1">Already licensed? You need CE — not prelicensing.</p>
+            <p className="text-gray-700 text-sm leading-relaxed">
+              Continuing education (CE) is how you renew an active insurance license. It&apos;s shorter and simpler than prelicensing. If you&apos;re getting your insurance license for the first time,{" "}
+              <Link href="/prelicensing" className="text-navy underline hover:text-gold font-medium">
+                start here →
+              </Link>
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Stats */}
       <section className="bg-gray-50 py-16 px-4" style={{ backgroundColor: "#F5F7FA" }}>
         <div className="max-w-5xl mx-auto">
@@ -204,6 +247,9 @@ export default function ContinuingEducationPage() {
           </div>
         </div>
       </section>
+
+      {/* CE Testimonials */}
+      <TestimonialCards variant="ce" seed="ce-hub" stateName="" />
 
       {/* FAQ */}
       <section className="bg-gray-50 py-16 px-4" style={{ backgroundColor: "#F5F7FA" }}>

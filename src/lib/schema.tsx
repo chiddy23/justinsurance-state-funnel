@@ -71,7 +71,6 @@ export function generateCourseSchema(params: {
     teaches: `${stateName} ${loaName} insurance licensing requirements`,
     timeRequired: `PT${hours}H`,
     inLanguage: "en-US",
-    isAccessibleForFree: false,
     url: BASE_URL,
   };
 }
@@ -115,7 +114,6 @@ export function generateStateHubCourseSchema(params: {
     educationalCredentialAwarded: `${stateName} Insurance Prelicensing Certificate`,
     ...(hoursNum ? { timeRequired: `PT${hoursNum}H` } : {}),
     inLanguage: "en-US",
-    isAccessibleForFree: false,
     url: `${BASE_URL}/${stateSlug}`,
   };
 }

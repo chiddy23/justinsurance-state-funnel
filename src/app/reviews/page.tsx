@@ -7,7 +7,7 @@ import { ALL_TESTIMONIALS, GOOGLE_REVIEWS, type Testimonial } from "@/lib/testim
 export const metadata: Metadata = {
   title: { absolute: "JustInsurance Student Reviews & Testimonials" },
   description:
-    "Real reviews from JustInsurance students who passed their state insurance licensing exam. 4.9-star rating, 30,000+ agents licensed across 50 states.",
+    "Real reviews from JustInsurance students who passed their state insurance licensing exam. 5-star Google rating, 30,000+ agents licensed across 50 states.",
   alternates: { canonical: "https://justinsuranceco.com/reviews" },
 };
 
@@ -42,7 +42,7 @@ const aggregateRatingSchema = {
     "State-approved insurance prelicensing and continuing education courses for all 50 states. 100% online, self-paced, with same-day CE reporting and a published pass guarantee.",
   aggregateRating: {
     "@type": "AggregateRating",
-    ratingValue: "4.9",
+    ratingValue: "5.0",
     bestRating: "5",
     worstRating: "1",
     ratingCount: "30000",
@@ -85,7 +85,7 @@ export default function ReviewsPage() {
           </h1>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-4">
             <StarRow />
-            <p className="text-2xl font-bold">4.9 / 5</p>
+            <p className="text-2xl font-bold">5.0 / 5</p>
           </div>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
             30,000+ agents licensed across all 50 states. Real feedback from
@@ -99,7 +99,7 @@ export default function ReviewsPage() {
       <section className="bg-gold/10 border-b border-gold/30 py-6 px-4">
         <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-5 gap-4 text-center">
           <div>
-            <p className="text-2xl md:text-3xl font-bold text-navy">4.9★</p>
+            <p className="text-2xl md:text-3xl font-bold text-navy">5.0★</p>
             <p className="text-xs text-gray-700">Average rating</p>
           </div>
           <a
@@ -281,7 +281,7 @@ export default function ReviewsPage() {
           <p className="text-gray-600 leading-relaxed text-sm">
             Reviews shown above are real student feedback collected through course
             completion surveys and follow-up communication. Initials are used in
-            place of full names to protect student privacy. Our 4.9-star rating
+            place of full names to protect student privacy. Our 5-star rating
             reflects aggregate satisfaction across the 30,000+ students who have
             completed JustInsurance prelicensing or CE courses since 2017. For our
             published pass-rate methodology, see{" "}

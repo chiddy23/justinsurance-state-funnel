@@ -263,8 +263,8 @@ export default function TestimonialCards({ leadTestimonial, variant = "prelicens
 
   const heading = isCE ? "What Our Agents Say" : "What Our Students Say";
   const subheading = isCE
-    ? "4.9 stars from 30,000+ agents who renewed with us"
-    : "4.9 stars from 30,000+ students licensed nationwide";
+    ? "5-star rated by 30,000+ agents who renewed with us"
+    : "5-star rated by 30,000+ students licensed nationwide";
   const genericTestimonials = isCE ? CE_TESTIMONIALS : GENERIC_TESTIMONIALS;
 
   // New path: when stateName is provided, render 3 unified testimonials

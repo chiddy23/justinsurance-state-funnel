@@ -12,6 +12,8 @@ import StateHero from "@/components/StateHero";
 import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import EditorialByline from "@/components/EditorialByline";
+import SourcesBlock from "@/components/SourcesBlock";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -167,6 +169,11 @@ export default async function RequirementsPage({
           )}
           <span>Approved by {stateData.doiAbbr}</span>
         </div>
+      </div>
+
+      {/* Editorial byline */}
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <EditorialByline lastVerified={stateData.lastVerified} />
       </div>
 
       {/* ── 2. Quick Requirements Summary Table ─────────────────────────────── */}
@@ -729,7 +736,10 @@ export default async function RequirementsPage({
         </div>
       </section>
 
-      {/* ── 10. CTA Banner ──────────────────────────────────────────────────── */}
+      {/* ── 10. Sources & Regulators ─────────────────────────────────────────── */}
+      <SourcesBlock stateData={stateData} />
+
+      {/* ── 11. CTA Banner ──────────────────────────────────────────────────── */}
       <CTABanner
         title={`Ready to Get Your ${stateData.name} Insurance License?`}
         subtitle={`Start your state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee.`}

@@ -96,7 +96,7 @@ This final step is your validation of all the hard work and study that got you t
 
 ## Stay motivated with JustInsurance
 
-Even after you’ve earned your license, the learning doesn’t stop. Since regulations and industry trends keep evolving, continuing education is often required to maintain your credential. This is also where a resource like JustInsurance can make a big difference. From helpful study tools to updates on the latest policy changes, you’ll find everything you need to keep your knowledge current.
+Even after you’ve earned your license, the learning doesn’t stop. Since regulations and industry trends keep evolving, [Michigan continuing education](/michigan/continuing-education) is required to maintain your credential. This is also where a resource like JustInsurance can make a big difference. From helpful study tools to updates on the latest policy changes, you’ll find everything you need to keep your knowledge current.
 
 Think of your new license as a passport into the insurance world — a realm where you can offer security to individuals and families. Keeping your skills fresh allows you to excel in that role. Plus, you’ll find it easier to spot growth opportunities and expand into other lines of coverage, ultimately making yourself more marketable as an insurance professional.
 

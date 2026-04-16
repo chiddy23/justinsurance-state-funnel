@@ -91,7 +91,7 @@ When your license is approved, consider celebrating your achievement. Launching 
 
 -   Submit your licensing application with all required documents.
 -   Pay the license fee (amount may vary by line of authority).
--   Enroll in continuing education to keep your license active.
+-   Enroll in [New Jersey continuing education](/new-jersey/continuing-education) to keep your license active.
 -   Network with local professionals or join associations to broaden your career prospects.
 
 ## Use expert support when needed

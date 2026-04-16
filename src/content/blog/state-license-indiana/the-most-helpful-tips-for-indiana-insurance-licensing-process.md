@@ -27,7 +27,7 @@ Contact the [Indiana Department of Insurance](/indiana/requirements) if you’re
 
 ## Complete required coursework
 
-Once you know you’re eligible, the next move is fulfilling your state-mandated pre-licensing education. Indiana typically specifies a certain number of study hours for each specialty area, so confirm how many you need depending on whether you plan to sell Life & Health, Property & Casualty, or both.
+Once you know you’re eligible, the next move is fulfilling your state-mandated [Indiana prelicensing](/indiana/prelicensing) education. Indiana typically specifies a certain number of study hours for each specialty area, so confirm how many you need depending on whether you plan to sell Life & Health, Property & Casualty, or both.
 
 Courses may be delivered in various formats—classroom, online, or a blend of both—so you can study in the way that suits you best. When you’re ready for deeper support, explore resources like JustInsurance, which can offer practice exams and course materials designed to keep you on track and motivated.
 
@@ -79,7 +79,7 @@ The application process typically happens online, and you may be asked for a pro
 
 ## Prepare for renewals
 
-After you’ve accomplished the big milestone of getting licensed, don’t forget that renewals and continuing education are part of every insurance professional’s journey. Indiana requires you to complete ongoing education (CE) credits within a specific timeframe—often every two years. Keeping track of your license renewal date ensures you never fall behind.
+After you’ve accomplished the big milestone of getting licensed, don’t forget that renewals and continuing education are part of every insurance professional’s journey. Indiana requires you to complete [ongoing education (CE)](/indiana/continuing-education) credits within a specific timeframe—often every two years. Keeping track of your license renewal date ensures you never fall behind.
 
 You might want to commit to a regular schedule for completing CE courses instead of waiting until the last minute. This habit not only keeps you compliant, but also allows more time to explore emerging market trends and products. That knowledge benefits both your clients and your career over the long haul.
 

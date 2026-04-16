@@ -56,7 +56,7 @@ Beyond these fundamentals, you are expected to complete the mandatory pre-licens
 
 ## Complete your pre-licensing
 
-Pre-licensing courses give you a solid foundation in the policies, laws, and best practices that govern insurance in Indiana. These courses are offered by state-approved providers, and your total required hours will depend on the specific license type you pursue. Pay close attention during these classes because they lay the groundwork for everything you will do as a future producer.
+[Indiana prelicensing courses](/indiana/prelicensing) give you a solid foundation in the policies, laws, and best practices that govern insurance in Indiana. These courses are offered by state-approved providers, and your total required hours will depend on the specific license type you pursue. Pay close attention during these classes because they lay the groundwork for everything you will do as a future producer.
 
 Once you finish the required hours, the pre-licensing provider will issue a certificate of completion. Think of this certificate as your ticket to take the state licensing exam. Keep it with your records because you will need to provide proof that you have met all pre-licensing obligations.
 
@@ -74,7 +74,7 @@ While you wait for approval, double-check any paperwork you have submitted. It i
 
 ## Maintain your license
 
-Being a licensed insurance professional means you carry the responsibility of staying up to date with ever-evolving regulations, policies, and best practices. Indiana requires you to complete continuing education (CE) hours in each license renewal cycle. These courses keep your knowledge sharp and help you serve your clients ethically and effectively.
+Being a licensed insurance professional means you carry the responsibility of staying up to date with ever-evolving regulations, policies, and best practices. Indiana requires you to complete [continuing education (CE)](/indiana/continuing-education) hours in each license renewal cycle. These courses keep your knowledge sharp and help you serve your clients ethically and effectively.
 
 You will typically renew your license every two years, although specific details can vary based on your particular lines of authority. If you miss renewal deadlines, your license will lapse, and you will need to complete additional steps to reactivate it. Staying current with CE ensures a smooth renewal and demonstrates your commitment to professional growth.
 

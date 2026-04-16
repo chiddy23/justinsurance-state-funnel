@@ -67,7 +67,7 @@ Vary your preparation strategies so you stay mentally sharp. Some people find th
 
 Congratulations, you’ve passed the exam! That’s a significant milestone in your journey to becoming a licensed insurance professional in Michigan. After you pass, you’ll need to complete a few follow-up tasks to finalize your license. This may include submitting your application, paying any required fees, and undergoing a background check.
 
-Once your official license is in hand, you can start working in the insurance field and build your expertise. Many people find it beneficial to align themselves with a mentor or join a company that offers ongoing training. This ensures you continue learning even after you’ve fulfilled the state requirements.
+Once your official license is in hand, you can start working in the insurance field and build your expertise. Many people find it beneficial to align themselves with a mentor or join a company that offers ongoing training. [Michigan continuing education](/michigan/continuing-education) at every renewal also keeps you sharp and your license active.
 
 If you didn’t pass on the first try, don’t be discouraged. You can typically reschedule, review areas you struggled with, and take the exam again. Every path has ups and downs, and the key is to keep moving forward.
 

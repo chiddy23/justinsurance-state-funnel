@@ -19,7 +19,7 @@ Embarking on your [Indiana insurance license](/indiana) training is an exciting 
 
 ## Know the requirements
 
-Before you dive into any coursework, it’s important to understand Indiana’s licensing requirements. The state mandates specific pre-licensing hours based on your chosen authority, whether it’s life, health, property, or casualty. Check the [Indiana Department of Insurance](/indiana/requirements) guidelines to confirm how many hours of training you need, and ensure the course provider offers an approved program that meets these standards.
+Before you dive into any coursework, it’s important to understand Indiana’s licensing requirements. Approved [Indiana prelicensing courses](/indiana/prelicensing) cover every topic you'll see on the state exam. The state mandates specific pre-licensing hours based on your chosen authority, whether it’s life, health, property, or casualty. Check the [Indiana Department of Insurance](/indiana/requirements) guidelines to confirm how many hours of training you need, and ensure the course provider offers an approved program that meets these standards.
 
 By verifying requirements early on, you avoid surprises and can plan your schedule accordingly. Plus, you’ll appreciate knowing each hour of study directly applies toward your license.
 
@@ -77,4 +77,4 @@ A5: While certain fundamentals overlap, each line of authority has specific requ
 
 Embracing an organized, goal-oriented plan will make your Indiana insurance license training far more manageable and efficient. Remember to pace yourself, focus on priority topics, and lean on expert resources like JustInsurance for extra guidance. By taking these steps, you’ll not only be prepared to pass the exam faster but also set a solid foundation for your future work as a licensed insurance professional.
 
-Ready to boost your career prospects? Start mapping out your training schedule today and turn your career goals into a reality.
+Once licensed, plan for [Indiana continuing education](/indiana/continuing-education) at every renewal. Ready to boost your career prospects? Start mapping out your training schedule today and turn your career goals into a reality.

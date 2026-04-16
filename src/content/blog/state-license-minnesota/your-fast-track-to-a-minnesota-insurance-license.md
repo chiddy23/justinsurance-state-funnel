@@ -28,7 +28,7 @@ Spend a little time researching these license categories so you feel confident a
 
 ## Complete your pre-licensing education
 
-Before scheduling your exam, Minnesota requires you to complete a set number of pre-licensing training hours. While the exact requirements can vary depending on the type of insurance license, you should expect at least 20 hours of education for each major line of authority. For example, 20 hours might be required for health insurance and 20 hours for life insurance.
+Before scheduling your exam, Minnesota requires you to complete a set number of [Minnesota prelicensing](/minnesota/prelicensing) training hours. While the exact requirements can vary depending on the type of insurance license, you should expect at least 20 hours of education for each major line of authority. For example, 20 hours might be required for health insurance and 20 hours for life insurance.
 
 You can fast-track this process by choosing a structured, reputable course provider. Many prefer online programs since you can tackle lessons at your own pace and fit them into a busy schedule. One popular resource is JustInsurance, known for flexible study materials that can help you master complex topics quickly. As you progress through your coursework, pay attention to state regulations, ethical requirements, and basic insurance concepts. Your goal is to develop a solid foundation of industry knowledge so you feel prepared for the official exam.
 
@@ -55,7 +55,7 @@ Once the state approves your application, you will receive your official insuran
 
 ## Maintain your license
 
-After the initial excitement of earning your Minnesota insurance license, do not forget about the ongoing continuing education (CE) requirements. Minnesota wants producers to stay current on industry knowledge and best practices, so you must complete a set number of CE hours (often 24 hours every two years) to renew your license. These courses typically cover relevant state regulations and advanced insurance topics that help you grow professionally.
+After the initial excitement of earning your Minnesota insurance license, do not forget about the ongoing continuing education (CE) requirements. Minnesota wants producers to stay current on industry knowledge and best practices, so you must complete a set number of [Minnesota continuing education](/minnesota/continuing-education) hours (often 24 hours every two years) to renew your license. These courses typically cover relevant state regulations and advanced insurance topics that help you grow professionally.
 
 Staying on top of your CE credits also enhances your reputation as a reliable, well-prepared insurance professional. It keeps you informed about emerging trends, helps you serve clients better, and ensures that you maintain compliance with state regulations.
 

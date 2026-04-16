@@ -41,7 +41,7 @@ As you dig into these areas, aim for a working knowledge of key forms, industry 
 
 ## Complete your pre-licensing
 
-To qualify for the [Indiana insurance license](/indiana) exam, you may need to finish a required pre-licensing course. These courses help you understand state-specific laws while also teaching general insurance principles. Think of them as your main study guide. Instead of scouring random online articles or flipping through outdated textbooks, you’ll have a structured program to keep your focus.
+To qualify for the [Indiana insurance license](/indiana) exam, you may need to finish a required [Indiana prelicensing course](/indiana/prelicensing). These courses help you understand state-specific laws while also teaching general insurance principles. Think of them as your main study guide. Instead of scouring random online articles or flipping through outdated textbooks, you’ll have a structured program to keep your focus.
 
 Look for courses approved by the Indiana Department of Insurance. An approved provider ensures you’re covering exam-relevant essentials without wasting time. Many options combine online modules with practice quizzes, flashcards, and final assessments that mimic the real exam experience. If you're brand-new to insurance, these resources can clarify tough concepts like policy limits or premium calculations more efficiently than self-study alone.
 
@@ -68,7 +68,7 @@ Below are answers to questions often asked by Indiana residents on their path to
 3.  How soon can I retake the exam if I fail on the first try?  
     Indiana allows retakes, but you’ll likely need to reschedule and pay another exam fee. Check with the testing provider for the exact retake process and waiting period.
 4.  Will my license ever expire once I pass the exam?  
-    Yes, insurance licenses in Indiana must be renewed periodically, often every two years. You’ll also need continuing education credits to maintain active status.
+    Yes, insurance licenses in Indiana must be renewed periodically, often every two years. You’ll also need [Indiana continuing education](/indiana/continuing-education) credits to maintain active status.
 5.  How should I pick a pre-licensing provider?  
     Choose an organization approved by the Indiana Department of Insurance. Pre-licensing programs like those offered by JustInsurance can guide you from start to finish with up-to-date study materials, practice tests, and instructor support.
 

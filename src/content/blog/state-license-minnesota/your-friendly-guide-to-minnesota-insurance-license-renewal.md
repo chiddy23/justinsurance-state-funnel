@@ -25,7 +25,7 @@ Start by confirming which lines of authority you hold, such as life and health o
 
 ## Complete your continuing education
 
-Most Minnesota insurance professionals must fulfill continuing education (CE) credits to renew. The exact number varies depending on your license type, but the standard requirement is 24 credit hours every two years. These hours keep you current with laws, regulations, and industry changes that affect your everyday work.
+Most Minnesota insurance professionals must fulfill [Minnesota continuing education](/minnesota/continuing-education) (CE) credits to renew. The exact number varies depending on your license type, but the standard requirement is 24 credit hours every two years. These hours keep you current with laws, regulations, and industry changes that affect your everyday work.
 
 Below is a simplified look at what to expect:
 
@@ -72,7 +72,7 @@ It's also common to accidentally choose courses that don't match your lines of a
 1.  How do I check my CE credits on file?  
     You can view your CE record on the Minnesota Department of Commerce website by logging into your licensee account. Make sure to confirm everything there matches the courses you’ve taken.
 2.  What if I miss the renewal deadline?  
-    If your license lapses, you may have to halt all selling activities until it’s reinstated. You’ll generally need to complete your CE hours and pay any reinstatement fees before returning to work.
+    If your license lapses, you may have to halt all selling activities or even repeat [Minnesota prelicensing](/minnesota/prelicensing) before it’s reinstated. You’ll generally need to complete your CE hours and pay any reinstatement fees before returning to work.
 3.  How many times can I renew my license?  
     There’s no limit on the number of renewals. As long as you keep up with CE credits and submit your application on time, you can renew indefinitely.
 4.  Is the renewal process different for each line of authority?  

@@ -68,7 +68,7 @@ Your application will typically require you to consent to a background check and
 
 ## Know your continuing education obligations
 
-Earning your license is just the beginning of your insurance career. Minnesota, like many states, demands that insurance producers complete periodic continuing education (CE) to keep their knowledge fresh and relevant. You might need to finish a specific number of hours every renewal cycle, usually in areas tied to ethics and other state-specified topics.
+Earning your license is just the beginning of your insurance career. Minnesota, like many states, demands that insurance producers complete periodic [continuing education (CE)](/minnesota/continuing-education) to keep their knowledge fresh and relevant. You might need to finish a specific number of hours every renewal cycle, usually in areas tied to ethics and other state-specified topics.
 
 Make sure to track your CE credits to avoid any lapses. Missing your renewal deadline or not fulfilling the required CE hours can result in penalties or even suspensions. Most agents schedule reminders or keep a calendar to stay on top of CE deadlines, so they never have to scramble at the last minute.
 

@@ -29,7 +29,7 @@ Most aspiring agents start by choosing a line of authority. You can focus on lif
 
 ## Complete your pre-licensing course
 
-Once you confirm you meet the basic criteria, the next step is taking an approved pre-licensing course. This is a fundamental part of meeting NJ insurance license requirements. Each line of authority requires a set number of instructional hours, typically split between online modules and instructor-led lessons.
+Once you confirm you meet the basic criteria, the next step is taking an approved [New Jersey prelicensing course](/new-jersey/prelicensing). This is a fundamental part of meeting NJ insurance license requirements. Each line of authority requires a set number of instructional hours, typically split between online modules and instructor-led lessons.
 
 You can often choose from a mix of weekday or weekend classes, allowing you to fit your study schedule around work or family commitments. Some providers also offer on-demand video lessons, so you can study on your own terms. By the end of the course, you will have a deeper understanding of insurance regulations, policy types, and ethical responsibilities, giving you the knowledge you need to succeed on the licensing exam.
 
@@ -58,7 +58,7 @@ Keep an eye on your email or postal mail for updates from the state regarding yo
 
 ## Keep your license active
 
-Even after you are officially licensed, your journey does not stop there. Like many professional credentials, insurance licenses require periodic renewal and ongoing education. The precise continuing education (CE) requirements in New Jersey can vary, so you will want to plan ahead to ensure your coursework is completed before your license expires.
+Even after you are officially licensed, your journey does not stop there. Like many professional credentials, insurance licenses require periodic renewal and ongoing education. The precise [New Jersey continuing education](/new-jersey/continuing-education) (CE) requirements can vary, so you will want to plan ahead to ensure your coursework is completed before your license expires.
 
 When choosing continuing education topics, focus on areas that support your day-to-day work and broaden your expertise. If you primarily handle life insurance, you might explore advanced topics in annuities or retirement planning. If you specialize in property or casualty insurance, consider deepening your skills in commercial policies. An organized approach to CE will help you keep pace with evolving industry regulations and client needs.
 

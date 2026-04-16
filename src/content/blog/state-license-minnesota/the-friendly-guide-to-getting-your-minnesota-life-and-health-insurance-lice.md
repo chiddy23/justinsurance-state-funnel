@@ -28,7 +28,7 @@ Earning a license also carries a sense of professional credibility. Insurers and
 
 ## Complete mandatory pre-licensing
 
-Once you have decided to move forward, the first formal step is finishing your pre-licensing coursework. Minnesota requires specific hours of state-approved education to ensure you understand the fundamentals of insurance, as well as state laws and regulations. You can typically choose between in-person classes or online programs.
+Once you have decided to move forward, the first formal step is finishing your [Minnesota prelicensing coursework](/minnesota/prelicensing). Minnesota requires specific hours of state-approved education to ensure you understand the fundamentals of insurance, as well as state laws and regulations. You can typically choose between in-person classes or online programs.
 
 When selecting a course provider, make sure their content is Minnesota-specific. Some programs blend life and health materials together, while others separate them. Either way, this is your introduction to industry concepts, so balancing structured study time with real-world examples can make your learning stick.
 
@@ -75,7 +75,7 @@ You’ll need your actual license in hand to start selling. Although passing the
 
 ### 4\. Do I have to renew my license every year?
 
-Minnesota typically requires renewal every two years, rather than annually. To renew, you will need to fulfill continuing education credits that keep your insurance knowledge current. These credits help you stay on top of industry changes so you continue providing accurate and relevant information to clients.
+Minnesota typically requires renewal every two years, rather than annually. To renew, you will need to fulfill [Minnesota continuing education](/minnesota/continuing-education) credits that keep your insurance knowledge current. These credits help you stay on top of industry changes so you continue providing accurate and relevant information to clients.
 
 ### 5\. What happens if I fail the exam on my first try?
 

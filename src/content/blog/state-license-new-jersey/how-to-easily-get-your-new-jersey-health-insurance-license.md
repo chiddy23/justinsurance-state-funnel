@@ -28,7 +28,7 @@ Having a straightforward history makes the process smoother, but minor issues do
 
 ## Enroll in a pre-licensing course
 
-Next, you must complete a state-approved pre-licensing course. These programs cover topics like health insurance policies, New Jersey regulations, and basic ethical practices. The course can be taken online or in-person, depending on your schedule and preferred learning style.
+Next, you must complete a state-approved [New Jersey prelicensing course](/new-jersey/prelicensing). These programs cover topics like health insurance policies, New Jersey regulations, and basic ethical practices. The course can be taken online or in-person, depending on your schedule and preferred learning style.
 
 When selecting a provider, look for a course that offers practice quizzes, clear lesson materials, and responsive instructors. This setup not only helps you understand the content but also equips you for the official state exam down the line. Some courses bundle study resources with registration fees, so shop around for the best value.
 
@@ -54,7 +54,7 @@ The application process is relatively quick, and you’ll usually receive your l
 
 ## Maintain your license
 
-Earning your New Jersey health insurance license is a major accomplishment, but your responsibilities don’t end there. The state expects you to complete continuing education (CE) courses to keep your knowledge up to date. These courses ensure that you stay informed about any changes to state and federal insurance regulations.
+Earning your New Jersey health insurance license is a major accomplishment, but your responsibilities don’t end there. The state expects you to complete [continuing education (CE)](/new-jersey/continuing-education) courses to keep your knowledge up to date. These courses ensure that you stay informed about any changes to state and federal insurance regulations.
 
 Keep track of your CE requirements, which you’ll typically renew every two years. Staying proactive about your continuing education helps you avoid last-minute scrambles. It also keeps you current with industry trends, so you can continue serving clients effectively and growing your career.
 

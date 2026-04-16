@@ -84,4 +84,4 @@ Pursuing your insurance license can open doors to a dynamic career where you hel
 
 If you are ready to begin, look for a provider that keeps you on schedule, offers exam prep tools, and supplies personalized support. Enrolling with an approved provider like JustInsurance is a solid first step toward meeting all your Indiana insurance pre-licensing education requirements. By investing in quality studies now, you will be well-prepared for your exam and ready to guide clients with confidence.
 
-Your future career in Indiana’s insurance industry starts right here. Jump in, stay committed to your studies, and soon you will have everything you need to thrive as a licensed insurance producer.
+After you are licensed, plan ahead for [Indiana continuing education](/indiana/continuing-education) so your credential stays active. Your future career in Indiana’s insurance industry starts right here. Jump in, stay committed to your studies, and soon you will have everything you need to thrive as a licensed insurance producer.

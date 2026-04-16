@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Kindel Media on Pexels
 ---
 
-Are you looking to launch a rewarding career in insurance? Finding the best NJ insurance pre-licensing classes is a crucial first step toward earning your [New Jersey insurance license](/new-jersey). Whether you hope to specialize in life, health, property, casualty, or another line of authority, completing the state’s required education sets you on the path to success. Below, you will find clear guidance on the licensing process, along with tips on choosing a pre-licensing course and what to expect when exam day arrives.
+Are you looking to launch a rewarding career in insurance? Finding the best [NJ insurance pre-licensing classes](/new-jersey/prelicensing) is a crucial first step toward earning your [New Jersey insurance license](/new-jersey). Whether you hope to specialize in life, health, property, casualty, or another line of authority, completing the state’s required education sets you on the path to success. Below, you will find clear guidance on the licensing process, along with tips on choosing a pre-licensing course and what to expect when exam day arrives.
 
 ## Explore why a license matters
 
@@ -105,7 +105,7 @@ While these costs and timelines can shift based on your provider and the testing
 
 After completing your pre-licensing hours and passing the exam, you will be ready to submit your application to become a fully licensed insurance professional in New Jersey. This achievement is more than just a credential—it represents the knowledge and dedication that sets you apart from unlicensed agents. As you begin working with clients, you will find that your in-depth training helps you guide them to quality insurance solutions.
 
-You should also plan to continue learning, even after you earn your initial license. In many cases, maintaining a New Jersey insurance license involves ongoing continuing education requirements. Staying on top of these credits ensures you remain adept at navigating new products, updated regulations, and evolving client needs.
+You should also plan to continue learning, even after you earn your initial license. In many cases, maintaining a New Jersey insurance license involves ongoing [New Jersey continuing education](/new-jersey/continuing-education) requirements. Staying on top of these credits ensures you remain adept at navigating new products, updated regulations, and evolving client needs.
 
 If you want an even more supportive learning experience, keep JustInsurance on your shortlist. They offer user-friendly courses designed to fit your busy schedule, with interactive modules that make complex insurance topics easier to comprehend. By choosing a trusted course provider, you give yourself the best shot at acing your exam on the first try—and starting your insurance career on a strong note.
 

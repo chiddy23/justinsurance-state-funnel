@@ -64,7 +64,7 @@ The New Jersey Department of Banking and Insurance typically processes applicati
 
 ## Maintain and renew your license
 
-Earning your license is a major milestone, but keeping it current is equally important. Renewals generally happen every two years in New Jersey, and part of the process includes documenting your continuing education credits. These additional courses ensure your knowledge remains up to date, which benefits both you and your clients.
+Earning your license is a major milestone, but keeping it current is equally important. Renewals generally happen every two years in New Jersey, and part of the process includes documenting your [New Jersey continuing education](/new-jersey/continuing-education) credits. These additional courses ensure your knowledge remains up to date, which benefits both you and your clients.
 
 Because insurance regulations can change—especially if a new law passes or new products become available—continuing education is a chance to keep your competitive edge. It’s also a wonderful opportunity to discover new areas of the industry you might want to expand into. Between these required credits and optional professional development activities, you have the chance to build a rewarding long-term career.
 

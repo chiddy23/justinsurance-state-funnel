@@ -52,7 +52,7 @@ You must renew your license every two years. This involves completing 24 hours o
 
 ### 2\. What happens if I miss my CE deadline?
 
-Missing the deadline could result in late fees or even the temporary loss of your license. If you let too much time pass, you might need to start the licensing process over. Always keep a close eye on your renewal dates and plan accordingly.
+Missing the deadline could result in late fees or even the temporary loss of your license. If you let too much time pass, you might need to retake [Minnesota prelicensing](/minnesota/prelicensing) and start the licensing process over. Always keep a close eye on your renewal dates and plan accordingly.
 
 ### 3\. Do I have to take specific ethics courses?
 

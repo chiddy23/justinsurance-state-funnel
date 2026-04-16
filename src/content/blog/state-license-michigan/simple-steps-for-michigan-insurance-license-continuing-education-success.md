@@ -30,7 +30,7 @@ Give yourself enough time to absorb and practice each step. By knowing what to e
 
 ## Complete your pre-licensing
 
-Before you can take the state exam, Michigan requires you to finish a set number of pre-licensing hours for each insurance line you want to practice. For example, you might need 20 hours per line of authority, focusing on topics like policy types, ethics, and state regulations.
+Before you can take the state exam, Michigan requires you to finish a set number of [Michigan prelicensing hours](/michigan/prelicensing) for each insurance line you want to practice. For example, you might need 20 hours per line of authority, focusing on topics like policy types, ethics, and state regulations.
 
 Taking this education seriously helps you establish a strong footing:
 
@@ -54,7 +54,7 @@ If you pass, you’ll receive instructions for applying for your license. There�
 
 ## Pursue continuing education
 
-Obtaining your license marks the beginning of your professional journey. As soon as you’re licensed, you need to keep it in good standing by meeting continuing education (CE) requirements. This “michigan insurance license continuing education” is more than a box to check—it's your chance to stay informed on industry updates and strengthen your expertise.
+Obtaining your license marks the beginning of your professional journey. As soon as you’re licensed, you need to keep it in good standing by meeting [Michigan continuing education](/michigan/continuing-education) (CE) requirements. This “michigan insurance license continuing education” is more than a box to check—it's your chance to stay informed on industry updates and strengthen your expertise.
 
 Most Michigan insurance professionals must complete 24 hours of CE every renewal period, including at least three hours of ethics. Renewal cycles often happen every two years, but it’s always wise to confirm the latest requirements with the state to avoid missing deadlines.
 

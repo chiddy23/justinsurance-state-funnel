@@ -39,7 +39,7 @@ Keep in mind, if you have any prior legal or financial issues, the Michigan Depa
 
 ## Complete your pre-licensing education
 
-Once you confirm that you meet the basic eligibility requirements, your next step is to complete a state-approved pre-licensing course. These courses typically cover relevant insurance laws, client confidentiality practices, ethics, and the fundamentals of property and casualty insurance. They may be offered online or in person, depending on your preference and scheduling needs.
+Once you confirm that you meet the basic eligibility requirements, your next step is to complete a state-approved [Michigan prelicensing course](/michigan/prelicensing). These courses typically cover relevant insurance laws, client confidentiality practices, ethics, and the fundamentals of property and casualty insurance. They may be offered online or in person, depending on your preference and scheduling needs.
 
 Pre-licensing education has several benefits: • You gain a solid foundation of insurance terminology and concepts.  
 • You become familiar with state-specific rules about coverage and underwriting.  
@@ -81,7 +81,7 @@ Because property and casualty insurance touches nearly every sector of society, 
 
 ## Stay current with continuing education
 
-Even after you secure your license, your learning journey does not end. Michigan requires you to complete continuing education (CE) credits to maintain your license in good standing. CE courses help you keep pace with evolving industry standards, new products, and changes in regulations. By staying current on the latest trends, you continue to provide reliable advice to your clients.
+Even after you secure your license, your learning journey does not end. Michigan requires you to complete [continuing education (CE)](/michigan/continuing-education) credits to maintain your license in good standing. CE courses help you keep pace with evolving industry standards, new products, and changes in regulations. By staying current on the latest trends, you continue to provide reliable advice to your clients.
 
 Depending on your schedule and interests, you can select CE courses that align with your career goals. You might focus on niche areas like flood insurance or advanced commercial coverage. Consistently investing in your professional growth ensures your knowledge stays fresh and valuable.
 

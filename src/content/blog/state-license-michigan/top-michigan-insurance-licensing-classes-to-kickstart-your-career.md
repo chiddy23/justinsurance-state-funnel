@@ -49,7 +49,7 @@ You can hold multiple lines of authority. That means you can eventually take bot
 
 ## Take pre-licensing classes
 
-Once you have chosen a license type, the next step is enrolling in Michigan insurance licensing classes. These courses are typically offered through approved training providers—some of which cater exclusively to the insurance field. The format of these classes can be in-person, online, or a mix of both. Your learning style, schedule, and budget will influence which route you choose.
+Once you have chosen a license type, the next step is enrolling in [Michigan prelicensing classes](/michigan/prelicensing). These courses are typically offered through approved training providers—some of which cater exclusively to the insurance field. The format of these classes can be in-person, online, or a mix of both. Your learning style, schedule, and budget will influence which route you choose.
 
 Here are a few considerations as you weigh your options:
 
@@ -95,7 +95,7 @@ If you do not pass on your first try, do not get discouraged. You can usually re
 Once your license is issued by Michigan DIFS, you can actively start selling insurance or join an agency. Congratulations—you are now an officially licensed agent! As you put your new skills to work, here are some final tips to help you thrive:
 
 1.  Connect with local professionals. Attending networking events or joining industry associations can expand your network and show you how other agents find success.
-2.  Keep learning. Continuing education requirements help you stay current on updates to state laws, product options, and best practices.
+2.  Keep learning. [Michigan continuing education](/michigan/continuing-education) requirements help you stay current on updates to state laws, product options, and best practices.
 3.  Specialize over time. You might begin with one line of authority, but adding more can make you more marketable and valuable to clients.
 
 Building a strong client base often comes down to communication, empathy, and product knowledge. By staying proactive and putting your clients’ needs first, you will earn a trusted reputation that supports long-term career growth.

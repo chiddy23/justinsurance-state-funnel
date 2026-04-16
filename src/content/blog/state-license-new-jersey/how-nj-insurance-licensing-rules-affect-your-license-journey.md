@@ -37,7 +37,7 @@ Unlike some professions, there is no specific college degree requirement to beco
 
 ## Complete the pre-licensing steps
 
-Once you confirm your eligibility, the next major step is to complete pre-licensing education. This mandated coursework covers core topics like insurance principles, policy provisions, ethics, and state regulations. You will learn about:
+Once you confirm your eligibility, the next major step is to complete [New Jersey prelicensing](/new-jersey/prelicensing) education. This mandated coursework covers core topics like insurance principles, policy provisions, ethics, and state regulations. You will learn about:
 
 -   New Jersey’s insurance laws: What they require of producers and how they protect consumers.
 -   Policy terms: Basic definitions, coverage options, exclusions, and endorsements.
@@ -77,7 +77,7 @@ Double-check all of your details to avoid processing delays. Any inaccuracies or
 
 ## Maintain your credentials
 
-Earning a license is a major milestone, but your journey does not stop there. Insurance producers in New Jersey have renewal periods and continuing education (CE) requirements to uphold their professional standing. You will need to complete a set number of CE hours every two years, often including ethics-related coursework.
+Earning a license is a major milestone, but your journey does not stop there. Insurance producers in New Jersey have renewal periods and [continuing education (CE)](/new-jersey/continuing-education) requirements to uphold their professional standing. You will need to complete a set number of CE hours every two years, often including ethics-related coursework.
 
 Completing your CE on time prevents license expiration and demonstrates ongoing professionalism. Since regulations can change year to year, continuing education also helps you keep pace with the latest policy changes. Failing to renew can lead to additional fees or the need to retake exams, so mark your calendar with important deadlines.
 

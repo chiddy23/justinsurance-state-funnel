@@ -33,7 +33,7 @@ It is also helpful to visit the [New Jersey Department of Banking and Insurance]
 
 ## Complete the required education
 
-Every aspiring life insurance agent in the state must complete a certain number of pre-licensing hours. This coursework covers insurance fundamentals, New Jersey-specific regulations, ethics, and practical sales information. Many providers offer online or in-person sessions to accommodate different learning styles.
+Every aspiring life insurance agent in the state must complete a certain number of [New Jersey prelicensing hours](/new-jersey/prelicensing). This coursework covers insurance fundamentals, New Jersey-specific regulations, ethics, and practical sales information. Many providers offer online or in-person sessions to accommodate different learning styles.
 
 • Online courses: Ideal if you have a busy schedule. You can study at your own pace, pause or rewind topics, and rewatch difficult lessons as many times as you need.  
 • In-person classes: Great if you prefer live interaction and immediate feedback from an instructor. You also get face-to-face networking opportunities with fellow students.
@@ -72,7 +72,7 @@ If you get anxious, take a quick moment to breathe deeply and remind yourself of
 
 ## Next steps after you pass
 
-The moment you pass your New Jersey life insurance license exam is worth celebrating. However, this milestone also comes with new responsibilities. You usually need to file your license application, pay any required fees, and maintain any continuing education obligations to keep your license in good standing. Be sure to confirm all current procedures with the New Jersey Department of Banking and Insurance so you do not miss any critical steps.
+The moment you pass your New Jersey life insurance license exam is worth celebrating. However, this milestone also comes with new responsibilities. You usually need to file your license application, pay any required fees, and maintain any [New Jersey continuing education](/new-jersey/continuing-education) obligations to keep your license in good standing. Be sure to confirm all current procedures with the New Jersey Department of Banking and Insurance so you do not miss any critical steps.
 
 Once you are officially licensed, it is time to connect with agencies or companies looking for life insurance agents. Many new agents also benefit from additional mentorship or joining professional organizations to build their networks. You might find that the journey has just begun—each policy you write can make a real difference in someone else’s life.
 

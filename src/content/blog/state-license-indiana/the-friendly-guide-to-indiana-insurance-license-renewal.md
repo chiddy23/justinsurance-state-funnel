@@ -27,7 +27,7 @@ Remember that renewal hinges not just on meeting deadlines, but on fulfilling CE
 
 ## Understand your CE requirements
 
-Continuing education is the backbone of maintaining a valid Indiana insurance license. You must complete a certain number of hours before submitting your renewal application. The exact total can vary depending on your lines of authority, but most resident producers need 24 hours of approved continuing education every two-year cycle. At least three of those hours should focus on ethics.
+[Indiana continuing education](/indiana/continuing-education) is the backbone of maintaining a valid Indiana insurance license. You must complete a certain number of hours before submitting your renewal application. The exact total can vary depending on your lines of authority, but most resident producers need 24 hours of approved continuing education every two-year cycle. At least three of those hours should focus on ethics.
 
 Spreading out these courses over the full two-year period makes life easier. Rather than cramming everything in at the last possible moment, break your studies into smaller segments. This helps you absorb information more naturally and keeps you from scrambling when the renewal deadline approaches.
 
@@ -41,7 +41,7 @@ One platform you could explore is JustInsurance. They offer practical, easy-to-f
 
 Life gets busy, and it is easy to let important dates slip by. To avoid a lapse in your license, mark your calendar for at least a few weeks before your official renewal due date. That buffer gives you time to finish any remaining CE hours and handle unexpected hiccups.
 
-If you accidentally let your license expire, you could face penalties or have to restart parts of the licensing process. That’s stressful and potentially costly. A more efficient approach is to set reminders—whether on your phone, in a planner, or through an automated service—so you stay ahead of every deadline.
+If you accidentally let your license expire, you could face penalties or have to restart parts of the licensing process by retaking [Indiana prelicensing](/indiana/prelicensing). That’s stressful and potentially costly. A more efficient approach is to set reminders—whether on your phone, in a planner, or through an automated service—so you stay ahead of every deadline.
 
 ## Frequently asked questions
 

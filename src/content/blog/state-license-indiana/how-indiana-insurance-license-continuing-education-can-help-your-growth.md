@@ -74,7 +74,7 @@ If you don’t meet your CE requirements by the renewal date, your license could
 
 ## Grow your future with JustInsurance
 
-Once you grasp the benefits of Indiana insurance license continuing education, you’ll see it’s far more than a regulatory formality. It’s an investment in your career. By staying current on industry trends and best practices, you’ll be in a stronger position to advise clients, earn referrals, and expand your client base.
+Once you grasp the benefits of [Indiana continuing education](/indiana/continuing-education), you’ll see it’s far more than a regulatory formality. It’s an investment in your career. By staying current on industry trends and best practices, you’ll be in a stronger position to advise clients, earn referrals, and expand your client base.
 
 If you’re looking at a new line of authority, you may also need to return to [Indiana prelicensing](/indiana/prelicensing) before adding it. If you’re ready to take a proactive step, consider programs offered by JustInsurance. They offer user-friendly online courses and in-person sessions that are specifically designed to satisfy Indiana’s regulations. It’s a convenient way to fulfill your CE hours, explore new areas of insurance, and maintain a strong standing with the state.
 

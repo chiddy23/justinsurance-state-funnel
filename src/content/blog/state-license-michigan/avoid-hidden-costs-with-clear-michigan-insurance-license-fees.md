@@ -30,7 +30,7 @@ You will typically work through these steps in order: completing a state-approve
 
 ## Fulfill the pre-licensing course
 
-The state of Michigan requires you to complete a specific number of hours in a pre-licensing education program before sitting for the insurance exam. The exact hour requirement varies depending on the license you seek. For instance, a life-only license may require fewer study hours than a combined life and health license. This training is designed to ensure you have a strong foundation in insurance principles, policy basics, and relevant state laws.
+The state of Michigan requires you to complete a specific number of hours in a [Michigan prelicensing course](/michigan/prelicensing) before sitting for the insurance exam. The exact hour requirement varies depending on the license you seek. For instance, a life-only license may require fewer study hours than a combined life and health license. This training is designed to ensure you have a strong foundation in insurance principles, policy basics, and relevant state laws.
 
 Pre-licensing course offerings come in different formats. You can opt for online-based programs or in-person classes. Online courses give you flexibility, but some students prefer the discipline of a live classroom. Choose the style that best suits your study habits so you can absorb the material effectively and be fully prepared for the exam.
 
@@ -84,4 +84,4 @@ Securing your Michigan insurance license is an investment in your future, especi
 
 If you want a streamlined approach, consider working with a trusted service like JustInsurance. They can walk you through each licensing stage and answer your questions about potential expenses. Once you have your license in hand, you will be ready to start a fulfilling career in insurance.
 
-Take that first step today by researching your pre-licensing options. Then schedule your exam, finalize your application, and watch the doors open for new opportunities in Michigan’s insurance industry. Remember that understanding your costs upfront means fewer surprises later, so you can focus on helping clients protect their assets and plan for a secure future.
+Plan ahead for [Michigan continuing education](/michigan/continuing-education) at every renewal cycle so you avoid lapses. Take that first step today by researching your pre-licensing options. Then schedule your exam, finalize your application, and watch the doors open for new opportunities in Michigan’s insurance industry. Remember that understanding your costs upfront means fewer surprises later, so you can focus on helping clients protect their assets and plan for a secure future.

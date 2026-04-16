@@ -52,7 +52,7 @@ Some individuals eventually pivot to specialize in niche areas, like farm or com
 
 ## Prepare for licensing success
 
-Getting your Indiana property and casualty insurance license involves a straightforward yet meaningful process. You begin by completing a pre-licensing program approved by the [Indiana Department of Insurance](/indiana/requirements), which helps you grasp essential topics like state regulations, policy types, and ethical standards. Afterward, you will be eligible to take the licensing exam.
+Getting your Indiana property and casualty insurance license involves a straightforward yet meaningful process. You begin by completing an [Indiana prelicensing program](/indiana/prelicensing) approved by the Indiana Department of Insurance, which helps you grasp essential topics like state regulations, policy types, and ethical standards. Afterward, you will be eligible to take the licensing exam.
 
 One useful method for staying organized is to tackle your exam preparation in stages. That way, you can solidify your knowledge as you go without feeling overwhelmed. Here is a quick approach you can adapt:
 
@@ -75,7 +75,7 @@ If you are seeking a more guided approach, consider enrolling in a structured ex
 4.  “What if I also want to sell life or health insurance?”  
     You can pursue separate licenses for life and health lines. Each license has its own pre-licensing and exam requirements, though the knowledge gained in one area often supports understanding in the other.
 5.  “Will my license expire?”  
-    Yes. Indiana requires agents to renew their license periodically. Renewal typically involves completing continuing education (CE) hours to ensure you stay up to date on laws and industry changes.
+    Yes. Indiana requires agents to renew their license periodically. Renewal typically involves completing [Indiana continuing education](/indiana/continuing-education) hours to ensure you stay up to date on laws and industry changes.
 
 ## Take your next step
 

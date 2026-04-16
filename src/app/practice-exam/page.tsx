@@ -10,6 +10,7 @@ import {
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import FAQAccordion from "@/components/FAQAccordion";
 import StatePickerRedirect from "@/components/StatePickerRedirect";
+import PressLogosBar from "@/components/PressLogosBar";
 
 export const metadata: Metadata = generatePageMetadata({
   pageType: "practice-exam-hub",
@@ -106,6 +107,8 @@ export default function PracticeExamHubPage() {
           </div>
         </div>
       </section>
+
+      <PressLogosBar />
 
       {/* Trust band */}
       <section className="bg-white border-b border-gray-200 py-8">

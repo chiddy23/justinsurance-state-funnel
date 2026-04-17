@@ -262,10 +262,11 @@ export default function AboutPage() {
 
           <H3>For Agencies</H3>
           <P>
-            Agencies plugging us into their recruiting funnel get something no other insurance
-            education company offers: real-time candidate tracking, API integration for onboarding
-            flows, and dashboards that show exactly where each recruit is in their licensing
-            journey.
+            Agencies plugging us into their recruiting funnel get a full B2B toolkit: a developer
+            API for onboarding automation, real-time candidate tracking dashboards, white-label
+            sales pages, and custom automation packages built around each agency&apos;s specific
+            recruiting workflow. Most insurance education providers offer a portal; we offer a
+            platform that integrates into whatever stack you already use.
           </P>
         </div>
       </section>
@@ -303,13 +304,21 @@ export default function AboutPage() {
           </P>
           <ul className="list-disc pl-6 space-y-3 text-gray-700 text-base leading-relaxed mb-6">
             <li>
-              <strong className="text-navy">API integration for agencies</strong> — the first
-              insurance education company to offer it. Plug recruits directly into your onboarding
-              flow.
+              <strong className="text-navy">Developer API for agencies</strong> — plug recruits
+              directly into your existing onboarding flow with a documented API, not a portal.
             </li>
             <li>
               <strong className="text-navy">Agency dashboards</strong> with real-time candidate
               tracking so you always know who&apos;s progressing and who&apos;s stuck.
+            </li>
+            <li>
+              <strong className="text-navy">Custom automation packages</strong> — we&apos;ll build
+              recruiting, onboarding, and licensing automations tailored to your agency&apos;s
+              workflow, not a pre-baked template.
+            </li>
+            <li>
+              <strong className="text-navy">White-label sales pages</strong> for partner agencies
+              — your branding, your pricing, our LMS under the hood.
             </li>
             <li>
               <strong className="text-navy">Full licensing process handled</strong> — not just

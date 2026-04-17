@@ -17,7 +17,7 @@ const faqs = [
   {
     question: "Which insurance prelicensing provider publishes its pass rate with methodology?",
     answer:
-      "JustInsurance publishes a 93% pass rate with full methodology — measured among students who completed the full course, finished the recommended study hours, and scored 80%+ on the practice exam three times in a row before sitting for the state exam. ExamFX displays a 93% overall pass rate on its product pages but does not disclose sample size, time period, or methodology. XCEL Solutions markets 'top industry first-time pass rates' in its copy but does not publish a specific figure with methodology. Methodology transparency is what makes a pass rate verifiable — a number without it is a claim.",
+      "Both JustInsurance and ExamFX publish pass-rate methodology. ExamFX publishes line-of-authority rates on examfx.com/resources/candidates (95% Life, 94% Life & Health, 90% Health, 99% P&C, 95% Personal Lines, 93% Overall Combined) with disclosed methodology — 2,826 self-reported survey respondents collected Feb 1 – Oct 17, 2025. JustInsurance publishes a 93% pass rate at /pass-rates with a stricter inclusion bar: students who completed the full course, finished recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. XCEL Solutions markets 'top industry first-time pass rates' but does not publish a specific figure with disclosed methodology. Methodology disclosure is what lets a prospective student compare apples to apples.",
   },
   {
     question: "How does JustInsurance pricing compare to XCEL and ExamFX?",
@@ -27,7 +27,7 @@ const faqs = [
   {
     question: "What is the ExamFX 3-day guarantee window?",
     answer:
-      "Per ExamFX's published pass guarantee policy, the Readiness Exam must be taken no more than three calendar days prior to the state licensing exam, and candidates must score 80% or higher on the Readiness Exam to qualify. The guarantee only applies to the candidate's first state licensing exam attempt; subsequent attempts do not qualify. Refunds exclude company-paid packages, renewals, and shipping costs. Because Pearson VUE and PSI testing centers often book 1 to 2 weeks in advance in many markets, scheduling within the 3-day window can be impractical. JustInsurance's guarantee allows 30 days from first enrollment to sit for the state exam. Always verify current terms at examfx.com/pass-guarantee.",
+      "Per ExamFX's published pass guarantee policy, the Readiness Exam must be taken no more than three calendar days prior to the state licensing exam, and candidates must score 80% or higher on the Readiness Exam to qualify. Refunds exclude company-paid packages, renewals, and shipping costs. The 3-day window means candidates need to plan the sequence carefully: schedule the state exam first, then take the Readiness Exam within 3 calendar days before the scheduled state-exam date. JustInsurance's guarantee allows 30 days from first enrollment to sit for the state exam, giving more scheduling flexibility. Always verify current terms at examfx.com/pass-guarantee.",
   },
   {
     question: "How does XCEL Solutions' course access duration work?",

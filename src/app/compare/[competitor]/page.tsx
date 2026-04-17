@@ -61,12 +61,12 @@ function competitorFaqs(p: (typeof PROVIDERS)[string]) {
     {
       question: "What's the main difference between JustInsurance and ExamFX?",
       answer:
-        "Both are well-established providers with 50-state coverage. The biggest practical differences are (1) ExamFX's pass guarantee requires you to take the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam, and because Pearson VUE and PSI testing centers often book 1 to 2 weeks in advance in many markets, scheduling within that window can be impractical; and (2) ExamFX publishes a 93% overall pass rate without disclosing methodology or sample size, while JustInsurance publishes its 93% pass rate alongside full methodology at /pass-rates.",
+        "Both are well-established providers with 50-state coverage, and both publish pass rates with disclosed methodology. The biggest practical differences are (1) ExamFX's pass guarantee requires you to take the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam, so candidates need to plan the testing-center sequence carefully; and (2) ExamFX's pass-rate methodology counts self-reported survey respondents broadly, while JustInsurance's published methodology applies a stricter inclusion bar (students who scored 80%+ on three consecutive practice exams before testing).",
     },
     {
       question: "What are the exact terms of ExamFX's 3-day guarantee?",
       answer:
-        "Per ExamFX's published pass guarantee policy: (1) you must score 80% or higher on their Readiness Exam, (2) the Readiness Exam must be taken no more than three calendar days prior to the state licensing exam, (3) the guarantee only applies to the candidate's first state licensing exam attempt (subsequent attempts do not qualify), and (4) refunds exclude company-paid packages, renewals, and shipping costs. The practical friction is the 3-day window — testing center availability often requires scheduling 1 to 2 weeks in advance. JustInsurance's guarantee allows 30 days from first enrollment to sit for the state exam. Always verify current terms at examfx.com/pass-guarantee.",
+        "Per ExamFX's published pass guarantee policy: (1) you must score 80% or higher on their Readiness Exam, (2) the Readiness Exam must be taken no more than three calendar days prior to the state licensing exam, (3) the guarantee applies to the first state licensing exam attempt, and (4) refunds exclude company-paid packages, renewals, and shipping costs. The 3-day window means candidates need to plan the sequence carefully: schedule the state exam first, then take the Readiness Exam within 3 calendar days before the scheduled state-exam date. JustInsurance's guarantee allows 30 days from first enrollment to sit for the state exam. Always verify current terms at examfx.com/pass-guarantee.",
     },
     {
       question: "How often does ExamFX run live sessions?",
@@ -76,12 +76,12 @@ function competitorFaqs(p: (typeof PROVIDERS)[string]) {
     {
       question: "Does ExamFX publish its pass rate?",
       answer:
-        "ExamFX displays a 93% overall pass rate on its current insurance course landing pages. However, ExamFX does not disclose the methodology behind that figure — no sample size, no time period, no definition of which students are included in the calculation. JustInsurance publishes its 93% pass rate with transparent methodology at /pass-rates: the figure represents students who completed the full course, met recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Methodology transparency is what makes a pass rate claim verifiable by a third party.",
+        "Yes. ExamFX publishes line-of-authority pass rates on examfx.com/resources/candidates: 95% Life, 94% Life & Health, 90% Health, 99% Property & Casualty, 95% Personal Lines, and a 93% overall combined rate. ExamFX discloses the underlying methodology — self-reported survey responses from 2,826 learners collected between February 1, 2025 and October 17, 2025. JustInsurance publishes a 93% pass rate at /pass-rates using a stricter inclusion bar: students who completed the full course, met recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Both methodologies are disclosed; the qualifying criteria differ — ExamFX counts self-reported survey respondents broadly, while JustInsurance counts only students who hit the 3× consecutive 80%+ practice-exam bar.",
     },
     {
       question: "Does ExamFX include flashcards and practice exam simulations in the base package?",
       answer:
-        "ExamFX's public insurance course pages list flashcards, videos, key facts, glossaries, and live webinars as study tools, but do not specify which features are included in the base package versus available with higher-tier packages or as add-ons. Per ExamFX's published refund policy, course extensions, digital add-on products, and in-course purchases are non-refundable. JustInsurance includes unlimited adaptive practice exams, full flashcard decks, AI-powered realistic simulations, and audio vocabulary as part of the base $199 course — no package tiers, no add-ons for core study content.",
+        "ExamFX's public insurance course pages list flashcards, videos, key facts, glossaries, and live webinars as study tools across multiple package tiers (Self-Study, Video Study, Live Online, Live In-Person); feature inclusion varies by tier. Per ExamFX's published refund policy, course extensions, digital add-on products, and in-course purchases are non-refundable once purchased. JustInsurance includes unlimited adaptive practice exams, full flashcard decks, AI-powered simulations, and audio vocabulary in the base $199 course — one tier, no add-ons for core study content.",
     },
   ];
 }
@@ -127,6 +127,22 @@ export default async function CompetitorComparisonPage({
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
             What&apos;s actually different — and what real students complain about.
+          </p>
+        </div>
+      </section>
+
+      {/* Comparison accuracy disclaimer */}
+      <section className="bg-gray-50 border-b border-gray-200 py-4 px-4">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-xs text-gray-600 leading-relaxed">
+            <strong className="text-navy">Comparison accuracy:</strong> Claims on this page reflect
+            {" "}{p.fullName}&apos;s publicly available product pages, pass guarantee, refund policy,
+            and FAQ documents as of April 17, 2026. Competitor terms, pricing, and features can change
+            without notice. Always verify current terms directly at{" "}
+            <a href={`https://${p.domain}`} target="_blank" rel="noopener noreferrer" className="underline text-navy hover:text-gold">
+              {p.domain}
+            </a>{" "}
+            before purchase.
           </p>
         </div>
       </section>
@@ -209,9 +225,9 @@ export default async function CompetitorComparisonPage({
               {p.slug === "examfx" ? (
                 <ul className="text-gray-600 space-y-2 text-sm">
                   <li>• Score 80%+ on ExamFX Readiness Exam</li>
-                  <li>• <strong className="text-red-700">Take state exam within 3 calendar days</strong> of Readiness Exam</li>
-                  <li>• First state exam attempt only (subsequent attempts do not qualify)</li>
+                  <li>• <strong className="text-red-700">Take state exam within 3 calendar days</strong> of Readiness Exam (vs. JustInsurance&apos;s 30 days from enrollment)</li>
                   <li>• Company-paid packages, renewals, and shipping excluded</li>
+                  <li>• Verify current terms at <a href="https://www.examfx.com/pass-guarantee" target="_blank" rel="noopener noreferrer" className="underline">examfx.com/pass-guarantee</a></li>
                 </ul>
               ) : (
                 <ul className="text-gray-600 space-y-2 text-sm">

@@ -45,34 +45,32 @@ export const PROVIDERS: Record<string, Provider> = {
     domain: "examfx.com",
     weaknesses: [
       "Pass guarantee requires taking the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam",
-      "Pass guarantee only applies to the candidate's first state exam attempt; subsequent attempts do not qualify per their published terms",
-      "Refunds exclude company-paid packages, renewals, and shipping costs per their published pass guarantee policy",
       "Standard refund policy requires refund request within 48 hours of purchase; course extensions and in-course purchases are non-refundable",
-      "Publishes a 93% overall pass rate without disclosing methodology, sample size, or time period",
+      "Pass-rate methodology counts self-reported survey respondents broadly; JustInsurance's published methodology applies a stricter inclusion bar (3× consecutive 80%+ practice-exam scores)",
     ],
     youShouldKnow:
-      "ExamFX's published pass guarantee has a specific timing requirement: score 80% or higher on their Readiness Exam, then sit for the state licensing exam within 3 calendar days. Because Pearson VUE and PSI testing centers often book 1 to 2 weeks in advance in many markets, scheduling a state exam within that 3-day window can be impractical. ExamFX does publish a 93% overall pass rate, but does not disclose the underlying methodology, sample size, or time period. JustInsurance's guarantee allows 30 days from first enrollment to sit for the exam, and our 93% pass rate is published with full methodology at /pass-rates.",
+      "ExamFX's pass guarantee requires candidates to take the Readiness Exam no more than three calendar days prior to their state licensing exam, scoring 80% or higher. Because Pearson VUE and PSI testing-center availability varies by market, candidates should plan the sequence carefully. JustInsurance's guarantee allows 30 days from first enrollment to sit for the exam, giving more scheduling flexibility. ExamFX publishes line-of-authority pass rates (95% Life, 94% Life & Health, 99% P&C) with disclosed methodology — 2,826 self-reported survey respondents collected Feb 1 – Oct 17, 2025. JustInsurance publishes a 93% pass rate at /pass-rates using a stricter inclusion bar: students who completed the full course, finished recommended hours, and scored 80%+ on the practice exam three times in a row before testing. Both are disclosed; the qualifying criteria differ.",
   },
 };
 
 export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "100+ Video Lessons Covering Every Exam Topic",
-    justinsurance: { kind: "yes", label: "100+ videos" },
-    xcel: { kind: "limited", label: "Limited videos" },
-    examfx: { kind: "limited", label: "Limited videos" },
+    justinsurance: { kind: "yes", label: "100+ videos included" },
+    xcel: { kind: "limited", label: "Video depth varies by package tier" },
+    examfx: { kind: "limited", label: "Video depth varies by package tier" },
   },
   {
-    feature: "State Exam Outline Covered by AI",
+    feature: "AI-Generated Coverage of State Exam Outline (JustInsurance feature)",
     justinsurance: { kind: "yes" },
     xcel: { kind: "no" },
     examfx: { kind: "no" },
   },
   {
-    feature: "Multiple Extension Options",
-    justinsurance: { kind: "yes" },
-    xcel: { kind: "no" },
-    examfx: { kind: "no" },
+    feature: "Course Extension Options",
+    justinsurance: { kind: "yes", label: "Multiple extensions included" },
+    xcel: { kind: "limited", label: "Paid extension available" },
+    examfx: { kind: "limited", label: "30/60-day paid extensions per their FAQ" },
   },
   {
     feature: "Practice Exams",
@@ -87,7 +85,7 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     examfx: { kind: "limited", label: "Live webinars offered; availability varies by package" },
   },
   {
-    feature: "AI-Powered Realistic Exam Simulations",
+    feature: "AI-Powered Adaptive Exam Simulations (JustInsurance feature)",
     justinsurance: { kind: "yes" },
     xcel: { kind: "no" },
     examfx: { kind: "no" },
@@ -112,12 +110,12 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   },
   {
     feature: "Published Pass Rate with Methodology",
-    justinsurance: { kind: "yes", label: "93%, methodology disclosed" },
-    xcel: { kind: "no", label: "Not published" },
-    examfx: { kind: "limited", label: "Rate shown, no methodology" },
+    justinsurance: { kind: "yes", label: "93%; inclusion requires 3× consecutive 80%+ practice exams" },
+    xcel: { kind: "no", label: "Not published with methodology" },
+    examfx: { kind: "yes", label: "94% L&H, 95% Life, 99% P&C; 2,826 self-reported respondents" },
   },
   {
-    feature: "AI-Optimized Text — 4th/5th Grade Reading Level",
+    feature: "AI-Optimized Reading Level — 4th/5th Grade (JustInsurance feature)",
     justinsurance: { kind: "yes" },
     xcel: { kind: "no" },
     examfx: { kind: "no" },
@@ -161,8 +159,8 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "Support Hours",
     justinsurance: { kind: "yes", label: "7 days (M–F 7a–10p, Sat/Sun 8a–8p)" },
-    xcel: { kind: "limited", label: "Weekday support; weekend availability limited" },
-    examfx: { kind: "limited", label: "Weekday support; weekend availability limited" },
+    xcel: { kind: "limited", label: "Standard business-hour support; verify at xcelsolutions.com" },
+    examfx: { kind: "limited", label: "Standard business-hour support; verify at examfx.com/help-center" },
   },
   {
     feature: "Interactive Learning Portal",

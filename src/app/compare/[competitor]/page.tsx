@@ -32,27 +32,27 @@ function competitorFaqs(p: (typeof PROVIDERS)[string]) {
       {
         question: "What's the main difference between JustInsurance and XCEL Solutions?",
         answer:
-          "JustInsurance packages every feature you need to pass the state exam — 100+ videos, unlimited practice exams, flashcards, 5× weekly live sessions, AI-powered exam simulations, audio vocabulary, and white-glove licensing support — into a single $199 all-inclusive course. XCEL offers a lower-looking base price but layers flashcards, realistic simulations, extended access, and other essentials behind paid upgrades. By the time an XCEL student purchases the features they actually need, the total often exceeds JustInsurance's flat fee.",
+          "JustInsurance packages 100+ videos, unlimited adaptive practice exams, flashcards, 5× weekly live instructor sessions, AI-powered exam simulations, audio vocabulary, and white-glove licensing support into a single $199 all-inclusive course. XCEL Solutions describes its offering as a 3-part program (prelicensing course, prep review course, exam simulator), with access windows and feature inclusions that can vary by package tier. Always verify current XCEL package contents at xcelsolutions.com before purchase.",
       },
       {
-        question: "How does XCEL Solutions' course access duration actually work?",
+        question: "How does XCEL Solutions' course access duration work?",
         answer:
-          "XCEL's standard package gives you 30 days of access to the prelicensing course, plus an additional 30 days of access to the exam prep review. That's 60 days total, but split across two consecutive phases — not one continuous 60-day window. For candidates new to insurance, the 30-day prelicensing clock can still feel rushed if you need extra time on the main curriculum. Extending the prelicensing phase requires a paid upgrade. JustInsurance includes multiple extension options at no additional cost, so you can study at your own pace without a second clock starting.",
+          "XCEL Solutions publicly describes its program as having separate prelicensing and prep review phases. Exact access durations and whether those phases run continuously or on separate clocks can vary by package; verify the current policy at xcelsolutions.com before purchase. JustInsurance includes multiple extension options in its base $199 course, so you can study at your own pace without additional upgrades.",
       },
       {
         question: "Does XCEL offer live instructor sessions?",
         answer:
-          "Yes, XCEL offers livestream instructor-led webinar classes (with camera and ID verification required) as well as on-demand recorded content — but the livestream sessions are typically sold as a paid upgrade rather than included in the base package. JustInsurance runs genuine live instructor sessions 5× per week as part of the standard course, with no upcharge.",
+          "XCEL Solutions offers livestream instructor-led webinar classes (typically with camera and ID verification required) as well as on-demand recorded content. Whether live sessions are included with the base package or offered as an add-on can depend on the package tier; check xcelsolutions.com for current inclusions. JustInsurance runs live instructor sessions 5× per week as part of the standard $199 course with no package tiers.",
       },
       {
         question: "Does XCEL publish its pass rate?",
         answer:
-          "XCEL Solutions promotes 'top industry first-time pass rates' in marketing copy but does not publish a specific first-attempt pass rate figure with methodology on its product pages. JustInsurance publishes a 93% pass rate with full methodology disclosed at /pass-rates (students who completed the full course, met recommended study hours, and scored 80%+ on the practice exam three times in a row before testing). Methodology transparency is what makes a pass rate claim verifiable.",
+          "XCEL Solutions markets 'top industry first-time pass rates' in its copy but does not publish a specific first-attempt pass rate figure with disclosed methodology on its public product pages. JustInsurance publishes a 93% pass rate with full methodology disclosed at /pass-rates — specifically, students who completed the full course, met recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Methodology transparency is what makes a pass rate claim verifiable.",
       },
       {
         question: "Can I get a refund from XCEL if I don't pass?",
         answer:
-          "XCEL's refund and pass guarantee terms vary by package and state — there is no single universally-advertised pass guarantee. JustInsurance offers a consistent pass guarantee on every prelicensing course: if you complete the recommended study hours, score 80%+ on the practice exam three times in a row, and sit for your first-time state exam within 30 days of enrollment, we refund your course fee in full if you don't pass.",
+          "XCEL Solutions' pass guarantee and refund terms are not prominently featured on its public product pages, and specifics can vary by package and state. Always verify current terms at xcelsolutions.com before purchase. JustInsurance offers a consistent pass guarantee on every prelicensing course: if you complete the recommended study hours, score 80%+ on the practice exam three times in a row, and sit for your first-time state exam within 30 days of enrollment, we refund your course fee in full if you don't pass.",
       },
     ];
   }
@@ -61,27 +61,27 @@ function competitorFaqs(p: (typeof PROVIDERS)[string]) {
     {
       question: "What's the main difference between JustInsurance and ExamFX?",
       answer:
-        "Both are well-established providers with 50-state coverage, and both publish pass rate figures. The biggest practical differences are (1) ExamFX's pass guarantee requires you to test within 3 calendar days of passing their Readiness Exam at 80%+, which is impractical for most working adults who can't schedule a Pearson VUE or PSI appointment on 3 days' notice, and (2) ExamFX publishes pass rates (93% aggregate, 94% Life & Health) without disclosing methodology or sample size, while JustInsurance publishes both the 93% figure and the full methodology at /pass-rates. ExamFX also charges for flashcards and livestream sessions as add-ons; JustInsurance includes both in the $199 base course.",
+        "Both are well-established providers with 50-state coverage. The biggest practical differences are (1) ExamFX's pass guarantee requires you to take the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam, and because Pearson VUE and PSI testing centers often book 1 to 2 weeks in advance in many markets, scheduling within that window can be impractical; and (2) ExamFX publishes a 93% overall pass rate without disclosing methodology or sample size, while JustInsurance publishes its 93% pass rate alongside full methodology at /pass-rates.",
     },
     {
       question: "What are the exact terms of ExamFX's 3-day guarantee?",
       answer:
-        "ExamFX's published pass guarantee requires: (1) passing their Readiness Exam at 80% or higher, (2) sitting for the state licensing exam within 3 calendar days of passing the Readiness Exam, (3) failing the state exam on your first attempt only (second-attempt failures don't qualify), (4) submitting your score sheet within 30 days of the licensing exam. Refunds exclude company-paid packages and shipping costs. The friction point is the 3-day window — Pearson VUE and PSI testing centers are typically booked 1–2 weeks out, so most candidates can't actually schedule a testing appointment within 72 hours. JustInsurance's guarantee allows 30 days from first enrollment to sit for the exam.",
+        "Per ExamFX's published pass guarantee policy: (1) you must score 80% or higher on their Readiness Exam, (2) the Readiness Exam must be taken no more than three calendar days prior to the state licensing exam, (3) the guarantee only applies to the candidate's first state licensing exam attempt (subsequent attempts do not qualify), and (4) refunds exclude company-paid packages, renewals, and shipping costs. The practical friction is the 3-day window — testing center availability often requires scheduling 1 to 2 weeks in advance. JustInsurance's guarantee allows 30 days from first enrollment to sit for the state exam. Always verify current terms at examfx.com/pass-guarantee.",
     },
     {
       question: "How often does ExamFX run live sessions?",
       answer:
-        "ExamFX offers livestream instructor sessions as a paid upgrade rather than as part of the base course, with more limited frequency than a daily-access model. JustInsurance runs genuine live sessions 5× per week as part of the standard $199 course — no upcharge.",
+        "ExamFX offers live webinars and live online sessions as features in at least some of its packages; the exact cadence and which packages include them can vary. JustInsurance runs genuine live instructor sessions 5× per week as part of the standard $199 course — consistent across all states and lines of authority, included in the base price.",
     },
     {
       question: "Does ExamFX publish its pass rate?",
       answer:
-        "Yes, ExamFX prominently displays pass rate figures on its product pages (93% aggregate, 94% Life & Health, 95% Life, 99% Property & Casualty). However, ExamFX does not disclose the methodology behind those figures — no sample size, no time period, no definition of which students are included. JustInsurance publishes its 93% pass rate with a transparent methodology at /pass-rates: the figure represents students who completed the full course, met recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Methodology transparency is what makes a pass rate verifiable.",
+        "ExamFX displays a 93% overall pass rate on its current insurance course landing pages. However, ExamFX does not disclose the methodology behind that figure — no sample size, no time period, no definition of which students are included in the calculation. JustInsurance publishes its 93% pass rate with transparent methodology at /pass-rates: the figure represents students who completed the full course, met recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Methodology transparency is what makes a pass rate claim verifiable by a third party.",
     },
     {
-      question: "Does ExamFX include flashcards and practice exam simulations?",
+      question: "Does ExamFX include flashcards and practice exam simulations in the base package?",
       answer:
-        "ExamFX's base package includes limited practice exams (typically 2–3 static exam forms). Flashcards, AI-powered realistic exam simulations, and additional practice content are available as paid add-ons. JustInsurance includes unlimited adaptive practice exams, full flashcard decks, AI-powered realistic simulations, and audio vocabulary as part of the base $199 course — no upcharges for the features most predictive of passing.",
+        "ExamFX's public insurance course pages list flashcards, videos, key facts, glossaries, and live webinars as study tools, but do not specify which features are included in the base package versus available with higher-tier packages or as add-ons. Per ExamFX's published refund policy, course extensions, digital add-on products, and in-course purchases are non-refundable. JustInsurance includes unlimited adaptive practice exams, full flashcard decks, AI-powered realistic simulations, and audio vocabulary as part of the base $199 course — no package tiers, no add-ons for core study content.",
     },
   ];
 }
@@ -160,8 +160,9 @@ export default async function CompetitorComparisonPage({
             ))}
           </ul>
           <p className="text-gray-500 text-sm mt-6 italic">
-            Based on public product pages, published guarantee terms, and publicly available
-            customer reviews as of April 2026.
+            Claims on this page are based on {p.fullName}&apos;s publicly available product pages and
+            published policy documents as of April 2026. Competitor policies and pricing can change —
+            always verify current terms directly at {p.domain} before purchase.
           </p>
         </div>
       </section>
@@ -207,17 +208,16 @@ export default async function CompetitorComparisonPage({
               </p>
               {p.slug === "examfx" ? (
                 <ul className="text-gray-600 space-y-2 text-sm">
-                  <li>• Score 80%+ on ExamFX practice exam</li>
-                  <li>• <strong className="text-red-700">Test within 3 days</strong> of hitting 80%</li>
-                  <li>• Most testing centers book 1–2 weeks out</li>
-                  <li>• Missing the 3-day window voids the guarantee</li>
+                  <li>• Score 80%+ on ExamFX Readiness Exam</li>
+                  <li>• <strong className="text-red-700">Take state exam within 3 calendar days</strong> of Readiness Exam</li>
+                  <li>• First state exam attempt only (subsequent attempts do not qualify)</li>
+                  <li>• Company-paid packages, renewals, and shipping excluded</li>
                 </ul>
               ) : (
                 <ul className="text-gray-600 space-y-2 text-sm">
-                  <li>• No universally-advertised pass guarantee</li>
-                  <li>• Refund eligibility varies by package</li>
-                  <li>• Refund eligibility varies by state</li>
-                  <li>• Terms are not prominent on product pages</li>
+                  <li>• Pass guarantee terms are not prominently featured on product pages</li>
+                  <li>• Refund eligibility can vary by package and state</li>
+                  <li>• Verify current terms at xcelsolutions.com before purchase</li>
                 </ul>
               )}
             </div>

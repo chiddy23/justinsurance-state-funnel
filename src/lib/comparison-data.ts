@@ -30,15 +30,13 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "XCEL Solutions",
     domain: "xcelsolutions.com",
     weaknesses: [
-      "Course access is split: 30 days prelicensing + 30 days prep review (60 days total across two phases, not continuous)",
-      "Livestream classes are a paid upgrade, not included in the base package",
-      "Flashcards, exam simulations, and extended access are all paid add-ons",
-      "Fixed curriculum — doesn't adapt to your weak areas",
-      "No universally-advertised refund-style pass guarantee (policy is 'keep studying for free if you fail')",
-      "No weekend or text support in standard plans",
+      "XCEL describes its offering as a 3-part program (prelicensing, prep review, exam simulator), with access windows and inclusions that can vary by package",
+      "Livestream class frequency, flashcard access, and extended study time may vary between package tiers and as paid upgrades",
+      "Does not publish a specific first-attempt pass rate percentage with disclosed methodology on its public product pages",
+      "Pass guarantee terms are not prominently featured on public product pages; refund-eligibility specifics vary by package and state",
     ],
     youShouldKnow:
-      "XCEL positions itself as a budget-friendly option but layers the essentials you actually need — flashcards, realistic exam simulations, livestream instructor access, extended study time — behind paid upgrades. The base package gives you 30 days of prelicensing access plus 30 days of prep review, but that's two separate clocks, not one continuous window. If you're new to insurance and want everything bundled without surprises, the all-inclusive model at JustInsurance is more predictable.",
+      "XCEL Solutions markets a 3-part training program (prelicensing course, prep review course, and exam simulator). Access windows, livestream session frequency, flashcard availability, and extended study options can vary by package tier. JustInsurance takes a single all-inclusive approach: the $199 base price covers the same set of features for every student (100+ videos, unlimited adaptive practice exams, 5× weekly live instructor sessions, flashcards, audio vocabulary, AI-powered exam simulations). Always verify current XCEL package contents and guarantee terms at xcelsolutions.com before purchase.",
   },
   examfx: {
     slug: "examfx",
@@ -46,15 +44,14 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "ExamFX",
     domain: "examfx.com",
     weaknesses: [
-      "Pass guarantee requires testing within 3 calendar days of passing their Readiness Exam at 80%+ — unrealistic for most working adults",
-      "Pass guarantee only covers the first state exam attempt; second-attempt failures don't qualify",
-      "Refunds exclude company-paid packages and shipping costs",
-      "Livestream classes and flashcards are paid upgrades",
-      "Fixed curriculum — doesn't adapt to your weak areas",
-      "Publishes pass rate figures (93%/94%/95%/99%) but discloses no methodology or sample size",
+      "Pass guarantee requires taking the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam",
+      "Pass guarantee only applies to the candidate's first state exam attempt; subsequent attempts do not qualify per their published terms",
+      "Refunds exclude company-paid packages, renewals, and shipping costs per their published pass guarantee policy",
+      "Standard refund policy requires refund request within 48 hours of purchase; course extensions and in-course purchases are non-refundable",
+      "Publishes a 93% overall pass rate without disclosing methodology, sample size, or time period",
     ],
     youShouldKnow:
-      "ExamFX's pass guarantee has a specific trigger: pass their Readiness Exam at 80%+, then sit for the state licensing exam within 3 calendar days. That's the friction point — most adults can't schedule a Pearson VUE or PSI appointment with 3 days of notice. ExamFX does publish pass rates on their site (93% aggregate, 94% Life & Health), but they don't disclose how those figures were calculated. JustInsurance's guarantee allows 30 days from first enrollment to sit for the exam, and our 93% pass rate is published with full methodology at /pass-rates.",
+      "ExamFX's published pass guarantee has a specific timing requirement: score 80% or higher on their Readiness Exam, then sit for the state licensing exam within 3 calendar days. Because Pearson VUE and PSI testing centers often book 1 to 2 weeks in advance in many markets, scheduling a state exam within that 3-day window can be impractical. ExamFX does publish a 93% overall pass rate, but does not disclose the underlying methodology, sample size, or time period. JustInsurance's guarantee allows 30 days from first enrollment to sit for the exam, and our 93% pass rate is published with full methodology at /pass-rates.",
   },
 };
 
@@ -80,14 +77,14 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "Practice Exams",
     justinsurance: { kind: "yes", label: "Unlimited + adaptive" },
-    xcel: { kind: "limited", label: "2–3 static exams" },
-    examfx: { kind: "limited", label: "2–3 static exams" },
+    xcel: { kind: "limited", label: "Count varies by package" },
+    examfx: { kind: "limited", label: "Count varies by package" },
   },
   {
     feature: "Live Instructor Sessions",
     justinsurance: { kind: "yes", label: "5× weekly, included" },
-    xcel: { kind: "upcharge", label: "Livestream classes, paid upgrade" },
-    examfx: { kind: "upcharge", label: "Paid upgrade, limited frequency" },
+    xcel: { kind: "limited", label: "Livestream availability varies by package" },
+    examfx: { kind: "limited", label: "Live webinars offered; availability varies by package" },
   },
   {
     feature: "AI-Powered Realistic Exam Simulations",
@@ -96,10 +93,10 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     examfx: { kind: "no" },
   },
   {
-    feature: "Flashcards Included",
-    justinsurance: { kind: "yes", label: "Included" },
-    xcel: { kind: "upcharge", label: "Paid add-on" },
-    examfx: { kind: "upcharge", label: "Paid add-on" },
+    feature: "Flashcards Included in Base Package",
+    justinsurance: { kind: "yes", label: "Included in $199" },
+    xcel: { kind: "limited", label: "Inclusion varies by package tier" },
+    examfx: { kind: "limited", label: "Inclusion varies by package tier" },
   },
   {
     feature: "White-Glove Licensing Process Support",
@@ -144,16 +141,16 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     examfx: { kind: "no" },
   },
   {
-    feature: "Course Customization & Adaptation",
-    justinsurance: { kind: "yes", label: "Adapts to weak areas" },
-    xcel: { kind: "limited", label: "Fixed curriculum" },
-    examfx: { kind: "limited", label: "Fixed curriculum" },
+    feature: "Adaptive Curriculum (Lessons Adjust to Weak Areas)",
+    justinsurance: { kind: "yes", label: "Adapts throughout course" },
+    xcel: { kind: "limited", label: "Primarily fixed curriculum" },
+    examfx: { kind: "limited", label: "Readiness Exam flags weak areas; core curriculum fixed" },
   },
   {
     feature: "Support Hours",
-    justinsurance: { kind: "yes", label: "7 days, 12–15 hrs (M–F 7a–10p, Sat/Sun 8a–8p)" },
-    xcel: { kind: "limited", label: "6 days (M–F 8:30a–7p, no weekend text support)" },
-    examfx: { kind: "limited", label: "5.5 days (M–F 7a–6p, Sat 10a–2p)" },
+    justinsurance: { kind: "yes", label: "7 days (M–F 7a–10p, Sat/Sun 8a–8p)" },
+    xcel: { kind: "limited", label: "Weekday support; weekend availability limited" },
+    examfx: { kind: "limited", label: "Weekday support; weekend availability limited" },
   },
   {
     feature: "Interactive Learning Portal",

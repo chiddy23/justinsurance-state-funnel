@@ -20,13 +20,13 @@ If you're about to spend $199+ on Florida 2-15 prelicensing, the marketing pages
 
 Here's what you actually need to know before picking a Florida 2-15 prelicensing course in 2026:
 
-- **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — everything included. 93% pass rate published with full methodology. 30-day refund guarantee window from enrollment.
-- **XCEL Solutions**: Lower-looking base price, but flashcards, exam simulations, livestream classes, and extended access are paid upgrades. Course access splits into 30 days prelicensing + 30 days exam prep review (60 days total but two consecutive clocks). Markets "top industry pass rates" but does not publish a specific figure with methodology. No refund-style guarantee — failed students get continued course access instead.
-- **ExamFX**: Established provider, but flashcards and livestream classes cost extra. Pass guarantee requires sitting for the state exam within **3 calendar days** of passing their Readiness Exam at 80%+ — often impossible to schedule. Publishes pass rate figures (93%/94%/95%/99%) but discloses no methodology.
+- **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — everything included in the base price. 93% pass rate published with full methodology (inclusion requires 3× consecutive 80%+ practice-exam scores). 30-day guarantee window from enrollment.
+- **XCEL Solutions**: 3-part program structure (prelicensing + prep review + exam simulator) with access windows and feature inclusions that can vary by package tier. Markets "top industry pass rates" but does not publish a specific first-attempt figure with disclosed methodology. Verify current terms at xcelsolutions.com before purchase.
+- **ExamFX**: Established provider. Pass guarantee requires candidates to take the state exam within **3 calendar days** of scoring 80%+ on their Readiness Exam (requires careful scheduling). Publishes line-of-authority pass rates on examfx.com/resources/candidates — 95% Life, 94% Life & Health, 99% P&C, 93% Overall Combined — with disclosed methodology (2,826 self-reported survey respondents, Feb–Oct 2025). Verify current terms at examfx.com before purchase.
 
-If you're testing soon and want straightforward pricing with every feature included: JustInsurance. If you're on the tightest possible budget and are disciplined enough to finish in under 30 days: XCEL with the full add-on stack. If you already have a Pearson VUE exam appointment within 3 days of when you expect to hit 80%: ExamFX.
+If you want straightforward all-inclusive pricing with every feature bundled: JustInsurance. If you're comfortable evaluating package tiers and add-ons to assemble the features you need: XCEL or ExamFX may fit depending on your schedule.
 
-For most Florida 2-15 candidates — adults with jobs, families, and real schedules — the first option is the realistic one.
+All three are real options for a Florida 2-15 candidate — the right choice depends on your schedule, study style, and how much flexibility you want on guarantee and extension terms.
 
 ## What makes Florida 2-15 different from other state exams
 
@@ -46,34 +46,34 @@ The biggest difference between providers isn't the base price — it's what you 
 ### Curriculum depth
 
 - **JustInsurance**: 100+ videos covering every topic on the Florida 2-15 content outline, with AI-optimized text at a 4th–5th grade reading level so the material is accessible to candidates from any background. Audio vocabulary lists for on-the-go review.
-- **XCEL**: Limited video content — the curriculum leans heavily on text and readings. Reviewers cite this as a weakness for visual learners.
-- **ExamFX**: Limited video content — more similar to XCEL than to JustInsurance in this respect.
+- **XCEL**: Video depth varies by package tier. Confirm current package inclusions at xcelsolutions.com before purchase.
+- **ExamFX**: Video depth varies across ExamFX's four package tiers (Self-Study, Video Study, Live Online, Live In-Person). Confirm inclusions at examfx.com before purchase.
 
 ### Practice exam quality
 
 - **JustInsurance**: Unlimited adaptive practice exams with AI-powered realistic simulations that mirror the Pearson VUE interface. Unlimited retakes.
-- **XCEL**: 2–3 static practice exam forms in the base package. Additional practice content is a paid upgrade.
-- **ExamFX**: 2–3 static practice exam forms in the base package. Additional practice content is a paid upgrade.
+- **XCEL**: Practice exam count and format vary by package tier. Confirm at xcelsolutions.com.
+- **ExamFX**: Practice exam count varies by package tier. Confirm at examfx.com.
 
-For Florida specifically, realistic practice simulations matter because Pearson VUE's mark-and-review interface has a learning curve. Walking into the real exam having only done static 50-question quizzes is a disadvantage.
+For Florida specifically, realistic practice simulations matter because Pearson VUE's mark-and-review interface has a learning curve. Verify each provider's practice-exam offering before enrollment.
 
 ### Live instructor support
 
 - **JustInsurance**: Live instructor sessions **5× weekly**, included in the $199 base course. Ask questions in real time, get state-specific 2-15 clarifications, and hear other candidates work through concepts.
-- **XCEL**: Offers genuine livestream instructor classes (with webcam and government-ID verification required), but typically as a **paid upgrade** rather than part of the base package. Also has on-demand recorded content.
-- **ExamFX**: Livestream classes are a **paid upgrade** rather than included in the base course, with more limited frequency than a daily-access model.
+- **XCEL**: Offers genuine livestream instructor classes (typically with webcam and government-ID verification required). Whether live sessions are included with the base package or offered as an add-on can depend on the package tier.
+- **ExamFX**: Offers live webinars and live online sessions as features in at least some of its packages; the exact cadence and which packages include them can vary.
 
 ### Flashcards and vocabulary
 
 - **JustInsurance**: Included. Flashcards plus audio vocabulary lists at no extra cost.
-- **XCEL**: Upcharge. Flashcards are a paid add-on.
-- **ExamFX**: Upcharge. Flashcards are a paid add-on.
+- **XCEL**: Flashcard inclusion varies by package tier.
+- **ExamFX**: ExamFX's public course pages list flashcards among study tools; inclusion varies by package tier.
 
 ### Course access duration
 
 - **JustInsurance**: Multiple extension options included — you don't have to test before you're ready.
-- **XCEL**: Standard package gives 30 days for the prelicensing course **plus** 30 days for the prep review — 60 days total but split across two consecutive phases, not one continuous window. Extending the prelicensing phase requires a paid upgrade. For candidates new to insurance, the 30-day prelicensing clock can still feel rushed if you need extra time on the main 40-hour curriculum.
-- **ExamFX**: Access varies by package; extensions available but often require upgrading.
+- **XCEL**: Publicly describes its program as having separate prelicensing and prep review phases; exact access durations and whether those phases run continuously or on separate clocks can vary by package. Verify at xcelsolutions.com.
+- **ExamFX**: Offers 30-day or 60-day paid course extensions for insurance courses (per their FAQ).
 
 ### White-glove licensing support
 
@@ -96,30 +96,26 @@ Published on every course page. Same terms every state.
 
 ### ExamFX pass guarantee
 
-- Pass ExamFX's Readiness Exam at 80% or higher
-- Sit for the state licensing exam within **3 calendar days** of passing the Readiness Exam
-- Only the first state exam attempt qualifies (second-attempt failures don't qualify)
+- Score 80% or higher on ExamFX's Readiness Exam
+- The Readiness Exam must be taken no more than **3 calendar days** prior to the state licensing exam
 - Submit your score sheet within 30 days of the licensing exam
-- Refunds exclude company-paid packages and shipping costs
+- Refunds exclude company-paid packages, renewals, and shipping costs
 
-The 3-day window is the problem. Pearson VUE testing centers in Florida — particularly in Miami, Orlando, Tampa, and Jacksonville — are typically booked 1–2 weeks out. Scheduling an exam within 72 hours is often impossible for working adults. Missing the 3-day window voids the guarantee. This is the most frequently cited ExamFX complaint on reviews. Source: [examfx.com/resources/pass-guarantee](https://www.examfx.com/resources/pass-guarantee).
+The 3-day window means candidates need to plan the sequence carefully: schedule the state exam first (Pearson VUE testing centers in Florida often require booking 1–2 weeks ahead), then take the Readiness Exam within 3 calendar days before the scheduled state-exam date. Always verify current terms at [examfx.com/pass-guarantee](https://www.examfx.com/pass-guarantee).
 
 ### XCEL Solutions pass guarantee
 
-- No refund-style pass guarantee
-- If you fail, you get continued course access at no additional cost (as long as your enrollment hasn't expired)
-
-XCEL's approach is different from the other two providers: they don't refund your money if you fail — they let you keep studying. That can be valuable if you want another shot with the same materials, but it isn't a financial backstop in the way JustInsurance's refund guarantee or ExamFX's conditional guarantee is.
+XCEL Solutions' pass guarantee and refund terms are not prominently featured on its public product pages, and specifics can vary by package and state. Always verify current terms at xcelsolutions.com before purchase.
 
 ## Pass rates: the transparency test
 
-A provider that believes in its curriculum publishes pass rate data with methodology. Here's what each provider publishes for Florida 2-15 candidates:
+Two of the three providers publish pass rates with disclosed methodology. The inclusion criteria differ, which is worth understanding.
 
-- **JustInsurance**: 93% first-attempt pass rate among students who complete the full course and meet the recommended study metrics — finishing the recommended hours and scoring 80% or higher on the practice exam three times in a row before sitting for the state exam. [Full methodology published at /pass-rates](/pass-rates).
-- **XCEL**: Markets "top industry first-time pass rates" but does not publish a specific figure with methodology on product pages.
-- **ExamFX**: Prominently displays pass rate figures (93% aggregate, 94% Life & Health, 95% Life, 99% Property & Casualty) but does not disclose the methodology, sample size, or time period behind those numbers.
+- **JustInsurance**: 93% first-attempt pass rate among students who complete the full course and meet the recommended study metrics — finishing the recommended hours and scoring 80% or higher on the practice exam **three times in a row** before sitting for the state exam. [Full methodology published at /pass-rates](/pass-rates).
+- **XCEL**: Markets "top industry first-time pass rates" but does not publish a specific first-attempt figure with disclosed methodology on its public product pages.
+- **ExamFX**: Publishes line-of-authority pass rates on [examfx.com/resources/candidates](https://www.examfx.com/resources/candidates) — 95% Life, 94% Life & Health, 90% Health, 99% Property & Casualty, 95% Personal Lines, and 93% Overall Combined. Methodology is disclosed: self-reported survey responses from 2,826 learners collected between February 1, 2025 and October 17, 2025.
 
-JustInsurance is currently the only major Florida 2-15 provider that publishes both the figure and the methodology. A pass rate without methodology is a claim, not a measurement — the transparency matters for a $199 decision.
+Both JustInsurance and ExamFX disclose methodology, but use different inclusion bars. ExamFX counts self-reported survey respondents broadly; JustInsurance counts only students who hit the 3× consecutive 80%+ practice-exam bar before testing. Neither methodology is wrong — they just answer different questions. For prospective candidates evaluating courses for a $199 decision, the takeaway is: read both methodologies, then decide which population most resembles you.
 
 ## Pricing breakdown: what you actually pay
 
@@ -134,38 +130,34 @@ The base price comparison is misleading because of the upcharge model. Here's wh
 - White-glove NIPR help: included
 - **Total: $199**
 
-### XCEL Solutions total cost (with essentials)
-- Base prelicensing: ~$140–$170 depending on promotion
-- Flashcards upgrade: varies
-- Extended access: varies
-- Additional practice exams: varies
-- "Live" session access: varies
-- **Total with essentials: typically $200–$280 depending on what you add**
+### XCEL Solutions total cost
+- Base prelicensing: varies by package tier and current promotions
+- Add-ons (flashcards, extensions, additional practice content, live sessions): vary by tier
+- **Total depends on which package and add-ons you select** — confirm at xcelsolutions.com
 
-### ExamFX total cost (with essentials)
-- Base prelicensing: similar to XCEL
-- Flashcards upgrade: varies
-- Live session upgrade: varies
-- Additional practice content: varies
-- **Total with essentials: typically $220–$300 depending on what you add**
+### ExamFX total cost
+- Base prelicensing: varies by package tier (Self-Study, Video Study, Live Online, Live In-Person)
+- Add-ons (flashcards, extensions, additional practice content, live session upgrades): vary by tier
+- Course extensions: 30-day and 60-day paid options per ExamFX FAQ
+- **Total depends on which tier and add-ons you select** — confirm at examfx.com
 
-Exact XCEL and ExamFX pricing shifts with promotions, so the ranges above reflect what typical candidates report after adding the features most courses consider standard. Confirm current pricing on their product pages before purchasing.
+XCEL and ExamFX both use tiered/modular pricing, so total cost depends on what you bundle. For candidates who prefer to know the final price up front, JustInsurance's flat $199 is the simpler option. Verify current competitor pricing on their product pages before purchasing.
 
 ## Florida-specific support hours
 
 When you're stuck on a Florida-specific question at 9 PM on a Sunday because you're trying to test next week, support hours matter. Here's the breakdown:
 
 - **JustInsurance**: 7 days/week. Monday–Friday 7 AM – 10 PM, Saturday/Sunday 8 AM – 8 PM. Email, text, and phone support all accessible.
-- **XCEL**: 6 days/week. Monday–Friday 8:30 AM – 7 PM only. No weekend support. No text support.
-- **ExamFX**: 5.5 days/week. Monday–Friday 7 AM – 6 PM, Saturday 10 AM – 2 PM. No Sunday support.
+- **XCEL**: Standard business-hour support; weekend availability can vary. Verify current hours at xcelsolutions.com.
+- **ExamFX**: Standard business-hour support; weekend availability can vary. Verify current hours at examfx.com/help-center.
 
-For candidates who study on weekends — which is most candidates balancing prelicensing with a day job — the weekend support gap at XCEL and the limited Saturday hours at ExamFX are operationally meaningful.
+If weekend or evening support matters for your study schedule, confirm each provider's current support hours before enrolling.
 
 ## Final recommendation for Florida 2-15
 
-If you're a typical Florida 2-15 candidate — a working adult with limited study time, a budget that matters, and a real exam date on the calendar — the math favors JustInsurance. Every feature most predictive of first-attempt passing is included in the single $199 fee, the guarantee terms match how real people schedule exams, and the pass rate is published with transparent methodology.
+If you want straightforward all-inclusive pricing with every feature bundled, a 30-day guarantee window, and a pass rate methodology that matches a strict inclusion bar: JustInsurance. Every feature most predictive of first-attempt passing is included in the single $199 fee.
 
-If your situation is atypical — you already have an exam appointment within 3 days of when you'll hit 80% on practice exams, or you're disciplined enough to complete all 40 hours plus final prep in under 30 days without any extensions — ExamFX or XCEL can work. For most candidates, those conditions aren't met.
+If you prefer to evaluate package tiers and assemble the specific features you want, and you can plan the Readiness Exam → state exam sequence to fit ExamFX's 3-day window: ExamFX is a legitimate alternative. If you want to compare XCEL's offering, review their product pages directly since specifics vary by package and state.
 
 Before enrolling anywhere, verify:
 - The exam center you'll use is accepting appointments within your timeline
@@ -180,4 +172,4 @@ For state-approved CE renewal after you're licensed, see [Florida CE packages fr
 
 ---
 
-*By Justin vom Eigen, Licensed Insurance Agent and Founder of JustInsurance. Pricing and feature claims verified against competitor public product pages as of April 2026. Florida exam and application fees verified against the [Florida Department of Financial Services](https://myfloridacfo.com/division/agents/licensing) and [Pearson VUE Florida portal](https://home.pearsonvue.com/fl/insurance).*
+*By Justin vom Eigen, Licensed Insurance Agent and Founder of JustInsurance. Competitor pricing, feature, methodology, and guarantee claims verified against XCEL Solutions and ExamFX public product pages, FAQ documents, pass guarantee policies, and refund policies as of April 17, 2026. Competitor terms, pricing, and features can change without notice — always verify current terms directly at [xcelsolutions.com](https://www.xcelsolutions.com) and [examfx.com](https://www.examfx.com) before purchase. Florida exam and application fees verified against the [Florida Department of Financial Services](https://myfloridacfo.com/division/agents/licensing) and [Pearson VUE Florida portal](https://home.pearsonvue.com/fl/insurance).*

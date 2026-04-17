@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "verify-comparative-claims": "node scripts/verify-comparative-claims.mjs"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",

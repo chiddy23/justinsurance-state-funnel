@@ -49,9 +49,8 @@ const nextConfig = {
       { source: "/how-to-study-for-life-insurance-exam", destination: "/insurance-exam-guide", permanent: true },
       { source: "/how-to-study-for-life-insurance-exam/:path*", destination: "/insurance-exam-guide", permanent: true },
       { source: "/from-basics-to-pro-comprehensive-online-courses-for-your-insurance-license", destination: "/study-guide", permanent: true },
-      { source: "/from-basics-to-pro-comprehensive-online-courses-for-your-insurance-license/:path*", destination: "/study-guide", permanent: true },
+      { source: "/from-basics-to-pro-:path*", destination: "/study-guide", permanent: true },
       { source: "/from-basics-to-pro", destination: "/study-guide", permanent: true },
-      { source: "/from-basics-to-pro/:path*", destination: "/study-guide", permanent: true },
 
       // ── Remaining legacy paths ──
       { source: "/unlocking-your-future", destination: "/", permanent: true },

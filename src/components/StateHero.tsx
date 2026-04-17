@@ -26,11 +26,8 @@ export default function StateHero({ title, subtitle, ctaButtons, eyebrow }: Stat
         <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
           {title}
         </h1>
-        <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-4 max-w-2xl mx-auto">
+        <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
           {subtitle}
-        </p>
-        <p className="text-sm text-blue-200 tracking-wide mb-8">
-          State-approved insurance education since 2017
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           {ctaButtons.map((btn, i) =>

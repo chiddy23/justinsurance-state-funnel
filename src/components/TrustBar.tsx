@@ -49,13 +49,22 @@ const TRUST_SIGNALS = [
     label: "Same-Day Reporting",
     sub: "CE reported instantly",
   },
+  {
+    icon: (
+      <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+      </svg>
+    ),
+    label: "Est. 2017",
+    sub: "9 years educating agents",
+  },
 ];
 
 export default function TrustBar() {
   return (
     <section className="bg-gray-bg border-b border-gray-200 py-4">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-wrap justify-center gap-6 md:gap-0 md:grid md:grid-cols-5">
+        <div className="flex flex-wrap justify-center gap-6 md:gap-0 md:grid md:grid-cols-6">
           {TRUST_SIGNALS.map((signal) => (
             <div
               key={signal.label}

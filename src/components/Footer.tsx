@@ -33,7 +33,7 @@ export default function Footer() {
               />
             </Link>
             <p className="text-gray-300 text-sm leading-relaxed mb-4">
-              State-approved online insurance prelicensing and CE courses for life and health agents in all 50 states. We&apos;ve helped 30,000+ students get and keep their insurance license.
+              State-approved online insurance prelicensing and CE courses for life and health agents nationwide. We&apos;ve helped 30,000+ students get and keep their insurance license.
             </p>
             <div className="space-y-2">
               <a
@@ -112,7 +112,7 @@ export default function Footer() {
               ))}
               <li>
                 <Link href="/" className="text-gold hover:text-gold-light transition-colors text-sm font-medium">
-                  View All 50 States &rarr;
+                  View All States &rarr;
                 </Link>
               </li>
             </ul>

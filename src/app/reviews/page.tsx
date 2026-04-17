@@ -72,7 +72,7 @@ export default function ReviewsPage() {
             <p className="text-2xl font-bold">5.0 / 5</p>
           </div>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
-            30,000+ agents licensed across all 50 states. Real feedback from
+            30,000+ agents licensed nationwide. Real feedback from
             students who finished prelicensing, passed their state exam, and built
             an insurance career.
           </p>
@@ -284,7 +284,7 @@ export default function ReviewsPage() {
             Ready to Join Them?
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6 max-w-2xl mx-auto">
-            State-approved prelicensing for all 50 states. $199 all-inclusive.
+            State-approved prelicensing nationwide. $199 all-inclusive.
             Pass guarantee backed by published methodology.
           </p>
           <div className="flex flex-wrap justify-center gap-3">

@@ -94,7 +94,7 @@ function buildTitle(
     ],
     "practice-exam-hub": [
       `Insurance Practice Exams by State | $59 | ${brand}`,
-      `Insurance Practice Exams | All 50 States | ${brand}`,
+      `Insurance Practice Exams | Nationwide | ${brand}`,
       `Insurance Practice Exams | ${brand}`,
     ],
   };
@@ -121,7 +121,7 @@ function buildDescription(
 
   switch (pageType) {
     case "home":
-      return "State-approved insurance prelicensing and CE courses for all 50 states. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.";
+      return "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.";
     case "state-hub": {
       const ep = params.examProvider;
       const providerBit = ep ? `${ep} exam prep, ` : "";
@@ -151,7 +151,7 @@ function buildDescription(
     case "practice-exam":
       return `${stateName} insurance practice exam — Life, Health, and Life & Health versions. Mirror the real state exam. Boost your score, pass with confidence. $59.`;
     case "practice-exam-hub":
-      return `State-approved insurance practice exams for all 50 states. Life, Health, and Life & Health — mirror the real state exam. Pick your state to start. $59.`;
+      return `State-approved insurance practice exams nationwide. Life, Health, and Life & Health — mirror the real state exam. Pick your state to start. $59.`;
   }
 }
 

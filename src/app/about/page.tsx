@@ -179,7 +179,7 @@ export default function AboutPage() {
             soul-crushing prelicensing courses. Today we&apos;ve trained over{" "}
             <strong className="text-white">30,000 agents</strong> across{" "}
             <Link href="/" className="underline hover:text-gold">
-              all 50 states
+              nationwide
             </Link>{" "}
             with a <strong className="text-white">93% first-attempt pass rate</strong>,
             offering modern{" "}
@@ -454,7 +454,7 @@ export default function AboutPage() {
 
       <CTABanner
         title="Ready to Get Licensed?"
-        subtitle="State-approved prelicensing from $199. Pass guarantee included. Study at your own pace in all 50 states."
+        subtitle="State-approved prelicensing from $199. Pass guarantee included. Study at your own pace nationwide."
         ctaText="Find My State"
         ctaHref="/#states"
       />

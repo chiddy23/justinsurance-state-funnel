@@ -42,7 +42,7 @@ const faqs = [
   {
     question: "Which states do JustInsurance, XCEL, and ExamFX cover?",
     answer:
-      "JustInsurance offers prelicensing and CE in all 50 states for Life, Health, and Life & Health. XCEL and ExamFX also cover all 50 states but have different state-specific course approvals — particularly around California's 12-hour Code & Ethics requirement, Florida's 2-15 combined license, and Texas's no-prelicensing-required status. Select your state on our homepage to see the specific JustInsurance course and pricing for your line of authority.",
+      "JustInsurance offers prelicensing and CE nationwide for Life, Health, and Life & Health. XCEL and ExamFX also cover nationwide but have different state-specific course approvals — particularly around California's 12-hour Code & Ethics requirement, Florida's 2-15 combined license, and Texas's no-prelicensing-required status. Select your state on our homepage to see the specific JustInsurance course and pricing for your line of authority.",
   },
 ];
 
@@ -162,7 +162,7 @@ export default function ComparePage() {
             Ready to Start Your State-Approved Prelicensing?
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6 max-w-2xl mx-auto">
-            All 50 states covered. One price — $199 — with every feature included. Pass guarantee
+            Nationwide coverage. One price — $199 — with every feature included. Pass guarantee
             backed by our published methodology.
           </p>
           <div className="flex flex-wrap justify-center gap-3">

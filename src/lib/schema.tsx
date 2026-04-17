@@ -169,7 +169,7 @@ export function generateOrganizationSchema(): object {
     areaServed: "US",
     sameAs: [BASE_URL],
     description:
-      "JustInsurance LLC offers state-approved online insurance prelicensing and continuing education courses for life and health insurance agents across all 50 states.",
+      "JustInsurance LLC offers state-approved online insurance prelicensing and continuing education courses for life and health insurance agents nationwide.",
   };
 }
 

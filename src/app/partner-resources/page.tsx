@@ -175,7 +175,7 @@ export default function PartnerResourcesPage() {
               { q: "Can a candidate retake the exam if they fail?", a: "Yes. Most states allow retakes, though there may be a waiting period (typically 24 hours to 30 days). Email the report card to support@justinsuranceco.com and we\u2019ll build a custom retake plan." },
               { q: "How do I add another candidate?", a: "Reach out to our team via text at 850-790-4811 or through your agency contact, and we\u2019ll get them enrolled and set up in the system." },
               { q: "What if a candidate needs more time on the course?", a: "Course access doesn\u2019t expire on a hard deadline, but the goal is to keep the timeline tight. If they need more time, have them reschedule their exam \u2014 but don\u2019t let \u201Cmore time\u201D become an excuse." },
-              { q: "What states do you cover?", a: "We offer pre-licensing and continuing education courses in all 50 states. Contact us if you have questions about a specific state\u2019s requirements." },
+              { q: "What states do you cover?", a: "We offer pre-licensing and continuing education courses nationwide. Contact us if you have questions about a specific state\u2019s requirements." },
               { q: "How does the 850-790-4811 support line work?", a: "Our team sends automated check-in texts to enrolled candidates and responds to incoming questions. It\u2019s not a replacement for your follow-up \u2014 it\u2019s a supplement." },
               { q: "Who do I contact if I have a question that\u2019s not here?", a: "Text or call 850-790-4811, or email support@justinsuranceco.com." },
             ].map((faq, i) => (

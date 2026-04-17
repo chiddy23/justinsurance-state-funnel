@@ -232,7 +232,7 @@ export default async function CompetitorComparisonPage({
             See Why 30,000+ Agents Chose JustInsurance
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6 max-w-2xl mx-auto">
-            State-approved prelicensing for all 50 states. $199 all-inclusive. Pass guarantee
+            State-approved prelicensing nationwide. $199 all-inclusive. Pass guarantee
             backed by published methodology. Same-day CE reporting. Live sessions 5× weekly.
           </p>
           <div className="flex flex-wrap justify-center gap-3">

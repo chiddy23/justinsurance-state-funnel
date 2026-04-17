@@ -8,7 +8,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Health Insurance License Course | Online | JustInsurance";
 const PAGE_DESC =
-  "Get your health insurance license online. $199 state-approved prelicensing with pass guarantee. Self-paced courses available in all 50 states. Enroll today.";
+  "Get your health insurance license online. $199 state-approved prelicensing with pass guarantee. Self-paced courses available nationwide. Enroll today.";
 const CANONICAL = "https://justinsuranceco.com/health-insurance-license";
 
 export const metadata: Metadata = {

@@ -10,12 +10,12 @@ export const metadata: Metadata = {
     absolute: "JustInsurance Blog | Insurance Licensing, CE & Exam Prep",
   },
   description:
-    "Expert guides on insurance licensing, CE requirements, exam prep, and career tips for agents across all 50 states. Written by licensed agents.",
+    "Expert guides on insurance licensing, CE requirements, exam prep, and career tips for agents nationwide. Written by licensed agents.",
   alternates: { canonical: "https://justinsuranceco.com/blog" },
   openGraph: {
     title: "JustInsurance Blog | Insurance Licensing, CE & Exam Prep",
     description:
-      "Expert guides on insurance licensing, CE requirements, exam prep, and career tips for agents across all 50 states.",
+      "Expert guides on insurance licensing, CE requirements, exam prep, and career tips for agents nationwide.",
     url: "https://justinsuranceco.com/blog",
     siteName: "JustInsurance",
     type: "website",

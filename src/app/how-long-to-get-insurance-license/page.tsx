@@ -262,7 +262,7 @@ export default function HowLongToGetInsuranceLicensePage() {
               <h3 className="font-bold text-navy mb-3">Reciprocity and Non-Resident Licensing</h3>
               <p className="text-gray-600 text-sm leading-relaxed">
                 If you already hold a resident license in another state, non-resident licensing through NIPR typically clears in 1 to 7 days with no exam required. The{" "}
-                <a href="https://content.naic.org/industry/producer-licensing" target="_blank" rel="noopener" className="underline">NAIC Producer Licensing Model Act</a> drives this reciprocity framework across nearly all 50 states.
+                <a href="https://content.naic.org/industry/producer-licensing" target="_blank" rel="noopener" className="underline">NAIC Producer Licensing Model Act</a> drives this reciprocity framework across nearly nationwide.
               </p>
             </div>
           </div>
@@ -331,7 +331,7 @@ export default function HowLongToGetInsuranceLicensePage() {
           <div className="grid md:grid-cols-2 gap-5">
             <Link href="/prelicensing" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Prelicensing Courses</h3>
-              <p className="text-gray-600 text-sm">$199 state-approved courses for Life, Health, and combined lines in all 50 states.</p>
+              <p className="text-gray-600 text-sm">$199 state-approved courses for Life, Health, and combined lines nationwide.</p>
             </Link>
             <Link href="/insurance-exam-guide" className="block bg-gray-50 rounded-xl p-6 border border-gray-100 hover:border-gold transition">
               <h3 className="font-bold text-navy mb-1">Insurance Exam Guide</h3>

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Insurance Prelicensing & CE Courses | JustInsurance",
   },
   description:
-    "State-approved insurance prelicensing and CE courses for all 50 states. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.",
+    "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.",
   metadataBase: new URL("https://justinsuranceco.com"),
   robots: "index, follow",
   openGraph: {

@@ -6,7 +6,7 @@ import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
-const PAGE_TITLE = "Insurance Prelicensing Courses | All 50 States | JustInsurance";
+const PAGE_TITLE = "Insurance Prelicensing Courses | Nationwide | JustInsurance";
 const PAGE_DESC =
   "State-approved insurance prelicensing courses online. $199, pass guarantee. Life, health, and combined. Start in any of 50 states.";
 const CANONICAL = "https://justinsuranceco.com/prelicensing";
@@ -34,7 +34,7 @@ const faqs = [
   {
     question: "What is insurance prelicensing?",
     answer:
-      "Insurance prelicensing is a state-mandated education requirement that must be completed before you can sit for your state insurance licensing exam. Each state specifies a minimum number of required hours — typically 20 to 40 hours — covering topics like insurance concepts, policy types, regulations, and ethics. JustInsurance courses satisfy these requirements in all 50 states where we operate.",
+      "Insurance prelicensing is a state-mandated education requirement that must be completed before you can sit for your state insurance licensing exam. Each state specifies a minimum number of required hours — typically 20 to 40 hours — covering topics like insurance concepts, policy types, regulations, and ethics. JustInsurance courses satisfy these requirements nationwide where we operate.",
   },
   {
     question: "How long does prelicensing take to complete?",

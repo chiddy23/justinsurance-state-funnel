@@ -7,7 +7,7 @@ import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 
 const homeTitle = "Insurance Prelicensing & CE Courses | JustInsurance";
-const homeDesc = "State-approved insurance prelicensing and CE courses for all 50 states. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.";
+const homeDesc = "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.";
 
 export const metadata: Metadata = {
   title: { absolute: homeTitle },
@@ -47,7 +47,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            State-approved prelicensing and CE courses for all 50 states. 100% online, self-paced, and backed by our pass guarantee. Join 30,000+ agents who&apos;ve trusted JustInsurance.
+            State-approved prelicensing and CE courses nationwide. 100% online, self-paced, and backed by our pass guarantee. Join 30,000+ agents who&apos;ve trusted JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -99,7 +99,7 @@ export default function HomePage() {
             Choose Your State
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            We offer state-approved insurance prelicensing and CE courses in all 50 states. Click your state to get started.
+            We offer state-approved insurance prelicensing and CE courses nationwide. Click your state to get started.
           </p>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">
@@ -138,7 +138,7 @@ export default function HomePage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
                   </svg>
                 ),
-                title: "State-Approved in All 50 States",
+                title: "State-Approved Nationwide",
                 desc: "Every course meets the exact education requirements set by each state's Department of Insurance — no guesswork.",
               },
               {

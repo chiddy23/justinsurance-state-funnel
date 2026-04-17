@@ -209,7 +209,7 @@ export default function PassRatesPage() {
             30,000+ Students Licensed
           </p>
           <p className="text-gray-600">
-            JustInsurance has helped agents across all 50 states earn and renew
+            JustInsurance has helped agents nationwide earn and renew
             their insurance license since 2017.
           </p>
         </div>
@@ -248,7 +248,7 @@ export default function PassRatesPage() {
               href="/"
               className="bg-navy hover:bg-navy-light text-white font-semibold rounded-lg px-4 py-2 transition-colors"
             >
-              All 50 states →
+              All states →
             </Link>
           </nav>
         </div>

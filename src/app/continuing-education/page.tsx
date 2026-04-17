@@ -70,7 +70,7 @@ export default function ContinuingEducationPage() {
     "@context": "https://schema.org",
     "@type": "Course",
     name: "Insurance Continuing Education (CE) Courses",
-    description: "State-approved online insurance CE courses for license renewal. All 50 states covered. Same-day reporting to your state DOI. From $39.",
+    description: "State-approved online insurance CE courses for license renewal. Nationwide coverage. Same-day reporting to your state DOI. From $39.",
     provider: {
       "@type": "Organization",
       name: "JustInsurance LLC",

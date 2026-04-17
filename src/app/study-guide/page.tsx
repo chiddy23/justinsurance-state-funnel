@@ -169,7 +169,7 @@ export default function StudyGuidePage() {
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
             Everything you need to pass the Life &amp; Health insurance licensing exam on your
             first try — universal concepts, state-by-state breakdowns, 10 practice questions, and
-            a 7-day study plan. All 50 states covered.
+            a 7-day study plan. Nationwide coverage.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <a href="#states" className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors">
@@ -246,7 +246,7 @@ export default function StudyGuidePage() {
             Start with Part 2 to build your universal foundation. Work through the Part 3 glossary. Then jump directly to your state in Part 4. Use Parts 5–9 to test yourself, memorize key concepts, and prepare for exam day.
           </Callout>
           <p className="text-gray-700 leading-relaxed">
-            This guide covers all 50 states for Life &amp; Health licenses, and is maintained by the team at JustInsurance — a state-approved prelicensing provider that&apos;s helped 30,000+ students earn their licenses.
+            This guide covers nationwide for Life &amp; Health licenses, and is maintained by the team at JustInsurance — a state-approved prelicensing provider that&apos;s helped 30,000+ students earn their licenses.
           </p>
         </div>
       </section>

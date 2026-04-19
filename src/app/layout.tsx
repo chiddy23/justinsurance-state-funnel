@@ -20,6 +20,18 @@ export const metadata: Metadata = {
     "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.",
   metadataBase: new URL("https://justinsuranceco.com"),
   robots: "index, follow",
+  // Explicit icons declaration with STABLE URLs (no Next.js content-hash query strings).
+  // Google requires a stable favicon URL — the file-based icon convention in src/app/
+  // adds a hash query string per build, which Google treats as a new asset each deploy.
+  // Files are duplicated to /public/ for stable URLs; favicon.ico is multi-size 16/32/48.
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/icon.png", type: "image/png", sizes: "192x192" },
+    ],
+    apple: [{ url: "/apple-icon.png", type: "image/png", sizes: "180x180" }],
+    shortcut: ["/favicon.ico"],
+  },
   openGraph: {
     siteName: "JustInsurance",
     type: "website",

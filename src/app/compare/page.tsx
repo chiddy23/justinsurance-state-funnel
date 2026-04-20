@@ -7,9 +7,9 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 import { COMPARISON_ROWS, PROVIDERS, PASS_RATE_FOOTNOTE } from "@/lib/comparison-data";
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance Prelicensing Comparison: JustInsurance vs XCEL vs ExamFX" },
+  title: { absolute: "JustInsurance vs XCEL, ExamFX, AD Banker, Aceable Compared" },
   description:
-    "Compare the top insurance prelicensing providers side-by-side. Videos, live sessions, pass rates, support hours, and pricing — with nothing hidden behind upcharges.",
+    "Compare the top insurance prelicensing providers side-by-side — JustInsurance, XCEL, ExamFX, AD Banker, and Aceable. Videos, live sessions, pass rates, guarantees, and pricing.",
   alternates: { canonical: "https://justinsuranceco.com/compare" },
 };
 
@@ -72,12 +72,12 @@ export default function ComparePage() {
             Prelicense Provider Comparison
           </p>
           <h1 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">
-            JustInsurance vs XCEL Solutions vs ExamFX
+            JustInsurance vs XCEL, ExamFX, AD Banker, Aceable
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
             The features competitors hide behind upcharges — flashcards, live sessions, exam
-            simulations, extensions — are all included in our single $199 course. Compare
-            side-by-side.
+            simulations, extensions — are all included in our single $199 course. Compare the
+            four biggest alternatives side-by-side.
           </p>
         </div>
       </section>

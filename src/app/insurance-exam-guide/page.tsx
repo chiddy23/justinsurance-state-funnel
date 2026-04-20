@@ -13,7 +13,7 @@ const ALL_STATES_FOR_EXAM_GUIDE = Object.values(STATES)
   .sort((a, b) => a.name.localeCompare(b.name));
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance License Exam Guide 2026 | How to Pass | JustInsurance" },
+  title: { absolute: "Insurance License Exam Guide 2026 — Pass Rates & Prep" },
   description:
     "Everything you need to pass your insurance license exam. State-by-state exam details, Pearson VUE and PSI prep tips, practice questions, and pass rate data.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-exam-guide" },

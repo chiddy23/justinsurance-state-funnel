@@ -27,6 +27,74 @@ export async function generateMetadata({
 }
 
 function competitorFaqs(p: (typeof PROVIDERS)[string]) {
+  if (p.slug === "adbanker") {
+    return [
+      {
+        question: "What's the main difference between JustInsurance and AD Banker?",
+        answer:
+          "JustInsurance packages 100+ videos, unlimited adaptive practice exams, flashcards, 5× weekly live instructor sessions, AI-powered exam simulations, audio vocabulary, and white-glove licensing support into a single $199 all-inclusive course — one tier, same feature set for every student. AD Banker & Company offers multiple product tiers (self-study, live webinar, classroom) with feature inclusion and access durations that can vary by package and state. Before purchasing an AD Banker course, verify current package contents, access durations, and guarantee terms directly at adbanker.com.",
+      },
+      {
+        question: "What does AD Banker's pass guarantee require?",
+        answer:
+          "AD Banker publishes its pass guarantee and refund terms on its product and policy pages, and specifics vary by package and state. Rather than paraphrase terms that can change, we encourage prospective students to read the current policy directly at adbanker.com before purchase. JustInsurance's guarantee is consistent: complete the recommended study hours, score 80%+ on the practice exam three times in a row, and sit for your first-time state exam within 30 days of first enrollment — if you don't pass, we refund your course fee in full. Same terms every state, every line of authority.",
+      },
+      {
+        question: "Does AD Banker publish its pass rate?",
+        answer:
+          "AD Banker & Company does not prominently publish a specific first-attempt pass rate percentage with disclosed methodology on its public product pages. JustInsurance publishes a 93% pass rate at /pass-rates with full methodology disclosed: students who completed the full course, finished recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Methodology transparency is what lets a prospective student evaluate a pass-rate claim on equal footing. If AD Banker updates its public pages with a pass-rate figure and methodology, compare those qualifying criteria directly against the /pass-rates methodology before drawing a conclusion.",
+      },
+      {
+        question: "How reliable are customer reviews of AD Banker?",
+        answer:
+          "Customer review sentiment on third-party review platforms is mixed — we recommend reading current reviews on trustpilot.com and reviews.google.com for an unfiltered view of recent student experiences before purchasing from any prelicensing provider (AD Banker, JustInsurance, or any competitor). Look for recurring themes — course access duration complaints, refund-process friction, instructor responsiveness — rather than individual star counts. JustInsurance maintains a published pass-rate methodology and 7-day support (M–F 7a–10p, Sat/Sun 8a–8p) specifically to give students predictable touchpoints throughout the course.",
+      },
+      {
+        question: "What does AD Banker include vs charge extra for?",
+        answer:
+          "AD Banker's public product pages use tiered packaging: self-study, live webinar, and classroom options can include different combinations of video content, instructor contact, practice exams, flashcards, and extended access. Which features are included in the base package versus offered as an upgrade can vary by package tier and state — verify current inclusions at adbanker.com before purchase. JustInsurance avoids tier shopping by putting every core study feature — 100+ videos, unlimited adaptive practice exams, flashcards, 5× weekly live instructor sessions, AI-powered exam simulations, audio vocabulary, and extension options — in the base $199 price.",
+      },
+      {
+        question: "Should I choose AD Banker or JustInsurance for my state?",
+        answer:
+          "If you value a single all-inclusive price with no tier decisions, live instructor sessions 5× per week included, a published 93% pass rate with disclosed methodology, and white-glove NIPR and fingerprinting support, JustInsurance is built for that student. If you have a specific preference for AD Banker's classroom format in your local market, read the current AD Banker state and course pages at adbanker.com carefully — package contents, guarantee terms, and pricing can change. Always verify current AD Banker terms before purchase.",
+      },
+    ];
+  }
+  if (p.slug === "aceable") {
+    return [
+      {
+        question: "What's the main difference between JustInsurance and Aceable Insurance?",
+        answer:
+          "Aceable is primarily known for mobile-first driver-education and real-estate courses; its insurance prelicensing catalog (Aceable Insurance) markets a primarily self-paced, app-based experience. JustInsurance is an insurance-only provider with live instructor sessions 5× per week, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, audio vocabulary, and white-glove NIPR and fingerprinting support — all included in a single $199 all-inclusive course. Both are legitimate providers; the JustInsurance model is built around live human instruction alongside the self-paced content. Verify current Aceable Insurance course contents at aceable.com/insurance before purchase.",
+      },
+      {
+        question: "What does Aceable Insurance's pass guarantee require?",
+        answer:
+          "Aceable publishes its pass guarantee and refund policy on its product and policy pages, with specifics that can vary by course and state. We encourage prospective students to read the current policy directly at aceable.com/insurance rather than rely on paraphrased terms. JustInsurance's guarantee is consistent: complete the recommended study hours, score 80%+ on the practice exam three times in a row, and sit for your first-time state exam within 30 days of first enrollment — if you don't pass, we refund your course fee in full. Same terms every state, every line of authority.",
+      },
+      {
+        question: "Does Aceable Insurance publish its pass rate?",
+        answer:
+          "Aceable Insurance publishes pass-rate claims on its product pages; any pass-rate figure is only meaningful alongside a clearly disclosed methodology (which students are counted, how the number was calculated, over what time window). Read Aceable's current figure and methodology disclosure directly at aceable.com/insurance and compare the qualifying criteria against other providers' methodologies before drawing conclusions. JustInsurance publishes a 93% pass rate at /pass-rates using a stricter, clearly disclosed inclusion bar: students who completed the full course, finished recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. When two providers publish pass rates, the comparison that matters is the inclusion criteria — not the headline number.",
+      },
+      {
+        question: "Does Aceable Insurance offer live instructor sessions?",
+        answer:
+          "Aceable's core product architecture is mobile-first, self-paced content; whether live instructor sessions are included in a given Aceable Insurance course can vary by state and product tier. Verify current inclusions at aceable.com/insurance before purchase. JustInsurance runs genuine live instructor sessions 5× per week (Monday through Friday) as part of the standard $199 course, consistent across all states and lines of authority. Live instruction gives students a real-time channel for complex exam concepts — policy provisions, riders, state-specific regulation nuances — that self-paced video alone can't fully cover.",
+      },
+      {
+        question: "What does Aceable include vs charge extra for?",
+        answer:
+          "Aceable Insurance's public product pages list the core self-paced course content; feature inclusion (flashcards, practice exam depth, live sessions, extension windows) can vary by course and state. Read the current course-page checklist at aceable.com/insurance to see what's included in the base price versus offered as an upgrade. JustInsurance includes every core study feature — 100+ videos, unlimited adaptive practice exams, flashcards, 5× weekly live instructor sessions, AI-powered exam simulations, audio vocabulary, and extension options — in the base $199 price, with no tier upgrades for core study content.",
+      },
+      {
+        question: "Should I pick Aceable or JustInsurance for my state?",
+        answer:
+          "If you want a mobile-first, primarily self-paced app experience and your state and line of authority are covered in Aceable's catalog, Aceable may suit your learning style — verify current coverage and terms at aceable.com/insurance. If you want live human instructors 5× per week, a 93% pass rate with disclosed methodology, white-glove licensing support, and an all-inclusive $199 price with no upgrade path for core features, JustInsurance is built for that student. Start on the JustInsurance homepage to see the specific course and pricing for your state and line of authority.",
+      },
+    ];
+  }
   if (p.slug === "xcel") {
     return [
       {
@@ -183,21 +251,53 @@ export default async function CompetitorComparisonPage({
         </div>
       </section>
 
-      {/* Comparison table — only this competitor */}
-      <section className="bg-gray-bg py-16 px-4">
-        <div className="max-w-5xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-            Feature-by-Feature: JustInsurance vs {p.name}
-          </h2>
-          <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
-            18 comparison points across curriculum, support, guarantees, and features.
-          </p>
-          <ComparisonTable rows={COMPARISON_ROWS} highlightCompetitor={p.slug} />
-          <p className="text-gray-500 text-xs italic text-center mt-4 max-w-3xl mx-auto">
-            {PASS_RATE_FOOTNOTE}
-          </p>
-        </div>
-      </section>
+      {/* Comparison table — only for xcel/examfx (table currently supports those two columns) */}
+      {(p.slug === "xcel" || p.slug === "examfx") && (
+        <section className="bg-gray-bg py-16 px-4">
+          <div className="max-w-5xl mx-auto">
+            <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+              Feature-by-Feature: JustInsurance vs {p.name}
+            </h2>
+            <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+              18 comparison points across curriculum, support, guarantees, and features.
+            </p>
+            <ComparisonTable rows={COMPARISON_ROWS} highlightCompetitor={p.slug} />
+            <p className="text-gray-500 text-xs italic text-center mt-4 max-w-3xl mx-auto">
+              {PASS_RATE_FOOTNOTE}
+            </p>
+          </div>
+        </section>
+      )}
+
+      {/* What JustInsurance includes — shown for competitors without a 2-column table row mapping */}
+      {p.slug !== "xcel" && p.slug !== "examfx" && (
+        <section className="bg-gray-bg py-16 px-4">
+          <div className="max-w-4xl mx-auto">
+            <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+              What&apos;s Included in the JustInsurance $199 Course
+            </h2>
+            <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+              One price. One tier. Every core study feature in the base course — no upgrade path
+              for curriculum, practice exams, or live instruction.
+            </p>
+            <ul className="grid md:grid-cols-2 gap-3 text-sm text-gray-800">
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ 100+ video lessons covering every state exam topic</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ Unlimited adaptive practice exams</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ 5× weekly live instructor sessions (M–F)</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ Full flashcard decks included</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ AI-powered exam simulations</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ Audio vocabulary lists</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ Multiple course extension options</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ White-glove NIPR + fingerprinting help</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ Free report card review if a student fails</li>
+              <li className="bg-white rounded-lg border border-gray-200 p-4">✓ 7-day support (M–F 7a–10p, Sat/Sun 8a–8p)</li>
+            </ul>
+            <p className="text-gray-500 text-xs italic text-center mt-6 max-w-3xl mx-auto">
+              {PASS_RATE_FOOTNOTE}
+            </p>
+          </div>
+        </section>
+      )}
 
       {/* Guarantee comparison deep-dive */}
       <section className="bg-white py-16 px-4">
@@ -222,18 +322,39 @@ export default async function CompetitorComparisonPage({
               <p className="text-gray-500 font-bold uppercase tracking-wide text-xs mb-2">
                 {p.fullName} Guarantee
               </p>
-              {p.slug === "examfx" ? (
+              {p.slug === "examfx" && (
                 <ul className="text-gray-600 space-y-2 text-sm">
                   <li>• Score 80%+ on ExamFX Readiness Exam</li>
                   <li>• <strong className="text-red-700">Take state exam within 3 calendar days</strong> of Readiness Exam (vs. JustInsurance&apos;s 30 days from enrollment)</li>
                   <li>• Company-paid packages, renewals, and shipping excluded</li>
                   <li>• Verify current terms at <a href="https://www.examfx.com/pass-guarantee" target="_blank" rel="noopener noreferrer" className="underline">examfx.com/pass-guarantee</a></li>
                 </ul>
-              ) : (
+              )}
+              {p.slug === "xcel" && (
                 <ul className="text-gray-600 space-y-2 text-sm">
                   <li>• Pass guarantee terms are not prominently featured on product pages</li>
                   <li>• Refund eligibility can vary by package and state</li>
                   <li>• Verify current terms at xcelsolutions.com before purchase</li>
+                </ul>
+              )}
+              {p.slug === "adbanker" && (
+                <ul className="text-gray-600 space-y-2 text-sm">
+                  <li>• Pass guarantee terms can vary by package tier and state</li>
+                  <li>• Refund eligibility specifics vary by package and state</li>
+                  <li>• Verify current terms at{" "}
+                    <a href="https://www.adbanker.com" target="_blank" rel="noopener noreferrer" className="underline">adbanker.com</a>{" "}
+                    before purchase
+                  </li>
+                </ul>
+              )}
+              {p.slug === "aceable" && (
+                <ul className="text-gray-600 space-y-2 text-sm">
+                  <li>• Pass guarantee terms vary by course and state</li>
+                  <li>• Refund eligibility specifics published on Aceable&apos;s policy pages</li>
+                  <li>• Verify current terms at{" "}
+                    <a href="https://www.aceable.com/insurance/" target="_blank" rel="noopener noreferrer" className="underline">aceable.com/insurance</a>{" "}
+                    before purchase
+                  </li>
                 </ul>
               )}
             </div>

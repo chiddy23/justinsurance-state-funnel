@@ -4,12 +4,12 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: { absolute: "Contact JustInsurance | Support for Licensing & CE" },
+  title: { absolute: "Contact JustInsurance — Support 754-223-9744" },
   description:
     "Contact JustInsurance for help with prelicensing courses, continuing education, or state licensing questions. Phone, email, and support hours.",
   alternates: { canonical: "https://justinsuranceco.com/contact" },
   openGraph: {
-    title: "Contact JustInsurance | Support for Licensing & CE",
+    title: "Contact JustInsurance — Support 754-223-9744",
     description:
       "Reach JustInsurance support for prelicensing, CE, and state licensing questions. Phone, email, and office hours.",
     url: "https://justinsuranceco.com/contact",

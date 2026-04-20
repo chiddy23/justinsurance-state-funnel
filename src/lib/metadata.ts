@@ -44,25 +44,27 @@ function buildTitle(
       `Insurance Prelicensing & CE Courses | ${brand}`,
     ],
     "state-hub": (() => {
-      // State-specific title overrides
+      // State-specific title overrides — lead with price ($199) for competitive
+      // advantage signal in SERP titles (most competitors hide pricing).
       const stateSlug = params.stateSlug || "";
       const overrides: Record<string, string[]> = {
         florida: [
-          `Florida Insurance License | Courses & CE | ${brand}`,
+          `Florida Insurance License Course — $199 | ${brand}`,
         ],
         texas: [
-          `Texas Insurance License | Exam Prep & CE | ${brand}`,
+          `Texas Insurance License Course — $199 | ${brand}`,
         ],
         california: [
-          `California Insurance License | CDI-Approved | ${brand}`,
+          `California Insurance License — $199 CDI-Approved | ${brand}`,
         ],
       };
       if (overrides[stateSlug]) return overrides[stateSlug];
-      // Default pattern for all other states
+      // Default pattern: lead with price, fall back progressively to stay ≤60 chars
       return [
-        `${stateName} Insurance License | Courses & CE | ${brand}`,
-        `${stateName} Insurance License Course | ${brand}`,
+        `${stateName} Insurance License Course — $199 | ${brand}`,
+        `${stateName} Insurance License — $199 | ${brand}`,
         `${stateName} Insurance License | ${brand}`,
+        `${shortState} Insurance License — $199 | ${brand}`,
       ];
     })(),
     "prelicensing-hub": [

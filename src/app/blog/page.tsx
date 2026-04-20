@@ -7,13 +7,13 @@ import { getAllClusters, getAllPosts, getLatestPosts } from "@/lib/blog";
 
 export const metadata: Metadata = {
   title: {
-    absolute: "JustInsurance Blog | Insurance Licensing, CE & Exam Prep",
+    absolute: "Insurance Exam Prep Blog — State Guides & Study Tips",
   },
   description:
     "Expert guides on insurance licensing, CE requirements, exam prep, and career tips for agents nationwide. Written by licensed agents.",
   alternates: { canonical: "https://justinsuranceco.com/blog" },
   openGraph: {
-    title: "JustInsurance Blog | Insurance Licensing, CE & Exam Prep",
+    title: "Insurance Exam Prep Blog — State Guides & Study Tips",
     description:
       "Expert guides on insurance licensing, CE requirements, exam prep, and career tips for agents nationwide.",
     url: "https://justinsuranceco.com/blog",

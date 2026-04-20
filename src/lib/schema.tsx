@@ -142,10 +142,13 @@ export function generateBreadcrumbSchema(
 // ---------------------------------------------------------------------------
 
 export function generateOrganizationSchema(): object {
+  const rating = generateAggregateRatingSchema();
   return {
     "@context": "https://schema.org",
     "@type": ["EducationalOrganization", "LocalBusiness"],
+    "@id": `${BASE_URL}#organization`,
     name: "JustInsurance LLC",
+    alternateName: "Just Insurance",
     url: BASE_URL,
     logo: {
       "@type": "ImageObject",
@@ -164,10 +167,17 @@ export function generateOrganizationSchema(): object {
       addressCountry: "US",
     },
     foundingDate: "2017",
-    aggregateRating: generateAggregateRatingSchema(),
+    // Only include aggregateRating when we have a credible review count.
+    // generateAggregateRatingSchema() returns null until review volume >= 25.
+    ...(rating ? { aggregateRating: rating } : {}),
     priceRange: "$$",
     areaServed: "US",
-    sameAs: [BASE_URL],
+    sameAs: [
+      BASE_URL,
+      "https://www.youtube.com/@InsuranceExam",
+      "https://www.linkedin.com/in/justin-vom-eigen-04198714a/",
+      "https://finance.yahoo.com/news/justinsurance-unveils-93-pass-rate-160000549.html",
+    ],
     description:
       "JustInsurance LLC offers state-approved online insurance prelicensing and continuing education courses for life and health insurance agents nationwide.",
   };

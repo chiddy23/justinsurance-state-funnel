@@ -68,6 +68,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
     { path: "/non-resident-insurance-license", priority: 0.75 },
     { path: "/faq", priority: 0.7 },
     { path: "/study-guide", priority: 0.85 },
+    { path: "/webinars", priority: 0.8 },
     { path: "/about", priority: 0.6 },
     { path: "/partners", priority: 0.6 },
     { path: "/partner-resources", priority: 0.5 },

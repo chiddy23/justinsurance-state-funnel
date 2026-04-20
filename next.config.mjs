@@ -23,6 +23,47 @@ const nextConfig = {
       { source: `/${state}/life-and-health`, destination: `/${state}/prelicensing`, permanent: true },
     ]);
 
+    // Kaplan-pattern keyword-rich URL compatibility. Kaplan ranks 4 of top 10
+    // for "insurance continuing education" via /insurance-continuing-education/[state]
+    // sub-URLs. Adding 301 compatibility routes at that pattern so anyone typing
+    // or linking to the Kaplan URL pattern lands on our canonical state CE pages
+    // and passes link equity to them.
+    const kaplanMirrorRedirects = [
+      // Hub slug compatibility: /insurance-continuing-education → /continuing-education
+      { source: "/insurance-continuing-education", destination: "/continuing-education", permanent: true },
+      { source: "/insurance-prelicensing", destination: "/prelicensing", permanent: true },
+      // Per-state CE: /insurance-continuing-education/[state] → /[state]/continuing-education
+      ...[
+        "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+        "connecticut", "delaware", "district-of-columbia", "florida", "georgia",
+        "hawaii", "idaho", "illinois", "indiana", "iowa", "kansas", "kentucky",
+        "louisiana", "maine", "maryland", "massachusetts", "michigan", "minnesota",
+        "mississippi", "missouri", "montana", "nebraska", "nevada", "new-hampshire",
+        "new-jersey", "new-mexico", "north-carolina", "north-dakota", "ohio",
+        "oklahoma", "oregon", "pennsylvania", "rhode-island", "south-carolina",
+        "south-dakota", "tennessee", "texas", "utah", "vermont", "virginia",
+        "washington", "west-virginia", "wisconsin", "wyoming",
+      ].flatMap((state) => [
+        {
+          source: `/insurance-continuing-education/${state}`,
+          destination: `/${state}/continuing-education`,
+          permanent: true,
+        },
+        // /insurance/[state] → /[state] (Kaplan root-hub pattern)
+        {
+          source: `/insurance/${state}`,
+          destination: `/${state}`,
+          permanent: true,
+        },
+        // /insurance/[state]/state-requirements → /[state]/requirements (Kaplan requirements pattern)
+        {
+          source: `/insurance/${state}/state-requirements`,
+          destination: `/${state}/requirements`,
+          permanent: true,
+        },
+      ]),
+    ];
+
     const legacyPageRedirects = [
       // ── Round 1: Short-slug legacy WordPress pages ──
       { source: "/insurance-pre-licensing-courses", destination: "/prelicensing", permanent: true },
@@ -271,7 +312,7 @@ const nextConfig = {
       },
     ];
 
-    return [...wwwRedirect, ...stateRedirects, ...legacyPageRedirects];
+    return [...wwwRedirect, ...kaplanMirrorRedirects, ...stateRedirects, ...legacyPageRedirects];
   },
 };
 

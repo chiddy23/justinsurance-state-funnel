@@ -92,6 +92,7 @@ export default function Footer() {
               <li><Link href="/how-long-to-get-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Licensing Timeline</Link></li>
               <li><Link href="/non-resident-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Non-Resident License</Link></li>
               <li><Link href="/practice-exam" className="text-gray-300 hover:text-gold transition-colors text-sm">Practice Exams</Link></li>
+              <li><Link href="/webinars" className="text-gray-300 hover:text-gold transition-colors text-sm">Live Classes</Link></li>
               <li><Link href="/press" className="text-gray-300 hover:text-gold transition-colors text-sm">Press &amp; Media</Link></li>
             </ul>
           </div>

@@ -59,6 +59,25 @@ const nextConfig = {
       { source: "/which-course-is-best/:path*", destination: "/compare", permanent: true },
       { source: "/series-6-vs-series-7", destination: "/", permanent: true },
       { source: "/series-6-vs-series-7/:path*", destination: "/", permanent: true },
+
+      // ── Round 3: GSC redirect drilldown 2026-04-20 — missing redirects ──
+      // Legacy URL variants still indexed as "Page with redirect" errors
+      { source: "/washington-dc", destination: "/district-of-columbia", permanent: true },
+      { source: "/washington-dc/:path*", destination: "/district-of-columbia", permanent: true },
+      { source: "/services", destination: "/", permanent: true },
+      { source: "/services/:path*", destination: "/", permanent: true },
+      // Old WordPress refund-policy page — current refund terms live on /terms
+      { source: "/refund-policy", destination: "/terms", permanent: true },
+      { source: "/refund-policy/:path*", destination: "/terms", permanent: true },
+      // WordPress pagination (/blog/page/2, /blog/page/3, etc.) → /blog
+      { source: "/blog/page/:num", destination: "/blog", permanent: true },
+      // Old WP long-slug guide page → /prelicensing hub
+      { source: "/why-an-online-insurance-license-course-is-the-smartest-way-to-get-licensed", destination: "/prelicensing", permanent: true },
+      { source: "/why-an-online-insurance-license-course-is-the-smartest-way-to-get-licensed/:path*", destination: "/prelicensing", permanent: true },
+      // WordPress admin/content/includes paths — safe to redirect home (not malicious to us)
+      { source: "/wp-admin/:path*", destination: "/", permanent: true },
+      { source: "/wp-content/:path*", destination: "/", permanent: true },
+      { source: "/wp-includes/:path*", destination: "/", permanent: true },
     ];
 
     // Force www.justinsuranceco.com → apex justinsuranceco.com (301 permanent).

@@ -237,15 +237,37 @@ function pickFromUnified(
 
   const stateMatches = (t: Testimonial) =>
     t.state?.toLowerCase() === stateName.toLowerCase();
+  const isStateless = (t: Testimonial) => !t.state;
+  const isMismatch = (t: Testimonial) => t.state && !stateMatches(t);
 
+  // Priority tiers:
+  // 1. State-matched testimonials (best — directly relevant)
+  // 2. Stateless testimonials (neutral — no state claim, safe on any page)
+  // 3. State-mismatched testimonials (last resort — displayed with state tag)
+  // Within each tier, prefer YouTube > Google > verified-student for credibility.
   const stateYoutube = pool.filter((t) => t.source === "youtube" && stateMatches(t));
   const stateGoogle = pool.filter((t) => t.source === "google" && stateMatches(t));
-  const genericYoutube = pool.filter((t) => t.source === "youtube" && !stateMatches(t));
-  const genericGoogle = pool.filter((t) => t.source === "google" && !stateMatches(t));
   const stateVerified = pool.filter((t) => t.source === "verified-student" && stateMatches(t));
-  const genericVerified = pool.filter((t) => t.source === "verified-student" && !stateMatches(t));
 
-  const combined = [...stateYoutube, ...stateGoogle, ...stateVerified, ...genericYoutube, ...genericGoogle, ...genericVerified];
+  const statelessYoutube = pool.filter((t) => t.source === "youtube" && isStateless(t));
+  const statelessGoogle = pool.filter((t) => t.source === "google" && isStateless(t));
+  const statelessVerified = pool.filter((t) => t.source === "verified-student" && isStateless(t));
+
+  const mismatchYoutube = pool.filter((t) => t.source === "youtube" && isMismatch(t));
+  const mismatchGoogle = pool.filter((t) => t.source === "google" && isMismatch(t));
+  const mismatchVerified = pool.filter((t) => t.source === "verified-student" && isMismatch(t));
+
+  const combined = [
+    ...stateYoutube,
+    ...stateGoogle,
+    ...stateVerified,
+    ...statelessYoutube,
+    ...statelessGoogle,
+    ...statelessVerified,
+    ...mismatchYoutube,
+    ...mismatchGoogle,
+    ...mismatchVerified,
+  ];
   // Deduplicate by name+text
   const seen = new Set<string>();
   const unique: Testimonial[] = [];

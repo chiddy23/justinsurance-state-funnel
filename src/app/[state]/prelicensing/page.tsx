@@ -44,8 +44,8 @@ export default async function PrelicensingHubPage({
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
-    { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}/` },
-    { name: "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/` },
+    { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}` },
+    { name: "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
 

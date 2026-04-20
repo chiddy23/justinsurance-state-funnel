@@ -140,9 +140,9 @@ export default async function PrelicensingCoursePage({
   });
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
-    { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}/` },
-    { name: "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/` },
-    { name: loaDef.shortName, url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/${loaDef.slug}/` },
+    { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}` },
+    { name: "Prelicensing", url: `https://justinsuranceco.com/${stateData.slug}/prelicensing` },
+    { name: loaDef.shortName, url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/${loaDef.slug}` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
   const productSchema = generateProductSchema({

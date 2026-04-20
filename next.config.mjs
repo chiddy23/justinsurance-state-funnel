@@ -61,7 +61,19 @@ const nextConfig = {
       { source: "/series-6-vs-series-7/:path*", destination: "/", permanent: true },
     ];
 
-    return [...stateRedirects, ...legacyPageRedirects];
+    // Force www.justinsuranceco.com → apex justinsuranceco.com (301 permanent).
+    // Without this, www subdomain returns 200 at every URL — fragments
+    // canonical authority and causes duplicate-content flags in GSC.
+    const wwwRedirect = [
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "www.justinsuranceco.com" }],
+        destination: "https://justinsuranceco.com/:path*",
+        permanent: true,
+      },
+    ];
+
+    return [...wwwRedirect, ...stateRedirects, ...legacyPageRedirects];
   },
 };
 

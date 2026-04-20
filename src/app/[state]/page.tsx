@@ -53,7 +53,7 @@ export default async function StateHubPage({
     ...buildFaqData(stateData),
     passRate:
       stateData.realPassRate !== null
-        ? String(stateData.realPassRate)
+        ? String(Math.round(stateData.realPassRate))
         : stateData.examInfo.passRate,
     jobGrowth:
       stateData.marketGrowthRate !== null
@@ -74,7 +74,7 @@ export default async function StateHubPage({
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
-    { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}/` },
+    { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
   const lahHours = stateData.prelicensing?.lifeAndHealth?.hours;

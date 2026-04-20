@@ -27,22 +27,24 @@ export async function generateMetadata({
   const { state } = await params;
   const stateData = getStateBySlug(state);
   if (!stateData) return {};
-  // Keep title <= 60 chars — use abbreviation for long state names
+  // Title: layout.tsx applies a "%s | JustInsurance" template to plain-string titles.
+  // Use { absolute } to opt out of that template and keep the brand suffix exactly once.
+  // Also honor the <=60 char target — use state abbreviation for long state names.
   const brand = "JustInsurance";
   const fullTitle = `${stateData.name} Insurance License Requirements 2026 | ${brand}`;
   const shortTitle = `${stateData.abbreviation} Insurance License Requirements 2026 | ${brand}`;
-  const title = fullTitle.length <= 60 ? fullTitle : shortTitle;
+  const titleString = fullTitle.length <= 60 ? fullTitle : shortTitle;
   // Keep description <= 155 chars for all 50 state names including DC
   const description = `${stateData.name} insurance license requirements 2026: prelicensing hours, exam, fingerprinting, fees, CE renewal. Updated ${stateData.lastVerified}.`;
   return {
-    title,
+    title: { absolute: titleString },
     description,
     robots: "index, follow",
     alternates: {
       canonical: `https://justinsuranceco.com/${stateData.slug}/requirements`,
     },
     openGraph: {
-      title,
+      title: titleString,
       description,
       url: `https://justinsuranceco.com/${stateData.slug}/requirements`,
       siteName: "JustInsurance",
@@ -127,7 +129,7 @@ export default async function RequirementsPage({
     { name: "Home", url: "https://justinsuranceco.com/" },
     {
       name: stateData.name,
-      url: `https://justinsuranceco.com/${stateData.slug}/`,
+      url: `https://justinsuranceco.com/${stateData.slug}`,
     },
     {
       name: "Requirements",

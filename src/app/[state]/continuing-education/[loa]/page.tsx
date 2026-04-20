@@ -114,14 +114,14 @@ export default async function CECoursePage({
   });
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
-    { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}/` },
+    { name: stateData.name, url: `https://justinsuranceco.com/${stateData.slug}` },
     {
       name: "Continuing Education",
-      url: `https://justinsuranceco.com/${stateData.slug}/continuing-education/`,
+      url: `https://justinsuranceco.com/${stateData.slug}/continuing-education`,
     },
     {
       name: loaDef.shortName,
-      url: `https://justinsuranceco.com/${stateData.slug}/continuing-education/${loaDef.slug}/`,
+      url: `https://justinsuranceco.com/${stateData.slug}/continuing-education/${loaDef.slug}`,
     },
   ]);
   const faqSchema = generateFAQSchema(faqs);

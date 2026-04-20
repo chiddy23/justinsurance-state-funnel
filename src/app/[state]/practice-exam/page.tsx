@@ -41,8 +41,8 @@ export default async function PracticeExamPage({
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
-    { name: stateName, url: `https://justinsuranceco.com/${slug}/` },
-    { name: "Practice Exam", url: `https://justinsuranceco.com/${slug}/practice-exam/` },
+    { name: stateName, url: `https://justinsuranceco.com/${slug}` },
+    { name: "Practice Exam", url: `https://justinsuranceco.com/${slug}/practice-exam` },
   ]);
 
   const crumbs = [

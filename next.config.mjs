@@ -78,6 +78,56 @@ const nextConfig = {
       { source: "/wp-admin/:path*", destination: "/", permanent: true },
       { source: "/wp-content/:path*", destination: "/", permanent: true },
       { source: "/wp-includes/:path*", destination: "/", permanent: true },
+
+      // ── Round 4: GSC "Crawled - currently not indexed" drilldown 2026-04-20 ──
+      // Legacy WordPress state URLs: /[state]-insurance-license(-2)?/ → /[state]
+      // ~20 URLs from GSC. Route to canonical state hub.
+      ...[
+        "delaware", "kentucky", "louisiana", "maine",
+        "massachusetts", "michigan", "minnesota", "mississippi",
+        "missouri", "montana", "new-hampshire", "new-mexico",
+        "north-carolina", "north-dakota", "oklahoma", "pennsylvania",
+        "south-carolina", "tennessee", "virginia", "washington",
+        "west-virginia", "wisconsin",
+      ].flatMap((state) => [
+        { source: `/${state}-insurance-license`, destination: `/${state}`, permanent: true },
+        { source: `/${state}-insurance-license/`, destination: `/${state}`, permanent: true },
+        { source: `/${state}-insurance-license-2`, destination: `/${state}`, permanent: true },
+        { source: `/${state}-insurance-license-2/`, destination: `/${state}`, permanent: true },
+      ]),
+
+      // Legacy product/content hubs
+      { source: "/life-insurance-study-guide", destination: "/study-guide", permanent: true },
+      { source: "/continuing-education-courses", destination: "/continuing-education", permanent: true },
+      { source: "/prelicense-and-continuing-education", destination: "/prelicensing", permanent: true },
+      { source: "/life-and-health-licensing", destination: "/life-and-health-insurance-license", permanent: true },
+      { source: "/life-and-health-insurance-exam-reviews", destination: "/reviews", permanent: true },
+      { source: "/state-insurance-license-classes", destination: "/prelicensing", permanent: true },
+
+      // Legacy blog posts → blog hub (no preserved permalinks for these slugs)
+      { source: "/preparing-for-the-iowa-life-insurance-exam", destination: "/iowa", permanent: true },
+      { source: "/mississippi-life-insurance-exam-questions", destination: "/mississippi/practice-exam", permanent: true },
+      { source: "/dual-licensing-state-life-insurance-license-health-license", destination: "/life-and-health-insurance-license", permanent: true },
+      { source: "/becoming-a-licensed-insurance-agent", destination: "/blog/how-to-become-an-insurance-agent", permanent: true },
+      { source: "/master-the-insurance-licensing-exam-complete-guide", destination: "/insurance-exam-guide", permanent: true },
+      { source: "/top-10-tips-for-life-insurance-exam-preparation", destination: "/insurance-exam-guide", permanent: true },
+
+      // Old WP pagination slugs /page-N/ (NOT /blog/page/N — that's handled earlier)
+      { source: "/page-:num", destination: "/", permanent: true },
+
+      // WP taxonomy archives — route to blog hub
+      { source: "/tag/:path*", destination: "/blog", permanent: true },
+      { source: "/category/:path*", destination: "/blog", permanent: true },
+
+      // RSS feeds from pre-migration — route to blog
+      { source: "/feed", destination: "/blog", permanent: true },
+      { source: "/feed/", destination: "/blog", permanent: true },
+      { source: "/:path*/feed", destination: "/blog", permanent: true },
+      { source: "/:path*/feed/", destination: "/blog", permanent: true },
+
+      // Old WP opt-in landing
+      { source: "/optin-3", destination: "/", permanent: true },
+      { source: "/optin-3/", destination: "/", permanent: true },
     ];
 
     // Force www.justinsuranceco.com → apex justinsuranceco.com (301 permanent).

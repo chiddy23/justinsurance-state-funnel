@@ -196,10 +196,12 @@ def main():
     print(f"  Generic praise: {generic_count}")
     print(f"{'='*60}\n")
 
-    # Pick best 60: all state-specific first, then top-liked generic praise
+    # Cap raised 2026-04-20 for batch 2 (25 additional videos mined).
+    # Prioritize state-specific (credibility + state-page TestimonialCards benefit)
+    # much more heavily than generic praise — we're already flush with generic.
     state_specific = [c for c in candidates if c["state"]]
     generic = [c for c in candidates if not c["state"]]
-    picked = state_specific[:45] + generic[:20]
+    picked = state_specific[:100] + generic[:40]
 
     ts_lines = []
     for c in picked:

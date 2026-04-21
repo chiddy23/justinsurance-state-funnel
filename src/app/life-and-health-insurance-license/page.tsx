@@ -204,7 +204,22 @@ export default function LifeAndHealthInsuranceLicensePage() {
         </div>
       </section>
 
+      <section className="bg-gray-bg py-12 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto text-center mb-6">
+          <p className="text-gold font-semibold uppercase tracking-wide text-xs mb-2">
+            30 Must-Know Practice Questions
+          </p>
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+            Life &amp; Health Exam Walkthrough — Part 2 &amp; Part 3
+          </h2>
+          <p className="text-gray-600 max-w-2xl mx-auto">
+            Two full walkthroughs of 30 must-know Life &amp; Health questions each — with the
+            reasoning behind every answer.
+          </p>
+        </div>
+      </section>
       <YouTubeEmbed videoId="zFd-qEsGMZ8" title="Life + Health Insurance Exam Practice Questions (30 MUST-KNOW) Part 2" />
+      <YouTubeEmbed videoId="f3eCrvsW7pU" title="Life + Health Insurance Exam Practice Questions (30 MUST-KNOW) Part 3" />
 
       <CTABanner
         title="Get the License That Opens Every Door"

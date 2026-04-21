@@ -11,6 +11,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import FAQAccordion from "@/components/FAQAccordion";
 import StatePickerRedirect from "@/components/StatePickerRedirect";
 import PressLogosBar from "@/components/PressLogosBar";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
 
 export const metadata: Metadata = generatePageMetadata({
   pageType: "practice-exam-hub",
@@ -211,6 +212,27 @@ export default function PracticeExamHubPage() {
             ))}
           </div>
         </div>
+      </section>
+
+      {/* Video preview — 30 practice questions, Life & Health */}
+      <section className="bg-white py-12 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto text-center">
+          <p className="text-gold font-semibold uppercase tracking-wide text-xs mb-2">
+            See a Practice Exam in Action
+          </p>
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-3">
+            30 Life &amp; Health Practice Questions — Walkthrough
+          </h2>
+          <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
+            Watch a JustInsurance instructor walk through 30 must-know Life &amp; Health practice
+            questions with the reasoning behind every answer — the same teaching style you get in
+            our full practice exam.
+          </p>
+        </div>
+        <YouTubeEmbed
+          videoId="f3eCrvsW7pU"
+          title="Life + Health Insurance Exam Practice Questions (30 MUST-KNOW) Part 3"
+        />
       </section>
 
       {/* State grid — SEO + crawlable links */}

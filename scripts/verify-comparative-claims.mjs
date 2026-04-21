@@ -18,6 +18,7 @@ const ROOT = process.cwd();
 const SURFACES = [
   "src/content/blog",
   "src/app/compare",
+  "src/app/webinars",
   "src/lib/comparison-data.ts",
 ];
 

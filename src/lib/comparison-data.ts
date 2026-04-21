@@ -98,7 +98,7 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     feature: "Course Extension Options",
     justinsurance: { kind: "yes", label: "Multiple extensions included" },
     xcel: { kind: "limited", label: "Paid extension available" },
-    examfx: { kind: "limited", label: "30/60-day paid extensions per their FAQ" },
+    examfx: { kind: "limited", label: "Paid extensions available per their refund policy" },
   },
   {
     feature: "Practice Exams",
@@ -169,7 +169,7 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "Custom Automation Packages for Recruiting Workflows",
     justinsurance: { kind: "yes", label: "Built per-agency" },
-    xcel: { kind: "limited", label: "Integrations via 3rd-party tools (e.g., IdealTraits)" },
+    xcel: { kind: "limited", label: "Partner-site tools + reporting; integration specifics vary" },
     examfx: { kind: "limited", label: "Pre-set partner portal configurations" },
   },
   {
@@ -188,7 +188,7 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     feature: "Support Hours",
     justinsurance: { kind: "yes", label: "7 days (M–F 7a–10p, Sat/Sun 8a–8p)" },
     xcel: { kind: "limited", label: "Standard business-hour support; verify at xcelsolutions.com" },
-    examfx: { kind: "limited", label: "Standard business-hour support; verify at examfx.com/help-center" },
+    examfx: { kind: "limited", label: "Standard business-hour support; verify at examfx.com" },
   },
   {
     feature: "Interactive Learning Portal",

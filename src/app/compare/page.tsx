@@ -17,7 +17,7 @@ const faqs = [
   {
     question: "Which insurance prelicensing provider publishes its pass rate with methodology?",
     answer:
-      "Both JustInsurance and ExamFX publish pass-rate methodology. ExamFX publishes line-of-authority rates on examfx.com/resources/candidates (95% Life, 94% Life & Health, 90% Health, 99% P&C, 95% Personal Lines, 93% Overall Combined) with disclosed methodology — 2,826 self-reported survey respondents collected Feb 1 – Oct 17, 2025. JustInsurance publishes a 93% pass rate at /pass-rates with a stricter inclusion bar: students who completed the full course, finished recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. XCEL Solutions markets 'top industry first-time pass rates' but does not publish a specific figure with disclosed methodology. Methodology disclosure is what lets a prospective student compare apples to apples.",
+      "Both JustInsurance and ExamFX publish pass-rate methodology. ExamFX publishes line-of-authority rates on examfx.com/resources/candidates (95% Life, 94% Life & Health, 90% Health, 99% P&C, 95% Personal Lines, 93% Overall Combined) with disclosed methodology — 2,826 self-reported survey respondents collected Feb 1 – Oct 17, 2025. JustInsurance publishes a 93% pass rate at /pass-rates with a stricter inclusion bar: students who completed the full course, finished recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. XCEL Solutions publishes pass-rate positioning language on its site (e.g., &quot;9 in 10 students say XCEL helped them feel well prepared for their exam&quot;) but does not publish a specific first-attempt pass-rate figure with disclosed methodology on its public product pages. Methodology disclosure is what lets a prospective student compare apples to apples.",
   },
   {
     question: "How does JustInsurance pricing compare to XCEL and ExamFX?",
@@ -32,7 +32,7 @@ const faqs = [
   {
     question: "How does XCEL Solutions' course access duration work?",
     answer:
-      "XCEL's standard package is structured in two phases: 30 days of access to the prelicensing course followed by 30 days of access to the exam prep review — 60 days total, but split across consecutive clocks, not one continuous window. For candidates new to insurance, the 30-day prelicensing phase can feel rushed if you need extra time on the main curriculum, and extending it requires a paid upgrade. JustInsurance includes multiple extension options in the base course, so you can study at your own pace without juggling multiple access windows.",
+      "XCEL Solutions publicly describes its program as a 3-part structure (Part 1 Prelicensing Course, Part 2 Prep Review Course, Part 3 Exam Simulators). Exact course-access durations and whether the phases run continuously or on separate clocks can vary by package and state — verify current access terms at xcelsolutions.com before purchase. JustInsurance includes multiple extension options in the base course, so you can study at your own pace without juggling multiple access windows.",
   },
   {
     question: "Can I get a refund if I don't pass the state exam?",

@@ -115,7 +115,7 @@ function competitorFaqs(p: (typeof PROVIDERS)[string]) {
       {
         question: "Does XCEL publish its pass rate?",
         answer:
-          "XCEL Solutions markets 'top industry first-time pass rates' in its copy but does not publish a specific first-attempt pass rate figure with disclosed methodology on its public product pages. JustInsurance publishes a 93% pass rate with full methodology disclosed at /pass-rates — specifically, students who completed the full course, met recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Methodology transparency is what makes a pass rate claim verifiable.",
+          "XCEL Solutions publishes general pass-rate positioning language on its site (&quot;Trusted to Pass&quot; / &quot;9 in 10 students say XCEL helped them feel well prepared&quot;) but does not publish a specific first-attempt pass-rate percentage with disclosed methodology on its public product pages. JustInsurance publishes a 93% pass rate with full methodology disclosed at /pass-rates — specifically, students who completed the full course, met recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Methodology transparency is what makes a pass rate claim verifiable.",
       },
       {
         question: "Can I get a refund from XCEL if I don't pass?",
@@ -149,7 +149,7 @@ function competitorFaqs(p: (typeof PROVIDERS)[string]) {
     {
       question: "Does ExamFX include flashcards and practice exam simulations in the base package?",
       answer:
-        "ExamFX's public insurance course pages list flashcards, videos, key facts, glossaries, and live webinars as study tools across multiple package tiers (Self-Study, Video Study, Live Online, Live In-Person); feature inclusion varies by tier. Per ExamFX's published refund policy, course extensions, digital add-on products, and in-course purchases are non-refundable once purchased. JustInsurance includes unlimited adaptive practice exams, full flashcard decks, AI-powered simulations, and audio vocabulary in the base $199 course — one tier, no add-ons for core study content.",
+        "ExamFX's public insurance course pages list online flashcards, on-demand video lectures, an interactive learning portal, a readiness exam, and live online training as study tools across their three published package tiers (Self-Study, Video Study, Live Online); feature inclusion varies by tier. Per ExamFX's published refund policy, course extensions, digital add-on products, and in-course purchases are non-refundable once purchased. JustInsurance includes unlimited adaptive practice exams, full flashcard decks, AI-powered simulations, and audio vocabulary in the base $199 course — one tier, no add-ons for core study content. Verify current ExamFX inclusions at examfx.com before purchase.",
     },
   ];
 }

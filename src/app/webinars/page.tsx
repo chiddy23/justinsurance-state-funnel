@@ -243,15 +243,15 @@ export default function WebinarsPage() {
           </h2>
           <p className="text-blue-100 leading-relaxed mb-4">
             <strong className="text-white">ExamFX</strong> offers live webinars as a named feature
-            of its &ldquo;Live Online&rdquo; package tier. Whether live sessions are included in
-            other tiers (Self-Study, Video Study, Live In-Person) can vary &mdash; verify current
-            package inclusions at examfx.com before purchase.
+            of its &ldquo;Live Online&rdquo; package tier. Their other published tiers (Self-Study
+            and Video Study) list different study-tool mixes &mdash; verify current package
+            inclusions at examfx.com before purchase.
           </p>
           <p className="text-blue-100 leading-relaxed mb-4">
             <strong className="text-white">XCEL Solutions</strong> lists livestream exam reviews
-            among its study tools, and uses a Standard vs Premier tier model. Which features are
-            included in each tier can vary &mdash; verify current inclusions at xcelsolutions.com
-            before purchase.
+            among its study tools and uses a tiered pricing model. Which features are included in
+            each tier can vary &mdash; verify current inclusions at xcelsolutions.com before
+            purchase.
           </p>
           <p className="text-blue-100 leading-relaxed mb-8">
             <strong className="text-white">JustInsurance</strong> includes live instructor sessions

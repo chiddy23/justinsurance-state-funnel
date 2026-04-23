@@ -3080,7 +3080,7 @@ export const STATES: Record<string, StateData> = {
       passingScore: 70,
       passRate: "93.20",
       examFee: "50",
-      examProvider: "Kentucky DOI",
+      examProvider: "Pearson VUE",
       examProviderUrl: "https://insurance.ky.gov/doieservices/userrole.aspx",
       examBookingUrl: "https://insurance.ky.gov/doieservices/userrole.aspx",
       retakeWaitingPeriod: "a 24-hour (1 business day) waiting period",
@@ -3572,7 +3572,7 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Maine does not require prelicensing education, and the state's licensing process is relatively straightforward with no fingerprinting requirement. Maine's insurance market is shaped by its outdoor and maritime economy — fishing, forestry, tourism, and seasonal property ownership drive demand for specialty coverage. The state's aging population also creates significant demand for Medicare supplement and long-term care insurance specialists.",
     stateSpecificFAQ: {
       question: "Is fingerprinting required to get a Maine insurance license?",
-      answer: "No. Maine does not require fingerprinting as part of the insurance license application process. The state also does not require prelicensing education. To get your Maine insurance license, you simply need to pass the state exam through Prometric and submit your application through NIPR. Maine's relatively streamlined process makes it one of the more accessible states for new insurance producers.",
+      answer: "No. Maine does not require fingerprinting as part of the insurance license application process. The state also does not require prelicensing education. To get your Maine insurance license, you simply need to pass the state exam through Pearson VUE and submit your application through NIPR. Maine's relatively streamlined process makes it one of the more accessible states for new insurance producers.",
     },
     stateTestimonial: {
       quote: "JustInsurance made studying for the Maine insurance exam easy and efficient. No fingerprinting, no required coursework — just study, pass, and apply. I was licensed in under 3 weeks.",
@@ -3792,7 +3792,7 @@ export const STATES: Record<string, StateData> = {
       passingScore: 70,
       passRate: "93.20",
       examFee: "39",
-      examProvider: "Promteric",
+      examProvider: "Prometric",
       examProviderUrl: "https://www.prometric.com/massachusetts/insurance",
       examBookingUrl: "https://www.prometric.com/massachusetts/insurance",
       retakeWaitingPeriod: "scheduling your next available test date with no mandatory waiting period",
@@ -4854,7 +4854,7 @@ export const STATES: Record<string, StateData> = {
       passingScore: 70,
       passRate: "93.20",
       examFee: "43",
-      examProvider: "Pearson VUE",
+      examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/neins",
       examBookingUrl: "https://test-takers.psiexams.com/neins",
       retakeWaitingPeriod: "scheduling your next available test date with no mandatory waiting period",
@@ -4919,8 +4919,8 @@ export const STATES: Record<string, StateData> = {
       },
       {
         kind: "tip",
-        title: "Nebraska uses Pearson VUE — confirm logistics on the candidate handbook",
-        body: "Nebraska insurance exams are administered by Pearson VUE. Confirm current exam fee, question count, and time limit in the Pearson VUE Nebraska candidate handbook before scheduling. Nebraska does not require prelicensing education, but most candidates use a structured course given the depth of state-specific insurance law content.",
+        title: "Nebraska uses PSI — confirm logistics in the PSI candidate handbook",
+        body: "Nebraska insurance exams are administered by PSI Services LLC. Confirm current exam fee, question count, and time limit in the PSI Nebraska candidate handbook before scheduling. Nebraska does not require prelicensing education, but most candidates use a structured course given the depth of state-specific insurance law content.",
         link: { href: "https://doi.nebraska.gov/education-licensees-0", text: "Nebraska DOI education and licensees", external: true },
       },
       {
@@ -4993,7 +4993,7 @@ export const STATES: Record<string, StateData> = {
       answer: "Nebraska, and Omaha in particular, is home to some of the most well-known insurance and financial services companies in the country. Mutual of Omaha, Woodmen of the World, and Berkshire Hathaway (which owns GEICO and GenRe) are all based in Nebraska. This concentration of carriers creates excellent career opportunities for newly licensed agents. Nebraska requires no prelicensing education and no fingerprinting, so you can get licensed quickly and start your job search.",
     },
     stateTestimonial: {
-      quote: "JustInsurance helped me launch my Nebraska insurance career with confidence. The course was organized perfectly and I passed the Pearson VUE exam on my first attempt.",
+      quote: "JustInsurance helped me launch my Nebraska insurance career with confidence. The course was organized perfectly and I passed the PSI exam on my first attempt.",
       name: "Courtney G.",
       title: "Licensed Insurance Agent",
     },
@@ -6218,7 +6218,7 @@ export const STATES: Record<string, StateData> = {
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
-    renewalDeadline: "Last day of birth month (every 3 years)",
+    renewalDeadline: "Last day of birth month (every 2 years)",
     fingerprintingNotes: "Fingerprinting required through ND DOI fingerprint forms",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
@@ -6227,10 +6227,10 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "North Dakota does not offer a combined Life & Health exam and does not require prelicensing education. The state's 3-year license renewal cycle is longer than average, reducing annual compliance burdens. North Dakota's oil boom economy in the Bakken region has created significant demand for commercial insurance, workers' compensation, and business income coverage, while its large agricultural sector drives demand for crop and farm insurance specialists.",
+    stateSpecificIntro: "North Dakota does not offer a combined Life & Health exam and does not require prelicensing education. North Dakota producer licenses renew every 2 years on the last day of the licensee's birth month, with 24 hours of CE required per cycle (including 3 hours of ethics). North Dakota's oil boom economy in the Bakken region has created significant demand for commercial insurance, workers' compensation, and business income coverage, while its large agricultural sector drives demand for crop and farm insurance specialists.",
     stateSpecificFAQ: {
       question: "Does North Dakota have a combined Life and Health insurance exam?",
-      answer: "No. North Dakota does not offer a combined Life & Health insurance exam. Each line of authority must be tested separately through Pearson VUE. No prelicensing education is required. North Dakota uses DOI fingerprint forms for its background check process rather than a commercial vendor. The state's 3-year license renewal cycle means CE is required less frequently than in most other states.",
+      answer: "No. North Dakota does not offer a combined Life & Health insurance exam. Each line of authority must be tested separately through Pearson VUE. No prelicensing education is required. North Dakota uses DOI fingerprint forms for its background check process rather than a commercial vendor. The state's 2-year license renewal cycle requires 24 hours of CE per cycle, including 3 hours of ethics.",
     },
     stateTestimonial: {
       quote: "JustInsurance helped me prepare for both my North Dakota insurance exams efficiently. The course was clear and thorough, and I felt ready for both the Life and Health Pearson VUE exams.",
@@ -6405,7 +6405,7 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Ohio is one of the largest insurance markets in the Midwest, with Columbus, Cleveland, and Cincinnati all serving as major insurance employment centers. The state does not require prelicensing education but does require fingerprinting through FastFingerprints.com. Ohio's diverse economy — manufacturing, healthcare, technology, and financial services — creates broad and consistent demand across all insurance lines, making it an excellent state for building a long-term insurance career.",
+    stateSpecificIntro: "Ohio is one of the largest insurance markets in the Midwest, with Columbus, Cleveland, and Cincinnati all serving as major insurance employment centers. The state requires 20 hours of prelicensing education per line of authority and fingerprinting through FastFingerprints.com. Ohio's diverse economy — manufacturing, healthcare, technology, and financial services — creates broad and consistent demand across all insurance lines, making it an excellent state for building a long-term insurance career.",
     stateSpecificFAQ: {
       question: "How does Ohio's fingerprinting requirement work for insurance licensing?",
       answer: "Ohio requires fingerprinting through FastFingerprints.com as part of the background check process. This is a digital fingerprinting vendor with locations throughout the state. Ohio does require prelicensing education before sitting for the PSI exam. After passing the exam, you apply through NIPR and the Ohio Department of Insurance processes your application, typically within a few business days.",
@@ -6539,7 +6539,7 @@ export const STATES: Record<string, StateData> = {
     testimonial2Name: "Ashley S.",
     city1: "Oklahoma City",
     city2: "Tulsa",
-    timezone: "EST",
+    timezone: "CST",
 
     reciprocityInfo: "Reciprocal licensing is available for producers licensed in good standing in their home state. No exam is required.",
     sponsorshipRequirement: "No sponsorship is required before obtaining your Oklahoma insurance producer license.",
@@ -6574,7 +6574,7 @@ export const STATES: Record<string, StateData> = {
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
-    renewalDeadline: "Last day of birth month (every 3 years)",
+    renewalDeadline: "Last day of birth month (every 2 years)",
     fingerprintingNotes: "Not required",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
@@ -6583,10 +6583,10 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Oklahoma does not require prelicensing education and has no fingerprinting requirement, with a longer 3-year license renewal cycle than most states. The state's oil and gas industry creates significant demand for commercial insurance professionals, while the Oklahoma City and Tulsa metros serve as growing hubs for health and life insurance agents. Oklahoma's tornado alley geography drives high demand for property insurance specialists.",
+    stateSpecificIntro: "Oklahoma does not require prelicensing education and has no fingerprinting requirement, keeping the path to licensure among the most streamlined in the country. Oklahoma producer licenses renew every 2 years on the last day of the licensee's birth month. The state's oil and gas industry creates significant demand for commercial insurance professionals, while the Oklahoma City and Tulsa metros serve as growing hubs for health and life insurance agents. Oklahoma's tornado alley geography drives high demand for property insurance specialists.",
     stateSpecificFAQ: {
       question: "How long does an Oklahoma insurance license last?",
-      answer: "Oklahoma insurance licenses are valid for 3 years, which is longer than the 2-year standard in most states. At renewal, Oklahoma requires 24 hours of CE (including 3 hours of ethics). Oklahoma requires no prelicensing education and no fingerprinting, making it one of the most streamlined states for getting licensed. The Oklahoma Insurance Department processes applications through NIPR and the exam is administered by PSI.",
+      answer: "Oklahoma insurance licenses renew every 2 years on the last day of the licensee's birth month. At renewal, Oklahoma requires 24 hours of CE (including 3 hours of ethics). Oklahoma requires no prelicensing education and no fingerprinting, making it one of the most streamlined states for getting licensed. The Oklahoma Insurance Department processes applications through NIPR and the exam is administered by PSI.",
     },
     stateTestimonial: {
       quote: "JustInsurance made my Oklahoma insurance licensing process quick and straightforward. No fingerprinting, no required coursework — just study and pass. I was done in 2 weeks.",
@@ -7321,7 +7321,7 @@ export const STATES: Record<string, StateData> = {
 
     agentLicensingUrl: "https://dlr.sd.gov/insurance/producers.aspx",
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
-    licenseDuration: "1 year",
+    licenseDuration: "2 years",
     minAge: 18,
     residencyRequirement: "Must be a resident of South Dakota",
     backgroundRequirement: "Self-disclosure + application review (non-fingerprint)",
@@ -7473,7 +7473,7 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "South Dakota does not require prelicensing education, has no fingerprinting requirement, and offers a 3-year license renewal cycle — making it one of the most accessible and low-burden states for insurance licensing. The state's unique insurance-friendly legal environment has attracted many insurance companies to incorporate there. Sioux Falls serves as the state's primary insurance market, with strong demand for life and health products in the state's growing financial services sector.",
+    stateSpecificIntro: "South Dakota does not require prelicensing education and has no fingerprinting requirement — making it one of the most accessible and low-burden states for insurance licensing. South Dakota producer licenses renew every 2 years on the last day of the licensee's birth month. The state's insurance-friendly legal environment has attracted many insurance companies to incorporate there. Sioux Falls serves as the state's primary insurance market, with strong demand for life and health products in the state's growing financial services sector.",
     stateSpecificFAQ: {
       question: "Why do so many insurance companies incorporate in South Dakota?",
       answer: "South Dakota has long been known for its business-friendly laws, including favorable insurance regulations and no state income tax. Many insurance holding companies and captive insurers choose South Dakota for incorporation due to its flexible regulatory environment and efficient Department of Insurance. For producers, South Dakota's 3-year license renewal cycle and absence of prelicensing requirements make it one of the quickest and most affordable states in which to get licensed.",
@@ -7999,7 +7999,7 @@ export const STATES: Record<string, StateData> = {
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
-    renewalDeadline: "Last day of birth month (every 3 years)",
+    renewalDeadline: "Last day of birth month (every 2 years)",
     fingerprintingNotes: "Fingerprinting required through Per UT DOI instructions",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
@@ -8008,10 +8008,10 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Utah does not require prelicensing education and offers a 3-year license renewal cycle, one of the longer windows available. The Salt Lake City and Provo-Orem metros have seen explosive population growth and serve as growing financial services hubs, with several major tech companies relocating to the Silicon Slopes area creating high demand for group benefits and individual health insurance specialists. Utah's large young population and high birth rate create strong demand for life insurance products.",
+    stateSpecificIntro: "Utah does not require prelicensing education. Utah producer licenses renew every 2 years on the last day of the licensee's birth month. The Salt Lake City and Provo-Orem metros have seen explosive population growth and serve as growing financial services hubs, with several major tech companies relocating to the Silicon Slopes area creating high demand for group benefits and individual health insurance specialists. Utah's large young population and high birth rate create strong demand for life insurance products.",
     stateSpecificFAQ: {
       question: "How long does a Utah insurance license last?",
-      answer: "Utah insurance licenses are valid for 3 years, longer than the 2-year standard in most states. At renewal, Utah requires 24 hours of CE (including 3 hours of ethics) per 3-year cycle. Utah does not require prelicensing education before the exam, and fingerprinting is processed per Utah Department of Insurance instructions provided during the application process. PSI administers Utah's licensing exams.",
+      answer: "Utah insurance licenses renew every 2 years on the last day of the licensee's birth month. At renewal, Utah requires 24 hours of CE (including 3 hours of ethics) per 2-year cycle. Utah does not require prelicensing education before the exam, and fingerprinting is processed per Utah Department of Insurance instructions provided during the application process. PSI administers Utah's licensing exams.",
     },
     stateTestimonial: {
       quote: "JustInsurance was the perfect study resource for my Utah insurance exam. The Salt Lake City market is booming and I'm glad I invested in quality exam prep before my PSI test.",
@@ -8924,7 +8924,7 @@ export const STATES: Record<string, StateData> = {
 
     agentLicensingUrl: "https://doi.wyo.gov/licensing/producers",
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
-    licenseDuration: "3 years",
+    licenseDuration: "2 years",
     minAge: 18,
     residencyRequirement: "Must be a resident of Wyoming",
     backgroundRequirement: "Criminal background check required",
@@ -9015,7 +9015,7 @@ export const STATES: Record<string, StateData> = {
       {
         kind: "tip",
         title: "Wyoming's energy economy drives commercial and agricultural demand",
-        body: "Wyoming's oil, gas, and coal sectors create strong demand for commercial insurance specialists, while the state's ranching and agricultural communities drive demand for farm and life insurance products. Wyoming's longer 3-year license cycle reduces renewal-administration frequency. Reciprocal licensing is straightforward; no exam or fingerprinting is required for nonresident producers in good standing.",
+        body: "Wyoming's oil, gas, and coal sectors create strong demand for commercial insurance specialists, while the state's ranching and agricultural communities drive demand for farm and life insurance products. Wyoming producer licenses renew every 2 years on the last day of the licensee's birth month. Reciprocal licensing is straightforward; no exam or fingerprinting is required for nonresident producers in good standing.",
       },
     ],
 
@@ -9067,7 +9067,7 @@ export const STATES: Record<string, StateData> = {
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
-    renewalDeadline: "Last day of birth month (every 3 years)",
+    renewalDeadline: "Last day of birth month (every 2 years)",
     fingerprintingNotes: "Fingerprinting required through Mailed fingerprint packet",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {

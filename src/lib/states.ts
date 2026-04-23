@@ -1756,6 +1756,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5f62c246-925e-4be9-8e0d-78046bb1e5ba",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "update",
+        title: "Georgia prelicensing reduced to 8 hours per line (effective June 24, 2025)",
+        body: "Georgia cut prelicensing education from 20 hours to just 8 hours per line of authority — 16 hours total for combined Life & Health. This is one of the shortest prelicensing requirements in the country and lets candidates be exam-ready in days rather than weeks. The course completion certificate remains valid for 12 months.",
+        link: { href: "https://oci.georgia.gov/get-insurance-agent-license", text: "Georgia OCI agent licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Georgia uses Pearson VUE — escalating retake waits after multiple failures",
+        body: "Georgia exams are administered by Pearson VUE. The first two retakes carry a 14-day waiting period; after a third or subsequent failure you must wait 60 days. There is no hard retake cap. Most candidates receive results within minutes of finishing. Confirm question count, time limit, and exam fee in the Pearson VUE Georgia candidate handbook.",
+        link: { href: "https://home.pearsonvue.com/ga/insurance", text: "Pearson VUE Georgia portal", external: true },
+      },
+      {
+        kind: "alert",
+        title: "Georgia requires a notarized Citizenship Affidavit uploaded to the NIPR Attachment Warehouse",
+        body: "After submitting your NIPR application, Georgia requires you to upload a notarized Proof of Citizenship Affidavit and a copy of your photo ID through the NIPR Attachment Warehouse. Applications cannot be approved without these attachments. Fingerprinting is also required through IdentoGO Service Code 2TGJ6B before licensure.",
+      },
+    ],
 
     studentsCount: "3,600",
     avgIncome: "$91,300",
@@ -2233,6 +2252,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=7419aad2-8163-4082-8639-fb4a4966fa04",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Illinois exams have two parts — General and State — that must be passed within 90 days of each other",
+        body: "Each major-line Illinois exam is split into a General portion and an Illinois State portion. You must pass both portions within 90 days of each other or you will need to retake the portion you already passed. Plan to schedule both segments close together rather than spacing them out across months.",
+        link: { href: "https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html", text: "IDOI producer licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Illinois uses Pearson VUE — exams cover heavy state-specific content",
+        body: "Illinois insurance exams are administered by Pearson VUE at testing centers across the state. There is a 24-hour waiting period between retakes but no overall retake limit. Most candidates receive results within minutes of finishing. Confirm current question count, time limit, and exam fee in the Pearson VUE Illinois candidate handbook.",
+        link: { href: "https://home.pearsonvue.com/il/insurance", text: "Pearson VUE Illinois portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Illinois prelicensing certificates are valid for 12 months",
+        body: "Once you complete your 20-hour Illinois prelicensing course, the certificate is good for 12 months — schedule and pass both Pearson VUE exam portions before the certificate expires or you must retake the course. Illinois does not require fingerprinting for resident producer licensing, which simplifies the application timeline.",
+      },
+    ],
 
     studentsCount: "3,900",
     avgIncome: "$96,810",
@@ -3664,6 +3702,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=2904d8fc-7f92-4289-8585-ae3cda26973e",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Michigan prelicensing certificate is only valid for 12 months",
+        body: "After completing your 20-hour Michigan prelicensing course, the certificate of completion is valid for 12 months. You must pass the PSI exam within that window or retake the entire prelicensing course. Most candidates schedule their exam within 30–60 days of finishing coursework to leave room for retakes.",
+        link: { href: "https://www.michigan.gov/difs/industry/licensing-ins/agnt-ins", text: "DIFS agent licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Michigan uses PSI Services for all producer exams",
+        body: "Michigan licensing exams are administered by PSI at testing centers across the state. There is a 24-hour waiting period between retake attempts but no overall limit. Most candidates receive results within minutes of finishing. Confirm current question count, time limit, and exam fee in the PSI Michigan candidate handbook before scheduling.",
+        link: { href: "https://test-takers.psiexams.com/midifs", text: "PSI Michigan portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Michigan does not require fingerprinting — application-based background check only",
+        body: "Michigan uses an application-based background review rather than fingerprint-based criminal history checks for resident producer licensing. This shortens the licensing timeline compared to states like Texas or Pennsylvania that require IdentoGO appointments. Self-disclose any criminal history accurately on the NIPR application — DIFS will follow up if additional documentation is needed.",
+      },
+    ],
 
     studentsCount: "4,200",
     avgIncome: "$71,140",
@@ -4924,6 +4981,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c968e4b-e0f1-44a0-9d69-741621204a79",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "New Jersey does not offer a combined Life & Health exam",
+        body: "New Jersey requires separate exams for each line of authority — there is no single combined Life & Accident/Health test. Plan and budget for multiple PSI sittings if you intend to write more than one line. Confirm your prelicensing course covers each line you plan to test before scheduling.",
+        link: { href: "https://www.nj.gov/dobi/inslic.htm", text: "NJ DOBI producer licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "PSI administers New Jersey insurance exams",
+        body: "New Jersey licensing exams are delivered by PSI Services LLC at testing centers across the state. There is no mandatory waiting period between retake attempts. Most candidates receive results within minutes of finishing. Confirm question count, time limit, and current exam fee for your specific line of authority in the PSI New Jersey candidate handbook before scheduling.",
+        link: { href: "https://test-takers.psiexams.com/njins", text: "PSI New Jersey portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Your New Jersey prelicensing certificate does not expire",
+        body: "Once you complete an approved 20-hour New Jersey prelicensing course, the certificate of completion has no expiration date — you can take your time scheduling exams without losing credit. Fingerprinting is required through IdentoGO Service Code 2F16Y3; schedule that step early to keep your overall licensing timeline on track.",
+      },
+    ],
 
     studentsCount: "3,900",
     avgIncome: "$100,100",
@@ -5242,6 +5318,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=75e20e4e-b2f6-424d-90c0-d2371e300d68",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "New York requires a separate exam for every line of authority",
+        body: "Unlike most states, New York does not offer a combined Life & Accident/Health exam. You must pass individual exams for Life, Accident & Health, Property, and Casualty separately. Plan and budget for multiple exam sittings if you intend to write more than one line — and confirm your prelicensing course covers each line you plan to test.",
+        link: { href: "https://www.dfs.ny.gov/apps_and_licensing/agents_and_brokers/home", text: "NY DFS producer licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "PSI administers New York insurance exams",
+        body: "New York licensing exams are delivered by PSI Services LLC at testing centers throughout the state. Most candidates receive results within minutes of finishing. Confirm current question count, time limit, and exam fee for your specific line of authority in the PSI New York candidate handbook before scheduling.",
+        link: { href: "https://test-takers.psiexams.com/nyins", text: "PSI New York portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Your New York prelicensing certificate does not expire",
+        body: "Once you complete an approved 20-hour prelicensing course, the certificate of completion has no expiration date — you can take your time scheduling the state exam without losing credit. New York also does not require fingerprinting for resident producer licensing, which streamlines the application process compared to most states.",
+      },
+    ],
 
     studentsCount: "6,400",
     avgIncome: "$105,490",
@@ -5401,6 +5496,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f528b064-b6f1-40fb-9cbd-df2e6df964e3",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "update",
+        title: "North Carolina eliminated prelicensing education (HB 737, eff. October 1, 2025)",
+        body: "North Carolina House Bill 737 repealed the state's mandatory 20-hour prelicensing education requirement. Candidates can now sit for the Pearson VUE exam without completing a state-approved course, though structured prep is still strongly recommended given the heavy state-law content. North Carolina remains an application-before-exam state.",
+        link: { href: "https://www.ncdoi.gov/licensees/agent-and-adjuster-licensing/become-insurance-producer-or-adjuster", text: "NCDOI producer licensing", external: true },
+      },
+      {
+        kind: "alert",
+        title: "Submit your NIPR application BEFORE scheduling the Pearson VUE exam",
+        body: "North Carolina is one of only a few states that requires you to apply for licensure before testing. Submit your application through NIPR first; you will receive a Candidate ID and exam authorization by email. You then have up to 5 attempts within 90 days of receiving your Exam Admission Ticket to pass. Test centers will turn you away without authorization.",
+      },
+      {
+        kind: "tip",
+        title: "Fingerprinting is done at your local police department — not a commercial vendor",
+        body: "Unlike most states that use IdentoGO or Fieldprint, North Carolina routes producer fingerprinting through local police departments. Contact your local law enforcement agency to schedule. Pearson VUE administers the licensing exam itself; confirm question count, time, and fee in the Pearson VUE North Carolina candidate handbook before scheduling.",
+        link: { href: "https://home.pearsonvue.com/nc/insurance", text: "Pearson VUE North Carolina portal", external: true },
+      },
+    ],
 
     studentsCount: "4,200",
     avgIncome: "$76,080",
@@ -5719,6 +5833,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=46f4e3c8-a4fb-4be0-8fda-be2b0ed9f8d0",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Your Ohio prelicensing certificate expires after 180 days — pass within that window",
+        body: "Ohio prelicensing certificates are valid for only 180 days from completion. If you do not pass the state exam within that window, you must retake the entire 20-hour prelicensing course before testing again. Most candidates schedule their PSI exam within 2–4 weeks of finishing the course to leave room for one retake if needed.",
+      },
+      {
+        kind: "tip",
+        title: "Ohio uses PSI — register through the psiexams.com Ohio portal",
+        body: "Ohio insurance licensing exams are delivered by PSI Services LLC at testing centers across the state. There is no mandatory waiting period between retakes. Most candidates receive results within minutes of finishing. Confirm question count, time limit, and current exam fee in the PSI Ohio candidate handbook before scheduling.",
+        link: { href: "https://www.psiexams.com/ohin", text: "PSI Ohio portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Ohio fingerprinting is handled by FastFingerprints (Webcheck) — not IdentoGO",
+        body: "Unlike most states that contract IdentoGO, Ohio routes producer fingerprinting through FastFingerprints (a Webcheck vendor). Locations are widely available throughout the state. Confirm that your prints are submitted to the Ohio Department of Insurance specifically — submitting under another agency code will not satisfy the licensing background requirement.",
+        link: { href: "https://insurance.ohio.gov/agents-and-agencies/agent-licensing/welcome", text: "ODI agent licensing", external: true },
+      },
+    ],
 
     studentsCount: "4,200",
     avgIncome: "$79,940",
@@ -6196,6 +6329,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1d2c0cf6-8a41-4ecc-ab4a-f8562a4230e7",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "update",
+        title: "Pennsylvania prelicensing education repealed (Act 142 of 2024, eff. April 29, 2025)",
+        body: "Pennsylvania's prelicensing education statute (formerly 40 P.S. 310.4(b)) was repealed by Act 142 of 2024 and is no longer required to sit for the state insurance exam. Structured prep is still strongly recommended — the PSI exam covers extensive Pennsylvania-specific statutes and producer conduct rules that catch unprepared candidates.",
+        link: { href: "https://www.pa.gov/agencies/insurance/licensing/licensees", text: "PA Insurance Department licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Pennsylvania uses PSI for all producer exams",
+        body: "Pennsylvania administers Life and Health licensing exams through PSI Services LLC at testing centers across the Commonwealth. The state allows unlimited retakes with a 24-hour waiting period between attempts. Most candidates receive results within minutes of finishing. Verify current question count, time limit, and exam fee in the PSI Pennsylvania candidate handbook.",
+        link: { href: "https://test-takers.psiexams.com/pain", text: "PSI Pennsylvania portal", external: true },
+      },
+      {
+        kind: "alert",
+        title: "Pennsylvania fingerprinting still required — IdentoGO Service Code 1KGBGJ",
+        body: "Even though prelicensing was repealed, fingerprinting is still mandatory for resident producer licensure. Schedule with IdentoGO using Service Code 1KGBGJ — without this exact code your prints will not be routed to the Pennsylvania Insurance Department and your application will be held. Schedule before submitting your NIPR application to avoid delays.",
+      },
+    ],
 
     studentsCount: "4,700",
     avgIncome: "$86,360",
@@ -6991,6 +7143,26 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=e32819fa-eb9c-437f-8b9b-ee7830a4f8e5",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Texas fingerprinting uses IdentoGO Service Code 11G6QF",
+        body: "Texas requires fingerprinting through IdentoGO before your license can be issued. Use Service Code 11G6QF when scheduling — without this exact code, your prints may not be routed to the Texas Department of Insurance and your application will stall. Schedule fingerprinting early; appointment availability varies by metro.",
+        link: { href: "https://www.tdi.texas.gov/agent/", text: "TDI agent licensing portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Texas uses Pearson VUE — no prelicensing required, but expect a content-heavy state exam",
+        body: "Texas does not require prelicensing education to sit for the state exam, which makes structured prep especially important. Pearson VUE administers the Life and Health exams in person at testing centers across Texas. Most candidates receive results within minutes of finishing. Confirm question count, time limit, and current exam fee in the Texas candidate handbook before test day.",
+        link: { href: "https://home.pearsonvue.com/tx/insurance", text: "Pearson VUE Texas portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Texas requires 4-hour annuity suitability training before selling annuities",
+        body: "Even after you are licensed, Texas requires producers to complete a one-time 4-hour annuity suitability training course before soliciting, negotiating, or selling annuity products. This is separate from prelicensing and CE. Sircon and the NIPR MyProfile portal both work for license maintenance — pick one and use it consistently for renewals and address changes.",
+        link: { href: "https://www.tdi.texas.gov/agent/agcehome.html", text: "TDI CE & training requirements", external: true },
+      },
+    ],
 
     studentsCount: "7,600",
     avgIncome: "$66,490",
@@ -7468,6 +7640,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=69b1ecd1-1b18-4e05-b245-42055b4ea45d",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Virginia fingerprinting uses Fieldprint Service Code FPVABOIProducer",
+        body: "Virginia routes producer fingerprinting through Fieldprint (not IdentoGO). When you schedule your appointment, use the exact code FPVABOIProducer so that your prints are submitted to the Virginia Bureau of Insurance. Without this code your application will be held. Schedule fingerprinting before submitting your NIPR application to keep the timeline on track.",
+        link: { href: "https://www.scc.virginia.gov/regulated-industries/bureau-of-insurance/licensed-agent/applying-for-a-individual-va-insurance-license/", text: "Virginia BOI agent licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Virginia uses Prometric for licensing exams — escalating waits after multiple failures",
+        body: "Virginia is one of the few states still using Prometric (rather than Pearson VUE or PSI) for producer exams. Retakes carry a 24-hour wait for the first three attempts, then a statutory 30-day wait after the third and any subsequent failure. Most candidates receive results within minutes of finishing. Verify question count and time limit in the Prometric Virginia handbook.",
+        link: { href: "https://www.prometric.com/virginia/insurance", text: "Prometric Virginia portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Virginia does not require prelicensing education for standard producer lines",
+        body: "Virginia repealed mandatory prelicensing for major lines (Acts 2001, c. 706); only title insurance retains a separate education requirement under Va. Code 38.2-1814.1. Structured prep is still strongly recommended given the Prometric exam's heavy state-law content. After passing, apply through NIPR — most licenses issue within three weeks of complete documentation.",
+      },
+    ],
 
     studentsCount: "3,400",
     avgIncome: "$77,470",

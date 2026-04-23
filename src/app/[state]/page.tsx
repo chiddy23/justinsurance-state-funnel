@@ -296,6 +296,10 @@ export default async function StateHubPage({
             href: "/blog/florida-insurance-license/best-florida-insurance-prelicensing-courses-2026",
             title: "Best Florida Insurance Prelicensing Courses 2026: JustInsurance vs XCEL vs ExamFX",
           },
+          texas: {
+            href: "/blog/texas-insurance-license/best-texas-insurance-prelicensing-courses-2026",
+            title: "Best Texas Insurance Prelicensing Courses 2026: JustInsurance vs XCEL vs ExamFX vs AD Banker",
+          },
           georgia: {
             href: "/blog/state-license-georgia/how-to-get-your-georgia-insurance-license-2026-step-by-step-guide",
             title: "How to Get Your Georgia Insurance License: 2026 Step-by-Step Guide",

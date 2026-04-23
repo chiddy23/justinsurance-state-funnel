@@ -278,6 +278,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=f4004c54-821e-411d-b106-bcee71b4cd7c",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "update",
+        title: "Alabama eliminated prelicensing education on January 1, 2024",
+        body: "Under Act 2023-104, Alabama repealed its mandatory prelicensing education requirement effective January 1, 2024. You can now sit for the Alabama licensing exam without completing any set number of study hours. Most candidates still use a structured course — the exam still tests detailed state law and insurance concepts, and first-attempt preparation saves the cost of retake fees and escalating waiting periods.",
+        link: { href: "https://aldoi.gov/licensing/", text: "ALDOI licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Alabama exams are administered by the University of Alabama, not a national vendor",
+        body: "Alabama is one of the few states where the insurance licensing exam is delivered by the University of Alabama rather than a national vendor like Pearson VUE or PSI. The first retake has no waiting period, but a 90-day wait kicks in after a second failure and 180 days after a fourth. Confirm current exam fee, question count, and time limit in the University of Alabama candidate handbook.",
+        link: { href: "https://www.training.ua.edu/insurance-testing/insurance-testing-registration/", text: "University of Alabama insurance testing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Alabama requires fingerprinting through Fieldprint Alabama",
+        body: "Alabama processes fingerprints through Fieldprint rather than IdentoGO or a state agency. Plan to schedule fingerprinting before or shortly after passing your exam so your application can be processed without delay. Alabama licenses renew every 2 years on the last day of your birth month, with a 24-hour CE requirement (3 ethics) and a 30-day late-renewal window before reinstatement fees apply.",
+      },
+    ],
 
     studentsCount: "3,100",
     avgIncome: "$91,730",
@@ -437,6 +456,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=46023adf-a27d-4faf-8540-c1562f6f8f86",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Alaska does not offer a combined Life & Health exam",
+        body: "Alaska is one of a handful of states that requires separate exams for each line of authority — there is no combined Life & Health option. If you plan to sell both lines, schedule two exam appointments with Pearson VUE and budget for two exam fees. Prelicensing education is not required, but focused study materials meaningfully improve first-attempt pass rates given the depth of Alaska-specific content.",
+      },
+      {
+        kind: "tip",
+        title: "Alaska uses Pearson VUE with a 4-attempt OnVUE online limit",
+        body: "Alaska exams are delivered by Pearson VUE at testing centers and via OnVUE remote proctoring. There is no waiting period between retakes, but OnVUE online attempts are capped at 4 before you must test in person. Confirm current exam fee, question count, and time limit in the Pearson VUE Alaska candidate handbook before you schedule.",
+        link: { href: "https://www.pearsonvue.com/us/en/ak/insurance.html", text: "Pearson VUE Alaska portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Alaska requires one-time annuity, LTC, and NFIP training for those product lines",
+        body: "Agents selling annuities must complete a one-time 4-hour Annuity Best Interest training. Long-term care producers must complete an 8-hour initial course plus 4 hours of ongoing LTC CE every 24 months. Flood insurance requires a one-time 3-hour NFIP course. Verify current requirements and approved providers on the Alaska Division of Insurance producer page.",
+        link: { href: "https://www.commerce.alaska.gov/web/ins/Producers.aspx", text: "Alaska Division of Insurance producers", external: true },
+      },
+    ],
 
     studentsCount: "1,000",
     avgIncome: "$63,010",
@@ -596,6 +634,26 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=84b3876f-22ef-4332-bdb7-f28ee267584b",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "update",
+        title: "Arizona switched its exam vendor to PSI effective September 3, 2025",
+        body: "DIFI transitioned Arizona insurance licensing exams from Pearson VUE to PSI Services on September 3, 2025. If you are working from older study materials or third-party articles, verify any exam-logistics references against the current PSI Arizona portal — test centers, scheduling flow, and exam booking URLs all changed with the transition.",
+        link: { href: "https://test-takers.psiexams.com/anzins/test", text: "PSI Arizona insurance portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Arizona caps exam attempts at 4 per 12-month period",
+        body: "Arizona limits you to 4 exam attempts per line of authority within any 12-month window. After a 4th unsuccessful attempt you must wait a full year from your most recent failure before testing again. Confirm current fee, question count, and time limit in the PSI Arizona candidate handbook — details changed with the vendor switch.",
+        link: { href: "https://test-takers.psiexams.com/anzins/test", text: "PSI Arizona candidate portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Arizona licenses run 4 years — and require 48 CE hours plus 6 ethics",
+        body: "Arizona is one of only a handful of states with a 4-year license cycle, which front-loads a larger CE requirement: 48 total hours including 6 hours of ethics every renewal period. Carry-forward is not permitted. Agents selling annuities must complete a 4-hour suitability training under ARS §20-1241, and LTC sellers need an 8-hour initial course.",
+        link: { href: "https://difi.az.gov/ice", text: "DIFI CE requirements", external: true },
+      },
+    ],
 
     studentsCount: "3,200",
     avgIncome: "$67,580",
@@ -755,6 +813,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=25d338d2-278f-425b-b028-58364623357a",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Arkansas requires you to apply — and pass — within a 90-day ATT window",
+        body: "Arkansas is an application-before-exam state: you must submit your NIPR application first and wait for an Authorization to Test (ATT) before scheduling with PSI. Once issued, the ATT is valid for 90 days and you are limited to 3 exam attempts within that window. If you fail three times or the window expires, you must restart the entire application process.",
+        link: { href: "https://insurance.arkansas.gov/industry-regulation/licensing/", text: "Arkansas Insurance Department licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Arkansas uses PSI Services for licensing exams",
+        body: "Arkansas insurance exams are delivered by PSI Services. The first two retakes have no waiting period, but a 4-week mandatory wait applies after every third consecutive failure. Confirm current exam fee, question count, and time limit in the PSI Arkansas candidate handbook before you schedule — Arkansas also requires 20 hours of prelicensing education per line of authority.",
+        link: { href: "https://test-takers.psiexams.com/arins", text: "PSI Arkansas portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Arkansas requires product-specific training for annuities, LTC, and flood",
+        body: "Before selling annuities, Arkansas producers must complete a 4-hour annuity suitability training. Long-term care sellers need an 8-hour initial LTC course. Agents who write flood insurance must complete a 3-hour National Flood Insurance Program (NFIP) course. These product trainings are separate from the 24-hour biennial CE requirement and must be completed before you can bind those products.",
+      },
+    ],
 
     studentsCount: "2,300",
     avgIncome: "$72,260",
@@ -1092,6 +1169,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4551c6d4-169a-4ac7-8838-a5827d952aa1",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Colorado does not offer a combined Life & Health exam",
+        body: "Colorado requires separate exams for Life and for Accident & Health/Sickness — there is no combined option. Each line requires its own 50-hour prelicensing course and its own Pearson VUE exam fee. If you plan to sell both lines, budget for two complete course-and-exam cycles. Your prelicensing certificate is only valid for 12 months, so schedule promptly after finishing coursework.",
+      },
+      {
+        kind: "tip",
+        title: "Colorado uses Pearson VUE with a 24-hour retake waiting period",
+        body: "Colorado insurance exams are administered by Pearson VUE at test centers statewide. A 24-hour waiting period applies between retakes, but there is no overall retake limit. Most candidates receive unofficial results within minutes of finishing. Confirm current exam fee, question count, and time limit in the Pearson VUE Colorado candidate handbook before you schedule.",
+        link: { href: "https://www.pearsonvue.com/co/insurance", text: "Pearson VUE Colorado portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Colorado allows up to 12 CE carryover credits into the next cycle",
+        body: "Colorado's biennial CE requirement is 24 hours including 3 ethics, and the state permits up to 12 excess credits to carry forward within 120 days of your continuation date. No fingerprinting is required for producer licensing — self-disclosure on the NIPR application covers the background check, simplifying the timeline compared to IdentoGO-based states.",
+        link: { href: "https://doi.colorado.gov/insurance-industry/for-producers/agents", text: "Colorado Division of Insurance producers", external: true },
+      },
+    ],
 
     studentsCount: "3,300",
     avgIncome: "$75,980",
@@ -1251,6 +1347,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d3d26908-7b43-4140-9de8-b266a1bfb6c4",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Connecticut's late-renewal penalties stack quickly",
+        body: "If you miss your Connecticut renewal, a $160 late fee is added to the $160 renewal fee — a $320 total — for up to 12 months after expiration. Past 12 months you must pay $130 plus the NIPR transaction fee to reinstate, and if you let more than a year lapse you must retake prelicensing and the exam. CE carry-forward is not permitted.",
+        link: { href: "https://portal.ct.gov/cid/licensing/producer-individual", text: "Connecticut Insurance Department producer licensing", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Connecticut uses Pearson VUE with a 24-hour retake waiting period",
+        body: "Connecticut insurance exams are administered by Pearson VUE, with a 24-hour waiting period between retakes and no overall retake limit. Most candidates receive results within minutes of finishing. Confirm current exam fee, question count, and time limit in the Pearson VUE Connecticut candidate handbook — and note that Connecticut requires 20 hours of prelicensing education per line of authority before testing.",
+        link: { href: "https://www.pearsonvue.com/ct/insurance", text: "Pearson VUE Connecticut portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Connecticut has no fingerprinting requirement — background check is self-disclosure",
+        body: "Unlike many neighboring states, Connecticut does not require fingerprinting for producer licensing. The background check is handled through self-disclosure on the NIPR application. This simplifies the timeline considerably — most applicants are licensed within 2 to 4 weeks once they pass the Pearson VUE exam. Connecticut's prelicensing certificate is valid for 12 months.",
+      },
+    ],
 
     studentsCount: "2,900",
     avgIncome: "$100,950",
@@ -1410,6 +1525,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=fd23c43a-b3c8-496c-99d7-53c41d7370eb",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Delaware requires IdentoGO fingerprinting with Service Code 27S46Z",
+        body: "Delaware processes fingerprints through IdentoGO using the specific service code 27S46Z. Using the wrong code will cause your background check to be routed incorrectly and your license application to stall. Schedule your fingerprint appointment with the correct code before or shortly after passing your exam to avoid avoidable delays in license issuance.",
+        link: { href: "https://insurance.delaware.gov/", text: "Delaware Department of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Delaware uses Pearson VUE — no prelicensing education required",
+        body: "Delaware insurance exams are administered by Pearson VUE at testing centers across the Mid-Atlantic. The state does not require prelicensing education before the exam, but most candidates use a structured course to navigate the state law and product-knowledge content. Confirm current exam fee, question count, and time limit in the Pearson VUE Delaware candidate handbook.",
+        link: { href: "https://home.pearsonvue.com/de/insurance", text: "Pearson VUE Delaware portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Delaware's financial-services hub creates strong cross-state opportunity",
+        body: "Delaware's business-friendly legal environment has made Wilmington a major financial services hub, and reciprocal licensing is straightforward for producers in good standing in their home state — no exam is required for nonresident licensure. Licenses renew every 2 years with a 24-hour CE requirement (3 ethics hours), and the state's proximity to Philadelphia and Baltimore creates multi-state practice opportunities.",
+      },
+    ],
 
     studentsCount: "1,000",
     avgIncome: "$66,100",
@@ -1934,6 +2068,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=74a1c87e-290e-4e82-827a-d43ec37edeba",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Hawaii does not offer a combined Life & Health exam",
+        body: "Hawaii requires separate exams for Life and for Accident & Health — there is no combined option. Budget for two Pearson VUE appointments and two exam fees if you plan to sell both lines. Hawaii's limited number of testing centers, driven by its island geography, can also make scheduling around your availability more constrained than on the mainland — book early.",
+      },
+      {
+        kind: "tip",
+        title: "Hawaii uses Pearson VUE and Fieldprint fingerprinting (Code HI-DCCA-INS)",
+        body: "Hawaii insurance exams are administered by Pearson VUE, with fingerprinting handled through Fieldprint Hawaii using service code HI-DCCA-INS. Confirm current exam fee, question count, and time limit in the Pearson VUE Hawaii candidate handbook — the application fee is on the higher end at $150, so factor total cost carefully when budgeting your licensing timeline.",
+        link: { href: "https://www.pearsonvue.com/hi/insurance", text: "Pearson VUE Hawaii portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Hawaii's unique healthcare law shapes demand for health producers",
+        body: "Hawaii's Prepaid Health Care Act mandates employer-sponsored health coverage for many workers — a unique state-level framework that predates and coexists with the ACA. Agents who understand both employer-mandate coverage and the state's multilingual, multicultural population (significant Japanese, Filipino, and Native Hawaiian communities) find strong demand across health and life lines.",
+        link: { href: "https://cca.hawaii.gov/ins/", text: "Hawaii Insurance Division", external: true },
+      },
+    ],
 
     studentsCount: "2,000",
     avgIncome: "$68,630",
@@ -2093,6 +2246,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1c29c762-e687-4e24-9f41-96422fa3d657",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Idaho processes fingerprints through Pearson VUE — Code InsID-FPELC",
+        body: "Idaho is one of the few states where fingerprinting is handled by Pearson VUE itself rather than IdentoGO or a state agency. Use service code InsID-FPELC, and you can often complete fingerprinting at the same Pearson VUE center where you take the licensing exam — saving a trip and consolidating the timeline. No prelicensing education is required before sitting for the exam.",
+        link: { href: "https://doi.idaho.gov/", text: "Idaho Department of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Idaho uses Pearson VUE — no prelicensing required",
+        body: "Idaho insurance exams are administered by Pearson VUE at testing centers across the state. Idaho does not require prelicensing education, but most candidates use a structured course because the exam still tests detailed insurance law and product knowledge. Confirm current exam fee, question count, and time limit in the Pearson VUE Idaho candidate handbook.",
+        link: { href: "https://home.pearsonvue.com/id/insurance", text: "Pearson VUE Idaho portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Idaho is a fast-growing Mountain West market for new producers",
+        body: "Idaho's population — driven by inflows from California, Oregon, and Washington — is one of the fastest-growing in the country, with the Boise metro adding significant financial-services employment. Reciprocal licensing is straightforward for producers in good standing in their home state, and Idaho's 2-year license cycle with 24 CE hours (3 ethics) is in line with the national norm.",
+      },
+    ],
 
     studentsCount: "2,300",
     avgIncome: "$88,600",
@@ -2430,6 +2602,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=33001b38-91b9-4202-a3ce-5cd3380f819c",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Indiana prelicensing certificates expire in just 6 months",
+        body: "Indiana has one of the shortest prelicensing certificate validity windows in the country — only 6 months from completion. If you do not pass your Pearson VUE exam within that window, the certificate expires and you must retake the entire prelicensing course. Plan to schedule your exam within weeks of finishing coursework, not months.",
+        link: { href: "https://www.in.gov/idoi/", text: "Indiana Department of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Indiana uses Pearson VUE — no fingerprinting required",
+        body: "Indiana insurance exams are administered by Pearson VUE at testing centers across the state. Indiana does not require fingerprinting for resident producer licensing, simplifying the timeline considerably. Confirm current exam fee, question count, and time limit in the Pearson VUE Indiana candidate handbook before scheduling.",
+        link: { href: "https://home.pearsonvue.com/in/insurance", text: "Pearson VUE Indiana portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Indiana's late-renewal penalty stacks to $160 to reinstate",
+        body: "If you miss your Indiana renewal, the reinstatement penalty is $120 — three times the $40 renewal fee — for a total of $160 to bring your license current within 12 months. Past 12 months you must relicense from scratch. CE carry-forward is not permitted; you must complete a fresh 24 CE hours (3 ethics) every two years on the last day of your birth month.",
+      },
+    ],
 
     studentsCount: "3,000",
     avgIncome: "$82,260",
@@ -2589,6 +2780,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=5f4c7d2b-d1fc-4535-be57-be8f6e93c6cf",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Iowa licenses run 3 years — and require 36 CE hours per cycle",
+        body: "Iowa is one of the few states with a 3-year license cycle, which front-loads a 36-hour CE requirement (including 3 ethics hours) every renewal period. Plan your CE schedule across the longer cycle — and remember Iowa requires fingerprinting through Fieldprint Iowa using service code FPIADOINONRES, which adds a step versus states without fingerprinting.",
+        link: { href: "https://iid.iowa.gov/", text: "Iowa Insurance Division", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Iowa uses Pearson VUE — no prelicensing required",
+        body: "Iowa insurance exams are administered by Pearson VUE. Iowa does not require prelicensing education, but most candidates use a structured course because Des Moines is a national insurance hub and the exam tests detailed insurance law and product knowledge. Confirm current exam fee, question count, and time limit in the Pearson VUE Iowa candidate handbook.",
+        link: { href: "https://home.pearsonvue.com/ia/insurance", text: "Pearson VUE Iowa portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Iowa is a national insurance hub anchored by Principal, EMC, and Nationwide",
+        body: "Des Moines hosts headquarters or major operations for Principal Financial Group, EMC Insurance, and Nationwide, making Iowa one of the densest insurance employment markets per capita in the country. Iowa's older average-age population also drives steady demand for Medicare supplement and life insurance specialists across rural and metro areas alike.",
+      },
+    ],
 
     studentsCount: "2,700",
     avgIncome: "$77,600",
@@ -2748,6 +2958,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=146a65c5-8f78-4b5e-8e38-342345e8bff7",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Kansas requires you to apply through NIPR before scheduling your exam",
+        body: "Kansas is an application-before-exam state — you must submit your NIPR application and receive authorization from the Kansas Insurance Department before scheduling your Pearson VUE exam. Plan your timeline accordingly: NIPR processing typically takes a few business days, and you cannot book a test slot without the authorization in hand.",
+        link: { href: "https://insurance.kansas.gov/", text: "Kansas Insurance Department", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Kansas uses Pearson VUE — multiple fingerprinting options",
+        body: "Kansas insurance exams are administered by Pearson VUE. Fingerprinting can be completed at Pearson VUE test centers, KS DOI offices, DCF locations, the Kansas Bureau of Investigation (KBI), or local law enforcement using service code KS920161Z. Confirm current exam fee, question count, and time limit in the Pearson VUE Kansas candidate handbook.",
+        link: { href: "https://home.pearsonvue.com/ks/insurance", text: "Pearson VUE Kansas portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Kansas does not require prelicensing education",
+        body: "Kansas does not require prelicensing education before sitting for the licensing exam, though most candidates still benefit from structured study materials given the depth of state-specific content. Reciprocity is straightforward — producers in good standing in their home state can license in Kansas without exam, prelicensing, or certification letter. Licenses renew every 2 years.",
+      },
+    ],
 
     studentsCount: "2,500",
     avgIncome: "$78,750",
@@ -2907,6 +3136,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=d3cfe7a0-5236-41c6-bd7a-ec6fdf86117c",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Kentucky requires you to apply through NIPR before scheduling your exam",
+        body: "Kentucky is an application-before-exam state — you must submit your NIPR application and receive an Authorization to Test from the Kentucky Department of Insurance before scheduling your licensing exam. The application-before-exam step typically adds a few business days to your timeline, so factor it into your study plan.",
+        link: { href: "https://insurance.ky.gov/", text: "Kentucky Department of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Kentucky processes fingerprints through the state Court of Justice system",
+        body: "Unlike most states that use IdentoGO or a commercial fingerprinting vendor, Kentucky processes producer-licensing fingerprints through the Kentucky Court of Justice at kycourts.gov. Confirm current exam logistics — fee, question count, and time limit — through the Kentucky DOI eServices portal before booking.",
+        link: { href: "https://insurance.ky.gov/doieservices/userrole.aspx", text: "Kentucky DOI eServices", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Kentucky prelicensing certificates are valid for 12 months",
+        body: "After completing your Kentucky prelicensing course, the certificate is valid for 12 months. Pass your licensing exam and submit your application within that window or you will need to retake the prelicensing course. Licenses renew every 2 years with a 24-hour CE requirement (3 ethics hours) due by the last day of your birth month.",
+      },
+    ],
 
     studentsCount: "2,600",
     avgIncome: "$90,150",
@@ -3066,6 +3314,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=261117da-5b52-4172-a55e-0b8f459d0ac5",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Louisiana fingerprinting requires IdentoGO Service Code 27N339",
+        body: "Louisiana processes fingerprints through IdentoGO using the specific service code 27N339. Using a generic IdentoGO appointment without this code will route your background check to the wrong agency and stall your application. Schedule fingerprinting before or shortly after passing your PSI exam to avoid avoidable delays in license issuance.",
+        link: { href: "https://ldi.la.gov/", text: "Louisiana Department of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Louisiana uses PSI Services for licensing exams",
+        body: "Louisiana insurance exams are administered by PSI Services. The state does not require prelicensing education, though most candidates use a structured course given the depth of state-specific content — including Louisiana's unique Napoleonic Code legal framework that affects insurance contract interpretation. Confirm current exam fee, question count, and time limit in the PSI Louisiana candidate handbook.",
+        link: { href: "https://test-takers.psiexams.com/ladi", text: "PSI Louisiana portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Louisiana's Gulf Coast exposure makes flood and wind coverage central to P&C practice",
+        body: "Louisiana's geography exposes residents to catastrophic hurricane risk, driving high demand for property, casualty, flood, and wind specialists. NFIP knowledge is particularly valuable. Louisiana's licenses run 2 years and require 24 hours of CE (3 ethics) per cycle — typical for the region but worth confirming against the LDI compliance schedule.",
+      },
+    ],
 
     studentsCount: "2,900",
     avgIncome: "$63,400",
@@ -3225,6 +3492,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=11573f07-960c-4f42-a484-e6af813db7e3",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Maine has one of the lowest application fees and no fingerprinting requirement",
+        body: "Maine's $25 application fee is among the lowest in the country, and the state does not require fingerprinting for resident producer licensing — both factors that meaningfully shrink the time and cost between exam pass and active license. Most candidates are fully licensed within 2 to 3 weeks of passing the state exam.",
+        link: { href: "https://www.maine.gov/pfr/insurance/home", text: "Maine Bureau of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Maine uses Pearson VUE — no prelicensing required",
+        body: "Maine insurance exams are administered by Pearson VUE at testing centers across the state. Maine does not require prelicensing education, but most candidates use a structured course because the exam still tests detailed insurance law and product knowledge. Confirm current exam fee, question count, and time limit in the Pearson VUE Maine candidate handbook before you schedule.",
+        link: { href: "https://home.pearsonvue.com/me/insurance", text: "Pearson VUE Maine portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Maine's seasonal economy creates specialty coverage demand",
+        body: "Maine's outdoor and maritime economy — fishing, forestry, tourism, and seasonal property ownership — drives demand for specialty property, marine, and seasonal-residence coverage that is uncommon in inland states. The aging population also fuels strong demand for Medicare supplement and long-term care insurance. Reciprocity is straightforward for nonresident producers in good standing.",
+      },
+    ],
 
     studentsCount: "2,400",
     avgIncome: "$72,270",
@@ -3384,6 +3670,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=409bf8ec-a4a4-4de3-bc32-046d1c251fcc",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Maryland is one of the most streamlined states — no prelicensing, no fingerprinting",
+        body: "Maryland does not require prelicensing education and does not require fingerprinting for resident producer licensing. The background check is handled through self-disclosure on the NIPR application. This combination makes Maryland one of the fastest states for getting licensed — most candidates are active within 2 to 4 weeks of passing the Prometric exam.",
+        link: { href: "https://insurance.maryland.gov/", text: "Maryland Insurance Administration", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Maryland uses Prometric for licensing exams",
+        body: "Maryland insurance exams are administered by Prometric — a different vendor than the Pearson VUE and PSI used in most neighboring states. Confirm current exam fee, question count, and time limit in the Prometric Maryland insurance candidate handbook before scheduling, and verify which Prometric centers near you carry Maryland insurance exams.",
+        link: { href: "https://www.prometric.com/maryland/insurance", text: "Prometric Maryland insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Maryland's federal-employee market drives unique product demand",
+        body: "Maryland's proximity to Washington DC creates significant demand for federal employee benefits, government contractor coverage (E&O, professional liability), and sophisticated commercial insurance. The state's Johns Hopkins and University of Maryland Medical System anchor a large healthcare corridor, fueling demand for health insurance specialists. Licenses renew every 2 years with 24 CE hours (3 ethics).",
+      },
+    ],
 
     studentsCount: "2,700",
     avgIncome: "$66,320",
@@ -3543,6 +3848,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=118c2034-a812-45d7-b7e9-f648eb029b5b",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Massachusetts licenses run 3 years and require 45 CE hours per cycle",
+        body: "Massachusetts is one of the few states with a 3-year license cycle, which front-loads a 45-hour CE requirement (including 3 ethics hours) every renewal period. That works out to roughly 15 hours per year — heavier than the national 24-hour biennial norm. Plan your CE schedule across the longer cycle to avoid a year-three crunch.",
+        link: { href: "https://www.mass.gov/orgs/division-of-insurance", text: "Massachusetts Division of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Massachusetts uses Prometric for licensing exams",
+        body: "Massachusetts insurance exams are administered by Prometric. The state does not require prelicensing education and does not require fingerprinting for resident licensing — both factors keep the licensing timeline tight. Confirm current exam fee, question count, and time limit in the Prometric Massachusetts insurance candidate handbook before scheduling.",
+        link: { href: "https://www.prometric.com/massachusetts/insurance", text: "Prometric Massachusetts insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Massachusetts pioneered modern insurance regulation",
+        body: "Massachusetts has been a leader in insurance regulation since 1927, when it became the first state to mandate auto insurance, and its 2006 health insurance reform served as the template for the ACA. The Massachusetts Health Connector remains one of the most active state exchanges. Agents who understand the state's progressive regulatory framework find strong demand in the Boston metro's financial services and biotech sectors.",
+      },
+    ],
 
     studentsCount: "3,600",
     avgIncome: "$102,020",
@@ -3880,6 +4204,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8cacd30d-d9a3-4fa1-89b3-64b8d9712a57",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "update",
+        title: "Minnesota prelicensing certificates do not expire",
+        body: "Unlike most states, which cap prelicensing certificate validity at 6 to 12 months, Minnesota certificates do not expire. Once you complete an approved prelicensing course, you can take your time scheduling the state exam without the pressure of a certificate expiration window — especially helpful for candidates balancing work and study.",
+        link: { href: "https://mn.gov/commerce/insurance", text: "Minnesota Commerce Department insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Minnesota uses PSI Services — fingerprinting at PSI centers",
+        body: "Minnesota insurance exams are administered by PSI, and fingerprinting is also processed through PSI test centers — so you can often consolidate both steps into a single visit. Confirm current exam fee, question count, and time limit in the PSI Minnesota candidate handbook before scheduling.",
+        link: { href: "https://test-takers.psiexams.com/mnins", text: "PSI Minnesota portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Minneapolis–St. Paul hosts major national insurance carriers",
+        body: "The Twin Cities anchor Minnesota's insurance employment market, with Allianz Life, Securian Financial, and UnitedHealth Group all headquartered or with major operations in the metro. The state's high educational attainment and strong healthcare sector create a sophisticated market for life, annuity, and health insurance specialists. Licenses renew every 2 years with 24 CE hours (3 ethics).",
+      },
+    ],
 
     studentsCount: "2,900",
     avgIncome: "$98,220",
@@ -4033,6 +4376,25 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires and you must complete all CE, submit a new application, and pay the $50 late fee within 12 months.",
       },
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Mississippi prelicensing certificates are valid for a generous 2 years",
+        body: "Mississippi offers one of the longest prelicensing certificate validity windows in the country — 2 full years from completion. This gives candidates exceptional flexibility to schedule and pass the Pearson VUE licensing exam without the pressure of a 6- or 12-month deadline common in other states.",
+        link: { href: "https://www.mid.ms.gov/", text: "Mississippi Insurance Department", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Mississippi uses Pearson VUE — no fingerprinting required",
+        body: "Mississippi insurance exams are administered by Pearson VUE, and the state does not require fingerprinting for resident producer licensing. Confirm current exam fee, question count, and time limit in the Pearson VUE Mississippi candidate handbook before scheduling. The lack of a fingerprint step meaningfully shortens the post-exam timeline to active license.",
+        link: { href: "https://home.pearsonvue.com/ms/insurance", text: "Pearson VUE Mississippi portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Mississippi's Gulf Coast exposure drives P&C and flood demand",
+        body: "Mississippi's Gulf Coast geography creates catastrophic hurricane exposure, driving strong demand for property, casualty, and flood insurance specialists. NFIP knowledge is particularly valuable along the coast. Licenses renew every 2 years with 24 CE hours (3 ethics); missed renewals trigger a $50 late fee plus a 50% penalty within a 12-month reinstatement window.",
+      },
+    ],
 
     studentsCount: "2,200",
     avgIncome: "$67,170",
@@ -4192,6 +4554,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1ec3c9d7-950d-403a-a0d6-718d5a34ce72",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Missouri charges $25 per month in late fees — capped at 12 months",
+        body: "If you miss your Missouri renewal, $25 in late fees accrues each month until you reinstate, on top of the $100 renewal fee — capped at a 12-month reinstatement window. Past 12 months you must reapply from scratch. There is no grace period; late fees begin accruing the day after expiration, so renew on time or reinstate quickly.",
+        link: { href: "https://insurance.mo.gov/", text: "Missouri Department of Commerce and Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Missouri uses Pearson VUE — no prelicensing or fingerprinting required",
+        body: "Missouri insurance exams are administered by Pearson VUE. The state does not require prelicensing education and does not require fingerprinting for resident licensing — a combination that makes Missouri one of the fastest states to get licensed in the Midwest. Confirm current exam fee, question count, and time limit in the Pearson VUE Missouri candidate handbook.",
+        link: { href: "https://www.pearsonvue.com/mo/insurance", text: "Pearson VUE Missouri portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Missouri is a regional hub for Midwest multi-state agent practice",
+        body: "Missouri's central location and reciprocal licensing with surrounding states make it an efficient base for agents building multi-state practices. Kansas City and St. Louis anchor Missouri's insurance employment market, with Kansas City in particular hosting a strong concentration of life and annuity carriers. Licenses renew every 2 years with 24 CE hours (3 ethics).",
+      },
+    ],
 
     studentsCount: "3,600",
     avgIncome: "$71,040",
@@ -4351,6 +4732,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=4b9c2b23-3d7a-4690-a8b4-e51a55ee3c8d",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Montana does not offer a combined Life & Health exam",
+        body: "Montana requires separate Pearson VUE exams for Life and for Accident & Health — there is no combined option. Fingerprinting is handled through CSI Montana via a mail-in process rather than a commercial vendor, which adds time to the application timeline. Plan for 1 to 2 extra weeks versus states using digital fingerprinting.",
+        link: { href: "https://csimt.gov/", text: "Montana Commissioner of Securities and Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Montana uses Pearson VUE — no prelicensing required",
+        body: "Montana insurance exams are administered by Pearson VUE, and the state does not require prelicensing education before sitting for either line's exam. Confirm current exam fee, question count, and time limit in the Pearson VUE Montana candidate handbook before scheduling — and remember each line requires its own exam fee since there is no combined option.",
+        link: { href: "https://www.pearsonvue.com/mt/insurance", text: "Pearson VUE Montana portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Montana's agricultural economy drives farm and crop coverage demand",
+        body: "Montana's vast rural geography and ranching/farming-centric economy create significant demand for agricultural, crop, and life insurance specialists. Licenses renew every 2 years with 24 CE hours (3 ethics); a one-year grace period allows late renewal with a $100 fee, after which you must reapply as a new applicant. No fingerprinting for reciprocity — no exam either.",
+      },
+    ],
 
     studentsCount: "1,000",
     avgIncome: "$74,490",
@@ -4510,6 +4910,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=583d003e-1553-44cf-83b2-66b001ec36aa",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Nebraska late renewal: $40 fee within 30 days or $90 reinstatement within a year",
+        body: "Nebraska offers a 30-day late-renewal window with a $40 fee. Past 30 days but within one year of expiration, reinstatement requires a $90 new-application fee. After one year you must reapply from scratch. No prelicensing education and no fingerprinting are required, so the main compliance burden is keeping your renewal and 24 CE hours (3 ethics) current.",
+        link: { href: "https://doi.nebraska.gov/", text: "Nebraska Department of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Nebraska uses Pearson VUE — confirm logistics on the candidate handbook",
+        body: "Nebraska insurance exams are administered by Pearson VUE. Confirm current exam fee, question count, and time limit in the Pearson VUE Nebraska candidate handbook before scheduling. Nebraska does not require prelicensing education, but most candidates use a structured course given the depth of state-specific insurance law content.",
+        link: { href: "https://doi.nebraska.gov/education-licensees-0", text: "Nebraska DOI education and licensees", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Omaha hosts Mutual of Omaha, Berkshire Hathaway, and Woodmen of the World",
+        body: "Nebraska's outsized insurance employment profile — led by Mutual of Omaha, Berkshire Hathaway (which owns GEICO and General Re), and Woodmen of the World — creates exceptional career opportunity for newly licensed agents in Omaha. Reciprocal licensing is straightforward for producers in good standing in their home state; no exam is required.",
+      },
+    ],
 
     studentsCount: "1,000",
     avgIncome: "$68,430",
@@ -4663,6 +5082,25 @@ export const STATES: Record<string, StateData> = {
         lapseConsequence: "Your license expires and you have 30 days to pay a $62.50 late fee or up to one year to reinstate before full reapplication is required.",
       },
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Nevada licenses run 3 years — longer than the national 2-year norm",
+        body: "Nevada uses a 3-year license cycle rather than the 2-year biennial renewal common in most states, reducing the frequency of CE compliance. Confirm current total CE hour requirement and ethics allocation for your renewal period in the Nevada Division of Insurance's producer resources before your cycle closes.",
+        link: { href: "https://doi.nv.gov/", text: "Nevada Division of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Nevada uses Pearson VUE with fingerprinting through Pearson West / IBT",
+        body: "Nevada insurance exams are administered by Pearson VUE, and fingerprinting is processed through Pearson West / IBT rather than IdentoGO. Confirm current exam fee, question count, and time limit in the Pearson VUE Nevada candidate handbook before scheduling. Nevada does not require prelicensing education, making the main timeline driver the fingerprint + application flow.",
+        link: { href: "https://home.pearsonvue.com/nv/insurance", text: "Pearson VUE Nevada portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Las Vegas's hospitality and gaming industries create unique commercial demand",
+        body: "Nevada's hospitality, gaming, and entertainment sectors drive specialty commercial insurance needs alongside strong traditional life and health lines. Migration from California is accelerating population growth and demand across all lines. Reciprocal licensing is straightforward; no exam is required for producers in good standing in their home state.",
+      },
+    ],
 
     studentsCount: "2,200",
     avgIncome: "$66,040",
@@ -4822,6 +5260,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=edb7bd89-0444-4dd2-a529-dda7c06e8380",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "New Hampshire does not accept late renewals — expired licenses require reapplication",
+        body: "Unlike most states, New Hampshire does not accept late renewals. Once your license expires, you must file a completely new application and pay double the license fee to reinstate, and this option is only available for 2 years post-expiration. Renew on time — there is a 60-day window before expiration to complete CE and pay any late fee ($50).",
+        link: { href: "https://www.insurance.nh.gov/", text: "New Hampshire Insurance Department", external: true },
+      },
+      {
+        kind: "tip",
+        title: "New Hampshire uses Prometric for licensing exams",
+        body: "New Hampshire insurance exams are administered by Prometric rather than Pearson VUE or PSI. Confirm current exam fee, question count, and time limit in the Prometric New Hampshire insurance candidate handbook before scheduling. The state does not require prelicensing education or fingerprinting, keeping the path to license fast.",
+        link: { href: "https://www.prometric.com/newhampshire/insurance", text: "Prometric New Hampshire insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "New Hampshire's low-tax environment drives wealth-planning demand",
+        body: "New Hampshire has no state income tax and no sales tax, attracting high-income residents and financial professionals — creating strong demand for sophisticated life insurance, annuity, and estate-planning products. Proximity to Boston means many New Hampshire–licensed agents serve cross-border clients. Reciprocal licensing is straightforward; no exam or prelicensing is required for nonresidents.",
+      },
+    ],
 
     studentsCount: "2,400",
     avgIncome: "$72,460",
@@ -5159,6 +5616,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c5acbba5-5f4c-49e6-a2ea-fdc68bf9f448",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "New Mexico fingerprinting requires IdentoGO Service Code NM920210Z",
+        body: "New Mexico processes fingerprints through IdentoGO using the specific service code NM920210Z. Using a generic IdentoGO appointment without this code will route your background check to the wrong agency and stall your application. Schedule the appointment with the correct code shortly after passing your PSI exam to avoid delays in license issuance.",
+        link: { href: "https://www.osi.state.nm.us/en/", text: "New Mexico Office of Superintendent of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "New Mexico uses PSI Services — no prelicensing required",
+        body: "New Mexico insurance exams are administered by PSI. The state does not require prelicensing education before sitting for the exam, but most candidates use a structured course because the exam still tests detailed state law and product content. Confirm current exam fee, question count, and time limit in the PSI New Mexico candidate handbook before scheduling.",
+        link: { href: "https://test-takers.psiexams.com/nmins/test", text: "PSI New Mexico portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "New Mexico's tribal and Hispanic communities shape coverage needs",
+        body: "New Mexico's diverse population — including significant Native American and Hispanic communities — creates unique coverage and cultural considerations for agents. Proximity to Texas and Arizona also creates cross-market opportunities for multi-state licensing. Reciprocal licensing is straightforward for producers in good standing in their home state; no exam is required.",
+      },
+    ],
 
     studentsCount: "2,500",
     avgIncome: "$68,530",
@@ -5674,6 +6150,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a64fed55-405d-4cf1-8d57-67af38fc29f7",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "North Dakota does not offer a late-renewal grace period — license cancels at expiration",
+        body: "North Dakota is unusually strict: there is no grace period after expiration and no late-renewal option. If you miss your renewal deadline, your license and all insurer appointments are canceled, and you must file a new $100 initial application. Renew on time — CE carry-forward of up to 12 credits (excluding ethics) is permitted within 365 days of expiration.",
+        link: { href: "https://www.insurance.nd.gov/", text: "North Dakota Insurance Department", external: true },
+      },
+      {
+        kind: "tip",
+        title: "North Dakota uses PSI Services and does not offer a combined exam",
+        body: "North Dakota insurance exams are administered by PSI Services, and the state requires separate exams for each line of authority — there is no combined Life & Health option. Budget two exam fees if you plan to sell both lines. Confirm current exam fee, question count, and time limit in the PSI North Dakota candidate handbook before scheduling.",
+        link: { href: "https://test-takers.psiexams.com/ndins/test", text: "PSI North Dakota portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "North Dakota's Bakken oil economy drives commercial insurance demand",
+        body: "North Dakota's oil-boom economy in the Bakken region has created significant demand for commercial insurance, workers' compensation, and business-income coverage, while the state's large agricultural sector fuels demand for crop and farm specialists. No prelicensing education is required, making the path to license fast for producers willing to study independently.",
+      },
+    ],
 
     studentsCount: "2,300",
     avgIncome: "$83,530",
@@ -6011,6 +6506,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6a1fa7a7-8494-4fe7-bc87-89273827d039",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Oklahoma offers a 90-day reinstatement window — at double the renewal fee",
+        body: "If you miss your Oklahoma renewal, you have 90 days to reinstate by completing CE and paying double the renewal fee (plus the SBS processing fee). Past 90 days you must reapply from scratch. Oklahoma does allow 6 excess CE hours to carry forward as general credits — useful cushion for the biennial 24-hour requirement (3 ethics).",
+        link: { href: "https://www.oid.ok.gov/", text: "Oklahoma Insurance Department", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Oklahoma uses PSI Services — no prelicensing or fingerprinting required",
+        body: "Oklahoma insurance exams are administered by PSI Services. The state does not require prelicensing education and relies on a name-based state + federal background check (no fingerprinting), making the path to license unusually fast. Confirm current exam fee, question count, and time limit in the PSI Oklahoma candidate handbook before scheduling.",
+        link: { href: "https://test-takers.psiexams.com/okins", text: "PSI Oklahoma portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Oklahoma's oil and gas industry drives commercial insurance demand",
+        body: "Oklahoma's energy sector — led by Oklahoma City and Tulsa — creates strong demand for commercial insurance specialists covering oilfield risk, fleet, and workers' comp. The state's tornado-alley geography also drives high demand for property specialists. Reciprocal licensing is straightforward; no exam is required for nonresident producers in good standing in their home state.",
+      },
+    ],
 
     studentsCount: "2,800",
     avgIncome: "$61,940",
@@ -6170,6 +6684,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=72c8d06b-b553-4eca-908c-c2741e7f61c6",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Oregon prelicensing certificates are valid for 12 months",
+        body: "Oregon requires prelicensing education, and the completion certificate is valid for only 12 months. If you do not pass your PSI exam within that window, you must retake the prelicensing course. Plan to schedule your exam within weeks — not months — of finishing coursework to leave room for potential retakes.",
+        link: { href: "https://dfr.oregon.gov/pages/index.aspx", text: "Oregon Division of Financial Regulation", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Oregon fingerprints at PSI test centers — same vendor as the exam",
+        body: "Oregon conveniently processes fingerprints through PSI test centers, the same vendor used for the insurance licensing exam. You can often complete both steps at the same visit, consolidating your application timeline. Confirm current exam fee, question count, and time limit in the PSI Oregon candidate handbook before scheduling.",
+        link: { href: "https://test-takers.psiexams.com/orins", text: "PSI Oregon portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Oregon's Medicaid-expansion market drives health producer demand",
+        body: "Oregon's progressive healthcare policies, including full Medicaid expansion, create strong demand for health insurance agents who understand state-specific programs and the Oregon Health Plan. Portland anchors the state's insurance employment market, while the Willamette Valley's agricultural sector drives specialty crop coverage needs. Licenses run 2 years with 24 CE hours (3 ethics).",
+      },
+    ],
 
     studentsCount: "3,000",
     avgIncome: "$75,000",
@@ -6507,6 +7040,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1ba2d308-c508-4d96-b2be-82b51bf31d82",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Rhode Island does not offer a combined Life & Health exam",
+        body: "Rhode Island is one of a handful of states that requires separate Pearson VUE exams for Life and for Accident & Health — there is no combined option. Budget for two exam appointments and two exam fees if you plan to sell both lines. Fingerprinting instructions are issued by the Department of Business Regulation (DBR) during the application process.",
+        link: { href: "https://dbr.ri.gov/", text: "Rhode Island Department of Business Regulation", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Rhode Island uses Pearson VUE — no prelicensing required",
+        body: "Rhode Island insurance exams are administered by Pearson VUE. The state does not require prelicensing education, but most candidates use a structured course because the exam still tests detailed insurance law and product content. Confirm current exam fee, question count, and time limit in the Pearson VUE Rhode Island candidate handbook.",
+        link: { href: "https://home.pearsonvue.com/ri/insurance", text: "Pearson VUE Rhode Island portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Rhode Island's small market is boosted by proximity to Boston",
+        body: "Despite its size, Rhode Island's insurance market benefits from proximity to Boston and a growing financial-services sector in Providence. Reciprocal licensing is straightforward for producers in good standing in their home state; no exam is required. Licenses run 2 years with a 24-hour CE requirement (3 ethics).",
+      },
+    ],
 
     studentsCount: "2,300",
     avgIncome: "$84,090",
@@ -6666,6 +7218,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1dd439d9-3b82-423f-9fe6-879c9ef54067",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "South Carolina cancels expired licenses after 180 days — no exceptions",
+        body: "South Carolina offers a 180-day (6-month) reinstatement window with a $50 late fee. After day 181 your license is canceled and you must retake the state exam, refingerprint, and reapply as a new licensee. Don't let your renewal lapse past the window — the restart cost is significant. CE carry-forward up to 18 credits is permitted into the next biennium.",
+        link: { href: "https://doi.sc.gov/", text: "South Carolina Department of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "South Carolina uses Pearson VUE — fingerprinting instructions emailed after application",
+        body: "South Carolina insurance exams are administered by Pearson VUE. Fingerprinting is required but instructions are emailed to candidates after they submit the NIPR application — watch your inbox after applying. Confirm current exam fee, question count, and time limit in the Pearson VUE South Carolina candidate handbook.",
+        link: { href: "https://home.pearsonvue.com/sc/insurance", text: "Pearson VUE South Carolina portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "South Carolina's 187-mile coast creates high flood and wind demand",
+        body: "South Carolina's Charleston and Myrtle Beach areas drive strong demand for property, flood, and wind specialists along 187 miles of coastline. Retiree inflows from higher-cost states also fuel demand across life, Medicare supplement, and annuity products. No prelicensing education is required, keeping the path to license fast for candidates willing to study independently.",
+      },
+    ],
 
     studentsCount: "3,100",
     avgIncome: "$69,480",
@@ -6825,6 +7396,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=17885e75-ae9f-45f6-9de5-91c21bdc6c2a",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "South Dakota has one of the lowest regulatory burdens in the country",
+        body: "South Dakota requires no prelicensing education and no fingerprinting, and the $25 application fee is among the lowest nationally. These factors — combined with reciprocal licensing that waives the exam for nonresidents — make South Dakota one of the fastest and cheapest states for initial licensure. Verify current renewal cycle and CE requirements with the South Dakota Division of Insurance before your deadline.",
+        link: { href: "https://dlr.sd.gov/insurance/", text: "South Dakota Division of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "South Dakota uses Pearson VUE",
+        body: "South Dakota insurance exams are administered by Pearson VUE. Confirm current exam fee, question count, and time limit in the Pearson VUE South Dakota candidate handbook before scheduling. Since no prelicensing is required, many candidates book their exam quickly — though most still study to maximize first-attempt pass rates.",
+        link: { href: "https://www.pearsonvue.com/sd/insurance", text: "Pearson VUE South Dakota portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "South Dakota's business-friendly environment attracts insurance holding companies",
+        body: "South Dakota has long been a favored state for insurance-company incorporation due to flexible regulations, no state income tax, and an efficient Division of Insurance. For producers, this creates a healthy market of carriers and Sioux Falls–based financial-services employers. Missed renewals require double the renewal fee plus a $40 reinstatement fee within 12 months of lapse.",
+      },
+    ],
 
     studentsCount: "2,200",
     avgIncome: "$77,300",
@@ -6984,6 +7574,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=a73ba06d-48fb-439e-8670-fb37324f2bce",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Tennessee does not offer a combined Life & Health exam",
+        body: "Tennessee is one of a handful of states that requires separate Pearson VUE exams for Life and for Accident & Health — there is no combined option. Budget for two exam appointments and two exam fees if you plan to sell both lines. Tennessee also requires fingerprinting through IdentoGO as part of the background check.",
+        link: { href: "https://www.tn.gov/commerce/insurance-division.html", text: "Tennessee Department of Commerce and Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Tennessee uses Pearson VUE — no prelicensing required",
+        body: "Tennessee insurance exams are administered by Pearson VUE, and the state does not require prelicensing education before sitting for either line's exam. Confirm current exam fee, question count, and time limit in the Pearson VUE Tennessee candidate handbook before scheduling.",
+        link: { href: "https://www.pearsonvue.com/tn/insurance", text: "Pearson VUE Tennessee portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Tennessee has reciprocity agreements with all other states",
+        body: "Tennessee maintains reciprocity agreements with every other state, making it a popular home-state license for agents planning multi-state practice. Nashville's booming healthcare sector — home to one of the largest concentrations of hospital companies in the country — combined with no state income tax creates strong demand for life, annuity, and health insurance producers.",
+      },
+    ],
 
     studentsCount: "2,900",
     avgIncome: "$65,130",
@@ -7322,6 +7931,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=c7f74a8d-fae8-40f5-982d-80002ecccfa9",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Utah requires fingerprinting per UT DOI instructions",
+        body: "Utah processes fingerprints per the Utah Department of Insurance's instructions, which are provided during the application process — so plan to watch for those instructions promptly after submitting your NIPR application. No prelicensing education is required before the Prometric exam, keeping the overall timeline fast once fingerprinting is scheduled.",
+        link: { href: "https://insurance.utah.gov/", text: "Utah Department of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Utah uses Prometric for licensing exams",
+        body: "Utah insurance exams are administered by Prometric — a different vendor than the Pearson VUE and PSI used in most neighboring states. Confirm current exam fee, question count, and time limit in the Prometric Utah insurance candidate handbook before scheduling, and verify which Prometric centers near you carry Utah insurance exams.",
+        link: { href: "https://www.prometric.com/utah/insurance", text: "Prometric Utah insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Utah's Silicon Slopes drives high group-benefits demand",
+        body: "Utah's booming Salt Lake City and Provo-Orem metros — now nicknamed Silicon Slopes — have attracted major tech employers, creating high demand for group benefits, individual health, and executive life insurance specialists. Utah's young, high-birth-rate population also fuels strong life insurance demand. Reciprocal licensing is straightforward; no exam is required for producers in good standing.",
+      },
+    ],
 
     studentsCount: "2,400",
     avgIncome: "$72,140",
@@ -7481,6 +8109,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8a6cd6ff-97ef-4a2c-8345-41578eed1507",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Vermont suspends expired licenses immediately — but allows 2 years to reinstate",
+        body: "Vermont licenses are suspended the moment they expire, with no grace period. However, the reinstatement window is unusually long at 2 years, during which you can reactivate via the initial application process plus a late-renewal penalty. Past 2 years you must retake the exam. CE carry-forward is not permitted; complete 24 hours (3 ethics) each biennium.",
+        link: { href: "https://dfr.vermont.gov/insurance", text: "Vermont Department of Financial Regulation insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Vermont uses Prometric for licensing exams",
+        body: "Vermont insurance exams are administered by Prometric. The state does not require prelicensing education or fingerprinting for resident producer licensing, keeping the path to license unusually fast. Confirm current exam fee, question count, and time limit in the Prometric Vermont insurance candidate handbook before scheduling.",
+        link: { href: "https://www.prometric.com/vermont/insurance", text: "Prometric Vermont insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Vermont's progressive health policies create a specialized agent market",
+        body: "Vermont has long been a leader in health-policy experimentation, including an attempt at single-payer healthcare. Vermont Health Connect, the state's ACA marketplace, remains highly regulated. Agents who understand state-specific Medicaid, small-group, and exchange products find strong demand. Reciprocal licensing is straightforward; no exam is required for nonresidents.",
+      },
+    ],
 
     studentsCount: "1,100",
     avgIncome: "$86,670",
@@ -7818,6 +8465,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=11becb90-965f-4890-a7a4-01d8eb1ae8ec",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Washington requires IdentoGO fingerprinting as part of licensing",
+        body: "Washington requires fingerprinting through IdentoGO as part of the producer-licensing background check — a step not required in neighboring Oregon or Idaho. Schedule fingerprinting shortly after passing your PSI exam so your NIPR application can be processed without delay. No prelicensing education is required before the exam, keeping the study-to-license timeline short.",
+        link: { href: "https://www.insurance.wa.gov/", text: "Washington Office of the Insurance Commissioner", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Washington uses PSI Services for licensing exams",
+        body: "Washington insurance exams are administered by PSI Services. Confirm current exam fee, question count, and time limit in the PSI Washington candidate handbook before scheduling. Washington does not require prelicensing education, so most candidates study independently and book their exam as soon as they feel prepared.",
+        link: { href: "https://test-takers.psiexams.com/waoic", text: "PSI Washington portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Seattle's tech sector drives group-benefits and key-person life demand",
+        body: "Washington's Seattle-Tacoma metro — anchored by Amazon, Microsoft, Boeing, and Starbucks — creates enormous demand for group benefits, executive compensation, and key-person life insurance specialists. Washington Healthplanfinder, the state ACA exchange, also drives active health-agent demand during open enrollment. Reciprocal licensing is straightforward; no exam or fingerprinting is required for nonresidents.",
+      },
+    ],
 
     studentsCount: "3,100",
     avgIncome: "$77,030",
@@ -7977,6 +8643,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6110472d-574b-4a97-9997-80162dca918e",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "West Virginia prelicensing certificates are valid for only 6 months",
+        body: "West Virginia requires prelicensing education, and the completion certificate is valid for only 6 months — one of the shortest windows in the country. Schedule your Pearson VUE exam promptly after finishing coursework or you will need to retake the prelicensing course. The state also does not offer a combined Life & Health exam — each line must be tested separately.",
+        link: { href: "https://www.wvinsurance.gov/", text: "West Virginia Offices of the Insurance Commissioner", external: true },
+      },
+      {
+        kind: "tip",
+        title: "West Virginia uses Pearson VUE with IdentoGO Service Code 228NS5",
+        body: "West Virginia insurance exams are administered by Pearson VUE, and fingerprinting is processed through IdentoGO using service code 228NS5. Confirm current exam fee, question count, and time limit in the Pearson VUE West Virginia candidate handbook — and remember each line requires its own exam since there is no combined option.",
+        link: { href: "https://home.pearsonvue.com/wv/insurance", text: "Pearson VUE West Virginia portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "West Virginia's rural market creates strong demand for affordable health and life",
+        body: "West Virginia's largely rural population has historically had higher uninsured rates, creating significant opportunity for agents focused on affordable health coverage, Medicare supplement products, and life insurance for working families. Reciprocal licensing is straightforward; no exam is required for producers in good standing in their home state. Licenses renew every 2 years with 24 CE hours (3 ethics).",
+      },
+    ],
 
     studentsCount: "2,300",
     avgIncome: "$58,300",
@@ -8136,6 +8821,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=20e8c9d2-9845-4e1e-ae0b-a63b51233d68",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Wisconsin does not offer a combined Life & Health exam",
+        body: "Wisconsin requires separate PSI exams for Life and for Accident & Health — there is no combined option. Budget for two exam appointments and two exam fees if you plan to sell both lines. Wisconsin also requires prelicensing education, with the completion certificate valid for 12 months before you must retake the course.",
+        link: { href: "https://oci.wi.gov/", text: "Wisconsin Office of the Commissioner of Insurance", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Wisconsin uses PSI Services and Fieldprint (Code FPWIOCIINSURANCE)",
+        body: "Wisconsin insurance exams are administered by PSI, and fingerprinting is handled through Fieldprint Wisconsin using service code FPWIOCIINSURANCE. Confirm current exam fee, question count, and time limit in the PSI Wisconsin candidate handbook — and remember each line requires its own exam since there is no combined option.",
+        link: { href: "https://test-takers.psiexams.com/wiins", text: "PSI Wisconsin portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Wisconsin's dairy and state-capital economies drive specialty demand",
+        body: "Madison's concentration of state-government employees and University of Wisconsin staff creates demand for group benefits and health insurance specialists, while Wisconsin's dairy and agricultural economy drives demand for farm and agribusiness coverage. Milwaukee's manufacturing base adds a workers'-comp and commercial lens. Licenses renew every 2 years with 24 CE hours (3 ethics).",
+      },
+    ],
 
     studentsCount: "3,000",
     avgIncome: "$87,280",
@@ -8295,6 +8999,25 @@ export const STATES: Record<string, StateData> = {
       combinedUrl: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0bb58a80-43d4-417b-9174-bd81903e720d",
       price: "$59",
     },
+    specialNotices: [
+      {
+        kind: "alert",
+        title: "Wyoming processes fingerprints by mail — plan for extra time",
+        body: "Unlike most states that use IdentoGO or another commercial vendor, Wyoming processes producer-licensing fingerprints through a mailed fingerprint packet. After submitting your NIPR application you will receive instructions to obtain and mail in your fingerprint card. This adds roughly 1 to 2 weeks versus electronic fingerprinting — factor it into your total licensing timeline.",
+        link: { href: "https://doi.wyo.gov/", text: "Wyoming Insurance Department", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Wyoming uses Pearson VUE — no prelicensing required",
+        body: "Wyoming insurance exams are administered by Pearson VUE, and the state does not require prelicensing education before the exam. Confirm current exam fee, question count, and time limit in the Pearson VUE Wyoming candidate handbook before scheduling. Most candidates are licensed within a few weeks of passing, once the mail-in fingerprint step completes.",
+        link: { href: "https://home.pearsonvue.com/wy/insurance", text: "Pearson VUE Wyoming portal", external: true },
+      },
+      {
+        kind: "tip",
+        title: "Wyoming's energy economy drives commercial and agricultural demand",
+        body: "Wyoming's oil, gas, and coal sectors create strong demand for commercial insurance specialists, while the state's ranching and agricultural communities drive demand for farm and life insurance products. Wyoming's longer 3-year license cycle reduces renewal-administration frequency. Reciprocal licensing is straightforward; no exam or fingerprinting is required for nonresident producers in good standing.",
+      },
+    ],
 
     studentsCount: "1,000",
     avgIncome: "$68,470",

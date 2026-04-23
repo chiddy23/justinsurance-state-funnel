@@ -1,7 +1,35 @@
 # JustInsurance State Funnel Website
 
 ## Project Overview
-SEO funnel website for JustInsurance LLC — 830+ static pages covering insurance licensing courses across 50 states, plus a 279-article blog across 29 topic clusters. Built with Next.js 14 App Router, TypeScript, and Tailwind CSS. Deployed on Vercel at justinsuranceco.com.
+SEO funnel website for JustInsurance LLC — **904 static pages** covering insurance licensing courses across 50 states, plus a 280-article blog across 29 topic clusters. Built with Next.js 14 App Router, TypeScript, and Tailwind CSS. Deployed on Vercel at justinsuranceco.com.
+
+## Latest Sprint State (as of 2026-04-24)
+
+**Latest commit:** `923ed93` — Texas parity (Best TX Prelicensing pillar + Deep Dive card)
+
+**Recent significant work:**
+- Texas hub now has full Florida parity (specialNotices + Deep Dive card + comparison blog post)
+- 12/50 states have specialNotices regulatory callouts populated (FL, CA, TX, NY, PA, OH, IL, GA, NC, MI, NJ, VA)
+- 30 states have ≥1 state-matched YouTube testimonial (138 testimonials total)
+- ~380 redirect rules across 5 rounds (legacy WP, www→apex, trailing slash, Kaplan URL mirrors, 404 cleanup)
+- Comparative-content SOP + `npm run verify-comparative-claims` script (Lanham Act §43(a) compliance)
+- Quarterly audit triggers scheduled for 2026-07-01 (Gmail attachment blocked at platform level — workaround needed)
+
+**Sitewide standards (do not violate):**
+- Pass rate: **93%** (NOT 93.2 — render uses `Math.round(stateData.realPassRate)`)
+- All-inclusive price: **$199 prelicensing / $39 CE**
+- Live sessions: **5×/week**, included in base $199
+- Pass guarantee: complete recommended hours + score 80%+ on practice 3× in a row + sit for state exam within 30 days of first enrollment
+- AggregateRating schema is **STRIPPED** — re-enable only when Google reviews ≥25
+- Florida provider approval **#129317** (consolidated; old #373671 was wrong)
+- Georgia prelicensing: **8/16 hours** (changed from 20/40 effective June 24, 2025)
+- California AB 943: only **12-hour Code & Ethics** prelicensing required (effective Jan 1, 2026)
+- Michigan: licenses are **perpetual with biennial CE** (NOT 3-year cycle)
+
+**Memory notes** (most recent first):
+- `~/.claude/projects/c--Users-Chidd-Downloads/memory/project_state_funnel_2026-04-24.md`
+- `project_state_funnel_2026-04-20.md`
+- `project_state_funnel_2026-04-15.md`
 
 ## Tech Stack
 - **Framework:** Next.js 14 (App Router)
@@ -14,10 +42,11 @@ SEO funnel website for JustInsurance LLC — 830+ static pages covering insuranc
 
 ## Key Commands
 ```bash
-npm run dev      # Start local dev server (http://localhost:3000)
-npm run build    # Production build (generates 830+ static pages)
-npm run lint     # ESLint check
-vercel --prod --force  # Deploy to production (use --force to clear cache)
+npm run dev                          # Start local dev server (http://localhost:3000)
+npm run build                        # Production build (generates 904 static pages)
+npm run lint                         # ESLint check
+npm run verify-comparative-claims    # Quarterly Lanham-Act compliance check (zero exit = clean)
+npx vercel deploy --prod --yes       # Deploy to production
 ```
 
 ## Project Structure

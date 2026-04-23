@@ -3770,7 +3770,7 @@ export const STATES: Record<string, StateData> = {
     lastVerified: "March 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
-    renewalDeadline: "Last day of birth month (every 3 years)",
+    renewalDeadline: "First day of birth month (every 2 years)",
     fingerprintingNotes: "Not required",
     nameMatchWarning: "Your name on the exam registration, course enrollment, and license application must match your government-issued ID exactly. Any discrepancies — including middle names, suffixes, or maiden names — can cause delays in your license application.",
     specialTrainingRequirements: {
@@ -3779,13 +3779,13 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: null,
     },
-    stateSpecificIntro: "Michigan requires prelicensing education and does not require fingerprinting as part of the licensing process. The state's 3-year license renewal cycle is longer than average, giving agents more time between CE compliance cycles. Michigan's large auto manufacturing economy creates significant demand for both employer group benefits and individual insurance, while the state's Great Lakes geography creates unique seasonal property and recreational vehicle coverage needs.",
+    stateSpecificIntro: "Michigan requires prelicensing education and does not require fingerprinting as part of the licensing process. Michigan producer licenses are perpetual as long as continuing education requirements are met on the state's 2-year CE cycle. Michigan's large auto manufacturing economy creates significant demand for both employer group benefits and individual insurance, while the state's Great Lakes geography creates unique seasonal property and recreational vehicle coverage needs.",
     stateSpecificFAQ: {
       question: "How long does a Michigan insurance license last before renewal?",
-      answer: "Michigan insurance licenses have a 3-year renewal cycle, which is longer than the 2-year cycle common in most states. This means you need to complete CE requirements less frequently. Michigan requires 24 hours of CE per renewal period, including 3 hours of ethics. No fingerprinting is required for the Michigan insurance license application, which helps streamline the initial process.",
+      answer: "Michigan insurance producer licenses are perpetual as long as CE requirements are met. The state operates on a 2-year CE compliance cycle, with credits due by the first day of your birth month at the end of each cycle. Michigan requires 24 hours of CE per cycle, including 3 hours of ethics. No fingerprinting is required for the Michigan insurance license application, which helps streamline the initial process.",
     },
     stateTestimonial: {
-      quote: "JustInsurance's Michigan course was thorough and well worth the time. I passed the PSI exam on my first try and the 3-year renewal cycle means I won't have to worry about CE for a while.",
+      quote: "JustInsurance's Michigan course was thorough and well worth the time. I passed the PSI exam on my first try and the material prepared me for everything on the test.",
       name: "Emily E.",
       title: "Licensed Insurance Agent",
     },
@@ -5395,7 +5395,7 @@ export const STATES: Record<string, StateData> = {
       annuity: null,
       other: "Separate exam required for each line of authority (Life, Accident & Health, Property, Casualty). New York requires individual line-by-line licensing rather than combined designations.",
     },
-    stateSpecificIntro: "New York is one of the most complex insurance licensing states in the country, requiring separate licensing exams for each line of authority — there is no combined Life & Health license. The state uses Prometric for exam administration and New York prelicensing certificates do not expire, providing scheduling flexibility. New York City anchors one of the world's largest insurance markets, with a dense concentration of financial services firms, commercial carriers, and retail agents across all product lines.",
+    stateSpecificIntro: "New York is one of the most complex insurance licensing states in the country, requiring separate licensing exams for each line of authority — there is no combined Life & Health license. The state uses PSI Services LLC for exam administration and New York prelicensing certificates do not expire, providing scheduling flexibility. New York City anchors one of the world's largest insurance markets, with a dense concentration of financial services firms, commercial carriers, and retail agents across all product lines.",
     stateSpecificFAQ: {
       question: "Why does New York require separate exams for each insurance line of authority?",
       answer: "New York's insurance licensing structure requires candidates to pass individual exams for each line of authority — Life, Accident & Health, Property, and Casualty are all separate licenses. Unlike most states that offer a combined Life & Health designation, New York treats each line independently. This means more exams but also more flexibility in specializing. New York prelicensing certificates do not expire, and the state does not require fingerprinting, which simplifies the process somewhat.",
@@ -5913,10 +5913,10 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Ohio is one of the largest insurance markets in the Midwest, with Columbus, Cleveland, and Cincinnati all serving as major insurance employment centers. The state does not require prelicensing education but does require fingerprinting through FastFingerprints.com. Ohio's diverse economy — manufacturing, healthcare, technology, and financial services — creates broad and consistent demand across all insurance lines, making it an excellent state for building a long-term insurance career.",
     stateSpecificFAQ: {
       question: "How does Ohio's fingerprinting requirement work for insurance licensing?",
-      answer: "Ohio requires fingerprinting through FastFingerprints.com as part of the background check process. This is a digital fingerprinting vendor with locations throughout the state. Ohio does not require prelicensing education before sitting for the Pearson VUE exam. After passing the exam, you apply through NIPR and the Ohio Department of Insurance processes your application, typically within a few business days.",
+      answer: "Ohio requires fingerprinting through FastFingerprints.com as part of the background check process. This is a digital fingerprinting vendor with locations throughout the state. Ohio does require prelicensing education before sitting for the PSI exam. After passing the exam, you apply through NIPR and the Ohio Department of Insurance processes your application, typically within a few business days.",
     },
     stateTestimonial: {
-      quote: "JustInsurance was my go-to resource for the Ohio insurance exam. The course covered everything I needed to know and the practice exams were very similar to the actual Pearson VUE test.",
+      quote: "JustInsurance was my go-to resource for the Ohio insurance exam. The course covered everything I needed to know and the practice exams were very similar to the actual PSI test.",
       name: "Justin F.",
       title: "Licensed Insurance Agent",
     },
@@ -7720,10 +7720,10 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Virginia does not require prelicensing education but does require fingerprinting through Fieldprint Virginia using the code FPVABOIProducer. The Northern Virginia corridor adjacent to Washington DC is one of the most affluent insurance markets in the country, with a heavy concentration of federal employees, government contractors, and technology professionals creating exceptional demand for life, health, and disability insurance products. Virginia's Richmond metro serves as a major East Coast insurance center, home to several large regional and national carriers.",
     stateSpecificFAQ: {
       question: "How does Virginia's fingerprinting requirement work for insurance licensing?",
-      answer: "Virginia requires fingerprinting through Fieldprint Virginia using the code FPVABOIProducer. Fieldprint has multiple locations throughout Virginia, making it relatively convenient to complete this step. Virginia does not require prelicensing education before sitting for the Pearson VUE exam. After passing and completing fingerprinting, you apply for your license through NIPR and the Virginia Bureau of Insurance processes the application.",
+      answer: "Virginia requires fingerprinting through Fieldprint Virginia using the code FPVABOIProducer. Fieldprint has multiple locations throughout Virginia, making it relatively convenient to complete this step. Virginia does not require prelicensing education before sitting for the Prometric exam. After passing and completing fingerprinting, you apply for your license through NIPR and the Virginia Bureau of Insurance processes the application.",
     },
     stateTestimonial: {
-      quote: "JustInsurance prepared me perfectly for the Virginia Pearson VUE exam. Northern Virginia has an incredible insurance market and I was excited to get licensed quickly with the help of the course.",
+      quote: "JustInsurance prepared me perfectly for the Virginia Prometric exam. Northern Virginia has an incredible insurance market and I was excited to get licensed quickly with the help of the course.",
       name: "Rebecca H.",
       title: "Licensed Insurance Agent",
     },

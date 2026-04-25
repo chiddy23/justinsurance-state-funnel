@@ -32,3 +32,19 @@ export const LOA_DEFINITIONS: Record<LOASlug, LOADefinition> = {
 };
 
 export const ALL_LOA_SLUGS: LOASlug[] = ["life", "health", "life-and-health"];
+
+/**
+ * Strip a trailing " Insurance" from an LOA display name so composed strings
+ * like `${loaName} Insurance Prelicensing` don't render "Insurance Insurance".
+ * Use this when a downstream template appends its own "Insurance"/"insurance"
+ * word — meta descriptions, schema fields, FAQ prose, etc.
+ *
+ * Examples:
+ *   loaShortName("Life Insurance")          → "Life"
+ *   loaShortName("Health Insurance")        → "Health"
+ *   loaShortName("Life & Health Insurance") → "Life & Health"
+ *   loaShortName("Life")                    → "Life"  (idempotent)
+ */
+export function loaShortName(loaName: string): string {
+  return loaName.replace(/\s+Insurance$/i, "");
+}

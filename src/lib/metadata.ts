@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { loaShortName } from "./loa";
 
 const BASE_URL = "https://justinsuranceco.com";
 const OG_IMAGE = "/og-image.png";
@@ -147,7 +148,7 @@ function buildDescription(
       return `Renew your ${stateName} insurance license with state-approved CE courses. Complete online at your own pace, same-day DOI reporting. From $39.`;
     }
     case "prelicensing-course":
-      return `${stateName} ${loaName} insurance prelicensing course online. $199, state-approved, 93% pass rate, pass guarantee. Self-paced with practice exams.`;
+      return `${stateName} ${loaShortName(loaName)} insurance prelicensing course online. $199, state-approved, 93% pass rate, pass guarantee. Self-paced with practice exams.`;
     case "ce-course":
       return `${stateName} ${loaName} CE course online. Same-day DOI reporting, self-paced, state-approved. Renew your insurance license with JustInsurance. From $39.`;
     case "practice-exam":

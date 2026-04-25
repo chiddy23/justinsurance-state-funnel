@@ -1,4 +1,5 @@
 import React from "react";
+import { loaShortName } from "./loa";
 
 const BASE_URL = "https://justinsuranceco.com";
 const LOGO_URL = "https://justinsuranceco.com/justinsurance-logo.png";
@@ -46,10 +47,7 @@ export function generateCourseSchema(params: {
   const pathSegment = courseType === "prelicensing" ? "prelicensing" : "continuing-education";
   const canonicalUrl = `${BASE_URL}/${stateSlug}/${pathSegment}/${loaSlug}`;
   const hasHours = typeof hours === "number" && hours > 0;
-  // loaName comes in as e.g. "Life Insurance" or "Health Insurance" — strip
-  // a trailing " Insurance" so we don't emit "Life Insurance Insurance" in
-  // composed strings like teaches / educationalCredentialAwarded.
-  const loaShort = loaName.replace(/\s+Insurance$/i, "");
+  const loaShort = loaShortName(loaName);
 
   return {
     "@context": "https://schema.org",

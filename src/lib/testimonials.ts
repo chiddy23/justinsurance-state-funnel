@@ -1143,6 +1143,74 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
 // ---------------------------------------------------------------------------
 export const GOOGLE_REVIEWS: Testimonial[] = [
   {
+    name: "Johnny",
+    initials: "JO",
+    text: "Kathleen was Great!",
+    source: "google",
+  },
+  {
+    name: "Ben H.",
+    initials: "BH",
+    text: "Kathlene was AMAZING and helped me understand how to navigate my practice test and final! She was quick and answered everything with clarity.",
+    source: "google",
+  },
+  {
+    name: "Seth W.",
+    initials: "SW",
+    text: "Just Insurance is a great provider for Pre-Licensing Education. It provides multiple modes of communication (text, video) and plenty opportunities to review before the final exam. I passed the state licensing exam on my first attempt.",
+    source: "google",
+  },
+  {
+    name: "Sylvia S.",
+    initials: "SS",
+    text: "I was so confused on how to move forward during my hiring process that I considered turning back but thanks to Rewena, my support agent, I was able to get on the right track and get started immediately. My deepest thanks for the support.",
+    source: "google",
+  },
+  {
+    name: "Stacy B.",
+    initials: "SB",
+    text: "Rose Ann was amazing. She was very helpful in giving me all the steps I needed to do to get my license. It's been an easy process thanks to her.",
+    source: "google",
+  },
+  {
+    name: "Victor S.",
+    initials: "VS",
+    text: "I would like to let everyone know that I passed on my first try and the reason that's a big deal is that I haven't been in a classroom test setting in over 30 years. Thank you everyone at JustInsurance and especially a big thank you to Rose Ann for reaching out, checking on me, and words of encouragement.",
+    source: "google",
+  },
+  {
+    name: "Collin J.",
+    initials: "CJ",
+    text: "This licensing course was amazing. It provides detailed and easy to understand information that's necessary for passing the state exam. It's very organized and thorough. I definitely think this was the best way I could've gone about getting licensed.",
+    source: "google",
+  },
+  {
+    name: "Megan L.",
+    initials: "ML",
+    text: "Very very grateful at the response Miss Kathleen gave. She was so quick, so personable and all around the greatest help of all! These are the type of employees everyone needs! Thank you so much Miss Kathleen.",
+    source: "google",
+  },
+  {
+    name: "Stephen W.",
+    initials: "SW",
+    text: "Great prep class. I passed on my very first attempt. Big thanks to Aila for answering questions I had!",
+    source: "google",
+  },
+  {
+    name: "Samantha B.",
+    initials: "SB",
+    text: "This course was extremely helpful in learning all the information to take my state exam. On top of having top notch content throughout the course, the customer service is amazing. They have helped me with every step even after completing the course they have helped with getting my license. I'm so grateful!",
+    source: "google",
+  },
+  {
+    name: "Silbert D.",
+    initials: "SD",
+    state: "Georgia",
+    licenseType: "Life",
+    text: "JustInsurance was the best choice I made for getting prepared to take the Georgia Life Insurance exam. My initial contact with JustInsurance was just under three weeks before the exam. Their material was so thorough, and I felt fully prepared on test day.",
+    source: "google",
+  },
+  {
     name: "Fernando M.",
     initials: "FM",
     text: "Great customer service from Kathleen in helping me resolve my issue. She was friendly, persistent and showed concern in helping me solve my problem.",

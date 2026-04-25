@@ -8,6 +8,7 @@ import { generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import StateHero from "@/components/StateHero";
 import FAQAccordion from "@/components/FAQAccordion";
+import RelatedStatePages from "@/components/RelatedStatePages";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -313,6 +314,13 @@ export default async function PracticeExamPage({
       </section>
 
       <FAQAccordion faqs={faqs} heading={`${stateName} Practice Exam FAQs`} />
+
+      <RelatedStatePages
+        stateSlug={slug}
+        stateName={stateName}
+        currentPage="practice-exam"
+        variant="gray"
+      />
     </>
   );
 }

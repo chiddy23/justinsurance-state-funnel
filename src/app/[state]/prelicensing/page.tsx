@@ -10,6 +10,7 @@ import LOASelector from "@/components/LOASelector";
 import PassGuarantee from "@/components/PassGuarantee";
 import FAQAccordion from "@/components/FAQAccordion";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import RelatedStatePages from "@/components/RelatedStatePages";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -180,6 +181,13 @@ export default async function PrelicensingHubPage({
       <FAQAccordion
         faqs={faqs}
         heading={`${stateData.name} Prelicensing FAQs`}
+      />
+
+      <RelatedStatePages
+        stateSlug={stateData.slug}
+        stateName={stateData.name}
+        currentPage="prelicensing-hub"
+        variant="gray"
       />
     </>
   );

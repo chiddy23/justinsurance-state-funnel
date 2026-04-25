@@ -10,6 +10,7 @@ import LOASelector from "@/components/LOASelector";
 import FAQAccordion from "@/components/FAQAccordion";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CEComplianceSection from "@/components/CEComplianceSection";
+import RelatedStatePages from "@/components/RelatedStatePages";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -222,6 +223,13 @@ export default async function CEHubPage({
       <FAQAccordion
         faqs={faqs}
         heading={`${stateData.name} Insurance CE FAQs`}
+      />
+
+      <RelatedStatePages
+        stateSlug={stateData.slug}
+        stateName={stateData.name}
+        currentPage="ce-hub"
+        variant="gray"
       />
     </>
   );

@@ -14,6 +14,7 @@ import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import EditorialByline from "@/components/EditorialByline";
 import SourcesBlock from "@/components/SourcesBlock";
+import RelatedStatePages from "@/components/RelatedStatePages";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -747,6 +748,13 @@ export default async function RequirementsPage({
 
       {/* ── 10. Sources & Regulators ─────────────────────────────────────────── */}
       <SourcesBlock stateData={stateData} />
+
+      <RelatedStatePages
+        stateSlug={stateData.slug}
+        stateName={stateData.name}
+        currentPage="requirements"
+        variant="white"
+      />
 
       {/* ── 11. CTA Banner ──────────────────────────────────────────────────── */}
       <CTABanner

@@ -24,6 +24,7 @@ import CTABanner from "@/components/CTABanner";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StickyMobileCTA from "@/components/StickyMobileCTA";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import RelatedStatePages from "@/components/RelatedStatePages";
 
 type CatalogLinks = typeof catalogLinks;
 
@@ -296,6 +297,14 @@ export default async function PrelicensingCoursePage({
       <FAQAccordion
         faqs={faqs}
         heading={`${stateData.name} ${loaDef.name} Prelicensing FAQs`}
+      />
+
+      <RelatedStatePages
+        stateSlug={stateData.slug}
+        stateName={stateData.name}
+        currentPage="prelicensing-loa"
+        currentLoa={loa as "life" | "health" | "life-and-health"}
+        variant="gray"
       />
 
       <CTABanner

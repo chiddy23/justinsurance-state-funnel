@@ -20,6 +20,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
 import StickyMobileCTA from "@/components/StickyMobileCTA";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import RelatedStatePages from "@/components/RelatedStatePages";
 
 type CatalogLinks = typeof catalogLinks;
 
@@ -294,6 +295,14 @@ export default async function CECoursePage({
       <FAQAccordion
         faqs={faqs}
         heading={`${stateData.name} ${loaDef.name} CE FAQs`}
+      />
+
+      <RelatedStatePages
+        stateSlug={stateData.slug}
+        stateName={stateData.name}
+        currentPage="ce-loa"
+        currentLoa={loaDef.slug as "life" | "health" | "life-and-health"}
+        variant="gray"
       />
 
       <CTABanner

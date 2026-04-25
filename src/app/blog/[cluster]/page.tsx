@@ -6,6 +6,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 import { getAllClusters, getClusterBySlug } from "@/lib/blog";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
+import BlogStateLinks from "@/components/BlogStateLinks";
 import videoData from "@/lib/youtube-videos.json";
 
 // ---------------------------------------------------------------------------
@@ -230,6 +231,8 @@ export default async function ClusterPage({
       </section>
 
       {video && <YouTubeEmbed videoId={video.videoId} title={video.title} />}
+
+      <BlogStateLinks clusterSlug={clusterSlug} variant="full" />
 
       {/* Back to Blog */}
       <section className="bg-gray-bg py-10 px-4">

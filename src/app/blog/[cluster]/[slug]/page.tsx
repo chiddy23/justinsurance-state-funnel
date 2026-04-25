@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import BlogStateLinks from "@/components/BlogStateLinks";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 import { getAllPosts, getPostBySlug, getRelatedPosts } from "@/lib/blog";
 
@@ -253,6 +254,9 @@ export default async function BlogPostPage({
           </div>
         </div>
       </section>
+
+      {/* State Money-Page Links (renders null for non-state clusters) */}
+      <BlogStateLinks clusterSlug={cluster} variant="compact" />
 
       {/* Related Posts */}
       {related.length > 0 && (

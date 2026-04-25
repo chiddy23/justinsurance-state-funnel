@@ -46,6 +46,10 @@ export function generateCourseSchema(params: {
   const pathSegment = courseType === "prelicensing" ? "prelicensing" : "continuing-education";
   const canonicalUrl = `${BASE_URL}/${stateSlug}/${pathSegment}/${loaSlug}`;
   const hasHours = typeof hours === "number" && hours > 0;
+  // loaName comes in as e.g. "Life Insurance" or "Health Insurance" — strip
+  // a trailing " Insurance" so we don't emit "Life Insurance Insurance" in
+  // composed strings like teaches / educationalCredentialAwarded.
+  const loaShort = loaName.replace(/\s+Insurance$/i, "");
 
   return {
     "@context": "https://schema.org",
@@ -73,9 +77,9 @@ export function generateCourseSchema(params: {
     },
     educationalCredentialAwarded:
       courseType === "prelicensing"
-        ? `${stateName} ${loaName} Insurance Prelicensing Certificate`
-        : `${stateName} ${loaName} Insurance CE Certificate`,
-    teaches: `${stateName} ${loaName} insurance licensing requirements`,
+        ? `${stateName} ${loaShort} Insurance Prelicensing Certificate`
+        : `${stateName} ${loaShort} Insurance CE Certificate`,
+    teaches: `${stateName} ${loaShort} insurance licensing requirements`,
     ...(hasHours ? { timeRequired: `PT${hours}H` } : {}),
     inLanguage: "en-US",
     url: canonicalUrl,

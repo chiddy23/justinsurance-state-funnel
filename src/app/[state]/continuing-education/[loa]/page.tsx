@@ -107,7 +107,9 @@ export default async function CECoursePage({
 
   const courseSchema = generateCourseSchema({
     stateName: stateData.name,
+    stateSlug: stateData.slug,
     loaName: loaDef.name,
+    loaSlug: loaDef.slug,
     courseType: "continuing-education",
     hours: ce.totalHours,
     price: ce.packagePrice,

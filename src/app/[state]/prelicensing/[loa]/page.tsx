@@ -131,9 +131,11 @@ export default async function PrelicensingCoursePage({
 
   const courseSchema = generateCourseSchema({
     stateName: stateData.name,
+    stateSlug: stateData.slug,
     loaName: loaDef.name,
+    loaSlug: loaDef.slug,
     courseType: "prelicensing",
-    hours: pricingHoursNum ?? 0,
+    hours: pricingHoursNum,
     price: pricing.price,
     description: hoursIsNumber
       ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, state-approved, online, self-paced. Pass guarantee included. ${pricing.price}.`

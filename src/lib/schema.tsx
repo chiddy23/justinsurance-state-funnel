@@ -29,17 +29,23 @@ export function generateAggregateRatingSchema(): object | null {
 
 export function generateCourseSchema(params: {
   stateName: string;
+  stateSlug: string;
   loaName: string;
+  loaSlug: string;
   courseType: "prelicensing" | "continuing-education";
-  hours: number;
+  /** Optional — emit time fields only when known. Avoids "PT0H" lies. */
+  hours?: number;
   price: string;
   description: string;
 }): object {
-  const { stateName, loaName, courseType, hours, price, description } = params;
+  const { stateName, stateSlug, loaName, loaSlug, courseType, hours, price, description } = params;
   const courseLabel =
     courseType === "prelicensing"
       ? "Prelicensing Course"
       : "Continuing Education Course";
+  const pathSegment = courseType === "prelicensing" ? "prelicensing" : "continuing-education";
+  const canonicalUrl = `${BASE_URL}/${stateSlug}/${pathSegment}/${loaSlug}`;
+  const hasHours = typeof hours === "number" && hours > 0;
 
   return {
     "@context": "https://schema.org",
@@ -48,6 +54,7 @@ export function generateCourseSchema(params: {
     description,
     provider: {
       "@type": "Organization",
+      "@id": `${BASE_URL}#organization`,
       name: "JustInsurance LLC",
       url: BASE_URL,
       logo: LOGO_URL,
@@ -55,23 +62,23 @@ export function generateCourseSchema(params: {
     hasCourseInstance: {
       "@type": "CourseInstance",
       courseMode: "online",
-      courseWorkload: `PT${hours}H`,
+      ...(hasHours ? { courseWorkload: `PT${hours}H` } : {}),
     },
     offers: {
       "@type": "Offer",
       price: price.replace(/[^0-9.]/g, ""),
       priceCurrency: "USD",
       availability: "https://schema.org/InStock",
+      url: canonicalUrl,
     },
-    courseMode: "online",
     educationalCredentialAwarded:
       courseType === "prelicensing"
         ? `${stateName} ${loaName} Insurance Prelicensing Certificate`
         : `${stateName} ${loaName} Insurance CE Certificate`,
     teaches: `${stateName} ${loaName} insurance licensing requirements`,
-    timeRequired: `PT${hours}H`,
+    ...(hasHours ? { timeRequired: `PT${hours}H` } : {}),
     inLanguage: "en-US",
-    url: BASE_URL,
+    url: canonicalUrl,
   };
 }
 
@@ -156,8 +163,17 @@ export function generateOrganizationSchema(): object {
       width: 300,
       height: 97,
     },
-    telephone: "754-223-9744",
+    image: LOGO_URL,
+    telephone: "+1-754-223-9744",
     email: "support@justinsuranceco.com",
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: "+1-754-223-9744",
+      contactType: "customer service",
+      email: "support@justinsuranceco.com",
+      areaServed: "US",
+      availableLanguage: ["English"],
+    },
     address: {
       "@type": "PostalAddress",
       streetAddress: "1806 N Flamingo Rd Ste 230",
@@ -173,7 +189,6 @@ export function generateOrganizationSchema(): object {
     priceRange: "$$",
     areaServed: "US",
     sameAs: [
-      BASE_URL,
       "https://www.youtube.com/@InsuranceExam",
       "https://www.linkedin.com/in/justin-vom-eigen-04198714a/",
       "https://finance.yahoo.com/news/justinsurance-unveils-93-pass-rate-160000549.html",
@@ -202,6 +217,12 @@ export function generateProductSchema(params: {
       ? "Prelicensing Course"
       : "Continuing Education Course";
 
+  const canonicalUrl = `${BASE_URL}/${stateSlug}/${courseType === "prelicensing" ? "prelicensing" : "continuing-education"}/${loaSlug}`;
+
+  // NOTE: aggregateRating + review intentionally OMITTED here.
+  // Self-hosted Review JSON-LD pointing at our own brand violates Google's
+  // self-serving-review policy. Re-enable only when sourcing reviews from
+  // a third-party verified API (Trustpilot, Google reviews via API, etc).
   return {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -216,45 +237,15 @@ export function generateProductSchema(params: {
       price: price.replace(/[^0-9.]/g, ""),
       priceCurrency: "USD",
       availability: "https://schema.org/InStock",
-      url: `${BASE_URL}/${stateSlug}/${courseType === "prelicensing" ? "prelicensing" : "continuing-education"}/${loaSlug}`,
+      url: canonicalUrl,
       seller: {
         "@type": "Organization",
+        "@id": `${BASE_URL}#organization`,
         name: "JustInsurance LLC",
       },
     },
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: "5.0",
-      bestRating: "5",
-      worstRating: "1",
-      reviewCount: "147",
-      ratingCount: "147",
-    },
-    review: [
-      {
-        "@type": "Review",
-        author: { "@type": "Person", name: "Jessica M." },
-        datePublished: "2025-11-15",
-        reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
-        reviewBody: "The course was thorough and the practice exams really prepared me for the state exam. Passed on my first try!",
-      },
-      {
-        "@type": "Review",
-        author: { "@type": "Person", name: "Marcus T." },
-        datePublished: "2025-12-03",
-        reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
-        reviewBody: "Best insurance prelicensing course I've found. The AI practice exams are a game changer. Way better than Kaplan.",
-      },
-      {
-        "@type": "Review",
-        author: { "@type": "Person", name: "Sarah K." },
-        datePublished: "2026-01-22",
-        reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
-        reviewBody: "Affordable, self-paced, and the pass guarantee gave me confidence. Got my license in 3 weeks.",
-      },
-    ],
-    image: `${BASE_URL}/og-image.png`,
-    url: `${BASE_URL}/${stateSlug}/${courseType === "prelicensing" ? "prelicensing" : "continuing-education"}/${loaSlug}`,
+    image: LOGO_URL,
+    url: canonicalUrl,
   };
 }
 

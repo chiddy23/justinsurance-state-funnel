@@ -23,7 +23,9 @@ const videoSchema = {
   name: "Pass Your Life & Health Exam Using ONLY AI",
   description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
   thumbnailUrl: `https://i.ytimg.com/vi/eoAHA07LXeI/hqdefault.jpg`,
-  uploadDate: "2024-01-01",
+  // from src/lib/youtube-videos.json (real values, fetched 2026-04-27)
+  uploadDate: "2026-01-28",
+  duration: "PT18M24S",
   contentUrl: `https://www.youtube.com/watch?v=eoAHA07LXeI`,
   embedUrl: `https://www.youtube-nocookie.com/embed/eoAHA07LXeI`,
   publisher: {

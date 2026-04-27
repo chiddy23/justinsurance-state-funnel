@@ -66,7 +66,9 @@ const videoSchema = {
   name: "Pass Your Life & Health Insurance Exam — Full Live Class",
   description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
   thumbnailUrl: `https://i.ytimg.com/vi/sjk5B8bdO68/hqdefault.jpg`,
-  uploadDate: "2024-01-01",
+  // from src/lib/youtube-videos.json (real values, fetched 2026-04-27)
+  uploadDate: "2026-01-02",
+  duration: "PT2H51M10S",
   contentUrl: `https://www.youtube.com/watch?v=sjk5B8bdO68`,
   embedUrl: `https://www.youtube-nocookie.com/embed/sjk5B8bdO68`,
   publisher: {

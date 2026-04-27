@@ -116,7 +116,7 @@ export default async function ClusterPage({
   if (!cluster) notFound();
 
   const videoKey = `/blog/${clusterSlug}`;
-  const video = (videoData as Record<string, { videoId: string; title: string }>)[videoKey] ?? null;
+  const video = (videoData as Record<string, { videoId: string; title: string; uploadDate: string; duration: string }>)[videoKey] ?? null;
 
   // Clean cluster name for display (strip editorial prefixes)
   const cleanName = cluster.name
@@ -163,7 +163,9 @@ export default async function ClusterPage({
           name: video.title,
           description: `Insurance exam prep video from the Insurance Exam Prep YouTube channel.`,
           thumbnailUrl: `https://i.ytimg.com/vi/${video.videoId}/hqdefault.jpg`,
-          uploadDate: "2024-01-01",
+          // from src/lib/youtube-videos.json (real values, fetched 2026-04-27)
+          uploadDate: video.uploadDate,
+          duration: video.duration,
           contentUrl: `https://www.youtube.com/watch?v=${video.videoId}`,
           embedUrl: `https://www.youtube-nocookie.com/embed/${video.videoId}`,
           publisher: {

@@ -66,7 +66,9 @@ const videoSchema = {
   name: "Life + Health Insurance Exam Practice Questions (30 MUST-KNOW) Part 2",
   description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
   thumbnailUrl: `https://i.ytimg.com/vi/zFd-qEsGMZ8/hqdefault.jpg`,
-  uploadDate: "2024-01-01",
+  // from src/lib/youtube-videos.json (real values, fetched 2026-04-27)
+  uploadDate: "2026-02-15",
+  duration: "PT31M53S",
   contentUrl: `https://www.youtube.com/watch?v=zFd-qEsGMZ8`,
   embedUrl: `https://www.youtube-nocookie.com/embed/zFd-qEsGMZ8`,
   publisher: {

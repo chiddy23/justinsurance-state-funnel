@@ -66,7 +66,9 @@ const videoSchema = {
   name: "30 MORE Life Insurance Exam Terms You MUST Know (in UNDER 30 Minutes)",
   description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
   thumbnailUrl: `https://i.ytimg.com/vi/dl3L1bb6hMA/hqdefault.jpg`,
-  uploadDate: "2024-01-01",
+  // from src/lib/youtube-videos.json (real values, fetched 2026-04-27)
+  uploadDate: "2026-03-30",
+  duration: "PT18M47S",
   contentUrl: `https://www.youtube.com/watch?v=dl3L1bb6hMA`,
   embedUrl: `https://www.youtube-nocookie.com/embed/dl3L1bb6hMA`,
   publisher: {

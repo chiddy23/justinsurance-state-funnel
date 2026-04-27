@@ -60,7 +60,9 @@ const videoSchema = {
   name: "The Key To Passing Your Insurance Exam On The First Try",
   description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
   thumbnailUrl: `https://i.ytimg.com/vi/guiU55wnIqc/hqdefault.jpg`,
-  uploadDate: "2024-01-01",
+  // from src/lib/youtube-videos.json (real values, fetched 2026-04-27)
+  uploadDate: "2026-01-08",
+  duration: "PT10M10S",
   contentUrl: `https://www.youtube.com/watch?v=guiU55wnIqc`,
   embedUrl: `https://www.youtube-nocookie.com/embed/guiU55wnIqc`,
   publisher: {

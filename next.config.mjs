@@ -321,8 +321,11 @@ const nextConfig = {
 
     // Global trailing-slash → no-slash redirect. Must be LAST so that specific
     // rules above (e.g. /refund-policy/ → /terms) still fire first.
+    // Destination is ABSOLUTE apex so on a www request this collapses
+    // www+slash to a single hop (otherwise the relative `/path` resolves
+    // back onto www and forces a second hop through the www→apex rule).
     const trailingSlashRedirect = [
-      { source: "/:path+/", destination: "/:path+", permanent: true },
+      { source: "/:path+/", destination: "https://justinsuranceco.com/:path+", permanent: true },
     ];
 
     return [...wwwRedirect, ...kaplanMirrorRedirects, ...stateRedirects, ...legacyPageRedirects, ...trailingSlashRedirect];

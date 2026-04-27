@@ -4,12 +4,15 @@ import type { NextRequest } from "next/server";
 // Canonical apex host. Anything else (www subdomain, trailing slash on the
 // path) must be redirected here in a single 308 — never a chain.
 //
-// Why middleware instead of vercel.json: Next.js's framework-level
-// trailing-slash redirect (driven by `trailingSlash: false`) fires at the
-// Vercel edge BEFORE vercel.json is consulted, with a relative `Location`.
-// On a www request that means hop 1 (relative slash strip, stays on www)
-// then hop 2 (www→apex). Middleware runs ahead of the framework redirect,
-// so we can collapse host fix + slash fix into one absolute redirect here.
+// Caveat: Vercel's platform-level trailing-slash redirect (driven by the
+// project's "Trailing Slash" dashboard setting) fires at the edge BEFORE
+// middleware. While that setting is enabled, this middleware will only
+// fire on canonical requests (no-op) and never get a chance to intercept
+// trailing-slash or www requests. Set the dashboard "Trailing Slash"
+// setting to "No Preference" to hand control back to this middleware so
+// host+slash transforms collapse into a single absolute 308.
+// `skipTrailingSlashRedirect: true` in next.config.mjs disables the
+// framework-level redirect but does NOT override the platform setting.
 const APEX_HOST = "justinsuranceco.com";
 const WWW_HOST = "www.justinsuranceco.com";
 
@@ -21,16 +24,12 @@ export function middleware(req: NextRequest) {
   const needsSlashFix = pathname !== "/" && pathname.endsWith("/");
 
   if (!needsHostFix && !needsSlashFix) {
-    const res = NextResponse.next();
-    res.headers.set("x-mw", "noop");
-    return res;
+    return NextResponse.next();
   }
 
   const cleanPath = needsSlashFix ? pathname.replace(/\/+$/, "") : pathname;
   const target = `https://${APEX_HOST}${cleanPath}${search}`;
-  const res = NextResponse.redirect(target, 308);
-  res.headers.set("x-mw", needsHostFix && needsSlashFix ? "host+slash" : needsHostFix ? "host" : "slash");
-  return res;
+  return NextResponse.redirect(target, 308);
 }
 
 export const config = {

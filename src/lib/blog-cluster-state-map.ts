@@ -31,6 +31,14 @@ export const CLUSTER_TO_STATE_MAP: Record<string, string> = {
   "state-license-tennessee": "tennessee",
   "state-license-virginia": "virginia",
   "state-license-washington": "washington",
+
+  // April 27 batch
+  "state-license-alabama": "alabama",
+  "state-license-connecticut": "connecticut",
+  "state-license-massachusetts": "massachusetts",
+  "state-license-nevada": "nevada",
+  "state-license-oregon": "oregon",
+  "state-license-south-carolina": "south-carolina",
 };
 
 // Display-name lookup so the link UI doesn't need to import states.ts
@@ -55,6 +63,12 @@ export const STATE_DISPLAY_NAMES: Record<string, string> = {
   "texas": "Texas",
   "virginia": "Virginia",
   "washington": "Washington",
+  "alabama": "Alabama",
+  "connecticut": "Connecticut",
+  "massachusetts": "Massachusetts",
+  "nevada": "Nevada",
+  "oregon": "Oregon",
+  "south-carolina": "South Carolina",
 };
 
 export function getStateForCluster(clusterSlug: string): { slug: string; name: string } | null {

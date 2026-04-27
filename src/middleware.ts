@@ -21,12 +21,16 @@ export function middleware(req: NextRequest) {
   const needsSlashFix = pathname !== "/" && pathname.endsWith("/");
 
   if (!needsHostFix && !needsSlashFix) {
-    return NextResponse.next();
+    const res = NextResponse.next();
+    res.headers.set("x-mw", "noop");
+    return res;
   }
 
   const cleanPath = needsSlashFix ? pathname.replace(/\/+$/, "") : pathname;
   const target = `https://${APEX_HOST}${cleanPath}${search}`;
-  return NextResponse.redirect(target, 308);
+  const res = NextResponse.redirect(target, 308);
+  res.headers.set("x-mw", needsHostFix && needsSlashFix ? "host+slash" : needsHostFix ? "host" : "slash");
+  return res;
 }
 
 export const config = {

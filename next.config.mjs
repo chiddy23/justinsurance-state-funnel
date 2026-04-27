@@ -1,5 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Disable Next.js's automatic trailing-slash redirect so middleware can
+  // handle it with an ABSOLUTE Location header. Without this flag, the
+  // framework redirect fires at the Vercel edge before middleware runs and
+  // returns a relative `Location: /path`, which on www requests resolves
+  // back onto the www subdomain — forcing a 2-hop chain (slash strip on
+  // www, then www→apex). With this flag, middleware owns the redirect.
+  skipTrailingSlashRedirect: true,
   async redirects() {
     // Legacy WordPress paths → new Next.js pages (301 permanent)
     // Preserves link equity from any backlinks or Google-indexed URLs.

@@ -1,5 +1,11 @@
 {
   "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "www.justinsuranceco.com" }],
+      "destination": "https://justinsuranceco.com/:path*",
+      "statusCode": 301
+    },
     { "source": "/wp-admin/:path*", "destination": "/", "statusCode": 301 },
     { "source": "/wp-content/:path*", "destination": "/", "statusCode": 301 },
     { "source": "/wp-includes/:path*", "destination": "/", "statusCode": 301 },
@@ -10,7 +16,7 @@
     { "source": "/refund-policy", "destination": "/", "statusCode": 301 },
     { "source": "/services", "destination": "/", "statusCode": 301 },
     { "source": "/from-basics-to-pro-comprehensive-online-courses-for-your-insurance-license", "destination": "/", "statusCode": 301 },
-    { "source": "/:state/", "destination": "/:state", "statusCode": 301 }
+    { "source": "/:path+/", "destination": "/:path+", "statusCode": 301 }
   ],
   "headers": [
     {

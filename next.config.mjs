@@ -312,7 +312,13 @@ const nextConfig = {
       },
     ];
 
-    return [...wwwRedirect, ...kaplanMirrorRedirects, ...stateRedirects, ...legacyPageRedirects];
+    // Global trailing-slash → no-slash redirect. Must be LAST so that specific
+    // rules above (e.g. /refund-policy/ → /terms) still fire first.
+    const trailingSlashRedirect = [
+      { source: "/:path+/", destination: "/:path+", permanent: true },
+    ];
+
+    return [...wwwRedirect, ...kaplanMirrorRedirects, ...stateRedirects, ...legacyPageRedirects, ...trailingSlashRedirect];
   },
 };
 

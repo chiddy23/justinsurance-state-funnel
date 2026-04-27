@@ -17,6 +17,7 @@ import StateProviderBadge from "@/components/StateProviderBadge";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
+import StateSalaryCard from "@/components/StateSalaryCard";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -154,6 +155,9 @@ export default async function StateHubPage({
       <TwoPathSelector stateSlug={stateData.slug} stateName={stateData.name} />
 
       <StateRequirementsBlock stateData={stateData} />
+
+      {/* BLS Bureau of Labor Statistics salary + employment snapshot */}
+      <StateSalaryCard stateSlug={stateData.slug} stateName={stateData.name} />
 
       {/* Fix 5 — Last Verified + Provider Approval Number */}
       <section className="bg-white py-4 px-4 border-t border-gray-100">

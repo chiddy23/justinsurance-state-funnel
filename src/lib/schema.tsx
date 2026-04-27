@@ -165,7 +165,12 @@ export function generateOrganizationSchema(): object {
       width: 300,
       height: 97,
     },
-    image: LOGO_URL,
+    image: {
+      "@type": "ImageObject",
+      url: "https://justinsuranceco.com/justinsurance-logo-square-512.png",
+      width: 512,
+      height: 512,
+    },
     telephone: "+1-754-223-9744",
     email: "support@justinsuranceco.com",
     contactPoint: {

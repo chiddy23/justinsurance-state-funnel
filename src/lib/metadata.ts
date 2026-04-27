@@ -12,7 +12,8 @@ export type PageType =
   | "prelicensing-course"
   | "ce-course"
   | "practice-exam"
-  | "practice-exam-hub";
+  | "practice-exam-hub"
+  | "state-cost";
 
 // ---------------------------------------------------------------------------
 // Internal helpers
@@ -100,6 +101,12 @@ function buildTitle(
       `Insurance Practice Exams | Nationwide | ${brand}`,
       `Insurance Practice Exams | ${brand}`,
     ],
+    "state-cost": [
+      `${stateName} Insurance License Cost — Full Breakdown | ${brand}`,
+      `${stateName} Insurance License Cost Breakdown | ${brand}`,
+      `${stateName} Insurance License Cost | ${brand}`,
+      `${shortState} Insurance License Cost | ${brand}`,
+    ],
   };
 
   const candidates = candidatesByType[pageType];
@@ -155,6 +162,14 @@ function buildDescription(
       return `${stateName} insurance practice exam — Life, Health, and Life & Health versions. Mirror the real state exam. Boost your score, pass with confidence. $59.`;
     case "practice-exam-hub":
       return `State-approved insurance practice exams nationwide. Life, Health, and Life & Health — mirror the real state exam. Pick your state to start. $59.`;
+    case "state-cost": {
+      const range = params.totalCostRange;
+      if (range && range.length <= 40) {
+        const desc = `${stateName} insurance license cost: ${range}. Full breakdown of prelicensing, exam, application, and fingerprint fees. JustInsurance prelicensing $199.`;
+        if (desc.length <= 160) return desc;
+      }
+      return `${stateName} insurance license cost breakdown: prelicensing, state exam, application, and fingerprint fees. JustInsurance prelicensing from $199.`;
+    }
   }
 }
 
@@ -181,6 +196,8 @@ function buildCanonicalPath(
       return `/${stateSlug}/practice-exam/`;
     case "practice-exam-hub":
       return "/practice-exam/";
+    case "state-cost":
+      return `/${stateSlug}/cost/`;
   }
 }
 
@@ -200,6 +217,7 @@ export interface PageMetadataParams {
   examProvider?: string;
   ceHours?: number;
   ceRenewalPeriod?: string;
+  totalCostRange?: string;
 }
 
 export function generatePageMetadata(params: PageMetadataParams): Metadata {

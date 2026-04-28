@@ -3,8 +3,9 @@ import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
-import { generateBreadcrumbSchema, generateFAQSchema, generateStateHubCourseSchema, SchemaMarkup } from "@/lib/schema";
+import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, generateStateHubCourseSchema, SchemaMarkup } from "@/lib/schema";
 import { getStateHubFAQs, buildFaqData } from "@/lib/faq-data";
+import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import TrustBar from "@/components/TrustBar";
 import TwoPathSelector from "@/components/TwoPathSelector";
@@ -118,6 +119,22 @@ export default async function StateHubPage({
       ? stateData.stateSpecificIntro
       : "State-approved prelicensing and CE courses. 100% online, self-paced, pass guarantee included.";
 
+  const articleHeadline =
+    stateData.slug === "florida"
+      ? "Florida 2-15 License: Prelicensing & CE Courses Online"
+      : stateData.slug === "texas"
+      ? "Get Your Texas Insurance License — No Prelicensing Required"
+      : stateData.slug === "california"
+      ? "California Insurance License: 12-Hour Ethics + State Exam Prep"
+      : `Get Your ${stateData.name} Insurance License Online`;
+
+  const articleSchema = generateArticleSchemaWithReviewer({
+    headline: articleHeadline,
+    description: heroSubtitle,
+    datePublished: "2026-04-15",
+    url: `https://justinsuranceco.com/${stateData.slug}`,
+  });
+
   // Fix 7 — determine if special training requirements exist
   const str = stateData.specialTrainingRequirements;
   const hasSpecialTraining =
@@ -134,6 +151,7 @@ export default async function StateHubPage({
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={courseSchema} />
+      <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -155,6 +173,10 @@ export default async function StateHubPage({
           { text: "Renew with CE", href: `/${stateData.slug}/continuing-education/`, variant: "secondary" },
         ]}
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       <TrustBar />
 

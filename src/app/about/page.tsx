@@ -395,6 +395,14 @@ export default function AboutPage() {
             combined those lessons to build a company that sells confidence and actually gets
             people across the finish line.
           </Quote>
+          <p className="mt-6">
+            <Link
+              href="/about/justin-vom-eigen"
+              className="inline-flex items-center gap-1 text-navy font-semibold underline hover:text-gold"
+            >
+              Read Justin&apos;s full bio &rarr;
+            </Link>
+          </p>
         </div>
       </section>
 

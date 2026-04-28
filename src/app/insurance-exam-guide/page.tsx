@@ -3,7 +3,8 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
-import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
+import ArticleByline from "@/components/ArticleByline";
+import { SchemaMarkup, generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
 
@@ -53,6 +54,14 @@ const faqs = [
 ];
 
 const faqSchema = generateFAQSchema(faqs);
+
+const articleSchema = generateArticleSchemaWithReviewer({
+  headline: "Insurance Licensing Exam Guide",
+  description:
+    "Everything you need to pass your insurance license exam. State-by-state exam details, Pearson VUE and PSI prep tips, practice questions, and pass rate data.",
+  datePublished: "2026-04-15",
+  url: "https://justinsuranceco.com/insurance-exam-guide",
+});
 
 const videoSchema = {
   "@context": "https://schema.org",
@@ -148,6 +157,7 @@ export default function InsuranceExamGuidePage() {
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={videoSchema} />
+      <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -170,6 +180,10 @@ export default function InsuranceExamGuidePage() {
           </p>
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* What to Expect */}
       <section className="bg-white py-16 px-4">

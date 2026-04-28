@@ -278,6 +278,103 @@ export function generateFAQSchema(
 }
 
 // ---------------------------------------------------------------------------
+// Person schema (reviewer / author identity for E-E-A-T)
+// ---------------------------------------------------------------------------
+
+/**
+ * Generate a Schema.org Person node for the article author / reviewer.
+ *
+ * Defaults match <ArticleByline /> so a bare `generatePersonSchema()` call
+ * produces Justin's identity. `sameAs` may include external profile URLs
+ * (YouTube channel, LinkedIn, etc.) to strengthen entity linking.
+ */
+export function generatePersonSchema(opts?: {
+  name?: string;
+  jobTitle?: string;
+  url?: string;
+  sameAs?: string[];
+}): object {
+  const {
+    name = "Justin vom Eigen",
+    jobTitle = "Licensed Insurance Agent",
+    url = `${BASE_URL}/about/justin-vom-eigen`,
+    sameAs,
+  } = opts ?? {};
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name,
+    jobTitle,
+    url,
+    ...(sameAs && sameAs.length > 0 ? { sameAs } : {}),
+  };
+}
+
+// ---------------------------------------------------------------------------
+// Article schema with explicit author + reviewedBy (Person nodes)
+// ---------------------------------------------------------------------------
+
+/**
+ * Build an Article schema in which both `author` and `reviewedBy` resolve to
+ * the same Person (Justin by default). Publisher is emitted as a reference to
+ * the existing Organization @id so the consumer page need not repeat the full
+ * org block. `dateModified` is only emitted when the caller passes it — we do
+ * NOT silently bump it to "today" because that produces SEO churn.
+ */
+export function generateArticleSchemaWithReviewer(params: {
+  headline: string;
+  description: string;
+  /** ISO 8601 string, e.g. "2026-04-15" or "2026-04-15T12:00:00Z" */
+  datePublished: string;
+  /** Optional ISO 8601 string. Only emitted when explicitly provided. */
+  dateModified?: string;
+  /** Canonical URL of the article. */
+  url?: string;
+  /** Optional override for the author/reviewer Person. */
+  person?: {
+    name?: string;
+    jobTitle?: string;
+    url?: string;
+  };
+}): object {
+  const {
+    headline,
+    description,
+    datePublished,
+    dateModified,
+    url,
+    person,
+  } = params;
+
+  const personName = person?.name ?? "Justin vom Eigen";
+  const personJobTitle = person?.jobTitle ?? "Licensed Insurance Agent";
+  const personUrl = person?.url ?? `${BASE_URL}/about/justin-vom-eigen`;
+
+  const personNode = {
+    "@type": "Person",
+    name: personName,
+    jobTitle: personJobTitle,
+    url: personUrl,
+  };
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline,
+    description,
+    ...(url ? { url, mainEntityOfPage: url } : {}),
+    datePublished,
+    ...(dateModified ? { dateModified } : {}),
+    author: personNode,
+    reviewedBy: personNode,
+    publisher: {
+      "@id": `${BASE_URL}#organization`,
+    },
+  };
+}
+
+// ---------------------------------------------------------------------------
 // SchemaMarkup React component
 // Renders a JSON-LD <script> tag suitable for Next.js App Router server
 // components. dangerouslySetInnerHTML is safe here because the data is

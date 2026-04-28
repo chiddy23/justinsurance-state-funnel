@@ -5,6 +5,7 @@ import { LOA_DEFINITIONS, type LOASlug } from "@/lib/loa";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateLOAParams } from "@/lib/generateStaticParams";
 import {
+  generateArticleSchemaWithReviewer,
   generateCourseSchema,
   generateBreadcrumbSchema,
   generateFAQSchema,
@@ -13,6 +14,7 @@ import {
 } from "@/lib/schema";
 import { getPrelicensingCourseFAQs, buildFaqData } from "@/lib/faq-data";
 import catalogLinks from "@/lib/catalog-links.json";
+import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import CourseOverviewBox from "@/components/CourseOverviewBox";
 import CourseFeatures from "@/components/CourseFeatures";
@@ -160,6 +162,17 @@ export default async function PrelicensingCoursePage({
       : `${stateData.name} ${loaDef.name} prelicensing course — state-approved, online, self-paced. 93% pass rate, pass guarantee included. ${pricing.price}.`,
   });
 
+  const articleHeadline = `${stateData.name} ${loaDef.name} Prelicensing Course`;
+  const articleDescription = hoursIsNumber
+    ? `${pricing.hours}-hour state-approved course. Study online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`
+    : `Complete our state-approved ${loaDef.name} prelicensing course online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`;
+  const articleSchema = generateArticleSchemaWithReviewer({
+    headline: articleHeadline,
+    description: articleDescription,
+    datePublished: "2026-04-15",
+    url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/${loaDef.slug}`,
+  });
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}/` },
@@ -173,6 +186,7 @@ export default async function PrelicensingCoursePage({
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={productSchema} />
+      <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -188,6 +202,10 @@ export default async function PrelicensingCoursePage({
           { text: `Enroll Now — ${pricing.price}`, href: enrollLink },
         ]}
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {hoursIsNumber ? (
         <CourseOverviewBox

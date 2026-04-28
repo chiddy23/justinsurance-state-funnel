@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import ArticleByline from "@/components/ArticleByline";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
-import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
+import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: { absolute: "How Long Does It Take to Get an Insurance License?" },
@@ -115,10 +116,19 @@ const speedTips = [
   { title: "Take the combined Life & Health exam if eligible", body: "One exam appointment, one fingerprint session, one application fee. Candidates who plan to sell both lines save 2 to 4 weeks by bundling instead of sitting two separate exams." },
 ];
 
+const articleSchema = generateArticleSchemaWithReviewer({
+  headline: "How Long Does It Take to Get an Insurance License?",
+  description:
+    "Realistic timelines for getting your insurance license: prelicensing study time, exam scheduling, application processing, and fingerprinting wait. State-by-state.",
+  datePublished: "2026-04-15",
+  url: "https://justinsuranceco.com/how-long-to-get-insurance-license",
+});
+
 export default function HowLongToGetInsuranceLicensePage() {
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
+      <SchemaMarkup schema={articleSchema} />
       <SchemaMarkup schema={faqSchema} />
 
       <BreadcrumbNav
@@ -150,6 +160,10 @@ export default function HowLongToGetInsuranceLicensePage() {
           </div>
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Short Answer Callout */}
       <section className="bg-white py-12 px-4 border-b border-gray-100">

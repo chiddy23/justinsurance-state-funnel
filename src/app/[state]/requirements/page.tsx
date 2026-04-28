@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import {
+  generateArticleSchemaWithReviewer,
   generateBreadcrumbSchema,
   generateFAQSchema,
   SchemaMarkup,
@@ -12,6 +13,7 @@ import StateHero from "@/components/StateHero";
 import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import ArticleByline from "@/components/ArticleByline";
 import EditorialByline from "@/components/EditorialByline";
 import SourcesBlock from "@/components/SourcesBlock";
 import RelatedStatePages from "@/components/RelatedStatePages";
@@ -139,6 +141,15 @@ export default async function RequirementsPage({
   ]);
   const faqSchema = generateFAQSchema(faqs);
 
+  const articleHeadline = `${stateData.name} Insurance License Requirements (2026)`;
+  const articleDescription = `Everything you need to know to get and keep your ${stateData.name} insurance license — hours, exam, fingerprinting, renewal, and state-specific rules.`;
+  const articleSchema = generateArticleSchemaWithReviewer({
+    headline: articleHeadline,
+    description: articleDescription,
+    datePublished: "2026-04-15",
+    url: `https://justinsuranceco.com/${stateData.slug}/requirements`,
+  });
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}/` },
@@ -149,6 +160,7 @@ export default async function RequirementsPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -169,6 +181,10 @@ export default async function RequirementsPage({
           },
         ]}
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Verification badges under hero */}
       <div className="bg-navy border-t border-blue-800 py-3 px-4">

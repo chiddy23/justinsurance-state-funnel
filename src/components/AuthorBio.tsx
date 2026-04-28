@@ -22,8 +22,10 @@ export default function AuthorBio() {
         <h3 className="text-lg font-bold text-navy mb-0.5">Justin vom Eigen</h3>
         <p className="text-gray-500 text-sm mb-3">Founder &amp; CEO, JustInsurance LLC</p>
         <p className="text-gray-700 text-sm leading-relaxed mb-4">
-          Justin vom Eigen is a former New York Life agent who founded JustInsurance after
-          building the{" "}
+          Justin vom Eigen is a licensed life and health insurance producer (since
+          2017) and IDECC Certified Distance Education Instructor. He founded
+          JustInsurance in January 2023 after eight years in life and health
+          sales and agency leadership, and runs the{" "}
           <a
             href="https://www.youtube.com/@InsuranceExam"
             target="_blank"
@@ -32,13 +34,12 @@ export default function AuthorBio() {
           >
             @InsuranceExam
           </a>{" "}
-          YouTube channel — plain-English insurance exam prep that grew to 20,000+ subscribers.
-          He launched JustInsurance in 2022 to give every aspiring agent the modern, honest
-          education he wished he&apos;d had. Today, JustInsurance has helped 20,000+ students get
-          licensed nationwide with a 93% first-attempt pass rate.
+          YouTube channel (20,000+ subscribers). Today, JustInsurance has helped
+          20,000+ students get licensed nationwide with a 93% first-attempt pass
+          rate.
         </p>
         <Link
-          href="/about"
+          href="/about/justin-vom-eigen"
           className="inline-flex items-center gap-1 text-sm font-semibold text-navy hover:text-gold transition-colors"
         >
           More about Justin &rarr;

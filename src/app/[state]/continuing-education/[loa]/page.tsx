@@ -5,6 +5,7 @@ import { LOA_DEFINITIONS, type LOASlug } from "@/lib/loa";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateLOAParams } from "@/lib/generateStaticParams";
 import {
+  generateArticleSchemaWithReviewer,
   generateCourseSchema,
   generateBreadcrumbSchema,
   generateFAQSchema,
@@ -12,6 +13,7 @@ import {
 } from "@/lib/schema";
 import { getCECourseFAQs, buildFaqData } from "@/lib/faq-data";
 import catalogLinks from "@/lib/catalog-links.json";
+import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import CourseOverviewBox from "@/components/CourseOverviewBox";
 import CourseFeatures from "@/components/CourseFeatures";
@@ -129,6 +131,15 @@ export default async function CECoursePage({
   ]);
   const faqSchema = generateFAQSchema(faqs);
 
+  const articleHeadline = `${stateData.name} ${loaDef.name} Continuing Education Course`;
+  const articleDescription = `Complete your ${ce.totalHours} required CE hours online, at your own pace. We report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`;
+  const articleSchema = generateArticleSchemaWithReviewer({
+    headline: articleHeadline,
+    description: articleDescription,
+    datePublished: "2026-04-15",
+    url: `https://justinsuranceco.com/${stateData.slug}/continuing-education/${loaDef.slug}`,
+  });
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}/` },
@@ -141,6 +152,7 @@ export default async function CECoursePage({
       <SchemaMarkup schema={courseSchema} />
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -157,6 +169,10 @@ export default async function CECoursePage({
           { text: `Enroll Now — ${ce.packagePrice}`, href: enrollLink },
         ]}
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Trust Badge Strip */}
       <div className="bg-navy-dark border-t border-white/10 py-3 px-4">

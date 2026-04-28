@@ -3,8 +3,9 @@ import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
-import { generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
+import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
 import { getCEHubFAQs, buildFaqData } from "@/lib/faq-data";
+import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import LOASelector from "@/components/LOASelector";
 import FAQAccordion from "@/components/FAQAccordion";
@@ -57,6 +58,15 @@ export default async function CEHubPage({
   ]);
   const faqSchema = generateFAQSchema(faqs);
 
+  const articleHeadline = `${stateData.name} Insurance Continuing Education (CE) Courses`;
+  const articleDescription = `Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We report your completion to the state the same day.`;
+  const articleSchema = generateArticleSchemaWithReviewer({
+    headline: articleHeadline,
+    description: articleDescription,
+    datePublished: "2026-04-15",
+    url: `https://justinsuranceco.com/${stateData.slug}/continuing-education`,
+  });
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}/` },
@@ -67,6 +77,7 @@ export default async function CEHubPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -78,6 +89,10 @@ export default async function CEHubPage({
           { text: "See CE Courses Below", href: "#ce-courses" },
         ]}
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Same-Day DOI Reporting Banner */}
       <section className="bg-navy text-white py-6">

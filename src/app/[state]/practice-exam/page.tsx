@@ -4,8 +4,9 @@ import Link from "next/link";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
-import { generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
+import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import FAQAccordion from "@/components/FAQAccordion";
 import RelatedStatePages from "@/components/RelatedStatePages";
@@ -103,6 +104,15 @@ export default async function PracticeExamPage({
       ]
     : [];
 
+  const articleHeadline = `${stateName} Insurance Practice Exam`;
+  const articleDescription = `Full-length practice exams that mirror the real ${examInfo.examProvider} ${stateName} state exam. Score 80%+ three times in a row and walk in confident. $59 each.`;
+  const articleSchema = generateArticleSchemaWithReviewer({
+    headline: articleHeadline,
+    description: articleDescription,
+    datePublished: "2026-04-15",
+    url: `https://justinsuranceco.com/${slug}/practice-exam`,
+  });
+
   // Product schema per offering
   const productSchemas = examCards.map((card) => ({
     "@context": "https://schema.org",
@@ -123,6 +133,7 @@ export default async function PracticeExamPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={articleSchema} />
       {productSchemas.map((s, i) => (
         <SchemaMarkup key={i} schema={s} />
       ))}
@@ -135,6 +146,10 @@ export default async function PracticeExamPage({
         subtitle={`Full-length practice exams that mirror the real ${examInfo.examProvider} ${stateName} state exam. Score 80%+ three times in a row and walk in confident. $59 each.`}
         ctaButtons={[{ text: "See Practice Exams", href: "#practice-exams" }]}
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Proof / trust band */}
       <section className="bg-navy text-white py-6">

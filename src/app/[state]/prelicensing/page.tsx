@@ -3,8 +3,9 @@ import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
-import { generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
+import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
 import { getPrelicensingHubFAQs, buildFaqData } from "@/lib/faq-data";
+import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import LOASelector from "@/components/LOASelector";
 import PassGuarantee from "@/components/PassGuarantee";
@@ -50,6 +51,15 @@ export default async function PrelicensingHubPage({
   ]);
   const faqSchema = generateFAQSchema(faqs);
 
+  const articleHeadline = `${stateData.name} Insurance Prelicensing Courses`;
+  const articleDescription = `Get your ${stateData.name} insurance license with a state-approved online prelicensing course. Choose your line of authority below and start studying today.`;
+  const articleSchema = generateArticleSchemaWithReviewer({
+    headline: articleHeadline,
+    description: articleDescription,
+    datePublished: "2026-04-15",
+    url: `https://justinsuranceco.com/${stateData.slug}/prelicensing`,
+  });
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}/` },
@@ -60,6 +70,7 @@ export default async function PrelicensingHubPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -71,6 +82,10 @@ export default async function PrelicensingHubPage({
           { text: "Choose Your Course Below", href: "#courses" },
         ]}
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* What is Prelicensing — 2-column explainer */}
       <section className="bg-white py-16 px-4">

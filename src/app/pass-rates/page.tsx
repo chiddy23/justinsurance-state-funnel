@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import ArticleByline from "@/components/ArticleByline";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
-import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
+import { SchemaMarkup, generateBreadcrumbSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: { absolute: "JustInsurance Pass Rates — 93% First-Attempt (Methodology)" },
@@ -63,10 +64,19 @@ const features = [
   },
 ];
 
+const articleSchema = generateArticleSchemaWithReviewer({
+  headline: "Insurance License Exam Pass Rates by State",
+  description:
+    "Real first-attempt pass rates for the insurance licensing exam by state, plus what drives the difference between passing and failing on test day.",
+  datePublished: "2026-04-15",
+  url: "https://justinsuranceco.com/pass-rates",
+});
+
 export default function PassRatesPage() {
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
+      <SchemaMarkup schema={articleSchema} />
       <SchemaMarkup schema={videoSchema} />
 
       <BreadcrumbNav
@@ -92,6 +102,10 @@ export default function PassRatesPage() {
           </p>
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Big stat callout */}
       <section className="bg-white py-16 px-4">

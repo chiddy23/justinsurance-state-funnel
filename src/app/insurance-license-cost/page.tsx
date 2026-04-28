@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
-import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
+import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 import Link from "next/link";
+import ArticleByline from "@/components/ArticleByline";
 
 export const metadata: Metadata = {
   title: { absolute: "How Much Does an Insurance License Cost? 2026 Fees" },
@@ -126,10 +127,19 @@ const minimizeCost = [
   },
 ];
 
+const articleSchema = generateArticleSchemaWithReviewer({
+  headline: "How Much Does an Insurance License Cost?",
+  description:
+    "Full breakdown of insurance license costs nationwide — prelicensing courses, state exam fees, application fees, and fingerprinting. Total cost ranges by state.",
+  datePublished: "2026-04-15",
+  url: "https://justinsuranceco.com/insurance-license-cost",
+});
+
 export default function InsuranceLicenseCostPage() {
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
+      <SchemaMarkup schema={articleSchema} />
       <SchemaMarkup schema={faqSchema} />
 
       <BreadcrumbNav
@@ -156,6 +166,10 @@ export default function InsuranceLicenseCostPage() {
           </p>
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Short Answer */}
       <section className="bg-white py-16 px-4">

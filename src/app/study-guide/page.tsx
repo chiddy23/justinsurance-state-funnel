@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import ArticleByline from "@/components/ArticleByline";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import FAQAccordion from "@/components/FAQAccordion";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import StudyGuideStateGrid from "@/components/StudyGuideStateGrid";
 import PracticeQuestionCard from "@/components/PracticeQuestionCard";
-import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
+import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 import { ALL_STATE_SLUGS } from "@/lib/states";
 import studyGuideStates from "@/lib/study-guide-states.json";
 import {
@@ -150,10 +151,19 @@ function Callout({ kind, label, children }: { kind: "tip" | "example"; label: st
   );
 }
 
+const articleSchema = generateArticleSchemaWithReviewer({
+  headline: "The Ultimate Insurance Exam Study Guide",
+  description:
+    "Everything you need to pass the Life & Health insurance licensing exam on your first try — universal concepts, state-by-state breakdowns, practice questions, and a 7-day study plan.",
+  datePublished: "2026-04-15",
+  url: "https://justinsuranceco.com/study-guide",
+});
+
 export default function StudyGuidePage() {
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
+      <SchemaMarkup schema={articleSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={howToSchema} />
       <SchemaMarkup schema={videoSchema} />
@@ -184,6 +194,10 @@ export default function StudyGuidePage() {
           </div>
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Top-of-page CTA: paid practice exam */}
       <section className="bg-gold/10 border-b border-gold/30 py-6 px-4">

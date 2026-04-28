@@ -39,5 +39,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
   );
 
-  return [...baseEntries, ...costEntries, ...spanishEntries];
+  // Author bio page — dedicated bio for Justin vom Eigen, target of all
+  // ArticleByline/AuthorBio links across state hubs and guides.
+  const authorEntries: MetadataRoute.Sitemap = [
+    {
+      url: `${BASE_URL}/about/justin-vom-eigen`,
+      lastModified,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    },
+  ];
+
+  return [...baseEntries, ...costEntries, ...spanishEntries, ...authorEntries];
 }

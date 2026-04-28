@@ -5,6 +5,7 @@ import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import {
+  generateArticleSchemaWithReviewer,
   generateBreadcrumbSchema,
   generateFAQSchema,
   SchemaMarkup,
@@ -13,6 +14,7 @@ import StateHero from "@/components/StateHero";
 import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import ArticleByline from "@/components/ArticleByline";
 import EditorialByline from "@/components/EditorialByline";
 import RelatedStatePages from "@/components/RelatedStatePages";
 
@@ -194,6 +196,15 @@ export default async function CostPage({
   ]);
   const faqSchema = generateFAQSchema(faqs);
 
+  const articleHeadline = `How Much Does It Cost to Get a ${stateData.name} Insurance License?`;
+  const articleDescription = `The estimated total cost to get your ${stateData.name} insurance license is ${stateData.totalCostRange}. Here's the full breakdown — prelicensing, exam, application, and fingerprint fees — plus how JustInsurance's $199 all-in prelicensing keeps you on the low end.`;
+  const articleSchema = generateArticleSchemaWithReviewer({
+    headline: articleHeadline,
+    description: articleDescription,
+    datePublished: "2026-04-15",
+    url: `https://justinsuranceco.com/${stateData.slug}/cost`,
+  });
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}/` },
@@ -257,6 +268,7 @@ export default async function CostPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -277,6 +289,10 @@ export default async function CostPage({
           },
         ]}
       />
+
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
+        <ArticleByline />
+      </div>
 
       {/* Trust strip */}
       <div className="bg-navy border-t border-blue-800 py-3 px-4">

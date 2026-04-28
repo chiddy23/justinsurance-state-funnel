@@ -55,6 +55,12 @@ const personSchema = {
   alumniOf: {
     "@type": "CollegeOrUniversity",
     name: "Northeastern University",
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: "Boston",
+      addressRegion: "MA",
+      addressCountry: "US",
+    },
   },
   hasCredential: [
     {
@@ -73,13 +79,6 @@ const personSchema = {
         "@type": "Organization",
         name: "International Distance Education Certification Center (IDECC)",
       },
-    },
-    {
-      "@type": "EducationalOccupationalCredential",
-      name: "Bachelor of Science, Chemistry",
-      credentialCategory: "degree",
-      validFrom: "2012",
-      recognizedBy: { "@type": "CollegeOrUniversity", name: "Northeastern University" },
     },
   ],
   knowsAbout: [
@@ -296,8 +295,8 @@ export default function JustinVomEigenBioPage() {
               exam content outlines
             </li>
             <li>
-              <strong className="text-navy">Bachelor of Science, Chemistry</strong> —
-              Northeastern University (2008–2012)
+              <strong className="text-navy">Education</strong> — Northeastern
+              University, Boston
             </li>
             <li>
               <strong className="text-navy">8+ years</strong> of full-time life

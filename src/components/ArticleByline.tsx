@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 import Link from "next/link";
 
 export interface ArticleBylineProps {
@@ -33,15 +34,15 @@ export default function ArticleByline({
 }: ArticleBylineProps = {}) {
   return (
     <div className="flex flex-wrap items-center gap-x-3 gap-y-2 border-y border-gray-200 py-3 my-4 text-sm text-gray-600">
-      {/* Avatar — initials JVE on navy circle, mirrors AuthorBio styling but smaller */}
-      <div
-        className="w-8 h-8 rounded-full bg-navy flex items-center justify-center flex-shrink-0"
-        aria-hidden="true"
-      >
-        <span className="text-white font-bold text-[10px] tracking-wide select-none">
-          JVE
-        </span>
-      </div>
+      {/* Reviewer headshot — small circular avatar */}
+      <Image
+        src="/headshot-justin.jpg"
+        alt={`Headshot of ${name}`}
+        width={32}
+        height={32}
+        className="w-8 h-8 rounded-full object-cover flex-shrink-0"
+      />
+
 
       {/* Reviewer + title */}
       <span className="flex flex-wrap items-baseline gap-x-1.5">

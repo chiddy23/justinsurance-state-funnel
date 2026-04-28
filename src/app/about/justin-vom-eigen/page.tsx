@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
@@ -18,14 +19,14 @@ export const metadata: Metadata = {
     url: "https://justinsuranceco.com/about/justin-vom-eigen",
     siteName: "JustInsurance",
     type: "profile",
-    images: [{ url: "/og-image.png", alt: "Justin vom Eigen — Founder, JustInsurance LLC" }],
+    images: [{ url: "/og/justin-vom-eigen.png", alt: "Justin vom Eigen — Founder, JustInsurance LLC" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Justin vom Eigen — Founder, JustInsurance LLC",
     description:
       "Founder & CEO of JustInsurance — licensed L&H producer since 2017, IDECC CDEI, creator of @InsuranceExam.",
-    images: ["/og-image.png"],
+    images: ["/og/justin-vom-eigen.png"],
   },
   robots: "index, follow",
 };
@@ -45,7 +46,7 @@ const personSchema = {
   name: "Justin vom Eigen",
   jobTitle: "Founder, CEO & Course Instructor",
   url: "https://justinsuranceco.com/about/justin-vom-eigen",
-  image: "https://justinsuranceco.com/og-image.png",
+  image: "https://justinsuranceco.com/headshot-justin.jpg",
   worksFor: {
     "@type": "Organization",
     name: "JustInsurance LLC",
@@ -128,16 +129,16 @@ export default function JustinVomEigenBioPage() {
       {/* Hero */}
       <section className="bg-navy text-white py-16 px-4">
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8">
-          {/* Avatar — JVE initials, mirrors AuthorBio.tsx pattern */}
+          {/* Headshot — circular crop, gold ring */}
           <div className="flex-shrink-0">
-            <div
-              className="w-28 h-28 md:w-32 md:h-32 rounded-full bg-white flex items-center justify-center border-4 border-gold"
-              aria-hidden="true"
-            >
-              <span className="text-navy font-bold text-3xl tracking-wide select-none">
-                JVE
-              </span>
-            </div>
+            <Image
+              src="/headshot-justin.jpg"
+              alt="Headshot of Justin vom Eigen, Founder & CEO of JustInsurance LLC"
+              width={160}
+              height={160}
+              priority
+              className="w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-gold"
+            />
           </div>
           <div className="flex-1 text-center md:text-left">
             <p className="text-gold font-semibold text-sm uppercase tracking-widest mb-3">

@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 import Link from "next/link";
 
 export default function AuthorBio() {
@@ -6,12 +7,13 @@ export default function AuthorBio() {
     <aside className="bg-gray-bg border border-gray-200 rounded-2xl p-6 md:p-8 flex flex-col sm:flex-row gap-6 items-start">
       {/* Avatar */}
       <div className="flex-shrink-0">
-        <div
-          className="w-16 h-16 rounded-full bg-navy flex items-center justify-center"
-          aria-hidden="true"
-        >
-          <span className="text-white font-bold text-lg tracking-wide select-none">JVE</span>
-        </div>
+        <Image
+          src="/headshot-justin.jpg"
+          alt="Headshot of Justin vom Eigen, Founder & CEO of JustInsurance LLC"
+          width={64}
+          height={64}
+          className="w-16 h-16 rounded-full object-cover"
+        />
       </div>
 
       {/* Bio text */}

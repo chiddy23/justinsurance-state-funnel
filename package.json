@@ -10,6 +10,7 @@
     "verify-comparative-claims": "node scripts/verify-comparative-claims.mjs"
   },
   "dependencies": {
+    "@next/third-parties": "^16.2.4",
     "@tailwindcss/typography": "^0.5.19",
     "csv-parse": "^6.2.1",
     "gray-matter": "^4.0.3",

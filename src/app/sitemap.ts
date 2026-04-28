@@ -28,5 +28,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.85,
     }));
 
-  return [...baseEntries, ...costEntries];
+  // Spanish-language pilot pages (/es/florida, /es/texas).
+  // Priority 0.8, monthly change frequency — matches the EN state hub cadence.
+  const spanishEntries: MetadataRoute.Sitemap = ["florida", "texas"].map(
+    (slug) => ({
+      url: `${BASE_URL}/es/${slug}/`,
+      lastModified,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    })
+  );
+
+  return [...baseEntries, ...costEntries, ...spanishEntries];
 }

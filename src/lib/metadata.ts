@@ -4,6 +4,46 @@ import { loaShortName } from "./loa";
 const BASE_URL = "https://justinsuranceco.com";
 const OG_IMAGE = "/og-image.png";
 
+// PageTypes that resolve to a per-state OG image when stateSlug is provided.
+// Other pageTypes (home, practice-exam-hub) keep the generic /og-image.png.
+const STATE_OG_PAGE_TYPES: ReadonlySet<PageType> = new Set<PageType>([
+  "state-hub",
+  "prelicensing-hub",
+  "ce-hub",
+  "prelicensing-course",
+  "ce-course",
+  "practice-exam",
+  "state-cost",
+]);
+
+// Slugs known to have a generated /public/og/<slug>.png — kept in sync with
+// scripts/generate-state-og-images.py. Keeps us safe if a non-state slug
+// ever sneaks into a stateful pageType (e.g. data hiccup) — we fall back
+// to the generic OG instead of emitting a 404'd image URL.
+const STATE_OG_SLUGS: ReadonlySet<string> = new Set<string>([
+  "alabama", "alaska", "arizona", "arkansas", "california",
+  "colorado", "connecticut", "delaware", "florida", "georgia",
+  "hawaii", "idaho", "illinois", "indiana", "iowa",
+  "kansas", "kentucky", "louisiana", "maine", "maryland",
+  "massachusetts", "michigan", "minnesota", "mississippi", "missouri",
+  "montana", "nebraska", "nevada", "new-hampshire", "new-jersey",
+  "new-mexico", "new-york", "north-carolina", "north-dakota", "ohio",
+  "oklahoma", "oregon", "pennsylvania", "rhode-island", "south-carolina",
+  "south-dakota", "tennessee", "texas", "utah", "vermont",
+  "virginia", "washington", "west-virginia", "wisconsin", "wyoming",
+]);
+
+/**
+ * Returns the per-state OG image path if the slug has a generated asset,
+ * otherwise the generic site-wide OG image.
+ */
+function getOGImageForState(stateSlug?: string): string {
+  if (stateSlug && STATE_OG_SLUGS.has(stateSlug)) {
+    return `/og/${stateSlug}.png`;
+  }
+  return OG_IMAGE;
+}
+
 export type PageType =
   | "home"
   | "state-hub"
@@ -231,6 +271,17 @@ export function generatePageMetadata(params: PageMetadataParams): Metadata {
   // Extract the raw string for OG/Twitter (which don't accept { absolute })
   const titleString = title.absolute;
 
+  // Per-state OG image when the pageType is one of the state-scoped types and
+  // we have a known slug. Falls back to the generic site OG otherwise.
+  const ogImagePath =
+    STATE_OG_PAGE_TYPES.has(pageType)
+      ? getOGImageForState(params.stateSlug)
+      : OG_IMAGE;
+  const ogAlt =
+    ogImagePath === OG_IMAGE
+      ? "JustInsurance — Online Insurance License Courses"
+      : `${params.stateName ?? "JustInsurance"} Insurance License Course — JustInsurance`;
+
   return {
     title,
     description,
@@ -246,8 +297,10 @@ export function generatePageMetadata(params: PageMetadataParams): Metadata {
       type: "website",
       images: [
         {
-          url: OG_IMAGE,
-          alt: "JustInsurance — Online Insurance License Courses",
+          url: ogImagePath,
+          width: 1200,
+          height: 630,
+          alt: ogAlt,
         },
       ],
     },
@@ -255,7 +308,7 @@ export function generatePageMetadata(params: PageMetadataParams): Metadata {
       card: "summary_large_image",
       title: titleString,
       description,
-      images: [OG_IMAGE],
+      images: [ogImagePath],
     },
   };
 }

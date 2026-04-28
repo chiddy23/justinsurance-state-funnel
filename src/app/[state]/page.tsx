@@ -31,13 +31,33 @@ export async function generateMetadata({
   const { state } = await params;
   const stateData = getStateBySlug(state);
   if (!stateData) return {};
-  return generatePageMetadata({
+  const meta = generatePageMetadata({
     pageType: "state-hub",
     stateName: stateData.name,
     stateSlug: stateData.slug,
     stateAbbreviation: stateData.abbreviation,
     examProvider: stateData.examInfo?.examProvider,
   });
+
+  // Spanish-language pilot — emit hreflang reciprocity ONLY for FL/TX.
+  // Self-references "en-US" + "es-US" + "x-default" → English canonical.
+  if (stateData.slug === "florida" || stateData.slug === "texas") {
+    const enUrl = `https://justinsuranceco.com/${stateData.slug}/`;
+    const esUrl = `https://justinsuranceco.com/es/${stateData.slug}/`;
+    return {
+      ...meta,
+      alternates: {
+        ...meta.alternates,
+        languages: {
+          "en-US": enUrl,
+          "es-US": esUrl,
+          "x-default": enUrl,
+        },
+      },
+    };
+  }
+
+  return meta;
 }
 
 export default async function StateHubPage({

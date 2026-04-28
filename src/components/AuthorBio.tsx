@@ -34,7 +34,7 @@ export default function AuthorBio() {
           </a>{" "}
           YouTube channel — plain-English insurance exam prep that grew to 20,000+ subscribers.
           He launched JustInsurance in 2022 to give every aspiring agent the modern, honest
-          education he wished he&apos;d had. Today, JustInsurance has helped 30,000+ agents get
+          education he wished he&apos;d had. Today, JustInsurance has helped 20,000+ students get
           licensed nationwide with a 93% first-attempt pass rate.
         </p>
         <Link

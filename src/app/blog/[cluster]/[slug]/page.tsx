@@ -241,7 +241,7 @@ export default async function BlogPostPage({
               <p className="text-gray-600 text-sm leading-relaxed">
                 Justin vom Eigen is a licensed insurance agent and the founder of
                 JustInsurance. He built the company after watching talented people fail
-                outdated prelicensing exams — and has since trained over 30,000 agents
+                outdated prelicensing exams — and has since trained over 20,000 students
                 nationwide with a 93% first-attempt pass rate.
               </p>
               <Link

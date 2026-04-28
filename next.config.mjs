@@ -159,6 +159,7 @@ const nextConfig = {
       { source: "/becoming-a-licensed-insurance-agent", destination: "/blog/how-to-become-an-insurance-agent", permanent: true },
       { source: "/master-the-insurance-licensing-exam-complete-guide", destination: "/insurance-exam-guide", permanent: true },
       { source: "/top-10-tips-for-life-insurance-exam-preparation", destination: "/insurance-exam-guide", permanent: true },
+      { source: "/is-the-life-insurance-exam-hard", destination: "/insurance-exam-guide", permanent: true },
 
       // Old WP pagination slugs /page-N/ (NOT /blog/page/N — that's handled earlier)
       { source: "/page-:num", destination: "/", permanent: true },

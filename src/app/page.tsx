@@ -47,7 +47,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            State-approved prelicensing and CE courses nationwide. 100% online, self-paced, and backed by our pass guarantee. Join 30,000+ agents who&apos;ve trusted JustInsurance.
+            State-approved prelicensing and CE courses nationwide. 100% online, self-paced, and backed by our pass guarantee. Join 20,000+ students who&apos;ve trusted JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -125,7 +125,7 @@ export default function HomePage() {
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-            Why 30,000+ Agents Choose JustInsurance
+            Why 20,000+ Students Choose JustInsurance
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
             We make getting and keeping your insurance license as simple as possible.

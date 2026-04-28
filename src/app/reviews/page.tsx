@@ -7,7 +7,7 @@ import { ALL_TESTIMONIALS, GOOGLE_REVIEWS, type Testimonial } from "@/lib/testim
 export const metadata: Metadata = {
   title: { absolute: "JustInsurance Student Reviews & Testimonials" },
   description:
-    "Real reviews from JustInsurance students who passed their state insurance licensing exam. 5-star Google rating, 30,000+ agents licensed across 50 states.",
+    "Real reviews from JustInsurance students who passed their state insurance licensing exam. 5-star Google rating, 20,000+ students licensed across 50 states.",
   alternates: { canonical: "https://justinsuranceco.com/reviews" },
 };
 
@@ -72,7 +72,7 @@ export default function ReviewsPage() {
             <p className="text-2xl font-bold">5.0 / 5</p>
           </div>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
-            30,000+ agents licensed nationwide. Real feedback from
+            20,000+ students licensed nationwide. Real feedback from
             students who finished prelicensing, passed their state exam, and built
             an insurance career.
           </p>
@@ -104,7 +104,7 @@ export default function ReviewsPage() {
             <p className="text-xs text-gray-700">on Google</p>
           </a>
           <div>
-            <p className="text-2xl md:text-3xl font-bold text-navy">30,000+</p>
+            <p className="text-2xl md:text-3xl font-bold text-navy">20,000+</p>
             <p className="text-xs text-gray-700">Students licensed</p>
           </div>
           <div>
@@ -266,7 +266,7 @@ export default function ReviewsPage() {
             Reviews shown above are real student feedback collected through course
             completion surveys and follow-up communication. Initials are used in
             place of full names to protect student privacy. Our 5-star rating
-            reflects aggregate satisfaction across the 30,000+ students who have
+            reflects aggregate satisfaction across the 20,000+ students who have
             completed JustInsurance prelicensing or CE courses since 2017. For our
             published pass-rate methodology, see{" "}
             <Link href="/pass-rates" className="text-gold-dark underline hover:text-gold font-semibold">

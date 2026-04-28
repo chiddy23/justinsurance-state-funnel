@@ -92,7 +92,7 @@ For continuing education after licensure, NCDOI's [Continuing Education for Insu
 | Georgia | 8.0 hours per major line | Pearson VUE | 12 months |
 | Texas | None mandated | Pearson VUE | 12 months |
 
-North Carolina sits in the middle: more rigorous prelicensing than Texas or Arizona, but lighter than states like California (52 hours) or Florida (40 hours). Multistate recruiters should print three checklists, not one mail-merge template — every state's specifics differ.
+North Carolina sits in the middle: more rigorous prelicensing than Texas, Arizona, or California, but lighter than Florida (40 hours). California eliminated its line-specific prelicensing hours under AB 943 (effective January 1, 2026) and now mandates only a 12-hour Code and Ethics course. Multistate recruiters should print three checklists, not one mail-merge template — every state's specifics differ.
 
 ## Realistic licensing timeline
 

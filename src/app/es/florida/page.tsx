@@ -259,7 +259,7 @@ export default function FloridaSpanishHubPage() {
             {SPANISH_UI.whyChooseUs}
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            Hemos ayudado a más de 30,000 agentes a obtener su licencia en todo el país.
+            Hemos ayudado a más de 20,000 estudiantes a obtener su licencia en todo el país.
             Estas son las razones por las que nos eligen.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

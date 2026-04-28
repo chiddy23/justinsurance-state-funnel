@@ -27,7 +27,7 @@ Most people find it useful to gather necessary documents ahead of time. This can
 
 ## Complete pre-licensing education
 
-Once you confirm you’re eligible, your next milestone is to complete approved [pre-licensing hours](/california/prelicensing). California requires a set number of study hours for each line of insurance. For a property and casualty license, you’ll need to take specific courses that cover state regulations, industry terminology, and policy structures.
+Once you confirm you’re eligible, your next milestone is to complete approved [pre-licensing education](/california/prelicensing). As of January 1, 2026, California Assembly Bill 943 eliminated the old line-specific hour requirements — the former 40-hour Property and 40-hour Casualty courses no longer apply. The only mandatory prelicensing requirement for a P&C license is now the 12-hour Code and Ethics course from a CDI-approved provider. Most candidates also choose to take voluntary P&C exam prep on top of the required Ethics course, since the state exam still tests the full body of property and casualty knowledge.
 
 Plan your schedule in a way that fits your personal learning style. Some people prefer enrolling in an in-person class, while others succeed with online study modules that you can tackle anytime. Whichever route you choose, give yourself enough time to review materials thoroughly. You want to build a solid foundation in property and casualty coverage before attempting the official exam.
 

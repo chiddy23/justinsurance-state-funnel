@@ -5,14 +5,14 @@ import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: { absolute: "About JustInsurance — 30,000+ Licensed Since 2017" },
+  title: { absolute: "About JustInsurance — 20,000+ Students Licensed Since 2017" },
   description:
-    "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 30,000+ agents trained. 93% pass rate. 50 states.",
+    "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% pass rate. 50 states.",
   alternates: { canonical: "https://justinsuranceco.com/about" },
   openGraph: {
-    title: "About JustInsurance — 30,000+ Licensed Since 2017",
+    title: "About JustInsurance — 20,000+ Students Licensed Since 2017",
     description:
-      "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 30,000+ agents trained. 93% pass rate.",
+      "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% pass rate.",
     url: "https://justinsuranceco.com/about",
     siteName: "JustInsurance",
     type: "website",
@@ -71,7 +71,7 @@ const orgPersonSchema = {
 };
 
 const stats = [
-  { value: "30,000+", label: "Agents Trained" },
+  { value: "20,000+", label: "Students Trained" },
   { value: "93%", label: "First-Attempt Pass Rate" },
   { value: "50", label: "States Covered" },
   { value: "20,000+", label: "YouTube Subscribers" },
@@ -177,7 +177,7 @@ export default function AboutPage() {
             JustInsurance was founded by Justin vom Eigen — a former New York Life agent who
             watched talented people wash out of the industry because of outdated,
             soul-crushing prelicensing courses. Today we&apos;ve trained over{" "}
-            <strong className="text-white">30,000 agents</strong> across{" "}
+            <strong className="text-white">20,000 students</strong> across{" "}
             <Link href="/" className="underline hover:text-gold">
               nationwide
             </Link>{" "}

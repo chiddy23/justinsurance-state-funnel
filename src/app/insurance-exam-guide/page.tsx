@@ -397,7 +397,7 @@ export default function InsuranceExamGuidePage() {
       {/* CTA */}
       <CTABanner
         title="Ready to Start Studying?"
-        subtitle="Enroll in a state-approved prelicensing course today and prepare with the same content that has helped 30,000+ students earn their license."
+        subtitle="Enroll in a state-approved prelicensing course today and prepare with the same content that has helped 20,000+ students earn their license."
         ctaText="Find Your State"
         ctaHref="/"
       />

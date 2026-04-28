@@ -210,7 +210,7 @@ export default function LifeInsuranceLicensePage() {
 
       <CTABanner
         title="Start Your Life Insurance Career Today"
-        subtitle="Enroll in your state's prelicensing course for $199 and join 30,000+ agents who've trusted JustInsurance to get them licensed."
+        subtitle="Enroll in your state's prelicensing course for $199 and join 20,000+ students who've trusted JustInsurance to get them licensed."
         ctaText="Find My State"
         ctaHref="#states"
       />

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     absolute: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",
   },
   description:
-    "JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% student pass rate, 30,000+ agents trained across 50 states.",
+    "JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% student pass rate, 20,000+ students trained across 50 states.",
   robots: "index, follow",
   alternates: {
     canonical: "https://justinsuranceco.com/press",
@@ -52,7 +52,7 @@ const pressSchema = {
     url: "https://www.globenewswire.com",
   },
   description:
-    "JustInsurance announces a 93% pass rate for insurance licensing exams — nearly double the national average — with 900% year-over-year growth and 30,000+ agents trained.",
+    "JustInsurance announces a 93% pass rate for insurance licensing exams — nearly double the national average — with 900% year-over-year growth and 20,000+ students trained.",
   about: {
     "@type": "Organization",
     name: "JustInsurance LLC",
@@ -90,7 +90,7 @@ const PRESS_STATS = [
   { value: "93%", label: "Student Pass Rate" },
   { value: "2×", label: "National Average" },
   { value: "900%", label: "Year-Over-Year Growth" },
-  { value: "30,000+", label: "Agents Trained" },
+  { value: "20,000+", label: "Students Trained" },
 ];
 
 export default function PressPage() {
@@ -250,7 +250,7 @@ export default function PressPage() {
               <p>
                 JustInsurance reported{" "}
                 <strong>900% year-over-year growth</strong> and has trained
-                over <strong>30,000 agents</strong> across 50 states in life,
+                over <strong>20,000 students</strong> across 50 states in life,
                 health, and life &amp; health insurance prelicensing and
                 continuing education (CE). The platform&apos;s students also
                 show <strong>30% lower attrition</strong> than the industry
@@ -358,7 +358,7 @@ export default function PressPage() {
               </p>
               <p className="text-gray-600 text-sm leading-relaxed mb-4">
                 Founded by Justin vom Eigen in Pembroke Pines, Florida,
-                JustInsurance has trained over 30,000 agents and maintains a
+                JustInsurance has trained over 20,000 students and maintains a
                 93% first-attempt exam pass rate — nearly double the national
                 average.
               </p>
@@ -379,7 +379,7 @@ export default function PressPage() {
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  30,000+ agents trained
+                  20,000+ students trained
                 </li>
                 <li className="flex items-center gap-2">
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
@@ -397,7 +397,7 @@ export default function PressPage() {
       <section className="bg-navy py-14">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
-            Ready to Join 30,000+ Licensed Agents?
+            Ready to Join 20,000+ Licensed Students Nationwide?
           </h2>
           <p className="text-gray-300 mb-8 text-lg">
             Get your insurance license online — $199 prelicensing, $39 CE, pass

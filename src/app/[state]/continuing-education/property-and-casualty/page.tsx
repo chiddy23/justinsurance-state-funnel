@@ -75,6 +75,12 @@ export async function generateMetadata({
 // ---------------------------------------------------------------------------
 // Shared FAQ generator — produces 7 P&C-specific Q&A using state-specific facts
 // EXPORTED so the [package]/page.tsx route can reuse it.
+//
+// CRITICAL (Fix 1.1, 2026-04-29): The "how many hours does the state require"
+// answer MUST be sourced from `pkg.stateRequirement.totalHours` (state truth),
+// NOT from `pkg.totalHours` (package contents). Earlier code rendered the
+// package hours as the state mandate — for FL Personal Lines this produced
+// "Florida requires 28 hours" when the actual statute requires 20.
 // ---------------------------------------------------------------------------
 export function buildPCFAQs(
   stateName: string,
@@ -84,10 +90,41 @@ export function buildPCFAQs(
   ceRenewalPeriod: string,
   ceEthicsHours: number
 ): { question: string; answer: string }[] {
+  const stateReq = pkg.stateRequirement;
+  const cyclePhrase =
+    stateReq.renewalCycleYears === 1
+      ? "every year"
+      : `every ${stateReq.renewalCycleYears} years`;
+
+  // Build the state-truth answer from stateReq fields.
+  let stateReqAnswer =
+    `${stateName} requires Property & Casualty insurance producers to complete ` +
+    `${stateReq.totalHours} hours of continuing education ${cyclePhrase}, ` +
+    `including ${stateReq.ethicsHours} hours of ${stateReq.ethicsLabel} (${stateReq.statuteCitation}).`;
+  if (stateReq.totalHoursNote) {
+    stateReqAnswer += ` ${stateReq.totalHoursNote}`;
+  }
+
+  if (pkg.totalHours > stateReq.totalHours) {
+    const carryClause = stateReq.carryoverHours
+      ? ` The additional hours can carry forward to your next renewal cycle (up to ${stateReq.carryoverHours} hours) per ${stateReq.statuteCitation}.`
+      : "";
+    stateReqAnswer +=
+      ` Our ${pkg.shortName} package includes ${pkg.totalHours} hours, which exceeds the state minimum.` +
+      carryClause;
+  } else {
+    stateReqAnswer += ` Our ${pkg.shortName} package satisfies this requirement in a single bundle.`;
+  }
+  stateReqAnswer +=
+    ` (For comparison, ${stateName} Life & Health agents need ${ceHours} hours every ${ceRenewalPeriod} with ${ceEthicsHours} ethics hours — a different requirement set.)`;
+  if (stateReq.requiresVerification) {
+    stateReqAnswer += ` Always verify current requirements with the ${doiName} before scheduling your renewal.`;
+  }
+
   const faqs: { question: string; answer: string }[] = [
     {
-      question: `How many CE hours do P&C agents in ${stateName} need each renewal cycle?`,
-      answer: `${stateName} requires Property & Casualty insurance producers to complete ${pkg.totalHours} hours of continuing education every ${ceRenewalPeriod}, including ${pkg.ethicsHours} hours of ${pkg.ethicsLabel.toLowerCase()}. Our ${pkg.shortName} package satisfies this requirement in a single bundle. (For comparison, ${stateName} Life & Health agents need ${ceHours} hours every ${ceRenewalPeriod} with ${ceEthicsHours} ethics hours — a different requirement set.)`,
+      question: `How many CE hours does ${stateName} require for P&C license renewal?`,
+      answer: stateReqAnswer,
     },
     {
       question: `What's the difference between L&H CE and P&C CE in ${stateName}?`,
@@ -107,7 +144,7 @@ export function buildPCFAQs(
     },
     {
       question: `I hold both an L&H license and a P&C license. Do I need two separate CE packages?`,
-      answer: `Yes. ${stateName} treats L&H CE and P&C CE as separate compliance tracks. You'll need to complete the full ${pkg.totalHours} hours of P&C CE for your P&C license AND the ${ceHours} hours of L&H CE for your L&H license each renewal cycle. JustInsurance offers both — you can bundle them at checkout.`,
+      answer: `Yes. ${stateName} treats L&H CE and P&C CE as separate compliance tracks. You'll need to complete ${stateReq.totalHours} hours of P&C CE for your P&C license AND the ${ceHours} hours of L&H CE for your L&H license each renewal cycle (${stateReq.statuteCitation}). JustInsurance offers both — you can bundle them at checkout.`,
     },
   ];
 
@@ -229,26 +266,75 @@ export function PCPackageDetail({
         </div>
       </section>
 
-      {/* Special Notes */}
-      {pkg.specialNotes.length > 0 && (
-        <section className="bg-white pb-8 px-4">
-          <div className="max-w-4xl mx-auto">
-            <div className="bg-amber-50 border-l-4 border-gold rounded-r-lg p-5">
-              <h3 className="font-bold text-navy mb-3">Important Notes for {stateData.name} P&C Producers</h3>
-              <ul className="space-y-2">
-                {pkg.specialNotes.map((note, i) => (
-                  <li key={i} className="flex items-start gap-2 text-gray-700 text-sm leading-relaxed">
-                    <svg className="w-4 h-4 text-gold flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
-                    </svg>
-                    <span>{note}</span>
-                  </li>
-                ))}
-              </ul>
+      {/*
+        Fix 5.2 (2026-04-29): Split the legacy "Important Notes" block into
+        two distinct callouts — "What's Covered" (curriculum) and "State
+        Requirements Satisfied" (compliance). Classification is a string
+        heuristic on `pkg.specialNotes`: if a note contains one of the
+        compliance keywords (required by, satisfies, specifically approved,
+        Includes the X-hour [mandate], must also complete, delivered in
+        webinar format per, Anti-Fraud, Classroom Equivalent), it goes in
+        the State Requirements Satisfied bucket. Everything else is treated
+        as curriculum/coverage. Kept it heuristic-only to avoid touching all
+        31 package entries with a second array field.
+      */}
+      {pkg.specialNotes.length > 0 && (() => {
+        const COMPLIANCE_PATTERNS: RegExp[] = [
+          /required by/i,
+          /satisfies the/i,
+          /specifically approved/i,
+          /must also complete/i,
+          /delivered in webinar format per/i,
+          /anti-fraud/i,
+          /classroom equivalent/i,
+          /\bIncludes the \d+-(?:Hour|hour|hr)/i, // "Includes the 1-hour ...", "Includes the 4-Hour Law & Ethics ..."
+        ];
+        const compliance: string[] = [];
+        const curriculum: string[] = [];
+        for (const note of pkg.specialNotes) {
+          if (COMPLIANCE_PATTERNS.some((re) => re.test(note))) {
+            compliance.push(note);
+          } else {
+            curriculum.push(note);
+          }
+        }
+        return (
+          <section className="bg-white pb-8 px-4">
+            <div className="max-w-4xl mx-auto space-y-4">
+              {curriculum.length > 0 && (
+                <div className="bg-gray-bg border-l-4 border-navy rounded-r-lg p-5">
+                  <h3 className="font-bold text-navy mb-3">What&apos;s Covered</h3>
+                  <ul className="space-y-2">
+                    {curriculum.map((note, i) => (
+                      <li key={i} className="flex items-start gap-2 text-gray-700 text-sm leading-relaxed">
+                        <svg className="w-4 h-4 text-navy flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                        </svg>
+                        <span>{note}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {compliance.length > 0 && (
+                <div className="bg-amber-50 border-l-4 border-gold rounded-r-lg p-5">
+                  <h3 className="font-bold text-navy mb-3">{stateData.name} State Requirements Satisfied</h3>
+                  <ul className="space-y-2">
+                    {compliance.map((note, i) => (
+                      <li key={i} className="flex items-start gap-2 text-gray-700 text-sm leading-relaxed">
+                        <svg className="w-4 h-4 text-gold flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                        </svg>
+                        <span>{note}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
             </div>
-          </div>
-        </section>
-      )}
+          </section>
+        );
+      })()}
 
       {/* How CE Reporting Works — 5-step */}
       <section className="bg-white py-16 px-4">
@@ -366,38 +452,16 @@ export function PCPackageDetail({
         </div>
       </section>
 
-      {/* Internal-link cluster */}
-      <section className="bg-white py-12 px-4">
-        <div className="max-w-5xl mx-auto">
-          <h2 className="text-xl md:text-2xl font-bold text-navy mb-6">Related {stateData.name} Resources</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-            <Link href={`/${stateData.slug}/`} className="block bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors">
-              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">State Hub</p>
-              <p className="font-semibold text-navy text-sm">{stateData.name} Insurance Licensing Hub</p>
-            </Link>
-            <Link href={`/${stateData.slug}/requirements/`} className="block bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors">
-              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">Requirements</p>
-              <p className="font-semibold text-navy text-sm">{stateData.name} License Requirements</p>
-            </Link>
-            <Link href={`/${stateData.slug}/continuing-education/`} className="block bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors">
-              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">L&amp;H CE</p>
-              <p className="font-semibold text-navy text-sm">{stateData.name} Life & Health CE</p>
-            </Link>
-            <Link href="/property-and-casualty-ce/" className="block bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors">
-              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">National</p>
-              <p className="font-semibold text-navy text-sm">National P&C CE Hub (All States)</p>
-            </Link>
-            <Link href="/license-renewal/" className="block bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors">
-              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">Guide</p>
-              <p className="font-semibold text-navy text-sm">License Renewal Guide</p>
-            </Link>
-            <Link href="/non-resident-license/" className="block bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors">
-              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">Multi-State</p>
-              <p className="font-semibold text-navy text-sm">Non-Resident License Info</p>
-            </Link>
-          </div>
-        </div>
-      </section>
+      {/*
+        Fix 5.1 (2026-04-29): Removed the "Related {state} Resources" cluster
+        that previously lived here — it duplicated the "Explore More {state}
+        Resources" tile grid emitted by <RelatedStatePages /> further down the
+        page, and the two grids overlapped on most links. Keeping a single
+        canonical resources module matches the rest of the site's pattern and
+        also retired two broken routes (/license-renewal/ → /license-renewal-guide/,
+        /non-resident-license/ → /non-resident-insurance-license/) that were
+        only present here.
+      */}
 
       <CTABanner
         title={`Renew Your ${stateData.name} P&C License Today`}
@@ -579,6 +643,23 @@ export default async function PCStateHubPage({
               <p className="text-gray-600 text-sm leading-relaxed text-center max-w-2xl mx-auto mb-6">
                 {stateData.name} producers must complete CE every {stateData.ce.renewalPeriod}. P&amp;C and L&amp;H CE are tracked separately by the {stateData.doiName} — completing one does not satisfy the other.
               </p>
+              {/*
+                Fix 1.2 (2026-04-29): Florida-only clarifying paragraph.
+                Multi-package FL state has packages from 20 to 28 hours, but
+                the actual statute (Fla. Stat. §626.2815) requires only 20
+                (24 in the first 6 years). Without this paragraph, buyers
+                landing on /florida/.../property-and-casualty/ saw 26-hour and
+                28-hour packages with no explanation of why those exceed the
+                state minimum — leading to "did I buy too much?" support
+                tickets. The 24-hour carry-forward rule is the answer.
+              */}
+              {stateData.slug === "florida" && (
+                <div className="bg-white border border-gold/40 rounded-lg p-5 max-w-3xl mx-auto mb-6">
+                  <p className="text-gray-700 text-sm leading-relaxed">
+                    Florida producers in their first 6 years of licensure need 24 P&amp;C CE hours every 2 years; producers licensed 6+ years need 20. All hours include the mandatory 4-hour Law &amp; Ethics Update. Some packages above exceed the state minimum to give producers additional electives in specialty areas (commercial, homeowners + flood, personal auto). Florida allows up to 24 excess CE hours to carry forward to your next renewal cycle per Fla. Stat. §626.2815, so over-quota packages remain useful — your extra hours don&apos;t go to waste.
+                  </p>
+                </div>
+              )}
               <div className="text-center">
                 <a
                   href={stateData.ce.requirementsUrl}

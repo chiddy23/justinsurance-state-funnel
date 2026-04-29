@@ -15,6 +15,31 @@
 //
 // Source: P&C packages list.xlsx (delivered 2026-04-29). 31 packages, all Active.
 
+/**
+ * State-truth CE requirement (separate from package hours).
+ * Source of truth for FAQ generation — NEVER use package.totalHours as the
+ * "state requirement" answer; states have their own minimums independent of
+ * which package a producer buys.
+ */
+export interface StateRequirement {
+  /** What the state actually requires per cycle (minimum). */
+  totalHours: number;
+  /** Optional clarifier (e.g., "20 hours after 6 years of licensure; 24 first 6 years"). */
+  totalHoursNote?: string;
+  /** Ethics hours required by state. */
+  ethicsHours: number;
+  /** Ethics label as the state describes it. */
+  ethicsLabel: string;
+  /** Renewal cycle length, in years. */
+  renewalCycleYears: number;
+  /** Statute / regulation citation. */
+  statuteCitation: string;
+  /** Max excess CE hours that may carry forward to next cycle (if allowed). */
+  carryoverHours?: number;
+  /** True if statute citation is unverified — adds a "verify with DOI" line in FAQs. */
+  requiresVerification?: boolean;
+}
+
 export interface PCPackage {
   /** Two-letter state code (uppercase) */
   state: string;
@@ -46,9 +71,59 @@ export interface PCPackage {
   price: string;
   /** Set true for packages where price needs stakeholder confirmation */
   priceNeedsConfirmation?: boolean;
+  /**
+   * State CE truth — what the state requires per cycle (NOT what the package
+   * delivers). Used by FAQ generator to avoid YMYL bug where package hours
+   * were rendered as the state mandate.
+   */
+  stateRequirement: StateRequirement;
 }
 
-export const PC_CE_PACKAGES: PCPackage[] = [
+/**
+ * Per-state CE truth lookup. All packages in a multi-package state share the
+ * same StateRequirement (FL: 20-hr base, MA: 45-hr base etc.).
+ *
+ * Statute citations: states marked `requiresVerification: true` use a "per
+ * [statute]" wording in the FAQ along with a "verify with DOI" line because
+ * the citation has not been double-checked against the live state code as of
+ * 2026-04-29. Verified citations are listed without the "per" hedge.
+ */
+const PC_STATE_REQUIREMENTS: Record<string, StateRequirement> = {
+  AK: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per AK Stat. §21.27", requiresVerification: true },
+  AZ: { totalHours: 48, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 4, statuteCitation: "A.R.S. §20-2904" },
+  CA: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics plus a separate 1-hour anti-fraud module", renewalCycleYears: 2, statuteCitation: "Cal. Ins. Code §1749.3" },
+  FL: { totalHours: 20, totalHoursNote: "Florida producers in their first 6 years of licensure need 24 hours; producers licensed 6+ years need 20 hours.", ethicsHours: 4, ethicsLabel: "Law & Ethics Update", renewalCycleYears: 2, statuteCitation: "Fla. Stat. §626.2815", carryoverHours: 24 },
+  IA: { totalHours: 36, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 3, statuteCitation: "Iowa Code §522B.11" },
+  ID: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per Idaho Code §41-1019", requiresVerification: true },
+  IL: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics (delivered in webinar format)", renewalCycleYears: 2, statuteCitation: "215 ILCS 5/500-135" },
+  KS: { totalHours: 18, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "K.S.A. 40-4903" },
+  MA: { totalHours: 45, totalHoursNote: "45 hours is the standard tier; some Massachusetts licensees fall under a 60-hour extended renewal-cycle requirement.", ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 3, statuteCitation: "211 CMR 81.00" },
+  ME: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per 24-A M.R.S. §1420-J", requiresVerification: true },
+  MT: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics plus a 1-hour Montana Insurance Law module", renewalCycleYears: 2, statuteCitation: "Mont. Code Ann. §33-17-1204" },
+  NC: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "N.C. Gen. Stat. §58-33-130" },
+  NE: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per Neb. Rev. Stat. §44-3909", requiresVerification: true },
+  NH: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per N.H. Ins. Reg. 401", requiresVerification: true },
+  NJ: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "N.J.S.A. 17:22A-32" },
+  NM: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics (with classroom-equivalent delivery)", renewalCycleYears: 2, statuteCitation: "N.M.S.A. §59A-12-19" },
+  OH: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Ohio Rev. Code §3905.481" },
+  RI: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per R.I. Gen. Laws §27-2.4-7.1", requiresVerification: true },
+  TN: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Tenn. Code Ann. §56-6-104" },
+  TX: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics (with 50% classroom-equivalent delivery)", renewalCycleYears: 2, statuteCitation: "Tex. Ins. Code §4004.051" },
+  VA: { totalHours: 16, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Va. Code §38.2-1868.1" },
+  VT: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per 8 V.S.A. §4815", requiresVerification: true },
+  WI: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per Wis. Stat. §628.04", requiresVerification: true },
+  WV: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per W. Va. Code §33-12-21", requiresVerification: true },
+  WY: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per Wyo. Stat. §26-9-216", requiresVerification: true },
+};
+
+/**
+ * Raw package definitions (without `stateRequirement`). The exported
+ * `PC_CE_PACKAGES` below injects `stateRequirement` from `PC_STATE_REQUIREMENTS`
+ * so we don't repeat the same state-truth block 6 times for FL or 2 times for MA.
+ */
+type PCPackageInput = Omit<PCPackage, "stateRequirement">;
+
+const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
   // === Single-package states (23) ===
   {
     state: "AK", stateName: "Alaska", stateSlug: "alaska",
@@ -358,6 +433,22 @@ export const PC_CE_PACKAGES: PCPackage[] = [
     status: "Active", price: "$39", priceNeedsConfirmation: true,
   },
 ];
+
+/**
+ * Final exported package list — each entry has `stateRequirement` injected
+ * from `PC_STATE_REQUIREMENTS` based on the two-letter state code. If a state
+ * is missing from the lookup table, the build will fail loudly here so we
+ * never silently ship a package without a state-truth block.
+ */
+export const PC_CE_PACKAGES: PCPackage[] = PC_CE_PACKAGES_RAW.map((p) => {
+  const stateReq = PC_STATE_REQUIREMENTS[p.state];
+  if (!stateReq) {
+    throw new Error(
+      `pc-ce-packages: missing PC_STATE_REQUIREMENTS entry for ${p.state} (${p.stateName}). Add it before shipping packages for this state.`
+    );
+  }
+  return { ...p, stateRequirement: stateReq };
+});
 
 /** All state slugs that have at least one P&C CE package. */
 export const PC_STATE_SLUGS = Array.from(

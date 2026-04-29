@@ -9,7 +9,7 @@ import ArticleByline from "@/components/ArticleByline";
 export const metadata: Metadata = {
   title: { absolute: "How Much Does an Insurance License Cost? 2026 Fees" },
   description:
-    "Insurance license all-in cost runs $300 to $600. State-by-state exam, application, and fingerprint fees for 2026.",
+    "Insurance license costs $300 to $600 all-in: state exam, application, fingerprint, and prelicensing fees. State-by-state breakdown for 2026.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-license-cost" },
 };
 

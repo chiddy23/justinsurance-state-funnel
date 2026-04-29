@@ -8,7 +8,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Insurance Prelicensing Courses | Nationwide | JustInsurance";
 const PAGE_DESC =
-  "State-approved insurance prelicensing courses online. $199, pass guarantee. Life, health, and combined. Start in any of 50 states.";
+  "State-approved insurance prelicensing courses online — $199 with pass guarantee. Life, Health, and Life & Health courses, available in all 50 states.";
 const CANONICAL = "https://justinsuranceco.com/prelicensing";
 
 export const metadata: Metadata = {

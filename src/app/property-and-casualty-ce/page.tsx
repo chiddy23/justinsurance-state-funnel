@@ -18,7 +18,7 @@ import {
 
 const PAGE_TITLE = "State-Approved Property & Casualty CE | JustInsurance";
 const PAGE_DESC =
-  "State-approved Property & Casualty continuing education in 25 states. IDECC-certified instructor, same-day DOI reporting, statutory citations on every package.";
+  "State-approved Property & Casualty CE in 25 states. IDECC-certified instructor, same-day DOI reporting, statutory citations on every package.";
 const CANONICAL = "https://justinsuranceco.com/property-and-casualty-ce";
 
 export function generateMetadata(): Metadata {

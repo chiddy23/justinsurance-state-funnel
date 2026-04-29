@@ -8,7 +8,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Insurance CE Courses | Same-Day Reporting | JustInsurance";
 const PAGE_DESC =
-  "Renew your insurance license online. $39 CE packages, same-day DOI reporting. State-approved for 50 states. Enroll now.";
+  "Renew your insurance license online. State-approved CE with same-day DOI reporting, IDECC-certified curriculum. L&H from $39, P&C CE in 25 states.";
 const CANONICAL = "https://justinsuranceco.com/continuing-education";
 
 export const metadata: Metadata = {

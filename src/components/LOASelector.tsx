@@ -2,6 +2,11 @@ import React from "react";
 import Link from "next/link";
 import type { StateData } from "@/lib/states";
 import catalogLinks from "@/lib/catalog-links.json";
+import {
+  PC_STATE_SLUGS,
+  getPCPackagesForState,
+  isPCMultiPackageState,
+} from "@/data/pc-ce-packages";
 
 function isOptionalHours(hours: number | string): boolean {
   if (typeof hours !== "string") return false;
@@ -107,6 +112,42 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           },
         ];
 
+  // Append P&C CE card when state has P&C packages. P&C is a separate line
+  // of authority from L&H (different state DOI bucket, different curriculum,
+  // different cycle in some states), so it belongs in the LOA selector for
+  // dual-licensed producers. For multi-package states (FL, MA), card shows
+  // the common totalHours value and links to the multi-package landing.
+  if (
+    courseType === "continuing-education" &&
+    PC_STATE_SLUGS.includes(stateSlug)
+  ) {
+    const pcPackages = getPCPackagesForState(stateSlug);
+    const isMulti = isPCMultiPackageState(stateSlug);
+    // Determine display hours — if all packages share the same totalHours,
+    // show that; otherwise show a range (min–max).
+    const hoursValues = pcPackages.map((p) => p.totalHours);
+    const minH = Math.min(...hoursValues);
+    const maxH = Math.max(...hoursValues);
+    const hoursDisplay = minH === maxH ? minH : `${minH}–${maxH}`;
+    cards.push({
+      slug: "property-and-casualty",
+      name: "Property & Casualty CE",
+      description: isMulti
+        ? `${pcPackages.length} state-approved P&C packages — auto, homeowners, commercial, flood. ${stateData.name} producers writing P&C alongside L&H need both CE buckets to renew.`
+        : `Complete your P&C continuing education online. ${stateData.name}-approved hours covering personal auto, homeowners, commercial property, GL, and workers' compensation.`,
+      hours: hoursDisplay,
+      price: pcPackages[0].price,
+      renewalYears: undefined,
+      pageHref: `/${stateSlug}/continuing-education/property-and-casualty/`,
+      // For multi-package states, send to the landing page (visitor picks
+      // their specific package); for single-package states, link directly
+      // to the cart.
+      enrollHref: isMulti
+        ? `/${stateSlug}/continuing-education/property-and-casualty/`
+        : pcPackages[0].cartLink,
+    });
+  }
+
   return (
     <section className="bg-gray-bg py-16 px-4">
       <div className="max-w-5xl mx-auto">
@@ -119,7 +160,13 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             : "Select the course that matches your current license type."}
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div
+          className={`grid grid-cols-1 gap-6 ${
+            cards.length === 4
+              ? "md:grid-cols-2 lg:grid-cols-4"
+              : "md:grid-cols-3"
+          }`}
+        >
           {cards.map((card, idx) => (
             <div
               key={card.slug}
@@ -158,14 +205,27 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               >
                 Learn More
               </Link>
-              <a
-                href={card.enrollHref}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-4 rounded-lg transition-colors"
-              >
-                Enroll Now &mdash; {card.price}
-              </a>
+              {card.enrollHref.startsWith("/") ? (
+                // Internal link (multi-package landing) — no new tab, "Choose"
+                // label since the user is selecting a package, not paying yet.
+                <Link
+                  href={card.enrollHref}
+                  className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-4 rounded-lg transition-colors"
+                >
+                  Choose a Package &rarr;
+                </Link>
+              ) : (
+                // External cart link (single-package) — open in new tab,
+                // "Enroll Now" label with price.
+                <a
+                  href={card.enrollHref}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-4 rounded-lg transition-colors"
+                >
+                  Enroll Now &mdash; {card.price}
+                </a>
+              )}
             </div>
           ))}
         </div>

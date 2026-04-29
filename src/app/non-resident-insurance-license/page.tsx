@@ -52,6 +52,53 @@ const faqs = [
 
 const faqSchema = generateFAQSchema(faqs);
 
+// Hub-page schemas: WebPage + EducationalOccupationalCredential. Pairs with
+// the 50 state-requirements pages each linking here with the exact-match
+// "Non-Resident Insurance License" anchor — the credential schema gives Google
+// an explicit "this is the canonical resource for this credential" signal,
+// reinforcing the topical-cluster hub-and-spoke architecture.
+const credentialSchema = {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalCredential",
+  name: "Non-Resident Insurance Producer License",
+  description:
+    "An insurance producer license issued by a state to an individual whose primary residence is in a different state, granted under NAIC reciprocity standards adopted by all 50 states plus DC. Allows the producer to legally solicit, negotiate, and sell insurance in the issuing state.",
+  credentialCategory: "license",
+  recognizedBy: {
+    "@type": "Organization",
+    name: "National Association of Insurance Commissioners (NAIC)",
+    url: "https://content.naic.org",
+  },
+  educationalLevel: "Producer",
+  competencyRequired:
+    "Active resident producer license in good standing in the applicant's home state. No additional examination required under reciprocity.",
+  url: "https://justinsuranceco.com/non-resident-insurance-license",
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "Non-Resident Insurance License: Reciprocity Guide",
+  url: "https://justinsuranceco.com/non-resident-insurance-license",
+  description:
+    "Complete guide to non-resident insurance producer licensing across all 50 states — NAIC reciprocity rules, NIPR application process, fees, CE requirements, and common pitfalls.",
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": "https://justinsuranceco.com/non-resident-insurance-license",
+  },
+  about: {
+    "@type": "EducationalOccupationalCredential",
+    name: "Non-Resident Insurance Producer License",
+  },
+  isPartOf: {
+    "@type": "WebSite",
+    name: "JustInsurance",
+    url: "https://justinsuranceco.com",
+  },
+  publisher: { "@id": "https://justinsuranceco.com#organization" },
+  inLanguage: "en-US",
+};
+
 const applicationSteps = [
   {
     step: "1",
@@ -121,6 +168,8 @@ export default function NonResidentInsuranceLicensePage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={webPageSchema} />
+      <SchemaMarkup schema={credentialSchema} />
 
       <BreadcrumbNav
         crumbs={[

@@ -150,7 +150,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
 
   return (
     <section className="bg-gray-bg py-16 px-4">
-      <div className="max-w-5xl mx-auto">
+      <div className={`mx-auto ${cards.length === 4 ? "max-w-7xl" : "max-w-5xl"}`}>
         <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
           Choose Your Line of Authority
         </h2>
@@ -161,16 +161,18 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
         </p>
 
         <div
-          className={`grid grid-cols-1 gap-6 ${
+          className={`grid grid-cols-1 ${
             cards.length === 4
-              ? "md:grid-cols-2 lg:grid-cols-4"
-              : "md:grid-cols-3"
+              ? "md:grid-cols-2 lg:grid-cols-4 gap-5"
+              : "md:grid-cols-3 gap-6"
           }`}
         >
           {cards.map((card, idx) => (
             <div
               key={card.slug}
-              className={`bg-white rounded-xl shadow-md border-2 p-6 flex flex-col hover:shadow-xl transition-shadow ${
+              className={`bg-white rounded-xl shadow-md border-2 ${
+                cards.length === 4 ? "p-5" : "p-6"
+              } flex flex-col hover:shadow-xl transition-shadow ${
                 idx === 2 ? "border-gold" : "border-transparent"
               }`}
             >

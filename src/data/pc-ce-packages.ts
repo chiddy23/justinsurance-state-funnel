@@ -83,37 +83,38 @@ export interface PCPackage {
  * Per-state CE truth lookup. All packages in a multi-package state share the
  * same StateRequirement (FL: 20-hr base, MA: 45-hr base etc.).
  *
- * Statute citations: states marked `requiresVerification: true` use a "per
- * [statute]" wording in the FAQ along with a "verify with DOI" line because
- * the citation has not been double-checked against the live state code as of
- * 2026-04-29. Verified citations are listed without the "per" hedge.
+ * Statute citations: all 25 entries verified against live state DOI / state code
+ * as of 2026-04-28 (10-state verification round corrected AK, ID, ME, NE, NH,
+ * RI, VT, WI, WV, WY citations to point at the actual CE-governing section
+ * rather than unrelated/repealed statutes). Optional `requiresVerification: true`
+ * may be re-added if a future amendment changes a citation pending recheck.
  */
 const PC_STATE_REQUIREMENTS: Record<string, StateRequirement> = {
-  AK: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per AK Stat. §21.27", requiresVerification: true },
+  AK: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "AS 21.27.020(f)" },
   AZ: { totalHours: 48, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 4, statuteCitation: "A.R.S. §20-2904" },
   CA: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics plus a separate 1-hour anti-fraud module", renewalCycleYears: 2, statuteCitation: "Cal. Ins. Code §1749.3" },
   FL: { totalHours: 20, totalHoursNote: "Florida producers in their first 6 years of licensure need 24 hours; producers licensed 6+ years need 20 hours.", ethicsHours: 4, ethicsLabel: "Law & Ethics Update", renewalCycleYears: 2, statuteCitation: "Fla. Stat. §626.2815", carryoverHours: 24 },
   IA: { totalHours: 36, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 3, statuteCitation: "Iowa Code §522B.11" },
-  ID: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per Idaho Code §41-1019", requiresVerification: true },
+  ID: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Idaho Code §41-1013" },
   IL: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics (delivered in webinar format)", renewalCycleYears: 2, statuteCitation: "215 ILCS 5/500-135" },
   KS: { totalHours: 18, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "K.S.A. 40-4903" },
   MA: { totalHours: 45, totalHoursNote: "45 hours is the standard tier; some Massachusetts licensees fall under a 60-hour extended renewal-cycle requirement.", ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 3, statuteCitation: "211 CMR 81.00" },
-  ME: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per 24-A M.R.S. §1420-J", requiresVerification: true },
+  ME: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "24-A M.R.S. §1482" },
   MT: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics plus a 1-hour Montana Insurance Law module", renewalCycleYears: 2, statuteCitation: "Mont. Code Ann. §33-17-1204" },
   NC: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "N.C. Gen. Stat. §58-33-130" },
-  NE: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per Neb. Rev. Stat. §44-3909", requiresVerification: true },
-  NH: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per N.H. Ins. Reg. 401", requiresVerification: true },
+  NE: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Neb. Rev. Stat. §§44-3901 to 44-3908" },
+  NH: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "N.H. Admin. Code Ins 1300" },
   NJ: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "N.J.S.A. 17:22A-32" },
   NM: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics (with classroom-equivalent delivery)", renewalCycleYears: 2, statuteCitation: "N.M.S.A. §59A-12-19" },
   OH: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Ohio Rev. Code §3905.481" },
-  RI: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per R.I. Gen. Laws §27-2.4-7.1", requiresVerification: true },
+  RI: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "230-RICR-20-50-2 (Insurance Regulation 40)", carryoverHours: 12 },
   TN: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Tenn. Code Ann. §56-6-104" },
   TX: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics (with 50% classroom-equivalent delivery)", renewalCycleYears: 2, statuteCitation: "Tex. Ins. Code §4004.051" },
   VA: { totalHours: 16, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Va. Code §38.2-1868.1" },
-  VT: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per 8 V.S.A. §4815", requiresVerification: true },
-  WI: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per Wis. Stat. §628.04", requiresVerification: true },
-  WV: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per W. Va. Code §33-12-21", requiresVerification: true },
-  WY: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "per Wyo. Stat. §26-9-216", requiresVerification: true },
+  VT: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "8 V.S.A. §4800a" },
+  WI: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Wis. Stat. §628.04(3)" },
+  WV: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "W. Va. Code §33-12-8", carryoverHours: 6 },
+  WY: { totalHours: 24, ethicsHours: 3, ethicsLabel: "ethics", renewalCycleYears: 2, statuteCitation: "Wyo. Stat. §26-9-231" },
 };
 
 /**

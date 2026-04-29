@@ -148,29 +148,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Comparison CTA strip */}
-      <section className="bg-white py-8 px-4 border-b border-gray-100">
-        <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">
-          <div>
-            <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-1">
-              Comparing Providers?
-            </p>
-            <p className="text-navy font-bold text-lg">
-              See how JustInsurance stacks up vs XCEL and ExamFX
-            </p>
-            <p className="text-gray-600 text-sm">
-              18 feature points · real pricing · guarantee terms in plain English
-            </p>
-          </div>
-          <a
-            href="/compare"
-            className="flex-shrink-0 inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors whitespace-nowrap"
-          >
-            View Comparison →
-          </a>
-        </div>
-      </section>
-
       {/* State Grid */}
       <section id="states" className="bg-white py-16 px-4">
         <div className="max-w-7xl mx-auto">

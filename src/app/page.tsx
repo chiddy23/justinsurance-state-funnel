@@ -69,6 +69,85 @@ export default function HomePage() {
       <TrustBar />
       <PressLogosBar />
 
+      {/* Browse by Course Type — homepage hub anchors */}
+      <section className="bg-gray-bg py-16 px-4">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+            Browse by Course Type
+          </h2>
+          <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
+            Already know what you need? Skip the state grid and jump straight to the course catalog for prelicensing or continuing education.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {/* Prelicensing */}
+            <Link
+              href="/prelicensing"
+              className="group bg-white rounded-xl border-2 border-transparent hover:border-navy shadow-md hover:shadow-xl transition-all p-6 flex flex-col"
+            >
+              <div className="w-12 h-12 bg-navy rounded-full flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                </svg>
+              </div>
+              <h3 className="text-lg font-bold text-navy mb-2 group-hover:text-gold-dark transition-colors">
+                Prelicensing Courses
+              </h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 flex-grow">
+                State-approved prelicensing for Life, Health, and Life &amp; Health insurance licenses. From $199. Pass guarantee included.
+              </p>
+              <span className="inline-flex items-center gap-1 text-navy font-semibold text-sm group-hover:text-gold-dark transition-colors">
+                See Prelicensing Courses &rarr;
+              </span>
+            </Link>
+
+            {/* L&H Continuing Education */}
+            <Link
+              href="/continuing-education"
+              className="group bg-white rounded-xl border-2 border-gold shadow-md hover:shadow-xl transition-all p-6 flex flex-col"
+            >
+              <div className="bg-gold text-gray-dark text-xs font-bold uppercase tracking-wide px-3 py-1 rounded-full self-start mb-3">
+                Most Popular
+              </div>
+              <div className="w-12 h-12 bg-gold rounded-full flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
+                </svg>
+              </div>
+              <h3 className="text-lg font-bold text-navy mb-2 group-hover:text-gold-dark transition-colors">
+                Continuing Education
+              </h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 flex-grow">
+                Renew your Life &amp; Health insurance license with state-approved CE. Same-day DOI reporting. From $39.
+              </p>
+              <span className="inline-flex items-center gap-1 text-navy font-semibold text-sm group-hover:text-gold-dark transition-colors">
+                See CE Courses &rarr;
+              </span>
+            </Link>
+
+            {/* Property & Casualty CE */}
+            <Link
+              href="/property-and-casualty-ce/"
+              className="group bg-white rounded-xl border-2 border-transparent hover:border-gold shadow-md hover:shadow-xl transition-all p-6 flex flex-col"
+            >
+              <div className="w-12 h-12 bg-gold rounded-full flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+                </svg>
+              </div>
+              <h3 className="text-lg font-bold text-navy mb-2 group-hover:text-gold-dark transition-colors">
+                Property &amp; Casualty CE
+              </h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 flex-grow">
+                State-approved P&amp;C CE for personal auto, homeowners, commercial, and flood. 25-state coverage. From $39.
+              </p>
+              <span className="inline-flex items-center gap-1 text-navy font-semibold text-sm group-hover:text-gold-dark transition-colors">
+                See P&amp;C CE Packages &rarr;
+              </span>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Comparison CTA strip */}
       <section className="bg-white py-8 px-4 border-b border-gray-100">
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 text-center md:text-left">

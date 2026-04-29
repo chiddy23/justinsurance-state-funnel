@@ -3,11 +3,17 @@
 import React, { useState } from "react";
 import Link from "next/link";
 
+const COURSES_LINKS = [
+  { label: "Prelicensing Courses", href: "/prelicensing" },
+  { label: "Continuing Education", href: "/continuing-education" },
+  { label: "Property & Casualty CE", href: "/property-and-casualty-ce" },
+  { label: "Practice Exams", href: "/practice-exam" },
+];
+
 const RESOURCES_LINKS = [
   { label: "About Us", href: "/about" },
   { label: "Blog", href: "/blog" },
   { label: "Exam Guide", href: "/insurance-exam-guide" },
-  { label: "Practice Exams", href: "/practice-exam" },
   { label: "Study Guide", href: "/study-guide" },
   { label: "Compare Providers", href: "/compare" },
   { label: "Renewal Guide", href: "/license-renewal-guide" },
@@ -36,6 +42,7 @@ const POPULAR_STATES = [
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
+  const [coursesOpen, setCoursesOpen] = useState(false);
   const [resourcesOpen, setResourcesOpen] = useState(false);
 
   return (
@@ -92,6 +99,37 @@ export default function Navbar() {
                         View All States &rarr;
                       </Link>
                     </div>
+                  </div>
+                </div>
+            </div>
+
+            {/* Courses Dropdown */}
+            <div
+              className="relative"
+              onMouseEnter={() => setCoursesOpen(true)}
+              onMouseLeave={() => setCoursesOpen(false)}
+            >
+              <button
+                className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium py-4"
+                aria-expanded={coursesOpen}
+              >
+                Courses
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+
+              <div className={`absolute top-full left-0 pt-0 w-56 z-50 transition-opacity duration-150 ${coursesOpen ? "opacity-100 visible" : "opacity-0 invisible"}`}>
+                  <div className="bg-white rounded-lg shadow-xl border border-gray-100 py-2">
+                    {COURSES_LINKS.map((link) => (
+                      <Link
+                        key={link.href}
+                        href={link.href}
+                        className="block px-4 py-2 text-gray-dark hover:bg-gray-bg hover:text-navy transition-colors text-sm"
+                      >
+                        {link.label}
+                      </Link>
+                    ))}
                   </div>
                 </div>
             </div>
@@ -180,6 +218,19 @@ export default function Navbar() {
             >
               View All States &rarr;
             </Link>
+            <div className="border-t border-navy-light pt-3">
+              <p className="text-gold font-semibold text-sm uppercase tracking-wide px-2 py-2">Courses</p>
+              {COURSES_LINKS.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="block px-2 py-2 text-white hover:text-gold transition-colors font-medium"
+                  onClick={() => setMobileOpen(false)}
+                >
+                  {link.label}
+                </Link>
+              ))}
+            </div>
             <div className="border-t border-navy-light pt-3">
               <p className="text-gold font-semibold text-sm uppercase tracking-wide px-2 py-2">Resources</p>
               {RESOURCES_LINKS.map((link) => (

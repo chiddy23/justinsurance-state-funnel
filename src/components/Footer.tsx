@@ -71,6 +71,7 @@ export default function Footer() {
               <li><Link href="/" className="text-gray-300 hover:text-gold transition-colors text-sm">All States</Link></li>
               <li><Link href="/prelicensing" className="text-gray-300 hover:text-gold transition-colors text-sm">Prelicensing Courses</Link></li>
               <li><Link href="/continuing-education" className="text-gray-300 hover:text-gold transition-colors text-sm">Continuing Education (CE)</Link></li>
+              <li><Link href="/property-and-casualty-ce/" className="text-gray-300 hover:text-gold transition-colors text-sm">Property &amp; Casualty CE</Link></li>
               <li><Link href="/life-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Life Insurance License</Link></li>
               <li><Link href="/health-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Health Insurance License</Link></li>
               <li><Link href="/life-and-health-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Life &amp; Health License</Link></li>

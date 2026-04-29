@@ -6,9 +6,11 @@ import { generateStateParams } from "@/lib/generateStaticParams";
 import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, generateStateHubCourseSchema, SchemaMarkup } from "@/lib/schema";
 import { getStateHubFAQs, buildFaqData } from "@/lib/faq-data";
 import ArticleByline from "@/components/ArticleByline";
+import Link from "next/link";
 import StateHero from "@/components/StateHero";
 import TrustBar from "@/components/TrustBar";
 import TwoPathSelector from "@/components/TwoPathSelector";
+import { PC_STATE_SLUGS } from "@/data/pc-ce-packages";
 import StateRequirementsBlock from "@/components/StateRequirementsBlock";
 import TestimonialCards from "@/components/TestimonialCards";
 import FAQAccordion from "@/components/FAQAccordion";
@@ -210,7 +212,144 @@ export default async function StateHubPage({
         />
       )}
 
-      <TwoPathSelector stateSlug={stateData.slug} stateName={stateData.name} />
+      {PC_STATE_SLUGS.includes(stateData.slug) ? (
+        // 3-card variant — Prelicensing + L&H CE + P&C CE.
+        // Mirrors TwoPathSelector styling exactly so the visual unity of the
+        // "What Do You Need?" block is preserved. Rendered inline (rather than
+        // extending TwoPathSelector) to keep cross-file changes scoped.
+        <section className="bg-white py-16 px-4">
+          <div className="max-w-6xl mx-auto">
+            <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+              What Do You Need?
+            </h2>
+            <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
+              Whether you&apos;re getting licensed for the first time or renewing your existing license, we have the course for you.
+            </p>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {/* Prelicensing Card */}
+              <div className="border-2 border-navy rounded-xl p-8 flex flex-col hover:shadow-xl transition-shadow">
+                <div className="w-14 h-14 bg-navy rounded-full flex items-center justify-center mb-5">
+                  <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l9-5-9-5-9 5 9 5z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-navy mb-3">Prelicensing</h3>
+                <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
+                  New to insurance? Get your {stateData.name} insurance license with a state-approved prelicensing course. Study online at your own pace, then pass the state exam.
+                </p>
+                <ul className="space-y-2 mb-6">
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    100% online &amp; self-paced
+                  </li>
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Pass guarantee included
+                  </li>
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Starting at $199
+                  </li>
+                </ul>
+                <Link
+                  href={`/${stateData.slug}/prelicensing/`}
+                  className="block text-center bg-navy hover:bg-navy-light text-white font-bold py-3 px-6 rounded-lg transition-colors"
+                >
+                  Get My License &rarr;
+                </Link>
+              </div>
+
+              {/* L&H CE Card */}
+              <div className="border-2 border-gold rounded-xl p-8 flex flex-col hover:shadow-xl transition-shadow">
+                <div className="w-14 h-14 bg-gold rounded-full flex items-center justify-center mb-5">
+                  <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-navy mb-3">L&amp;H Continuing Education</h3>
+                <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
+                  Already licensed in life &amp; health? Complete your {stateData.name} CE hours online before your renewal deadline. We report your completion to the state same-day.
+                </p>
+                <ul className="space-y-2 mb-6">
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Same-day DOI reporting
+                  </li>
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Complete at your own pace
+                  </li>
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Starting at $39
+                  </li>
+                </ul>
+                <Link
+                  href={`/${stateData.slug}/continuing-education/`}
+                  className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
+                >
+                  Renew L&amp;H License &rarr;
+                </Link>
+              </div>
+
+              {/* P&C CE Card — only rendered when state is in PC_STATE_SLUGS */}
+              <div className="border-2 border-gold rounded-xl p-8 flex flex-col hover:shadow-xl transition-shadow">
+                <div className="w-14 h-14 bg-gold rounded-full flex items-center justify-center mb-5">
+                  <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+                  </svg>
+                </div>
+                <h3 className="text-xl font-bold text-navy mb-3">Property &amp; Casualty CE</h3>
+                <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
+                  Hold a P&amp;C license? Complete your {stateData.name} P&amp;C continuing education online with state-approved Ethics + P&amp;C electives. Same-day DOI reporting included.
+                </p>
+                <ul className="space-y-2 mb-6">
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    State-approved Ethics + P&amp;C
+                  </li>
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Same-day DOI reporting
+                  </li>
+                  <li className="flex items-center gap-2 text-sm text-gray-600">
+                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                    </svg>
+                    Starting at $39
+                  </li>
+                </ul>
+                <Link
+                  href={`/${stateData.slug}/continuing-education/property-and-casualty/`}
+                  className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
+                >
+                  Renew P&amp;C License &rarr;
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+      ) : (
+        <TwoPathSelector stateSlug={stateData.slug} stateName={stateData.name} />
+      )}
 
       <StateRequirementsBlock stateData={stateData} />
 

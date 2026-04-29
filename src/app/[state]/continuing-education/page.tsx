@@ -12,6 +12,8 @@ import FAQAccordion from "@/components/FAQAccordion";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CEComplianceSection from "@/components/CEComplianceSection";
 import RelatedStatePages from "@/components/RelatedStatePages";
+import Link from "next/link";
+import { PC_STATE_SLUGS } from "@/data/pc-ce-packages";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -108,6 +110,30 @@ export default async function CEHubPage({
           </div>
         </div>
       </section>
+
+      {/* P&C CE cross-link tile — only rendered for states with a P&C package.
+          Discreet gold/navy tile so dual-licensed agents can navigate to the P&C
+          variant without leaving the L&H CE flow. */}
+      {PC_STATE_SLUGS.includes(stateData.slug) && (
+        <section className="bg-white pt-10 px-4">
+          <div className="max-w-5xl mx-auto">
+            <Link
+              href={`/${stateData.slug}/continuing-education/property-and-casualty/`}
+              className="block bg-gold/10 border-l-4 border-gold rounded-r-lg p-5 hover:bg-gold/20 transition-colors group"
+            >
+              <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-1">
+                Dual-licensed?
+              </p>
+              <p className="text-navy font-bold text-base md:text-lg group-hover:underline">
+                Hold a P&amp;C license too? See our {stateData.name} Property &amp; Casualty CE package &rarr;
+              </p>
+              <p className="text-gray-600 text-sm mt-1">
+                State-approved Ethics + P&amp;C electives, same-day DOI reporting, satisfies your full {stateData.name} P&amp;C renewal cycle.
+              </p>
+            </Link>
+          </div>
+        </section>
+      )}
 
       {/* CE Requirements Section */}
       <section className="bg-white py-16 px-4">

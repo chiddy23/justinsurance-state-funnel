@@ -1,6 +1,7 @@
 import { MetadataRoute } from "next";
 import { generateSitemapEntries } from "@/lib/sitemap-data";
 import { ALL_STATE_SLUGS } from "@/lib/states";
+import { PC_STATE_SLUGS, PC_CE_PACKAGES } from "@/data/pc-ce-packages";
 
 const BASE_URL = "https://justinsuranceco.com";
 
@@ -50,5 +51,43 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  return [...baseEntries, ...costEntries, ...spanishEntries, ...authorEntries];
+  // === Property & Casualty CE ===
+  // 1 national hub + 25 state hubs + 8 multi-package detail pages = 34 entries.
+  // Trailing slashes match the route directory structure used by the new
+  // /[state]/continuing-education/property-and-casualty/ pages.
+  const pcNationalEntry: MetadataRoute.Sitemap = [
+    {
+      url: `${BASE_URL}/property-and-casualty-ce/`,
+      lastModified,
+      changeFrequency: "monthly" as const,
+      priority: 0.9,
+    },
+  ];
+
+  const pcStateEntries: MetadataRoute.Sitemap = PC_STATE_SLUGS.map((slug) => ({
+    url: `${BASE_URL}/${slug}/continuing-education/property-and-casualty/`,
+    lastModified,
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
+
+  // Multi-package detail pages — only packages with packageSlug (FL ×6, MA ×2 = 8).
+  const pcMultiPackageEntries: MetadataRoute.Sitemap = PC_CE_PACKAGES
+    .filter((p) => Boolean(p.packageSlug))
+    .map((p) => ({
+      url: `${BASE_URL}/${p.stateSlug}/continuing-education/property-and-casualty/${p.packageSlug}/`,
+      lastModified,
+      changeFrequency: "monthly" as const,
+      priority: 0.75,
+    }));
+
+  return [
+    ...baseEntries,
+    ...costEntries,
+    ...spanishEntries,
+    ...authorEntries,
+    ...pcNationalEntry,
+    ...pcStateEntries,
+    ...pcMultiPackageEntries,
+  ];
 }

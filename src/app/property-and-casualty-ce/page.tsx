@@ -227,7 +227,7 @@ export default function PropertyAndCasualtyCEPage() {
             State-Approved Property &amp; Casualty Continuing Education
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            {supportedCount}-state coverage. {packageCount} state-approved P&amp;C CE packages built around an IDECC-certified instructor curriculum, same-day DOI reporting, and statutory citations on every state page. Auto, homeowners, commercial, and workers&apos; comp content written in plain English.
+            {packageCount} state-approved P&amp;C CE packages across {supportedCount} states. Built around an IDECC-certified instructor curriculum, same-day DOI reporting, and statutory citations on every state page. Auto, homeowners, commercial, and workers&apos; comp content written in plain English.
           </p>
           <a
             href="#states"

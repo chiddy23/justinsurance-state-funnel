@@ -155,6 +155,22 @@ export default async function StateHubPage({
 
       <BreadcrumbNav crumbs={crumbs} />
 
+      {/* Spanish-language pilot — visible link to /es/{slug} for FL/TX only.
+          Pairs with the hreflang annotations in generateMetadata so Spanish-speaking
+          visitors landing on the EN hub can find the ES version. */}
+      {(stateData.slug === "florida" || stateData.slug === "texas") && (
+        <div className="bg-gold/10 border-y border-gold/30 py-3 px-4 text-center">
+          <a
+            href={`/es/${stateData.slug}/`}
+            hrefLang="es-US"
+            className="text-navy font-semibold hover:text-gold-dark transition-colors text-sm md:text-base inline-flex items-center gap-2"
+          >
+            <span aria-hidden="true">🇪🇸</span>
+            <span>Curso de licencia de seguros disponible en español →</span>
+          </a>
+        </div>
+      )}
+
       {/* Fix 1 — hero subtitle uses stateSpecificIntro */}
       <StateHero
         eyebrow={`${stateData.name} Insurance Licensing`}

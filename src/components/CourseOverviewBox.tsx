@@ -12,7 +12,11 @@ export default function CourseOverviewBox({
   hours,
   price,
   format = "Online, Self-Paced",
-  accessDuration = "12 Months",
+  // 30 days matches the FAQ + Pass Guarantee window (test within 30 days of
+  // first enrollment). Earlier "12 Months" default conflicted with the FAQ
+  // text on every prelicensing LOA page. CE template explicitly overrides
+  // to "365 Days" and is unaffected.
+  accessDuration = "30 Days",
   includes = [
     "Video lessons",
     "Interactive e-book",

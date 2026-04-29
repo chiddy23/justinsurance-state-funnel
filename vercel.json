@@ -13,9 +13,11 @@
     { "source": "/feed", "destination": "/", "statusCode": 301 },
     { "source": "/washington-dc", "destination": "/", "statusCode": 301 },
     { "source": "/washington-dc/:path*", "destination": "/", "statusCode": 301 },
-    { "source": "/refund-policy", "destination": "/", "statusCode": 301 },
+    { "source": "/refund-policy", "destination": "/terms", "statusCode": 301 },
     { "source": "/services", "destination": "/", "statusCode": 301 },
-    { "source": "/from-basics-to-pro-comprehensive-online-courses-for-your-insurance-license", "destination": "/", "statusCode": 301 },
+    { "source": "/from-basics-to-pro-comprehensive-online-courses-for-your-insurance-license", "destination": "/prelicensing", "statusCode": 301 },
+    { "source": "/get-an-insurance-license-overview", "destination": "/insurance-exam-guide", "statusCode": 301 },
+    { "source": "/online-vs-livestream-classes-for-the-state-insurance-license-exam-in-2026", "destination": "/blog", "statusCode": 301 },
     { "source": "/:path+/", "destination": "https://justinsuranceco.com/:path+", "statusCode": 301 }
   ],
   "headers": [

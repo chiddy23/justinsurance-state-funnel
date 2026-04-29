@@ -275,6 +275,17 @@ export default async function RequirementsPage({
               </tbody>
             </table>
           </div>
+          <p className="text-gray-500 text-sm italic text-center mt-4 max-w-2xl mx-auto">
+            Not a {stateData.name} resident? Producers licensed in another state
+            can also be licensed in {stateData.name} via reciprocity — see our{" "}
+            <Link
+              href="/non-resident-insurance-license"
+              className="text-navy underline hover:text-gold not-italic font-semibold"
+            >
+              Non-Resident Insurance License
+            </Link>{" "}
+            guide.
+          </p>
         </div>
       </section>
 

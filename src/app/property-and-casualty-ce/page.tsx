@@ -6,7 +6,6 @@ import FAQAccordion from "@/components/FAQAccordion";
 import ArticleByline from "@/components/ArticleByline";
 import { STATES } from "@/lib/states";
 import {
-  PC_CE_PACKAGES,
   PC_STATE_SLUGS,
   getPCPackagesForState,
 } from "@/data/pc-ce-packages";
@@ -200,7 +199,6 @@ export default function PropertyAndCasualtyCEPage() {
   const supportedStates = buildSupportedStates();
   const unsupportedStates = buildUnsupportedStates();
   const supportedCount = supportedStates.length;
-  const packageCount = PC_CE_PACKAGES.length;
 
   return (
     <>
@@ -227,7 +225,7 @@ export default function PropertyAndCasualtyCEPage() {
             State-Approved Property &amp; Casualty Continuing Education
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            {packageCount} state-approved P&amp;C CE packages across {supportedCount} states. Built around an IDECC-certified instructor curriculum, same-day DOI reporting, and statutory citations on every state page. Auto, homeowners, commercial, and workers&apos; comp content written in plain English.
+            {supportedCount}-state coverage. State-approved P&amp;C CE built around an IDECC-certified instructor curriculum, same-day DOI reporting, and statutory citations on every state page. Auto, homeowners, commercial, and workers&apos; comp content written in plain English.
           </p>
           <a
             href="#states"
@@ -384,7 +382,7 @@ export default function PropertyAndCasualtyCEPage() {
       <section className="bg-white py-16 px-4">
         <div className="max-w-5xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-            Coming Soon — {unsupportedStates.length} States on the Roadmap
+            Coming Soon
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
             We are actively adding state-approved P&amp;C CE in these markets. If yours is below, your home state&apos;s licensing hub still has full prelicensing and L&amp;H CE coverage today.

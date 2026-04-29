@@ -362,51 +362,63 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
   },
   {
     state: "FL", stateName: "Florida", stateSlug: "florida", packageSlug: "commercial-lines",
-    packageName: "Florida Commercial Lines CE Package — 4-Hr L&E Update + 22-Hr P&C",
+    packageName: "Florida Commercial Lines CE Package — 4-Hr L&E Update + 20-Hr P&C",
     shortName: "FL Commercial Lines CE",
-    ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 22, totalHours: 26,
+    ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 20, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=0A1779C2-D4A9-46F8-ACA8-20BF829309EC",
     specialNotes: [
       "Designed for Florida producers focused on commercial property, commercial general liability, workers' compensation, and commercial auto coverage.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
+      "Exact-match for the FL 24-hour first-6-years CE requirement (Fla. Stat. §626.2815). Producers licensed 6+ years (20-hour requirement) can carry forward up to 24 excess hours per the same statute.",
     ],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
+    status: "Active", price: "$39",
   },
   {
-    state: "FL", stateName: "Florida", stateSlug: "florida", packageSlug: "homeowners-flood",
-    packageName: "Florida Homeowners Insurance + Flood CE Package — 4-Hr L&E Update + 22-Hr P&C",
-    shortName: "FL Homeowners + Flood CE",
-    ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 22, totalHours: 26,
-    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=01449926-F002-4CF0-A6E7-6DDDEF3ECE43",
-    specialNotes: [
-      "Focused curriculum for FL producers writing homeowners coverage and NFIP flood policies — Florida's #1 weather-exposure market.",
-      "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
-    ],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
-  },
-  {
-    state: "FL", stateName: "Florida", stateSlug: "florida", packageSlug: "personal-auto",
-    packageName: "Florida Personal Auto Insurance CE Package — 4-Hr L&E Update + 22-Hr P&C",
-    shortName: "FL Personal Auto CE",
-    ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 22, totalHours: 26,
+    state: "FL", stateName: "Florida", stateSlug: "florida", packageSlug: "commercial-flood",
+    packageName: "Florida Commercial + Flood Insurance CE Package — 4-Hr L&E Update + 20-Hr P&C",
+    shortName: "FL Commercial + Flood CE",
+    ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 20, totalHours: 24,
+    // Same Absorb course UUID as the previous "Personal Auto" SKU — LMS course
+    // content was restructured to a 24-hour Commercial + Flood package; UUID
+    // preserved to retain customer enrollment history. Old slug `personal-auto`
+    // 301-redirected to `commercial-flood` (see next.config.mjs).
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=6D05FB7D-6D4E-4F51-9CB6-EC8533B6BECD",
     specialNotes: [
-      "Personal Injury Protection (PIP), uninsured motorist, and FL-specific auto coverage requirements covered in depth.",
+      "Bundle for FL commercial-lines producers who write NFIP flood policies — covers commercial property, GL, workers' comp, plus flood-specific coverage and underwriting.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
+      "Exact-match for the FL 24-hour first-6-years CE requirement (Fla. Stat. §626.2815).",
     ],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
+    status: "Active", price: "$39",
   },
   {
     state: "FL", stateName: "Florida", stateSlug: "florida", packageSlug: "personal-lines",
-    packageName: "Florida Personal Lines Insurance CE Package — 4-Hr L&E Update + 24-Hr P&C",
+    packageName: "Florida Personal Lines Insurance CE Package — 4-Hr L&E Update + 20-Hr P&C",
     shortName: "FL Personal Lines CE",
-    ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 24, totalHours: 28,
+    ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 20, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=1F91D9FF-6C18-4ADF-89A7-37A650BC40BC",
     specialNotes: [
       "Comprehensive personal-lines curriculum: homeowners, personal auto, umbrella, and inland marine coverage for FL consumers.",
       "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
+      "Exact-match for the FL 24-hour first-6-years CE requirement (Fla. Stat. §626.2815). Producers licensed 6+ years (20-hour requirement) can carry forward up to 24 excess hours.",
     ],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
+    status: "Active", price: "$39",
+  },
+  {
+    state: "FL", stateName: "Florida", stateSlug: "florida", packageSlug: "personal-lines-flood",
+    packageName: "Florida Personal Lines + Flood CE Package — 4-Hr L&E Update + 20-Hr P&C",
+    shortName: "FL Personal Lines + Flood CE",
+    ethicsHours: 4, ethicsLabel: "Law & Ethics Update", pcHours: 20, totalHours: 24,
+    // Same Absorb course UUID as the previous "Homeowners + Flood" SKU — LMS
+    // course content was restructured into a broader Personal Lines + Flood
+    // bundle at 24 hours; UUID preserved. Old slug `homeowners-flood`
+    // 301-redirected to `personal-lines-flood`.
+    cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=01449926-F002-4CF0-A6E7-6DDDEF3ECE43",
+    specialNotes: [
+      "Bundle for FL personal-lines producers who write NFIP flood policies — covers homeowners, personal auto, umbrella, inland marine, plus flood-specific coverage and underwriting.",
+      "Includes the 4-Hour Law & Ethics Update specifically approved for FL P&C licensees.",
+      "Exact-match for the FL 24-hour first-6-years CE requirement (Fla. Stat. §626.2815).",
+    ],
+    status: "Active", price: "$39",
   },
 
   // === Massachusetts — 2 multi-package state (hour tiers) ===

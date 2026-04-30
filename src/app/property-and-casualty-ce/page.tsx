@@ -272,7 +272,7 @@ export default function PropertyAndCasualtyCEPage() {
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
             Each card opens the state-specific P&amp;C CE hub with full requirement detail, statutory citations, and Add-to-Cart links for every approved package.
           </p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
             {supportedStates.map((s) => (
               <Link
                 key={s.slug}

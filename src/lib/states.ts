@@ -2935,7 +2935,7 @@ export const STATES: Record<string, StateData> = {
     },
 
     ce: {
-      totalHours: 24,
+      totalHours: 18,
       renewalPeriod: "2 years",
       ethicsHours: 3,
       requirementsUrl: "https://insurance.kansas.gov/continuing-education/",

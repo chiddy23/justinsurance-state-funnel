@@ -1737,7 +1737,7 @@
     "RETAKE_WAITING_PERIOD": "a 7-day waiting period for your first three attempts, or a 6-month waiting period after your third and any subsequent failures",
     "RETAKE_LIMIT_INFO": "There is no absolute limit on retakes, but the 6-month waiting period after the third failure is a significant practical barrier. If it has been more than 2 years since your last attempt, you reset to first-time status.",
     "LICENSE_APPLICATION_PORTAL": "https://nipr.com/licensing-center/apply",
-    "CE_TOTAL_HOURS": "24",
+    "CE_TOTAL_HOURS": "18",
     "CE_RENEWAL_PERIOD": "2 years",
     "CE_ETHICS_HOURS": "3",
     "CE_REQUIREMENTS_URL": "https://insurance.kansas.gov/continuing-education/",

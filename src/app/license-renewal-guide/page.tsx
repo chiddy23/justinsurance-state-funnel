@@ -68,7 +68,7 @@ const statesCEData: [string, string, number, string][] = [
   ["Illinois", "illinois", 24, "2 years"],
   ["Indiana", "indiana", 24, "2 years"],
   ["Iowa", "iowa", 36, "3 years"],
-  ["Kansas", "kansas", 24, "2 years"],
+  ["Kansas", "kansas", 18, "2 years"],
   ["Kentucky", "kentucky", 24, "2 years"],
   ["Louisiana", "louisiana", 24, "2 years"],
   ["Maine", "maine", 24, "2 years"],

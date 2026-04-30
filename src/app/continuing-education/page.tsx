@@ -60,6 +60,52 @@ const stats = [
   { value: "2–4 hrs", label: "Avg. completion time", sub: "Complete your renewal in a single session" },
 ];
 
+// Hub-page schemas: WebPage + EducationalOccupationalCredential. Mirrors the
+// non-resident-license + property-and-casualty-ce hubs so all 4 product/hub
+// pages share the same hub-architecture schema set. Pairs with the homepage
+// + navbar internal-link push (commit d768fdd) — gives Google an explicit
+// "this is the canonical resource for the [credential]" signal.
+const credentialSchema = {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalCredential",
+  name: "State Insurance Producer License — Continuing Education",
+  description:
+    "Continuing education credit hours required by each state's Department of Insurance to maintain an active insurance producer license. Hours and ethics requirements vary by state and license type. Required on a recurring renewal cycle (typically 2 years for Life & Health, with state-specific variations).",
+  credentialCategory: "license",
+  educationalLevel: "Producer",
+  competencyRequired:
+    "Active resident or non-resident insurance producer license. State-approved CE coursework completed and reported to the state DOI before the license expiration date.",
+  recognizedBy: {
+    "@type": "Organization",
+    name: "State Department of Insurance",
+  },
+  url: "https://justinsuranceco.com/continuing-education",
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "Insurance Continuing Education — Same-Day DOI Reporting",
+  url: "https://justinsuranceco.com/continuing-education",
+  description:
+    "State-approved insurance continuing education for license renewal. Same-day DOI reporting, IDECC-certified instructor curriculum. Life & Health CE from $39, plus Property & Casualty CE in 25 states.",
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": "https://justinsuranceco.com/continuing-education",
+  },
+  about: {
+    "@type": "EducationalOccupationalCredential",
+    name: "State Insurance Producer License — Continuing Education",
+  },
+  isPartOf: {
+    "@type": "WebSite",
+    name: "JustInsurance",
+    url: "https://justinsuranceco.com",
+  },
+  publisher: { "@id": "https://justinsuranceco.com#organization" },
+  inLanguage: "en-US",
+};
+
 export default function ContinuingEducationPage() {
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -101,6 +147,8 @@ export default function ContinuingEducationPage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={webPageSchema} />
+      <SchemaMarkup schema={credentialSchema} />
       <SchemaMarkup schema={courseSchema} />
 
       <BreadcrumbNav

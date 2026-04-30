@@ -78,6 +78,52 @@ const videoSchema = {
   },
 };
 
+// Hub-page schemas: WebPage + EducationalOccupationalCredential. Mirrors the
+// non-resident-license + property-and-casualty-ce hubs so all 4 product/hub
+// pages share the same hub-architecture schema set. Pairs with the homepage
+// + navbar internal-link push (commit d768fdd) — gives Google an explicit
+// "this is the canonical resource for the [credential]" signal.
+const credentialSchema = {
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalCredential",
+  name: "State Insurance Producer License",
+  description:
+    "A state-issued license authorizing an individual to solicit, negotiate, and sell insurance products. Issued by each state's Department of Insurance after the candidate completes prelicensing education (where required), passes the state licensing exam, and clears a fingerprint-based background check.",
+  credentialCategory: "license",
+  educationalLevel: "Producer",
+  competencyRequired:
+    "State-approved prelicensing education (hours vary by state and line of authority) and a passing score on the state insurance licensing exam administered by Pearson VUE, PSI, or Prometric.",
+  recognizedBy: {
+    "@type": "Organization",
+    name: "State Department of Insurance",
+  },
+  url: "https://justinsuranceco.com/prelicensing",
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: "Insurance Prelicensing Courses — Nationwide Coverage",
+  url: "https://justinsuranceco.com/prelicensing",
+  description:
+    "State-approved insurance prelicensing courses across all 50 states. Life, Health, and Life & Health combined courses for the State Insurance Producer License. $199 with pass guarantee.",
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": "https://justinsuranceco.com/prelicensing",
+  },
+  about: {
+    "@type": "EducationalOccupationalCredential",
+    name: "State Insurance Producer License",
+  },
+  isPartOf: {
+    "@type": "WebSite",
+    name: "JustInsurance",
+    url: "https://justinsuranceco.com",
+  },
+  publisher: { "@id": "https://justinsuranceco.com#organization" },
+  inLanguage: "en-US",
+};
+
 export default function PrelicensingPage() {
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -93,6 +139,8 @@ export default function PrelicensingPage() {
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={webPageSchema} />
+      <SchemaMarkup schema={credentialSchema} />
       <SchemaMarkup schema={videoSchema} />
 
       <BreadcrumbNav

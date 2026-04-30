@@ -241,17 +241,11 @@ export default function PropertyAndCasualtyCEPage() {
       <TrustBar />
       <PressLogosBar />
 
-      {/* Byline strip */}
-      <section className="bg-white pt-6 px-4">
-        <div className="max-w-4xl mx-auto">
-          <ArticleByline />
-        </div>
-      </section>
-
-      {/* What is P&C CE */}
+      {/* What is P&C CE — byline moved INTO article so it reads as introducing the content (E-E-A-T review signal) rather than floating between trust signals */}
       <section className="bg-white py-12 px-4">
         <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-6">
+          <ArticleByline />
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-6 mt-6">
             What Is Property &amp; Casualty Continuing Education?
           </h2>
           <div className="space-y-5 text-gray-700 leading-relaxed text-base">

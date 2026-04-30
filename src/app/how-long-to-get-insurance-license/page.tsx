@@ -4,6 +4,8 @@ import ArticleByline from "@/components/ArticleByline";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
+import PressLogosBar from "@/components/PressLogosBar";
+import TrustBar from "@/components/TrustBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 
 export const metadata: Metadata = {
@@ -160,6 +162,9 @@ export default function HowLongToGetInsuranceLicensePage() {
           </div>
         </div>
       </section>
+
+      <TrustBar />
+      <PressLogosBar />
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline />

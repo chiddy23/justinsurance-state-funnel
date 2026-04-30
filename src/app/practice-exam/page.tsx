@@ -11,6 +11,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import FAQAccordion from "@/components/FAQAccordion";
 import StatePickerRedirect from "@/components/StatePickerRedirect";
 import PressLogosBar from "@/components/PressLogosBar";
+import TrustBar from "@/components/TrustBar";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 
 export const metadata: Metadata = generatePageMetadata({
@@ -109,6 +110,7 @@ export default function PracticeExamHubPage() {
         </div>
       </section>
 
+      <TrustBar />
       <PressLogosBar />
 
       {/* Trust band */}

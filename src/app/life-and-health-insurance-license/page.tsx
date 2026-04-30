@@ -3,6 +3,8 @@ import Link from "next/link";
 import { STATES } from "@/lib/states";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
+import PressLogosBar from "@/components/PressLogosBar";
+import TrustBar from "@/components/TrustBar";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
@@ -122,6 +124,9 @@ export default function LifeAndHealthInsuranceLicensePage() {
           </a>
         </div>
       </section>
+
+      <TrustBar />
+      <PressLogosBar />
 
       {/* Why combined */}
       <section className="bg-white py-16 px-4">

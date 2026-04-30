@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
+import PressLogosBar from "@/components/PressLogosBar";
+import TrustBar from "@/components/TrustBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 import Link from "next/link";
 import ArticleByline from "@/components/ArticleByline";
@@ -176,6 +178,9 @@ export default function LicenseRenewalGuidePage() {
           </p>
         </div>
       </section>
+
+      <TrustBar />
+      <PressLogosBar />
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline />

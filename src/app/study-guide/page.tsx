@@ -3,6 +3,8 @@ import Link from "next/link";
 import ArticleByline from "@/components/ArticleByline";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import FAQAccordion from "@/components/FAQAccordion";
+import PressLogosBar from "@/components/PressLogosBar";
+import TrustBar from "@/components/TrustBar";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import StudyGuideStateGrid from "@/components/StudyGuideStateGrid";
 import PracticeQuestionCard from "@/components/PracticeQuestionCard";
@@ -194,6 +196,9 @@ export default function StudyGuidePage() {
           </div>
         </div>
       </section>
+
+      <TrustBar />
+      <PressLogosBar />
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline />

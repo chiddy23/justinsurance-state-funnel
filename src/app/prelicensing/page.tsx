@@ -4,6 +4,8 @@ import { STATES } from "@/lib/states";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
+import TrustBar from "@/components/TrustBar";
+import PressLogosBar from "@/components/PressLogosBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
 const PAGE_TITLE = "Insurance Prelicensing Courses | Nationwide | JustInsurance";
@@ -170,6 +172,9 @@ export default function PrelicensingPage() {
           </a>
         </div>
       </section>
+
+      <TrustBar />
+      <PressLogosBar />
 
       {/* What is prelicensing */}
       <section className="bg-white py-16 px-4">

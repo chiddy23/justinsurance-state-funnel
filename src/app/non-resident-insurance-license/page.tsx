@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
+import TrustBar from "@/components/TrustBar";
+import PressLogosBar from "@/components/PressLogosBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import Link from "next/link";
 
@@ -194,6 +196,9 @@ export default function NonResidentInsuranceLicensePage() {
           </p>
         </div>
       </section>
+
+      <TrustBar />
+      <PressLogosBar />
 
       {/* What is a non-resident license */}
       <section className="bg-white py-16 px-4">

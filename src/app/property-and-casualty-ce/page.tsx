@@ -4,6 +4,8 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
 import ArticleByline from "@/components/ArticleByline";
+import TrustBar from "@/components/TrustBar";
+import PressLogosBar from "@/components/PressLogosBar";
 import { STATES } from "@/lib/states";
 import {
   PC_STATE_SLUGS,
@@ -235,6 +237,9 @@ export default function PropertyAndCasualtyCEPage() {
           </a>
         </div>
       </section>
+
+      <TrustBar />
+      <PressLogosBar />
 
       {/* Byline strip */}
       <section className="bg-white pt-6 px-4">

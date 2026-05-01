@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import { GoogleAnalytics } from "@next/third-parties/google";
 import Script from "next/script";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
+// GA4 (G-MTQQ0C7DKL) is now fired exclusively by GTM (Configuration tag).
+// Direct <GoogleAnalytics> removed 2026-05-01 after SEO team confirmed
+// GTM-injected GA4 was flowing pageviews. Single source of truth via GTM.
 const GTM_ID = "GTM-PV25B4HX";
 
 const inter = Inter({
@@ -84,7 +86,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <main className="flex-grow">{children}</main>
         <Footer />
       </body>
-      <GoogleAnalytics gaId="G-MTQQ0C7DKL" />
     </html>
   );
 }

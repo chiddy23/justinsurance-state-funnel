@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import type { BlogPost } from "@/lib/blog";
+import LastUpdated from "@/components/LastUpdated";
 
 interface BlogPostLayoutProps {
   post: BlogPost;
@@ -125,6 +126,11 @@ export default function BlogPostLayout({ post, htmlContent }: BlogPostLayoutProp
             ].join(" ")}
             dangerouslySetInnerHTML={{ __html: htmlContent }}
           />
+
+          {/* Visible "Last updated" stamp — pairs with schema dateModified */}
+          <div className="mt-10 pt-6 border-t border-gray-100">
+            <LastUpdated date={post.date} />
+          </div>
         </div>
       </div>
     </article>

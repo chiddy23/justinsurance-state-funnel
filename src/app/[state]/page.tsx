@@ -17,6 +17,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StateNoticesSection from "@/components/StateNoticesSection";
 import StateProviderBadge from "@/components/StateProviderBadge";
+import LastUpdated from "@/components/LastUpdated";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
@@ -585,6 +586,13 @@ export default async function StateHubPage({
         currentPage="state-hub"
         variant="gray"
       />
+
+      {/* Visible "Last updated" stamp above the final CTA */}
+      <section className="bg-white py-6 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto text-center">
+          <LastUpdated date={stateData.lastVerified} />
+        </div>
+      </section>
 
       <CTABanner
         title={`Ready to Get Your ${stateData.name} Insurance License?`}

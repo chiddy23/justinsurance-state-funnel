@@ -17,6 +17,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import ArticleByline from "@/components/ArticleByline";
 import EditorialByline from "@/components/EditorialByline";
 import RelatedStatePages from "@/components/RelatedStatePages";
+import LastUpdated from "@/components/LastUpdated";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -635,6 +636,13 @@ export default async function CostPage({
         currentPage="state-hub"
         variant="white"
       />
+
+      {/* Visible "Last updated" stamp above the final CTA */}
+      <section className="bg-white py-6 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto text-center">
+          <LastUpdated date={stateData.lastVerified} />
+        </div>
+      </section>
 
       {/* ── 8. CTA Banner ────────────────────────────────────────────────────── */}
       <CTABanner

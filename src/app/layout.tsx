@@ -48,6 +48,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
+    title: "Insurance Prelicensing & CE Courses | JustInsurance",
+    description:
+      "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.",
+    images: ["/og-image.png"],
   },
 };
 

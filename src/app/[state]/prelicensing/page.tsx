@@ -12,6 +12,7 @@ import PassGuarantee from "@/components/PassGuarantee";
 import FAQAccordion from "@/components/FAQAccordion";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
+import LastUpdated from "@/components/LastUpdated";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -197,6 +198,13 @@ export default async function PrelicensingHubPage({
         faqs={faqs}
         heading={`${stateData.name} Prelicensing FAQs`}
       />
+
+      {/* Visible "Last updated" stamp at the bottom of the article body */}
+      <section className="bg-white py-6 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto text-center">
+          <LastUpdated date={stateData.lastVerified} />
+        </div>
+      </section>
 
       <RelatedStatePages
         stateSlug={stateData.slug}

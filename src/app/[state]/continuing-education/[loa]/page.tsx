@@ -23,6 +23,7 @@ import CTABanner from "@/components/CTABanner";
 import StickyMobileCTA from "@/components/StickyMobileCTA";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
+import LastUpdated from "@/components/LastUpdated";
 
 type CatalogLinks = typeof catalogLinks;
 
@@ -322,6 +323,13 @@ export default async function CECoursePage({
         currentLoa={loaDef.slug as "life" | "health" | "life-and-health"}
         variant="gray"
       />
+
+      {/* Visible "Last updated" stamp above the final CTA */}
+      <section className="bg-white py-6 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto text-center">
+          <LastUpdated date={stateData.lastVerified} />
+        </div>
+      </section>
 
       <CTABanner
         title={`Renew Your ${stateData.name} ${loaDef.shortName} License Today`}

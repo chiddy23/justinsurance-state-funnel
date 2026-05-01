@@ -44,8 +44,8 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "ExamFX",
     domain: "examfx.com",
     weaknesses: [
-      "Pass guarantee requires taking the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam",
-      "Standard refund policy requires refund request within 48 hours of purchase; course extensions and in-course purchases are non-refundable",
+      "Per ExamFX's published pass guarantee policy (examfx.com/pass-guarantee, verified April 2026): the pass guarantee requires taking the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam — verify current terms at examfx.com before purchase",
+      "Per ExamFX's published refund policy (examfx.com/refund-policy, verified April 2026): the standard refund policy requires refund request within 48 hours of purchase, and course extensions and in-course purchases are non-refundable — verify current terms at examfx.com before purchase",
       "Pass-rate methodology counts self-reported survey respondents broadly; JustInsurance's published methodology applies a stricter inclusion bar (3× consecutive 80%+ practice-exam scores)",
     ],
     youShouldKnow:
@@ -57,13 +57,13 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "AD Banker & Company",
     domain: "adbanker.com",
     weaknesses: [
-      "Customer review sentiment on third-party review sites is mixed — prospective students should read current reviews on trustpilot.com and reviews.google.com before purchasing",
+      "Prospective students should read current reviews on trustpilot.com and reviews.google.com before purchasing",
       "Public product pages use tiered packaging; feature inclusion (live instructor sessions, practice exam access windows, extension durations) can vary by package tier and state — verify current inclusions at adbanker.com before purchase",
       "AD Banker does not prominently publish a specific first-attempt pass rate percentage with disclosed methodology on its public product pages — verify any pass-rate claim and underlying methodology at adbanker.com before relying on it",
       "Pass guarantee and refund policy specifics vary by package and state; candidates should read the current terms on adbanker.com prior to enrolling",
     ],
     youShouldKnow:
-      "AD Banker & Company is a long-established prelicensing and continuing-education provider with multiple product tiers (self-study, live webinar, classroom) and state-specific course catalogs. Feature inclusion, access duration, and guarantee terms can vary by package tier and state, so prospective students should read AD Banker's current product and policy pages directly. Customer review sentiment on third-party review sites is mixed and worth checking before purchase (see trustpilot.com and reviews.google.com). JustInsurance takes a single all-inclusive approach instead: the $199 base price covers 100+ videos, unlimited adaptive practice exams, 5× weekly live instructor sessions, flashcards, audio vocabulary, AI-powered exam simulations, and white-glove licensing support — same set of features for every student, no tier shopping. JustInsurance also publishes a 93% pass rate at /pass-rates with full methodology disclosed. Always verify current AD Banker package contents, pass guarantee, and refund terms at adbanker.com before purchase.",
+      "AD Banker & Company is a long-established prelicensing and continuing-education provider with multiple product tiers (self-study, live webinar, classroom) and state-specific course catalogs. Feature inclusion, access duration, and guarantee terms can vary by package tier and state, so prospective students should read AD Banker's current product and policy pages directly. Worth checking current third-party reviews on trustpilot.com and reviews.google.com before purchase. JustInsurance takes a single all-inclusive approach instead: the $199 base price covers 100+ videos, unlimited adaptive practice exams, 5× weekly live instructor sessions, flashcards, audio vocabulary, AI-powered exam simulations, and white-glove licensing support — same set of features for every student, no tier shopping. JustInsurance also publishes a 93% pass rate at /pass-rates with full methodology disclosed. Always verify current AD Banker package contents, pass guarantee, and refund terms at adbanker.com before purchase.",
   },
   aceable: {
     slug: "aceable",
@@ -71,7 +71,7 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "Aceable Insurance",
     domain: "aceable.com",
     weaknesses: [
-      "Aceable is primarily known for mobile-first driver-education and real-estate courses; its insurance prelicensing catalog is newer and narrower than long-established insurance-only providers — verify current state and line-of-authority availability at aceable.com/insurance",
+      "Aceable is primarily known for mobile-first driver-education and real-estate courses; its insurance prelicensing catalog is one component of a broader multi-vertical product line — verify current state and line-of-authority availability at aceable.com/insurance",
       "Public-facing pass-rate claims on the Aceable Insurance product pages should be read carefully alongside their methodology disclosure; verify the current figure and the qualifying criteria at aceable.com/insurance before relying on it for a purchase decision",
       "Live instructor session frequency, flashcard inclusion, and practice-exam depth can vary by course and state — verify current inclusions at aceable.com/insurance before purchase",
       "Pass guarantee and refund terms are set by Aceable's published policy pages; specifics vary by course and state, so candidates should read the current terms at aceable.com/insurance prior to enrolling",

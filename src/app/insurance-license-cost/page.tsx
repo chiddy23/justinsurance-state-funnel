@@ -214,7 +214,7 @@ export default function InsuranceLicenseCostPage() {
             <div className="bg-white rounded-xl p-7 shadow-sm border border-gray-100">
               <h3 className="font-bold text-navy text-lg mb-3">1. Prelicensing Course — $150 to $400</h3>
               <p className="text-gray-700 leading-relaxed text-sm mb-3">
-                Most states require a state-approved prelicensing course before you can sit for the exam. Course prices vary widely: XCEL Solutions and Kaplan tend to sit in the $200 to $400 range with add-ons for practice questions and instructor access. ExamFX uses a tiered pricing model that also adds cost for features like cram sessions. <Link href="/prelicensing" className="text-navy underline underline-offset-2 hover:text-gold">JustInsurance charges a flat $199</Link> per line of authority, all-inclusive — every practice question, every flashcard, every instructor session is in the base price.
+                Most states require a state-approved prelicensing course before you can sit for the exam. Course prices vary widely. Per public product pages from XCEL Solutions, Kaplan, and ExamFX (verified April 2026), each provider uses tiered or modular pricing where the advertised base price typically covers core video content, with practice questions, instructor access, and other study tools available across higher tiers or as add-ons. Verify current pricing at xcelsolutions.com, kaplanfinancial.com, and examfx.com before purchase. <Link href="/prelicensing" className="text-navy underline underline-offset-2 hover:text-gold">JustInsurance charges a flat $199</Link> per line of authority, all-inclusive — every practice question, every flashcard, every instructor session is in the base price.
               </p>
               <p className="text-gray-700 leading-relaxed text-sm">
                 This is the one fee you actually control. Picking a course that is aligned to your state&apos;s exam content outline is the difference between passing on the first try and paying $98 per retake in a high-fee state.
@@ -365,17 +365,22 @@ export default function InsuranceLicenseCostPage() {
               <h3 className="font-bold text-navy text-lg mb-2">XCEL Solutions</h3>
               <p className="text-2xl font-extrabold text-gray-500 mb-3">Tiered</p>
               <p className="text-gray-700 text-sm leading-relaxed">
-                Three-tier pricing model. Base tier covers video content only. Upper tiers add practice questions, instructor support, and study resources at meaningfully higher prices. Short 30-day access window on lower tiers.
+                Per xcelsolutions.com (verified April 2026): tiered pricing model where lower tiers may have shorter access windows and fewer included features than upper tiers. Verify current package terms at xcelsolutions.com before purchase.
               </p>
             </div>
             <div className="bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
               <h3 className="font-bold text-navy text-lg mb-2">ExamFX</h3>
               <p className="text-2xl font-extrabold text-gray-500 mb-3">Add-on model</p>
               <p className="text-gray-700 text-sm leading-relaxed">
-                Base course plus a la carte add-ons for cram sessions, additional practice questions, and pass protection. ExamFX&apos;s guarantee window is limited to just a few days after course completion, which most candidates cannot meet.
+                Per examfx.com (verified April 2026): base course with optional add-ons for additional study tools and pass protection. Pass guarantee window is time-limited — verify current eligibility window at <a href="https://www.examfx.com/pass-guarantee" target="_blank" rel="noopener noreferrer" className="underline">examfx.com/pass-guarantee</a> before purchase.
               </p>
             </div>
           </div>
+          <p className="text-xs text-gray-500 text-center mt-6 max-w-3xl mx-auto leading-relaxed">
+            Competitor claims reflect publicly available product pages as of April 2026. Terms,
+            pricing, and feature inclusions can change without notice — always verify current
+            policies directly at the competitor&apos;s domain before purchase.
+          </p>
           <p className="text-center mt-8 text-sm text-gray-600">
             Full feature-by-feature comparison:{" "}
             <Link href="/compare" className="text-navy underline underline-offset-2 hover:text-gold font-semibold">

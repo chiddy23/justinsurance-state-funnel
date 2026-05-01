@@ -75,9 +75,21 @@ export default function ComparePage() {
             JustInsurance vs XCEL, ExamFX, AD Banker, Aceable
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
-            The features competitors hide behind upcharges — flashcards, live sessions, exam
+            The features competitors often charge extra for — flashcards, live sessions, exam
             simulations, extensions — are all included in our single $199 course. Compare the
             four biggest alternatives side-by-side.
+          </p>
+        </div>
+      </section>
+
+      {/* Comparison accuracy disclaimer */}
+      <section className="bg-gray-50 border-b border-gray-200 py-4 px-4">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-xs text-gray-600 leading-relaxed text-center">
+            <strong className="text-navy">Comparison accuracy:</strong> Claims on this page reflect each
+            competitor&apos;s publicly available product pages, pass guarantee, refund policy, and FAQ
+            documents as of April 2026. Competitor terms, pricing, and features can change without notice.
+            Always verify current terms directly at the competitor&apos;s domain before purchase.
           </p>
         </div>
       </section>
@@ -127,8 +139,8 @@ export default function ComparePage() {
             See How JustInsurance Beats Each Competitor
           </h2>
           <p className="text-gray-600 text-center mb-10 max-w-2xl mx-auto">
-            Detailed head-to-head analysis including real user complaints, missing features, and
-            the specific guarantee terms that matter.
+            Detailed head-to-head analysis covering features, pricing, and the specific guarantee
+            terms that matter.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {Object.values(PROVIDERS).map((p) => (

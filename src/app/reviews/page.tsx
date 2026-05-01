@@ -245,7 +245,7 @@ export default function ReviewsPage() {
           </h2>
           <p className="text-gray-600 mb-5 max-w-2xl mx-auto text-sm">
             Side-by-side comparison of the three major prelicensing providers —
-            18 feature points, real pricing, and honest guarantee terms.
+            18 feature points, real pricing, and full guarantee terms.
           </p>
           <Link
             href="/compare"

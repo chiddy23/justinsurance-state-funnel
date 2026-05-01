@@ -21,7 +21,7 @@ export async function generateMetadata({
   if (!p) return {};
   return {
     title: { absolute: `JustInsurance vs ${p.fullName}: Prelicensing Comparison | JustInsurance` },
-    description: `Direct comparison of JustInsurance and ${p.fullName} insurance prelicensing — features, pricing, guarantees, and the real user complaints competitors don't publish.`,
+    description: `Direct comparison of JustInsurance and ${p.fullName} insurance prelicensing — features, pricing, guarantees, and the policy terms competitors don't always highlight.`,
     alternates: { canonical: `https://justinsuranceco.com/compare/${p.slug}` },
   };
 }
@@ -194,7 +194,7 @@ export default async function CompetitorComparisonPage({
             JustInsurance vs {p.fullName}
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
-            What&apos;s actually different — and what real students complain about.
+            What&apos;s actually different — features, pricing, and the specific guarantee terms that matter.
           </p>
         </div>
       </section>

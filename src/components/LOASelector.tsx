@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import type { StateData } from "@/lib/states";
 import catalogLinks from "@/lib/catalog-links.json";
+import { getCtaAttrs } from "@/lib/gtm-attrs";
 import {
   PC_STATE_SLUGS,
   getPCPackagesForState,
@@ -203,6 +204,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
 
               <Link
                 href={card.pageHref}
+                {...getCtaAttrs({ href: card.pageHref, location: "loa-card-learn-more", state: stateSlug, loa: card.slug })}
                 className="block text-center text-navy border border-navy hover:bg-navy hover:text-white font-medium py-2 px-4 rounded-lg transition-colors mb-2 text-sm"
               >
                 Learn More
@@ -212,6 +214,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 // label since the user is selecting a package, not paying yet.
                 <Link
                   href={card.enrollHref}
+                  {...getCtaAttrs({ href: card.enrollHref, location: "loa-card", state: stateSlug, loa: card.slug })}
                   className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-4 rounded-lg transition-colors"
                 >
                   Choose a Package &rarr;
@@ -223,6 +226,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                   href={card.enrollHref}
                   target="_blank"
                   rel="noopener noreferrer"
+                  {...getCtaAttrs({ href: card.enrollHref, location: "loa-card", state: stateSlug, loa: card.slug })}
                   className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-4 rounded-lg transition-colors"
                 >
                   Enroll Now &mdash; {card.price}

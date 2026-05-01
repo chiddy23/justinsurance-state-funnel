@@ -335,6 +335,8 @@ export default async function CECoursePage({
         text="Enroll Now"
         href={enrollLink}
         price={ce.packagePrice}
+        state={state}
+        loa={loa}
       />
     </>
   );

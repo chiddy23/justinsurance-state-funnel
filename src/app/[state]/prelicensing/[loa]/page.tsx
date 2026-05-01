@@ -343,6 +343,8 @@ export default async function PrelicensingCoursePage({
         text="Enroll Now"
         href={enrollLink}
         price={pricing.price}
+        state={state}
+        loa={loa}
       />
     </>
   );

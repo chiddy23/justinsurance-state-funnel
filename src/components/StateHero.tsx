@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { getCtaAttrs } from "@/lib/gtm-attrs";
 
 interface CTAButton {
   text: string;
@@ -35,6 +36,7 @@ export default function StateHero({ title, subtitle, ctaButtons, eyebrow }: Stat
               <Link
                 key={i}
                 href={btn.href}
+                {...getCtaAttrs({ href: btn.href, location: "hero-secondary" })}
                 className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-white hover:text-navy transition-all"
               >
                 {btn.text}
@@ -43,6 +45,7 @@ export default function StateHero({ title, subtitle, ctaButtons, eyebrow }: Stat
               <Link
                 key={i}
                 href={btn.href}
+                {...getCtaAttrs({ href: btn.href, location: "hero-primary" })}
                 className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-8 py-4 rounded-lg shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5"
               >
                 {btn.text}

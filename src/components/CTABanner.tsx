@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { getCtaAttrs } from "@/lib/gtm-attrs";
 
 interface CTABannerProps {
   title: string;
@@ -10,6 +11,7 @@ interface CTABannerProps {
 }
 
 export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalLink = false }: CTABannerProps) {
+  const gtmAttrs = getCtaAttrs({ href: ctaHref, location: "cta-banner" });
   return (
     <section className="bg-navy py-16 px-4">
       <div className="max-w-3xl mx-auto text-center">
@@ -24,6 +26,7 @@ export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalL
             href={ctaHref}
             target="_blank"
             rel="noopener noreferrer"
+            {...gtmAttrs}
             className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-10 py-4 rounded-lg shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5"
           >
             {ctaText}
@@ -31,6 +34,7 @@ export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalL
         ) : (
           <Link
             href={ctaHref}
+            {...gtmAttrs}
             className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-10 py-4 rounded-lg shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5"
           >
             {ctaText}

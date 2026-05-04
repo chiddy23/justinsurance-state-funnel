@@ -366,7 +366,7 @@ export default async function CompetitorComparisonPage({
       <section className="bg-navy py-16 px-4">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-3">
-            See Why 30,000+ Agents Chose JustInsurance
+            See Why 20,000+ Students Chose JustInsurance
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6 max-w-2xl mx-auto">
             State-approved prelicensing nationwide. $199 all-inclusive. Pass guarantee

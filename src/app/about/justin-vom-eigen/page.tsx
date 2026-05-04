@@ -204,9 +204,9 @@ export default function JustinVomEigenBioPage() {
           </P>
 
           <P>
-            JustInsurance launched in January 2023 as a fully online
-            prelicensing and continuing-education platform built on the same
-            principle as Justin&apos;s{" "}
+            Justin founded JustInsurance LLC in November 2018; the fully online
+            prelicensing and continuing-education platform launched in January 2023,
+            built on the same principle as Justin&apos;s{" "}
             <a
               href="https://www.youtube.com/@InsuranceExam"
               target="_blank"

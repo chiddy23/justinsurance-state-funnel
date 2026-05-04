@@ -231,7 +231,7 @@ export default function PassRatesPage() {
           </p>
           <p className="text-gray-600">
             JustInsurance has helped agents nationwide earn and renew
-            their insurance license since 2017.
+            their insurance license since 2018.
           </p>
         </div>
       </section>

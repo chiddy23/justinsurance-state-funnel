@@ -26,8 +26,9 @@ export default function AuthorBio() {
         <p className="text-gray-700 text-sm leading-relaxed mb-4">
           Justin vom Eigen is a licensed life and health insurance producer (since
           2017) and IDECC Certified Distance Education Instructor. He founded
-          JustInsurance in January 2023 after eight years in life and health
-          sales and agency leadership, and runs the{" "}
+          JustInsurance LLC in November 2018 and launched the online prelicensing
+          platform in January 2023, after years in life and health sales and
+          agency leadership. He also runs the{" "}
           <a
             href="https://www.youtube.com/@InsuranceExam"
             target="_blank"

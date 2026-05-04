@@ -267,7 +267,7 @@ export default function ReviewsPage() {
             completion surveys and follow-up communication. Initials are used in
             place of full names to protect student privacy. Our 5-star rating
             reflects aggregate satisfaction across the 20,000+ students who have
-            completed JustInsurance prelicensing or CE courses since 2017. For our
+            completed JustInsurance prelicensing or CE courses since 2018. For our
             published pass-rate methodology, see{" "}
             <Link href="/pass-rates" className="text-gold-dark underline hover:text-gold font-semibold">
               /pass-rates

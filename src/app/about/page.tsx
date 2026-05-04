@@ -5,12 +5,12 @@ import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: { absolute: "About JustInsurance — 20,000+ Students Licensed Since 2017" },
+  title: { absolute: "About JustInsurance — 20,000+ Students Licensed Since 2018" },
   description:
     "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% pass rate. 50 states.",
   alternates: { canonical: "https://justinsuranceco.com/about" },
   openGraph: {
-    title: "About JustInsurance — 20,000+ Students Licensed Since 2017",
+    title: "About JustInsurance — 20,000+ Students Licensed Since 2018",
     description:
       "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% pass rate.",
     url: "https://justinsuranceco.com/about",

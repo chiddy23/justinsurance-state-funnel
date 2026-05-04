@@ -189,7 +189,7 @@ export function generateOrganizationSchema(): object {
       postalCode: "33028",
       addressCountry: "US",
     },
-    foundingDate: "2017",
+    foundingDate: "2018",
     // Only include aggregateRating when we have a credible review count.
     // generateAggregateRatingSchema() returns null until review volume >= 25.
     ...(rating ? { aggregateRating: rating } : {}),

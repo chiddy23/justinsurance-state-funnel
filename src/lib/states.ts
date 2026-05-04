@@ -235,19 +235,19 @@ export const STATES: Record<string, StateData> = {
 
     prelicensing: {
       life: {
-        hours: "Not Required (as of January 1, 2024)",
+        hours: "Not Required (as of January 1, 2026)",
         price: "$199",
         totalCost: "$376.20",
         completionTime: "20 hours",
       },
       health: {
-        hours: "Not Required (as of January 1, 2024)",
+        hours: "Not Required (as of January 1, 2026)",
         price: "$199",
         totalCost: "$376.20",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
-        hours: "Not Required (as of January 1, 2024)",
+        hours: "Not Required (as of January 1, 2026)",
         price: "$199",
         totalCost: "$600.20",
         completionTime: "40 hours",
@@ -1482,7 +1482,7 @@ export const STATES: Record<string, StateData> = {
 
     prelicensing: {
       life: {
-        hours: "Note: Delaware does NOT require pre-licensing education hours - it's completely optional",
+        hours: "None required (optional)",
         price: "$199",
         totalCost: "$499.00",
         completionTime: "20 hours",

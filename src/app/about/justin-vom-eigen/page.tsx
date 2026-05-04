@@ -266,6 +266,39 @@ export default function JustinVomEigenBioPage() {
         </div>
       </section>
 
+      {/* A note from our founder — first-person, inline; intentionally no
+          standalone URL, no share buttons, no banner. Findable, not amplified. */}
+      <section className="bg-white py-16 px-4 border-t border-gray-100">
+        <div className="max-w-3xl mx-auto">
+          <H2 id="founder-note">A note from our founder</H2>
+          <P>
+            I&apos;ve talked openly about my past for years &mdash; in interviews, on
+            podcasts, and on my own social media. In 2014 I was struggling with
+            addiction. I&apos;m grateful I came through that period alive and with
+            a clean record &mdash; no felony, no convictions of any kind. From
+            there I was determined to change my life and to build something that
+            would help others change theirs. JustInsurance is the result.
+          </P>
+          <P>
+            I founded JustInsurance in 2018 because I believe the path into a
+            licensed insurance career &mdash; the path that changed mine, and
+            thousands of others &mdash; should be clearer, faster, and more
+            affordable than the industry was making it. Today we serve students
+            in 49 states and partner with more than 1,000 agencies. The work
+            I&apos;m proudest of is theirs, not mine.
+          </P>
+          <P>
+            If you&apos;ve come to my story by way of a rumor instead of my
+            work, I&apos;m easy to find.
+          </P>
+          <p className="text-gray-700 text-base leading-relaxed mt-6">
+            <strong className="text-navy">&mdash; Justin</strong>
+            <br />
+            <em className="text-gray-500">Founder &amp; CEO, JustInsurance</em>
+          </p>
+        </div>
+      </section>
+
       {/* Credentials */}
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-3xl mx-auto">

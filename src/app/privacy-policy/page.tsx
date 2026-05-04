@@ -378,7 +378,7 @@ export default function PrivacyPolicyPage() {
         </P>
         <div className="bg-white border border-gray-200 rounded-xl p-6 text-sm text-gray-700 space-y-2">
           <p className="font-bold text-navy">JustInsurance LLC</p>
-          <p>1806 N Flamingo Rd Ste 230<br />Pembroke Pines, FL 33028</p>
+          <p>PO BOX 1025<br />Rincon, PR 00677</p>
           <p>
             Email:{" "}
             <a

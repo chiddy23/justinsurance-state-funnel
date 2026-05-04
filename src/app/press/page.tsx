@@ -338,13 +338,16 @@ export default function PressPage() {
                   </svg>
                   754-223-9744
                 </a>
-                <p className="flex items-start gap-3 text-gray-600 text-sm">
+                <div className="flex items-start gap-3 text-gray-600 text-sm">
                   <svg className="w-5 h-5 flex-shrink-0 mt-0.5 text-navy" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
-                  1806 N Flamingo Rd Ste 230<br />Pembroke Pines, FL 33028
-                </p>
+                  <div>
+                    <p className="mb-1"><span className="text-gray-500 text-xs uppercase tracking-wide">Mail:</span> PO BOX 1025, Rincon PR 00677</p>
+                    <p><span className="text-gray-500 text-xs uppercase tracking-wide">Registered:</span> 1806 N Flamingo Rd Ste 230, Pembroke Pines, FL 33028</p>
+                  </div>
+                </div>
               </div>
             </div>
 

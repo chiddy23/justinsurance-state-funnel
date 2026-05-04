@@ -162,13 +162,14 @@ export default function ContactPage() {
                   />
                 </svg>
               </div>
-              <h2 className="font-bold text-navy mb-2 text-lg">Visit Us</h2>
+              <h2 className="font-bold text-navy mb-2 text-lg">Mailing Address</h2>
               <address className="not-italic text-navy text-sm font-semibold leading-relaxed">
-                1806 N Flamingo Rd<br />
-                Ste 230<br />
-                Pembroke Pines, FL 33028
+                PO BOX 1025<br />
+                Rincon, PR 00677
               </address>
-              <p className="text-gray-500 text-sm mt-2">By appointment only</p>
+              <p className="text-gray-500 text-xs mt-3 leading-relaxed">
+                Registered Office: 1806 N Flamingo Rd Ste 230, Pembroke Pines, FL 33028
+              </p>
             </div>
           </div>
 

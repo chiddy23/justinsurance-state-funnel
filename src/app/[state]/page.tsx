@@ -22,6 +22,7 @@ import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import StateSalaryCard from "@/components/StateSalaryCard";
+import HowToGetLicensed from "@/components/HowToGetLicensed";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -353,6 +354,8 @@ export default async function StateHubPage({
       )}
 
       <StateRequirementsBlock stateData={stateData} />
+
+      <HowToGetLicensed stateData={stateData} />
 
       {/* BLS Bureau of Labor Statistics salary + employment snapshot */}
       <StateSalaryCard stateSlug={stateData.slug} stateName={stateData.name} />

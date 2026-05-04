@@ -195,6 +195,30 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Credibility band — plain numbers, no animations.
+          Surfaces year-founded + states + partners + students above the fold
+          for B2B vendor diligence. Per CEO recs doc (2026-05-01). */}
+      <section className="bg-gold/10 border-y border-gold/30 py-7 px-4">
+        <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+          <div>
+            <p className="text-3xl md:text-4xl font-extrabold text-navy">2018</p>
+            <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">Since</p>
+          </div>
+          <div>
+            <p className="text-3xl md:text-4xl font-extrabold text-navy">49</p>
+            <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">States</p>
+          </div>
+          <div>
+            <p className="text-3xl md:text-4xl font-extrabold text-navy">1,000+</p>
+            <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">Agency Partners</p>
+          </div>
+          <div>
+            <p className="text-3xl md:text-4xl font-extrabold text-navy">20,000+</p>
+            <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">Students Licensed</p>
+          </div>
+        </div>
+      </section>
+
       {/* Origin Story */}
       <section className="bg-white py-16 px-4">
         <div className="max-w-3xl mx-auto">

@@ -7,7 +7,7 @@ import { ALL_TESTIMONIALS, GOOGLE_REVIEWS, type Testimonial } from "@/lib/testim
 export const metadata: Metadata = {
   title: { absolute: "JustInsurance Student Reviews & Testimonials" },
   description:
-    "Real reviews from JustInsurance students who passed their state insurance licensing exam. 5-star Google rating, 20,000+ students licensed across 50 states.",
+    "Real reviews from JustInsurance students who passed their state insurance licensing exam. 5-star Google rating, 20,000+ students licensed across 49 states.",
   alternates: { canonical: "https://justinsuranceco.com/reviews" },
 };
 

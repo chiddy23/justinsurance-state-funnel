@@ -170,7 +170,7 @@ export default function ContinuingEducationPage() {
             Insurance Continuing Education (CE) Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Renew your insurance license online starting at $39. State-approved CE packages with same-day DOI reporting. Available in 50 states — no classroom required.
+            Renew your insurance license online starting at $39. State-approved CE packages with same-day DOI reporting. Available in 49 states (all except New York) — no classroom required.
           </p>
           <a
             href="#states"

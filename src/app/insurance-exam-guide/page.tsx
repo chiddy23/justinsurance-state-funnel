@@ -392,7 +392,7 @@ export default function InsuranceExamGuidePage() {
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Full-length practice exams that mirror the real state exam. Detailed answer
-              explanations, unlimited retakes. Available for all 48 states in Life, Health, and
+              explanations, unlimited retakes. Available for 49 states in Life, Health, and
               Life &amp; Health. Pick your state to get started.
             </p>
           </div>

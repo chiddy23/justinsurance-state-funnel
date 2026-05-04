@@ -234,7 +234,7 @@ export default function JustinVomEigenBioPage() {
             >
               continuing education
             </Link>{" "}
-            in 45+ states, has produced over 120 instructional videos and
+            in 49 states, has produced over 120 instructional videos and
             practice-exam banks, and supports more than 1,000 agency
             partnerships serving 30,000+ monthly users.
           </P>

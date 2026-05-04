@@ -10,7 +10,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Insurance Prelicensing Courses | Nationwide | JustInsurance";
 const PAGE_DESC =
-  "State-approved insurance prelicensing courses online — $199 with pass guarantee. Life, Health, and Life & Health courses, available in all 50 states.";
+  "State-approved insurance prelicensing courses online — $199 with pass guarantee. Life, Health, and Life & Health courses, available in 49 states.";
 const CANONICAL = "https://justinsuranceco.com/prelicensing";
 
 export const metadata: Metadata = {
@@ -108,7 +108,7 @@ const webPageSchema = {
   name: "Insurance Prelicensing Courses — Nationwide Coverage",
   url: "https://justinsuranceco.com/prelicensing",
   description:
-    "State-approved insurance prelicensing courses across all 50 states. Life, Health, and Life & Health combined courses for the State Insurance Producer License. $199 with pass guarantee.",
+    "State-approved insurance prelicensing courses across 49 states. Life, Health, and Life & Health combined courses for the State Insurance Producer License. $199 with pass guarantee.",
   mainEntityOfPage: {
     "@type": "WebPage",
     "@id": "https://justinsuranceco.com/prelicensing",
@@ -162,7 +162,7 @@ export default function PrelicensingPage() {
             Insurance Prelicensing Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Complete your state-required prelicensing education online for $199. Self-paced, state-approved, and backed by our pass guarantee. Available in 50 states.
+            Complete your state-required prelicensing education online for $199. Self-paced, state-approved, and backed by our pass guarantee. Available in 49 states (all except New York).
           </p>
           <a
             href="#states"

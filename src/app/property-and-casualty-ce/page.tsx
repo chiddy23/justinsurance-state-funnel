@@ -411,7 +411,7 @@ export default function PropertyAndCasualtyCEPage() {
               <Link href="/continuing-education" className="text-navy underline hover:text-gold font-medium">
                 Life &amp; Health CE catalog
               </Link>
-              {" "}— it covers all 50 states today.
+              {" "}— it covers 49 states today (all except New York).
             </p>
           </div>
         </div>

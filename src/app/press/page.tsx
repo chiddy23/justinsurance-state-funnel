@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     absolute: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",
   },
   description:
-    "JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% student pass rate, 20,000+ students trained across 50 states.",
+    "JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% student pass rate, 20,000+ students trained across 49 states.",
   robots: "index, follow",
   alternates: {
     canonical: "https://justinsuranceco.com/press",
@@ -250,7 +250,7 @@ export default function PressPage() {
               <p>
                 JustInsurance reported{" "}
                 <strong>900% year-over-year growth</strong> and has trained
-                over <strong>20,000 students</strong> across 50 states in life,
+                over <strong>20,000 students</strong> across 49 states in life,
                 health, and life &amp; health insurance prelicensing and
                 continuing education (CE). The platform&apos;s students also
                 show <strong>30% lower attrition</strong> than the industry
@@ -354,7 +354,7 @@ export default function PressPage() {
                 JustInsurance LLC (d/b/a Your Insurance License) is a
                 state-approved online insurance education provider offering
                 prelicensing and continuing education (CE) courses for life
-                and health insurance agents across 50 states.
+                and health insurance agents across 49 states.
               </p>
               <p className="text-gray-600 text-sm leading-relaxed mb-4">
                 Founded by Justin vom Eigen in Pembroke Pines, Florida,
@@ -367,7 +367,7 @@ export default function PressPage() {
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  State-approved in 50 states
+                  State-approved in 49 states
                 </li>
                 <li className="flex items-center gap-2">
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">

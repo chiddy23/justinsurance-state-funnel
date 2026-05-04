@@ -69,8 +69,8 @@ export default function BlogIndexPage() {
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-3xl mx-auto">
             Guides, tips, and deep dives on insurance licensing, CE requirements, exam
-            prep, and career growth — written for aspiring and working agents across all
-            50 states.
+            prep, and career growth — written for aspiring and working agents across
+            49 states.
           </p>
         </div>
       </section>

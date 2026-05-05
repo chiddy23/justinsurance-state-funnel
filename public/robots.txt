@@ -1,5 +1,22 @@
 User-agent: *
 Allow: /
 
+# Block legacy WordPress system paths and Next.js asset noise.
+# These URLs no longer exist (the site is Next.js, not WP) and are also
+# 410-Gone'd by src/middleware.ts — disallowing here saves Googlebot the
+# request entirely. The /_next/static/ block keeps build-asset URLs out
+# of the crawl budget; they're cache-busted hashes that don't need indexing.
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /feed/
+Disallow: /feed
+Disallow: /category/
+Disallow: /tag/
+Disallow: /author/
+Disallow: /comments/
+Disallow: /*?s=
+Disallow: /_next/static/
+
 Sitemap: https://justinsuranceco.com/sitemap.xml
 Sitemap: https://justinsuranceco.com/video-sitemap.xml

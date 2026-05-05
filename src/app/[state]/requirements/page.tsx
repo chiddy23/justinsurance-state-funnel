@@ -770,6 +770,10 @@ export default async function RequirementsPage({
               <div className="font-semibold text-navy mb-1">{stateData.name} CE Courses</div>
               <div className="text-sm text-gray-600">Renew your license with state-approved continuing education.</div>
             </Link>
+            <Link href={`/${stateData.slug}/cost/`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+              <div className="font-semibold text-navy mb-1">{stateData.name} License Cost Breakdown</div>
+              <div className="text-sm text-gray-600">{stateData.name}-specific cost: course, exam, fingerprinting, and application fees.</div>
+            </Link>
           </div>
         </div>
       </section>

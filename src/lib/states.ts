@@ -8011,10 +8011,10 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Utah does not require prelicensing education. Utah producer licenses renew every 2 years on the last day of the licensee's birth month. The Salt Lake City and Provo-Orem metros have seen explosive population growth and serve as growing financial services hubs, with several major tech companies relocating to the Silicon Slopes area creating high demand for group benefits and individual health insurance specialists. Utah's large young population and high birth rate create strong demand for life insurance products.",
     stateSpecificFAQ: {
       question: "How long does a Utah insurance license last?",
-      answer: "Utah insurance licenses renew every 2 years on the last day of the licensee's birth month. At renewal, Utah requires 24 hours of CE (including 3 hours of ethics) per 2-year cycle. Utah does not require prelicensing education before the exam, and fingerprinting is processed per Utah Department of Insurance instructions provided during the application process. PSI administers Utah's licensing exams.",
+      answer: "Utah insurance licenses renew every 2 years on the last day of the licensee's birth month. At renewal, Utah requires 24 hours of CE (including 3 hours of ethics) per 2-year cycle. Utah does not require prelicensing education before the exam, and fingerprinting is processed per Utah Department of Insurance instructions provided during the application process. Prometric administers Utah's licensing exams.",
     },
     stateTestimonial: {
-      quote: "JustInsurance was the perfect study resource for my Utah insurance exam. The Salt Lake City market is booming and I'm glad I invested in quality exam prep before my PSI test.",
+      quote: "JustInsurance was the perfect study resource for my Utah insurance exam. The Salt Lake City market is booming and I'm glad I invested in quality exam prep before my Prometric test.",
       name: "Samantha V.",
       title: "Licensed Insurance Agent",
     },

@@ -6,11 +6,6 @@
       "destination": "https://justinsuranceco.com/:path*",
       "statusCode": 301
     },
-    { "source": "/wp-admin/:path*", "destination": "/", "statusCode": 301 },
-    { "source": "/wp-content/:path*", "destination": "/", "statusCode": 301 },
-    { "source": "/wp-includes/:path*", "destination": "/", "statusCode": 301 },
-    { "source": "/feed/:path*", "destination": "/", "statusCode": 301 },
-    { "source": "/feed", "destination": "/", "statusCode": 301 },
     { "source": "/washington-dc", "destination": "/", "statusCode": 301 },
     { "source": "/washington-dc/:path*", "destination": "/", "statusCode": 301 },
     { "source": "/refund-policy", "destination": "/terms", "statusCode": 301 },

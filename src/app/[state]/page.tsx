@@ -421,15 +421,70 @@ export default async function StateHubPage({
         );
       })()}
 
-      {/* Fix 8 — Link to requirements page */}
-      <section className="bg-white pb-6 px-4">
-        <div className="max-w-5xl mx-auto">
-          <a
-            href={`/${stateData.slug}/requirements/`}
-            className="text-sm text-navy underline hover:text-gold transition-colors"
-          >
-            {stateData.name} insurance license requirements &rarr;
-          </a>
+      {/* More {State} Resources — 5-card internal nav grid.
+          Replaces the older single-link "Fix 8" block to surface the cost,
+          practice-exam, and CE pages for crawlers (was diagnosed gap: cost
+          page sitting at 2% crawl rate because state hubs never linked it). */}
+      <section className="bg-gray-bg py-12 px-4 border-t border-gray-100">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-xl md:text-2xl font-bold text-navy mb-2 text-center">
+            More {stateData.name} Insurance License Resources
+          </h2>
+          <p className="text-gray-500 text-center mb-8 text-sm max-w-2xl mx-auto">
+            Everything you need in one place — requirements, course options, exam prep, and a transparent cost breakdown.
+          </p>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            <Link
+              href={`/${stateData.slug}/requirements/`}
+              className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
+            >
+              <p className="text-2xl mb-2" aria-hidden="true">📋</p>
+              <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Requirements</h3>
+              <p className="text-gray-500 text-xs leading-relaxed">
+                Hours, exam, fingerprinting, fees, and CE rules.
+              </p>
+            </Link>
+            <Link
+              href={`/${stateData.slug}/prelicensing/`}
+              className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
+            >
+              <p className="text-2xl mb-2" aria-hidden="true">🎓</p>
+              <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Prelicensing</h3>
+              <p className="text-gray-500 text-xs leading-relaxed">
+                State-approved prelicensing courses, all lines of authority.
+              </p>
+            </Link>
+            <Link
+              href={`/${stateData.slug}/continuing-education/`}
+              className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
+            >
+              <p className="text-2xl mb-2" aria-hidden="true">🔄</p>
+              <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} CE Courses</h3>
+              <p className="text-gray-500 text-xs leading-relaxed">
+                Renew your {stateData.name} license with online CE.
+              </p>
+            </Link>
+            <Link
+              href={`/${stateData.slug}/practice-exam/`}
+              className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
+            >
+              <p className="text-2xl mb-2" aria-hidden="true">📝</p>
+              <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Practice Exam</h3>
+              <p className="text-gray-500 text-xs leading-relaxed">
+                Free practice questions modeled on the real {stateData.name} exam.
+              </p>
+            </Link>
+            <Link
+              href={`/${stateData.slug}/cost/`}
+              className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
+            >
+              <p className="text-2xl mb-2" aria-hidden="true">💰</p>
+              <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} License Cost</h3>
+              <p className="text-gray-500 text-xs leading-relaxed">
+                Total breakdown: course, exam, fingerprinting, application fees.
+              </p>
+            </Link>
+          </div>
         </div>
       </section>
 
@@ -495,6 +550,62 @@ export default async function StateHubPage({
         stateSlug={stateData.slug}
         practiceExams={stateData.practiceExams}
       />
+
+      {/* Recent Articles — link to corresponding state-license-{slug} blog cluster.
+          Allowlisted by slug because only ~30 of 50 states currently have a cluster
+          (verified against src/content/blog/ at edit time). Florida & Texas use
+          their own custom cluster names — handled by the curated "Deep Dive" block
+          immediately below, so they're intentionally excluded here. */}
+      {(() => {
+        const stateLicenseClusterSlugs = new Set([
+          "alabama",
+          "arizona",
+          "california",
+          "colorado",
+          "connecticut",
+          "georgia",
+          "illinois",
+          "indiana",
+          "kentucky",
+          "louisiana",
+          "maryland",
+          "massachusetts",
+          "michigan",
+          "minnesota",
+          "missouri",
+          "nevada",
+          "new-jersey",
+          "new-york",
+          "north-carolina",
+          "ohio",
+          "oregon",
+          "pennsylvania",
+          "south-carolina",
+          "tennessee",
+          "virginia",
+          "washington",
+          "wisconsin",
+        ]);
+        if (!stateLicenseClusterSlugs.has(stateData.slug)) return null;
+        return (
+          <section className="bg-white py-10 px-4 border-t border-gray-100">
+            <div className="max-w-3xl mx-auto text-center">
+              <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-2">
+                Recent Articles
+              </p>
+              <Link
+                href={`/blog/state-license-${stateData.slug}/`}
+                className="text-base md:text-lg font-bold text-navy hover:text-gold-dark transition-colors underline-offset-4 hover:underline"
+              >
+                {stateData.name} Insurance License — Articles, Guides &amp; News &rarr;
+              </Link>
+              <p className="text-gray-500 text-sm mt-2">
+                Step-by-step guides, exam prep tips, and the latest {stateData.name} licensing updates.
+              </p>
+            </div>
+          </section>
+        );
+      })()}
 
       {(() => {
         const blogMap: Record<string, { href: string; title: string }> = {

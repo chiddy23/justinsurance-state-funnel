@@ -122,10 +122,11 @@ const nextConfig = {
       // Old WP long-slug guide page → /prelicensing hub
       { source: "/why-an-online-insurance-license-course-is-the-smartest-way-to-get-licensed", destination: "/prelicensing", permanent: true },
       { source: "/why-an-online-insurance-license-course-is-the-smartest-way-to-get-licensed/:path*", destination: "/prelicensing", permanent: true },
-      // WordPress admin/content/includes paths — safe to redirect home (not malicious to us)
-      { source: "/wp-admin/:path*", destination: "/", permanent: true },
-      { source: "/wp-content/:path*", destination: "/", permanent: true },
-      { source: "/wp-includes/:path*", destination: "/", permanent: true },
+      // WordPress admin/content/includes paths are now handled by middleware
+      // (src/middleware.ts) and return a true 410 Gone response instead of
+      // a 301 to homepage. Removing them here is REQUIRED — framework-level
+      // redirects fire BEFORE middleware, so leaving these rules in would
+      // hijack the request and prevent middleware from serving the 410.
 
       // ── Round 4: GSC "Crawled - currently not indexed" drilldown 2026-04-20 ──
       // Legacy WordPress state URLs: /[state]-insurance-license(-2)?/ → /[state]
@@ -168,11 +169,11 @@ const nextConfig = {
       { source: "/tag/:path*", destination: "/blog", permanent: true },
       { source: "/category/:path*", destination: "/blog", permanent: true },
 
-      // RSS feeds from pre-migration — route to blog
-      { source: "/feed", destination: "/blog", permanent: true },
-      { source: "/feed/", destination: "/blog", permanent: true },
-      { source: "/:path*/feed", destination: "/blog", permanent: true },
-      { source: "/:path*/feed/", destination: "/blog", permanent: true },
+      // RSS feeds from pre-migration — now handled by middleware as 410 Gone
+      // (src/middleware.ts). The /feed and /:path*/feed variants previously
+      // 301'd to /blog; they now return 410 to permanently deindex the WP
+      // feed URL space. Removing these rules is REQUIRED so middleware can
+      // handle them (framework redirects fire before middleware).
 
       // Old WP opt-in landing
       { source: "/optin-3", destination: "/", permanent: true },

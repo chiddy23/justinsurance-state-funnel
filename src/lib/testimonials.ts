@@ -1228,6 +1228,61 @@ export const GOOGLE_REVIEWS: Testimonial[] = [
     text: "Very informative and nice staff",
     source: "google",
   },
+  {
+    name: "Jonathan D.",
+    initials: "JD",
+    text: "Very helpful and easy to pass exam, Nerrissa was super helpful as well.",
+    source: "google",
+  },
+  {
+    name: "Jill G.",
+    initials: "JG",
+    text: "A pivotal part of my success thanks to Matt with Justinsurance! I could not have done it without his classes and his study tricks and his special way of keeping us all engaged in preparing for the test! I would highly recommend.",
+    source: "google",
+  },
+  {
+    name: "Aricia T.",
+    initials: "AT",
+    text: "I experienced great support with pre licensing preparation! I appreciate everything you do!",
+    source: "google",
+  },
+  {
+    name: "Christy A.",
+    initials: "CA",
+    text: "JustInsurance was essential for me in obtaining my licenses. If you want grounded guidance while you prep for your exams, I would recommend this organization. Justin and his team demonstrated ethical and timely resolution to a customer service issue. Matt's study groups equipped us with essential industry understanding while keeping discussions interesting. Thank you, Matt! Thank you, JustInsurance!",
+    source: "google",
+  },
+  {
+    name: "Mary K.",
+    initials: "MK",
+    state: "Delaware",
+    text: "Great Review for my DE Insurance licensing test! It made my studying fun w videos, powerpoints, study guide, and prep tests which prepped me very well for the exam. Thanks Nerrissa!",
+    source: "google",
+  },
+  {
+    name: "Corbin F.",
+    initials: "CF",
+    text: "Help with getting through the steps required to obtain my license and get started working was made so easy with them. Nerrissa from the support team was there every step of the way! Thanks guys!",
+    source: "google",
+  },
+  {
+    name: "Lucas W.",
+    initials: "LW",
+    text: "Kathleen is a stellar example of great service. Fast responses, clarifying my questions, and helping me learn the skills to obtain my license first try. Highly recommended.",
+    source: "google",
+  },
+  {
+    name: "Charline L.",
+    initials: "CL",
+    text: "Nerrissa from the support team have been really helpful in this process. Always checking up on you. 10/10.",
+    source: "google",
+  },
+  {
+    name: "Patricia O.",
+    initials: "PO",
+    text: "Kathlene at Just Insurance provided an exceptional experience from start to finish. She was attentive to my specific needs, proactive in finding the best solutions and followed through on every detail. I highly recommend Kathlene to anyone seeking guidance while navigating this course.",
+    source: "google",
+  },
 ];
 
 /** All testimonials, YouTube first (most credible), Google next, then generic */

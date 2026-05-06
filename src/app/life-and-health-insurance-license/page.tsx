@@ -227,6 +227,7 @@ export default function LifeAndHealthInsuranceLicensePage() {
       </section>
       <YouTubeEmbed videoId="zFd-qEsGMZ8" title="Life + Health Insurance Exam Practice Questions (30 MUST-KNOW) Part 2" />
       <YouTubeEmbed videoId="f3eCrvsW7pU" title="Life + Health Insurance Exam Practice Questions (30 MUST-KNOW) Part 3" />
+      <YouTubeEmbed videoId="CFofL1mdURM" title="Pass Your Life + Health Insurance Exam - 6 Hour MASTERCLASS" />
 
       <CTABanner
         title="Get the License That Opens Every Door"

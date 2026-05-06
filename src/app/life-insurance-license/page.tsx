@@ -65,14 +65,14 @@ const stats = [
 const videoSchema = {
   "@context": "https://schema.org",
   "@type": "VideoObject",
-  name: "30 MORE Life Insurance Exam Terms You MUST Know (in UNDER 30 Minutes)",
+  name: "Life Insurance Exam Practice Questions (MUST-KNOW) – Part 8",
   description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
-  thumbnailUrl: `https://i.ytimg.com/vi/dl3L1bb6hMA/hqdefault.jpg`,
-  // from src/lib/youtube-videos.json (real values, fetched 2026-04-27)
-  uploadDate: "2026-03-30",
-  duration: "PT18M47S",
-  contentUrl: `https://www.youtube.com/watch?v=dl3L1bb6hMA`,
-  embedUrl: `https://www.youtube-nocookie.com/embed/dl3L1bb6hMA`,
+  thumbnailUrl: `https://i.ytimg.com/vi/it9dlxYAAbY/hqdefault.jpg`,
+  // from src/lib/youtube-videos.json (real values, fetched 2026-05-06)
+  uploadDate: "2026-03-12",
+  duration: "PT10M5S",
+  contentUrl: `https://www.youtube.com/watch?v=it9dlxYAAbY`,
+  embedUrl: `https://www.youtube-nocookie.com/embed/it9dlxYAAbY`,
   publisher: {
     "@type": "Organization",
     name: "JustInsurance LLC",
@@ -211,7 +211,9 @@ export default function LifeInsuranceLicensePage() {
         </div>
       </section>
 
-      <YouTubeEmbed videoId="dl3L1bb6hMA" title="30 MORE Life Insurance Exam Terms You MUST Know (in UNDER 30 Minutes)" />
+      <YouTubeEmbed videoId="it9dlxYAAbY" title="Life Insurance Exam Practice Questions (MUST-KNOW) – Part 8" />
+      <YouTubeEmbed videoId="zcCOK4ztwec" title="Types Of Life Insurance Policies - Life Insurance Exam Prep" />
+      <YouTubeEmbed videoId="Xjyrb47oGr8" title="Pass the Life Insurance Exam On Your First Try – 6-Hour Masterclass" />
 
       <CTABanner
         title="Start Your Life Insurance Career Today"

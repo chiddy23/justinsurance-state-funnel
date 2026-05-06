@@ -65,14 +65,14 @@ const stats = [
 const videoSchema = {
   "@context": "https://schema.org",
   "@type": "VideoObject",
-  name: "Health Insurance Exam Practice Questions (30 MUST-KNOW) — Part 2",
+  name: "Health + Accident Insurance Masterclass (Pass your state exam!)",
   description: "Insurance exam prep video from the Insurance Exam Prep YouTube channel by Justin vom Eigen.",
-  thumbnailUrl: `https://i.ytimg.com/vi/VqyHMiRvKSU/hqdefault.jpg`,
-  // from src/lib/youtube-videos.json (real values, fetched 2026-04-27)
-  uploadDate: "2026-04-06",
-  duration: "PT30M13S",
-  contentUrl: `https://www.youtube.com/watch?v=VqyHMiRvKSU`,
-  embedUrl: `https://www.youtube-nocookie.com/embed/VqyHMiRvKSU`,
+  thumbnailUrl: `https://i.ytimg.com/vi/C0mqwju2fUM/hqdefault.jpg`,
+  // from src/lib/youtube-videos.json (real values, fetched 2026-05-06)
+  uploadDate: "2026-02-18",
+  duration: "PT22M24S",
+  contentUrl: `https://www.youtube.com/watch?v=C0mqwju2fUM`,
+  embedUrl: `https://www.youtube-nocookie.com/embed/C0mqwju2fUM`,
   publisher: {
     "@type": "Organization",
     name: "JustInsurance LLC",
@@ -211,7 +211,7 @@ export default function HealthInsuranceLicensePage() {
         </div>
       </section>
 
-      <YouTubeEmbed videoId="VqyHMiRvKSU" title="Health Insurance Exam Practice Questions (30 MUST-KNOW) — Part 2" />
+      <YouTubeEmbed videoId="C0mqwju2fUM" title="Health + Accident Insurance Masterclass (Pass your state exam!)" />
 
       <CTABanner
         title="Ready to Enter the Health Insurance Market?"

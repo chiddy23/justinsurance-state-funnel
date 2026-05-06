@@ -232,8 +232,8 @@ export default function PracticeExamHubPage() {
           </p>
         </div>
         <YouTubeEmbed
-          videoId="f3eCrvsW7pU"
-          title="Life + Health Insurance Exam Practice Questions (30 MUST-KNOW) Part 3"
+          videoId="7OS6AMv42kg"
+          title="Life Insurance Exam Practice Questions (30 MUST-KNOW) – Part 11"
         />
       </section>
 

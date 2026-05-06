@@ -485,6 +485,7 @@ export default function StudyGuidePage() {
 
       {/* YouTube video */}
       <YouTubeEmbed videoId="guiU55wnIqc" title="The Key To Passing Your Insurance Exam On The First Try" />
+      <YouTubeEmbed videoId="dPSl3nJrXIs" title="30 Life Insurance Exam Terms in 30 Minutes (Simple Definitions)" />
 
       {/* Part 9: Resources */}
       <section id="resources" className="bg-gray-bg py-16 px-4">

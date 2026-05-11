@@ -327,6 +327,72 @@ export default function PartnersPage() {
         </div>
       </section>
 
+      {/* We finish what we start — licensing-help differentiator
+          Surfacing the post-pass licensing assistance that other prelicensing
+          providers don't offer. This is the unique B2B angle for agency partners. */}
+      <section className="bg-white py-16 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto">
+          <p className="text-gold font-semibold text-sm uppercase tracking-widest mb-3 text-center">
+            What Makes Us Different
+          </p>
+          <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-4">
+            We Finish What We Start
+          </h2>
+          <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10 leading-relaxed">
+            Most prelicensing providers stop at &ldquo;you passed your exam.&rdquo; We don&apos;t.
+            Every JustInsurance student gets personal text outreach within 24 hours of passing,
+            walked through NIPR, helped with fingerprinting, and followed up through state DOI
+            license issuance.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+            <div className="bg-gold/10 border border-gold/30 rounded-xl p-5 flex gap-3">
+              <span className="text-2xl flex-shrink-0">📱</span>
+              <div>
+                <h3 className="font-bold text-navy text-base mb-1">Post-pass text within 24 hours</h3>
+                <p className="text-gray-700 text-sm leading-relaxed">
+                  Real team members &mdash; not chatbots &mdash; reach out the moment a candidate passes.
+                </p>
+              </div>
+            </div>
+            <div className="bg-gold/10 border border-gold/30 rounded-xl p-5 flex gap-3">
+              <span className="text-2xl flex-shrink-0">📋</span>
+              <div>
+                <h3 className="font-bold text-navy text-base mb-1">NIPR application walkthrough</h3>
+                <p className="text-gray-700 text-sm leading-relaxed">
+                  Step-by-step help filling out the application, getting fees paid, and submitting cleanly.
+                </p>
+              </div>
+            </div>
+            <div className="bg-gold/10 border border-gold/30 rounded-xl p-5 flex gap-3">
+              <span className="text-2xl flex-shrink-0">👆</span>
+              <div>
+                <h3 className="font-bold text-navy text-base mb-1">Fingerprinting guidance</h3>
+                <p className="text-gray-700 text-sm leading-relaxed">
+                  State-specific IdentoGO codes, vendor selection, scheduling &mdash; the place most candidates get stuck.
+                </p>
+              </div>
+            </div>
+            <div className="bg-gold/10 border border-gold/30 rounded-xl p-5 flex gap-3">
+              <span className="text-2xl flex-shrink-0">✅</span>
+              <div>
+                <h3 className="font-bold text-navy text-base mb-1">License issuance follow-up</h3>
+                <p className="text-gray-700 text-sm leading-relaxed">
+                  We track the candidate through state DOI processing until their license number lands in their hands.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="bg-navy text-white rounded-xl p-6 text-center">
+            <p className="text-lg font-semibold mb-2">For agency partners, that means:</p>
+            <p className="text-blue-100 leading-relaxed">
+              Your new agents reach <strong className="text-gold">active license status faster</strong> &mdash;
+              typically 2&ndash;4 weeks from enrollment &mdash; with no abandoned candidates stuck mid-process.
+              That&apos;s measurable retention versus the industry standard where 30&ndash;40% of trainees never finish licensing.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Why Partner */}
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-5xl mx-auto">

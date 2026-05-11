@@ -139,6 +139,51 @@ export default function PartnerResourcesPage() {
         </div>
       </section>
 
+      {/* ── POST-PASS WORKFLOW ──
+          Shows partners what happens after their candidate passes — the
+          licensing-help differentiator that other prelicensing providers don't offer. */}
+      <section className="bg-white py-16 px-4">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">What Happens After Your Candidate Passes</h2>
+          <p className="text-gray-500 mb-8">The post-pass workflow most prelicensing providers don&apos;t offer. Your candidates don&apos;t get stuck in NIPR &mdash; we walk them through.</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div className="bg-gold/10 border border-gold/30 rounded-xl p-5">
+              <div className="text-3xl mb-3">1</div>
+              <h3 className="font-bold text-navy text-sm mb-2">Within 24 hours of passing</h3>
+              <p className="text-gray-700 text-sm leading-relaxed">
+                Personal text outreach from our team. We confirm the pass, congratulate them, and start the licensing-help conversation.
+              </p>
+            </div>
+            <div className="bg-gold/10 border border-gold/30 rounded-xl p-5">
+              <div className="text-3xl mb-3">2</div>
+              <h3 className="font-bold text-navy text-sm mb-2">NIPR walkthrough</h3>
+              <p className="text-gray-700 text-sm leading-relaxed">
+                We help them navigate the NIPR application &mdash; lines of authority, fees, supplemental forms, document uploads.
+              </p>
+            </div>
+            <div className="bg-gold/10 border border-gold/30 rounded-xl p-5">
+              <div className="text-3xl mb-3">3</div>
+              <h3 className="font-bold text-navy text-sm mb-2">Fingerprinting guidance</h3>
+              <p className="text-gray-700 text-sm leading-relaxed">
+                State-specific IdentoGO codes, vendor selection, scheduling. This is the #1 place candidates get stuck without help.
+              </p>
+            </div>
+            <div className="bg-gold/10 border border-gold/30 rounded-xl p-5">
+              <div className="text-3xl mb-3">4</div>
+              <h3 className="font-bold text-navy text-sm mb-2">License issuance follow-up</h3>
+              <p className="text-gray-700 text-sm leading-relaxed">
+                We track the application through state DOI processing until the license number lands in their hands.
+              </p>
+            </div>
+          </div>
+          <div className="mt-6 bg-navy text-white rounded-xl p-5 text-center">
+            <p className="leading-relaxed">
+              <strong className="text-gold">Net result for your agency:</strong> active license status in 2&ndash;4 weeks from enrollment, almost zero post-exam abandonment, and candidates who feel supported all the way through.
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* ── COMMON MISTAKES ── */}
       <section className="bg-white py-16 px-4">
         <div className="max-w-4xl mx-auto">

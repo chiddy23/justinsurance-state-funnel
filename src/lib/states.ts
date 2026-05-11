@@ -5381,7 +5381,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "47",
+      examFee: "38",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/njins",
       examBookingUrl: "https://test-takers.psiexams.com/njins",
@@ -8230,7 +8230,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "51",
+      examFee: "35",
       examProvider: "Prometric",
       examProviderUrl: "https://www.prometric.com/virginia/insurance",
       examBookingUrl: "https://www.prometric.com/virginia/insurance",

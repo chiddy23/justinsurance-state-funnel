@@ -152,7 +152,7 @@ No. When you submit a single NIPR application covering both Property and Casualt
 
 I failed the Casualty exam and need to retake it. Does retaking the exam require me to redo the fingerprinting or submit a new NIPR application?
 
-No. Fingerprinting and the background check are completed once per applicant — not once per exam attempt. You do not need to return to IdentoGO or pay the $37.15 fee again for a retake. Simply reschedule through Pearson VUE, pay the retake exam fee ($55 per attempt), and take the exam again. If you have already submitted your NIPR application for Property authority (which you passed) while awaiting your Casualty retake, you will submit a separate NIPR application for Casualty after passing that retake — paying the $50 TDCI fee and $5.60 NIPR fee for that separate submission. One fingerprinting covers your full licensing history in Tennessee regardless of how many lines or applications follow.
+No. Fingerprinting and the background check are completed once per applicant — not once per exam attempt. You do not need to return to IdentoGO or pay the $37.15 fee again for a retake. Simply reschedule through Pearson VUE, pay the retake exam fee ($59 per attempt), and take the exam again. If you have already submitted your NIPR application for Property authority (which you passed) while awaiting your Casualty retake, you will submit a separate NIPR application for Casualty after passing that retake — paying the $50 TDCI fee and $5.60 NIPR fee for that separate submission. One fingerprinting covers your full licensing history in Tennessee regardless of how many lines or applications follow.
 
 I am budgeting for the full licensing process. What is a realistic total budget to plan for?
 

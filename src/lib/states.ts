@@ -235,19 +235,19 @@ export const STATES: Record<string, StateData> = {
 
     prelicensing: {
       life: {
-        hours: "Not Required (as of January 1, 2026)",
+        hours: "Not Required (as of January 1, 2024)",
         price: "$199",
         totalCost: "$376.20",
         completionTime: "20 hours",
       },
       health: {
-        hours: "Not Required (as of January 1, 2026)",
+        hours: "Not Required (as of January 1, 2024)",
         price: "$199",
         totalCost: "$376.20",
         completionTime: "20 hours",
       },
       lifeAndHealth: {
-        hours: "Not Required (as of January 1, 2026)",
+        hours: "Not Required (as of January 1, 2024)",
         price: "$199",
         totalCost: "$600.20",
         completionTime: "40 hours",
@@ -1660,10 +1660,10 @@ export const STATES: Record<string, StateData> = {
 
     prelicensing: {
       life: {
-        hours: 30,
+        hours: 40,
         price: "$199",
         totalCost: "$341.00",
-        completionTime: "30 hours",
+        completionTime: "40 hours",
       },
       health: {
         hours: 40,
@@ -2889,7 +2889,7 @@ export const STATES: Record<string, StateData> = {
     backgroundRequirement: "Criminal background check required",
     fingerprintRequirement: "Fingerprinting required through KS DOI, DCF locations, local law enforcement, Pearson VUE, or KBI (Code: KS920161Z)",
     applicationProcess: "Submit your application through NIPR and upload your Tax Clearance to the NIPR Attachment Warehouse",
-    applicationFee: "70",
+    applicationFee: "40",
     backgroundCheckCost: "60",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "3-5 business days",
@@ -3967,7 +3967,7 @@ export const STATES: Record<string, StateData> = {
     providerNumber: "1140",
 
     examInfo: {
-      passingScore: 70,
+      passingScore: 72,
       passRate: "93.20",
       examFee: "41",
       examProvider: "PSI Services LLC",
@@ -4663,7 +4663,7 @@ export const STATES: Record<string, StateData> = {
     backgroundRequirement: "Criminal background check required",
     fingerprintRequirement: "Fingerprinting required through CSI Montana (mail-in)",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
-    applicationFee: "",
+    applicationFee: "0",
     backgroundCheckCost: "30",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "2-3 business days",
@@ -5013,7 +5013,7 @@ export const STATES: Record<string, StateData> = {
 
     agentLicensingUrl: "https://doi.nv.gov/Licensing/License_Types/Producer/Individuals/",
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
-    licenseDuration: "2 years",
+    licenseDuration: "3 years",
     minAge: 18,
     residencyRequirement: "Must be a resident of Nevada",
     backgroundRequirement: "Criminal background check required",
@@ -5066,7 +5066,7 @@ export const STATES: Record<string, StateData> = {
 
     ce: {
       totalHours: 30,
-      renewalPeriod: "2 years",
+      renewalPeriod: "3 years",
       ethicsHours: 3,
       requirementsUrl: "https://doi.nv.gov/Licensing/License_Types/Producer/Individuals/",
       packagePrice: "$48.75",
@@ -5203,14 +5203,14 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "45",
-      examProvider: "Prometric",
-      examProviderUrl: "https://www.prometric.com/newhampshire/insurance",
-      examBookingUrl: "https://www.prometric.com/newhampshire/insurance",
+      examFee: "59",
+      examProvider: "PSI Services LLC",
+      examProviderUrl: "https://test-takers.psiexams.com/nhins",
+      examBookingUrl: "https://test-takers.psiexams.com/nhins",
       retakeWaitingPeriod: "scheduling your next available test date for your first three attempts, but a 4-week mandatory waiting period applies after your third failure",
       retakeLimitInfo: "You may take the exam up to 3 times within your 90-day authorization period. After a third failure, you must wait 4 weeks and repeat the entire application process.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
-      examSchedulingInfo: "https://www.prometric.com/newhampshire/insurance",
+      examSchedulingInfo: "https://test-takers.psiexams.com/nhins",
     },
     noCombinedExam: false,
     applicationBeforeExam: false,
@@ -5381,7 +5381,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "38",
+      examFee: "47",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/njins",
       examBookingUrl: "https://test-takers.psiexams.com/njins",
@@ -6253,7 +6253,7 @@ export const STATES: Record<string, StateData> = {
 
     agentLicensingUrl: "https://insurance.ohio.gov/agents-and-agencies/agent-licensing/welcome",
     licenseApplicationPortal: "https://nipr.com/licensing-center/apply",
-    licenseDuration: "3 years",
+    licenseDuration: "2 years",
     minAge: 18,
     residencyRequirement: "Must be a resident of Ohio",
     backgroundRequirement: "Criminal background check required",
@@ -7374,7 +7374,7 @@ export const STATES: Record<string, StateData> = {
 
     ce: {
       totalHours: 10,
-      renewalPeriod: "1 year",
+      renewalPeriod: "2 years",
       ethicsHours: 0,
       requirementsUrl: "https://dlr.sd.gov/insurance/producers/continuing_education.aspx",
       packagePrice: "$75",
@@ -7517,7 +7517,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "55",
+      examFee: "59",
       examProvider: "Pearson VUE",
       examProviderUrl: "https://www.pearsonvue.com/tn/insurance",
       examBookingUrl: "https://www.pearsonvue.com/tn/insurance",
@@ -8764,7 +8764,7 @@ export const STATES: Record<string, StateData> = {
     examInfo: {
       passingScore: 70,
       passRate: "93.20",
-      examFee: "50",
+      examFee: "75",
       examProvider: "PSI Services LLC",
       examProviderUrl: "https://test-takers.psiexams.com/wiins",
       examBookingUrl: "https://test-takers.psiexams.com/wiins",

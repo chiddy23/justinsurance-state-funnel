@@ -124,7 +124,7 @@ This one-year threshold is not negotiable. There are no extensions, no exception
 
 When a license has been expired for more than one year, the producer must complete the entire initial licensing process from the beginning. Every step of new licensure applies:
 
-Pass the Pearson VUE exam. Prior passing scores are not preserved. The exam must be retaken for every line of authority the producer wants to hold — at $55 per line per attempt.
+Pass the Pearson VUE exam. Prior passing scores are not preserved. The exam must be retaken for every line of authority the producer wants to hold — at $59 per line per attempt.
 
 Complete IdentoGO fingerprinting. A new background check is required. The $37.15 fingerprinting fee applies.
 

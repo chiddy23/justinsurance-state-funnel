@@ -88,7 +88,7 @@ No familiarity with Tennessee law: TCA Title 56's insurance provisions, the TDCI
 
 Time efficiency: A structured course sequences the material correctly, identifies high-priority exam topics, provides practice questions that reveal knowledge gaps, and compresses what would otherwise be an unguided reading of multiple textbooks into a focused study plan. Most candidates who try to self-study from raw textbooks spend significantly more time reaching exam readiness than candidates who use a structured course.
 
-The retake cost calculus: A prep course for Tennessee costs approximately $100–$350 depending on provider and tier. A failed exam attempt costs $55 plus the time delay before retaking. For a candidate who might otherwise require two or three attempts to pass, the prep course is the economically rational choice even ignoring the study efficiency it provides.
+The retake cost calculus: A prep course for Tennessee costs approximately $100–$350 depending on provider and tier. A failed exam attempt costs $59 plus the time delay before retaking. For a candidate who might otherwise require two or three attempts to pass, the prep course is the economically rational choice even ignoring the study efficiency it provides.
 
 ### Building Your Preparation Plan: Four Approaches
 
@@ -230,7 +230,7 @@ Trust your preparation — second-guessing correct first instincts is one of the
 
 I am planning to skip the prep course since it is not required. What is the minimum study time I should commit to before scheduling my exam?
 
-The honest minimum for a candidate with no prior insurance knowledge is 40 hours of deliberate study — not passive reading, but active engagement with the material including regular self-testing. Candidates who complete 40 focused hours using quality study materials and reach consistent 80%+ practice exam scores have a reasonable probability of first-time success. Candidates who do less than this without compensating prior knowledge are accepting a meaningful risk of failing. The calculation worth making before deciding to skip a structured course: a failed attempt costs $55 plus the time delay. A prep course costs $100–$350 and typically produces first-time pass rates of 94–99% according to provider claims. For most new entrants, the course is the lower-cost path when retake probability is factored in.
+The honest minimum for a candidate with no prior insurance knowledge is 40 hours of deliberate study — not passive reading, but active engagement with the material including regular self-testing. Candidates who complete 40 focused hours using quality study materials and reach consistent 80%+ practice exam scores have a reasonable probability of first-time success. Candidates who do less than this without compensating prior knowledge are accepting a meaningful risk of failing. The calculation worth making before deciding to skip a structured course: a failed attempt costs $59 plus the time delay. A prep course costs $100–$350 and typically produces first-time pass rates of 94–99% according to provider claims. For most new entrants, the course is the lower-cost path when retake probability is factored in.
 
 How long should I study before scheduling my exam — should I study first or schedule first?
 

@@ -42,7 +42,7 @@ North Carolina expanded Medicaid in December 2023 — making it the most recent 
 
 #### Tennessee: Minimal Friction, Competitive Market
 
-Tennessee's regulatory environment is consistently producer-friendly. No mandatory prelicensing requirements, a $55 remote exam option through Pearson VUE's OnVUE platform, and a biennial renewal structure with straightforward CE requirements. Tennessee's 2013-2014 workers' compensation reform produced 13 consecutive years of rate decreases — making it one of the most favorable commercial P&C environments for employer clients in the Southeast. The TDCI's rate regulation approach has generally supported carrier market participation, contributing to the broad voluntary market availability that Tennessee's commercial and personal lines accounts enjoy.
+Tennessee's regulatory environment is consistently producer-friendly. No mandatory prelicensing requirements, a $49 remote exam option through Pearson VUE's OnVUE platform, and a biennial renewal structure with straightforward CE requirements. Tennessee's 2013-2014 workers' compensation reform produced 13 consecutive years of rate decreases — making it one of the most favorable commercial P&C environments for employer clients in the Southeast. The TDCI's rate regulation approach has generally supported carrier market participation, contributing to the broad voluntary market availability that Tennessee's commercial and personal lines accounts enjoy.
 
 The surplus lines market: Tennessee's surplus lines framework is streamlined and functional — 5% premium tax, no stamping requirement, and a straightforward diligent search process. The E&S market is accessible for producers serving specialty commercial risks without the administrative complexity that some states impose.
 
@@ -96,7 +96,7 @@ North Carolina offers distinctive commercial niches that neither Tennessee nor G
 
 For producers making initial career decisions or considering multi-state expansion, the licensing process complexity matters.
 
-Tennessee has no mandatory prelicensing education requirement — the only state among the three that does not require prelicensing coursework before sitting for the licensing exam. A motivated candidate can schedule and sit for the Pearson VUE exam immediately, with no minimum hours requirement to satisfy first. Total typical cost to license: $55 (remote exam) + $37.15 (fingerprinting) + $50 + $5.60 (NIPR application fee) = approximately $142.
+Tennessee has no mandatory prelicensing education requirement — the only state among the three that does not require prelicensing coursework before sitting for the licensing exam. A motivated candidate can schedule and sit for the Pearson VUE exam immediately, with no minimum hours requirement to satisfy first. Total typical cost to license: $49 (remote exam) + $37.15 (fingerprinting) + $50 + $5.60 (NIPR application fee) = approximately $142.
 
 Georgia requires 40 hours of prelicensing education before sitting for the licensing exam. A Georgia Life/Health candidate must complete the 40-hour course before scheduling the exam. Total typical cost to license is higher due to the prelicensing course requirement (typically $150–$300 for the course) in addition to exam and application fees.
 

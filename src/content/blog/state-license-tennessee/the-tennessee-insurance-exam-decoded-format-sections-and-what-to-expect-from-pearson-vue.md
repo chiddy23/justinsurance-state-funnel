@@ -324,7 +324,7 @@ License suspension and revocation under TCA §56-6-112
 
 #### Producer Licensing Provisions
 
-No mandatory prelicensing — effective March 21, 2023 Exam: Pearson VUE; $55 per attempt; 70% pass; immediate results Fingerprinting: IdentoGO; $37.15; TBI and FBI background check; Fingerprint Policy and Acknowledgement Form to TDCI Application: NIPR; $50 per line; 48-hour post-exam wait mandatory License validity: Biennial; last day of birth month CE: 24 hours biennial; 3 hours ethics; no classroom minimum Renewal fee: $60; 30-day grace period; $120 late fee; up to 1 year late renewal; full relicensing after 1 year Appointment requirement: Carrier must file within 15 days of contract date; TCA §56-6-115 Appointment termination: Insurer must notify Commissioner within 30 days; TCA §56-6-117 Grounds for license discipline: TCA §56-6-112 — fourteen specific grounds including misrepresentation, directing persons to TennCare when covered by group insurance, accepting business from unlicensed individuals
+No mandatory prelicensing — effective March 21, 2023 Exam: Pearson VUE; $59 per attempt; 70% pass; immediate results Fingerprinting: IdentoGO; $37.15; TBI and FBI background check; Fingerprint Policy and Acknowledgement Form to TDCI Application: NIPR; $50 per line; 48-hour post-exam wait mandatory License validity: Biennial; last day of birth month CE: 24 hours biennial; 3 hours ethics; no classroom minimum Renewal fee: $60; 30-day grace period; $120 late fee; up to 1 year late renewal; full relicensing after 1 year Appointment requirement: Carrier must file within 15 days of contract date; TCA §56-6-115 Appointment termination: Insurer must notify Commissioner within 30 days; TCA §56-6-117 Grounds for license discipline: TCA §56-6-112 — fourteen specific grounds including misrepresentation, directing persons to TennCare when covered by group insurance, accepting business from unlicensed individuals
 
 #### Unfair Trade Practices and Unfair Claims Settlement Act
 
@@ -450,7 +450,7 @@ In the testing room: Scratch paper or a whiteboard and marker are provided for n
 
 After the exam: Your score report is printed and provided before you leave the facility.
 
-In-person exam fee: $55 per line.
+In-person exam fee: $59 per line.
 
 #### Taking Multiple Exams in One Session
 
@@ -494,7 +494,7 @@ Yes. Tennessee's exam is scored as a single combined result — you pass or fail
 
 I am scheduled for the Property exam tomorrow and realize I have not studied the Tennessee state law section adequately. Should I reschedule?
 
-Reschedule — provided you can do so at least 48 hours before your appointment to avoid forfeiting the exam fee. A failed exam attempt costs $55 plus the delay in getting licensed. A rescheduled exam costs nothing if the change is made within the 48-hour window. Spending two to three focused days specifically on Tennessee's state law provisions — the bad faith penalty, auto minimums, workers' comp threshold, appointment timeline, comparative fault rule, reciprocity states, CE requirements, and the TennCare direction prohibition — before retaking the exam produces a substantially better outcome than sitting for an exam you know you are not ready for. Rescheduling is the professionally rational choice when genuine knowledge gaps remain identified before exam day.
+Reschedule — provided you can do so at least 48 hours before your appointment to avoid forfeiting the exam fee. A failed exam attempt costs $59 plus the delay in getting licensed. A rescheduled exam costs nothing if the change is made within the 48-hour window. Spending two to three focused days specifically on Tennessee's state law provisions — the bad faith penalty, auto minimums, workers' comp threshold, appointment timeline, comparative fault rule, reciprocity states, CE requirements, and the TennCare direction prohibition — before retaking the exam produces a substantially better outcome than sitting for an exam you know you are not ready for. Rescheduling is the professionally rational choice when genuine knowledge gaps remain identified before exam day.
 
 The Tennessee Pearson VUE exam rewards candidates who understand its dual-domain structure, respect the state law section's Tennessee-specific content requirements, and prepare with materials calibrated to Pearson VUE's format and question style. Every element of the exam — the 77-question structure, the scaled scoring system, the immediate score report, and the specific Tennessee statutory provisions that appear consistently — is navigable for a candidate who has prepared deliberately. The 55–65% first-time pass rate is a market signal about preparation quality, not exam difficulty. Candidates who study both domains with equal seriousness and who target 80% on Pearson VUE-formatted practice exams reach exam day with the confidence that first-time passes are built on.
 

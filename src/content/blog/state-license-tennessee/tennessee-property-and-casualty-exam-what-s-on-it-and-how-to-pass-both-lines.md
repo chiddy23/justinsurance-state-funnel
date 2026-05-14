@@ -464,7 +464,7 @@ Licensing mechanics:
 
 No mandatory prelicensing (effective March 21, 2023)
 
-Pearson VUE; $55 per attempt; 70% pass; immediate results
+Pearson VUE; $59 per attempt; 70% pass; immediate results
 
 IdentoGO fingerprinting: $37.15; TBI + FBI
 

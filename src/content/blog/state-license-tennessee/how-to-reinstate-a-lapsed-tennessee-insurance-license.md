@@ -103,7 +103,7 @@ Full relicensing means completing the entire initial Tennessee licensing process
 
 Step 1 — Pass the Pearson VUE exam: The Tennessee Pearson VUE exam must be passed for every line of authority the producer wants to hold. Prior passing scores from the original licensing are not preserved and cannot be used — the exam must be retaken in full. The same format, fees, and pass score threshold of 70% apply as for initial licensing.
 
-Remote testing is available at $55 per line via OnVUE. In-person testing at a Pearson VUE test center costs $55 per line. Multiple exams can be taken in a single testing session for candidates pursuing multiple lines.
+Remote testing is available at $49 per line via OnVUE. In-person testing at a Pearson VUE test center costs $59 per line. Multiple exams can be taken in a single testing session for candidates pursuing multiple lines.
 
 Step 2 — Complete IdentoGO fingerprinting: Tennessee resident producers must complete new fingerprinting through IdentoGO. The prior background check from initial licensing is not reused — a new submission is required. The $37.15 fingerprinting fee applies. Schedule through identogo.com using ORI number TN920680Z (Transaction Type: IP).
 

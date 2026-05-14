@@ -122,7 +122,7 @@ License types and lines of authority
 
 No mandatory prelicensing requirement (effective March 21, 2023)
 
-Exam: Pearson VUE; $55 per attempt; 70% pass; immediate results
+Exam: Pearson VUE; $59 per attempt; 70% pass; immediate results
 
 Fingerprinting: IdentoGO; $37.15; TBI and FBI background check
 
@@ -264,7 +264,7 @@ Do not cover your mouth or talk to yourself during the exam — the microphone i
 
 The proctor can terminate the exam for any rule violation
 
-OnVUE fee: $55 per line.
+OnVUE fee: $49 per line.
 
 #### Option 2: In-Person at a Pearson VUE Test Center
 
@@ -310,7 +310,7 @@ Your score report is printed by test center staff and provided to you before you
 
 You will know your result — pass or fail, with your scaled score — before leaving the facility
 
-In-person fee: $55 per line.
+In-person fee: $59 per line.
 
 ### Identification Requirements
 
@@ -354,7 +354,7 @@ Tennessee allows unlimited exam retakes with no mandatory waiting period between
 
 What the unlimited retake policy does not mean: It does not mean retaking immediately without changing your preparation approach is a viable strategy. Candidates who fail, do nothing differently, and retake within a day or two fail again at approximately the same rate. The score report from your first attempt identifies where your knowledge failed — the retake preparation should systematically address those specific gaps.
 
-The financial reality of unlimited retakes: Each retake costs the full exam fee — $55 per attempt, per line. A candidate who takes a line three times before passing has spent $165 on that line alone in exam fees. The total cost of multiple failed attempts across two lines (Property and Casualty, for example) compounds quickly. The unlimited retake policy is insurance against bad luck on a single attempt — not a subsidy for underprepared repeated attempts.
+The financial reality of unlimited retakes: Each retake costs the full exam fee — $59 per attempt, per line. A candidate who takes a line three times before passing has spent $165 on that line alone in exam fees. The total cost of multiple failed attempts across two lines (Property and Casualty, for example) compounds quickly. The unlimited retake policy is insurance against bad luck on a single attempt — not a subsidy for underprepared repeated attempts.
 
 The score report as a retake guide: After a failed attempt, do not simply study more of what you already studied. Read your section performance breakdown carefully. If you failed because of the state law section, that is a different preparation problem than failing because of property coverage concepts. Identify the specific content areas where your performance was weakest and build your retake preparation around those gaps.
 

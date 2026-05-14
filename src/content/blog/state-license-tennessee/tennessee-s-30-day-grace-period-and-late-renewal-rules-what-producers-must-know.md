@@ -140,7 +140,7 @@ A license that expired June 30, 2025 can be late-renewed through June 30, 2026 a
 
 Full relicensing requires completing the entire initial Tennessee licensing process from the beginning — as though applying for a license for the first time:
 
-Pass the Pearson VUE exam. Every line of authority the producer wants to hold must be passed on the Tennessee exam again. Prior passing scores are not preserved. The exam fee applies per line per attempt — $55 per attempt.
+Pass the Pearson VUE exam. Every line of authority the producer wants to hold must be passed on the Tennessee exam again. Prior passing scores are not preserved. The exam fee applies per line per attempt — $59 per attempt.
 
 Complete IdentoGO fingerprinting. A new background check through IdentoGO is required. The $37.15 fingerprinting fee applies. Prior fingerprinting is not reused.
 

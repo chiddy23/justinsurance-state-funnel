@@ -382,7 +382,7 @@ The no-PIP rule: Tennessee does not require personal injury protection. Tennesse
 
 TDCI licensing mechanics for Personal Lines:
 
-Pearson VUE exam; $55 per attempt; 70% pass
+Pearson VUE exam; $59 per attempt; 70% pass
 
 IdentoGO fingerprinting: $37.15; 2 business days before application
 

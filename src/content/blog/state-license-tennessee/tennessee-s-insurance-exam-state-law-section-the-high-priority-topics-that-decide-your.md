@@ -102,9 +102,9 @@ Administered by: Pearson VUE — not PSI. Tennessee is one of a small number of 
 
 Fees:
 
-Remote (OnVUE): $55 per line
+Remote (OnVUE): $49 per line
 
-In-person (Pearson VUE test center): $55 per line
+In-person (Pearson VUE test center): $59 per line
 
 Pass score: 70% on scored questions
 

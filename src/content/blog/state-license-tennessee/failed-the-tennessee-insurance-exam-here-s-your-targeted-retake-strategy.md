@@ -162,7 +162,7 @@ Schedule retake when: Practice exams consistently reach 80%+ AND behavioral erro
 
 #### Scheduling
 
-Log in to your Pearson VUE account at pearsonvue.com. Schedule a new exam for the same line you failed. Select your testing format — either remote or in-person ($55) — and pay the retake fee at scheduling. Cancel or reschedule at least 48 hours before the appointment to avoid forfeiting the fee.
+Log in to your Pearson VUE account at pearsonvue.com. Schedule a new exam for the same line you failed. Select your testing format — either remote ($49) or in-person ($59) — and pay the retake fee at scheduling. Cancel or reschedule at least 48 hours before the appointment to avoid forfeiting the fee.
 
 No new NIPR application is required for a retake. The application is submitted after passing — not before each attempt.
 

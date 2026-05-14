@@ -57,7 +57,7 @@ The pass score: You must score 70% or higher on the scored questions to pass. On
 
 Score report: Pearson VUE delivers your score report immediately after you complete the exam. You know your result before leaving the testing center or closing your remote testing session. There is no waiting period for results.
 
-Retakes: Tennessee allows unlimited retakes with no mandatory waiting period between attempts. However, each retake requires paying the full exam fee again — $55 per attempt per line per attempt. The financial cost of repeated attempts is a genuine incentive to prepare thoroughly before your first attempt. First-time pass rates for the Tennessee exam are approximately 55–65%, reflecting the challenge of exam preparation without mandatory structured prelicensing.
+Retakes: Tennessee allows unlimited retakes with no mandatory waiting period between attempts. However, each retake requires paying the full exam fee again — $59 per attempt per line per attempt. The financial cost of repeated attempts is a genuine incentive to prepare thoroughly before your first attempt. First-time pass rates for the Tennessee exam are approximately 55–65%, reflecting the challenge of exam preparation without mandatory structured prelicensing.
 
 #### Taking Multiple Exams in One Sitting
 
@@ -65,9 +65,9 @@ Tennessee allows candidates to sit for multiple line exams in a single testing s
 
 #### Scheduling the Exam
 
-Remote (OnVUE): Available from any location with a compatible computer, webcam, and reliable internet connection. Fee: $55 per line. You must verify your computer's compatibility with Pearson VUE's OnVUE system before scheduling — visit home.pearsonvue.com/tn/insurance to run the compatibility check. If your computer is not compatible, you must take the exam at a Pearson VUE test center.
+Remote (OnVUE): Available from any location with a compatible computer, webcam, and reliable internet connection. Fee: $49 per line. You must verify your computer's compatibility with Pearson VUE's OnVUE system before scheduling — visit home.pearsonvue.com/tn/insurance to run the compatibility check. If your computer is not compatible, you must take the exam at a Pearson VUE test center.
 
-In-person test centers: Available at Pearson VUE testing locations throughout Tennessee. The Public Adjuster exam is only available at the Knoxville, Memphis, and Nashville test centers — not at all locations. Fee: $55 per line.
+In-person test centers: Available at Pearson VUE testing locations throughout Tennessee. The Public Adjuster exam is only available at the Knoxville, Memphis, and Nashville test centers — not at all locations. Fee: $59 per line.
 
 Scheduling: Visit pearsonvue.com/tn/insurance or call (800) 274-4957. Payment is required at the time of scheduling by credit card, debit card, voucher, or electronic check.
 

@@ -26,7 +26,7 @@ Exam specifics for the added line:
 
 Vendor: Pearson VUE
 
-Fee: $55 per attempt at a Pearson VUE test center
+Fee: $59 per attempt at a Pearson VUE test center
 
 Format: 77 questions (68 scored + 9 unscored pretest), 105 minutes
 

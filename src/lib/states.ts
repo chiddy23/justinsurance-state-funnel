@@ -343,7 +343,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500031647",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of your birth month (every 2 years)",
@@ -1234,7 +1234,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "231589",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -1777,7 +1777,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "373671",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Licensee's birthday (CE due every 2 years)",
@@ -3023,7 +3023,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500032151",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -4091,7 +4091,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "1140",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "First day of birth month (every 2 years)",
@@ -4269,7 +4269,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "21053306",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -4797,7 +4797,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500031592",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -5147,7 +5147,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "174927",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 3 years)",
@@ -5325,7 +5325,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500031611",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -5503,7 +5503,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "48129",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -6393,7 +6393,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "11460",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -7461,7 +7461,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500031730",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 3 years)",
@@ -7639,7 +7639,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500032111",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -8352,7 +8352,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "158885",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",
@@ -8886,7 +8886,7 @@ export const STATES: Record<string, StateData> = {
     paymentPlanInfo: "One-time payment of $199 per course — no payment plans available",
 
     providerApprovalNumber: "500032297",
-    lastVerified: "March 2026",
+    lastVerified: "May 2026",
     realPassRate: 93.2,
     marketGrowthRate: null,
     renewalDeadline: "Last day of birth month (every 2 years)",

@@ -30,7 +30,7 @@ export default function ArticleByline({
   name = "Justin vom Eigen",
   title = "Licensed Insurance Agent",
   bioUrl = "/about/justin-vom-eigen",
-  lastReviewed = "April 2026",
+  lastReviewed = "May 2026",
 }: ArticleBylineProps = {}) {
   return (
     <div className="flex flex-wrap items-center gap-x-3 gap-y-2 border-y border-gray-200 py-3 my-4 text-sm text-gray-600">

@@ -110,10 +110,12 @@ function buildTitle(
       ];
     })(),
     "prelicensing-hub": [
-      `${stateName} Insurance Prelicensing | ${hourStr} | ${brand}`,
+      hourStr
+        ? `${stateName} Insurance Prelicensing | ${hourStr} | ${brand}`
+        : `${stateName} Insurance Prelicensing | ${brand}`,
       `${stateName} Insurance Prelicensing Course | ${brand}`,
       `${stateName} Prelicensing Course | ${brand}`,
-    ].filter(t => !t.includes("| |")), // remove empty hours variant
+    ],
     "ce-hub": [
       `${stateName} Insurance CE | Same-Day Reporting | ${brand}`,
       `${stateName} Insurance CE Courses | ${brand}`,

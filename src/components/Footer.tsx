@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 const POPULAR_STATES = [
   { name: "Florida", slug: "florida" },
@@ -23,13 +24,13 @@ export default function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <Link href="/">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
+              <Image
                 src="/justinsurance-logo.png"
                 alt="JustInsurance LLC"
-                width={180}
-                height={60}
+                width={136}
+                height={48}
                 className="h-12 w-auto mb-4"
+                loading="lazy"
               />
             </Link>
             <p className="text-gray-300 text-sm leading-relaxed mb-4">

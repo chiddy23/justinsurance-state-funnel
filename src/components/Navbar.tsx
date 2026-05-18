@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 const COURSES_LINKS = [
   { label: "Prelicensing Courses", href: "/prelicensing" },
@@ -51,13 +52,13 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="flex-shrink-0">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
+            <Image
               src="/justinsurance-logo.png"
               alt="JustInsurance LLC"
-              width={180}
-              height={60}
+              width={136}
+              height={48}
               className="h-12 w-auto"
+              priority
             />
           </Link>
 

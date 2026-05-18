@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
-Securing your [California insurance license](/california) continuing education doesn’t have to be a daunting task. If you're still working toward your initial license, start with our [California prelicensing courses](/california/prelicensing) before tackling CE. With a solid roadmap and the right support, you can fulfill these requirements while strengthening your expertise in the insurance field. Whether you’re renewing your existing license or aiming to add more lines of authority, you’ll find that each step contributes to your professional growth and success. Think of it as an opportunity to expand your skills, not just a checkbox on your to-do list.
+Securing your [California insurance license](/california) [continuing education](/california/continuing-education) doesn’t have to be a daunting task. If you're still working toward your initial license, start with our [California prelicensing courses](/california/prelicensing) before tackling CE. With a solid roadmap and the right support, you can fulfill these requirements while strengthening your expertise in the insurance field. Whether you’re renewing your existing license or aiming to add more lines of authority, you’ll find that each step contributes to your professional growth and success. Think of it as an opportunity to expand your skills, not just a checkbox on your to-do list.
 
 ## Know your continuing education basics
 

@@ -178,6 +178,6 @@ Agencies that plan for this timeline succeed. Agencies that expect to be profita
 
 ## Build the Atlanta Agency You Envision
 
-Starting an insurance agency in Atlanta is one of the most rewarding career moves you can make — when it's built on real preparation. At JustInsurance, our Georgia prelicense and CE courses give you the foundation to develop into the kind of professional who can successfully run their own agency.
+Starting an insurance agency in Atlanta is one of the most rewarding career moves you can make — when it's built on real preparation. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses give you the foundation to develop into the kind of professional who can successfully run their own agency.
 
 Enroll today and start building toward Atlanta agency ownership the right way.

@@ -17,7 +17,7 @@ imageAlt: >-
   louisiana insurance exam study plan: from zero t.
 ---
 
-If you're a future Louisiana insurance agent who wants a structured, realistic study plan that gets you to the PSI exam ready to pass — without wasting weeks you don't need — this guide is for you. Because Louisiana has no mandatory prelicensing education requirement, you control the timeline entirely. A focused two-week study plan is sufficient for most candidates who use quality exam prep materials and commit to a consistent daily schedule. Here is how to structure those two weeks to maximize your first-attempt pass rate.
+If you're a future Louisiana insurance agent who wants a structured, realistic study plan that gets you to the PSI exam ready to pass — without wasting weeks you don't need — this guide is for you. Because Louisiana has no mandatory [prelicensing](/louisiana/prelicensing) education requirement, you control the timeline entirely. A focused two-week study plan is sufficient for most candidates who use quality exam prep materials and commit to a consistent daily schedule. Here is how to structure those two weeks to maximize your first-attempt [pass rate](/pass-rates).
 
 ## Why Two Weeks Works for Louisiana
 
@@ -33,7 +33,7 @@ Enroll in JustInsurance's Louisiana exam prep course before Week 1 begins. Set u
 
 Spend the first week covering foundational general insurance content for your line of authority. For Life candidates, this means term, whole, universal, and variable life policy structures; beneficiary rules; policy loan provisions; annuity types and mechanics; and group versus individual coverage basics. For P&C candidates, this means homeowners policy structure and coverage parts, commercial property basics, auto insurance coverage types (liability, collision, comprehensive, UM/UIM), and general liability concepts.
 
-At the end of each day, complete the practice questions associated with that day's material. Review every incorrect answer — understand why the correct answer is correct, not just that it is correct. Pattern recognition built through daily review sessions is what makes content stick under exam conditions.
+At the end of each day, complete the [practice questions](/louisiana/practice-exam) associated with that day's material. Review every incorrect answer — understand why the correct answer is correct, not just that it is correct. Pattern recognition built through daily review sessions is what makes content stick under exam conditions.
 
 By the end of Day 7, you should have a working familiarity with the general insurance content for your line. You will not have mastered it yet — that comes through repetition in Week 2 — but you should be able to answer basic questions in each topic area without significant hesitation.
 

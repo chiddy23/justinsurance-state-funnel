@@ -20,7 +20,7 @@ imageCredit: Photo by C'Pho Ngondo R.Rouge on Pexels
 
 ## Understand Washington pre-licensing requirements
 
-Before you dive into your online [Washington insurance](/washington) pre-licensing classes, it’s essential to know exactly what the state requires of you. In Washington, you must complete a specified number of pre-licensing hours for each line of authority you plan to pursue—life & disability (health) and property & casualty being the most common. Once you finish those courses, you’ll need to pass a state licensing exam. That exam covers everything from basic insurance terminology to Washington-specific regulations.
+Before you dive into your online [Washington insurance](/washington) [pre-licensing](/washington/prelicensing) classes, it’s essential to know exactly what the state requires of you. In Washington, you must complete a specified number of pre-licensing hours for each line of authority you plan to pursue—life & disability (health) and property & casualty being the most common. Once you finish those courses, you’ll need to pass a state licensing exam. That exam covers everything from basic insurance terminology to Washington-specific regulations.
 
 Each line of authority has its own prerequisites, and fulfilling them ensures you’re well-prepared to represent clients accurately and ethically. Think of it as building a foundation of knowledge that you’ll continue to refine throughout your career. And if you’re new to the industry, don’t worry: many programs are designed to guide you step by step, so you can feel confident in your progress.
 

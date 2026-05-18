@@ -16,7 +16,7 @@ imageAlt: >-
   carolina insurance ce requirements: complete guide.
 ---
 
-Keeping your North Carolina insurance producer license active requires completing continuing education on time, with required topics, through approved providers, with proper reporting. North Carolina's CE framework has several distinctive features — Prometric administers CE (not a typical state agency), producer licenses are perpetual rather than requiring separate renewal applications, and the compliance deadline ties to your birth month rather than a calendar year end. Understanding these specifics helps you stay compliant without last-minute scrambles.
+Keeping your North Carolina insurance producer license active requires completing [continuing education](/north-carolina/continuing-education) on time, with required topics, through approved providers, with proper reporting. North Carolina's CE framework has several distinctive features — Prometric administers CE (not a typical state agency), producer licenses are perpetual rather than requiring separate renewal applications, and the compliance deadline ties to your birth month rather than a calendar year end. Understanding these specifics helps you stay compliant without last-minute scrambles.
 
 Here's a clear breakdown of North Carolina insurance CE requirements.
 

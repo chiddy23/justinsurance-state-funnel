@@ -84,7 +84,7 @@ Practice Arizona-specific scenario questions
 
 Review DIFI authority structure and enforcement tools
 
-Phase 3: Practice Exam Intensive (15% of study time)
+Phase 3: [Practice Exam](/arizona/practice-exam) Intensive (15% of study time)
 
 Full-length practice exams under timed conditions:
 

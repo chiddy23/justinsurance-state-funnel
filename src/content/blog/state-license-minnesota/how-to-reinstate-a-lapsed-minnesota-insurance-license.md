@@ -16,7 +16,7 @@ A lapsed Minnesota insurance producer license is not the end of a producer's car
 
 ### How a Minnesota Producer License Lapses
 
-A Minnesota producer license lapses when two conditions coincide at the renewal deadline: the license has not been renewed through NIPR or Sircon, and continuing education requirements have not been met. Both conditions must be present — a producer who submits their renewal application and pays the renewal fee on time but has not completed their 24 hours of CE has a compliance problem, but the specific consequences depend on how the Department handles the CE deficiency. The standard lapse scenario occurs when the producer does not act at all — no renewal application is submitted, no CE is completed, and the renewal deadline passes.
+A Minnesota producer license lapses when two conditions coincide at the renewal deadline: the license has not been renewed through NIPR or Sircon, and [continuing education](/minnesota/continuing-education) requirements have not been met. Both conditions must be present — a producer who submits their renewal application and pays the renewal fee on time but has not completed their 24 hours of CE has a compliance problem, but the specific consequences depend on how the Department handles the CE deficiency. The standard lapse scenario occurs when the producer does not act at all — no renewal application is submitted, no CE is completed, and the renewal deadline passes.
 
 The renewal deadline: Minnesota producer licenses renew on the last day of the licensee's birth month, biennially. If your birthday is in March, your license renews at the end of March every two years. Business entity licenses renew on October 31 biennially. The renewal window opens 90 days before the deadline — you may submit your renewal application up to three months early. There is no grace period after the deadline. The license lapses on the day after the renewal deadline if renewal has not been completed.
 
@@ -30,7 +30,7 @@ Minnesota's response to a lapsed producer license occurs in two distinct phases 
 
 #### Phase 1: The 12-Month Reinstatement Window
 
-If a Minnesota producer's license lapses, the producer has 12 months from the date of lapse to reinstate the license. During this 12-month window, reinstatement is available through a streamlined process — no new prelicensing education, no new state exam, no new fingerprinting. The producer reinstates the license by paying a reinstatement penalty and submitting a renewal application.
+If a Minnesota producer's license lapses, the producer has 12 months from the date of lapse to reinstate the license. During this 12-month window, reinstatement is available through a streamlined process — no new [prelicensing](/minnesota/prelicensing) education, no new state exam, no new fingerprinting. The producer reinstates the license by paying a reinstatement penalty and submitting a renewal application.
 
 The reinstatement penalty: Minnesota's penalty for reinstating a lapsed license within the 12-month window is double the unpaid renewal fee. The standard renewal fee is $50 plus a $30 technology surcharge, totaling $80 per renewal cycle. The reinstatement penalty doubles this to $160, plus the applicable technology and transaction fees. The total reinstatement cost is approximately $160–$175 depending on the transaction fees at the time of submission.
 

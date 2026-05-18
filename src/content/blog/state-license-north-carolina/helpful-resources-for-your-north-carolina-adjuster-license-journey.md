@@ -32,7 +32,7 @@ The state also requires successful completion of a licensing exam specific to ad
 
 ## Complete your pre-licensing preparation
 
-Although North Carolina may not mandate a formal pre-licensing course for your adjuster license, solid preparation can make all the difference in exam performance. Researching study materials designed around insurance fundamentals and North Carolina regulations ensures you cover every topic that might appear on your exam. Working with a reputable study provider will save you time and frustration in the long run.
+Although North Carolina may not mandate a formal [pre-licensing](/north-carolina/prelicensing) course for your adjuster license, solid preparation can make all the difference in exam performance. Researching study materials designed around insurance fundamentals and North Carolina regulations ensures you cover every topic that might appear on your exam. Working with a reputable study provider will save you time and frustration in the long run.
 
 During this stage, it's also wise to create a realistic study schedule. Break your materials into manageable chunks, then focus on one section at a time. A consistent plan can transform overwhelming content into bite-sized pieces, increasing retention and making it simpler to review.
 
@@ -65,7 +65,7 @@ Below is a quick snapshot of how you might structure your prep:
 
 After you pass your exam and receive your North Carolina adjuster license, you're officially ready to handle claims and explore new job openings. Many beginners start at independent adjusting firms or insurance agencies for hands-on training. From there, you can specialize in areas like property, casualty, or crop insurance, depending on your interests.
 
-Continuing education is also an ongoing part of your career. North Carolina, like most states, requires you to stay updated through periodic [North Carolina continuing education](/north-carolina/continuing-education) coursework so your license remains active. This not only keeps you in good standing but ensures your knowledge remains fresh and relevant. By keeping a pulse on regulatory changes and staying involved with industry groups, you'll continue growing your expertise over time.
+[Continuing education](/north-carolina/continuing-education) is also an ongoing part of your career. North Carolina, like most states, requires you to stay updated through periodic [North Carolina continuing education](/north-carolina/continuing-education) coursework so your license remains active. This not only keeps you in good standing but ensures your knowledge remains fresh and relevant. By keeping a pulse on regulatory changes and staying involved with industry groups, you'll continue growing your expertise over time.
 
 ## Your next step
 

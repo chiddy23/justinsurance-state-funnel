@@ -182,7 +182,7 @@ Applicants with prior insurance industry issues. Substantially longer processing
 
 For applicants with potential disclosure concerns, Pennsylvania offers a distinctive option:
 
-The Pre-Licensing Eligibility Review program allows you to:
+The [Pre-Licensing](/pennsylvania/prelicensing) Eligibility Review program allows you to:
 
 Submit information about specific concerns to the Department
 

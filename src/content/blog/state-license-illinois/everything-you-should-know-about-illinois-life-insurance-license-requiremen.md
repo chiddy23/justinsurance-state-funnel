@@ -49,7 +49,7 @@ These courses often run around 20 hours for a single line of authority like life
 • Take advantage of exam prep materials like practice tests or final review sessions.  
 • Keep track of how well you’re absorbing the information rather than rushing to finish.
 
-By thoroughly engaging with the pre-licensing course, you’ll be significantly more prepared for the official exam. Beyond simply passing a test, you’ll gain a deeper understanding of how to guide future policyholders.
+By thoroughly engaging with the [pre-licensing](/illinois/prelicensing) course, you’ll be significantly more prepared for the official exam. Beyond simply passing a test, you’ll gain a deeper understanding of how to guide future policyholders.
 
 ## Schedule and pass your exam
 
@@ -86,7 +86,7 @@ Getting licensed opens a wealth of opportunities for you. You’ll be able to he
 • Complete required [Illinois continuing education](/illinois/continuing-education) (CE) hours on time—often around 24 hours per renewal cycle.  
 • Keep up with changes in state insurance laws, tax regulations, and industry best practices.
 
-Staying engaged in the profession by joining insurance associations or attending industry webinars helps you remain informed and credible. Many new agents overlook the importance of continuing education and community networking, but these activities can significantly boost your long-term success.
+Staying engaged in the profession by joining insurance associations or attending industry webinars helps you remain informed and credible. Many new agents overlook the importance of [continuing education](/illinois/continuing-education) and community networking, but these activities can significantly boost your long-term success.
 
 ## Next steps and call to action
 

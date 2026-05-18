@@ -26,7 +26,7 @@ Below, you will find the key steps that will help guide your journey, starting f
 
 Before diving into study materials, make sure you know the basic prerequisites for the Minnesota property and casualty insurance license. Each state has unique rules about training hours, background checks, and the topics covered in the official exam.
 
-In Minnesota, you typically need to complete a certain number of pre-licensing education hours. These hours may vary based on your provider or specific course, but they generally cover critical topics such as state regulations, property policies, and casualty insurance basics. You will also need to register for the exam and pay the associated fees. Check official state guidelines in advance so there are no surprises regarding location, scheduling, or required documentation.
+In Minnesota, you typically need to complete a certain number of [pre-licensing](/minnesota/prelicensing) education hours. These hours may vary based on your provider or specific course, but they generally cover critical topics such as state regulations, property policies, and casualty insurance basics. You will also need to register for the exam and pay the associated fees. Check official state guidelines in advance so there are no surprises regarding location, scheduling, or required documentation.
 
 Spending a bit of time up front to clarify these details helps you map out your timeline and ensures you do not waste energy on outdated information. If you prefer a structured plan that meets the state's standards, consider looking into an approved provider like JustInsurance, which specializes in pre-licensing courses tailored for the Minnesota exam.
 
@@ -40,7 +40,7 @@ Many successful candidates also find it helpful to use flashcards or summary not
 
 ## Practice with exam simulations
 
-Once you have your study plan in place, the next step is to simulate the exam environment as closely as possible. Practice tests help you gain confidence by showing how questions are structured and how time pressure feels. A full-length practice exam might seem intimidating, but it is one of the best ways to pinpoint your strengths and identify topics you might have overlooked.
+Once you have your study plan in place, the next step is to simulate the exam environment as closely as possible. Practice tests help you gain confidence by showing how questions are structured and how time pressure feels. A full-length [practice exam](/minnesota/practice-exam) might seem intimidating, but it is one of the best ways to pinpoint your strengths and identify topics you might have overlooked.
 
 Try to recreate a quiet, focused setting similar to the real test center. Use a timer and do not pause unless you absolutely have to, so you can build stamina for the actual exam day. Once you complete a practice test, review the answers thoroughly. Comprehension is more important than a single high score. Revisit your study materials when you notice patterns of incorrect answers or topics you feel unsure about.
 

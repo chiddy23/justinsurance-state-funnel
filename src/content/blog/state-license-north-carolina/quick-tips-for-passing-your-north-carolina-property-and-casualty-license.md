@@ -22,7 +22,7 @@ Keywords:[north carolina property and casualty license](/north-carolina)
 
 ## Understand the exam prerequisites
 
-Before you can sit for the North Carolina property and casualty license exam, you need to meet a few basic requirements. You must be at least 18 years old and maintain U.S. residency. Although you do not need previous insurance experience, you are required to complete a state-approved pre-licensing course for property and casualty insurance.
+Before you can sit for the North Carolina property and casualty license exam, you need to meet a few basic requirements. You must be at least 18 years old and maintain U.S. residency. Although you do not need previous insurance experience, you are required to complete a state-approved [pre-licensing](/north-carolina/prelicensing) course for property and casualty insurance.
 
 You will also be asked to submit fingerprints and undergo a background check. This process helps ensure that insurance producers in North Carolina uphold professional standards. If you have any prior incidents on your record, you may need to provide extra documentation or explanations before being allowed to take the exam.
 

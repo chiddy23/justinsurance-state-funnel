@@ -314,6 +314,6 @@ Urban-suburban dynamics. Metro Detroit's urban-suburban geography creates distin
 
 ## Build Your Detroit Insurance Career
 
-Detroit's automotive industry market offers specialty opportunity found nowhere else. At JustInsurance, our Michigan prelicense course prepares you for the licensing exam and for building a career in Detroit's distinctive market.
+Detroit's automotive industry market offers specialty opportunity found nowhere else. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) course prepares you for the licensing exam and for building a career in Detroit's distinctive market.
 
 Enroll today and start your Detroit automotive insurance career.

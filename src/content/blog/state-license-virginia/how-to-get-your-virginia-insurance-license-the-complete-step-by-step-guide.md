@@ -12,7 +12,7 @@ image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
 imageAlt: "How to Get Your Virginia Insurance License: The Complete Step-by-Step Guide"
 ---
 
-Virginia is one of the few states in the country that does not require prelicensing education before you sit for your insurance licensing exam — and the state's regulator is not a Department of Insurance but the Bureau of Insurance within the State Corporation Commission (SCC), a structure unique among the states. These two facts set the tone for everything that follows: Virginia's licensing process is streamlined, candidate-controlled, and moves at the pace you set. Most candidates who are prepared complete the entire process — from deciding to get licensed to holding an active license — in two to four weeks. Here is exactly how it works.
+Virginia is one of the few states in the country that does not require [prelicensing](/virginia/prelicensing) education before you sit for your insurance licensing exam — and the state's regulator is not a Department of Insurance but the Bureau of Insurance within the State Corporation Commission (SCC), a structure unique among the states. These two facts set the tone for everything that follows: Virginia's licensing process is streamlined, candidate-controlled, and moves at the pace you set. Most candidates who are prepared complete the entire process — from deciding to get licensed to holding an active license — in two to four weeks. Here is exactly how it works.
 
 ### The Five Steps to a Virginia Insurance License
 
@@ -82,7 +82,7 @@ Most candidates complete the entire process — passing the Prometric exam, comp
 
 Do I need to take a prelicensing course before the Virginia insurance exam?
 
-No — Virginia does not require prelicensing education for Life, Annuities, Health, Property, Casualty, or Personal Lines exams. The only exam that requires a prelicensing course is Title insurance, which mandates a 16-hour course completed before the Title exam and valid for one year from completion. For all other lines, the decision to take a prep course is entirely yours. That said, the Virginia licensing exams are comprehensive and test-specific — the Life, Annuities & Health exam has 140 scored questions, and the P&C exam has 135 — and pass rates for unprepared candidates are meaningfully lower than for those who complete a structured study program. Virtually all licensing professionals strongly recommend completing a prep course regardless of the legal requirement.
+No — Virginia does not require prelicensing education for Life, Annuities, Health, Property, Casualty, or Personal Lines exams. The only exam that requires a prelicensing course is Title insurance, which mandates a 16-hour course completed before the Title exam and valid for one year from completion. For all other lines, the decision to take a prep course is entirely yours. That said, the Virginia licensing exams are comprehensive and test-specific — the Life, Annuities & Health exam has 140 scored questions, and the P&C exam has 135 — and [pass rates](/pass-rates) for unprepared candidates are meaningfully lower than for those who complete a structured study program. Virtually all licensing professionals strongly recommend completing a prep course regardless of the legal requirement.
 
 What happens if I fail the Virginia insurance exam multiple times?
 

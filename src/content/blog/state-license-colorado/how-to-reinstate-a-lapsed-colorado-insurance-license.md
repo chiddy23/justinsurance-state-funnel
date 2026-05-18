@@ -12,7 +12,7 @@ image: /blog/images/easy-steps-to-meet-colorado-insurance-license-requirements.j
 imageAlt: How to Reinstate a Lapsed Colorado Insurance License
 ---
 
-A lapsed Colorado insurance license does not automatically end your ability to get back into the business — but the path forward depends entirely on one factor: how long your license has been expired. Colorado law creates two completely different reinstatement scenarios divided by a hard one-year cutoff. Reinstate within one year of your expiration date and you submit a new application and pay the initial fee — no new prelicensing education, no new exam. Let that window close, and you are treated as a brand-new applicant: full 50-hour prelicensing course, Pearson VUE state exam, and the entire licensing process from the beginning. Understanding exactly how each scenario works, what you can and cannot do while lapsed, and how to move through reinstatement quickly is the purpose of this post.
+A lapsed Colorado insurance license does not automatically end your ability to get back into the business — but the path forward depends entirely on one factor: how long your license has been expired. Colorado law creates two completely different reinstatement scenarios divided by a hard one-year cutoff. Reinstate within one year of your expiration date and you submit a new application and pay the initial fee — no new [prelicensing](/colorado/prelicensing) education, no new exam. Let that window close, and you are treated as a brand-new applicant: full 50-hour prelicensing course, Pearson VUE state exam, and the entire licensing process from the beginning. Understanding exactly how each scenario works, what you can and cannot do while lapsed, and how to move through reinstatement quickly is the purpose of this post.
 
 ### Colorado's No-Grace-Period Rule
 
@@ -88,7 +88,7 @@ Before beginning reinstatement, confirm exactly where you stand:
 
 License status: Use the Sircon License Lookup Tool at sircon.com/colorado or the NIPR Producer Database to verify your current license status, expiration date, and lines of authority.
 
-CE transcript: Use Sircon's Continuing Education Transcript Inquiry tool — select Colorado, enter your license number and last name, and review your recorded CE hours. This tells you exactly how many hours were reported to the Division before your license lapsed and whether any CE deficiency exists that must be resolved.
+CE transcript: Use Sircon's [Continuing Education](/colorado/continuing-education) Transcript Inquiry tool — select Colorado, enter your license number and last name, and review your recorded CE hours. This tells you exactly how many hours were reported to the Division before your license lapsed and whether any CE deficiency exists that must be resolved.
 
 National Producer Number (NPN): If you do not know your license number, use Sircon's License Number/NPN Inquiry tool to locate it by name.
 

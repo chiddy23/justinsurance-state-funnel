@@ -118,6 +118,6 @@ Your long-term vision. If you want to build an agency and eventually have team m
 
 ## Pick the California Path That Fits You
 
-There's no universally right answer — only the right answer for your goals. At JustInsurance, our California prelicense course prepares you for the exam and helps you understand California's insurance landscape so you can make the right call for your career.
+There's no universally right answer — only the right answer for your goals. At JustInsurance, our California [prelicense](/california/prelicensing) course prepares you for the exam and helps you understand California's insurance landscape so you can make the right call for your career.
 
 Enroll today and build the foundation for whichever path you choose.

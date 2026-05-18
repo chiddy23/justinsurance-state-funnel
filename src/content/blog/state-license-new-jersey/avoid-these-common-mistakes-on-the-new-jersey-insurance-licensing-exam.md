@@ -22,7 +22,7 @@ Preparing for the [new jersey insurance licensing exam](/new-jersey/requirements
 
 ## Understand the licensing basics
 
-Before diving into test prep, familiarize yourself with the overall journey. The New Jersey Department of Banking and Insurance oversees the licensing process and sets the basic rules. You typically need a pre-licensing course, a background check, and a successful exam result before earning your license.
+Before diving into test prep, familiarize yourself with the overall journey. The New Jersey Department of Banking and Insurance oversees the licensing process and sets the basic rules. You typically need a [pre-licensing](/new-jersey/prelicensing) course, a background check, and a successful exam result before earning your license.
 
 Take a moment to explore the official site for up-to-date details on eligibility requirements and application processes. Doing your homework at this early stage helps you avoid misinformation that could slow you down later.
 
@@ -54,7 +54,7 @@ Vary your methods too. Reading textbooks is certainly useful, but consider flash
 
 1.  Start with a quick review of the previous day’s notes.
 2.  Spend 20–30 minutes on new material.
-3.  Quiz yourself with a small number of practice questions.
+3.  Quiz yourself with a small number of [practice questions](/new-jersey/practice-exam).
 4.  Wrap up with a one-sentence summary of what you studied.
 
 By keeping your sessions structured yet flexible, you train yourself to focus on essential material without losing steam.
@@ -85,7 +85,7 @@ Some questions might include multiple correct answers, and you must select the �
 
 Once you’ve passed the new jersey insurance licensing exam, you’re almost there. Don’t forget the final steps required to officially secure your license. Typically, you’ll submit an application, pay the licensing fee, and provide any additional documentation—like a background check—if it wasn’t processed earlier.
 
-When your license is approved, consider celebrating your achievement. Launching your career in New Jersey’s insurance market opens the door to a wide range of opportunities, especially if you stay current with ongoing training and education. If you choose to maintain multiple lines, remember that each license might require separate continuing education credits.
+When your license is approved, consider celebrating your achievement. Launching your career in New Jersey’s insurance market opens the door to a wide range of opportunities, especially if you stay current with ongoing training and education. If you choose to maintain multiple lines, remember that each license might require separate [continuing education](/new-jersey/continuing-education) credits.
 
 ### Typical post-exam tasks
 

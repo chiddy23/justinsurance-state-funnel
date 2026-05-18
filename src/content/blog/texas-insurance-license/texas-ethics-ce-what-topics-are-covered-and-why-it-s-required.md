@@ -16,7 +16,7 @@ imageAlt: >-
   ce: what topics are covered and why it's required.
 ---
 
-Every licensed insurance agent and adjuster in Texas has to complete ethics continuing education — it's not optional, and it's not something you can swap out for another topic. TDI treats ethics as a core part of staying licensed. Understanding why it's required and what's actually covered makes the 3-hour requirement feel a lot less like a box to check and more like a tool that protects your career.
+Every licensed insurance agent and adjuster in Texas has to complete ethics [continuing education](/texas/continuing-education) — it's not optional, and it's not something you can swap out for another topic. TDI treats ethics as a core part of staying licensed. Understanding why it's required and what's actually covered makes the 3-hour requirement feel a lot less like a box to check and more like a tool that protects your career.
 
 Here's what Texas ethics CE actually covers.
 

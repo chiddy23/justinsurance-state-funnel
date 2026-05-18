@@ -64,7 +64,7 @@ Maryland's 4-day wait is more than NJ and MN but less restrictive than Tennessee
 
 ## No-PLE Context — What It Means for Exam Performance
 
-With PLE eliminated, Maryland's first-attempt pass rates have been impacted — candidates who don't self-study adequately face more challenging exam outcomes. The national insurance industry average first-attempt pass rate is approximately 60-65% for major line exams; without PLE mandating baseline study, underprepared candidates reduce this further.
+With PLE eliminated, Maryland's first-attempt [pass rates](/pass-rates) have been impacted — candidates who don't self-study adequately face more challenging exam outcomes. The national insurance industry average first-attempt pass rate is approximately 60-65% for major line exams; without PLE mandating baseline study, underprepared candidates reduce this further.
 
 Strategic implication: Invest in proper preparation despite no legal mandate. The exam covers both national content and ~20 Maryland-specific state law questions — generic study materials alone won't address Maryland's MIA structure, Health Connection, contributory negligence, and Maryland Insurance Article provisions that appear in the interleaved state section.
 

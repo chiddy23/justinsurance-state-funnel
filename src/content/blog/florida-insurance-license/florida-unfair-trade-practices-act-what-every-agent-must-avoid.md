@@ -146,6 +146,6 @@ Treat replacement with extreme care. Most unfair practices violations happen in 
 
 ## Stay on the Right Side of Florida Law
 
-The Unfair Trade Practices Act isn't just legal jargon — it's the rulebook that keeps your career safe. At JustInsurance, our Florida prelicense and CE courses cover these provisions in plain English with real-world examples.
+The Unfair Trade Practices Act isn't just legal jargon — it's the rulebook that keeps your career safe. At JustInsurance, our Florida [prelicense](/florida/prelicensing) and CE courses cover these provisions in plain English with real-world examples.
 
 Enroll today and build a career grounded in compliance and professionalism.

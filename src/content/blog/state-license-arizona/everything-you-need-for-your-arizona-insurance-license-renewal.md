@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-If you are licensed to sell insurance in Arizona, keeping your credentials current is essential for continuing to serve clients and maintain your status as a trusted advisor. Whether you are a first-time agent or moving from another state, understanding the [arizona insurance license](/arizona) renewal process can save you time, money, and stress. Below, you will find clear insights into the renewal requirements, continuing education guidelines, deadlines, and more. By the end, you will be ready to tackle your renewal with confidence.
+If you are licensed to sell insurance in Arizona, keeping your credentials current is essential for continuing to serve clients and maintain your status as a trusted advisor. Whether you are a first-time agent or moving from another state, understanding the [arizona insurance license](/arizona) renewal process can save you time, money, and stress. Below, you will find clear insights into the renewal requirements, [continuing education](/arizona/continuing-education) guidelines, deadlines, and more. By the end, you will be ready to tackle your renewal with confidence.
 
 ## Understand your renewal requirements
 

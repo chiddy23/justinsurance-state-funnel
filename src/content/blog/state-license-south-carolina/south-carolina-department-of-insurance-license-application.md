@@ -40,7 +40,7 @@ The Director of Insurance leads the SCDOI. Your license application is reviewed 
 
 Before submitting your application, you should have:
 
-Completed South Carolina-approved prelicense education
+Completed South Carolina-approved [prelicense](/south-carolina/prelicensing) education
 
 Passed the South Carolina state exam
 

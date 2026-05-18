@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Kaushal Moradiya on Pexels
 ---
 
-If you’re ready to launch a new career in the insurance industry, earning your [Texas life and health insurance license](/texas) is your crucial first step. This license allows you to help fellow Texans safeguard their financial futures, and it can open up new opportunities for professional growth. Because the process involves pre-licensing education, state exams, and a final application, it helps to have a clear plan from the start.
+If you’re ready to launch a new career in the insurance industry, earning your [Texas life and health insurance license](/texas) is your crucial first step. This license allows you to help fellow Texans safeguard their financial futures, and it can open up new opportunities for professional growth. Because the process involves [pre-licensing](/texas/prelicensing) education, state exams, and a final application, it helps to have a clear plan from the start.
 
 Below, you’ll learn each stage of the journey, from confirming your eligibility through maintaining your license. You’ll also discover practical tips on meeting requirements, preparing for exams, and keeping track of important documentation. By the end, you should have a better sense of how to navigate the entire licensing process with confidence.
 
@@ -75,7 +75,7 @@ Throughout this process, you’ll collect course certificates, exam passes, and 
 -   Exam entry confirmation and score report
 -   Application submission confirmation
 -   Payment receipts for exam and application fees
--   Proof of continuing education (required periodically after licensing)
+-   Proof of [continuing education](/texas/continuing-education) (required periodically after licensing)
 
 Staying organized helps you respond faster if the TDI requests additional information. It also ensures you won’t have to scramble to find documents when it’s time to renew.
 

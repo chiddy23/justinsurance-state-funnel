@@ -12,7 +12,7 @@ image: /blog/images/simple-steps-to-pass-nj-insurance-license-requirements.jpg
 imageAlt: How to Build a 30-Day NJ Insurance Exam Study Plan That Actually Works
 ---
 
-Most people who fail the New Jersey insurance exam did not fail because the material was too hard. They failed because they had no plan — they read through their course materials once, felt roughly prepared, and walked into PSI underprepared on the state law section. A structured 30-day study plan eliminates that outcome. Thirty days is enough time for most candidates to complete their 20-hour prelicensing requirement, review the material systematically, and pass the PSI exam on the first attempt.
+Most people who fail the New Jersey insurance exam did not fail because the material was too hard. They failed because they had no plan — they read through their course materials once, felt roughly prepared, and walked into PSI underprepared on the state law section. A structured 30-day study plan eliminates that outcome. Thirty days is enough time for most candidates to complete their 20-hour [prelicensing](/new-jersey/prelicensing) requirement, review the material systematically, and pass the PSI exam on the first attempt.
 
 ### Why 30 Days Works for Most Candidates
 
@@ -32,7 +32,7 @@ Target: 3 hours of course study per day, finishing all 20 required hours by the 
 
 Days 8 through 14 shift from reading to active recall. Go back through your notes and build a personal glossary of terms. Focus especially on: types of policies and their features, policy provisions (grace periods, reinstatement, incontestability), and the mechanics of contract law as applied to insurance. These topics appear across multiple question types and reward candidates who understand the concepts, not just the definitions.
 
-On Day 12 or 13, take your first full-length practice exam under timed conditions. Do not check answers as you go. Complete all 83 questions, then review every single answer — both the ones you got right and the ones you got wrong. The goal is not the score; it is identifying your weak topic areas before the real exam.
+On Day 12 or 13, take your first full-length [practice exam](/new-jersey/practice-exam) under timed conditions. Do not check answers as you go. Complete all 83 questions, then review every single answer — both the ones you got right and the ones you got wrong. The goal is not the score; it is identifying your weak topic areas before the real exam.
 
 #### Week 3: Dominate the State Law Section
 

@@ -244,7 +244,7 @@ Re-test eligibility. If you fail, the report includes information about retaking
 
 Before exam day, prepare:
 
-✅ Two valid forms of identification (one government photo, both with signatures, names matching registration) ✅ Certificate of Completion from prelicense (within 1 year validity) ✅ Pearson VUE registration confirmation ✅ Knowledge of testing center location ✅ Plan to arrive 30+ minutes early
+✅ Two valid forms of identification (one government photo, both with signatures, names matching registration) ✅ Certificate of Completion from [prelicense](/connecticut/prelicensing) (within 1 year validity) ✅ Pearson VUE registration confirmation ✅ Knowledge of testing center location ✅ Plan to arrive 30+ minutes early
 
 Day of exam: ✅ Light breakfast ✅ Comfortable, layered clothing ✅ ID and Certificate in hand ✅ Phone off (or left in car) ✅ Use bathroom before starting
 

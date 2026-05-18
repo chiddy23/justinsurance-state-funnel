@@ -118,7 +118,7 @@ Partner with complementary professionals. Real estate agents, mortgage brokers, 
 
 Develop a digital presence. Birmingham is increasingly tech-forward. Professional website, LinkedIn presence, and potentially targeted social media extend your reach.
 
-Invest in expertise. Birmingham rewards genuine expertise. Continuing education beyond CE minimums, industry designations, and deep product knowledge all matter.
+Invest in expertise. Birmingham rewards genuine expertise. [Continuing education](/alabama/continuing-education) beyond CE minimums, industry designations, and deep product knowledge all matter.
 
 Be patient. Birmingham practices often take 2-4 years to hit stride. Agents who quit at year one miss the payoff.
 

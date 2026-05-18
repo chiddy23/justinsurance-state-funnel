@@ -13,7 +13,7 @@ image: /blog/images/choose-the-right-california-insurance-pre-licensing-courses-
 imageAlt: California insurance professional reviewing licensing materials
 ---
 
-Getting your California insurance license is only the beginning. To keep it active, you need to complete continuing education (CE) on a defined schedule — and California's CE requirements are among the most specific in the country. Miss a deadline or skip a required component, and you're facing late fees, license suspension, or reinstatement procedures.
+Getting your California insurance license is only the beginning. To keep it active, you need to complete [continuing education](/california/continuing-education) (CE) on a defined schedule — and California's CE requirements are among the most specific in the country. Miss a deadline or skip a required component, and you're facing late fees, license suspension, or reinstatement procedures.
 
 Here's a clear breakdown of what every licensed California agent must complete.
 

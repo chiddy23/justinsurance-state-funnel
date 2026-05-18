@@ -27,7 +27,7 @@ Whether you plan to specialize in life, health, property, or casualty insurance,
 
 Before you dive into any coursework or paperwork, it is helpful to know exactly what Illinois expects from you. Each state has its own rules, so focusing on the Illinois-specific guidelines will keep you from running into surprises later.
 
-This includes determining which license type you need. If you aim to sell life and health insurance, for instance, the pre-licensing hours might differ from property and casualty insurance. You will also want to check whether you must meet certain age requirements or submit specific documentation. Confirm these details by looking at the latest guidelines, so you do not complete the wrong forms or miss key steps.
+This includes determining which license type you need. If you aim to sell life and health insurance, for instance, the [pre-licensing](/illinois/prelicensing) hours might differ from property and casualty insurance. You will also want to check whether you must meet certain age requirements or submit specific documentation. Confirm these details by looking at the latest guidelines, so you do not complete the wrong forms or miss key steps.
 
 Try to gather any personal records you might need sooner rather than later. These typically include proof of age, a clean background record, and other standard identifying details the state of Illinois might request. It is usually best to collect these before starting your formal training, so when you get to the official Illinois insurance license application, you will be ready to hit “submit” without delay.
 
@@ -49,7 +49,7 @@ When you complete the exam, you will receive your score. If you pass, remember t
 
 ## Prepare for exam success
 
-Studying effectively raises your odds of passing the first time. Rather than cramming, try to maintain a steady study pattern so you can absorb the foundational concepts. This is also a great time to fine-tune any areas of weakness in your knowledge. If you keep stumbling over policy definitions, for instance, set aside extra time to work through examples and practice questions.
+Studying effectively raises your odds of passing the first time. Rather than cramming, try to maintain a steady study pattern so you can absorb the foundational concepts. This is also a great time to fine-tune any areas of weakness in your knowledge. If you keep stumbling over policy definitions, for instance, set aside extra time to work through examples and [practice questions](/illinois/practice-exam).
 
 Balance your reading sessions with hands-on study tools. Flashcards, memory apps, and practice tests are popular choices for many aspiring agents. They not only break the monotony of textbooks but also help you focus on retaining information. If you find practice questions that cover realistic scenarios, you will be better prepared to interpret actual exam problems.
 

@@ -12,7 +12,7 @@ image: /blog/images/your-fast-track-to-a-minnesota-insurance-license.jpg
 imageAlt: "Minnesota vs. Wisconsin vs. Iowa: How the Licensing Process Compares"
 ---
 
-Minnesota, Wisconsin, and Iowa share borders and producers — agents who live near the state line routinely serve clients in two or three states simultaneously, and producers who relocate between these states face licensing transitions that are easier to navigate when they understand exactly how each state's requirements differ from the others. This post compares the licensing process across all three states across every dimension that matters to a working producer: prelicensing education, exam administration, application and fingerprinting, CE requirements, renewal rules, reinstatement, and what reciprocity looks like when crossing between these three markets.
+Minnesota, Wisconsin, and Iowa share borders and producers — agents who live near the state line routinely serve clients in two or three states simultaneously, and producers who relocate between these states face licensing transitions that are easier to navigate when they understand exactly how each state's requirements differ from the others. This post compares the licensing process across all three states across every dimension that matters to a working producer: [prelicensing](/minnesota/prelicensing) education, exam administration, application and fingerprinting, CE requirements, renewal rules, reinstatement, and what reciprocity looks like when crossing between these three markets.
 
 ### The Fundamental Difference: Prelicensing Education
 
@@ -24,7 +24,7 @@ Wisconsin: 20 hours of Office of the Commissioner of Insurance-approved prelicen
 
 Iowa: Iowa requires no prelicensing education whatsoever. It is one of a small number of states that allows candidates to sit for the state licensing exam without completing any mandatory prelicensing course. Optional exam prep courses are available and strongly recommended — the exam covers the same material that Minnesota and Wisconsin candidates study in their 20-hour courses — but Iowa imposes no statutory education requirement before exam registration.
 
-This difference has significant practical implications. A candidate who wants to enter insurance in Iowa can schedule their Pearson VUE exam without any preliminary coursework — they may walk in unprepared, which contributes to lower first-attempt pass rates in states without prelicensing requirements. A Minnesota or Wisconsin candidate must invest 20 hours in coursework before the exam clock even starts. For a producer relocating between these states, the prelicensing requirement (or absence of one) is one of the first factors to assess.
+This difference has significant practical implications. A candidate who wants to enter insurance in Iowa can schedule their Pearson VUE exam without any preliminary coursework — they may walk in unprepared, which contributes to lower first-attempt [pass rates](/pass-rates) in states without prelicensing requirements. A Minnesota or Wisconsin candidate must invest 20 hours in coursework before the exam clock even starts. For a producer relocating between these states, the prelicensing requirement (or absence of one) is one of the first factors to assess.
 
 ### Exam Administration: Different Vendors, Different Logistics
 

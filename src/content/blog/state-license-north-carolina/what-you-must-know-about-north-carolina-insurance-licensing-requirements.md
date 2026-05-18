@@ -60,7 +60,7 @@ Auto, General liability
 
 ## Complete [pre-licensing requirements](/north-carolina/prelicensing)
 
-Before you can sign up for the state exam, you must fulfill a set number of pre-licensing hours in your chosen lines of authority. These courses cover the core principles, ethics, and regulations required to pass the exam and practice insurance safely. You can take your pre-licensing classes in person or online, depending on your preference and learning style.
+Before you can sign up for the state exam, you must fulfill a set number of [pre-licensing](/north-carolina/prelicensing) hours in your chosen lines of authority. These courses cover the core principles, ethics, and regulations required to pass the exam and practice insurance safely. You can take your pre-licensing classes in person or online, depending on your preference and learning style.
 
 When selecting a course provider, make sure they’re approved by the state. They’ll guide you through the topics such as policy provisions, state regulations, and ethical responsibilities you need to master. You’ll usually complete quizzes or final assessments within these programs to confirm you thoroughly understand the material. A good pre-licensing course should also provide helpful study strategies, real-life examples, and exam tips.
 

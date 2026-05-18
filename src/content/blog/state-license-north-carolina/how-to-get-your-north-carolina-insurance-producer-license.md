@@ -16,7 +16,7 @@ imageAlt: >-
   get your north carolina insurance producer license.
 ---
 
-Getting your North Carolina insurance producer license opens doors to one of the fastest-growing insurance markets in the Southeast. Charlotte's substantial banking and financial services concentration, the Research Triangle's technology and healthcare growth, the booming coastal real estate market, and North Carolina's substantial population growth create real opportunity for licensed agents. North Carolina's licensing process recently became significantly more accessible — as of October 1, 2025, North Carolina eliminated the prelicense education requirement, making the path to licensure faster and more flexible.
+Getting your North Carolina insurance producer license opens doors to one of the fastest-growing insurance markets in the Southeast. Charlotte's substantial banking and financial services concentration, the Research Triangle's technology and healthcare growth, the booming coastal real estate market, and North Carolina's substantial population growth create real opportunity for licensed agents. North Carolina's licensing process recently became significantly more accessible — as of October 1, 2025, North Carolina eliminated the [prelicense](/north-carolina/prelicensing) education requirement, making the path to licensure faster and more flexible.
 
 Here's exactly how to get your North Carolina insurance producer license.
 
@@ -48,7 +48,7 @@ The North Carolina state exam covers substantial content
 
 Each exam covers both general insurance topics and North Carolina-specific laws
 
-Most candidates significantly improve their pass rate by completing structured study
+Most candidates significantly improve their [pass rate](/pass-rates) by completing structured study
 
 Quality prelicense courses include practice exams that mirror the actual state exam
 

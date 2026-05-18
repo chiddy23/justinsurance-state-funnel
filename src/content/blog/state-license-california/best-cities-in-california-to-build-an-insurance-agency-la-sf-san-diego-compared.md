@@ -131,6 +131,6 @@ Choose the market where you have a natural connection, authentic community ties,
 
 ## Build Your California Career Where You Have the Best Fit
 
-The best California market is the one that matches your strengths, connections, and goals. At JustInsurance, our California prelicense course prepares you to succeed in any California market you choose.
+The best California market is the one that matches your strengths, connections, and goals. At JustInsurance, our California [prelicense](/california/prelicensing) course prepares you to succeed in any California market you choose.
 
 Enroll today and start building your California insurance career.

@@ -27,7 +27,7 @@ It is also important to make sure your contact details on file with the [Tenness
 
 Completing [Tennessee continuing education](/tennessee/continuing-education) (CE) is one of the most critical parts of your renewal. Tennessee requires a set number of credit hours for each two-year cycle, typically including a certain portion of ethics-related courses. Life, accident, and health agents usually share similar requirements, while property and casualty producers follow guidelines unique to those lines. Make sure you verify the exact CE needed for your license class so you are not left scrambling at the last minute.
 
-Continuing education should be more than a licensing formality, though. If you choose courses that align with your professional goals, you will strengthen your expertise and offer more value to your clients. Rather than just completing the bare minimum, focus on relevant topics like new policy technologies, claim trends, and customer service best practices. Those who see CE as an opportunity for professional growth often stand out to prospective customers.
+[Continuing education](/tennessee/continuing-education) should be more than a licensing formality, though. If you choose courses that align with your professional goals, you will strengthen your expertise and offer more value to your clients. Rather than just completing the bare minimum, focus on relevant topics like new policy technologies, claim trends, and customer service best practices. Those who see CE as an opportunity for professional growth often stand out to prospective customers.
 
 ## Gather all essential documents
 

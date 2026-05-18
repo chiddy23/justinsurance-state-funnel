@@ -148,4 +148,4 @@ The most important — and most frequently misunderstood — aspect of Minnesota
 
 Minnesota's health insurance market — with MNsure as the enrollment hub, Medical Assistance as the Medicaid foundation, and MinnesotaCare as the distinctive bridge between Medicaid and marketplace coverage — creates a more complete coverage continuum than most states have achieved. For producers, understanding how these three programs interact, who belongs in which program, and how 2026's premium increases and subsidy changes have reshaped enrollment decisions is the foundation of competent individual health insurance practice in Minnesota.
 
-Visit JustInsurance to enroll today and complete your Minnesota A&H prelicensing with a state-approved course covering every health exchange and Medicaid provision tested on the PSI exam.
+Visit JustInsurance to enroll today and complete your Minnesota A&H [prelicensing](/minnesota/prelicensing) with a state-approved course covering every health exchange and Medicaid provision tested on the PSI exam.

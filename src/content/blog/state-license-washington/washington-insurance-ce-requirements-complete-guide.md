@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements: complete guide.
 ---
 
-Washington's continuing education framework is among the most straightforward in the country for the basic structure — 24 hours every 2 years, 3 hours ethics, no carryover, and no classroom requirement so everything can be completed online. What adds complexity are the specialty training requirements layered on top: LTC, annuity, and flood all carry their own mandatory training before selling those products, and a May 2026 update added a new 1-hour supplemental LTC requirement. Understanding the full picture — what's mandatory, what's in addition to 24 hours vs. counting toward it, when CE must be completed, and how course repetition rules actually work after OIC removed the prior 3-year restriction — sets up every Washington producer for efficient, compliant CE.
+Washington's [continuing education](/washington/continuing-education) framework is among the most straightforward in the country for the basic structure — 24 hours every 2 years, 3 hours ethics, no carryover, and no classroom requirement so everything can be completed online. What adds complexity are the specialty training requirements layered on top: LTC, annuity, and flood all carry their own mandatory training before selling those products, and a May 2026 update added a new 1-hour supplemental LTC requirement. Understanding the full picture — what's mandatory, what's in addition to 24 hours vs. counting toward it, when CE must be completed, and how course repetition rules actually work after OIC removed the prior 3-year restriction — sets up every Washington producer for efficient, compliant CE.
 
 Here's a clear breakdown of everything Washington producers need to know about CE.
 

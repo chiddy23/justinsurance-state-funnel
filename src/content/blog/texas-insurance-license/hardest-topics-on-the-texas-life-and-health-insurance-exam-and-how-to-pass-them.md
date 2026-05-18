@@ -42,7 +42,7 @@ How to pass it: Study Texas law separately from general insurance concepts. Use 
 
 The health portion of the exam covers a lot of ground — HMOs, PPOs, deductibles, coinsurance, coordination of benefits, and COBRA. The terminology is dense and the distinctions between plan types are subtle.
 
-How to pass it: Focus on how benefits are calculated and how different plan types interact. Practice questions that involve coordination of benefits between two plans.
+How to pass it: Focus on how benefits are calculated and how different plan types interact. [Practice questions](/texas/practice-exam) that involve coordination of benefits between two plans.
 
 ## 5. Annuities
 
@@ -64,6 +64,6 @@ It's not about reading everything — it's about practicing questions. The more 
 
 ## Study Smarter, Not Longer
 
-At JustInsurance, our Texas prelicense course focuses on exactly the topics that show up on the exam — including the hard ones. We don't pad the content. We get you prepared.
+At JustInsurance, our Texas [prelicense](/texas/prelicensing) course focuses on exactly the topics that show up on the exam — including the hard ones. We don't pad the content. We get you prepared.
 
 Enroll today and walk into your exam with confidence.

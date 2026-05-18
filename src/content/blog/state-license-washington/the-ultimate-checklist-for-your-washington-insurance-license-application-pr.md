@@ -27,7 +27,7 @@ Your [Washington insurance license](/washington) application process can feel ov
 
 Before diving into the formal application steps, you should confirm that you meet Washington's basic eligibility requirements for becoming an insurance producer. You generally need to be at least 18 years old, have legal authorization to work in the United States, and maintain a clean legal record (or disclose any incidents as required by law).
 
-It is also key to decide which line of insurance you want to pursue. The most common options are Life and Health (L&H) or Property and Casualty (P&C). While you can apply for both, keep in mind that each line has its own pre-licensing coursework and exam. If you are not entirely sure which path to take, do not worry. You can still earn additional lines of authority later.
+It is also key to decide which line of insurance you want to pursue. The most common options are Life and Health (L&H) or Property and Casualty (P&C). While you can apply for both, keep in mind that each line has its own [pre-licensing](/washington/prelicensing) coursework and exam. If you are not entirely sure which path to take, do not worry. You can still earn additional lines of authority later.
 
 ## Complete required pre-licensing
 
@@ -105,7 +105,7 @@ Reference this checklist whenever you feel uncertain about your next step. Cross
 
 A key part of your Washington insurance license application process is the waiting period while your application is reviewed. Updating any required information promptly ensures a smoother experience. If you need clarifications about your application, check the Washington Office of the Insurance Commissioner website for guidance or contact them directly.
 
-Once your license is approved, you can officially sell insurance within the lines you have obtained. Keep track of your license renewal requirements. Washington, like most states, requires continuing education courses and timely renewal fees to maintain an active license. Staying on top of these obligations is essential to preserving your qualification and professional reputation.
+Once your license is approved, you can officially sell insurance within the lines you have obtained. Keep track of your license renewal requirements. Washington, like most states, requires [continuing education](/washington/continuing-education) courses and timely renewal fees to maintain an active license. Staying on top of these obligations is essential to preserving your qualification and professional reputation.
 
 ## Frequently asked questions
 

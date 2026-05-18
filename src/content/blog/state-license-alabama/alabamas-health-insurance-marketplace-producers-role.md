@@ -68,7 +68,7 @@ Carrier-specific Medicare certifications
 
 Adherence to CMS marketing rules
 
-Continuing Education. Standard Alabama CE applies (24 hours every 2 years, 3 ethics) covering health insurance topics among other areas.
+[Continuing Education](/alabama/continuing-education). Standard Alabama CE applies (24 hours every 2 years, 3 ethics) covering health insurance topics among other areas.
 
 ## Who Buys Health Insurance Through Producers
 

@@ -36,7 +36,7 @@ An unapproved course — however excellent the content — will not appear in yo
 
 Primary official source: OIC's approved CE provider list at insurance.wa.gov. OIC updates this list twice a year — verify you're looking at the current version.
 
-OIC website search tip: OIC recommends searching the internet using "Washington state insurance continuing education" and then verifying any provider in your search results against OIC's current approved list.
+OIC website search tip: OIC recommends searching the internet using "Washington state insurance [continuing education](/washington/continuing-education)" and then verifying any provider in your search results against OIC's current approved list.
 
 OIC CE contact: insedu@oic.wa.gov or (360) 725-7144 for specific provider approval questions.
 

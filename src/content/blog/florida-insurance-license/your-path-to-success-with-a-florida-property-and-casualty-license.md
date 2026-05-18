@@ -38,7 +38,7 @@ Meeting the character requirement is just as vital as meeting the age and reside
 
 Once you’ve confirmed your eligibility, you’ll need to take the required [Florida pre-licensing education](/florida/prelicensing). Currently, Florida mandates a specific number of credit hours that you must complete through an approved course provider. These classes cover core insurance terms, legal guidelines, policy structures, and ethical practices.
 
-When choosing a pre-licensing program, look for interactive lessons and up-to-date resources that match Florida statutes. If you have a busy schedule, many providers offer online courses you can complete at your own pace. Completing these courses thoroughly sets you up for success in the state exam, so avoid rushing through the material.
+When choosing a [pre-licensing](/florida/prelicensing) program, look for interactive lessons and up-to-date resources that match Florida statutes. If you have a busy schedule, many providers offer online courses you can complete at your own pace. Completing these courses thoroughly sets you up for success in the state exam, so avoid rushing through the material.
 
 ## Prepare for the exam
 

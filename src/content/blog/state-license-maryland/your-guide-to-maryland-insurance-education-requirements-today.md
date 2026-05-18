@@ -17,7 +17,7 @@ imageCredit: Photo by Нұржас Тұрарбек on Pexels
 
 You may feel daunted by the idea of getting your [Maryland insurance license](/maryland), especially when you hear about the education requirements you must meet. Luckily, these requirements are designed to help you master fundamental insurance concepts before you start serving clients. By understanding the process step by step, you can fulfill Maryland insurance education requirements without confusion or unnecessary stress.
 
-Getting licensed often opens up exciting career possibilities. Whether you plan to focus on life and health, property and casualty, or both, Maryland’s guidelines remain consistent in their goal—ensuring you gain the knowledge needed to confidently serve policyholders. Below, you’ll find insights on pre-licensing courses, continuing education, and answers to frequently asked questions so you can feel ready to start your insurance journey.
+Getting licensed often opens up exciting career possibilities. Whether you plan to focus on life and health, property and casualty, or both, Maryland’s guidelines remain consistent in their goal—ensuring you gain the knowledge needed to confidently serve policyholders. Below, you’ll find insights on [pre-licensing](/maryland/prelicensing) courses, [continuing education](/maryland/continuing-education), and answers to frequently asked questions so you can feel ready to start your insurance journey.
 
 ## Learn maryland insurance basics
 

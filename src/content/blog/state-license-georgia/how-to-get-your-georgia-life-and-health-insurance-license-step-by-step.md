@@ -32,7 +32,7 @@ Before you start, confirm you meet Georgia's baseline requirements:
 
 - You must truthfully complete the license application and disclose any relevant history
 
-There's no degree requirement. No prior insurance experience is required. But you need to complete the prelicense education and pass the state exam.
+There's no degree requirement. No prior insurance experience is required. But you need to complete the [prelicense](/georgia/prelicensing) education and pass the state exam.
 
 ## Step 2: Complete Your Prelicense Education
 

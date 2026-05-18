@@ -16,7 +16,7 @@ imageAlt: >-
   insurance exam: no ple required but preparation m.
 ---
 
-Washington eliminated its prelicense education requirement on July 24, 2023, joining a growing group of states — including Arizona, Pennsylvania, North Carolina, South Carolina, Nevada, and others — that have moved to exam-only licensing frameworks. Washington's exam is administered by PSI, requires 70% to pass, and covers both national insurance content and Washington-specific state law from RCW Title 48 and WAC Title 284. Understanding what's on the exam and how to prepare effectively — even without a required PLE course — determines whether licensing takes 2-4 weeks or significantly longer.
+Washington eliminated its [prelicense](/washington/prelicensing) education requirement on July 24, 2023, joining a growing group of states — including Arizona, Pennsylvania, North Carolina, South Carolina, Nevada, and others — that have moved to exam-only licensing frameworks. Washington's exam is administered by PSI, requires 70% to pass, and covers both national insurance content and Washington-specific state law from RCW Title 48 and WAC Title 284. Understanding what's on the exam and how to prepare effectively — even without a required PLE course — determines whether licensing takes 2-4 weeks or significantly longer.
 
 Here's what Washington candidates need to know about the exam and how to prepare.
 
@@ -30,7 +30,7 @@ PLE requirements created uneven barriers to entry
 
 Online self-study resources make preparation more accessible without mandating a specific format
 
-Washington's OIC still recommends preparation — every OIC-referenced source notes that exam prep "significantly" or "highly" improves pass rates — but the specific format of that preparation is now entirely at the candidate's discretion.
+Washington's OIC still recommends preparation — every OIC-referenced source notes that exam prep "significantly" or "highly" improves [pass rates](/pass-rates) — but the specific format of that preparation is now entirely at the candidate's discretion.
 
 What this means practically:
 

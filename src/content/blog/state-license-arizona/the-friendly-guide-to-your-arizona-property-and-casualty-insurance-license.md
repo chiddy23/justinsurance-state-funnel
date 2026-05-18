@@ -64,7 +64,7 @@ By planning your CE hours early, you’ll avoid last-minute scrambling and keep 
 
 Below are some common questions people ask about obtaining and holding an Arizona property and casualty insurance license. If you’re still unsure about the process, these answers might clear up some confusion.
 
-1.  How many hours of pre-licensing education do I need?  
+1.  How many hours of [pre-licensing](/arizona/prelicensing) education do I need?  
     Arizona does not mandate a set number of classroom hours. However, many reputable schools and online programs offer structured courses that help you master the material.
 2.  Do I need separate licenses for property and casualty?  
     No, Arizona groups property and casualty together under one license, so you only need to pass one combined exam. If you want to sell life or health insurance, that would be a different license or test.

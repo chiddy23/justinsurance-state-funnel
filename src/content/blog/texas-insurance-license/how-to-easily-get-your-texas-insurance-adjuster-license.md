@@ -15,7 +15,7 @@ imageAlt: Professionals reviewing data charts on paper during a business meeting
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-If you have ever considered working as an insurance adjuster in Texas, you may be pleasantly surprised by how straightforward the path can be. Obtaining a [Texas insurance adjuster license](/texas) does not have to be an intimidating process, even if you are brand new to the world of insurance. In fact, with the proper resources, you can complete your pre-licensing coursework, pass your exam, and file your application in a relatively short timeframe. The key is knowing each step in advance—and that is exactly what this article will show you.
+If you have ever considered working as an insurance adjuster in Texas, you may be pleasantly surprised by how straightforward the path can be. Obtaining a [Texas insurance adjuster license](/texas) does not have to be an intimidating process, even if you are brand new to the world of insurance. In fact, with the proper resources, you can complete your [pre-licensing](/texas/prelicensing) coursework, pass your exam, and file your application in a relatively short timeframe. The key is knowing each step in advance—and that is exactly what this article will show you.
 
 Before you know it, you will be well on your way to adjusting claims, investigating accidents, and helping people navigate their insurance matters, all while enjoying a rewarding career. Below is a step-by-step breakdown of how to get your Texas insurance adjuster license, from choosing an approved pre-licensing provider to maintaining your credential in the years to come.
 
@@ -60,7 +60,7 @@ While many applicants sail through this part without any trouble, you do want to
 
 ## Maintain your license renewal
 
-Congratulations, you are now an official Texas insurance adjuster—at least, you will be once your application is approved! However, your journey does not end there. Staying an active adjuster means keeping up with renewal deadlines, continuing education, and any changes in state requirements. Generally, you will renew your license every two years, and specific continuing education hours are mandatory for renewal.
+Congratulations, you are now an official Texas insurance adjuster—at least, you will be once your application is approved! However, your journey does not end there. Staying an active adjuster means keeping up with renewal deadlines, [continuing education](/texas/continuing-education), and any changes in state requirements. Generally, you will renew your license every two years, and specific continuing education hours are mandatory for renewal.
 
 [Texas continuing education](/texas/continuing-education) helps you stay informed about evolving laws, coverage options, and best practices in claims handling. This allows you to serve your clients better and improves your long-term career prospects. Be sure to track your continuing education credits carefully so there are no surprises when you approach renewal. Many adjusters find a continuing education provider that fits their learning style and schedule, making it easier to meet deadlines and stay compliant.
 

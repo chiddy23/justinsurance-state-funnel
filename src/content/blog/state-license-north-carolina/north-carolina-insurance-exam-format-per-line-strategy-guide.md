@@ -144,7 +144,7 @@ Passing rate statistics reflect average across all forms
 
 Practice exams approximate rather than exactly replicate your specific form
 
-Preparation approach: Master the full content outline rather than memorizing specific questions. Practice questions develop knowledge depth that transfers across forms.
+Preparation approach: Master the full content outline rather than memorizing specific questions. [Practice questions](/north-carolina/practice-exam) develop knowledge depth that transfers across forms.
 
 ## Per-Line Decision Framework
 
@@ -296,7 +296,7 @@ In-person: Better for those who need structured environment
 
 Online: Better for those with long testing center commutes or scheduling flexibility needs
 
-Both options have identical pass rates when preparation is equivalent.
+Both options have identical [pass rates](/pass-rates) when preparation is equivalent.
 
 ## The Two-ID Requirement in Practice
 
@@ -328,7 +328,7 @@ Names must match: Both IDs and your Pearson VUE registration should reflect your
 - How do I decide whether to pursue Personal Lines or full Property and Casualty? Personal Lines is appropriate if you'll exclusively serve personal (non-commercial) clients with home and auto coverage. Full Property and Casualty is appropriate if you want to serve both personal and commercial clients, or if you anticipate expanding into commercial markets.
 - What's the NC Rate Bureau and why does it matter for the exam? North Carolina's Rate Bureau files rates on behalf of member insurers and creates NC-specific policy forms for auto and homeowners insurance. NC exams reference NC Rate Bureau forms rather than standard ISO forms, making NC-specific study important for Property and Casualty candidates.
 - How does failing one exam affect my other exam appointments? Each exam is independent. Failing the Life exam doesn't affect your A&H exam appointment. You can retake failed exams while continuing to take other scheduled exams.
-- Are there question banks that match North Carolina's exam exactly? No. Pearson VUE uses multiple exam forms with different question sets. Quality prelicense courses provide practice questions that cover the same content outline, training your knowledge to perform across any form you encounter.
+- Are there question banks that match North Carolina's exam exactly? No. Pearson VUE uses multiple exam forms with different question sets. Quality [prelicense](/north-carolina/prelicensing) courses provide practice questions that cover the same content outline, training your knowledge to perform across any form you encounter.
 
 ## Prepare Strategically for North Carolina's Per-Line Exams
 

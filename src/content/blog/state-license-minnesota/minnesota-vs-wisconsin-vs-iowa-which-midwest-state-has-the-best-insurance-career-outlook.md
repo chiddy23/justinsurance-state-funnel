@@ -52,7 +52,7 @@ The three states have meaningfully different licensing requirements that affect 
 
 #### Minnesota
 
-Prelicensing: 20 hours per line of authority (40 hours combined Life and A&H). Certification exam required at 70% pass rate, proctored by a disinterested third party.
+[Prelicensing](/minnesota/prelicensing): 20 hours per line of authority (40 hours combined Life and A&H). Certification exam required at 70% [pass rate](/pass-rates), proctored by a disinterested third party.
 
 State exam: PSI Services; $45 major lines. Combined P&C: 130 questions/3 hours. Combined Life and A&H: 145 questions/3 hours. Remote testing available via PSI Bridge.
 

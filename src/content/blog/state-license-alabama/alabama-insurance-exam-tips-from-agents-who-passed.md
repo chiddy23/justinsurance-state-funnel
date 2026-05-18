@@ -40,7 +40,7 @@ Common mistake: Assuming national content covers state specifics adequately. It 
 
 ## Tip 3: Practice Questions Are Non-Negotiable
 
-This shows up in virtually every passer's advice: practice questions are more valuable than reading.
+This shows up in virtually every passer's advice: [practice questions](/alabama/practice-exam) are more valuable than reading.
 
 Reading study materials creates a false sense of familiarity. You recognize the material when you see it. That's not the same as being able to apply it under exam conditions.
 

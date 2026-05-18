@@ -150,7 +150,7 @@ Replacement in A&H — when an existing health policy is replaced, the producer 
 
 ### PART 2: COLORADO STATE SECTION (30 Scored Questions)
 
-The state section is 30 of 80 scored questions — 37.5% of your total score — from only 10 of your 50 prelicensing hours. The A&H state section is divided identically to the Life state section for the common Colorado provisions (Section I), but Section II contains distinct A&H-only Colorado requirements that differ meaningfully from the Life exam's Section II topics.
+The state section is 30 of 80 scored questions — 37.5% of your total score — from only 10 of your 50 [prelicensing](/colorado/prelicensing) hours. The A&H state section is divided identically to the Life state section for the common Colorado provisions (Section I), but Section II contains distinct A&H-only Colorado requirements that differ meaningfully from the Life exam's Section II topics.
 
 #### Section I: Colorado Statutes Common to All Lines — 19 Questions
 

@@ -110,7 +110,7 @@ Partner with complementary professionals. Real estate agents, mortgage brokers, 
 
 Develop a digital presence. Chicago is increasingly tech-forward. A professional website, LinkedIn presence, and potentially targeted social media extend your reach.
 
-Invest in expertise. Chicago rewards genuine expertise. Continuing education beyond CE minimums, industry designations, and deep product knowledge all matter.
+Invest in expertise. Chicago rewards genuine expertise. [Continuing education](/illinois/continuing-education) beyond CE minimums, industry designations, and deep product knowledge all matter.
 
 Be patient. Chicago practices often take 3-5 years to hit stride. Agents who quit at year one miss the payoff.
 
@@ -134,6 +134,6 @@ Documentation matters. Chicago's sophisticated buyers and complex transactions m
 
 ## Build Your Chicago Insurance Career
 
-Chicago offers real opportunity for agents willing to specialize and work consistently. At JustInsurance, our Illinois prelicense course prepares you for the IDOI exam and for building a career in one of the country's most significant insurance markets.
+Chicago offers real opportunity for agents willing to specialize and work consistently. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) course prepares you for the IDOI exam and for building a career in one of the country's most significant insurance markets.
 
 Enroll today and start your Chicago insurance career.

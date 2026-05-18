@@ -245,7 +245,7 @@ Replacement rules. When applicable to auto policy replacement.
 
 Documentation standards. Maintaining records of recommendations, disclosures, and transactions.
 
-Continuing education. Auto/casualty CE may count toward Massachusetts's CE requirements.
+[Continuing education](/massachusetts/continuing-education). Auto/casualty CE may count toward Massachusetts's CE requirements.
 
 ## Common Massachusetts Auto Insurance Pitfalls
 
@@ -303,6 +303,6 @@ For producers building general practice, auto insurance often serves as the foun
 
 ## Master Massachusetts Auto Insurance
 
-Massachusetts auto insurance offers steady opportunity for producers who develop genuine expertise in the state's distinctive system. At JustInsurance, our Massachusetts prelicense and CE courses include comprehensive coverage of auto insurance principles and Massachusetts-specific requirements.
+Massachusetts auto insurance offers steady opportunity for producers who develop genuine expertise in the state's distinctive system. At JustInsurance, our Massachusetts [prelicense](/massachusetts/prelicensing) and CE courses include comprehensive coverage of auto insurance principles and Massachusetts-specific requirements.
 
 Enroll today and develop the auto insurance expertise Massachusetts clients need.

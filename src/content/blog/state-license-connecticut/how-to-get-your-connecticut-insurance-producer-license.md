@@ -38,7 +38,7 @@ Note: Connecticut does NOT require fingerprinting for individual insurance produ
 
 ## Step 2: Complete Prelicense Education (PLE)
 
-Connecticut requires prelicense education for most license types. The specific hour requirements:
+Connecticut requires [prelicense](/connecticut/prelicensing) education for most license types. The specific hour requirements:
 
 Per individual line of authority:
 

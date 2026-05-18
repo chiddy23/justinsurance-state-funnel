@@ -50,7 +50,7 @@ DORA's address and contact information: Colorado Department of Regulatory Agenci
 
 The Colorado Division of Insurance (DOI) is the state agency that administers Title 10 on a day-to-day basis. Its core functions fall into three categories: licensing and market entry regulation, market conduct and consumer protection, and financial solvency oversight.
 
-Licensing and market entry: The Division licenses every insurance producer, adjuster, and insurance company operating in Colorado. It processes license applications, verifies prelicensing education and exam results, issues licenses, records appointments, and manages license renewals through Sircon. No person or entity may transact insurance in Colorado without the Division's authorization.
+Licensing and market entry: The Division licenses every insurance producer, adjuster, and insurance company operating in Colorado. It processes license applications, verifies [prelicensing](/colorado/prelicensing) education and exam results, issues licenses, records appointments, and manages license renewals through Sircon. No person or entity may transact insurance in Colorado without the Division's authorization.
 
 Market conduct and consumer protection: The Division monitors how licensed entities conduct business — investigating consumer complaints, conducting market conduct examinations of insurers, enforcing unfair trade practices statutes, reviewing policy forms and rates filed by insurers, and taking disciplinary action against producers and insurers who violate Title 10.
 

@@ -41,9 +41,9 @@ The investment in proper preparation is significantly less than the cost of mult
 
 Successful first-time Oregon candidates consistently combine:
 
-Quality prelicense education (the required 40 hours treated as actual learning, not paperwork)
+Quality [prelicense](/oregon/prelicensing) education (the required 40 hours treated as actual learning, not paperwork)
 
-Substantial practice questions (hundreds of practice questions worked through carefully)
+Substantial [practice questions](/oregon/practice-exam) (hundreds of practice questions worked through carefully)
 
 Full-length practice exams (multiple timed practice exams under realistic conditions)
 

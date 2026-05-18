@@ -144,4 +144,4 @@ Standard auto policy forms in Colorado do not provide first-party DV coverage â€
 
 Colorado's diminished value and total loss framework rewards clients who understand their rights and producers who explain them proactively. A client who has never heard of diminished value until the day they discover their repaired vehicle is worth $6,000 less than before the accident will blame their producer for not preparing them. A client who was told at policy inception what their ACV means, what gap coverage addresses, and what their third-party DV rights are will navigate the claim process with realistic expectations â€” and will credit their producer for the preparation.
 
-Visit JustInsurance to enroll today and complete your Colorado Property and Casualty prelicensing with a state-approved course covering every auto insurance claims provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Colorado Property and Casualty [prelicensing](/colorado/prelicensing) with a state-approved course covering every auto insurance claims provision tested on the Pearson VUE exam.

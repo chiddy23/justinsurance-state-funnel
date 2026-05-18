@@ -188,6 +188,6 @@ Document your work. Keep records of quotes provided, comparisons made, employer 
 
 ## Build Your Georgia Small Employer Practice
 
-The small employer health market is complex but rewarding. At JustInsurance, our Georgia prelicense and CE courses cover health insurance regulations — including small employer rules — in practical detail.
+The small employer health market is complex but rewarding. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses cover health insurance regulations — including small employer rules — in practical detail.
 
 Enroll today and build the compliance knowledge to serve Georgia small employers effectively.

@@ -74,7 +74,7 @@ New Jersey has a graduated state income tax with rates ranging from 1.4% at the 
 
 New Jersey is one of the top-compensating states for insurance producers in the country — but the income is not automatic. It is built through line selection, regional positioning, book development, and the patient accumulation of renewal income that ultimately creates the financial compounding that distinguishes the highest earners in the state.
 
-Visit JustInsurance to enroll today and take the first step toward building your NJ insurance career with a prelicensing course designed for first-attempt success.
+Visit JustInsurance to enroll today and take the first step toward building your NJ insurance career with a [prelicensing](/new-jersey/prelicensing) course designed for first-attempt success.
 
 Title: Selling Insurance in New Jersey's Pharmaceutical and Life Sciences Corridor
 

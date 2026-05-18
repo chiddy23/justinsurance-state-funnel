@@ -92,6 +92,6 @@ Clear communication about the free-look period builds trust, reduces complaints,
 
 ## Sell with Transparency, Not Pressure
 
-Being upfront about the free-look period builds client trust and keeps you compliant. At JustInsurance, our Florida prelicense and CE courses cover consumer protection rules in practical depth — so you can communicate with clients confidently and accurately.
+Being upfront about the free-look period builds client trust and keeps you compliant. At JustInsurance, our Florida [prelicense](/florida/prelicensing) and CE courses cover consumer protection rules in practical depth — so you can communicate with clients confidently and accurately.
 
 Enroll today and sell the Florida way: clearly, ethically, and professionally.

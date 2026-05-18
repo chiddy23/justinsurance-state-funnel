@@ -25,7 +25,7 @@ Many new and aspiring agents in Tennessee discover that life insurance is a mean
 
 Before you dive in, it helps to know what the Tennessee licensing process involves. At its core, you need to learn the state’s regulations, meet the standard education requirements, and pass the relevant exam. The [Tennessee Department of Commerce and Insurance](/tennessee/requirements) oversees licensure, which ensures you thoroughly understand insurance rules and policies before interacting with the public.
 
-Preparing for the licensing exam typically includes study materials and pre-licensing courses. You will find that these courses clarify the principles of life insurance, explain policy types, and hint at how to best serve future clients. Since the exam is structured around what you study, consistent reviews, practice questions, and self-assessments help you feel more at ease on test day.
+Preparing for the licensing exam typically includes study materials and [pre-licensing](/tennessee/prelicensing) courses. You will find that these courses clarify the principles of life insurance, explain policy types, and hint at how to best serve future clients. Since the exam is structured around what you study, consistent reviews, [practice questions](/tennessee/practice-exam), and self-assessments help you feel more at ease on test day.
 
 Below is a simple overview of the steps you might follow to earn your license:
 

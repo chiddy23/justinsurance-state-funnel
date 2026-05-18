@@ -22,7 +22,7 @@ The added line does not change anything about your existing authority. Your Prop
 
 ### The Process: What Is Required
 
-Adding a line of authority requires completing the same core steps as initial licensing for that specific line. There are no shortcuts based on your existing licensure, your years of experience, or the lines you already hold. Each line of authority has its own independent prelicensing and examination requirement under Minn. Stat. §60K.36 Subd. 4.
+Adding a line of authority requires completing the same core steps as initial licensing for that specific line. There are no shortcuts based on your existing licensure, your years of experience, or the lines you already hold. Each line of authority has its own independent [prelicensing](/minnesota/prelicensing) and examination requirement under Minn. Stat. §60K.36 Subd. 4.
 
 #### Step 1: Complete 20 Hours of Prelicensing for the New Line
 
@@ -88,7 +88,7 @@ Long-term care (LTC) specialty CE: A producer who adds A&H authority and intends
 
 Annuity suitability training: A producer who adds Life authority and intends to sell annuities must complete annuity suitability training before making annuity recommendations. The Minnesota Department of Commerce requires this training in accordance with the NAIC model suitability regulation — confirm current requirements directly with the Department at the time of adding the Life line, as annuity training requirements have evolved.
 
-Variable products: Adding Variable Life and Variable Annuities authority creates no additional insurance CE obligation beyond the standard 24 hours, but the FINRA registration associated with variable products carries its own continuing education requirements under FINRA's regulatory structure, separate from the Department of Commerce CE system.
+Variable products: Adding Variable Life and Variable Annuities authority creates no additional insurance CE obligation beyond the standard 24 hours, but the FINRA registration associated with variable products carries its own [continuing education](/minnesota/continuing-education) requirements under FINRA's regulatory structure, separate from the Department of Commerce CE system.
 
 ### Appointment Requirement for the New Line
 

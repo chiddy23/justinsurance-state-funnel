@@ -232,6 +232,6 @@ Mentorship matters. Whichever path you choose, having experienced mentors in you
 
 ## Build the Illinois Agency That Fits Your Vision
 
-Starting or growing a life insurance agency in Illinois is one of the most rewarding career moves you can make — when built on real preparation. At JustInsurance, our Illinois prelicense and CE courses give you the foundation to develop into the kind of professional who can successfully build and run their own agency.
+Starting or growing a life insurance agency in Illinois is one of the most rewarding career moves you can make — when built on real preparation. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses give you the foundation to develop into the kind of professional who can successfully build and run their own agency.
 
 Enroll today and start building toward Illinois agency ownership the right way.

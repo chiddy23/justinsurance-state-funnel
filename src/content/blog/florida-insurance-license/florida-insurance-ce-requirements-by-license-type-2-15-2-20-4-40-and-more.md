@@ -16,7 +16,7 @@ imageAlt: >-
   modern office.
 ---
 
-Florida's continuing education requirements are some of the most specific in the country — and they vary based on which license you hold. Staying compliant means knowing exactly how many hours you need, what types of courses count, and when your deadline falls. Miss it, and you're facing fines, license suspension, or reinstatement headaches.
+Florida's [continuing education](/florida/continuing-education) requirements are some of the most specific in the country — and they vary based on which license you hold. Staying compliant means knowing exactly how many hours you need, what types of courses count, and when your deadline falls. Miss it, and you're facing fines, license suspension, or reinstatement headaches.
 
 Here's a clear breakdown of Florida CE requirements by license type.
 

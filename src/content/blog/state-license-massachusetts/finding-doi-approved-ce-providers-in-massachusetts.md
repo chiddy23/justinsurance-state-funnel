@@ -37,7 +37,7 @@ If a provider isn't DOI-approved, taking their course doesn't count toward your 
 
 ## Massachusetts CER Agreement: The Game Changer
 
-Effective December 1, 2020, Massachusetts entered the NAIC Continuing Education Reciprocity (CER) Agreement, fundamentally changing CE provider options:
+Effective December 1, 2020, Massachusetts entered the NAIC [Continuing Education](/massachusetts/continuing-education) Reciprocity (CER) Agreement, fundamentally changing CE provider options:
 
 Before December 1, 2020: Massachusetts producers were generally limited to courses offered in Massachusetts.
 

@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by Edmond Dantès on Pexels
 ---
 
-If you’re working toward your [Minnesota insurance license](/minnesota) continuing education, it’s essential to stay organized and informed. The state’s requirements can feel overwhelming at first, especially if you’re juggling multiple responsibilities. But by breaking everything down into manageable steps, you can complete your continuing education more efficiently and advance your career with confidence.
+If you’re working toward your [Minnesota insurance license](/minnesota) [continuing education](/minnesota/continuing-education), it’s essential to stay organized and informed. The state’s requirements can feel overwhelming at first, especially if you’re juggling multiple responsibilities. But by breaking everything down into manageable steps, you can complete your continuing education more efficiently and advance your career with confidence.
 
 ## Understand [Minnesota continuing education requirements](/minnesota/continuing-education)
 

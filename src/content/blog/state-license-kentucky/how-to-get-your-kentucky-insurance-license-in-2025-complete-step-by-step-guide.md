@@ -16,7 +16,7 @@ imageAlt: >-
   kentucky insurance license in 2025: complete.
 ---
 
-Getting a Kentucky insurance license is one of the most consequential professional decisions you can make in the Bluegrass State. With major employers like Humana, UPS, and Toyota driving a robust economy from Louisville to Lexington, the demand for licensed insurance professionals is real and growing. The Kentucky Department of Insurance (KDOI) oversees all licensing activity, and while the process involves several steps, it is straightforward once you understand the sequence. This guide walks you through every phase, from completing your prelicensing education through printing your license.
+Getting a Kentucky insurance license is one of the most consequential professional decisions you can make in the Bluegrass State. With major employers like Humana, UPS, and Toyota driving a robust economy from Louisville to Lexington, the demand for licensed insurance professionals is real and growing. The Kentucky Department of Insurance (KDOI) oversees all licensing activity, and while the process involves several steps, it is straightforward once you understand the sequence. This guide walks you through every phase, from completing your [prelicensing](/kentucky/prelicensing) education through printing your license.
 
 ## Who Regulates Insurance Licensing in Kentucky?
 

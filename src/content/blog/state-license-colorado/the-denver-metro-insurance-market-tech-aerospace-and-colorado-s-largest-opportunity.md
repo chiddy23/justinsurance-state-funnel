@@ -140,4 +140,4 @@ Denver's personal lines market is defined by high home values, a concentrated af
 
 The Denver metro is not one market — it is Colorado's most concentrated collection of specialized commercial lines opportunities, organized around industries with specific and learnable insurance needs. Producers who approach it with sector discipline, genuine expertise, and a prospecting strategy built around the professional communities that anchor each sector will find it is the richest insurance market between the Mississippi and the Pacific coast.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course that prepares you to serve Denver's commercial lines market from day one.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course that prepares you to serve Denver's commercial lines market from day one.

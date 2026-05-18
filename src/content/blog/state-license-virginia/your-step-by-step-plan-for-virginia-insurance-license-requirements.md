@@ -41,7 +41,7 @@ Each line typically requires a set number of hours determined by the state, so b
 
 ## Book and pass your exam
 
-After completing your pre-licensing hours, you’ll need to schedule your state insurance exam. It’s best to book your exam date soon after finishing the coursework, while the information is still fresh in your mind. Most exam centers offer multiple test dates each week, and some may even provide the option to take your exam online.
+After completing your [pre-licensing](/virginia/prelicensing) hours, you’ll need to schedule your state insurance exam. It’s best to book your exam date soon after finishing the coursework, while the information is still fresh in your mind. Most exam centers offer multiple test dates each week, and some may even provide the option to take your exam online.
 
 Be prepared to pay an exam fee at the time of registration. On test day, arrive early with a valid photo ID. You’ll be allotted a set amount of time to complete the multiple-choice questions—so pace yourself, read each question carefully, and answer systematically. If you don’t pass on your first try, don’t be discouraged. You can typically retake the exam after paying the fee again and reviewing the material once more.
 

@@ -40,7 +40,7 @@ If you register for in-person or online options, look for courses that encourage
 
 ## Schedule and pass your exam
 
-Once your pre-licensing hours are complete, the next step is scheduling your official Ohio insurance licensing exam. Exams are usually taken at approved testing centers, though online proctoring may be available in some cases. Make sure you bring valid identification and any paperwork required by the testing site. Some people find it helpful to do a quick review of study notes the night before, focusing on key definitions and examples.
+Once your [pre-licensing](/ohio/prelicensing) hours are complete, the next step is scheduling your official Ohio insurance licensing exam. Exams are usually taken at approved testing centers, though online proctoring may be available in some cases. Make sure you bring valid identification and any paperwork required by the testing site. Some people find it helpful to do a quick review of study notes the night before, focusing on key definitions and examples.
 
 On exam day, aim to arrive early so you’re not rushed. Each test typically runs around two hours, with multiple-choice questions covering insurance concepts, state regulations, and ethical practices. You’ll receive your results right away. If you pass, celebrate! You’ll be one step closer to your license. If you don’t quite make the cut, don’t worry. You can retake the exam after additional study.
 

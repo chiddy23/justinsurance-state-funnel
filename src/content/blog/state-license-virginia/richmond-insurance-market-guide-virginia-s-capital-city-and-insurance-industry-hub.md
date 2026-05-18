@@ -28,7 +28,7 @@ Hilb Group: A major national insurance brokerage headquartered in Richmond.
 
 Multiple carrier operations: Several national carriers maintain significant underwriting, claims, and technology operations in the Richmond area, contributing to a deep pool of insurance professionals.
 
-This institutional density means that Richmond producers have access to professional networking, continuing education, and carrier relationship-building opportunities that are rare outside of major insurance hubs.
+This institutional density means that Richmond producers have access to professional networking, [continuing education](/virginia/continuing-education), and carrier relationship-building opportunities that are rare outside of major insurance hubs.
 
 ### The Commercial Market: Fortune 500 and Beyond
 

@@ -167,6 +167,6 @@ Document everything. Conversations about lapse issues should be thoroughly docum
 
 ## Help Clients Avoid Unnecessary Lapses
 
-Understanding grace periods, lapse rules, and non-forfeiture provisions makes you a better advisor. At JustInsurance, our Illinois prelicense and CE courses cover life insurance provisions — including lapse and grace period rules — in practical depth.
+Understanding grace periods, lapse rules, and non-forfeiture provisions makes you a better advisor. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses cover life insurance provisions — including lapse and grace period rules — in practical depth.
 
 Enroll today and build the knowledge to genuinely serve your Illinois clients.

@@ -22,7 +22,7 @@ Here's exactly what the 5-hour Law and Ethics requirement is and why it matters.
 
 ## What Is the 5-Hour Law and Ethics Update?
 
-The 5-hour Law and Ethics Update is a Florida DFS-mandated continuing education course that all licensed resident insurance agents must complete every 2-year renewal cycle. It's a specific course — not just any ethics course — and it's tailored to the licensee's specific line of authority.
+The 5-hour Law and Ethics Update is a Florida DFS-mandated [continuing education](/florida/continuing-education) course that all licensed resident insurance agents must complete every 2-year renewal cycle. It's a specific course — not just any ethics course — and it's tailored to the licensee's specific line of authority.
 
 There are separate 5-hour updates for:
 

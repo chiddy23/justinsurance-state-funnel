@@ -26,7 +26,7 @@ Below is a simple guide to help you navigate the licensing path, identify common
 
 Before you worry about exam fees or study package costs, you should know why a license matters and how the process works. In Michigan, anyone who wants to solicit, sell, or negotiate insurance products must hold a valid insurance license. That license is tied to a specific line of authority, like life insurance or property and casualty coverage. If you plan to sell multiple types of insurance, you may need more than one license, which can affect the fees you pay.
 
-You will typically work through these steps in order: completing a state-approved pre-licensing course, scheduling your exam, passing the exam, and submitting an application to the [Michigan Department of Insurance and Financial Services](/michigan/requirements) (DIFS). Each step comes with its own costs, which you should factor into your budget early on.
+You will typically work through these steps in order: completing a state-approved [pre-licensing](/michigan/prelicensing) course, scheduling your exam, passing the exam, and submitting an application to the [Michigan Department of Insurance and Financial Services](/michigan/requirements) (DIFS). Each step comes with its own costs, which you should factor into your budget early on.
 
 ## Fulfill the pre-licensing course
 

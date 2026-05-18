@@ -66,7 +66,7 @@ Pay required fees. Application fees vary by license type.
 
 ## What's NOT Required as of 2024
 
-One important change: Prelicense education is no longer required under Alabama Act No. 2023-104, effective January 1, 2024. The ALDOI amended Insurance Regulation No. 147 to reflect this change.
+One important change: [Prelicense](/alabama/prelicensing) education is no longer required under Alabama Act No. 2023-104, effective January 1, 2024. The ALDOI amended Insurance Regulation No. 147 to reflect this change.
 
 This makes Alabama one of the states where prelicense education is optional rather than mandatory. However, most candidates still complete prelicense courses to prepare for the state exam effectively.
 

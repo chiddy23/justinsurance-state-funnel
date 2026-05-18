@@ -108,6 +108,6 @@ Temporary license: 180 days — email [email protected]
 
 ## Get Your Indiana License With Confidence
 
-JustInsurance's IDOI-approved Indiana prelicensing courses cover the full Pearson VUE content outline with Indiana-specific state law depth.
+JustInsurance's IDOI-approved Indiana [prelicensing](/indiana/prelicensing) courses cover the full Pearson VUE content outline with Indiana-specific state law depth.
 
 Enroll today and build your Indiana insurance career.

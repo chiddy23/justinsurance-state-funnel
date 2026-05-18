@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by olia danilevich on Pexels
 ---
 
-Are you looking for [Florida insurance](/florida) CE courses that feel approachable, flexible, and designed to help you fulfill your professional requirements without stress? Below, you will find a friendly guide that breaks down your options and shows you how to pick the perfect fit for your schedule and learning style. By the end, you will feel ready to tackle your continuing education responsibilities with renewed confidence.
+Are you looking for [Florida insurance](/florida) CE courses that feel approachable, flexible, and designed to help you fulfill your professional requirements without stress? Below, you will find a friendly guide that breaks down your options and shows you how to pick the perfect fit for your schedule and learning style. By the end, you will feel ready to tackle your [continuing education](/florida/continuing-education) responsibilities with renewed confidence.
 
 ## Understand [Florida insurance CE requirements](/florida/continuing-education)
 

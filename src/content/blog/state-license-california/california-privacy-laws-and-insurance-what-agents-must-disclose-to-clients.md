@@ -139,6 +139,6 @@ When in doubt, ask. If you're unsure whether a disclosure is permitted, consult 
 
 ## Protect Your Clients and Your Career
 
-California's privacy laws are strict, but they exist to protect the trust that makes insurance relationships work. At JustInsurance, our California CE and prelicense courses cover privacy requirements in practical detail.
+California's privacy laws are strict, but they exist to protect the trust that makes insurance relationships work. At JustInsurance, our California CE and [prelicense](/california/prelicensing) courses cover privacy requirements in practical detail.
 
 Enroll today and stay compliant with California's strict privacy laws.

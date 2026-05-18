@@ -248,4 +248,4 @@ The combined P&C exam allocates questions across both personal and commercial li
 
 The Minnesota P&C exam is a comprehensive test of property and casualty insurance knowledge — from the six sections of a homeowners policy to the three coverage parts of a CGL form, from the HO form types to Minnesota's no-fault PIP requirements. Every question comes from the published content outline, every topic in that outline is learnable, and the 70% passing standard is achievable for any candidate who prepares the complete content rather than selecting favorite topics and hoping the exam cooperates.
 
-Visit JustInsurance to enroll today and complete your Minnesota P&C prelicensing with a state-approved course built to the current PSI content outline, including practice exams covering every section in this guide.
+Visit JustInsurance to enroll today and complete your Minnesota P&C [prelicensing](/minnesota/prelicensing) with a state-approved course built to the current PSI content outline, including practice exams covering every section in this guide.

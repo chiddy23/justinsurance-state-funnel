@@ -26,7 +26,7 @@ Whether you’re just starting out or thinking of changing careers, here’s eve
 
 Before you dive into studying, you’ll want to confirm that you meet the basic prerequisites. California requires you to be at least 18 years old. You also need a clean record, so be prepared for a background check, which typically involves submitting fingerprints through the state’s electronic system. This is known as a Live Scan and ensures that all potential agents meet professional standards.
 
-Once you pass the background check, the next step is selecting the type of license you plan to get, such as Life, Accident and Health, or Property and Casualty. Some people focus on one line of authority, while others choose to become licensed in multiple areas to widen their client base. Selecting your license type upfront helps you figure out which pre-licensing courses to take.
+Once you pass the background check, the next step is selecting the type of license you plan to get, such as Life, Accident and Health, or Property and Casualty. Some people focus on one line of authority, while others choose to become licensed in multiple areas to widen their client base. Selecting your license type upfront helps you figure out which [pre-licensing](/california/prelicensing) courses to take.
 
 ## Complete pre-licensing education
 
@@ -41,11 +41,11 @@ The [California insurance exam](/california/requirements) covers a variety of to
 To boost your chances of success, consider these core areas while studying:
 
 -   General insurance principles (policy structure, types of risks, underwriting basics)
--   State regulations and department guidelines (licensing, continuing education)
+-   State regulations and department guidelines (licensing, [continuing education](/california/continuing-education))
 -   Ethics and standards of conduct
 -   Specific policies for life, health, property, or casualty, depending on your focus
 
-Create a schedule to review each of these areas well in advance, and do at least one timed practice test. If you score consistently within a comfortable range, you’ll know you’re ready to take the official exam.
+Create a schedule to review each of these areas well in advance, and do at least one timed [practice test](/california/practice-exam). If you score consistently within a comfortable range, you’ll know you’re ready to take the official exam.
 
 ## Submit your application
 

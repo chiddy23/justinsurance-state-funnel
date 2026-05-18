@@ -178,6 +178,6 @@ These numbers assume consistent activity, adequate lead flow, and professional e
 
 ## Build Your Georgia Senior-Focused Practice
 
-Georgia's senior market offers real opportunity for agents willing to specialize. At JustInsurance, our Georgia prelicense course prepares you for the exam so you can start serving Georgia seniors quickly.
+Georgia's senior market offers real opportunity for agents willing to specialize. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) course prepares you for the exam so you can start serving Georgia seniors quickly.
 
 Enroll today and position yourself for Georgia's final expense and Medicare supplement opportunity.

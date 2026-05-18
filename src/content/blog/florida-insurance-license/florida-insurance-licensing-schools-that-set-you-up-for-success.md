@@ -21,7 +21,7 @@ imageCredit: Photo by Pavel Danilyuk on Pexels
 
 ## Know the [florida insurance licensing requirements](/florida/requirements)
 
-Florida sets clear guidelines for anyone hoping to become a licensed insurance agent. You usually need to be at least 18 years old, a US citizen or legal resident, and without any major criminal infractions on your record. One of your first steps is to pick which license type you want, such as life, health, or property and casualty. Each license comes with its own pre-licensing course requirement to ensure you know key concepts before you ever speak to a potential client.
+Florida sets clear guidelines for anyone hoping to become a licensed insurance agent. You usually need to be at least 18 years old, a US citizen or legal resident, and without any major criminal infractions on your record. One of your first steps is to pick which license type you want, such as life, health, or property and casualty. Each license comes with its own [pre-licensing](/florida/prelicensing) course requirement to ensure you know key concepts before you ever speak to a potential client.
 
 You might feel overwhelmed by all the rules at first, but you can think of them as a road map. By following each step, you know you are meeting state expectations and laying the groundwork for a successful career. If you are not sure which license is right for you, do a little research on the areas that interest you most. With each one, you will be helping communities protect themselves from financial risks.
 

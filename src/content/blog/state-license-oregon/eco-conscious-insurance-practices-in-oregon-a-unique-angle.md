@@ -238,6 +238,6 @@ Established Oregon eco-conscious practices commonly produce $90,000-$200,000+ in
 
 ## Build Your Authentic Oregon Insurance Practice
 
-Oregon's environmental culture creates real opportunity for agents whose authentic values connect them to eco-conscious communities. At JustInsurance, our Oregon prelicense and CE courses provide the foundational professional excellence that any successful Oregon practice requires.
+Oregon's environmental culture creates real opportunity for agents whose authentic values connect them to eco-conscious communities. At JustInsurance, our Oregon [prelicense](/oregon/prelicensing) and CE courses provide the foundational professional excellence that any successful Oregon practice requires.
 
 Enroll today and build your Oregon insurance career on a strong professional foundation.

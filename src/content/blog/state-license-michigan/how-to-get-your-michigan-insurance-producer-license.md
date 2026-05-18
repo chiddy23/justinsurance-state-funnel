@@ -17,7 +17,7 @@ imageAlt: >-
   michigan insurance producer license.
 ---
 
-Getting your Michigan insurance producer license opens doors to one of the most unique insurance markets in the country. Detroit's substantial automotive and manufacturing industries, Grand Rapids' growing professional services, Michigan's distinctive no-fault auto insurance system, and substantial healthcare markets across the state create real opportunity for licensed agents. Michigan's licensing process has several distinctive features compared to other states — including no fingerprinting requirement (unusual nationally), variable passing scores by exam type, and a mandatory prelicensing education requirement that must be completed before attempting the state exam.
+Getting your Michigan insurance producer license opens doors to one of the most unique insurance markets in the country. Detroit's substantial automotive and manufacturing industries, Grand Rapids' growing professional services, Michigan's distinctive no-fault auto insurance system, and substantial healthcare markets across the state create real opportunity for licensed agents. Michigan's licensing process has several distinctive features compared to other states — including no fingerprinting requirement (unusual nationally), variable passing scores by exam type, and a mandatory [prelicensing](/michigan/prelicensing) education requirement that must be completed before attempting the state exam.
 
 Here's exactly how to get your Michigan insurance producer license.
 

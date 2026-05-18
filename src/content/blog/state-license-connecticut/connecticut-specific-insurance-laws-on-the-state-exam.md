@@ -33,9 +33,9 @@ Connecticut insurance law is found primarily in:
 
 Connecticut General Statutes (CGS) Title 38a — broader insurance code
 
-CGS §38a-702 — prelicense education requirements
+CGS §38a-702 — [prelicense](/connecticut/prelicensing) education requirements
 
-CGS §38a-782a — continuing education requirements
+CGS §38a-782a — [continuing education](/connecticut/continuing-education) requirements
 
 Connecticut Agencies Regulations Title 38a — implementing regulations
 

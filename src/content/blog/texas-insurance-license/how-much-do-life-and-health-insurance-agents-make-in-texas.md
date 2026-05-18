@@ -66,6 +66,6 @@ Agents who plan for a lean first year — keep overhead low, stay focused on act
 
 ## Start Your Texas Insurance Career Right
 
-At JustInsurance, our Texas prelicense course gets you ready for the exam and prepared to build a real career. Whether you're going captive, independent, or somewhere in between, we give you the foundation to earn from day one.
+At JustInsurance, our Texas [prelicense](/texas/prelicensing) course gets you ready for the exam and prepared to build a real career. Whether you're going captive, independent, or somewhere in between, we give you the foundation to earn from day one.
 
 Enroll today and start building your Texas insurance income.

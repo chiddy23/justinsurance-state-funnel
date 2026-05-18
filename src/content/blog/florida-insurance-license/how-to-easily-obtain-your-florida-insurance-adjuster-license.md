@@ -16,7 +16,7 @@ imageAlt: 'Digital calculator resting on a wooden table, selective focus.'
 imageCredit: Photo by Dione Neris on Pexels
 ---
 
-You may be surprised by how straightforward it can be to earn your [Florida insurance adjuster license](/florida) once you understand the process. By learning the requirements, completing your pre-licensing steps, and preparing for the state exam, you set yourself up for a rewarding career helping individuals and businesses navigate insurance claims. Below, you will find a clear, friendly roadmap that guides you from the first moment you decide to become an adjuster to the day you land your official license.
+You may be surprised by how straightforward it can be to earn your [Florida insurance adjuster license](/florida) once you understand the process. By learning the requirements, completing your [pre-licensing](/florida/prelicensing) steps, and preparing for the state exam, you set yourself up for a rewarding career helping individuals and businesses navigate insurance claims. Below, you will find a clear, friendly roadmap that guides you from the first moment you decide to become an adjuster to the day you land your official license.
 
 ## Know the role of insurance adjusters
 

@@ -237,6 +237,6 @@ Ongoing no-fault reform implementation: Annual adjustments to PIP work loss maxi
 
 ## Build Your Career on Strong Michigan Compliance Knowledge
 
-MCL 500 is the foundation of Michigan insurance practice — not just exam content. At JustInsurance, our Michigan prelicense and CE courses cover the Insurance Code in practical, producer-focused depth including recent regulatory changes.
+MCL 500 is the foundation of Michigan insurance practice — not just exam content. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) and CE courses cover the Insurance Code in practical, producer-focused depth including recent regulatory changes.
 
 Enroll today and build your Michigan insurance career on solid compliance ground.

@@ -22,7 +22,7 @@ You might feel a bit overwhelmed when you first look into the [Washington insura
 
 ## Understand the main fees
 
-When you pursue an insurance license in Washington, you will generally encounter several main fees. The most common include pre-licensing education, exam costs, application and fingerprinting fees, plus any extras for additional lines of authority. These expenses can add up quickly, but the key is understanding each category so you can create a realistic budget.
+When you pursue an insurance license in Washington, you will generally encounter several main fees. The most common include [pre-licensing](/washington/prelicensing) education, exam costs, application and fingerprinting fees, plus any extras for additional lines of authority. These expenses can add up quickly, but the key is understanding each category so you can create a realistic budget.
 
 Keep in mind that fees can vary between providers and change over time. What you ultimately pay might differ slightly from someone else, especially if you choose specialized courses or need multiple lines like Life & Health or Property & Casualty. However, having a basic roadmap will help you avoid sticker shock.
 

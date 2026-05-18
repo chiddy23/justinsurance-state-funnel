@@ -149,6 +149,6 @@ The cost of getting replacement right is minimal. The cost of getting it wrong c
 
 ## Master Replacement Compliance
 
-Replacement catches more Illinois agents off guard than almost any other compliance area. At JustInsurance, our Illinois prelicense and CE courses cover replacement in practical detail — so you can serve your clients and protect your license simultaneously.
+Replacement catches more Illinois agents off guard than almost any other compliance area. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses cover replacement in practical detail — so you can serve your clients and protect your license simultaneously.
 
 Enroll today and master Illinois replacement rules with confidence.

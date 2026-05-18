@@ -26,7 +26,7 @@ Most Connecticut insurance license candidates complete the entire process in 2-4
 
 The total timeline includes:
 
-Prelicense education completion (1-2 weeks for most)
+[Prelicense](/connecticut/prelicensing) education completion (1-2 weeks for most)
 
 State exam scheduling and completion (1-2 weeks)
 

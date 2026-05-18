@@ -122,4 +122,4 @@ Yes — several exposures are specific or significantly elevated in ski resort c
 
 Colorado's ski resort and mountain town insurance market rewards producers who commit to understanding it deeply — its wildfire risk geography, its high-value residential placement challenges, its seasonal commercial patterns, and the private client programs that serve its wealthiest residents. It is not a market for producers who want straightforward transactions at standard rates. It is a market for producers who solve genuinely difficult placement problems and who build long-term relationships with clients who are loyal precisely because finding coverage for their properties is hard.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course that prepares you to serve Colorado's most distinctive regional insurance markets.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course that prepares you to serve Colorado's most distinctive regional insurance markets.

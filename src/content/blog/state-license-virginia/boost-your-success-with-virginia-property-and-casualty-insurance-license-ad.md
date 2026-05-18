@@ -32,11 +32,11 @@ If you do have a criminal record, be prepared to provide documentation. Often, t
 
 ## Complete [pre-licensing requirements](/virginia/prelicensing)
 
-Once you confirm your eligibility, it's time to enroll in a state-approved pre-licensing course. The number of mandatory course hours varies, but typically you need around 20 hours focusing specifically on property and casualty content. This coursework helps you master important topics, from understanding fundamental policy changes to explaining factors that affect policy premiums.
+Once you confirm your eligibility, it's time to enroll in a state-approved [pre-licensing](/virginia/prelicensing) course. The number of mandatory course hours varies, but typically you need around 20 hours focusing specifically on property and casualty content. This coursework helps you master important topics, from understanding fundamental policy changes to explaining factors that affect policy premiums.
 
 Pre-licensing classes cover Virginia insurance regulations, the basics of underwriting, and the intricacies of property and casualty contracts. While you could fulfill these requirements online or in a traditional classroom setting, it's smart to consider your learning style. If you learn best at your own pace, online programs might be ideal due to their flexibility. If you prefer face-to-face interactions, you might appreciate a live classroom environment where you can ask questions and benefit from group discussions.
 
-Many people find it helpful to use a resource like JustInsurance, which provides structured learning tools and clear explanations of state-specific rules. With an organized curriculum and lots of practice questions, your confidence can grow steadily as you progress.
+Many people find it helpful to use a resource like JustInsurance, which provides structured learning tools and clear explanations of state-specific rules. With an organized curriculum and lots of [practice questions](/virginia/practice-exam), your confidence can grow steadily as you progress.
 
 ## Schedule and pass the exam
 

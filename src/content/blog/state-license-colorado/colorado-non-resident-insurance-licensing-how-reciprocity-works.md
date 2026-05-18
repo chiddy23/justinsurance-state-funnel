@@ -12,7 +12,7 @@ image: /blog/images/your-ultimate-guide-to-colorado-insurance-license-renewal.jp
 imageAlt: "Colorado Non-Resident Insurance Licensing: How Reciprocity Works"
 ---
 
-Colorado offers one of the most streamlined non-resident licensing processes in the country. If you are currently licensed as a resident producer in good standing in your home state, you can obtain a Colorado non-resident license without completing any prelicensing education and without taking the Colorado state exam. The application is submitted electronically, the fee is $47 per line, and the Division processes most applications within 5 business days. For producers based in neighboring states — Utah, Wyoming, New Mexico, Arizona, Kansas, Nebraska — or anywhere in the country, adding a Colorado non-resident license is a low-friction way to expand your market.
+Colorado offers one of the most streamlined non-resident licensing processes in the country. If you are currently licensed as a resident producer in good standing in your home state, you can obtain a Colorado non-resident license without completing any [prelicensing](/colorado/prelicensing) education and without taking the Colorado state exam. The application is submitted electronically, the fee is $47 per line, and the Division processes most applications within 5 business days. For producers based in neighboring states — Utah, Wyoming, New Mexico, Arizona, Kansas, Nebraska — or anywhere in the country, adding a Colorado non-resident license is a low-friction way to expand your market.
 
 ### How Colorado Non-Resident Reciprocity Works
 

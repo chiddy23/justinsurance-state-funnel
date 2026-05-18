@@ -64,7 +64,7 @@ Background check requirements may apply
 
 Specific requirements depend on your home state
 
-Continuing education:
+[Continuing education](/nevada/continuing-education):
 
 Non-resident producers typically follow their home state CE requirements
 

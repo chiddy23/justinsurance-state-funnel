@@ -52,7 +52,7 @@ Minnesota: No more than 12 of the 24 required hours can come from company-sponso
 
 North Dakota: A limit on company-sponsored CE applies — producers can complete no more than a specified percentage of their CE through company-sponsored courses. The specific North Dakota limit aligns with the general industry standard of 50% — 12 hours out of 24. Verify the current North Dakota limit directly with the Insurance Department.
 
-South Dakota: On October 1, 2025, South Dakota removed the limit on the number of continuing education credits an insurance producer can receive during a two-year period from courses sponsored by an insurance company. This is a significant recent change — effective October 2025, South Dakota producers face no limit on company-sponsored CE. A South Dakota producer can now satisfy their entire 10- or 20-hour CE requirement through carrier-sponsored training, if approved courses are available. Minnesota and North Dakota both retain the 50% company-sponsored cap. Kelmeg
+South Dakota: On October 1, 2025, South Dakota removed the limit on the number of [continuing education](/minnesota/continuing-education) credits an insurance producer can receive during a two-year period from courses sponsored by an insurance company. This is a significant recent change — effective October 2025, South Dakota producers face no limit on company-sponsored CE. A South Dakota producer can now satisfy their entire 10- or 20-hour CE requirement through carrier-sponsored training, if approved courses are available. Minnesota and North Dakota both retain the 50% company-sponsored cap. Kelmeg
 
 ### CE Carryover: A Major North Dakota Advantage
 

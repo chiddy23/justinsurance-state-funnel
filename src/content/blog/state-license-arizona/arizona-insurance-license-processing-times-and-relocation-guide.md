@@ -130,7 +130,7 @@ The 90-day window: The fingerprint and application process must be completed wit
 
 Same license type and line requirement: The exam exemption applies only when Arizona offers the exact same license type and line of authority you held. If you had a Life license in your prior state and Arizona offers Life, you're exempt from the Life exam. If your prior state had a license type Arizona doesn't issue, the exam may be required.
 
-Continuing education for relocating producers: Non-residents in good standing in their home state are exempt from Arizona CE. For new Arizona residents, CE requirements apply going forward.
+[Continuing education](/arizona/continuing-education) for relocating producers: Non-residents in good standing in their home state are exempt from Arizona CE. For new Arizona residents, CE requirements apply going forward.
 
 ## The Relocating Producer Provisions — Moving FROM Arizona
 
@@ -164,7 +164,7 @@ CE carryover warning: Arizona does not allow CE carryover. Excess CE hours canno
 
 Use the 4-6 week processing window productively:
 
-Complete carrier contracting paperwork. Many carriers allow pre-licensing training and contracting preparation before formal license issuance.
+Complete carrier contracting paperwork. Many carriers allow [pre-licensing](/arizona/prelicensing) training and contracting preparation before formal license issuance.
 
 Develop your initial contact list. Identify first 50-100 prospective clients before license arrives.
 

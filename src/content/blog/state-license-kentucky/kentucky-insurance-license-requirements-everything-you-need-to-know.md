@@ -24,7 +24,7 @@ To qualify for a Kentucky resident insurance producer license, you must be at le
 
 ## Prelicensing Education Requirements
 
-Kentucky requires 20 hours of KDOI-approved prelicensing education for each major line of authority. The major lines include Life, Accident & Health, Property, Casualty, and Personal Lines. Each line requires its own 20-hour course and separate examination. Kentucky is a forced-progression state, which means students must complete each page and lesson in the prescribed sequence before advancing.
+Kentucky requires 20 hours of KDOI-approved [prelicensing](/kentucky/prelicensing) education for each major line of authority. The major lines include Life, Accident & Health, Property, Casualty, and Personal Lines. Each line requires its own 20-hour course and separate examination. Kentucky is a forced-progression state, which means students must complete each page and lesson in the prescribed sequence before advancing.
 
 Course completion triggers several obligations. The provider reports your completion to the KDOI electronically on a daily basis. You must also receive, sign, and date your Certificate of Completion (Form CPL-01). This certificate must be on file with the KDOI before your application can be fully processed. Certificates are valid for one year from the date of completion.
 
@@ -36,7 +36,7 @@ Every Kentucky resident applicant must obtain a criminal background report throu
 
 ## Examination Requirements
 
-Kentucky administers its own licensing exams directly — the state does not contract with Pearson VUE, PSI, or Prometric for producer licensing exams. Note that as of July 1, 2024, PSI Services LLC took over administration of continuing education and prelicensing course oversight, but the state exam itself is still scheduled and administered through the KDOI's own eServices system. The passing score is 70%. The exam fee is $50. You may retake beginning on the next business day by filing an Exam Retake Form and paying another $50 fee. You are limited to three attempts within 120 days. All exams are in-person only — there is no remote option.
+Kentucky administers its own licensing exams directly — the state does not contract with Pearson VUE, PSI, or Prometric for producer licensing exams. Note that as of July 1, 2024, PSI Services LLC took over administration of [continuing education](/kentucky/continuing-education) and prelicensing course oversight, but the state exam itself is still scheduled and administered through the KDOI's own eServices system. The passing score is 70%. The exam fee is $50. You may retake beginning on the next business day by filing an Exam Retake Form and paying another $50 fee. You are limited to three attempts within 120 days. All exams are in-person only — there is no remote option.
 
 ## Specialty Training Requirements
 

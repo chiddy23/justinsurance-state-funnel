@@ -16,7 +16,7 @@ imageAlt: >-
   massachusetts life & health insurance exam: complete breakdo.
 ---
 
-The Massachusetts Life and Health insurance exam is your gateway to a Massachusetts insurance career. Massachusetts may not require prelicense education, but the state exam itself is widely considered one of the more challenging in the country — with substantial content covering Massachusetts-specific topics like the Health Connector and MassHealth that catch unprepared candidates off guard.
+The Massachusetts Life and Health insurance exam is your gateway to a Massachusetts insurance career. Massachusetts may not require [prelicense](/massachusetts/prelicensing) education, but the state exam itself is widely considered one of the more challenging in the country — with substantial content covering Massachusetts-specific topics like the Health Connector and MassHealth that catch unprepared candidates off guard.
 
 Here's the complete guide to the Massachusetts Life and Health insurance exam.
 
@@ -106,7 +106,7 @@ Massachusetts Annuity Best Interest Standard. Suitability and Best Interest requ
 
 Massachusetts Long-Term Care Requirements. Specific LTC training including 8-hour initial plus 4-hour refresher every renewal period.
 
-Massachusetts Continuing Education. 60 hours initially, 45 hours every 3 years thereafter (with 3 ethics hours).
+Massachusetts [Continuing Education](/massachusetts/continuing-education). 60 hours initially, 45 hours every 3 years thereafter (with 3 ethics hours).
 
 Massachusetts Insurance Fraud Bureau. Specialized fraud investigation entity.
 

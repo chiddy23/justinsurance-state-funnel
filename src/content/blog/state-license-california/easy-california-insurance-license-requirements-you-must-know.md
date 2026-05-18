@@ -21,7 +21,7 @@ imageCredit: Photo by Gustavo Fring on Pexels
 
 Pursuing your insurance license in California can open many doors, whether you plan to specialize in life insurance, property and casualty insurance, or a combination of lines. Before you dive in, it helps to have a clear picture of the [California insurance license requirements](/california/requirements). By following a few structured steps, you’ll get closer to your goal of selling insurance confidently and compliantly.
 
-Most people start the licensing process with a few common questions. You might wonder who’s eligible, how to enroll in pre-licensing courses, or how difficult the exam will be. Rest assured that, with a focused approach, you’ll find each step more straightforward than you might expect.
+Most people start the licensing process with a few common questions. You might wonder who’s eligible, how to enroll in [pre-licensing](/california/prelicensing) courses, or how difficult the exam will be. Rest assured that, with a focused approach, you’ll find each step more straightforward than you might expect.
 
 ## Check your eligibility
 

@@ -16,7 +16,7 @@ imageAlt: >-
   insurance license processing time guide.
 ---
 
-Missouri's licensing timeline from starting preparation to holding an active producer license is typically 2 to 4 weeks. No PLE, no fingerprinting, and 5-10 business day processing make Missouri one of the fastest licensing paths available. The primary variables are exam preparation time (self-directed; first-attempt pass rates of 40-60% make preparation essential) and the 24-48 hour wait after passing before applying. With no temporary license available, understanding Missouri's processing timeline helps candidates plan their career start date accurately.
+Missouri's licensing timeline from starting preparation to holding an active producer license is typically 2 to 4 weeks. No PLE, no fingerprinting, and 5-10 business day processing make Missouri one of the fastest licensing paths available. The primary variables are exam preparation time (self-directed; first-attempt [pass rates](/pass-rates) of 40-60% make preparation essential) and the 24-48 hour wait after passing before applying. With no temporary license available, understanding Missouri's processing timeline helps candidates plan their career start date accurately.
 
 ## Timeline Overview
 

@@ -146,4 +146,4 @@ Advise the client that paying workers as independent contractors does not automa
 
 Minnesota's workers' compensation system balances strong employee protection — guaranteed no-fault benefits, unlimited medical coverage, and meaningful income replacement — with a competitive market structure that gives employers genuine choices about where to purchase coverage. Producers who understand the one-employee threshold, the penalty framework, the Special Compensation Fund's role, and the premium calculation mechanics serve their commercial clients as genuine advisors rather than simply policy placers.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course covering every workers' compensation provision tested on the PSI exam.
+Visit JustInsurance to enroll today and complete your Minnesota [prelicensing](/minnesota/prelicensing) with a state-approved course covering every workers' compensation provision tested on the PSI exam.

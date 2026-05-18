@@ -40,7 +40,7 @@ Give yourself both short-term and long-term goals. A daily target, like reading 
 
 Knowing the content is the core of exam success, but improving your test-taking abilities is equally important. This is the time to simulate exam conditions so you are comfortable when the real test begins.
 
-Try to replicate the test environment by setting a timer and completing a full-length practice exam. Then, review your answers to identify where you excel and where you struggle. Remediate any weak topics by going back to appropriate study materials. Repeat this pattern until you notice that your accuracy and timing are improving.
+Try to replicate the test environment by setting a timer and completing a full-length [practice exam](/tennessee/practice-exam). Then, review your answers to identify where you excel and where you struggle. Remediate any weak topics by going back to appropriate study materials. Repeat this pattern until you notice that your accuracy and timing are improving.
 
 -   Read each question carefully so you fully understand what is being asked.
 -   Eliminate obviously incorrect answers, then compare the remaining choices.
@@ -53,7 +53,7 @@ By making practice tests a routine, you will feel more comfortable with the mult
 
 Confidence plays a huge role in how you perform on any test. When you trust your preparation and know you have done the work, you free up mental energy to tackle the questions more effectively.
 
-To develop a stronger sense of self-assurance, review your previous successes, like finishing your pre-licensing coursework or acing a practice exam section. These small victories can provide solid proof that you are capable of mastering new and complex material. Also, avoid frazzled, last-minute cram sessions. Instead, get adequate rest and create a calm environment that supports a positive headspace.
+To develop a stronger sense of self-assurance, review your previous successes, like finishing your [pre-licensing](/tennessee/prelicensing) coursework or acing a practice exam section. These small victories can provide solid proof that you are capable of mastering new and complex material. Also, avoid frazzled, last-minute cram sessions. Instead, get adequate rest and create a calm environment that supports a positive headspace.
 
 If you find yourself feeling anxious, remind yourself you have followed a structured plan and are thoroughly familiar with the testing process. Sometimes, speaking with a friend or fellow candidate who shares your goal can help you realize you are not alone in your concerns. Even connecting with a reputable resource like JustInsurance can be reassuring. They offer guidance and tools focused on making your insurance licensing journey as seamless as possible.
 

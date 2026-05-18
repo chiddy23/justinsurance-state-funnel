@@ -24,7 +24,7 @@ Single line (Life, A&H, Property, or Casualty):
 
 Recommended study: 2-3 weeks (1-2 hours/day)
 
-Practice exam target: 78%+ consistently before scheduling
+[Practice exam](/maryland/practice-exam) target: 78%+ consistently before scheduling
 
 Combined L&H or P&C:
 

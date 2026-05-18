@@ -36,7 +36,7 @@ Set two calendar alerts: One alert 90 days before your deadline (the earliest yo
 
 #### How to Access Your CE Transcript on Sircon
 
-Navigate to sircon.com and select the Colorado state information. From the Colorado landing page, locate the CE Transcript Inquiry tool — it may also be labeled "Look up education courses/credits" or "Continuing Education Transcript Inquiry" depending on the current interface version.
+Navigate to sircon.com and select the Colorado state information. From the Colorado landing page, locate the CE Transcript Inquiry tool — it may also be labeled "Look up education courses/credits" or "[Continuing Education](/colorado/continuing-education) Transcript Inquiry" depending on the current interface version.
 
 To access your transcript you will need:
 

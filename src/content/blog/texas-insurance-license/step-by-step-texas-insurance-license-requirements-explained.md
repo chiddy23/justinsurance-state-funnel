@@ -21,7 +21,7 @@ imageCredit: Photo by Anna Zanovelli Bacci on Pexels
 
 If you want to build a successful career in insurance, meeting the [Texas insurance license requirements](/texas/requirements) is your first big step. Earning a license allows you to act as a professional insurance agent who can advise clients and sell policies legally. As a resident of Texas, you’ll find that the state’s application process is clear and accessible, though there are a few details you’ll need to handle carefully.
 
-In essence, you must meet certain age and residency conditions, complete a pre-licensing education program, and pass a qualifying exam. Each of these steps ensures that you’re knowledgeable, properly prepared, and ready to help Texans find the coverage they need. Learning these requirements in advance makes the entire process less intimidating and speeds up your journey to becoming a licensed agent.
+In essence, you must meet certain age and residency conditions, complete a [pre-licensing](/texas/prelicensing) education program, and pass a qualifying exam. Each of these steps ensures that you’re knowledgeable, properly prepared, and ready to help Texans find the coverage they need. Learning these requirements in advance makes the entire process less intimidating and speeds up your journey to becoming a licensed agent.
 
 ## Meet the eligibility criteria
 
@@ -43,7 +43,7 @@ It’s normal to feel a bit nervous, but setting aside time for review sessions 
 
 -   Key definitions and insurance concepts from your pre-licensing coursework
 -   Texas-specific regulations, such as disclosure requirements and permissible policy features
--   Practice questions that simulate real exam scenarios
+-   [Practice questions](/texas/practice-exam) that simulate real exam scenarios
 
 On test day, arrive early, double-check you have the necessary ID documents, and give yourself a moment to gather your thoughts. Most exams are computerized, giving you the chance to track your progress as you go. When you pass, you’ll receive proof of your result — a crucial piece of the overall licensing puzzle.
 
@@ -59,7 +59,7 @@ There is also an application fee, so keep that in mind as you budget for the pro
 
 ## Next steps after licensing
 
-Congratulations — once your paperwork is approved, you’ll officially be licensed to sell insurance in the state of Texas. At this point, you might want to consider your continuing education (CE) obligations. Texas requires licensees to complete a certain number of [CE hours](/texas/continuing-education) within each renewal period to stay up to date on laws and industry practices. Mark these renewal dates on your calendar to avoid missing deadlines.
+Congratulations — once your paperwork is approved, you’ll officially be licensed to sell insurance in the state of Texas. At this point, you might want to consider your [continuing education](/texas/continuing-education) (CE) obligations. Texas requires licensees to complete a certain number of [CE hours](/texas/continuing-education) within each renewal period to stay up to date on laws and industry practices. Mark these renewal dates on your calendar to avoid missing deadlines.
 
 You’ll also want to build relationships with insurance carriers or agencies that match your professional goals. Many new licensees explore different lines of insurance and seek mentorship within established agencies to gain practical experience. By continually learning and applying new expertise, you’ll quickly develop a strong reputation and earn client trust.
 

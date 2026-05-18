@@ -20,7 +20,7 @@ imageCredit: Photo by www.kaboompics.com on Pexels
 
 Getting your start in the insurance industry can feel like stepping into uncharted territory. When you are an Indiana resident aiming to become a licensed producer, it is vital to understand [Indiana insurance license requirements](/indiana/requirements) from day one.
 
-Having clear guidance makes all the difference. You will find that the process is more straightforward when you break it down into manageable steps, from completing your pre-licensing coursework to passing the exam and maintaining your credentials over time.
+Having clear guidance makes all the difference. You will find that the process is more straightforward when you break it down into manageable steps, from completing your [pre-licensing](/indiana/prelicensing) coursework to passing the exam and maintaining your credentials over time.
 
 ## Explore [Indiana insurance license](/indiana) basics
 
@@ -87,7 +87,7 @@ Q: Are there insurance companies or agencies that will sponsor my pre-licensing?
 A: Some agencies, including established firms, may fund your pre-licensing education if you agree to work with them after you pass. You will usually sign an agreement outlining any repayment terms if you decide to leave early.
 
 Q: How challenging is the Indiana licensing exam?  
-A: Most test-takers describe the exam as thorough but manageable. The key is taking your pre-licensing coursework seriously and investing enough time in study materials. Practice questions and quizzes boost your confidence on exam day.
+A: Most test-takers describe the exam as thorough but manageable. The key is taking your pre-licensing coursework seriously and investing enough time in study materials. [Practice questions](/indiana/practice-exam) and quizzes boost your confidence on exam day.
 
 Q: Can I transfer an insurance license from another state to Indiana?  
 A: Indiana does offer reciprocal licensing for producers who hold licenses in good standing in other states. You may still need to submit an application, pay fees, and provide documentary proof of your credentials.

@@ -20,7 +20,7 @@ imageCredit: Photo by KATRIN  BOLOVTSOVA on Pexels
 
 Keywords: [michigan pre-licensing courses](/michigan/prelicensing) insurance
 
-When you start exploring Michigan pre-licensing courses insurance, you're taking the first major step toward a rewarding career in the insurance industry. Whether you want to sell life, health, or property and casualty coverage, the path to earning your [Michigan insurance license](/michigan) may feel unfamiliar at first. Fortunately, it can be a straightforward journey when you understand the requirements, stick to a realistic schedule, and equip yourself with the right resources to help you succeed.
+When you start exploring Michigan [pre-licensing](/michigan/prelicensing) courses insurance, you're taking the first major step toward a rewarding career in the insurance industry. Whether you want to sell life, health, or property and casualty coverage, the path to earning your [Michigan insurance license](/michigan) may feel unfamiliar at first. Fortunately, it can be a straightforward journey when you understand the requirements, stick to a realistic schedule, and equip yourself with the right resources to help you succeed.
 
 ## Understand your pre-licensing path
 

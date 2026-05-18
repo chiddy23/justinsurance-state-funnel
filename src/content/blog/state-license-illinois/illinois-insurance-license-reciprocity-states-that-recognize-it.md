@@ -16,7 +16,7 @@ imageAlt: >-
   insurance license reciprocity: states that recognize it.
 ---
 
-Once you hold your Illinois insurance license, you're not limited to selling within Illinois. Most other states recognize Illinois-licensed producers through reciprocity — meaning you can get licensed in other states without retaking prelicense education or the state exam. For agents planning to serve clients across multiple states, understanding reciprocity is essential.
+Once you hold your Illinois insurance license, you're not limited to selling within Illinois. Most other states recognize Illinois-licensed producers through reciprocity — meaning you can get licensed in other states without retaking [prelicense](/illinois/prelicensing) education or the state exam. For agents planning to serve clients across multiple states, understanding reciprocity is essential.
 
 Here's how Illinois insurance license reciprocity works.
 

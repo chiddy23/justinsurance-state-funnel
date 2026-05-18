@@ -12,7 +12,7 @@ image: /blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg
 imageAlt: "Virginia vs. Maryland vs. North Carolina: How the Licensing Process Compares"
 ---
 
-For producers in the Mid-Atlantic and Southeast corridor, Virginia, Maryland, and North Carolina are the three states most likely to be on the same multi-state licensing strategy. They share borders, serve overlapping client markets, and attract producers who want to cover the full DC-to-Charlotte corridor. But the three states have meaningfully different licensing processes — different exam vendors, different prelicensing requirements, different fee structures, and different renewal rules. Understanding the differences matters both for building your initial multi-state strategy and for advising candidates who are choosing where to start.
+For producers in the Mid-Atlantic and Southeast corridor, Virginia, Maryland, and North Carolina are the three states most likely to be on the same multi-state licensing strategy. They share borders, serve overlapping client markets, and attract producers who want to cover the full DC-to-Charlotte corridor. But the three states have meaningfully different licensing processes — different exam vendors, different [prelicensing](/virginia/prelicensing) requirements, different fee structures, and different renewal rules. Understanding the differences matters both for building your initial multi-state strategy and for advising candidates who are choosing where to start.
 
 ### Exam Vendor
 

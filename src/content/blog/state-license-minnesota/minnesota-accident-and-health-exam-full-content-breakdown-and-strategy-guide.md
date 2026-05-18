@@ -244,4 +244,4 @@ COBRA and HIPAA are consistently tested on the Minnesota A&H exam at a level tha
 
 The Minnesota A&H exam covers a genuinely broad curriculum — from individual health policy provisions through Medicare supplement standardized plans to Minnesota's unique MinnesotaCare program. The candidates who pass on their first attempt are those who study the complete content outline at appropriate depth, allocate concentrated study time to Medicare and Minnesota-specific programs, memorize the specific numbers and timeframes that generate precision exam questions, and walk into the PSI testing environment knowing exactly what the exam tests across every section.
 
-Visit JustInsurance to enroll today and complete your Minnesota A&H prelicensing with a state-approved course built to the current PSI content outline, including practice exams designed to prepare you for every topic in this guide.
+Visit JustInsurance to enroll today and complete your Minnesota A&H [prelicensing](/minnesota/prelicensing) with a state-approved course built to the current PSI content outline, including practice exams designed to prepare you for every topic in this guide.

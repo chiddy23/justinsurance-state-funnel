@@ -20,7 +20,7 @@ One of the first questions people ask is: how long is this actually going to tak
 
 ## The 5 Steps and How Long Each Takes
 
-Step 1: Complete Prelicense Education — 1 to 3 weeks
+Step 1: Complete [Prelicense](/texas/prelicensing) Education — 1 to 3 weeks
 
 Texas requires 40 hours of approved prelicense education. If you study consistently — a few hours a day — most people finish in 1 to 2 weeks. If you're fitting it around a full-time job, budget closer to 3 weeks.
 

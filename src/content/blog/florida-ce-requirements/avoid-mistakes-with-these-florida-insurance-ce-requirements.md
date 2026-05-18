@@ -22,7 +22,7 @@ Understanding [Florida insurance CE requirements](/florida/continuing-education)
 
 ## Review [Florida insurance](/florida) CE fundamentals
 
-Florida’s continuing education (CE) rules for insurance professionals can feel overwhelming at first, but they are actually designed to protect consumers and promote best practices. You will typically need to complete a specific number of CE hours every renewal cycle, which may include specialized topics such as ethics or state insurance laws. Fulfilling these hours on time helps you maintain your active license status.
+Florida’s [continuing education](/florida/continuing-education) (CE) rules for insurance professionals can feel overwhelming at first, but they are actually designed to protect consumers and promote best practices. You will typically need to complete a specific number of CE hours every renewal cycle, which may include specialized topics such as ethics or state insurance laws. Fulfilling these hours on time helps you maintain your active license status.
 
 If you are specializing in areas like life, health, or property and casualty insurance, make sure to confirm your CE requirements for each line of authority. State guidelines can change periodically, so it is a good idea to keep an eye on official updates from the [Florida Department of Financial Services](/florida/requirements). Even if you think you already understand the rules, double-checking them each renewal period can save you from unwanted surprises.
 

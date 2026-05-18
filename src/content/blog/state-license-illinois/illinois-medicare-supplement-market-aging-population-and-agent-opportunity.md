@@ -188,6 +188,6 @@ New Medicare agents should invest meaningful time in learning compliance require
 
 ## Build Your Illinois Medicare Practice
 
-Illinois's Medicare market offers real opportunity for agents willing to specialize. At JustInsurance, our Illinois prelicense course prepares you for the exam so you can start serving Illinois seniors quickly.
+Illinois's Medicare market offers real opportunity for agents willing to specialize. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) course prepares you for the exam so you can start serving Illinois seniors quickly.
 
 Enroll today and position yourself for Illinois's Medicare supplement opportunity.

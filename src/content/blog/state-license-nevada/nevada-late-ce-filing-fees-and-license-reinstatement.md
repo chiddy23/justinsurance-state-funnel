@@ -116,7 +116,7 @@ Set milestone reminders:
 
 1 month before renewal: complete and verified
 
-Verify CE reporting regularly. Through Sircon's Continuing Education Transcript Inquiry service.
+Verify CE reporting regularly. Through Sircon's [Continuing Education](/nevada/continuing-education) Transcript Inquiry service.
 
 Keep contact information current. Update your Sircon profile to ensure you receive renewal notifications.
 

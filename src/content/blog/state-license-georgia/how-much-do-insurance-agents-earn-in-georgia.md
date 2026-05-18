@@ -106,6 +106,6 @@ Rural opportunity. Georgia's smaller markets and rural areas often have less com
 
 ## Start Your Georgia Insurance Income Right
 
-Georgia offers real earning potential for agents who commit to the career. At JustInsurance, our Georgia prelicense course prepares you for the exam and for the real work of building income in this market.
+Georgia offers real earning potential for agents who commit to the career. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) course prepares you for the exam and for the real work of building income in this market.
 
 Enroll today and start building your Georgia insurance income.

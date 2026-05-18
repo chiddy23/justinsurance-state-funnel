@@ -21,7 +21,7 @@ imageCredit: Photo by Krzysztof Niedziela on Pexels
 
 If you're looking to keep your Minnesota insurance career on track, renewing your license is an essential part of the process. In Minnesota, you typically need to renew your producer license every two years to stay compliant and able to sell insurance products. Thankfully, the path to renewal is straightforward once you understand the basic requirements.
 
-Start by confirming which lines of authority you hold, such as life and health or property and casualty. Each line may have slightly different continuing education rules, so knowing your license type helps you plan your renewal effectively. From there, you can move on to the next key step: completing your required training hours.
+Start by confirming which lines of authority you hold, such as life and health or property and casualty. Each line may have slightly different [continuing education](/minnesota/continuing-education) rules, so knowing your license type helps you plan your renewal effectively. From there, you can move on to the next key step: completing your required training hours.
 
 ## Complete your continuing education
 

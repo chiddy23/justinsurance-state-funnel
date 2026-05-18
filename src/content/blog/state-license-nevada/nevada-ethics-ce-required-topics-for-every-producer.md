@@ -16,7 +16,7 @@ imageAlt: >-
   required topics for every producer.
 ---
 
-Every licensed insurance producer in Nevada has to complete ethics continuing education — it's mandatory, can't be substituted, and is part of every 3-year renewal cycle. The Nevada Division of Insurance treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
+Every licensed insurance producer in Nevada has to complete ethics [continuing education](/nevada/continuing-education) — it's mandatory, can't be substituted, and is part of every 3-year renewal cycle. The Nevada Division of Insurance treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
 
 Here's what every Nevada agent should know about the ethics CE requirement.
 

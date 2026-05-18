@@ -16,7 +16,7 @@ imageAlt: >-
   for the pennsylvania insurance license exam.
 ---
 
-A clear study plan is the difference between passing the Pennsylvania insurance exam on your first attempt and joining the ranks of repeat test-takers. Pennsylvania's recent elimination of prelicense education requirements (effective April 29, 2025) gives you flexibility in how you prepare — but doesn't reduce the actual content you need to master. Building a structured study plan adapted to your specific situation maximizes first-attempt pass confidence.
+A clear study plan is the difference between passing the Pennsylvania insurance exam on your first attempt and joining the ranks of repeat test-takers. Pennsylvania's recent elimination of [prelicense](/pennsylvania/prelicensing) education requirements (effective April 29, 2025) gives you flexibility in how you prepare — but doesn't reduce the actual content you need to master. Building a structured study plan adapted to your specific situation maximizes first-attempt pass confidence.
 
 Here's a comprehensive study plan for the Pennsylvania insurance license exam.
 
@@ -74,7 +74,7 @@ Build foundational knowledge through structured study. Even though PLE isn't req
 
 Phase 2: Active Practice (Weeks 3-5)
 
-Work through practice questions across all content areas.
+Work through [practice questions](/pennsylvania/practice-exam) across all content areas.
 
 Phase 3: Full-Length Practice Exams (Weeks 5-6)
 
@@ -491,7 +491,7 @@ Reschedule your exam if needed. Better to delay than to fail.
 - How long should I study for the Pennsylvania insurance exam? 3-5 weeks for Life or Health single-line exams, 5-7 weeks for Life and Health combined or Personal Lines, 7-10 weeks for combined Property & Casualty.
 - How many practice questions should I work through? Minimum 500 practice questions. Strong preparation involves 1,000+ practice questions across all content areas.
 - How many full-length practice exams should I take? At least 2-3 full-length practice exams under timed conditions before scheduling real exam.
-- Should I take a prelicense course even though it's not required? Yes — most successful candidates do, and pass rates are substantially higher with structured preparation. While Pennsylvania eliminated PLE requirements (Act 142 of 2024), structured study still maximizes first-attempt pass rates.
+- Should I take a prelicense course even though it's not required? Yes — most successful candidates do, and [pass rates](/pass-rates) are substantially higher with structured preparation. While Pennsylvania eliminated PLE requirements (Act 142 of 2024), structured study still maximizes first-attempt pass rates.
 - When should I take Pennsylvania-specific content? Throughout your study period, not just the final week. Approximately 20-25% of your study time should focus on Pennsylvania content.
 
 ## Build a Pennsylvania Study Plan That Works

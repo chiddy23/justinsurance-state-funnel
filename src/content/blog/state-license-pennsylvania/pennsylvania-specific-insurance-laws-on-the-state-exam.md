@@ -40,7 +40,7 @@ Key sections include:
 
 40 P.S. §233 et seq. — producer licensing provisions
 
-40 Pa. Stat. §310.8 — continuing education requirements
+40 Pa. Stat. §310.8 — [continuing education](/pennsylvania/continuing-education) requirements
 
 Various other sections affecting specific topics
 
@@ -50,7 +50,7 @@ The Code is administered by the Pennsylvania Insurance Department, led by the In
 
 A central recent change for the exam:
 
-Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the prelicense education (PLE) requirement for Pennsylvania insurance producer licensure. This is a major recent change that may appear on exam questions. Key facts:
+Pennsylvania Act 142 of 2024, effective April 29, 2025, eliminated the [prelicense](/pennsylvania/prelicensing) education (PLE) requirement for Pennsylvania insurance producer licensure. This is a major recent change that may appear on exam questions. Key facts:
 
 PLE no longer required for new producer applicants
 

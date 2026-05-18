@@ -20,7 +20,7 @@ imageCredit: Photo by Tima Miroshnichenko on Pexels
 
 ## Start with the basics
 
-If you are aiming to earn your insurance license in Maryland, finding the right [Maryland insurance license](/maryland) classes is a big first step. These classes ensure you meet the state’s training requirements and help you feel prepared for the licensing exam. In Maryland, pre-licensing courses are generally required for each type of insurance license, which can include life & health or property & casualty. The pre-licensing hours vary by license type, so choosing classes that align with your goals will save you time and effort.
+If you are aiming to earn your insurance license in Maryland, finding the right [Maryland insurance license](/maryland) classes is a big first step. These classes ensure you meet the state’s training requirements and help you feel prepared for the licensing exam. In Maryland, [pre-licensing](/maryland/prelicensing) courses are generally required for each type of insurance license, which can include life & health or property & casualty. The pre-licensing hours vary by license type, so choosing classes that align with your goals will save you time and effort.
 
 One key benefit of quality Maryland insurance license classes is the confidence they provide when exam day arrives. You will cover key topics, learn exam strategies, and practice what you need to know before you walk into the test. Pre-licensing can feel like a lot of work at first, but think of it as an investment in your future career. By building a strong knowledge base now, you set yourself up for success in the insurance industry for years to come.
 
@@ -78,7 +78,7 @@ Below are some common questions many new candidates have about Maryland insuranc
 2.  What if I want to sell both life & health and property & casualty?  
     You can start by focusing on the license of your choice and then add additional lines later. Some providers offer bundled courses for both L&H and P&C, so you can cover all your pre-licensing requirements in one program. This option can save you money and ensure you have uniform content quality across all lines.
 3.  How do I schedule the exam?  
-    After completing your pre-licensing hours, you should receive a certificate of completion from your course provider. You will then register for your exam through the official testing agency approved by the [Maryland Insurance Administration](/maryland/requirements). Plan your exam date with enough buffer time to review all class materials and practice test questions.
+    After completing your pre-licensing hours, you should receive a certificate of completion from your course provider. You will then register for your exam through the official testing agency approved by the [Maryland Insurance Administration](/maryland/requirements). Plan your exam date with enough buffer time to review all class materials and [practice test](/maryland/practice-exam) questions.
 4.  Can I retake the exam if I fail?  
     Yes. If you do not pass on your first try, you can schedule a retake. Use your score report to pinpoint any topics that need more attention. Many providers, including JustInsurance, provide additional study resources and support if you have to retake the exam.
 5.  When do I renew my license?  

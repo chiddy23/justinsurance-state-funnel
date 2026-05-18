@@ -17,13 +17,13 @@ imageAlt: A couple consults a real estate agent in a modern office setting.
 imageCredit: Photo by Alena Darmel on Pexels
 ---
 
-You might think “[Ohio insurance license](/ohio) renewal” only becomes important after you’ve passed your exam and started working. However, understanding the renewal process early helps you avoid costly mistakes later on. By getting clear on timelines, continuing education requirements, and fees, you’ll set yourself up for a long, hassle-free career.
+You might think “[Ohio insurance license](/ohio) renewal” only becomes important after you’ve passed your exam and started working. However, understanding the renewal process early helps you avoid costly mistakes later on. By getting clear on timelines, [continuing education](/ohio/continuing-education) requirements, and fees, you’ll set yourself up for a long, hassle-free career.
 
 Still in the process of earning your Ohio insurance license for the first time? Don’t worry. This guide walks you through both the initial licensing steps and the common pitfalls of renewal, so you’ll be prepared from day one.
 
 ## Understand your licensing basics
 
-Before diving into pre-licensing courses or scheduling exams, you should know a few foundational requirements. In Ohio, you generally need to be at least 18 years old, submit an application through the official portal, and pass the required exams for the specific lines of authority you plan to sell. These lines of authority might include Life, Health, Property, or Casualty insurance.
+Before diving into [pre-licensing](/ohio/prelicensing) courses or scheduling exams, you should know a few foundational requirements. In Ohio, you generally need to be at least 18 years old, submit an application through the official portal, and pass the required exams for the specific lines of authority you plan to sell. These lines of authority might include Life, Health, Property, or Casualty insurance.
 
 While you can earn multiple lines of authority, be sure to dedicate enough study time for each. Some people mistakenly think a single license covers everything, but different types of insurance require their own qualifications. Staying organized early will spare you from redoing paperwork or sitting for an extra test at the last minute.
 

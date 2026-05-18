@@ -17,7 +17,7 @@ imageAlt: >-
   get your south carolina insurance license: full guide.
 ---
 
-Getting your South Carolina insurance license opens doors to one of the most distinctive insurance markets in the Southeast. Charleston's coastal markets, Greenville's manufacturing economy, the substantial retiree migration to Hilton Head and the coast, and the state's favorable tax environment for both producers and clients create real opportunity for licensed agents. South Carolina's licensing process is straightforward — and notably, the state does NOT require pre-licensing education, making it one of the more accessible licensing paths in the country.
+Getting your South Carolina insurance license opens doors to one of the most distinctive insurance markets in the Southeast. Charleston's coastal markets, Greenville's manufacturing economy, the substantial retiree migration to Hilton Head and the coast, and the state's favorable tax environment for both producers and clients create real opportunity for licensed agents. South Carolina's licensing process is straightforward — and notably, the state does NOT require [pre-licensing](/south-carolina/prelicensing) education, making it one of the more accessible licensing paths in the country.
 
 Here's exactly how to get your South Carolina insurance license.
 
@@ -47,7 +47,7 @@ The South Carolina state exam covers substantial content
 
 The exam covers both general insurance topics and South Carolina-specific laws
 
-Most candidates significantly improve their pass rate by completing structured study
+Most candidates significantly improve their [pass rate](/pass-rates) by completing structured study
 
 Quality prelicense courses include practice exams that mirror the actual state exam
 

@@ -22,7 +22,7 @@ Here are the most important areas of the Alabama Insurance Code every producer n
 
 ## What the Alabama Insurance Code Is
 
-The Alabama Insurance Code is the statutory framework that regulates insurance in Alabama. It's found in Title 27 of the Code of Alabama, 1975, with producer-specific provisions primarily in Chapter 27-7 (Insurance Producers) and continuing education provisions under Chapter 27-8A.
+The Alabama Insurance Code is the statutory framework that regulates insurance in Alabama. It's found in Title 27 of the Code of Alabama, 1975, with producer-specific provisions primarily in Chapter 27-7 (Insurance Producers) and [continuing education](/alabama/continuing-education) provisions under Chapter 27-8A.
 
 The Code is administered by the Alabama Department of Insurance (ALDOI), led by the Commissioner of Insurance.
 
@@ -88,7 +88,7 @@ Website: aldoi.gov
 
 Alabama's insurance regulatory environment has seen meaningful recent changes, including:
 
-Alabama Act No. 2023-104. Effective January 1, 2024, this act removed Alabama's prelicensing education requirement for insurance producers. The ALDOI amended Insurance Regulation No. 147 to implement this change.
+Alabama Act No. 2023-104. Effective January 1, 2024, this act removed Alabama's [prelicensing](/alabama/prelicensing) education requirement for insurance producers. The ALDOI amended Insurance Regulation No. 147 to implement this change.
 
 Surplus Line Broker Bond Requirement. Effective January 1, 2025, Alabama requires nonresident surplus line brokers to maintain a $50,000 bond on file (Form AL-SLB-13). Resident surplus line brokers were already subject to this requirement.
 

@@ -185,6 +185,6 @@ Caveat: execution matters. Independent requires real self-direction. Agents who 
 
 ## Pick the Georgia Path That Fits Your Goals
 
-There's no universally right answer — only the right answer for your specific goals, risk tolerance, and vision. At JustInsurance, our Georgia prelicense course prepares you for the exam and helps you understand Georgia's insurance landscape so you can make the right call for your career.
+There's no universally right answer — only the right answer for your specific goals, risk tolerance, and vision. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) course prepares you for the exam and helps you understand Georgia's insurance landscape so you can make the right call for your career.
 
 Enroll today and build the foundation for whichever path you choose.

@@ -17,7 +17,7 @@ imageAlt: >-
   your louisiana insurance license in 2025: a step-.
 ---
 
-If you're ready to start your insurance career in Louisiana — whether you're drawn to New Orleans' tourism and healthcare economy, Baton Rouge's energy corridor, or the broader Gulf South market — getting your Louisiana insurance license is your first step. The Louisiana Department of Insurance (LDI) oversees all producer licensing in the state, and the process has a distinctive feature that sets Louisiana apart from most states: there is no required prelicensing education. That means you can move from zero to exam-ready on your own timeline. This guide walks you through every step so you know exactly what to expect.
+If you're ready to start your insurance career in Louisiana — whether you're drawn to New Orleans' tourism and healthcare economy, Baton Rouge's energy corridor, or the broader Gulf South market — getting your Louisiana insurance license is your first step. The Louisiana Department of Insurance (LDI) oversees all producer licensing in the state, and the process has a distinctive feature that sets Louisiana apart from most states: there is no required [prelicensing](/louisiana/prelicensing) education. That means you can move from zero to exam-ready on your own timeline. This guide walks you through every step so you know exactly what to expect.
 
 ## Who Regulates Insurance Licensing in Louisiana?
 

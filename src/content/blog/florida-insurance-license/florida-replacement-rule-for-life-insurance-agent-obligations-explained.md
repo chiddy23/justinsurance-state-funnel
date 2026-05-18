@@ -98,6 +98,6 @@ The test is always whether the replacement serves the client's interests — not
 
 ## Get Replacement Compliance Right Every Time
 
-Replacement rules catch more agents off guard than almost any other compliance area. At JustInsurance, our Florida prelicense and CE courses cover replacement in practical detail — so you can protect your clients and your license simultaneously.
+Replacement rules catch more agents off guard than almost any other compliance area. At JustInsurance, our Florida [prelicense](/florida/prelicensing) and CE courses cover replacement in practical detail — so you can protect your clients and your license simultaneously.
 
 Enroll today and master Florida replacement rules with confidence.

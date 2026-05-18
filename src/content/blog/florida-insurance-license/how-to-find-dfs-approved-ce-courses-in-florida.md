@@ -16,7 +16,7 @@ imageAlt: >-
   modern office.
 ---
 
-Completing 24 hours of continuing education doesn't matter if those hours aren't from a DFS-approved provider. In Florida, only courses approved by the Department of Financial Services count toward your CE requirement — and knowing how to verify approval protects you from wasting time and money on courses that won't credit toward renewal.
+Completing 24 hours of [continuing education](/florida/continuing-education) doesn't matter if those hours aren't from a DFS-approved provider. In Florida, only courses approved by the Department of Financial Services count toward your CE requirement — and knowing how to verify approval protects you from wasting time and money on courses that won't credit toward renewal.
 
 Here's exactly how to find DFS-approved CE courses in Florida.
 

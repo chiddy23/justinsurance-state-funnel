@@ -16,7 +16,7 @@ imageAlt: >-
   exemptions: who qualifies and how to apply.
 ---
 
-Most Alabama insurance producers are required to complete 24 hours of CE every 2 years. But not everyone. Alabama's continuing education framework includes exemptions and reduced requirements for specific categories of licensees. Understanding who qualifies — and how to apply — can save qualifying producers significant time and money.
+Most Alabama insurance producers are required to complete 24 hours of CE every 2 years. But not everyone. Alabama's [continuing education](/alabama/continuing-education) framework includes exemptions and reduced requirements for specific categories of licensees. Understanding who qualifies — and how to apply — can save qualifying producers significant time and money.
 
 Here's a comprehensive look at Alabama CE exemptions and reduced requirements.
 
@@ -140,7 +140,7 @@ Hardship exemptions aren't automatic — they're considered on a case-by-case ba
 
 Producers licensed for Variable Life and Variable Annuity Products have specific considerations:
 
-They're exempt from Alabama's prelicense course and exam requirements
+They're exempt from Alabama's [prelicense](/alabama/prelicensing) course and exam requirements
 
 However, they still must meet CE requirements applicable to their licensed lines of authority
 

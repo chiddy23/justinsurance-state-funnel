@@ -188,7 +188,7 @@ Life Insurance (G.S. 58-58)
 
 Life and Health Insurance Guaranty Association
 
-Continuing Education requirements
+[Continuing Education](/north-carolina/continuing-education) requirements
 
 ## Accident & Health Insurance Exam Content
 
@@ -362,6 +362,6 @@ Spacing exams: Most candidates benefit from at least 1-2 weeks between different
 
 ## Walk Into the North Carolina Exam Prepared
 
-Knowing what to expect removes half the stress. At JustInsurance, our North Carolina prelicense course is built around the Pearson VUE content outline — including the North Carolina-specific statutes and regulations that appear on every exam.
+Knowing what to expect removes half the stress. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) course is built around the Pearson VUE content outline — including the North Carolina-specific statutes and regulations that appear on every exam.
 
 Enroll today and prepare for the North Carolina exam the right way.

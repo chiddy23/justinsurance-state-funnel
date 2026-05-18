@@ -16,7 +16,7 @@ imageAlt: >-
   plan for the north carolina insurance license exam.
 ---
 
-North Carolina's exam structure requires a study plan different from most states. With separate exams for each line of authority (no combined L&H or P&C options), a shorter 55-question format, and the application-first sequence that requires NIPR submission before scheduling, your approach to preparation matters significantly. Whether you're pursuing one line or all four, a structured plan calibrated to NC's distinctive format maximizes first-attempt pass rates and controls the exam fee costs that multiply with failed attempts.
+North Carolina's exam structure requires a study plan different from most states. With separate exams for each line of authority (no combined L&H or P&C options), a shorter 55-question format, and the application-first sequence that requires NIPR submission before scheduling, your approach to preparation matters significantly. Whether you're pursuing one line or all four, a structured plan calibrated to NC's distinctive format maximizes first-attempt [pass rates](/pass-rates) and controls the exam fee costs that multiply with failed attempts.
 
 Here's a comprehensive study plan for the North Carolina insurance license exam.
 
@@ -58,7 +58,7 @@ Single vs. multiple lines
 
 Sequential vs. simultaneous multi-line study
 
-Whether you choose formal prelicense course (recommended) or self-study
+Whether you choose formal [prelicense](/north-carolina/prelicensing) course (recommended) or self-study
 
 ## Study Phases for Single-Line Exam
 
@@ -66,7 +66,7 @@ Effective NC single-line study breaks into four phases:
 
 Phase 1: Foundation (Weeks 1-2) Build foundational knowledge through structured study. Cover all major content areas in the line.
 
-Phase 2: Active Practice (Week 2-3) Work through practice questions systematically by topic.
+Phase 2: Active Practice (Week 2-3) Work through [practice questions](/north-carolina/practice-exam) systematically by topic.
 
 Phase 3: Full-Length Practice Exams (Week 3-4) Take multiple 55-question practice exams under timed conditions.
 

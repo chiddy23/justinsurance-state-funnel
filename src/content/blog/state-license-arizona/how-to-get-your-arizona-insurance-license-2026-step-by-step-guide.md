@@ -91,7 +91,7 @@ Set up your CRM and document storage plan **while** you study for PSI — not af
 
 Other states emphasize different parts of the licensing pipeline:
 
-- **Georgia** (per [OCI Rule 120-2-3-.08](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)) reduced prelicensing to **8.0 hours per major line** in a recent rule change, but maintains 24 hours of CE every 2 years.
+- **Georgia** (per [OCI Rule 120-2-3-.08](https://oci.georgia.gov/agents-agency-licensing/education-providers-courses-and-instructors)) reduced [prelicensing](/arizona/prelicensing) to **8.0 hours per major line** in a recent rule change, but maintains 24 hours of CE every 2 years.
 - **Pennsylvania** charges a **$55** resident application fee, routes exams through PSI with a separate IdentoGO fingerprinting code, and runs CE on a 2-year cycle of 24 hours per the [PA initial licensing page](https://www.pa.gov/agencies/insurance/licensing/licensees/initial-insurance-producer-licensing-process.html).
 - **Arizona** emphasizes records and principal place on the front end, then 48/6 CE plus 8/4 LTC training over a longer 4-year cycle.
 

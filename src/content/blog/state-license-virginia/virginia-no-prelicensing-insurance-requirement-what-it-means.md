@@ -12,7 +12,7 @@ image: /blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg
 imageAlt: Virginia No Prelicensing Insurance Requirement  What It Means
 ---
 
-Virginia is one of the only states in the country that does not require candidates to complete any prelicensing education before sitting for an insurance licensing exam. In every other major insurance licensing state — New York requires 40 to 90 hours, New Jersey requires 20 hours per line, Florida requires 40 to 60 hours — a candidate cannot even schedule the state exam without a certificate of completion from a state-approved prelicensing provider. Virginia eliminated this hurdle entirely for all lines except Title insurance. You can schedule your Prometric exam tomorrow, study entirely on your own, and sit for a 140-question test that determines whether you get your license. For candidates who understand what this means, it is a genuine advantage. For candidates who misread it as permission to show up unprepared, it is a trap.
+Virginia is one of the only states in the country that does not require candidates to complete any [prelicensing](/virginia/prelicensing) education before sitting for an insurance licensing exam. In every other major insurance licensing state — New York requires 40 to 90 hours, New Jersey requires 20 hours per line, Florida requires 40 to 60 hours — a candidate cannot even schedule the state exam without a certificate of completion from a state-approved prelicensing provider. Virginia eliminated this hurdle entirely for all lines except Title insurance. You can schedule your Prometric exam tomorrow, study entirely on your own, and sit for a 140-question test that determines whether you get your license. For candidates who understand what this means, it is a genuine advantage. For candidates who misread it as permission to show up unprepared, it is a trap.
 
 ### What the Rule Actually Says
 
@@ -46,7 +46,7 @@ The Virginia Life, Annuities & Health exam (Series 11-01) has 140 scored questio
 
 The Virginia Property & Casualty exam (Series 11-03) has 135 scored questions covering dwelling policies, homeowners forms, auto insurance (including Virginia's 2025 minimum changes and UIM stacking rules), commercial packages, businessowners policies, workers' compensation, and Virginia-specific P&C law. The Virginia state law section — which covers the Bureau of Insurance's regulatory authority, unfair trade practices, licensing requirements, and Virginia-specific coverage rules — requires specific statutory knowledge that general business sense does not provide.
 
-Pass rates reflect this reality. While Virginia does not publish line-level pass rates publicly in the same granular detail as some states, national data consistently shows that candidates who complete structured preparation outperform those who do not across every state and every line. The exam is not designed to be passed by the unprepared.
+[Pass rates](/pass-rates) reflect this reality. While Virginia does not publish line-level pass rates publicly in the same granular detail as some states, national data consistently shows that candidates who complete structured preparation outperform those who do not across every state and every line. The exam is not designed to be passed by the unprepared.
 
 ### How to Self-Study Effectively in Virginia
 

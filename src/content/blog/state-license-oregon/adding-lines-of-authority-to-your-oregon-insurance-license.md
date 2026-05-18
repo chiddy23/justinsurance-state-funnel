@@ -83,7 +83,7 @@ What's your current capacity? Each line requires study time and exam preparation
 
 ## Step 2: Complete the Required Prelicense Education
 
-Each new line of authority requires its own prelicense education:
+Each new line of authority requires its own [prelicense](/oregon/prelicensing) education:
 
 Life: 20 hours
 
@@ -169,7 +169,7 @@ Build expertise before expanding. Focus on becoming genuinely good at one line b
 
 Consider your market. A rural Oregon agent serving farms might benefit from Property and Casualty plus Crop Insurance. A Portland agent serving young professionals might focus on Life and Health.
 
-Plan continuing education. More lines mean more CE consideration. Oregon's standard CE requirement applies, but specialty training requirements (LTC, Annuity Best Interest) may affect your CE planning.
+Plan [continuing education](/oregon/continuing-education). More lines mean more CE consideration. Oregon's standard CE requirement applies, but specialty training requirements (LTC, Annuity Best Interest) may affect your CE planning.
 
 Carrier appointments. Each line requires appointments with carriers writing that line. Building those appointments takes time beyond just adding lines to your license.
 

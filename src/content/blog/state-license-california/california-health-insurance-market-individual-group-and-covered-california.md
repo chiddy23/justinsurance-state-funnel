@@ -141,6 +141,6 @@ Regulatory emphasis on suitability. California's suitability framework (particul
 
 ## Build Your California Health Insurance Practice
 
-California's health insurance market offers real opportunity across multiple segments. At JustInsurance, our California prelicense course prepares you for the Life, Accident & Health exam — the foundation for building a health-focused practice.
+California's health insurance market offers real opportunity across multiple segments. At JustInsurance, our California [prelicense](/california/prelicensing) course prepares you for the Life, Accident & Health exam — the foundation for building a health-focused practice.
 
 Enroll today and start your California health insurance career.

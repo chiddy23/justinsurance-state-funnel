@@ -22,7 +22,7 @@ Keywords: [michigan insurance license exam](/michigan/requirements) schedule
 
 If you’re looking to secure your spot on the [Michigan insurance license](/michigan) exam schedule, it helps to know exactly how the process works. The Michigan Department of Insurance and Financial Services oversees all licensing requirements to protect consumers and maintain industry standards. This means you’ll follow certain steps, from verifying your eligibility to taking the official exam.
 
-It’s natural to feel a little overwhelmed when you’re first starting out. After all, you’re not just taking a test—you’re embarking on a new career path. Understanding the timeline up front can help you plan accordingly and avoid any surprises. Once you know you meet the requirements, it’s only a matter of completing your pre-licensing education and scheduling your exam date.
+It’s natural to feel a little overwhelmed when you’re first starting out. After all, you’re not just taking a test—you’re embarking on a new career path. Understanding the timeline up front can help you plan accordingly and avoid any surprises. Once you know you meet the requirements, it’s only a matter of completing your [pre-licensing](/michigan/prelicensing) education and scheduling your exam date.
 
 ## Meet the [pre-licensing requirements](/michigan/prelicensing)
 

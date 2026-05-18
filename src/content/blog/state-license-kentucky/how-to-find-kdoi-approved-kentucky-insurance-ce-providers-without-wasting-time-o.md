@@ -22,7 +22,7 @@ If you're a licensed Kentucky insurance producer who has ever completed a CE cou
 
 The KDOI approves both CE providers as organizations and individual CE courses. Provider approval is not a blanket authorization — a provider that is generally approved by the KDOI must still have each specific course individually reviewed and approved before it can be offered for Kentucky CE credit. Approval criteria cover course content relevance to insurance practice, minimum instructional standards, delivery method compliance, and integration with the state's electronic reporting system.
 
-Effective July 1, 2024, the KDOI transferred its CE and prelicensing course and instructor review functions from Prometric to PSI Services LLC. This change was announced by the KDOI in advance, and existing approved courses retained their approval status through the transition. If you were using a provider before July 2024 and their courses were valid then, those approvals should have carried through — but confirming directly with your provider is always worth doing.
+Effective July 1, 2024, the KDOI transferred its CE and [prelicensing](/kentucky/prelicensing) course and instructor review functions from Prometric to PSI Services LLC. This change was announced by the KDOI in advance, and existing approved courses retained their approval status through the transition. If you were using a provider before July 2024 and their courses were valid then, those approvals should have carried through — but confirming directly with your provider is always worth doing.
 
 ## How to Verify a Provider and Course Are Approved
 

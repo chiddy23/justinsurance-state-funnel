@@ -50,7 +50,7 @@ With 8 of the 25 state law questions, licensing is the single largest subsection
 
 What you must know:
 
-Prelicensing education: 20 hours per line of authority, with 3 of those hours in ethics. Certificates of completion never expire in New Jersey.
+[Prelicensing](/new-jersey/prelicensing) education: 20 hours per line of authority, with 3 of those hours in ethics. Certificates of completion never expire in New Jersey.
 
 Exam and application: Score valid for 1 year. License fee: $150 for a two-year term. Applications submitted through NIPR.
 

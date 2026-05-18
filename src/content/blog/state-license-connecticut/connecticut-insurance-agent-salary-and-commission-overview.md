@@ -162,6 +162,6 @@ For producers, transitioning to or from these roles can offer career flexibility
 
 ## Start Your Connecticut Insurance Income Right
 
-Connecticut offers strong earning potential plus the prestige of working in the historic center of the U.S. insurance industry. At JustInsurance, our Connecticut prelicense and CE courses prepare you for the licensing exam and for the real work of building income in this market.
+Connecticut offers strong earning potential plus the prestige of working in the historic center of the U.S. insurance industry. At JustInsurance, our Connecticut [prelicense](/connecticut/prelicensing) and CE courses prepare you for the licensing exam and for the real work of building income in this market.
 
 Enroll today and start building your Connecticut insurance income.

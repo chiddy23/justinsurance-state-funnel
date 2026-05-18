@@ -276,6 +276,6 @@ These costs need to be supported by practice income.
 
 ## Build Your Fairfield County Insurance Career
 
-Fairfield County offers exceptional opportunity for agents willing to develop sophisticated expertise and authentic community relationships. At JustInsurance, our Connecticut prelicense and CE courses provide the foundational professional excellence that any successful Connecticut practice requires.
+Fairfield County offers exceptional opportunity for agents willing to develop sophisticated expertise and authentic community relationships. At JustInsurance, our Connecticut [prelicense](/connecticut/prelicensing) and CE courses provide the foundational professional excellence that any successful Connecticut practice requires.
 
 Enroll today and start your Fairfield County insurance career.

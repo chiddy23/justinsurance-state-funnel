@@ -74,4 +74,4 @@ If you have concerns about your background before you invest time in the process
 
 Fingerprinting is simple when you know what to do. At JustInsurance, we walk our students through the full Texas licensing process — not just the exam content — so you're never caught off guard by a step you didn't know was coming.
 
-Enroll in our Texas prelicense course and get fully prepared from day one.
+Enroll in our Texas [prelicense](/texas/prelicensing) course and get fully prepared from day one.

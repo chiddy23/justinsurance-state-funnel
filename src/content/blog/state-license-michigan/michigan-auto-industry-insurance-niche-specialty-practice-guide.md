@@ -306,6 +306,6 @@ Combined automotive specialty: Producers who serve multiple automotive sub-marke
 
 ## Build Your Michigan Automotive Insurance Specialty
 
-Michigan's automotive industry represents one of the most unique and sustainable insurance specialty opportunities in the country. At JustInsurance, our Michigan prelicense and CE courses provide the foundational expertise supporting specialty practice development across the automotive industry market.
+Michigan's automotive industry represents one of the most unique and sustainable insurance specialty opportunities in the country. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) and CE courses provide the foundational expertise supporting specialty practice development across the automotive industry market.
 
 Enroll today and start building toward Michigan automotive industry insurance specialty.

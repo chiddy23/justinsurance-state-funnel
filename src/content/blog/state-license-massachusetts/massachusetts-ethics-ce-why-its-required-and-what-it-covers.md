@@ -17,7 +17,7 @@ imageAlt: >-
   massachusetts ethics ce: why it's required and what it cover.
 ---
 
-Every licensed Massachusetts insurance producer must complete ethics continuing education — it's mandatory, can't be substituted, and is part of every 3-year renewal cycle. Beyond satisfying a regulatory requirement, ethics CE protects your career and reinforces the standards that separate legitimate insurance professionals from those who run into trouble with the Massachusetts Division of Insurance.
+Every licensed Massachusetts insurance producer must complete ethics [continuing education](/massachusetts/continuing-education) — it's mandatory, can't be substituted, and is part of every 3-year renewal cycle. Beyond satisfying a regulatory requirement, ethics CE protects your career and reinforces the standards that separate legitimate insurance professionals from those who run into trouble with the Massachusetts Division of Insurance.
 
 Here's what every Massachusetts agent should know about the ethics CE requirement.
 

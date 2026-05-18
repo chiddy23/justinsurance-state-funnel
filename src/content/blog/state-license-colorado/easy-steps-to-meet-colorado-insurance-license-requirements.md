@@ -21,7 +21,7 @@ To land your dream role in the insurance industry, you first need to meet the [C
 
 ## Understand the basic [colorado insurance license](/colorado) requirements
 
-Before you commit to hours of study, get clear on what Colorado law expects from you as a future insurance professional. The state requires you to complete pre-licensing coursework in your chosen line of authority, pass a licensing exam, submit fingerprints for a background check, and finally apply for your license through the National Insurance Producer Registry (NIPR).
+Before you commit to hours of study, get clear on what Colorado law expects from you as a future insurance professional. The state requires you to complete [pre-licensing](/colorado/prelicensing) coursework in your chosen line of authority, pass a licensing exam, submit fingerprints for a background check, and finally apply for your license through the National Insurance Producer Registry (NIPR).
 
 Many applicants find the steps more straightforward than they initially feared. As long as you follow the guidelines and stay organized, you will be prepared to handle your licensing journey with confidence.
 

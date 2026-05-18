@@ -122,7 +122,7 @@ Social Security — retirement, disability, survivor, and Medicare benefits. Age
 
 ### PART 2: COLORADO STATE SECTION (30 Scored Questions)
 
-The state section is 30 of 80 scored questions — 37.5% of your entire score — but draws from only 10 of your 50 prelicensing hours. This disproportionate exam weight relative to study time is the most common reason well-prepared candidates fail. Every question in this section has a specific statutory or regulatory citation in the official content outline. The citations are your study map.
+The state section is 30 of 80 scored questions — 37.5% of your entire score — but draws from only 10 of your 50 [prelicensing](/colorado/prelicensing) hours. This disproportionate exam weight relative to study time is the most common reason well-prepared candidates fail. Every question in this section has a specific statutory or regulatory citation in the official content outline. The citations are your study map.
 
 #### Section I: Colorado Statutes Common to All Lines — 20 Questions
 

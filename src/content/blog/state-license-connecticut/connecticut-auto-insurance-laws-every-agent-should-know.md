@@ -200,7 +200,7 @@ Replacement rules. When applicable to auto policy replacement.
 
 Documentation standards. Maintaining records of recommendations, disclosures, and transactions.
 
-Continuing education. Auto/casualty CE may count toward Connecticut's 24-hour CE requirement (with 6-hour minimum per line for those holding Casualty or Personal Lines authority).
+[Continuing education](/connecticut/continuing-education). Auto/casualty CE may count toward Connecticut's 24-hour CE requirement (with 6-hour minimum per line for those holding Casualty or Personal Lines authority).
 
 ## Common Connecticut Auto Insurance Pitfalls
 
@@ -242,6 +242,6 @@ For producers building general practice, auto insurance often serves as the foun
 
 ## Master Connecticut Auto Insurance
 
-Connecticut auto insurance offers steady opportunity for producers who develop genuine expertise. At JustInsurance, our Connecticut prelicense and CE courses include comprehensive coverage of auto insurance principles and Connecticut-specific requirements.
+Connecticut auto insurance offers steady opportunity for producers who develop genuine expertise. At JustInsurance, our Connecticut [prelicense](/connecticut/prelicensing) and CE courses include comprehensive coverage of auto insurance principles and Connecticut-specific requirements.
 
 Enroll today and develop the auto insurance expertise Connecticut clients need.

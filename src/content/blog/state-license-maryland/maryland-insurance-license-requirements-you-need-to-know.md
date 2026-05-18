@@ -29,7 +29,7 @@ The first step in Maryland insurance license renewal is to get an accurate view 
 
 ## Complete your continuing education requirements
 
-Continuing education (CE) ensures you stay current with industry trends, legal changes, and best practices. In Maryland, [continuing education](/maryland/continuing-education) requirements vary depending on the type of license you hold, such as life & health or property & casualty. For example, you may be required to complete a set number of course hours covering ethics, laws, and your specific insurance lines.
+[Continuing education](/maryland/continuing-education) (CE) ensures you stay current with industry trends, legal changes, and best practices. In Maryland, [continuing education](/maryland/continuing-education) requirements vary depending on the type of license you hold, such as life & health or property & casualty. For example, you may be required to complete a set number of course hours covering ethics, laws, and your specific insurance lines.
 
 It’s best to start fulfilling CE credits well before your renewal deadline to avoid any end-of-cycle rush. Look for approved providers that fit your schedule, whether you prefer online courses or in-person training. Some licensees plan out the year to tackle certain topics periodically, rather than cramming them all into one go. Remember that you’ll need to maintain proof of completion in case of an audit. Most CE providers will send your completion records directly to the MIA, but always keep a personal copy for extra peace of mind.
 

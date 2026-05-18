@@ -165,7 +165,7 @@ State exam required per line (no combined L&H or P&C exams)
 
 Application through NIPR
 
-Recent significant change (October 1, 2025): HB 737 (Session Law 2025-45) eliminated the prelicense education (PLE) requirement for all insurance producer lines. Candidates can now go directly from study to NIPR application to exam.
+Recent significant change (October 1, 2025): HB 737 (Session Law 2025-45) eliminated the [prelicense](/north-carolina/prelicensing) education (PLE) requirement for all insurance producer lines. Candidates can now go directly from study to NIPR application to exam.
 
 License renewal:
 

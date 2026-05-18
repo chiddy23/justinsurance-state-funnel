@@ -292,6 +292,6 @@ Producer responsibility: Recognize red flags in client applications and claims. 
 
 ## Serve Michigan Auto Clients With Genuine Expertise
 
-Michigan's no-fault system rewards producers who understand it deeply. At JustInsurance, our Michigan prelicense and CE courses provide comprehensive no-fault coverage including reform details, PIP tier implications, MCCA, and producer obligations.
+Michigan's no-fault system rewards producers who understand it deeply. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) and CE courses provide comprehensive no-fault coverage including reform details, PIP tier implications, MCCA, and producer obligations.
 
 Enroll today and develop the Michigan auto insurance expertise clients need.

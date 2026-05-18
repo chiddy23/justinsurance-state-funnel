@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-Completing [Florida insurance CE](/florida/continuing-education) credits can feel like one more hurdle in your already busy schedule. However, meeting these continuing education requirements is an important part of keeping your license active and your knowledge current. By learning how the system works and planning your approach, you can stay in good standing with the state while continuing to grow in your insurance career.
+Completing [Florida insurance CE](/florida/continuing-education) credits can feel like one more hurdle in your already busy schedule. However, meeting these [continuing education](/florida/continuing-education) requirements is an important part of keeping your license active and your knowledge current. By learning how the system works and planning your approach, you can stay in good standing with the state while continuing to grow in your insurance career.
 
 It helps to focus on a few key steps. You want to understand what Florida’s rules are, how to track your hours, and how to choose study resources that fit your learning style. When you have the right strategy, the process becomes something you can handle with less stress and more confidence.
 

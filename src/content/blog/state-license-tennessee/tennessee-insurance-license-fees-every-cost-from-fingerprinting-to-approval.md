@@ -24,7 +24,7 @@ Category 2 — Fingerprinting and background check: Paid to IdentoGO. A one-time
 
 Category 3 — License application fees: Paid to the Tennessee Department of Commerce and Insurance through NIPR per line of authority. Plus the NIPR transaction processing fee per application submission.
 
-Category 4 — Optional preparation costs: Paid to a prep course provider. Not required by Tennessee law but strongly recommended given first-time pass rates of approximately 55–65%.
+Category 4 — Optional preparation costs: Paid to a prep course provider. Not required by Tennessee law but strongly recommended given first-time [pass rates](/pass-rates) of approximately 55–65%.
 
 ### Category 1: Exam Fees
 
@@ -96,7 +96,7 @@ Tennessee requires applicants to wait at least 48 hours after passing the exam b
 
 #### Prep Course Pricing in Tennessee
 
-Tennessee does not require a prelicensing course, so all preparation costs are optional. However, given first-time pass rates of approximately 55–65%, preparation costs are more accurately described as risk-reduction investments than optional extras.
+Tennessee does not require a [prelicensing](/tennessee/prelicensing) course, so all preparation costs are optional. However, given first-time pass rates of approximately 55–65%, preparation costs are more accurately described as risk-reduction investments than optional extras.
 
 Typical Tennessee prep course pricing ranges:
 
@@ -110,7 +110,7 @@ Candidates who prefer a lighter-touch approach — particularly those with prior
 
 State law study guides: Tennessee-specific exam supplements focusing exclusively on TCA Title 56 content. Typically $30–$60. Appropriate as a supplement for experienced producers, insufficient as standalone preparation for new entrants.
 
-Practice exam banks: Standalone question banks with Pearson VUE-formatted practice questions. Typically $40–$80. Most effective when used alongside substantive content review — practice questions alone without content study do not build the knowledge needed to answer exam questions correctly.
+[Practice exam](/tennessee/practice-exam) banks: Standalone question banks with Pearson VUE-formatted practice questions. Typically $40–$80. Most effective when used alongside substantive content review — practice questions alone without content study do not build the knowledge needed to answer exam questions correctly.
 
 ### Ongoing Costs After Licensure
 

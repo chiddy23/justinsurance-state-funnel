@@ -23,7 +23,7 @@ Here are the most important areas of the South Carolina Insurance Code every pro
 
 ## What the South Carolina Insurance Code Is
 
-The South Carolina Insurance Code is the statutory framework that regulates insurance in the state. It's found in Title 38 of the South Carolina Code of Laws, with producer-specific regulations primarily in Chapter 43 (governed in part by S.C. Code Ann. § 38-43-106, which governs continuing education).
+The South Carolina Insurance Code is the statutory framework that regulates insurance in the state. It's found in Title 38 of the South Carolina Code of Laws, with producer-specific regulations primarily in Chapter 43 (governed in part by S.C. Code Ann. § 38-43-106, which governs [continuing education](/south-carolina/continuing-education)).
 
 The Code is administered by the South Carolina Department of Insurance (SCDOI), led by the Director of Insurance.
 

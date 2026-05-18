@@ -110,4 +110,4 @@ Non-compliance with New Jersey's workers' comp mandate carries serious consequen
 
 New Jersey's workers' compensation market is competitive, mandatory, and highly penalized for non-compliance — a combination that makes it one of the most reliable and commercially significant business lines for P&C producers in the state. Every employer with one employee is a prospect, and every policy placement comes with advisory value in experience modification, classification accuracy, and loss control.
 
-Visit JustInsurance to enroll today and master New Jersey commercial insurance law through a Property and Casualty prelicensing course built to the PSI exam content outline.
+Visit JustInsurance to enroll today and master New Jersey commercial insurance law through a Property and Casualty [prelicensing](/new-jersey/prelicensing) course built to the PSI exam content outline.

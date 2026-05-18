@@ -32,7 +32,7 @@ No attempt limit: Colorado places no cap on the number of times you may retake a
 
 OnVUE restriction: If you took your failed attempt through OnVUE remote proctoring, you are no longer eligible for OnVUE for that same exam. All subsequent retakes for that line must be taken at a physical Pearson VUE test center. This is a Colorado-specific rule that many candidates discover only when trying to reschedule remotely.
 
-Certificate of Completion validity: Your prelicensing Certificate of Completion remains valid for one year from the date of completion. If your certificate is approaching expiration, schedule your retake with enough time to pass before the certificate expires. If the certificate expires before you pass, you must complete the full 50-hour prelicensing course again before your exam scores become valid — regardless of how many attempts you have made.
+Certificate of Completion validity: Your [prelicensing](/colorado/prelicensing) Certificate of Completion remains valid for one year from the date of completion. If your certificate is approaching expiration, schedule your retake with enough time to pass before the certificate expires. If the certificate expires before you pass, you must complete the full 50-hour prelicensing course again before your exam scores become valid — regardless of how many attempts you have made.
 
 Fee: Each retake requires a new exam fee payment ($41 for in-person, or $31 for OnVUE if eligible). Fees are paid at the time of scheduling and are non-refundable.
 
@@ -48,7 +48,7 @@ If the state section performance was significantly below the general section: Th
 
 If the general section performance was weak: This is less common among candidates who completed the prelicensing course seriously, but it happens. Weak general section performance usually traces to one or two specific content areas — Types of Policies or Policy Provisions — where conceptual gaps exist. The diagnostic breakdown shows which specific subsections were below minimum. Go back to those specific chapters in your prelicensing course, not to the entire course.
 
-If both sections were weak: This indicates insufficient total preparation time regardless of prelicensing completion. The retake preparation needs to be more thorough than the original, not just different. Add a full timed practice exam from Pearson VUE's official practice test ($19.95, available through your Pearson VUE account) before rescheduling.
+If both sections were weak: This indicates insufficient total preparation time regardless of prelicensing completion. The retake preparation needs to be more thorough than the original, not just different. Add a full timed [practice exam](/colorado/practice-exam) from Pearson VUE's official practice test ($19.95, available through your Pearson VUE account) before rescheduling.
 
 #### Question 2: Which specific content areas within the state section were below minimum?
 

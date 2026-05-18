@@ -138,7 +138,7 @@ Additional areas worth studying:
 
 1. How much of the Florida exam focuses on state-specific laws? Roughly 25% to 30% of the Florida 2-15 exam covers state-specific content. That's enough to fail the exam if you skip this section.
 
-2. Can I pass using only national study materials? It's risky. National materials cover general insurance concepts well but rarely go deep on Florida-specific rules. Use Florida-specific prelicense courses to cover this portion.
+2. Can I pass using only national study materials? It's risky. National materials cover general insurance concepts well but rarely go deep on Florida-specific rules. Use Florida-specific [prelicense](/florida/prelicensing) courses to cover this portion.
 
 3. Do I need to memorize specific Florida statute numbers? No. The exam tests concepts and agent obligations, not statute citations. Focus on understanding what the rules require, not where they're written.
 

@@ -214,6 +214,6 @@ Use your failed score report to focus study on weak content areas before retakin
 
 ## Know the Format, Own the Exam
 
-When you know exactly what you're facing, you can prepare precisely. At JustInsurance, our Georgia prelicense course is built around the real exam format — so every practice question you work on is preparing you for the actual test.
+When you know exactly what you're facing, you can prepare precisely. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) course is built around the real exam format — so every practice question you work on is preparing you for the actual test.
 
 Enroll today and prepare for the Georgia exam the right way.

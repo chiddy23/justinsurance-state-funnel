@@ -112,4 +112,4 @@ In the first 90 days, the highest-leverage activities are: getting fully license
 
 Six-figure income in New Jersey insurance is not a lucky outcome — it is the predictable result of choosing the right lines, building strong retention, moving toward commercial accounts, and developing specialty market knowledge that creates differentiation in one of the country's most competitive and highest-premium insurance markets.
 
-Visit JustInsurance to enroll today and take the first step on your path to a six-figure NJ insurance career with a prelicensing course built for first-attempt success.
+Visit JustInsurance to enroll today and take the first step on your path to a six-figure NJ insurance career with a [prelicensing](/new-jersey/prelicensing) course built for first-attempt success.

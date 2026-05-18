@@ -16,7 +16,7 @@ imageAlt: >-
   your pennsylvania insurance producer license.
 ---
 
-Getting your Pennsylvania insurance producer license opens doors to one of the most diverse insurance markets in the Northeast. Philadelphia's substantial healthcare and financial services concentration, Pittsburgh's healthcare and growing technology sectors, the Lehigh Valley's industrial markets, and Pennsylvania's substantial population create real opportunity for licensed agents. Pennsylvania's licensing process recently became more accessible — as of April 29, 2025, Pennsylvania eliminated the prelicense education requirement, making the path to licensure faster and more flexible.
+Getting your Pennsylvania insurance producer license opens doors to one of the most diverse insurance markets in the Northeast. Philadelphia's substantial healthcare and financial services concentration, Pittsburgh's healthcare and growing technology sectors, the Lehigh Valley's industrial markets, and Pennsylvania's substantial population create real opportunity for licensed agents. Pennsylvania's licensing process recently became more accessible — as of April 29, 2025, Pennsylvania eliminated the [prelicense](/pennsylvania/prelicensing) education requirement, making the path to licensure faster and more flexible.
 
 Here's exactly how to get your Pennsylvania insurance producer license.
 
@@ -46,7 +46,7 @@ The Pennsylvania state exam covers substantial content
 
 The exam covers both general insurance topics and Pennsylvania-specific laws
 
-Most candidates significantly improve their pass rate by completing structured study
+Most candidates significantly improve their [pass rate](/pass-rates) by completing structured study
 
 Quality prelicense courses include practice exams that mirror the actual state exam
 

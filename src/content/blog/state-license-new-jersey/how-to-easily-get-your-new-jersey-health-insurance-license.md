@@ -16,7 +16,7 @@ imageAlt: A diverse team collaborates on a workspace board with charts and plans
 imageCredit: Photo by Monstera Production on Pexels
 ---
 
-If you’re aiming for a [New Jersey health insurance license](/new-jersey), you’ll be happy to know the process is straightforward with the right preparation. Once you meet the state’s basic eligibility requirements, you can move quickly through pre-licensing, exams, and paperwork. In the end, you’ll have the knowledge and credentials needed to help individuals and families find the coverage they truly need.
+If you’re aiming for a [New Jersey health insurance license](/new-jersey), you’ll be happy to know the process is straightforward with the right preparation. Once you meet the state’s basic eligibility requirements, you can move quickly through [pre-licensing](/new-jersey/prelicensing), exams, and paperwork. In the end, you’ll have the knowledge and credentials needed to help individuals and families find the coverage they truly need.
 
 Securing a health insurance license can feel intimidating if you’ve never gone through a licensing process before. The good news is that New Jersey’s regulations are designed to ensure you’re well-prepared for the real-world situations you’ll face as an agent. Below, you’ll find a step-by-step guide to help you navigate everything from pre-licensing courses to applying for your official license. By following these tips, you’ll be on your way to launching a rewarding new career in insurance.
 
@@ -56,7 +56,7 @@ The application process is relatively quick, and you’ll usually receive your l
 
 Earning your New Jersey health insurance license is a major accomplishment, but your responsibilities don’t end there. The state expects you to complete [continuing education (CE)](/new-jersey/continuing-education) courses to keep your knowledge up to date. These courses ensure that you stay informed about any changes to state and federal insurance regulations.
 
-Keep track of your CE requirements, which you’ll typically renew every two years. Staying proactive about your continuing education helps you avoid last-minute scrambles. It also keeps you current with industry trends, so you can continue serving clients effectively and growing your career.
+Keep track of your CE requirements, which you’ll typically renew every two years. Staying proactive about your [continuing education](/new-jersey/continuing-education) helps you avoid last-minute scrambles. It also keeps you current with industry trends, so you can continue serving clients effectively and growing your career.
 
 ## Consider JustInsurance for support
 

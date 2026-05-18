@@ -50,7 +50,7 @@ Website: portal.ct.gov/cid
 
 Before submitting your application, you should have:
 
-Completed Connecticut-approved prelicense education (or qualified for a designation-based exemption)
+Completed Connecticut-approved [prelicense](/connecticut/prelicensing) education (or qualified for a designation-based exemption)
 
 Passed the Connecticut state exam through Pearson VUE
 

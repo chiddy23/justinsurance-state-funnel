@@ -50,7 +50,7 @@ Most Minnesota insurance exam failures fall into one of four recognizable patter
 
 The signature: High scores on general insurance concepts and product knowledge sections; low scores on Minnesota-specific sections — particularly auto insurance law, producer licensing, CE requirements, unfair trade practices, workers' compensation, and guaranty associations.
 
-Why this happens: Candidates who study the prelicensing course material thoroughly develop strong general content knowledge. The course introduces Minnesota law but does not ensure that state-specific provisions are memorized with the precision the exam requires. Candidates who underweight state law study — spending 70–80% of preparation time on general content — consistently fail the state law sections while performing adequately on general questions.
+Why this happens: Candidates who study the [prelicensing](/minnesota/prelicensing) course material thoroughly develop strong general content knowledge. The course introduces Minnesota law but does not ensure that state-specific provisions are memorized with the precision the exam requires. Candidates who underweight state law study — spending 70–80% of preparation time on general content — consistently fail the state law sections while performing adequately on general questions.
 
 The retake strategy: Redirect 60% of your retake study time specifically to Minnesota state law. Build or rebuild your state law reference sheet from scratch — the act of reconstructing it surfaces gaps you missed the first time. Focus specifically on: the no-fault auto insurance framework (PIP $40,000, UM/UIM mandatory at 25/50, tort threshold $4,000 excluding diagnostics, six-month PIP filing deadline, $10,000 property damage minimum), producer licensing specifics (20-hour prelicensing, 24-hour CE with 3 ethics and 12 classroom hours, birth month renewal biennial, $50 per line application fee, 12-month reinstatement window), and unfair trade practices (all eight prohibited acts, the bilateral nature of the rebating prohibition, the frequency standard for unfair claims practices).
 
@@ -60,7 +60,7 @@ The signature: Scores below 65% across most or all content areas — both genera
 
 Why this happens: Insufficient total study time. The prelicensing course was completed as a box-checking exercise rather than genuine preparation. The candidate attempted the exam too quickly after completing the minimum prelicensing hours without sufficient additional review.
 
-The retake strategy: Do not retake immediately. Give yourself a minimum of two to three weeks before scheduling the retake and use that time for systematic re-study of the complete content outline. Rebuild from the course material. Complete the full prelicensing course again as an active review — not just skimming but engaging with each module. Add at least one full-length practice exam under timed conditions before retaking.
+The retake strategy: Do not retake immediately. Give yourself a minimum of two to three weeks before scheduling the retake and use that time for systematic re-study of the complete content outline. Rebuild from the course material. Complete the full prelicensing course again as an active review — not just skimming but engaging with each module. Add at least one full-length [practice exam](/minnesota/practice-exam) under timed conditions before retaking.
 
 #### Pattern 3: Specific Product Line Weakness
 

@@ -131,7 +131,7 @@ Document everything. Notes on client conversations, reasons for recommendations,
 
 Follow IDOI bulletins. Subscribe to IDOI communications and review them periodically.
 
-Complete your CE seriously. Continuing education is where compliance knowledge stays current. Don't treat it as busywork.
+Complete your CE seriously. [Continuing education](/illinois/continuing-education) is where compliance knowledge stays current. Don't treat it as busywork.
 
 When uncertain, ask. IDOI and reputable industry attorneys can provide guidance on specific situations. Getting clarification before acting beats explaining after the fact.
 
@@ -145,6 +145,6 @@ When uncertain, ask. IDOI and reputable industry attorneys can provide guidance 
 
 ## Build Your Career on a Strong Compliance Foundation
 
-The Illinois Insurance Code is extensive but navigable once you know the sections that apply to your work. At JustInsurance, our Illinois prelicense and CE courses cover the Code in practical, plain language — not legal jargon.
+The Illinois Insurance Code is extensive but navigable once you know the sections that apply to your work. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses cover the Code in practical, plain language — not legal jargon.
 
 Enroll today and start your Illinois career with the compliance knowledge to protect it.

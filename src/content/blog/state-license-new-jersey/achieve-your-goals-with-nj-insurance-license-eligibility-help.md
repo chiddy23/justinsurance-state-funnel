@@ -25,7 +25,7 @@ If you do have any past infractions, it does not automatically disqualify you. N
 
 ## Complete your pre-licensing hours
 
-New Jersey requires you to complete a set amount of pre-licensing education before you can register for the state exam. These hours ensure you have a strong foundation in insurance principles, including policy types, regulations, and ethical considerations. If you plan to get licensed in multiple lines, such as Life, Health, and Property & Casualty, you will need pre-licensing hours for each line.
+New Jersey requires you to complete a set amount of [pre-licensing](/new-jersey/prelicensing) education before you can register for the state exam. These hours ensure you have a strong foundation in insurance principles, including policy types, regulations, and ethical considerations. If you plan to get licensed in multiple lines, such as Life, Health, and Property & Casualty, you will need pre-licensing hours for each line.
 
 You can choose an online or in-person program. Both formats offer the same core material, so pick the style that suits your schedule and learning preference. Many people find online courses convenient, because they allow you to study at your own pace, while classroom sessions can be a great match if you prefer direct interaction and a set routine.
 

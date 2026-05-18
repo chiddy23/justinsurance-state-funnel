@@ -12,7 +12,7 @@ image: /blog/images/why-getting-your-tennessee-life-insurance-license-is-worth-i
 imageAlt: Failed the Tennessee Insurance Exam? Here's Your Targeted Retake Strategy
 ---
 
-Failing the Tennessee insurance licensing exam is more common than most candidates expect. First-time pass rates run approximately 55–65% — meaning roughly one in three candidates does not pass on the first attempt. If you are in that group, you are not in a small minority of unusually underprepared candidates. You are in a group that includes motivated, intelligent people who did not prepare in the right way for the specific demands of this exam.
+Failing the Tennessee insurance licensing exam is more common than most candidates expect. First-time [pass rates](/pass-rates) run approximately 55–65% — meaning roughly one in three candidates does not pass on the first attempt. If you are in that group, you are not in a small minority of unusually underprepared candidates. You are in a group that includes motivated, intelligent people who did not prepare in the right way for the specific demands of this exam.
 
 The candidates who pass their Tennessee retake efficiently share one characteristic: they used their score report strategically. They did not simply study more of everything they already studied. They identified the specific content areas where they failed and rebuilt those areas from the foundation up. This post gives you the complete retake framework — how to read your score report, how to diagnose the category of failure that produced your result, how to build a targeted retake study plan, and the logistics for scheduling your next attempt.
 
@@ -46,7 +46,7 @@ The profile: Studied some material but not enough — too few total hours, too l
 
 What went wrong: The exam requires more knowledge than general familiarity provides. Most candidates in this category either relied on professional background without structured exam preparation, or studied for too short a period to build genuine knowledge depth.
 
-The retake approach: Full preparation rebuild. Treat the retake as though sitting for the exam for the first time — complete content coverage, state law deep dive, practice exam conditioning. Allow three to four weeks of disciplined daily study. Use structured materials specifically designed for Pearson VUE and Tennessee. Do not repeat the prior preparation method.
+The retake approach: Full preparation rebuild. Treat the retake as though sitting for the exam for the first time — complete content coverage, state law deep dive, [practice exam](/tennessee/practice-exam) conditioning. Allow three to four weeks of disciplined daily study. Use structured materials specifically designed for Pearson VUE and Tennessee. Do not repeat the prior preparation method.
 
 Estimated retake preparation time: 40–60 hours.
 

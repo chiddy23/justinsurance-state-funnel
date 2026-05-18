@@ -93,7 +93,7 @@ Provide documentation if relevant. For past issues, include court records, certi
 
 ## If You Have Concerns About Your Background
 
-California allows applicants to request a pre-application determination — a non-binding assessment of how CDI would likely evaluate a specific background issue. This lets you understand the risk before investing time and money into prelicense education.
+California allows applicants to request a pre-application determination — a non-binding assessment of how CDI would likely evaluate a specific background issue. This lets you understand the risk before investing time and money into [prelicense](/california/prelicensing) education.
 
 To request a pre-application determination:
 

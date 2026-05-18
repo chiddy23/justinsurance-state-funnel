@@ -19,7 +19,7 @@ imageCredit: Photo by Alberto Alvarez on Pexels
 
 ## Understand the basics
 
-If you are eager to learn how to get [Texas insurance license](/texas) credentials in record time, it helps to start with the fundamentals. You will need to meet a few state requirements before you can register for pre-licensing education or take the licensing exam. First, you must be at least 18 years old. Additionally, you should be a legal resident of Texas or have proof you are entitled to work in the state.
+If you are eager to learn how to get [Texas insurance license](/texas) credentials in record time, it helps to start with the fundamentals. You will need to meet a few state requirements before you can register for [pre-licensing](/texas/prelicensing) education or take the licensing exam. First, you must be at least 18 years old. Additionally, you should be a legal resident of Texas or have proof you are entitled to work in the state.
 
 Many people overlook the importance of confirming their eligibility early, only to discover last-minute issues that slow them down. Completing a quick eligibility check can save you time and help you focus on the process ahead rather than unexpected obstacles.
 

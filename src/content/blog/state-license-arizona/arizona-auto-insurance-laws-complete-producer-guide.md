@@ -180,6 +180,6 @@ Producer implication for senior clients: Senior clients with Medicare as primary
 
 ## Serve Arizona Auto Clients With Genuine Expertise
 
-Arizona's auto insurance system rewards producers who understand its at-fault mechanics, limits adequacy considerations, and ADAS developments. At JustInsurance, our Arizona prelicense and CE courses cover Arizona auto insurance law in practical depth.
+Arizona's auto insurance system rewards producers who understand its at-fault mechanics, limits adequacy considerations, and ADAS developments. At JustInsurance, our Arizona [prelicense](/arizona/prelicensing) and CE courses cover Arizona auto insurance law in practical depth.
 
 Enroll today and develop the Arizona auto insurance expertise clients need.

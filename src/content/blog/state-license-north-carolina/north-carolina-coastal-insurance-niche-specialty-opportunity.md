@@ -266,6 +266,6 @@ The coastal specialty rewards patience and investment in genuine expertise. Prod
 
 ## Build Your North Carolina Coastal Insurance Specialty
 
-North Carolina's coastal market rewards producers willing to develop genuine expertise in one of the most complex property insurance environments in the Southeast. At JustInsurance, our North Carolina prelicense and CE courses provide foundational knowledge supporting coastal property specialty practice including CPIP, NFIP flood certification, and NC Rate Bureau form expertise.
+North Carolina's coastal market rewards producers willing to develop genuine expertise in one of the most complex property insurance environments in the Southeast. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) and CE courses provide foundational knowledge supporting coastal property specialty practice including CPIP, NFIP flood certification, and NC Rate Bureau form expertise.
 
 Enroll today and start building your North Carolina coastal insurance specialty.

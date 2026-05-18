@@ -95,7 +95,7 @@ How this should change your preparation:
 
 In states with unlimited retakes (Michigan), a candidate can take a first attempt underprepared and use it as a "diagnostic run" without serious career consequences. In Arizona, that strategy risks burning through attempts.
 
-The right mindset: Every Arizona exam attempt should be a serious attempt made from genuine preparation readiness. Schedule when your practice exam scores consistently exceed 80% on both sections — not when you feel "ready enough."
+The right mindset: Every Arizona exam attempt should be a serious attempt made from genuine preparation readiness. Schedule when your [practice exam](/arizona/practice-exam) scores consistently exceed 80% on both sections — not when you feel "ready enough."
 
 Practical scheduling:
 

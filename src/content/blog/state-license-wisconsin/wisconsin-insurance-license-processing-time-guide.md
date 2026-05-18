@@ -66,6 +66,6 @@ Not waiting 48-72 hours. Submitting NIPR application before PSI results load in 
 
 ## Build Your WI License Timeline Efficiently
 
-JustInsurance's OCI-approved Wisconsin prelicensing courses are fully online, self-paced, and built around the PSI exam content outline.
+JustInsurance's OCI-approved Wisconsin [prelicensing](/wisconsin/prelicensing) courses are fully online, self-paced, and built around the PSI exam content outline.
 
 Enroll today and move through the Wisconsin licensing process efficiently.

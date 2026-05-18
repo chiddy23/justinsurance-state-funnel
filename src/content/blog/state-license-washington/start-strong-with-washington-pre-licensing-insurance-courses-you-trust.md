@@ -20,7 +20,7 @@ imageCredit: Photo by Thirdman on Pexels
 
 ## Understand your [Washington pre-licensing](/washington/prelicensing) requirements
 
-Before you can start your insurance career in Washington, you need pre-licensing training that meets state guidelines. Most learners complete separate courses for life & health or property & casualty, depending on which lines of authority they want. Completing these educational requirements ensures you have a solid grasp of every core concept—from policy types and regulations to ethics and consumer protections.
+Before you can start your insurance career in Washington, you need [pre-licensing](/washington/prelicensing) training that meets state guidelines. Most learners complete separate courses for life & health or property & casualty, depending on which lines of authority they want. Completing these educational requirements ensures you have a solid grasp of every core concept—from policy types and regulations to ethics and consumer protections.
 
 Even if you are switching careers or have a finance background, studying the basics helps you understand how Washington laws apply to real-life scenarios. By choosing high-quality Washington pre-licensing insurance courses, you give yourself the best possible foundation for your new path in this growing industry.
 

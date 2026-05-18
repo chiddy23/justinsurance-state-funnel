@@ -15,7 +15,7 @@ imageAlt: Close-up of a credit card payment being processed at a POS terminal.
 imageCredit: Photo by energepic.com on Pexels
 ---
 
-Whether you are just beginning your search for [Tennessee insurance pre-licensing courses](/tennessee/prelicensing) or you already have a few options in mind, you want to make sure you choose a program that sets you up for success. Earning your [Tennessee insurance license](/tennessee) is a major step toward a long-term career in the industry, and a solid pre-licensing course can streamline your path. The key is sorting through the different course types, features, and costs in order to find a program that matches your learning style and career goals.
+Whether you are just beginning your search for [Tennessee insurance pre-licensing courses](/tennessee/prelicensing) or you already have a few options in mind, you want to make sure you choose a program that sets you up for success. Earning your [Tennessee insurance license](/tennessee) is a major step toward a long-term career in the industry, and a solid [pre-licensing](/tennessee/prelicensing) course can streamline your path. The key is sorting through the different course types, features, and costs in order to find a program that matches your learning style and career goals.
 
 It’s completely normal to feel overwhelmed by all the course material and state requirements, especially if you’re new to the world of insurance. With the right resources, though, you can confidently prepare for your license exam and build a strong foundation for your new role in life, health, property, casualty, or any other line of authority you plan to pursue.
 

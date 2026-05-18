@@ -16,7 +16,7 @@ imageAlt: >-
   indiana idoi-approved insurance ce providers.
 ---
 
-Indiana's CE system uses Sircon and NIPR for tracking CE completions and renewal submissions. IDOI-approved CE provider lists and approved courses are accessible through Sircon at sircon.com/Indiana. CE providers must be approved by the IDOI's Insurance Producer Education and Continuing Education Commission. Completions are reported to Sircon or NIPR; certificates must be retained for audit purposes. Here's how to find and work with IDOI-approved Indiana CE providers efficiently.
+Indiana's CE system uses Sircon and NIPR for tracking CE completions and renewal submissions. IDOI-approved CE provider lists and approved courses are accessible through Sircon at sircon.com/Indiana. CE providers must be approved by the IDOI's Insurance Producer Education and [Continuing Education](/indiana/continuing-education) Commission. Completions are reported to Sircon or NIPR; certificates must be retained for audit purposes. Here's how to find and work with IDOI-approved Indiana CE providers efficiently.
 
 ## Where to Find Approved Providers
 

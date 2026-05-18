@@ -41,7 +41,7 @@ It’s helpful to think in terms of total cost rather than just the price of an 
 
 ## Follow a step-by-step path to get licensed
 
-If you’re new to the insurance industry, continuing education may sound like a later concern, but it’s important to map out your entire pathway from licensing to renewal. A clear plan keeps you on track from the start. Below is a basic overview of the steps you might follow, from applying for your initial license to finishing your CE courses:
+If you’re new to the insurance industry, [continuing education](/new-york/continuing-education) may sound like a later concern, but it’s important to map out your entire pathway from licensing to renewal. A clear plan keeps you on track from the start. Below is a basic overview of the steps you might follow, from applying for your initial license to finishing your CE courses:
 
 Step
 
@@ -51,7 +51,7 @@ Considerations
 
 1
 
-Fulfill pre-licensing requirements
+Fulfill [pre-licensing](/new-york/prelicensing) requirements
 
 Verify required hours in specific lines of authority (e.g., Life, Accident & Health)
 

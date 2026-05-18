@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Ketut Subiyanto on Pexels
 ---
 
-You might feel a bit overwhelmed when it comes time to renew your [Florida insurance license](/florida). Between keeping up with continuing education, filing the right documents, and staying aware of changing regulations, the process can appear complicated. However, once you break it down step by step, you’ll find that completing your renewal is entirely manageable and even a great opportunity to refresh your knowledge. Below, you’ll discover how to meet every requirement and maintain your credentials, so you’re well-prepared for your next renewal period and beyond.
+You might feel a bit overwhelmed when it comes time to renew your [Florida insurance license](/florida). Between keeping up with [continuing education](/florida/continuing-education), filing the right documents, and staying aware of changing regulations, the process can appear complicated. However, once you break it down step by step, you’ll find that completing your renewal is entirely manageable and even a great opportunity to refresh your knowledge. Below, you’ll discover how to meet every requirement and maintain your credentials, so you’re well-prepared for your next renewal period and beyond.
 
 ## Understand Florida license fundamentals
 

@@ -94,7 +94,7 @@ Title 56, Chapter 8: Unfair Trade Practices and Unfair Claims Settlement Act
 
 #### The No-Prelicensing Rule
 
-Tennessee eliminated mandatory prelicensing effective March 21, 2023. No course hours are required before sitting for the Pearson VUE exam. The exam tests this fact in two ways: directly (asking whether prelicensing is required) and indirectly (asking what step comes first in the licensing process — the answer is the exam, not a course).
+Tennessee eliminated mandatory [prelicensing](/tennessee/prelicensing) effective March 21, 2023. No course hours are required before sitting for the Pearson VUE exam. The exam tests this fact in two ways: directly (asking whether prelicensing is required) and indirectly (asking what step comes first in the licensing process — the answer is the exam, not a course).
 
 #### The Exam
 

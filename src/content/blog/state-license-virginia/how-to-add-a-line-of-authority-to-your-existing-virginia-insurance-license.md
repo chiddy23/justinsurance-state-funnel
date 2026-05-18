@@ -28,7 +28,7 @@ Casualty
 
 Personal Lines
 
-Title (requires 16-hour prelicensing course)
+Title (requires 16-hour [prelicensing](/virginia/prelicensing) course)
 
 Each line is a separate qualification on your license. You can hold one, several, or all of them. Adding a line means obtaining authorization to transact an additional insurance type you do not currently hold.
 
@@ -74,7 +74,7 @@ Applications are processed in date order. Allow approximately 15 business days.
 
 ### CE Impact of Adding a Line
 
-Adding a line of authority in Virginia has a direct impact on your continuing education requirements going forward. This is not just an administrative note — it changes your CE obligation for every renewal cycle after the new line is added.
+Adding a line of authority in Virginia has a direct impact on your [continuing education](/virginia/continuing-education) requirements going forward. This is not just an administrative note — it changes your CE obligation for every renewal cycle after the new line is added.
 
 Single license type: 16 CE hours biennial (3 ethics hours required) Two or more license types: 24 CE hours biennial (3 ethics hours required, minimum 8 hours per line type held)
 

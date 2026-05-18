@@ -19,7 +19,7 @@ imageCredit: Photo by Gera Cejas on Pexels
 
 You might feel a bit overwhelmed when you first see all the [Washington insurance license requirements](/washington/requirements). But once you break them down into manageable steps, the entire process can be surprisingly straightforward. Each requirement is designed to ensure you know the rules, regulations, and ethical obligations of the insurance industry, so you can serve clients with confidence. Whether you plan on selling Life and Health policies, Property and Casualty coverage, or both, it all starts with meeting Washington’s official standards.
 
-Below, you will find a clear road map for each step, from completing pre-licensing courses to finalizing your license application. By the end, you will understand the costs, timelines, and study strategies that are key to success, as well as where to turn for additional support. Let’s get you set up to conquer your exam and launch an exciting career in insurance.
+Below, you will find a clear road map for each step, from completing [pre-licensing](/washington/prelicensing) courses to finalizing your license application. By the end, you will understand the costs, timelines, and study strategies that are key to success, as well as where to turn for additional support. Let’s get you set up to conquer your exam and launch an exciting career in insurance.
 
 ## Make sense of [Washington insurance license](/washington) requirements
 
@@ -47,7 +47,7 @@ Think of this step as an investment in your future career. The more attentive yo
 
 After completing your pre-licensing education, you are eligible to register for the state exam. This test is administered by an approved provider, and it often includes both national content and Washington-specific questions. Expect to see multiple-choice items covering terminology, statutes, and scenario-based situations. The goal is to test both your theoretical knowledge and your ability to apply it in real-world settings.
 
-It helps to spend time on practice questions to get a feel for the exam’s format. Many exam prep programs provide practice quizzes and topic-specific drills, so you can pinpoint where you need extra review. Come exam day, focus on pacing yourself. Reading each question carefully helps you avoid small mistakes.
+It helps to spend time on [practice questions](/washington/practice-exam) to get a feel for the exam’s format. Many exam prep programs provide practice quizzes and topic-specific drills, so you can pinpoint where you need extra review. Come exam day, focus on pacing yourself. Reading each question carefully helps you avoid small mistakes.
 
 Passing scores typically hover around 70%, but you should aim higher to give yourself some breathing room. Once you have your passing certificate, make sure to hold onto it. You will need it when you officially apply for your license.
 

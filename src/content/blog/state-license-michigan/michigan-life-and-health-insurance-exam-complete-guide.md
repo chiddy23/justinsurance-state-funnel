@@ -34,7 +34,7 @@ Pay the $41 exam fee at registration by credit card, debit card, voucher, or ele
 
 ## The PLE-First Requirement
 
-Before scheduling your state exam, you must complete Michigan's prelicensing education (20 hours per line, 40 hours combined) and pass the PLE certification exam (70%+). Michigan enforces this strictly:
+Before scheduling your state exam, you must complete Michigan's [prelicensing](/michigan/prelicensing) education (20 hours per line, 40 hours combined) and pass the PLE certification exam (70%+). Michigan enforces this strictly:
 
 If you pass the state exam before completing your PLE course, you will be required to retest with PSI.
 

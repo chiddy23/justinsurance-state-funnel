@@ -20,7 +20,7 @@ Whether you are seeking a new career path or simply looking to add a valuable cr
 
 ## Understand the exam basics
 
-Before you start memorizing terms or reviewing policies, be clear about what the exam covers and how it is structured. In Washington state, you can pursue different lines of authority, such as Life, Health, Property, or Casualty. Each line typically requires a set of pre-licensing education hours to ensure that you fully grasp the relevant laws and insurance concepts.
+Before you start memorizing terms or reviewing policies, be clear about what the exam covers and how it is structured. In Washington state, you can pursue different lines of authority, such as Life, Health, Property, or Casualty. Each line typically requires a set of [pre-licensing](/washington/prelicensing) education hours to ensure that you fully grasp the relevant laws and insurance concepts.
 
 To register for the exam, you’ll typically need to:
 
@@ -38,7 +38,7 @@ A clear focus often leads to a more efficient study routine. If you’re unsure 
 
 ## Develop a study routine
 
-You’ll want a balanced routine that covers reading materials, videos or webinars, and plenty of practice questions. Too many aspiring agents underestimate the commitment needed, so setting aside dedicated study blocks is essential.
+You’ll want a balanced routine that covers reading materials, videos or webinars, and plenty of [practice questions](/washington/practice-exam). Too many aspiring agents underestimate the commitment needed, so setting aside dedicated study blocks is essential.
 
 1.  Set a schedule: Aim for consistent daily or weekly time slots. When your schedule is predictable, you’re less likely to skip a session.
 2.  Use active learning: Summarize chapters in your own words, create flashcards, and discuss tough concepts with study partners.

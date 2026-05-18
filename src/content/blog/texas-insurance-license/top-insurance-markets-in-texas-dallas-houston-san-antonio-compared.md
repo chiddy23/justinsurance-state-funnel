@@ -113,6 +113,6 @@ Your success depends more on how you work than where you work. Consistent prospe
 
 ## Build Where You Have the Best Fit
 
-The best Texas market is the one that matches your goals, your network, and your working style. At JustInsurance, our Texas prelicense course equips you with the knowledge to succeed in any Texas market, wherever you choose to build.
+The best Texas market is the one that matches your goals, your network, and your working style. At JustInsurance, our Texas [prelicense](/texas/prelicensing) course equips you with the knowledge to succeed in any Texas market, wherever you choose to build.
 
 Enroll today and get started.

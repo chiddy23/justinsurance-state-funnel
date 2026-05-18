@@ -84,6 +84,6 @@ Submit within 6 months of PLE completion AND passing exam
 
 ## Apply for Your Indiana License Confidently
 
-JustInsurance's IDOI-approved Indiana prelicensing courses prepare you for the Pearson VUE exam. Apply with confidence.
+JustInsurance's IDOI-approved Indiana [prelicensing](/indiana/prelicensing) courses prepare you for the Pearson VUE exam. Apply with confidence.
 
 Enroll today and start the Indiana licensing process.

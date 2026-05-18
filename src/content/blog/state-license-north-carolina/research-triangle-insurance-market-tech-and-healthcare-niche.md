@@ -279,6 +279,6 @@ Leverage growth dynamics. Research Triangle is growing rapidly. In-migration cre
 
 ## Build Your Research Triangle Insurance Career
 
-The Research Triangle offers exceptional long-term opportunity for agents willing to engage with pharmaceutical, technology, and academic healthcare markets. At JustInsurance, our North Carolina prelicense and CE courses prepare you for the licensing exam and for building a career in this dynamic market.
+The Research Triangle offers exceptional long-term opportunity for agents willing to engage with pharmaceutical, technology, and academic healthcare markets. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) and CE courses prepare you for the licensing exam and for building a career in this dynamic market.
 
 Enroll today and start your Research Triangle insurance career.

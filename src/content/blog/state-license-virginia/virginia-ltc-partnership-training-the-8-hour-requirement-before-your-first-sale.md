@@ -22,7 +22,7 @@ At least 2 hours must be Virginia-specific content, covering Virginia's LTC Part
 
 The remaining 6 hours cover general LTC topics: LTC insurance policy types, benefit triggers (activities of daily living and cognitive impairment), elimination periods, benefit periods, daily benefit amounts, inflation protection options, shopper's guides, and the role of LTC insurance in long-term care planning
 
-The training must be approved for continuing education credit by Virginia's CE program. Not all LTC courses satisfy this requirement — the course must be specifically identified as an LTC Partnership training program meeting Virginia's content requirements.
+The training must be approved for [continuing education](/virginia/continuing-education) credit by Virginia's CE program. Not all LTC courses satisfy this requirement — the course must be specifically identified as an LTC Partnership training program meeting Virginia's content requirements.
 
 ### The Ongoing 4-Hour Requirement
 

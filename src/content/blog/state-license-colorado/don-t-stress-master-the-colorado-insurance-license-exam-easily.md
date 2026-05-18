@@ -52,7 +52,7 @@ Use different study materials to keep the learning process fresh. Some potential
 -   Engaging with online modules and tutorials.
 -   Joining a local or virtual study group.
 
-As you progress, compare what you have learned in your pre-licensing course to the exam outline. Focus your efforts on areas that you find the most challenging, like digging deeper into complex issues such as policyholder rights, premium taxes, and claims settlement regulations.
+As you progress, compare what you have learned in your [pre-licensing](/colorado/prelicensing) course to the exam outline. Focus your efforts on areas that you find the most challenging, like digging deeper into complex issues such as policyholder rights, premium taxes, and claims settlement regulations.
 
 ## Practice for confidence
 
@@ -74,7 +74,7 @@ Practice tests are a key element of any solid study plan. They expose you to the
     C. The local district attorney  
     D. City-level insurance authorities
 
-When you take a full-length practice exam, time yourself. The real Colorado insurance license exam includes a set number of questions and a strict time limit. If you notice that you consistently run out of time, consider brushing up on test-taking strategies. On the other hand, if you are racing through the questions and making guesses, slow down and refine your comprehension of the material.
+When you take a full-length [practice exam](/colorado/practice-exam), time yourself. The real Colorado insurance license exam includes a set number of questions and a strict time limit. If you notice that you consistently run out of time, consider brushing up on test-taking strategies. On the other hand, if you are racing through the questions and making guesses, slow down and refine your comprehension of the material.
 
 ## Manage your test-day jitters
 

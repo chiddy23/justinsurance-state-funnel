@@ -12,7 +12,7 @@ image: /blog/images/your-fast-track-to-a-minnesota-insurance-license.jpg
 imageAlt: "Minnesota Insurance License Fees: Every Cost From Exam to Approval"
 ---
 
-The total cost of getting a Minnesota insurance license is not a single number — it is a collection of individually small fees that add up across five distinct cost categories: prelicensing education, the state exam, fingerprinting, the license application, and post-approval ongoing costs. Each category has fixed and variable components depending on which lines you pursue, which course provider you choose, and how you handle fingerprinting. This post itemizes every cost, explains when each is due, and shows the realistic total for the most common licensing paths so you can budget accurately before you begin.
+The total cost of getting a Minnesota insurance license is not a single number — it is a collection of individually small fees that add up across five distinct cost categories: [prelicensing](/minnesota/prelicensing) education, the state exam, fingerprinting, the license application, and post-approval ongoing costs. Each category has fixed and variable components depending on which lines you pursue, which course provider you choose, and how you handle fingerprinting. This post itemizes every cost, explains when each is due, and shows the realistic total for the most common licensing paths so you can budget accurately before you begin.
 
 ### Category 1: Prelicensing Education
 
@@ -76,7 +76,7 @@ Combining all four cost categories produces a realistic total budget for the mos
 
 ### Category 5: Ongoing Costs After Licensure
 
-Getting licensed is not the end of the fee structure — maintaining an active Minnesota producer license requires ongoing investment in continuing education and biennial renewal.
+Getting licensed is not the end of the fee structure — maintaining an active Minnesota producer license requires ongoing investment in [continuing education](/minnesota/continuing-education) and biennial renewal.
 
 #### CE Course Costs
 
@@ -110,7 +110,7 @@ Errors and omissions (E&O) insurance: Most Minnesota agencies and carriers requi
 
 FINRA registration (for variable products): Producers who want Variable Life and Variable Annuities authority must also register with FINRA (Series 6 or Series 7, plus Series 63). FINRA exam fees — approximately $245 for the SIE, $245 for the Series 6, $300 for the Series 7 — are separate from Minnesota Department of Commerce fees and are not included in the costs above.
 
-Study materials beyond the course: Some producers purchase supplementary study guides, flashcard apps, or additional practice exam subscriptions beyond what their course provider offers. These are discretionary costs — the prelicensing course itself is the only required educational expense.
+Study materials beyond the course: Some producers purchase supplementary study guides, flashcard apps, or additional [practice exam](/minnesota/practice-exam) subscriptions beyond what their course provider offers. These are discretionary costs — the prelicensing course itself is the only required educational expense.
 
 Non-resident license fees: If you hold a Minnesota resident license and want to add non-resident licenses in Wisconsin, Iowa, or other states, each state's application fee applies separately. Non-resident application fees vary by state — typically $25–$100 per state — and are in addition to the Minnesota costs covered in this post.
 

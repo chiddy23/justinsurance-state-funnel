@@ -152,4 +152,4 @@ No. The reclassification process is expected to finalize in late 2026 at earlies
 
 Colorado's cannabis insurance market is one of the most demanding and rewarding specialties in commercial lines — demanding because of the federal constraint, the E&S market complexity, and the technical knowledge required; rewarding because the businesses that need coverage have significant and genuine insurance needs, limited producer options, and genuine loyalty to producers who solve their coverage problems effectively. Producers who invest in understanding Colorado's cannabis regulatory framework, the E&S market structure, and the coverage lines relevant to each cannabis business type are positioned to serve a market that most Colorado producers cannot.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course covering every commercial lines provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course covering every commercial lines provision tested on the Pearson VUE exam.

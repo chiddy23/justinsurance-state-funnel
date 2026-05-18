@@ -34,7 +34,7 @@ If you’ve had any legal issues in the past, it might be best to consult the [O
 
 ## Complete [pre-licensing requirements](/ohio/prelicensing)
 
-Ohio requires you to complete a state-approved pre-licensing course. This course covers key insurance laws, ethics, and best practices you’ll rely on every day. It may also include sample claim scenarios and guidance on how to interpret different types of policies. Depending on your schedule, you can select an online program that allows you to study at your own pace or choose an in-person class that offers real-time interaction with instructors.
+Ohio requires you to complete a state-approved [pre-licensing](/ohio/prelicensing) course. This course covers key insurance laws, ethics, and best practices you’ll rely on every day. It may also include sample claim scenarios and guidance on how to interpret different types of policies. Depending on your schedule, you can select an online program that allows you to study at your own pace or choose an in-person class that offers real-time interaction with instructors.
 
 Make sure you enroll with a reputable course provider that’s recognized in Ohio. This lets you skip any last-minute surprises about the validity of your certification. Once you finish the lessons and pass the pre-licensing exam offered by your approved course provider, you’ll receive a certificate of completion. You’ll keep this as part of your records for the official adjuster exam.
 
@@ -80,7 +80,7 @@ $10–$50
 
 Your exam will evaluate your knowledge of insurance fundamentals, adjuster ethics, and state regulations, so studying actively is crucial. Reading and re-reading notes can help, but try to add other strategies to reinforce what you’ve learned:
 
-1.  Practice questions: Use sample tests to get a feel for how questions are phrased. You’ll gain confidence and pinpoint areas where you need extra review.
+1.  [Practice questions](/ohio/practice-exam): Use sample tests to get a feel for how questions are phrased. You’ll gain confidence and pinpoint areas where you need extra review.
 2.  Flashcards: Summaries of core topics can help you quickly quiz yourself while on a break or during your commute.
 3.  Daily reviews: Even 15 minutes a day spent revisiting important concepts can build long-term retention.
 
@@ -102,7 +102,7 @@ Double-check all the forms for accuracy before you finalize them. Mistakes in yo
 
 Your Ohio insurance adjuster license remains valid for a specific time frame, after which you’ll need to renew. Renewals often involve completing [Ohio continuing education](/ohio/continuing-education) (CE) requirements. These classes help you stay up to date on new regulations, technology, and best practices, so you’re always equipped to provide accurate guidance to policyholders.
 
-Be sure to track your CE credits and keep copies of your certificates. When it’s time to renew, you’ll submit your proof of continuing education, the renewal form, and any associated fees. Missing the renewal deadline can result in penalties or even license expiration, so mark your calendar or set an alert on your phone to stay current.
+Be sure to track your CE credits and keep copies of your certificates. When it’s time to renew, you’ll submit your proof of [continuing education](/ohio/continuing-education), the renewal form, and any associated fees. Missing the renewal deadline can result in penalties or even license expiration, so mark your calendar or set an alert on your phone to stay current.
 
 ### Why a focus on CE matters
 

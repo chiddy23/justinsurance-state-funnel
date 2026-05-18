@@ -24,7 +24,7 @@ Before you dive in, remember that you’re preparing for an industry that values
 
 ## Understand [Maryland licensing requirements](/maryland/requirements)
 
-To work as a life and health insurance producer in Maryland, you generally need to be at least 18 years old and possess a clean criminal record. The state also requires specific pre-licensing education hours for each line of authority, which you must complete before applying to take the licensing exam.
+To work as a life and health insurance producer in Maryland, you generally need to be at least 18 years old and possess a clean criminal record. The state also requires specific [pre-licensing](/maryland/prelicensing) education hours for each line of authority, which you must complete before applying to take the licensing exam.
 
 While the Maryland Insurance Administration enforces these requirements, it’s helpful to think about them as foundational building blocks. Each step is designed to ensure you truly understand the laws, ethics, and best practices you’ll need to serve clients effectively. By staying organized and fulfilling these prerequisites, you’ll keep your licensing journey smooth from day one.
 

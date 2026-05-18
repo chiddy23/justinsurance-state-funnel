@@ -164,6 +164,6 @@ Estate recovery (RCW 41.05A.090, WAC 182-527-2746): Apple Health may recover cos
 
 ## Serve Washington Health Insurance Clients With Confidence
 
-Washington's health insurance landscape — state-based Healthplanfinder, Cascade Care public option, Apple Health, HCSCs, and active OIC enforcement — rewards producers who understand state-specific dynamics. At JustInsurance, our Washington prelicense and CE courses provide comprehensive health insurance coverage including Washington-specific regulatory provisions.
+Washington's health insurance landscape — state-based Healthplanfinder, Cascade Care public option, Apple Health, HCSCs, and active OIC enforcement — rewards producers who understand state-specific dynamics. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses provide comprehensive health insurance coverage including Washington-specific regulatory provisions.
 
 Enroll today and build your Washington health insurance expertise.

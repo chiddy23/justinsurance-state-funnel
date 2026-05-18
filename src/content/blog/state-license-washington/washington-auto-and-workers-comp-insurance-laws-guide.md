@@ -204,6 +204,6 @@ Fire loss reporting (SSB 5419): New law effective December 19, 2025 requiring in
 
 ## Serve Washington P&C Clients With Genuine Expertise
 
-Washington's auto and workers' compensation framework rewards producers who understand its distinctive features — especially the state fund monopoly that shapes commercial P&C practice. At JustInsurance, our Washington prelicense and CE courses cover auto, workers' comp, and all Washington-specific P&C law in practical producer-focused depth.
+Washington's auto and workers' compensation framework rewards producers who understand its distinctive features — especially the state fund monopoly that shapes commercial P&C practice. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses cover auto, workers' comp, and all Washington-specific P&C law in practical producer-focused depth.
 
 Enroll today and build your Washington P&C expertise.

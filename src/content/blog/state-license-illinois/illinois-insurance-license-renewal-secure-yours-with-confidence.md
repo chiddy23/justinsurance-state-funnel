@@ -29,7 +29,7 @@ Renewing your license also helps you stay updated on new regulations, emerging i
 
 If you are in the early stages of your insurance career, it is important to know the steps for obtaining your first Illinois insurance license, so you will be prepared to keep it valid later. Here is a straightforward path to follow:
 
-1.  Take a pre-licensing course. Illinois requires a set number of hours in [Illinois insurance prelicensing](/illinois/prelicensing) education, covering fundamentals like policy provisions, state regulations, and ethical considerations.
+1.  Take a [pre-licensing](/illinois/prelicensing) course. Illinois requires a set number of hours in [Illinois insurance prelicensing](/illinois/prelicensing) education, covering fundamentals like policy provisions, state regulations, and ethical considerations.
 2.  Pass the state exam. Once you finish the required course, you can register for the state licensing test. Depending on the type of license you seek (such as Life, Health, or Property & Casualty), you will take an exam specific to that line of insurance.
 3.  Submit your fingerprints. This background check is mandatory and helps confirm your identity, ensuring compliance with state regulations.
 4.  Apply for your license. After passing the exam, file an application through the [Illinois Department of Insurance](/illinois/requirements) website. Once approved, you will officially be a licensed insurance professional.
@@ -50,7 +50,7 @@ A practical strategy is setting calendar reminders or using a simple spreadsheet
 
 ## Navigating fees and paperwork
 
-Renewal involves a modest fee to process your updated license. Because fees can vary, always check the Illinois Department of Insurance website for the most current amount. You will also need to confirm that your continuing education credits are recorded properly. If you are missing any CE hours or have not paid the renewal fee by the deadline, your license may be at risk of late fees or suspension.
+Renewal involves a modest fee to process your updated license. Because fees can vary, always check the Illinois Department of Insurance website for the most current amount. You will also need to confirm that your [continuing education](/illinois/continuing-education) credits are recorded properly. If you are missing any CE hours or have not paid the renewal fee by the deadline, your license may be at risk of late fees or suspension.
 
 Here is a quick overview of common renewal details:
 

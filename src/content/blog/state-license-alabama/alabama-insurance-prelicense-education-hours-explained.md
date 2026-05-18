@@ -17,7 +17,7 @@ imageAlt: >-
   insurance prelicense education hours explained.
 ---
 
-Here's a unique situation: As of January 1, 2024, Alabama no longer requires prelicense education hours for insurance license applicants. Under Alabama Act No. 2023-104, the state removed the formal prelicense education requirement.
+Here's a unique situation: As of January 1, 2024, Alabama no longer requires [prelicense](/alabama/prelicensing) education hours for insurance license applicants. Under Alabama Act No. 2023-104, the state removed the formal prelicense education requirement.
 
 But that doesn't mean prelicense education is useless — in fact, for most candidates, it's still essential to passing the exam. Here's the full picture of Alabama's current prelicense education landscape.
 
@@ -121,7 +121,7 @@ Work around your schedule
 
 Let you revisit material as needed
 
-Include practice questions mirroring exam style
+Include [practice questions](/alabama/practice-exam) mirroring exam style
 
 Provide video content, reading, and quizzes
 
@@ -176,7 +176,7 @@ Candidates provide their CRD number to verify securities credentials during the 
 ## 5 Frequently Asked Questions
 
 - Is prelicense education required for an Alabama insurance license? No. As of January 1, 2024, under Alabama Act No. 2023-104, prelicense education is no longer required.
-- Should I still take a prelicense course even though it's not required? For most candidates, yes. Alabama's exams are challenging, and structured preparation significantly improves pass rates.
+- Should I still take a prelicense course even though it's not required? For most candidates, yes. Alabama's exams are challenging, and structured preparation significantly improves [pass rates](/pass-rates).
 - How many hours of study do I need without a state requirement? Most successful candidates invest 30-60 hours of preparation, depending on background and the exam they're taking.
 - Can I sit for the Alabama exam without any formal preparation? Yes, nothing prevents you from registering and sitting for the exam without preparation. But pass rates for unprepared candidates are very low.
 - Where can I find Alabama-specific prelicense courses? Multiple online and classroom providers serve Alabama candidates. Look for providers with Alabama-specific content, strong track records, and practice exams tailored to Alabama's format.

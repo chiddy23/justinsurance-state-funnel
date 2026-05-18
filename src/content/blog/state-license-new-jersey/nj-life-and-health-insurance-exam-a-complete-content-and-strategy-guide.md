@@ -86,7 +86,7 @@ What is the hardest part of the NJ Life and Health exams?
 
 For the Life exam, most candidates find the state law section and the policy provisions section most challenging — specifically, the interaction between nonforfeiture options, dividend options, and settlement options. These are conceptually similar and easy to confuse under pressure. For the Health exam, coordination of benefits and the distinction between different managed care structures are the most frequently missed topic areas. In both cases, the difficulty comes from scenario-based questions that require applying a rule correctly, not just reciting it.
 
-Do I need separate prelicensing courses for Life and Health in New Jersey?
+Do I need separate [prelicensing](/new-jersey/prelicensing) courses for Life and Health in New Jersey?
 
 Yes. New Jersey requires 20 hours of prelicensing education per line of authority. Life and Health are separate lines, so you must complete 20 hours for Life and 20 hours for Health — 40 total hours if you are pursuing both. Each course has its own certification exam that must be proctored by a disinterested third party. You will receive a separate certificate of completion for each line, and you must bring the appropriate certificate to each PSI exam.
 

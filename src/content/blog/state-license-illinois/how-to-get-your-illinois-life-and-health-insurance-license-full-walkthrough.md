@@ -33,7 +33,7 @@ You must be able to pass a background check
 
 You must truthfully complete the license application and disclose any relevant history
 
-There's no degree requirement and no prior insurance experience is required. What you need is to complete the prelicense education and pass the state exam.
+There's no degree requirement and no prior insurance experience is required. What you need is to complete the [prelicense](/illinois/prelicensing) education and pass the state exam.
 
 ## Step 2: Complete Your Prelicense Education
 
@@ -119,7 +119,7 @@ From starting your prelicense course to holding your license, most Illinois cand
 - Can I take the prelicense course online in Illinois? Yes. Illinois allows fully online prelicense education through IDOI-approved providers, and this is how most candidates complete it.
 - What happens if I fail the state exam? You can retake it. Illinois allows multiple attempts, though each retake requires a new Pearson VUE registration and fee. There's typically a short waiting period between attempts.
 - Is Illinois fingerprinting required for insurance licensure? Historically, most Illinois insurance producer applicants have not been required to submit fingerprints. Verify current requirements at the time of your application as regulations can change.
-- How long is an Illinois insurance license valid? Illinois producer licenses renew every 2 years. You'll need to complete continuing education and pay renewal fees on schedule.
+- How long is an Illinois insurance license valid? Illinois producer licenses renew every 2 years. You'll need to complete [continuing education](/illinois/continuing-education) and pay renewal fees on schedule.
 
 ## Start Your Illinois Insurance Career Right
 

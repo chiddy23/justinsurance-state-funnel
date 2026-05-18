@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Tima Miroshnichenko on Pexels
 ---
 
-Completing your continuing education requirements doesn’t have to be complicated or time-consuming. Whether you manage a busy schedule or simply prefer studying in the comfort of your own home, you can find [Texas insurance](/texas) CE classes that fit your life and let you stay compliant. By focusing on flexibility and convenience, you ensure your coursework remains manageable, and you continue delivering excellent service to your clients.
+Completing your [continuing education](/texas/continuing-education) requirements doesn’t have to be complicated or time-consuming. Whether you manage a busy schedule or simply prefer studying in the comfort of your own home, you can find [Texas insurance](/texas) CE classes that fit your life and let you stay compliant. By focusing on flexibility and convenience, you ensure your coursework remains manageable, and you continue delivering excellent service to your clients.
 
 ## Review your continuing education requirements
 

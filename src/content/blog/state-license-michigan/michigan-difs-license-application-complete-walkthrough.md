@@ -59,7 +59,7 @@ Michigan's sequence differs from some states:
 
 Correct Michigan sequence:
 
-Complete prelicensing education (PLE) for your chosen line(s)
+Complete [prelicensing](/michigan/prelicensing) education (PLE) for your chosen line(s)
 
 Pass PLE certification exam (70%+) and receive Certificate of Completion
 

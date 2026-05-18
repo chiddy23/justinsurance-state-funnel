@@ -24,7 +24,7 @@ In this guide, you will walk through the process step by step, from meeting the 
 
 Before you dive into coursework or exam preparation, it helps to know the overall structure of the New York insurance licensing system. Essentially, New York’s Department of Financial Services requires individuals to hold a license in the specific line of insurance they wish to sell. Common lines include Life, Accident and Health, Property, and Casualty.
 
-If you plan to handle multiple lines, you will need to meet requirements for each one. This means you might need several pre-licensing courses, followed by a single exam or multiple exams, depending on your focus. Keep in mind that you will need to renew your license every two years, and continuing education credits will play a big part in that renewal process.
+If you plan to handle multiple lines, you will need to meet requirements for each one. This means you might need several [pre-licensing](/new-york/prelicensing) courses, followed by a single exam or multiple exams, depending on your focus. Keep in mind that you will need to renew your license every two years, and [continuing education](/new-york/continuing-education) credits will play a big part in that renewal process.
 
 ## Complete your pre-licensing steps
 

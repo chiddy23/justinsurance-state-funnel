@@ -16,7 +16,7 @@ imageAlt: >-
   insurance exam format: strategy guide.
 ---
 
-Michigan's insurance exam format has features that distinguish it from most other states — variable passing scores above the standard 70%, the requirement to complete prelicensing education before scheduling, the in-person-only testing format since June 2025, and a comprehensive combined exam option for the Property & Casualty line. Building a format-aware exam strategy — knowing when to take the combined P&C exam vs. single-line exams, understanding Michigan's higher passing thresholds, and managing the 180-day application window — makes a measurable difference in first-attempt success.
+Michigan's insurance exam format has features that distinguish it from most other states — variable passing scores above the standard 70%, the requirement to complete [prelicensing](/michigan/prelicensing) education before scheduling, the in-person-only testing format since June 2025, and a comprehensive combined exam option for the Property & Casualty line. Building a format-aware exam strategy — knowing when to take the combined P&C exam vs. single-line exams, understanding Michigan's higher passing thresholds, and managing the 180-day application window — makes a measurable difference in first-attempt success.
 
 Here's a detailed look at Michigan insurance exam format and strategic approach.
 

@@ -66,6 +66,6 @@ A score of 70% or higher is a pass. TDI does not publish exact cutoff scores bey
 
 ## Know the Format, Own the Exam
 
-When you know exactly what you're facing, you can prepare for it precisely. At JustInsurance, our Texas prelicense course is built around the actual exam format — so you're practicing the right way from day one.
+When you know exactly what you're facing, you can prepare for it precisely. At JustInsurance, our Texas [prelicense](/texas/prelicensing) course is built around the actual exam format — so you're practicing the right way from day one.
 
 Enroll now and get exam-ready the right way.

@@ -273,7 +273,7 @@ Coverage verification. Ensuring coverage actually applies to client situations.
 
 Documentation requirements. Maintaining records of recommendations, classifications, and transactions.
 
-Continuing education. Workers' compensation CE may count toward Massachusetts's CE requirements.
+[Continuing education](/massachusetts/continuing-education). Workers' compensation CE may count toward Massachusetts's CE requirements.
 
 ## Career Opportunity in Workers' Compensation
 

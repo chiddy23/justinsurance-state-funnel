@@ -21,7 +21,7 @@ If you’re looking to build a rewarding career in the insurance field, explorin
 
 ## Understand the licensing process
 
-Securing an insurance [license in New Jersey](/new-jersey) isn’t as intimidating as it might seem. You’re required to complete a state-approved pre-licensing course, pass an exam, and then apply for your license. The [New Jersey Department of Banking and Insurance](/new-jersey/requirements) oversees these requirements, and they ensure you have the skills and knowledge to advise clients effectively.
+Securing an insurance [license in New Jersey](/new-jersey) isn’t as intimidating as it might seem. You’re required to complete a state-approved [pre-licensing](/new-jersey/prelicensing) course, pass an exam, and then apply for your license. The [New Jersey Department of Banking and Insurance](/new-jersey/requirements) oversees these requirements, and they ensure you have the skills and knowledge to advise clients effectively.
 
 Getting your insurance license opens the door to numerous opportunities in life, health, property, and casualty insurance. Whether you decide to work independently or join an established agency, a valid license positions you to confidently guide customers through policies and coverage options. More importantly, a recognized credential sets you apart in a competitive market and serves as a testament to your professionalism.
 
@@ -38,7 +38,7 @@ Your choice of school matters. Reputable NJ insurance licensing schools deliver 
 -   Online courses let you learn at your own pace, a great option if work or family responsibilities fill your schedule.
 -   Classroom courses offer face-to-face guidance and the chance to collaborate with fellow students.
 
-Many New Jersey schools provide custom study plans that blend practice exams with engaging lessons. As you compare options, ask about pass rates, instructor credentials, and post-graduation support. One provider to consider is JustInsurance; they focus on practical knowledge and offer flexible course structures so you can balance professional aspirations with daily life.
+Many New Jersey schools provide custom study plans that blend practice exams with engaging lessons. As you compare options, ask about [pass rates](/pass-rates), instructor credentials, and post-graduation support. One provider to consider is JustInsurance; they focus on practical knowledge and offer flexible course structures so you can balance professional aspirations with daily life.
 
 ## Prepare for the state exam
 

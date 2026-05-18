@@ -134,4 +134,4 @@ Yes — but it requires either an exceptional existing network, a high-value com
 
 Minnesota offers a genuine insurance career income opportunity — above the national median, supported by a diverse commercial economy, amplified by the hard property market's effect on premium volume and therefore commission, and contextualized by a cost of living that makes the earnings go further than in most comparable markets. The range between a first-year captive agent's stipend income and a mature commercial lines producer's book-driven earnings is enormous — but every producer in that range started in the same place: a Minnesota insurance license and a first client.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course — the first step toward building a Minnesota insurance career.
+Visit JustInsurance to enroll today and complete your Minnesota [prelicensing](/minnesota/prelicensing) with a state-approved course — the first step toward building a Minnesota insurance career.

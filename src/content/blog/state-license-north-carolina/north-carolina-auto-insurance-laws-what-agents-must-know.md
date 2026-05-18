@@ -242,6 +242,6 @@ Producers working with auto clients should be familiar with the NC Rate Bureau f
 
 ## Serve NC Auto Insurance Clients With Confidence
 
-North Carolina auto insurance is more legally complex than most clients realize — from pure contributory negligence to mandatory UM/UIM to the new 50/100/50 minimums. At JustInsurance, our North Carolina prelicense and CE courses provide comprehensive coverage of auto insurance principles and NC-specific auto law.
+North Carolina auto insurance is more legally complex than most clients realize — from pure contributory negligence to mandatory UM/UIM to the new 50/100/50 minimums. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) and CE courses provide comprehensive coverage of auto insurance principles and NC-specific auto law.
 
 Enroll today and develop the auto insurance expertise North Carolina clients need.

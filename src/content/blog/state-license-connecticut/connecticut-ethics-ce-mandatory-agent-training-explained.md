@@ -16,7 +16,7 @@ imageAlt: >-
   ethics ce: mandatory agent training explained.
 ---
 
-Every licensed Connecticut insurance producer must complete Laws/Regulations/Ethics continuing education — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. Connecticut takes a flexible approach by allowing this requirement to be met with either Connecticut-specific insurance law content OR ethics content (or any combination). Understanding what qualifies and how to choose helps you meet this requirement efficiently.
+Every licensed Connecticut insurance producer must complete Laws/Regulations/Ethics [continuing education](/connecticut/continuing-education) — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. Connecticut takes a flexible approach by allowing this requirement to be met with either Connecticut-specific insurance law content OR ethics content (or any combination). Understanding what qualifies and how to choose helps you meet this requirement efficiently.
 
 Here's what every Connecticut agent should know about the LRE CE requirement.
 

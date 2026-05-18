@@ -20,7 +20,7 @@ Passing score: 70% — at least 73 correct scored answers of 104. The general se
 
 Important distinction from Property and Casualty: The Personal Lines license authorizes selling personal lines insurance — homeowners, personal auto, renters, personal umbrella, personal articles floaters, and related personal coverages. It does not authorize selling commercial lines coverages (commercial property, CGL, workers' comp, commercial auto). Producers who want both personal and commercial authority need the separate Property and Casualty lines, not Personal Lines alone.
 
-Prelicensing exemption: A producer who already holds both Property and Casualty authority in Colorado is exempt from the Personal Lines prelicensing education requirement — the 50-hour prelicensing course is not required. The Pearson VUE exam is still required unless the 90-day prior resident licensure exemption also applies.
+[Prelicensing](/colorado/prelicensing) exemption: A producer who already holds both Property and Casualty authority in Colorado is exempt from the Personal Lines prelicensing education requirement — the 50-hour prelicensing course is not required. The Pearson VUE exam is still required unless the 90-day prior resident licensure exemption also applies.
 
 ### GENERAL KNOWLEDGE SECTION (75 Scored Questions)
 

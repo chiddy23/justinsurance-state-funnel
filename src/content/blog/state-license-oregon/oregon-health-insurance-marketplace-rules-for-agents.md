@@ -226,6 +226,6 @@ Explain tradeoffs. Help clients understand differences between plans, networks, 
 
 ## Build Your Oregon Health Insurance Practice
 
-Oregon's health insurance market — with its Marketplace, federal exchange, OHP, and certification requirements — creates real opportunity for producers willing to develop the necessary specialty knowledge. At JustInsurance, our Oregon CE and prelicense courses provide foundational knowledge for health insurance practice.
+Oregon's health insurance market — with its Marketplace, federal exchange, OHP, and certification requirements — creates real opportunity for producers willing to develop the necessary specialty knowledge. At JustInsurance, our Oregon CE and [prelicense](/oregon/prelicensing) courses provide foundational knowledge for health insurance practice.
 
 Enroll today and build your Oregon health insurance career on solid ground.

@@ -17,7 +17,7 @@ imageAlt: >-
   maryland insurance producer license.
 ---
 
-Maryland's insurance licensing process changed significantly in October 2024 — the state eliminated its prelicensing education requirement, making the Prometric exam the first mandatory step for virtually every candidate. This puts Maryland in the company of Virginia and Tennessee (which eliminated PLE in 2023) as states where exam preparation is self-directed. The exam is administered by Prometric (not PSI or Pearson VUE). There is no fingerprinting requirement — one of the cleanest application processes of all comparison states. The application fee is a modest $54 through NIPR. And Maryland's position as the #1 median household income state in the nation at $94,384 — with the NSA, NIH, FDA, Lockheed Martin, Booz Allen Hamilton, Johns Hopkins, and T. Rowe Price all within the state's borders — creates one of the most distinctive professional insurance markets on the East Coast. Here's the complete guide.
+Maryland's insurance licensing process changed significantly in October 2024 — the state eliminated its [prelicensing](/maryland/prelicensing) education requirement, making the Prometric exam the first mandatory step for virtually every candidate. This puts Maryland in the company of Virginia and Tennessee (which eliminated PLE in 2023) as states where exam preparation is self-directed. The exam is administered by Prometric (not PSI or Pearson VUE). There is no fingerprinting requirement — one of the cleanest application processes of all comparison states. The application fee is a modest $54 through NIPR. And Maryland's position as the #1 median household income state in the nation at $94,384 — with the NSA, NIH, FDA, Lockheed Martin, Booz Allen Hamilton, Johns Hopkins, and T. Rowe Price all within the state's borders — creates one of the most distinctive professional insurance markets on the East Coast. Here's the complete guide.
 
 ## Who Regulates Maryland Insurance
 
@@ -43,7 +43,7 @@ Recent regulatory update — Bulletin 24-19: Effective October 1, 2024, MIA issu
 
 Maryland eliminated its PLE requirement effective October 1, 2024. Candidates can schedule the Prometric exam immediately without completing any MIA-approved prelicensing course.
 
-Strong recommendation: Although PLE is no longer required, the Prometric exam covers both national insurance content and Maryland state law. Candidates who skip study preparation fail at significantly higher rates. JustInsurance's MIA-approved Maryland exam prep courses provide the structured preparation that maximizes first-attempt pass rates.
+Strong recommendation: Although PLE is no longer required, the Prometric exam covers both national insurance content and Maryland state law. Candidates who skip study preparation fail at significantly higher rates. JustInsurance's MIA-approved Maryland exam prep courses provide the structured preparation that maximizes first-attempt [pass rates](/pass-rates).
 
 Designation exemptions from exam (not PLE): Certain professional designations allow exam waiver:
 

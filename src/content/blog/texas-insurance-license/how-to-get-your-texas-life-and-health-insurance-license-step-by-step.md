@@ -22,7 +22,7 @@ Here's exactly how it works.
 
 ## Step 1: Complete Your Prelicense Education
 
-Before you can sit for the exam, Texas requires you to complete 40 hours of state-approved prelicense education for Life, Health, or Life & Health combined. This can be done online at your own pace, which means you can fit it around your current schedule.
+Before you can sit for the exam, Texas requires you to complete 40 hours of state-approved [prelicense](/texas/prelicensing) education for Life, Health, or Life & Health combined. This can be done online at your own pace, which means you can fit it around your current schedule.
 
 Your coursework covers the concepts you'll be tested on — policy types, state laws, insurance regulations, and ethics. Don't rush this part. The stronger your foundation here, the easier the exam becomes.
 
@@ -56,7 +56,7 @@ From start to finish, most people complete the Texas licensing process in 4 to 8
 - Can I take the prelicense course online? Yes. Texas allows fully online prelicense education, so you can study on your own schedule.
 - What happens if I fail the exam? You can retake it. Texas allows multiple attempts, though each retake requires a new registration fee. There's a waiting period between attempts.
 - Is my Texas license valid in other states? Texas has reciprocity agreements with many states, meaning you may be able to get licensed in other states without retaking the full exam. Check TDI's reciprocity list for specifics.
-- How long is my Texas insurance license valid? Your license is valid for 2 years. You'll need to complete continuing education (CE) hours before renewing.
+- How long is my Texas insurance license valid? Your license is valid for 2 years. You'll need to complete [continuing education](/texas/continuing-education) (CE) hours before renewing.
 
 ## Start Your Texas Insurance Career the Right Way
 

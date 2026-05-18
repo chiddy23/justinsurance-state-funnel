@@ -72,4 +72,4 @@ Yes. The Phase 2 minimums apply to all standard auto insurance policies in New J
 
 The 2026 minimum change is the most significant update to NJ auto liability requirements since the 2023 phase-in — and it represents the completion of a multi-year reform that brought New Jersey's coverage floor substantially closer to the actual cost of a serious auto accident in one of the country's most densely populated states.
 
-Visit JustInsurance to enroll today and master NJ auto insurance law as part of your Property and Casualty prelicensing preparation.
+Visit JustInsurance to enroll today and master NJ auto insurance law as part of your Property and Casualty [prelicensing](/new-jersey/prelicensing) preparation.

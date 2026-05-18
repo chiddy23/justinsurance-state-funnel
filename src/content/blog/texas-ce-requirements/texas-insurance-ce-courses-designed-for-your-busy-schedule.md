@@ -25,7 +25,7 @@ You’re not just checking a box or fulfilling a bureaucratic obligation. Instea
 
 ## Choose the right course format
 
-Today’s busy schedule calls for flexibility. Fortunately, you have several options that allow you to finish your continuing education on your own terms.
+Today’s busy schedule calls for flexibility. Fortunately, you have several options that allow you to finish your [continuing education](/texas/continuing-education) on your own terms.
 
 ### Online, live, or self-paced
 
@@ -45,7 +45,7 @@ Your daily responsibilities can make it challenging to carve out study time, so 
 2.  Take advantage of mobile apps. Some course providers optimize their lessons for tablets and smartphones, letting you study whenever you have a moment—waiting at the doctor’s office or between client calls.
 3.  Streamline course selection. If ethics is mandatory, combine it with a second topic that aligns with your professional interests. You cover multiple required learning objectives without extra hours spent on unrelated material.
 4.  Use practice quizzes. Brief quizzes not only help you test your knowledge, they also reinforce concepts in less time than rereading the same chapters.
-5.  Set personal milestones. Give yourself small rewards each time you hit a milestone. It could be finishing the introduction to a new topic or scoring well on a practice exam.
+5.  Set personal milestones. Give yourself small rewards each time you hit a milestone. It could be finishing the introduction to a new topic or scoring well on a [practice exam](/texas/practice-exam).
 
 By implementing these strategies, you keep distractions to a minimum, stay on track with your lessons, and move closer to fulfilling your CE obligations.
 

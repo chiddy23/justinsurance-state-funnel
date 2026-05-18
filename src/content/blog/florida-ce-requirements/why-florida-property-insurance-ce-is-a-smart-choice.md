@@ -18,7 +18,7 @@ imageCredit: Photo by cottonbro studio on Pexels
 
 Understand [Florida property insurance CE](/florida/continuing-education)
 
-Florida property insurance continuing education (CE) is all about enhancing your insurance knowledge so you can protect families and businesses with greater confidence. By staying current with Florida’s evolving regulations and best practices, you keep your license active and demonstrate your commitment to professional excellence. As you prepare to meet your ongoing CE obligations, you also reinforce your reputation as a trustworthy insurance agent.
+Florida property insurance [continuing education](/florida/continuing-education) (CE) is all about enhancing your insurance knowledge so you can protect families and businesses with greater confidence. By staying current with Florida’s evolving regulations and best practices, you keep your license active and demonstrate your commitment to professional excellence. As you prepare to meet your ongoing CE obligations, you also reinforce your reputation as a trustworthy insurance agent.
 
 In Florida, property insurance covers everything from single-family homes to commercial properties and condominium complexes. Because of the state’s unique risks—such as hurricanes, sinkholes, and floods—property insurance requirements can shift at any time. Completing your CE hours helps you stay up to speed on these changes, so your clients always benefit from the most accurate guidance possible.
 

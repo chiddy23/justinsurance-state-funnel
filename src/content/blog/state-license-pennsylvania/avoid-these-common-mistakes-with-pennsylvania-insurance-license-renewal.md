@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Jonathan Borba on Pexels
 ---
 
-Before you submit your next [Pennsylvania insurance license](/pennsylvania) renewal application, it helps to know the most common pitfalls and how to avoid them. Even if you are just beginning your journey toward becoming a licensed insurance agent, understanding these issues now will prevent headaches later. Below, you will find simple steps and clear guidance to keep your license in good standing, fulfill your continuing education requirements, and sidestep last-minute scrambling.
+Before you submit your next [Pennsylvania insurance license](/pennsylvania) renewal application, it helps to know the most common pitfalls and how to avoid them. Even if you are just beginning your journey toward becoming a licensed insurance agent, understanding these issues now will prevent headaches later. Below, you will find simple steps and clear guidance to keep your license in good standing, fulfill your [continuing education](/pennsylvania/continuing-education) requirements, and sidestep last-minute scrambling.
 
 ## Know the renewal basics
 

@@ -24,7 +24,7 @@ Navigating the north carolina insurance license renewal and initial licensing pr
 
 ## Understand the basics
 
-Before focusing on renewals, it helps to know the path you’ll take to get your license in the first place. In North Carolina, you typically need to complete a specific set of pre-licensing steps to become eligible for the state exam. You’ll pick the type of insurance license you want—like life, health, property, or casualty—and then follow the education requirements for that category.
+Before focusing on renewals, it helps to know the path you’ll take to get your license in the first place. In North Carolina, you typically need to complete a specific set of [pre-licensing](/north-carolina/prelicensing) steps to become eligible for the state exam. You’ll pick the type of insurance license you want—like life, health, property, or casualty—and then follow the education requirements for that category.
 
 Having a clear grasp of what the [North Carolina Department of Insurance](/north-carolina/requirements) expects lets you streamline your prep time. You’ll learn exactly which documents to collect, how many hours of pre-licensing education you’ll need, and how to handle background checks if required. Once you see the process laid out in front of you, it won’t seem so complicated.
 
@@ -74,7 +74,7 @@ Look for industry professionals who have done it themselves or who have guided o
 
 ## Key takeaways and next steps
 
-Remember that each phase of getting and keeping your North Carolina insurance license builds on the last. Everything you learn in pre-licensing courses and continuing education goes straight into your daily work, so embrace the full journey:
+Remember that each phase of getting and keeping your North Carolina insurance license builds on the last. Everything you learn in pre-licensing courses and [continuing education](/north-carolina/continuing-education) goes straight into your daily work, so embrace the full journey:
 
 -   Organize your pre-licensing course selection so you’re confident for the state exam.
 -   Submit all documents and schedule your exam early, when you’re best prepared.

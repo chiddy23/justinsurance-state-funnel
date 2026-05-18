@@ -16,7 +16,7 @@ imageAlt: >-
   carolina insurance prelicense education update.
 ---
 
-North Carolina recently joined a group of states that don't require prelicense education for insurance producer licensure — a change that took effect October 1, 2025 under House Bill 737 (Session Law 2025-45). This update fundamentally changes how North Carolina candidates approach licensure, removing what was previously a 20-hour-per-line prelicense requirement (40 hours for combined Life/Accident & Health). Understanding what this change means and how to prepare effectively without mandatory PLE is essential for new candidates.
+North Carolina recently joined a group of states that don't require [prelicense](/north-carolina/prelicensing) education for insurance producer licensure — a change that took effect October 1, 2025 under House Bill 737 (Session Law 2025-45). This update fundamentally changes how North Carolina candidates approach licensure, removing what was previously a 20-hour-per-line prelicense requirement (40 hours for combined Life/Accident & Health). Understanding what this change means and how to prepare effectively without mandatory PLE is essential for new candidates.
 
 Here's everything you need to know about North Carolina insurance prelicense education requirements.
 
@@ -96,13 +96,13 @@ These exemptions are now moot since PLE is no longer required for any candidates
 
 Even though PLE is no longer required, most successful North Carolina candidates still complete prelicense study:
 
-Pass rate matters. Quality prelicense courses substantially improve first-attempt pass rates. North Carolina's 70% passing requirement (at least 39 of 55 questions correct) and substantial content coverage make preparation important.
+[Pass rate](/pass-rates) matters. Quality prelicense courses substantially improve first-attempt pass rates. North Carolina's 70% passing requirement (at least 39 of 55 questions correct) and substantial content coverage make preparation important.
 
 Multiple separate exams. North Carolina has separate exams for each line — no combined L&H or P&C options. Multiple exams require multiple preparation efforts. Each exam costs $45 — failing wastes money.
 
 Content coverage. Each North Carolina exam covers extensive material including general insurance principles, specific product knowledge, and North Carolina-specific laws.
 
-Practice exam access. Quality prelicense courses include practice exams that mirror the actual state exam format and content.
+[Practice exam](/north-carolina/practice-exam) access. Quality prelicense courses include practice exams that mirror the actual state exam format and content.
 
 Study structure. Self-study without structure often leads to inefficient learning. Quality courses provide systematic content delivery.
 

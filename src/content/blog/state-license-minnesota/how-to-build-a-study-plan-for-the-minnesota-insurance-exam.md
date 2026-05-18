@@ -22,7 +22,7 @@ The general section covers foundational insurance principles that apply across a
 
 The state-specific section covers Minnesota insurance law, statutes, and regulations that are unique to this state. This material has no familiarity advantage — it requires deliberate study of specific statutory provisions, specific numbers, specific definitions, and specific regulatory procedures that you will not find in your general professional background. This is where the exam is hardest for most candidates and where targeted study time pays the highest return.
 
-The content outline: PSI publishes the content outline for each Minnesota insurance exam in its Candidate Information Bulletin. Your prelicensing course is built to this outline. Treat the content outline as your master checklist — every topic on it is a potential source of exam questions, and every topic you have not studied is a gap that could cost you points.
+The content outline: PSI publishes the content outline for each Minnesota insurance exam in its Candidate Information Bulletin. Your [prelicensing](/minnesota/prelicensing) course is built to this outline. Treat the content outline as your master checklist — every topic on it is a potential source of exam questions, and every topic you have not studied is a gap that could cost you points.
 
 ### Step 1: Know Your Timeline
 
@@ -58,7 +58,7 @@ Opening (5 minutes): Brief review of what you covered in the previous session. D
 
 New content (45–60 minutes): Cover new material from your prelicensing course or study notes. As you cover each topic, stop and ask yourself: what is the exam likely to ask about this? Write down the key numbers, definitions, and rules — particularly any specific statutory provisions or numerical thresholds.
 
-Practice questions (20–30 minutes): After covering new content, complete 15–25 practice questions specifically on the topics you just studied. Do not wait until you have covered everything to start practice questions — immediate post-study practice testing is the most effective retention tool available.
+[Practice questions](/minnesota/practice-exam) (20–30 minutes): After covering new content, complete 15–25 practice questions specifically on the topics you just studied. Do not wait until you have covered everything to start practice questions — immediate post-study practice testing is the most effective retention tool available.
 
 Review wrong answers (10–15 minutes): For every practice question you answered incorrectly, identify why you got it wrong. Was it a factual gap (you did not know the rule)? A reading error (you misread the question)? A distractor confusion (you chose the plausible-but-wrong answer)? Each type of error has a different remedy.
 
@@ -228,7 +228,7 @@ Brief review of your reference sheet only — no new material
 
 How many practice questions should I complete before my exam?
 
-There is no single correct number, but candidates who complete 300–500 practice questions before their PSI exam — across their full study period — consistently report higher first-attempt pass rates than those who complete fewer. The key is not the quantity alone but the quality of the review after each practice session. A candidate who completes 200 questions and thoroughly analyzes every wrong answer will outperform a candidate who completes 500 questions and moves on without reviewing mistakes. JustInsurance's Minnesota prelicensing course includes a full-length practice exam designed to mirror the actual PSI question format — use it as your benchmark tool for exam readiness.
+There is no single correct number, but candidates who complete 300–500 practice questions before their PSI exam — across their full study period — consistently report higher first-attempt [pass rates](/pass-rates) than those who complete fewer. The key is not the quantity alone but the quality of the review after each practice session. A candidate who completes 200 questions and thoroughly analyzes every wrong answer will outperform a candidate who completes 500 questions and moves on without reviewing mistakes. JustInsurance's Minnesota prelicensing course includes a full-length practice exam designed to mirror the actual PSI question format — use it as your benchmark tool for exam readiness.
 
 I'm studying for both the P&C and Life and A&H exams simultaneously. Should I study all four lines at once or sequentially?
 

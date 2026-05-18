@@ -42,7 +42,7 @@ License prerequisites (before training):
 
 Active North Carolina Accident & Health or Sickness license
 
-Active North Carolina Medicare Supplement/Long-Term Care limited lines license (requires a 10-hour prelicense course and separate exam — or was required before PLE elimination effective October 1, 2025)
+Active North Carolina Medicare Supplement/Long-Term Care limited lines license (requires a 10-hour [prelicense](/north-carolina/prelicensing) course and separate exam — or was required before PLE elimination effective October 1, 2025)
 
 Training requirements:
 
@@ -274,7 +274,7 @@ Specialty training integrates efficiently into the 24-hour requirement — you'r
 
 ## Military/Disability Waiver Note for LTC
 
-An important distinction: if you receive a CE waiver for military service or long-term medical disability, your LTC training requirement is NOT waived. The CE waiver only covers the general 24-hour continuing education requirement. LTC training must still be maintained even if CE is waived.
+An important distinction: if you receive a CE waiver for military service or long-term medical disability, your LTC training requirement is NOT waived. The CE waiver only covers the general 24-hour [continuing education](/north-carolina/continuing-education) requirement. LTC training must still be maintained even if CE is waived.
 
 This means LTC producers on military deployment still need to address their LTC ongoing training during waiver periods.
 

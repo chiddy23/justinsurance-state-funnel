@@ -49,7 +49,7 @@ Pass background check
 
 Comply with Massachusetts insurance laws when conducting business in MA
 
-Massachusetts has reciprocity arrangements with most states, meaning if you meet your home state's requirements, you typically qualify for a Massachusetts non-resident license without retaking exams or completing additional prelicense.
+Massachusetts has reciprocity arrangements with most states, meaning if you meet your home state's requirements, you typically qualify for a Massachusetts non-resident license without retaking exams or completing additional [prelicense](/massachusetts/prelicensing).
 
 ## The Reciprocity Advantage
 

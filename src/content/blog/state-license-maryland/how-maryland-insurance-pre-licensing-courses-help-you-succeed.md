@@ -15,7 +15,7 @@ imageAlt: Young man in an office using smartphone while working at a computer de
 imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
-If you live in Maryland and plan to earn your insurance license, taking [Maryland insurance pre-licensing courses](/maryland/prelicensing) can significantly boost your chances of passing the exam and building confidence in your new career path. Pre-licensing courses are designed to guide you through the complex industry landscape, from regulations to product specifics, so you can walk into the state exam fully prepared. Whether you’re switching careers or just starting out, you’ll find a structured approach that clarifies exactly what you need to know to succeed.
+If you live in Maryland and plan to earn your insurance license, taking [Maryland insurance pre-licensing courses](/maryland/prelicensing) can significantly boost your chances of passing the exam and building confidence in your new career path. [Pre-licensing](/maryland/prelicensing) courses are designed to guide you through the complex industry landscape, from regulations to product specifics, so you can walk into the state exam fully prepared. Whether you’re switching careers or just starting out, you’ll find a structured approach that clarifies exactly what you need to know to succeed.
 
 By learning core insurance principles and state requirements in a supportive environment, you set yourself up for a smooth testing experience. Below, you’ll discover how these courses work, the advantages they offer, and how to choose one that best meets your goals.
 
@@ -23,7 +23,7 @@ By learning core insurance principles and state requirements in a supportive env
 
 Maryland, like all states, mandates that prospective insurance producers complete a designated number of pre-licensing hours for each line of authority. Common lines of authority include Life & Health and Property & Casualty. Completing these prerequisites ensures you have the foundational knowledge required to serve clients ethically and responsibly.
 
-In most cases, you can enroll in in-person or online classes. Both formats meet the state’s hour requirements and tend to feature study guides, practice questions, and exam simulations. Maryland’s Office of the Commissioner sets the rules, so you know your education will be relevant and up-to-date. It’s a good idea to double-check the latest guidelines on official state resources before getting started so you always follow the current standards.
+In most cases, you can enroll in in-person or online classes. Both formats meet the state’s hour requirements and tend to feature study guides, [practice questions](/maryland/practice-exam), and exam simulations. Maryland’s Office of the Commissioner sets the rules, so you know your education will be relevant and up-to-date. It’s a good idea to double-check the latest guidelines on official state resources before getting started so you always follow the current standards.
 
 ## Boost your exam readiness
 

@@ -128,6 +128,6 @@ Understand Washington Healthplanfinder certification as an early revenue source 
 
 ## Start Your Washington Insurance Income Right
 
-Washington's combination of no state income tax, technology industry wealth, and diverse market opportunities creates strong career income foundations. At JustInsurance, our Washington prelicense and CE courses prepare you for the exam and for building income in this distinctive market.
+Washington's combination of no state income tax, technology industry wealth, and diverse market opportunities creates strong career income foundations. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses prepare you for the exam and for building income in this distinctive market.
 
 Enroll today and start building your Washington insurance income.

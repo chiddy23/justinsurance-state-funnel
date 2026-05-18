@@ -118,6 +118,6 @@ Build referral systems from the first client interaction
 
 ## Start Your Arizona Insurance Income Right
 
-Arizona's combination of population growth, tax advantages, and specialty market depth creates strong career income foundations. At JustInsurance, our Arizona prelicense course prepares you for the exam and for building income in this distinctive market.
+Arizona's combination of population growth, tax advantages, and specialty market depth creates strong career income foundations. At JustInsurance, our Arizona [prelicense](/arizona/prelicensing) course prepares you for the exam and for building income in this distinctive market.
 
 Enroll today and start building your Arizona insurance income.

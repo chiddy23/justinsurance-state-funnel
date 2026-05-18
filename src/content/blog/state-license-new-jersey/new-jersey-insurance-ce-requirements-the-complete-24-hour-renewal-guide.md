@@ -12,7 +12,7 @@ image: /blog/images/unlock-your-career-with-a-new-jersey-insurance-license-today
 imageAlt: "New Jersey Insurance CE Requirements: The Complete 24-Hour Renewal Guide"
 ---
 
-New Jersey is one of a relatively small number of states that mandates not just a total CE hour count but a specific delivery format minimum — and that distinction catches licensed producers off guard every renewal cycle. You cannot satisfy New Jersey's 24-hour continuing education requirement entirely through self-paced online courses. At least 12 of your 24 required hours must be completed through classroom instruction or classroom-equivalent delivery, meaning live instruction with real-time interaction between instructor and students. That single rule shapes how every NJ producer should plan their CE before each biennial renewal deadline.
+New Jersey is one of a relatively small number of states that mandates not just a total CE hour count but a specific delivery format minimum — and that distinction catches licensed producers off guard every renewal cycle. You cannot satisfy New Jersey's 24-hour [continuing education](/new-jersey/continuing-education) requirement entirely through self-paced online courses. At least 12 of your 24 required hours must be completed through classroom instruction or classroom-equivalent delivery, meaning live instruction with real-time interaction between instructor and students. That single rule shapes how every NJ producer should plan their CE before each biennial renewal deadline.
 
 ### The Core Requirement at a Glance
 
@@ -64,7 +64,7 @@ DOBI sends renewal notices at least 30 days before expiration. Your renewal wind
 
 ### What Happens If You Miss Your Renewal Deadline
 
-New Jersey allows a 30-day grace period after the expiration date with no penalty. After 30 days, your license becomes inactive and you cannot legally transact insurance business. You then have up to one year from your original expiration date to reinstate your license by paying a $100 reinstatement fee in addition to the standard renewal fee. After one full year past expiration, reinstatement is no longer available — you must apply for a new license as if you were getting licensed for the first time, including prelicensing education and the PSI exam.
+New Jersey allows a 30-day grace period after the expiration date with no penalty. After 30 days, your license becomes inactive and you cannot legally transact insurance business. You then have up to one year from your original expiration date to reinstate your license by paying a $100 reinstatement fee in addition to the standard renewal fee. After one full year past expiration, reinstatement is no longer available — you must apply for a new license as if you were getting licensed for the first time, including [prelicensing](/new-jersey/prelicensing) education and the PSI exam.
 
 ### Frequently Asked Questions
 

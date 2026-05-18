@@ -21,7 +21,7 @@ Maryland's CE system uses Prometric as both the MIA's licensing exam vendor and 
 
 ## Where to Find Approved Providers
 
-Primary official source: insurance.maryland.gov → Continuing Education
+Primary official source: insurance.maryland.gov → [Continuing Education](/maryland/continuing-education)
 
 Prometric CE platform: Visit prometric.com or contact (800) 610-1174 to access the Prometric CE portal for Maryland. CE transcript inquiry, course searches, and renewal coordination flow through the Prometric system.
 

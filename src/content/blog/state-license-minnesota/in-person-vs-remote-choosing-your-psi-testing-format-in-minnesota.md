@@ -27,7 +27,7 @@ Results are immediate in both formats. Your pass or fail result appears on scree
 
 Exam fee is identical. $45 per major lines exam regardless of format.
 
-The Certificate of Completion requirement applies to both. You must have your prelicensing Certificate of Completion before scheduling either format. You present it at the test center check-in for in-person testing; for remote testing, you present it to the proctor's camera during identity verification.
+The Certificate of Completion requirement applies to both. You must have your [prelicensing](/minnesota/prelicensing) Certificate of Completion before scheduling either format. You present it at the test center check-in for in-person testing; for remote testing, you present it to the proctor's camera during identity verification.
 
 Exam results validity is identical. Three years from the date of passing, regardless of testing format.
 

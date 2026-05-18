@@ -20,7 +20,7 @@ Whether you are brand-new to Arizona or relocating from another state, understan
 
 ## Understand basic licensing costs
 
-The state of Arizona requires you to complete certain steps before earning your insurance license. Fees typically come from a few key areas: your pre-licensing education, fingerprinting for a background check, the state exam, and your application.
+The state of Arizona requires you to complete certain steps before earning your insurance license. Fees typically come from a few key areas: your [pre-licensing](/arizona/prelicensing) education, fingerprinting for a background check, the state exam, and your application.
 
 First, you need to pay for an [Arizona insurance prelicensing](/arizona/prelicensing) course that covers the material for your specific lines of authority, such as Life & Health or Property & Casualty. Next, you must submit fingerprints to the [Arizona Department of Insurance and Financial Institutions](/arizona/requirements) (DIFI), which usually involves an additional fee. You will also pay to sit for the official licensing exam, plus a separate application fee to finalize your license.
 

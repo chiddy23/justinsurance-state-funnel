@@ -111,7 +111,7 @@ Washington Healthplanfinder certification: If you plan to sell individual market
 
 Washington's November 1, 2024 rule update changed lapsed license requirements:
 
-Old rule: Lapsed licenses of more than 12 months required prelicense education before relicensing.
+Old rule: Lapsed licenses of more than 12 months required [prelicense](/washington/prelicensing) education before relicensing.
 
 New rule (effective November 1, 2024): Lapsed licenses of more than 12 months no longer require prelicense education — consistent with Washington eliminating PLE for all new applicants in 2023.
 

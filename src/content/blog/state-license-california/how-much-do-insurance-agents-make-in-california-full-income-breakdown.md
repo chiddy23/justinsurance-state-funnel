@@ -93,6 +93,6 @@ Regulatory environment. California's strong consumer protection framework means 
 
 ## Start Your California Insurance Income Right
 
-California offers real earning potential for agents who commit to the career. At JustInsurance, our California prelicense course prepares you for the exam and for the real work of building income in this market.
+California offers real earning potential for agents who commit to the career. At JustInsurance, our California [prelicense](/california/prelicensing) course prepares you for the exam and for the real work of building income in this market.
 
 Enroll today and start building your California insurance income.

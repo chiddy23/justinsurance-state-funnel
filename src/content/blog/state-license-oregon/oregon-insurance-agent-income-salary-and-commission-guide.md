@@ -134,6 +134,6 @@ Each model has different income trajectories and lifestyle implications.
 
 ## Start Your Oregon Insurance Income Right
 
-Oregon offers real earning potential for agents who commit to the career. At JustInsurance, our Oregon prelicense and CE courses prepare you for the licensing exam and for the real work of building income in this market.
+Oregon offers real earning potential for agents who commit to the career. At JustInsurance, our Oregon [prelicense](/oregon/prelicensing) and CE courses prepare you for the licensing exam and for the real work of building income in this market.
 
 Enroll today and start building your Oregon insurance income.

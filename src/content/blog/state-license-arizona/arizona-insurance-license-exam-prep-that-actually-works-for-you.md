@@ -46,13 +46,13 @@ Effective [Arizona insurance license](/arizona) exam prep goes beyond memorizing
 1.  Read each question carefully. Many questions hinge on nuanced words like “except” or “most likely.” Underlining or mentally highlighting key terms can prevent misunderstandings.
 2.  Use elimination. If you see three plausible answers and one outlandish option, strategically remove the clearly wrong choice first. This narrows your odds even if you’re unsure.
 3.  Keep an eye on the clock. If you get stuck on a tough question, mark it for review (if the exam system allows) and move on. You can return to it later.
-4.  Pay attention to state-specific rules. Arizona’s licensing laws and continuing education requirements can differ from other states, so double-check those details in your study material rather than relying on general insurance knowledge alone.
+4.  Pay attention to state-specific rules. Arizona’s licensing laws and [continuing education](/arizona/continuing-education) requirements can differ from other states, so double-check those details in your study material rather than relying on general insurance knowledge alone.
 
 You might also consider taking a prep course. Some learners do well studying on their own, while others benefit from a structured, instructor-led environment. Providers like JustInsurance have [Arizona insurance prelicensing](/arizona/prelicensing) courses tailored to Arizona’s requirements, offering updated practice exams and easy-to-read materials so you never feel lost.
 
 ## Try sample practice questions
 
-One of the most effective ways to prepare is to simulate the real test environment. Practice questions reveal tricky areas you might have overlooked and help you refine your test-taking strategy. Here are a few sample questions to check your knowledge:
+One of the most effective ways to prepare is to simulate the real test environment. [Practice questions](/arizona/practice-exam) reveal tricky areas you might have overlooked and help you refine your test-taking strategy. Here are a few sample questions to check your knowledge:
 
 1.  Which of the following is a requirement for maintaining an active insurance license in Arizona?  
     A. Maintaining minimum monthly sales  
@@ -80,7 +80,7 @@ Below are five of the most common questions about the Arizona insurance license 
     You can register online through your chosen exam provider’s website. Most providers let you set an exam date and test location based on availability.
 2.  How much does the licensing exam cost?  
     Fees vary depending on your testing provider and which line of authority you’re pursuing. Expect to pay anywhere from around $40 to $70 per exam.
-3.  Do I need to complete a pre-licensing course?  
+3.  Do I need to complete a [pre-licensing](/arizona/prelicensing) course?  
     Arizona does not currently mandate a set number of classroom hours for pre-licensing, but taking a course is strongly recommended. Classes help you focus your study and get updated info on state regulations.
 4.  What if I fail on my first try?  
     You can retake the exam, although you will need to pay the registration fee again. Use your score report to pinpoint weak topics and revise your study plan before scheduling a retake.

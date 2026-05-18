@@ -16,7 +16,7 @@ The Minnesota PSI insurance exam has a 70% passing threshold. That number is ach
 
 ### Failure Pattern 1: Treating Prelicensing as Exam Preparation
 
-What failing candidates do: They complete the 20-hour prelicensing course, pass the internal certification exam, receive their Certificate of Completion, and schedule their PSI exam — all within a few days of each other. They treat the prelicensing completion as equivalent to exam readiness.
+What failing candidates do: They complete the 20-hour [prelicensing](/minnesota/prelicensing) course, pass the internal certification exam, receive their Certificate of Completion, and schedule their PSI exam — all within a few days of each other. They treat the prelicensing completion as equivalent to exam readiness.
 
 Why this fails: The 20-hour prelicensing requirement exists to satisfy Minn. Stat. §60K.36 Subd. 4 — the statutory prelicensing education mandate. It ensures that every applicant has been exposed to the content of the line they are applying for. It does not ensure that they have retained that content at the depth and precision that a 70% score on an 85-question exam requires. The prelicensing course introduces the material. Exam readiness requires that the material be retrievable under exam conditions — from memory, under time pressure, applied to fact patterns rather than presented in explanatory text.
 
@@ -44,7 +44,7 @@ A candidate who has spent 20 hours reading their course materials can read the q
 
 What top scorers do instead: Top scorers study actively — specifically through retrieval practice. They close their notes and attempt to write from memory everything they know about a topic. They use flashcards where they see a prompt and produce the answer before flipping the card. They practice explaining topics out loud as if teaching someone who knows nothing. They take full-length practice exams under timed conditions without any reference materials available — simulating exam conditions precisely. When they check their answers and find errors, they do not simply note the correct answer — they analyze why they chose the wrong answer and what the distinguishing feature of the correct answer is.
 
-The research on learning consistently shows that retrieval practice — attempting to recall information — produces stronger long-term retention than re-reading the same material. Top scorers use this principle deliberately. Every study session includes at least one active recall exercise. Every practice exam is followed by analysis of wrong answers, not simply a tally of the score.
+The research on learning consistently shows that retrieval practice — attempting to recall information — produces stronger long-term retention than re-reading the same material. Top scorers use this principle deliberately. Every study session includes at least one active recall exercise. Every [practice exam](/minnesota/practice-exam) is followed by analysis of wrong answers, not simply a tally of the score.
 
 ### Failure Pattern 4: Ignoring Specific Numerical Facts
 

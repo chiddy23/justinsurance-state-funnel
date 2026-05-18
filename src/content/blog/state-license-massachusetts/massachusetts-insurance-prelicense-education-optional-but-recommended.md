@@ -17,7 +17,7 @@ imageAlt: >-
   massachusetts insurance prelicense education: optional but r.
 ---
 
-Massachusetts is one of the few states in the country where insurance producer prelicense education is optional rather than required. Pursuant to Massachusetts General Laws Chapter 175, §162L, pre-licensing education is no longer required for individuals seeking licensure as insurance producers. But here's the catch — Massachusetts has one of the more difficult state exams in the country, and most candidates who skip prelicense end up failing the exam.
+Massachusetts is one of the few states in the country where insurance producer [prelicense](/massachusetts/prelicensing) education is optional rather than required. Pursuant to Massachusetts General Laws Chapter 175, §162L, pre-licensing education is no longer required for individuals seeking licensure as insurance producers. But here's the catch — Massachusetts has one of the more difficult state exams in the country, and most candidates who skip prelicense end up failing the exam.
 
 Here's everything you need to know about Massachusetts insurance prelicense education.
 
@@ -183,7 +183,7 @@ Comprehensive Massachusetts-specific content. Generic national content isn't eno
 
 Practice exams. Multiple full-length practice exams under exam-like conditions.
 
-Practice question banks. Substantial volume of practice questions covering all content areas.
+Practice question banks. Substantial volume of [practice questions](/massachusetts/practice-exam) covering all content areas.
 
 Up-to-date content. Massachusetts insurance regulations evolve. Content should reflect current rules.
 
@@ -207,7 +207,7 @@ Time savings: Structured prelicense often takes less total time than disorganize
 
 Knowledge benefit: Prelicense knowledge supports your insurance career, not just the exam.
 
-For most candidates, investing $150-400 in quality prelicense to save time and improve pass rates is straightforward economics.
+For most candidates, investing $150-400 in quality prelicense to save time and improve [pass rates](/pass-rates) is straightforward economics.
 
 ## Self-Study Without Formal Prelicense
 
@@ -261,7 +261,7 @@ Start your Massachusetts insurance career
 
 ## Continuing Education After Licensure
 
-Once licensed, Massachusetts requires continuing education:
+Once licensed, Massachusetts requires [continuing education](/massachusetts/continuing-education):
 
 Initial 36-month period: 60 hours of CE (with 3 ethics hours)
 

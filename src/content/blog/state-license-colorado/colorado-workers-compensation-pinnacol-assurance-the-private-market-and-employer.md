@@ -162,4 +162,4 @@ The employer should report the claim to their workers' comp carrier immediately,
 
 Colorado's workers' compensation market is structured to ensure that every Colorado worker with a work-related injury has access to benefits and that every Colorado employer has access to coverage — through the competitive private market for preferred risks and through Pinnacol's insurer-of-last-resort function for everyone else. The 12 consecutive years of declining loss costs reflect a genuinely improving safety environment, and the one-employee coverage threshold ensures that no Colorado worker is excluded from protection simply because their employer is small. Producers who understand this framework serve their business clients as genuine advisors — not just policy placers.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course covering every workers' compensation provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course covering every workers' compensation provision tested on the Pearson VUE exam.

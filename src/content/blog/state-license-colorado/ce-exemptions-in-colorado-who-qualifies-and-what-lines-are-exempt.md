@@ -36,7 +36,7 @@ A newly licensed producer who sells claims-made policies must complete the 2-hou
 
 The specialty training prerequisites are not CE in the conventional biennial sense — they are product-specific prerequisites that activate at the point of selling. The CE exemption does not delay them.
 
-The practical implication: A producer who completes only prelicensing, passes the state exam, obtains their license, and immediately begins selling annuities without the Annuity Best Interest training has violated Colorado Regulation 4-1-8, even though their biennial CE is not yet required. "I'm exempt from CE" is an accurate statement about the 24-hour biennial requirement. It is not an accurate statement about specialty training prerequisites.
+The practical implication: A producer who completes only [prelicensing](/colorado/prelicensing), passes the state exam, obtains their license, and immediately begins selling annuities without the Annuity Best Interest training has violated Colorado Regulation 4-1-8, even though their biennial CE is not yet required. "I'm exempt from CE" is an accurate statement about the 24-hour biennial requirement. It is not an accurate statement about specialty training prerequisites.
 
 ### Exemption 2: Non-Resident Producers — Home State CE Compliance Deemed Sufficient
 

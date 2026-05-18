@@ -220,4 +220,4 @@ They address the same ethical concern from different legal angles. Misrepresenta
 
 Colorado's unfair trade practices law draws clear, enforceable boundaries around every producer's conduct. The eight prohibited acts are not abstract regulatory concepts — they are the specific behaviors that generate the majority of Division enforcement actions, license revocations, and civil penalties against Colorado producers each year. Producers who can articulate precisely what each prohibition covers, what triggers it, and what distinguishes it from permissible conduct operate with the kind of informed clarity that prevents violations rather than reacting to them after the fact.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course covering every unfair trade practices provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course covering every unfair trade practices provision tested on the Pearson VUE exam.

@@ -27,9 +27,9 @@ Most successful first-time Nevada candidates put in 50-100 hours of total prepar
 
 This includes:
 
-Prelicense course material study (recommended even though not required)
+[Prelicense](/nevada/prelicensing) course material study (recommended even though not required)
 
-Practice questions
+[Practice questions](/nevada/practice-exam)
 
 Full-length practice exams
 

@@ -208,6 +208,6 @@ Breathe. If anxiety hits during the exam, pause for three deep breaths. Reset, t
 
 ## Walk Into Test Day Prepared
 
-Knowing what to expect removes half the stress. At JustInsurance, our Georgia prelicense course covers everything on the exam — plus practice questions that mirror the real exam's style and difficulty.
+Knowing what to expect removes half the stress. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) course covers everything on the exam — plus [practice questions](/georgia/practice-exam) that mirror the real exam's style and difficulty.
 
 Enroll today and walk into your Georgia exam prepared for every part of the experience.

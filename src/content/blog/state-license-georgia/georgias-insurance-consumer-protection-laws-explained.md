@@ -170,6 +170,6 @@ Prompt compliance cooperation. If OCI investigates a complaint, cooperate fully 
 
 ## Build a Practice That Naturally Serves Clients
 
-Compliance and consumer protection aren't constraints on a good insurance practice — they're its foundation. At JustInsurance, our Georgia prelicense and CE courses cover consumer protection rules in practical detail.
+Compliance and consumer protection aren't constraints on a good insurance practice — they're its foundation. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses cover consumer protection rules in practical detail.
 
 Enroll today and build a Georgia insurance career grounded in compliance and client service.

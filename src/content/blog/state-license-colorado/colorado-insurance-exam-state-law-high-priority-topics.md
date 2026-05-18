@@ -16,7 +16,7 @@ Every Colorado insurance licensing exam — Life, Accident & Health, Property, C
 
 ### Why the State Section Decides Your Score
 
-The arithmetic is straightforward and routinely underestimated. Your Colorado prelicensing course spends 40 of 50 hours on general insurance content and 10 hours on Colorado-specific material. Yet the state section generates 37.5% of your scored questions. That ratio — 20% of your study time producing 37.5% of your exam score — is the structural imbalance that causes prepared candidates to fail.
+The arithmetic is straightforward and routinely underestimated. Your Colorado [prelicensing](/colorado/prelicensing) course spends 40 of 50 hours on general insurance content and 10 hours on Colorado-specific material. Yet the state section generates 37.5% of your scored questions. That ratio — 20% of your study time producing 37.5% of your exam score — is the structural imbalance that causes prepared candidates to fail.
 
 The state section divides into two parts on every exam. Section I covers Colorado statutes common to all lines — the same 19–20 questions regardless of whether you are taking Life, A&H, Property, Casualty, or Personal Lines. Section II covers line-specific Colorado statutes — 10–11 questions that differ by exam line. Section I alone represents approximately two-thirds of the entire state section. Master it once and it transfers to every line.
 

@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements: what every agent needs .
 ---
 
-If you're a licensed Louisiana insurance producer approaching your renewal deadline — or you're newly licensed and want to understand what comes next — this guide covers everything you need to know about the state's continuing education requirements. The Louisiana Department of Insurance requires all active resident producers to complete 24 hours of approved CE every two years, including 3 hours of ethics. Miss the deadline, and your license cannot be renewed. Stay on top of it, and renewal is a straightforward process. Here is exactly how it works.
+If you're a licensed Louisiana insurance producer approaching your renewal deadline — or you're newly licensed and want to understand what comes next — this guide covers everything you need to know about the state's [continuing education](/louisiana/continuing-education) requirements. The Louisiana Department of Insurance requires all active resident producers to complete 24 hours of approved CE every two years, including 3 hours of ethics. Miss the deadline, and your license cannot be renewed. Stay on top of it, and renewal is a straightforward process. Here is exactly how it works.
 
 ## The Basic CE Requirement
 

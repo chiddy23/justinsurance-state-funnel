@@ -16,7 +16,7 @@ imageAlt: Senior man engaging with consultants at a business meeting indoors.
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-If you plan to become a licensed insurance agent in Florida, having a clear [florida insurance license](/florida) study guide is one of the most effective ways to prepare. It can feel intimidating at first—there are rules to learn, pre-licensing steps to complete, and exams to schedule. The good news is that with the right approach, you can tackle each step confidently and achieve your goal of working in Florida’s insurance industry.
+If you plan to become a licensed insurance agent in Florida, having a clear [florida insurance license](/florida) study guide is one of the most effective ways to prepare. It can feel intimidating at first—there are rules to learn, [pre-licensing](/florida/prelicensing) steps to complete, and exams to schedule. The good news is that with the right approach, you can tackle each step confidently and achieve your goal of working in Florida’s insurance industry.
 
 Below, you will find a straightforward path toward your license, from understanding basic requirements to setting yourself up for success on exam day. By the end, you will know exactly what to do next and how to keep moving forward with your new credential.
 
@@ -75,6 +75,6 @@ For newly licensed agents, it is wise to seek mentorship or connect with a reput
 
 Becoming a licensed insurance agent in Florida is a process that rewards thorough preparation. A solid florida insurance license study guide, consistent practice, and precise exam scheduling can set you up for success. Remember to keep your pre-licensing certificate on hand, confirm your exam details in advance, and strengthen your knowledge by focusing on both general insurance concepts and Florida-specific regulations.
 
-To make your journey smoother, consider teaming up with JustInsurance. With guidance tailored to your individual needs, you can navigate licensing requirements, exam registrations, and even future continuing education reminders. If you ever feel uncertain about your next steps, support is always available.
+To make your journey smoother, consider teaming up with JustInsurance. With guidance tailored to your individual needs, you can navigate licensing requirements, exam registrations, and even future [continuing education](/florida/continuing-education) reminders. If you ever feel uncertain about your next steps, support is always available.
 
 Now is a perfect time to begin. Organize your study materials, set up your schedule, and plan ahead for the exam day. Before you know it, you will hold a Florida insurance license in your hands, opening the door to a fulfilling career helping people protect what matters most.

@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements: complete 4-year guide.
 ---
 
-Arizona's continuing education framework is one of the most distinctive in the country — primarily because of its 4-year cycle requiring 48 hours, compared to the 2-year/24-hour standard used by most states. That longer timeline can feel generous until the fourth year arrives and 48 hours worth of courses still need completing. Arizona's CE system also has no carryover provision, cannot-repeat rules, a no-proctor self-study policy that actually makes online CE easier than most states, and specialty training requirements before selling annuities, LTC, and NFIP flood policies.
+Arizona's [continuing education](/arizona/continuing-education) framework is one of the most distinctive in the country — primarily because of its 4-year cycle requiring 48 hours, compared to the 2-year/24-hour standard used by most states. That longer timeline can feel generous until the fourth year arrives and 48 hours worth of courses still need completing. Arizona's CE system also has no carryover provision, cannot-repeat rules, a no-proctor self-study policy that actually makes online CE easier than most states, and specialty training requirements before selling annuities, LTC, and NFIP flood policies.
 
 Here's a clear breakdown of everything Arizona producers need to know about CE.
 
@@ -94,7 +94,7 @@ Crop — agricultural/crop insurance
 
 Annuity Best Interest — one-time annuity certification
 
-Approved subject matter includes: Insurance concepts and products, Arizona insurance code and administrative rules, errors and omissions, estate planning and taxation, risk management, pre-license content (when DIFI-approved for CE), ethics, wills and trusts, financial planning, and technical information related to the insurance license.
+Approved subject matter includes: Insurance concepts and products, Arizona insurance code and administrative rules, errors and omissions, estate planning and taxation, risk management, [pre-license](/arizona/prelicensing) content (when DIFI-approved for CE), ethics, wills and trusts, financial planning, and technical information related to the insurance license.
 
 NOT approved for CE credit:
 

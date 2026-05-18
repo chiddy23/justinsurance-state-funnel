@@ -20,7 +20,7 @@ One of the first questions aspiring insurance professionals ask is how long the 
 
 ## Phase 1: Prelicensing Education (1-4 Weeks)
 
-The 20-hour prelicensing education requirement is the first major variable in your timeline. Because Kentucky is a forced-progression state, you cannot rush through the coursework — you must complete each lesson sequentially. A self-paced learner who dedicates two to three hours per day can complete a 20-hour course in roughly one to two weeks. A more deliberate learner who studies in shorter sessions may take three to four weeks. JustInsurance courses are built for Kentucky's forced-progression requirements and include all tracking tools needed to generate your Certificate of Completion (Form CPL-01) correctly.
+The 20-hour [prelicensing](/kentucky/prelicensing) education requirement is the first major variable in your timeline. Because Kentucky is a forced-progression state, you cannot rush through the coursework — you must complete each lesson sequentially. A self-paced learner who dedicates two to three hours per day can complete a 20-hour course in roughly one to two weeks. A more deliberate learner who studies in shorter sessions may take three to four weeks. JustInsurance courses are built for Kentucky's forced-progression requirements and include all tracking tools needed to generate your Certificate of Completion (Form CPL-01) correctly.
 
 ## Phase 2: Background Check and Application (3-5 Business Days)
 

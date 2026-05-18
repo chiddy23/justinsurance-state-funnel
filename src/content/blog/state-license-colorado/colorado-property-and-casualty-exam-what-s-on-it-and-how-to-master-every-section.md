@@ -12,7 +12,7 @@ image: /blog/images/easy-steps-to-meet-colorado-insurance-license-requirements.j
 imageAlt: "Colorado Property and Casualty Exam: What's on It and How to Master Every Section"
 ---
 
-The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour prelicensing course, its own Pearson VUE exam, and its own $47 application fee. You can sit for both in a single combined session at a physical Pearson VUE test center for one $41 exam fee, taking 120 minutes per exam back-to-back in a 240-minute total session. The content outline for each exam is published by Pearson VUE and effective January 1, 2024. This post maps every content area of both exams — general knowledge and Colorado state sections — with full topic detail and the specific strategy for the state section topics that most P&C candidates underprepare.
+The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour [prelicensing](/colorado/prelicensing) course, its own Pearson VUE exam, and its own $47 application fee. You can sit for both in a single combined session at a physical Pearson VUE test center for one $41 exam fee, taking 120 minutes per exam back-to-back in a 240-minute total session. The content outline for each exam is published by Pearson VUE and effective January 1, 2024. This post maps every content area of both exams — general knowledge and Colorado state sections — with full topic detail and the specific strategy for the state section topics that most P&C candidates underprepare.
 
 ### The Two Exams at a Glance
 

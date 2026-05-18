@@ -24,7 +24,7 @@ Below, you will find practical guidance on choosing the right course, preparing 
 
 ## Understand your license needs
 
-Your first move is to confirm which type of Minnesota insurance license you want to pursue. Most new candidates focus on life & health (L&H) or property & casualty (P&C) lines. Each license serves a distinct client need, so it is worth thinking about your future career setting. Are you planning to sell policies that protect families, such as life insurance or health coverage? Or do you envision working with home and auto clients? The more clarity you have about your goals, the easier it is to pinpoint the correct pre-licensing course.
+Your first move is to confirm which type of Minnesota insurance license you want to pursue. Most new candidates focus on life & health (L&H) or property & casualty (P&C) lines. Each license serves a distinct client need, so it is worth thinking about your future career setting. Are you planning to sell policies that protect families, such as life insurance or health coverage? Or do you envision working with home and auto clients? The more clarity you have about your goals, the easier it is to pinpoint the correct [pre-licensing](/minnesota/prelicensing) course.
 
 Minnesota requirements include completing a specified number of hours for each line of authority before you can sit for the state exam. That usually involves around 20 hours of formal instruction per line, though it can vary based on L&H, P&C, or other combined licenses. When you start reviewing different providers, make sure any course you choose meets or exceeds the mandated hourly requirement.
 
@@ -39,7 +39,7 @@ Once you know which license or licenses you need, compare courses to discover wh
 -   Clear exam prep tools: Practice tests and final quizzes are invaluable for gauging your progress. Make sure the course includes a mock exam to prepare you for the real test format.
 -   Instructor support: Some people learn better with the option to ask questions. Whether it is live webinars or email-based instructor support, choose a program that offers help when you need it.
 
-Pay close attention to user reviews and pass rates, too. The best Minnesota insurance pre-licensing course providers often share testimonials from past students and highlight strong exam success statistics. That way, you can gauge the provider’s track record and how they support test-takers.
+Pay close attention to user reviews and [pass rates](/pass-rates), too. The best Minnesota insurance pre-licensing course providers often share testimonials from past students and highlight strong exam success statistics. That way, you can gauge the provider’s track record and how they support test-takers.
 
 ## Pick a format that fits
 
@@ -82,6 +82,6 @@ Many providers, including JustInsurance, offer additional resources like live in
 
 Earning your Minnesota insurance license provides entry into a stable, meaningful career. Learning how to protect families, individuals, and businesses is a rewarding job that often comes with flexible schedules and growth potential. The right Minnesota insurance pre-licensing course is powerful—it equips you with the knowledge, confidence, and exam readiness you need to succeed.
 
-Keeping your end goal in sight can help you push through the weekly lessons and quizzes. Stay consistent, ask questions whenever you need clarity, and remember that every practice test you complete adds to your exam readiness. When you do feel prepared to take that next step, JustInsurance offers courses and study tools created for new candidates like you. After you pass, [Minnesota continuing education](/minnesota/continuing-education) keeps your new license active each renewal cycle. By choosing a strong pre-licensing course and following a dedicated study routine, you can quickly check off your final requirement and walk into test day feeling poised for success.
+Keeping your end goal in sight can help you push through the weekly lessons and quizzes. Stay consistent, ask questions whenever you need clarity, and remember that every [practice test](/minnesota/practice-exam) you complete adds to your exam readiness. When you do feel prepared to take that next step, JustInsurance offers courses and study tools created for new candidates like you. After you pass, [Minnesota continuing education](/minnesota/continuing-education) keeps your new license active each renewal cycle. By choosing a strong pre-licensing course and following a dedicated study routine, you can quickly check off your final requirement and walk into test day feeling poised for success.
 
 If you have been waiting for the perfect time to start, consider this your sign. Enroll in a Minnesota insurance pre-licensing course that makes studying easy, and take a confident step forward in your new insurance career. You’ve got this!

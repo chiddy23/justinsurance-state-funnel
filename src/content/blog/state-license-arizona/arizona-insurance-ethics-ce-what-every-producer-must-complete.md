@@ -126,7 +126,7 @@ How documentation protects both clients and producers
 
 E&O exposure from inadequate records
 
-Continuing Education Ethics:
+[Continuing Education](/arizona/continuing-education) Ethics:
 
 Honest reporting of CE completion
 

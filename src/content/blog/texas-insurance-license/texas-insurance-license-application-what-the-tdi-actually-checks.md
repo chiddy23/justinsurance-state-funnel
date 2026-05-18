@@ -36,7 +36,7 @@ The application asks a series of yes/no questions about your background — prio
 
 ## Your Prelicense Education Completion
 
-TDI confirms that your 40 hours of approved prelicense education were completed through a TDI-approved provider. Make sure your course provider submits your completion electronically — most reputable providers do this automatically.
+TDI confirms that your 40 hours of approved [prelicense](/texas/prelicensing) education were completed through a TDI-approved provider. Make sure your course provider submits your completion electronically — most reputable providers do this automatically.
 
 ## Your Application Fee
 

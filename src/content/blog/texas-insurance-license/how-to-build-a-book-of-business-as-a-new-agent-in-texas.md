@@ -92,6 +92,6 @@ Measuring yourself against veterans. A 10-year agent's book is the product of 10
 
 ## Build Your Book the Right Way
 
-Building a book of business is a long game — and it starts with strong fundamentals. At JustInsurance, our Texas prelicense and CE courses give you the product knowledge and compliance foundation to build a book that lasts.
+Building a book of business is a long game — and it starts with strong fundamentals. At JustInsurance, our Texas [prelicense](/texas/prelicensing) and CE courses give you the product knowledge and compliance foundation to build a book that lasts.
 
 Enroll today and start your Texas insurance career on solid ground.

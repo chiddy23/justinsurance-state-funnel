@@ -20,7 +20,7 @@ imageCredit: Photo by PeopleByOwen on Pexels
 
 ## Explore the importance of continuing education
 
-[Florida insurance license](/florida) continuing education is more than just a box you check every renewal cycle. It helps you deepen your expertise, stay on top of regulatory changes, and remain a trusted adviser for clients. When you understand what the state of Florida requires and how to meet those standards, you position yourself for a long, successful career in the industry.
+[Florida insurance license](/florida) [continuing education](/florida/continuing-education) is more than just a box you check every renewal cycle. It helps you deepen your expertise, stay on top of regulatory changes, and remain a trusted adviser for clients. When you understand what the state of Florida requires and how to meet those standards, you position yourself for a long, successful career in the industry.
 
 Continuing education also keeps you relevant in a rapidly evolving market. Insurance products and guidelines can change quickly, and regular coursework ensures you stay current rather than playing catch-up. Commit to a positive mindset around ongoing learning now, and you will discover that growth becomes an exciting part of your professional journey.
 
@@ -28,7 +28,7 @@ Continuing education also keeps you relevant in a rapidly evolving market. Insur
 
 Before signing up for any courses, it is wise to confirm that you meet Florida’s eligibility requirements to become an insurance agent. You typically need to be a state resident and at least 18 years old. You may also be asked to complete background checks that include fingerprinting. This step is important because it ensures only qualified and trustworthy individuals serve as insurance brokers and agents.
 
-Once you have confirmed your basic eligibility, you can register for the mandatory pre-licensing courses with confidence. Some people worry that these steps will be time-consuming. However, when you break them down into smaller tasks, you can manage them more easily alongside other adult responsibilities.
+Once you have confirmed your basic eligibility, you can register for the mandatory [pre-licensing](/florida/prelicensing) courses with confidence. Some people worry that these steps will be time-consuming. However, when you break them down into smaller tasks, you can manage them more easily alongside other adult responsibilities.
 
 ## Complete the pre-licensing steps
 

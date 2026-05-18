@@ -41,7 +41,7 @@ Getting comfortable with these core subjects sets you up for success on exam day
 
 ## Register for the state exam
 
-After you finish your pre-licensing hours, you’re ready to register for the official state exam. You’ll typically do this through an approved testing organization authorized by the Ohio Department of Insurance. Be prepared to provide proof of your completed coursework, along with any other documentation required by the testing agency.
+After you finish your [pre-licensing](/ohio/prelicensing) hours, you’re ready to register for the official state exam. You’ll typically do this through an approved testing organization authorized by the Ohio Department of Insurance. Be prepared to provide proof of your completed coursework, along with any other documentation required by the testing agency.
 
 When registering, pay attention to available test dates and times. If you work full-time or juggle family responsibilities, scheduling in advance will help you find an appointment slot that fits. The exam fee is usually due at the time of registration, so have a valid credit card or other payment method on hand. Fees can change over time, so it’s smart to check the official Ohio Department of Insurance guidelines for any updates.
 

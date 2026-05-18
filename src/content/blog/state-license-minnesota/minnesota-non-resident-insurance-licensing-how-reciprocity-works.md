@@ -24,7 +24,7 @@ What the non-resident license does not change: A non-resident licensee's primary
 
 ### How Reciprocity Works
 
-Reciprocity is the mutual recognition of licensing standards between two states. When State A and State B have a reciprocity agreement, a producer licensed in State A can obtain a non-resident license in State B without completing State B's prelicensing education or passing State B's state licensing exam — because each state recognizes that the other's standards are substantially equivalent.
+Reciprocity is the mutual recognition of licensing standards between two states. When State A and State B have a reciprocity agreement, a producer licensed in State A can obtain a non-resident license in State B without completing State B's [prelicensing](/minnesota/prelicensing) education or passing State B's state licensing exam — because each state recognizes that the other's standards are substantially equivalent.
 
 Minnesota's reciprocity posture: Minnesota has reciprocity agreements with the vast majority of states. For producers licensed in most U.S. states, obtaining a Minnesota non-resident license requires only an application, fee payment, and satisfaction of Minnesota's other eligibility requirements — no additional prelicensing or PSI exam.
 

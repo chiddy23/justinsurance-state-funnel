@@ -40,7 +40,7 @@ There is no state-level individual health insurance mandate or penalty in Kentuc
 
 ## What This Means for Licensed Health Insurance Agents
 
-To assist clients with kynect marketplace enrollment or to sell individual health insurance products in Kentucky, you must hold an Accident & Health line of authority issued by the KDOI. This requires completing 20 hours of KDOI-approved prelicensing education, passing the KDOI licensing exam, and applying through NIPR.
+To assist clients with kynect marketplace enrollment or to sell individual health insurance products in Kentucky, you must hold an Accident & Health line of authority issued by the KDOI. This requires completing 20 hours of KDOI-approved [prelicensing](/kentucky/prelicensing) education, passing the KDOI licensing exam, and applying through NIPR.
 
 Agents who assist clients with kynect enrollment must understand plan metal tiers — Bronze, Silver, Gold, and Platinum — and how each tier balances premium costs against out-of-pocket exposure. Understanding network adequacy is equally important, particularly in rural Kentucky where carrier networks may be more limited than in Louisville or Lexington. Agents must also be able to explain how APTCs interact with annual federal tax reconciliation so clients are not caught off guard by unexpected tax liability.
 

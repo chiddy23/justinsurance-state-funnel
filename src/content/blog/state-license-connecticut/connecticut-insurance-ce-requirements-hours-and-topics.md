@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements: hours and topics.
 ---
 
-Keeping your Connecticut insurance license active requires more than paying a renewal fee — you need to complete continuing education (CE) on schedule, using approved courses, and have it reported correctly. Connecticut's CE framework is distinctive in requiring not just total hours and ethics, but also minimum hours per line of authority held, which adds planning complexity.
+Keeping your Connecticut insurance license active requires more than paying a renewal fee — you need to complete [continuing education](/connecticut/continuing-education) (CE) on schedule, using approved courses, and have it reported correctly. Connecticut's CE framework is distinctive in requiring not just total hours and ethics, but also minimum hours per line of authority held, which adds planning complexity.
 
 Here's a clear breakdown of Connecticut's insurance CE requirements.
 
@@ -242,7 +242,7 @@ Your license expires and is canceled. All appointments are also canceled.
 
 You have one year from expiration to complete late renewal. This includes completing all CE and paying late renewal fees.
 
-After one year of expiration: The license must be reinstated as a new application — meaning starting over including possibly retaking prelicense and exam.
+After one year of expiration: The license must be reinstated as a new application — meaning starting over including possibly retaking [prelicense](/connecticut/prelicensing) and exam.
 
 Important: Connecticut does NOT grant extensions for completing CE requirements. Plan accordingly.
 

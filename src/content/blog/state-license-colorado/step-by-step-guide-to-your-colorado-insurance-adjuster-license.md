@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Antoni Shkraba Studio on Pexels
 ---
 
-If you’re preparing to launch a new career in insurance, securing your [Colorado insurance adjuster license](/colorado) is a major milestone. Becoming an adjuster opens the door to interesting work that involves investigating, negotiating, and settling claims on behalf of policyholders and insurance companies alike. The process may seem a bit intimidating at first, but once you break it down into clear steps, you’ll find it’s entirely achievable—even if you’re brand-new to the industry. Below, you’ll discover the main requirements you need to meet, how to complete your pre-licensing education, and how to pass your exam successfully.
+If you’re preparing to launch a new career in insurance, securing your [Colorado insurance adjuster license](/colorado) is a major milestone. Becoming an adjuster opens the door to interesting work that involves investigating, negotiating, and settling claims on behalf of policyholders and insurance companies alike. The process may seem a bit intimidating at first, but once you break it down into clear steps, you’ll find it’s entirely achievable—even if you’re brand-new to the industry. Below, you’ll discover the main requirements you need to meet, how to complete your [pre-licensing](/colorado/prelicensing) education, and how to pass your exam successfully.
 
 ## Understand the adjuster role
 
@@ -63,7 +63,7 @@ Remember to keep your contact information updated with the Department of Insuran
 
 ## Maintain and renew your license
 
-Like most professional credentials, your license comes with renewal requirements and continuing education (CE). Colorado will require you to complete a certain number of [Colorado continuing education](/colorado/continuing-education) hours within each renewal period. This ensures your knowledge remains current, especially as insurance regulations and best practices evolve.
+Like most professional credentials, your license comes with renewal requirements and [continuing education](/colorado/continuing-education) (CE). Colorado will require you to complete a certain number of [Colorado continuing education](/colorado/continuing-education) hours within each renewal period. This ensures your knowledge remains current, especially as insurance regulations and best practices evolve.
 
 When choosing CE courses, look for subjects that help you grow professionally. For example, you might select advanced claims investigation or negotiation tactics to sharpen your expertise. Maintaining an active license also ensures you’re not limited in the types of claims you can handle or the clients you can serve. Think of renewing your license as an opportunity to refine your skill set rather than just another obligation.
 

@@ -12,7 +12,7 @@ image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
 imageAlt: "Single vs. Dual License CE in Virginia: How Your Lines of Authority Determine Your Hours"
 ---
 
-The single most important thing to understand about Virginia's continuing education system is that your CE obligation is determined not by how many lines of authority you hold, but by how many license types you hold. Virginia groups its major lines into two license types for CE purposes, and whether you hold one type or two determines whether you complete 16 hours or 24 hours every biennial cycle. Getting this wrong means either under-completing CE (which terminates your license) or over-completing unnecessarily. This post explains exactly how the classification works, how the 8-hour minimums apply, and what changes if you add a new license type after your initial licensure.
+The single most important thing to understand about Virginia's [continuing education](/virginia/continuing-education) system is that your CE obligation is determined not by how many lines of authority you hold, but by how many license types you hold. Virginia groups its major lines into two license types for CE purposes, and whether you hold one type or two determines whether you complete 16 hours or 24 hours every biennial cycle. Getting this wrong means either under-completing CE (which terminates your license) or over-completing unnecessarily. This post explains exactly how the classification works, how the 8-hour minimums apply, and what changes if you add a new license type after your initial licensure.
 
 ### Virginia's Two CE License Types
 

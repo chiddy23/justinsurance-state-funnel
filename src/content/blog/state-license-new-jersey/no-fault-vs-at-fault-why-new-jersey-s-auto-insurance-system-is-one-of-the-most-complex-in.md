@@ -109,4 +109,4 @@ The basic auto policy was explicitly excluded from P.L.2022, c.87, the legislati
 
 New Jersey's no-fault system with a tort option is genuinely complex — more so than a pure no-fault state and more nuanced than a traditional at-fault state. Producers who can explain PIP, the verbal threshold, the tort option, and the basic versus standard distinction clearly are providing client service that goes well beyond policy delivery.
 
-Visit JustInsurance to enroll today and study New Jersey auto insurance law in depth as part of your P&C prelicensing course.
+Visit JustInsurance to enroll today and study New Jersey auto insurance law in depth as part of your P&C [prelicensing](/new-jersey/prelicensing) course.

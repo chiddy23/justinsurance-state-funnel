@@ -22,7 +22,7 @@ Getting your [Minnesota insurance license requirements](/minnesota/requirements)
 
 ## Understand the licensing process
 
-The journey to becoming a licensed insurance producer in Minnesota revolves around four core steps: meeting eligibility criteria, taking pre-licensing education, passing the required exam, and submitting your application. While these steps sound straightforward, each one requires your full attention to ensure you tick every box.
+The journey to becoming a licensed insurance producer in Minnesota revolves around four core steps: meeting eligibility criteria, taking [pre-licensing](/minnesota/prelicensing) education, passing the required exam, and submitting your application. While these steps sound straightforward, each one requires your full attention to ensure you tick every box.
 
 Proper preparation sets the stage for success. You will want to learn Minnesota’s guidelines and stay current on any changes or updates. This is where official state resources and reputable exam providers can help. In short, it is about focusing on one milestone at a time. By knowing what to expect and planning accordingly, you spare yourself unwanted stress.
 
@@ -85,7 +85,7 @@ Below are five common questions that often pop up when taking the first steps to
 4.  What should I bring on exam day?  
     Typically, you must bring two valid forms of identification and proof of completing your pre-licensing education if asked. Exam confirmations, parking information, and test center details are also worth having on hand.
 5.  How do I maintain my license once I have it?  
-    You must fulfill any continuing education requirements set by Minnesota and renew your license as the state mandates. Be sure to complete your required CE hours on time to keep your license active.
+    You must fulfill any [continuing education](/minnesota/continuing-education) requirements set by Minnesota and renew your license as the state mandates. Be sure to complete your required CE hours on time to keep your license active.
 
 ## Make your next move
 

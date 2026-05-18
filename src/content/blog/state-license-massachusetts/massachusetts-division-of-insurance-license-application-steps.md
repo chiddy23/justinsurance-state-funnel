@@ -52,7 +52,7 @@ Website: mass.gov/orgs/division-of-insurance
 
 Before submitting your application, you should have:
 
-Passed the Massachusetts state exam through Prometric (no prelicense required, but exam is required for most license types)
+Passed the Massachusetts state exam through Prometric (no [prelicense](/massachusetts/prelicensing) required, but exam is required for most license types)
 
 Gathered documentation for any disclosure answers
 

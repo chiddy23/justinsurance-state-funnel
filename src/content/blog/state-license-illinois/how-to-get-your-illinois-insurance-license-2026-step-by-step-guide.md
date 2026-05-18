@@ -20,7 +20,7 @@ Illinois is one of the few states that still splits your testing into **General*
 
 ## Finish the 20-hour stack—and respect the 7.5-hour classroom slice
 
-DOI states plainly that resident producers need **20** hours of prelicensing per line, with **7.5** of those hours delivered in a physical classroom or live web class for Life, Accident/Health, Fire (Property), Casualty, and the combined Personal Lines bundle. Motor vehicle physical damage is the outlier DOI lists: **12.5** total hours with **5** classroom hours. Track those splits on your completion certificate; Pearson staff compare certificates to exam authorizations at check-in.
+DOI states plainly that resident producers need **20** hours of [prelicensing](/illinois/prelicensing) per line, with **7.5** of those hours delivered in a physical classroom or live web class for Life, Accident/Health, Fire (Property), Casualty, and the combined Personal Lines bundle. Motor vehicle physical damage is the outlier DOI lists: **12.5** total hours with **5** classroom hours. Track those splits on your completion certificate; Pearson staff compare certificates to exam authorizations at check-in.
 
 ## Register with Pearson VUE twice per line (General + State)
 

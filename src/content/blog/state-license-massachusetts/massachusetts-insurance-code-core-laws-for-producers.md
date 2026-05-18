@@ -27,9 +27,9 @@ The Massachusetts Insurance Code is the statutory framework that regulates insur
 
 Massachusetts General Laws (M.G.L.) Chapter 175 — comprehensive insurance code
 
-M.G.L. Chapter 175, §162L — producer licensing provisions (notably eliminated mandatory prelicense)
+M.G.L. Chapter 175, §162L — producer licensing provisions (notably eliminated mandatory [prelicense](/massachusetts/prelicensing))
 
-M.G.L. Chapter 175, §177E — continuing education requirements
+M.G.L. Chapter 175, §177E — [continuing education](/massachusetts/continuing-education) requirements
 
 M.G.L. Chapter 176D — unfair and deceptive trade practices in insurance
 

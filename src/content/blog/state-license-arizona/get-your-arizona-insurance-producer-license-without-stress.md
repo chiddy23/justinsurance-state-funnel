@@ -16,7 +16,7 @@ imageAlt: Spacious and modern conference room with sleek furniture and natural l
 imageCredit: Photo by MINEIA  MARTINS on Pexels
 ---
 
-Getting your [Arizona insurance producer](/arizona) license can seem daunting at first, but the entire process is easier than you might think. By following a clear sequence of steps — from pre-licensing coursework to the official exam — you can feel confident every step of the way. Together, we will walk through the essentials so you know exactly what to expect and how to prepare.
+Getting your [Arizona insurance producer](/arizona) license can seem daunting at first, but the entire process is easier than you might think. By following a clear sequence of steps — from [pre-licensing](/arizona/prelicensing) coursework to the official exam — you can feel confident every step of the way. Together, we will walk through the essentials so you know exactly what to expect and how to prepare.
 
 Whether you plan to focus on life and health insurance or property and casualty lines, Arizona’s requirements are straightforward once you break them down. With the right mindset, organised materials, and a bit of support, you will quickly position yourself for a fulfilling new career as an insurance producer.
 

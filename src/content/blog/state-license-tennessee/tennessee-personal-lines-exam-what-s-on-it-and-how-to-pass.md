@@ -12,7 +12,7 @@ image: /blog/images/top-tips-to-simplify-tennessee-insurance-license-renewal.jpg
 imageAlt: "Tennessee Personal Lines Exam: What's on It and How to Pass"
 ---
 
-The Tennessee Personal Lines licensing exam is a focused alternative to holding separate Property and Casualty licenses — designed for producers who intend to sell personal auto insurance and personal homeowners insurance without entering the commercial lines market. It is administered by Pearson VUE, contains 77 questions with 68 scored and 9 unscored pretest questions, requires a 70% passing score, and covers the same Tennessee state law section that appears on every other Tennessee licensing exam. No mandatory prelicensing course is required before sitting.
+The Tennessee Personal Lines licensing exam is a focused alternative to holding separate Property and Casualty licenses — designed for producers who intend to sell personal auto insurance and personal homeowners insurance without entering the commercial lines market. It is administered by Pearson VUE, contains 77 questions with 68 scored and 9 unscored pretest questions, requires a 70% passing score, and covers the same Tennessee state law section that appears on every other Tennessee licensing exam. No mandatory [prelicensing](/tennessee/prelicensing) course is required before sitting.
 
 Understanding what the Personal Lines exam covers — and what it does not — is the first strategic decision every candidate must make. Personal Lines authority is narrower than full Property and Casualty. A Personal Lines producer cannot write a business owner's policy, commercial auto, workers' compensation, or any other commercial coverage regardless of how small the client's business is. The moment a client's insurance need crosses into commercial territory, the Personal Lines license cannot serve it. This post covers the complete content of the Tennessee Personal Lines exam, the strategic considerations around choosing Personal Lines versus full P&C, and the preparation approach that produces first-time passing scores.
 
@@ -452,7 +452,7 @@ Essential Personal Lines state law flashcards:
 
 #### Practice Exam Discipline
 
-Take your first full-length practice exam after completing initial content coverage — not before. Use the score report to identify your three weakest topic areas. In the final three to five days before your exam, take one timed practice exam per day and review every missed question before stopping.
+Take your first full-length [practice exam](/tennessee/practice-exam) after completing initial content coverage — not before. Use the score report to identify your three weakest topic areas. In the final three to five days before your exam, take one timed practice exam per day and review every missed question before stopping.
 
 The readiness threshold: Three consecutive practice exams at 80% or above. At that level, the 70% pass threshold on the actual exam is reachable even accounting for test-day performance variation.
 

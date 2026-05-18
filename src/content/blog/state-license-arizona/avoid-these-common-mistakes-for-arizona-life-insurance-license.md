@@ -50,13 +50,13 @@ In Arizona’s competitive insurance market, choosing subpar materials can resul
 
 Even with a solid grasp of the content, exam-day nerves can dramatically impact your performance. Walking into the testing center without a plan for managing stress or pacing can cause you to make rushed guesses and overlook key details.
 
-One helpful trick is to solve practice questions in a timed environment. This approach mirrors the pressure you’ll feel during the actual exam. If you can get comfortable reading and answering questions efficiently, you’ll be more relaxed when it counts.
+One helpful trick is to solve [practice questions](/arizona/practice-exam) in a timed environment. This approach mirrors the pressure you’ll feel during the actual exam. If you can get comfortable reading and answering questions efficiently, you’ll be more relaxed when it counts.
 
 When tackling each question, read it carefully and identify the specific concept being tested. Jumping to conclusions is a fast way to miss important clues that guide you to the correct choice. If possible, skip especially tricky items and return to them later instead of bogging down the entire test. Building good habits during practice can help you handle tricky questions with greater ease on exam day.
 
 ## Track continuing education
 
-Securing your Arizona life insurance license is just the beginning. Many new licensees overlook continuing education requirements, which can lead to issues when it’s time to renew. This is easy to do, especially if you’re juggling daily job responsibilities, client meetings, and personal commitments.
+Securing your Arizona life insurance license is just the beginning. Many new licensees overlook [continuing education](/arizona/continuing-education) requirements, which can lead to issues when it’s time to renew. This is easy to do, especially if you’re juggling daily job responsibilities, client meetings, and personal commitments.
 
 Arizona typically requires ongoing [Arizona continuing education](/arizona/continuing-education) to keep your license active. By ignoring these rules, you risk letting your license lapse, forcing you to retake exams, resend paperwork, or pay penalties. Even worse, your reputation could suffer if clients learn that you allowed your license to expire.
 
@@ -66,7 +66,7 @@ To avoid this problem, create a simple calendar reminder or set up an alert on y
 
 ### 1\. How many hours of pre-licensing education do I need?
 
-Arizona requires pre-licensing education, but the total hours depend on the specific license lines you plan to pursue. Some require 20 hours, while others may need more. Always confirm the latest requirement with the Arizona Department of Insurance to ensure you meet the correct threshold.
+Arizona requires [pre-licensing](/arizona/prelicensing) education, but the total hours depend on the specific license lines you plan to pursue. Some require 20 hours, while others may need more. Always confirm the latest requirement with the Arizona Department of Insurance to ensure you meet the correct threshold.
 
 ### 2\. Can I study for multiple license lines at once?
 

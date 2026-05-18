@@ -26,7 +26,7 @@ Take your time to absorb each topic and focus on areas that directly impact cons
 
 ## Meet background check requirements
 
-In your eagerness to finish the pre-licensing coursework, it can be easy to forget you also need a background check. Most states, including Colorado, conduct fingerprint-based checks to ensure that aspiring insurance professionals meet ethical standards. If you have any potential issues in your past, don’t panic just yet. In many cases, you can submit additional information or letters of explanation, but you do need to follow the correct procedures to the letter.
+In your eagerness to finish the [pre-licensing](/colorado/prelicensing) coursework, it can be easy to forget you also need a background check. Most states, including Colorado, conduct fingerprint-based checks to ensure that aspiring insurance professionals meet ethical standards. If you have any potential issues in your past, don’t panic just yet. In many cases, you can submit additional information or letters of explanation, but you do need to follow the correct procedures to the letter.
 
 Properly scheduling and completing your fingerprints helps avoid delays in getting your license. Check the [Colorado Division of Insurance](/colorado/requirements) website for an authorized vendor, so your results go straight to the state. Plan this step as early as possible, because a hold-up here can set your entire application back, even if you’ve finished your coursework and exam.
 
@@ -51,7 +51,7 @@ Staying on top of these matters makes test day much smoother, letting you focus 
 
 ## Complete your continuing education
 
-Earning your Colorado health insurance license marks the beginning, not the end, of your learning journey. Many newcomers to the industry overlook how vital continuing education (CE) is to their long-term success. Colorado requires licensed professionals to renew and maintain their licenses by taking [Colorado continuing education](/colorado/continuing-education) courses at defined intervals. Missing these renewal requirements means risking fines, penalties, or even losing your license.
+Earning your Colorado health insurance license marks the beginning, not the end, of your learning journey. Many newcomers to the industry overlook how vital [continuing education](/colorado/continuing-education) (CE) is to their long-term success. Colorado requires licensed professionals to renew and maintain their licenses by taking [Colorado continuing education](/colorado/continuing-education) courses at defined intervals. Missing these renewal requirements means risking fines, penalties, or even losing your license.
 
 Plan early by keeping a calendar of your CE deadlines. Be proactive in finding CE options that genuinely enrich your knowledge, rather than leaving them for the last minute. By consistently expanding your professional skill set, you provide better service to your clients and stay on top of changing state regulations.
 

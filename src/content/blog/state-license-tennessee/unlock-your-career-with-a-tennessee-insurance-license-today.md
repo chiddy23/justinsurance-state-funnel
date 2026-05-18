@@ -31,7 +31,7 @@ These requirements help ensure that licensed agents are trustworthy and meet cer
 
 ## Enroll in pre-licensing education
 
-Your next big step is to complete a [Tennessee prelicensing course](/tennessee/prelicensing) that focuses on the insurance line you are most interested in. For instance, if you plan to sell auto and homeowners insurance, you would take a property and casualty pre-licensing course. If you are more drawn to life and health, sign up for a program covering those topics.
+Your next big step is to complete a [Tennessee prelicensing course](/tennessee/prelicensing) that focuses on the insurance line you are most interested in. For instance, if you plan to sell auto and homeowners insurance, you would take a property and casualty [pre-licensing](/tennessee/prelicensing) course. If you are more drawn to life and health, sign up for a program covering those topics.
 
 Look for programs that combine interactive learning with straightforward study materials. Providers like JustInsurance offer user-friendly feedback and practice exams to help you target your weak spots. By immersing yourself in one of these courses, you gain essential skills that can boost your confidence when it is time to take the state licensing exam.
 

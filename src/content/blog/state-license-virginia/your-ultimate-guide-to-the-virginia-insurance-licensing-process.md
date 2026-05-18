@@ -20,7 +20,7 @@ imageCredit: Photo by Darina Belonogova on Pexels
 
 If you’re getting ready to enter the Virginia insurance industry, you’ll want to familiarize yourself with the Virginia insurance licensing process. By breaking it into manageable steps, you’ll have a clear roadmap for meeting state requirements, preparing for the exam, and ultimately securing your new career. It’s natural to be uncertain about the details at first, but once you know what to expect, the rest of your journey can feel much more achievable.
 
-Some of the basics include meeting eligibility requirements, completing state-approved pre-licensing courses, and passing a proctored exam. Beyond that, you’ll find different license types in Virginia, each geared toward specific products like life insurance, health insurance, or property and casualty. Where you start depends on your career goals, but the process itself is similar no matter which path you choose.
+Some of the basics include meeting eligibility requirements, completing state-approved [pre-licensing](/virginia/prelicensing) courses, and passing a proctored exam. Beyond that, you’ll find different license types in Virginia, each geared toward specific products like life insurance, health insurance, or property and casualty. Where you start depends on your career goals, but the process itself is similar no matter which path you choose.
 
 ## Check basic eligibility
 

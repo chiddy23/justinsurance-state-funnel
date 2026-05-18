@@ -29,9 +29,9 @@ The Connecticut Insurance Code is the statutory framework that regulates insuran
 
 Connecticut General Statutes (CGS) Title 38a — comprehensive insurance code
 
-CGS §38a-702 — prelicense education requirements
+CGS §38a-702 — [prelicense](/connecticut/prelicensing) education requirements
 
-CGS §38a-782a — continuing education requirements
+CGS §38a-782a — [continuing education](/connecticut/continuing-education) requirements
 
 Connecticut Agencies Regulations Title 38a — implementing administrative rules
 

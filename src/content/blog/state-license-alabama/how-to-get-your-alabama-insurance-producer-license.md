@@ -36,13 +36,13 @@ There's no degree requirement, no prior insurance experience needed.
 
 ## Step 2: Prelicense Education Is No Longer Required
 
-This is important and different from most states: Effective January 1, 2024 (under Alabama Act No. 2023-104), Alabama no longer requires prelicense education for insurance license applicants.
+This is important and different from most states: Effective January 1, 2024 (under Alabama Act No. 2023-104), Alabama no longer requires [prelicense](/alabama/prelicensing) education for insurance license applicants.
 
 That said, prelicense education is still highly recommended because:
 
 Alabama's exams are challenging without structured preparation
 
-Pass rates are significantly higher for candidates who complete prelicense courses
+[Pass rates](/pass-rates) are significantly higher for candidates who complete prelicense courses
 
 Understanding content thoroughly helps your actual career, not just passing the exam
 

@@ -97,6 +97,6 @@ The right path depends on your goals, not the state.
 
 ## Pick the Path That Fits You
 
-There's no universally right answer — only the right answer for your goals. At JustInsurance, our Texas prelicense course prepares you for the exam and helps you understand the full landscape of the Texas insurance industry so you can make the right call for your career.
+There's no universally right answer — only the right answer for your goals. At JustInsurance, our Texas [prelicense](/texas/prelicensing) course prepares you for the exam and helps you understand the full landscape of the Texas insurance industry so you can make the right call for your career.
 
 Enroll today and build the foundation for whichever path you choose.

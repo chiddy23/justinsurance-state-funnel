@@ -16,7 +16,7 @@ imageAlt: >-
   kentucky insurance agents need to know about ce r.
 ---
 
-If you're a licensed insurance producer in Kentucky approaching your renewal deadline — or you're newly licensed and want to understand what's ahead — this guide covers everything you need to know about the state's continuing education requirements. The Kentucky Department of Insurance (KDOI) requires all active producers to complete 24 hours of approved CE every two years, including a mandatory ethics component. Missing the deadline costs you money and can put your license at risk. Here is exactly what you need to do, when you need to do it, and how to do it without surprises.
+If you're a licensed insurance producer in Kentucky approaching your renewal deadline — or you're newly licensed and want to understand what's ahead — this guide covers everything you need to know about the state's [continuing education](/kentucky/continuing-education) requirements. The Kentucky Department of Insurance (KDOI) requires all active producers to complete 24 hours of approved CE every two years, including a mandatory ethics component. Missing the deadline costs you money and can put your license at risk. Here is exactly what you need to do, when you need to do it, and how to do it without surprises.
 
 ## The Basic CE Requirement
 

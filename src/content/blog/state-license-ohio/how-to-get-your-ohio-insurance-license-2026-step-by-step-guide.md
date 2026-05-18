@@ -16,7 +16,7 @@ imageAlt: >-
   desk beside a laptop.
 ---
 
-Ohio’s Department of Insurance (ODI) still treats each major line—Life, Accident & Health, Property, Casualty, Personal Lines, and Surety Bail Bond—as its own **20**-hour prelicensing stack. Miss the **180**-calendar-day window on your completion certificate, or show up at PSI without the original, unaltered certificate, and you will not sit for the exam you already paid for. NIPR’s Ohio page adds another clock: passing exam scores stay valid for **6** months, shorter than Georgia’s **12**-month window. If you are building an Ohio resident file, you need both ODI’s education rules and NIPR’s timing rules in the same checklist.
+Ohio’s Department of Insurance (ODI) still treats each major line—Life, Accident & Health, Property, Casualty, Personal Lines, and Surety Bail Bond—as its own **20**-hour [prelicensing](/ohio/prelicensing) stack. Miss the **180**-calendar-day window on your completion certificate, or show up at PSI without the original, unaltered certificate, and you will not sit for the exam you already paid for. NIPR’s Ohio page adds another clock: passing exam scores stay valid for **6** months, shorter than Georgia’s **12**-month window. If you are building an Ohio resident file, you need both ODI’s education rules and NIPR’s timing rules in the same checklist.
 
 ## Lock the line plan before you buy the first hour of education
 
@@ -60,7 +60,7 @@ ODI’s page is blunt: no certificate, no seat—even if you “already tested i
 
 ## After you pass: CE starts on a different clock than prelicensing
 
-Ohio’s continuing education rules live on a separate ODI page linked from NIPR. Prelicensing hours never count toward CE. If you are already thinking about renewal while you test, bookmark our [Ohio continuing education](https://justinsuranceco.com/ohio/continuing-education) guide and the national [CE hub](https://justinsuranceco.com/continuing-education) so you are not surprised when ODI’s CE audit letters hit.
+Ohio’s [continuing education](/ohio/continuing-education) rules live on a separate ODI page linked from NIPR. Prelicensing hours never count toward CE. If you are already thinking about renewal while you test, bookmark our [Ohio continuing education](https://justinsuranceco.com/ohio/continuing-education) guide and the national [CE hub](https://justinsuranceco.com/continuing-education) so you are not surprised when ODI’s CE audit letters hit.
 
 ## Why the Ohio hour stack still matters in 2026
 

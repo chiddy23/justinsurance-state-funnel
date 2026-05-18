@@ -19,7 +19,7 @@ Here's the best way to study for the California insurance license exam in 30 day
 
 ## Before You Start: The Foundation
 
-You can't start a 30-day study plan until your prelicense education is complete — or well underway. As of January 1, 2026, California AB 943 eliminated the old line-specific prelicensing hour requirements (the former 52-hour Life and 40-hour P&C courses). The only mandatory prelicensing course is now the 12-hour Code and Ethics course from a CDI-approved provider. If you haven't completed it yet, build that into your first week — most candidates finish it in a single weekend.
+You can't start a 30-day study plan until your [prelicense](/california/prelicensing) education is complete — or well underway. As of January 1, 2026, California AB 943 eliminated the old line-specific prelicensing hour requirements (the former 52-hour Life and 40-hour P&C courses). The only mandatory prelicensing course is now the 12-hour Code and Ethics course from a CDI-approved provider. If you haven't completed it yet, build that into your first week — most candidates finish it in a single weekend.
 
 This plan assumes the 12-hour Code and Ethics course is done in week 1, then a focused, voluntary exam-prep phase follows. The state exam content didn't get easier under AB 943 — only the seat-time requirement did. Voluntary exam prep is now where most of the actual learning happens.
 
@@ -97,7 +97,7 @@ End of week 3 checkpoint: You can explain how different health plans, Medicare, 
 
 Goal: Master California-specific content and simulate exam conditions.
 
-Daily target: 2 to 3 hours of study, heavy on practice questions.
+Daily target: 2 to 3 hours of study, heavy on [practice questions](/california/practice-exam).
 
 Focus areas:
 

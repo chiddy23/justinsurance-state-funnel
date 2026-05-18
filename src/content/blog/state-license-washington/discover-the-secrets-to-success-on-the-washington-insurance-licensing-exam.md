@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by khezez  | خزاز on Pexels
 ---
 
-Preparing for the [Washington insurance licensing exam](/washington/requirements) can sometimes feel like a huge step in your career journey. You might worry about juggling time between work, family, and study. The good news is that with the right plan, you can tackle these challenges head-on and walk into the testing center with confidence. In this guide, you will discover best practices for exam prep, see common pitfalls to avoid, and even test yourself with practice questions.
+Preparing for the [Washington insurance licensing exam](/washington/requirements) can sometimes feel like a huge step in your career journey. You might worry about juggling time between work, family, and study. The good news is that with the right plan, you can tackle these challenges head-on and walk into the testing center with confidence. In this guide, you will discover best practices for exam prep, see common pitfalls to avoid, and even test yourself with [practice questions](/washington/practice-exam).
 
 ## Explore the exam structure
 
@@ -64,7 +64,7 @@ A great way to prepare is by exposing yourself to the types of questions you mig
 2.  Which of the following is a requirement to be licensed as a producer in Washington?  
     A. Proof of U.S. citizenship  
     B. A bachelor’s degree in business  
-    C. Successful completion of pre-licensing education  
+    C. Successful completion of [pre-licensing](/washington/prelicensing) education  
     D. One year of industry experience
 3.  Property & Casualty coverage typically includes which of these potential losses?  
     A. Personal injury only  

@@ -16,7 +16,7 @@ imageAlt: >-
   alabama ce online: approved providers.
 ---
 
-Online continuing education has become the standard for Alabama insurance producers. It's flexible, accessible, and — when done through ALDOI-approved providers — satisfies all your CE requirements efficiently. Understanding how online CE works in Alabama and what to look for in approved providers helps you complete requirements without stress.
+Online [continuing education](/alabama/continuing-education) has become the standard for Alabama insurance producers. It's flexible, accessible, and — when done through ALDOI-approved providers — satisfies all your CE requirements efficiently. Understanding how online CE works in Alabama and what to look for in approved providers helps you complete requirements without stress.
 
 Here's your guide to completing Alabama CE online through approved providers.
 

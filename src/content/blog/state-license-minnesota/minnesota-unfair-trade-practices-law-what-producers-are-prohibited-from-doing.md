@@ -180,4 +180,4 @@ The statute does not specify a numerical threshold — it requires conduct "with
 
 Minnesota's unfair trade practices law is not a list of rules to memorize — it is a behavioral framework that defines what professional conduct looks like in Minnesota insurance. Every prohibition in §72A.20 reflects a specific type of producer misconduct that harms consumers, distorts the competitive marketplace, or undermines the integrity of the insurance system. Producers who understand not just what the prohibitions cover but why they exist — what harm they prevent and what professional standard they enforce — operate with the judgment that keeps them in compliance without needing to consult a checklist before every client interaction.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course covering every unfair trade practices provision tested on the PSI exam.
+Visit JustInsurance to enroll today and complete your Minnesota [prelicensing](/minnesota/prelicensing) with a state-approved course covering every unfair trade practices provision tested on the PSI exam.

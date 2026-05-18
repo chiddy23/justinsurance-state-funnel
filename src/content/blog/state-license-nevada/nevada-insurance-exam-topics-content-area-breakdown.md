@@ -98,7 +98,7 @@ Nevada replacement rules
 
 Nevada Annuity Best Interest standard
 
-Nevada continuing education
+Nevada [continuing education](/nevada/continuing-education)
 
 Nevada-specific senior protection
 
@@ -356,7 +356,7 @@ These distributions give you a sense of where to focus.
 
 ## Studying Each Topic Effectively
 
-Read foundational material. Start with prelicense course materials covering each topic.
+Read foundational material. Start with [prelicense](/nevada/prelicensing) course materials covering each topic.
 
 Master vocabulary. Insurance has specific terminology. Master it for each topic.
 

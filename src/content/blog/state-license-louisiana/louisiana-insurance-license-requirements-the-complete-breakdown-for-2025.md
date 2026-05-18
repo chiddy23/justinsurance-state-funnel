@@ -17,7 +17,7 @@ imageAlt: >-
   insurance license requirements: the complete break.
 ---
 
-If you're researching what it takes to get a Louisiana insurance license — whether you're a career changer, a recent graduate, or a producer relocating from another state — this guide gives you the complete picture. Louisiana's licensing requirements are distinctive in several ways that set it apart from most comparison states, starting with the absence of a prelicensing education mandate and extending through a fingerprinting requirement, a flat application fee structure, and specialty training obligations that apply once you're licensed and selling. Here is everything you need to know.
+If you're researching what it takes to get a Louisiana insurance license — whether you're a career changer, a recent graduate, or a producer relocating from another state — this guide gives you the complete picture. Louisiana's licensing requirements are distinctive in several ways that set it apart from most comparison states, starting with the absence of a [prelicensing](/louisiana/prelicensing) education mandate and extending through a fingerprinting requirement, a flat application fee structure, and specialty training obligations that apply once you're licensed and selling. Here is everything you need to know.
 
 ## Basic Eligibility Requirements
 

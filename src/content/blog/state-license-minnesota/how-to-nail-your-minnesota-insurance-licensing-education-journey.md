@@ -22,7 +22,7 @@ Small actions set the stage for your success. For example, picking the right cou
 
 ## Discover your licensing path
 
-Before you dive in, get familiar with what license you want and what Minnesota requires. Do you see yourself selling life and health policies or helping individuals and businesses protect their assets with property and casualty coverage? Different lines of authority, such as Life & Health or Property & Casualty, each require a specific pre-licensing curriculum. Minnesota outlines these requirements to ensure you have a strong foundation in ethics, policy types, and state regulations.
+Before you dive in, get familiar with what license you want and what Minnesota requires. Do you see yourself selling life and health policies or helping individuals and businesses protect their assets with property and casualty coverage? Different lines of authority, such as Life & Health or Property & Casualty, each require a specific [pre-licensing](/minnesota/prelicensing) curriculum. Minnesota outlines these requirements to ensure you have a strong foundation in ethics, policy types, and state regulations.
 
 If you are still exploring which lines to pursue, take time to talk with colleagues, mentors, or local insurance agencies. They can give you an insider’s view, so you’ll feel more confident about your decision. Knowing your focus helps you narrow down the right pre-licensing materials and courses, so you can study with a clear purpose.
 
@@ -30,7 +30,7 @@ If you are still exploring which lines to pursue, take time to talk with colleag
 
 Finding an education provider that meets Minnesota’s pre-licensing requirements can be a big decision. You want a course that not only checks the compliance box but also explains key concepts in a way that truly resonates with your learning style. Consider whether you prefer self-paced online modules, scheduled webinars, or in-person classroom sessions. Reflect on your personal schedule, budget, and study style before committing to a program.
 
-Providers often offer additional support materials like question banks or practice exams to boost your knowledge. Some even have one-on-one instructor support. As you review your options, ask about course completion rates, available study aids, and pass rates on the state licensing exam. You might find that this extra insight into an education provider, such as JustInsurance, can make a meaningful difference in how prepared you feel once exam day arrives.
+Providers often offer additional support materials like question banks or practice exams to boost your knowledge. Some even have one-on-one instructor support. As you review your options, ask about course completion rates, available study aids, and [pass rates](/pass-rates) on the state licensing exam. You might find that this extra insight into an education provider, such as JustInsurance, can make a meaningful difference in how prepared you feel once exam day arrives.
 
 ## Practice effective study habits
 
@@ -70,7 +70,7 @@ Don’t worry, you can schedule a retake. Focus on the areas where you scored lo
 
 ### 5\. Do I need continuing education after I get licensed?
 
-Yes. In Minnesota, you are required to complete continuing education to maintain each line of authority and keep your license in good standing. Topics usually vary, and you can choose courses that fit your career goals and personal interests.
+Yes. In Minnesota, you are required to complete [continuing education](/minnesota/continuing-education) to maintain each line of authority and keep your license in good standing. Topics usually vary, and you can choose courses that fit your career goals and personal interests.
 
 By addressing these common questions, you will have a more concrete understanding of your Minnesota insurance licensing education path and the steps you need to follow.
 

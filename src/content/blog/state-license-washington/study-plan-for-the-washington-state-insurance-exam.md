@@ -74,7 +74,7 @@ Sequential vs. concurrent exam pursuit
 
 ## Phased Study Approach for Each Exam
 
-Phase 1: Content Foundation (50% of study time) Systematic coverage of all exam content areas. Don't skip ahead to practice questions before covering all content — Washington's state law section has important provisions you won't know to study if you go straight to questions.
+Phase 1: Content Foundation (50% of study time) Systematic coverage of all exam content areas. Don't skip ahead to [practice questions](/washington/practice-exam) before covering all content — Washington's state law section has important provisions you won't know to study if you go straight to questions.
 
 Phase 2: Washington State Law Focus (25% of study time) Dedicated Washington-specific study. Even if you have strong national content knowledge, the state law section requires this separate focus:
 

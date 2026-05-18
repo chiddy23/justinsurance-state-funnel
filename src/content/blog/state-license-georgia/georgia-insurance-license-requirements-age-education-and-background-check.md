@@ -38,7 +38,7 @@ Non-Georgia residents who want to conduct insurance business with Georgia client
 
 ## Education Requirements
 
-Georgia doesn't require a college degree or any specific prior education for licensure. You don't need a background in finance, business, or insurance. What you do need is the 16 hours of OCI-approved prelicense education for the Life, Accident, and Sickness license (8 hours life + 8 hours health).
+Georgia doesn't require a college degree or any specific prior education for licensure. You don't need a background in finance, business, or insurance. What you do need is the 16 hours of OCI-approved [prelicense](/georgia/prelicensing) education for the Life, Accident, and Sickness license (8 hours life + 8 hours health).
 
 Requirements for other license types:
 

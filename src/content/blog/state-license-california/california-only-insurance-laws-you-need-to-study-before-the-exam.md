@@ -104,7 +104,7 @@ California has some Medicare supplement rules that differ from federal standards
 
 Exam questions also cover:
 
-- California resident licensing requirements (the 12-hour California Insurance Code and Ethics requirement; line-specific prelicense hours were eliminated by AB 943, effective January 1, 2026)
+- California resident licensing requirements (the 12-hour California Insurance Code and Ethics requirement; line-specific [prelicense](/california/prelicensing) hours were eliminated by AB 943, effective January 1, 2026)
 - CE requirements for resident producers
 - Fingerprinting and background check rules
 - License renewal cycles

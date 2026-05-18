@@ -277,6 +277,6 @@ For producers: Cyber insurance is a genuine, growing need in Seattle's tech comm
 
 ## Build Your Seattle Tech Insurance Career
 
-Seattle's technology and aerospace market rewards producers who develop genuine specialty knowledge — tech compensation structures, Boeing workforce characteristics, Bellevue's corporate expansion, and the cyber insurance opportunity. At JustInsurance, our Washington prelicense and CE courses prepare you for the exam and for building a career in Seattle's distinctive market.
+Seattle's technology and aerospace market rewards producers who develop genuine specialty knowledge — tech compensation structures, Boeing workforce characteristics, Bellevue's corporate expansion, and the cyber insurance opportunity. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses prepare you for the exam and for building a career in Seattle's distinctive market.
 
 Enroll today and position yourself in Washington's technology insurance opportunity.

@@ -19,7 +19,7 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 Keywords: north carolina producer license
 
-Getting your North Carolina producer license can feel like a big undertaking, but with the right steps and resources, you’ll find the process is more approachable than you might think. By understanding the requirements, completing the pre-licensing education, and knowing what to expect on exam day, you’ll be ready to embark on a new career in insurance. Below, you’ll learn everything you need to do, plus a few tips to guide you along the way.
+Getting your North Carolina producer license can feel like a big undertaking, but with the right steps and resources, you’ll find the process is more approachable than you might think. By understanding the requirements, completing the [pre-licensing](/north-carolina/prelicensing) education, and knowing what to expect on exam day, you’ll be ready to embark on a new career in insurance. Below, you’ll learn everything you need to do, plus a few tips to guide you along the way.
 
 ## Understand the licensing process
 
@@ -73,7 +73,7 @@ If you’re looking for extra guidance, consider signing up for a reputable trai
 
 It’s normal to feel overwhelmed when you first research how to become a licensed insurance producer in North Carolina, but keep in mind that thousands of people successfully navigate the process every year. By breaking down each step—meeting eligibility, finishing your pre-licensing education, passing the state exam, and submitting your application—you can systematically check each box until you’re ready to start selling.
 
-If you ever get stuck, remember to reach out to the North Carolina Department of Insurance, or consult your pre-licensing course provider. Their goal is to support you, and they often have clear guidance on exam content, application details, and continuing education. Lean on them for clarification, and don’t be afraid to ask questions.
+If you ever get stuck, remember to reach out to the North Carolina Department of Insurance, or consult your pre-licensing course provider. Their goal is to support you, and they often have clear guidance on exam content, application details, and [continuing education](/north-carolina/continuing-education). Lean on them for clarification, and don’t be afraid to ask questions.
 
 You’ll soon discover that becoming a North Carolina producer is not just about passing an exam or completing training. It’s about developing the expertise and confidence to guide others through important decisions about their insurance needs. Once you’re licensed, your newfound knowledge can help individuals, families, and businesses feel secure and prepared for the future.
 

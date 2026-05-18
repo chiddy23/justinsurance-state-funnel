@@ -45,7 +45,7 @@ Competitive positioning. Agents who can serve all of a client's needs often reta
 
 The process is similar to getting your initial license — with some key differences.
 
-Step 1 — Complete prelicense education for the new line.
+Step 1 — Complete [prelicense](/california/prelicensing) education for the new line.
 
 As of January 1, 2026, California no longer requires line-specific prelicense education under AB 943. No additional prelicense coursework is required to add a new line of authority:
 

@@ -16,7 +16,7 @@ New Jersey, New York, and Pennsylvania share borders, commuters, and — in the 
 
 ### The Quick Comparison
 
-All three states use PSI as their exam administrator. All three require a 70% passing score. But the differences in question count, prelicensing requirements, and pass rates are significant.
+All three states use PSI as their exam administrator. All three require a 70% passing score. But the differences in question count, [prelicensing](/new-jersey/prelicensing) requirements, and [pass rates](/pass-rates) are significant.
 
 ### Prelicensing Education: New Jersey Is Middle Ground
 

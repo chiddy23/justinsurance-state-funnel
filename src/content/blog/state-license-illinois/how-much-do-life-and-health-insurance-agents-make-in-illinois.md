@@ -93,6 +93,6 @@ University markets. Champaign-Urbana and other university communities have disti
 
 ## Start Your Illinois Insurance Income Right
 
-Illinois offers real earning potential for agents who commit to the career. At JustInsurance, our Illinois prelicense course prepares you for the exam and for the real work of building income in this market.
+Illinois offers real earning potential for agents who commit to the career. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) course prepares you for the exam and for the real work of building income in this market.
 
 Enroll today and start building your Illinois insurance income.

@@ -16,7 +16,7 @@ imageAlt: >-
   modern office.
 ---
 
-Renewing your Georgia insurance license is a straightforward online process — if you know the steps and you've met your continuing education requirements. Miss the deadline or skip your CE, and renewal becomes more complicated. Understanding the process ahead of time keeps you compliant and active.
+Renewing your Georgia insurance license is a straightforward online process — if you know the steps and you've met your [continuing education](/georgia/continuing-education) requirements. Miss the deadline or skip your CE, and renewal becomes more complicated. Understanding the process ahead of time keeps you compliant and active.
 
 Here's exactly how to renew your Georgia insurance license online.
 
@@ -140,7 +140,7 @@ If you don't renew on time:
 
 Grace period. Georgia typically allows a short grace period during which you can renew with late fees without full reinstatement. After the grace period, full reinstatement procedures apply.
 
-Extended non-compliance. If you let the license lapse for an extended period (typically over a year), you may be required to reapply from scratch — including retaking prelicense education and the state exam.
+Extended non-compliance. If you let the license lapse for an extended period (typically over a year), you may be required to reapply from scratch — including retaking [prelicense](/georgia/prelicensing) education and the state exam.
 
 ## Common Renewal Problems
 

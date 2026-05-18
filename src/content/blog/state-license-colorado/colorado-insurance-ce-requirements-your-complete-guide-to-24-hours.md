@@ -12,7 +12,7 @@ image: /blog/images/your-ultimate-guide-to-colorado-insurance-license-renewal.jp
 imageAlt: "Colorado Insurance CE Requirements: Your Complete Guide to 24 Hours"
 ---
 
-Colorado requires every licensed insurance producer to complete 24 hours of continuing education every two years before renewing their license. That number is straightforward. What trips producers up is not the total hours — it is the category restrictions, the mandatory topic-specific prerequisites that sit alongside the biennial CE, the carryover rules, the classroom requirements that some producers discover only at renewal, and the CE exemptions that do not apply to as many people as candidates assume. This post maps every CE rule in Colorado so that you can plan a two-year CE schedule that satisfies every requirement the first time, without surprises at renewal.
+Colorado requires every licensed insurance producer to complete 24 hours of [continuing education](/colorado/continuing-education) every two years before renewing their license. That number is straightforward. What trips producers up is not the total hours — it is the category restrictions, the mandatory topic-specific prerequisites that sit alongside the biennial CE, the carryover rules, the classroom requirements that some producers discover only at renewal, and the CE exemptions that do not apply to as many people as candidates assume. This post maps every CE rule in Colorado so that you can plan a two-year CE schedule that satisfies every requirement the first time, without surprises at renewal.
 
 ### The License Renewal Cycle
 

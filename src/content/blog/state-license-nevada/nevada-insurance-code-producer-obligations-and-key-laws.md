@@ -158,7 +158,7 @@ Document everything. Notes on client conversations, reasons for recommendations,
 
 Follow DOI bulletins. Subscribe to DOI communications and review them periodically through doi.nv.gov.
 
-Complete your CE seriously. Continuing education is where compliance knowledge stays current. Don't treat it as busywork.
+Complete your CE seriously. [Continuing education](/nevada/continuing-education) is where compliance knowledge stays current. Don't treat it as busywork.
 
 When uncertain, ask. The DOI and reputable industry attorneys can provide guidance on specific situations.
 

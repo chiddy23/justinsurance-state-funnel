@@ -20,7 +20,7 @@ imageCredit: Photo by Lukas Blazek on Pexels
 
 ## Unlock the value of [Texas insurance CE](/texas/continuing-education)
 
-When it comes to meeting your compliance requirements as a licensed insurance agent, [Texas insurance](/texas) continuing education courses can be your strongest ally. These courses do more than just keep you in good standing with state regulations. They sharpen your expertise, reinforce client trust, and help you stand out in a competitive market.
+When it comes to meeting your compliance requirements as a licensed insurance agent, [Texas insurance](/texas) [continuing education](/texas/continuing-education) courses can be your strongest ally. These courses do more than just keep you in good standing with state regulations. They sharpen your expertise, reinforce client trust, and help you stand out in a competitive market.
 
 Staying on top of industry changes can feel daunting. Yet, with the right CE program, you refuel your knowledge while discovering the latest tools and resources. Each new course you take also gives you the confidence to handle evolving client needs, whether you specialize in life insurance, property and casualty, or another niche.
 

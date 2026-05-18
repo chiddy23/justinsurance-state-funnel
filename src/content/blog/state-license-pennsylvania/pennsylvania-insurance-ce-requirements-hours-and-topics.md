@@ -17,7 +17,7 @@ imageAlt: >-
   pennsylvania insurance ce requirements: hours and topics.
 ---
 
-Keeping your Pennsylvania insurance license active requires more than paying a renewal fee — you need to complete continuing education (CE) on schedule, using approved courses, with specific required topics, and have it reported correctly. Pennsylvania's CE framework underwent significant updates in 2025 with new mandatory Ethics and Flood Insurance topics, making it essential for both new and existing producers to understand current requirements.
+Keeping your Pennsylvania insurance license active requires more than paying a renewal fee — you need to complete [continuing education](/pennsylvania/continuing-education) (CE) on schedule, using approved courses, with specific required topics, and have it reported correctly. Pennsylvania's CE framework underwent significant updates in 2025 with new mandatory Ethics and Flood Insurance topics, making it essential for both new and existing producers to understand current requirements.
 
 Here's a clear breakdown of Pennsylvania insurance CE requirements.
 

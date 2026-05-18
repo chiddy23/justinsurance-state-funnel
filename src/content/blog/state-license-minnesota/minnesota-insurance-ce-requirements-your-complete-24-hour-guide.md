@@ -12,7 +12,7 @@ image: /blog/images/your-fast-track-to-a-minnesota-insurance-license.jpg
 imageAlt: "Minnesota Insurance CE Requirements: Your Complete 24-Hour Guide"
 ---
 
-Every licensed Minnesota insurance producer must complete 24 hours of continuing education every two years to maintain an active license. That requirement is the headline — but the headline alone does not tell you what counts toward those 24 hours, what restrictions apply to how you earn them, which formats satisfy the classroom requirement, when the deadline falls, how reporting works, or what happens if you miss the deadline. This post covers the complete Minnesota CE framework in the depth that practicing producers need: every requirement, every restriction, every specialty obligation, and every consequence of non-compliance.
+Every licensed Minnesota insurance producer must complete 24 hours of [continuing education](/minnesota/continuing-education) every two years to maintain an active license. That requirement is the headline — but the headline alone does not tell you what counts toward those 24 hours, what restrictions apply to how you earn them, which formats satisfy the classroom requirement, when the deadline falls, how reporting works, or what happens if you miss the deadline. This post covers the complete Minnesota CE framework in the depth that practicing producers need: every requirement, every restriction, every specialty obligation, and every consequence of non-compliance.
 
 ### The Statutory Basis
 
@@ -148,7 +148,7 @@ CE carryover: Minnesota does not allow CE credits to carry over from one renewal
 
 License lapse: A license for which the renewal deadline passes without completed CE and a submitted renewal application lapses automatically. There is no grace period — the license is inactive from the day after the renewal deadline.
 
-The 12-month reinstatement window: A lapsed license can be reinstated within 12 months by completing any outstanding CE and paying the reinstatement penalty — double the unpaid renewal fee (approximately $160 in base penalty plus applicable fees). No new prelicensing, no new exam, no new fingerprinting is required within the 12-month reinstatement window.
+The 12-month reinstatement window: A lapsed license can be reinstated within 12 months by completing any outstanding CE and paying the reinstatement penalty — double the unpaid renewal fee (approximately $160 in base penalty plus applicable fees). No new [prelicensing](/minnesota/prelicensing), no new exam, no new fingerprinting is required within the 12-month reinstatement window.
 
 After 12 months: Full relicensing is required — new prelicensing education, new PSI exam, new fingerprinting, and full application fee. The 12-month deadline is absolute.
 

@@ -30,7 +30,7 @@ You’ll go through [Florida pre-licensing courses](/florida/prelicensing), fing
 The [Florida Department of Financial Services](/florida/requirements) (DFS) wants to ensure you’re properly educated and prepared to serve clients. Their requirements typically include:
 
 -   Being 18 years or older and a legal resident of Florida.
--   Completing a state-approved pre-licensing course (the number of hours depends on the license type).
+-   Completing a state-approved [pre-licensing](/florida/prelicensing) course (the number of hours depends on the license type).
 -   Passing the licensing exam and a background check.
 -   Submitting an application with all necessary fees.
 

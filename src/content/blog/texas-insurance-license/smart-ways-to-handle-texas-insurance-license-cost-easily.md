@@ -21,7 +21,7 @@ If you’re considering a career in insurance, navigating the [Texas insurance l
 
 ## Understand the financial breakdown
 
-The journey to a Texas insurance license generally includes several fees. First, you’ll encounter the cost of pre-licensing courses. Then, there’s an exam fee, an application fee, and sometimes background check expenses. While each of these fees is distinct, you can often plan for them well in advance.
+The journey to a Texas insurance license generally includes several fees. First, you’ll encounter the cost of [pre-licensing](/texas/prelicensing) courses. Then, there’s an exam fee, an application fee, and sometimes background check expenses. While each of these fees is distinct, you can often plan for them well in advance.
 
 Most individuals pay around a few hundred dollars in total, although your costs can vary depending on the number of lines of authority you plan to pursue. For example, getting both a Life and Health license may mean slightly higher pre-licensing and exam costs. The key to success is understanding each expense before you commit.
 

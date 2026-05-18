@@ -17,7 +17,7 @@ imageAlt: >-
   insurance exam: no ple required, but preparation is .
 ---
 
-Arizona's no-prelicense-education approach gives candidates flexibility in how they prepare — but it doesn't reduce what they need to know. Arizona's two-section independent scoring requirement (70% on each section separately — not averaged), a strict four-attempt annual limit per line, and an Arizona state law section that distinctly reflects A.R.S. Title 20 provisions all mean that "no PLE required" doesn't mean "no preparation needed." Understanding Arizona's exam structure and building a study approach that addresses both the general and Arizona-specific sections is essential.
+Arizona's no-[prelicense](/arizona/prelicensing)-education approach gives candidates flexibility in how they prepare — but it doesn't reduce what they need to know. Arizona's two-section independent scoring requirement (70% on each section separately — not averaged), a strict four-attempt annual limit per line, and an Arizona state law section that distinctly reflects A.R.S. Title 20 provisions all mean that "no PLE required" doesn't mean "no preparation needed." Understanding Arizona's exam structure and building a study approach that addresses both the general and Arizona-specific sections is essential.
 
 Here's everything candidates need to know about Arizona's exam approach.
 
@@ -251,7 +251,7 @@ Step 1: Choose a quality Arizona-specific prep course. Even without PLE requirem
 
 Step 2: Allocate study time proportionally. Both sections must independently hit 70%. If you have strong insurance background, weight Arizona state law heavily in your preparation. If you're new to insurance, allocate proportional time to both.
 
-Step 3: Practice Arizona-specific questions specifically. Generic national practice question banks don't adequately cover A.R.S. Title 20 content. Seek practice questions specifically addressing DIFI authority, Arizona policy provisions, and Arizona Guaranty Association limits.
+Step 3: Practice Arizona-specific questions specifically. Generic national practice question banks don't adequately cover A.R.S. Title 20 content. Seek [practice questions](/arizona/practice-exam) specifically addressing DIFI authority, Arizona policy provisions, and Arizona Guaranty Association limits.
 
 Step 4: Take full-length practice exams under simulated conditions. 2 hours (single line) or 2.5 hours (combined) under timed conditions.
 

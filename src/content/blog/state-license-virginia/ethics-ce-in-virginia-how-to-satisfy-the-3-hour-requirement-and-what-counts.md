@@ -16,7 +16,7 @@ Every Virginia resident insurance producer must complete at least 3 credit hours
 
 ### The Core Rule: What Qualifies as Ethics CE
 
-Virginia's ethics CE requirement is met by courses specifically approved as ethics content by the Virginia Insurance Continuing Education Board. For producers (as distinct from public adjusters), the ethics requirement may be satisfied by courses covering:
+Virginia's ethics CE requirement is met by courses specifically approved as ethics content by the Virginia Insurance [Continuing Education](/virginia/continuing-education) Board. For producers (as distinct from public adjusters), the ethics requirement may be satisfied by courses covering:
 
 Insurance ethics: Professional conduct standards, fiduciary duties, conflicts of interest, fair dealing with clients, and ethical obligations under Virginia insurance law.
 

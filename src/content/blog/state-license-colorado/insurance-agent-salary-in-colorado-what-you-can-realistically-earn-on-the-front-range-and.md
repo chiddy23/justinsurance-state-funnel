@@ -56,7 +56,7 @@ The line of authority — and the specific products within it — shapes Colorad
 
 #### Personal Lines (Property and Casualty)
 
-Personal lines is the most accessible entry point in Colorado insurance — the prelicensing is 50 hours for each line, the exam is straightforward, and the client base is universal. Everyone needs auto and homeowners. The downside is that personal lines commissions are the lowest as a percentage of premium across all major insurance lines.
+Personal lines is the most accessible entry point in Colorado insurance — the [prelicensing](/colorado/prelicensing) is 50 hours for each line, the exam is straightforward, and the client base is universal. Everyone needs auto and homeowners. The downside is that personal lines commissions are the lowest as a percentage of premium across all major insurance lines.
 
 New business commission rates: Auto liability: 10–12% of premium. Homeowners: 10–15% of premium. Personal umbrella: 10–15%.
 

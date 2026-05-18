@@ -336,6 +336,6 @@ Producer strategy: Develop systematic new-resident outreach. New home purchases 
 
 ## Build Your Phoenix Insurance Career in One of America's Fastest-Growing Markets
 
-Phoenix's technology transformation, financial services depth, and sustained population growth create specialty opportunity found in few other markets. At JustInsurance, our Arizona prelicense and CE courses prepare you for the exam and for building a career in Phoenix's distinctive and rapidly evolving market.
+Phoenix's technology transformation, financial services depth, and sustained population growth create specialty opportunity found in few other markets. At JustInsurance, our Arizona [prelicense](/arizona/prelicensing) and CE courses prepare you for the exam and for building a career in Phoenix's distinctive and rapidly evolving market.
 
 Enroll today and position yourself in Arizona's technology insurance opportunity.

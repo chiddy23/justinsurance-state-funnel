@@ -16,7 +16,7 @@ Tennessee, Georgia, and North Carolina share the southeastern geography, signifi
 
 ### The Prelicensing Landscape: All Three States Changed Recently
 
-One of the most significant shifts in southeastern insurance licensing occurred simultaneously in all three states — each eliminated or dramatically reduced mandatory prelicensing requirements within a 30-month window ending in late 2025.
+One of the most significant shifts in southeastern insurance licensing occurred simultaneously in all three states — each eliminated or dramatically reduced mandatory [prelicensing](/tennessee/prelicensing) requirements within a 30-month window ending in late 2025.
 
 Tennessee: Eliminated mandatory prelicensing effective March 21, 2023. No course hours required before sitting for the Pearson VUE exam. Tennessee was among the first southeastern states to make this change.
 
@@ -24,7 +24,7 @@ North Carolina: Eliminated mandatory prelicensing effective October 1, 2025 per 
 
 Georgia: Reduced prelicensing from 20 hours per line to 8 hours per line effective June 24, 2025. Georgia has not fully eliminated the requirement — 8 hours per line is still mandatory before sitting for the exam. This makes Georgia the most demanding of the three states in terms of formal pre-exam requirements, though the 8-hour standard is among the most accessible mandatory prelicensing requirements in the country.
 
-The practical implication: Candidates pursuing licenses in all three states should plan for 8 hours of mandatory prelicensing for Georgia — completable in one to two focused days — but no mandatory hours for Tennessee or North Carolina. The voluntary prep course remains strongly recommended in all three states given first-time pass rates of approximately 55–65% across the region.
+The practical implication: Candidates pursuing licenses in all three states should plan for 8 hours of mandatory prelicensing for Georgia — completable in one to two focused days — but no mandatory hours for Tennessee or North Carolina. The voluntary prep course remains strongly recommended in all three states given first-time [pass rates](/pass-rates) of approximately 55–65% across the region.
 
 ### The Exam: Platform, Format, Fees, and Sequencing
 

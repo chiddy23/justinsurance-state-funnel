@@ -38,13 +38,13 @@ Some lines of insurance, like life and health, may include additional specifics,
 
 Ohio requires a certain number of study hours before sitting for the insurance exam. Depending on the license you plan to pursue, this total can vary. Make sure you choose a state-approved provider that fits your budget, schedule, and learning style.
 
-Many aspiring agents pick online [Ohio prelicensing](/ohio/prelicensing) courses. Online courses let you go at your own pace and revisit modules as needed. If you prefer in-person instruction, you can find classroom-based options in most major Ohio cities. Either way, consider comparing course outlines, instructor credentials, and pass rates when deciding.
+Many aspiring agents pick online [Ohio prelicensing](/ohio/prelicensing) courses. Online courses let you go at your own pace and revisit modules as needed. If you prefer in-person instruction, you can find classroom-based options in most major Ohio cities. Either way, consider comparing course outlines, instructor credentials, and [pass rates](/pass-rates) when deciding.
 
 Studying is much more than memorizing facts. You will get comfortable with insurance laws, ethics, and real-world scenarios, so you feel confident on exam day. Try not to rush: pacing your study sessions over a few weeks or months typically results in better retention and a steadier build of knowledge.
 
 ## Schedule and pass your insurance exam
 
-Once you have completed the required pre-licensing hours, it is time to schedule your [Ohio insurance exam](/ohio/requirements). You will typically register through an official testing provider, either online or over the phone. Make sure you schedule your exam for a date and time that suits your routine, so you are relaxed and well-prepared.
+Once you have completed the required [pre-licensing](/ohio/prelicensing) hours, it is time to schedule your [Ohio insurance exam](/ohio/requirements). You will typically register through an official testing provider, either online or over the phone. Make sure you schedule your exam for a date and time that suits your routine, so you are relaxed and well-prepared.
 
 On test day, arrive early. You will need two forms of identification. Some testing centers provide calculators for math-related questions, but check ahead so you know what to bring. The exam itself typically includes multiple-choice questions that measure both your knowledge of key insurance principles and your familiarity with state regulations.
 

@@ -304,7 +304,7 @@ A beneficiary contests a claim — what process applies?
 
 A replacement is being proposed — what disclosures are required?
 
-Practice questions that use scenario framing prepare you for this question style.
+[Practice questions](/alabama/practice-exam) that use scenario framing prepare you for this question style.
 
 ## What to Expect on Exam Day
 

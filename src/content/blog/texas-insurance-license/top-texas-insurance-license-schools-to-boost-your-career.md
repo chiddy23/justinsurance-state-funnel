@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by cottonbro studio on Pexels
 ---
 
-When you think about launching a career in insurance, exploring the best [Texas insurance license](/texas) schools can be a game-changer. Whether you are looking to sell auto, life, health, or property insurance, getting licensed in Texas requires following a few important steps. Below, you will learn about each stage of earning your license, from meeting basic requirements to selecting a pre-licensing program that matches your learning style. By the end, you will feel more confident about your journey and know how to move forward with resources like JustInsurance.
+When you think about launching a career in insurance, exploring the best [Texas insurance license](/texas) schools can be a game-changer. Whether you are looking to sell auto, life, health, or property insurance, getting licensed in Texas requires following a few important steps. Below, you will learn about each stage of earning your license, from meeting basic requirements to selecting a [pre-licensing](/texas/prelicensing) program that matches your learning style. By the end, you will feel more confident about your journey and know how to move forward with resources like JustInsurance.
 
 ## Understand Texas license basics
 

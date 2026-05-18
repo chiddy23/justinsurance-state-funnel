@@ -20,7 +20,7 @@ imageCredit: Photo by MART  PRODUCTION on Pexels
 
 ## Know the pre-licensing basics
 
-If you plan to become an insurance producer in the Hoosier State, you first need to satisfy the Indiana insurance pre-licensing education requirements. These rules help ensure you have a solid understanding of insurance concepts and state regulations before taking your exam and applying for a license. By completing these prerequisites, you gain the confidence to serve clients effectively from the moment you begin your new career.
+If you plan to become an insurance producer in the Hoosier State, you first need to satisfy the Indiana insurance [pre-licensing](/indiana/prelicensing) education requirements. These rules help ensure you have a solid understanding of insurance concepts and state regulations before taking your exam and applying for a license. By completing these prerequisites, you gain the confidence to serve clients effectively from the moment you begin your new career.
 
 Indiana offers several lines of authority you may choose, such as Life, Health, Property, or Casualty. Each line has its own [pre-licensing requirements](/indiana/prelicensing), and some people decide to combine Life & Health or Property & Casualty to broaden their career paths. Regardless of which path you pick, you will have to show proof of successful course completion when you register for your licensing exam.
 
@@ -43,7 +43,7 @@ Below are some factors to consider when evaluating providers:
 -   Course format (live classroom, virtual classroom, or self-paced online)
 -   Availability of practice exams and interactive materials
 -   Instructor credentials and student support options
--   Track record of success, including exam pass rates
+-   Track record of success, including exam [pass rates](/pass-rates)
 
 If you need a program that fits a busy schedule, you might explore online or self-paced courses. JustInsurance, for example, offers a range of flexible modules that cover Indiana’s regulatory topics and general insurance foundations. By choosing a course that matches your learning style, you will have an easier time staying committed and retaining what you learn.
 

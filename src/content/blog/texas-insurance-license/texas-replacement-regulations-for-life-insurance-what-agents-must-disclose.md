@@ -72,6 +72,6 @@ The key is that the replacement must benefit the client, be fully disclosed, and
 
 ## Master Replacement Compliance
 
-Replacement is a powerful tool when it's used ethically — but it's a career-ender when it's mishandled. At JustInsurance, our Texas CE and prelicense courses cover replacement rules in detail so you can confidently advise clients and stay on the right side of TDI.
+Replacement is a powerful tool when it's used ethically — but it's a career-ender when it's mishandled. At JustInsurance, our Texas CE and [prelicense](/texas/prelicensing) courses cover replacement rules in detail so you can confidently advise clients and stay on the right side of TDI.
 
 Enroll today and learn replacement compliance the right way.

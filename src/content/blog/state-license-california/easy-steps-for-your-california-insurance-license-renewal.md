@@ -45,7 +45,7 @@ However, if your license has lapsed or you are seeking to add a new line of auth
 
 ## Plan your timeline and budget
 
-A solid timeline helps you avoid last-minute panic, and budgeting upfront ensures you do not get caught off guard by fees or course costs. If you count backward from your license expiration date, you can map out when to complete CE courses, gather documents, and submit your renewal application. Some people like to finish continuing education in the first year of their two-year cycle. Others prefer spreading it out more evenly. As you weigh these options, remember to leave room for unexpected delays, such as a busy period at work or an unplanned schedule change.
+A solid timeline helps you avoid last-minute panic, and budgeting upfront ensures you do not get caught off guard by fees or course costs. If you count backward from your license expiration date, you can map out when to complete CE courses, gather documents, and submit your renewal application. Some people like to finish [continuing education](/california/continuing-education) in the first year of their two-year cycle. Others prefer spreading it out more evenly. As you weigh these options, remember to leave room for unexpected delays, such as a busy period at work or an unplanned schedule change.
 
 When it comes to costs, factor in:
 

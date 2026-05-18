@@ -23,7 +23,7 @@ Rather than guessing at the steps, you’ll want to understand each phase of the
 
 ## Understand the licensing basics
 
-Before you jump in, it’s important to familiarize yourself with the overall journey. Ohio’s Department of Insurance oversees the process, which ensures that only qualified, knowledgeable individuals make it into the industry. From a student’s point of view, you’ll take specific pre-licensing courses, pass the official exam, then apply for your license.
+Before you jump in, it’s important to familiarize yourself with the overall journey. Ohio’s Department of Insurance oversees the process, which ensures that only qualified, knowledgeable individuals make it into the industry. From a student’s point of view, you’ll take specific [pre-licensing](/ohio/prelicensing) courses, pass the official exam, then apply for your license.
 
 Insurance licensing in Ohio covers various lines, such as Life, Health, Property, and Casualty. You can also pursue a combination of lines if you plan to provide broader services to clients. While the process can feel a bit formal at first, just remember that these requirements are in place to verify your competency and keep Ohio consumers well-protected.
 

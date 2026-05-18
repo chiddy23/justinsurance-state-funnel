@@ -22,7 +22,7 @@ Speeding up your [Arizona insurance license](/arizona) application does not have
 
 ## Review your requirements
 
-Before you jump in, take a moment to confirm the particular requirements for your desired line of insurance. Arizona typically requires you to be at least 18 years old and to complete a certain number of hours in a pre-licensing course. You also need to pass a state-approved exam. Getting clear on these basics is the first step toward avoiding any misunderstandings later in the process.
+Before you jump in, take a moment to confirm the particular requirements for your desired line of insurance. Arizona typically requires you to be at least 18 years old and to complete a certain number of hours in a [pre-licensing](/arizona/prelicensing) course. You also need to pass a state-approved exam. Getting clear on these basics is the first step toward avoiding any misunderstandings later in the process.
 
 If you are relocating from another state, you can often transfer part of your knowledge. However, be sure to check with the [Arizona Department of Insurance and Financial Institutions](/arizona/requirements) to see if any of your credits or existing certifications carry over. This quick overview helps you prevent any documentation issues or extra coursework you might not need.
 

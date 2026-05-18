@@ -126,6 +126,6 @@ But these challenges are navigable. Agents who specialize, focus, and serve clie
 
 ## Start Your Florida Insurance Career with Confidence
 
-Florida offers one of the most rewarding markets in the country for motivated agents. At JustInsurance, our Florida prelicense courses are built specifically for the Florida Department of Financial Services exam, so you can start your career on solid footing.
+Florida offers one of the most rewarding markets in the country for motivated agents. At JustInsurance, our Florida [prelicense](/florida/prelicensing) courses are built specifically for the Florida Department of Financial Services exam, so you can start your career on solid footing.
 
 Enroll today and build your career in one of America's best insurance markets.

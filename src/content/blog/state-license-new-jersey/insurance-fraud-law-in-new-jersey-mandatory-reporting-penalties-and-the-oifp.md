@@ -114,4 +114,4 @@ The New Jersey Insurance Fraud Prevention Act does not specify a short limitatio
 
 New Jersey's insurance fraud enforcement framework is among the most robust in the country — a dedicated prosecutor, mandatory insurer reporting, treble damages in civil actions, and simultaneous administrative, civil, and criminal exposure for fraudulent conduct. For producers, this framework is not background knowledge. It is the enforcement architecture that governs every aspect of professional conduct in the state.
 
-Visit JustInsurance to enroll today and study NJ insurance fraud law as part of a prelicensing course built to the PSI content outline.
+Visit JustInsurance to enroll today and study NJ insurance fraud law as part of a [prelicensing](/new-jersey/prelicensing) course built to the PSI content outline.

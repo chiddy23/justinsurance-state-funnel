@@ -20,7 +20,7 @@ Filing your Kentucky insurance license application correctly the first time save
 
 ## Overview of the Kentucky Application Process
 
-After completing your 20-hour prelicensing education course and obtaining your Kentucky Administrative Office of the Courts (AOC) criminal background report, the application is your third major milestone. Kentucky resident producers must apply through NIPR at nipr.com. The NIPR portal allows you to submit your application, pay fees, and upload supporting documents including your signed and dated Certificate of Completion (Form CPL-01) and your background report reference information.
+After completing your 20-hour [prelicensing](/kentucky/prelicensing) education course and obtaining your Kentucky Administrative Office of the Courts (AOC) criminal background report, the application is your third major milestone. Kentucky resident producers must apply through NIPR at nipr.com. The NIPR portal allows you to submit your application, pay fees, and upload supporting documents including your signed and dated Certificate of Completion (Form CPL-01) and your background report reference information.
 
 Before you can schedule your licensing examination, your application must be fully processed by the KDOI. This means submitting your application first, then waiting for processing confirmation via your eServices account before scheduling your exam — the reverse of what applicants sometimes assume. You cannot access exam scheduling until the KDOI has reviewed and accepted your application.
 

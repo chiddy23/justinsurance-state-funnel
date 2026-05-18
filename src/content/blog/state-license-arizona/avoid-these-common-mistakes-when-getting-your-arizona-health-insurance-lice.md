@@ -20,7 +20,7 @@ imageCredit: Photo by Karina Finger on Pexels
 
 For many aspiring professionals across the state, earning your [Arizona health insurance license](/arizona) is the first step to a dynamic and rewarding career. However, in the rush to fulfill requirements, it is easy to make mistakes that slow your progress, or even block you from obtaining your license. The good news is that these errors are preventable with the right information and a bit of careful planning.
 
-Mistakes often range from misunderstanding pre-licensing coursework to skipping important exam preparation steps. Each slip-up can cost you time, money, or both. By proactively identifying the areas where candidates commonly stumble, you will be well on your way toward a smooth journey into Arizona’s insurance industry.
+Mistakes often range from misunderstanding [pre-licensing](/arizona/prelicensing) coursework to skipping important exam preparation steps. Each slip-up can cost you time, money, or both. By proactively identifying the areas where candidates commonly stumble, you will be well on your way toward a smooth journey into Arizona’s insurance industry.
 
 ## Avoid false assumptions
 

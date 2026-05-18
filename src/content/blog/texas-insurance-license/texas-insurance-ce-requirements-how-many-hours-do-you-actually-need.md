@@ -16,7 +16,7 @@ imageAlt: >-
   ce requirements: how many hours do you actually need?.
 ---
 
-Once you've got your Texas insurance license in hand, the work isn't over — it's just getting started. The Texas Department of Insurance requires every licensed agent to complete continuing education (CE) hours on a regular schedule to keep that license active. Miss the deadline, and you're looking at late fees, license lapses, or worse.
+Once you've got your Texas insurance license in hand, the work isn't over — it's just getting started. The Texas Department of Insurance requires every licensed agent to complete [continuing education](/texas/continuing-education) (CE) hours on a regular schedule to keep that license active. Miss the deadline, and you're looking at late fees, license lapses, or worse.
 
 Here's exactly how many CE hours you need and how the system works.
 

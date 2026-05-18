@@ -100,7 +100,7 @@ The one-transaction rule: All lines being reinstated must be reinstated in a sin
 
 If a lapsed Colorado insurance license is not reinstated within one year of the expiration date, the license cannot be reinstated. The producer must begin the licensing process from the beginning:
 
-Complete the full 50-hour prelicensing course for each line
+Complete the full 50-hour [prelicensing](/colorado/prelicensing) course for each line
 
 Pass the Pearson VUE state exam for each line
 

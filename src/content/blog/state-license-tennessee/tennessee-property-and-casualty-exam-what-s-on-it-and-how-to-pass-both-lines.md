@@ -462,7 +462,7 @@ License discipline grounds: TCA §56-6-112
 
 Licensing mechanics:
 
-No mandatory prelicensing (effective March 21, 2023)
+No mandatory [prelicensing](/tennessee/prelicensing) (effective March 21, 2023)
 
 Pearson VUE; $59 per attempt; 70% pass; immediate results
 
@@ -552,7 +552,7 @@ When this approach works:
 
 The candidate has substantial prior insurance knowledge in both lines
 
-The diagnostic practice exam shows readiness above 70% on both lines
+The diagnostic [practice exam](/tennessee/practice-exam) shows readiness above 70% on both lines
 
 The candidate is under time pressure to achieve dual licensure quickly
 

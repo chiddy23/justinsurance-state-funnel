@@ -42,7 +42,7 @@ Some related background: 4-5 weeks
 
 Prior insurance experience: 3-4 weeks
 
-Industry designations: 2-3 weeks (if exempt from prelicense)
+Industry designations: 2-3 weeks (if exempt from [prelicense](/connecticut/prelicensing))
 
 ## Study Plan Phases
 
@@ -50,7 +50,7 @@ Effective study plans break preparation into distinct phases:
 
 Phase 1: Prelicense Foundation (Weeks 1-2 or 1-3) Complete required prelicense education. Build foundational knowledge.
 
-Phase 2: Active Practice (Weeks 2-4) Work through practice questions across all content areas.
+Phase 2: Active Practice (Weeks 2-4) Work through [practice questions](/connecticut/practice-exam) across all content areas.
 
 Phase 3: Full-Length Practice Exams (Weeks 4-5) Take multiple full-length practice exams under timed conditions.
 

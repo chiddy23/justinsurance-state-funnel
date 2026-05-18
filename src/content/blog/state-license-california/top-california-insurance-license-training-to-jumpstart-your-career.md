@@ -42,7 +42,7 @@ Once these are fulfilled, you can apply for your official license. The underlyin
 
 One of the best ways to set yourself up for success is to map out a clear timeline for your california insurance license training. Some people opt for part-time study if they are employed full-time, while others dedicate themselves to an intensive, shorter program.
 
-Keep in mind that different lines of authority require a set amount of study hours, as mandated by state regulation. For instance, life insurance, property and casualty, or health insurance each have prerogatives for how many hours you must spend in a pre-licensing course.
+Keep in mind that different lines of authority require a set amount of study hours, as mandated by state regulation. For instance, life insurance, property and casualty, or health insurance each have prerogatives for how many hours you must spend in a [pre-licensing](/california/prelicensing) course.
 
 If you want to move quickly, you can concentrate your studies and try to complete your coursework within a few weeks. For a steadier approach, you can stretch your training over a few months while balancing work or family obligations. Either way, a well-thought-out schedule helps you stay on track and reduces stress.
 

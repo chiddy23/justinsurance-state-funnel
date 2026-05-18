@@ -67,7 +67,7 @@ You cannot sell life insurance or annuities with a 2-40 license.
 
 Get the 2-15 if you want to sell life insurance, annuities, or a full mix of products. Most agents building a broad practice choose this path because it gives you the widest range of products to serve clients with.
 
-Get the 2-40 if you're focused exclusively on health insurance or Medicare. Many dedicated Medicare agents hold only the 2-40 because it's all they need, and the prelicense requirement is shorter.
+Get the 2-40 if you're focused exclusively on health insurance or Medicare. Many dedicated Medicare agents hold only the 2-40 because it's all they need, and the [prelicense](/florida/prelicensing) requirement is shorter.
 
 Consider the 2-15 even if you plan to focus on health initially. The 2-15 includes health as part of its authority, so getting the 2-15 means you're not restricted if your business evolves toward life or annuities later.
 

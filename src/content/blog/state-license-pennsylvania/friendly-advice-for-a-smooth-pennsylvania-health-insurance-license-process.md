@@ -24,7 +24,7 @@ Remember, this journey is about more than just passing an exam. It’s about pre
 
 ## Understand license prerequisites
 
-Before you dive into classes or study materials, it helps to know what the state expects from you. In Pennsylvania, you must typically be at least 18 years old and have a clean background to qualify. You’ll also need to fulfill pre-licensing coursework and pass an official state exam to become licensed for health insurance.
+Before you dive into classes or study materials, it helps to know what the state expects from you. In Pennsylvania, you must typically be at least 18 years old and have a clean background to qualify. You’ll also need to fulfill [pre-licensing](/pennsylvania/prelicensing) coursework and pass an official state exam to become licensed for health insurance.
 
 Beyond these core requirements, you should anticipate a few administrative tasks. Gathering personal information, paying any associated state fees, and scheduling an exam date all fall under your responsibilities. It’s a good idea to create a simple checklist so that you don’t miss anything throughout your preparation.
 
@@ -32,7 +32,7 @@ Beyond these core requirements, you should anticipate a few administrative tasks
 
 Pennsylvania requires specific [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) hours before you can take the health insurance licensing exam. This training ensures you know the fundamentals of state regulations, policy types, and ethical considerations. Pre-licensing courses are available online and in person, so picking the best option depends on your learning style. You might find virtual classes more flexible, while in-person classes can offer hands-on discussions.
 
-Take the time to choose a solid provider with a clear curriculum that targets essential topics. Most courses blend lectures with practice questions to help you retain information. You’ll explore topics like health insurance laws, policy provisions, disability income coverage, and more. By completing your coursework thoroughly, you’ll build a strong foundation and feel more comfortable tackling exam questions later.
+Take the time to choose a solid provider with a clear curriculum that targets essential topics. Most courses blend lectures with [practice questions](/pennsylvania/practice-exam) to help you retain information. You’ll explore topics like health insurance laws, policy provisions, disability income coverage, and more. By completing your coursework thoroughly, you’ll build a strong foundation and feel more comfortable tackling exam questions later.
 
 ## Pass the state exam
 
@@ -67,6 +67,6 @@ Help doesn’t stop once you have the license in hand, either. You might find yo
 
 ## A simple next step
 
-By following the steps above, you’re already well on your way to achieving your Pennsylvania health insurance license. Make sure you understand the prerequisites, complete your pre-licensing education, pass the exam, and submit a thorough application. Then keep your license in good standing by tackling your continuing education requirements on schedule.
+By following the steps above, you’re already well on your way to achieving your Pennsylvania health insurance license. Make sure you understand the prerequisites, complete your pre-licensing education, pass the exam, and submit a thorough application. Then keep your license in good standing by tackling your [continuing education](/pennsylvania/continuing-education) requirements on schedule.
 
 If you need additional support, or if you just want a trusted second opinion, JustInsurance is ready to help you navigate the entire process. Every question deserves a well-informed answer, and you’ll strengthen your career footing by learning from people with real industry experience. You have all the tools to succeed, so take that next step and start forging your path as a licensed health insurance professional in Pennsylvania. Good luck on your journey and congratulations on choosing an exciting new direction!

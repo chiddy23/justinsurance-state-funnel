@@ -34,7 +34,7 @@ Keep in mind that variety can keep you motivated as you continue insurance educa
 
 ## Plan your study schedule
 
-Building a realistic timeline for your continuing education will save you countless headaches. Try mapping out the credit hours you need over your renewal cycle, and break them into manageable segments. This method works wonders for balancing your workload, especially if you have family commitments or a full-time job.
+Building a realistic timeline for your [continuing education](/new-york/continuing-education) will save you countless headaches. Try mapping out the credit hours you need over your renewal cycle, and break them into manageable segments. This method works wonders for balancing your workload, especially if you have family commitments or a full-time job.
 
 Consider creating a simple calendar that includes study blocks throughout the week. You might devote a few hours on Sunday mornings or around lunchtime on weekdays, focusing on one module at a time. By setting a steady pace, you give yourself room to absorb the content without feeling pressured to cram everything at once.
 

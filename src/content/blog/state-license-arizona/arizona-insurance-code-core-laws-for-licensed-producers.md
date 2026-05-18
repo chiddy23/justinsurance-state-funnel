@@ -294,6 +294,6 @@ Records are subject to Director's examination authority (A.A.C. Title 20, Ch. 6;
 
 ## Build Your Career on Strong Arizona Compliance Knowledge
 
-A.R.S. Title 20 is the foundation of Arizona insurance practice — not just exam content. At JustInsurance, our Arizona prelicense and CE courses cover the Insurance Code in practical, producer-focused depth.
+A.R.S. Title 20 is the foundation of Arizona insurance practice — not just exam content. At JustInsurance, our Arizona [prelicense](/arizona/prelicensing) and CE courses cover the Insurance Code in practical, producer-focused depth.
 
 Enroll today and build your Arizona insurance career on solid compliance ground.

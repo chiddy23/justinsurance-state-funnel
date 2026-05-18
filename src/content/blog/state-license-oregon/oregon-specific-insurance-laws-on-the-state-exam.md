@@ -52,7 +52,7 @@ ORS 744.062 — Issuance of producer license
 
 ORS 744.063 — Non-resident producer license
 
-ORS 744.072 — Renewal and continuing education
+ORS 744.072 — Renewal and [continuing education](/oregon/continuing-education)
 
 OAR 836-071 — DFR's licensing rules
 
@@ -66,7 +66,7 @@ Age requirement: 18+
 
 Residency: Oregon resident or principal place of business in Oregon
 
-Prelicense education: 20 hours per individual line, 40 hours for combined Life/Health or P/C
+[Prelicense](/oregon/prelicensing) education: 20 hours per individual line, 40 hours for combined Life/Health or P/C
 
 Examination: Required for most license types
 

@@ -17,7 +17,7 @@ imageAlt: >-
   your massachusetts insurance producer license.
 ---
 
-Getting your Massachusetts insurance producer license opens the door to one of the most sophisticated insurance markets in the Northeast. Boston's financial services concentration, the substantial healthcare sector, and Massachusetts's distinctive Health Connector marketplace create real opportunity for licensed producers. Massachusetts's licensing process is also distinctive — notably, the state does not require pre-licensing education, making it one of the few states with this approach.
+Getting your Massachusetts insurance producer license opens the door to one of the most sophisticated insurance markets in the Northeast. Boston's financial services concentration, the substantial healthcare sector, and Massachusetts's distinctive Health Connector marketplace create real opportunity for licensed producers. Massachusetts's licensing process is also distinctive — notably, the state does not require [pre-licensing](/massachusetts/prelicensing) education, making it one of the few states with this approach.
 
 Here's exactly how to get your Massachusetts insurance producer license.
 
@@ -47,7 +47,7 @@ The Massachusetts state exam is widely considered difficult
 
 The exam covers substantial general insurance content plus Massachusetts-specific law
 
-Most candidates significantly improve their pass rate by completing structured study
+Most candidates significantly improve their [pass rate](/pass-rates) by completing structured study
 
 Quality prelicense courses include practice exams that mirror the actual state exam
 

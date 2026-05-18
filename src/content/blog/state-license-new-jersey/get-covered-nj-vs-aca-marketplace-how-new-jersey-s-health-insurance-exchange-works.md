@@ -104,4 +104,4 @@ New Jersey's individual mandate uses the same definition of minimum essential co
 
 Get Covered NJ is more than an enrollment platform — it is the state's primary mechanism for ensuring ACA-compliant individual health coverage remains accessible and financially supported through state subsidies. Producers who are certified, understand the subsidy structure, and know how to navigate the mandate and SEP rules are positioned to add genuine value in one of New Jersey's most important health advisory conversations.
 
-Visit JustInsurance to enroll today and study NJ health insurance law and marketplace rules as part of your Accident and Health prelicensing course.
+Visit JustInsurance to enroll today and study NJ health insurance law and marketplace rules as part of your Accident and Health [prelicensing](/new-jersey/prelicensing) course.

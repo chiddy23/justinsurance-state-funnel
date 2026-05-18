@@ -352,6 +352,6 @@ Background check is typically the longest single processing step (other than han
 
 ## Navigate North Carolina Background Checks Successfully
 
-Understanding the NC background check process — and being proactive about any disclosure issues — helps you complete licensing without preventable delays. At JustInsurance, our North Carolina prelicense and CE courses prepare you for every aspect of North Carolina insurance practice.
+Understanding the NC background check process — and being proactive about any disclosure issues — helps you complete licensing without preventable delays. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) and CE courses prepare you for every aspect of North Carolina insurance practice.
 
 Enroll today and start your North Carolina insurance career.

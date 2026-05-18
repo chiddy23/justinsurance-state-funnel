@@ -12,7 +12,7 @@ image: /blog/images/why-tennessee-insurance-continuing-education-is-a-smart-move
 imageAlt: How to Build a Study Plan for the Tennessee Insurance Exam Without a Prelicensing Course
 ---
 
-Tennessee eliminated its mandatory prelicensing requirement in March 2023. That decision gave every candidate complete control over how they prepare — but it did not change what the exam tests, how difficult the state law section is for unprepared candidates, or what the consequences of a failed attempt look like in time and money. The freedom to skip a formal course is real. The risk of treating that freedom as permission to underprepare is equally real, as the 55–65% first-time pass rate demonstrates.
+Tennessee eliminated its mandatory [prelicensing](/tennessee/prelicensing) requirement in March 2023. That decision gave every candidate complete control over how they prepare — but it did not change what the exam tests, how difficult the state law section is for unprepared candidates, or what the consequences of a failed attempt look like in time and money. The freedom to skip a formal course is real. The risk of treating that freedom as permission to underprepare is equally real, as the 55–65% first-time [pass rate](/pass-rates) demonstrates.
 
 Building your own study plan without a structured course telling you what to study, in what order, and for how long requires a different kind of preparation discipline. You are not following a curriculum. You are building one. This post gives you the complete framework: how to assess your starting knowledge, how to allocate study time across the two exam sections, the specific topics that demand the most attention in each line, how to structure your daily study schedule, how to use practice exams correctly, and how to know when you are genuinely ready to schedule your exam date.
 
@@ -22,7 +22,7 @@ Before deciding how many hours to study or which topics to prioritize, you need 
 
 #### Take a Diagnostic Practice Exam First
 
-Before reading a single study guide or watching a single instructional video, find a Tennessee-specific Pearson VUE-formatted practice exam and take it under realistic conditions — 77 questions, 105 minutes, no notes, no lookups. Score it honestly.
+Before reading a single study guide or watching a single instructional video, find a Tennessee-specific Pearson VUE-formatted [practice exam](/tennessee/practice-exam) and take it under realistic conditions — 77 questions, 105 minutes, no notes, no lookups. Score it honestly.
 
 What your diagnostic score tells you:
 

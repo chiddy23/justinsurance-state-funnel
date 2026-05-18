@@ -52,7 +52,7 @@ When you register, confirm the details of your testing location, date, and time.
 
 ### Step 3: Pass the exam
 
-Exam day can be nerve-racking, but remember, you’ve already put in the hard work by completing your pre-licensing course. The test generally consists of multiple-choice questions covering insurance principles, policy provisions, and state laws. Try to pace yourself and read each question carefully—rushing often leads to mistakes.
+Exam day can be nerve-racking, but remember, you’ve already put in the hard work by completing your [pre-licensing](/north-carolina/prelicensing) course. The test generally consists of multiple-choice questions covering insurance principles, policy provisions, and state laws. Try to pace yourself and read each question carefully—rushing often leads to mistakes.
 
 If you need a confidence boost, consider taking a few practice tests beforehand. These mock exams help you get comfortable with the question format and the range of topics you’ll see on the real test. After all, a bit of extra preparation can make all the difference in feeling ready and calm when you sit down to begin.
 
@@ -64,7 +64,7 @@ After you apply, the Department will review your information and conduct a backg
 
 ## Prepare for exam success
 
-Studying smart beats studying long. Focus your attention on the most relevant sections of your pre-licensing material, and use practice questions to pinpoint weak areas. If you’re juggling other commitments, explore flexible online guides that let you learn in small chunks. Even if you only have a spare half-hour each day, you can use that time for bite-sized reviews.
+Studying smart beats studying long. Focus your attention on the most relevant sections of your pre-licensing material, and use [practice questions](/north-carolina/practice-exam) to pinpoint weak areas. If you’re juggling other commitments, explore flexible online guides that let you learn in small chunks. Even if you only have a spare half-hour each day, you can use that time for bite-sized reviews.
 
 It also helps to connect with fellow students or join study groups to reinforce your understanding. Discussing key concepts out loud, quizzing each other, or sharing real-world examples can make everything click faster than studying on your own. Should you run into any roadblocks, JustInsurance offers additional resources and advice for addressing common questions about the licensing process.
 

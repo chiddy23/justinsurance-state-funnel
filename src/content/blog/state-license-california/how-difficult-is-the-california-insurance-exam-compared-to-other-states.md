@@ -51,7 +51,7 @@ Well-documented exam content outline. CDI publishes a detailed content outline s
 | State-specific content weight | 20–30% | 15–20% | 25–30% | 20–25% |
 | Prelicense education | 12 hours (Code & Ethics only) | 40 hours | 60 hours (2-15) | 40 hours |
 
-Each state has its own mix of factors. California's combination — 150 questions, 60% passing, 20–30% state content, 12 hours prelicense — puts it in the moderate difficulty tier overall.
+Each state has its own mix of factors. California's combination — 150 questions, 60% passing, 20–30% state content, 12 hours [prelicense](/california/prelicensing) — puts it in the moderate difficulty tier overall.
 
 ## What Actually Determines Whether It's Hard for You
 
@@ -65,13 +65,13 @@ Test-taking skills. Scenario questions reward careful reading and thoughtful ana
 
 ## First-Attempt Pass Rates
 
-CDI doesn't publish official first-time pass rates. Industry estimates suggest roughly 50–65% of first-time California candidates pass on their initial attempt. This is in line with most state insurance exams — not dramatically higher or lower.
+CDI doesn't publish official first-time [pass rates](/pass-rates). Industry estimates suggest roughly 50–65% of first-time California candidates pass on their initial attempt. This is in line with most state insurance exams — not dramatically higher or lower.
 
 The biggest factor in pass rates is preparation quality. Candidates who complete quality prelicense education and practice extensively pass at much higher rates than the overall average.
 
 ## How to Beat the California Exam
 
-Put in the hours. California's 12-hour prelicense requirement is a baseline, not a ceiling. Serious candidates typically put in 80–120 total hours including prelicense time, practice questions, and review.
+Put in the hours. California's 12-hour prelicense requirement is a baseline, not a ceiling. Serious candidates typically put in 80–120 total hours including prelicense time, [practice questions](/california/practice-exam), and review.
 
 Take practice exams. At least 2–3 full-length practice exams under timed conditions. Use these to identify weak areas and build test-taking stamina.
 

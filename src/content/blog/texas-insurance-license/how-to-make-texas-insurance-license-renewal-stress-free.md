@@ -19,7 +19,7 @@ Whether you’re renewing for the first time or the fifth, navigating [Texas ins
 
 ## Understand Texas licensing basics
 
-Before diving into the renewal process, it helps to know a few key points about your Texas insurance license. Whether you originally got licensed to sell life, health, property, or casualty insurance, the same general guidelines apply to renewal timelines and continuing education. That means you’ll be checking similar requirements no matter which insurance lines you carry. If you’re new to insurance altogether, taking a brief look at how licensing and renewal work will help you understand each step more clearly.
+Before diving into the renewal process, it helps to know a few key points about your Texas insurance license. Whether you originally got licensed to sell life, health, property, or casualty insurance, the same general guidelines apply to renewal timelines and [continuing education](/texas/continuing-education). That means you’ll be checking similar requirements no matter which insurance lines you carry. If you’re new to insurance altogether, taking a brief look at how licensing and renewal work will help you understand each step more clearly.
 
 Texas typically issues insurance licenses valid for two years. By that time, you need to complete certain continuing education (CE) courses, settle any renewal fees, and file the necessary paperwork. Missing an action item can cause delays, so it’s important to keep track of your license expiration date. A little organization now helps you avoid rush fees or last-minute scrambles later.
 

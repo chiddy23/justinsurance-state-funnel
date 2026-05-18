@@ -12,7 +12,7 @@ image: /blog/images/your-friendly-guide-to-minnesota-insurance-license-renewal.j
 imageAlt: One License or Multiple Lines? How to Choose Your Minnesota Licensing Path
 ---
 
-The most consequential decision a new Minnesota insurance producer makes is not which prelicensing course to take or how to study for the PSI exam. It is which lines of authority to pursue at the outset. That decision determines which products you can legally sell, which clients you can serve, which carriers will appoint you, and how quickly you can build a book of business. Getting it right the first time saves weeks of additional prelicensing and exam time later. Getting it wrong means operating with unnecessary restrictions or having to add lines through a separate round of courses and exams after you are already working.
+The most consequential decision a new Minnesota insurance producer makes is not which [prelicensing](/minnesota/prelicensing) course to take or how to study for the PSI exam. It is which lines of authority to pursue at the outset. That decision determines which products you can legally sell, which clients you can serve, which carriers will appoint you, and how quickly you can build a book of business. Getting it right the first time saves weeks of additional prelicensing and exam time later. Getting it wrong means operating with unnecessary restrictions or having to add lines through a separate round of courses and exams after you are already working.
 
 This post explains what each Minnesota line of authority covers, how the lines interact with each other, which combinations match which career paths, and how to think through the decision based on where you are starting and where you intend to go.
 

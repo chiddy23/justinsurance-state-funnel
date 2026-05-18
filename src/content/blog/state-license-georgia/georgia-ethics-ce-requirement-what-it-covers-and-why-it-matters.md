@@ -16,7 +16,7 @@ imageAlt: >-
   modern office.
 ---
 
-Every licensed insurance producer in Georgia has to complete ethics continuing education — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. OCI treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
+Every licensed insurance producer in Georgia has to complete ethics [continuing education](/georgia/continuing-education) — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. OCI treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
 
 Here's why Georgia ethics CE is required and what it actually covers.
 

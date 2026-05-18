@@ -13,7 +13,7 @@ image: /blog/images/virginia-insurance-continuing-education-made-simple-for-you.
 imageAlt: "Virginia Insurance License Requirements Explained: What Every Applicant Must Know"
 ---
 
-Virginia stands out from most states in ways that matter to every applicant: it does not require prelicensing education, its licensing authority is the Bureau of Insurance within the State Corporation Commission rather than a standalone department, its exam score is only valid for 183 days, and its fingerprinting vendor is Fieldprint — not IdentoGO, which most other states use. If you have read generic insurance licensing content and assumed Virginia works the same way as other states, this post corrects the record. Here is every requirement, every deadline, and every number you need to get your Virginia insurance license right the first time.
+Virginia stands out from most states in ways that matter to every applicant: it does not require [prelicensing](/virginia/prelicensing) education, its licensing authority is the Bureau of Insurance within the State Corporation Commission rather than a standalone department, its exam score is only valid for 183 days, and its fingerprinting vendor is Fieldprint — not IdentoGO, which most other states use. If you have read generic insurance licensing content and assumed Virginia works the same way as other states, this post corrects the record. Here is every requirement, every deadline, and every number you need to get your Virginia insurance license right the first time.
 
 ### Who Must Be Licensed
 

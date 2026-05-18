@@ -12,7 +12,7 @@ image: /blog/images/your-friendly-guide-to-minnesota-insurance-license-renewal.j
 imageAlt: "Minnesota Insurance License Requirements Explained: What Every Applicant Must Know"
 ---
 
-Before you enroll in a prelicensing course or schedule a PSI exam, you need to understand what Minnesota actually requires for producer licensure — not just the steps, but the eligibility standards, the statutory basis for each requirement, and the choices you make at the outset that shape your entire licensing path. This post covers the full requirements picture: who must be licensed, who qualifies to apply, what lines of authority exist and what they authorize, what the prelicensing and exam standards are, and what ongoing requirements attach to the license once you hold it.
+Before you enroll in a [prelicensing](/minnesota/prelicensing) course or schedule a PSI exam, you need to understand what Minnesota actually requires for producer licensure — not just the steps, but the eligibility standards, the statutory basis for each requirement, and the choices you make at the outset that shape your entire licensing path. This post covers the full requirements picture: who must be licensed, who qualifies to apply, what lines of authority exist and what they authorize, what the prelicensing and exam standards are, and what ongoing requirements attach to the license once you hold it.
 
 ### Who Must Be Licensed in Minnesota
 
@@ -124,7 +124,7 @@ Adding lines after initial licensure: After receiving a license, a producer can 
 
 Renewal: Minnesota producer licenses renew every two years on the last day of the licensee's birth month. Business entity licenses renew on October 31 biennially. Renewal is submitted through NIPR with a $50 fee plus a $30 technology surcharge.
 
-Continuing education: 24 hours of CE are required every two years, including 3 hours of ethics. At least 12 of the 24 hours must be classroom or equivalent format. At least 12 hours must not be sponsored by or affiliated with an insurance company. CE hours must be completed before the renewal deadline, not after — submitting the renewal application without completing CE does not preserve the license.
+[Continuing education](/minnesota/continuing-education): 24 hours of CE are required every two years, including 3 hours of ethics. At least 12 of the 24 hours must be classroom or equivalent format. At least 12 hours must not be sponsored by or affiliated with an insurance company. CE hours must be completed before the renewal deadline, not after — submitting the renewal application without completing CE does not preserve the license.
 
 Lapsed license: A license that expires without renewal can be reinstated within 12 months by paying double the unpaid renewal fee. After 12 months, the producer must reapply as if applying for the first time — completing prelicensing, passing the state exam, completing fingerprinting, and paying the full application fee.
 

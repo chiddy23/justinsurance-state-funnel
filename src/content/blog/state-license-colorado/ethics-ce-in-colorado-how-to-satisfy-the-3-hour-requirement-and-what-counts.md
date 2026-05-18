@@ -20,7 +20,7 @@ Colorado's biennial CE requirement of 24 hours breaks into three categories:
 
 The 3-hour ethics requirement cannot be satisfied by major lines content, homeowners CE, flood CE, or any other topic category. An ethics course must be specifically approved by the Colorado Division of Insurance as an ethics course — not just as a course that happens to cover ethical topics within a broader product or law curriculum.
 
-CRS citation: The ethics CE requirement flows from CRS § 10-2-301, which governs Colorado producer continuing education requirements, and the implementing Division of Insurance regulations specifying category requirements.
+CRS citation: The ethics CE requirement flows from CRS § 10-2-301, which governs Colorado producer [continuing education](/colorado/continuing-education) requirements, and the implementing Division of Insurance regulations specifying category requirements.
 
 ### What Qualifies as Ethics CE in Colorado
 

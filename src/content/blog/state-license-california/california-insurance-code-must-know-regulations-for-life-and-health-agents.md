@@ -27,7 +27,7 @@ The Code is extensive. As a working agent, you don't need to memorize every sect
 
 ## Key Sections Life & Health Agents Need to Know
 
-Licensing and Agent Conduct. These sections cover who can be licensed, the qualifications required, standards of agent conduct, continuing education, and the authority of CDI to discipline licensees. This is the foundation of your legal authority as an agent.
+Licensing and Agent Conduct. These sections cover who can be licensed, the qualifications required, standards of agent conduct, [continuing education](/california/continuing-education), and the authority of CDI to discipline licensees. This is the foundation of your legal authority as an agent.
 
 Unfair Trade Practices. California prohibits specific conduct considered unfair or deceptive — misrepresentation, twisting, churning, rebating, defamation, and others. Violations here are the single most common reason agents face disciplinary action. (See the dedicated article on unfair practices in this cluster for a full breakdown.)
 
@@ -91,6 +91,6 @@ Keep a regular habit of reviewing CDI bulletins and Code updates — especially 
 
 ## Build Your Career on a Strong Compliance Foundation
 
-The California Insurance Code is extensive, but it's navigable once you know the sections that apply to your practice. At JustInsurance, our California prelicense and CE courses cover the Code in practical, plain language — not legal jargon.
+The California Insurance Code is extensive, but it's navigable once you know the sections that apply to your practice. At JustInsurance, our California [prelicense](/california/prelicensing) and CE courses cover the Code in practical, plain language — not legal jargon.
 
 Enroll today and start your California career with the compliance knowledge to protect it.

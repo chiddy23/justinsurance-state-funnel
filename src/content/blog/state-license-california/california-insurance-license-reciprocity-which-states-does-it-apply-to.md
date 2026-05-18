@@ -13,7 +13,7 @@ image: /blog/images/choose-the-right-california-insurance-pre-licensing-courses-
 imageAlt: California insurance professional reviewing licensing materials
 ---
 
-Once you hold your California insurance license, you're not limited to selling within California. Most states recognize California-licensed agents through reciprocity agreements — meaning you can get licensed in other states without retaking the prelicense education or state exam. For agents planning to work with clients across multiple states, understanding reciprocity is essential.
+Once you hold your California insurance license, you're not limited to selling within California. Most states recognize California-licensed agents through reciprocity agreements — meaning you can get licensed in other states without retaking the [prelicense](/california/prelicensing) education or state exam. For agents planning to work with clients across multiple states, understanding reciprocity is essential.
 
 Here's how California insurance license reciprocity works and which states recognize it.
 

@@ -12,7 +12,7 @@ image: /blog/images/how-nj-insurance-licensing-rules-affect-your-license-journey
 imageAlt: Failed the NJ Insurance Exam? Here's Your Exact Retake Strategy
 ---
 
-Failing the New Jersey insurance exam is more common than most candidates expect. Pass rates vary by line — NJ Property exam candidates pass at roughly 49%, meaning more than half of all first-time test-takers do not pass on their first attempt. Life and Casualty pass rates are somewhat higher, but across all lines, a meaningful portion of NJ candidates leave PSI with a failing score report. If that is where you are right now, the most important thing to understand is this: the exam is not the problem. The strategy going into the first attempt was.
+Failing the New Jersey insurance exam is more common than most candidates expect. [Pass rates](/pass-rates) vary by line — NJ Property exam candidates pass at roughly 49%, meaning more than half of all first-time test-takers do not pass on their first attempt. Life and Casualty pass rates are somewhat higher, but across all lines, a meaningful portion of NJ candidates leave PSI with a failing score report. If that is where you are right now, the most important thing to understand is this: the exam is not the problem. The strategy going into the first attempt was.
 
 Here is exactly how to approach your retake.
 
@@ -36,7 +36,7 @@ Scored 65–69%: You were close. One week of targeted drilling on your weakest s
 
 Scored 60–64%: Two weeks minimum. Address your weak sections systematically, not superficially.
 
-Scored below 60%: Two to three weeks. You have structural gaps, not just a few missed topics. Return to your prelicensing material before retaking.
+Scored below 60%: Two to three weeks. You have structural gaps, not just a few missed topics. Return to your [prelicensing](/new-jersey/prelicensing) material before retaking.
 
 ### Step 3: Study Differently, Not More
 
@@ -44,7 +44,7 @@ The single most common retake mistake is doing the same thing that did not work 
 
 For state law weaknesses (the most common failure cause):
 
-Pull up the PSI content outline for your exam line. Go through every item listed in Sections 6 and 7 — state regulatory jurisdiction, definitions, licensing, trade practices, guaranty associations, fraud, and line-specific NJ laws. For each topic, do not just re-read the definition. Write out the rule in your own words, identify the specific NJ details (dollar thresholds, time periods, statutory names), and test yourself with scenario-based practice questions.
+Pull up the PSI content outline for your exam line. Go through every item listed in Sections 6 and 7 — state regulatory jurisdiction, definitions, licensing, trade practices, guaranty associations, fraud, and line-specific NJ laws. For each topic, do not just re-read the definition. Write out the rule in your own words, identify the specific NJ details (dollar thresholds, time periods, statutory names), and test yourself with scenario-based [practice questions](/new-jersey/practice-exam).
 
 Key NJ-specific facts that candidates frequently miss and must drill cold:
 

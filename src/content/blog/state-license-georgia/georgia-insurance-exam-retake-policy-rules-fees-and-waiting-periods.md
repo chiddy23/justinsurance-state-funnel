@@ -80,7 +80,7 @@ Step 2 — Don't just reread your notes.
 
 If rereading notes was enough, you would have passed the first time. Switch to:
 
-- Active practice questions — work through as many exam-style questions as possible on your weak content areas
+- Active [practice questions](/georgia/practice-exam) — work through as many exam-style questions as possible on your weak content areas
 
 - Teaching out loud — explain concepts to yourself or someone else without looking at notes
 
@@ -118,7 +118,7 @@ Some candidates know the material but freeze during exams. If that's you:
 
 Understanding why candidates typically fail helps you avoid the same mistakes:
 
-Underprepared for Georgia-specific content. Generic national study materials don't cover state law in enough depth. Fix: use Georgia-specific prelicense materials and focus on state law for retake.
+Underprepared for Georgia-specific content. Generic national study materials don't cover state law in enough depth. Fix: use Georgia-specific [prelicense](/georgia/prelicensing) materials and focus on state law for retake.
 
 Insufficient practice questions. Reading material isn't the same as practicing application. Fix: do significantly more practice questions before retake.
 

@@ -90,7 +90,7 @@ Correct Answer: B. Under the verbal threshold (Limited Right to Sue), a NJ polic
 
 Do I have to take the Property and Casualty exams separately in New Jersey?
 
-Yes. Property and Casualty are two separate lines of authority in New Jersey, each requiring its own 20-hour prelicensing course and its own PSI exam. You must hold both the Property and Casualty licenses to have what is commonly called a "P&C license." You can take both exams on the same day at PSI — paying two $38 fees — or schedule them separately. Most candidates find it efficient to complete both prelicensing courses first, then schedule the exams in close succession.
+Yes. Property and Casualty are two separate lines of authority in New Jersey, each requiring its own 20-hour [prelicensing](/new-jersey/prelicensing) course and its own PSI exam. You must hold both the Property and Casualty licenses to have what is commonly called a "P&C license." You can take both exams on the same day at PSI — paying two $38 fees — or schedule them separately. Most candidates find it efficient to complete both prelicensing courses first, then schedule the exams in close succession.
 
 How heavily is New Jersey auto insurance tested on the Casualty exam?
 

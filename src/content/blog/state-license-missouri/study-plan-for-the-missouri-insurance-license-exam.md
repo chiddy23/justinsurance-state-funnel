@@ -16,7 +16,7 @@ imageAlt: >-
   the missouri insurance license exam.
 ---
 
-Missouri's exam study plan is entirely self-directed — no mandated PLE creates maximum flexibility but also maximum risk. The 40-60% first-attempt pass rate reflects candidates who underestimate the two-section format and the Missouri state section's distinctly Missouri content. The state section — approximately 15-25% of questions scored separately at 70%+ — is where the exam is won or lost for candidates who rely only on national content preparation. The lowest exam fees nationally ($29-$35) make retakes financially accessible, but a first-attempt pass saves both time and the 24-hour retake wait. Here's a study plan calibrated to Missouri's actual exam.
+Missouri's exam study plan is entirely self-directed — no mandated PLE creates maximum flexibility but also maximum risk. The 40-60% first-attempt [pass rate](/pass-rates) reflects candidates who underestimate the two-section format and the Missouri state section's distinctly Missouri content. The state section — approximately 15-25% of questions scored separately at 70%+ — is where the exam is won or lost for candidates who rely only on national content preparation. The lowest exam fees nationally ($29-$35) make retakes financially accessible, but a first-attempt pass saves both time and the 24-hour retake wait. Here's a study plan calibrated to Missouri's actual exam.
 
 ## How Long to Study
 
@@ -46,7 +46,7 @@ Homeowners; personal auto; commercial package; BOP; workers' compensation concep
 
 Pure insurance concepts: insurable interest, indemnity, subrogation
 
-Daily: 30-50 national practice questions with full review.
+Daily: 30-50 national [practice questions](/missouri/practice-exam) with full review.
 
 ## Phase 2: Missouri State Section (Week 2-3) — The Differentiator
 

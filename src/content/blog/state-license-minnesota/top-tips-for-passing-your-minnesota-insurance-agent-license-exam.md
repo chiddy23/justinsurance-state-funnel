@@ -39,7 +39,7 @@ Consider which line of authority you plan to pursue. If you want to sell multipl
 
 Studying for the Minnesota insurance agent license exam usually means sorting through a lot of detailed content. Instead of memorizing every fact at once, break the material into smaller sections. This approach makes studying feel more manageable and helps you see real progress along the way.
 
-Create a study schedule and stick to it. If you have an hour each evening, use it consistently for reading chapters, reviewing notes, or doing practice questions. If you can only carve out time on weekends, dedicate a specific window to focus on exam prep. Over time, these small blocks of concentrated study can add up to a strong command of the material.
+Create a study schedule and stick to it. If you have an hour each evening, use it consistently for reading chapters, reviewing notes, or doing [practice questions](/minnesota/practice-exam). If you can only carve out time on weekends, dedicate a specific window to focus on exam prep. Over time, these small blocks of concentrated study can add up to a strong command of the material.
 
 Seek out resources that match your learning style. You may find it useful to watch video lessons, participate in study groups, or rely on flashcards for on-the-go review. Because the exam can include complex policy language, try writing out summaries in your own words to reinforce understanding. The right blend of tactics can make your study sessions both efficient and more enjoyable.
 
@@ -47,7 +47,7 @@ Seek out resources that match your learning style. You may find it useful to wat
 
 Practice exams can help you identify which areas of insurance knowledge you have nailed down and where you might be struggling. Taking a practice test in a timed setting also helps you build the stamina and focus you need on exam day.
 
-When you receive a practice test score, look closely at the questions you missed. Pinpoint the concepts behind those questions and spend extra time reviewing them in your pre-licensing materials. If you spot patterns—perhaps you often miss property insurance topics—give those sections extra attention. Revisiting those weak spots boosts your confidence and ensures fewer surprises when facing the real test.
+When you receive a practice test score, look closely at the questions you missed. Pinpoint the concepts behind those questions and spend extra time reviewing them in your [pre-licensing](/minnesota/prelicensing) materials. If you spot patterns—perhaps you often miss property insurance topics—give those sections extra attention. Revisiting those weak spots boosts your confidence and ensures fewer surprises when facing the real test.
 
 It might be tempting to keep retaking the same practice exam until you can ace it, but try mixing things up. Regularly rotate in different practice quizzes from your course provider or from additional prep tools so you do not become overly familiar with one single set of questions.
 

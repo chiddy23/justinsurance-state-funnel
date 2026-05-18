@@ -36,7 +36,7 @@ If you don't have a Social Security number, you can use your Individual Taxpayer
 
 ## Step 2: Complete Prelicense Education (PLE)
 
-Oregon does require prelicense education for most license types. The specific hour requirements depend on the line of authority:
+Oregon does require [prelicense](/oregon/prelicensing) education for most license types. The specific hour requirements depend on the line of authority:
 
 Per individual line of authority:
 

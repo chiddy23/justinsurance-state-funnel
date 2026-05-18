@@ -16,7 +16,7 @@ imageAlt: >-
   carolina ethics ce: what every agent should know.
 ---
 
-Every licensed insurance producer in South Carolina has to complete ethics continuing education — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. The SCDOI treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
+Every licensed insurance producer in South Carolina has to complete ethics [continuing education](/south-carolina/continuing-education) — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. The SCDOI treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
 
 Here's what every South Carolina agent should know about the ethics CE requirement.
 

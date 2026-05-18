@@ -29,7 +29,7 @@ Stay aware of any updates to Arizona regulations. Although major changes don’t
 
 Most insurance lines in Arizona require a specific amount of [Arizona insurance prelicensing](/arizona/prelicensing) education before you’re allowed to register for the exam. These classes help you learn basic insurance concepts, policy structures, and state regulations that you’ll need to serve clients effectively.
 
-If you plan to offer multiple lines of coverage, you’ll need to meet the pre-licensing hours for each line. Studying thoroughly also benefits you in the long run. Not only will a complete understanding of insurance fundamentals help you pass the exam, but it will also prepare you for real-life client scenarios.
+If you plan to offer multiple lines of coverage, you’ll need to meet the [pre-licensing](/arizona/prelicensing) hours for each line. Studying thoroughly also benefits you in the long run. Not only will a complete understanding of insurance fundamentals help you pass the exam, but it will also prepare you for real-life client scenarios.
 
 ### Recommended pre-licensing hours table
 

@@ -144,7 +144,7 @@ Partner with complementary professionals. Real estate agents, mortgage brokers, 
 
 Develop a digital presence. Las Vegas is increasingly tech-forward. Professional website, LinkedIn presence, and potentially targeted social media extend your reach.
 
-Invest in expertise. Las Vegas rewards genuine expertise. Continuing education beyond CE minimums, industry designations, and deep product knowledge all matter.
+Invest in expertise. Las Vegas rewards genuine expertise. [Continuing education](/nevada/continuing-education) beyond CE minimums, industry designations, and deep product knowledge all matter.
 
 Be patient. Las Vegas practices often take 2-4 years to hit stride. Agents who quit at year one miss the payoff.
 

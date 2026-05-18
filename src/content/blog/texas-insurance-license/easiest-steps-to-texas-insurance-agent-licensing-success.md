@@ -42,7 +42,7 @@ In addition to meeting the mandatory education requirements, solid coursework gi
 
 ## Prepare for the exam
 
-Your next step is to schedule and prepare for the licensing exam. By this stage, you should already be comfortable with the core insurance concepts taught during pre-licensing. However, most people still benefit from supplemental study techniques and practice tests to sharpen their knowledge. Reviewing sample questions helps you feel at ease with the exam’s format, which includes multiple-choice questions that span various insurance scenarios.
+Your next step is to schedule and prepare for the licensing exam. By this stage, you should already be comfortable with the core insurance concepts taught during [pre-licensing](/texas/prelicensing). However, most people still benefit from supplemental study techniques and practice tests to sharpen their knowledge. Reviewing sample questions helps you feel at ease with the exam’s format, which includes multiple-choice questions that span various insurance scenarios.
 
 On exam day, being calm and organized can significantly improve your performance. To minimize stress, keep these tips in mind:
 

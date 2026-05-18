@@ -31,7 +31,7 @@ If you have concerns about your eligibility, you can consult the state’s guide
 
 Before you can take the licensing exam, you need to complete a [Tennessee prelicensing course](/tennessee/prelicensing) approved by the state. The number of hours required can differ depending on the line of authority—life, health, property, or casualty—but you can generally expect to complete at least 20–40 hours for each line you want to sell. This coursework is designed to ensure you have all the knowledge necessary to advise clients responsibly.
 
-Pre-licensing courses are offered in various formats. Online programs often let you learn at your own pace, while in-person classes provide a structured schedule. It all comes down to your personal preference, but make sure you choose a Tennessee-approved provider so your completion certificate is valid when it’s time to schedule your exam. Many providers, including JustInsurance, cater specifically to Tennessee regulations and can pinpoint the key topics you must master.
+[Pre-licensing](/tennessee/prelicensing) courses are offered in various formats. Online programs often let you learn at your own pace, while in-person classes provide a structured schedule. It all comes down to your personal preference, but make sure you choose a Tennessee-approved provider so your completion certificate is valid when it’s time to schedule your exam. Many providers, including JustInsurance, cater specifically to Tennessee regulations and can pinpoint the key topics you must master.
 
 ## Pass the licensing exam
 

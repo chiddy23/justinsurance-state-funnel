@@ -97,7 +97,7 @@ Review IDOI's licensing page. IDOI maintains information about current applicati
 
 Contact IDOI directly. If you have specific questions, IDOI's licensing division can provide current guidance.
 
-Check with your prelicense provider. Reputable Illinois prelicense education providers stay current on IDOI requirements.
+Check with your [prelicense](/illinois/prelicensing) provider. Reputable Illinois prelicense education providers stay current on IDOI requirements.
 
 ## Application Preparation for Illinois
 

@@ -206,7 +206,7 @@ One application, one NIPR fee: A single NIPR application covering all intended l
 
 Faster full authorization: A producer who completes all intended lines simultaneously can begin serving clients across all product types from the first day of licensure. A producer who gets Property first and adds Casualty three months later has three months of lost income opportunity on commercial casualty lines while waiting for the second license.
 
-The study load consideration: Studying for four lines simultaneously is a substantial undertaking. A candidate who is preparing for Life, A&H, Property, and Casualty at the same time is covering substantially more material than a candidate who focuses on one line. Cognitive overload — trying to study too much material in too short a time — produces lower pass rates on each individual exam. If the simultaneous approach means spreading study time so thin that the likelihood of first-time passes across all lines decreases, the sequential approach may produce better outcomes overall.
+The study load consideration: Studying for four lines simultaneously is a substantial undertaking. A candidate who is preparing for Life, A&H, Property, and Casualty at the same time is covering substantially more material than a candidate who focuses on one line. Cognitive overload — trying to study too much material in too short a time — produces lower [pass rates](/pass-rates) on each individual exam. If the simultaneous approach means spreading study time so thin that the likelihood of first-time passes across all lines decreases, the sequential approach may produce better outcomes overall.
 
 #### The Case for Sequential Licensing
 

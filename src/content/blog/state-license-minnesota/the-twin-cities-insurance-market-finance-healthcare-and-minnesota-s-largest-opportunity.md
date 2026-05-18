@@ -52,7 +52,7 @@ Banks and financial institutions — Major financial institutions with significa
 
 Asset management and wealth management — The Twin Cities is home to significant wealth management operations from Ameriprise Financial, U.S. Bancorp Investments, Voya Financial (with Twin Cities presence), and a substantial independent RIA community. Wealth managers and their high-net-worth clients have complex personal insurance needs — high-value homeowners, umbrella liability, private collections, and aircraft or watercraft coverage — that generate premium-intensive accounts.
 
-Insurance carriers as employers and accounts — Several major insurance carriers are headquartered or have major operations in the Twin Cities, including Securian Financial, COUNTRY Financial, SFM Mutual (workers' compensation), Acuity, and others. These carriers are themselves commercial insurance buyers and major employers of insurance professionals. The concentration of insurance industry infrastructure in the Twin Cities creates a talent market and professional community that provides resources — continuing education, professional associations, networking — that smaller markets lack.
+Insurance carriers as employers and accounts — Several major insurance carriers are headquartered or have major operations in the Twin Cities, including Securian Financial, COUNTRY Financial, SFM Mutual (workers' compensation), Acuity, and others. These carriers are themselves commercial insurance buyers and major employers of insurance professionals. The concentration of insurance industry infrastructure in the Twin Cities creates a talent market and professional community that provides resources — [continuing education](/minnesota/continuing-education), professional associations, networking — that smaller markets lack.
 
 ### The Retail and Consumer Goods Concentration
 
@@ -104,4 +104,4 @@ Pick an industry vertical and develop genuine expertise in it before trying to c
 
 The Twin Cities insurance market offers what smaller Minnesota markets cannot — the full spectrum of commercial insurance complexity, the premium volume that comes from Fortune 500 supplier ecosystems, the medical technology and healthcare professional liability niches that require and reward expertise, and the density of high-net-worth personal lines clients who need sophisticated coverage solutions. For producers willing to develop the expertise and the professional network that this market rewards, the Twin Cities represents the highest-ceiling insurance career opportunity in the upper Midwest.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing — the first step toward building a career in Minnesota's most productive insurance market.
+Visit JustInsurance to enroll today and complete your Minnesota [prelicensing](/minnesota/prelicensing) — the first step toward building a career in Minnesota's most productive insurance market.

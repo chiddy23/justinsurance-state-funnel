@@ -336,6 +336,6 @@ For producers prioritizing stability and mission-alignment, senior practice ofte
 
 ## Build Your Pennsylvania Senior Insurance Practice
 
-Pennsylvania's senior market offers exceptional opportunity for properly trained producers. At JustInsurance (Provider Approval #147815), our Pennsylvania prelicense and CE courses provide foundational expertise supporting senior specialty practice including Medicare, LTC, and annuity considerations.
+Pennsylvania's senior market offers exceptional opportunity for properly trained producers. At JustInsurance (Provider Approval #147815), our Pennsylvania [prelicense](/pennsylvania/prelicensing) and CE courses provide foundational expertise supporting senior specialty practice including Medicare, LTC, and annuity considerations.
 
 Enroll today and start building toward Pennsylvania senior insurance specialty practice.

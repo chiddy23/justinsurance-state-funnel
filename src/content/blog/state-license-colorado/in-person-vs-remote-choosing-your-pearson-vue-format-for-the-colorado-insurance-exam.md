@@ -209,4 +209,4 @@ Download OnVUE and run the full system test at least 2–3 days before your exam
 
 Choosing the right format is a logistical decision, not a performance decision. Candidates who select the format that matches their actual situation — home environment, technical setup, schedule, and strategic flexibility — remove a variable that has nothing to do with their insurance knowledge from the equation. The exam tests what you know. The format decision is entirely within your control.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course built to the current Pearson VUE content outline for both in-person and remote exam delivery.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course built to the current Pearson VUE content outline for both in-person and remote exam delivery.

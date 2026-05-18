@@ -228,6 +228,6 @@ Provider contract transparency (SSB 5579, RCW 48.43.732): Regulates public state
 
 ## Build Your Career on Strong Washington Compliance Knowledge
 
-RCW 48 is the foundation of Washington insurance practice — not just exam content. At JustInsurance, our Washington prelicense and CE courses cover the Insurance Code in practical, producer-focused depth including recent legislative changes.
+RCW 48 is the foundation of Washington insurance practice — not just exam content. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses cover the Insurance Code in practical, producer-focused depth including recent legislative changes.
 
 Enroll today and build your Washington insurance career on solid compliance ground.

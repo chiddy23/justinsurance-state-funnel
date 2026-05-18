@@ -12,7 +12,7 @@ image: /blog/images/your-fast-track-to-a-minnesota-insurance-license.jpg
 imageAlt: "Minnesota Insurance Prelicensing: The 20-Hour Requirement and How It Works"
 ---
 
-Minnesota's prelicensing education requirement is the foundation of the licensing process — and the step where the most confusion arises. Applicants who misunderstand what the 20-hour requirement actually demands, how the certification exam works, or what the certificate of completion authorizes often delay their licensing timeline unnecessarily or, worse, sit for the state exam before satisfying all prelicensing requirements and forfeit their exam fee. This post covers exactly how Minnesota's prelicensing requirement works: what the law requires, how the hours are counted, what the internal certification exam demands, how the proctor requirement functions, what the certificate of completion is and is not, and how the requirement differs across lines of authority.
+Minnesota's [prelicensing](/minnesota/prelicensing) education requirement is the foundation of the licensing process — and the step where the most confusion arises. Applicants who misunderstand what the 20-hour requirement actually demands, how the certification exam works, or what the certificate of completion authorizes often delay their licensing timeline unnecessarily or, worse, sit for the state exam before satisfying all prelicensing requirements and forfeit their exam fee. This post covers exactly how Minnesota's prelicensing requirement works: what the law requires, how the hours are counted, what the internal certification exam demands, how the proctor requirement functions, what the certificate of completion is and is not, and how the requirement differs across lines of authority.
 
 ### The Statutory Basis: Minn. Stat. §60K.36 Subd. 4
 
@@ -26,7 +26,7 @@ The 20-hour requirement is not a guideline or an estimate of how long the course
 
 Time verification: Minnesota-approved providers track the time each student spends actively engaged with course content. A student who completes all readings and videos in 12 hours has not satisfied the 20-hour requirement even if they understand the material perfectly. The provider confirms time compliance before issuing the certificate of completion. Students who rush through material below the 20-hour floor will not receive their certificate until the time requirement is satisfied.
 
-What counts toward the 20 hours: Active engagement with approved course content — reading material, watching videos, completing module exercises, and participating in course activities. Time spent on practice exams may or may not count depending on the provider's course design. Students should verify with their provider exactly how practice exam time is tracked and credited.
+What counts toward the 20 hours: Active engagement with approved course content — reading material, watching videos, completing module exercises, and participating in course activities. Time spent on practice exams may or may not count depending on the provider's course design. Students should verify with their provider exactly how [practice exam](/minnesota/practice-exam) time is tracked and credited.
 
 What does not count: Time spent on general study outside the approved course, reviewing personal notes, reading supplementary textbooks, or taking non-course practice exams does not count toward the 20-hour minimum. The hours are specific to time spent within the approved course itself.
 

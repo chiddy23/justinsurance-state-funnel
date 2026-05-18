@@ -94,4 +94,4 @@ Clients who were already carrying UM/UIM limits above the previous 25/50 minimum
 
 UM/UIM coverage is the safety net that makes New Jersey's no-fault system genuinely protective — and its tracking relationship to liability minimums makes it one of the most tightly integrated features of the state's auto insurance architecture. Producers who understand it deeply can have coverage conversations with clients that go well beyond the minimum compliance checkbox.
 
-Visit JustInsurance to enroll today and master NJ auto insurance law through a prelicensing course built to the PSI Casualty exam content outline.
+Visit JustInsurance to enroll today and master NJ auto insurance law through a [prelicensing](/new-jersey/prelicensing) course built to the PSI Casualty exam content outline.

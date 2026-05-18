@@ -128,4 +128,4 @@ No. The $4,000 tort threshold excludes diagnostic tests — MRIs, X-rays, and CT
 
 Minnesota's no-fault system is not simply a different way of paying the same claims — it is a fundamentally different legal and insurance framework that affects which coverages are mandatory, how claims are sequenced, when litigation is permitted, and what producers must explain to clients to ensure their auto insurance actually protects them. Producers who understand the no-fault framework in depth serve Minnesota auto insurance clients with the kind of coverage adequacy guidance that prevents the surprises clients experience when claims reveal coverage gaps that an informed producer conversation could have closed.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course that covers every no-fault auto insurance provision tested on the PSI exam.
+Visit JustInsurance to enroll today and complete your Minnesota [prelicensing](/minnesota/prelicensing) with a state-approved course that covers every no-fault auto insurance provision tested on the PSI exam.

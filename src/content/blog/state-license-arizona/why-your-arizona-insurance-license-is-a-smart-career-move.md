@@ -52,7 +52,7 @@ Even newly licensed agents often start with a decent income, and there’s ample
 
 Once you’ve established yourself as an insurance professional, the opportunities for advancement are plentiful. You might choose to expand your license to other lines of authority, giving you access to an even wider market. Alternatively, you could decide to open your own agency, nurture a close-knit local clientele, or move into leadership roles within a larger brokerage. Each path offers unique rewards and the chance to shape your working environment.
 
-Arizona’s growing population and diverse demographic landscape mean there’s always a new niche waiting for you. By staying updated on changing state regulations, exploring emerging insurance trends, and investing in continuing education, you can ensure your career stays vibrant and resilient. Clients appreciate an agent who keeps pace with industry shifts, reinforcing the trust they place in you.
+Arizona’s growing population and diverse demographic landscape mean there’s always a new niche waiting for you. By staying updated on changing state regulations, exploring emerging insurance trends, and investing in [continuing education](/arizona/continuing-education), you can ensure your career stays vibrant and resilient. Clients appreciate an agent who keeps pace with industry shifts, reinforcing the trust they place in you.
 
 ## FAQs about your licensing journey
 
@@ -60,7 +60,7 @@ Below are answers to common questions many aspiring agents have when pursuing an
 
 ### 1\. How do I begin the pre-licensing process?
 
-You can start by enrolling in a state-approved pre-licensing course. This training covers all the fundamentals you need to learn before taking your official exam. Look for programs that suit your schedule and learning style.
+You can start by enrolling in a state-approved [pre-licensing](/arizona/prelicensing) course. This training covers all the fundamentals you need to learn before taking your official exam. Look for programs that suit your schedule and learning style.
 
 ### 2\. How many hours of study are required?
 

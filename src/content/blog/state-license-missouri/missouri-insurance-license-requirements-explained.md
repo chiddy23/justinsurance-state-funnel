@@ -34,9 +34,9 @@ Criminal background checked as part of application
 
 ## PLE Status — Not Required
 
-Missouri does not require prelicensing education. No mandated course hours, no PLE certification exam. Candidates proceed directly to scheduling the Pearson VUE exam.
+Missouri does not require [prelicensing](/missouri/prelicensing) education. No mandated course hours, no PLE certification exam. Candidates proceed directly to scheduling the Pearson VUE exam.
 
-Study preparation is strongly recommended — industry sources cite first-attempt pass rates of 40-60%, and Missouri's two-section format requires specific Missouri state law preparation that generic national materials don't provide.
+Study preparation is strongly recommended — industry sources cite first-attempt [pass rates](/pass-rates) of 40-60%, and Missouri's two-section format requires specific Missouri state law preparation that generic national materials don't provide.
 
 ## Exam Requirements (Pearson VUE)
 

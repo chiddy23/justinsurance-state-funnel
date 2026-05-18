@@ -124,7 +124,7 @@ Document everything. Notes on client conversations, reasons for recommendations,
 
 Follow OCI bulletins. Subscribe to OCI communications and review them periodically.
 
-Complete your CE seriously. Continuing education is where compliance knowledge stays current. Don't treat it as busywork.
+Complete your CE seriously. [Continuing education](/georgia/continuing-education) is where compliance knowledge stays current. Don't treat it as busywork.
 
 When uncertain, ask. OCI and reputable industry attorneys can provide guidance on specific situations. Getting clarification before acting beats explaining after the fact.
 
@@ -142,6 +142,6 @@ When uncertain, ask. OCI and reputable industry attorneys can provide guidance o
 
 ## Build Your Career on a Strong Compliance Foundation
 
-The Georgia Insurance Code is extensive but navigable once you know the sections that apply to your work. At JustInsurance, our Georgia prelicense and CE courses cover the Code in practical, plain language — not legal jargon.
+The Georgia Insurance Code is extensive but navigable once you know the sections that apply to your work. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses cover the Code in practical, plain language — not legal jargon.
 
 Enroll today and start your Georgia career with the compliance knowledge to protect it.

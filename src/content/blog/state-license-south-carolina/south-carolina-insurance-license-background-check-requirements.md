@@ -148,7 +148,7 @@ State and federal background check processing
 
 IdentoGO service fees
 
-The fee is separate from your $25 license application fee, $59 exam fee, and any prelicense course costs.
+The fee is separate from your $25 license application fee, $59 exam fee, and any [prelicense](/south-carolina/prelicensing) course costs.
 
 ## Recent Process Changes
 

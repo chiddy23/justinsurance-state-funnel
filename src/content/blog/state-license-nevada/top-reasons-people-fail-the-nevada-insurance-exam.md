@@ -25,7 +25,7 @@ Here are the most common reasons people fail the Nevada insurance exam — and h
 
 This is the single biggest factor in Nevada exam failures.
 
-Nevada is unusual in not requiring prelicense education. Many candidates take this to mean the exam is easy or that they can pass with minimal preparation. Both assumptions are wrong.
+Nevada is unusual in not requiring [prelicense](/nevada/prelicensing) education. Many candidates take this to mean the exam is easy or that they can pass with minimal preparation. Both assumptions are wrong.
 
 The reality:
 
@@ -93,7 +93,7 @@ Reading isn't practice. Many candidates underestimate how much practice is neede
 
 The reality:
 
-Most successful Nevada candidates work through 500-1,000+ practice questions
+Most successful Nevada candidates work through 500-1,000+ [practice questions](/nevada/practice-exam)
 
 Practice questions teach exam-style thinking, not just content knowledge
 

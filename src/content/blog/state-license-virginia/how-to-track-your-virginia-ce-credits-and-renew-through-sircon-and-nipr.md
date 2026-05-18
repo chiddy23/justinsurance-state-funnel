@@ -16,7 +16,7 @@ Virginia's CE and license renewal system runs across two separate administrative
 
 ### The Two Systems and What They Do
 
-Pearson VUE — CE Program Administrator: Pearson VUE (contracted by the Virginia Insurance Continuing Education Board) manages course approvals, tracks CE credit completions, administers the continuance fee, and maintains the CE records that feed into Sircon's transcript system. All CE compliance questions go to Pearson VUE: 877-234-6093 or VirginiaInsuranceCE@pearson.com.
+Pearson VUE — CE Program Administrator: Pearson VUE (contracted by the Virginia Insurance [Continuing Education](/virginia/continuing-education) Board) manages course approvals, tracks CE credit completions, administers the continuance fee, and maintains the CE records that feed into Sircon's transcript system. All CE compliance questions go to Pearson VUE: 877-234-6093 or VirginiaInsuranceCE@pearson.com.
 
 Sircon and NIPR — License Renewal Platforms: Sircon (sircon.com/virginia) and NIPR (nipr.com) are the platforms where you submit renewal applications and pay renewal fees to the Bureau of Insurance. CE transcript data from Pearson VUE flows into Sircon's records, allowing the Bureau to verify CE compliance when processing renewals. All renewal processing goes through NIPR or Sircon — not directly to the Bureau.
 

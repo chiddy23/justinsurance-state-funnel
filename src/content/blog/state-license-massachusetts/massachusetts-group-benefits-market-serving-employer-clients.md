@@ -337,6 +337,6 @@ Group benefits practice requires patience but produces durable, valuable books o
 
 ## Build Your Massachusetts Group Benefits Practice
 
-Massachusetts's group benefits market offers substantial opportunity for properly trained producers. At JustInsurance, our Massachusetts prelicense and CE courses provide foundational knowledge supporting group benefits specialty practice.
+Massachusetts's group benefits market offers substantial opportunity for properly trained producers. At JustInsurance, our Massachusetts [prelicense](/massachusetts/prelicensing) and CE courses provide foundational knowledge supporting group benefits specialty practice.
 
 Enroll today and start building toward Massachusetts group benefits insurance specialty practice.

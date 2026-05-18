@@ -32,7 +32,7 @@ In most cases, you need to complete a certain number of [Pennsylvania insurance 
 
 ## Complete pre-licensing courses
 
-Pre-licensing courses are designed to prepare you with all the fundamentals you'll need for the insurance exam. The material usually covers various topics, including policy provisions, Pennsylvania-specific regulations, and best practices for ethical conduct. Although studying can feel daunting at times, these courses break down core concepts in a way that helps you feel confident once the test date arrives.
+[Pre-licensing](/pennsylvania/prelicensing) courses are designed to prepare you with all the fundamentals you'll need for the insurance exam. The material usually covers various topics, including policy provisions, Pennsylvania-specific regulations, and best practices for ethical conduct. Although studying can feel daunting at times, these courses break down core concepts in a way that helps you feel confident once the test date arrives.
 
 If you have a busy schedule, consider online options that let you complete coursework at your own pace. You might find that an in-person class keeps you more accountable, whereas an online version offers more scheduling freedom. As you study, keep track of terms and definitions you find tricky, and consider forming or joining a study group. Making the effort now sets you up to pass your exam on the first try, saving time and money in the long run.
 

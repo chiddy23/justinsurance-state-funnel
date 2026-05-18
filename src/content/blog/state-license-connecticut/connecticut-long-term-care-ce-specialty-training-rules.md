@@ -264,6 +264,6 @@ The required training investment is reasonable for the market opportunity it ope
 
 ## Build Your Connecticut LTC Specialty
 
-Connecticut's LTC market offers significant opportunity for properly trained producers. At JustInsurance, our Connecticut prelicense and CE courses provide foundational knowledge supporting LTC specialty practice.
+Connecticut's LTC market offers significant opportunity for properly trained producers. At JustInsurance, our Connecticut [prelicense](/connecticut/prelicensing) and CE courses provide foundational knowledge supporting LTC specialty practice.
 
 Enroll today and start building your Connecticut LTC insurance career.

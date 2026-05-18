@@ -166,4 +166,4 @@ The answer depends on whether the coverage was placed with an admitted or non-ad
 
 Minnesota's Chapter 60A and the Department of Commerce form the regulatory foundation upon which every insurance transaction in the state is conducted. The Commissioner's authority to license insurers, approve forms and rates, conduct market conduct examinations, and take enforcement action against insurers and producers creates the accountability framework that protects Minnesota policyholders and maintains the integrity of the insurance market. For producers, understanding this framework is not just exam preparation — it is the context within which every client interaction, every coverage placement, and every compensation decision is legally situated.
 
-Visit JustInsurance to enroll today and complete your Minnesota prelicensing with a state-approved course covering every insurance code provision tested on the PSI exam.
+Visit JustInsurance to enroll today and complete your Minnesota [prelicensing](/minnesota/prelicensing) with a state-approved course covering every insurance code provision tested on the PSI exam.

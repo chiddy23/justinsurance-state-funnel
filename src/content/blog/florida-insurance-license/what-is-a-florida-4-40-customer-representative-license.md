@@ -70,7 +70,7 @@ To qualify for a Florida 4-40 license:
 
 - You must be a Florida resident or have a Florida-based employer
 
-- You must complete 52 hours of approved prelicense education (or qualify through experience or education equivalents)
+- You must complete 52 hours of approved [prelicense](/florida/prelicensing) education (or qualify through experience or education equivalents)
 
 - You must pass the Florida 4-40 state exam
 
@@ -101,7 +101,7 @@ If you're thinking long-term about a career as an independent P&C agent or agenc
 
 3. How hard is the 4-40 exam compared to the 2-20? The 4-40 is generally considered easier than the 2-20 because its scope is narrower. The 2-20 covers more advanced commercial lines material.
 
-4. Do 4-40 license holders have continuing education requirements? Yes. Florida requires customer representatives to complete continuing education to maintain the license — check with DFS for current hour requirements.
+4. Do 4-40 license holders have [continuing education](/florida/continuing-education) requirements? Yes. Florida requires customer representatives to complete continuing education to maintain the license — check with DFS for current hour requirements.
 
 5. Is the 4-40 a good first license for someone new to insurance? Yes — especially if you're entering the industry through a P&C agency. It gets you into the work quickly and lets you build experience while deciding whether to go deeper as an agent.
 

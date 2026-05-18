@@ -181,6 +181,6 @@ For producers, transitioning to or from these roles can offer career flexibility
 
 ## Start Your Massachusetts Insurance Income Right
 
-Massachusetts offers strong earning potential combined with the prestige of working in one of the most sophisticated insurance markets in the Northeast. At JustInsurance, our Massachusetts prelicense and CE courses prepare you for the licensing exam and for the real work of building income in this market.
+Massachusetts offers strong earning potential combined with the prestige of working in one of the most sophisticated insurance markets in the Northeast. At JustInsurance, our Massachusetts [prelicense](/massachusetts/prelicensing) and CE courses prepare you for the licensing exam and for the real work of building income in this market.
 
 Enroll today and start building your Massachusetts insurance income.

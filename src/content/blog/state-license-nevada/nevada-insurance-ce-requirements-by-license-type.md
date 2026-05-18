@@ -16,7 +16,7 @@ imageAlt: >-
   ce requirements by license type.
 ---
 
-Keeping your Nevada insurance license active requires more than paying a renewal fee — you need to complete continuing education (CE) on schedule, using approved courses, and have it reported correctly. Nevada's CE framework is distinctive among states with its 3-year renewal cycle and 30-hour requirement, which gives producers more time but also creates planning challenges.
+Keeping your Nevada insurance license active requires more than paying a renewal fee — you need to complete [continuing education](/nevada/continuing-education) (CE) on schedule, using approved courses, and have it reported correctly. Nevada's CE framework is distinctive among states with its 3-year renewal cycle and 30-hour requirement, which gives producers more time but also creates planning challenges.
 
 Here's a clear breakdown of Nevada's insurance CE requirements by license type.
 

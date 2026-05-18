@@ -13,7 +13,7 @@ image: /blog/images/top-tips-to-crush-tennessee-insurance-license-exam-questions
 imageAlt: "How to Get Your Tennessee Insurance License: The Complete Step-by-Step Guide"
 ---
 
-Getting a Tennessee insurance license is a four-step process: pass the state exam, complete fingerprinting and a background check, submit your application through NIPR, and receive your license from the Tennessee Department of Commerce and Insurance. What makes Tennessee's process distinctive is what is absent from that list — there is no mandatory prelicensing education requirement. As of March 21, 2023, Tennessee eliminated its formal prelicensing hour requirement, making it one of a small number of states where candidates can go directly to the exam without completing a prescribed course. That structural difference makes Tennessee one of the fastest paths to an insurance license in the country for a well-prepared candidate. This guide covers every step in the exact sequence you need to follow, every fee you will pay, every deadline you need to know, and the decisions that determine how long the process takes.
+Getting a Tennessee insurance license is a four-step process: pass the state exam, complete fingerprinting and a background check, submit your application through NIPR, and receive your license from the Tennessee Department of Commerce and Insurance. What makes Tennessee's process distinctive is what is absent from that list — there is no mandatory [prelicensing](/tennessee/prelicensing) education requirement. As of March 21, 2023, Tennessee eliminated its formal prelicensing hour requirement, making it one of a small number of states where candidates can go directly to the exam without completing a prescribed course. That structural difference makes Tennessee one of the fastest paths to an insurance license in the country for a well-prepared candidate. This guide covers every step in the exact sequence you need to follow, every fee you will pay, every deadline you need to know, and the decisions that determine how long the process takes.
 
 ### Before You Begin: Choose Your Line of Authority
 
@@ -47,7 +47,7 @@ Why the combination decision matters at the start: Tennessee charges $50 per lin
 
 ### Step 1: Prepare for and Schedule the Pearson VUE Exam
 
-Tennessee administers all insurance licensing exams through Pearson VUE — not PSI, which is used in many other states. This is a Tennessee-specific distinction that matters when selecting study materials, because exam prep courses built around PSI's platform differ slightly in interface and format from Pearson VUE's platform. Confirm that any prep course or practice exam you use is specifically designed for Pearson VUE and for Tennessee.
+Tennessee administers all insurance licensing exams through Pearson VUE — not PSI, which is used in many other states. This is a Tennessee-specific distinction that matters when selecting study materials, because exam prep courses built around PSI's platform differ slightly in interface and format from Pearson VUE's platform. Confirm that any prep course or [practice exam](/tennessee/practice-exam) you use is specifically designed for Pearson VUE and for Tennessee.
 
 #### Exam Format by Line
 
@@ -57,7 +57,7 @@ The pass score: You must score 70% or higher on the scored questions to pass. On
 
 Score report: Pearson VUE delivers your score report immediately after you complete the exam. You know your result before leaving the testing center or closing your remote testing session. There is no waiting period for results.
 
-Retakes: Tennessee allows unlimited retakes with no mandatory waiting period between attempts. However, each retake requires paying the full exam fee again — $59 per attempt per line per attempt. The financial cost of repeated attempts is a genuine incentive to prepare thoroughly before your first attempt. First-time pass rates for the Tennessee exam are approximately 55–65%, reflecting the challenge of exam preparation without mandatory structured prelicensing.
+Retakes: Tennessee allows unlimited retakes with no mandatory waiting period between attempts. However, each retake requires paying the full exam fee again — $59 per attempt per line per attempt. The financial cost of repeated attempts is a genuine incentive to prepare thoroughly before your first attempt. First-time [pass rates](/pass-rates) for the Tennessee exam are approximately 55–65%, reflecting the challenge of exam preparation without mandatory structured prelicensing.
 
 #### Taking Multiple Exams in One Sitting
 

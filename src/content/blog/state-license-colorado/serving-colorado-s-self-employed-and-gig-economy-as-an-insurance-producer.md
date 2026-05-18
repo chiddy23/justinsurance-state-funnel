@@ -136,4 +136,4 @@ The interaction is consequential and often misunderstood. Marketplace subsidies 
 
 Colorado's self-employed and gig economy population is large, diverse, underserved, and growing. The gig economy isn't going anywhere — and neither are the risks that come with it. Producers who build genuine expertise in the specific coverage needs of this market — the income estimation that optimizes subsidy eligibility, the professional liability conversation that most producers skip, the rideshare gap that platforms understate, and the disability income protection that no employer will provide — serve a client population that responds to real expertise with both loyalty and referrals. HealthInsurance.org
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course that prepares you to serve every segment of Colorado's diverse insurance market.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course that prepares you to serve every segment of Colorado's diverse insurance market.

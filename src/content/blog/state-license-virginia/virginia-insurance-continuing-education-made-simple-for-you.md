@@ -21,7 +21,7 @@ Whether you are just starting your journey in the insurance world or looking to 
 
 Before diving into the details of exams and certifications, it is important to understand the fundamentals. In Virginia, life, health, property, and casualty are among the most common lines of insurance for new agents. Each line requires a solid knowledge base, and the Virginia Bureau of Insurance keeps a close eye on whether you meet all the standards.
 
-Because insurance plays such a pivotal role in safeguarding citizens, the process of obtaining your license ensures that you have the right skills and ethical grounding. This starts with meeting specific education requirements. You will be expected to complete a pre-licensing course, which usually involves several hours of state-approved study on topics like policy terminology, coverage areas, and regulatory requirements. Once you have that under your belt, you will be ready to take the official state exam.
+Because insurance plays such a pivotal role in safeguarding citizens, the process of obtaining your license ensures that you have the right skills and ethical grounding. This starts with meeting specific education requirements. You will be expected to complete a [pre-licensing](/virginia/prelicensing) course, which usually involves several hours of state-approved study on topics like policy terminology, coverage areas, and regulatory requirements. Once you have that under your belt, you will be ready to take the official state exam.
 
 Some people find the regulations and steps overwhelming at first, but once you realize each requirement is simply designed to boost your competency, the journey seems more approachable. In fact, many find that a solid foundation in insurance law and policy language makes them more confident when working with real clients.
 
@@ -31,7 +31,7 @@ Pre-licensing courses are crucial because they give you the tools and terminolog
 
 If you have never studied insurance before, do not worry. You will find that [Virginia prelicensing training](/virginia/prelicensing) is structured to start you off with the essentials—from basic policy clauses to understanding deductibles and premiums. After all, your clients will rely on you to clarify these aspects, so building a solid skill set early in your career can pay off in the long run.
 
-You will generally need to complete each module and demonstrate your understanding through small quizzes or practice questions. Pay close attention to areas where you struggle so that you can circle back for extra review. It is easy to skip over tricky chapters when you study on your own, but mastering every section now will save you headaches later. Remember, the goal is to pass the state exam and feel prepared to advise real-world clients.
+You will generally need to complete each module and demonstrate your understanding through small quizzes or [practice questions](/virginia/practice-exam). Pay close attention to areas where you struggle so that you can circle back for extra review. It is easy to skip over tricky chapters when you study on your own, but mastering every section now will save you headaches later. Remember, the goal is to pass the state exam and feel prepared to advise real-world clients.
 
 ## Schedule and pass your exam
 
@@ -49,7 +49,7 @@ You might be asked to document your pre-licensing hours as well, so keep those r
 
 ## Fulfill continuing education requirements
 
-Earning your license is a major milestone, but the journey does not end there. Virginia insurance continuing education is mandatory to keep your license active and maintain your professional standing. Specific hour requirements can vary based on your lines of authority, but in many cases, you will need to complete a certain number of continuing education credits every renewal cycle to stay up to date with changing policies and regulations.
+Earning your license is a major milestone, but the journey does not end there. Virginia insurance [continuing education](/virginia/continuing-education) is mandatory to keep your license active and maintain your professional standing. Specific hour requirements can vary based on your lines of authority, but in many cases, you will need to complete a certain number of continuing education credits every renewal cycle to stay up to date with changing policies and regulations.
 
 Continuing education can include refresher courses, advanced classes, or seminars on new insurance products and legislative updates. Keeping track of the deadlines and logging all your completed credits is essential. Luckily, many providers help you follow a simple schedule:
 

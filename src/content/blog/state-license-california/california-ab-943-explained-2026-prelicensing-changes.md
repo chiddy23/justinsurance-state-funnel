@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by Pixabay on Pexels
 ---
 
-If you're getting your California insurance license in 2026, the rules just changed — and they changed in your favor. **California Assembly Bill 943**, signed into law in 2024 and effective **January 1, 2026**, eliminated the old line-specific prelicensing hour requirements that had been on the books for decades. The 52-hour Life course, the 40-hour Accident & Health course, the 40-hour Property course, and the 40-hour Casualty course are gone.
+If you're getting your California insurance license in 2026, the rules just changed — and they changed in your favor. **California Assembly Bill 943**, signed into law in 2024 and effective **January 1, 2026**, eliminated the old line-specific [prelicensing](/california/prelicensing) hour requirements that had been on the books for decades. The 52-hour Life course, the 40-hour Accident & Health course, the 40-hour Property course, and the 40-hour Casualty course are gone.
 
 What replaced all of them is simpler: a single **12-hour Code and Ethics prelicensing course**. That's it. One course covers every line of authority you want to qualify for.
 
@@ -50,7 +50,7 @@ It's important to be specific about what AB 943 did and didn't touch, because so
 - **The state licensing exam.** You still must pass the California Department of Insurance exam administered by PSI. AB 943 didn't change exam content, format, or passing score (60% to pass).
 - **Fingerprinting and background check.** Live Scan fingerprinting is still required for all applicants. Submit through a CDI-approved Live Scan provider; results go directly to the Department of Insurance.
 - **The license application.** You still apply through NIPR or CDI's online portal. The application fee schedule wasn't affected by AB 943.
-- **Continuing education.** Once you're licensed, you still owe **24 hours of CE every 2 years**, including 3 hours of ethics. CE rules are governed by separate statutes (Cal. Ins. Code § 1749.3), not AB 943.
+- **[Continuing education](/california/continuing-education).** Once you're licensed, you still owe **24 hours of CE every 2 years**, including 3 hours of ethics. CE rules are governed by separate statutes (Cal. Ins. Code § 1749.3), not AB 943.
 - **Age and residency.** Still 18 years old, still must be a California resident or licensed non-resident.
 
 **What also didn't change:**

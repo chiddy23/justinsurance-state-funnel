@@ -256,6 +256,6 @@ Long-term relationships. Health insurance relationships often continue for years
 
 ## Build Your Connecticut Health Insurance Practice
 
-Connecticut's distinctive Access Health CT marketplace creates real opportunity for properly certified producers. At JustInsurance, our Connecticut prelicense and CE courses provide foundational knowledge for health insurance practice.
+Connecticut's distinctive Access Health CT marketplace creates real opportunity for properly certified producers. At JustInsurance, our Connecticut [prelicense](/connecticut/prelicensing) and CE courses provide foundational knowledge for health insurance practice.
 
 Enroll today and build your Connecticut health insurance career on solid ground.

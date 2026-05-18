@@ -30,7 +30,7 @@ If you already meet these foundational requirements, you are off to a great star
 
 ## Complete the pre-licensing courses
 
-Next on your path is completing the mandatory pre-licensing education for the specific line or lines of insurance you intend to sell. Pennsylvania usually requires a dedicated number of course hours that cover core insurance principles, state regulations, and ethical considerations. While this might feel like going back to school, think of it as an excellent opportunity to build confidence in your knowledge.
+Next on your path is completing the mandatory [pre-licensing](/pennsylvania/prelicensing) education for the specific line or lines of insurance you intend to sell. Pennsylvania usually requires a dedicated number of course hours that cover core insurance principles, state regulations, and ethical considerations. While this might feel like going back to school, think of it as an excellent opportunity to build confidence in your knowledge.
 
 Pre-licensing courses are offered through various approved providers, both in-person and online. You should choose a format that works best with your schedule and learning style. Most of these courses offer practice quizzes, real-world examples, and other resources that can make the material more engaging and easier to absorb.
 
@@ -88,7 +88,7 @@ Once the application is successfully submitted, you will receive confirmation, o
 
 Congratulations, you are now officially licensed to sell insurance in Pennsylvania. But your work does not stop here. One crucial part of the Pennsylvania insurance licensing requirements is maintaining and renewing your license. Renewal periods can vary, but you typically need to complete a specified amount of [Pennsylvania continuing education](/pennsylvania/continuing-education) (CE) credits to remain in good standing.
 
-Continuing education is all about staying up to date on new products, regulatory changes, and industry best practices. CE courses are offered through the same providers that conduct pre-licensing sessions, and you can often choose topics that align with your specific line of authority. Completing these courses not only satisfies requirements but also keeps your professional knowledge sharp and relevant.
+[Continuing education](/pennsylvania/continuing-education) is all about staying up to date on new products, regulatory changes, and industry best practices. CE courses are offered through the same providers that conduct pre-licensing sessions, and you can often choose topics that align with your specific line of authority. Completing these courses not only satisfies requirements but also keeps your professional knowledge sharp and relevant.
 
 Be mindful of your renewal due dates. You do not want to let your license expire accidentally. If you miss deadlines, you may have to pay additional fees or even retake certain steps. Mark your calendar and set reminders well in advance so you can gather the necessary CE credits without feeling rushed.
 

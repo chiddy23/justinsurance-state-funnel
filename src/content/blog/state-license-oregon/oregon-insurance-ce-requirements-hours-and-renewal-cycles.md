@@ -16,7 +16,7 @@ imageAlt: >-
   ce requirements: hours and renewal cycles.
 ---
 
-Keeping your Oregon insurance license active requires more than paying a renewal fee every 2 years. You need to complete continuing education (CE) on schedule, using approved courses, and have it reported correctly. Oregon has some distinctive CE requirements that set it apart from many other states — including a specific 3-hour Oregon law requirement on top of the standard ethics requirement.
+Keeping your Oregon insurance license active requires more than paying a renewal fee every 2 years. You need to complete [continuing education](/oregon/continuing-education) (CE) on schedule, using approved courses, and have it reported correctly. Oregon has some distinctive CE requirements that set it apart from many other states — including a specific 3-hour Oregon law requirement on top of the standard ethics requirement.
 
 Here's a clear breakdown of Oregon's insurance CE requirements.
 

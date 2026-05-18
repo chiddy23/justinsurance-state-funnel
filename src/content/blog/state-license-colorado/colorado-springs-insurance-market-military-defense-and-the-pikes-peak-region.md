@@ -130,4 +130,4 @@ Colorado Springs faces the same statewide hail exposure as the Denver metro — 
 
 The Colorado Springs insurance market rewards producers who respect the specificity of its economic foundation. A market that is 40% aerospace and defense does not behave like a generalist commercial market — it rewards sector knowledge, military community participation, and genuine understanding of what defense contractors and military families actually need. Producers who invest in developing that understanding find a client base that is stable, high-earning, relationship-oriented, and concentrated in a geographic corridor small enough to work efficiently.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course that prepares you to serve the Colorado Springs market's distinctive insurance needs.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course that prepares you to serve the Colorado Springs market's distinctive insurance needs.

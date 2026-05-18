@@ -112,7 +112,7 @@ Partner with complementary professionals. Real estate agents, mortgage brokers, 
 
 Develop a digital presence. Portland is highly tech-forward. Professional website, LinkedIn presence, and potentially targeted social media extend your reach.
 
-Invest in expertise. Portland rewards genuine expertise. Continuing education beyond CE minimums, industry designations, and deep product knowledge all matter.
+Invest in expertise. Portland rewards genuine expertise. [Continuing education](/oregon/continuing-education) beyond CE minimums, industry designations, and deep product knowledge all matter.
 
 Be patient. Portland practices often take 2-4 years to hit stride. Agents who quit at year one miss the payoff.
 
@@ -168,6 +168,6 @@ The right choice depends on your goals, capital, network, and risk tolerance.
 
 ## Build Your Portland Insurance Career
 
-Portland offers real opportunity for agents willing to specialize and work consistently. At JustInsurance, our Oregon prelicense course prepares you for the licensing exam and for building a career in Oregon's most significant insurance market.
+Portland offers real opportunity for agents willing to specialize and work consistently. At JustInsurance, our Oregon [prelicense](/oregon/prelicensing) course prepares you for the licensing exam and for building a career in Oregon's most significant insurance market.
 
 Enroll today and start your Portland insurance career.

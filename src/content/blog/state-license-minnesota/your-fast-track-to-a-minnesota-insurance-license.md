@@ -34,7 +34,7 @@ You can fast-track this process by choosing a structured, reputable course provi
 
 ## Pass your licensing exam
 
-When you have met your pre-licensing education requirements, it is time to sit for the [Minnesota insurance licensing exam](/minnesota/requirements). Here is how to make the testing process as efficient as possible:
+When you have met your [pre-licensing](/minnesota/prelicensing) education requirements, it is time to sit for the [Minnesota insurance licensing exam](/minnesota/requirements). Here is how to make the testing process as efficient as possible:
 
 1.  Schedule promptly. Register through the authorized testing provider so you can secure your preferred test date and location. It is generally best to book your exam soon after you finish pre-licensing training so the information stays fresh in your mind.
 2.  Review the exam details. Familiarize yourself with the test format. For most lines of authority, you can expect a combination of multiple-choice questions covering general insurance concepts and state-specific regulations.
@@ -55,7 +55,7 @@ Once the state approves your application, you will receive your official insuran
 
 ## Maintain your license
 
-After the initial excitement of earning your Minnesota insurance license, do not forget about the ongoing continuing education (CE) requirements. Minnesota wants producers to stay current on industry knowledge and best practices, so you must complete a set number of [Minnesota continuing education](/minnesota/continuing-education) hours (often 24 hours every two years) to renew your license. These courses typically cover relevant state regulations and advanced insurance topics that help you grow professionally.
+After the initial excitement of earning your Minnesota insurance license, do not forget about the ongoing [continuing education](/minnesota/continuing-education) (CE) requirements. Minnesota wants producers to stay current on industry knowledge and best practices, so you must complete a set number of [Minnesota continuing education](/minnesota/continuing-education) hours (often 24 hours every two years) to renew your license. These courses typically cover relevant state regulations and advanced insurance topics that help you grow professionally.
 
 Staying on top of your CE credits also enhances your reputation as a reliable, well-prepared insurance professional. It keeps you informed about emerging trends, helps you serve clients better, and ensures that you maintain compliance with state regulations.
 

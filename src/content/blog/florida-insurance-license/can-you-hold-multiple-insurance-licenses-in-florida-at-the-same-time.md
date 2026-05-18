@@ -48,13 +48,13 @@ Cross-selling opportunities. A new Medicare client often needs final expense lif
 
 Each Florida license requires:
 
-- Completing the specific prelicense education for that license
+- Completing the specific [prelicense](/florida/prelicensing) education for that license
 
 - Passing the state exam for that license
 
 - Paying the application and licensing fees
 
-- Meeting any ongoing continuing education requirements for each license held
+- Meeting any ongoing [continuing education](/florida/continuing-education) requirements for each license held
 
 Some license combinations share CE requirements efficiently — for example, ethics CE and Florida law CE often count across multiple lines. But core product education is specific to each license.
 

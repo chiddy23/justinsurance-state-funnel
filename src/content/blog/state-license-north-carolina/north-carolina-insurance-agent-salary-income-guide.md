@@ -184,6 +184,6 @@ Each model has different income trajectories and lifestyle implications.
 
 ## Start Your North Carolina Insurance Income Right
 
-North Carolina offers strong earning potential combined with favorable tax treatment and substantial market growth. At JustInsurance, our North Carolina prelicense and CE courses prepare you for the licensing exam and for building income in this market.
+North Carolina offers strong earning potential combined with favorable tax treatment and substantial market growth. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) and CE courses prepare you for the licensing exam and for building income in this market.
 
 Enroll today and start building your North Carolina insurance income.

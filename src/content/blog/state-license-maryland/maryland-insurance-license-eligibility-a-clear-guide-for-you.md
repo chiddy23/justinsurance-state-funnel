@@ -54,7 +54,7 @@ The exam typically uses a multiple-choice format. You will face a strict time li
 
 ### Tips to boost your exam success
 
-1.  Review all pre-licensing notes, especially legal requirements specific to Maryland.
+1.  Review all [pre-licensing](/maryland/prelicensing) notes, especially legal requirements specific to Maryland.
 2.  Take practice tests to identify areas you need to strengthen.
 3.  Arrive early on exam day so you can focus without feeling rushed.
 4.  Keep calm if you encounter tricky questions; mark them, then come back later.

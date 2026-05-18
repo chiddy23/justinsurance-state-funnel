@@ -21,7 +21,7 @@ imageCredit: Photo by RDNE Stock project on Pexels
 Master Description: Discover the best [Illinois insurance pre-licensing courses](/illinois/prelicensing) to help you earn your license with confidence!
 
   
-If you are looking into Illinois insurance pre-licensing courses, you are already taking a powerful step toward a new career. Pre-licensing is an essential requirement in the state of Illinois, whether you plan to sell life insurance, health insurance, property and casualty insurance, or any related line. The path may seem complicated at first, but once you understand the main requirements and develop a clear study plan, you will be well on your way. Below is a practical guide to help you meet Illinois requirements and confidently prepare for your insurance license exam.
+If you are looking into Illinois insurance [pre-licensing](/illinois/prelicensing) courses, you are already taking a powerful step toward a new career. Pre-licensing is an essential requirement in the state of Illinois, whether you plan to sell life insurance, health insurance, property and casualty insurance, or any related line. The path may seem complicated at first, but once you understand the main requirements and develop a clear study plan, you will be well on your way. Below is a practical guide to help you meet Illinois requirements and confidently prepare for your insurance license exam.
 
 ## Understand your licensing path
 
@@ -58,7 +58,7 @@ Once you have finished your pre-licensing courses, it is time to focus on the st
 -   You will need a valid photo ID on test day. Depending on the test provider, you might have to arrive 30 minutes early or check in online.
 -   The score you need to pass is usually around 70 percent, though it is best to confirm with the Illinois Department of Insurance for exact requirements.
 
-Even if the exam might feel intimidating, most people who commit to a thorough study plan do pass successfully. Approach it with a systematic study schedule and plenty of practice questions.
+Even if the exam might feel intimidating, most people who commit to a thorough study plan do pass successfully. Approach it with a systematic study schedule and plenty of [practice questions](/illinois/practice-exam).
 
 ## Plan your study timeline
 

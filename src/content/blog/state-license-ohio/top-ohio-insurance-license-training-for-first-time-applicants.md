@@ -19,7 +19,7 @@ If you’re preparing to become an insurance professional in Ohio, you may feel 
 
 ## Know Ohio licensing basics
 
-Before diving into courses or exams, it helps to understand the overall process. Ohio requires you to be at least 18 years old and to complete a set of pre-licensing hours specific to the line of authority you plan to pursue (for example, Life or Property & Casualty). You’ll also need to pass a background check, which generally involves fingerprinting. These prerequisites ensure that you have the foundational knowledge and good standing to work in the industry.
+Before diving into courses or exams, it helps to understand the overall process. Ohio requires you to be at least 18 years old and to complete a set of [pre-licensing](/ohio/prelicensing) hours specific to the line of authority you plan to pursue (for example, Life or Property & Casualty). You’ll also need to pass a background check, which generally involves fingerprinting. These prerequisites ensure that you have the foundational knowledge and good standing to work in the industry.
 
 If you’re aiming to sell a specialized product—like life insurance or health insurance—be sure to read the Ohio Department of Insurance regulations for each line of authority. While the process is similar, some lines may have unique requirements. Always confirm the most up-to-date guidelines and fees from official state resources.
 
@@ -56,7 +56,7 @@ Keep a calm mindset in the days leading up to the exam. Get enough sleep, don’
 
 Once you’ve passed the exam, you’re ready to apply for your official Ohio insurance license. The application is typically handled through the National Insurance Producer Registry (NIPR) website or a similar platform. During this process, you’ll pay a licensing fee and must confirm that your background check and exam results are on file. After everything is submitted, you’ll wait for approval from the Ohio Department of Insurance.
 
-Approval times vary, but many applicants receive their license notice in a relatively short period. Make sure to verify whether your license has any immediate continuing education requirements so you don’t miss early deadlines.
+Approval times vary, but many applicants receive their license notice in a relatively short period. Make sure to verify whether your license has any immediate [continuing education](/ohio/continuing-education) requirements so you don’t miss early deadlines.
 
 ## Keep your license active
 

@@ -17,7 +17,7 @@ imageAlt: >-
   ethics and consumer protection ce: what's required and why.
 ---
 
-Every licensed insurance producer in Illinois has to complete ethics continuing education — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. IDOI treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
+Every licensed insurance producer in Illinois has to complete ethics [continuing education](/illinois/continuing-education) — it's mandatory, can't be substituted, and is part of every 2-year renewal cycle. IDOI treats ethics as a core part of maintaining your license because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
 
 Here's why Illinois ethics CE is required and what it covers.
 

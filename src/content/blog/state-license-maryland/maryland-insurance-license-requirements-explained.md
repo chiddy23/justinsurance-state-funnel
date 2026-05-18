@@ -34,7 +34,7 @@ Federal restriction: 18 U.S.C. § 1033 applies
 
 ## PLE Status — Eliminated October 2024
 
-Maryland does not require prelicensing education as of October 1, 2024 (MIA Bulletin 24-19).
+Maryland does not require [prelicensing](/maryland/prelicensing) education as of October 1, 2024 (MIA Bulletin 24-19).
 
 Pre-October 2024 (historical; no longer in effect): Life: 20 hours; A&H: 20 hours; Combined L&H: 40 hours; Property: 20 hours; Casualty: 20 hours; Combined P&C: 40 hours
 

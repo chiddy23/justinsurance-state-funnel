@@ -12,7 +12,7 @@ image: /blog/images/easy-steps-to-meet-colorado-insurance-license-requirements.j
 imageAlt: "Colorado vs. Utah vs. Wyoming: How the Licensing Process Compares"
 ---
 
-If you are entering the insurance business in the Mountain West, or already licensed in one of these three states and evaluating whether to expand, the differences between Colorado, Utah, and Wyoming's licensing processes matter more than most candidates expect. All three use Pearson VUE or Prometric for exams, all three renew biennially on the birth month cycle, and all three require 24 CE hours including 3 ethics hours. But below those surface similarities, the three states diverge significantly on prelicensing requirements, fingerprinting, exam fees, application costs, score validity, and the timeline from decision to licensed. This post maps every material difference in one place.
+If you are entering the insurance business in the Mountain West, or already licensed in one of these three states and evaluating whether to expand, the differences between Colorado, Utah, and Wyoming's licensing processes matter more than most candidates expect. All three use Pearson VUE or Prometric for exams, all three renew biennially on the birth month cycle, and all three require 24 CE hours including 3 ethics hours. But below those surface similarities, the three states diverge significantly on [prelicensing](/colorado/prelicensing) requirements, fingerprinting, exam fees, application costs, score validity, and the timeline from decision to licensed. This post maps every material difference in one place.
 
 ### The Single Biggest Difference: Prelicensing Education
 
@@ -20,7 +20,7 @@ The most consequential structural difference among these three states is Colorad
 
 Colorado: 50 hours of state-approved prelicensing education required per line of authority before sitting for the state exam (90 hours for combined Life, Accident & Health). This is not optional — exam scores are invalidated if prelicensing was not completed first. The 50 hours include 40 general insurance hours and 10 Colorado-specific hours, and culminate in a proctored Certificate Exam at 70% passing. Certificate valid for one year.
 
-Utah: No prelicensing education requirement. Candidates may sit directly for the Prometric exam after scheduling and paying the fee. Prep courses are strongly recommended by every provider given national pass rates hovering around 55–60%, but there is no legal obligation to complete any coursework before the state exam.
+Utah: No prelicensing education requirement. Candidates may sit directly for the Prometric exam after scheduling and paying the fee. Prep courses are strongly recommended by every provider given national [pass rates](/pass-rates) hovering around 55–60%, but there is no legal obligation to complete any coursework before the state exam.
 
 Wyoming: No prelicensing education requirement. Like Utah, candidates schedule directly with Pearson VUE and go straight to the state exam. Same strong recommendation for self-study applies.
 

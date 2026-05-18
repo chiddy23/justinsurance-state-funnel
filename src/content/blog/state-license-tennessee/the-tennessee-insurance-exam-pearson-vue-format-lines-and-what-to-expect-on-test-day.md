@@ -120,7 +120,7 @@ Producer licensing:
 
 License types and lines of authority
 
-No mandatory prelicensing requirement (effective March 21, 2023)
+No mandatory [prelicensing](/tennessee/prelicensing) requirement (effective March 21, 2023)
 
 Exam: Pearson VUE; $59 per attempt; 70% pass; immediate results
 
@@ -362,7 +362,7 @@ The score report as a retake guide: After a failed attempt, do not simply study 
 
 I have taken PSI exams in other states. How different is Pearson VUE in practice?
 
-The core exam-taking experience is similar — you read questions, select answers from four options, and navigate between questions using on-screen controls. The differences are in interface details: Pearson VUE's question layout, navigation buttons, and flagging system look and behave slightly differently from PSI's. Pearson VUE's question style also tends toward more scenario-based framing, where a question describes a situation and asks what a producer should do, rather than PSI's more direct definitional approach. Neither platform is harder than the other — they are just different. The best way to familiarize yourself with Pearson VUE's interface before exam day is to use practice exam software that specifically simulates Pearson VUE's format, so that the interface on exam day is familiar rather than novel.
+The core exam-taking experience is similar — you read questions, select answers from four options, and navigate between questions using on-screen controls. The differences are in interface details: Pearson VUE's question layout, navigation buttons, and flagging system look and behave slightly differently from PSI's. Pearson VUE's question style also tends toward more scenario-based framing, where a question describes a situation and asks what a producer should do, rather than PSI's more direct definitional approach. Neither platform is harder than the other — they are just different. The best way to familiarize yourself with Pearson VUE's interface before exam day is to use [practice exam](/tennessee/practice-exam) software that specifically simulates Pearson VUE's format, so that the interface on exam day is familiar rather than novel.
 
 My remote exam was terminated by the proctor midway through for a room violation. What happens to my exam fee and my results?
 

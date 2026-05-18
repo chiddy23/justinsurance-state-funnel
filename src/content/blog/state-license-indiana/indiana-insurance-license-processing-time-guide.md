@@ -74,6 +74,6 @@ Available for both Life and P&C lines
 
 ## Build Your IN License Timeline Efficiently
 
-JustInsurance's IDOI-approved Indiana prelicensing courses are fully online, self-paced, and designed to get you to the Pearson VUE exam ready on your schedule.
+JustInsurance's IDOI-approved Indiana [prelicensing](/indiana/prelicensing) courses are fully online, self-paced, and designed to get you to the Pearson VUE exam ready on your schedule.
 
 Enroll today and move through the Indiana licensing process efficiently.

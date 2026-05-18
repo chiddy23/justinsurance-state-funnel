@@ -114,7 +114,7 @@ Hard market conditions also generate commercial conversations. Commercial proper
 
 ### The Timeline: Year by Year to Six Figures
 
-Year 1 ($30,000–$55,000): The first year is income-constrained regardless of effort. Base or training stipend for captive agents; early commission production for independents. Priorities: complete prelicensing and pass the exam, establish the core carrier appointments, build the first 50–100 client relationships, identify the market focus that will define the practice. Accept that year one income is an investment in year five income — every relationship established and every skill developed in year one compounds forward.
+Year 1 ($30,000–$55,000): The first year is income-constrained regardless of effort. Base or training stipend for captive agents; early commission production for independents. Priorities: complete [prelicensing](/minnesota/prelicensing) and pass the exam, establish the core carrier appointments, build the first 50–100 client relationships, identify the market focus that will define the practice. Accept that year one income is an investment in year five income — every relationship established and every skill developed in year one compounds forward.
 
 Year 2–3 ($45,000–$80,000): The book is building, renewal income is becoming meaningful, and the referral network is beginning to generate inbound opportunities. Cross-sell penetration on the existing book is a primary focus — the clients already won in year one are the most efficient source of additional premium. By the end of year three, a producer with a defined market focus and a disciplined referral network should have 150–300 client relationships and $400,000–$700,000 in book premium.
 

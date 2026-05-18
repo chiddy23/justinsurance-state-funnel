@@ -132,13 +132,13 @@ Specialty vegetable and fruit operations: Smaller specialty vegetable, fruit, an
 
 Selling federally backed crop insurance requires specific licensing and appointment:
 
-State insurance license: Crop insurance agents in Minnesota must hold a Property line of authority from the Minnesota Department of Commerce — the same Property license required for homeowners and commercial property coverage. This is a standard insurance producer license obtained through the normal prelicensing, exam, and application process.
+State insurance license: Crop insurance agents in Minnesota must hold a Property line of authority from the Minnesota Department of Commerce — the same Property license required for homeowners and commercial property coverage. This is a standard insurance producer license obtained through the normal [prelicensing](/minnesota/prelicensing), exam, and application process.
 
 Federal licensing requirement: In addition to the state license, crop insurance agents must pass the federal crop insurance agent basic qualification test administered through the Approved Insurance Provider's onboarding process. This is a separate examination from the Minnesota state exam.
 
 Approved Insurance Provider appointment: Crop insurance can only be sold through companies that are RMA-approved — known as Approved Insurance Providers (AIPs). Agents must be appointed by at least one AIP to sell federal crop insurance. Major AIPs operating in Minnesota include Farmers Mutual Hail, Great American Insurance, Hudson Crop, NAU Country, and others.
 
-Annual requalification: Crop insurance agents are typically required to complete annual continuing education specific to crop insurance through their AIP, separate from Minnesota's general CE requirements. This product-specific education ensures agents maintain current knowledge of RMA program changes, new products, and regulatory updates.
+Annual requalification: Crop insurance agents are typically required to complete annual [continuing education](/minnesota/continuing-education) specific to crop insurance through their AIP, separate from Minnesota's general CE requirements. This product-specific education ensures agents maintain current knowledge of RMA program changes, new products, and regulatory updates.
 
 #### Private Crop-Hail and Farm Lines
 

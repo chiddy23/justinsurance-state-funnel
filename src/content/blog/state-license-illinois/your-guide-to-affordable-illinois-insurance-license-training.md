@@ -27,7 +27,7 @@ When you hold an Illinois insurance license, you can sell and negotiate insuranc
 
 ## Choose your training approach
 
-Once you know you must fulfill a set number of pre-licensing hours, you’ll want to pick a course format that suits your schedule and learning style. Many people choose online classes because they offer flexibility and often come with interactive tools. In-person sessions can be great if you value face-to-face instruction and immediate feedback from instructors. Whatever you prefer, confirm that your course provider is approved by the Illinois Department of Insurance so you’re always following the correct curriculum.
+Once you know you must fulfill a set number of [pre-licensing](/illinois/prelicensing) hours, you’ll want to pick a course format that suits your schedule and learning style. Many people choose online classes because they offer flexibility and often come with interactive tools. In-person sessions can be great if you value face-to-face instruction and immediate feedback from instructors. Whatever you prefer, confirm that your course provider is approved by the Illinois Department of Insurance so you’re always following the correct curriculum.
 
 Costs can vary, but most reputable courses offer comprehensive materials and practice exams as part of a package. You can sometimes find combo deals that cover multiple lines of authority, which is helpful if you plan to sell both life and health or property and casualty. Keep in mind that your chosen path not only influences your study routine but also your confidence level once you face the licensing exam.
 

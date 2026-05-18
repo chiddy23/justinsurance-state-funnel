@@ -23,7 +23,7 @@ In this guide, you’ll discover how to meet the state’s requirements, which c
 
 ## Understand the licensing requirements
 
-Before signing up for any classes, you want to know the basics of what the state expects. Each line of insurance has different requirements and might even demand its own exam. By clarifying the type of license you need (such as Life, Health, Property, or Casualty), you make a more informed decision on which pre-licensing track to follow.
+Before signing up for any classes, you want to know the basics of what the state expects. Each line of insurance has different requirements and might even demand its own exam. By clarifying the type of license you need (such as Life, Health, Property, or Casualty), you make a more informed decision on which [pre-licensing](/new-jersey/prelicensing) track to follow.
 
 Many residents start with a combined Life and Health license or Property and Casualty license, but it truly depends on your career goals. If you plan to sell life insurance and annuities, for instance, a Life Insurance License is the right place to focus. However, if you imagine yourself helping clients with property coverage, you might look at the Property and Casualty track. Your chosen line of authority determines how many course hours you’ll need and which exam topics you’ll study.
 

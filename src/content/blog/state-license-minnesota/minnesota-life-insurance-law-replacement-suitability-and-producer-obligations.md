@@ -178,4 +178,4 @@ A 1035 exchange under IRC §1035 is a tax-free exchange of one insurance contrac
 
 Minnesota life insurance law's producer obligations — the replacement regulation, the best interest standard for annuities, the required policy provisions, the delivery requirements, and the fiduciary premium handling standards — collectively define what professional conduct looks like in the life insurance and annuity market. Producers who understand these obligations in depth serve clients with the accuracy and documentation discipline that protects both the client and the producer when transactions are later reviewed.
 
-Visit JustInsurance to enroll today and complete your Minnesota Life prelicensing with a state-approved course covering every life insurance law provision tested on the PSI exam.
+Visit JustInsurance to enroll today and complete your Minnesota Life [prelicensing](/minnesota/prelicensing) with a state-approved course covering every life insurance law provision tested on the PSI exam.

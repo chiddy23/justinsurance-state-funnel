@@ -18,7 +18,7 @@ imageAlt: >-
 
 Getting your Washington state insurance producer license opens doors to one of the most distinctive insurance markets in the country. Seattle's massive technology industry — home to Amazon, Microsoft, Boeing, and a rapidly growing startup ecosystem — creates sophisticated professional insurance demand found in few other markets. Washington's coast, mountains, and agricultural regions add P&C complexity. The state's own health exchange (Washington Healthplanfinder) creates year-round individual health insurance advisory opportunity. And Washington's complete absence of state income tax means every commission dollar translates to take-home pay at rates that beat virtually every other state.
 
-Washington's licensing process has several important features: no prelicense education requirement (eliminated July 24, 2023), a two-vendor fingerprinting process with a critical new application-first sequence (effective August 15, 2025), a 180-day exam validity window, and a relatively low exam fee of $35 for single lines. Here's exactly how to get your Washington state insurance producer license.
+Washington's licensing process has several important features: no [prelicense](/washington/prelicensing) education requirement (eliminated July 24, 2023), a two-vendor fingerprinting process with a critical new application-first sequence (effective August 15, 2025), a 180-day exam validity window, and a relatively low exam fee of $35 for single lines. Here's exactly how to get your Washington state insurance producer license.
 
 ## Step 1: Meet the Basic Eligibility Requirements
 
@@ -44,7 +44,7 @@ Key notes:
 
 Exam preparation is still strongly recommended — exam content covers both national insurance principles and Washington-specific laws
 
-Quality prep courses substantially improve first-attempt pass rates
+Quality prep courses substantially improve first-attempt [pass rates](/pass-rates)
 
 Washington's 180-day exam validity window means preparation matters for efficient licensing
 

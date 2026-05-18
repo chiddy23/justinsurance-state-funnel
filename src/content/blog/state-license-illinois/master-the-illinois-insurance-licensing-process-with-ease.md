@@ -31,11 +31,11 @@ Think about whether a combined license makes sense. Some professionals choose to
 
 Illinois requires you to complete a set number of [Illinois insurance prelicensing](/illinois/prelicensing) hours before you can sit for the exam. Usually, you’ll need 20 hours per major line of authority, such as life or health. That time is split between classroom instruction and self-study, though you can also choose an online-only course if you prefer to learn at your own pace.
 
-When selecting a pre-licensing provider, double-check that they’re approved by the Illinois Department of Insurance. Reputable programs often provide practice quizzes, structured lessons, and direct instructor access for questions. This structured approach ensures you have a solid understanding of all essential topics, including policy details, state regulations, and ethical standards.
+When selecting a [pre-licensing](/illinois/prelicensing) provider, double-check that they’re approved by the Illinois Department of Insurance. Reputable programs often provide practice quizzes, structured lessons, and direct instructor access for questions. This structured approach ensures you have a solid understanding of all essential topics, including policy details, state regulations, and ethical standards.
 
 ## Prepare for the licensing exam
 
-After finishing your required coursework, it helps to spend extra time reviewing key concepts before your exam day. Look back at any areas you found tricky during your pre-licensing classes and focus your study efforts on those sections. Signing up for a specialized practice test is a smart move if you thrive on mock exams or want to gauge how well you recall information.
+After finishing your required coursework, it helps to spend extra time reviewing key concepts before your exam day. Look back at any areas you found tricky during your pre-licensing classes and focus your study efforts on those sections. Signing up for a specialized [practice test](/illinois/practice-exam) is a smart move if you thrive on mock exams or want to gauge how well you recall information.
 
 As you study, consider creating flashcards or a daily study schedule to keep yourself on track. Everyone has a different learning style, so pick strategies that help you truly grasp the materials rather than simply memorizing. Another tactic is to form a small study group with peers who are also taking the exam. Explaining topics to others strengthens your own understanding and makes studying more interactive.
 

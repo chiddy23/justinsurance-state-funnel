@@ -37,7 +37,7 @@ As you decide which type (or combination of types) to pursue, consider your pers
 
 ### Meet Virginia’s licensing requirements
 
-Before you can apply for any license, you must meet Virginia’s baseline requirements. First, you must be at least 18 years old. You’ll also need to be a resident of Virginia or, if you live elsewhere, meet non-resident eligibility criteria. While you don’t need a college degree, completing specific pre-licensing courses is a crucial step.
+Before you can apply for any license, you must meet Virginia’s baseline requirements. First, you must be at least 18 years old. You’ll also need to be a resident of Virginia or, if you live elsewhere, meet non-resident eligibility criteria. While you don’t need a college degree, completing specific [pre-licensing](/virginia/prelicensing) courses is a crucial step.
 
 Virginia mandates a set number of course hours for each type of license. These classes cover insurance fundamentals, Virginia’s regulations, and ethical considerations that protect consumers. Many programs offer flexible scheduling, including online learning modules that let you study at your own pace. If you’re looking for a solid start, JustInsurance can help you navigate these [pre-licensing requirements](/virginia/prelicensing) and point you to the best resources for exam prep.
 
@@ -77,6 +77,6 @@ Depending on your career direction, you might consider pursuing multiple license
 
 At this stage, you’re equipped with a solid overview of Virginia insurance license types and the steps that will help you achieve each credential. Make sure to lock in your pre-licensing study schedule, sign up for the state exam, and keep an eye on application and testing deadlines. If you want additional support, consider reaching out to JustInsurance for guidance on exam prep courses, scheduling information, and tips for overcoming any anxiety about the test.
 
-Staying licensed long term also means keeping up with [Virginia continuing education](/virginia/continuing-education) every renewal cycle. Being proactive will help you stay motivated. Each small milestone—whether finishing a course module or acing a practice test—adds up to a promising career serving clients and communities across Virginia. You’ll soon find yourself discussing policy options with clients, tailoring coverage to their needs, and celebrating the rewarding feeling of helping others gain peace of mind.
+Staying licensed long term also means keeping up with [Virginia continuing education](/virginia/continuing-education) every renewal cycle. Being proactive will help you stay motivated. Each small milestone—whether finishing a course module or acing a [practice test](/virginia/practice-exam)—adds up to a promising career serving clients and communities across Virginia. You’ll soon find yourself discussing policy options with clients, tailoring coverage to their needs, and celebrating the rewarding feeling of helping others gain peace of mind.
 
 Now is the perfect time to get started. Map out when and how you’ll tackle your pre-licensing study, gather the resources you need, and schedule your exam with confidence. With the right approach, you’ll be a licensed agent before you know it. Good luck on your journey, and remember that each step you take moves you closer to your new career in the ever-evolving world of insurance.

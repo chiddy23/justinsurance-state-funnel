@@ -156,6 +156,6 @@ Never leave questions blank — guess rather than skip
 
 ## Walk In Knowing Exactly What to Expect
 
-Understanding the exam's format and content makes preparation focused. At JustInsurance, our Illinois prelicense course is structured around the real exam content outline — so every hour you spend studying is aligned with what you'll actually see on test day.
+Understanding the exam's format and content makes preparation focused. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) course is structured around the real exam content outline — so every hour you spend studying is aligned with what you'll actually see on test day.
 
 Enroll today and prepare for the Illinois exam the right way.

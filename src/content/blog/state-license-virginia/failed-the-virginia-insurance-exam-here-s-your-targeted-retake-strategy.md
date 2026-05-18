@@ -62,7 +62,7 @@ Before scheduling your retake, honestly diagnose why you failed. The most common
 
 Under-preparation for the state law section. The most common cause of first-time failures in Virginia. Candidates who take national-only courses or study predominantly national content arrive under-prepared for 35–40 questions that test statutes they have never read. Solution: Read the relevant Title 38.2 chapters directly. Know the auto insurance minimum changes, UIM stacking rule, workers' comp threshold, and unfair trade practices statute cold.
 
-Insufficient practice exam repetition. Studying content is not the same as exam-taking. Candidates who read and re-read notes without practicing under timed conditions often know the material conceptually but cannot retrieve it efficiently under exam pressure. Solution: Shift to more practice exam time and less passive reading in your retake preparation.
+Insufficient [practice exam](/virginia/practice-exam) repetition. Studying content is not the same as exam-taking. Candidates who read and re-read notes without practicing under timed conditions often know the material conceptually but cannot retrieve it efficiently under exam pressure. Solution: Shift to more practice exam time and less passive reading in your retake preparation.
 
 Mismanaged time on the real exam. Some candidates spend too long on difficult questions early and run out of time at the end, leaving questions unanswered. Unanswered questions count as wrong. Solution: Practice the strategy of answering all questions at a consistent pace, marking uncertain ones to revisit, and never dwelling more than 90 seconds on any single question.
 

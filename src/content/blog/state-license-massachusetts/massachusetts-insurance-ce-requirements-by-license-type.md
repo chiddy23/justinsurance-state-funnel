@@ -16,7 +16,7 @@ imageAlt: >-
   massachusetts insurance ce requirements by license type.
 ---
 
-Keeping your Massachusetts insurance license active requires more than paying a renewal fee — you need to complete continuing education (CE) on schedule, using approved courses, and have it reported correctly. Massachusetts has one of the more substantial CE requirements in the country, with notably higher hour totals than most states (60 hours initial, 45 hours triennial). Understanding the requirements helps you plan effectively and stay compliant.
+Keeping your Massachusetts insurance license active requires more than paying a renewal fee — you need to complete [continuing education](/massachusetts/continuing-education) (CE) on schedule, using approved courses, and have it reported correctly. Massachusetts has one of the more substantial CE requirements in the country, with notably higher hour totals than most states (60 hours initial, 45 hours triennial). Understanding the requirements helps you plan effectively and stay compliant.
 
 Here's a clear breakdown of Massachusetts insurance CE requirements.
 

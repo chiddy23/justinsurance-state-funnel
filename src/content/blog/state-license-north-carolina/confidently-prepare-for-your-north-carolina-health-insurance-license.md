@@ -42,7 +42,7 @@ Look for courses geared specifically toward health insurance or life and health 
 -   Flexible learning formats (online or in-person) to match your lifestyle
 -   Strong reviews or recommendations from other students
 
-Completing your pre-licensing coursework successfully is a big milestone, showing you have the foundational knowledge to discuss insurance plans with future clients.
+Completing your [pre-licensing](/north-carolina/prelicensing) coursework successfully is a big milestone, showing you have the foundational knowledge to discuss insurance plans with future clients.
 
 ## Schedule your licensing exam
 

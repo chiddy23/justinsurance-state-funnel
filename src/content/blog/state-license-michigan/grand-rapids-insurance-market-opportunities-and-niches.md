@@ -248,6 +248,6 @@ Established Grand Rapids specialty practices commonly produce $100,000-$195,000+
 
 ## Build Your Grand Rapids Insurance Career
 
-Grand Rapids offers genuine specialty opportunity in one of Michigan's most dynamic and growing metro areas. At JustInsurance, our Michigan prelicense and CE courses prepare you for the licensing exam and for building a career in West Michigan's distinctive market.
+Grand Rapids offers genuine specialty opportunity in one of Michigan's most dynamic and growing metro areas. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) and CE courses prepare you for the licensing exam and for building a career in West Michigan's distinctive market.
 
 Enroll today and start your Grand Rapids insurance career.

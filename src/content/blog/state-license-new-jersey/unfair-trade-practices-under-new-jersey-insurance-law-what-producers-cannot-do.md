@@ -123,4 +123,4 @@ DOBI enforces the UTPA administratively. The Commissioner can investigate potent
 
 New Jersey's Unfair Trade Practices Act is not a passive statute — it is actively enforced by a regulator with broad investigative and penalty authority and, since 2022, partially enforceable by consumers directly. Producers who understand its specific prohibitions — the $10 inducement threshold, the blindness discrimination provision, the misrepresentation categories, the claims settlement obligations — are better protected from both inadvertent violations and regulatory risk.
 
-Visit JustInsurance to enroll today and study NJ unfair trade practices law as part of your prelicensing course.
+Visit JustInsurance to enroll today and study NJ unfair trade practices law as part of your [prelicensing](/new-jersey/prelicensing) course.

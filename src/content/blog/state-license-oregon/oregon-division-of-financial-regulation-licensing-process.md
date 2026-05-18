@@ -54,7 +54,7 @@ Website: dfr.oregon.gov
 
 Before submitting your application, you should have:
 
-Completed Oregon-approved prelicense education (20 hours per line, 40 for combined)
+Completed Oregon-approved [prelicense](/oregon/prelicensing) education (20 hours per line, 40 for combined)
 
 Passed the Oregon state exam through PSI
 

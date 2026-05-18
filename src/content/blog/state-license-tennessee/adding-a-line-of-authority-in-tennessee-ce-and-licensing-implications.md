@@ -38,7 +38,7 @@ Retakes: Unlimited, no mandatory waiting period, full exam fee per attempt
 
 The state law section is the same across all lines. Every Tennessee licensing exam includes the same Tennessee state law section testing TDCI provisions, producer licensing requirements, unfair trade practices, bad faith, auto minimums, workers' compensation thresholds, CE requirements, and appointment rules. A producer who has already passed one Tennessee line exam has studied this content — the state law section for the added line exam is not new material. The only new content is the general section for the added line.
 
-No mandatory prelicensing for the added line. Tennessee eliminated mandatory prelicensing in March 2023. This applies to added lines as well as initial licensing. A producer adding Property to an existing Casualty license can schedule the Property exam without completing any prescribed course.
+No mandatory [prelicensing](/tennessee/prelicensing) for the added line. Tennessee eliminated mandatory prelicensing in March 2023. This applies to added lines as well as initial licensing. A producer adding Property to an existing Casualty license can schedule the Property exam without completing any prescribed course.
 
 #### Step 2: Wait the Mandatory 48-Hour Post-Exam Period
 

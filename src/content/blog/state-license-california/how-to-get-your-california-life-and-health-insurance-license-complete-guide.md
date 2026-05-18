@@ -26,7 +26,7 @@ Before you start, confirm that you meet California's baseline requirements:
 - You must be able to pass a background check
 - You must truthfully complete the license application and disclose any relevant history
 
-There's no degree requirement. You don't need prior insurance experience. But you do need to be able to pass the prelicense requirements and the state exam.
+There's no degree requirement. You don't need prior insurance experience. But you do need to be able to pass the [prelicense](/california/prelicensing) requirements and the state exam.
 
 ## Step 2: Complete Your Prelicense Education
 

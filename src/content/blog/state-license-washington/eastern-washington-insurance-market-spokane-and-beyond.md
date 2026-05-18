@@ -313,6 +313,6 @@ Washington's no state income tax applies equally in Spokane as in Seattle — ea
 
 ## Build Your Eastern Washington Insurance Career
 
-Eastern Washington's combination of healthcare, military, agricultural, and university markets — with substantially less competition than the Puget Sound — offers genuine specialty opportunity for producers willing to invest in relationship-based community development. At JustInsurance, our Washington prelicense and CE courses prepare you for the exam and for building a career throughout Washington state.
+Eastern Washington's combination of healthcare, military, agricultural, and university markets — with substantially less competition than the Puget Sound — offers genuine specialty opportunity for producers willing to invest in relationship-based community development. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses prepare you for the exam and for building a career throughout Washington state.
 
 Enroll today and start building your eastern Washington insurance career.

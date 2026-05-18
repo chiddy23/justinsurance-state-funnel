@@ -12,7 +12,7 @@ image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
 imageAlt: How Virginia's Insurance Exam Compares to Maryland, North Carolina and Tennessee
 ---
 
-Virginia sits at the crossroads of the Mid-Atlantic and Southeast, and producers who want to serve the full DC-to-Charlotte corridor — or the Appalachian corridor into Tennessee — regularly pursue multi-state licensing across all four states. Virginia, Maryland, North Carolina, and Tennessee each use different exam vendors, different prelicensing structures, different fee schedules, and different renewal timelines. For candidates planning their initial licensing strategy and for producers building multi-state authority through reciprocity, understanding the differences avoids costly surprises.
+Virginia sits at the crossroads of the Mid-Atlantic and Southeast, and producers who want to serve the full DC-to-Charlotte corridor — or the Appalachian corridor into Tennessee — regularly pursue multi-state licensing across all four states. Virginia, Maryland, North Carolina, and Tennessee each use different exam vendors, different [prelicensing](/virginia/prelicensing) structures, different fee schedules, and different renewal timelines. For candidates planning their initial licensing strategy and for producers building multi-state authority through reciprocity, understanding the differences avoids costly surprises.
 
 ### Exam Vendor
 

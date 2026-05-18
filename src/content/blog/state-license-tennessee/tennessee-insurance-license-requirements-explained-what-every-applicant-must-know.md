@@ -54,7 +54,7 @@ The Commissioner of Insurance: The TDCI is headed by the Commissioner of Commerc
 
 The statutory framework: All Tennessee insurance law is codified in TCA Title 56 — Insurance. The specific chapters most relevant to producers are:
 
-Chapter 6: Insurance producers — licensing requirements, application process, grounds for discipline, continuing education, and producer conduct obligations
+Chapter 6: Insurance producers — licensing requirements, application process, grounds for discipline, [continuing education](/tennessee/continuing-education), and producer conduct obligations
 
 Chapter 7: Insurance contracts — policy requirements, claims handling, the bad faith penalty provision under §56-7-105
 
@@ -160,7 +160,7 @@ Title insurance is a separate line requiring its own license. Title insurance pr
 
 ### The Exam Requirements: Line by Line
 
-Tennessee administers all insurance licensing exams through Pearson VUE. There is no mandatory prelicensing education — candidates may sit for the exam without completing any prescribed course. The pass score for all Tennessee insurance exams is 70% on the scored questions.
+Tennessee administers all insurance licensing exams through Pearson VUE. There is no mandatory [prelicensing](/tennessee/prelicensing) education — candidates may sit for the exam without completing any prescribed course. The pass score for all Tennessee insurance exams is 70% on the scored questions.
 
 #### Exam Structure
 

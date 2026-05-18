@@ -27,7 +27,7 @@ You will also want to ensure you meet the basic requirements. You must be at lea
 
 ## Complete your required education
 
-Pre-licensing education is a must. The state mandates a specific number of hours for each license type, and you can find options both online and in-person. Courses typically cover insurance principles, state regulations, ethical considerations, and more. Studying thoroughly reduces stress when exam day arrives.
+[Pre-licensing](/indiana/prelicensing) education is a must. The state mandates a specific number of hours for each license type, and you can find options both online and in-person. Courses typically cover insurance principles, state regulations, ethical considerations, and more. Studying thoroughly reduces stress when exam day arrives.
 
 Spend some extra time with your course materials and consider supplementary resources. You will encounter a wide variety of topics, ranging from policy provisions to stakeholder responsibilities. Taking notes and reviewing key terms often helps these details sink in.
 
@@ -65,7 +65,7 @@ Whichever path you choose, building rapport with your clients is critical. Promp
 
 ## Grow your insurance career
 
-Getting your license is a fantastic start, but to thrive long-term, you will need consistent professional development. In Indiana, you are required to complete continuing education (CE) courses to maintain your license, usually every two years. These classes update you on new regulations and emerging trends in insurance.
+Getting your license is a fantastic start, but to thrive long-term, you will need consistent professional development. In Indiana, you are required to complete [continuing education](/indiana/continuing-education) (CE) courses to maintain your license, usually every two years. These classes update you on new regulations and emerging trends in insurance.
 
 Besides meeting CE requirements, you can also explore specialized trainings, marketing webinars, or even mentorship programs. Many successful agents expand beyond basic lines of coverage and cultivate expertise in niche markets like long-term care, business interruption policies, or health savings account plans. By moving into specialized areas, you can stand out from the competition and deliver more value to clients.
 

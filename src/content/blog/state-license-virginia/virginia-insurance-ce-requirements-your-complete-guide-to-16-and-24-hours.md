@@ -12,7 +12,7 @@ image: /blog/images/top-tips-to-pass-your-virginia-life-insurance-license-exam.j
 imageAlt: "Virginia Insurance CE Requirements: Your Complete Guide to 16 and 24 Hours"
 ---
 
-Every Virginia resident insurance producer must complete continuing education before renewing their license. The amount required depends on a single variable: how many license types you hold. If you hold one license type — or hold both Life & Annuities and Health together — you complete 16 CE hours per biennial cycle. If you hold two or more license types — typically Life & Health plus Property & Casualty — you complete 24 CE hours, with a minimum of 8 hours applicable to each license type. This is the foundational structure that every other CE rule flows from. This post covers the full Virginia CE framework: what counts, what is required, who administers it, and how to stay compliant before your renewal deadline.
+Every Virginia resident insurance producer must complete [continuing education](/virginia/continuing-education) before renewing their license. The amount required depends on a single variable: how many license types you hold. If you hold one license type — or hold both Life & Annuities and Health together — you complete 16 CE hours per biennial cycle. If you hold two or more license types — typically Life & Health plus Property & Casualty — you complete 24 CE hours, with a minimum of 8 hours applicable to each license type. This is the foundational structure that every other CE rule flows from. This post covers the full Virginia CE framework: what counts, what is required, who administers it, and how to stay compliant before your renewal deadline.
 
 ### The Two Tiers: 16 Hours vs. 24 Hours
 

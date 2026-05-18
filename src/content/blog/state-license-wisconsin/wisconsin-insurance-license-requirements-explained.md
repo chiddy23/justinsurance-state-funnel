@@ -122,6 +122,6 @@ Veterans: Exam fee reimbursement; initial license fee waiver — see OCI Veteran
 
 ## Get Your Wisconsin License With Confidence
 
-JustInsurance's OCI-approved Wisconsin prelicensing courses cover the full PSI exam content outline with Wisconsin state law depth.
+JustInsurance's OCI-approved Wisconsin [prelicensing](/wisconsin/prelicensing) courses cover the full PSI exam content outline with Wisconsin state law depth.
 
 Enroll today and build your Wisconsin insurance career.

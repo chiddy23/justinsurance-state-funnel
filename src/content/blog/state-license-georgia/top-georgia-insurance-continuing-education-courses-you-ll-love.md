@@ -23,7 +23,7 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 ## Why Georgia insurance continuing education matters
 
-Continuing education goes beyond simply fulfilling a mandate. By completing the proper coursework, you sharpen your knowledge and gain insights into industry trends that directly affect your day-to-day work.
+[Continuing education](/georgia/continuing-education) goes beyond simply fulfilling a mandate. By completing the proper coursework, you sharpen your knowledge and gain insights into industry trends that directly affect your day-to-day work.
 
 You’ll also stay in good standing with the Georgia Department of Insurance, preventing any risk of license suspension or penalties. As a professional, making sure your CE courses are up to date conveys confidence to your customers and business partners.
 
@@ -31,7 +31,7 @@ You’ll also stay in good standing with the Georgia Department of Insurance, pr
 
 If you’re brand new to insurance, you’ll start by getting your initial license for the line of insurance you intend to sell. This process typically includes:
 
-1.  Completing a [Georgia insurance prelicensing](/georgia/prelicensing) course — in Georgia, 8 hours per line of authority (16 hours for Life & Health combined) as of June 24, 2025, when Georgia reduced prelicensing from 20 to 8 hours per line of authority. Other states may require more.
+1.  Completing a [Georgia insurance prelicensing](/georgia/prelicensing) course — in Georgia, 8 hours per line of authority (16 hours for Life & Health combined) as of June 24, 2025, when Georgia reduced [prelicensing](/georgia/prelicensing) from 20 to 8 hours per line of authority. Other states may require more.
 2.  Registering for and passing the official state exam.
 3.  Submitting your license application along with any relevant fees.
 

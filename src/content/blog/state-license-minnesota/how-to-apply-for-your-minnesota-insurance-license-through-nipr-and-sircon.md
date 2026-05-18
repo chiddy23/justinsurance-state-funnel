@@ -32,7 +32,7 @@ Three conditions must be satisfied before submitting your license application:
 
 2. Completed fingerprinting: Your fingerprint background check results must be submitted to the Department. If you were fingerprinted electronically at a PSI test center on exam day, the prints were transmitted automatically. If you submitted prints by mail, allow sufficient processing time before expecting background check results to be available.
 
-3. Certificate of Completion on file: Your course provider is required to report your prelicensing completion to the Department within five business days. Confirm with your provider that your completion has been reported before submitting the application — the Department will verify prelicensing compliance during application review.
+3. Certificate of Completion on file: Your course provider is required to report your [prelicensing](/minnesota/prelicensing) completion to the Department within five business days. Confirm with your provider that your completion has been reported before submitting the application — the Department will verify prelicensing compliance during application review.
 
 Timing: You have 36 months from the date you passed your state exam to submit your license application. There is no minimum waiting period after the exam — you can submit the application the same day you pass if your fingerprinting and prelicensing reporting are complete.
 

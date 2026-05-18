@@ -13,7 +13,7 @@ image: /blog/images/virginia-insurance-continuing-education-made-simple-for-you.
 imageAlt: How to Build a Study Plan for the Virginia Insurance Exam Without a Mandatory Course
 ---
 
-Virginia's no-prelicensing requirement puts every candidate in the same position: you are responsible for your own preparation, and the structure of that preparation is entirely up to you. This is either an advantage or a liability depending on how you approach it. Candidates who build a deliberate, timeline-driven study plan pass at significantly higher rates than those who study randomly or review casually and hope for the best. This post gives you a working study plan framework — covering what to study, in what sequence, how to measure readiness, and how to calibrate your schedule to the Virginia exam's specific structure.
+Virginia's no-[prelicensing](/virginia/prelicensing) requirement puts every candidate in the same position: you are responsible for your own preparation, and the structure of that preparation is entirely up to you. This is either an advantage or a liability depending on how you approach it. Candidates who build a deliberate, timeline-driven study plan pass at significantly higher rates than those who study randomly or review casually and hope for the best. This post gives you a working study plan framework — covering what to study, in what sequence, how to measure readiness, and how to calibrate your schedule to the Virginia exam's specific structure.
 
 ### Understand the Exam Before You Study
 
@@ -31,7 +31,7 @@ Your first action: Download the Prometric content outline for your specific exam
 
 The honest answer depends on your background. Use this as a starting estimate:
 
-These are minimums for candidates who study consistently and actively — not the hours you sit near study materials while distracted. Adjust based on your practice exam scores.
+These are minimums for candidates who study consistently and actively — not the hours you sit near study materials while distracted. Adjust based on your [practice exam](/virginia/practice-exam) scores.
 
 ### A 4-Week Study Framework (Adaptable to Your Timeline)
 

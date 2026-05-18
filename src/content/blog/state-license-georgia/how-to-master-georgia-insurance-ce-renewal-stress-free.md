@@ -22,7 +22,7 @@ Renewing your [Georgia insurance license](/georgia) can feel like a big deal, bu
 
 ## Understand continuing education basics
 
-Continuing education (CE) is designed to keep you current with industry standards and maintain your professional expertise. In Georgia, the Department of Insurance requires producers to complete a set number of CE credit hours before every renewal deadline. These credits typically cover core topics, ethics, and sometimes specialized subjects based on your license type.
+[Continuing education](/georgia/continuing-education) (CE) is designed to keep you current with industry standards and maintain your professional expertise. In Georgia, the Department of Insurance requires producers to complete a set number of CE credit hours before every renewal deadline. These credits typically cover core topics, ethics, and sometimes specialized subjects based on your license type.
 
 For most standard insurance licenses in Georgia, you need 24 total hours of CE every two years. That amount must include at least three hours of ethics. To give you a quick snapshot, here is a simple breakdown of the main requirements:
 

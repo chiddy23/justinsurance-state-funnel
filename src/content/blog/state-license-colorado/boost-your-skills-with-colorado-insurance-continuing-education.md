@@ -17,7 +17,7 @@ imageAlt: A hand using a calculator on a wooden desk surrounded by blue folders.
 imageCredit: Photo by RDNE Stock project on Pexels
 ---
 
-Welcome to this helpful guide on colorado insurance continuing education. Whether you are a first-time license seeker or switching careers, staying current on your educational requirements is a key step in pursuing a successful insurance career. Here, you will learn why continuing education (CE) matters, how to fulfill Colorado’s requirements, and tips for making the most of your CE journey.
+Welcome to this helpful guide on colorado insurance [continuing education](/colorado/continuing-education). Whether you are a first-time license seeker or switching careers, staying current on your educational requirements is a key step in pursuing a successful insurance career. Here, you will learn why continuing education (CE) matters, how to fulfill Colorado’s requirements, and tips for making the most of your CE journey.
 
 ## Understand [Colorado CE requirements](/colorado/continuing-education)
 

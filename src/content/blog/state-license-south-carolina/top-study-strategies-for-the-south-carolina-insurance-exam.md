@@ -51,7 +51,7 @@ Create flashcards for key terms and test yourself
 
 Explain concepts to someone else (or an imaginary student)
 
-Take practice questions before and after reading
+Take [practice questions](/south-carolina/practice-exam) before and after reading
 
 Active recall is harder than reading, but it's dramatically more effective.
 
@@ -157,7 +157,7 @@ South Carolina-specific consumer protections
 
 Coastal and hurricane insurance considerations (for P&C candidates)
 
-Use South Carolina-specific prelicense courses and practice questions to cover this content.
+Use South Carolina-specific [prelicense](/south-carolina/prelicensing) courses and practice questions to cover this content.
 
 ## Strategy 8: Learn to Read Questions Carefully
 

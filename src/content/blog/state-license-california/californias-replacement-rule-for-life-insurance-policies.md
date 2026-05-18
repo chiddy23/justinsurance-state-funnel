@@ -109,6 +109,6 @@ Retain everything indefinitely. Your own records should outlast any retention re
 
 ## Master Replacement Compliance
 
-Replacement rules catch more California agents off guard than almost any other compliance area. At JustInsurance, our California prelicense and CE courses cover replacement in practical detail — so you can serve your clients and protect your license at the same time.
+Replacement rules catch more California agents off guard than almost any other compliance area. At JustInsurance, our California [prelicense](/california/prelicensing) and CE courses cover replacement in practical detail — so you can serve your clients and protect your license at the same time.
 
 Enroll today and master California replacement rules with confidence.

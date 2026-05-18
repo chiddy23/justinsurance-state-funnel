@@ -109,7 +109,7 @@ You can hold a 2-14 or 2-15 without these FINRA registrations, but you're limite
 
 ## 5 Frequently Asked Questions
 
-1. Is the 2-15 harder to get than the 2-14? The prelicense education is longer for the 2-15 because it covers both life and health. The exam is also broader. Neither is dramatically harder than the other — the 2-15 just covers more material.
+1. Is the 2-15 harder to get than the 2-14? The [prelicense](/florida/prelicensing) education is longer for the 2-15 because it covers both life and health. The exam is also broader. Neither is dramatically harder than the other — the 2-15 just covers more material.
 
 2. Can I upgrade from a 2-14 to a 2-15 later? Yes. You can add health authority later by completing the additional prelicense education and passing the health portion of the exam.
 

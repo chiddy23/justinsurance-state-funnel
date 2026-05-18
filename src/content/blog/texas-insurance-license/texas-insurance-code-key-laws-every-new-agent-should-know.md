@@ -28,7 +28,7 @@ The Code covers everything from license requirements and agent duties to policy 
 
 ## Key Sections Every New Agent Should Know
 
-Licensing and Agent Conduct (Chapters 4001-4101). These chapters cover who can be licensed, what lines of authority are available, continuing education, appointment requirements, and the standards of conduct expected from licensed agents. This is the foundation.
+Licensing and Agent Conduct (Chapters 4001-4101). These chapters cover who can be licensed, what lines of authority are available, [continuing education](/texas/continuing-education), appointment requirements, and the standards of conduct expected from licensed agents. This is the foundation.
 
 Unfair Methods of Competition and Unfair Practices (Chapter 541). This is one of the most important sections for any new agent. It prohibits misrepresentation, false advertising, rebating, twisting, churning, and other deceptive practices. Violations here are the most common reason agents face disciplinary action.
 
@@ -56,6 +56,6 @@ TDI also publishes bulletins and guidance that clarify how specific sections are
 
 ## Build a Strong Compliance Foundation
 
-At JustInsurance, our Texas prelicense and CE courses cover the sections of the Insurance Code that matter most to your daily work — explained in plain language, not legal jargon.
+At JustInsurance, our Texas [prelicense](/texas/prelicensing) and CE courses cover the sections of the Insurance Code that matter most to your daily work — explained in plain language, not legal jargon.
 
 Enroll today and start your career with the compliance knowledge to protect it.

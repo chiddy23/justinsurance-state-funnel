@@ -16,7 +16,7 @@ imageAlt: >-
   a bright Georgia office workspace.
 ---
 
-If you line up Georgia’s producer steps in the wrong order—exam before fingerprints, or an application missing the notarized citizenship affidavit—you can burn weeks while appointments sit in limbo. Resident applications now run through Sircon (Vertafore), exams run through Pearson VUE, and prelicensing hour totals changed under a July 2025 rule package. Carriers will not let you sell until Sircon shows an active license number, so treating this like a compliance project—not a weekend cram session—protects your comp cycles. Below is the sequence Georgia’s Office of Commissioner of Insurance and Safety Fire (OCI) expects for a typical life, accident and sickness, or property and casualty resident producer path, with numbers you can verify before you spend money. Keep OCI’s pages and Pearson’s handbook PDF open in two browser tabs while you work; they change when the legislature tweaks Title 33 rules.
+If you line up Georgia’s producer steps in the wrong order—exam before fingerprints, or an application missing the notarized citizenship affidavit—you can burn weeks while appointments sit in limbo. Resident applications now run through Sircon (Vertafore), exams run through Pearson VUE, and [prelicensing](/georgia/prelicensing) hour totals changed under a July 2025 rule package. Carriers will not let you sell until Sircon shows an active license number, so treating this like a compliance project—not a weekend cram session—protects your comp cycles. Below is the sequence Georgia’s Office of Commissioner of Insurance and Safety Fire (OCI) expects for a typical life, accident and sickness, or property and casualty resident producer path, with numbers you can verify before you spend money. Keep OCI’s pages and Pearson’s handbook PDF open in two browser tabs while you work; they change when the legislature tweaks Title 33 rules.
 
 ## Choose the Georgia lines that match what you’ll sell
 
@@ -62,7 +62,7 @@ Pearson VUE lists **800-274-8969** on OCI’s licensing page as the first-line h
 
 ## After issuance: CE still gates renewals
 
-This article stops at issuance, but Georgia renewals still ride on OCI’s continuing education rules, which the same education team updates alongside prelicensing. Once licensed, track OCI’s CE bulletins—OCI’s education page notes CE rule tweaks (for example, caps on self-study vs classroom credits) that differ from prelicensing. Our [Georgia continuing education](https://justinsuranceco.com/georgia/continuing-education) page tracks how producers report credits, while the national [CE hub](https://justinsuranceco.com/continuing-education) explains how reciprocity works when you add nonresident states.
+This article stops at issuance, but Georgia renewals still ride on OCI’s [continuing education](/georgia/continuing-education) rules, which the same education team updates alongside prelicensing. Once licensed, track OCI’s CE bulletins—OCI’s education page notes CE rule tweaks (for example, caps on self-study vs classroom credits) that differ from prelicensing. Our [Georgia continuing education](https://justinsuranceco.com/georgia/continuing-education) page tracks how producers report credits, while the national [CE hub](https://justinsuranceco.com/continuing-education) explains how reciprocity works when you add nonresident states.
 
 ## Build a study plan that survives retakes and background review
 

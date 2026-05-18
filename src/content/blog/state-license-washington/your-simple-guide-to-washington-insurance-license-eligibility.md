@@ -37,7 +37,7 @@ Washington requires candidates to undergo a background check that reviews both f
 
 ### Pre-licensing education
 
-To demonstrate your competence, you will need to complete a minimum number of [Washington prelicensing education](/washington/prelicensing) hours specific to the line of authority you want to sell. Life and disability (health) insurance, for instance, each require a certain number of credits, while property and casualty lines have their own education standards. Pre-licensing courses can be taken in-person or online, depending on your schedule. Look for programs that are approved by the Washington Insurance Commissioner to avoid any confusion about qualifying coursework.
+To demonstrate your competence, you will need to complete a minimum number of [Washington prelicensing education](/washington/prelicensing) hours specific to the line of authority you want to sell. Life and disability (health) insurance, for instance, each require a certain number of credits, while property and casualty lines have their own education standards. [Pre-licensing](/washington/prelicensing) courses can be taken in-person or online, depending on your schedule. Look for programs that are approved by the Washington Insurance Commissioner to avoid any confusion about qualifying coursework.
 
 ## Steps to become licensed
 

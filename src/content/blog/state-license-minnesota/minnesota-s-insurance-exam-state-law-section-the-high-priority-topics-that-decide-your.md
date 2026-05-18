@@ -18,7 +18,7 @@ This post identifies every high-priority topic in Minnesota's state law section 
 
 ### Why the State Law Section Decides Your Score
 
-The state law section is the part of the exam where your prelicensing course content and the PSI exam content align most precisely — but where independent study beyond the course matters most. Your prelicensing course introduces the Minnesota statutory framework. The exam tests whether you have retained the specific provisions, numbers, and procedures that make Minnesota law distinct from the general insurance principles you studied in the course's first half.
+The state law section is the part of the exam where your [prelicensing](/minnesota/prelicensing) course content and the PSI exam content align most precisely — but where independent study beyond the course matters most. Your prelicensing course introduces the Minnesota statutory framework. The exam tests whether you have retained the specific provisions, numbers, and procedures that make Minnesota law distinct from the general insurance principles you studied in the course's first half.
 
 Two candidates can enter the PSI exam with equally strong general content knowledge and produce very different scores based entirely on how well each prepared for the state law section. The candidate who memorized the Minnesota auto insurance minimums, knows the CE requirement's classroom component, understands how Minnesota's no-fault PIP claim process works, and can define the specific unfair trade practices prohibited by §72A.20 picks up 10–15 additional correct answers compared to the candidate who skimmed the state law material and focused their study time on policy types and general definitions.
 
@@ -216,7 +216,7 @@ Build a dedicated state law reference sheet. The facts above are your raw materi
 
 Treat each statute as a separate study unit. Chapter 60K (licensing), §65B.49 (auto), §72A.20 (unfair trade practices), §60C (P&C guaranty), §61B (L&H guaranty) — each statute has its own distinct content that generates its own distinct exam questions. Study them as individual units rather than as a single undifferentiated "state law" category.
 
-Practice with state-specific questions. After completing your general content study, seek out practice questions that specifically test Minnesota law. The general sections of practice exams are valuable, but only state-specific practice questions test whether you can apply Minnesota statutes to fact patterns the way the real exam does.
+Practice with state-specific questions. After completing your general content study, seek out [practice questions](/minnesota/practice-exam) that specifically test Minnesota law. The general sections of practice exams are valuable, but only state-specific practice questions test whether you can apply Minnesota statutes to fact patterns the way the real exam does.
 
 Allocate 35–40% of total study time to state law. This allocation feels disproportionate to candidates who view the state law section as smaller and less important than the general section. It is the correct allocation because state law questions have a higher marginal value — a candidate who knows the general content well is already scoring at the average on those questions. Additional study of the state law section produces above-average performance precisely where below-average performance is most common.
 

@@ -58,7 +58,7 @@ Producers who want to sell partnership-qualified LTC policies in New Jersey must
 
 ### Finding DOBI-Approved LTC Training Courses
 
-LTC training courses must be approved by DOBI to satisfy the requirement. Approved providers list their courses in the DOBI continuing education provider database. When selecting a course, confirm it is specifically designated as satisfying New Jersey's LTC initial 8-hour or ongoing 4-hour requirement — a general LTC overview course that is not DOBI-approved for LTC training purposes does not count.
+LTC training courses must be approved by DOBI to satisfy the requirement. Approved providers list their courses in the DOBI [continuing education](/new-jersey/continuing-education) provider database. When selecting a course, confirm it is specifically designated as satisfying New Jersey's LTC initial 8-hour or ongoing 4-hour requirement — a general LTC overview course that is not DOBI-approved for LTC training purposes does not count.
 
 ### Frequently Asked Questions
 

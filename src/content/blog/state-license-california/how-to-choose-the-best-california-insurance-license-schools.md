@@ -20,7 +20,7 @@ imageCredit: Photo by Anastasia  Shuraeva on Pexels
 
 ## Understand the licensing requirements
 
-Choosing the best [California insurance license schools](/california/prelicensing) starts with knowing the prerequisites for your insurance license. In California, you generally need to be at least 18 years old and clear any required background checks before you can earn a license. Since the state wants to ensure you fully grasp insurance processes and regulations, you must take a pre-licensing education course approved by the [California Department of Insurance](/california/requirements) (CDI). This course covers essential topics like insurance ethics, state regulations, and consumer protection.
+Choosing the best [California insurance license schools](/california/prelicensing) starts with knowing the prerequisites for your insurance license. In California, you generally need to be at least 18 years old and clear any required background checks before you can earn a license. Since the state wants to ensure you fully grasp insurance processes and regulations, you must take a [pre-licensing](/california/prelicensing) education course approved by the [California Department of Insurance](/california/requirements) (CDI). This course covers essential topics like insurance ethics, state regulations, and consumer protection.
 
 Under California's AB 943 (effective January 1, 2026), the only mandatory prelicensing course is the 12-hour Code and Ethics course — the line-specific product hour requirement was eliminated. Most candidates still choose to add structured exam prep on top of the required Ethics course to pass the state licensing exam with confidence. Once you complete the Ethics course, you’ll receive a certificate that allows you to sit for the official licensing exam.
 
@@ -78,7 +78,7 @@ In addition to the state-mandated steps, remember that consistent study habits g
 
 ## Choose your ideal California insurance license school
 
-With many schools competing for your attention, narrow them down by evaluating teaching quality, track record, and student success rates. A strong pass rate on the state exam often indicates a program does more than just skim the surface of insurance topics. Beyond that number, also consider whether the school updates its curriculum when regulations change, since out-of-date information can set you back.
+With many schools competing for your attention, narrow them down by evaluating teaching quality, track record, and student success rates. A strong [pass rate](/pass-rates) on the state exam often indicates a program does more than just skim the surface of insurance topics. Beyond that number, also consider whether the school updates its curriculum when regulations change, since out-of-date information can set you back.
 
 It’s sometimes worth paying a slight premium for a school that offers robust exam prep, advanced study tools, and attentive customer support. That extra layer of guidance can translate into fewer retakes and less anxiety. If you’re seeking a reliable resource to guide you through licensing options, JustInsurance also provides insights that keep you on track from enrollment to exam day.
 

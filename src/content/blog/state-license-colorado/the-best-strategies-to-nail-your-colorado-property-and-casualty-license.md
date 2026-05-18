@@ -67,7 +67,7 @@ Challenging yourself with a variety of these questions is one of the best ways t
 Below are common questions about the Colorado property and casualty license process. Use them as a quick reference guide as you move forward.
 
 1.  What are the eligibility requirements?  
-    You generally need to meet the minimum age requirement (usually 18) and complete an approved pre-licensing course. You must also pass a fingerprint-based background check, which helps ensure the integrity of licensed agents in Colorado.
+    You generally need to meet the minimum age requirement (usually 18) and complete an approved [pre-licensing](/colorado/prelicensing) course. You must also pass a fingerprint-based background check, which helps ensure the integrity of licensed agents in Colorado.
 2.  How long does the pre-licensing course take?  
     The length can vary, but for property and casualty lines, you’ll usually complete around 40 hours of coursework. Some people spread it over several weeks, while others use an accelerated format to finish more quickly.
 3.  Can I retake the exam if I fail?  

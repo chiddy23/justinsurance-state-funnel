@@ -128,7 +128,7 @@ Submitting a reinstatement application through NIPR or Sircon
 
 Paying the reinstatement penalty — double the unpaid renewal fee, approximately $160 in base penalty plus applicable technology and transaction fees
 
-No new prelicensing, no new PSI exam, and no new fingerprinting are required within the 12-month reinstatement window. The reinstatement restores the original license — all lines of authority are reinstated.
+No new [prelicensing](/minnesota/prelicensing), no new PSI exam, and no new fingerprinting are required within the 12-month reinstatement window. The reinstatement restores the original license — all lines of authority are reinstated.
 
 After 12 months — full relicensing: If the 12-month reinstatement window closes without reinstatement, the producer must apply for a new license as a first-time applicant — completing prelicensing education, passing the PSI state exam, completing fingerprinting, and paying the full initial application fee. All CE credits from before the lapse are forfeited and the CE cycle resets. This is the most consequential outcome of a missed renewal and one that is entirely preventable.
 

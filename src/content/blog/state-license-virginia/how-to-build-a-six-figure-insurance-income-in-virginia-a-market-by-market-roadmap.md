@@ -24,7 +24,7 @@ Richmond's institutional insurance culture: Richmond's concentration of insuranc
 
 Hampton Roads' scale and military market: 852,000 workers, 80,000+ active-duty military personnel, and billions in annual defense spending create high-volume personal lines and commercial specialty opportunities that scale readily.
 
-Virginia's no-prelicensing rule: Virginia's process advantage — the ability to get licensed and start selling faster than in most states — means the income clock starts earlier. For commission-based producers, every week of selling earlier in their career compounds meaningfully over a multi-year income horizon.
+Virginia's no-[prelicensing](/virginia/prelicensing) rule: Virginia's process advantage — the ability to get licensed and start selling faster than in most states — means the income clock starts earlier. For commission-based producers, every week of selling earlier in their career compounds meaningfully over a multi-year income horizon.
 
 ### The Income Architecture: How Virginia Producer Income Compounds
 

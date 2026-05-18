@@ -30,7 +30,7 @@ Take a moment to reflect on the fields that interest you most. If you enjoy disc
 
 Before you start studying, it’s crucial to make sure you meet Texas’s eligibility criteria. The [Texas Department of Insurance](/texas/requirements) (TDI) requires applicants to be at least 18 years old. You’ll need a valid government-issued ID. Additionally, expect to provide fingerprints as part of a routine background check.
 
-If you have any concerns about prior criminal history, it’s wise to contact TDI for clarification. A past offense won’t always disqualify your application, but you want everything squared away before investing time in pre-licensing classes or exam fees. By confirming eligibility early, you can plan your path with confidence.
+If you have any concerns about prior criminal history, it’s wise to contact TDI for clarification. A past offense won’t always disqualify your application, but you want everything squared away before investing time in [pre-licensing](/texas/prelicensing) classes or exam fees. By confirming eligibility early, you can plan your path with confidence.
 
 ## Complete pre-licensing education
 

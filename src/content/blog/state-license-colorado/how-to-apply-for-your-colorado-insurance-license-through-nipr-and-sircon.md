@@ -30,7 +30,7 @@ Required for all applications:
 
 Your Social Security Number (SSN) or National Producer Number (NPN), if already assigned
 
-Your government-issued ID information (matching the name used for your prelicensing and exam registrations)
+Your government-issued ID information (matching the name used for your [prelicensing](/colorado/prelicensing) and exam registrations)
 
 Your Pearson VUE exam score report (showing passing score and exam date)
 

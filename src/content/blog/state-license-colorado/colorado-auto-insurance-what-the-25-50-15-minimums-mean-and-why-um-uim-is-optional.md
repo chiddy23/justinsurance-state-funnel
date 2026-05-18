@@ -154,4 +154,4 @@ When a Colorado client declines UM/UIM coverage, best practice is to document th
 
 Colorado's 25/50/15 minimums establish the legal floor for auto insurance in the state. For most Colorado drivers — particularly those with assets to protect, health plans with high deductibles, or regular exposure to Colorado's Front Range traffic — that floor is meaningfully below the coverage that provides genuine financial protection. Understanding exactly what the minimums cover, what they leave out, and how UM/UIM fills the gap between minimum liability and real-world accident costs is the foundation of every productive Colorado auto insurance coverage conversation.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course that covers every auto insurance provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course that covers every auto insurance provision tested on the Pearson VUE exam.

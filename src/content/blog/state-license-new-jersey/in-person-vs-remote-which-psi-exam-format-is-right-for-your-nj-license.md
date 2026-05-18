@@ -21,7 +21,7 @@ PSI operates multiple test center locations throughout New Jersey. Once you regi
 
 On exam day at a test center:
 
-Arrive 30 minutes before your scheduled start. Bring two forms of identification — one government-issued photo ID plus a secondary ID — and your original prelicensing course certificate of completion (or your failing score report if this is a retake). You will sign in, present your IDs to staff, and be escorted to the exam room.
+Arrive 30 minutes before your scheduled start. Bring two forms of identification — one government-issued photo ID plus a secondary ID — and your original [prelicensing](/new-jersey/prelicensing) course certificate of completion (or your failing score report if this is a retake). You will sign in, present your IDs to staff, and be escorted to the exam room.
 
 All personal items must be stored outside the exam room. PSI provides accordion-type folders in the lobby — they are not responsible for their security. You cannot wear a wristwatch, bring a phone, bring notes, bring food or drinks, or take any reference materials into the exam area. You will be asked to empty your pockets.
 

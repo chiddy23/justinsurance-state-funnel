@@ -16,7 +16,7 @@ imageAlt: >-
   illinois doi-approved ce providers.
 ---
 
-Completing 24 hours of continuing education doesn't matter if those hours aren't from an IDOI-approved provider. In Illinois, only courses offered by approved providers count toward your CE requirement — and knowing how to verify approval protects you from wasting time and money on courses that won't credit toward renewal.
+Completing 24 hours of [continuing education](/illinois/continuing-education) doesn't matter if those hours aren't from an IDOI-approved provider. In Illinois, only courses offered by approved providers count toward your CE requirement — and knowing how to verify approval protects you from wasting time and money on courses that won't credit toward renewal.
 
 Here's exactly how to find IDOI-approved CE providers in Illinois.
 

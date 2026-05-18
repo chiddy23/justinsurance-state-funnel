@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements for resident producers.
 ---
 
-Keeping your Alabama insurance license active requires more than paying a renewal fee every 2 years. You need to complete continuing education (CE) on schedule, using approved courses, and have it reported correctly. Miss the mark, and your license can lapse — costing you time, money, and lost business.
+Keeping your Alabama insurance license active requires more than paying a renewal fee every 2 years. You need to complete [continuing education](/alabama/continuing-education) (CE) on schedule, using approved courses, and have it reported correctly. Miss the mark, and your license can lapse — costing you time, money, and lost business.
 
 Here's a clear breakdown of Alabama's insurance CE requirements.
 

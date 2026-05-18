@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by MART  PRODUCTION on Pexels
 ---
 
-If you’re a Texas insurance agent, fulfilling your [Texas insurance license](/texas) CE requirements is a crucial step toward staying compliant and growing your career. Continuing education not only ensures you keep your license active but also helps you refine your expertise, build stronger client relationships, and stand out in a competitive field. Even if balancing deadlines and coursework feels overwhelming at first, you can streamline the process by leveraging flexible and user-friendly study solutions.
+If you’re a Texas insurance agent, fulfilling your [Texas insurance license](/texas) CE requirements is a crucial step toward staying compliant and growing your career. [Continuing education](/texas/continuing-education) not only ensures you keep your license active but also helps you refine your expertise, build stronger client relationships, and stand out in a competitive field. Even if balancing deadlines and coursework feels overwhelming at first, you can streamline the process by leveraging flexible and user-friendly study solutions.
 
 Many agents are now opting for online learning. It’s convenient, cost-effective, and puts you in control of your schedule. From exploring different course formats to incorporating study into your daily routine, you have plenty of options to help you check off your CE credits without interrupting your busy life.
 

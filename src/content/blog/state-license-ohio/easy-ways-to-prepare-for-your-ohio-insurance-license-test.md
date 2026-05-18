@@ -36,7 +36,7 @@ Ohio requires you to complete a set number of [Ohio prelicensing](/ohio/prelicen
 -   Property insurance
 -   Casualty insurance
 
-Your pre-licensing education will likely focus on state laws, product knowledge, and ethical standards. While the courses can feel dense at times, they provide an important foundation for your career. Make the most of these learning materials by taking notes, working through practice quizzes, and asking questions whenever you feel stuck.
+Your [pre-licensing](/ohio/prelicensing) education will likely focus on state laws, product knowledge, and ethical standards. While the courses can feel dense at times, they provide an important foundation for your career. Make the most of these learning materials by taking notes, working through practice quizzes, and asking questions whenever you feel stuck.
 
 ## Create your study plan
 

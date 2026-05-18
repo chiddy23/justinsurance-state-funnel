@@ -35,7 +35,7 @@ Once you know the basics, establish a clear study timetable. A solid plan ensure
 
 You might prefer early mornings for study if that’s when your brain feels sharpest. Or you might find yourself more focused late at night. Whichever works for you, block out several sessions each week. Treat these sessions like unbreakable appointments, so you’re less tempted to skip them.
 
-Most people benefit from reviewing pre-licensing course materials, flashcards, and practice questions together in a single session. Start by reading the relevant chapters or modules, then do related practice questions immediately afterward. This helps you see how well you grasp each concept before moving on. Don’t be shy about returning to older modules if you notice a topic isn’t sticking; repetition is the key to mastery.
+Most people benefit from reviewing [pre-licensing](/tennessee/prelicensing) course materials, flashcards, and [practice questions](/tennessee/practice-exam) together in a single session. Start by reading the relevant chapters or modules, then do related practice questions immediately afterward. This helps you see how well you grasp each concept before moving on. Don’t be shy about returning to older modules if you notice a topic isn’t sticking; repetition is the key to mastery.
 
 ## Drill down on key topics
 

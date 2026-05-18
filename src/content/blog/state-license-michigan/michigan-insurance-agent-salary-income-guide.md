@@ -170,6 +170,6 @@ Military specialty. Fort Custer Training Center and other Michigan military faci
 
 ## Start Your Michigan Insurance Income Right
 
-Michigan offers strong earning potential with favorable tax treatment and genuine market complexity that rewards expertise. At JustInsurance, our Michigan prelicense and CE courses prepare you for the licensing exam and for building income in this distinctive market.
+Michigan offers strong earning potential with favorable tax treatment and genuine market complexity that rewards expertise. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) and CE courses prepare you for the licensing exam and for building income in this distinctive market.
 
 Enroll today and start building your Michigan insurance income.

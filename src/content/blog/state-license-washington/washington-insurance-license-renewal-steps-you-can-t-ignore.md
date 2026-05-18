@@ -21,7 +21,7 @@ imageCredit: Photo by Pavel Danilyuk on Pexels
 
 [Washington insurance license](/washington) renewal might sound straightforward, but if you miss a date or skip a key step, the consequences can be costly. The [Washington Office of the Insurance Commissioner](/washington/requirements) (OIC) typically requires renewals every two years, though your exact timeline depends on when you first got your license. The best approach is to mark your calendar and review the renewal process well in advance so you can avoid last-minute headaches.
 
-You want to keep your license active without interruption or penalties. That means having a clear picture of your renewal window, the fees you owe, and the continuing education (CE) hours you must complete. A short refresher course in the regulatory basics can do wonders for your confidence and ensure you’re always in compliance.
+You want to keep your license active without interruption or penalties. That means having a clear picture of your renewal window, the fees you owe, and the [continuing education](/washington/continuing-education) (CE) hours you must complete. A short refresher course in the regulatory basics can do wonders for your confidence and ensure you’re always in compliance.
 
 If any part of the process feels overwhelming, remember that it’s normal to have a few questions the first time around. Once you walk through the steps and set reminders for next time, you’ll move through renewals with speed and ease.
 

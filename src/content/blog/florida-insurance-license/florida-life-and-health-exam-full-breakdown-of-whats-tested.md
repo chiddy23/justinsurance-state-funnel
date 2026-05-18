@@ -102,6 +102,6 @@ No life or annuity content appears on the 2-40 exam.
 
 ## Walk Into Your Exam Fully Prepared
 
-Knowing what's on the exam is half the battle. At JustInsurance, our Florida prelicense course is built around the actual exam content outline — so every hour you spend studying is targeting exactly what's tested.
+Knowing what's on the exam is half the battle. At JustInsurance, our Florida [prelicense](/florida/prelicensing) course is built around the actual exam content outline — so every hour you spend studying is targeting exactly what's tested.
 
 Enroll today and walk into your Florida exam ready to pass.

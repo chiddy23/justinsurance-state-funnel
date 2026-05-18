@@ -32,7 +32,7 @@ Make sure you’re honest and thorough when providing information. Even seemingl
 
 A common mistake is ignoring the requirement for [Illinois insurance prelicensing](/illinois/prelicensing) education. Illinois mandates specific coursework depending on the type of insurance license you plan to pursue, such as life, health, property, or casualty. Many people assume they can simply study on their own, only to find themselves ineligible to sit for the exam.
 
-Before signing up for classes, ensure the course provider is state-approved. You may find in-person sessions or online modules, each offering quizzes and final assessments to prepare you for the state exam. Pre-licensing coursework can span from a few days to several weeks, so plan your schedule carefully. Although you might be tempted to rush through the material, remember that a strong foundation in the topics will boost your confidence on exam day.
+Before signing up for classes, ensure the course provider is state-approved. You may find in-person sessions or online modules, each offering quizzes and final assessments to prepare you for the state exam. [Pre-licensing](/illinois/prelicensing) coursework can span from a few days to several weeks, so plan your schedule carefully. Although you might be tempted to rush through the material, remember that a strong foundation in the topics will boost your confidence on exam day.
 
 ## Register properly for the state exam
 
@@ -56,7 +56,7 @@ Keep track of the fees involved in this final stage. Application fees can vary b
 
 Getting your insurance license is a significant accomplishment, but the journey doesn’t end there. Illinois requires ongoing [Illinois continuing education](/illinois/continuing-education) (CE) to keep your knowledge up to date. Many new licensees overlook this requirement until they receive a notice their license is about to expire. Scrambling to complete CE hours at the last minute can limit your course options and become unnecessarily stressful.
 
-Plan ahead by mapping out your continuing education schedule as soon as you’re licensed. Keep in mind that the state sets renewal cycles, so mark your calendar accordingly. Taking a proactive approach to CE not only ensures you meet regulatory requirements but also helps you stay current on industry trends and best practices. If you need guidance on choosing CE courses, check with your course provider or the local professional associations that offer relevant training modules.
+Plan ahead by mapping out your [continuing education](/illinois/continuing-education) schedule as soon as you’re licensed. Keep in mind that the state sets renewal cycles, so mark your calendar accordingly. Taking a proactive approach to CE not only ensures you meet regulatory requirements but also helps you stay current on industry trends and best practices. If you need guidance on choosing CE courses, check with your course provider or the local professional associations that offer relevant training modules.
 
 ## Stay on track with JustInsurance
 

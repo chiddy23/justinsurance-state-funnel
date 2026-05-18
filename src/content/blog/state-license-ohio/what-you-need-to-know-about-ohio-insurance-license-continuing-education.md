@@ -18,13 +18,13 @@ imageAlt: >-
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-When you begin exploring the [ohio insurance license](/ohio) continuing education requirements, it’s natural to have a few questions. How many hours do you need? What topics must you cover? Where can you study? This guide walks you through the most important points, from initial licensing to maintaining that license in Ohio. By the end, you’ll know exactly what to expect and how to keep your credentials up to date.
+When you begin exploring the [ohio insurance license](/ohio) [continuing education](/ohio/continuing-education) requirements, it’s natural to have a few questions. How many hours do you need? What topics must you cover? Where can you study? This guide walks you through the most important points, from initial licensing to maintaining that license in Ohio. By the end, you’ll know exactly what to expect and how to keep your credentials up to date.
 
 However, before you dive into continuing education details, you might be wondering about the steps to become licensed in the first place. Whether you’re just starting your insurance career or looking to expand in a new field, understanding how to get your Ohio insurance license is essential. Below, you’ll find information on exams, prerequisites, costs, and realistic timelines—plus why continuing education remains a vital piece of the puzzle.
 
 ## Understand the licensing basics
 
-Insurance agents in Ohio are regulated by the [Ohio Department of Insurance](/ohio/requirements). To sell or consult on insurance products, you must hold a valid license in the specific line of authority—such as life and health, property and casualty, or others you plan to handle. Each line of authority will have its own pre-licensing education requirements, mandated exams, and renewal cycles.
+Insurance agents in Ohio are regulated by the [Ohio Department of Insurance](/ohio/requirements). To sell or consult on insurance products, you must hold a valid license in the specific line of authority—such as life and health, property and casualty, or others you plan to handle. Each line of authority will have its own [pre-licensing](/ohio/prelicensing) education requirements, mandated exams, and renewal cycles.
 
 Licensing requirements can vary based on what you plan to do in the insurance sector. If you’re focusing on life and health, you’ll have one set of topics to master. If you plan to offer auto and home insurance, you’ll need property and casualty courses. In every case, the core process involves pre-licensing education, an exam, and an application to the Ohio Department of Insurance.
 
@@ -40,7 +40,7 @@ If you’re working full time, consider carving out dedicated study blocks each 
 
 With your pre-licensing certificate in hand, it’s time to focus on the exam. This test checks your knowledge of fundamental insurance concepts, Ohio-specific rules, and professional standards. Think of it as your final checkpoint toward becoming a licensed agent.
 
-Studying for the exam might feel overwhelming at first. Break it into smaller topics—policy types, state regulations, ethical guidelines—and tackle them one at a time. You can use practice questions to measure your progress. If test anxiety creeps in, remind yourself that you’ve already done the heavy lifting by completing the pre-licensing coursework. Consistent, organized review will build the confidence you need.
+Studying for the exam might feel overwhelming at first. Break it into smaller topics—policy types, state regulations, ethical guidelines—and tackle them one at a time. You can use [practice questions](/ohio/practice-exam) to measure your progress. If test anxiety creeps in, remind yourself that you’ve already done the heavy lifting by completing the pre-licensing coursework. Consistent, organized review will build the confidence you need.
 
 ### Study tips for success
 

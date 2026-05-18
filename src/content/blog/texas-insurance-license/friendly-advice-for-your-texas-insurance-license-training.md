@@ -18,7 +18,7 @@ imageCredit: Photo by Anna Shvets on Pexels
 
 ## Understand licensure basics
 
-Embarking on your [Texas insurance license](/texas) training may feel overwhelming at first, but understanding the process helps you begin with confidence. One of the first things you need to know is that the Texas Department of Insurance (TDI) requires pre-licensing coursework before you can register for your state exam. This [Texas prelicensing coursework](/texas/prelicensing) is designed to provide a solid foundation, covering important insurance terms, regulations, and ethics. You will also learn about different lines of authority, such as life insurance or property and casualty, so you can decide which area suits you best.
+Embarking on your [Texas insurance license](/texas) training may feel overwhelming at first, but understanding the process helps you begin with confidence. One of the first things you need to know is that the Texas Department of Insurance (TDI) requires [pre-licensing](/texas/prelicensing) coursework before you can register for your state exam. This [Texas prelicensing coursework](/texas/prelicensing) is designed to provide a solid foundation, covering important insurance terms, regulations, and ethics. You will also learn about different lines of authority, such as life insurance or property and casualty, so you can decide which area suits you best.
 
 The pre-licensing phase isn’t just about cramming information. It’s about gaining practical knowledge that directly applies to your career in insurance. By having a clear sense of the rules and responsibilities, you’ll feel less stress when exam day arrives. Most importantly, you’ll be much better prepared to handle real-world insurance scenarios once you’re fully licensed.
 

@@ -212,7 +212,7 @@ Disclosure requirements under Oregon's wildfire-related disclosure rules.
 
 Documentation of recommendations, especially for difficult risks.
 
-Continuing education including the 3-hour Oregon law CE that may cover relevant regulatory developments.
+[Continuing education](/oregon/continuing-education) including the 3-hour Oregon law CE that may cover relevant regulatory developments.
 
 Carrier-specific requirements for specialty carriers' programs.
 

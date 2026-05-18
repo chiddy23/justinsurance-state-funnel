@@ -12,7 +12,7 @@ image: /blog/images/find-the-best-tennessee-insurance-pre-licensing-courses-toda
 imageAlt: "Tennessee Life Insurance Exam: Full Content Breakdown and Strategy Guide"
 ---
 
-The Tennessee Life insurance licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and must be passed at 70% to earn Life line of authority from the Tennessee Department of Commerce and Insurance. No mandatory prelicensing course is required before sitting for the exam. That combination — a substantive exam with no required preparation structure — means the candidates who pass on the first attempt are those who understand exactly what the exam tests and have prepared for both the general life insurance content and the Tennessee state law section with equal discipline. This post provides the complete content breakdown for the Tennessee Life exam: every topic area, what each tests at the level of specificity the exam requires, how question weight is distributed, and the strategic approach that produces first-time passing scores.
+The Tennessee Life insurance licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and must be passed at 70% to earn Life line of authority from the Tennessee Department of Commerce and Insurance. No mandatory [prelicensing](/tennessee/prelicensing) course is required before sitting for the exam. That combination — a substantive exam with no required preparation structure — means the candidates who pass on the first attempt are those who understand exactly what the exam tests and have prepared for both the general life insurance content and the Tennessee state law section with equal discipline. This post provides the complete content breakdown for the Tennessee Life exam: every topic area, what each tests at the level of specificity the exam requires, how question weight is distributed, and the strategic approach that produces first-time passing scores.
 
 ### The Two-Section Structure of the Tennessee Life Exam
 
@@ -348,7 +348,7 @@ Daily flashcard drill: 10–15 minutes per day reviewing all state law flashcard
 
 #### Practice Exam Discipline
 
-Take your first full-length practice exam after completing initial content coverage — not before, and not after partial coverage. Use the results to identify your three weakest topic areas and allocate your final study period to those areas. In the final three to five days before your exam, take one timed practice exam per day and review every missed question before stopping for the evening.
+Take your first full-length [practice exam](/tennessee/practice-exam) after completing initial content coverage — not before, and not after partial coverage. Use the results to identify your three weakest topic areas and allocate your final study period to those areas. In the final three to five days before your exam, take one timed practice exam per day and review every missed question before stopping for the evening.
 
 The readiness threshold: Three consecutive practice exams at 80% or above. At that level of practice performance, the 70% pass threshold on the actual exam is reachable even accounting for test-day performance variation.
 

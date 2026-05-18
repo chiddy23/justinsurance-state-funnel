@@ -106,7 +106,7 @@ Arrive at least 30 minutes early at your PSI testing center.
 
 Bring two forms of valid ID, one government-issued with photo. Names must match your registration exactly.
 
-Bring your Certificate of Completion from your Oregon-approved prelicense course.
+Bring your Certificate of Completion from your Oregon-approved [prelicense](/oregon/prelicensing) course.
 
 No phones, notes, books, or study materials in the testing room.
 

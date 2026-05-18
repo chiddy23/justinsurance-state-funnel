@@ -19,7 +19,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-If you dream of helping others secure their financial future, becoming a licensed life insurance agent in New Jersey is a significant first step. Getting your [New Jersey life insurance license](/new-jersey) might feel overwhelming at first, but with a solid study plan and a focused strategy, you can pass the exam and start your new career with confidence. Below, you will find a clear, step-by-step guide that explains exactly what you need to know, from pre-licensing coursework to exam-day preparation.
+If you dream of helping others secure their financial future, becoming a licensed life insurance agent in New Jersey is a significant first step. Getting your [New Jersey life insurance license](/new-jersey) might feel overwhelming at first, but with a solid study plan and a focused strategy, you can pass the exam and start your new career with confidence. Below, you will find a clear, step-by-step guide that explains exactly what you need to know, from [pre-licensing](/new-jersey/prelicensing) coursework to exam-day preparation.
 
 ## Check your eligibility requirements
 
@@ -76,6 +76,6 @@ The moment you pass your New Jersey life insurance license exam is worth celebra
 
 Once you are officially licensed, it is time to connect with agencies or companies looking for life insurance agents. Many new agents also benefit from additional mentorship or joining professional organizations to build their networks. You might find that the journey has just begun—each policy you write can make a real difference in someone else’s life.
 
-If you are feeling unsure about your career path, remember that you are not alone. JustInsurance has plenty of resources to walk you through the ins and outs of becoming a successful insurance agent. Do not hesitate to seek guidance on advanced training, client management, and continuing education requirements.
+If you are feeling unsure about your career path, remember that you are not alone. JustInsurance has plenty of resources to walk you through the ins and outs of becoming a successful insurance agent. Do not hesitate to seek guidance on advanced training, client management, and [continuing education](/new-jersey/continuing-education) requirements.
 
 Finally, keep your eyes on your long-term goals. As a licensed life insurance agent, you have the power to help families protect their financial futures. The work you do and the expertise you share can bring real peace of mind to the people you serve. If you are ready to take the next step, gather your documents, check off your remaining to-dos, and schedule your exam. Soon enough, you will be opening the door to a fulfilling new career path. Good luck—and remember to reach out for help whenever you need it.

@@ -13,7 +13,7 @@ image: /blog/images/california-ab-943-explained-2026-prelicensing-changes.jpg
 imageAlt: California insurance professional reviewing licensing materials
 ---
 
-Every licensed California insurance producer has to complete ethics continuing education — it's mandatory, it can't be substituted, and it's part of every 2-year renewal cycle. CDI treats ethics as a core part of staying licensed because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
+Every licensed California insurance producer has to complete ethics [continuing education](/california/continuing-education) — it's mandatory, it can't be substituted, and it's part of every 2-year renewal cycle. CDI treats ethics as a core part of staying licensed because insurance is built on trust, and ethics education is how the industry reinforces the standards that keep that trust intact.
 
 Here's why California ethics CE is required and what the topics actually cover.
 

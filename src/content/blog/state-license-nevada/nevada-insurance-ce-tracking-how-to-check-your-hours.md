@@ -38,7 +38,7 @@ Catching problems early is much easier than fixing them at renewal. Quick action
 
 Nevada CE is tracked through Sircon (sircon.com/nevada), which integrates with the Nevada Division of Insurance.
 
-Sircon Continuing Education Transcript Inquiry. Through Sircon, you can:
+Sircon [Continuing Education](/nevada/continuing-education) Transcript Inquiry. Through Sircon, you can:
 
 Access the Lookup Education Courses or Transcript service
 

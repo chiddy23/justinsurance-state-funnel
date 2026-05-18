@@ -17,7 +17,7 @@ imageAlt: >-
   arizona insurance producer license.
 ---
 
-Getting your Arizona insurance producer license opens doors to one of the fastest-growing insurance markets in the country. Phoenix's substantial financial services, healthcare, and technology sectors, Tucson's growing professional markets, Arizona's distinctive retiree and snowbird population creating significant senior insurance demand, and one of the largest net population in-migration rates in the nation all create real opportunity for licensed agents. Arizona's licensing process has several features worth understanding upfront — no prelicense education requirement, a two-section exam where each section must independently hit 70%, a four-attempt annual exam limit, and a multi-step fingerprinting process through Fieldprint.
+Getting your Arizona insurance producer license opens doors to one of the fastest-growing insurance markets in the country. Phoenix's substantial financial services, healthcare, and technology sectors, Tucson's growing professional markets, Arizona's distinctive retiree and snowbird population creating significant senior insurance demand, and one of the largest net population in-migration rates in the nation all create real opportunity for licensed agents. Arizona's licensing process has several features worth understanding upfront — no [prelicense](/arizona/prelicensing) education requirement, a two-section exam where each section must independently hit 70%, a four-attempt annual exam limit, and a multi-step fingerprinting process through Fieldprint.
 
 Here's exactly how to get your Arizona insurance producer license.
 
@@ -51,7 +51,7 @@ The Arizona-specific section covers A.R.S. Title 20 provisions that need focused
 
 Arizona limits candidates to four exam attempts per line per year — failing four times means waiting a full year from the last attempt
 
-Quality prelicense prep courses substantially improve first-attempt pass rates
+Quality prelicense prep courses substantially improve first-attempt [pass rates](/pass-rates)
 
 Most successful Arizona candidates complete a prep course even though it's not legally required.
 

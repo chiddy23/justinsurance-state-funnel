@@ -19,7 +19,7 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 ## Get familiar with [Texas insurance continuing education](/texas/continuing-education) basics
 
-[Texas insurance](/texas) continuing education is essential if you hold a resident insurance license in the state. By completing regular coursework, you stay informed about industry changes, new regulations, and the latest in risk management strategies. This not only helps you better serve policyholders, but also ensures you maintain your license in good standing.
+[Texas insurance](/texas) [continuing education](/texas/continuing-education) is essential if you hold a resident insurance license in the state. By completing regular coursework, you stay informed about industry changes, new regulations, and the latest in risk management strategies. This not only helps you better serve policyholders, but also ensures you maintain your license in good standing.
 
 Staying current with state mandates protects both your business and your career. In most cases, you need to complete at least 24 credit hours of CE every two years, with 2 of those credits focused on ethics. The [Texas Department of Insurance](/texas/requirements) (TDI) regularly updates course guidelines, so always confirm the latest rules as you plan your studies.
 

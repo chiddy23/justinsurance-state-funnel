@@ -142,7 +142,7 @@ Compensation expectations. Insurance industry compensation in Hartford runs high
 
 Pick your market carefully. Don't try to be everywhere. Pick a specific Hartford submarket or niche and become the known expert.
 
-Develop genuine expertise. Hartford rewards expertise. Continuing education beyond CE minimums, industry designations, and deep product knowledge all matter substantially.
+Develop genuine expertise. Hartford rewards expertise. [Continuing education](/connecticut/continuing-education) beyond CE minimums, industry designations, and deep product knowledge all matter substantially.
 
 Build community relationships. Hartford values authentic engagement with community. Invest time in community organizations, professional associations, religious institutions, and networking.
 
@@ -212,6 +212,6 @@ The right choice depends on your goals, capital, network, and risk tolerance.
 
 ## Build Your Career in the Insurance Capital
 
-Hartford offers real opportunity for agents willing to specialize and work consistently in one of the most sophisticated insurance markets in the country. At JustInsurance, our Connecticut prelicense course prepares you for the licensing exam and for building a career in this distinctive market.
+Hartford offers real opportunity for agents willing to specialize and work consistently in one of the most sophisticated insurance markets in the country. At JustInsurance, our Connecticut [prelicense](/connecticut/prelicensing) course prepares you for the licensing exam and for building a career in this distinctive market.
 
 Enroll today and start your Hartford insurance career.

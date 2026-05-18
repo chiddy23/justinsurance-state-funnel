@@ -162,6 +162,6 @@ Compliance mistakes at the agency level can affect every producer in the agency.
 
 ## Build the Agency You Envision
 
-Starting an independent agency in Florida is one of the most rewarding career moves you can make — when it's built on real preparation. At JustInsurance, our Florida prelicense and CE courses give you the foundation to develop into the kind of professional who can successfully run their own agency.
+Starting an independent agency in Florida is one of the most rewarding career moves you can make — when it's built on real preparation. At JustInsurance, our Florida [prelicense](/florida/prelicensing) and CE courses give you the foundation to develop into the kind of professional who can successfully run their own agency.
 
 Enroll today and start building toward agency ownership the right way.

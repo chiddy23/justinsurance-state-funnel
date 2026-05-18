@@ -140,4 +140,4 @@ Five years of automatic renewals typically means five years of unexamined opport
 
 Colorado's workers' compensation market is in a genuinely unusual position: 12 consecutive years of declining loss costs, strong carrier profitability, and an employer base that has benefited so consistently that many have stopped paying attention. Producers who pay attention — who analyze classifications, manage e-mods, help employers build return-to-work programs, and shop the market actively — find that the employers who have benefited most from automatic rate declines have the most unrealized opportunity waiting for a producer who cares enough to look for it.
 
-Visit JustInsurance to enroll today and complete your Colorado prelicensing with a state-approved course covering every workers' compensation provision tested on the Pearson VUE exam.
+Visit JustInsurance to enroll today and complete your Colorado [prelicensing](/colorado/prelicensing) with a state-approved course covering every workers' compensation provision tested on the Pearson VUE exam.

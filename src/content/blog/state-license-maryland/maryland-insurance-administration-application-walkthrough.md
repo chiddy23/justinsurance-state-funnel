@@ -16,7 +16,7 @@ imageAlt: >-
   insurance administration application walkthrough.
 ---
 
-Maryland's license application process is among the most streamlined of all comparison states — no PLE requirement, no fingerprinting vendor, a modest $54 application fee, and 7-10 business day processing. The primary variables are the 6-month exam score validity window (pass and apply promptly) and the exam-day preparation investment (since no mandated prelicensing course exists). Here's a precise walkthrough.
+Maryland's license application process is among the most streamlined of all comparison states — no PLE requirement, no fingerprinting vendor, a modest $54 application fee, and 7-10 business day processing. The primary variables are the 6-month exam score validity window (pass and apply promptly) and the exam-day preparation investment (since no mandated [prelicensing](/maryland/prelicensing) course exists). Here's a precise walkthrough.
 
 ## The MD Licensing Sequence
 

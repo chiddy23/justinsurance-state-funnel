@@ -25,7 +25,7 @@ Here's what you need to know about free practice tests for the Alabama insurance
 
 Reading study materials builds recognition. Practice tests build application ability — which is what the Alabama exam actually measures.
 
-When you work through practice questions:
+When you work through [practice questions](/alabama/practice-exam):
 
 You test whether you actually understand material (vs. recognize it)
 
@@ -77,7 +77,7 @@ Test only surface recall
 
 Free practice tests come from several sources:
 
-Insurance prelicense and exam prep providers. Many providers offer free sample practice tests to showcase their paid products. Quality can be high.
+Insurance [prelicense](/alabama/prelicensing) and exam prep providers. Many providers offer free sample practice tests to showcase their paid products. Quality can be high.
 
 Industry websites and blogs. Some insurance industry sites offer free practice questions as educational resources.
 

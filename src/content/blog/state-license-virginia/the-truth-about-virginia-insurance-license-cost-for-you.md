@@ -20,7 +20,7 @@ imageCredit: Photo by Adrien Olichon on Pexels
 
 ## Understand the [Virginia insurance license](/virginia) cost
 
-When you first consider becoming an insurance agent, you might wonder what the Virginia insurance license cost looks like. It can feel overwhelming to see multiple fees and steps, but these expenses are fairly straightforward once you break them down. Your total cost typically includes pre-licensing course fees, exam fees, a background check or fingerprinting fee, and the application fee to the Commonwealth of Virginia.
+When you first consider becoming an insurance agent, you might wonder what the Virginia insurance license cost looks like. It can feel overwhelming to see multiple fees and steps, but these expenses are fairly straightforward once you break them down. Your total cost typically includes [pre-licensing](/virginia/prelicensing) course fees, exam fees, a background check or fingerprinting fee, and the application fee to the Commonwealth of Virginia.
 
 It helps to think of these costs as an investment in your future career. By obtaining a Virginia insurance license, you position yourself to work in a stable industry where you can serve the financial protection needs of families and businesses. The sooner you understand each cost component, the better prepared you will be to stay on budget and earn your license without surprises along the way.
 
@@ -61,7 +61,7 @@ To handle fingerprinting, you can often schedule an appointment at an approved f
 
 Earning a Virginia insurance license is not the end of the story. You also need to uphold your licensure by completing [Virginia continuing education](/virginia/continuing-education) (CE) hours and renewing your license periodically. This effort ensures you remain current on new laws, regulations, and emerging insurance products that could affect your clients.
 
-In many cases, you will complete a required number of CE hours every two years to keep your license valid. The cost for continuing education can vary based on the courses you choose. It is a good idea to budget in advance for these classes so you are not caught off guard by unexpected fees. You might consider focusing on areas that are especially relevant to your client base, whether that is life, health, property, or various specialized forms of coverage.
+In many cases, you will complete a required number of CE hours every two years to keep your license valid. The cost for [continuing education](/virginia/continuing-education) can vary based on the courses you choose. It is a good idea to budget in advance for these classes so you are not caught off guard by unexpected fees. You might consider focusing on areas that are especially relevant to your client base, whether that is life, health, property, or various specialized forms of coverage.
 
 Staying on top of your licensing requirements not only keeps you legal, but it also helps you maintain a high standard of service for your clients. When you are up to date on the latest industry changes, you can advise families and business owners more effectively, thus building trust and long-lasting relationships.
 

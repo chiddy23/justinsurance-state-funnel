@@ -40,7 +40,7 @@ Keep in mind, if you have any prior legal or financial issues, the [Michigan Dep
 
 Once you confirm that you meet the basic eligibility requirements, your next step is to complete a state-approved [Michigan prelicensing course](/michigan/prelicensing). These courses typically cover relevant insurance laws, client confidentiality practices, ethics, and the fundamentals of property and casualty insurance. They may be offered online or in person, depending on your preference and scheduling needs.
 
-Pre-licensing education has several benefits: • You gain a solid foundation of insurance terminology and concepts.  
+[Pre-licensing](/michigan/prelicensing) education has several benefits: • You gain a solid foundation of insurance terminology and concepts.  
 • You become familiar with state-specific rules about coverage and underwriting.  
 • You learn critical communication skills to better guide your future clients.
 
@@ -76,7 +76,7 @@ Having a Michigan property and casualty license opens the door to various opport
 • A mix of tasks, from risk analysis to claims counseling.  
 • The chance to build long-term relationships with diverse clients.
 
-Because property and casualty insurance touches nearly every sector of society, licensed agents are often in demand. Stay on the lookout for advanced certifications or continuing education courses. The more specialized your skills become, the more you can stand out in a competitive job market.
+Because property and casualty insurance touches nearly every sector of society, licensed agents are often in demand. Stay on the lookout for advanced certifications or [continuing education](/michigan/continuing-education) courses. The more specialized your skills become, the more you can stand out in a competitive job market.
 
 ## Stay current with continuing education
 

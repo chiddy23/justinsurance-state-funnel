@@ -220,6 +220,6 @@ For Fieldprint-specific questions, contact Fieldprint customer support through F
 
 ## Get Fingerprinted Right the First Time
 
-Understanding Oregon's fingerprinting requirements helps you complete this step efficiently. At JustInsurance, our Oregon prelicense course covers the full Oregon licensing process, including fingerprinting and other administrative steps.
+Understanding Oregon's fingerprinting requirements helps you complete this step efficiently. At JustInsurance, our Oregon [prelicense](/oregon/prelicensing) course covers the full Oregon licensing process, including fingerprinting and other administrative steps.
 
 Enroll today and prepare for your Oregon insurance career with confidence.

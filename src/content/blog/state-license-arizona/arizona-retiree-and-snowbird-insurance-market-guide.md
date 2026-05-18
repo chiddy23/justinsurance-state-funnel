@@ -250,6 +250,6 @@ Comprehensive senior practice (Medicare + LTC + annuity + final expense + life):
 
 ## Build Your Arizona Senior Insurance Practice
 
-Arizona's senior market is one of the most accessible, growing, and sustainable specialty practices in the country. At JustInsurance, our Arizona prelicense and CE courses — including LTC training and Annuity Best Interest certification — prepare you for this market.
+Arizona's senior market is one of the most accessible, growing, and sustainable specialty practices in the country. At JustInsurance, our Arizona [prelicense](/arizona/prelicensing) and CE courses — including LTC training and Annuity Best Interest certification — prepare you for this market.
 
 Enroll today and develop your Arizona senior insurance specialty.

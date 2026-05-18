@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-You might feel overwhelmed by the idea of renewing your [Indiana insurance license](/indiana), but there is good news: once you know a few key details, the process is easier than you’d expect. This guide breaks down the steps, offers practical tips on continuing education (CE), and points you toward simple ways to stay on track. By the end, you’ll be prepared to complete your renewal with confidence.
+You might feel overwhelmed by the idea of renewing your [Indiana insurance license](/indiana), but there is good news: once you know a few key details, the process is easier than you’d expect. This guide breaks down the steps, offers practical tips on [continuing education](/indiana/continuing-education) (CE), and points you toward simple ways to stay on track. By the end, you’ll be prepared to complete your renewal with confidence.
 
 ## Gather the basics of renewal
 

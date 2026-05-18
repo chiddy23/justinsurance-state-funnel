@@ -194,6 +194,6 @@ Breathe. If anxiety hits during the exam, pause for three deep breaths and reset
 
 ## Walk Into Test Day Prepared
 
-Knowing what to expect removes half the stress. At JustInsurance, our South Carolina prelicense course covers everything on the exam — plus practice questions that mirror the real exam's style and difficulty.
+Knowing what to expect removes half the stress. At JustInsurance, our South Carolina [prelicense](/south-carolina/prelicensing) course covers everything on the exam — plus [practice questions](/south-carolina/practice-exam) that mirror the real exam's style and difficulty.
 
 Enroll today and walk into your South Carolina exam prepared for every part of the experience.

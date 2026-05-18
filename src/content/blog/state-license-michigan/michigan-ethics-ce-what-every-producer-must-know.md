@@ -16,7 +16,7 @@ imageAlt: >-
   ce: what every producer must know.
 ---
 
-Every Michigan insurance producer must complete 3 hours of ethics continuing education every 2-year review period. Michigan's ethics requirement reflects a fundamental principle of the state's insurance regulatory environment: consumer protection depends not just on product knowledge but on producers who understand ethical standards, avoid prohibited practices, and maintain professional integrity. Beyond the regulatory requirement, ethics CE is meaningful career protection — Michigan DIFS disciplinary records consistently show that producer conduct violations, not missing CE deadlines, are the primary cause of license loss.
+Every Michigan insurance producer must complete 3 hours of ethics [continuing education](/michigan/continuing-education) every 2-year review period. Michigan's ethics requirement reflects a fundamental principle of the state's insurance regulatory environment: consumer protection depends not just on product knowledge but on producers who understand ethical standards, avoid prohibited practices, and maintain professional integrity. Beyond the regulatory requirement, ethics CE is meaningful career protection — Michigan DIFS disciplinary records consistently show that producer conduct violations, not missing CE deadlines, are the primary cause of license loss.
 
 Here's what every Michigan agent needs to know about the ethics CE requirement.
 

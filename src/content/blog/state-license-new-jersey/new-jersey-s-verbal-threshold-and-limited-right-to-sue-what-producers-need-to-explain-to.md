@@ -102,4 +102,4 @@ Under N.J.A.C. 11:3-15, insurers are required to provide the Coverage Selection 
 
 The verbal threshold is New Jersey auto insurance law at its most consequential — a provision that can determine whether an injured client recovers hundreds of thousands of dollars or nothing for pain and suffering based entirely on whether a fracture was displaced or a soft tissue injury became permanent. Producers who understand it and explain it clearly provide irreplaceable value at the point of sale.
 
-Visit JustInsurance to enroll today and build your mastery of New Jersey auto insurance law through a prelicensing course designed for the PSI exam and your client conversations.
+Visit JustInsurance to enroll today and build your mastery of New Jersey auto insurance law through a [prelicensing](/new-jersey/prelicensing) course designed for the PSI exam and your client conversations.

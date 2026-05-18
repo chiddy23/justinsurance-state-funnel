@@ -218,6 +218,6 @@ Record retention: Maintain client records for DIFS audit compliance
 
 ## Serve Michigan Health Insurance Clients With Confidence
 
-Michigan's health insurance landscape — from Healthcare.gov marketplace to Healthy Michigan Plan to Michigan's unique BCBSM market position — rewards producers who understand state-specific dynamics. At JustInsurance, our Michigan prelicense and CE courses provide comprehensive health insurance coverage including Michigan-specific regulatory provisions.
+Michigan's health insurance landscape — from Healthcare.gov marketplace to Healthy Michigan Plan to Michigan's unique BCBSM market position — rewards producers who understand state-specific dynamics. At JustInsurance, our Michigan [prelicense](/michigan/prelicensing) and CE courses provide comprehensive health insurance coverage including Michigan-specific regulatory provisions.
 
 Enroll today and build your Michigan health insurance expertise.

@@ -168,6 +168,6 @@ Follow your training. If your insurer or IMO has suitability processes, follow t
 
 ## Sell Annuities the Right Way
 
-Annuity suitability isn't an obstacle — it's the framework that protects your clients and your career. At JustInsurance, our Florida CE and prelicense courses cover annuity suitability in practical, exam-aligned depth.
+Annuity suitability isn't an obstacle — it's the framework that protects your clients and your career. At JustInsurance, our Florida CE and [prelicense](/florida/prelicensing) courses cover annuity suitability in practical, exam-aligned depth.
 
 Enroll today and master annuity sales the Florida way — compliantly, ethically, and professionally.

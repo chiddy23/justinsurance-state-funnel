@@ -52,7 +52,7 @@ Most online training programs include: • Interactive modules that break down e
 
 One of the biggest benefits of insurance agent training online is the ability to learn at your own speed. If you’re juggling other responsibilities, you can spend a few hours each weekend on modules, or study at night after work. If your schedule is more open, you can move through the material quickly and finish in weeks rather than months.
 
-When evaluating programs, look for providers with excellent reviews and a proven pass rate on the licensing exam. Seek out institutions that focus on practical, real-world knowledge as well as exam prep, so you feel ready once you enter the workforce. You might also ask about additional perks like supplemental tutoring or resume-building advice.
+When evaluating programs, look for providers with excellent reviews and a proven [pass rate](/pass-rates) on the licensing exam. Seek out institutions that focus on practical, real-world knowledge as well as exam prep, so you feel ready once you enter the workforce. You might also ask about additional perks like supplemental tutoring or resume-building advice.
 
 ## Compare costs and timelines
 

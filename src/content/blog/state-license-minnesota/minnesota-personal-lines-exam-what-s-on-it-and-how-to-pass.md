@@ -188,7 +188,7 @@ Common personal umbrella exclusions: Business activities and professional liabil
 
 ### Section 6: Minnesota State Law — Personal Lines Provisions
 
-Producer licensing under Chapter 60K: Personal Lines is a line of authority requiring its own 20-hour prelicensing course, PSI exam, and $50 application fee. Personal Lines authority is more limited than full P&C — it covers only personal, family, and household risks.
+Producer licensing under Chapter 60K: Personal Lines is a line of authority requiring its own 20-hour [prelicensing](/minnesota/prelicensing) course, PSI exam, and $50 application fee. Personal Lines authority is more limited than full P&C — it covers only personal, family, and household risks.
 
 Minnesota unfair trade practices (Minn. Stat. §72A.20): Prohibitions on misrepresentation, rebating, coercion, defamation, unfair discrimination, and unfair claims practices apply fully to personal lines producers. Rebating — offering any item of value as an inducement to purchase — is prohibited whether offered by the producer or the insurer. The prohibition is bilateral: both the producer who offers the rebate and the client who accepts it have violated the statute.
 

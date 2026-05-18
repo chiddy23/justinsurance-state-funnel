@@ -16,7 +16,7 @@ imageAlt: >-
   the michigan insurance license exam.
 ---
 
-Michigan's insurance exam demands a study plan calibrated to its distinctive features — mandatory prelicensing education that must precede the exam, variable passing scores between 72% and 76%, substantial Michigan-specific content (especially for P&C candidates navigating the 2019/2020 no-fault reform), and the 180-day application window that creates real consequences for delays. A well-structured plan transforms Michigan's legitimate exam difficulty from intimidating to manageable.
+Michigan's insurance exam demands a study plan calibrated to its distinctive features — mandatory [prelicensing](/michigan/prelicensing) education that must precede the exam, variable passing scores between 72% and 76%, substantial Michigan-specific content (especially for P&C candidates navigating the 2019/2020 no-fault reform), and the 180-day application window that creates real consequences for delays. A well-structured plan transforms Michigan's legitimate exam difficulty from intimidating to manageable.
 
 Here's a comprehensive study plan for the Michigan insurance license exam.
 
@@ -84,7 +84,7 @@ Pass chapter quizzes seriously. Don't just click through. Chapter quizzes reveal
 
 Note Michigan-specific content. Your PLE course includes 6 hours of ethics and Michigan law. Pay particular attention — this content maps directly to the state exam's Insurance Regulation section.
 
-Use PLE to build your practice question habit. Strong PLE providers include practice questions aligned with the state exam format. Start developing your practice question discipline during PLE.
+Use PLE to build your practice question habit. Strong PLE providers include [practice questions](/michigan/practice-exam) aligned with the state exam format. Start developing your practice question discipline during PLE.
 
 Pass the PLE certification exam. 70% required. Most candidates pass on first attempt with genuine engagement during PLE.
 

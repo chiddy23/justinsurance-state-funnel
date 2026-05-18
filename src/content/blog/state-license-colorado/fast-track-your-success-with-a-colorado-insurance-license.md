@@ -20,7 +20,7 @@ Fast-tracking your success with a [Colorado insurance license](/colorado) can op
 
 ## Understand Colorado’s licensing process
 
-Every state sets specific requirements for obtaining an insurance license, and Colorado is no exception. You’ll need to complete pre-licensing coursework, pass a state exam, and file an application with the [Colorado Division of Insurance](/colorado/requirements). Although the process involves a few steps, they’re all designed to ensure you fully grasp insurance principles before you start working with clients.
+Every state sets specific requirements for obtaining an insurance license, and Colorado is no exception. You’ll need to complete [pre-licensing](/colorado/prelicensing) coursework, pass a state exam, and file an application with the [Colorado Division of Insurance](/colorado/requirements). Although the process involves a few steps, they’re all designed to ensure you fully grasp insurance principles before you start working with clients.
 
 A little planning goes a long way. By mapping out the steps and focusing on each one methodically, you’ll be well on your way to fulfilling Colorado’s requirements. Many first-time candidates also discover that choosing the right study tactics helps them finish the process faster.
 

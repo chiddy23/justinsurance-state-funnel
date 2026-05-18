@@ -335,6 +335,6 @@ The Massachusetts-specific knowledge accumulated over years of specialty practic
 
 ## Build Your Massachusetts Health Insurance Specialty
 
-Massachusetts's distinctive health insurance environment creates exceptional specialty opportunity for properly trained producers. At JustInsurance, our Massachusetts prelicense and CE courses provide the foundational professional excellence that any specialty practice requires.
+Massachusetts's distinctive health insurance environment creates exceptional specialty opportunity for properly trained producers. At JustInsurance, our Massachusetts [prelicense](/massachusetts/prelicensing) and CE courses provide the foundational professional excellence that any specialty practice requires.
 
 Enroll today and start building toward Massachusetts health insurance specialty practice.

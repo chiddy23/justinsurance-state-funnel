@@ -30,7 +30,7 @@ Before diving into your study materials, it’s important to understand Virginia
 To help you visualize the process, here are the key requirements at a glance:
 
 -   Must be at least 18 years old
--   Complete an approved pre-licensing course
+-   Complete an approved [pre-licensing](/virginia/prelicensing) course
 -   Pass a background check (if required)
 -   Submit the license application to the SCC
 -   Pass the state exam with a minimum score

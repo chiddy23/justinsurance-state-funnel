@@ -15,7 +15,7 @@ imageAlt: Two business professionals in corporate attire reviewing documents ind
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-You might be feeling both excited and a bit overwhelmed by the Indiana insurance licensing process. It’s perfectly normal to have questions about where to begin, what type of coursework you need, and how to stay organized. Fortunately, by focusing on a few key steps—confirming your eligibility, finishing your pre-licensing education, and taking your exam with confidence—you’ll find the process more straightforward than it initially appears. Throughout your journey, remember that every major accomplishment starts with one step at a time.
+You might be feeling both excited and a bit overwhelmed by the Indiana insurance licensing process. It’s perfectly normal to have questions about where to begin, what type of coursework you need, and how to stay organized. Fortunately, by focusing on a few key steps—confirming your eligibility, finishing your [pre-licensing](/indiana/prelicensing) education, and taking your exam with confidence—you’ll find the process more straightforward than it initially appears. Throughout your journey, remember that every major accomplishment starts with one step at a time.
 
 Below are five essential stages to guide you from the earliest planning stages all the way to maintaining your licensure. Whether you’re pursuing Life & Health, Property & Casualty, or all of the above, these strategies will help you stay on track and work toward a rewarding insurance career in Indiana.
 
@@ -79,7 +79,7 @@ The application process typically happens online, and you may be asked for a pro
 
 ## Prepare for renewals
 
-After you’ve accomplished the big milestone of getting licensed, don’t forget that renewals and continuing education are part of every insurance professional’s journey. Indiana requires you to complete [ongoing education (CE)](/indiana/continuing-education) credits within a specific timeframe—often every two years. Keeping track of your license renewal date ensures you never fall behind.
+After you’ve accomplished the big milestone of getting licensed, don’t forget that renewals and [continuing education](/indiana/continuing-education) are part of every insurance professional’s journey. Indiana requires you to complete [ongoing education (CE)](/indiana/continuing-education) credits within a specific timeframe—often every two years. Keeping track of your license renewal date ensures you never fall behind.
 
 You might want to commit to a regular schedule for completing CE courses instead of waiting until the last minute. This habit not only keeps you compliant, but also allows more time to explore emerging market trends and products. That knowledge benefits both your clients and your career over the long haul.
 

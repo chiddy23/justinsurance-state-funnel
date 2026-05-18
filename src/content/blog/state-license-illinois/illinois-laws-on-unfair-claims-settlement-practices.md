@@ -130,6 +130,6 @@ Agents should be familiar with this resource. When clients face claims difficult
 
 ## Know the Rules That Protect Your Clients
 
-Understanding claims handling rules makes you a better advisor and a more trusted agent. At JustInsurance, our Illinois prelicense and CE courses cover Illinois insurance law — including claims handling regulations — in clear, practical language.
+Understanding claims handling rules makes you a better advisor and a more trusted agent. At JustInsurance, our Illinois [prelicense](/illinois/prelicensing) and CE courses cover Illinois insurance law — including claims handling regulations — in clear, practical language.
 
 Enroll today and become the kind of agent clients rely on when things get tough.

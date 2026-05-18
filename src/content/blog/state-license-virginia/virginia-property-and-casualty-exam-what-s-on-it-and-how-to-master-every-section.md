@@ -12,7 +12,7 @@ image: /blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg
 imageAlt: "Virginia Property and Casualty Exam: What's on It and How to Master Every Section"
 ---
 
-The Virginia Property and Casualty licensing exam — Series 11-03 — has 135 scored questions across 10 national content sections and a 35-question Virginia state law section, delivered in 135 minutes. The split scoring rule applies here as well: you must score 70% or higher on both sections independently. With a first-time pass rate around 74%, more than one in four candidates fails on their first attempt — almost always due to insufficient preparation in one or both sections. This post maps the full content of the P&C exam and tells you exactly where to focus to avoid joining that quarter.
+The Virginia Property and Casualty licensing exam — Series 11-03 — has 135 scored questions across 10 national content sections and a 35-question Virginia state law section, delivered in 135 minutes. The split scoring rule applies here as well: you must score 70% or higher on both sections independently. With a first-time [pass rate](/pass-rates) around 74%, more than one in four candidates fails on their first attempt — almost always due to insufficient preparation in one or both sections. This post maps the full content of the P&C exam and tells you exactly where to focus to avoid joining that quarter.
 
 ### National Content Section: 100 Scored Questions
 

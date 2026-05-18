@@ -16,7 +16,7 @@ imageAlt: >-
   massachusetts insurance exam pass rate and difficulty level.
 ---
 
-The Massachusetts insurance exam has a reputation for being one of the more difficult state insurance exams in the country. Despite the relatively low $39 exam fee, candidates regularly fail on first attempts — particularly those who skip pre-licensing education (which Massachusetts notably doesn't require). Understanding why the exam is challenging and how to prepare effectively helps you pass on your first attempt.
+The Massachusetts insurance exam has a reputation for being one of the more difficult state insurance exams in the country. Despite the relatively low $39 exam fee, candidates regularly fail on first attempts — particularly those who skip [pre-licensing](/massachusetts/prelicensing) education (which Massachusetts notably doesn't require). Understanding why the exam is challenging and how to prepare effectively helps you pass on your first attempt.
 
 Here's an honest look at Massachusetts insurance exam difficulty and what it takes to pass.
 
@@ -36,13 +36,13 @@ Comprehensive content coverage. With 100-150 questions per exam covering substan
 
 ## Realistic Pass Rate Considerations
 
-While Massachusetts doesn't routinely publish official pass rates, the general industry observations are:
+While Massachusetts doesn't routinely publish official [pass rates](/pass-rates), the general industry observations are:
 
 Well-prepared candidates (completed quality prelicense, took multiple practice exams, scored 80%+ on practice exams) typically pass on first attempt.
 
 Moderately prepared candidates have pass rates around the national average for state insurance exams.
 
-Underprepared candidates (skipped prelicense, minimal practice exam experience) frequently fail on first attempt.
+Underprepared candidates (skipped prelicense, minimal [practice exam](/massachusetts/practice-exam) experience) frequently fail on first attempt.
 
 Multi-attempt candidates typically pass on second or third attempt after addressing weaknesses identified by failed attempts.
 

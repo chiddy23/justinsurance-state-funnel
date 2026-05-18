@@ -118,6 +118,6 @@ Multiple sources disagreed on Wisconsin's application fee. The OCI official fee 
 
 ## Apply for Your Wisconsin License With Confidence
 
-JustInsurance's OCI-approved Wisconsin prelicensing courses cover all four major lines with the 8-hour shared section structure built in.
+JustInsurance's OCI-approved Wisconsin [prelicensing](/wisconsin/prelicensing) courses cover all four major lines with the 8-hour shared section structure built in.
 
 Enroll today and move through Wisconsin's licensing process efficiently.

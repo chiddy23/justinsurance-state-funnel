@@ -16,7 +16,7 @@ imageAlt: >-
   health insurance exam: complete guide.
 ---
 
-The Alabama Life and Health insurance exam is one of the most important hurdles in your journey to becoming a licensed producer. Unlike many states, Alabama doesn't require prelicense education — but the exam itself is still rigorous, and you need serious preparation to pass. Understanding exactly what you're facing lets you prepare strategically.
+The Alabama Life and Health insurance exam is one of the most important hurdles in your journey to becoming a licensed producer. Unlike many states, Alabama doesn't require [prelicense](/alabama/prelicensing) education — but the exam itself is still rigorous, and you need serious preparation to pass. Understanding exactly what you're facing lets you prepare strategically.
 
 Here's your complete guide to the Alabama Life and Health insurance exam.
 

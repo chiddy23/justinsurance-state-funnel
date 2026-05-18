@@ -301,6 +301,6 @@ Long-term relationships. Health insurance relationships often continue for years
 
 ## Build Your Massachusetts Health Insurance Practice
 
-Massachusetts's distinctive Health Connector marketplace creates real opportunity for properly certified producers. At JustInsurance, our Massachusetts prelicense and CE courses provide foundational knowledge for health insurance practice.
+Massachusetts's distinctive Health Connector marketplace creates real opportunity for properly certified producers. At JustInsurance, our Massachusetts [prelicense](/massachusetts/prelicensing) and CE courses provide foundational knowledge for health insurance practice.
 
 Enroll today and build your Massachusetts health insurance career on solid ground.

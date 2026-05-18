@@ -30,7 +30,7 @@ License application fee
 
 NIPR processing fee
 
-Optional: prelicense course or exam prep materials
+Optional: [prelicense](/alabama/prelicensing) course or exam prep materials
 
 Total initial costs typically range from $200 to $600 depending on your choices for prelicense preparation.
 
@@ -104,7 +104,7 @@ Practice question banks: $20-$60
 
 Free online resources: $0
 
-Most candidates find that paying $100-$300 for quality preparation is a sound investment that significantly improves pass rates.
+Most candidates find that paying $100-$300 for quality preparation is a sound investment that significantly improves [pass rates](/pass-rates).
 
 ## Calculating Your Total Initial Investment
 
@@ -122,7 +122,7 @@ CE Reporting Fee: $1.00 per credit hour for CE reporting to the ALDOI.
 
 NIPR Processing Fee: approximately $5.60 per transaction.
 
-Continuing Education Costs:
+[Continuing Education](/alabama/continuing-education) Costs:
 
 24 hours of approved CE (including 3 hours ethics) required every 2 years
 

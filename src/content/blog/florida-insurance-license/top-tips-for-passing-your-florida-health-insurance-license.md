@@ -42,11 +42,11 @@ Make sure to plan out your study sessions rather than just cramming at the last 
 
 ## Schedule and prepare for the exam
 
-After completing your pre-licensing course, you’ll want to schedule your Florida health insurance license exam as soon as you’re ready. This involves registering with the appropriate testing provider, which your course instructor or state’s licensing office can help you identify. You’ll likely be able to choose from various test centers and times, so consider selecting a date early in the morning if you concentrate well during the first half of the day.
+After completing your [pre-licensing](/florida/prelicensing) course, you’ll want to schedule your Florida health insurance license exam as soon as you’re ready. This involves registering with the appropriate testing provider, which your course instructor or state’s licensing office can help you identify. You’ll likely be able to choose from various test centers and times, so consider selecting a date early in the morning if you concentrate well during the first half of the day.
 
 When it comes to studying for the exam, organization and consistency are key. Rather than trying to tackle every concept in one sitting, break your study plan into manageable sections. Here are a few ways to strengthen your exam prep:
 
--   Do practice questions that mimic the style and difficulty of the real test.
+-   Do [practice questions](/florida/practice-exam) that mimic the style and difficulty of the real test.
 -   Focus on areas where you miss the most questions—use them as a clue for material that needs extra attention.
 -   Create memory aids, such as note cards or personal mnemonics, to recall complex sections.
 -   Study for shorter stretches over multiple days, rather than forcing long marathon sessions.

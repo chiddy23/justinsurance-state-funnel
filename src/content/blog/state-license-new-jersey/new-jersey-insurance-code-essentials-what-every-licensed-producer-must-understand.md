@@ -106,4 +106,4 @@ Under N.J.A.C. 11:17C-2.6, licensed NJ producers must maintain complete and accu
 
 The New Jersey insurance code is dense — but its structure is logical once you understand the two-title framework, the Commissioner's authority, and the Producer Licensing Act's role as the foundational statute governing every licensed producer in the state. These are not abstract legal concepts. They are the rules that determine whether a producer keeps their license.
 
-Visit JustInsurance to enroll today and study NJ insurance code provisions as part of a prelicensing course built to the PSI content outline.
+Visit JustInsurance to enroll today and study NJ insurance code provisions as part of a [prelicensing](/new-jersey/prelicensing) course built to the PSI content outline.

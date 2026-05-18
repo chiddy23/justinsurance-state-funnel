@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Kindel Media on Pexels
 ---
 
-Are you looking to launch a rewarding career in insurance? Finding the best [NJ insurance pre-licensing classes](/new-jersey/prelicensing) is a crucial first step toward earning your [New Jersey insurance license](/new-jersey). Whether you hope to specialize in life, health, property, casualty, or another line of authority, completing the state’s required education sets you on the path to success. Below, you will find clear guidance on the licensing process, along with tips on choosing a pre-licensing course and what to expect when exam day arrives.
+Are you looking to launch a rewarding career in insurance? Finding the best [NJ insurance pre-licensing classes](/new-jersey/prelicensing) is a crucial first step toward earning your [New Jersey insurance license](/new-jersey). Whether you hope to specialize in life, health, property, casualty, or another line of authority, completing the state’s required education sets you on the path to success. Below, you will find clear guidance on the licensing process, along with tips on choosing a [pre-licensing](/new-jersey/prelicensing) course and what to expect when exam day arrives.
 
 ## Explore why a license matters
 

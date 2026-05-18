@@ -24,7 +24,7 @@ The KDOI itself administers all insurance producer licensing examinations throug
 
 ## Exam Fees
 
-The initial exam fee is $50 and is incorporated into the licensing process after your NIPR application is processed. If you fail and need to retake the exam, each retake costs $50. You file an Exam Retake Form with the KDOI and may reschedule beginning on the next business day following a failed attempt. You are limited to three attempts within a 120-day window. If you fail three times within 120 days, you must restart the licensing process, including completing new prelicensing education before reapplying.
+The initial exam fee is $50 and is incorporated into the licensing process after your NIPR application is processed. If you fail and need to retake the exam, each retake costs $50. You file an Exam Retake Form with the KDOI and may reschedule beginning on the next business day following a failed attempt. You are limited to three attempts within a 120-day window. If you fail three times within 120 days, you must restart the licensing process, including completing new [prelicensing](/kentucky/prelicensing) education before reapplying.
 
 ## Passing Score
 
@@ -46,7 +46,7 @@ All exams are computerized. Results are displayed immediately upon submission. I
 
 ## How to Prepare Effectively
 
-The most effective preparation combines thorough coverage of all content areas and deliberate practice with exam-format questions. Your JustInsurance prelicensing course covers all required content for your line of authority, and the built-in practice questions mirror the knowledge areas tested on the KDOI exam.
+The most effective preparation combines thorough coverage of all content areas and deliberate practice with exam-format questions. Your JustInsurance prelicensing course covers all required content for your line of authority, and the built-in [practice questions](/kentucky/practice-exam) mirror the knowledge areas tested on the KDOI exam.
 
 Do not underestimate the Kentucky-specific content. State law questions — covering topics like the Motor Vehicle Reparations Act, workers' compensation under KRS Chapter 342, the Annuity Best Interest standard under 806 KAR 12:120, and the structure of Kentucky's health insurance marketplace through kynect — are tested alongside general insurance principles. Take full-length practice exams under timed conditions before your test date, and review any material you marked uncertain before your exam appointment.
 

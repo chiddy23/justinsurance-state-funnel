@@ -324,6 +324,6 @@ Direct clients to PID (1-866-PA-COMPLAINT) if they suspect fraud
 
 ## Build Your Pennsylvania Health Insurance Practice
 
-Pennsylvania's distinctive Pennie marketplace creates real opportunity for properly certified producers — particularly given the increased complexity following EPTC expiration. At JustInsurance (Provider Approval #147815), our Pennsylvania prelicense and CE courses provide foundational knowledge for health insurance practice.
+Pennsylvania's distinctive Pennie marketplace creates real opportunity for properly certified producers — particularly given the increased complexity following EPTC expiration. At JustInsurance (Provider Approval #147815), our Pennsylvania [prelicense](/pennsylvania/prelicensing) and CE courses provide foundational knowledge for health insurance practice.
 
 Enroll today and build your Pennsylvania health insurance career on solid ground.

@@ -60,7 +60,7 @@ Days to weeks past deadline. If you act quickly, you can typically complete miss
 
 Months past deadline. The longer you wait, the more complicated reinstatement becomes. Some carriers may terminate appointments. CE requirements may increase. Reinstatement fees grow.
 
-Over 12 months past deadline. In some cases, if you've been out of compliance long enough, you may be required to reapply from scratch — including retaking the prelicense exam and paying all initial licensing fees as if you were a new applicant.
+Over 12 months past deadline. In some cases, if you've been out of compliance long enough, you may be required to reapply from scratch — including retaking the [prelicense](/florida/prelicensing) exam and paying all initial licensing fees as if you were a new applicant.
 
 Moving quickly is almost always cheaper than waiting.
 

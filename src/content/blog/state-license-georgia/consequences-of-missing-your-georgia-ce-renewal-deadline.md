@@ -94,7 +94,7 @@ If you remain out of compliance for an extended period — typically more than 1
 
 Reapplication from scratch. You may need to reapply as a new applicant, including:
 
-- Retaking prelicense education (40 hours for Life/Health)
+- Retaking [prelicense](/georgia/prelicensing) education (40 hours for Life/Health)
 
 - Taking the state exam again
 

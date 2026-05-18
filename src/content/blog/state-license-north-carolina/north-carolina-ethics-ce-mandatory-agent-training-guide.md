@@ -17,7 +17,7 @@ imageAlt: >-
   carolina ethics ce: mandatory agent training guide.
 ---
 
-Every licensed North Carolina insurance producer must complete 3 hours of ethics continuing education every 2-year compliance period. This isn't optional, it isn't satisfiable through carryover, and it can't be substituted with general insurance content. Understanding what the ethics requirement covers, why it matters to your practice, and how to satisfy it meaningfully makes the difference between treating it as a regulatory burden and treating it as a genuine professional investment.
+Every licensed North Carolina insurance producer must complete 3 hours of ethics [continuing education](/north-carolina/continuing-education) every 2-year compliance period. This isn't optional, it isn't satisfiable through carryover, and it can't be substituted with general insurance content. Understanding what the ethics requirement covers, why it matters to your practice, and how to satisfy it meaningfully makes the difference between treating it as a regulatory burden and treating it as a genuine professional investment.
 
 Here's what every North Carolina agent should know about the ethics CE requirement.
 

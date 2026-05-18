@@ -61,7 +61,7 @@ Another tip is to identify any red flags in your knowledge well before test day.
 
 Below are answers to questions often asked by Indiana residents on their path to licensing.
 
-1.  Do I need to complete a pre-licensing course for all lines of authority?  
+1.  Do I need to complete a [pre-licensing](/indiana/prelicensing) course for all lines of authority?  
     Yes. Each line (such as life, health, or property and casualty) usually has a separate course requirement. If you plan to pursue multiple lines, expect to complete multiple pre-licensing modules.
 2.  What is the passing score for the Indiana insurance license exam?  
     The minimum score can vary, but 70% is a common threshold. Always verify the current standard for your specific line of authority to ensure you meet the requirement.
@@ -74,7 +74,7 @@ Below are answers to questions often asked by Indiana residents on their path to
 
 ## Take the next step
 
-Once you’ve finished your pre-licensing course and feel confident about the material, it’s time to schedule your exam. Double-check what exams you’re required to take based on your career goals, and review the state’s system for official scheduling. If you’re not entirely ready, consider a refresher module or practice exam to solidify the areas that give you trouble.
+Once you’ve finished your pre-licensing course and feel confident about the material, it’s time to schedule your exam. Double-check what exams you’re required to take based on your career goals, and review the state’s system for official scheduling. If you’re not entirely ready, consider a refresher module or [practice exam](/indiana/practice-exam) to solidify the areas that give you trouble.
 
 If you’re searching for dedicated support, remember that JustInsurance offers state-approved programs to help you prepare. Taking advantage of a reputable course often speeds up your journey toward passing the exam. With the right mindset and structured study approach, you’ll be one step closer to launching your Indiana insurance career.
 

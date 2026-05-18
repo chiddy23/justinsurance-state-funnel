@@ -86,6 +86,6 @@ More attempts also means more time and money invested. Passing on the first or s
 
 ## Score Higher Than 70% in Practice
 
-The candidates who walk into the exam confident are the ones who consistently score 80%+ in realistic practice. At JustInsurance, our Florida prelicense course includes practice exams built to match the real exam's style and difficulty.
+The candidates who walk into the exam confident are the ones who consistently score 80%+ in realistic practice. At JustInsurance, our Florida [prelicense](/florida/prelicensing) course includes practice exams built to match the real exam's style and difficulty.
 
 Enroll today and prepare to pass with confidence.

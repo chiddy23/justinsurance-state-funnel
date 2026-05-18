@@ -277,6 +277,6 @@ Tucson's lower cost of living vs. Phoenix — particularly in housing — means 
 
 ## Build Your Tucson Insurance Career in Southern Arizona's Distinctive Market
 
-Tucson's defense, university, senior, and Hispanic community niches reward producers who take the time to understand them. At JustInsurance, our Arizona prelicense and CE courses prepare you for the exam and for building a career in Tucson's distinctive and accessible market.
+Tucson's defense, university, senior, and Hispanic community niches reward producers who take the time to understand them. At JustInsurance, our Arizona [prelicense](/arizona/prelicensing) and CE courses prepare you for the exam and for building a career in Tucson's distinctive and accessible market.
 
 Enroll today and start building your Tucson insurance career.

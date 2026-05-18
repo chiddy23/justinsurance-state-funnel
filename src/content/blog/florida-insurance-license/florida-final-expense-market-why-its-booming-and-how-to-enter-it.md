@@ -126,6 +126,6 @@ Neglecting service after the sale. Final expense clients have friends and family
 
 ## Enter the Florida Final Expense Market the Right Way
 
-Final expense can be your entry into a thriving Florida insurance career. At JustInsurance, our Florida prelicense course prepares you for the 2-15 license exam so you can start selling quickly in this strong market.
+Final expense can be your entry into a thriving Florida insurance career. At JustInsurance, our Florida [prelicense](/florida/prelicensing) course prepares you for the 2-15 license exam so you can start selling quickly in this strong market.
 
 Enroll today and position yourself for the final expense opportunity Florida offers.

@@ -244,7 +244,7 @@ Consulting with an attorney familiar with Pennsylvania insurance licensing
 
 Denial isn't always permanent. Some applicants successfully appeal or reapply after addressing concerns.
 
-For applicants worried about criminal history, the Pre-Licensing Eligibility Review program allows assessing eligibility before formal application.
+For applicants worried about criminal history, the [Pre-Licensing](/pennsylvania/prelicensing) Eligibility Review program allows assessing eligibility before formal application.
 
 ## If Your Application Is Approved
 

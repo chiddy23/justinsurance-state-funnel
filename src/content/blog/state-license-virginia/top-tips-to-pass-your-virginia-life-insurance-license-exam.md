@@ -21,7 +21,7 @@ If you’re ready to start a new career path and need your [Virginia life insura
 
 ## Understand licensing basics
 
-Before diving into the details, it’s helpful to have a general overview of what obtaining a Virginia life insurance license involves. In a nutshell, you must complete pre-licensing coursework, schedule and pass the official exam, and apply for your license. Life insurance is a regulated field, so these steps ensure that everyone who sells policies has the proper knowledge and responsibility to advise clients.
+Before diving into the details, it’s helpful to have a general overview of what obtaining a Virginia life insurance license involves. In a nutshell, you must complete [pre-licensing](/virginia/prelicensing) coursework, schedule and pass the official exam, and apply for your license. Life insurance is a regulated field, so these steps ensure that everyone who sells policies has the proper knowledge and responsibility to advise clients.
 
 Insurance in Virginia falls under the guidance of the State Corporation Commission, which sets certification requirements, exam formats, and licensing fees. Understanding the big picture—from registering for your course to sending in your final application—will make each task feel more manageable and less overwhelming.
 
@@ -45,7 +45,7 @@ When scheduling your exam, choose a date and time that work well for your person
 
 ## Study effectively for success
 
-Preparing for the exam demands more than rote memorization. You’ll need to connect concepts and learn how they apply in real-life scenarios. Consider creating a study plan that spans a few weeks (or longer, if necessary), making time for practice questions and small quizzes throughout.
+Preparing for the exam demands more than rote memorization. You’ll need to connect concepts and learn how they apply in real-life scenarios. Consider creating a study plan that spans a few weeks (or longer, if necessary), making time for [practice questions](/virginia/practice-exam) and small quizzes throughout.
 
 Here’s a single key tip: If you commit to reviewing a little every day—focusing on topics like policy riders, beneficiary designations, and Virginia statutes—this steady approach can be more impactful than marathon study sessions the night before.
 
@@ -74,7 +74,7 @@ One of the nicest perks of licensure is that you can start helping Virginia resi
 
 Earning your license is an important milestone, but it’s not a one-and-done process. Virginia requires ongoing [continuing education](/virginia/continuing-education) (CE) to keep your license active. These CE courses ensure that you stay updated on new regulations, industry shifts, and evolving customer needs. You’ll find a variety of flexible programs—both online and in-person—to satisfy these requirements every renewal cycle.
 
-Looking ahead at your new career, it’s helpful to map out when you’ll complete CE credits. That way, you won’t scramble to fulfill the requirement just before your license expires. Think of continuing education not as a chore, but as a chance to broaden your expertise and better serve your clients. You might discover specialty areas within life insurance that pique your interest, such as final expense plans or college fund policies.
+Looking ahead at your new career, it’s helpful to map out when you’ll complete CE credits. That way, you won’t scramble to fulfill the requirement just before your license expires. Think of [continuing education](/virginia/continuing-education) not as a chore, but as a chance to broaden your expertise and better serve your clients. You might discover specialty areas within life insurance that pique your interest, such as final expense plans or college fund policies.
 
 ## Embrace your next steps
 

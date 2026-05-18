@@ -16,7 +16,7 @@ imageAlt: >-
   nevada insurance producer license.
 ---
 
-Getting your Nevada insurance producer license opens doors to one of the most dynamic insurance markets in the country. The Las Vegas hospitality industry, growing Reno-Tahoe market, expanding senior population, and steady commercial growth all create opportunity for new producers. Nevada's licensing process is also one of the most streamlined in the country — Nevada doesn't require prelicense education, making the path to licensure faster than in most states.
+Getting your Nevada insurance producer license opens doors to one of the most dynamic insurance markets in the country. The Las Vegas hospitality industry, growing Reno-Tahoe market, expanding senior population, and steady commercial growth all create opportunity for new producers. Nevada's licensing process is also one of the most streamlined in the country — Nevada doesn't require [prelicense](/nevada/prelicensing) education, making the path to licensure faster than in most states.
 
 Here's exactly how to get your Nevada insurance producer license.
 
@@ -46,7 +46,7 @@ The exam covers substantial material across general insurance and Nevada-specifi
 
 Most candidates aren't familiar with the breadth of content
 
-Quality prelicense courses include practice exams that significantly improve pass rates
+Quality prelicense courses include practice exams that significantly improve [pass rates](/pass-rates)
 
 The cost of a prelicense course is much less than retaking the exam multiple times
 

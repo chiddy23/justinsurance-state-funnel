@@ -122,6 +122,6 @@ Retain everything indefinitely. Best practice is to keep all replacement documen
 
 ## Master Replacement Compliance
 
-Replacement catches more Georgia agents off guard than almost any other compliance area. At JustInsurance, our Georgia prelicense and CE courses cover replacement in practical detail — so you can serve your clients and protect your license simultaneously.
+Replacement catches more Georgia agents off guard than almost any other compliance area. At JustInsurance, our Georgia [prelicense](/georgia/prelicensing) and CE courses cover replacement in practical detail — so you can serve your clients and protect your license simultaneously.
 
 Enroll today and master Georgia replacement rules with confidence.

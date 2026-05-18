@@ -16,7 +16,7 @@ imageAlt: >-
   health insurance exam: full breakdown.
 ---
 
-The Nevada Life and Health insurance exam is your gateway to a Nevada insurance career. Because Nevada doesn't require prelicense education, the exam is essentially the only barrier between you and licensure — which makes preparation even more important. Walking in unprepared because Nevada doesn't require formal study is one of the biggest mistakes new candidates make.
+The Nevada Life and Health insurance exam is your gateway to a Nevada insurance career. Because Nevada doesn't require [prelicense](/nevada/prelicensing) education, the exam is essentially the only barrier between you and licensure — which makes preparation even more important. Walking in unprepared because Nevada doesn't require formal study is one of the biggest mistakes new candidates make.
 
 Here's the complete breakdown of the Nevada Life and Health insurance exam.
 
@@ -114,7 +114,7 @@ Nevada Annuity Best Interest Standard. Recently implemented (effective November 
 
 Nevada Long-Term Care Requirements. Specific LTC training and disclosure requirements.
 
-Nevada Continuing Education. 30 hours every 3 years, 3 hours ethics.
+Nevada [Continuing Education](/nevada/continuing-education). 30 hours every 3 years, 3 hours ethics.
 
 Nevada DOI Authority. Powers and procedures of the Division.
 

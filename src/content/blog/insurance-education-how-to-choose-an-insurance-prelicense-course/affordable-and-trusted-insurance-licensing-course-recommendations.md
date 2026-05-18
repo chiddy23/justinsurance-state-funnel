@@ -38,7 +38,7 @@ When comparing providers, be on the lookout for a solid track record. Credibilit
 
 Student reviews and success stories also speak to a course’s credibility. Genuine testimonials, especially from users in your state, can help you gauge how well the program prepares test-takers. It is worth checking for recognized partnerships with insurance associations or other professional groups. These relationships often indicate that a provider meets high educational standards.
 
-Some well-known names in the industry, such as JustInsurance, present clear evidence of their credibility. They make it easy to verify their state approvals and typically provide transparent pass rate data. Paying attention to such details can help you avoid programs that overpromise and underdeliver.
+Some well-known names in the industry, such as JustInsurance, present clear evidence of their credibility. They make it easy to verify their state approvals and typically provide transparent [pass rate](/pass-rates) data. Paying attention to such details can help you avoid programs that overpromise and underdeliver.
 
 ## Compare course pricing and access
 

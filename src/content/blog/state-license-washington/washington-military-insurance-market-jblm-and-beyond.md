@@ -304,6 +304,6 @@ Commercial insurance for defense contractors: Military-adjacent businesses (Tier
 
 ## Build Your Washington Military Insurance Career
 
-Washington's military communities — JBLM, Kitsap, Whidbey Island, and Fairchild — offer accessible, genuine specialty opportunity for producers who invest in military-specific knowledge. At JustInsurance, our Washington prelicense and CE courses prepare you for the exam and for building a career serving Washington's military and veteran community.
+Washington's military communities — JBLM, Kitsap, Whidbey Island, and Fairchild — offer accessible, genuine specialty opportunity for producers who invest in military-specific knowledge. At JustInsurance, our Washington [prelicense](/washington/prelicensing) and CE courses prepare you for the exam and for building a career serving Washington's military and veteran community.
 
 Enroll today and start your Washington military insurance practice.

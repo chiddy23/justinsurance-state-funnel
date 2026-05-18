@@ -146,4 +146,4 @@ If you're applying for a non-resident Georgia license (you're licensed in anothe
 
 Fingerprinting is simple when you know what to expect. At JustInsurance, we walk our students through the full Georgia licensing process — not just the exam content — so you're never caught off guard by a step you didn't know was coming.
 
-Enroll in our Georgia prelicense course and get fully prepared from day one.
+Enroll in our Georgia [prelicense](/georgia/prelicensing) course and get fully prepared from day one.

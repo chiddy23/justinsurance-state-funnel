@@ -40,7 +40,7 @@ Week 3 — Cover Health Insurance and Texas State Law Health insurance concepts,
 
 Daily target: 1.5 to 2 hours
 
-Week 4 — Practice, Review, and Simulate Stop reading new material. Spend this week entirely on practice questions and full practice exams. Identify your weak areas and go back to those specific topics. Take at least two full-length timed practice exams before your actual test day.
+Week 4 — Practice, Review, and Simulate Stop reading new material. Spend this week entirely on [practice questions](/texas/practice-exam) and full practice exams. Identify your weak areas and go back to those specific topics. Take at least two full-length timed practice exams before your actual test day.
 
 Daily target: 1 to 2 hours of focused practice
 
@@ -56,7 +56,7 @@ Take breaks. 45 to 50 minutes of focused study followed by a 10-minute break out
 
 ## 5 Frequently Asked Questions
 
-- How many hours of studying does it take to pass the Texas exam? Most successful candidates put in 40 to 60 hours of total study time. This aligns closely with the required 40-hour prelicense course — but you'll want additional practice time on top of that.
+- How many hours of studying does it take to pass the Texas exam? Most successful candidates put in 40 to 60 hours of total study time. This aligns closely with the required 40-hour [prelicense](/texas/prelicensing) course — but you'll want additional practice time on top of that.
 - Is it better to study a little every day or do longer sessions on weekends? Daily consistency beats weekend cramming significantly. Even 60 minutes a day five days a week leads to better retention than five hours on Saturday.
 - Should I study Life and Health separately or together? Study them separately during your content weeks, but mix them in your practice exams during week four. The actual combined exam won't separate them for you.
 - How do I know when I'm ready to sit for the exam? When you're consistently scoring 75% or higher on full practice exams, you're ready. Don't aim for 70% in practice — give yourself a buffer.

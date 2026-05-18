@@ -35,7 +35,7 @@ You can often choose from a mix of weekday or weekend classes, allowing you to f
 
 ## Register for the official exam
 
-After finishing your pre-licensing coursework, you will be eligible to register for the state licensing exam. This involves creating an account with the designated testing service and scheduling a test date, which you can usually do online. Plan your exam day at least a week or two in advance, particularly if you want to secure a convenient time or location.
+After finishing your [pre-licensing](/new-jersey/prelicensing) coursework, you will be eligible to register for the state licensing exam. This involves creating an account with the designated testing service and scheduling a test date, which you can usually do online. Plan your exam day at least a week or two in advance, particularly if you want to secure a convenient time or location.
 
 On top of the exam cost, there may be fees for background checks or fingerprinting, depending on your situation. Check the current requirements listed by the New Jersey Department of Banking and Insurance to avoid surprises. Once you have all your fees sorted out, save your confirmation email or print your registration ticket so you have proof of your scheduled exam.
 
@@ -48,7 +48,7 @@ Even if you have completed a pre-licensing course, you will want to reinforce yo
 -   Turn complex terms and concepts into flashcards or sheets of notes for quick reference.
 -   Plan a final study session two to three days before your test, leaving the night before free for rest.
 
-Remember, the licensing exam is typically multiple-choice, testing both core concepts and practical applications. By going over realistic practice questions, you will get a feel for the wording and structure so you can handle the real exam with greater confidence. Try to arrive early on test day to settle in and avoid adding any last-minute stress.
+Remember, the licensing exam is typically multiple-choice, testing both core concepts and practical applications. By going over realistic [practice questions](/new-jersey/practice-exam), you will get a feel for the wording and structure so you can handle the real exam with greater confidence. Try to arrive early on test day to settle in and avoid adding any last-minute stress.
 
 ## Submit your license application
 
@@ -60,7 +60,7 @@ Keep an eye on your email or postal mail for updates from the state regarding yo
 
 Even after you are officially licensed, your journey does not stop there. Like many professional credentials, insurance licenses require periodic renewal and ongoing education. The precise [New Jersey continuing education](/new-jersey/continuing-education) (CE) requirements can vary, so you will want to plan ahead to ensure your coursework is completed before your license expires.
 
-When choosing continuing education topics, focus on areas that support your day-to-day work and broaden your expertise. If you primarily handle life insurance, you might explore advanced topics in annuities or retirement planning. If you specialize in property or casualty insurance, consider deepening your skills in commercial policies. An organized approach to CE will help you keep pace with evolving industry regulations and client needs.
+When choosing [continuing education](/new-jersey/continuing-education) topics, focus on areas that support your day-to-day work and broaden your expertise. If you primarily handle life insurance, you might explore advanced topics in annuities or retirement planning. If you specialize in property or casualty insurance, consider deepening your skills in commercial policies. An organized approach to CE will help you keep pace with evolving industry regulations and client needs.
 
 ## Wrap up your journey
 

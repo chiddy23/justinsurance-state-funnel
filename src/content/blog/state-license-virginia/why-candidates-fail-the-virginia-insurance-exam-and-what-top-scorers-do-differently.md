@@ -12,7 +12,7 @@ image: /blog/images/virginia-insurance-continuing-education-made-simple-for-you.
 imageAlt: Why Candidates Fail the Virginia Insurance Exam — and What Top Scorers Do Differently
 ---
 
-Virginia's insurance exam first-time pass rates cluster in the low-to-mid 70s across the major lines — roughly 73–75% of first-time candidates pass, and approximately 25–27% do not. That gap is not explained by intelligence, financial sophistication, or aptitude for the insurance industry. It is explained almost entirely by preparation quality and preparation method. Candidates who fail follow predictable patterns that are easy to identify in hindsight. Candidates who pass follow a different set of patterns that are equally predictable. This post identifies both — specifically in the context of the Virginia exam's unique structure — so you can put yourself in the right group before exam day.
+Virginia's insurance exam first-time [pass rates](/pass-rates) cluster in the low-to-mid 70s across the major lines — roughly 73–75% of first-time candidates pass, and approximately 25–27% do not. That gap is not explained by intelligence, financial sophistication, or aptitude for the insurance industry. It is explained almost entirely by preparation quality and preparation method. Candidates who fail follow predictable patterns that are easy to identify in hindsight. Candidates who pass follow a different set of patterns that are equally predictable. This post identifies both — specifically in the context of the Virginia exam's unique structure — so you can put yourself in the right group before exam day.
 
 ### Why Candidates Fail: The Six Most Common Patterns
 
@@ -28,11 +28,11 @@ What top scorers do instead: They allocate preparation time proportionally to bo
 
 Reading notes, re-reading textbook chapters, and watching video content are all passive activities. Passive study creates familiarity — you recognize the content when you see it — but does not reliably build the retrieval strength needed under exam conditions. Insurance exams test specific factual recall: what is the minimum free-look period for LTC in Virginia? What is the employer threshold for workers' compensation? How many scored questions are on the Virginia state law section of the P&C exam? These questions have specific right answers, and recognizing a correct answer when you see it is not the same as producing it from memory under time pressure.
 
-What top scorers do instead: They practice retrieval — primarily through timed practice exams and flashcard systems. They write out definitions and rules from memory rather than looking them up. They answer practice questions without looking at notes before checking answers, rather than reading the question and the answer together. The discomfort of not knowing an answer during practice is exactly the feedback that produces learning.
+What top scorers do instead: They practice retrieval — primarily through timed practice exams and flashcard systems. They write out definitions and rules from memory rather than looking them up. They answer [practice questions](/virginia/practice-exam) without looking at notes before checking answers, rather than reading the question and the answer together. The discomfort of not knowing an answer during practice is exactly the feedback that produces learning.
 
 #### Pattern 3: Scheduling the Exam Before Reaching Readiness
 
-Virginia has no mandatory prelicensing course, which means the decision about when to schedule the exam belongs entirely to the candidate. Candidates who are self-imposing deadlines, feeling pressure to start earning income, or simply optimistic about their preparation level frequently schedule the exam before their practice scores demonstrate genuine readiness.
+Virginia has no mandatory [prelicensing](/virginia/prelicensing) course, which means the decision about when to schedule the exam belongs entirely to the candidate. Candidates who are self-imposing deadlines, feeling pressure to start earning income, or simply optimistic about their preparation level frequently schedule the exam before their practice scores demonstrate genuine readiness.
 
 The result: a failed exam at $35, a 24-hour minimum delay, and the same study period they would have needed anyway — plus the psychological drag of a failure.
 

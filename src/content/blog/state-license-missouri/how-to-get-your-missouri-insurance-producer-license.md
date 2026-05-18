@@ -16,7 +16,7 @@ imageAlt: >-
   missouri insurance producer license.
 ---
 
-Missouri's insurance licensing process has several features that make it one of the most accessible in the comparison states. The Missouri Department of Commerce and Insurance (DCI) — also called the Department of Insurance, Financial Institutions & Professional Registration (DIFP) — does not require prelicensing education, making Missouri join Maryland (eliminated PLE in October 2024) and Virginia among states where the Pearson VUE exam is the first mandatory step. There is no fingerprinting requirement. The exam fee of $29-$35 is the lowest of all comparison states. And the 16-hour CE requirement (vs. 24 hours in most comparison states) means ongoing license maintenance is less burdensome. Missouri's location at the geographic center of the United States — with Edward Jones (world's largest independent broker-dealer by advisor count) headquartered in St. Louis, Centene Corporation (Fortune 500 managed care), Boeing Defense, Cerner/Oracle Health in Kansas City, and Anheuser-Busch InBev in St. Louis — creates a distinctive professional insurance advisory market. Here's the complete guide.
+Missouri's insurance licensing process has several features that make it one of the most accessible in the comparison states. The Missouri Department of Commerce and Insurance (DCI) — also called the Department of Insurance, Financial Institutions & Professional Registration (DIFP) — does not require [prelicensing](/missouri/prelicensing) education, making Missouri join Maryland (eliminated PLE in October 2024) and Virginia among states where the Pearson VUE exam is the first mandatory step. There is no fingerprinting requirement. The exam fee of $29-$35 is the lowest of all comparison states. And the 16-hour CE requirement (vs. 24 hours in most comparison states) means ongoing license maintenance is less burdensome. Missouri's location at the geographic center of the United States — with Edward Jones (world's largest independent broker-dealer by advisor count) headquartered in St. Louis, Centene Corporation (Fortune 500 managed care), Boeing Defense, Cerner/Oracle Health in Kansas City, and Anheuser-Busch InBev in St. Louis — creates a distinctive professional insurance advisory market. Here's the complete guide.
 
 ## Who Regulates Missouri Insurance
 
@@ -36,7 +36,7 @@ DCI's distinctive multi-sector mandate: Like Minnesota's DOC, Missouri's DCI reg
 
 Missouri does not require prelicensing education. Candidates can schedule the Pearson VUE exam immediately without completing any DCI-approved prelicensing course.
 
-Strong recommendation: Although PLE is not required, the Pearson VUE exam is challenging — with first-attempt pass rates averaging 40-60% depending on line (per industry sources). JustInsurance's DCI-approved Missouri exam prep courses are built around the two-section Pearson VUE format with Missouri-specific state law content.
+Strong recommendation: Although PLE is not required, the Pearson VUE exam is challenging — with first-attempt [pass rates](/pass-rates) averaging 40-60% depending on line (per industry sources). JustInsurance's DCI-approved Missouri exam prep courses are built around the two-section Pearson VUE format with Missouri-specific state law content.
 
 Designation exemptions from exam: Missouri has specific provisions for certain designations — verify current exemption criteria at insurance.mo.gov. Candidates with qualifying designations should contact DCI before scheduling.
 

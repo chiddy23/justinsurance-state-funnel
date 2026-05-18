@@ -20,7 +20,7 @@ Wisconsin's CE system requires OCI-approved courses from OCI-approved providers.
 
 ## Where to Find Approved Providers
 
-Primary official source: oci.wi.gov → Agent Continuing Education Requirements
+Primary official source: oci.wi.gov → Agent [Continuing Education](/wisconsin/continuing-education) Requirements
 
 OCI maintains the current list of approved CE providers and approved courses. Multiple national providers and online platforms offer OCI-approved Wisconsin CE.
 

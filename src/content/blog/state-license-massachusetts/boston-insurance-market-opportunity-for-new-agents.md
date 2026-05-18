@@ -200,7 +200,7 @@ Partner with complementary professionals. CPAs, attorneys (especially estate pla
 
 Develop a digital presence. Boston is highly tech-forward. Professional website, LinkedIn presence, professional content marketing, and targeted outreach extend reach.
 
-Invest in expertise. Boston rewards genuine expertise. Continuing education beyond CE minimums, industry designations (CLU, ChFC, CFP, CIC, CPCU), and deep product knowledge all matter.
+Invest in expertise. Boston rewards genuine expertise. [Continuing education](/massachusetts/continuing-education) beyond CE minimums, industry designations (CLU, ChFC, CFP, CIC, CPCU), and deep product knowledge all matter.
 
 Be patient. Boston practices often take 3-5 years to hit stride. Agents who quit at year one miss the payoff.
 
@@ -268,6 +268,6 @@ The right choice depends on your goals, capital, network, and risk tolerance.
 
 ## Build Your Boston Insurance Career
 
-Boston offers real opportunity for agents willing to specialize and work consistently in one of the most sophisticated insurance markets in the Northeast. At JustInsurance, our Massachusetts prelicense course prepares you for the licensing exam and for building a career in Massachusetts's largest insurance market.
+Boston offers real opportunity for agents willing to specialize and work consistently in one of the most sophisticated insurance markets in the Northeast. At JustInsurance, our Massachusetts [prelicense](/massachusetts/prelicensing) course prepares you for the licensing exam and for building a career in Massachusetts's largest insurance market.
 
 Enroll today and start your Boston insurance career.

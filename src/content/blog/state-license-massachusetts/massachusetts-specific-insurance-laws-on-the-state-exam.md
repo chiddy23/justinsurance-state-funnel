@@ -30,7 +30,7 @@ Massachusetts insurance law is found primarily in:
 
 Massachusetts General Laws Chapter 175 — comprehensive insurance code
 
-M.G.L. c. 175, §162L — producer licensing provisions including the optional prelicense rule
+M.G.L. c. 175, §162L — producer licensing provisions including the optional [prelicense](/massachusetts/prelicensing) rule
 
 211 CMR (Code of Massachusetts Regulations) — Division of Insurance regulations
 
@@ -84,7 +84,7 @@ Examination: Required for most license types
 
 Background check: Required (no fingerprinting)
 
-Continuing education: 60 hours initially, 45 hours every 3 years thereafter (with 3 ethics)
+[Continuing education](/massachusetts/continuing-education): 60 hours initially, 45 hours every 3 years thereafter (with 3 ethics)
 
 Renewal cycle: Every 3 years (triennial), before birth date
 

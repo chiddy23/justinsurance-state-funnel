@@ -29,7 +29,7 @@ A property and casualty (P&C) license lets you advise on everything from renter 
 
 ## Complete your pre-licensing requirements
 
-Before you can take the Maryland property and casualty insurance exam, the state requires that you complete a specified number of pre-licensing hours. This coursework covers essential topics such as policy types, underwriting basics, and [Maryland insurance](/maryland) regulations. Before choosing a provider, verify the program meets state requirements so you can get credit for every hour you devote to studying.
+Before you can take the Maryland property and casualty insurance exam, the state requires that you complete a specified number of [pre-licensing](/maryland/prelicensing) hours. This coursework covers essential topics such as policy types, underwriting basics, and [Maryland insurance](/maryland) regulations. Before choosing a provider, verify the program meets state requirements so you can get credit for every hour you devote to studying.
 
 In addition to formal coursework, it is often helpful to review supplemental material or join study sessions with fellow candidates. Group discussions can clarify tricky concepts like premium ratings or policy exclusions. You can also explore online tutorial videos for more examples of how property and casualty coverage applies to real-life scenarios. The key is to make sure you understand fundamental principles before sitting for your exam.
 
@@ -39,7 +39,7 @@ A solid study plan not only helps you absorb information but also boosts your co
 
 -   Set specific goals: Decide on daily or weekly objectives, such as reading one chapter per day or scoring at least 85% on practice quizzes.
 -   Use memory techniques: Summarize complex rules in your own words or create flashcards to review terms like “liability coverage” and “deductible.”
--   Practice test simulations: Timed quizzes foster a real exam environment... by remaining calm under time constraints, you can focus on answering accurately.
+-   [Practice test](/maryland/practice-exam) simulations: Timed quizzes foster a real exam environment... by remaining calm under time constraints, you can focus on answering accurately.
 -   Review state regulations carefully: Maryland laws can differ from those of other states, so pay close attention to local guidelines on policy disclosures, [renewals and continuing education](/maryland/continuing-education), and claims processing.
 
 Studying incrementally and testing your understanding often will prepare you more thoroughly than cramming at the last minute. Remember that each small step builds your knowledge base.

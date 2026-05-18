@@ -16,7 +16,7 @@ imageAlt: >-
   license reciprocity: how it works.
 ---
 
-Insurance license reciprocity is one of the most valuable concepts for working producers. Reciprocity makes it possible for licensed agents to add new states to their practice without retaking exams or completing duplicate prelicense education. Nevada participates in the national reciprocity system but has specific rules — and recent changes — that affect how reciprocity works in practice.
+Insurance license reciprocity is one of the most valuable concepts for working producers. Reciprocity makes it possible for licensed agents to add new states to their practice without retaking exams or completing duplicate [prelicense](/nevada/prelicensing) education. Nevada participates in the national reciprocity system but has specific rules — and recent changes — that affect how reciprocity works in practice.
 
 Here's a clear breakdown of Nevada insurance license reciprocity.
 

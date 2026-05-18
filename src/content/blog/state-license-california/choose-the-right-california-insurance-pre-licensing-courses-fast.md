@@ -23,7 +23,7 @@ imageCredit: Photo by Pavel Danilyuk on Pexels
 
 If you want to launch a career in insurance, completing [California insurance pre-licensing courses](/california/prelicensing) is your essential first step. These courses prepare you for the [California insurance license exam](/california/requirements), which tests your knowledge of state regulations, policy types, and ethical considerations. While it might sound intimidating at first, setting up a plan for your studies can make the entire process much more manageable.
 
-Taking the right pre-licensing courses ensures you cover every topic the state wants you to master. You’ll learn vocabulary, legal requirements, and industry-specific regulations to help you pass your exam quickly and with confidence. With the proper guidance, you can fast-track your preparation and start your new career sooner than you might think.
+Taking the right [pre-licensing](/california/prelicensing) courses ensures you cover every topic the state wants you to master. You’ll learn vocabulary, legal requirements, and industry-specific regulations to help you pass your exam quickly and with confidence. With the proper guidance, you can fast-track your preparation and start your new career sooner than you might think.
 
 ### Why you need pre-licensing courses
 

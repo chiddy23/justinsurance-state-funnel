@@ -27,7 +27,7 @@ Background checks are often part of the application. You will need to submit you
 
 ## Complete your pre-licensing education
 
-Once you confirm you meet the basic qualifications, you need to fulfill the [pre-licensing education requirement](/california/prelicensing). As of January 1, 2026, California Assembly Bill 943 eliminated the line-specific product hour requirement — there’s no longer a different hour count for Property versus Casualty versus Life versus Health. The only mandatory prelicensing course is now the 12-hour Code and Ethics course from a CDI-approved provider, and that single course satisfies the prelicensing requirement for every line of authority. Most broker candidates still add voluntary, line-specific exam prep on top of the required Ethics course, because the state exam itself still tests the full body of policy provisions, state regulations, insurance ethics, and broker responsibilities.
+Once you confirm you meet the basic qualifications, you need to fulfill the [pre-licensing education requirement](/california/prelicensing). As of January 1, 2026, California Assembly Bill 943 eliminated the line-specific product hour requirement — there’s no longer a different hour count for Property versus Casualty versus Life versus Health. The only mandatory [prelicensing](/california/prelicensing) course is now the 12-hour Code and Ethics course from a CDI-approved provider, and that single course satisfies the prelicensing requirement for every line of authority. Most broker candidates still add voluntary, line-specific exam prep on top of the required Ethics course, because the state exam itself still tests the full body of policy provisions, state regulations, insurance ethics, and broker responsibilities.
 
 Course providers offer both online and classroom options. Online platforms can be particularly helpful if you balance work or family obligations. You can set your own pace and revisit lessons on more challenging topics. Keep track of your progress by reviewing any quizzes or self-assessments that come with the course. These checkpoints highlight areas where you may need extra study time before the real exam.
 
@@ -45,7 +45,7 @@ A clear plan will reduce stress and improve retention of the vast amount of info
 • Take practice quizzes to track your progress in areas like policy definitions or client disclosures.  
 • Use flashcards to memorize key regulations or terms.
 
-As your test date draws closer, do more comprehensive reviews of each topic. Any practice exam or timed quiz you complete will help you become comfortable working under time pressure.
+As your test date draws closer, do more comprehensive reviews of each topic. Any [practice exam](/california/practice-exam) or timed quiz you complete will help you become comfortable working under time pressure.
 
 ## Master exam-day strategies
 
@@ -72,7 +72,7 @@ To stay on top of CE deadlines, set up reminders a few months before your licens
 
 ## Take the next step with JustInsurance
 
-If you are looking for resources to help you complete pre-licensing education or keep up with continuing education, JustInsurance can simplify the process. By providing clear, organized course materials and practice quizzes, they help you systematically study for the broker exam. You also have the freedom to learn from anywhere with online modules tailored to your focus area. This adaptable approach is especially helpful if you have a busy lifestyle or simply prefer the convenience of home study.
+If you are looking for resources to help you complete pre-licensing education or keep up with [continuing education](/california/continuing-education), JustInsurance can simplify the process. By providing clear, organized course materials and practice quizzes, they help you systematically study for the broker exam. You also have the freedom to learn from anywhere with online modules tailored to your focus area. This adaptable approach is especially helpful if you have a busy lifestyle or simply prefer the convenience of home study.
 
 When you are ready, consider reaching out to JustInsurance for guidance on everything from registration steps to study plans. Many find it useful to have a structured program that reviews major concepts and pinpoints trouble spots, giving you a steady foundation as you move forward.
 

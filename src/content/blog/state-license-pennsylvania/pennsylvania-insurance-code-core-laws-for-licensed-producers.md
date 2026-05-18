@@ -17,7 +17,7 @@ imageAlt: >-
   pennsylvania insurance code: core laws for licensed producer.
 ---
 
-Passing the state exam gets you licensed. Staying compliant as a working Pennsylvania producer is a separate challenge — and the Pennsylvania Insurance Code (Title 40 of the Pennsylvania Statutes) is the master rulebook you need to navigate. Pennsylvania has a sophisticated regulatory environment that has evolved significantly in recent years, including the elimination of prelicense education requirements (Act 142 of 2024) and new mandatory CE topic requirements (effective April 29, 2025).
+Passing the state exam gets you licensed. Staying compliant as a working Pennsylvania producer is a separate challenge — and the Pennsylvania Insurance Code (Title 40 of the Pennsylvania Statutes) is the master rulebook you need to navigate. Pennsylvania has a sophisticated regulatory environment that has evolved significantly in recent years, including the elimination of [prelicense](/pennsylvania/prelicensing) education requirements (Act 142 of 2024) and new mandatory CE topic requirements (effective April 29, 2025).
 
 Here are the most important areas of Pennsylvania insurance law every producer needs to understand.
 
@@ -37,7 +37,7 @@ Key sections include:
 
 40 P.S. §233 et seq. — producer licensing provisions
 
-40 Pa. Stat. §310.8 — continuing education requirements
+40 Pa. Stat. §310.8 — [continuing education](/pennsylvania/continuing-education) requirements
 
 75 Pa. C.S. §1705 — auto insurance Tort Choice (Limited vs. Full Tort)
 

@@ -24,7 +24,7 @@ Keywords: [north carolina casualty insurance license](/north-carolina)
 
 Getting your North Carolina casualty insurance license may feel like a big undertaking, but once you know the core steps, the path gets much clearer. This license lets you sell the property damage and liability coverage that individuals and businesses count on for peace of mind. By following a structured plan, you can achieve your goal faster than you might expect.
 
-Think of your upcoming journey as a series of building blocks. Each block, such as pre-licensing or exam prep, gives you the foundation you need to reach the next phase. Before you know it, you’ll be scheduling your exam day, signing up clients, and starting a new career in insurance.
+Think of your upcoming journey as a series of building blocks. Each block, such as [pre-licensing](/north-carolina/prelicensing) or exam prep, gives you the foundation you need to reach the next phase. Before you know it, you’ll be scheduling your exam day, signing up clients, and starting a new career in insurance.
 
 ## Confirm North Carolina requirements
 
@@ -69,6 +69,6 @@ Remember that your journey doesn’t end with the exam. You’ll need [North Car
 
 Don’t forget to keep expanding your skill set. Hiring managers and potential clients appreciate agents who commit to professional growth and stay updated on emerging insurance trends. As you build your business, think about adding specializations, such as commercial liability or personal lines, to serve more clients.
 
-Finally, it’s a good idea to partner with reputable training and professional support organizations that can guide you along the way. If you want extra help at any stage, JustInsurance has helpful tools designed for North Carolina students. You’ll find step-by-step resources, targeted practice questions, and the support you need to feel prepared for every challenge.
+Finally, it’s a good idea to partner with reputable training and professional support organizations that can guide you along the way. If you want extra help at any stage, JustInsurance has helpful tools designed for North Carolina students. You’ll find step-by-step resources, targeted [practice questions](/north-carolina/practice-exam), and the support you need to feel prepared for every challenge.
 
 Ready to get started? Grab your pre-licensing materials, schedule your exam, and begin shaping your new future. With careful planning and the right resources, you can earn your North Carolina casualty insurance license faster than you might imagine, and position yourself for a rewarding career built on trust and expertise.

@@ -66,6 +66,6 @@ Never pressure a client to stay in a policy during free-look. If the client deci
 
 ## Protect Your Clients, Protect Your License
 
-Being transparent about free-look rights builds trust and keeps you compliant. At JustInsurance, our Texas CE and prelicense courses cover consumer protection rules in detail so you can confidently explain them to every client.
+Being transparent about free-look rights builds trust and keeps you compliant. At JustInsurance, our Texas CE and [prelicense](/texas/prelicensing) courses cover consumer protection rules in detail so you can confidently explain them to every client.
 
 Enroll today and sell with confidence, not uncertainty.

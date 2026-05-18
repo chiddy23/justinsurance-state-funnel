@@ -30,7 +30,7 @@ Illinois is one of the many states that primarily relies on NIPR for license app
 
 Before accessing NIPR for your Illinois application, you should have:
 
-Completed your 40 hours of prelicense education (for Life, Accident, and Health)
+Completed your 40 hours of [prelicense](/illinois/prelicensing) education (for Life, Accident, and Health)
 
 Passed your Pearson VUE state exam
 

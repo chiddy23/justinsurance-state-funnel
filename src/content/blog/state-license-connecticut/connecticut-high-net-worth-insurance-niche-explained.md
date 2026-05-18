@@ -254,6 +254,6 @@ HNW practice development requires patience but produces exceptional long-term re
 
 ## Build Your Connecticut High-Net-Worth Practice
 
-Connecticut's HNW market offers exceptional opportunity for properly positioned producers. At JustInsurance, our Connecticut prelicense and CE courses provide the foundational professional excellence that any specialty practice requires.
+Connecticut's HNW market offers exceptional opportunity for properly positioned producers. At JustInsurance, our Connecticut [prelicense](/connecticut/prelicensing) and CE courses provide the foundational professional excellence that any specialty practice requires.
 
 Enroll today and start building toward Connecticut HNW insurance specialty practice.

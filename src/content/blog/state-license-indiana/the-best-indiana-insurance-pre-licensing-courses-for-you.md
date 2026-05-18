@@ -19,19 +19,19 @@ If you’re looking to launch a career as an [insurance agent in Indiana](/india
 
 ## Understand licensing basics
 
-Before you jump into any program, it’s important to understand what the licensing process involves. Indiana’s Department of Insurance requires a certain number of pre-licensing hours, focusing on state rules, industry regulations, and essential policy knowledge. You can choose a Life & Health license if you plan to work with health providers or life insurance companies. A Property & Casualty license suits those who want to help clients protect their homes, vehicles, and businesses.
+Before you jump into any program, it’s important to understand what the licensing process involves. Indiana’s Department of Insurance requires a certain number of [pre-licensing](/indiana/prelicensing) hours, focusing on state rules, industry regulations, and essential policy knowledge. You can choose a Life & Health license if you plan to work with health providers or life insurance companies. A Property & Casualty license suits those who want to help clients protect their homes, vehicles, and businesses.
 
 Many aspiring agents start by researching the specific hours required for each license line. For example, you might need a set number of classroom or online study hours for Life & Health and another requirement for Property & Casualty. Knowing these basics helps you plan your schedule more effectively. Think of this step as laying the groundwork for your new career. Once you have a clear picture of which license you want, you can choose a course that meets Indiana’s pre-licensing requirements.
 
 ## Compare course providers
 
-Not all Indiana insurance pre-licensing courses deliver the same experience, so it pays to compare providers before you commit. Read online reviews to see how past students rate their study materials, instructor expertise, and overall exam pass rates. If you have friends or colleagues already in the industry, ask them for recommendations. You’ll often hear about top-notch instructors, or providers who make complicated topics easier to grasp.
+Not all Indiana insurance pre-licensing courses deliver the same experience, so it pays to compare providers before you commit. Read online reviews to see how past students rate their study materials, instructor expertise, and overall exam [pass rates](/pass-rates). If you have friends or colleagues already in the industry, ask them for recommendations. You’ll often hear about top-notch instructors, or providers who make complicated topics easier to grasp.
 
 You can also explore services like JustInsurance, which offer help connecting prospective agents to reliable course options. By using a resource like that, you can quickly compare prices, course features, and student feedback in one place. Trust your instincts here: if a provider lacks transparency about pass rates or doesn’t respond quickly to your questions, it may not be the right fit for you.
 
 ## Focus on study resources
 
-Quality study resources can make or break your pre-licensing experience. Look for courses that provide up-to-date textbooks, practice questions, and interactive learning tools. Some online platforms even include video tutorials or live webinars, which can be incredibly helpful if you’re a visual learner. Practice exams are another big plus, as they help you gauge your readiness and pinpoint areas for more review.
+Quality study resources can make or break your pre-licensing experience. Look for courses that provide up-to-date textbooks, [practice questions](/indiana/practice-exam), and interactive learning tools. Some online platforms even include video tutorials or live webinars, which can be incredibly helpful if you’re a visual learner. Practice exams are another big plus, as they help you gauge your readiness and pinpoint areas for more review.
 
 You might also prefer a provider that offers flashcards or mobile apps so you can study on the go. A solid mix of reading materials, quizzes, and real-life scenarios ensures you’ll stay engaged and absorb the content. Remember that insurance laws and regulations can change over time, so make sure the course materials you’re reviewing stay current with Indiana’s latest requirements.
 

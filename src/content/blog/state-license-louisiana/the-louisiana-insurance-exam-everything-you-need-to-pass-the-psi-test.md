@@ -16,7 +16,7 @@ imageAlt: >-
   insurance exam: everything you need to pass th.
 ---
 
-If you're preparing to sit the Louisiana insurance licensing exam — or you're trying to understand what you're getting into before you commit — this guide covers everything. Louisiana uses PSI Services LLC to administer all producer licensing exams, the exams are in-person only, and the passing score is 70%. What makes Louisiana distinctive is that there is no required prelicensing coursework standing between you and your exam date. You can schedule your PSI exam as soon as you feel ready. The challenge is making sure that readiness is real. Here is exactly what the exam looks like, how it works, and how to approach it strategically.
+If you're preparing to sit the Louisiana insurance licensing exam — or you're trying to understand what you're getting into before you commit — this guide covers everything. Louisiana uses PSI Services LLC to administer all producer licensing exams, the exams are in-person only, and the passing score is 70%. What makes Louisiana distinctive is that there is no required [prelicensing](/louisiana/prelicensing) coursework standing between you and your exam date. You can schedule your PSI exam as soon as you feel ready. The challenge is making sure that readiness is real. Here is exactly what the exam looks like, how it works, and how to approach it strategically.
 
 ## Who Administers the Louisiana Insurance Exam?
 

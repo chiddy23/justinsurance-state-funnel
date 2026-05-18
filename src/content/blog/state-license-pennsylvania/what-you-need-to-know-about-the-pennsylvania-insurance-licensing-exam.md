@@ -18,7 +18,7 @@ imageCredit: Photo by RDNE Stock project on Pexels
 
 If you’re aiming to start a new career in insurance, taking the [Pennsylvania insurance licensing exam](/pennsylvania/requirements) is a major milestone. This exam is designed to test your knowledge of core insurance concepts and Pennsylvania regulations, ensuring that you’re well-prepared to serve clients ethically and effectively. Although facing a state exam can feel daunting, the good news is that a combination of targeted study, practical preparation, and the right mindset will help you succeed on your first try.
 
-There are several steps involved before you even set foot in a testing center. From understanding requirements to scheduling your exam to getting ready for test day, each stage plays a key role in your licensing journey. Below is a clear roadmap to guide you through the process, including how to meet pre-licensing obligations, budget your time, and approach the exam confidently.
+There are several steps involved before you even set foot in a testing center. From understanding requirements to scheduling your exam to getting ready for test day, each stage plays a key role in your licensing journey. Below is a clear roadmap to guide you through the process, including how to meet [pre-licensing](/pennsylvania/prelicensing) obligations, budget your time, and approach the exam confidently.
 
 ## Review the license requirements
 
@@ -38,7 +38,7 @@ Once you’ve enrolled in a pre-licensing course, commit to a regular study sche
 
 Study with a sense of balance so you don’t burn out. Break complex subjects into smaller sections. Review insurance terminology in bite-sized pieces, and consider using flashcards or short quizzes to test your retention in real time. Keep an eye on any weak areas you discover and spend extra time reinforcing them. The more familiar you become with the core concepts, the more prepared you’ll feel as exam day approaches.
 
-You can also look for practice tests that mimic the Pennsylvania insurance licensing exam format. These are especially helpful in getting used to the style of questions you’ll see. Launch each practice test under realistic conditions—quiet room, timed format, and minimal distractions—so you feel comfortable and in control when it’s the real thing.
+You can also look for practice tests that mimic the Pennsylvania insurance licensing exam format. These are especially helpful in getting used to the style of questions you’ll see. Launch each [practice test](/pennsylvania/practice-exam) under realistic conditions—quiet room, timed format, and minimal distractions—so you feel comfortable and in control when it’s the real thing.
 
 ## Schedule and pay for the exam
 

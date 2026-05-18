@@ -51,7 +51,7 @@ Consider where your study approach broke down. Were you spending enough time on 
 ## 5 Frequently Asked Questions
 
 - How soon can I retake the Texas insurance exam? You can retake it after 24 hours. That said, booking it too quickly without additional preparation usually leads to another failed attempt.
-- Do I have to redo my prelicense course before retaking? No. Your 40-hour prelicense completion remains valid. You only need to pay the retake fee and schedule a new exam appointment.
+- Do I have to redo my [prelicense](/texas/prelicensing) course before retaking? No. Your 40-hour prelicense completion remains valid. You only need to pay the retake fee and schedule a new exam appointment.
 - Will a failed attempt show up on my license application? No. TDI's application process looks at your most recent passing result, not your full attempt history.
 - Is there a limit to how many times I can retake the exam in Texas? Texas does not impose a maximum number of attempts. There is no point at which TDI bars you from trying again.
 - What if I keep failing? Is there additional help available? Yes. If you're struggling after multiple attempts, it's worth revisiting your study materials and switching your approach to more practice-focused preparation. A different course format may also help if your current one isn't clicking.

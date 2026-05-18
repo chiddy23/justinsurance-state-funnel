@@ -12,7 +12,7 @@ image: /blog/images/your-fast-track-to-a-minnesota-insurance-license.jpg
 imageAlt: "CE Exemptions in Minnesota: Who Qualifies and What Lines Are Exempt"
 ---
 
-Minnesota's continuing education requirement applies broadly — but not universally. Specific categories of producers are exempt from the standard 24-hour biennial CE obligation, and specific lines of authority carry no CE requirement at all. Understanding who qualifies for an exemption and which licenses are exempt matters both for producers who may not need to complete CE and for producers who believe they are exempt when they are not. Misidentifying your CE status — assuming you are exempt when you are subject to the requirement, or completing unnecessary CE because you did not know an exemption applied — creates either compliance risk or wasted time and money. This post covers every CE exemption available in Minnesota, the conditions each exemption requires, the important exceptions to non-resident exemptions, and the lines of authority that carry no CE obligation.
+Minnesota's [continuing education](/minnesota/continuing-education) requirement applies broadly — but not universally. Specific categories of producers are exempt from the standard 24-hour biennial CE obligation, and specific lines of authority carry no CE requirement at all. Understanding who qualifies for an exemption and which licenses are exempt matters both for producers who may not need to complete CE and for producers who believe they are exempt when they are not. Misidentifying your CE status — assuming you are exempt when you are subject to the requirement, or completing unnecessary CE because you did not know an exemption applied — creates either compliance risk or wasted time and money. This post covers every CE exemption available in Minnesota, the conditions each exemption requires, the important exceptions to non-resident exemptions, and the lines of authority that carry no CE obligation.
 
 ### The Three Categories of CE Exemptions
 
@@ -78,7 +78,7 @@ Bail bonds: A limited line for bail bond agents. If the bail bonds license does 
 
 Title insurance: Title insurance is a specialized line primarily transacted through attorneys and title companies. Title-only licensees whose license does not require an exam are exempt from CE.
 
-Farm Property and Farm Liability: This specialized line for agricultural insurance does not require prelicensing education before the exam. The CE requirement status for Farm Property and Farm Liability should be verified directly with the Department of Commerce, as the exemption framework depends on whether an exam is required.
+Farm Property and Farm Liability: This specialized line for agricultural insurance does not require [prelicensing](/minnesota/prelicensing) education before the exam. The CE requirement status for Farm Property and Farm Liability should be verified directly with the Department of Commerce, as the exemption framework depends on whether an exam is required.
 
 ### What the Exemptions Do NOT Cover
 

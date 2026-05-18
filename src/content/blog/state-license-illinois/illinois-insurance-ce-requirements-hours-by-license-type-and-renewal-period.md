@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements: hours by license type and renewal period.
 ---
 
-Keeping your Illinois insurance license active requires more than paying a renewal fee every 2 years. You need to complete continuing education (CE) on schedule, using approved courses, and have it reported correctly. Miss the mark, and your license can lapse — costing you time, money, and lost business.
+Keeping your Illinois insurance license active requires more than paying a renewal fee every 2 years. You need to complete [continuing education](/illinois/continuing-education) (CE) on schedule, using approved courses, and have it reported correctly. Miss the mark, and your license can lapse — costing you time, money, and lost business.
 
 Here's a clear breakdown of Illinois's insurance CE requirements.
 

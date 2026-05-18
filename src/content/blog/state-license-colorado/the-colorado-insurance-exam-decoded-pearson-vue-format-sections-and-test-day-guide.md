@@ -50,7 +50,7 @@ Website: doi.colorado.gov
 
 Every Colorado insurance licensing exam — regardless of line of authority — is divided into two sections:
 
-General Knowledge Section: Tests fundamental insurance product knowledge applicable across all states. Covers policy types, insurance concepts, policy provisions, contract law, and field underwriting procedures. This content is consistent with national standards and drawn from your 40-hour general prelicensing curriculum.
+General Knowledge Section: Tests fundamental insurance product knowledge applicable across all states. Covers policy types, insurance concepts, policy provisions, contract law, and field underwriting procedures. This content is consistent with national standards and drawn from your 40-hour general [prelicensing](/colorado/prelicensing) curriculum.
 
 State-Specific (Colorado) Section: Tests Colorado-specific statutes, rules, and regulations. Covers the Insurance Commissioner's authority, producer licensing and legal responsibility, unfair competition and deceptive practices, and line-specific Colorado regulations. This content is drawn from your 10-hour Colorado-specific prelicensing curriculum — particularly the 4-hour Legal Concepts and Regulations component.
 

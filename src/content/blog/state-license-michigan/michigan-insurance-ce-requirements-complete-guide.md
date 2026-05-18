@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements: complete guide.
 ---
 
-Michigan's continuing education framework keeps licensed insurance producers current with evolving products, regulations, and professional standards while maintaining Michigan's consumer protection priorities. Michigan's CE system has several distinctive features worth understanding — including a proctor requirement for online CE final exams (unusual among recent states), a carryover cap of 12 hours (not unlimited), a $1.00 per credit hour reporting fee, and a review date system tied to your birth month and year. For both new and established Michigan producers, knowing the rules precisely helps you stay compliant efficiently.
+Michigan's [continuing education](/michigan/continuing-education) framework keeps licensed insurance producers current with evolving products, regulations, and professional standards while maintaining Michigan's consumer protection priorities. Michigan's CE system has several distinctive features worth understanding — including a proctor requirement for online CE final exams (unusual among recent states), a carryover cap of 12 hours (not unlimited), a $1.00 per credit hour reporting fee, and a review date system tied to your birth month and year. For both new and established Michigan producers, knowing the rules precisely helps you stay compliant efficiently.
 
 Here's a clear breakdown of Michigan insurance CE requirements.
 

@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Loveleen Cherub on Pexels
 ---
 
-You’re not alone if the [Georgia insurance CE](/georgia/continuing-education) exam feels like a hurdle on your path to maintaining a valid insurance license. If you are still working toward your initial license, our [Georgia insurance prelicensing](/georgia/prelicensing) courses prepare you for the state exam before CE obligations begin. In fact, continuing education can be the key to staying competitive in the state’s insurance market. Completing your CE requirements successfully, and then passing any relevant exam, doesn’t have to be stressful. When you understand Georgia’s rules, pick the right courses, and prepare strategically, you’ll be in a prime position to succeed.
+You’re not alone if the [Georgia insurance CE](/georgia/continuing-education) exam feels like a hurdle on your path to maintaining a valid insurance license. If you are still working toward your initial license, our [Georgia insurance prelicensing](/georgia/prelicensing) courses prepare you for the state exam before CE obligations begin. In fact, [continuing education](/georgia/continuing-education) can be the key to staying competitive in the state’s insurance market. Completing your CE requirements successfully, and then passing any relevant exam, doesn’t have to be stressful. When you understand Georgia’s rules, pick the right courses, and prepare strategically, you’ll be in a prime position to succeed.
 
 ## Understand Georgia CE basics
 
@@ -69,7 +69,7 @@ Many people appreciate the flexibility of online CE courses because you can fit 
 
 Once you fulfill the course requirements, you may need to sit for an exam that tests your CE knowledge. This step can vary depending on the particular courses you’ve taken; some providers offer self-study modules that conclude with a final quiz or proctored exam. Often, these exams are designed to confirm your grasp of the essential [Georgia insurance](/georgia) CE exam material, from ethics guidelines to underwriting basics.
 
-You’ll want to concentrate on any topics you find challenging, and it’s smart to maintain a regular study routine. This means reading through course summaries, taking note of key points, and perhaps creating flashcards for tricky definitions or regulatory specifics. If the exam feels daunting, remember that consistent review is your best friend. After tackling each chapter, test yourself with practice questions until the concepts become second nature. You’ll feel more confident as you see your quiz scores improve.
+You’ll want to concentrate on any topics you find challenging, and it’s smart to maintain a regular study routine. This means reading through course summaries, taking note of key points, and perhaps creating flashcards for tricky definitions or regulatory specifics. If the exam feels daunting, remember that consistent review is your best friend. After tackling each chapter, test yourself with [practice questions](/georgia/practice-exam) until the concepts become second nature. You’ll feel more confident as you see your quiz scores improve.
 
 ## Budget for fees and materials
 

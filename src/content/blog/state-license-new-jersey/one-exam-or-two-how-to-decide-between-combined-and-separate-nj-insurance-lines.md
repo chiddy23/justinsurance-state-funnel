@@ -12,7 +12,7 @@ image: /blog/images/achieve-your-goals-with-nj-insurance-license-eligibility-hel
 imageAlt: One Exam or Two? How to Decide Between Combined and Separate NJ Insurance Lines
 ---
 
-One of the first strategic decisions a New Jersey insurance licensing candidate faces has nothing to do with studying — it is deciding how many exams to take and in what order. New Jersey does not offer a single combined Life and Health exam or a single combined Property and Casualty exam the way some states do. Every line of authority is a separate PSI exam with its own fee, its own prelicensing course requirement, and its own certificate of completion. The question is not whether to take separate exams — you will — but how many lines to pursue upfront, and whether to take them concurrently or sequentially.
+One of the first strategic decisions a New Jersey insurance licensing candidate faces has nothing to do with studying — it is deciding how many exams to take and in what order. New Jersey does not offer a single combined Life and Health exam or a single combined Property and Casualty exam the way some states do. Every line of authority is a separate PSI exam with its own fee, its own [prelicensing](/new-jersey/prelicensing) course requirement, and its own certificate of completion. The question is not whether to take separate exams — you will — but how many lines to pursue upfront, and whether to take them concurrently or sequentially.
 
 ### What the Lines of Authority Actually Are
 
@@ -98,7 +98,7 @@ Property and Casualty have less content overlap in the national sections than Li
 
 However, the state law sections for both P&C exams share the same Section 6 content (the 25 common NJ law questions) and differ only in their Section 7 line-specific content — Property-specific NJ rules versus Casualty-specific NJ rules (primarily the no-fault auto system).
 
-NJ's Property exam has the lowest pass rate of all NJ lines at approximately 49%. The Casualty exam is higher at approximately 65–66%. Candidates who find the coinsurance formula and named-perils versus open-perils analysis challenging may benefit from taking Property alone first, with Casualty added after.
+NJ's Property exam has the lowest [pass rate](/pass-rates) of all NJ lines at approximately 49%. The Casualty exam is higher at approximately 65–66%. Candidates who find the coinsurance formula and named-perils versus open-perils analysis challenging may benefit from taking Property alone first, with Casualty added after.
 
 Total prelicensing requirement: 40 hours for both lines (20 per line).
 

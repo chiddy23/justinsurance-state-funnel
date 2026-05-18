@@ -231,6 +231,6 @@ NASCAR/motorsports niche. The Lake Norman-Mooresville area is home to numerous N
 
 ## Build Your Charlotte Insurance Career
 
-Charlotte offers exceptional opportunity for agents willing to engage with the most concentrated banking market outside New York. At JustInsurance, our North Carolina prelicense course prepares you for the licensing exam and for building a career in Charlotte's sophisticated market.
+Charlotte offers exceptional opportunity for agents willing to engage with the most concentrated banking market outside New York. At JustInsurance, our North Carolina [prelicense](/north-carolina/prelicensing) course prepares you for the licensing exam and for building a career in Charlotte's sophisticated market.
 
 Enroll today and start your Charlotte insurance career.

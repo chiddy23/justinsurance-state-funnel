@@ -64,7 +64,7 @@ In any situation, it’s important to be proactive. If you suspect you qualify, 
 
 ## Keep building your expertise
 
-Continuing education isn’t just a box to check. It can strengthen your professional reputation and skill set, particularly in a fast-paced market like New York. When you’re choosing classes, look for courses that enrich your existing knowledge or help you branch out into new areas, be it advanced underwriting concepts, marketing tactics, or specialized insurance products.
+[Continuing education](/new-york/continuing-education) isn’t just a box to check. It can strengthen your professional reputation and skill set, particularly in a fast-paced market like New York. When you’re choosing classes, look for courses that enrich your existing knowledge or help you branch out into new areas, be it advanced underwriting concepts, marketing tactics, or specialized insurance products.
 
 By viewing CE requirements as an opportunity for growth, you’ll turn these study hours into an investment in your future. Clients appreciate an insurance professional who stays up-to-date on changing laws and industry trends. Ultimately, your commitment to ongoing education can shape you into a trusted advisor, not just someone who sells policies.
 

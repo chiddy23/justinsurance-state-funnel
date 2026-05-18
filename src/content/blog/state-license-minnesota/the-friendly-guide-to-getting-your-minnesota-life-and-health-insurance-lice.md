@@ -18,7 +18,7 @@ imageCredit: Photo by Vitaly Gariev on Pexels
 
 Natural light can make a small apartment feel twice as big. Similarly, a friendly roadmap can make the process of getting your [Minnesota life and health insurance license](/minnesota) feel simpler than you might expect. Whether you are changing careers or just beginning your professional journey, this guide will walk you through each step in a straightforward, encouraging way. By the end, you’ll feel ready to take action and confidently move toward your new insurance career.
 
-In Minnesota, the requirements may seem a bit daunting at first, but when you break down the process into clear steps—pre-licensing, exam scheduling, exam prep, and final application—it becomes much more manageable. Let’s explore these steps together to help you earn your Minnesota life and health insurance license without the stress.
+In Minnesota, the requirements may seem a bit daunting at first, but when you break down the process into clear steps—[pre-licensing](/minnesota/prelicensing), exam scheduling, exam prep, and final application—it becomes much more manageable. Let’s explore these steps together to help you earn your Minnesota life and health insurance license without the stress.
 
 ## Understand Minnesota license basics
 
@@ -57,7 +57,7 @@ Once you pass the exam, you’re almost finished. Next, you’ll need to complet
 
 Filling out the application accurately is important. Take your time to include all relevant information, and ensure your contact details are up to date so you’re easy to reach. If everything checks out, your license is usually approved and issued, making you an officially recognized insurance producer in Minnesota.
 
-If you plan to work with a specific insurance agency, they may guide you through this application step. Otherwise, the state Department of Commerce website will offer detailed instructions. After your license is issued, keep it active by staying aware of continuing education requirements, which helps you remain knowledgeable for your clients.
+If you plan to work with a specific insurance agency, they may guide you through this application step. Otherwise, the state Department of Commerce website will offer detailed instructions. After your license is issued, keep it active by staying aware of [continuing education](/minnesota/continuing-education) requirements, which helps you remain knowledgeable for your clients.
 
 ## FAQs about your license
 

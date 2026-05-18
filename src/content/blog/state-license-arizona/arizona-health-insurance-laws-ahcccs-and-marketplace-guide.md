@@ -218,6 +218,6 @@ Cannot be represented as insurance products
 
 ## Serve Arizona Health Insurance Clients With Confidence
 
-Arizona's health insurance landscape — Healthcare.gov marketplace, AHCCCS, the health care freedom philosophy, and significant senior Medicare market — rewards producers who understand state-specific dynamics. At JustInsurance, our Arizona prelicense and CE courses provide health insurance coverage including Arizona-specific regulatory provisions.
+Arizona's health insurance landscape — Healthcare.gov marketplace, AHCCCS, the health care freedom philosophy, and significant senior Medicare market — rewards producers who understand state-specific dynamics. At JustInsurance, our Arizona [prelicense](/arizona/prelicensing) and CE courses provide health insurance coverage including Arizona-specific regulatory provisions.
 
 Enroll today and build your Arizona health insurance expertise.

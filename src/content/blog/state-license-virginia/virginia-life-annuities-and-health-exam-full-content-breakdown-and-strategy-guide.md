@@ -12,7 +12,7 @@ image: /blog/images/the-best-virginia-insurance-license-types-for-new-agents.jpg
 imageAlt: "Virginia Life, Annuities and Health Exam: Full Content Breakdown and Strategy Guide"
 ---
 
-The Virginia Series 11-01 exam — Life, Annuities and Health — is the broadest and most content-dense exam in the Virginia licensing program. It has 140 scored questions spread across a 150-minute session, covering 16 major content sections, and requires passing both the 100-question national section and the 40-question Virginia state law section at 70% or higher. Virginia also ranks the L/A/H exam as having a first-time pass rate in the mid-70s — meaning roughly one in four first-time candidates does not pass. Understanding exactly what is on this exam and how to allocate your preparation time is the most direct path to being in the three-quarters who do.
+The Virginia Series 11-01 exam — Life, Annuities and Health — is the broadest and most content-dense exam in the Virginia licensing program. It has 140 scored questions spread across a 150-minute session, covering 16 major content sections, and requires passing both the 100-question national section and the 40-question Virginia state law section at 70% or higher. Virginia also ranks the L/A/H exam as having a first-time [pass rate](/pass-rates) in the mid-70s — meaning roughly one in four first-time candidates does not pass. Understanding exactly what is on this exam and how to allocate your preparation time is the most direct path to being in the three-quarters who do.
 
 ### National Content Section: 100 Scored Questions
 

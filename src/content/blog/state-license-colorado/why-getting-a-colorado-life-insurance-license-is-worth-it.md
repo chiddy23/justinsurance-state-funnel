@@ -49,7 +49,7 @@ Beyond sales abilities, obtaining a Colorado life insurance license strengthens 
 3.  Apply for your license: Once you have passed the exam, you will complete an application that includes submitting your score report and undergoing a background check.
 4.  Maintain your license: Expect to complete ongoing [Colorado continuing education](/colorado/continuing-education), ensuring you stay updated on new laws and product changes.
 
-Each step is straightforward but requires diligence and time. Finding a solid pre-licensing provider can be your main focus when getting started. Some courses are online, offering flexibility, while others are classroom-based for those who want in-person interaction.
+Each step is straightforward but requires diligence and time. Finding a solid [pre-licensing](/colorado/prelicensing) provider can be your main focus when getting started. Some courses are online, offering flexibility, while others are classroom-based for those who want in-person interaction.
 
 ## Chart your next steps with confidence
 
@@ -64,13 +64,13 @@ Once you have your Colorado life insurance license, there are plenty of ways to 
 3.  Why choose life insurance over other lines of insurance?  
     Life insurance often offers strong earning potential and the satisfaction of providing financial safety for families. It also gives you the option to specialize in areas like final expense or universal life coverage, depending on your interests.
 4.  Do I need to renew my license regularly?  
-    Yes. You must complete continuing education to keep your license active, which ensures you remain up-to-date on legal changes and best practices in the industry.
+    Yes. You must complete [continuing education](/colorado/continuing-education) to keep your license active, which ensures you remain up-to-date on legal changes and best practices in the industry.
 5.  Do I have to work for a single insurance company?  
     Not necessarily. You can work for a single carrier, join an agency that represents multiple insurers, or operate as an independent agent, depending on your career goals and preferences.
 
 ## Embrace the support of JustInsurance
 
-Venturing into the world of life insurance can feel exciting and overwhelming at the same time. That is where JustInsurance can make a difference. Whether you need study guides, practice questions, or tips on where to find clients, JustInsurance can point you in the right direction. It is always reassuring to know you have resources to rely on throughout your journey.
+Venturing into the world of life insurance can feel exciting and overwhelming at the same time. That is where JustInsurance can make a difference. Whether you need study guides, [practice questions](/colorado/practice-exam), or tips on where to find clients, JustInsurance can point you in the right direction. It is always reassuring to know you have resources to rely on throughout your journey.
 
 ## Take the first step toward a new career
 

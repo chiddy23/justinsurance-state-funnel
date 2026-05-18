@@ -18,7 +18,7 @@ Most New Jersey insurance producers complete 24 hours of CE every two years with
 
 #### 1. Nonresident Producers
 
-New Jersey is a member of the NAIC Continuing Education Reciprocity Agreement. Under this agreement, nonresident producers who are in good standing with their home state's CE requirements are fully exempt from New Jersey's 24-hour CE requirement.
+New Jersey is a member of the NAIC [Continuing Education](/new-jersey/continuing-education) Reciprocity Agreement. Under this agreement, nonresident producers who are in good standing with their home state's CE requirements are fully exempt from New Jersey's 24-hour CE requirement.
 
 This is one of the most straightforward CE exemptions in any state. If you are a nonresident producer licensed in New Jersey — meaning another state is your declared home state — you are not required to complete NJ CE. You satisfy CE compliance in New Jersey by remaining current with your home state's CE requirements.
 

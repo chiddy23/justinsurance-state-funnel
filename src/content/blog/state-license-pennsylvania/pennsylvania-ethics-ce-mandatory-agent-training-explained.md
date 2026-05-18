@@ -16,7 +16,7 @@ imageAlt: >-
   pennsylvania ethics ce: mandatory agent training explained.
 ---
 
-Every licensed Pennsylvania insurance producer must complete ethics continuing education — a requirement that became mandatory effective April 29, 2025. Beyond satisfying a regulatory requirement, ethics CE protects your career and reinforces the standards that separate legitimate insurance professionals from those who run into trouble with the Pennsylvania Insurance Department. Understanding what the requirement covers, why Pennsylvania added it, and how to satisfy it efficiently helps you meet this requirement while gaining genuinely useful professional content.
+Every licensed Pennsylvania insurance producer must complete ethics [continuing education](/pennsylvania/continuing-education) — a requirement that became mandatory effective April 29, 2025. Beyond satisfying a regulatory requirement, ethics CE protects your career and reinforces the standards that separate legitimate insurance professionals from those who run into trouble with the Pennsylvania Insurance Department. Understanding what the requirement covers, why Pennsylvania added it, and how to satisfy it efficiently helps you meet this requirement while gaining genuinely useful professional content.
 
 Here's what every Pennsylvania agent should know about the ethics CE requirement.
 
@@ -66,7 +66,7 @@ Course type designation matters. A general P&C course that happens to mention et
 
 Specific ethics approval. The course must be specifically categorized and approved by PID as Ethics CE.
 
-General prelicense ethics content doesn't count. Even if you've covered ethics in prior CE, those prior courses don't apply if completed before April 29, 2025.
+General [prelicense](/pennsylvania/prelicensing) ethics content doesn't count. Even if you've covered ethics in prior CE, those prior courses don't apply if completed before April 29, 2025.
 
 ## What Ethics CE Covers
 

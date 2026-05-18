@@ -52,7 +52,7 @@ Processing time: Applications are processed in the same 15-business-day window a
 
 ### Non-Resident CE Requirements
 
-Non-resident producers who hold a Virginia non-resident license are not required to complete Virginia CE. Virginia accepts CE compliance from the producer's home state as satisfying the Virginia continuing education requirement. If you are CE-compliant in your resident state, you are CE-compliant in Virginia.
+Non-resident producers who hold a Virginia non-resident license are not required to complete Virginia CE. Virginia accepts CE compliance from the producer's home state as satisfying the Virginia [continuing education](/virginia/continuing-education) requirement. If you are CE-compliant in your resident state, you are CE-compliant in Virginia.
 
 Important exception for LTC: Non-resident producers who sell Long-Term Care Partnership products in Virginia must complete the initial 8-hour LTC training and the 2-hour Virginia LTC Partnership course before selling LTC Partnership policies in the state, regardless of their home state's LTC training completion. They must also complete the 4-hour ongoing LTC training every 24 months thereafter.
 
@@ -92,7 +92,7 @@ Complete Fieldprint fingerprinting (FPVABOIProducer code) — required for new V
 
 Submit your CHRR
 
-If you miss the 90-day transfer window, you must satisfy all Virginia resident prelicensing requirements from scratch — including passing the Prometric exam for each line.
+If you miss the 90-day transfer window, you must satisfy all Virginia resident [prelicensing](/virginia/prelicensing) requirements from scratch — including passing the Prometric exam for each line.
 
 Virginia's system verifies license status automatically through the NAIC Producer Database — no letter of certification from your prior state is required.
 

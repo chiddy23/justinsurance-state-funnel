@@ -18,7 +18,7 @@ imageAlt: >-
 
 If you're preparing for the Oregon insurance exam, you've probably heard mixed reports about how difficult it is. The honest answer is that Oregon's exam is moderately challenging — it's well-designed, requires genuine preparation, and tests both concepts and application. Understanding the difficulty helps you prepare properly rather than being caught off guard.
 
-Here's an honest look at Oregon insurance exam pass rates and difficulty.
+Here's an honest look at Oregon insurance exam [pass rates](/pass-rates) and difficulty.
 
 ## Where Oregon Ranks on Difficulty
 
@@ -30,7 +30,7 @@ Several factors shape Oregon's difficulty.
 
 Substantial content breadth. The combined Life and Health exam covers life insurance, annuities, health insurance, Medicare, long-term care, disability, federal regulation, and Oregon-specific content — 150 questions worth of material.
 
-Required prelicense education. Oregon requires 40 hours of prelicense education for the combined Life and Health exam. The exam tests at the depth that 40 hours of preparation should cover.
+Required [prelicense](/oregon/prelicensing) education. Oregon requires 40 hours of prelicense education for the combined Life and Health exam. The exam tests at the depth that 40 hours of preparation should cover.
 
 Oregon-specific content. Approximately 15-20% of the exam tests Oregon-specific laws, regulations, and producer responsibilities. Generic national study materials often don't adequately cover this content.
 
@@ -110,7 +110,7 @@ Aim for 80%+ consistently on practice exams before scheduling your real exam.
 
 Insufficient time in prelicense education. Treating the 40 hours as something to rush through rather than absorb.
 
-Insufficient practice questions. Reading isn't practice.
+Insufficient [practice questions](/oregon/practice-exam). Reading isn't practice.
 
 Weak on annuities. Common weakness area.
 

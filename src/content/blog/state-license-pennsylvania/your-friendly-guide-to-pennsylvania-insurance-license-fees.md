@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by MART  PRODUCTION on Pexels
 ---
 
-You’ve probably heard that getting an insurance license in Pennsylvania can open new doors for your career. But sorting through [pennsylvania insurance license](/pennsylvania) fees and requirements might feel a little overwhelming at first. This friendly guide is here to walk you through the entire process—from the fundamentals of pre-licensing courses to the main costs you’ll need to budget for. By the end, you’ll know exactly what to expect and how to set yourself up for success.
+You’ve probably heard that getting an insurance license in Pennsylvania can open new doors for your career. But sorting through [pennsylvania insurance license](/pennsylvania) fees and requirements might feel a little overwhelming at first. This friendly guide is here to walk you through the entire process—from the fundamentals of [pre-licensing](/pennsylvania/prelicensing) courses to the main costs you’ll need to budget for. By the end, you’ll know exactly what to expect and how to set yourself up for success.
 
 ## Get to know the basics
 
@@ -73,7 +73,7 @@ Varies ($20-$40)
 
 Required for confirming your eligibility
 
-Continuing education courses
+[Continuing education](/pennsylvania/continuing-education) courses
 
 Varies (annual)
 

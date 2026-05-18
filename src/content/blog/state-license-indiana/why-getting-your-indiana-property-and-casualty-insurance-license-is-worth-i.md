@@ -56,7 +56,7 @@ Getting your Indiana property and casualty insurance license involves a straight
 
 One useful method for staying organized is to tackle your exam preparation in stages. That way, you can solidify your knowledge as you go without feeling overwhelmed. Here is a quick approach you can adapt:
 
-1.  Take a reputable pre-licensing course that breaks down insurance concepts into digestible segments.
+1.  Take a reputable [pre-licensing](/indiana/prelicensing) course that breaks down insurance concepts into digestible segments.
 2.  Create a study schedule, setting aside consistent blocks of time each week.
 3.  Practice with sample exam questions so you become familiar with the format.
 4.  Review any tricky areas by revisiting online resources or discussing them with peers.

@@ -82,6 +82,6 @@ Agents who expect a slow first year and plan for it almost always break through 
 
 ## Build a Florida Insurance Career That Pays
 
-Florida offers real earning potential for agents who commit to the career. At JustInsurance, our Florida prelicense course prepares you for the exam and for the real work of building income in this market.
+Florida offers real earning potential for agents who commit to the career. At JustInsurance, our Florida [prelicense](/florida/prelicensing) course prepares you for the exam and for the real work of building income in this market.
 
 Enroll today and start building your Florida insurance income.

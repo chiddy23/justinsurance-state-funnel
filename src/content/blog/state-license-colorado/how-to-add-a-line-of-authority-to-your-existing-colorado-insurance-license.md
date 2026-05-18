@@ -18,7 +18,7 @@ An existing Colorado insurance license authorizes you to sell only the lines of 
 
 Adding a new line of authority to an existing Colorado license requires:
 
-Completing prelicensing education for the new line — 50 hours per line (40 general + 10 Colorado-specific); 90 hours for combined Life + A&H
+Completing [prelicensing](/colorado/prelicensing) education for the new line — 50 hours per line (40 general + 10 Colorado-specific); 90 hours for combined Life + A&H
 
 Passing the Pearson VUE exam for the new line — $47 exam fee, 70% passing score
 

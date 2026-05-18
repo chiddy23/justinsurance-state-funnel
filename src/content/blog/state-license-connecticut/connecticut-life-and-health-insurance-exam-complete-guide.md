@@ -112,7 +112,7 @@ Connecticut Long-Term Care Requirements. Specific LTC training and the Connectic
 
 Access Health CT. Connecticut's state-based health insurance exchange (a notable Connecticut feature).
 
-Connecticut Continuing Education. 24 hours every 2 years (21 General + 3 Laws/Regs/Ethics).
+Connecticut [Continuing Education](/connecticut/continuing-education). 24 hours every 2 years (21 General + 3 Laws/Regs/Ethics).
 
 Connecticut Insurance Department Authority. Powers and procedures of the CID.
 
@@ -138,7 +138,7 @@ Arrive at least 30 minutes early at your Pearson VUE testing center.
 
 Bring two valid forms of identification. Both must be current and contain your name. The primary must be government-issued and photo-bearing with a signature. The secondary must contain a valid signature. Identification must be in English. Your name must exactly match the name on your registration.
 
-Bring your Certificate of Completion. Required for entry. The Certificate must be valid (within 1 year of prelicense completion).
+Bring your Certificate of Completion. Required for entry. The Certificate must be valid (within 1 year of [prelicense](/connecticut/prelicensing) completion).
 
 No phones, notes, books, or study materials in the testing room.
 

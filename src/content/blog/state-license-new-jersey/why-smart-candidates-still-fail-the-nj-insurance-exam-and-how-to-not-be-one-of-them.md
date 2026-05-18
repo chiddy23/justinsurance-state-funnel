@@ -12,7 +12,7 @@ image: /blog/images/simple-steps-to-pass-nj-insurance-license-requirements.jpg
 imageAlt: Why Smart Candidates Still Fail the NJ Insurance Exam — and How to Not Be One of Them
 ---
 
-People who fail the New Jersey insurance exam are not, for the most part, unprepared in the conventional sense. They completed their 20-hour prelicensing course. They read the material. They felt ready walking into PSI. And then they scored 63% and left with a diagnostic report they did not expect. Intelligence and effort are not the problem. The problem is a specific set of preparation mistakes that are predictable, common, and entirely avoidable — once you know what they are.
+People who fail the New Jersey insurance exam are not, for the most part, unprepared in the conventional sense. They completed their 20-hour [prelicensing](/new-jersey/prelicensing) course. They read the material. They felt ready walking into PSI. And then they scored 63% and left with a diagnostic report they did not expect. Intelligence and effort are not the problem. The problem is a specific set of preparation mistakes that are predictable, common, and entirely avoidable — once you know what they are.
 
 ### Failure Reason 1: Treating the Prelicensing Course as Sufficient Preparation
 
@@ -20,7 +20,7 @@ New Jersey's 20-hour prelicensing requirement is a regulatory minimum, not a pre
 
 Most prelicensing courses do not replicate the difficulty level or the question style of the actual PSI exam. A candidate who reads through the course content once, passes the internal certification exam at 70%, and books their PSI appointment the next week has completed the course — but has not done the preparation the exam actually demands.
 
-The fix: Treat your prelicensing course as the foundation, not the ceiling. After completing the course, spend at minimum one additional week on active recall, scenario-based practice questions, and targeted review of the NJ state law section before sitting the PSI exam.
+The fix: Treat your prelicensing course as the foundation, not the ceiling. After completing the course, spend at minimum one additional week on active recall, scenario-based [practice questions](/new-jersey/practice-exam), and targeted review of the NJ state law section before sitting the PSI exam.
 
 ### Failure Reason 2: Underestimating the State Law Section
 
@@ -80,7 +80,7 @@ On exam morning: eat, arrive 30 minutes early, and do not cram. Light review of 
 
 What is the most common reason candidates fail the NJ insurance exam on the first attempt?
 
-Based on the structure of NJ exam pass rates and the diagnostic reports candidates receive, the most common failure cause is underperformance on the state law section — specifically the NJ-specific licensing rules and trade practices subsections that require precise knowledge of dollar thresholds, time periods, and statutory provisions unique to New Jersey. Candidates who prepare thoroughly for the general content but treat the state law section as secondary typically score well on the national section and poorly on state law, producing a combined score that falls short of 70%. The second most common cause is insufficient practice testing — candidates who read the material but never tested themselves under exam conditions before sitting PSI.
+Based on the structure of NJ exam [pass rates](/pass-rates) and the diagnostic reports candidates receive, the most common failure cause is underperformance on the state law section — specifically the NJ-specific licensing rules and trade practices subsections that require precise knowledge of dollar thresholds, time periods, and statutory provisions unique to New Jersey. Candidates who prepare thoroughly for the general content but treat the state law section as secondary typically score well on the national section and poorly on state law, producing a combined score that falls short of 70%. The second most common cause is insufficient practice testing — candidates who read the material but never tested themselves under exam conditions before sitting PSI.
 
 How can I tell if I'm actually ready for the NJ insurance exam?
 

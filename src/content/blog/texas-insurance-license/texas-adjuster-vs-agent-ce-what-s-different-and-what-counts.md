@@ -22,7 +22,7 @@ Here's a clear breakdown of what's different and what actually counts.
 
 ## Texas Agent CE Requirements
 
-Licensed agents in Texas must complete 24 hours of continuing education every 2 years, with:
+Licensed agents in Texas must complete 24 hours of [continuing education](/texas/continuing-education) every 2 years, with:
 
 3 hours in ethics
 

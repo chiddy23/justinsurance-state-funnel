@@ -14,13 +14,13 @@ image: /blog/images/discover-the-true-florida-insurance-license-cost-for-you.jpg
 imageAlt: Side-by-side comparison of three prelicensing course provider logos on a desk with study materials
 ---
 
-If you're about to spend $199+ on Florida 2-15 prelicensing, the marketing pages of the three major providers — JustInsurance, XCEL Solutions, and ExamFX — will tell you each one is the right choice. None of them will tell you where they fall short, which features are hidden behind upcharges, or what the guarantee terms actually require you to do. This guide does.
+If you're about to spend $199+ on Florida 2-15 [prelicensing](/florida/prelicensing), the marketing pages of the three major providers — JustInsurance, XCEL Solutions, and ExamFX — will tell you each one is the right choice. None of them will tell you where they fall short, which features are hidden behind upcharges, or what the guarantee terms actually require you to do. This guide does.
 
 ## The short version
 
 Here's what you actually need to know before picking a Florida 2-15 prelicensing course in 2026:
 
-- **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — everything included in the base price. 93% pass rate published with full methodology (inclusion requires 3× consecutive 80%+ practice-exam scores). 30-day guarantee window from enrollment.
+- **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — everything included in the base price. 93% [pass rate](/pass-rates) published with full methodology (inclusion requires 3× consecutive 80%+ practice-exam scores). 30-day guarantee window from enrollment.
 - **XCEL Solutions**: 3-part program structure (prelicensing + prep review + exam simulator) with access windows and feature inclusions that can vary by package tier. Markets "top industry pass rates" but does not publish a specific first-attempt figure with disclosed methodology. Verify current terms at xcelsolutions.com before purchase.
 - **ExamFX**: Established provider. Pass guarantee requires candidates to take the state exam within **3 calendar days** of scoring 80%+ on their Readiness Exam (requires careful scheduling). Publishes line-of-authority pass rates on examfx.com/resources/candidates — 95% Life, 94% Life & Health, 99% P&C, 93% Overall Combined — with disclosed methodology (2,826 self-reported survey respondents, Feb–Oct 2025). Verify current terms at examfx.com before purchase.
 
@@ -37,7 +37,7 @@ The [Florida Department of Financial Services](https://myfloridacfo.com/division
 1. **Your prelicensing provider matters more in Florida than in Texas or most other states**, where prelicensing isn't required or is shorter.
 2. **Course completion certificates are valid for 4 years** — you don't have to test immediately, but if you wait longer than 4 years the certificate expires and prelicensing has to be redone. After passing the exam, you have 12 months to submit your license application through NIPR before the exam result expires.
 
-Both of those facts shape what you should look for in a provider: you want comprehensive coverage of the 40-hour content outline, realistic practice exam simulations (because Pearson VUE's exam interface rewards familiarity), and enough flexibility in course access that you're not forced to test before you're ready.
+Both of those facts shape what you should look for in a provider: you want comprehensive coverage of the 40-hour content outline, realistic [practice exam](/florida/practice-exam) simulations (because Pearson VUE's exam interface rewards familiarity), and enough flexibility in course access that you're not forced to test before you're ready.
 
 ## Feature comparison: what's included vs. what's extra
 

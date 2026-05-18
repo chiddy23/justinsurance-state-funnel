@@ -31,7 +31,7 @@ Below is a clear path to follow. It’s designed to make each crucial step in th
 1.  Confirm you meet eligibility requirements  
     Tennessee typically requires you to be at least 18 years old, reside in or plan to conduct business in the state, and have a clean criminal record. Make sure you have valid identification and a Social Security number. It’s also wise to review the official guidelines from the [Tennessee Department of Commerce and Insurance](/tennessee/requirements) to confirm that you’re eligible.
 2.  Choose the right license type for you  
-    Before diving into pre-licensing courses, decide which lines of authority you want to sell. Popular options include Life, Accident & Health or Property & Casualty. You can get both, but note that each license may have distinct exam requirements. Picking the correct focus upfront will keep you from juggling multiple applications later.
+    Before diving into [pre-licensing](/tennessee/prelicensing) courses, decide which lines of authority you want to sell. Popular options include Life, Accident & Health or Property & Casualty. You can get both, but note that each license may have distinct exam requirements. Picking the correct focus upfront will keep you from juggling multiple applications later.
 3.  Complete your required [Tennessee prelicensing courses](/tennessee/prelicensing)  
     Tennessee mandates a specific number of study hours for each license type. This course work is designed to give you a strong foundation in policy provisions, insurance laws, and best practices. Many providers offer these classes in-person or online, so choose the format that fits your schedule. Be sure to hold onto the certificate you receive when you finish—this is often required to book your exam.
 4.  Schedule your official exam  
@@ -55,7 +55,7 @@ That depends on how familiar you are with insurance concepts. Many first-time ca
 
 ### 3\. Can I hold more than one license type at once?
 
-Absolutely. It’s common for agents to hold multiple licenses, such as Life & Health and Property & Casualty. Just remember that each line may come with extra fees, exams, or continuing education requirements.
+Absolutely. It’s common for agents to hold multiple licenses, such as Life & Health and Property & Casualty. Just remember that each line may come with extra fees, exams, or [continuing education](/tennessee/continuing-education) requirements.
 
 ### 4\. Do I need a sponsor to apply?
 

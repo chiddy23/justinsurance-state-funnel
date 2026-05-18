@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by www.kaboompics.com on Pexels
 ---
 
-Whether you are just starting out in Georgia’s insurance field or have already been selling policies for a while, you know that passing various exams and quizzes is essential. [Georgia insurance CE](/georgia/continuing-education) quizzes are not just a formality. They help you keep your knowledge current, meet state requirements, and continue serving clients effectively. By understanding your continuing education (CE) needs and following a strategic study plan, you can boost your score and stay fully licensed without feeling overwhelmed.
+Whether you are just starting out in Georgia’s insurance field or have already been selling policies for a while, you know that passing various exams and quizzes is essential. [Georgia insurance CE](/georgia/continuing-education) quizzes are not just a formality. They help you keep your knowledge current, meet state requirements, and continue serving clients effectively. By understanding your [continuing education](/georgia/continuing-education) (CE) needs and following a strategic study plan, you can boost your score and stay fully licensed without feeling overwhelmed.
 
 ## Know the Georgia requirements
 
@@ -34,7 +34,7 @@ Meeting these requirements ensures that you stay licensed and up to date on indu
 
 If you are brand new to the insurance industry in Georgia, your first step is getting your initial license before you even worry about CE quizzes. The state requires:
 
--   A certain number of hours in [Georgia insurance prelicensing](/georgia/prelicensing) coursework. In Georgia, this is 8 hours per line of authority (16 hours for Life & Health combined), effective June 24, 2025, when Georgia reduced prelicensing from 20 to 8 hours per line of authority.
+-   A certain number of hours in [Georgia insurance prelicensing](/georgia/prelicensing) coursework. In Georgia, this is 8 hours per line of authority (16 hours for Life & Health combined), effective June 24, 2025, when Georgia reduced [prelicensing](/georgia/prelicensing) from 20 to 8 hours per line of authority.
 -   A passing grade on the official licensing exam for your chosen line of authority.
 -   An application submission through the National Insurance Producer Registry (NIPR).
 
@@ -61,7 +61,7 @@ When facing a graded Georgia insurance CE quiz, relying solely on memory can be 
 3.  For tougher questions, eliminate obviously wrong answers and then focus on the narrowed-down options.
 4.  Review your answers at the end, especially if you have time left.
 
-You will find it helpful to treat each quiz like a short practice exam. The more quizzes you complete, the more you develop a natural rhythm for understanding question wording and spotting potential pitfalls.
+You will find it helpful to treat each quiz like a short [practice exam](/georgia/practice-exam). The more quizzes you complete, the more you develop a natural rhythm for understanding question wording and spotting potential pitfalls.
 
 ## Use active learning methods
 

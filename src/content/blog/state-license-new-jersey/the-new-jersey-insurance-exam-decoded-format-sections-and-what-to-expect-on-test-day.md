@@ -33,7 +33,7 @@ Each exam also contains unscored pretest questions mixed in with the scored ques
 
 Every NJ insurance exam is divided into two distinct sections: a general knowledge section and a New Jersey state law section.
 
-The general section tests your knowledge of insurance products, concepts, policy provisions, and contract law that apply nationally. This is the material most closely aligned with what you study in your prelicensing course. The state section tests New Jersey-specific insurance laws, regulations, and practices — producer licensing rules, unfair trade practices, the no-fault auto system, the role of the DOBI Commissioner, and more.
+The general section tests your knowledge of insurance products, concepts, policy provisions, and contract law that apply nationally. This is the material most closely aligned with what you study in your [prelicensing](/new-jersey/prelicensing) course. The state section tests New Jersey-specific insurance laws, regulations, and practices — producer licensing rules, unfair trade practices, the no-fault auto system, the role of the DOBI Commissioner, and more.
 
 Both sections are weighted, and both must contribute to your combined passing score of 70%. Weak performance on the state law section is one of the most common reasons candidates fail on their first attempt. New Jersey's insurance code has several distinctive features — including its no-fault auto system, the verbal threshold tort option, and specific producer conduct rules — that do not appear on exams in neighboring states.
 

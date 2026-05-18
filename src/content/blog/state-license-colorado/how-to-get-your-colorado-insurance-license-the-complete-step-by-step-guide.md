@@ -13,7 +13,7 @@ image: /blog/images/your-ultimate-guide-to-colorado-insurance-license-renewal.jp
 imageAlt: "How to Get Your Colorado Insurance License: The Complete Step-by-Step Guide"
 ---
 
-Getting a Colorado insurance license follows a four-step sequence: complete prelicensing education, pass the Pearson VUE state exam, apply through NIPR or Sircon, and receive your license from the Colorado Division of Insurance. Unlike Virginia, which requires no prelicensing, or New Jersey, which uses PSI as its exam vendor, Colorado has its own distinct process — 50 hours of required prelicensing per line of authority, Pearson VUE as the exam vendor, no fingerprinting requirement, and no temporary licenses. Every step has specific rules, fees, and deadlines that interact with each other. This guide covers all of them in the correct order.
+Getting a Colorado insurance license follows a four-step sequence: complete [prelicensing](/colorado/prelicensing) education, pass the Pearson VUE state exam, apply through NIPR or Sircon, and receive your license from the Colorado Division of Insurance. Unlike Virginia, which requires no prelicensing, or New Jersey, which uses PSI as its exam vendor, Colorado has its own distinct process — 50 hours of required prelicensing per line of authority, Pearson VUE as the exam vendor, no fingerprinting requirement, and no temporary licenses. Every step has specific rules, fees, and deadlines that interact with each other. This guide covers all of them in the correct order.
 
 ### Step 1: Complete a State-Approved Prelicensing Course
 

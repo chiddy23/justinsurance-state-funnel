@@ -24,7 +24,7 @@ Whether you are just starting out or switching to a new career path, finding con
 
 ## Start your path to licensure
 
-Before you schedule your test, it helps to know what you are signing up for. In Michigan, all aspiring insurance agents must complete pre-licensing education in the specific line of insurance they plan to sell. This means you will need classroom or online courses that cover life insurance, health insurance, property, casualty, or any other insurance lines relevant to your future role.
+Before you schedule your test, it helps to know what you are signing up for. In Michigan, all aspiring insurance agents must complete [pre-licensing](/michigan/prelicensing) education in the specific line of insurance they plan to sell. This means you will need classroom or online courses that cover life insurance, health insurance, property, casualty, or any other insurance lines relevant to your future role.
 
 Taking these classes not only meets the official state requirement but also gives you the knowledge base you will need on exam day. Most courses are structured around the key areas tested in the insurance license exam, which helps you connect theory to real-world scenarios. By the time you finish, you will have a solid grounding in how insurance policies work, the rules and regulations in Michigan, and best practices for helping future clients.
 

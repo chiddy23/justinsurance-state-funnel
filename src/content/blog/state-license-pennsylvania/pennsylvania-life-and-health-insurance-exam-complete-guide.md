@@ -112,7 +112,7 @@ Pennsylvania CHIP. Children's Health Insurance Program.
 
 Pennsylvania Long-Term Care Requirements. Specific LTC training and policy requirements.
 
-Pennsylvania Continuing Education. 24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines).
+Pennsylvania [Continuing Education](/pennsylvania/continuing-education). 24 hours every 2 years (3 hours Ethics + 2 hours Flood for P&C/Personal Lines).
 
 Pennsylvania Insurance Department Authority. Powers and procedures of the Department.
 
@@ -162,6 +162,6 @@ If you fail: You receive a score report showing performance areas. You can retak
 
 ## Walk Into the Pennsylvania Exam Prepared
 
-Knowing what to expect removes half the stress. At JustInsurance, our Pennsylvania prelicense course (Provider Approval #147815) is built around the Pennsylvania exam content outline — including the Pennsylvania-specific laws and recent regulatory updates.
+Knowing what to expect removes half the stress. At JustInsurance, our Pennsylvania [prelicense](/pennsylvania/prelicensing) course (Provider Approval #147815) is built around the Pennsylvania exam content outline — including the Pennsylvania-specific laws and recent regulatory updates.
 
 Enroll today and prepare for the Pennsylvania exam the right way.

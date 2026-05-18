@@ -84,4 +84,4 @@ Managed Long Term Services and Supports (MLTSS) is New Jersey's Medicaid-funded 
 
 NJ FamilyCare is not background knowledge for NJ health insurance producers — it is the coverage framework for nearly 20% of the state's population, and the 2026 changes make it more dynamic and consequential than it has been in years. Producers who understand it can have materially better advisory conversations with clients navigating coverage options in New Jersey's changing health insurance landscape.
 
-Visit JustInsurance to enroll today and study NJ health insurance law and Medicaid framework as part of your Accident and Health prelicensing course.
+Visit JustInsurance to enroll today and study NJ health insurance law and Medicaid framework as part of your Accident and Health [prelicensing](/new-jersey/prelicensing) course.

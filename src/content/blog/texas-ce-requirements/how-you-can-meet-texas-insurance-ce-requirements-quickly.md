@@ -18,7 +18,7 @@ imageAlt: >-
 imageCredit: Photo by Ron Lach on Pexels
 ---
 
-Meeting your [Texas insurance CE requirements](/texas/continuing-education) does not have to be stressful or time-consuming. With a solid strategy in place, you can quickly complete your continuing education credits and keep your license active. Below, you will find a step-by-step approach to help you cut through the noise and stay focused on the most efficient ways to fulfill your obligations.
+Meeting your [Texas insurance CE requirements](/texas/continuing-education) does not have to be stressful or time-consuming. With a solid strategy in place, you can quickly complete your [continuing education](/texas/continuing-education) credits and keep your license active. Below, you will find a step-by-step approach to help you cut through the noise and stay focused on the most efficient ways to fulfill your obligations.
 
 ## Understand the Texas insurance CE basics
 

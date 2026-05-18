@@ -74,7 +74,7 @@ Disclosure requirements under Minnesota law: Minnesota's specific disclosure obl
 
 ### How the 4-Hour Training Counts Toward CE
 
-The Minnesota annuity training requirement is described as separate from CE: this requirement is separate and distinct from the continuing education requirements for a licensee and applies to both resident and nonresident producers. However, the 4-hour course from a Department-approved provider does count toward the producer's 24-hour biennial CE total in Minnesota. It is not 4 hours in addition to the CE requirement — it is 4 hours that can be applied toward the CE total in the renewal period when the course is completed. Autoclaimconsultants
+The Minnesota annuity training requirement is described as separate from CE: this requirement is separate and distinct from the [continuing education](/minnesota/continuing-education) requirements for a licensee and applies to both resident and nonresident producers. However, the 4-hour course from a Department-approved provider does count toward the producer's 24-hour biennial CE total in Minnesota. It is not 4 hours in addition to the CE requirement — it is 4 hours that can be applied toward the CE total in the renewal period when the course is completed. Autoclaimconsultants
 
 For a producer completing the training during a renewal period in which they are also completing their standard CE, the 4 annuity training hours reduce the remaining general CE needed from 24 hours to 20 hours (with the other CE components still needing to be satisfied). A producer who needs 24 CE hours including 3 ethics and who completes the 4-hour annuity training plus a 3-hour ethics course has 7 hours credited — 17 more general hours needed to complete the renewal.
 

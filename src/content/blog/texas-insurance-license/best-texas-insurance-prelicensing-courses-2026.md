@@ -15,13 +15,13 @@ image: /blog/images/easiest-steps-to-texas-insurance-agent-licensing-success.jpg
 imageAlt: Side-by-side comparison of prelicensing course provider logos with Texas state outline and study materials
 ---
 
-If you're about to spend $199 on a Texas insurance prelicensing course, you should know upfront that **Texas doesn't require prelicensing education at all.** You can legally walk into a Pearson VUE testing center cold and sit for the Life and Health exam. That changes how you should think about picking a provider in Texas — the question isn't "who meets the state mandate?" It's "who will actually prepare me for a content-heavy state exam where I only get one chance to pass without going through reinstatement?"
+If you're about to spend $199 on a Texas insurance [prelicensing](/texas/prelicensing) course, you should know upfront that **Texas doesn't require prelicensing education at all.** You can legally walk into a Pearson VUE testing center cold and sit for the Life and Health exam. That changes how you should think about picking a provider in Texas — the question isn't "who meets the state mandate?" It's "who will actually prepare me for a content-heavy state exam where I only get one chance to pass without going through reinstatement?"
 
 This guide compares JustInsurance against the three providers most Texas candidates consider — XCEL Solutions, ExamFX, and AD Banker — across what's included, what's gated, what the guarantee actually requires, and what happens when things go sideways. All competitor claims are verified against their current public product pages and policy documents as of April 2026. Competitor terms change — always verify directly at their domain before purchase.
 
 ## The short version
 
-- **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live instructor sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — all included in the base price. 93% pass rate published with full methodology. 30-day guarantee window from enrollment.
+- **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live instructor sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — all included in the base price. 93% [pass rate](/pass-rates) published with full methodology. 30-day guarantee window from enrollment.
 - **XCEL Solutions**: Describes its offering as a "3-Part Training Program" (prelicensing course, prep review course, exam simulator) with a tiered pricing model. Access windows, livestream session frequency, and feature inclusions can vary by tier. Markets "Trusted to Pass" language but does not publish a specific first-attempt pass rate with disclosed methodology on its public product pages.
 - **ExamFX**: Pass guarantee requires candidates to take the state licensing exam within **3 calendar days** of scoring 80%+ on their Readiness Exam. Published three package tiers (Self-Study, Video Study, Live Online) with different feature mixes. Publishes a 93% overall pass rate on /resources/candidates with disclosed methodology (2,826 self-reported respondents Feb 1 – Oct 17, 2025).
 - **AD Banker**: Long-established provider with multiple product formats (self-study, live webinar, classroom). Read current reviews on Trustpilot and Google before purchasing. Does not prominently publish a specific first-attempt pass rate with disclosed methodology.
@@ -59,7 +59,7 @@ Two things follow from this:
 ### Practice exam quality
 
 - **JustInsurance**: Unlimited adaptive practice exams with AI-powered realistic simulations that mirror the Pearson VUE interface. Unlimited retakes.
-- **XCEL**: Practice exam count and format vary by package tier.
+- **XCEL**: [Practice exam](/texas/practice-exam) count and format vary by package tier.
 - **ExamFX**: Practice exam count varies by package tier. Their Readiness Exam functions as the gate for the pass-guarantee refund mechanism.
 - **AD Banker**: Practice exam count varies by format and package.
 

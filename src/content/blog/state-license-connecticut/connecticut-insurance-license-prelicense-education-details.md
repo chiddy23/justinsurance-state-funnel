@@ -16,7 +16,7 @@ imageAlt: >-
   insurance license prelicense education details.
 ---
 
-Connecticut requires prelicense education for most insurance producer licenses, and understanding the specific requirements helps you choose the right course and complete it efficiently. Whether you're pursuing Life, Health, Property, Casualty, or combined licenses, Connecticut's prelicense rules have specific details every candidate should know.
+Connecticut requires [prelicense](/connecticut/prelicensing) education for most insurance producer licenses, and understanding the specific requirements helps you choose the right course and complete it efficiently. Whether you're pursuing Life, Health, Property, Casualty, or combined licenses, Connecticut's prelicense rules have specific details every candidate should know.
 
 Here's everything you need to know about Connecticut insurance prelicense education.
 
@@ -194,7 +194,7 @@ Check course content quality. Reading reviews, comparing course outlines, and re
 
 Consider learning format. Connecticut prelicense is typically self-paced online, though some classroom options may exist.
 
-Evaluate practice exam availability. Quality prelicense courses include practice exams that significantly improve real exam pass rates.
+Evaluate [practice exam](/connecticut/practice-exam) availability. Quality prelicense courses include practice exams that significantly improve real exam [pass rates](/pass-rates).
 
 Verify proctoring options. Make sure the provider's proctoring options work for your situation.
 

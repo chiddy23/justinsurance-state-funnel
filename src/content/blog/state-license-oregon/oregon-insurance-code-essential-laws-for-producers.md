@@ -38,9 +38,9 @@ ORS 744.063 — Nonresident Insurance Producer License. Rules for non-resident p
 
 ORS 744.064 — Persons Licensed Elsewhere. Reciprocity provisions for producers moving to Oregon.
 
-ORS 744.067 — Exemptions From Prelicensing Education or Examination Requirement. Specific exemptions including for industry designations.
+ORS 744.067 — Exemptions From [Prelicensing](/oregon/prelicensing) Education or Examination Requirement. Specific exemptions including for industry designations.
 
-ORS 744.072 — Renewal or Reinstatement of Insurance Producer License. Renewal requirements and continuing education.
+ORS 744.072 — Renewal or Reinstatement of Insurance Producer License. Renewal requirements and [continuing education](/oregon/continuing-education).
 
 ORS 744.074 — Authority of Director to Place Licensee on Probation or to Suspend, Revoke or Refuse to Issue or Renew License. Disciplinary authority.
 

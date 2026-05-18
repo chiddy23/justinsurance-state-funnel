@@ -301,6 +301,6 @@ For producers building general practice, auto insurance often serves as the foun
 
 ## Master Pennsylvania Auto Insurance
 
-Pennsylvania auto insurance offers steady opportunity for producers who develop genuine expertise in the state's distinctive Tort Choice system. At JustInsurance (Provider Approval #147815), our Pennsylvania prelicense and CE courses include comprehensive coverage of auto insurance principles and Pennsylvania-specific requirements.
+Pennsylvania auto insurance offers steady opportunity for producers who develop genuine expertise in the state's distinctive Tort Choice system. At JustInsurance (Provider Approval #147815), our Pennsylvania [prelicense](/pennsylvania/prelicensing) and CE courses include comprehensive coverage of auto insurance principles and Pennsylvania-specific requirements.
 
 Enroll today and develop the auto insurance expertise Pennsylvania clients need.

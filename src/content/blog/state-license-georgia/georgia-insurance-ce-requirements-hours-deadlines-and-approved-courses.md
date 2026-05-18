@@ -16,7 +16,7 @@ imageAlt: >-
   modern office.
 ---
 
-Keeping your Georgia insurance license active requires more than just paying a renewal fee every 2 years. You need to complete continuing education (CE) on schedule, using approved courses, and submit everything correctly. Miss the mark, and your license can lapse — costing you time, money, and lost business.
+Keeping your Georgia insurance license active requires more than just paying a renewal fee every 2 years. You need to complete [continuing education](/georgia/continuing-education) (CE) on schedule, using approved courses, and submit everything correctly. Miss the mark, and your license can lapse — costing you time, money, and lost business.
 
 Here's a clear breakdown of Georgia's insurance CE requirements.
 

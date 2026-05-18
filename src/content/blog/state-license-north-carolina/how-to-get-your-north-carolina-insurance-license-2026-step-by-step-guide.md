@@ -1,6 +1,6 @@
 ---
-title: 'How to Get a North Carolina Insurance License 2026'
-description: 'North Carolina requires DOI-approved prelicensing before Pearson VUE exams, keeps scores valid 12 months on NIPR, with G.S. § 58-33-30 setting hours.'
+title: 'North Carolina Insurance License 2026: 20-Hour Path & Steps'
+description: 'Get your North Carolina insurance license in 2026: 20-hour prelicensing per G.S. § 58-33-30, Pearson VUE exam, $38 fingerprints. Step-by-step guide.'
 keyword: how to get North Carolina insurance license
 targetKeywords: >-
   North Carolina insurance producer license, North Carolina Pearson VUE exam,

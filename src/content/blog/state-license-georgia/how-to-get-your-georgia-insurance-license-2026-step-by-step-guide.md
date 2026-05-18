@@ -1,6 +1,6 @@
 ---
-title: 'How to Get Your Georgia Insurance License in 2026'
-description: 'Georgia routes resident producer applications through Sircon, uses Pearson VUE exams, and sets prelicensing at 8.0 hours under Rule 120-2-3-.08.'
+title: 'How to Get a Georgia Insurance License in 2026 (8-Hour Path)'
+description: 'Georgia insurance license in 2026: 8-hour prelicensing (down from 20), Pearson VUE exam, Sircon application. Step-by-step under Rule 120-2-3-.08.'
 keyword: how to get Georgia insurance license
 targetKeywords: >-
   Georgia insurance producer license, Georgia Pearson VUE insurance exam,

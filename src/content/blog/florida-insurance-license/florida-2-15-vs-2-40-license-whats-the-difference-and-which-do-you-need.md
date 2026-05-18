@@ -1,8 +1,8 @@
 ---
-title: 'Florida 2-15 vs. 2-40 License: What''s the Difference and Which Do You Need?'
+title: 'Florida 2-15 vs. 2-40 License: Which Do You Need? (2026)'
 description: >-
-  Florida 2-15 vs 2-40 Insurance License: Differences. Requirements, fees, study
-  hours, exam logistics, and compliance steps every licensed agent needs.
+  Florida 2-15 covers life, health, and annuities. 2-40 is health-only.
+  Compare scope, study hours, exam fees, and which license fits your career.
 keyword: florida 2-15 vs 2-40 insurance license
 targetKeywords: florida 2-15 vs 2-40 insurance license
 cluster: florida-insurance-license

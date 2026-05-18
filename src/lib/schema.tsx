@@ -48,12 +48,21 @@ export function generateCourseSchema(params: {
   const canonicalUrl = `${BASE_URL}/${stateSlug}/${pathSegment}/${loaSlug}`;
   const hasHours = typeof hours === "number" && hours > 0;
   const loaShort = loaShortName(loaName);
+  const offer = {
+    "@type": "Offer",
+    price: price.replace(/[^0-9.]/g, ""),
+    priceCurrency: "USD",
+    availability: "https://schema.org/InStock",
+    url: canonicalUrl,
+    category: "Paid",
+  };
 
   return {
     "@context": "https://schema.org",
     "@type": "Course",
     name: `${stateName} ${loaName} ${courseLabel}`,
     description,
+    image: LOGO_URL,
     provider: {
       "@type": "Organization",
       "@id": `${BASE_URL}#organization`,
@@ -63,23 +72,31 @@ export function generateCourseSchema(params: {
     },
     hasCourseInstance: {
       "@type": "CourseInstance",
-      courseMode: "online",
+      courseMode: "Online",
+      location: {
+        "@type": "VirtualLocation",
+        url: canonicalUrl,
+      },
+      instructor: {
+        "@type": "Person",
+        name: "Justin vom Eigen",
+        jobTitle: "Licensed Insurance Agent, IDECC Certified Distance Education Instructor",
+        url: `${BASE_URL}/about/justin-vom-eigen`,
+      },
       ...(hasHours ? { courseWorkload: `PT${hours}H` } : {}),
+      offers: offer,
     },
-    offers: {
-      "@type": "Offer",
-      price: price.replace(/[^0-9.]/g, ""),
-      priceCurrency: "USD",
-      availability: "https://schema.org/InStock",
-      url: canonicalUrl,
-    },
+    offers: offer,
     educationalCredentialAwarded:
       courseType === "prelicensing"
         ? `${stateName} ${loaShort} Insurance Prelicensing Certificate`
         : `${stateName} ${loaShort} Insurance CE Certificate`,
     teaches: `${stateName} ${loaShort} insurance licensing requirements`,
+    educationalLevel: "Beginner",
+    coursePrerequisites: "None",
     ...(hasHours ? { timeRequired: `PT${hours}H` } : {}),
     inLanguage: "en-US",
+    availableLanguage: "en",
     url: canonicalUrl,
   };
 }
@@ -96,34 +113,53 @@ export function generateStateHubCourseSchema(params: {
 }): object {
   const { stateName, stateSlug, price, hours } = params;
   const hoursNum = typeof hours === "number" ? hours : undefined;
+  const prelicensingUrl = `${BASE_URL}/${stateSlug}/prelicensing`;
+  const offer = {
+    "@type": "Offer",
+    price: price.replace(/[^0-9.]/g, ""),
+    priceCurrency: "USD",
+    availability: "https://schema.org/InStock",
+    url: prelicensingUrl,
+    category: "Paid",
+  };
+
   return {
     "@context": "https://schema.org",
     "@type": "Course",
     name: `${stateName} Insurance Prelicensing Course — Life & Health`,
     description: `State-approved online insurance prelicensing course for ${stateName}. Pass your ${stateName} state licensing exam on the first attempt. 100% online, self-paced, includes practice exams and pass guarantee.`,
+    image: LOGO_URL,
     provider: {
       "@type": "Organization",
+      "@id": `${BASE_URL}#organization`,
       name: "JustInsurance LLC",
       url: BASE_URL,
       logo: LOGO_URL,
     },
     hasCourseInstance: {
       "@type": "CourseInstance",
-      courseMode: "online",
+      courseMode: "Online",
+      location: {
+        "@type": "VirtualLocation",
+        url: prelicensingUrl,
+      },
+      instructor: {
+        "@type": "Person",
+        name: "Justin vom Eigen",
+        jobTitle: "Licensed Insurance Agent, IDECC Certified Distance Education Instructor",
+        url: `${BASE_URL}/about/justin-vom-eigen`,
+      },
       ...(hoursNum ? { courseWorkload: `PT${hoursNum}H` } : {}),
+      offers: offer,
     },
-    offers: {
-      "@type": "Offer",
-      price: price.replace(/[^0-9.]/g, ""),
-      priceCurrency: "USD",
-      availability: "https://schema.org/InStock",
-      url: `${BASE_URL}/${stateSlug}/prelicensing`,
-    },
-    courseMode: "online",
+    offers: offer,
     educationalCredentialAwarded: `${stateName} Insurance Prelicensing Certificate`,
+    educationalLevel: "Beginner",
+    coursePrerequisites: "None",
     ...(hoursNum ? { timeRequired: `PT${hoursNum}H` } : {}),
     inLanguage: "en-US",
-    url: `${BASE_URL}/${stateSlug}`,
+    availableLanguage: "en",
+    url: prelicensingUrl,
   };
 }
 

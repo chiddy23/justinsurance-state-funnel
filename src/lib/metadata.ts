@@ -97,7 +97,8 @@ function buildTitle(
           `Texas Insurance License Course — $199 | ${brand}`,
         ],
         california: [
-          `California Insurance License — $199 CDI-Approved | ${brand}`,
+          `California Insurance License Course — $199 CDI-Approved | ${brand}`,
+          `California Insurance License Course — $199 | ${brand}`,
         ],
       };
       if (overrides[stateSlug]) return overrides[stateSlug];

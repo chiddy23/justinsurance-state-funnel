@@ -14,7 +14,7 @@ imageAlt: "Colorado Insurance Exam State Law: High-Priority Topics"
 
 Every Colorado insurance licensing exam — Life, Accident & Health, Property, Casualty, and Personal Lines — contains a state-specific section that accounts for 37.5% of your total scored questions. On Life and A&H that is 30 of 80 scored questions. On Personal Lines it is 29 of 104. Regardless of which line you are pursuing, the state section is the single most consequential factor separating passing scores from failing ones among well-prepared candidates. Most candidates who fail were not weak on product knowledge. They were unprepared for the state section. This post is the master reference for every high-priority state law topic that appears across all Colorado licensing exams — with the specific definitions, statutory citations, and scenario applications the exam actually tests.
 
-### Why the State Section Decides Your Score
+## Why the State Section Decides Your Score
 
 The arithmetic is straightforward and routinely underestimated. Your Colorado [prelicensing](/colorado/prelicensing) course spends 40 of 50 hours on general insurance content and 10 hours on Colorado-specific material. Yet the state section generates 37.5% of your scored questions. That ratio — 20% of your study time producing 37.5% of your exam score — is the structural imbalance that causes prepared candidates to fail.
 
@@ -22,9 +22,9 @@ The state section divides into two parts on every exam. Section I covers Colorad
 
 The Pearson VUE content outline is the authoritative map. Every topic below traces directly to its published content outline reference.
 
-### SECTION I: COLORADO STATUTES COMMON TO ALL LINES (19–20 Questions on Every Exam)
+## SECTION I: COLORADO STATUTES COMMON TO ALL LINES (19–20 Questions on Every Exam)
 
-#### Topic 1: The Insurance Commissioner — Powers, Duties, and Enforcement
+### Topic 1: The Insurance Commissioner — Powers, Duties, and Enforcement
 
 CRS citations: 10-1-104; 10-1-105; 10-1-108; 10-1-109; 10-1-201 through 204; 10-3-105; 10-3-1106; 10-2-801; 10-2-804; 10-3-1107 through 1111
 
@@ -48,7 +48,7 @@ Exam application: "A producer has been found to have engaged in a pattern of mis
 
 Approximate question weight: 3–5 questions per exam form.
 
-#### Topic 2: Licensing and Producers' Legal Responsibility
+### Topic 2: Licensing and Producers' Legal Responsibility
 
 CRS citations: 10-2-103(6); 10-2-105; 10-2-201; 10-2-401; 10-2-404; 10-2-407; 10-2-408; 10-2-412; 10-2-416; 10-2-701; 10-2-702; 10-2-801; 10-2-704; Reg. 1-2-1; 1-2-9; 1-2-10; 10-3-903 through 904.5; 10-3-906; 10-3-908
 
@@ -68,7 +68,7 @@ Unauthorized entities (CRS 10-3-903 through 904.5): Transacting insurance on beh
 
 Approximate question weight: 4–6 questions per exam form.
 
-#### Topic 3: Unfair Competition and Deceptive Practices
+### Topic 3: Unfair Competition and Deceptive Practices
 
 CRS citation: 10-3-1104 — the most tested single statute on the entire Colorado state section
 
@@ -180,11 +180,11 @@ Both the person who submits the fraudulent document AND anyone who knowingly ass
 
 Scenario: "An applicant deliberately omits a prior DUI conviction on an auto insurance application to obtain a lower premium." — Insurance fraud. Criminal, not merely a regulatory violation.
 
-### SECTION II: LINE-SPECIFIC HIGH-PRIORITY TOPICS
+## SECTION II: LINE-SPECIFIC HIGH-PRIORITY TOPICS
 
 Section II differs by exam line. These are the topics that generate the most questions within each line's specific state section, ranked by exam frequency.
 
-#### Life Exam — Line-Specific Priorities
+### Life Exam — Line-Specific Priorities
 
 1. Annuity Best Interest Standard (Reg. 4-1-8; 4-1-11; 4-1-12) — Highest priority
 
@@ -218,7 +218,7 @@ Upon leaving a group, an employee has 31 days to convert to an individual perman
 
 Before a life policy lapses for nonpayment of premium, the insurer must notify the policyowner and any known assignee. This protects against unintentional lapse, particularly where a third party (e.g., a collateral assignee) has an interest in the policy's continuation.
 
-#### Accident & Health Exam — Line-Specific Priorities
+### Accident & Health Exam — Line-Specific Priorities
 
 1. Small Group Market Rules (10-16-102; 10-16-105; Reg. 4-6-8) — Highest priority
 
@@ -246,7 +246,7 @@ Colorado requires coverage of the ACA's 10 essential health benefit categories a
 
 Colorado health insurance producers must disclose their compensation to consumers upon request. This transparency requirement is specific to health insurance and directly tested on A&H exam state section forms.
 
-#### Property Exam — Line-Specific Priorities
+### Property Exam — Line-Specific Priorities
 
 1. Cancellation and Nonrenewal Notice Requirements
 
@@ -264,7 +264,7 @@ Colorado Property and Personal Lines producers must complete 3 hours of homeowne
 
 Before selling any flood insurance product in Colorado, a producer must complete a one-time 3-hour NFIP training course. The exam tests that this prerequisite exists, separate from standard CE.
 
-#### Casualty Exam — Line-Specific Priorities
+### Casualty Exam — Line-Specific Priorities
 
 1. Colorado Auto Insurance Minimums and Framework
 
@@ -278,7 +278,7 @@ Employer threshold: 1 or more employees (among the lowest thresholds in the coun
 
 Before selling any claims-made liability policy in Colorado, a producer must complete a one-time 2-hour claims-made training course. The exam tests this distinct CE prerequisite alongside the standard 24-hour biennial requirement.
 
-#### Personal Lines Exam — Line-Specific Priorities
+### Personal Lines Exam — Line-Specific Priorities
 
 1. Colorado Auto Minimums and Modified Comparative Negligence
 
@@ -296,7 +296,7 @@ Same 3-hour biennial homeowners CE as the Property line — tested on Personal L
 
 Same one-time 3-hour NFIP training before selling flood insurance — tested on Personal Lines exam.
 
-### The State Section Master Study Protocol
+## The State Section Master Study Protocol
 
 The most effective approach to the Colorado state section is a two-pass system, not a single read-through of the Colorado-specific materials.
 
@@ -306,7 +306,7 @@ Pass 2 (bridge period before state exam): In the 3–5 days between passing your
 
 The scenario identification drill: For each unfair trade practice, write one sentence that describes the prohibited conduct without naming it. Then practice identifying the act from the description. This is the exact format the exam uses. The wrong answer choices on these questions are always other unfair trade practices — the only way to choose correctly is precise definition recall, not context clues.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How many state section questions come from the unfair trade practices statute alone?
 

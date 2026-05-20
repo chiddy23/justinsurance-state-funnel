@@ -14,9 +14,9 @@ imageAlt: "NJ Life and Health Insurance Exam: A Complete Content and Strategy Gu
 
 The Life exam and the Health exam in New Jersey are administered separately by PSI — each is its own 83-question test with its own $38 fee, its own 210-minute time limit, and its own certificate of completion requirement. Some candidates take both in the same week; others focus on one at a time. Either way, understanding exactly what each exam covers and how to approach it strategically is the difference between passing on your first attempt and paying $38 to find out what you should have studied.
 
-### The NJ Life Insurance Exam
+## The NJ Life Insurance Exam
 
-#### What It Tests
+### What It Tests
 
 The New Jersey Life insurance exam tests two categories of knowledge: general life insurance principles that apply nationally, and New Jersey-specific laws and regulations. PSI publishes the official content outline, which is the authoritative source for what topics appear on the exam.
 
@@ -32,15 +32,15 @@ New Jersey Laws — Common to All Lines — producer licensing requirements unde
 
 New Jersey Laws — Life-Specific — NJ-specific provisions governing life insurance policies, including free-look periods, accelerated death benefit requirements, and state-specific rules governing variable products.
 
-#### Strategy for the Life Exam
+### Strategy for the Life Exam
 
 The Life exam rewards candidates who understand the mechanics of how policies work — not just names and definitions. PSI questions are frequently scenario-based: "A policyholder stops paying premiums after 10 years on a whole life policy. Which nonforfeiture option applies by default?" That question requires you to know not just what nonforfeiture options are, but which one is the standard default in the absence of a policyholder election.
 
 For the state law section, memorize the specific NJ rules that differ from the general national standard. New Jersey's free-look period, producer replacement requirements, and DOBI authority provisions are tested directly and are easy points for candidates who study them deliberately.
 
-### The NJ Health Insurance Exam
+## The NJ Health Insurance Exam
 
-#### What It Tests
+### What It Tests
 
 The Health exam follows the same format — 83 scored questions, 210 minutes, 70% passing threshold — but covers health insurance products and the NJ-specific laws governing them.
 
@@ -56,13 +56,13 @@ New Jersey Laws — Common to All Lines — same producer licensing, Commissione
 
 New Jersey Laws — Health-Specific — New Jersey's individual mandate (the state maintains its own mandate with a penalty), the Get Covered NJ marketplace, NJ FamilyCare and Medicaid expansion, state-mandated health benefits, and small employer health benefit plan requirements.
 
-#### Strategy for the Health Exam
+### Strategy for the Health Exam
 
 The Health exam has more moving parts than the Life exam because health insurance involves more coverage layers, more coordination rules, and more state-specific mandates. New Jersey is one of the few states with its own individual mandate separate from the federal one — this is a frequent exam topic and easy points if you know it.
 
 Pay close attention to the distinction between Medicare and Medicaid, and between Medicare supplement (Medigap) plans and Medicare Advantage plans. Candidates frequently confuse these. Also master coordination of benefits — the rules for determining which plan pays primary when a patient has multiple coverages.
 
-### Practice Questions
+## Practice Questions
 
 Question 1: A life insurance applicant is 42 years old and lists their age incorrectly as 38 on the application. The policy is issued and the insured dies 5 years later. What does the insurer do?
 
@@ -76,7 +76,7 @@ A) $500 minus the applicable copayment B) Nothing, because the visit was not pre
 
 Correct Answer: B. HMOs require members to select a primary care physician who coordinates all specialist referrals. A specialist visit without a referral is typically not covered under an HMO plan. This is a structural difference that distinguishes HMOs from PPOs, which do not require referrals.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I take the Life and Health exams on the same day in New Jersey?
 

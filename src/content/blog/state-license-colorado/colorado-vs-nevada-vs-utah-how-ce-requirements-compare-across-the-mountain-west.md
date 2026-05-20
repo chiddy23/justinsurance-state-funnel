@@ -14,9 +14,9 @@ imageAlt: "Colorado vs. Nevada vs. Utah: How CE Requirements Compare Across the 
 
 Producers licensed in multiple Mountain West states — a common profile for producers serving clients across Colorado, Nevada, and Utah — navigate three meaningfully different CE frameworks. The total hours required differ. The renewal cycle lengths differ. The classroom requirements differ dramatically. The specialty training structures for LTC, annuities, and flood insurance differ in ways that affect both compliance planning and the practical burden of staying current. This post maps every material CE difference across Colorado, Nevada, and Utah so that producers licensed in any combination of these states can plan a unified compliance calendar without gaps or redundancy.
 
-### The Core Framework: Side by Side
+## The Core Framework: Side by Side
 
-### Total Hours and Cycle Length: Nevada's Three-Year Advantage
+## Total Hours and Cycle Length: Nevada's Three-Year Advantage
 
 Nevada's 30-hour requirement over three years produces the lowest average annual CE burden of the three states — 10 hours per year compared to 12 in both Colorado and Utah. For a multi-state producer, Nevada's extended cycle reduces the frequency of renewal transactions and the pace of CE completion required to stay current.
 
@@ -24,7 +24,7 @@ Colorado and Utah both operate on two-year cycles at 24 hours — identical tota
 
 The multi-state planning implication: A producer licensed in all three states has two biennial deadlines (Colorado and Utah) and one triennial deadline (Nevada) running simultaneously on potentially different calendar tracks. Nevada's renewal cycle does not align with a birth-month schedule — it runs from the license issuance date, which may fall in any month. A producer whose Colorado and Utah licenses renew in March (birth month) and whose Nevada license was issued in July renews Nevada in August three years later. These non-aligned deadlines require separate tracking systems rather than a unified renewal calendar.
 
-### The Renewal Deadline Structure: Three Different Anchors
+## The Renewal Deadline Structure: Three Different Anchors
 
 Colorado: Last day of birth month, biennial, anchored to the year of original licensure (even-year license renews in even years, odd-year in odd years).
 
@@ -34,7 +34,7 @@ Utah: Last day of birth month, biennial, with no even/odd year anchoring require
 
 Colorado and Utah both use birth-month deadlines, which creates natural alignment for producers licensed in both states with the same birth month. A producer born in June who holds both Colorado and Utah licenses will renew both in June of their renewal years — though the specific years may differ depending on when each license was issued. Nevada's issuance-month deadline stands apart and requires independent tracking.
 
-### The Classroom Requirement: Utah's Most Distinctive Rule
+## The Classroom Requirement: Utah's Most Distinctive Rule
 
 Utah requires that 12 of the 24 required CE hours be completed in a classroom or classroom-equivalent format. This is the single most significant structural difference between Utah and the other two Mountain West states. Colorado and Nevada impose no classroom requirement for standard biennial CE — producers in those states can complete all required CE through online self-study.
 
@@ -44,7 +44,7 @@ Colorado's specialty classroom requirements: While Colorado does not require a c
 
 Nevada: No classroom requirement for standard CE. Nevada's LTC training (8-hour initial + 4-hour ongoing) does not carry a mandatory classroom component per available information — online completion appears to be acceptable.
 
-### The Major Lines Requirement: How Each State Structures the Non-Ethics Hours
+## The Major Lines Requirement: How Each State Structures the Non-Ethics Hours
 
 Colorado: Of the 21 non-ethics hours, 18 must be in the specific line(s) of authority the producer holds. Only 3 hours can be completed in any category (miscellaneous). This is the most restrictive line-specific requirement of the three states — the producer must accumulate 18 hours in their specific lines, not just any insurance topic. Property/Personal Lines producers have the additional constraint that 3 of those 18 must be in homeowners-specific courses.
 
@@ -54,7 +54,7 @@ Utah: Of the 21 non-ethics hours, all may be completed in any approved line of i
 
 The multi-state practical implication: A producer holding Property and Life in both Colorado and Utah faces strict line-specific requirements in Colorado (18 hours in Property or Life courses) while having complete flexibility in Utah (any approved courses). Courses completed for Colorado CE credit that are in the producer's licensed lines may also satisfy Utah CE if the same courses are approved in Utah — but the reverse is not necessarily true: courses completed in any line for Utah may not satisfy Colorado's line-specific requirement if they are not in the producer's Colorado-licensed lines.
 
-### Carryover Credits: Only Colorado Allows Them
+## Carryover Credits: Only Colorado Allows Them
 
 Colorado permits up to 12 CE hours earned in the final 120 days of the current biennial period to carry forward into the next cycle. Ethics hours that carry forward convert to general credit. This is a meaningful planning tool — producers who complete CE early in the final months of a cycle and overshoot 24 hours get partial credit toward the next renewal.
 
@@ -62,9 +62,9 @@ Nevada does not permit carryover credits. Any hours completed beyond the 30-hour
 
 Utah does not permit carryover credits. Same result as Nevada — excess hours in one cycle do not carry forward. Utah's no-carryover rule combined with the classroom-equivalent requirement means producers should plan CE completion timing carefully to avoid both under-completion and material excess.
 
-### Specialty Training Comparison: LTC, Annuity, and NFIP
+## Specialty Training Comparison: LTC, Annuity, and NFIP
 
-#### Long-Term Care Training
+### Long-Term Care Training
 
 Colorado's LTC training requirement is the most demanding in the Mountain West by a wide margin. The 16-hour initial training (including mandatory classroom for the 8-hour Partnership component) and the 5-hour biennial ongoing refresher (also mandatory classroom/webinar) are substantially more rigorous than Nevada's 8-hour initial / 4-hour ongoing structure and Utah's 3-hour initial / 3-hour ongoing requirement.
 
@@ -72,19 +72,19 @@ The burden difference reflects Colorado's LTC Partnership program — the Medica
 
 The multi-state LTC producer: A producer selling LTC in all three states must track three separate ongoing training clocks — Colorado's 24-month refresher cycle, Nevada's 2-year ongoing cycle, and Utah's 2-year ongoing cycle — which may all run from different initial training completion dates if the producer entered each state's LTC market at different times.
 
-#### Annuity Best Interest Training
+### Annuity Best Interest Training
 
 All three states require the standard one-time 4-hour Annuity Best Interest course before selling annuities, consistent with the NAIC 2020 model regulation.
 
 Colorado adopted the best interest standard earliest of the three — November 2022 — followed by Utah (July 2024) and Nevada (November 2024). All three states recognize reciprocity for training completed in other NAIC model-adopting states. A producer who completed the 4-hour course in Colorado before either Utah or Nevada adopted the standard satisfies both states' requirements through reciprocity when they become licensed in those states.
 
-#### NFIP Flood Training
+### NFIP Flood Training
 
 Utah is the outlier here — Utah's NFIP training requirement is 5 hours, compared to 3 hours in both Colorado and Nevada. This difference is confirmed by the Utah Insurance Department's CE requirements page. The federal minimum under the Flood Insurance Reform Act of 2004 is 3 hours — Utah has elected to require a more comprehensive 5-hour training.
 
 The multi-state flood seller: A producer completing NFIP training for the first time and licensed in all three states must ensure they complete the 5-hour Utah-approved course. A 3-hour Colorado or Nevada course does not automatically satisfy Utah's 5-hour requirement. If a producer completed a 3-hour NFIP course for Colorado or Nevada before becoming licensed in Utah, they will need to complete additional flood training to reach Utah's 5-hour threshold.
 
-### The 20-Year Veteran Exemption: Nevada Only
+## The 20-Year Veteran Exemption: Nevada Only
 
 Nevada offers a CE exemption for producers who have been continuously licensed for 20 or more years as a primary source of income in insurance selling, marketing, underwriting, adjusting, law, management, or regulation. Qualifying producers must submit an exemption form — the exemption is not automatic.
 
@@ -92,7 +92,7 @@ Neither Colorado nor Utah offers a comparable tenure-based CE exemption. Colorad
 
 The Nevada veteran exemption is meaningful for long-tenured Nevada producers and occasionally relevant for multi-state producers whose Nevada tenure is approaching 20 years. It does not affect Colorado or Utah compliance obligations.
 
-### Exam Proctoring: Colorado Is the Only State That Requires It
+## Exam Proctoring: Colorado Is the Only State That Requires It
 
 Colorado requires that all CE final exams be proctored by a disinterested third party — someone who is at least 18 years old, not a family member, and not in the student's line of supervision. This requirement applies to online self-study courses. The proctor must certify that the student completed the exam without outside assistance.
 
@@ -102,11 +102,11 @@ Utah does not require exam proctoring for standard online CE courses. Utah's cla
 
 For multi-state producers completing CE simultaneously across states, Colorado's proctoring requirement adds a logistical step that Nevada and Utah do not — when completing Colorado courses, a proctor must be arranged for the final exam even when the same content completed for Nevada or Utah credit requires no proctor.
 
-### Renewal Fees: Nevada's Flat Fee vs. Colorado's Per-Line Structure
+## Renewal Fees: Nevada's Flat Fee vs. Colorado's Per-Line Structure
 
 Nevada's flat $185 renewal fee is higher than Colorado for single-line producers but comparatively favorable for producers holding many lines — a producer holding four lines in Colorado pays $108, while the same producer pays $185 in Nevada regardless of how many lines are held. Nevada's three-year cycle also means this $185 fee is paid once every three years rather than once every two.
 
-### Building a Unified CE Calendar for Multi-State Producers
+## Building a Unified CE Calendar for Multi-State Producers
 
 A producer licensed in all three states with a birth month in April who was issued the Nevada license in September faces:
 
@@ -126,7 +126,7 @@ Year 3 of the cycle (Nevada triennial year): Complete Nevada's remaining CE towa
 
 The specific course choices should prioritize courses approved in multiple states simultaneously when possible — many national CE providers offer courses approved in Colorado, Nevada, and Utah concurrently, reducing the total number of distinct courses that must be completed to satisfy all three states.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I complete 30 hours of CE for Nevada, can any of those hours count toward my Colorado and Utah requirements?
 

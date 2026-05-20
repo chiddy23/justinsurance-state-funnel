@@ -16,7 +16,7 @@ Tennessee requires every insurance producer who sells, solicits, or negotiates a
 
 This post covers every dimension of Tennessee's annuity suitability training requirement: the statutory and regulatory basis, exactly what the training covers, how it interacts with the 24-hour CE total, the specific best interest standards that Tennessee producers must follow when recommending annuities, the carrier verification obligation, and the compliance management practices that ensure producers meet the requirement before their first annuity sale and satisfy ongoing obligations thereafter.
 
-### The Regulatory Basis
+## The Regulatory Basis
 
 Tennessee's annuity suitability training requirement is established under Rule 0780-01-86-.07 of the TDCI's administrative rules, effective January 1, 2024. The rule states that an insurance producer shall not solicit the sale of an annuity product unless the producer has adequate knowledge of the product to recommend the annuity and the producer is in compliance with the insurer's standards for product training.
 
@@ -26,9 +26,9 @@ The training requirement within the broader framework: The 4-hour training cours
 
 Which line of authority is required: A producer must hold a Life line of authority to sell fixed and indexed annuities. Variable annuities additionally require Variable Products line of authority and FINRA Series 6 or Series 7 registration. The annuity suitability training applies to producers holding the Life line of authority who sell any annuity product — fixed, indexed, or variable.
 
-### The One-Time 4-Hour Training Requirement
+## The One-Time 4-Hour Training Requirement
 
-#### Structure and Completion
+### Structure and Completion
 
 The annuity suitability training is a one-time requirement. A producer who completes the TDCI-approved 4-hour course satisfies the training prerequisite permanently — no recurring completion is required. This distinguishes annuity suitability training from LTC ongoing training, which requires a new 4-hour completion every 24 months. Once the annuity suitability training is completed, the producer does not need to repeat it unless the TDCI's rules change to require periodic renewal.
 
@@ -36,7 +36,7 @@ The prerequisite is absolute: A producer with Life line of authority who has not
 
 Producers licensed before the rule's effective date: Producers who held a life insurance line of authority before the January 1, 2024 effective date of Rule 0780-01-86-.07 and who desired to sell annuities were required to complete the training within six months of the rule's effective date — by June 30, 2024. Producers who obtained Life line of authority after January 1, 2024 must complete the training before beginning annuity sales.
 
-#### What the 4-Hour Training Covers
+### What the 4-Hour Training Covers
 
 TDCI-approved annuity suitability training covers the regulatory framework, product knowledge, and client interaction standards that producers need to recommend annuities in compliance with Tennessee's best interest standard.
 
@@ -60,7 +60,7 @@ Replacement transactions: When recommending the replacement of an existing annui
 
 Tennessee-specific provisions: The training addresses Tennessee's specific implementation of the NAIC model — including the TDCI's enforcement authority, the producer's obligation to maintain documentation, and the consumer's right to rescind a transaction under Tennessee's free look provision.
 
-#### How to Select and Complete the Training
+### How to Select and Complete the Training
 
 Approved providers: The annuity suitability training must be from a TDCI-approved provider offering a course specifically approved for the Tennessee annuity suitability requirement. The most widely recognized annuity suitability training program is the AHIP (America's Health Insurance Plans) Annuity Best Interest Certification, but TDCI-approved provider offerings satisfy the requirement as well. Verify that any course carries explicit TDCI approval for annuity suitability training before enrolling.
 
@@ -70,7 +70,7 @@ Insurer verification requirement: An insurer shall verify that a producer has co
 
 Documentation retention: Retain the completion certificate from the annuity suitability training. Tennessee requires producers to maintain CE completion certificates for at least 2 years. Given that the annuity training is a one-time requirement with permanent effect, maintaining the completion certificate indefinitely is best practice — carriers may request verification years after the original completion.
 
-### How Annuity Suitability Training Counts Toward CE
+## How Annuity Suitability Training Counts Toward CE
 
 The 4-hour annuity suitability training counts toward Tennessee's 24-hour biennial CE total in the period during which it is completed. It does not add to the CE total — it is part of it.
 
@@ -80,11 +80,11 @@ Ethics hours are separate: The annuity suitability training counts as general CE
 
 The one-time completion and future CE periods: After the annuity suitability training is completed once, it counts toward the CE total only in the period during which it was completed. Future biennial CE periods require 24 hours of new CE completions — the prior annuity suitability training completion does not carry forward as CE credit in subsequent periods. The training requirement itself is satisfied permanently, but the CE credit it produces applies only to the period of completion.
 
-### The Case-by-Case Suitability Analysis
+## The Case-by-Case Suitability Analysis
 
 The 4-hour training is the prerequisite that enables annuity sales — but it is not the end of the producer's suitability obligations. Every individual annuity recommendation requires a case-by-case suitability analysis conducted at the time of the recommendation.
 
-#### Gathering Consumer Profile Information
+### Gathering Consumer Profile Information
 
 Before recommending any annuity, the producer must gather the following information from the consumer:
 
@@ -104,7 +104,7 @@ Liquidity needs — whether the consumer may need access to funds in the near te
 
 If the consumer declines to provide information: If a consumer refuses to provide the information needed for a suitability analysis, the producer may not make a recommendation — only an unsolicited sale may proceed without a suitability analysis. The refusal must be documented. A producer who proceeds with a recommendation without gathering the required information — or who accepts incomplete information without attempting to gather it — has not fulfilled the care obligation.
 
-#### The Documentation Requirement
+### The Documentation Requirement
 
 Every annuity recommendation must be documented. The producer's documentation must include:
 
@@ -118,7 +118,7 @@ Any conflicts of interest identified and how they were managed
 
 Documentation retention: Maintain annuity suitability documentation for each transaction for a minimum period — consult current TDCI requirements for the specific retention period. Carriers may also require submission of suitability documentation at the time of the application.
 
-#### Replacement Transactions
+### Replacement Transactions
 
 Replacing an existing annuity or life insurance contract with a new annuity triggers heightened disclosure and documentation requirements.
 
@@ -126,7 +126,7 @@ The replacement comparison: When recommending a replacement, the producer must p
 
 The replacement best interest analysis: The producer must have a reasonable basis to believe the replacement serves the consumer's best interest — that the benefits of the new contract outweigh the costs of surrendering the existing contract. A replacement recommended primarily because the producer earns a first-year commission on the new contract that exceeds the trail commission on the existing contract is not a best-interest recommendation. This conflict of interest must be identified, disclosed, and managed.
 
-### Reciprocity for Out-of-State Annuity Training
+## Reciprocity for Out-of-State Annuity Training
 
 Tennessee's annuity suitability training follows the NAIC model regulation framework. Producers who have completed equivalent annuity suitability training in another NAIC model-compliant state may satisfy Tennessee's requirement through that prior completion.
 
@@ -134,7 +134,7 @@ How reciprocity works: If a producer completed an annuity suitability training c
 
 Verify before relying on out-of-state training: Do not assume that any prior annuity training automatically satisfies Tennessee's requirement. Contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov with specifics about the prior training — the state where completed, the course name and provider, the hours completed, and the completion date — to receive a determination before selling annuities in Tennessee based on out-of-state training.
 
-### The Producer's Ongoing Best Interest Obligations After Training
+## The Producer's Ongoing Best Interest Obligations After Training
 
 Completing the 4-hour training satisfies the educational prerequisite — but the best interest standard is an ongoing obligation that applies to every annuity recommendation throughout the producer's career. The training provides the framework; compliance with the framework is required for every transaction.
 
@@ -142,7 +142,7 @@ Annual carrier certification: Many carriers require producers to complete an ann
 
 Staying current with regulatory changes: The annuity suitability regulatory framework continues to evolve. The NAIC model regulation has been updated in recent years, and state implementations may be updated as the model is revised. Producers who complete their one-time training and then disengage from the regulatory landscape risk being uninformed about compliance obligation changes. Following TDCI regulatory updates and completing annuity-related CE courses in subsequent biennial periods — even though the training itself is satisfied — is a professional best practice that keeps producers current with the standards they are required to meet.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I have been selling fixed annuities in Tennessee for two years and completed the training well before January 1, 2024. A carrier is now asking me to complete their own annuity product training before selling their specific product. Is this separate from the TDCI requirement?
 

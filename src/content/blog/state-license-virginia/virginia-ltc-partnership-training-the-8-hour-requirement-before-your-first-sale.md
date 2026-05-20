@@ -14,7 +14,7 @@ imageAlt: "Virginia LTC Partnership Training: The 8-Hour Requirement Before Your
 
 Virginia's Long-Term Care Partnership program is a state-federal collaboration that allows policyholders to protect personal assets from Medicaid spend-down equal to the LTC insurance benefits they receive. It is a meaningful consumer benefit — and Virginia law prohibits any producer from selling an LTC Partnership policy without first completing a mandatory 8-hour training program. No exceptions. No selling pending completion. No grace period after completing a non-qualifying course. The requirement is absolute, and the consequences of non-compliance fall on both the producer and the insurer who allows an untrained producer to sell a Partnership policy. This post covers exactly what the training requires, how to complete it correctly, and what the ongoing 4-hour obligation means for your practice.
 
-### What the 8-Hour Initial Training Covers
+## What the 8-Hour Initial Training Covers
 
 The initial LTC Partnership training has a required structure. Of the 8 hours:
 
@@ -24,7 +24,7 @@ The remaining 6 hours cover general LTC topics: LTC insurance policy types, bene
 
 The training must be approved for [continuing education](/virginia/continuing-education) credit by Virginia's CE program. Not all LTC courses satisfy this requirement — the course must be specifically identified as an LTC Partnership training program meeting Virginia's content requirements.
 
-### The Ongoing 4-Hour Requirement
+## The Ongoing 4-Hour Requirement
 
 After completing the initial 8-hour training, you must complete 4 hours of ongoing LTC training every 24 months to maintain your authority to sell LTC Partnership products. At least 2 of those 4 hours must be Virginia-specific content.
 
@@ -32,7 +32,7 @@ The 24-month clock runs from the completion date of your prior training, not fro
 
 Critical compliance rule: If you fail to complete the 4-hour ongoing training within 24 months of your previous LTC training completion, Virginia treats the lapse as a full reset — you must retake the entire 8-hour initial training before you can sell LTC Partnership policies again. The 24-month deadline for the ongoing requirement is not a soft deadline.
 
-### Consequences of Non-Compliance
+## Consequences of Non-Compliance
 
 Virginia's LTC training requirement creates direct obligations for producers and for the insurers who appoint them:
 
@@ -40,7 +40,7 @@ For producers: Selling an LTC Partnership policy without completing the required
 
 For insurers: Virginia holds insurers responsible for verifying that their appointed producers have completed the required LTC training before allowing them to sell Partnership policies. Insurers must be able to provide documentation of training completion to the Bureau of Insurance upon request. Failing to verify training exposes the insurer to regulatory liability as well.
 
-### Out-of-State Training Credit
+## Out-of-State Training Credit
 
 Virginia recognizes LTC training completed in other states — with an important limitation:
 
@@ -50,17 +50,17 @@ Virginia-specific content (2 hours): This component cannot be satisfied by out-o
 
 Non-resident producers: Non-resident producers who sell LTC Partnership products in Virginia must also meet Virginia's training requirements. Non-residents who have completed an 8-hour NAIC-approved LTC course in another state must additionally complete Virginia's 2-hour Virginia-specific Partnership content before selling LTC Partnership policies in the Commonwealth.
 
-### How LTC Training Counts Toward Regular CE
+## How LTC Training Counts Toward Regular CE
 
 The LTC training hours — both the 8-hour initial and the 4-hour ongoing — count as CE credit toward your biennial CE requirement. This means the training is not entirely additional time on top of your normal CE obligation; it contributes toward your 16 or 24-hour total. The specific CE categories for which the hours are credited (e.g., L/A/H credit) depend on the approved course — confirm with the course provider before enrolling.
 
-### What Is the Virginia LTC Partnership Program?
+## What Is the Virginia LTC Partnership Program?
 
 For producers new to Virginia's market, a brief explanation of the Partnership program helps put the training requirement in context. Virginia's LTC Partnership program, operating under the Deficit Reduction Act framework, allows policyholders who purchase a qualifying LTC Partnership policy to protect personal assets from Medicaid spend-down equal to the LTC benefits paid out by the policy. This "asset disregard" feature makes LTC insurance more attractive to middle-income Virginians who might otherwise resist LTC coverage out of concern that they will spend down their assets to Medicaid eligibility anyway.
 
 A policyholder whose qualifying Partnership policy pays $200,000 in lifetime benefits can protect $200,000 in assets from Medicaid spend-down if they later need Medicaid long-term care assistance. This feature requires explaining accurately — which is why the training requirement exists.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What happens if I sell an LTC Partnership policy before completing the 8-hour training?
 

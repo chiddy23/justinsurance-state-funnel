@@ -14,7 +14,7 @@ imageAlt: Virginia No Prelicensing Insurance Requirement  What It Means
 
 Virginia is one of the only states in the country that does not require candidates to complete any [prelicensing](/virginia/prelicensing) education before sitting for an insurance licensing exam. In every other major insurance licensing state — New York requires 40 to 90 hours, New Jersey requires 20 hours per line, Florida requires 40 to 60 hours — a candidate cannot even schedule the state exam without a certificate of completion from a state-approved prelicensing provider. Virginia eliminated this hurdle entirely for all lines except Title insurance. You can schedule your Prometric exam tomorrow, study entirely on your own, and sit for a 140-question test that determines whether you get your license. For candidates who understand what this means, it is a genuine advantage. For candidates who misread it as permission to show up unprepared, it is a trap.
 
-### What the Rule Actually Says
+## What the Rule Actually Says
 
 Under Virginia's licensing statutes (Title 38.2 of the Code of Virginia), prelicensing education is not required for any of the following lines before taking the Prometric exam:
 
@@ -32,13 +32,13 @@ The only exception is Title insurance, which requires completion of an approved 
 
 For all other major lines, the decision to prepare — and how to prepare — belongs entirely to you.
 
-### Why Virginia Removed the Requirement
+## Why Virginia Removed the Requirement
 
 Virginia's no-prelicensing policy reflects a philosophy of regulatory efficiency: the exam itself is the standard. If you can pass the Prometric exam at 70% or above, Virginia's Bureau of Insurance considers you sufficiently prepared to hold a license. The barrier is the exam, not the pathway to it. This approach treats candidates as adults capable of determining their own preparation strategy, reduces the cost and time burden for career changers, and ensures that the licensing credential reflects actual knowledge rather than just completion of mandated hours.
 
 Virginia is also part of a small group of states — alongside Pennsylvania (which recently eliminated its prelicensing requirement in 2025) — that have moved toward exam-based gatekeeping rather than course-completion-based gatekeeping. The trend reflects a broader national debate about whether mandatory prelicensing hours actually improve agent quality or simply add cost and delay.
 
-### The Argument for Still Taking a Course
+## The Argument for Still Taking a Course
 
 The no-prelicensing rule does not mean the exam is easy. It means the preparation is optional. Those are very different things.
 
@@ -48,7 +48,7 @@ The Virginia Property & Casualty exam (Series 11-03) has 135 scored questions co
 
 [Pass rates](/pass-rates) reflect this reality. While Virginia does not publish line-level pass rates publicly in the same granular detail as some states, national data consistently shows that candidates who complete structured preparation outperform those who do not across every state and every line. The exam is not designed to be passed by the unprepared.
 
-### How to Self-Study Effectively in Virginia
+## How to Self-Study Effectively in Virginia
 
 If you choose not to take a formal prep course, the minimum effective study approach includes:
 
@@ -60,13 +60,13 @@ Practice exams: Take at least three full-length timed practice exams before your
 
 Virginia state law sections: Whatever study method you use, dedicate specific time to Virginia-specific content — the SCC's Bureau of Insurance structure, Title 38.2 provisions, Virginia's auto insurance minimums (50/100/25 effective January 1, 2025), the UIM stacking rule (effective July 1, 2023), and Virginia's unfair trade practices and licensing laws. These questions are state-specific and cannot be answered from generic national insurance knowledge.
 
-### The Case for a Structured Prep Course
+## The Case for a Structured Prep Course
 
 A structured prep course does what self-study rarely achieves systematically: it organizes the content in the sequence and depth proportional to how it is tested, provides explanations for wrong answers rather than just correct ones, and tracks your performance across topic areas so you know exactly where your gaps are before exam day.
 
 The $35 exam fee is refundable only to the extent that you don't waste it. A candidate who spends $150 to $200 on a structured prep course and passes on the first attempt spends $185 to $235 total. A candidate who skips the course, pays $35 three times before passing, then waits 30 days after the third failure, has spent $105 in exam fees plus months of delay — and still needs to know the same material.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If Virginia doesn't require prelicensing, why do most candidates still take a course?
 

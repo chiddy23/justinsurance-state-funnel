@@ -14,15 +14,15 @@ imageAlt: "NJ Property and Casualty Exam: What's on It and How to Dominate Every
 
 The New Jersey Property and Casualty exams cover two of the most commercially important lines of insurance in one of the densest, highest-premium states in the country. New Jersey ranks among the most expensive states for auto insurance nationally — in part because of its no-fault system, its verbal threshold tort option, and the 2026 liability minimum increases. That regulatory complexity shows up directly on the Property and Casualty exams. Candidates who understand New Jersey's auto insurance architecture — not just the national P&C framework — have a measurable advantage on the state law section.
 
-### How the P&C Exams Are Structured
+## How the P&C Exams Are Structured
 
 Property and Casualty are separate exams in New Jersey. Each contains 83 scored questions plus unscored pretest items, allows 210 minutes, and requires a 70% passing score. The fee is $38 per exam. Most candidates pursuing a full P&C license take both exams — either on the same day or in close succession.
 
 Each exam follows the same two-section architecture: a general knowledge section covering nationally applicable P&C concepts, and a New Jersey state law section covering NJ-specific regulations, the auto insurance system, and producer licensing rules.
 
-### The Property Exam: Section by Section
+## The Property Exam: Section by Section
 
-#### General Section
+### General Section
 
 Types of Policies, Bonds, and Related Terms — dwelling policies, homeowners policies (HO-2, HO-3, HO-4, HO-5, HO-6, HO-8), commercial property coverage, inland marine, ocean marine, crime policies, surety bonds, and fidelity bonds. Understand the distinction between named-perils and open-perils (all-risk) coverage — this is heavily tested.
 
@@ -34,7 +34,7 @@ New Jersey Laws — Common to All Lines — producer licensing, DOBI Commissione
 
 New Jersey Laws — Property-Specific — NJ-specific property insurance rules, including the Fair Plan (New Jersey Property Liability Insurance Guaranty Association), rules governing nonrenewal and cancellation of homeowners policies, and coastal property insurance considerations relevant to New Jersey's Shore communities.
 
-#### Key Strategy: The Coinsurance Formula
+### Key Strategy: The Coinsurance Formula
 
 The coinsurance penalty formula appears on nearly every Property exam. The formula is:
 
@@ -46,9 +46,9 @@ If a building worth $500,000 has an 80% coinsurance requirement ($400,000 requir
 
 The owner bears $25,000 out of pocket as the coinsurance penalty. Practice this formula until you can calculate it in under 30 seconds under exam conditions.
 
-### The Casualty Exam: Section by Section
+## The Casualty Exam: Section by Section
 
-#### General Section
+### General Section
 
 Types of Policies — personal auto policies (PAP), commercial auto, general liability, commercial general liability (CGL), umbrella and excess liability, workers' compensation, professional liability (E&O, D&O, malpractice), and product liability.
 
@@ -60,7 +60,7 @@ New Jersey Laws — Common to All Lines — same producer licensing and DOBI con
 
 New Jersey Laws — Casualty-Specific — this is the most important section for NJ candidates. It covers New Jersey's no-fault auto insurance system, the verbal threshold and limited right to sue, personal injury protection (PIP) requirements, the basic versus standard policy distinction, uninsured and underinsured motorist coverage rules, and the 2026 liability minimum increases (35/70/25 for bodily injury, $25,000 for property damage).
 
-#### Key Strategy: Master New Jersey Auto Insurance
+### Key Strategy: Master New Jersey Auto Insurance
 
 New Jersey's auto insurance system is materially different from most states and is tested in detail on the Casualty exam. Here are the core elements you must know:
 
@@ -72,7 +72,7 @@ The basic policy is a separate, reduced-coverage option available to drivers on 
 
 Effective January 1, 2026, the minimum liability limits for standard policies increased to $35,000 per person / $70,000 per accident for bodily injury, and $25,000 per accident for property damage. UM/UIM limits track liability minimums.
 
-### Practice Questions
+## Practice Questions
 
 Question 1: A homeowner insures a $400,000 building with an 80% coinsurance requirement. She carries $280,000 in coverage and suffers a $60,000 fire loss. How much does the insurer pay?
 
@@ -86,7 +86,7 @@ A) Yes, because the other driver was at fault B) No, because her injuries do not
 
 Correct Answer: B. Under the verbal threshold (Limited Right to Sue), a NJ policyholder cannot sue for noneconomic damages like pain and suffering unless the injury falls into a defined serious injury category. Soft tissue injuries without fracture or permanent impairment do not meet the threshold.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Do I have to take the Property and Casualty exams separately in New Jersey?
 

@@ -14,7 +14,7 @@ imageAlt: "Ethics CE in Virginia: How to Satisfy the 3-Hour Requirement and What
 
 Every Virginia resident insurance producer must complete at least 3 credit hours of ethics as part of their biennial CE obligation — whether the total requirement is 16 or 24 hours. Ethics hours are not a separate track; they count within your total. A 16-hour producer needs 3 ethics hours and 13 hours of other approved content. A 24-hour dual licensee needs 3 ethics hours and 21 hours of other content. The challenge is not the quantity — 3 hours is a short course. The challenge is knowing what counts and what does not, because Virginia has a specific rule that excludes certain course types from satisfying the ethics requirement even when they are otherwise valid CE courses.
 
-### The Core Rule: What Qualifies as Ethics CE
+## The Core Rule: What Qualifies as Ethics CE
 
 Virginia's ethics CE requirement is met by courses specifically approved as ethics content by the Virginia Insurance [Continuing Education](/virginia/continuing-education) Board. For producers (as distinct from public adjusters), the ethics requirement may be satisfied by courses covering:
 
@@ -28,7 +28,7 @@ Courses categorized as Other General Insurance (OGI) credits cannot be applied t
 
 This is the most common compliance mistake in Virginia CE planning: a producer who takes an OGI course covering business ethics, thinking it satisfies the ethics requirement, finds at renewal that the hours counted toward the total but not toward the 3-hour ethics minimum. The result is a CE deficiency that prevents renewal.
 
-### How to Verify a Course Satisfies the Ethics Requirement
+## How to Verify a Course Satisfies the Ethics Requirement
 
 Before enrolling in any course intended to satisfy the ethics minimum, check the course's approved CE category in Virginia's CE system:
 
@@ -42,21 +42,21 @@ Confirm the course is appropriate for your license type (L/A/H or P&C)
 
 If you are unsure whether a specific course satisfies the ethics requirement, contact Pearson VUE at 877-234-6093 or VirginiaInsuranceCE@pearson.com before completing the course.
 
-### Virginia's "Laws and Regulations" Option for Ethics
+## Virginia's "Laws and Regulations" Option for Ethics
 
 Virginia's laws and regulations courses are a practical and valuable way to satisfy the ethics requirement because they serve double duty: they directly reinforce the statutory knowledge that is tested in Virginia's CE compliance framework and on the licensing exam, and they satisfy the ethics minimum simultaneously. For producers who want to stay current on Title 38.2 statutory changes — including Virginia's recent auto insurance law changes, the annuity best interest standard, and unfair trade practices provisions — a Virginia laws and regulations CE course is a logical choice for the ethics component.
 
 Not every laws and regulations course satisfies the ethics minimum — the course must be specifically approved and categorized as satisfying the ethics (or laws and regulations for ethics purposes) requirement. Confirm the specific course's categorization before enrolling.
 
-### Ethics CE for Dual Licensees
+## Ethics CE for Dual Licensees
 
 Dual licensees who hold both L/A/H and P&C license types and complete 24 CE hours still need only 3 ethics hours total — not 3 hours per license type. The 3 ethics hours count toward the total and typically apply toward one license type's content allocation. For the 8-hour minimum per license type requirement, ethics hours are credited toward whichever type's content the course covers. If you take a Virginia laws and regulations course that covers both L/A/H and P&C regulatory topics, check the course's specific type allocation in the CE system.
 
-### Ethics for Public Adjusters
+## Ethics for Public Adjusters
 
 Virginia public adjusters have a slightly different ethics CE rule. Public adjusters must complete 3 hours of ethics specifically — but their ethics courses may not include laws and regulations. Only courses categorized strictly as ethics (not laws and regulations) satisfy the ethics requirement for public adjusters. This is the reverse of the producer rule, which does allow laws and regulations to satisfy ethics. Producers and public adjusters should not assume their respective ethics rules are identical.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Does Virginia require ethics CE every biennium, or only once?
 

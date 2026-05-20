@@ -14,13 +14,13 @@ imageAlt: "Insurance Fraud Law in New Jersey: Mandatory Reporting, Penalties, an
 
 New Jersey has one of the most aggressive insurance fraud enforcement frameworks in the country. The state is the only one in the nation with a dedicated Office of the Insurance Fraud Prosecutor — a unit within the Attorney General's Office with its own appointed prosecutor, its own investigative staff, and the authority to bring both criminal and civil actions against fraud perpetrators. For insurance producers, understanding New Jersey's fraud law is not academic: it governs reporting obligations, establishes the penalties that apply to fraudulent producer conduct, and defines the conduct that can result in criminal prosecution rather than just administrative sanction.
 
-### The Statutory Framework: N.J.S.A. 17:33A
+## The Statutory Framework: N.J.S.A. 17:33A
 
 New Jersey's primary insurance fraud statute is the New Jersey Insurance Fraud Prevention Act, codified at N.J.S.A. 17:33A-1 et seq. (P.L.1983, c.320). The Act defines insurance fraud broadly, establishes the civil and administrative penalty structure, creates the mandatory fraud prevention and detection plan requirements for insurers, and governs the referral and prosecution framework involving the OIFP.
 
 A related criminal statute — N.J.S.A. 2C:21-4.4 — addresses insurance fraud as a criminal offense within New Jersey's criminal code.
 
-### What Constitutes Insurance Fraud Under N.J.S.A. 17:33A-4
+## What Constitutes Insurance Fraud Under N.J.S.A. 17:33A-4
 
 The fraud statute defines prohibited acts broadly. Under N.J.S.A. 17:33A-4, it is a violation to:
 
@@ -34,7 +34,7 @@ Engage in any scheme or artifice to defraud any insurer in connection with an in
 
 This definition covers not just claimants but also producers, medical providers, attorneys, adjusters, and anyone who participates in the insurance transaction. A producer who assists a client in filing a fraudulent claim, inflates loss values, or falsifies application information is subject to the Fraud Act — in addition to the disciplinary provisions of the Producer Licensing Act.
 
-### Civil and Administrative Penalties
+## Civil and Administrative Penalties
 
 Under N.J.S.A. 17:33A-5, violations of the Fraud Act carry the following civil and administrative penalties:
 
@@ -42,7 +42,7 @@ In addition to these per-violation penalties, a court finding a person committed
 
 Under N.J.S.A. 17:33A-5.1, persons found to have committed insurance fraud are also subject to a surcharge assessed by the court to fund the OIFP's operations.
 
-### Criminal Penalties
+## Criminal Penalties
 
 Insurance fraud prosecuted criminally under N.J.S.A. 2C:21-4.4 can result in:
 
@@ -54,7 +54,7 @@ Enhanced penalties for organized fraud rings, recurring schemes, or fraud involv
 
 Criminal prosecution is distinct from administrative action by DOBI. A producer can simultaneously face license revocation by the Commissioner (administrative), a civil action by an insurer under the Fraud Act (civil), and criminal prosecution by the OIFP (criminal) — all arising from the same fraudulent conduct.
 
-### The Office of the Insurance Fraud Prosecutor (OIFP)
+## The Office of the Insurance Fraud Prosecutor (OIFP)
 
 The OIFP was created by the Automobile Insurance Cost Reduction Act of 1998 (P.L.1998, c.21) as a division within the New Jersey Attorney General's Office. The Insurance Fraud Prosecutor is appointed by the Governor with the advice and consent of the Senate and serves under the direction of the Attorney General.
 
@@ -72,13 +72,13 @@ Federal agencies where applicable
 
 The OIFP actively pursues staged accident rings, fraudulent medical billing schemes, workers' compensation fraud, Medicare and Medicaid fraud, and producer misconduct — and publishes regular press releases on prosecutions and convictions. As recently as October 2025, the OIFP charged a former Camden County insurance adjuster who created and submitted phony claims and directed nearly $200,000 to bank accounts he controlled.
 
-### Mandatory Reporting for Insurers
+## Mandatory Reporting for Insurers
 
 Under N.J.A.C. 11:16-6 and the Fraud Act, insurance companies that write more than 2,500 New Jersey automobile policies or more than 10,000 health insurance lives are required to maintain a Special Investigations Unit (SIU) and a fraud prevention and detection plan approved by DOBI. Insurers are required to refer cases to the OIFP when SIU investigation leads to a reasonable suspicion that a violation of N.J.S.A. 17:33A-4 has occurred.
 
 Insurers must submit an annual fraud report to DOBI by February 1 of each year for the prior calendar year, detailing the number of fraud referrals made, their classification by line, and the disposition of referred cases. Failure to maintain required fraud plans, submit reports, or properly implement fraud detection procedures can result in DOBI penalties of up to $25,000 per violation.
 
-### What Producers Must Know
+## What Producers Must Know
 
 Producers have no independent mandatory reporting obligation under the Fraud Act equivalent to the insurer SIU requirement — but producers are subject to several connected obligations:
 
@@ -90,7 +90,7 @@ CE fraud training: One of the three ethics CE hours can be substituted with an a
 
 Premium misappropriation: Misappropriating premiums collected from clients — using client funds for personal purposes before remitting to the insurer — is both an insurance fraud violation and a grounds for license revocation under N.J.S.A. 17:22A-40(a)(4).
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the Office of the Insurance Fraud Prosecutor, and how does it differ from DOBI?
 

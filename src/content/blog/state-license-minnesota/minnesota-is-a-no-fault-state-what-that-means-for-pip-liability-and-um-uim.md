@@ -14,7 +14,7 @@ imageAlt: "Minnesota Is a No-Fault State: What That Means for PIP, Liability, an
 
 Minnesota is one of twelve no-fault states in the United States. That classification shapes every aspect of how auto insurance works for Minnesota drivers — who pays first after an accident, what coverages are mandatory, when a lawsuit against an at-fault driver is permitted, and what role UM/UIM coverage plays in a state where the injured party's own insurance pays first regardless of fault. For producers licensed for Property and Casualty or Personal Lines in Minnesota, understanding the no-fault framework is foundational knowledge for every personal auto insurance conversation with a client. This post covers the complete Minnesota no-fault system: its statutory basis, every required coverage and what it pays, how the claim sequence works, the tort threshold that governs when lawsuits are permitted, and the producer's practical obligations when advising Minnesota auto insurance clients.
 
-### The Statutory Foundation: Minn. Stat. §65B.49
+## The Statutory Foundation: Minn. Stat. §65B.49
 
 Minnesota's no-fault auto insurance system is established by Minn. Stat. §65B.49, which has governed auto insurance in the state since January 1, 1975. The statute requires that every auto insurance policy issued in Minnesota for a vehicle registered or principally garaged in the state must include specific mandatory coverages — Personal Injury Protection (PIP), liability, and uninsured/underinsured motorist coverage — as conditions of legal operation of a motor vehicle in Minnesota.
 
@@ -22,7 +22,7 @@ The no-fault principle: In a no-fault state, the injured party's own insurance p
 
 Minnesota's modified no-fault system: Minnesota operates a modified no-fault system rather than a pure no-fault system. In a pure no-fault state, parties cannot sue for any damages — they are limited to their own insurance benefits regardless of how seriously they are injured. Minnesota's modified system preserves the right to sue the at-fault driver for non-economic damages (pain and suffering) when injuries meet a defined threshold — the tort threshold. Below the threshold, the injured party's PIP coverage is their primary compensation. Above the threshold, the no-fault system's restrictions lift and traditional tort liability becomes available.
 
-### Mandatory Coverage 1: Personal Injury Protection (PIP)
+## Mandatory Coverage 1: Personal Injury Protection (PIP)
 
 PIP is the cornerstone of Minnesota's no-fault system. Every Minnesota auto insurance policy must include a minimum of $40,000 in PIP coverage per person per accident, split into two distinct sub-limits:
 
@@ -36,7 +36,7 @@ Replacement services: The reasonable cost of services the injured person cannot 
 
 Funeral expenses: Up to $2,000 for funeral and burial costs in the event of a fatal accident covered by PIP.
 
-#### How PIP Pays: The No-Fault Claim Sequence
+### How PIP Pays: The No-Fault Claim Sequence
 
 PIP pays regardless of fault. After any Minnesota auto accident — whether the insured caused it or was an innocent victim — the injured person files a PIP claim with their own insurer first. The PIP insurer pays covered medical expenses and non-medical economic losses without requiring a determination of which driver was at fault.
 
@@ -46,11 +46,11 @@ PIP covers specific persons: PIP coverage follows the named insured — it cover
 
 The six-month filing deadline: A PIP claim must be filed within six months of the accident. Claims filed after six months are barred regardless of the validity of the underlying claim. This deadline is a specifically testable Minnesota provision — the exam tests whether candidates know the six-month limitation rather than assuming a longer or shorter window.
 
-#### PIP and the $500 Weekly Lost Wage Cap
+### PIP and the $500 Weekly Lost Wage Cap
 
 The $500 per week lost wage cap under Minnesota PIP is one of the most practically consequential limitations in the no-fault system. A Minnesota driver earning $3,000 per week who is disabled for four weeks loses $12,000 in gross wages. PIP pays 85% of wages — $2,550 per week — but the cap limits actual payment to $500 per week, leaving $2,050 per week uncompensated through PIP alone. For clients with significant income, this gap between actual lost wages and the PIP wage cap is a genuine financial risk that supplemental disability income coverage addresses.
 
-### Mandatory Coverage 2: Liability Insurance
+## Mandatory Coverage 2: Liability Insurance
 
 Minimum required: $30,000 per person / $60,000 per accident for bodily injury (30/60), plus $10,000 per accident for property damage (10).
 
@@ -62,7 +62,7 @@ How liability works in the no-fault system: Because Minnesota is a no-fault stat
 
 No-fault does not eliminate liability exposure: Producers should explain to clients that no-fault does not mean "no one is ever liable." The no-fault system restricts when bodily injury lawsuits may be brought — it does not eliminate liability for property damage or for serious injuries that meet the tort threshold. Minimum liability limits remain important because they protect the policyholder from personal financial responsibility for injuries and property damage they cause to others.
 
-### The Tort Threshold: When Lawsuits Are Permitted
+## The Tort Threshold: When Lawsuits Are Permitted
 
 Minnesota's tort threshold defines when an injured party may step outside the no-fault system and pursue a lawsuit against the at-fault driver for non-economic damages — pain and suffering, emotional distress, and similar intangible losses.
 
@@ -80,7 +80,7 @@ What the tort threshold means practically: The vast majority of minor auto accid
 
 For serious accidents — significant injuries, substantial medical treatment, permanent consequences — the tort threshold is met and the injured party can pursue the at-fault driver's liability coverage for the full measure of their damages including non-economic losses.
 
-### Mandatory Coverage 3: Uninsured and Underinsured Motorist Coverage
+## Mandatory Coverage 3: Uninsured and Underinsured Motorist Coverage
 
 Required minimums: $25,000 per person / $50,000 per accident for both Uninsured Motorist (UM) and Underinsured Motorist (UIM) coverage.
 
@@ -102,7 +102,7 @@ Against an underinsured driver — the at-fault driver's liability pays first, t
 
 Why both UM and UIM are critical in Minnesota: Minnesota's uninsured driver rate is estimated at approximately 10–15% of drivers. Additionally, many insured Minnesota drivers carry only the minimum 30/60 liability limits — meaning even insured at-fault drivers frequently have insufficient coverage for serious injuries. For a client with significant injuries sustained in an accident caused by a minimum-limits driver, UIM is the coverage that bridges the gap between the at-fault driver's $30,000 bodily injury limit and the client's $100,000+ in damages.
 
-### The No-Fault Coverage That Producers Must Explain
+## The No-Fault Coverage That Producers Must Explain
 
 The coverage adequacy conversation unique to no-fault states: In Minnesota, the standard auto insurance adequacy conversation has a dimension that does not exist in at-fault states — the adequacy of PIP itself. The $40,000 mandatory PIP minimum ($20,000 medical + $20,000 non-medical) is frequently inadequate for serious accidents. A client hospitalized for a week following a serious collision can exhaust the $20,000 medical sub-limit before leaving the hospital. A client disabled for more than 40 weeks at the $500 weekly cap exhausts the $20,000 non-medical sub-limit in less than a year.
 
@@ -112,7 +112,7 @@ Medical payments (MedPay) as a PIP supplement: Some Minnesota auto policies incl
 
 Health insurance coordination with PIP: Minnesota PIP coordinates with health insurance. When a policyholder has group health insurance, the insurer may require that the health insurance pay first for medical expenses arising from an auto accident, with PIP covering the remaining costs not covered by health insurance. This coordination reduces PIP payments and keeps premiums lower, but it means clients with high-deductible health plans may face significant out-of-pocket costs if the health plan deductible applies before PIP covers the remainder.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I am at fault for an accident in Minnesota, can the other driver sue me?
 

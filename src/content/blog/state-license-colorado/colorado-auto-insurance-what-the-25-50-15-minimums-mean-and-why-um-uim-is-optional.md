@@ -14,7 +14,7 @@ imageAlt: "Colorado Auto Insurance: What the 25/50/15 Minimums Mean and Why UM/U
 
 Colorado requires every driver to carry auto liability insurance meeting minimum limits of 25/50/15 under CRS § 42-7-103. Every licensed insurance producer in Colorado who sells personal auto coverage needs to understand exactly what those three numbers mean, what they do and do not cover, why the minimums are widely considered inadequate for serious accidents, and why Colorado's approach to uninsured and underinsured motorist coverage — optional by default inclusion — is one of the most consequential coverage decisions a Colorado auto insurance client makes. This post covers the full Colorado auto insurance framework: the mandatory minimums, the optional coverages, the at-fault liability system, the uninsured driver problem, and the legal context within which every Colorado auto claim is resolved.
 
-### What 25/50/15 Actually Means
+## What 25/50/15 Actually Means
 
 The three numbers in Colorado's minimum liability requirement each represent a dollar limit on what your liability insurer will pay to other people when you cause an accident. They apply exclusively to third-party claims — other people's injuries and property damage. They do not pay for your own injuries, your own vehicle damage, or any other first-party loss you sustain.
 
@@ -34,7 +34,7 @@ Your own injuries or vehicle damage caused by another driver (covered by UM/UIM 
 
 Any claim above the stated limits — personal liability for amounts over the policy limits falls on you
 
-### Colorado Is an At-Fault State
+## Colorado Is an At-Fault State
 
 Colorado operates under an at-fault (tort) liability system. The driver determined to be responsible for causing an accident is financially liable for the resulting damages — medical expenses, lost wages, pain and suffering, property damage, and other compensable losses. The at-fault driver's liability insurance pays those damages on their behalf, up to the policy limits.
 
@@ -42,7 +42,7 @@ This is the fundamental reason liability insurance exists: to fund the at-fault 
 
 The contrast with no-fault states: In no-fault states (such as Florida, Michigan, and New York), each driver's own insurance pays for their own injuries regardless of who caused the accident, through Personal Injury Protection (PIP). No-fault systems reduce the volume of litigation over minor accidents by removing the need to establish fault before receiving payment. Colorado does not use a no-fault system — there is no PIP requirement, and injured parties in Colorado must generally establish the other driver's fault before recovering from that driver's liability insurer.
 
-### Modified Comparative Negligence: The 50% Bar Rule
+## Modified Comparative Negligence: The 50% Bar Rule
 
 Colorado follows modified comparative negligence with a 50% bar under CRS § 13-21-111. This rule governs what happens when fault for an accident is shared between multiple parties.
 
@@ -56,7 +56,7 @@ Why this matters for auto insurance producers: The 50% bar rule affects how UM/U
 
 Diminished value: Colorado is one of approximately 15 states that recognize diminished value claims. A vehicle that has been in an accident and repaired loses market value compared to an equivalent undamaged vehicle — even if the repairs are perfect. Under Colorado law, an at-fault driver's property damage liability may include the diminished value of the damaged vehicle, not just the repair cost. Producers advising clients on property damage liability limits should account for this: the $15,000 minimum may need to cover both repair costs and a diminished value claim.
 
-### The Uninsured Driver Problem in Colorado
+## The Uninsured Driver Problem in Colorado
 
 Between 13% and 17% of Colorado drivers are estimated to be operating without insurance at any given time, depending on the source. The Colorado DOI acknowledges approximately 13% uninsured; other industry sources estimate as high as 16–17%. In practical terms, roughly one in six to one in eight drivers on Colorado roads does not carry the legally required liability insurance.
 
@@ -72,7 +72,7 @@ The insured driver absorbs their own medical expenses, lost wages, and vehicle d
 
 This is the problem that UM/UIM coverage solves. It transfers the financial risk of another driver's inadequate coverage to the insured's own insurer, which has the resources to pay the claim.
 
-### UM/UIM Coverage: Optional but Default-Included
+## UM/UIM Coverage: Optional but Default-Included
 
 The Colorado DOI's own auto insurance page states this directly: "Uninsured/underinsured motorist (UM/UIM) coverage is optional in Colorado." This is the operative legal rule. Colorado does not require drivers to carry UM/UIM coverage.
 
@@ -82,7 +82,7 @@ The default-inclusion mechanism: When a new auto policy is issued in Colorado, U
 
 The practical result: Most Colorado drivers who purchase through a licensed producer have UM/UIM coverage unless they specifically rejected it. Drivers who purchase minimum coverage through automated online platforms without reviewing policy options may inadvertently reject UM/UIM without understanding what they have declined.
 
-### How UM and UIM Coverage Work in Colorado
+## How UM and UIM Coverage Work in Colorado
 
 Uninsured Motorist (UM) Coverage pays the insured's bodily injury damages when the at-fault driver has no insurance at all, including hit-and-run accidents where the responsible driver cannot be identified. Colorado UM coverage does not pay for property damage — it covers bodily injury only unless a property damage UM endorsement is specifically added.
 
@@ -94,7 +94,7 @@ Minimum UM/UIM limits: The minimum UM/UIM limits a policyholder can purchase in 
 
 UM/UIM follows the insured, not the vehicle: Colorado UM/UIM coverage protects the named insured and resident relatives whether they are occupants of the insured vehicle, occupants of another vehicle, or pedestrians. A policyholder struck while walking is covered under their own UM coverage if the responsible driver is uninsured.
 
-### MedPay: Optional but Must Be Offered
+## MedPay: Optional but Must Be Offered
 
 Colorado law requires that every auto insurer offer Medical Payments (MedPay) coverage with a minimum limit of $5,000. Unlike UM/UIM, MedPay is not automatically included — it must be affirmatively selected. But the offer must be made, and the policyholder must decline it in writing if they do not want it.
 
@@ -102,7 +102,7 @@ MedPay pays for medical expenses of the named insured and passengers injured in 
 
 MedPay is not a substitute for health insurance and is not a substitute for UM/UIM. It fills a specific gap — prompt payment of medical expenses without fault determination — that both health insurance and liability coverage often fail to fill immediately after an accident.
 
-### SR-22: The Financial Responsibility Certificate
+## SR-22: The Financial Responsibility Certificate
 
 An SR-22 is not an insurance policy — it is a certificate filed by an insurer with the Colorado DMV certifying that a specific driver carries at least the minimum required liability coverage. The DMV is notified immediately by electronic transmission if the underlying policy lapses.
 
@@ -120,7 +120,7 @@ SR-22 is typically required for three years from the date of the triggering viol
 
 Colorado does not use FR-44: Some states (notably Virginia and Florida) require an FR-44 for DUI-related violations — a certificate requiring coverage at higher-than-minimum limits. Colorado uses only SR-22, which certifies coverage at the standard minimum limits regardless of the underlying violation.
 
-### What the Minimums Leave Out: The Coverage Gap Problem
+## What the Minimums Leave Out: The Coverage Gap Problem
 
 Colorado's 25/50/15 minimums were established when medical costs, vehicle values, and litigation awards were substantially lower. In the current environment:
 
@@ -130,7 +130,7 @@ The average new vehicle price exceeds $48,000. The $15,000 property damage limit
 
 Colorado producers advising clients on coverage adequacy should frame the minimum coverage conversation around these realities: minimum coverage satisfies the legal requirement, but it transfers significant personal financial risk to the policyholder in any serious accident. The gap between 25/50/15 and meaningful financial protection is wide. Coverage recommendations of $100,000/$300,000 bodily injury liability and $100,000 property damage — with matching UM/UIM limits — represent a more defensible standard of protection for most Colorado drivers.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Why does Colorado not require UM/UIM coverage if so many drivers are uninsured?
 

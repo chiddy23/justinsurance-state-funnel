@@ -16,7 +16,7 @@ Every New Jersey insurance licensing exam administered by PSI contains a state l
 
 This post maps every high-priority topic in the NJ state law section, explains what each tests, and tells you exactly where candidates go wrong.
 
-### Section Structure: What the 25 State Law Questions Cover
+## Section Structure: What the 25 State Law Questions Cover
 
 The NJ state law section — formally Section 6 in the PSI content outline — breaks down into seven subsections:
 
@@ -24,7 +24,7 @@ Plus a line-specific Section 7 covering NJ laws unique to the exam you are takin
 
 Every one of these subsections is testable. Here is what each one demands.
 
-### 6.1 — State Regulatory Jurisdiction (4 Items)
+## 6.1 — State Regulatory Jurisdiction (4 Items)
 
 These four questions test your knowledge of the New Jersey Department of Banking and Insurance (DOBI) and the Commissioner's authority.
 
@@ -36,7 +36,7 @@ Before a hearing can be held, the Commissioner must send notice to interested pa
 
 PSI also tests the distinction between the Commissioner's investigative authority (broad, administrative) and the courts (civil liability, criminal prosecution for fraud). The Commissioner handles administrative sanctions; criminal matters go through the courts.
 
-### 6.2 — Definitions (4 Items)
+## 6.2 — Definitions (4 Items)
 
 These questions test NJ statutory definitions of key terms — not the general insurance definitions you learned in the national section, but the specific definitions as codified in New Jersey law.
 
@@ -44,7 +44,7 @@ What you must know:
 
 Know the NJ statutory definitions of "insurance producer," "lines of authority," "home state," "business entity," and "controlled business." Controlled business is a particularly common exam topic: producers in New Jersey are prohibited from obtaining a license solely to write insurance for themselves, family members, or business associates. You may sell policies to yourself and family members, but that cannot be the primary purpose of obtaining the license.
 
-### 6.3 — Licensing (8 Items)
+## 6.3 — Licensing (8 Items)
 
 With 8 of the 25 state law questions, licensing is the single largest subsection in the state law section. A candidate who masters licensing rules can gain substantial ground here.
 
@@ -62,7 +62,7 @@ Nonresident licensing: An individual currently licensed in good standing in anot
 
 Designation waivers: Approved insurance designations (CLU, CPCU, ChFC, and others listed on the DOBI website) may exempt a candidate from the prelicensing education requirement — but not from the exam itself.
 
-### 6.4 — Trade Practices (6 Items)
+## 6.4 — Trade Practices (6 Items)
 
 Six questions on unfair trade practices. These are reliably tested and heavily scenario-based.
 
@@ -78,15 +78,15 @@ Unfair claims settlement: Intentionally delaying claims payment or failing to pr
 
 Misrepresentation: Providing false information about the terms of an insurance contract — whether to make a policy appear more favorable than it is or to induce lapse of an existing policy — is a prohibited trade practice.
 
-### 6.5 — Guaranty Associations (1 Item)
+## 6.5 — Guaranty Associations (1 Item)
 
 One question. Know the basics: the New Jersey Life and Health Insurance Guaranty Association protects policyholders if a licensed insurer becomes insolvent. The Property and Casualty equivalent is the New Jersey Property-Liability Insurance Guaranty Association. These entities do not cover all products — variable annuities, for example, are not covered by the life guaranty association because they are securities products.
 
-### 6.6 — Fraud (2 Items)
+## 6.6 — Fraud (2 Items)
 
 Two questions on insurance fraud. New Jersey has a mandatory fraud reporting requirement for insurers and a dedicated fraud investigation unit (the Office of Insurance Fraud Prosecutor, or OIFP) within the Division of Criminal Justice. Producers who suspect fraud must understand their obligations — and the consequences of participating in fraudulent activity, which include criminal prosecution in addition to license sanctions.
 
-### Section 7 — Line-Specific NJ Laws
+## Section 7 — Line-Specific NJ Laws
 
 Beyond the shared 25 questions, each exam line adds a Section 7 covering NJ laws specific to that line.
 
@@ -98,7 +98,7 @@ Casualty exam: NJ's no-fault auto system, PIP requirements, verbal threshold, ba
 
 Property exam: NJ-specific cancellation and nonrenewal rules, the NJ FAIR Plan, and coastal property insurance considerations.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How many questions on the NJ insurance exam are state law questions?
 

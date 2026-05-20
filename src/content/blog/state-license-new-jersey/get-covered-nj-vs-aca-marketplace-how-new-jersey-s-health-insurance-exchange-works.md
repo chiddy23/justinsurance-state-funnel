@@ -14,7 +14,7 @@ imageAlt: "Get Covered NJ vs. ACA Marketplace: How New Jersey's Health Insurance
 
 New Jersey is one of fewer than 20 states that operates its own state-based health insurance exchange rather than relying on the federal HealthCare.gov platform. Get Covered New Jersey — established under N.J.S.A. 17B:27A-57 et seq. — launched in 2020 as New Jersey's official individual health insurance marketplace and has grown significantly in enrollment since. For Accident and Health producers in New Jersey, understanding how Get Covered NJ works, how it differs from Healthcare.gov, what producer certification requirements apply, and how recent subsidy changes have affected affordability is directly relevant to every client conversation about individual health coverage in 2026.
 
-### What Get Covered New Jersey Is
+## What Get Covered New Jersey Is
 
 Get Covered New Jersey (GetCoveredNJ) is the state-operated health insurance marketplace where New Jersey residents who do not have employer-sponsored health insurance, Medicaid, or Medicare can purchase individual health coverage and access income-based subsidies. It is the successor to the federally-facilitated exchange that served NJ residents before 2020.
 
@@ -22,13 +22,13 @@ The exchange is administered by DOBI, which also regulates the insurers offering
 
 The GetCoveredNJ website is at getcoverednj.nj.gov, accessible at 1-833-677-1010 (TTY 711).
 
-### Why NJ Operates Its Own Exchange
+## Why NJ Operates Its Own Exchange
 
 New Jersey chose to build its own exchange for several reasons: state control over consumer protections, the ability to administer state-specific subsidies on top of federal premium tax credits, the ability to maintain its own open enrollment period and special enrollment rules, and to ensure that the exchange reflects New Jersey's specific regulatory requirements for health insurance products.
 
 A critical advantage of a state-based exchange is that NJ can — and does — offer its own premium subsidies independent of federal premium tax credits. This NJ Health Plan Savings (NJHPS) subsidy program provides additional financial assistance to low- and moderate-income enrollees above and beyond what the federal ACA tax credits provide. This matters enormously in 2026 given the expiration of enhanced federal premium tax credits at the end of 2025.
 
-### The 2026 Affordability Crisis
+## The 2026 Affordability Crisis
 
 The enhanced federal premium tax credits established under the American Rescue Plan Act and extended through the Inflation Reduction Act expired at the end of 2025. This created a significant affordability shock for Get Covered NJ enrollees in 2026.
 
@@ -36,7 +36,7 @@ DOBI announced final 2026 individual market rates showing an average 16.6% premi
 
 For producers advising clients on 2026 individual coverage, the subsidy landscape changed significantly. Federal premium tax credits are now unavailable above 400% of the federal poverty level (FPL). NJ state subsidies remain available up to 600% FPL but do not fully offset the federal subsidy loss for most enrollees.
 
-### New Jersey's Individual Health Insurance Mandate
+## New Jersey's Individual Health Insurance Mandate
 
 New Jersey is one of a small number of states with its own individual health insurance mandate operating independently of the federal mandate (which was effectively zeroed out at the federal level in 2019). The New Jersey Health Insurance Market Preservation Act (P.L.2018, c.31) requires New Jersey residents to maintain minimum essential health coverage beginning January 1, 2019.
 
@@ -50,7 +50,7 @@ The SRP is also capped at the statewide average annual premium for Bronze plans.
 
 Important exception: The NJ mandate penalty is not enforced in any tax year in which the ACA's federal premium tax credits become unavailable. As of 2026, federal tax credits remain available (though enhanced credits expired), so the mandate continues to apply.
 
-### Producer Certification for Marketplace Plans
+## Producer Certification for Marketplace Plans
 
 Producers who want to enroll clients in coverage through Get Covered New Jersey must be separately certified by Get Covered NJ before assisting with marketplace enrollments. This is an annual certification requirement — it does not carry over from year to year without renewal.
 
@@ -64,7 +64,7 @@ Register with Get Covered NJ as a Certified Application Counselor or Navigator, 
 
 Producers who assist clients with Get Covered NJ applications without completing certification may be violating DOBI regulations. The certification requirement is DOBI's mechanism for ensuring that agents helping with marketplace enrollments understand the subsidy structure, plan selection process, special enrollment periods, and consumer protections specific to the exchange.
 
-### Open Enrollment and Special Enrollment Periods
+## Open Enrollment and Special Enrollment Periods
 
 Get Covered NJ's open enrollment period for 2026 coverage ran from November 1, 2025 through January 31, 2026. Outside of open enrollment, residents can only enroll in or change coverage if they experience a qualifying life event that triggers a Special Enrollment Period (SEP). Qualifying events include:
 
@@ -80,7 +80,7 @@ Loss of Medicaid or CHIP eligibility
 
 Producers should be familiar with the SEP triggers because they are the mechanism through which clients can access marketplace coverage outside of the annual enrollment window.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the difference between Get Covered New Jersey and HealthCare.gov?
 

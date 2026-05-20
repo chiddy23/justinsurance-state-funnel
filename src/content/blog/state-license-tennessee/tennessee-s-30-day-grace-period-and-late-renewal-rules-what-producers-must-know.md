@@ -16,7 +16,7 @@ Tennessee insurance producer licenses expire on the last day of the producer's b
 
 This post covers every tier of Tennessee's post-expiration framework with the precision that producers need to make informed decisions when a renewal deadline has been missed or is approaching: what the grace period means in practice, what late renewal costs and requires, what happens beyond one year, and the compliance management habits that make all of this irrelevant by preventing lapses in the first place.
 
-### The Renewal Deadline: Where Everything Starts
+## The Renewal Deadline: Where Everything Starts
 
 The renewal deadline for a Tennessee insurance producer license is the last day of the producer's birth month in the renewal year. A producer born in June renews by June 30. A producer born in February renews by February 28 or 29 in a leap year. The renewal year is determined by whether the producer was born in an odd or even year — producers born in even-numbered years renew in even-numbered years; producers born in odd-numbered years renew in odd-numbered years.
 
@@ -28,15 +28,15 @@ On the deadline: The last day to submit renewal at the standard fee with no late
 
 After the deadline: The grace period begins the day after the expiration date.
 
-### Tier 1: The 30-Day Grace Period
+## Tier 1: The 30-Day Grace Period
 
-#### What It Is
+### What It Is
 
 Tennessee provides a 30-day grace period after the license expiration date. During this window — the 30 days immediately following the expiration date — the producer can submit a renewal application through NIPR with no late fee. The standard $65.60 renewal cost applies exactly as it would for an on-time renewal.
 
 The grace period is not an extension of the license term. It is a penalty-free window for late renewal submission. This distinction matters because it affects what the producer is and is not authorized to do during the grace period.
 
-#### Active Status During the Grace Period
+### Active Status During the Grace Period
 
 A license that has passed its expiration date is technically expired — even within the grace period. The grace period eliminates the financial penalty for late submission but does not extend the license's active status through that window automatically.
 
@@ -46,37 +46,37 @@ The conservative and legally safe answer is to contact the TDCI directly at (615
 
 After confirmed renewal during the grace period: Once the TDCI has processed and confirmed your renewal as active — visible in the license lookup at tn.gov/commerce/insurance — your license is active and business transactions are fully authorized.
 
-#### CE Requirements for Grace Period Renewal
+### CE Requirements for Grace Period Renewal
 
 The same CE requirements that apply to on-time renewal apply to grace period renewal. All 24 CE hours including 3 ethics hours must appear in the TDCI's records before submitting the renewal application. A grace period renewal submitted without verified CE in the TDCI's records will be rejected as non-compliant.
 
 The grace period and incomplete CE: Producers who miss the renewal deadline because they have not yet completed CE have 30 days to complete CE, verify reporting to the TDCI, and submit renewal — all at the standard $65.60 fee. Tennessee's CE can be completed through self-paced online courses with reporting within one to three business days, making it possible to complete CE and submit renewal within the grace period window even from a standing start.
 
-#### The Grace Period Fee Summary
+### The Grace Period Fee Summary
 
 The grace period produces no financial penalty beyond the standard renewal cost. It is entirely equivalent to on-time renewal in terms of fees.
 
-#### When the Grace Period Ends
+### When the Grace Period Ends
 
 The grace period ends 30 days after the expiration date. For a license that expired June 30, the grace period ends July 30. For a license that expired February 28, the grace period ends March 30. For a license that expired January 31, the grace period ends March 2 (30 days from January 31 = March 2).
 
 After the grace period ends without a submitted renewal, the license enters the late renewal tier and the $120 late fee applies to any subsequent renewal submission.
 
-### Tier 2: Late Renewal — After Grace Period, Within One Year
+## Tier 2: Late Renewal — After Grace Period, Within One Year
 
-#### Who This Tier Applies To
+### Who This Tier Applies To
 
 Any Tennessee producer whose license has been expired for more than 30 days but less than one year from the original expiration date can submit a late renewal. This tier applies from day 31 after expiration through the one-year anniversary of the expiration date.
 
 The one-year calculation runs from the expiration date — not from the end of the grace period. A license that expired June 30, 2025 can be late-renewed through June 30, 2026. On July 1, 2026, late renewal is unavailable regardless of how close the producer is to the one-year deadline.
 
-#### The Late Renewal Fee
+### The Late Renewal Fee
 
 The $120 late fee is assessed in addition to the standard $60 renewal fee — not instead of it. The total late renewal cost is $185.60, representing a $120 penalty above the standard renewal cost.
 
 The late fee does not vary based on how far past the grace period the renewal is submitted. A renewal submitted 31 days after expiration pays the same $185.60 as a renewal submitted 364 days after expiration. There is no escalating fee structure within the late renewal window — the $120 late fee is flat regardless of the duration of the lapse within the one-year window.
 
-#### CE Requirements for Late Renewal
+### CE Requirements for Late Renewal
 
 All CE requirements must be satisfied before submitting a late renewal application:
 
@@ -90,7 +90,7 @@ CE completions must be verified in the TDCI's system — not just in the provide
 
 The CE challenge of a long lapse: A producer who has been inactive and who lapsed their license without completing CE for the current biennial period must complete the full 24-hour CE requirement before the late renewal will be approved. For a producer who has zero CE hours on record, this means completing all 24 hours — including 3 ethics — through TDCI-approved courses and verifying TDCI reporting before submitting. Self-paced online CE completion is available on demand, making same-week CE completion and late renewal submission achievable for motivated producers.
 
-#### Active Status During the Late Renewal Period
+### Active Status During the Late Renewal Period
 
 A lapsed license — expired beyond the grace period — is not an active license. A producer whose license has lapsed cannot legally sell, solicit, or negotiate insurance in Tennessee. This prohibition applies from the moment the grace period expires without renewal through the completion of late renewal processing.
 
@@ -98,7 +98,7 @@ The compliance risk of transacting on a lapsed license: TCA §56-6-112 establish
 
 Notifying your agency and carriers: Producers who discover their license has lapsed should immediately stop transacting insurance business and notify their agency principal. Carriers should also be notified — appointments may be administratively terminated when the TDCI's system reflects a lapsed license, and the carrier has an independent obligation to ensure that producers transacting business on their behalf hold valid licenses.
 
-#### The Late Renewal Process
+### The Late Renewal Process
 
 Late renewal is submitted through NIPR under the same process as standard renewal:
 
@@ -120,7 +120,7 @@ Monitor the TDCI license lookup at tn.gov/commerce/insurance until active status
 
 Resume transacting insurance business only after TDCI confirms active status
 
-#### What Late Renewal Restores
+### What Late Renewal Restores
 
 Late renewal restores the producer's license to active status. After TDCI processing confirms the renewed license, the producer holds the same lines of authority they held before the lapse and can transact business without restriction.
 
@@ -128,15 +128,15 @@ Carrier appointments after late renewal: Carriers may have administratively term
 
 The new renewal deadline after late renewal: After late renewal, the biennial renewal cycle resumes from the restored date. The next renewal deadline is recalculated from the reinstated license — confirm the new expiration date through the TDCI portal or your NIPR account after reinstatement.
 
-### Tier 3: After One Year — Full Relicensing Required
+## Tier 3: After One Year — Full Relicensing Required
 
-#### The Hard Cutoff
+### The Hard Cutoff
 
 When a Tennessee insurance producer license has been expired for more than one year from the expiration date — not from the grace period end — late renewal is permanently unavailable. No exception, no extension, no TDCI discretion to permit late renewal beyond this threshold.
 
 A license that expired June 30, 2025 can be late-renewed through June 30, 2026 at 11:59 p.m. At 12:00 a.m. on July 1, 2026, late renewal is unavailable and the producer must complete full relicensing.
 
-#### What Full Relicensing Requires
+### What Full Relicensing Requires
 
 Full relicensing requires completing the entire initial Tennessee licensing process from the beginning — as though applying for a license for the first time:
 
@@ -152,21 +152,21 @@ Submit a new NIPR license application — $50 per line plus $5.60 NIPR transacti
 
 Reestablish all carrier appointments — all prior appointments are effectively terminated with a license lapsed beyond one year. New appointments must be filed by each carrier before the producer can transact business.
 
-#### Full Relicensing Cost Comparison
+### Full Relicensing Cost Comparison
 
 The cost differential between on-time renewal and full relicensing is substantial. Even the late renewal cost of $185.60 is significantly lower than the cost of full relicensing for most line combinations — which illustrates why acting within the late renewal window, even with the $120 penalty, is financially rational compared to allowing the one-year threshold to pass.
 
-### The Financial Argument for Acting Quickly
+## The Financial Argument for Acting Quickly
 
 When a producer discovers a lapsed license, the immediate financial analysis is straightforward:
 
 Every day that passes within the late renewal window produces no additional cost — the $120 late fee is flat throughout the window. But every day that passes after the one-year threshold makes the situation substantially more expensive and time-consuming. The incentive to act as quickly as possible after discovering a lapse is clear: the late renewal window is open now; it may not be open in six months.
 
-### Preventing Lapses: The Compliance System That Eliminates This Framework's Relevance
+## Preventing Lapses: The Compliance System That Eliminates This Framework's Relevance
 
 The most effective engagement with Tennessee's grace period and late renewal rules is to build a compliance system that makes them irrelevant.
 
-#### The Four Practices That Prevent Lapses
+### The Four Practices That Prevent Lapses
 
 Know your renewal deadline. Confirm your exact expiration date through the TDCI portal or NIPR account. Set it as a recurring annual calendar reminder so it is never a surprise.
 
@@ -176,7 +176,7 @@ Set renewal reminders at 90, 60, and 30 days before the deadline. The 90-day rem
 
 Keep your address current in NIPR. The TDCI sends renewal reminders to the address on file. Producers who move without updating their NIPR address do not receive these reminders and are more likely to miss renewal deadlines. Update within 30 days of any address change.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My license expired 45 days ago and I just realized it. I have 18 of my 24 CE hours completed. What are my immediate steps?
 

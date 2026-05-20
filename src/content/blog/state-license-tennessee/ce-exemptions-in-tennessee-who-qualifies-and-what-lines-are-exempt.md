@@ -16,15 +16,15 @@ Tennessee's [continuing education](/tennessee/continuing-education) requirement 
 
 This post covers every Tennessee CE exemption — the continuous licensure exemption, the non-resident exemption, limited lines exemptions, and specialty training carryovers — with precise language about what each exemption covers, what it does not cover, and how to confirm whether a specific producer's situation qualifies.
 
-### The Foundational CE Requirement
+## The Foundational CE Requirement
 
 Before addressing exemptions, the baseline requirement against which exemptions apply must be clear. Tennessee requires every producer holding a major lines license to complete 24 hours of TDCI-approved CE per biennial renewal period, including 3 hours of TDCI-designated ethics CE. This requirement applies to Life, Accident and Health, Property, Casualty, Personal Lines, and Variable Products license holders who are Tennessee resident producers.
 
 Exemptions carve out specific categories of producers from this baseline. Every exemption has defined boundaries — it applies to specific producers in specific circumstances and does not extend beyond those boundaries.
 
-### Exemption 1: Continuous Licensure Since January 1, 1994
+## Exemption 1: Continuous Licensure Since January 1, 1994
 
-#### Who Qualifies
+### Who Qualifies
 
 Producers who have been continuously licensed in Tennessee since January 1, 1994 are exempt from Tennessee's CE requirements. This exemption applies to the most senior class of Tennessee producers — those whose licensing predates Tennessee's CE requirement and who have held uninterrupted Tennessee licensure since that date.
 
@@ -32,11 +32,11 @@ The continuous licensure requirement is strict. Any lapse in Tennessee licensure
 
 How to verify eligibility: Contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov and request confirmation of your continuous licensure history dating to January 1, 1994. Do not assume the exemption applies based on personal recollection — obtain TDCI confirmation before treating the CE requirement as waived.
 
-#### What the Exemption Covers
+### What the Exemption Covers
 
 The continuous licensure exemption covers the general 24-hour biennial CE requirement. Producers who qualify are not required to complete CE hours or renew their license through a CE-based process.
 
-#### What the Exemption Does NOT Cover
+### What the Exemption Does NOT Cover
 
 The LTC initial training requirement. Producers continuously licensed since January 1, 1994 are still required to complete the initial 8-hour LTC training before selling long-term care insurance products. The CE exemption does not waive the LTC initial training prerequisite.
 
@@ -46,27 +46,27 @@ Annuity suitability training. If a continuously licensed producer sells annuity 
 
 NFIP flood certification. If a continuously licensed producer sells NFIP flood policies, the one-time 3-hour flood certification must be completed. The CE exemption does not waive product-specific training requirements.
 
-#### The Practical Implication
+### The Practical Implication
 
 A Tennessee producer continuously licensed since January 1, 1994 who sells life insurance, homeowners insurance, and auto insurance — but not LTC and not annuities — has no CE obligation. They do not need to complete any courses, track any hours, or report anything to the TDCI for CE purposes. Their license renews through NIPR on the biennial birth month schedule with the $65.60 renewal fee and the background disclosure questions — CE completion is simply not a condition of their renewal.
 
 If the same producer begins selling annuities, they must complete the 4-hour annuity suitability training before their first annuity transaction. That training counts as CE in the period completed — but since the CE exemption eliminates the CE requirement, the credit is irrelevant. The training is a product qualification, not a CE obligation.
 
-### Exemption 2: Non-Resident Producers
+## Exemption 2: Non-Resident Producers
 
-#### Who Qualifies
+### Who Qualifies
 
 Non-resident insurance producers whose home state CE requirements are current are exempt from Tennessee's CE requirements. This exemption operates through the NAIC Producer Licensing Model Act's reciprocity framework — Tennessee recognizes home state CE compliance as satisfaction of Tennessee non-resident CE obligations when the home state offers equivalent reciprocal recognition to Tennessee producers.
 
 This exemption covers the overwhelming majority of non-resident producers in Tennessee. A licensed Georgia producer who maintains Georgia's 24-hour biennial CE — including Georgia's 3-hour ethics requirement — has simultaneously satisfied Tennessee's non-resident CE obligation. No additional Tennessee-specific CE is required.
 
-#### What the Exemption Covers
+### What the Exemption Covers
 
 The non-resident CE exemption covers the full 24-hour Tennessee CE requirement including the 3-hour ethics component. A non-resident producer whose home state CE is current has no independent Tennessee CE obligation.
 
 The renewal process for non-residents: Non-resident renewal is submitted through NIPR under the Non-Resident Renewal (NRR) path. The $65.60 renewal fee applies. The renewal is processed based on home state license status — Tennessee does not independently verify CE completion for non-resident renewals when home state CE compliance is established.
 
-#### What the Exemption Does NOT Cover
+### What the Exemption Does NOT Cover
 
 LTC training for non-residents selling LTC in Tennessee. This is the most important exception to the non-resident CE exemption. Non-resident producers who sell long-term care insurance products in Tennessee must complete the LTC initial training and ongoing training requirements — even though they are otherwise exempt from Tennessee CE. The LTC training obligation is a product qualification requirement that applies regardless of residency status.
 
@@ -76,13 +76,13 @@ Annuity suitability training for non-residents selling annuities. Non-resident p
 
 Home state CE currency. The non-resident exemption is contingent on home state CE being current. A non-resident producer whose home state CE has lapsed — whose home state license is expired or whose home state CE requirement is not satisfied — cannot claim the Tennessee non-resident exemption. The exemption requires active home state compliance, not just prior completion.
 
-#### Confirming Home State Reciprocity
+### Confirming Home State Reciprocity
 
 The non-resident CE exemption applies when the home state offers equivalent reciprocal recognition to Tennessee producers. For producers from most U.S. states that have adopted the NAIC Producer Licensing Model Act, this reciprocal recognition exists automatically. For producers from states with non-standard CE frameworks, verify with the TDCI that the home state qualifies before assuming the exemption applies.
 
-### Exemption 3: Limited Lines License Holders
+## Exemption 3: Limited Lines License Holders
 
-#### The Limited Lines Framework
+### The Limited Lines Framework
 
 Tennessee issues limited lines licenses for specific, narrow categories of insurance products that do not require the full knowledge base tested by the major lines licensing exams. Producers holding only limited lines licenses — without any major lines authority — may have different or reduced CE obligations compared to major lines producers.
 
@@ -100,7 +100,7 @@ Title insurance (has its own separate framework)
 
 Crop hail (limited scope)
 
-#### CE Obligations for Limited Lines Holders
+### CE Obligations for Limited Lines Holders
 
 The CE obligations for specific limited lines licenses vary by the line type and the licensing framework under which the limited license was issued. Limited lines licenses where the licensing process does not require a standard state exam may carry reduced CE requirements or no CE requirement at all.
 
@@ -108,17 +108,17 @@ The specific determination: The applicable CE requirement for any particular lim
 
 Combination holders: A producer who holds both a major lines license (such as Property and Casualty) and a limited lines license is subject to the CE requirements that apply to the major lines license. The major lines CE obligation is not reduced by the addition of a limited lines license.
 
-#### Multi-Peril Crop Adjuster Exception
+### Multi-Peril Crop Adjuster Exception
 
 Tennessee has a specific CE requirement for producers holding a combination Multi-Peril Crop Adjuster license combined with a Life and Health or Property and Casualty producer license. These combination holders must complete 48 CE hours including 4 hours of ethics every two years — double the standard 24-hour requirement. This is not an exemption but rather an elevated requirement that applies to this specific combination of licenses. It is included here because it represents a material CE difference from the standard requirement that combination holders must be aware of.
 
-### Exemption 4: Public Adjusters Licensed Less Than One Full Year
+## Exemption 4: Public Adjusters Licensed Less Than One Full Year
 
 A public adjuster who has been licensed for less than one full year before their renewal date is exempt from the CE requirement for that first renewal period. This is a first-renewal exemption only — subsequent renewals require the standard 24-hour CE completion.
 
 This exemption mirrors the logic of similar exemptions in other states — a newly licensed adjuster who obtained their license recently has limited benefit from completing CE before their first renewal when they have been licensed for such a short period.
 
-### The CE Carryover Provision — Not an Exemption but Often Confused as One
+## The CE Carryover Provision — Not an Exemption but Often Confused as One
 
 Tennessee allows producers to carry over up to 12 excess CE hours from one biennial period to the next. This is not an exemption from CE — it is a partial credit mechanism for over-completion.
 
@@ -130,9 +130,9 @@ The carryover ceiling: A maximum of 12 hours may carry over. Any excess beyond 1
 
 Carryover and repeated courses: Hours carried over to the next period are counted as duplicate if the same course is taken again in the new period. A carried-forward course cannot be repeated for additional credit in the subsequent period.
 
-### Confirming Your Exemption Status
+## Confirming Your Exemption Status
 
-#### The Three Questions to Ask Before Assuming an Exemption
+### The Three Questions to Ask Before Assuming an Exemption
 
 Before treating any CE requirement as waived, every producer should answer three questions:
 
@@ -142,7 +142,7 @@ Question 2: Do I meet every condition of that exemption? The continuous licensur
 
 Question 3: Does the exemption cover the specific obligation I am treating as waived? The continuous licensure exemption covers general CE — not LTC initial training or annuity suitability training. The non-resident exemption covers general CE — not LTC training for non-residents selling LTC. Verify that the specific obligation is within the scope of the exemption, not just that an exemption exists.
 
-#### How to Get TDCI Confirmation
+### How to Get TDCI Confirmation
 
 When in doubt about whether an exemption applies to your specific situation, contact the TDCI before treating any CE obligation as waived:
 
@@ -152,7 +152,7 @@ Email: ce.agent.licensing@tn.gov
 
 Ask specifically: "Based on my licensing history and current license type, am I exempt from Tennessee's CE requirements?" Request written confirmation of the TDCI's determination. Retain that confirmation in your license records. A verbal or written TDCI confirmation that an exemption applies is the highest-quality basis for treating a CE obligation as waived — personal judgment about whether an exemption might apply is not.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I have been continuously licensed in Tennessee since 1991 and have never completed CE. My license has renewed every two years without issue. Does the January 1, 1994 exemption apply to me?
 

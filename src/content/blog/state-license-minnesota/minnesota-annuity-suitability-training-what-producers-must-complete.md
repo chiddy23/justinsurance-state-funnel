@@ -14,13 +14,13 @@ imageAlt: "Minnesota Annuity Suitability Training: What Producers Must Complete"
 
 Minnesota requires every insurance producer who sells, solicits, or negotiates annuity products to complete mandatory annuity training before engaging in an annuity transaction. The general annuity training requirement is a one-time four-credit training course approved by the Commerce Department that must be completed before being involved in an annuity transaction. This requirement is separate from and in addition to the standard 24-hour biennial CE obligation — it is a product-specific pre-sale certification that applies to all annuity types and to both resident and non-resident producers. This post covers the complete Minnesota annuity training framework: the statutory basis, what the training covers, who must complete it and when, how the requirement applies differently based on when a producer was licensed, what reciprocity means for multi-state producers, and how the training connects to the NAIC's broader best interest standard of conduct. Meadenmoore
 
-### The Statutory and Regulatory Basis
+## The Statutory and Regulatory Basis
 
 Minnesota's annuity training requirement was substantially updated on May 23, 2022, when the Department of Commerce implemented the NAIC Suitability in Annuity Transactions Model Regulation (#275) — the revised model that shifted the standard governing annuity recommendations from a suitability standard to a best interest standard of conduct. The NAIC Suitability in Annuity Transactions Model Regulation (#275) sets a best interest standard for annuity recommendations, requiring producers to prioritize the consumer's financial needs over their own compensation. Ogcannabisinsurance
 
 The training requirement is codified in Minnesota's insurance statutes and administered by the Department of Commerce. The underlying annuity best interest conduct standards are found in Minn. Stat. §§72A.203 through 72A.2036 — the Minnesota provisions implementing the NAIC model regulation. As of May 2025, 48 jurisdictions have adopted the updated regulation. Minnesota is among those adopting states, meaning Minnesota's annuity best interest standard aligns with the national framework and qualifies for interstate reciprocity. Ogcannabisinsurance
 
-### Who Must Complete the Training
+## Who Must Complete the Training
 
 The annuity training requirement applies to:
 
@@ -30,31 +30,31 @@ The Life line of authority is the relevant license for annuity sales in Minnesot
 
 Non-resident producers: Non-residents must also complete a one-time annuity training course approved for at least 4 hours before selling annuity products. Non-resident producers are not exempt from the annuity training requirement — unlike the standard 24-hour biennial CE requirement (which non-residents satisfy through their home state), the annuity training applies regardless of resident or non-resident status. Cover Cannabis
 
-### The One-Time Nature of the Requirement
+## The One-Time Nature of the Requirement
 
 Producers must complete a one-time 4-hour Annuity Suitability Training prior to selling, soliciting, or negotiating annuity products in Minnesota. Once completed, the 4-hour training does not need to be repeated at each renewal — it is a one-time pre-sale certification requirement, not a recurring obligation. A producer who completed the Minnesota-approved 4-hour course in 2023 does not need to complete it again in 2025 or at any subsequent renewal. Frontierrisk
 
 This distinguishes the annuity training from the LTC training framework, which has both an initial component and a recurring biennial refresher. The annuity training has no refresher obligation under current Minnesota requirements — once the one-time 4-hour course is completed, the producer's annuity training obligation is permanently satisfied.
 
-### How the 4-Hour Requirement Applies Based on Licensing Timeline
+## How the 4-Hour Requirement Applies Based on Licensing Timeline
 
 Minnesota's May 2022 regulatory update created different compliance pathways depending on when a producer was licensed and whether they had previously completed annuity suitability training. Understanding which category applies to you determines exactly what training is required.
 
-#### Category 1: Producers Licensed On or After January 1, 2023
+### Category 1: Producers Licensed On or After January 1, 2023
 
 Individuals who obtain a life insurance line of authority on or after January 1, 2023, may not engage in the sale of annuities until the required annuity training course has been completed. For producers who received their Life line of authority on or after January 1, 2023, the requirement is straightforward — complete the one-time 4-hour Best Interest Standards of Conduct for Annuity Sales course from an approved provider before the first annuity transaction. No prior training applies; no alternative pathway is available. Meadenmoore
 
-#### Category 2: Producers Licensed by December 31, 2022 Who Had Not Completed Prior Annuity Training
+### Category 2: Producers Licensed by December 31, 2022 Who Had Not Completed Prior Annuity Training
 
 Producers who held a Life line of authority on or before December 31, 2022 and had not previously completed any Minnesota annuity suitability training were required to complete the full 4-hour Best Interest Standards of Conduct course no later than June 30, 2023. For producers in this category who are still actively selling annuities, the compliance deadline has passed. If the course was not completed by June 30, 2023, completing it now restores compliance — but the producer should have stopped transacting annuity business during any period when training was not current.
 
-#### Category 3: Producers Licensed by December 31, 2022 Who Had Completed Prior Annuity Suitability Training
+### Category 3: Producers Licensed by December 31, 2022 Who Had Completed Prior Annuity Suitability Training
 
 An insurance producer licensed by December 31, 2022, who holds a life insurance line of authority and previously completed the annuity suitability and disclosure training required by Minnesota law must complete either: a new four-credit training course approved by the Department of Commerce after July 1, 2022; or an additional one-time one-credit training course approved by the Department of Commerce after July 1, 2022. The course must be provided by a Department of Commerce-approved education provider on appropriate sales practices and replacement and disclosure requirements under Minn. Stat. §§72A.203 to 72A.2036. Meadenmoore
 
 This 1-hour supplemental course option was available to producers who had completed the prior NAIC model-based annuity suitability training and needed only to update their training to incorporate the best interest standard provisions. The June 30, 2023 deadline for this category has passed. Producers who used the 1-hour supplement pathway are fully compliant with Minnesota's annuity training requirement and do not need to complete the full 4-hour course.
 
-### What the 4-Hour Course Covers
+## What the 4-Hour Course Covers
 
 The Best Interest Standards of Conduct for Annuity Sales course covers the full framework a producer needs to understand before recommending annuity products. The required training must include information on the following topics: the types of annuities and various classifications of annuities; identification of the parties to an annuity. Meadenmoore
 
@@ -72,7 +72,7 @@ Appropriate sales practices and replacement requirements: When an existing annui
 
 Disclosure requirements under Minnesota law: Minnesota's specific disclosure obligations — the forms required, the timing of disclosures, and the consumer acknowledgment standards — are covered to ensure producers understand both the NAIC model framework and Minnesota's specific implementation.
 
-### How the 4-Hour Training Counts Toward CE
+## How the 4-Hour Training Counts Toward CE
 
 The Minnesota annuity training requirement is described as separate from CE: this requirement is separate and distinct from the [continuing education](/minnesota/continuing-education) requirements for a licensee and applies to both resident and nonresident producers. However, the 4-hour course from a Department-approved provider does count toward the producer's 24-hour biennial CE total in Minnesota. It is not 4 hours in addition to the CE requirement — it is 4 hours that can be applied toward the CE total in the renewal period when the course is completed. Autoclaimconsultants
 
@@ -80,7 +80,7 @@ For a producer completing the training during a renewal period in which they are
 
 For producers who complete the training outside a renewal period: If the 4-hour course is completed in a renewal period during which the producer has already satisfied their 24-hour CE requirement, the additional 4 hours do not carry over. CE carryover is not permitted in Minnesota — hours completed beyond the 24-hour requirement in a given period do not apply to the next renewal. Plan training completion timing to align with your CE renewal period.
 
-### Reciprocity: Completing the Training in Another State
+## Reciprocity: Completing the Training in Another State
 
 Residents and non-residents who have completed this training in another state with laws similar to Minnesota's law will be compliant with the requirement. More specifically, completion of NAIC Annuity Best Interest training in another state is reciprocal in Minnesota. FrontierriskCover Cannabis
 
@@ -90,7 +90,7 @@ The reciprocity condition: The training completed in another state must be based
 
 Documentation for reciprocal compliance: A producer relying on reciprocity should retain their certificate of completion from the other state's annuity training course. If a Minnesota carrier or the Department of Commerce asks for evidence of training compliance, the out-of-state certificate demonstrates the basis for reciprocal compliance. Do not discard annuity training certificates from other states — they serve as your Minnesota compliance documentation under the reciprocity framework.
 
-### The Best Interest Standard in Practice: What It Requires Beyond Training
+## The Best Interest Standard in Practice: What It Requires Beyond Training
 
 Completing the 4-hour training course satisfies the training prerequisite for selling annuities in Minnesota. The best interest standard itself imposes ongoing conduct obligations every time a producer recommends an annuity product.
 
@@ -106,7 +106,7 @@ Document the recommendation basis. The producer must maintain documentation show
 
 Manage conflicts of interest. Compensation-based conflicts — the producer earns significantly more from recommending Product A than Product B — must be disclosed and managed. The training covers what constitutes a material conflict and how to address it in the recommendation process.
 
-### Insurer Compliance Obligations Parallel to Producer Training
+## Insurer Compliance Obligations Parallel to Producer Training
 
 Just as with LTC insurance, annuity carriers have compliance obligations that parallel the producer training requirement. Carriers must:
 
@@ -120,7 +120,7 @@ Implement supervisory systems to monitor for best interest standard compliance i
 
 Product-specific training in addition to the 4-hour course: Completing the 4-hour Best Interest Standards of Conduct for Annuity Sales course satisfies Minnesota's regulatory training requirement — but carriers may require additional product-specific training before permitting a producer to sell their specific annuity products. A carrier launching a new indexed universal life product or a new fixed indexed annuity typically requires producers to complete product-specific training on that carrier's particular product before submitting applications. This carrier-level training is separate from the state regulatory requirement and varies by carrier.
 
-### Completing the Course: Practical Steps
+## Completing the Course: Practical Steps
 
 Find an approved provider: Access the Minnesota Department of Commerce's approved CE provider database at mn.gov/commerce. Search for providers offering the Best Interest Standards of Conduct for Annuity Sales course. Confirm the course is approved for 4 hours of Minnesota CE credit.
 
@@ -130,7 +130,7 @@ Completion exam: Most approved annuity training courses include a completion exa
 
 Provider reporting: After completing the course and passing the exam, the approved provider reports your completion to the Department of Commerce. Verify that your completion appears in your Department CE transcript after receiving your certificate. The transcript should reflect both the CE credit hours and the annuity training completion designation.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed a 4-hour NAIC Annuity Best Interest course in Wisconsin last year. Do I need to complete the training again for Minnesota?
 

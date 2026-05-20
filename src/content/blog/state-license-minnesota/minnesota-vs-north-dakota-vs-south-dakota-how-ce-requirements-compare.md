@@ -14,7 +14,7 @@ imageAlt: "Minnesota vs. North Dakota vs. South Dakota: How CE Requirements Comp
 
 Minnesota, North Dakota, and South Dakota share the northern Great Plains geography and significant producer overlap — agents based near state borders routinely hold licenses in two or three of these states simultaneously, and producers relocating between them face CE transitions that are easier to navigate when they understand exactly how each state's ongoing education framework differs. The CE structures of these three states diverge significantly — in total hour requirements, ethics obligations, classroom format rules, category restrictions, carryover provisions, and how non-resident producers are treated. This post provides a complete, current, side-by-side comparison across every dimension that affects a working producer's ongoing compliance planning.
 
-### The Foundational Comparison: Total Hours Required
+## The Foundational Comparison: Total Hours Required
 
 The most striking difference between these three states is the total CE hour requirement — and the contrast is dramatic.
 
@@ -28,7 +28,7 @@ The South Dakota category restriction: CE course category restrictions — licen
 
 Why South Dakota's structure matters for multi-line producers: A Minnesota or North Dakota producer holding both L&H and P&C can complete all 24 CE hours in Life-focused courses and satisfy the requirement for both lines. Minnesota does not require that insurance producers complete only modules relating to the lines of authority they hold. North Dakota similarly has no line-type restriction. South Dakota requires at least 8 hours specifically in Life/Health content and at least 8 hours specifically in P&C content for combination licensees — a structural constraint that does not exist in the other two states. McQuaid Injury Law
 
-### Ethics Requirements: Three Different Standards
+## Ethics Requirements: Three Different Standards
 
 Minnesota: 3 hours of ethics CE required as part of the 24-hour total. The ethics content must be specifically approved by the Department of Commerce as ethics content — not merely a course that touches on ethical themes. Minnesota's ethics requirement is among the most precisely defined of the three states.
 
@@ -36,7 +36,7 @@ North Dakota: Three of the 24 hours must be in ethics. The same 3-hour ethics re
 
 South Dakota: There are no ethics requirements before submitting a renewal application. South Dakota has no mandatory ethics CE component. A South Dakota producer can satisfy their full CE requirement with 10 or 20 hours of entirely non-ethics content without any compliance deficiency. This is a significant structural difference — producers moving from Minnesota or North Dakota to South Dakota discover that the ethics obligation they have always managed simply does not exist in their new home state. Salary.com
 
-### Format Requirements: The Classroom Dimension
+## Format Requirements: The Classroom Dimension
 
 Minnesota: At least 12 of the 24 required hours must be completed in classroom or classroom-equivalent format — live in-person instruction or live webinar with a real-time instructor. This is one of the most restrictive format requirements in the region and the component that most frequently causes compliance problems for Minnesota producers who default to self-paced online CE.
 
@@ -46,7 +46,7 @@ South Dakota: No mandatory classroom hour minimum. Licensees can use independent
 
 The practical implication for multi-state producers: A Minnesota producer who also holds North Dakota and South Dakota non-resident licenses completes their CE under Minnesota's standards (the most demanding). The Minnesota requirement — 24 hours including 12 classroom-equivalent — is more demanding than what either neighboring state requires. Meeting Minnesota's requirement automatically surpasses what North Dakota or South Dakota would require if those states' standards applied.
 
-### Company-Sponsored CE Limits
+## Company-Sponsored CE Limits
 
 Minnesota: No more than 12 of the 24 required hours can come from company-sponsored courses — the inverse of the 12-hour non-company-sponsored minimum. This limits carrier-affiliated training to half the total CE requirement.
 
@@ -54,7 +54,7 @@ North Dakota: A limit on company-sponsored CE applies — producers can complete
 
 South Dakota: On October 1, 2025, South Dakota removed the limit on the number of [continuing education](/minnesota/continuing-education) credits an insurance producer can receive during a two-year period from courses sponsored by an insurance company. This is a significant recent change — effective October 2025, South Dakota producers face no limit on company-sponsored CE. A South Dakota producer can now satisfy their entire 10- or 20-hour CE requirement through carrier-sponsored training, if approved courses are available. Minnesota and North Dakota both retain the 50% company-sponsored cap. Kelmeg
 
-### CE Carryover: A Major North Dakota Advantage
+## CE Carryover: A Major North Dakota Advantage
 
 Minnesota: No carryover permitted. Hours completed beyond 24 in a given renewal period are forfeited and do not apply to the next cycle.
 
@@ -64,7 +64,7 @@ South Dakota: No excess hours may be carried over into a new license term. No ca
 
 The carryover advantage for producers licensed in multiple states: A North Dakota resident producer who completes 36 hours of CE in their current period — 24 for North Dakota compliance plus additional hours for other reasons — effectively pre-funds 12 hours of their next CE period. Minnesota and South Dakota producers receive no benefit from over-completing CE within a single period.
 
-### Renewal Deadline Structure
+## Renewal Deadline Structure
 
 Minnesota: Last day of the producer's birth month, biennially. Business entities renew October 31 biennially.
 
@@ -74,11 +74,11 @@ South Dakota: The due date is the final day of the producer's birth month. Same 
 
 All three states use birth month as the renewal anchor — making the deadline structure consistent for producers who hold multiple licenses across these states. The renewal year (which biennial cycle the producer is in) may differ between states based on when each license was initially issued.
 
-### Renewal Fees
+## Renewal Fees
 
 South Dakota has the lowest renewal fee of the three states — $20 per renewal is among the most affordable producer license renewal fees in the region.
 
-### Non-Resident CE Treatment
+## Non-Resident CE Treatment
 
 Minnesota: Non-resident producers (except for the LTC requirement) are exempt from Minnesota's CE requirements when their home state CE is current. Minnesota recognizes home state CE compliance as satisfaction of Minnesota's standards for non-residents. Total Loss Appraisals
 
@@ -88,7 +88,7 @@ South Dakota: Non-resident producers are exempt from continuing education requir
 
 All three states exempt non-resident producers from their CE requirements through home state compliance — with the consistent exception that LTC training must be completed before selling LTC products regardless of residency status.
 
-### CE Exemptions Compared
+## CE Exemptions Compared
 
 Minnesota exemptions: Individuals licensed for less than 6 months prior to the first renewal date are exempt for the first renewal period; individuals holding a limited lines license that does not require an exam; non-resident producers (except for the LTC requirement). Total Loss Appraisals
 
@@ -98,13 +98,13 @@ South Dakota exemptions: Holds limited licenses to sell only credit life and cre
 
 South Dakota's age and tenure exemption — producers over 65 who have been licensed for at least 10 years — is unique among the three states. Neither Minnesota nor North Dakota has a comparable age-based CE exemption.
 
-### Specialty Training: Consistent Across All Three States
+## Specialty Training: Consistent Across All Three States
 
 All three states impose the same specialty product training requirements, reflecting their adoption of NAIC model frameworks:
 
-### The Master Comparison Table
+## The Master Comparison Table
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I hold resident licenses in all three states. How do I manage CE across all three simultaneously?
 

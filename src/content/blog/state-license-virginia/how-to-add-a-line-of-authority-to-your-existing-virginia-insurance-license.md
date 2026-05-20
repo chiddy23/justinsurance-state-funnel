@@ -14,7 +14,7 @@ imageAlt: How to Add a Line of Authority to Your Existing Virginia Insurance Lic
 
 If you already hold a Virginia insurance producer license and want to expand what you can sell — adding Property & Casualty to an existing Life & Health license, or adding Health to a Life & Annuities license — you are adding a line of authority. Virginia's process for adding a line follows the same general framework as initial licensing, with a few important distinctions around fingerprinting, application fees, and the CE implications of expanding your license portfolio. Here is exactly how the process works and what changes when you already hold a license.
 
-### What Is a Line of Authority?
+## What Is a Line of Authority?
 
 Virginia issues producer licenses by line of authority — the specific type of insurance you are authorized to sell. The major lines requiring a Prometric exam are:
 
@@ -32,7 +32,7 @@ Title (requires 16-hour [prelicensing](/virginia/prelicensing) course)
 
 Each line is a separate qualification on your license. You can hold one, several, or all of them. Adding a line means obtaining authorization to transact an additional insurance type you do not currently hold.
 
-### Step 1: Pass the Prometric Exam for the New Line
+## Step 1: Pass the Prometric Exam for the New Line
 
 You must pass the Prometric licensing exam for the new line of authority before applying to add it. There is no shortcut or waiver for this requirement (unless an exemption applies — see below).
 
@@ -40,7 +40,7 @@ Register with Prometric at prometric.com/virginia/insurance or call (866) 891-63
 
 Exemption — Variable Products: The Variable Life and Variable Annuity Products line of authority does not require a Prometric exam. Instead, you must: already hold and maintain an active Life line of authority, have passed the FINRA Series 6 or Series 7 securities exams and the Series 63 or Series 66 exams, and be actively licensed with a registered broker-dealer under the Virginia Securities Commission. The application requires your CRD number to verify securities exam completion.
 
-### Step 2: Determine Whether New Fingerprints Are Required
+## Step 2: Determine Whether New Fingerprints Are Required
 
 This is the step that most existing licensees get wrong.
 
@@ -64,7 +64,7 @@ If in doubt, contact the Bureau of Insurance at AgentLicensing@scc.virginia.gov 
 
 Fieldprint Code (if required): FPVABOIProducer at fieldprintvirginia.com. Cost: $34.95.
 
-### Step 3: Apply Through NIPR or Sircon
+## Step 3: Apply Through NIPR or Sircon
 
 Submit your add-line application electronically through NIPR (nipr.com) or Sircon (sircon.com/virginia). The fee is $15 per new line of authority being added, plus the $5.60 NIPR/Sircon processing fee per session.
 
@@ -72,7 +72,7 @@ Attach your CHRR (Criminal History Record Report from the Virginia State Police,
 
 Applications are processed in date order. Allow approximately 15 business days.
 
-### CE Impact of Adding a Line
+## CE Impact of Adding a Line
 
 Adding a line of authority in Virginia has a direct impact on your [continuing education](/virginia/continuing-education) requirements going forward. This is not just an administrative note — it changes your CE obligation for every renewal cycle after the new line is added.
 
@@ -84,7 +84,7 @@ If you hold a Life & Health license and add Property & Casualty (or any P&C line
 
 Plan for this change before adding a line. Adding P&C to an existing L&H license is valuable for cross-selling but adds 8 CE hours per cycle and requires CE in a second subject area.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I add a line of authority at any time, or only at renewal?
 

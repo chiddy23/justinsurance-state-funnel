@@ -14,7 +14,7 @@ imageAlt: "How to Build a Six-Figure Insurance Income in Virginia: A Market-by-M
 
 Virginia is the 19th-highest-paying state for insurance agents nationally — but that average obscures enormous variation. A captive agent in Martinsville earning a $42,000 base salary and a commercial lines producer in McLean managing a $10 million book at 12% renewal commissions are both "Virginia insurance agents." The path to six-figure income in Virginia is specific, it requires understanding the state's distinct regional markets, and it rewards producers who select the right combination of line authority, geographic positioning, and specialty focus from the beginning rather than discovering these factors through trial and error years into their career. This post maps that path directly.
 
-### Why Virginia Is a Strong Platform for Six-Figure Income
+## Why Virginia Is a Strong Platform for Six-Figure Income
 
 Virginia's economic geography creates multiple pathways to six-figure producer income that most states cannot replicate simultaneously:
 
@@ -26,7 +26,7 @@ Hampton Roads' scale and military market: 852,000 workers, 80,000+ active-duty m
 
 Virginia's no-[prelicensing](/virginia/prelicensing) rule: Virginia's process advantage — the ability to get licensed and start selling faster than in most states — means the income clock starts earlier. For commission-based producers, every week of selling earlier in their career compounds meaningfully over a multi-year income horizon.
 
-### The Income Architecture: How Virginia Producer Income Compounds
+## The Income Architecture: How Virginia Producer Income Compounds
 
 The fundamental income mechanism in insurance — renewal commissions compounding on a growing book — applies in Virginia exactly as it does in every state. The Virginia-specific variables that affect the rate of compounding:
 
@@ -54,9 +54,9 @@ Richmond mid-market commercial BOP ($8,000 annual premium): $8,000 × 12% = $960
 
 Northern VA government contractor cyber ($50,000 annual premium): $50,000 × 18% = $9,000/year
 
-### The Five-Year Market-by-Market Roadmap
+## The Five-Year Market-by-Market Roadmap
 
-#### Northern Virginia Path
+### Northern Virginia Path
 
 Year 1–2: Get licensed in both L/A/H and P&C (Series 11-01 + 11-03). Focus early production on federal employee personal lines — homeowners, auto, umbrella, and supplemental life for the government workforce. The market is large, referral-rich (coworkers at agencies), and builds volume rapidly.
 
@@ -66,7 +66,7 @@ Year 3–5: Develop cyber liability expertise and begin targeting the mid-tier g
 
 Year 5 income target: $100,000–$150,000 from combined personal lines renewal, benefits commissions, and cyber/commercial placements.
 
-#### Richmond Path
+### Richmond Path
 
 Year 1–2: Get licensed in L/A/H and P&C. Build personal lines in Richmond's affluent suburbs — Goochland, western Henrico, Midlothian. Focus on homeowners and personal umbrella for households earning $120,000–$250,000.
 
@@ -76,7 +76,7 @@ Year 3–5: Target Richmond's financial services and technology sectors. A Capit
 
 Year 5 income target: $90,000–$130,000 from personal lines renewal plus entry commercial.
 
-#### Hampton Roads Path
+### Hampton Roads Path
 
 Year 1–2: Get licensed in L/A/H and P&C. Build military personal lines — renters insurance for junior enlisted, homeowners for mid-career NCOs using VA loans, auto for families. Volume builds fast in Hampton Roads because there are always new arrivals.
 
@@ -86,7 +86,7 @@ Year 3–5: Develop commercial lines for Hampton Roads defense contractors — w
 
 Year 5 income target: $85,000–$120,000 from combined military personal lines renewal and commercial development.
 
-### The Critical Variables That Separate $75,000 from $100,000+
+## The Critical Variables That Separate $75,000 from $100,000+
 
 Account size shift: The most powerful lever in Virginia (as everywhere) is moving from personal lines average premiums to commercial lines average premiums. In Virginia, this means targeting government contractor commercial accounts in Northern Virginia, corporate accounts in Richmond, or defense manufacturing accounts in Hampton Roads. Moving 20% of production to commercial lines accounts typically generates more income than doubling personal lines production.
 
@@ -94,7 +94,7 @@ Retention: Virginia's pure contributory negligence doctrine means auto accidents
 
 Non-resident expansion: Adding Maryland and DC non-resident licenses through NIPR (no exam required, $54 and $54 respectively) costs $108 and opens access to Northern Virginia clients whose homes, vehicles, or businesses cross state lines. This is the lowest-cost market expansion available to any Virginia producer.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the single fastest path to six-figure income in Virginia for a new producer?
 

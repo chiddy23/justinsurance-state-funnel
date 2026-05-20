@@ -14,7 +14,7 @@ imageAlt: How to Find DOBI-Approved CE Providers for Your New Jersey Insurance L
 
 Every [continuing education](/new-jersey/continuing-education) course a New Jersey insurance producer completes for license renewal credit must be approved by the New Jersey Department of Banking and Insurance. That is not a suggestion or a best practice — it is the law. Hours completed through unapproved providers, unapproved courses, or courses that are no longer active in the DOBI system will not appear on your Sircon transcript and will not count toward your renewal. Yet a meaningful number of producers each renewal cycle discover this problem at the worst possible moment: when they submit their renewal application and find that hours they believed were valid are not in the system. The solution is knowing how to verify provider and course approval before you register, not after.
 
-### The Official Starting Point: DOBI's Provider and Course Database
+## The Official Starting Point: DOBI's Provider and Course Database
 
 DOBI maintains an approved continuing education provider and course database on its website at dobi.nj.gov. This database is the authoritative source for whether a specific provider is currently approved and whether a specific course is currently approved for NJ CE credit.
 
@@ -34,7 +34,7 @@ Course approval expiration date
 
 The course approval expiration date matters. DOBI approves courses for a set term, and approvals expire when the provider's overall approval expires unless renewed. A course that was valid when you registered for it may have expired by the time you complete it — and the credit may not be accepted. Always verify course approval status at the time of registration, not months before.
 
-### What to Verify Before Registering for Any CE Course
+## What to Verify Before Registering for Any CE Course
 
 Before registering for a CE course through any provider, confirm four things directly in the DOBI database or with the provider:
 
@@ -46,7 +46,7 @@ Before registering for a CE course through any provider, confirm four things dir
 
 4. The credit hours match your expectation. Some courses are listed at 3 hours but may have a different DOBI-approved credit count. Confirm the exact DOBI-approved hours before relying on that course to fill a specific portion of your requirement.
 
-### How DOBI-Approved Providers Deliver CE in New Jersey
+## How DOBI-Approved Providers Deliver CE in New Jersey
 
 DOBI approves CE in three delivery formats, each with different operational requirements:
 
@@ -58,7 +58,7 @@ Self-study (online, self-paced): Courses you complete at your own pace through a
 
 Providers must offer courses in DOBI-approved formats. A provider that markets a self-study course as "classroom equivalent" without DOBI's designation as such is misrepresenting the course credit type — and the hours will not count toward your classroom minimum regardless of what the provider claims.
 
-### Questions to Ask Any CE Provider Before Registering
+## Questions to Ask Any CE Provider Before Registering
 
 Even when using a well-known national CE platform, verify these specifics for New Jersey compliance:
 
@@ -74,19 +74,19 @@ Even when using a well-known national CE platform, verify these specifics for Ne
 
 A reputable DOBI-approved provider will answer these questions directly and specifically. If a provider cannot tell you the DOBI course ID or credit type for a specific course, that is a warning sign.
 
-### Specialty Training: Verify Separately
+## Specialty Training: Verify Separately
 
 The specialty training requirements — LTC initial and ongoing training, Annuity Best Interest training, and NFIP flood training — each have their own DOBI approval requirements. A course approved for general CE does not automatically satisfy a specialty training requirement, and a specialty training course must be specifically designated for that purpose.
 
 When searching for LTC training, look for courses explicitly approved as initial 8-hour LTC training or ongoing 4-hour LTC training. When searching for Annuity Best Interest training, look for courses specifically approved for the 4-hour Best Interest certification (or the 1-hour update, though the October 2025 deadline for that option has passed). For flood training, look for courses explicitly approved as NFIP certification training — not merely courses that include flood insurance content.
 
-### Reporting Timelines
+## Reporting Timelines
 
 Once you complete a DOBI-approved CE course through an approved provider, the provider is responsible for reporting your completion to the state. Most approved NJ providers report completions within one business day. DOBI regulations require reporting within 15 days of completion at the outside. This is important to understand because completions do not appear on your Sircon transcript until they are reported — and if a provider is slow to report or fails to report, the credit will not appear even though you legitimately completed the course.
 
 Keep your certificate of completion for every course — DOBI requires you to retain them for at least five years. Your certificates are your evidence in the event of a reporting dispute.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How do I search for DOBI-approved CE providers and courses on the DOBI website?
 

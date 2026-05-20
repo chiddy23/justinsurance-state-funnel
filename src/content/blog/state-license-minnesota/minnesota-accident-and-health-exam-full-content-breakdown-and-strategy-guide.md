@@ -14,17 +14,17 @@ imageAlt: "Minnesota Accident and Health Exam: Full Content Breakdown and Strate
 
 The Minnesota Accident and Health insurance licensing exam covers one of the broadest and most practically relevant bodies of knowledge in the insurance licensing curriculum. Health insurance, disability income, long-term care, Medicare, Medicaid, and the regulatory framework governing all of them — each is a distinct discipline with its own terminology, its own product structures, and its own Minnesota-specific statutory provisions. This post maps the complete content of the Minnesota A&H exam, identifies the highest-priority topics by exam weight, covers the Minnesota-specific law provisions that appear in the state section, and provides the strategic preparation approach that produces first-attempt passes.
 
-### Exam Specifications
+## Exam Specifications
 
 Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 85 Time allowed: 2 hours Passing score: 70% (scaled score of 70 or higher) Results: Immediate — displayed on screen at conclusion of exam Retakes: No limit; 24-hour wait between attempts; $45 fee per attempt Exam validity: 3 years from date of passing
 
 Combined Life and A&H exam: Candidates who want both Life and A&H authority simultaneously take the combined Life, Accident and Health exam — 145 questions over 3 hours — covering both lines in a single session. The content of each line within the combined exam is the same as the standalone exams. The combined exam is the efficient choice for candidates pursuing both lines simultaneously.
 
-### Section 1: Types of Health Insurance Policies
+## Section 1: Types of Health Insurance Policies
 
 Health insurance product types are the foundational content area of the A&H exam — the largest single section by question volume and the area where the most consistent exam questions originate.
 
-#### Individual Health Insurance
+### Individual Health Insurance
 
 Individual health insurance is purchased directly by the insured rather than through an employer group. Individual policies are medically underwritten — the insurer can evaluate the applicant's health history and set premiums, exclude conditions, or decline coverage based on underwriting findings. The ACA substantially changed individual market underwriting rules for policies sold through exchanges, but the exam tests both the traditional underwriting framework and the ACA-compliant individual market structure.
 
@@ -44,7 +44,7 @@ Proof of loss: Written proof of loss must be submitted within 90 days after the 
 
 Physical examination: The insurer has the right to examine the insured as often as reasonably necessary during a pending claim
 
-#### Group Health Insurance
+### Group Health Insurance
 
 Group health insurance covers multiple insureds — typically employees of a common employer — under a single master policy. The employer is the policyholder; employees receive certificates of coverage. Group health is subject to different underwriting rules than individual health — the group is underwritten as a whole rather than individual members being individually evaluated.
 
@@ -56,7 +56,7 @@ COBRA continuation coverage: The Consolidated Omnibus Budget Reconciliation Act 
 
 HIPAA portability: The Health Insurance Portability and Accountability Act limits pre-existing condition exclusions in group plans, requires creditable coverage to count against waiting periods, and prohibits discrimination based on health status in group enrollment.
 
-#### HMO, PPO, POS, and HDHP Structures
+### HMO, PPO, POS, and HDHP Structures
 
 Health Maintenance Organization (HMO): A managed care plan where members receive care from a network of providers for a fixed monthly premium. Referrals from a primary care physician (PCP) are typically required to see specialists. Out-of-network care is generally not covered except in emergencies.
 
@@ -66,7 +66,7 @@ Point of Service (POS): A hybrid of HMO and PPO. Members designate a PCP who coo
 
 High Deductible Health Plan (HDHP): A plan with a higher deductible than traditional plans, paired with lower premiums. HDHPs are the qualifying plans for Health Savings Accounts (HSAs). For 2026, the minimum deductible for an HDHP is $1,650 (individual) or $3,300 (family). HSA contribution limits for 2026 are $4,300 (individual) and $8,550 (family).
 
-### Section 2: Disability Income Insurance
+## Section 2: Disability Income Insurance
 
 Disability income insurance replaces a portion of the insured's earned income when they are unable to work due to illness or injury. It is one of the most important and most consistently tested A&H coverage types.
 
@@ -98,7 +98,7 @@ Optionally renewable: The insurer may decline to renew at any anniversary or pre
 
 Social Security integration: Some DI policies are integrated with Social Security Disability Insurance (SSDI) — the policy benefit is reduced by any SSDI benefits received. Integration reduces premiums.
 
-### Section 3: Long-Term Care Insurance
+## Section 3: Long-Term Care Insurance
 
 Long-term care (LTC) insurance pays for services that assist individuals who cannot perform activities of daily living (ADLs) due to chronic illness, disability, or cognitive impairment. LTC is consistently tested on the A&H exam and has Minnesota-specific regulatory requirements.
 
@@ -126,11 +126,11 @@ Minnesota LTC specialty CE: Minnesota requires producers who sell LTC insurance 
 
 Minnesota Partnership for Long-Term Care: Minnesota participates in the Long-Term Care Partnership Program — a collaboration between states and private LTC insurers that provides Medicaid asset protection for policyholders who exhaust their partnership-qualified LTC policy benefits. Under partnership rules, assets equal to the benefits paid by the partnership-qualified policy are protected from Medicaid spend-down requirements.
 
-### Section 4: Medicare and Medicare Supplement Insurance
+## Section 4: Medicare and Medicare Supplement Insurance
 
 Medicare is a federal health insurance program for individuals age 65 and older, certain younger individuals with disabilities, and individuals with end-stage renal disease. Medicare is consistently one of the highest-volume content areas on the Minnesota A&H exam.
 
-#### Medicare Parts
+### Medicare Parts
 
 Medicare Part A — Hospital Insurance:
 
@@ -168,7 +168,7 @@ Premium varies by plan; income-related adjustments apply above certain income le
 
 Coverage gap (the "donut hole") has been substantially modified by recent legislation — verify current Phase structure with CMS materials at time of study
 
-#### Medicare Supplement (Medigap) Insurance
+### Medicare Supplement (Medigap) Insurance
 
 Medicare supplement policies are sold by private insurers to cover the gaps left by original Medicare (Parts A and B) — primarily the Part A deductible, Part B coinsurance, and hospital costs beyond Medicare's coverage limits.
 
@@ -178,7 +178,7 @@ Open enrollment: The Medicare supplement open enrollment period begins the month
 
 Guaranteed issue rights: Specific triggering events — such as losing employer coverage, moving out of a Medicare Advantage plan's service area, or the plan being discontinued — give beneficiaries guaranteed issue rights to purchase a Medigap policy without medical underwriting.
 
-### Section 5: Medicaid and Minnesota-Specific Health Programs
+## Section 5: Medicaid and Minnesota-Specific Health Programs
 
 Medicaid: A joint federal-state program providing health coverage to low-income individuals. Medicaid is administered by states within federal guidelines. Minnesota expanded Medicaid under the ACA.
 
@@ -188,7 +188,7 @@ MinnesotaCare: Minnesota's Basic Health Program (BHP) — a state-specific progr
 
 MNsure: Minnesota's state-based health insurance exchange. The only platform through which Minnesotans can access financial assistance (APTC and CSR) to purchase individual health insurance. Producers who sell on-exchange plans through MNsure must be registered with MNsure.
 
-### Section 6: The ACA and Health Insurance Regulation
+## Section 6: The ACA and Health Insurance Regulation
 
 ACA essential health benefits: Non-grandfathered individual and small group plans must cover ten essential health benefit categories: ambulatory patient services, emergency services, hospitalization, maternity and newborn care, mental health and substance use disorder services, prescription drugs, rehabilitative and habilitative services, laboratory services, preventive and wellness services, and pediatric services including oral and vision care.
 
@@ -198,7 +198,7 @@ Pre-existing condition protections: Insurers cannot exclude pre-existing conditi
 
 Special enrollment periods (SEPs): Outside of open enrollment, qualifying life events — loss of coverage, marriage, birth, adoption, moving — trigger a 60-day SEP window for marketplace enrollment.
 
-### Section 7: Minnesota State Law — A&H Provisions
+## Section 7: Minnesota State Law — A&H Provisions
 
 Minnesota Department of Commerce oversight: The Commissioner of Commerce regulates health insurance carriers and producers in Minnesota. Producers must hold an active A&H line of authority and maintain carrier appointments before transacting health insurance business.
 
@@ -212,7 +212,7 @@ Minnesota Life and Health Guaranty Association (Minn. Stat. §61B): Protects A&H
 
 LTC producer certification (Minnesota-specific): As noted above, the 8-hour initial LTC certification and 5-hour biennial refresher are Minnesota-specific requirements for producers selling LTC insurance. These requirements appear regularly in the state law section of the A&H exam.
 
-### Strategic Approach: Maximizing Your Score
+## Strategic Approach: Maximizing Your Score
 
 Master Medicare inside and out. Medicare — Parts A through D, Medicare Advantage, and Medicare supplement — generates a disproportionately high share of A&H exam questions relative to its share of the curriculum. Candidates who know Medicare comprehensively — including the specific dollar amounts for current deductibles and premiums, the standardized Medigap plan letters, the open enrollment rules, and the guaranteed issue triggers — pick up significant points that candidates who only study health insurance basics miss.
 
@@ -224,7 +224,7 @@ Use numerical anchors for Medicare. The Medicare questions that test specific do
 
 Connect LTC to Minnesota Partnership. The Minnesota Partnership for Long-Term Care is a state-specific program that connects private LTC insurance to Medicaid asset protection. Understanding the relationship between the two — specifically that partnership-qualified benefits protect equivalent assets from Medicaid spend-down — addresses a content area that purely general study misses.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How much of the A&H exam covers Medicare specifically?
 

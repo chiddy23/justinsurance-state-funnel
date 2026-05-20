@@ -14,7 +14,7 @@ imageAlt: "Minnesota vs. Wisconsin vs. Iowa: Which Midwest State Has the Best In
 
 Producers who hold or are considering licenses in Minnesota, Wisconsin, and Iowa — three states that share both geography and significant producer overlap along the I-90, I-94, and I-35 corridors — face a genuinely meaningful comparison question. All three states have competitive insurance markets, functioning licensing frameworks, and meaningful employment bases for insurance professionals. But the differences in income benchmarks, market structure, economic drivers, licensing requirements, and career ceiling are real and worth understanding before deciding where to concentrate career development effort. This post provides the complete, data-driven comparison across every dimension that affects the long-term insurance career outlook in each state.
 
-### The Salary Benchmark Comparison
+## The Salary Benchmark Comparison
 
 Income data across multiple sources consistently shows a clear hierarchy among the three states, with Minnesota leading, Wisconsin in the middle, and Iowa trailing — while all three states offer meaningful careers:
 
@@ -22,23 +22,23 @@ The Salary.com figures represent base salary benchmarks — the floor of compens
 
 The key interpretation: The salary gap between Minnesota and Wisconsin is meaningful but not dramatic at the base salary level ($59,527 vs. $57,223). The gap becomes larger when total compensation including commission is measured, because Minnesota's larger commercial economy generates higher-premium accounts that produce higher commission per placement. The Iowa gap is consistent across all sources — Iowa's lower salary benchmarks reflect a smaller commercial economy, lower average business premiums, and fewer high-value specialty lines accounts than either Minnesota or Wisconsin.
 
-### The Economic Foundation: What Drives Insurance Demand in Each State
+## The Economic Foundation: What Drives Insurance Demand in Each State
 
 Insurance income is ultimately a function of the economy being insured — larger premiums generate larger commissions, and more complex accounts generate pricing power for producers who develop relevant expertise. The three states differ meaningfully in the economic drivers that create insurance demand.
 
-#### Minnesota
+### Minnesota
 
 Minnesota's economy is the most complex and highest-value of the three states for insurance purposes. Seventeen Fortune 500 headquarters give the Twin Cities the highest concentration of Fortune-class headquarters per capita in the nation. The healthcare and medical technology sector — Medical Alley — accounts for 16% of national medtech talent and generates professional liability, products liability, and specialty lines demand that neither Wisconsin nor Iowa can match in volume or complexity. Financial services companies including UnitedHealth Group, Ameriprise Financial, and Securian Financial generate D&O, E&O, and cyber liability demand at scale. The Destination Medical Center's 20-year $5.6 billion initiative in Rochester creates a sustained long-term economic growth story. Minnesota's hard property market — 34% average homeowners rate increase in 2025, the highest in the nation — means every renewal generates more commission than it did a year ago.
 
 Minnesota's insurance career ceiling is higher than either Wisconsin or Iowa because the commercial economy supports specialty lines expertise that commands premium-intensive accounts in healthcare liability, medical device products liability, financial institution coverage, and technology E&O that simply do not exist at the same scale in the other two states.
 
-#### Wisconsin
+### Wisconsin
 
 Wisconsin's economy is substantial but differently structured. Madison — the state capital and home to the University of Wisconsin system — anchors a government, healthcare, and technology economy. Milwaukee's manufacturing, financial services, and healthcare sectors generate meaningful commercial insurance demand. Wisconsin's agricultural economy — dairy farming concentrated in the western and central parts of the state — creates farm insurance and agricultural products liability opportunity. The manufacturing sector, including companies like Oshkosh Corporation, Harley-Davidson, Johnson Controls, and Rockwell Automation, generates workers' compensation, commercial property, and products liability accounts.
 
 Wisconsin's insurance career ceiling is meaningful but lower than Minnesota's primarily because Wisconsin lacks the Fortune 500 density and the specialty lines complexity of the Twin Cities commercial market. Madison and Milwaukee provide solid commercial lines markets; the rural and mid-market Wisconsin economy provides strong agricultural and manufacturing coverage opportunity.
 
-#### Iowa
+### Iowa
 
 Iowa's economy is heavily agricultural and manufacturing-oriented, with Des Moines providing a financial services concentration that is disproportionately large for the state's overall size. Principal Financial Group, Nationwide (with major Des Moines operations), EMC Insurance, and Farm Bureau Financial Services are all headquartered or have major operations in Des Moines — making Iowa's capital city a meaningful insurance industry employment hub distinct from its role as a producer market.
 
@@ -46,11 +46,11 @@ Iowa's economy outside Des Moines is predominantly agricultural — corn, soybea
 
 Iowa's insurance career ceiling for field producers is lower than both Minnesota and Wisconsin because the commercial economy generates smaller average accounts. However, Iowa's insurance industry employment concentration — particularly in Des Moines — creates carrier-side career opportunities (underwriting, claims, product development) that compensate for the lower field producer income potential.
 
-### The Licensing Comparison
+## The Licensing Comparison
 
 The three states have meaningfully different licensing requirements that affect both entry costs and reciprocity benefits for producers holding multi-state licenses.
 
-#### Minnesota
+### Minnesota
 
 [Prelicensing](/minnesota/prelicensing): 20 hours per line of authority (40 hours combined Life and A&H). Certification exam required at 70% [pass rate](/pass-rates), proctored by a disinterested third party.
 
@@ -62,7 +62,7 @@ CE: 24 hours biennial; 3 hours ethics; 12 hours classroom-equivalent minimum; 12
 
 Overall assessment: Minnesota's prelicensing requirement (20 hours per line) and classroom CE minimum (12 hours) are among the more demanding in the region. The investment is higher than Wisconsin or Iowa at entry but produces more comprehensively prepared producers.
 
-#### Wisconsin
+### Wisconsin
 
 Prelicensing: Wisconsin requires prelicensing education — exam preparation courses are available and widely used, though the mandatory hour requirement is less strictly defined than Minnesota's 20-hour per-line standard. The prelicensing certificate is valid for one year.
 
@@ -74,7 +74,7 @@ CE: 24 hours biennial; no mandatory classroom hour minimum; no mandatory ethics 
 
 Overall assessment: Wisconsin's licensing requirements are somewhat less demanding at entry and more flexible in CE structure than Minnesota's. The lack of mandatory classroom hours in CE makes Wisconsin compliance more manageable for producers who prefer self-paced learning. The 180-day exam validity window is the most significant operational difference — candidates must apply promptly after passing.
 
-#### Iowa
+### Iowa
 
 Prelicensing: Iowa has no mandatory prelicensing education requirement — candidates can sit for the state exam without completing a prescribed course. This is the most permissive prelicensing structure of the three states and represents the lowest barrier to entry.
 
@@ -86,7 +86,7 @@ CE: 36 hours triennial (every three years rather than biennial); 18 hours must b
 
 Overall assessment: Iowa is the easiest state to enter (no mandatory prelicensing) but has the most intensive CE structure over the full career cycle (36 hours including 18 classroom every three years). The Pearson VUE exam platform differs from the PSI platform used in Minnesota and Wisconsin, requiring platform-specific preparation for candidates testing in all three states.
 
-### The Reciprocity Advantage for Multi-State Producers
+## The Reciprocity Advantage for Multi-State Producers
 
 All three states have reciprocity agreements with each other and with most NAIC member states, meaning a Minnesota resident producer can obtain Wisconsin and Iowa non-resident licenses without re-taking those states' exams — and vice versa. This creates significant strategic opportunity for border-area producers.
 
@@ -96,7 +96,7 @@ Non-resident CE treatment: All three states exempt non-resident producers from t
 
 The Wisconsin carryover advantage for dual residents: Wisconsin allows up to 12 hours of CE carryover from one biennial period to the next — a benefit Minnesota does not provide. A producer who transitions from Minnesota to Wisconsin residency benefits from Wisconsin's more permissive CE structure going forward, including the elimination of the classroom hour minimum and the addition of the carryover provision.
 
-### The Hard Market Context: Property Insurance in All Three States
+## The Hard Market Context: Property Insurance in All Three States
 
 Minnesota's property insurance hard market — 34% average rate increase in 2025, highest in the nation — is the most severe of the three states but is not isolated. Wisconsin and Iowa have also experienced meaningful property insurance rate increases driven by severe convective weather, though their rate trajectories differ.
 
@@ -106,11 +106,11 @@ Wisconsin: Wisconsin has experienced property insurance rate increases but at a 
 
 Iowa: Iowa has also experienced significant homeowners insurance rate increases — the state was among those seeing increases of at least 35% from 2023 to 2025. Iowa's tornado and hail exposure in the southern and western parts of the state creates meaningful convective weather loss experience. The Iowa hard market creates similar advisory opportunity to Minnesota's for producers serving Iowa homeowners.
 
-### The Career Outlook Scorecard
+## The Career Outlook Scorecard
 
 Evaluating each state across the dimensions most relevant to a producer's long-term career outcome:
 
-### Making the Choice: Which State Is Right for Your Career
+## Making the Choice: Which State Is Right for Your Career
 
 Choose Minnesota if: You want the highest income ceiling, you have or can build professional networks in the Twin Cities commercial economy, you are interested in specialty lines complexity — healthcare professional liability, medical device, financial institution, technology E&O — or you are already in Minnesota and want to maximize the opportunity where you are. Minnesota's combination of Fortune 500 density, hard property market commission tailwind, growing Rochester market, and self-employed population that is systematically underinsured creates more addressable insurance opportunity per square mile of urban commercial territory than either Wisconsin or Iowa.
 
@@ -120,7 +120,7 @@ Choose Iowa if: You are focused on agricultural insurance — crop insurance, fa
 
 The multi-state strategy: For producers near state borders, the most strategic approach is to hold a resident license in the state where you primarily reside and non-resident licenses in adjacent states — building a client book that reflects geographic reality rather than administrative state lines. A producer based in the Duluth-Superior area naturally serves both Minnesota and Wisconsin clients. A producer in Rochester serves both Minnesota and Iowa clients in the southern Minnesota-northern Iowa corridor. The reciprocity structure makes multi-state licensing cost-effective, and the non-resident CE exemption makes ongoing compliance essentially free beyond initial fees.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am currently unlicensed and deciding which state to pursue first. Minnesota has higher income potential but harder licensing. Is it worth starting with Iowa or Wisconsin to get licensed faster?
 

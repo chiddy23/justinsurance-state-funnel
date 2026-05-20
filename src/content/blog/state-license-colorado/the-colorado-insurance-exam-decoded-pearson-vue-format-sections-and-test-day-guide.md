@@ -14,7 +14,7 @@ imageAlt: "The Colorado Insurance Exam Decoded: Pearson VUE Format, Sections, an
 
 The Colorado insurance licensing exam is administered exclusively by Pearson VUE — known as Pearson Professional Assessments since 2024 — and every detail of how the exam is structured, scored, delivered, and administered comes from a single authoritative source: the Colorado Insurance Licensing Candidate Handbook, updated April 2026. If you have not read the handbook before your exam, you are walking in unprepared on the logistical side even if your content knowledge is strong. This post translates the handbook into a clear, operational guide — every section of the exam, every rule for test day, every scheduling and cancellation policy, and exactly what the score report tells you and what it does not.
 
-### Who Administers the Colorado Exam and How to Contact Them
+## Who Administers the Colorado Exam and How to Contact Them
 
 The Colorado Division of Insurance has retained Pearson VUE to develop and administer its insurance licensing examination program. There are two separate Pearson VUE contact lines for Colorado insurance:
 
@@ -46,7 +46,7 @@ Phone: (303) 894-7499
 
 Website: doi.colorado.gov
 
-### The Exam Structure: Two Sections, One Passing Standard
+## The Exam Structure: Two Sections, One Passing Standard
 
 Every Colorado insurance licensing exam — regardless of line of authority — is divided into two sections:
 
@@ -56,11 +56,11 @@ State-Specific (Colorado) Section: Tests Colorado-specific statutes, rules, and 
 
 You must achieve a passing score of 70% across the full exam. Colorado does not require you to pass each section independently — unlike Virginia's Prometric exam, which requires 70% on both national and state sections separately. In Colorado, a strong performance on the general section can compensate for a weaker state section as long as the combined score meets 70%.
 
-### Exam Structure by Line of Authority
+## Exam Structure by Line of Authority
 
 The Personal Lines exam is the longest single-line exam at 135 minutes and 104 scored questions. The combined Property + Casualty session at a physical test center gives you 240 total minutes — 120 for each exam — for a single session fee.
 
-### Pretest Questions: What They Are and Why They Matter
+## Pretest Questions: What They Are and Why They Matter
 
 Every Colorado insurance exam contains pretest questions mixed throughout the scored questions. These are unidentified experimental items that Pearson VUE is testing for potential inclusion in future versions of the exam. They do not count toward your score.
 
@@ -68,7 +68,7 @@ The Life exam, for example, has 15 pretest questions out of 95 total. You will h
 
 Pretest questions may cover material not included in your prelicensing course content. Encountering an unfamiliar question does not mean your prelicensing failed you — it may simply be a pretest item. Answer your best guess, flag it for review if time permits, and move on.
 
-### How Colorado Scores the Exam: The Scaled Score System
+## How Colorado Scores the Exam: The Scaled Score System
 
 Colorado's exam scoring is more nuanced than simply counting correct answers. Each exam exists in multiple versions, called forms, which contain different questions. Some forms may be statistically harder than others. To ensure fairness across all candidates regardless of which form they receive, Pearson VUE uses a process called equating — a statistical adjustment that accounts for differences in form difficulty.
 
@@ -80,7 +80,7 @@ If you fail, you receive a score report with a numeric score that reflects how f
 
 The failing score report also includes a diagnostic breakdown by content area showing your relative performance in each section. This is the most actionable piece of the failing report — it tells you specifically which content areas to focus on before your retake.
 
-### Exam Fees and Delivery Options
+## Exam Fees and Delivery Options
 
 In-person at a Pearson VUE test center:
 
@@ -100,7 +100,7 @@ OnVUE requires a compatible computer with webcam, microphone, reliable internet,
 
 All exam fees must be paid at the time of reservation by credit card, debit card, or voucher. Fees are not accepted at the test center. Fees are non-refundable and non-transferable except as specified in the change/cancel policy.
 
-### Scheduling Your Exam
+## Scheduling Your Exam
 
 Schedule online at pearsonvue.com/co/insurance or by phone at (800) 274-2616.
 
@@ -120,7 +120,7 @@ Change/cancel policy: You may reschedule or cancel up to 48 hours before your ap
 
 Weather cancellations: The Candidate Handbook addresses weather delays and cancellations — if Pearson VUE cancels due to weather, the fee is not forfeited and rescheduling is provided. If you choose not to appear due to weather when the test center is open, standard late/no-show policies apply.
 
-### What to Bring on Test Day
+## What to Bring on Test Day
 
 For in-person test center exams:
 
@@ -164,7 +164,7 @@ Download the OnVUE application in advance — the download can take up to 30 min
 
 Log in 30 minutes before your appointment time to complete remote check-in, which includes technology checks, ID verification by webcam, and a room scan
 
-### After the Exam: Score Report and Next Steps
+## After the Exam: Score Report and Next Steps
 
 Results are available immediately upon completing the exam at an in-person test center. You receive an official printed score report as you leave. For OnVUE exams, score reports are accessible through your Pearson VUE account.
 
@@ -174,7 +174,7 @@ If you fail: Your score report includes your scaled numeric score, the passing t
 
 Duplicate score reports: If you need a copy of your score report after the exam day, you can request one through your Pearson VUE account. Scores are not provided by phone.
 
-### Prelicensing Exemptions: When You Can Skip the Course and Exam
+## Prelicensing Exemptions: When You Can Skip the Course and Exam
 
 The April 2026 Candidate Handbook confirms two categories of exemption from prelicensing and/or examination:
 
@@ -192,7 +192,7 @@ When scheduling with an exemption, use school exemption code 99999 instead of a 
 
 Personal Lines shortcut: A producer who already holds Property and Casualty line authority is exempt from the prelicensing training requirement for Personal Lines only — the exam is still required unless the 90-day prior licensure exemption also applies.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the difference between a raw score and a scaled score on the Colorado exam, and what does a failing score number actually mean?
 

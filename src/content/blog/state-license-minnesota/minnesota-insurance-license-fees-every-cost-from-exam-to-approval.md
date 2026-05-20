@@ -14,7 +14,7 @@ imageAlt: "Minnesota Insurance License Fees: Every Cost From Exam to Approval"
 
 The total cost of getting a Minnesota insurance license is not a single number — it is a collection of individually small fees that add up across five distinct cost categories: [prelicensing](/minnesota/prelicensing) education, the state exam, fingerprinting, the license application, and post-approval ongoing costs. Each category has fixed and variable components depending on which lines you pursue, which course provider you choose, and how you handle fingerprinting. This post itemizes every cost, explains when each is due, and shows the realistic total for the most common licensing paths so you can budget accurately before you begin.
 
-### Category 1: Prelicensing Education
+## Category 1: Prelicensing Education
 
 Prelicensing course costs vary by provider and format, but the range for Minnesota-approved courses is well-established.
 
@@ -26,7 +26,7 @@ What the course price includes: Most approved provider packages include the cour
 
 One-time cost: The prelicensing course is a one-time cost for each line of authority — you pay it once to get licensed. CE courses required for license renewal are separate and do not require repurchasing the prelicensing course.
 
-### Category 2: PSI State Exam Fee
+## Category 2: PSI State Exam Fee
 
 The state licensing exam is administered by PSI Services LLC. The exam fee is fixed by PSI and paid at the time of reservation — it cannot be paid at the test center and is non-refundable if you fail to appear for your scheduled exam.
 
@@ -40,7 +40,7 @@ Retake fee: Each retake requires paying the full $45 exam fee again. There is no
 
 Scheduling and cancellation: Exams must be scheduled at least two days in advance through the PSI website or by calling (866) 395-1006. You may cancel or reschedule up to 48 hours before your reservation without forfeiting the fee. Cancellations with less than 48 hours' notice forfeit the exam fee.
 
-### Category 3: Fingerprinting and Background Check
+## Category 3: Fingerprinting and Background Check
 
 Minnesota requires all resident producer license applicants to submit fingerprints for a criminal history background check conducted at both the state level (Minnesota Bureau of Criminal Apprehension) and the federal level (FBI). The fingerprinting fee depends on how and where you complete the fingerprinting.
 
@@ -50,7 +50,7 @@ Option 2 — Fingerprinting at a local police station or similar facility: The f
 
 One-time cost: Fingerprinting is a one-time cost for initial licensing. License renewals do not require a new background check unless your license has lapsed for more than 12 months and you are reapplying as a new producer.
 
-### Category 4: License Application Fee
+## Category 4: License Application Fee
 
 The license application fee is paid at the time of submission through NIPR or Sircon. The fee structure is per line of authority, with additional technology and transaction fees added.
 
@@ -62,23 +62,23 @@ NIPR transaction fee: $5.60 per application submitted through NIPR. This fee is 
 
 Surplus lines application fee: $500, significantly higher than the major lines application fee. The surplus lines license authorizes producers to transact business with non-admitted carriers and carries a distinct regulatory structure.
 
-### Total Cost by Licensing Path: Realistic Budgets
+## Total Cost by Licensing Path: Realistic Budgets
 
 Combining all four cost categories produces a realistic total budget for the most common Minnesota licensing scenarios.
 
-#### Path 1: Property and Casualty License (Most Common for P&C Producers)
+### Path 1: Property and Casualty License (Most Common for P&C Producers)
 
-#### Path 2: Life and Accident and Health License (Most Common for L&H Producers)
+### Path 2: Life and Accident and Health License (Most Common for L&H Producers)
 
-#### Path 3: All Four Major Lines (P&C and Life & A&H)
+### Path 3: All Four Major Lines (P&C and Life & A&H)
 
-#### Path 4: Personal Lines Only (Entry-Level Personal Lines)
+### Path 4: Personal Lines Only (Entry-Level Personal Lines)
 
-### Category 5: Ongoing Costs After Licensure
+## Category 5: Ongoing Costs After Licensure
 
 Getting licensed is not the end of the fee structure — maintaining an active Minnesota producer license requires ongoing investment in [continuing education](/minnesota/continuing-education) and biennial renewal.
 
-#### CE Course Costs
+### CE Course Costs
 
 Minnesota requires 24 hours of continuing education every two years, including 3 hours of ethics. CE course costs vary by provider and topic:
 
@@ -94,7 +94,7 @@ Most producers complete their 24-hour biennial CE requirement for $50–$120 whe
 
 Important constraint: At least 12 of the 24 required CE hours must be classroom or equivalent format. At least 12 hours must not be sponsored by or affiliated with an insurance company. These constraints affect how you assemble your CE package — not all CE hours can come from carrier-sponsored webinars or independent online courses.
 
-#### License Renewal Fee
+### License Renewal Fee
 
 The biennial renewal fee is $50 plus a $30 technology surcharge, totaling $80 per renewal cycle per license. Applied through NIPR. The renewal does not require a new exam or new prelicensing — only the CE completion and the renewal fee payment.
 
@@ -102,9 +102,9 @@ Renewal timing: The renewal fee is due no later than the last day of your birth 
 
 Lapsed license reinstatement fee: If your license lapses, you have 12 months to reinstate it by paying double the unpaid renewal fee — $100 ($80 × 2, plus transaction fees). After 12 months, the reinstatement pathway closes and you must reapply as a new producer, paying all initial licensing costs again.
 
-#### Ongoing Annual Cost Summary
+### Ongoing Annual Cost Summary
 
-### What Is Not Included in These Costs
+## What Is Not Included in These Costs
 
 Errors and omissions (E&O) insurance: Most Minnesota agencies and carriers require appointed producers to carry E&O coverage as a condition of appointment. E&O is not a state licensing requirement but is a practical requirement for working as a producer. Annual E&O premiums for individual producers typically range from $300–$1,500 depending on lines, volume, and claims history.
 
@@ -114,7 +114,7 @@ Study materials beyond the course: Some producers purchase supplementary study g
 
 Non-resident license fees: If you hold a Minnesota resident license and want to add non-resident licenses in Wisconsin, Iowa, or other states, each state's application fee applies separately. Non-resident application fees vary by state — typically $25–$100 per state — and are in addition to the Minnesota costs covered in this post.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Are any of these fees reimbursable by an employer or agency?
 

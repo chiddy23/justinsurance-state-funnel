@@ -14,7 +14,7 @@ imageAlt: Serving New Jersey's Dense Immigrant and Ethnic Communities as an Insu
 
 New Jersey's population growth in 2024 was driven overwhelmingly by immigration — international migration accounted for 1.1% of the state's 1.29% total population growth in that year, making it the fourth-largest recipient of international migrants among all U.S. states. With a foreign-born population that is proportionally larger than the national average, communities originating from India, the Dominican Republic, Mexico, Ecuador, Colombia, the Philippines, China, South Korea, Brazil, and dozens of other countries are woven into the fabric of cities and suburbs across the state. New Jersey's average household income of $135,170 — 28% above the national average — exists alongside pockets of significant underinsurance in communities where language barriers, institutional distrust, and unfamiliarity with the American insurance system reduce coverage penetration. For producers who can serve these communities in their own languages and on their own cultural terms, the opportunity is substantial, defensible, and almost entirely uncontested by most mainstream insurance operations.
 
-### The Scale of NJ's Immigrant and Ethnic Communities
+## The Scale of NJ's Immigrant and Ethnic Communities
 
 New Jersey's 9.3 million residents include significant populations from nearly every corner of the world. Key community concentrations:
 
@@ -30,7 +30,7 @@ South Korean and Filipino communities are concentrated in Bergen County (Fort Le
 
 African immigrant communities — including West African, East African, and Central African communities — are growing in Essex, Hudson, and Middlesex counties.
 
-### Why These Communities Are Underserved
+## Why These Communities Are Underserved
 
 Insurance penetration in immigrant communities is structurally lower than in the general population for several reasons:
 
@@ -42,7 +42,7 @@ Unfamiliarity with the American insurance system. Many immigrants arrive from co
 
 Cultural attitudes toward financial planning. Some cultural communities prioritize cash savings and family financial networks over formal insurance products. The concept of paying for protection that may never be used requires a trust relationship and cultural translation that a bilingual, culturally competent producer is uniquely positioned to provide.
 
-### The Insurance Needs Are Real and Significant
+## The Insurance Needs Are Real and Significant
 
 Underserved does not mean low-need. It means unmet need — and in NJ's immigrant communities, the unmet insurance need is extensive:
 
@@ -56,13 +56,13 @@ Health insurance. New Jersey's individual mandate creates a coverage obligation 
 
 Remittance-linked life insurance. For communities with strong ties to home countries, producers who understand international money transfer contexts and can explain how life insurance functions as financial protection for families abroad build distinctive client relationships.
 
-### Building a Practice in Ethnic and Immigrant Markets
+## Building a Practice in Ethnic and Immigrant Markets
 
 The most effective entry point into ethnic and immigrant markets is through community institutions: houses of worship, ethnic grocery stores and restaurants, cultural associations, small business organizations, and community events. Trust in these communities is established through relationships and reputation — a referral from a respected community member carries more weight than any marketing.
 
 Language capability is a durable competitive advantage. A Spanish-speaking P&C producer in a predominantly Dominican or Mexican community, or a Hindi-speaking Life producer in Edison's Indian-American community, has an almost impenetrable market position among clients who prefer to conduct insurance conversations in their native language.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Why is New Jersey's immigrant community a particularly valuable insurance market?
 

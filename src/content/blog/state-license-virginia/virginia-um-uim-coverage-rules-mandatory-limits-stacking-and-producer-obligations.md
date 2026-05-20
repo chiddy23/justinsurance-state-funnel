@@ -14,7 +14,7 @@ imageAlt: "Virginia UM/UIM Coverage Rules: Mandatory Limits, Stacking, and Produ
 
 Uninsured and underinsured motorist coverage is not optional in Virginia. Every auto liability policy issued in the Commonwealth must include UM/UIM coverage by default, at limits matching the policy's liability limits, unless the policyholder explicitly rejects specified coverage in writing. The rules governing Virginia UM/UIM are layered across multiple statutory provisions and have been significantly updated in the past two years. A producer who cannot explain the mandatory nature of UM/UIM, the stacking rule, the rejection procedures, and the minimum coverage requirements is not fully equipped to advise Virginia auto clients. This post consolidates all of these rules into a single, current reference.
 
-### UM/UIM Is Mandatory — With Conditions
+## UM/UIM Is Mandatory — With Conditions
 
 Under Va. Code § 38.2-2202 and related provisions, Virginia auto liability insurance policies must include:
 
@@ -24,13 +24,13 @@ Underinsured motorist (UIM) coverage — required to be offered at the same limi
 
 This distinction matters: UM cannot be rejected; UIM can be modified by written rejection but is automatically included unless rejected.
 
-### The Minimum UM/UIM Coverage Amounts
+## The Minimum UM/UIM Coverage Amounts
 
 Effective January 1, 2025, UM/UIM minimum coverage tracks the new liability minimums:
 
 A policyholder can carry UM/UIM limits above the minimums — and given the stacking rule, doing so is now more valuable than it was before July 2023.
 
-### The Stacking Rule: Post-July 2023
+## The Stacking Rule: Post-July 2023
 
 As established in Va. Code § 38.2-2206 (effective July 1, 2023), UIM coverage now adds on top of the at-fault driver's liability payout rather than being offset by it. The rule applies automatically to all policies issued or renewed after July 1, 2023.
 
@@ -48,21 +48,21 @@ Total compensation available: $150,000
 
 Written rejection of stacking: Policyholders can reject UIM stacking in writing. This returns the policy to the old offset system — UIM pays only the difference between the at-fault driver's liability payment and the UIM limit, not the full UIM limit on top.
 
-### The Insurer's Obligation When Limits Differ
+## The Insurer's Obligation When Limits Differ
 
 Virginia law requires UM/UIM to match liability limits by default — but the policyholder can select different UM/UIM limits in certain circumstances with a written rejection form. If the policyholder increases their liability limits above UM/UIM (carrying $100,000/$300,000 liability with $50,000/$100,000 UM/UIM), the policyholder must sign a specific form documenting the difference. This requirement protects policyholders from inadvertently having gaps between their liability and UM/UIM coverage.
 
-### FR-44 and SR-22: How They Interact with UM/UIM
+## FR-44 and SR-22: How They Interact with UM/UIM
 
 FR-44 policies (required for DUI convictions) mandate 100/200/50 liability coverage — double the standard minimums. Because UM/UIM must match liability limits by default, FR-44 policies also carry the higher UM/UIM baseline. A policyholder under FR-44 who rejects higher UM/UIM down to the standard 50/100/25 must do so with a written rejection form.
 
 SR-22 policies (required for other violations) simply certify the driver carries the standard minimum 50/100/25 — no enhanced liability or UM/UIM minimums apply unless the policyholder carries higher limits voluntarily.
 
-### The 11.9% Uninsured Driver Problem
+## The 11.9% Uninsured Driver Problem
 
 Virginia's Insurance Information Institute data estimates approximately 11.9% of Virginia drivers are uninsured despite the mandatory insurance requirement that took effect July 1, 2024. While the mandatory insurance requirement is expected to reduce this figure over time, it remains significant. UM coverage — which cannot be rejected — is the direct financial protection against this population. Producers should emphasize to clients that UM coverage is not a technicality: over 1 in 10 Virginia drivers may still be uninsured when an accident occurs, and UM coverage is the only contractual protection available.
 
-### Producer Obligations
+## Producer Obligations
 
 Virginia's unfair trade practices statute (Title 38.2, Chapter 5) and the general duty of producer competence create practical obligations around UM/UIM advisory:
 
@@ -76,7 +76,7 @@ Documenting coverage discussions, particularly when a client declines higher UM/
 
 Producers who recommend that clients sign UIM stacking rejection forms to save premium without explaining what coverage they are surrendering may face professional and regulatory scrutiny if the client later suffers an underinsured accident.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can a Virginia policyholder decline UM coverage entirely?
 
@@ -110,7 +110,7 @@ Primary Keyword: Virginia insurance fraud law enforcement
 
 Insurance fraud costs Virginia policyholders real money — fraudulent claims drive up premiums, misrepresentation undermines the integrity of the risk pool, and agent misconduct erodes client trust. Virginia's legal framework for addressing insurance fraud operates across multiple statutory chapters in Title 38.2, with the SCC Bureau of Insurance serving as the primary enforcement authority for market conduct and producer misconduct, and the Commonwealth's attorney system addressing criminal fraud. For producers, understanding the fraud framework is partly about knowing what the rules prohibit — and partly about understanding the reporting obligations that arise when fraud is suspected.
 
-### Virginia's Insurance Fraud Statute
+## Virginia's Insurance Fraud Statute
 
 Virginia's primary insurance fraud statute is found in Title 18.2 of the Code of Virginia (the criminal code), not in Title 38.2. Va. Code § 18.2-178 (insurance fraud) prohibits:
 
@@ -122,7 +122,7 @@ Assisting another in making such false representations
 
 Insurance fraud under § 18.2-178 is a felony (Class 5, punishable by up to 10 years in prison) when the value involved exceeds $1,000, and a Class 1 misdemeanor for smaller amounts. Federal insurance fraud statutes (18 U.S.C. §§ 1033-1034) additionally apply to persons engaged in the business of insurance, imposing federal criminal liability for willfully embezzling, stealing, or misappropriating insurance funds.
 
-### Title 38.2 Fraud-Related Provisions
+## Title 38.2 Fraud-Related Provisions
 
 Within Title 38.2, fraud-related obligations for producers and insurers appear across several chapters:
 
@@ -140,7 +140,7 @@ Any charge of a felony involving misappropriation, conversion, or theft of funds
 
 Any civil judicial action involving fraud, misrepresentation, or dishonest dealing
 
-### The Bureau's Enforcement Authority Against Agents
+## The Bureau's Enforcement Authority Against Agents
 
 The Bureau of Insurance enforces compliance through:
 
@@ -152,7 +152,7 @@ Civil penalties: The SCC can assess civil money penalties for violations of Titl
 
 Restitution: Under § 38.2-218, the Commission may order restitution for policyholders who have been harmed by a producer's illegal conduct, including misappropriation of premiums.
 
-### The $25 Referral Fee Rule and Related Prohibitions
+## The $25 Referral Fee Rule and Related Prohibitions
 
 The Bureau's enforcement guidance highlights a common area of producer confusion around the line between permissible business development and prohibited rebating or fraud:
 
@@ -160,11 +160,11 @@ Referral fees to unlicensed persons: A licensed producer may pay a one-time nomi
 
 Gifts and inducements: Offering any valuable consideration as an inducement to purchase insurance is prohibited rebating under § 38.2-509. Gifts, gift cards, or other items provided to clients who purchase a policy constitute rebating. The Bureau advises that if promotional items are given, they must be available to anyone who enters the agency regardless of whether they buy a policy.
 
-### Producer Record Retention as a Fraud Prevention Tool
+## Producer Record Retention as a Fraud Prevention Tool
 
 Virginia's 3-year record retention requirement (§ 38.2-1809) serves a dual fraud-prevention purpose: it allows producers to document their own compliance with applicable rules, and it allows the Bureau to verify that documented transactions reflect what actually occurred. Adequate records are a producer's primary protection against disputed claims of misrepresentation or misconduct.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the producer's obligation when they suspect a client or claimant is committing insurance fraud?
 

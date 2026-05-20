@@ -14,7 +14,7 @@ imageAlt: "Virginia Insurance Code Essentials: Title 38.2 and the SCC Bureau of 
 
 Virginia's insurance regulatory framework is built on a constitutional foundation that distinguishes it from virtually every other state. Insurance regulation in the Commonwealth flows from the State Corporation Commission (SCC) — a body created directly by Article IX of the Virginia Constitution — through its Bureau of Insurance. This structure means that Virginia's insurance regulator has constitutional authority, not merely statutory authority. Understanding this framework is not just useful background — it is directly tested in the Virginia licensing exam, and it shapes every compliance obligation a Virginia producer faces throughout their career.
 
-### The State Corporation Commission: Virginia's Insurance Regulator
+## The State Corporation Commission: Virginia's Insurance Regulator
 
 Most states regulate insurance through a standalone Department of Insurance headed by an Insurance Commissioner who is either elected or appointed by the governor. Virginia does not have this structure.
 
@@ -44,13 +44,13 @@ Email: AgentLicensing@scc.virginia.gov
 
 Consumer complaints: AskAQuestion@scc.virginia.gov
 
-### The Structure of Title 38.2
+## The Structure of Title 38.2
 
 Title 38.2 of the Code of Virginia is the primary insurance statute. It is organized into chapters, each governing a distinct aspect of the insurance business:
 
 The chapters most heavily tested in the Virginia licensing exam are Chapters 2 (enforcement), 5 (unfair trade practices), 18 (producer licensing), 22 (auto insurance), and the relevant policy-specific chapters for the exam line being tested.
 
-### Chapter 2: General Administration and Enforcement
+## Chapter 2: General Administration and Enforcement
 
 Chapter 2 (§§ 38.2-200 et seq.) establishes the SCC's enforcement authority. Key provisions:
 
@@ -60,7 +60,7 @@ Chapter 2 (§§ 38.2-200 et seq.) establishes the SCC's enforcement authority. K
 
 § 38.2-223 — Rulemaking: The SCC "may issue any rules or regulations necessary or appropriate to the administration and enforcement of this title." This is the statutory source of the SCC's regulatory authority.
 
-### Chapter 18: Insurance Agents
+## Chapter 18: Insurance Agents
 
 Chapter 18 governs producer licensing and conduct. Key rules for producers:
 
@@ -74,7 +74,7 @@ Chapter 18 governs producer licensing and conduct. Key rules for producers:
 
 § 38.2-1831: Grounds for license suspension, revocation, or refusal to renew
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Why does Virginia's insurance regulatory structure matter for the licensing exam?
 

@@ -14,7 +14,7 @@ imageAlt: "The Virginia Insurance Exam Decoded: Prometric Format, Sections, and 
 
 The Virginia insurance licensing exam is administered by Prometric — a detail that matters from the moment you register, because Prometric's platform, scheduling system, and test center logistics are different from the PSI and Pearson VUE systems used by many other states. Virginia candidates schedule at prometric.com/virginia/insurance or by calling (866) 891-6396. The exam is available at physical Prometric test centers — including six locations in Virginia — or via Prometric's remote ProProctor platform. Every candidate who walks into exam day understanding exactly what the test looks like, how it is scored, and how the two-section structure works performs better than candidates who read the summary and assume the rest. This post covers every structural detail of the Virginia insurance exam.
 
-### The Two-Section Structure: The Most Important Thing to Understand
+## The Two-Section Structure: The Most Important Thing to Understand
 
 Every Virginia insurance licensing exam consists of two scored sections delivered together in one sitting:
 
@@ -26,11 +26,11 @@ Critical scoring rule: You must score 70% or higher on each section separately. 
 
 This two-section structure means that state law preparation is not an afterthought — it is half the pass/fail equation. Candidates who study only national content and skip Virginia-specific material are structurally at risk of failing even if their general insurance knowledge is strong.
 
-### Exam Series and Structure
+## Exam Series and Structure
 
 The pretest questions are unscored experimental items distributed throughout the exam. They are not labeled as pretest — you cannot tell which questions count and which do not. Answer all questions as if they count. Do not skip any question on the assumption that it might be a pretest item.
 
-### The Question Format
+## The Question Format
 
 All questions are four-option multiple-choice. Prometric designs questions to test knowledge and comprehension, not pattern recognition or test-taking tricks. Three question formats are used:
 
@@ -42,7 +42,7 @@ Scenario/application question: Presents a brief client situation, policy detail,
 
 Questions and topics are randomly distributed throughout the exam — national and state content are mixed together, not grouped by section. You cannot tell from the sequence of questions where you are relative to your state law score.
 
-### Scheduling at Prometric
+## Scheduling at Prometric
 
 Online: prometric.com/virginia/insurance — fastest and most flexible; available 24/7 Phone: (866) 891-6396 Payment: MasterCard, Visa, money order, company check, or cashier's check — personal checks not accepted; pay at time of registration Fee: $35 per exam
 
@@ -50,7 +50,7 @@ You may take your exam at any Prometric test center in the United States — not
 
 Rescheduling/Cancellation: To cancel and avoid forfeiting any portion of your fee, contact Prometric at least three calendar days before your appointment. Cancelling within three days forfeits $40 of the original exam fee.
 
-### Test Day: In-Person Protocol
+## Test Day: In-Person Protocol
 
 Arrive 30 minutes before your appointment for check-in. The process includes identity verification, biometric intake (digital fingerprint or palm scan at the center), and a review of testing center rules.
 
@@ -72,13 +72,13 @@ Study materials of any kind
 
 The proctor cannot answer any questions about exam content. If you encounter a question you don't understand, answer it to the best of your ability and continue. No breaks are permitted during the exam.
 
-### Results
+## Results
 
 Your score appears on screen immediately upon completing the exam. A score report is emailed to you. If you pass, the report reads "pass" with no numeric score disclosed. If you fail, the report shows your numeric score and section-by-section performance breakdown — use this diagnostic to target your retake preparation.
 
 Prometric transmits results to the Bureau of Insurance within approximately two business days.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What does it mean that Virginia has a two-section exam with separate passing scores?
 

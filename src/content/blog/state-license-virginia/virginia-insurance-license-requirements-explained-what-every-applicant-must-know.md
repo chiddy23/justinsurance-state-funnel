@@ -15,7 +15,7 @@ imageAlt: "Virginia Insurance License Requirements Explained: What Every Applica
 
 Virginia stands out from most states in ways that matter to every applicant: it does not require [prelicensing](/virginia/prelicensing) education, its licensing authority is the Bureau of Insurance within the State Corporation Commission rather than a standalone department, its exam score is only valid for 183 days, and its fingerprinting vendor is Fieldprint — not IdentoGO, which most other states use. If you have read generic insurance licensing content and assumed Virginia works the same way as other states, this post corrects the record. Here is every requirement, every deadline, and every number you need to get your Virginia insurance license right the first time.
 
-### Who Must Be Licensed
+## Who Must Be Licensed
 
 Under Title 38.2 of the Code of Virginia, any individual who sells, solicits, or negotiates insurance in Virginia must hold an active Virginia insurance producer license for the applicable line of authority. The license is required regardless of whether you are a Virginia resident — nonresidents who transact insurance in the state must hold a nonresident Virginia license.
 
@@ -29,7 +29,7 @@ Valid Social Security Number or Federal Employer Identification Number
 
 No disqualifying criminal history (reviewed through background check)
 
-### The Licensing Exam: Prometric
+## The Licensing Exam: Prometric
 
 Virginia's insurance licensing exams are administered exclusively by Prometric. The Bureau of Insurance has contracted with Prometric for exam development and delivery. You register at prometric.com/virginia/insurance or by calling (866) 891-6396.
 
@@ -45,13 +45,13 @@ Score validity: 183 days from the exam date. You must apply for and receive your
 
 Experimental questions: Each exam contains unscored pretest questions mixed in with scored questions. They are not identified and do not affect your score.
 
-### Identification Required at the Testing Center
+## Identification Required at the Testing Center
 
 On exam day, you must present two forms of identification. The primary ID must be a valid, non-expired, government-issued photo ID with both your photograph and signature (driver's license, passport, military ID). The secondary ID must contain a valid signature. If you do not meet the ID requirements, you cannot test and you forfeit your exam fee.
 
 Your name on your ID must match the name used to register for the exam. Any discrepancy can result in denial of entry.
 
-### Fingerprinting: Fieldprint Virginia
+## Fingerprinting: Fieldprint Virginia
 
 All resident applicants must complete a fingerprint-based criminal history background check through Fieldprint Virginia. This is different from IdentoGO, which many states use — Virginia specifically requires Fieldprint.
 
@@ -61,7 +61,7 @@ Fieldprint has approximately 46 locations across Virginia. Appointments are 10 m
 
 Exemption: If you submitted fingerprints in the last 12 months, currently hold a license, and are applying for the same license type, you do not need new fingerprints.
 
-### The Criminal History Record Report (CHRR)
+## The Criminal History Record Report (CHRR)
 
 Virginia requires all resident applicants to submit a Criminal History Record Report (CHRR) obtained from the Virginia State Police, no more than 90 days old. This is submitted electronically as an attachment to your online application through NIPR or Sircon.
 
@@ -69,7 +69,7 @@ If you have lived in Virginia for less than six months, provide a CHRR from your
 
 If your CHRR shows any conviction — misdemeanor or felony — you must also attach a detailed written explanation and copies of relevant court documents. The Bureau reviews all background information individually. Having a prior conviction does not automatically disqualify you, but it requires disclosure and documentation.
 
-### Applying for the License
+## Applying for the License
 
 Applications are submitted electronically through NIPR (nipr.com) or Sircon (sircon.com/virginia).
 
@@ -79,11 +79,11 @@ Processing time: Applications are processed in date order. Allow 15 business day
 
 Two critical windows: You must submit your application within 90 days of fingerprinting AND within 183 days of passing your exam. Both windows must be satisfied simultaneously. If either expires, you must start over.
 
-### What Happens After Approval
+## What Happens After Approval
 
 Once approved, you print your license from NIPR or Sircon. No physical license is mailed. To transact insurance on behalf of any insurer, you must receive an appointment from that insurer. Appointments are filed by the carrier through NIPR. You cannot sell for a carrier until your appointment is active and on file with the Bureau.
 
-### License Types: Major Lines
+## License Types: Major Lines
 
 Virginia issues producer licenses for the following major lines of authority requiring an exam:
 
@@ -101,7 +101,7 @@ Title (requires prelicensing course)
 
 Life, Annuities, and Health are treated as a combined single line for CE purposes. A producer holding all three through the 11-01 combined exam holds one license type for CE calculations.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What makes Virginia's insurance licensing requirements different from most other states?
 

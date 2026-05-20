@@ -14,9 +14,9 @@ imageAlt: Who Is Exempt from NJ Insurance CE Requirements — and How to Claim I
 
 Most New Jersey insurance producers complete 24 hours of CE every two years without questioning whether they are actually required to. A meaningful subset of those producers — particularly experienced agents with professional designations or those who pursue academic insurance coursework — may qualify for a partial or complete CE exemption that they have never claimed. New Jersey's CE exemption framework is legitimate, codified in the state administrative code, and accessible through a formal application process. Understanding who qualifies, what the exemption actually covers, and how to claim it properly is worth knowing — even if you ultimately choose to complete CE regardless.
 
-### Who Is Exempt from NJ CE Requirements
+## Who Is Exempt from NJ CE Requirements
 
-#### 1. Nonresident Producers
+### 1. Nonresident Producers
 
 New Jersey is a member of the NAIC [Continuing Education](/new-jersey/continuing-education) Reciprocity Agreement. Under this agreement, nonresident producers who are in good standing with their home state's CE requirements are fully exempt from New Jersey's 24-hour CE requirement.
 
@@ -24,7 +24,7 @@ This is one of the most straightforward CE exemptions in any state. If you are a
 
 Important: Nonresident producers are still subject to NJ's specialty training requirements (Annuity Best Interest, LTC, NFIP Flood) if they sell those products in New Jersey — unless their home state's equivalent training satisfies the NJ requirement through reciprocity. The CE exemption covers the general 24-hour requirement; it does not automatically waive product-specific training prerequisites.
 
-#### 2. Producers with Approved Professional Insurance Designations
+### 2. Producers with Approved Professional Insurance Designations
 
 Resident producers who hold a DOBI-approved professional insurance designation and fulfill the CE requirements necessary to maintain that designation are eligible for an alternative credit exemption.
 
@@ -34,11 +34,11 @@ What designations qualify: DOBI maintains a list of approved designations on its
 
 How it works in practice: A producer holding a CLU designation who completes CE to maintain that designation through The American College during a two-year NJ renewal period has, by operation of the rule, earned 24 alternative credits for NJ purposes — satisfying the full 24-hour CE requirement without completing any separate NJ-approved CE courses.
 
-#### 3. Producers Completing Insurance Coursework at Accredited Colleges or Universities
+### 3. Producers Completing Insurance Coursework at Accredited Colleges or Universities
 
 Producers who take insurance-related coursework from an accredited college or university may qualify for CE exemption credit. This pathway is less commonly used than the designation exemption but is available for producers pursuing academic credentials in insurance, risk management, or related fields.
 
-### How to Claim the Exemption
+## How to Claim the Exemption
 
 Producers who qualify for either the designation exemption or the academic coursework exemption do not receive it automatically. You must proactively file an Alternative Credit Form (also called the Alternative Continuing Education Credit Application) with DOBI. The form requires:
 
@@ -52,7 +52,7 @@ DOBI reviews the application and awards the alternative credits to your transcri
 
 Timing matters: Submit your Alternative Credit Form well before your license renewal deadline. DOBI processing takes time, and you need the credits reflected on your transcript before submitting your renewal application through NIPR. Do not assume alternative credits will appear automatically or quickly.
 
-### What the Exemption Does Not Cover
+## What the Exemption Does Not Cover
 
 Several important limitations apply:
 
@@ -64,13 +64,13 @@ Ethics hours still apply to non-exempt producers. The exemption does not allow a
 
 Limited lines producers. Producers holding limited lines authority only (such as credit insurance or travel insurance) are not subject to the standard 24-hour CE requirement and are therefore not in scope for the exemption framework in the same way. Their CE obligations, if any, are governed by their specific line requirements.
 
-### Who Should Consider Claiming the Exemption
+## Who Should Consider Claiming the Exemption
 
 If you hold a CLU, ChFC, CPCU, CFP, or other DOBI-approved designation and actively maintain it through annual CE requirements, you are likely already satisfying NJ's CE requirement through your designation maintenance without claiming the formal exemption credit. Filing the Alternative Credit Form formalizes that equivalency and relieves you of the obligation to separately track and complete 24 hours of DOBI-approved CE courses.
 
 For producers who hold qualifying designations but have been completing both designation CE and separate NJ CE every renewal period, claiming the exemption eliminates the redundancy. You have been paying for CE you did not need to take.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I'm a nonresident producer in New Jersey, do I need to complete any CE at all?
 

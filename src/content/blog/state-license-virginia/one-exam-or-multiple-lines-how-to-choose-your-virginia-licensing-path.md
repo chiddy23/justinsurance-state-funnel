@@ -15,13 +15,13 @@ imageAlt: One Exam or Multiple Lines? How to Choose Your Virginia Licensing Path
 
 Virginia's licensing structure gives every candidate a meaningful strategic choice before they ever sit for an exam: take the combined Series 11-01 exam covering Life, Annuities and Health all at once, take separate exams for each line, go straight for the full P&C license, or pursue multiple lines from the start. The decision matters because it affects your exam fee, your preparation timeline, your CE obligations once licensed, and your market access from day one. This post gives you the framework to make the right choice for your situation.
 
-### Understanding Virginia's Exam Lines
+## Understanding Virginia's Exam Lines
 
 Virginia requires a separate exam for each major line group. The exam series available to producers are:
 
 Within the L/A/H world, you can take all three lines at once (Series 11-01) or split them: Life/Annuities (Series 11-05) and Health (Series 11-06) are separate exams. P&C is always a single combined exam (Series 11-03). Personal Lines is a narrower P&C option for producers who will not sell commercial coverage.
 
-### Option 1: Start with One Line, Add Later
+## Option 1: Start with One Line, Add Later
 
 Profile: Career changer who wants to start selling quickly in a specific line, or candidate who wants to minimize initial study burden and exam risk.
 
@@ -47,7 +47,7 @@ CE jumps from 16 hours to 16 hours (same, since L/A and Health are the same lice
 
 When it makes sense: You are certain you will only sell one line for the foreseeable future, or you want to test your commitment to the career with the simplest possible entry point.
 
-### Option 2: Take the Combined Series 11-01 (Life, Annuities & Health)
+## Option 2: Take the Combined Series 11-01 (Life, Annuities & Health)
 
 Profile: Most candidates entering the Life and Health market.
 
@@ -69,7 +69,7 @@ If you fail, you retake the full 140 questions (not just one section)
 
 When it makes sense: You plan to sell any combination of life, annuities, and health products — which is the vast majority of L/A/H producers. The combined exam is the standard path.
 
-### Option 3: Full P&C (Series 11-03) vs. Personal Lines Only
+## Option 3: Full P&C (Series 11-03) vs. Personal Lines Only
 
 The P&C Series 11-03 covers both Property and Casualty lines — the full commercial and personal market. This is the standard P&C exam for producers who intend to sell both personal and commercial accounts.
 
@@ -95,7 +95,7 @@ You are entering a career role focused exclusively on personal lines (some direc
 
 The risk of choosing Personal Lines: if your career evolves toward commercial accounts — as many producers' careers do — you must take the full Series 11-03 exam later to add commercial authority. The $35 difference in initial exam cost is rarely worth limiting your market access. Most Virginia licensing professionals recommend taking the full Series 11-03 unless you have a specific reason to limit to personal lines.
 
-### Option 4: Full Dual Licensing (L/A/H + P&C)
+## Option 4: Full Dual Licensing (L/A/H + P&C)
 
 Profile: Producers who want maximum authority from day one, or those entering an independent agency that writes all lines.
 
@@ -115,7 +115,7 @@ CE implication: Dual licensing increases your biennial CE obligation from 16 hou
 
 When it makes sense: You are entering an independent agency environment, pursuing commercial lines opportunities alongside personal insurance, or starting a financial planning practice that combines insurance, annuities, and financial products. The dual license is the standard credential for full-service producers.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I take the combined Series 11-01 exam and fail, do I have to retake it combined, or can I take separate exams instead?
 

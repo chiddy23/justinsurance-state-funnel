@@ -16,7 +16,7 @@ The Colorado Division of Insurance approved a 6.9% reduction in loss costs for 2
 
 For insurance producers, this sustained decline creates a market environment that is genuinely unusual: a mandatory commercial line with declining base rates, strong carrier competition, a dominant state-chartered insurer facing potential privatization, and employer-clients who have benefited so consistently from rate reductions that many have stopped actively managing their workers' comp program. That last characteristic is where producer opportunity concentrates. The employers who have benefited most from Colorado's declining loss costs are often the ones who have paid the least attention to program structure, classification accuracy, and experience modification management — and who stand to save the most from a producer who brings genuine expertise to a relationship that has been on autopilot.
 
-### Why 12 Years of Declining Loss Costs Happened
+## Why 12 Years of Declining Loss Costs Happened
 
 Loss costs are NCCI's calculation of the average cost of lost wages and medical payments per $100 of payroll — the underlying measure of what it actually costs to pay workers' compensation claims in Colorado. When loss costs decline, the base rate for every employer's premium declines proportionally before any carrier expense loading or experience modification is applied.
 
@@ -32,11 +32,11 @@ Economic composition shift: Colorado's economy has grown significantly in profes
 
 The emerging countertrend: Both indemnity and medical severity rose significantly in 2024, by 6% and 6.1% respectively — faster than wage growth of 4.2% and notably higher than the 2.8% uptick in the Workers' Compensation Weighted Medical Price Index. Utilization is now the primary driver of rising medical costs in comp claims. This severity increase, if it continues, could slow or eventually reverse the frequency-driven loss cost decline. Colorado producers serving employers in higher-risk industries should monitor this trend and help clients understand that the 12-year decline may not continue at the same rate indefinitely. Csuredi
 
-### The Colorado Workers' Compensation Market Structure
+## The Colorado Workers' Compensation Market Structure
 
 Colorado's workers' compensation market has a distinctive structure that every producer in the state needs to understand:
 
-#### Pinnacol Assurance: Colorado's Dominant Player Facing an Uncertain Future
+### Pinnacol Assurance: Colorado's Dominant Player Facing an Uncertain Future
 
 Pinnacol Assurance insures about 50,000 companies and one million workers in Colorado — roughly half of the workers' compensation market. Pinnacol was created in 1915 as Colorado's insurer of last resort, and it has evolved over the decades from a pure state fund into a competitive quasi-governmental insurer that competes directly with private carriers for preferred risks while maintaining its statutory obligation to accept any Colorado employer. Colorado Newsline
 
@@ -48,7 +48,7 @@ The privatization question matters to producers for two reasons. First, if Pinna
 
 Pinnacol's multi-state limitation: Pinnacol cannot cover employees outside Colorado. For employers with out-of-state employees, Pinnacol must partner with insurers in those states, boosting premium costs by approximately 20%. For Colorado employers with employees in multiple states, national carriers may offer more efficient multi-state coverage than Pinnacol — a competitive argument that private market producers can make to multi-state employer clients. SummitDaily
 
-#### The Competitive Private Market
+### The Competitive Private Market
 
 The private workers' compensation market in Colorado is robust, with numerous admitted carriers competing for Colorado employer accounts alongside Pinnacol:
 
@@ -60,15 +60,15 @@ The NCCI assigned risk pool: Colorado participates in NCCI's Workers' Compensati
 
 Combined ratio and market profitability: Workers' compensation has been profitable for most insurance carriers, with the net combined loss ratio for 2023 and 2024 at 86% — significantly below 100%, indicating consistent underwriting profitability. This profitability drives carrier competition for Colorado workers' comp accounts — insurers want to write this line. For employers, this competition translates into competitive pricing, broad availability, and carriers willing to invest in service and claim management that retains accounts. Inszone Insurance
 
-### How Workers' Compensation Premiums Are Built
+## How Workers' Compensation Premiums Are Built
 
 Understanding premium construction is foundational to delivering value as a workers' comp producer. The premium for any Colorado employer's workers' comp policy is built from five components:
 
-#### 1. Payroll
+### 1. Payroll
 
 Total payroll by employee classification code is the base unit of exposure. Premium is calculated as a rate per $100 of payroll. An employer with $2 million in payroll and a rate of $2.50 per $100 pays a manual premium of $50,000 before modifications. Payroll accuracy matters — both for the initial premium and for the end-of-year audit. Underestimating payroll creates an audit surprise; overestimating creates premium overpayment.
 
-#### 2. Classification Codes
+### 2. Classification Codes
 
 Every employee's job function is assigned an NCCI classification code that reflects the loss experience of workers performing that type of work. Colorado workers' compensation costs about $437 annually per employee for small businesses overall, but low-risk businesses like speech therapy pay around $36 per employee yearly, while high-risk industries such as roofing face costs of approximately $4,948 per employee annually. SummitDaily
 
@@ -82,7 +82,7 @@ Clerical vs. field: Many Colorado businesses have mixed workforces of office sta
 
 Technology and professional services: The Front Range tech economy employs large numbers of workers who may be classified in multiple different categories — software developers (clerical/low rate) versus field installation technicians (higher rate). For technology companies whose workers primarily work at desks writing code, confirming clerical classification is accurate and defensible reduces premium to its appropriate level.
 
-#### 3. Experience Modification Factor (E-Mod)
+### 3. Experience Modification Factor (E-Mod)
 
 The experience modification factor is the most powerful variable affecting individual employer premium — and the variable that most producers underutilize as a value-creation tool.
 
@@ -94,17 +94,17 @@ The frequency versus severity split in e-mod calculation: E-mod formulas weight 
 
 The $437/employee average and e-mod leverage: At Colorado's average of $437 annually per employee, an employer with 50 employees pays approximately $21,850 in annual workers' comp premium at an e-mod of 1.0. Moving from a 1.0 e-mod to a 0.85 e-mod saves $3,278 annually. Moving from a 1.25 e-mod to a 1.0 e-mod saves $4,370 annually — and to a 0.85 e-mod saves $7,648. E-mod improvement has compounding value: it reduces premium every year the improved mod is maintained, while the investments that drove improvement (safety training, return-to-work programs, claim management) are largely one-time or ongoing low costs.
 
-#### 4. Carrier Expense Loading
+### 4. Carrier Expense Loading
 
 Each carrier adds its own expense loading to NCCI's loss costs — administrative expenses, claims management overhead, profit margin, and other costs. Carriers with efficient claim management and lower administrative overhead can file lower rates and still earn adequate returns. Rate competition among carriers creates the pricing differentiation that produces savings for employers who shop their workers' comp.
 
 The pricing differentiation between carriers for the same risk can be meaningful — 5–15% differences on moderate-sized accounts are common when multiple carriers quote competitively. Producers who obtain multiple carrier quotes for workers' comp accounts deliver genuine value rather than simply renewing with the incumbent.
 
-#### 5. Schedule Rating Credits and Debits
+### 5. Schedule Rating Credits and Debits
 
 Within approved ranges, carriers can apply schedule rating credits (favorable factors) or debits (unfavorable factors) to reflect specific employer characteristics not captured by classification and e-mod. Management commitment to safety, quality of loss control programs, workforce stability, and physical premises conditions can all support schedule rating credits. Premium debits can be applied for adverse characteristics.
 
-### What 12 Years of Declining Loss Costs Means in Practice
+## What 12 Years of Declining Loss Costs Means in Practice
 
 The sustained decline creates specific market dynamics that shape producer strategy:
 
@@ -114,7 +114,7 @@ The premium decline has masked classification errors. When overall rates decline
 
 Renewal premium is not the right measurement of carrier performance. Many employers compare this year's renewal premium to last year's renewal premium and evaluate whether their carrier is serving them well. But this comparison does not account for rate changes, payroll changes, or e-mod changes that are driving the comparison. A producer who provides employers with a rate-adjusted, payroll-adjusted comparison — showing what the premium would be if the employer changed nothing — and then shows separately the impact of rate changes, payroll changes, and e-mod changes, gives employers a genuine picture of program performance that most never receive.
 
-### Where Producer Value Concentrates
+## Where Producer Value Concentrates
 
 E-mod analysis and management: The most consistently underutilized workers' comp service in Colorado is e-mod analysis. Few employers receive a systematic explanation of how their e-mod is calculated, what claims are driving it, whether those claims are accurately reflected, and what trajectory the e-mod is on based on current claims. Producers who provide this analysis — particularly those who can identify claims that should be excluded from the e-mod calculation under NCCI's experience rating rules — deliver measurable dollar savings that are directly attributable to the relationship.
 
@@ -124,7 +124,7 @@ Classification audits: Systematic review of how each employee category is classi
 
 Multi-year loss history review: Producers who obtain the employer's complete loss history and analyze it year-by-year can identify patterns — specific departments with elevated injury rates, specific tasks associated with recurring claims, specific supervisors with high injury rates on their teams — that the employer's own management may not have connected. This analysis serves as the foundation for targeted safety investment: the employer knows where to invest in safety because the data shows where claims are originating.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If Colorado's workers' comp rates have been declining for 12 years, why might an employer's premium have increased in recent years?
 

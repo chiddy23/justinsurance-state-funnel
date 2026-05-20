@@ -15,7 +15,7 @@ imageAlt: "Agricultural and Rural Insurance Markets in South Jersey: What Produc
 
 New Jersey's "Garden State" moniker is not a marketing slogan — it is a functional description of an agricultural economy that generated approximately $1.5 billion in annual revenue from nearly 10,000 farms spread across 750,000 acres. Agriculture is the third-largest industry in the state, behind pharmaceuticals and tourism. The overwhelming majority of that agricultural activity is concentrated in South Jersey — Salem, Cumberland, Atlantic, Gloucester, Burlington, and Ocean counties — where the flat, sandy soils of the Outer Coastal Plain are suited to the specialty crop production that defines NJ's agricultural profile. For P&C producers who understand farm coverage, crop insurance, agribusiness commercial lines, and the rural community market, South Jersey represents a niche with strong client loyalty and genuinely limited competition from generic commercial lines operations.
 
-### What New Jersey Grows: The Agricultural Profile
+## What New Jersey Grows: The Agricultural Profile
 
 New Jersey is not a grain state. Unlike the Midwest's commodity agriculture, NJ's farming is almost entirely specialty crop and horticulture production — high-value, labor-intensive crops that require careful management and carry unique insurance exposures:
 
@@ -31,9 +31,9 @@ Equine: New Jersey has a significant equine industry — breeding, racing (histo
 
 Poultry, dairy, and field crops: Southern NJ's Salem and Cumberland counties support poultry and egg production. Dairy operations exist in the rural northern and western counties.
 
-### The Insurance Products Farm Operations Need
+## The Insurance Products Farm Operations Need
 
-#### Farm Package Policies
+### Farm Package Policies
 
 A farm package policy is the foundational coverage for most NJ farm operations. Unlike commercial property coverage for urban businesses, farm package policies are specifically designed for agricultural exposures. A typical NJ farm package includes:
 
@@ -47,7 +47,7 @@ Farm liability — broader than standard homeowners liability, covering farming 
 
 Farm auto — specialized commercial auto coverage for farm tractors, trucks, and other equipment operating on and off the farm
 
-#### Crop Insurance Through USDA RMA
+### Crop Insurance Through USDA RMA
 
 Federal crop insurance is available through the USDA's Risk Management Agency (RMA) and is delivered exclusively through private crop insurance agents. All multi-peril crop insurance — including Catastrophic Risk Protection (CAT) policies — must be purchased through licensed private agents. This creates a specific advisory role for NJ P&C producers who hold appropriate crop insurance certifications.
 
@@ -61,15 +61,15 @@ Whole Farm Revenue Protection (WFRP) for diversified farms with multiple crops
 
 Crop insurance sign-up deadlines, acreage reporting requirements, and claim procedures are all regulated through USDA's Farm Service Agency and require agent expertise that goes beyond general P&C knowledge.
 
-#### Greenhouse and Nursery Coverage
+### Greenhouse and Nursery Coverage
 
 NJ's dominant horticultural sector — nearly $500 million in annual sales — requires greenhouse and nursery coverage that is not well-served by standard commercial property forms. Specialty coverage for growing structures, boiler and machinery for HVAC systems critical to plant survival, inland marine coverage for plants in transit, and business income coverage for seasonal operations are all components of a well-structured horticultural operation insurance program.
 
-#### Agritourism Liability
+### Agritourism Liability
 
 Agritourism — pick-your-own berry farms, pumpkin patches, hayrides, corn mazes, farm stands, and seasonal events — has grown significantly as NJ farms diversify their revenue. New Jersey has a Right to Farm Act that provides some liability protection for agritourism activities, but producers offering these experiences still need specific agritourism liability endorsements. A hayride accident or pick-your-own injury creates real liability exposure that standard farm liability policies may not fully address without specific endorsements.
 
-### The Rural Community Market: Beyond the Farm
+## The Rural Community Market: Beyond the Farm
 
 South Jersey's rural communities are not exclusively agricultural — they are small-town communities with small businesses, homeowners, and personal lines needs that are often underserved by insurance operations concentrated in the urban and suburban north.
 
@@ -79,7 +79,7 @@ Rural homeowners: The housing stock in rural South Jersey includes older homes o
 
 Workers' compensation for agricultural employers: Farms with employees — particularly those using seasonal agricultural workers — require workers' compensation coverage. NJ's broad definition of employee and its strict classification tests apply to agricultural operations as well as urban businesses.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What makes New Jersey's agricultural market distinctive compared to other states' farm insurance markets?
 

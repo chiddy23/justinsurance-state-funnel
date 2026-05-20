@@ -14,7 +14,7 @@ imageAlt: "Workers' Compensation in Virginia: Private Market, State Fund, and Wh
 
 Virginia's workers' compensation system operates entirely through the competitive private market. There is no state fund, no government insurer of last resort for workers' compensation (beyond the NCCI-administered assigned risk pool), and no monopolistic carrier structure. Every covered Virginia employer obtains workers' compensation insurance from a licensed private carrier or qualifies for self-insurance. This market structure distinguishes Virginia from states like Ohio and Washington, which have exclusive state funds, and makes Virginia workers' compensation a genuinely open commercial insurance market — accessible to P&C producers with the right carrier appointments. This post covers the complete workers' comp framework: who must carry coverage, what the penalties are for non-compliance, and what the Virginia Workers' Compensation Commission does.
 
-### Who Must Carry Workers' Compensation in Virginia
+## Who Must Carry Workers' Compensation in Virginia
 
 Under Va. Code § 65.2-300 (the Virginia Workers' Compensation Act), employers must carry coverage when they regularly employ more than two employees — meaning coverage is required when total employment reaches three or more workers.
 
@@ -34,7 +34,7 @@ Domestic workers in private homes: Exempt — households need not cover domestic
 
 Sole proprietors with no employees: Not required to carry workers' comp — but the moment they hire anyone (including a subcontractor), the rules change
 
-### The Virginia Workers' Compensation Commission (VWC)
+## The Virginia Workers' Compensation Commission (VWC)
 
 The Virginia Workers' Compensation Commission is an administrative court that adjudicates workers' compensation claims. It is not the SCC Bureau of Insurance — these are two entirely separate agencies with different functions:
 
@@ -44,7 +44,7 @@ SCC Bureau of Insurance: Regulates the insurance companies writing workers' comp
 
 A Virginia P&C producer dealing with workers' comp insurance contracts with the Bureau of Insurance for carrier oversight matters and directs claim disputes to the VWC.
 
-### Virginia Has No State Fund
+## Virginia Has No State Fund
 
 Virginia does not have a state-operated workers' compensation insurance fund. Employers obtain coverage through:
 
@@ -58,13 +58,13 @@ Assigned risk (NCCI pool) — employers who cannot obtain voluntary market cover
 
 Important for producers: Monopolistic state funds from other states (Ohio, North Dakota, Washington, Wyoming) cannot provide Virginia workers' comp coverage. If an out-of-state employer's workers' comp policy is with a carrier not licensed in Virginia, that policy cannot be endorsed to cover Virginia operations. A Virginia-licensed policy with a Virginia-approved carrier is required for Virginia-based employees.
 
-### Penalties for Non-Compliance
+## Penalties for Non-Compliance
 
 Virginia's penalties for operating without required workers' compensation coverage are among the most significant compliance risks for employers:
 
 The Uninsured Employers' Fund (UEF), administered by the VWC, can pay benefits to injured workers whose employers were uninsured — and the fund then pursues reimbursement from the uninsured employer.
 
-### Virginia Workers' Compensation Benefits
+## Virginia Workers' Compensation Benefits
 
 The Virginia Workers' Compensation Act provides four categories of benefits:
 
@@ -84,7 +84,7 @@ Vocational rehabilitation: If the injured worker cannot return to their original
 
 Death benefits: $10,000 funeral expenses plus 66⅔% of decedent's average weekly wage to eligible dependents.
 
-### How Premium Is Calculated
+## How Premium Is Calculated
 
 Virginia workers' compensation premium is calculated using three factors:
 
@@ -96,7 +96,7 @@ Experience modifier (based on the employer's own claims history relative to expe
 
 The Bureau of Insurance regulates the filing and approval of workers' comp rates and forms. NCCI files rate recommendations for Virginia, and the Bureau reviews and approves them.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What should a Virginia producer do if a small business client asks whether they need workers' compensation?
 

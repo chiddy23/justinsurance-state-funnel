@@ -14,7 +14,7 @@ imageAlt: "Richmond Insurance Market Guide: Virginia's Capital City and Insuranc
 
 Richmond occupies a distinctive position in Virginia's insurance landscape — it is simultaneously the state capital, the home of several major insurance company headquarters, and a mid-Atlantic financial hub with a deep commercial insurance market. The Richmond metro area hosts 8 Fortune 500 companies and 4 Fortune 1000 companies, including Markel Group (specialty insurance and reinsurance, Fortune 500), Genworth Financial (LTC and mortgage insurance, Fortune 1000), Dominion Energy, Capital One Financial, and CarMax. The Federal Reserve Bank of Richmond — one of twelve in the country — anchors the city's financial services identity. For producers, Richmond offers a layered market: institutional insurance industry employers that create professional development opportunities, a substantial commercial sector anchored by major corporations, and a growing technology and startup ecosystem.
 
-### Richmond as an Insurance Industry Hub
+## Richmond as an Insurance Industry Hub
 
 Richmond's status as an insurance industry center is not simply geographic — it is structural. The city and its suburbs host:
 
@@ -30,7 +30,7 @@ Multiple carrier operations: Several national carriers maintain significant unde
 
 This institutional density means that Richmond producers have access to professional networking, [continuing education](/virginia/continuing-education), and carrier relationship-building opportunities that are rare outside of major insurance hubs.
 
-### The Commercial Market: Fortune 500 and Beyond
+## The Commercial Market: Fortune 500 and Beyond
 
 Richmond's Fortune 500 companies represent some of Virginia's largest commercial insurance accounts, but these are handled primarily by national and regional brokers. The real opportunity for independent producers is Richmond's broader commercial ecosystem:
 
@@ -44,7 +44,7 @@ Technology: The Richmond metro area has a growing technology sector anchored by 
 
 Small and mid-size businesses: Richmond has a strong small-business ecosystem (99.5% of Virginia businesses have fewer than 500 employees). The concentration of food service, retail, professional services, and construction contractors creates a high-volume commercial lines market.
 
-### The Personal Market: Richmond's Affluent Suburbs
+## The Personal Market: Richmond's Affluent Suburbs
 
 Richmond's suburbs — particularly Goochland County (the highest average weekly wage of any Virginia county at $3,164), Short Hills-equivalent communities in Henrico and Chesterfield, and river-adjacent neighborhoods — are affluent residential markets. The typical Richmond suburban household earning $90,000–$150,000 needs:
 
@@ -56,7 +56,7 @@ Life insurance and disability income for mid-career professionals
 
 Richmond's lower cost of living relative to Northern Virginia means producers can build a broader personal lines book without Northern Virginia's luxury insurance complexity — a strong foundation for commission volume.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What makes Markel's presence in Richmond significant for local insurance producers?
 

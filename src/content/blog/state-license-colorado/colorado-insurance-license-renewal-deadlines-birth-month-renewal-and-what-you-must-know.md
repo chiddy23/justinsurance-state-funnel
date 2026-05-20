@@ -14,7 +14,7 @@ imageAlt: "Colorado Insurance License Renewal Deadlines: Birth Month Renewal and
 
 Your Colorado insurance producer license expires on the last day of your birth month, biennially. That single sentence contains every date you need to know — but the mechanics behind it, the fees, the late reinstatement rules, the one-transaction requirement, and the consequences of missing the deadline are what determine whether your license survives renewal cleanly or enters a lapse period that interrupts your ability to transact insurance. This post covers every renewal rule in Colorado so that you know exactly what is required, when, and what happens if you miss it.
 
-### How the Biennial Cycle Works
+## How the Biennial Cycle Works
 
 Colorado licenses on a birth-month cycle synchronized to the year the license was originally issued:
 
@@ -28,7 +28,7 @@ Your first renewal cycle is longer than two years. A producer licensed in June o
 
 The new licensee CE exemption means that producers are exempt from the 24-hour CE requirement until their second renewal cycle. Your first renewal requires only the fee — no CE. CE obligations begin at the second renewal.
 
-### Renewal Fees
+## Renewal Fees
 
 Colorado charges a per-line renewal fee:
 
@@ -38,7 +38,7 @@ Non-residents renewing Colorado licenses pay $40 per line regardless of how many
 
 There is no single combined renewal fee that covers all lines for a reduced rate. Each line is priced separately.
 
-### What Must Be Complete Before Renewing
+## What Must Be Complete Before Renewing
 
 The Colorado DOI will not process a renewal application that lacks completed CE — the system verifies CE compliance as part of the renewal workflow. Before submitting your renewal, confirm that all of the following are satisfied:
 
@@ -62,7 +62,7 @@ CE transcript verified through Sircon before submitting the renewal application
 
 The 30-day processing window: CE providers report completions to Sircon within 24–48 hours for online courses. The Colorado DOI system may take up to 30 days to fully process and reflect completions. Complete CE at least 60 days before your expiration date. Do not submit your renewal application until your Sircon transcript confirms all required hours have been reported.
 
-### How to Submit Your Renewal
+## How to Submit Your Renewal
 
 Colorado insurance license renewals are submitted electronically — paper renewals are not available. Two platforms process Colorado renewals:
 
@@ -74,13 +74,13 @@ Most Colorado producers renew through Sircon to avoid the NIPR transaction fee. 
 
 License certificate: Colorado does not automatically mail or email a renewed license certificate. To obtain a printed or downloadable copy of your renewed license, log in to Sircon after renewal and print the license directly. Printing through Sircon costs $5 per license. Keep a digital copy accessible for agency appointments, carrier credentialing, and any situation requiring license verification.
 
-### The Colorado Renewal Reminder
+## The Colorado Renewal Reminder
 
 The Colorado Division of Insurance sends a renewal reminder email approximately 90 days before your license expiration date. The reminder is a convenience, not a guarantee. If your email address on file with Sircon is outdated, the reminder will not reach you. If the reminder goes to spam, you may not see it until after your deadline.
 
 Treat the Sircon renewal reminder as a secondary notification system, not your primary license management tool. Track your own renewal deadline independently. Enter it in your calendar with a 90-day and 30-day alert. Verify your CE transcript 60–90 days before expiration. Do not wait for the reminder to begin your renewal process.
 
-### Late Renewal: Reinstatement
+## Late Renewal: Reinstatement
 
 If you do not renew your license by the last day of your birth month in your renewal year, your license lapses. A lapsed license cannot be used to transact insurance — selling, soliciting, or negotiating insurance on a lapsed license is an unlicensed activity violation under Colorado law, regardless of the reason for the lapse.
 
@@ -96,7 +96,7 @@ A producer who allows their license to lapse and reinstates within one year pays
 
 The one-transaction rule: All lines being reinstated must be reinstated in a single electronic transaction. You cannot reinstate Property today and Casualty next week. If you hold multiple lines, they must all be addressed in one submission. This rule applies to both reinstatement and renewal when multiple lines are involved.
 
-### After One Year: Full Prelicensing Required
+## After One Year: Full Prelicensing Required
 
 If a lapsed Colorado insurance license is not reinstated within one year of the expiration date, the license cannot be reinstated. The producer must begin the licensing process from the beginning:
 
@@ -108,7 +108,7 @@ Submit a new license application with the $47/line application fee plus $5.60 NI
 
 There is no abbreviated path. A 20-year veteran whose license lapses for more than 12 months must complete prelicensing education and pass the state exam as if licensing for the first time. This is the most severe consequence of missed renewal and the strongest argument for treating the birth-month deadline with the same discipline as any regulatory compliance obligation.
 
-### Non-Resident License Renewal
+## Non-Resident License Renewal
 
 Non-resident producers licensed in Colorado do not complete Colorado CE — they satisfy their home state's CE requirements, which Colorado deems compliant for renewal purposes. However, non-residents must:
 
@@ -122,7 +122,7 @@ Renew by the same birth-month deadline that applies to resident licensees
 
 Non-resident producers who allow their Colorado license to lapse follow the same reinstatement rules as residents — $40/line renewal fee plus $29/line reinstatement penalty within one year, or full new application after one year.
 
-### Producer License vs. Appointment: Two Separate Obligations
+## Producer License vs. Appointment: Two Separate Obligations
 
 A common source of confusion is the distinction between a license and an appointment. Your license — the one that renews biennially — is issued by the Colorado Division of Insurance and authorizes you to transact insurance in Colorado. Your appointment is issued by each specific insurer you represent and authorizes you to transact on behalf of that insurer.
 
@@ -130,7 +130,7 @@ Licenses and appointments are independent. Renewing your license does not renew 
 
 Most carriers manage their own appointment renewals through the Sircon system and notify producers of appointment issues separately. If you are changing carriers or have not received appointment renewal notices, verify your appointment status through Sircon's appointment inquiry tool separately from the license renewal process.
 
-### Renewal for Producers Who Move Out of Colorado
+## Renewal for Producers Who Move Out of Colorado
 
 A Colorado resident producer who moves to another state must update their license status with the Colorado DOI. If Colorado is no longer your state of residence:
 
@@ -144,7 +144,7 @@ Update your address with Sircon promptly — Colorado requires producers to repo
 
 Producers who move to a state with a reciprocal non-resident licensing agreement with Colorado — which includes the majority of states — can maintain their Colorado non-resident license without retaking the state exam.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My birthday is February 28. Does my license expire February 28 or February 29 in a leap year?
 

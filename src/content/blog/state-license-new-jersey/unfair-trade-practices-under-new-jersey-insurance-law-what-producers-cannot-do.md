@@ -15,13 +15,13 @@ imageAlt: "Unfair Trade Practices Under New Jersey Insurance Law: What Producers
 
 New Jersey's Unfair Trade Practices Act — codified at N.J.S.A. 17:29B-1 et seq. — is one of the oldest and most operationally significant insurance statutes in the state. Enacted in 1947 and modeled on the NAIC's model act, it defines the categories of conduct that constitute unfair competition and unfair or deceptive acts in the business of insurance. For licensed producers, the Act is not just an exam topic — it is the legal boundary that separates legitimate business conduct from conduct that can result in license revocation, civil penalties, and regulatory action. Understanding exactly what the Act prohibits, and how those prohibitions have been interpreted and applied through DOBI regulations, is part of being a competent NJ producer.
 
-### The Structure of N.J.S.A. 17:29B
+## The Structure of N.J.S.A. 17:29B
 
 The Unfair Trade Practices Act (UTPA) establishes that no person shall engage in any trade practice defined by the Act as an unfair method of competition or an unfair or deceptive act or practice in the business of insurance. N.J.S.A. 17:29B-4 enumerates the specific categories of prohibited conduct. The Commissioner has authority to investigate violations, hold hearings, and issue cease-and-desist orders. A violation that occurs with sufficient frequency to constitute a "general business practice" triggers the most serious regulatory consequences.
 
 The Act covers both insurers and producers. For producers, the most directly applicable provisions are misrepresentation, false advertising, rebates and inducements, unfair discrimination, and unfair claims settlement practices.
 
-### Misrepresentation and False Advertising: N.J.S.A. 17:29B-4(1)
+## Misrepresentation and False Advertising: N.J.S.A. 17:29B-4(1)
 
 The first prohibited category covers misrepresenting the terms of any policy — issued or proposed — including misrepresenting the benefits, dividends, financial condition of the insurer, or the nature of the policy itself. Specifically prohibited:
 
@@ -35,7 +35,7 @@ Making misrepresentations to a policyholder to induce them to lapse, forfeit, or
 
 This last prohibition — inducing lapse through misrepresentation — is directly related to NJ's replacement regulation and creates specific obligations for producers presenting replacement products to existing policyholders.
 
-### Rebates and Inducements: N.J.S.A. 17:29B-4(8) and N.J.A.C. 11:17A-2.3
+## Rebates and Inducements: N.J.S.A. 17:29B-4(8) and N.J.A.C. 11:17A-2.3
 
 New Jersey's rebating prohibition is strict and specific. Under the statute and its implementing regulation (N.J.A.C. 11:17A-2.3), no producer may:
 
@@ -49,7 +49,7 @@ The DOBI regulations specify the $10 threshold for permissible items of nominal 
 
 There are limited exceptions: services or offerings that are provided free or at a discount in a fair and non-discriminatory manner and that relate to or enhance the value of the insurance product being purchased are not considered prohibited rebates. Risk management consulting, loss control services, and similar value-added services may qualify. However, gifts, gift cards, cash equivalents, and discounts on unrelated products clearly fall within the prohibition.
 
-### Unfair Discrimination: N.J.S.A. 17:29B-4(7)
+## Unfair Discrimination: N.J.S.A. 17:29B-4(7)
 
 The discrimination prohibition covers:
 
@@ -61,7 +61,7 @@ Specifically, denying coverage based on blindness or partial blindness — this 
 
 The discrimination provision does not prohibit actuarially justified underwriting distinctions — an insurer can charge different premiums for different risk classifications, provided those classifications are filed with and approved by the Commissioner under the rate regulation statutes. What is prohibited is arbitrary or prejudicial discrimination that cannot be justified by legitimate underwriting factors.
 
-### Unfair Claims Settlement Practices: N.J.S.A. 17:29B-4(9) and N.J.S.A. 17B:30-13.1
+## Unfair Claims Settlement Practices: N.J.S.A. 17:29B-4(9) and N.J.S.A. 17B:30-13.1
 
 New Jersey has parallel unfair claims settlement provisions — one in Title 17 (governing P&C) and one in Title 17B (governing life and health). The provisions are substantially similar and prohibit, as a general business practice:
 
@@ -83,11 +83,11 @@ The "general business practice" standard is significant: a single isolated insta
 
 The New Jersey Insurance Fair Conduct Act (IFCA), enacted in 2022, created a private right of action for UM/UIM claimants for unreasonable delay or denial of claims — previously, NJ courts had not recognized a private right of action under the UTPA. The IFCA significantly expanded insurer exposure for claims handling violations in the UM/UIM context.
 
-### Defamation: N.J.S.A. 17:29B-4(3)
+## Defamation: N.J.S.A. 17:29B-4(3)
 
 Producers and insurers are prohibited from making, publishing, or disseminating any statement that is false, maliciously critical, or derogatory of the financial condition of any insurer, if made with the intent of injuring that insurer. Competitive marketing that honestly compares products is not prohibited — targeted false statements about a competitor's financial solvency or claims-paying ability are.
 
-### DOBI Enforcement
+## DOBI Enforcement
 
 The Commissioner has broad enforcement authority under the UTPA. After investigation and hearing, the Commissioner may:
 
@@ -99,7 +99,7 @@ Order restitution to affected consumers
 
 Refer criminal matters to the OIFP
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the $10 threshold rule for producer inducements in New Jersey?
 

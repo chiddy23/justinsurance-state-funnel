@@ -15,7 +15,7 @@ imageAlt: How to Build a Study Plan for the Virginia Insurance Exam Without a Ma
 
 Virginia's no-[prelicensing](/virginia/prelicensing) requirement puts every candidate in the same position: you are responsible for your own preparation, and the structure of that preparation is entirely up to you. This is either an advantage or a liability depending on how you approach it. Candidates who build a deliberate, timeline-driven study plan pass at significantly higher rates than those who study randomly or review casually and hope for the best. This post gives you a working study plan framework — covering what to study, in what sequence, how to measure readiness, and how to calibrate your schedule to the Virginia exam's specific structure.
 
-### Understand the Exam Before You Study
+## Understand the Exam Before You Study
 
 Before you open any study material, understand exactly what you are preparing for. Virginia's licensing exams test two distinct types of content:
 
@@ -27,15 +27,15 @@ Your study plan must cover both. Candidates who under-prepare the state law sect
 
 Your first action: Download the Prometric content outline for your specific exam series at prometric.com/virginia/insurance. This document lists every topic tested by section and percentage weight. It is the authoritative study guide — everything on the outline is fair game, nothing off it will appear.
 
-### How Much Time Do You Need?
+## How Much Time Do You Need?
 
 The honest answer depends on your background. Use this as a starting estimate:
 
 These are minimums for candidates who study consistently and actively — not the hours you sit near study materials while distracted. Adjust based on your [practice exam](/virginia/practice-exam) scores.
 
-### A 4-Week Study Framework (Adaptable to Your Timeline)
+## A 4-Week Study Framework (Adaptable to Your Timeline)
 
-#### Week 1: National Content Foundation
+### Week 1: National Content Foundation
 
 Focus entirely on national/general insurance content. Work through the full content outline section by section:
 
@@ -45,7 +45,7 @@ For L/A/H candidates: Types of life policies, policy riders and provisions, appl
 
 End of week 1 benchmark: Take a full-length timed national-content practice exam. Target score: 70%+. If you are below 65%, extend Week 1 before moving to Week 2.
 
-#### Week 2: Virginia State Law Deep Dive
+### Week 2: Virginia State Law Deep Dive
 
 Shift entirely to Virginia-specific content. Work through:
 
@@ -65,7 +65,7 @@ Virginia workers' compensation: employer obligations, no-fault framework, Bureau
 
 End of week 2 benchmark: Take a full-length Virginia state law practice exam or work through state-specific practice questions. Target score: 70%+.
 
-#### Week 3: Integration and Weak-Area Targeting
+### Week 3: Integration and Weak-Area Targeting
 
 Review your practice exam diagnostics from weeks 1 and 2. Identify the specific content areas where you scored below 70% and target those specifically. Do not re-study areas where you are already strong.
 
@@ -73,19 +73,19 @@ Take two full-length integrated practice exams — covering both national and st
 
 End of week 3 benchmark: Consistently scoring 75%+ on both sections on practice exams. If you are not there, extend week 3 before proceeding.
 
-#### Week 4: Refinement and Final Preparation
+### Week 4: Refinement and Final Preparation
 
 Continue targeted weak-area review. Reduce new content study and increase practice exam repetition. Your final 3–5 days should primarily be practice exams and review of diagnostic reports.
 
 Do not schedule the real exam until your practice scores are consistently at 75% or above on both sections. The cost of scheduling too early is $35 per retake plus the 30-day wait if you hit three failures.
 
-### Measuring Readiness
+## Measuring Readiness
 
 The only reliable readiness signal is practice exam performance. Use these benchmarks:
 
 "Consistently" means across at least 3 separate full-length practice exams, not one good day. A single 78% followed by a 64% means you are not consistently ready.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How is studying for the Virginia insurance exam different from studying for a state that requires a prelicensing course?
 

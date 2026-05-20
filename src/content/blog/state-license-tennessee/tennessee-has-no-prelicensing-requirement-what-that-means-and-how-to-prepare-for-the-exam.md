@@ -18,7 +18,7 @@ That freedom is genuinely valuable — it means faster access to the exam for ca
 
 This post covers exactly what no prelicensing requirement means in practice, why the exam is harder than the absence of a requirement suggests, what the best preparation approach looks like for different types of candidates, and how to build a study plan that reaches exam day with genuine confidence rather than hope.
 
-### What "No Prelicensing Requirement" Actually Means
+## What "No Prelicensing Requirement" Actually Means
 
 The Tennessee prelicensing elimination means one specific thing: the TDCI does not require you to present a course completion certificate or document a minimum number of study hours as a condition of scheduling or sitting for the Pearson VUE insurance licensing exam. That is the entire scope of what changed in March 2023.
 
@@ -32,11 +32,11 @@ It does not mean that prep courses are not useful. Prep courses remain the most 
 
 What changed operationally: Before March 2023, Tennessee candidates had to complete a state-approved prelicensing course, obtain a completion certificate, and present that certificate as a condition of exam scheduling. Candidates who wanted to study on their own without a formal course could not simply schedule the exam — they had to complete the mandated course first. The 2023 change removed that gate entirely. Every candidate now controls their own preparation timeline and method.
 
-### Why the Tennessee Exam Is Harder Than It Looks
+## Why the Tennessee Exam Is Harder Than It Looks
 
 The absence of mandatory prelicensing creates a perception gap that is worth understanding before you commit to your preparation approach. Because you do not have to complete a course, it can feel like the exam is designed for candidates who have not done formal coursework — like it might be approachable without structured preparation. That perception is not accurate.
 
-#### The Exam Tests Two Distinct Knowledge Domains
+### The Exam Tests Two Distinct Knowledge Domains
 
 Every Tennessee insurance licensing exam has two sections that test fundamentally different types of knowledge:
 
@@ -46,13 +46,13 @@ The Tennessee state law section tests specific knowledge of Tennessee's insuranc
 
 The state law section is where most unprepared candidates fail. A candidate who reads general insurance textbooks or takes a nationally-focused insurance course without Tennessee-specific state law content will find the state law section difficult regardless of how well they understand the general insurance concepts. The Tennessee exam tests whether you know Tennessee law — not whether you understand insurance in the abstract.
 
-#### The Pretest Question Complication
+### The Pretest Question Complication
 
 Nine of the 77 questions on each Tennessee exam are unscored pretest questions. These are new questions being evaluated for future exam versions. You cannot identify them during the exam — they appear identical to scored questions. You must treat every question as though it is scored.
 
 The practical implication: you need to answer 48 of 68 scored questions correctly to pass at 70%. But because you do not know which 9 questions are pretest, you cannot bank on uncertain questions being pretest. The margin for error is narrower than it appears — candidates who approach the exam expecting to survive on partial knowledge discover that the combination of unfamiliar state law questions and the pretest uncertainty leaves them below 70% on scored questions.
 
-#### The Pearson VUE Platform Is Different From PSI
+### The Pearson VUE Platform Is Different From PSI
 
 Most insurance exam prep resources in the country are calibrated to PSI, which administers exams in the majority of states. Tennessee uses Pearson VUE. The differences matter in practice:
 
@@ -62,11 +62,11 @@ Question style: Pearson VUE and PSI exam questions have distinct stylistic chara
 
 Practical recommendation: Confirm that any prep course or practice exam bank you use is specifically designed for Pearson VUE and Tennessee before purchasing. The best Tennessee-specific prep resources are built around Pearson VUE's actual format.
 
-### Who Needs a Prep Course and Who Might Not
+## Who Needs a Prep Course and Who Might Not
 
 The honest answer to "do I need a prep course?" depends on your starting knowledge base and your tolerance for the cost of failure.
 
-#### Candidates Who Can Reasonably Consider Skipping a Formal Course
+### Candidates Who Can Reasonably Consider Skipping a Formal Course
 
 A very small population of candidates genuinely has the background to pass the Tennessee exam without a structured prep course:
 
@@ -78,7 +78,7 @@ Candidates with formal insurance education: Someone with a college degree in ris
 
 For these candidates, the approach is: use a Tennessee-specific study guide or state law supplement, take multiple full-length Pearson VUE-formatted practice exams, and focus deliberate study time on the state law section. If practice exam scores are consistently above 80%, the exam can likely be approached with confidence.
 
-#### Candidates Who Need a Structured Prep Course
+### Candidates Who Need a Structured Prep Course
 
 The majority of candidates — particularly those new to insurance — should complete a structured prep course for the following reasons:
 
@@ -90,9 +90,9 @@ Time efficiency: A structured course sequences the material correctly, identifie
 
 The retake cost calculus: A prep course for Tennessee costs approximately $100–$350 depending on provider and tier. A failed exam attempt costs $59 plus the time delay before retaking. For a candidate who might otherwise require two or three attempts to pass, the prep course is the economically rational choice even ignoring the study efficiency it provides.
 
-### Building Your Preparation Plan: Four Approaches
+## Building Your Preparation Plan: Four Approaches
 
-#### Approach 1: Full Structured Prep Course (Recommended for Most Candidates)
+### Approach 1: Full Structured Prep Course (Recommended for Most Candidates)
 
 Best for: New entrants to insurance, candidates with no prior insurance exposure, candidates who want the highest first-time pass probability.
 
@@ -128,7 +128,7 @@ Take one final practice exam the day before your scheduled exam — under full t
 
 The 80% practice exam threshold provides margin for the exam day conditions — mild stress, unfamiliar questions, and the pretest uncertainty — that can reduce performance below practice levels. A candidate who is consistently hitting 85–90% on practice exams is well-positioned to clear the 70% pass threshold on the actual exam.
 
-#### Approach 2: State Law Supplement for Experienced Professionals
+### Approach 2: State Law Supplement for Experienced Professionals
 
 Best for: Currently licensed producers from other states, CPCU/CLU/ChFC holders, insurance industry professionals with substantial product knowledge.
 
@@ -162,7 +162,7 @@ Tennessee's reciprocity limitations — full reciprocity with only California, L
 
 Estimated study time: 10–20 hours focused on state law content, plus practice exams.
 
-#### Approach 3: Accelerated Self-Study for Career Changers With Adjacent Knowledge
+### Approach 3: Accelerated Self-Study for Career Changers With Adjacent Knowledge
 
 Best for: Former insurance company employees, financial advisors, real estate agents, or other professionals whose prior work has given them exposure to insurance concepts without formal insurance study.
 
@@ -170,7 +170,7 @@ What this looks like: Use a complete prep course but move through the familiar g
 
 Key risk to manage: Candidates with adjacent knowledge often overestimate how much of the exam their background knowledge covers. The gap between knowing that homeowners insurance exists and knowing how a homeowners policy is structured — replacement cost vs. ACV, coverage sections A through F, the standard exclusions, how the coinsurance provision works — is often larger than it appears. Use practice exam performance, not self-assessment, to gauge readiness.
 
-#### Approach 4: Intensive Exam Boot Camp for Time-Constrained Candidates
+### Approach 4: Intensive Exam Boot Camp for Time-Constrained Candidates
 
 Best for: Candidates who need to get licensed quickly — within one to two weeks — due to employment start dates, career transitions, or other timing pressures.
 
@@ -178,7 +178,7 @@ What this looks like: Use a structured prep course on an intensive daily schedul
 
 The risk: Intensity compresses the timeline but does not substitute for the distributed practice that builds retention. A candidate who crammed for 7 days and achieved 85% on their final practice exam may find that the 72-hour gap between finishing preparation and exam day — filled with fingerprinting appointments, NIPR logistics, and life — reduces performance slightly. Add buffer days between finishing preparation and exam day if at all possible. A 10–14 day intensive schedule is more reliable than a 7-day sprint.
 
-### The Day Before and Day of the Exam
+## The Day Before and Day of the Exam
 
 The day before:
 
@@ -226,7 +226,7 @@ Manage your time — 77 questions in 105 minutes gives you approximately 1 minut
 
 Trust your preparation — second-guessing correct first instincts is one of the most common causes of exam errors
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am planning to skip the prep course since it is not required. What is the minimum study time I should commit to before scheduling my exam?
 

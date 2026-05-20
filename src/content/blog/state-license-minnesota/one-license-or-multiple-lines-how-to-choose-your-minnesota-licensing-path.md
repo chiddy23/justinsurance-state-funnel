@@ -16,21 +16,21 @@ The most consequential decision a new Minnesota insurance producer makes is not 
 
 This post explains what each Minnesota line of authority covers, how the lines interact with each other, which combinations match which career paths, and how to think through the decision based on where you are starting and where you intend to go.
 
-### Understanding What a Line of Authority Actually Is
+## Understanding What a Line of Authority Actually Is
 
 A Minnesota producer license is not a single authorization to sell all insurance. It is a collection of specific permissions — lines of authority — each of which authorizes the producer to sell, solicit, and negotiate a defined category of insurance products. Selling outside your licensed lines of authority is an unlicensed activity violation under Minn. Stat. §60K.31, regardless of whether you meant to exceed your authority and regardless of whether the client was harmed.
 
 Each line of authority requires its own 20 hours of prelicensing education, its own PSI exam, and a $50 application fee. Adding lines after initial licensure requires completing the same prelicensing and exam process — there is no shortcut for adding authority based on holding an existing license in another line. The decision about which lines to pursue is therefore not just a philosophical one — it is a practical and financial one that affects both your initial investment and your ongoing authorization to serve clients.
 
-### The Minnesota Lines of Authority: What Each Actually Covers
+## The Minnesota Lines of Authority: What Each Actually Covers
 
-#### Property
+### Property
 
 Property authority authorizes the producer to sell insurance protecting against loss of or damage to physical property. In practice, this means homeowners insurance, dwelling policies, commercial property, inland marine, farm property, and related coverages. Property authority alone does not include liability coverage — a homeowners policy's liability section is a casualty coverage. A producer holding only Property authority who writes a homeowners policy is technically not authorized to transact the liability portion of that policy without also holding Casualty authority.
 
 What Property does not cover: Auto liability, general liability, workers' compensation, professional liability, umbrella. Anything involving liability for harm to others or their property is Casualty, not Property.
 
-#### Casualty
+### Casualty
 
 Casualty authority authorizes the producer to sell insurance protecting against legal liability — the risk of being found responsible for injury to others or damage to their property. This includes personal auto liability, commercial general liability, workers' compensation, commercial auto, umbrella, professional liability, employment practices liability, and directors and officers liability.
 
@@ -38,7 +38,7 @@ What Casualty does not cover: Physical damage to the insured's own property. A c
 
 The practical reason most producers need both: The vast majority of insurance products that producers write are not pure property or pure casualty — they are combined packages. Homeowners policies bundle property coverage and liability coverage. Personal auto policies bundle physical damage and liability. Commercial package policies bundle property and liability. A producer holding only one of the two lines is technically limited in what they can write from the combined products that dominate the market. This is the central reason most producers obtain Property and Casualty together.
 
-#### Personal Lines
+### Personal Lines
 
 Personal Lines is a limited combination of Property and Casualty authority that is restricted specifically to personal, family, and household risks. A Personal Lines license authorizes the producer to sell personal auto, homeowners, renters, and personal umbrella policies — but only for non-commercial clients.
 
@@ -46,7 +46,7 @@ The critical limitation: Personal Lines authority does not extend to commercial 
 
 Personal Lines vs. Property and Casualty: A producer who holds separate Property and Casualty lines can serve both personal and commercial clients — the authority is not restricted to household risks. A producer who holds only Personal Lines can serve personal clients only. The exam for Personal Lines is a single exam covering both property and casualty principles applied to personal risks, making it slightly less demanding than taking two separate exams for full Property and Casualty authority. This makes Personal Lines a tempting entry point — but the commercial restriction means producers who anticipate any commercial business should obtain full Property and Casualty authority instead.
 
-#### Life
+### Life
 
 Life authority authorizes the producer to sell life insurance products — term life, whole life, universal life, indexed universal life, group life, and related contracts that provide a benefit upon death or survival. It also covers fixed annuities, which are insurance products rather than securities.
 
@@ -54,7 +54,7 @@ What Life does not cover: Health insurance, disability income, long-term care, M
 
 Life and variable products: Life authority does not include variable life insurance or variable annuities — products whose benefits fluctuate based on investment performance in a separate account. Variable products require a separate Variable Life and Variable Annuities line of authority AND a FINRA securities registration (Series 6 or Series 7). A producer who holds Life authority but not Variable authority and not a FINRA registration cannot legally sell variable products.
 
-#### Accident and Health
+### Accident and Health
 
 Accident and Health (A&H) authority authorizes the producer to sell coverage for sickness, bodily injury, or accidental death. In practice this means individual and group health insurance, disability income policies, long-term care insurance, Medicare supplement (Medigap) policies, dental and vision coverage, and accident-specific policies.
 
@@ -62,7 +62,7 @@ What A&H does not cover: Life insurance. A producer holding only A&H can sell he
 
 The overlap between Life and A&H clients: The clients who need life insurance are frequently the same people who need health insurance, disability income protection, and long-term care coverage. A producer serving a family's financial protection needs in any meaningful way needs both Life and A&H — selling only one without the other means constantly referring the client elsewhere for the other half of their needs, which creates relationship risk and lost commission.
 
-#### Variable Life and Variable Annuities
+### Variable Life and Variable Annuities
 
 Variable authority authorizes the producer to sell insurance products with investment components — variable universal life, variable annuities. These products are regulated as both insurance and securities, which is why this line requires both a Minnesota Department of Commerce insurance license and FINRA registration.
 
@@ -70,13 +70,13 @@ The dual-registration requirement: The insurance license grants authority under 
 
 Who needs this line: Producers who work at financial services firms, banks, broker-dealers, or wealth management operations where variable annuities and variable life insurance are part of the product portfolio. Most personal lines and commercial lines producers do not need Variable authority.
 
-#### Farm Property and Farm Liability
+### Farm Property and Farm Liability
 
 This limited line covers agricultural property and liability risks specific to farming operations. It is the only major line that does not require prelicensing education before the exam — a meaningful practical distinction for applicants with existing agricultural industry background who want to enter the farm insurance market quickly.
 
-### The Most Common Licensing Paths and Who They Fit
+## The Most Common Licensing Paths and Who They Fit
 
-#### Path 1: Property and Casualty (P&C)
+### Path 1: Property and Casualty (P&C)
 
 Who this fits: The overwhelming majority of producers entering the property and casualty market — independent agents, captive agency producers, commercial lines producers, and personal lines producers who want the ability to serve both personal and commercial clients.
 
@@ -86,7 +86,7 @@ What you can sell with P&C: Personal auto, homeowners, renters, personal umbrell
 
 What you cannot sell with P&C: Life insurance, health insurance, disability income, long-term care, Medicare supplement, annuities. If a P&C client asks about life insurance, a P&C-only producer must refer them to a life and health producer.
 
-#### Path 2: Life and Accident and Health (Life & A&H)
+### Path 2: Life and Accident and Health (Life & A&H)
 
 Who this fits: Producers entering the life and health market — individual life and health producers, Medicare supplement specialists, employee benefits producers, financial planners who sell insurance products, and independent producers serving families and individuals.
 
@@ -96,7 +96,7 @@ What you can sell with Life and A&H: Term life, whole life, universal life, inde
 
 What you cannot sell with Life and A&H: Property insurance, casualty insurance, auto insurance, commercial lines. If a life and health client asks about homeowners insurance, a Life and A&H-only producer must refer them to a P&C producer.
 
-#### Path 3: All Four Major Lines (P&C + Life & A&H)
+### Path 3: All Four Major Lines (P&C + Life & A&H)
 
 Who this fits: Independent producers who want to serve all of a client's insurance needs — personal lines, commercial lines, life, and health — from a single relationship. Agency owners who want to bring all product lines in-house. Producers building comprehensive financial protection practices.
 
@@ -106,7 +106,7 @@ The investment: Four lines of prelicensing (typically $250–$400 for all four o
 
 The timing consideration: A producer who knows they want all four lines can complete them all simultaneously — taking all four prelicensing courses concurrently or in rapid sequence, sitting for both combined exams within a short period, and submitting a single application for all four lines. This approach requires more intensive upfront study but produces full authorization faster than sequential licensing.
 
-#### Path 4: Personal Lines Only
+### Path 4: Personal Lines Only
 
 Who this fits: Producers who are certain they will serve only personal auto and homeowners clients and who have no intention of writing commercial accounts. This is a reasonable starting point for producers entering the market through a captive personal lines agency where the agency handles commercial lines separately.
 
@@ -114,13 +114,13 @@ The limitation: Personal Lines authority cannot grow with a client's commercial 
 
 When Personal Lines makes sense vs. when it doesn't: Personal Lines makes sense when the producer's distribution channel is specifically limited to personal risks — for example, a captive personal lines agency that has separate commercial lines producers. It does not make sense for an independent producer building their own book, because the commercial restriction will eventually limit growth.
 
-#### Path 5: Health Only or Life Only
+### Path 5: Health Only or Life Only
 
 Who this fits: Producers with a specific, narrow focus — for example, a producer who wants to sell only Medicare supplement and Medicare Advantage (A&H only) or a producer who wants to sell only corporate-owned life insurance (Life only). These single-line licenses are the most restrictive and are appropriate only when the producer's distribution channel is genuinely confined to that single product category.
 
 The referral dependency: A producer holding only A&H who encounters a client who also needs life insurance must refer the life insurance sale to another producer. For a producer building an individual book of business, every referral is a lost commission and a relationship that now involves a third party. Most producers who start with a single line add the complementary line within their first renewal cycle.
 
-### Factors to Consider When Choosing Your Path
+## Factors to Consider When Choosing Your Path
 
 Your distribution channel: What agency or carrier are you joining, and what products do they sell? A captive personal lines agency may provide all the commercial insurance through a separate entity — in which case, P&C gives you more authority than you need for that specific role. An independent agency that sells across all lines needs producers with full authorization.
 
@@ -132,7 +132,7 @@ The cost of adding lines later: Prelicensing for an additional line costs $75–
 
 The study burden: Four lines of prelicensing at 20 hours each requires 80 hours of coursework plus two PSI exams. For a producer entering the market quickly — needing to be licensed and generating income as soon as possible — spreading the study load over time may be preferable to a comprehensive upfront commitment. There is no prohibition on getting licensed for P&C now and adding Life and A&H six months later.
 
-### A Decision Framework
+## A Decision Framework
 
 Answer these four questions before enrolling in any prelicensing course:
 
@@ -144,7 +144,7 @@ Answer these four questions before enrolling in any prelicensing course:
 
 4. Will I ever sell life insurance or health insurance to the same clients I sell P&C to? If yes — which is true for virtually any producer building a comprehensive individual or family book — eventually getting all four major lines is the right answer. The question is only whether to do it now or later.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I'm joining a State Farm agency. State Farm is a captive carrier. Do I need more than Personal Lines authority?
 

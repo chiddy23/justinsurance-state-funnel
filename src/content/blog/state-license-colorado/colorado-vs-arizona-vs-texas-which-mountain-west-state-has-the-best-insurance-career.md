@@ -14,7 +14,7 @@ imageAlt: "Colorado vs. Arizona vs. Texas: Which Mountain West State Has the Bes
 
 The three most prominent Western growth states for insurance careers — Colorado, Arizona, and Texas — are not equally good markets, and they are not equally good fits for every producer. Each has a distinct insurance market structure, a distinct economic driver, a distinct regulatory environment, and a distinct relationship between average producer income and cost of living. This post gives producers who are choosing where to build their career — or considering reciprocal licensing into neighboring states to expand their book — an honest, data-driven comparison across the dimensions that matter most: market size, growth trajectory, catastrophe environment, regulatory structure, salary benchmarks, and the specific opportunities that each state's economy generates for producers at different stages of their career.
 
-### Market Size: Setting the Scale
+## Market Size: Setting the Scale
 
 The most basic comparison is market scale — the total volume of premium written in each state, which determines how much commission revenue exists for producers to compete for.
 
@@ -26,17 +26,17 @@ Arizona: Arizona's P&C market sits between Colorado and Texas in absolute scale,
 
 The scale implication for producers: Market size alone is not the right decision criterion. Texas's scale comes with proportionally more producers and agencies competing for it — the competition density in Houston and Dallas is substantially higher than the competition density in Denver or Phoenix. A larger market does not necessarily translate to better individual producer outcomes if the producer-to-opportunity ratio is similar across states.
 
-### The Catastrophe Environment: Shared Problems, Different Character
+## The Catastrophe Environment: Shared Problems, Different Character
 
 All three states face significant property insurance market stress from natural catastrophe exposure — but the perils differ in character and the market response differs in severity.
 
-#### Colorado's Catastrophe Profile
+### Colorado's Catastrophe Profile
 
 Colorado's primary catastrophic perils are hail and wildfire. Hail-related claims drive 55–70% of homeowners insurance costs statewide, placing Colorado second among all states in average annual hail losses at $151 million per year. Colorado's total homeowner premium has nearly tripled since 2014, with some mountain and foothill ZIP codes reporting average premiums well above $7,500 per year. Colorado's FAIR Plan only began accepting residential applications in April 2025, meaning the insurer-of-last-resort backstop is newly operational rather than established.
 
 The Colorado hard market creates genuine producer opportunity through coverage placement complexity — nonrenewal navigation, E&S market placement, and coverage adequacy conversations that require producer expertise. The hard market also creates earnings compression risk: a producer who cannot place coverage for clients facing nonrenewals loses those accounts, and the time spent on difficult placements generates no additional commission.
 
-#### Arizona's Catastrophe Profile
+### Arizona's Catastrophe Profile
 
 Arizona's wildfire exposure represents the most significant threat to market stability. Insurance companies are raising rates and dropping coverage as wildfire risk rises. High-risk areas including Flagstaff, Prescott, Sedona, and other northern forested regions face particular scrutiny from carriers. State Farm suspended new policy applications. Some homeowners report being rejected by 22 insurance companies before finding affordable coverage. More than 15% of Maricopa County properties face risk of higher insurance prices or canceled policies because of wildfire risk. Fireadaptedco
 
@@ -44,7 +44,7 @@ Arizona also faces extreme summer heat (exceeding 110°F in Phoenix in recent ye
 
 For producers, Arizona's catastrophe environment is creating Colorado-like placement challenges in the wildfire-exposed northern third of the state — while Phoenix and Tucson retain a somewhat more functional admitted market for properties that are not directly wildfire-exposed.
 
-#### Texas's Catastrophe Profile
+### Texas's Catastrophe Profile
 
 Texas is the most catastrophe-complex of the three states. Concentration risk in Texas has been evident in recent events like Hurricane Harvey in 2017 and Hurricane Beryl in 2024, as well as severe convective storms. Rapid population growth in metropolitan areas like Houston, Dallas, San Antonio, and Austin has led to commensurate increases in population density, opening the state to more homeowners and auto insurance challenges because higher population density means more homes, people, and cars at risk during weather events. Frontierrisk
 
@@ -52,29 +52,29 @@ Texas faces hurricanes and tropical weather along the Gulf Coast (affecting Hous
 
 For producers, Texas's catastrophe environment creates the same placement complexity challenges as Colorado but at much larger scale and with the additional complexity of windstorm-exposed Gulf Coast accounts that require Texas Windstorm Insurance Association (TWIA) placement rather than standard admitted market coverage.
 
-### Licensing and Regulatory Framework: Complexity Compared
+## Licensing and Regulatory Framework: Complexity Compared
 
 The three states have distinct licensing requirements that affect how quickly a producer can enter the market and what ongoing compliance obligations exist.
 
-#### Colorado Licensing
+### Colorado Licensing
 
 Colorado requires 50 hours of [prelicensing](/colorado/prelicensing) education per line of authority (Property, Casualty, Life, A&H), with a combined 90 hours for Life and A&H together. The exam is administered by Pearson VUE. Application fee is $47 per line plus $5.60 NIPR processing fee. CE is 24 hours biennial. The regulatory framework under DORA is well-organized, and the Colorado DOI's enforcement record is transparent and publicly accessible.
 
 Colorado's licensing framework is moderately demanding — the 50-hour prelicensing requirement is not the most burdensome in the Mountain West (Utah requires 40 hours; New Mexico 20 hours) but is not minimal. The comprehensive coverage of Colorado-specific law in the exam content makes genuine state-specific knowledge a meaningful component of licensing rather than a formality.
 
-#### Arizona Licensing
+### Arizona Licensing
 
 Arizona requires 20 hours of prelicensing education for P&C and 40 hours for Life and A&H (combined lines require 40 hours). The exam is administered by Pearson VUE. CE is 24 hours biennial for most lines. Arizona's regulatory structure under the Arizona Department of Insurance and Financial Institutions (DIFI) is straightforward and producer-friendly.
 
 The lower prelicensing hour requirement makes Arizona one of the more accessible states for new producer entry — less time and cost to get licensed, lower barrier to market participation. The tradeoff is a licensing process that requires less state-specific knowledge investment, which means producers entering the Arizona market with limited insurance background have less foundational preparation than Colorado's 50-hour requirement provides.
 
-#### Texas Licensing
+### Texas Licensing
 
 Texas requires 40 hours of prelicensing education for each major license type (P&C and L&H). The exam is administered by Pearson VUE. CE is 24 hours biennial, with specific Texas-required topics. Texas has one of the more complex regulatory environments of the three states — the Texas Department of Insurance (TDI) publishes detailed market conditions reports and enforces state-specific compliance obligations including Texas-specific policy forms, the Texas Windstorm Insurance Association (TWIA) for coastal coverage, and the Texas Fair Plan Association for high-risk properties.
 
 Texas's complexity is both a challenge and an opportunity for producers. The learning curve for Texas-specific market knowledge — TWIA eligibility and application, Texas homeowners policy form differences, Texas workers' compensation opt-out provisions, Texas surplus lines requirements — is steeper than Colorado's or Arizona's. Producers who invest in that knowledge develop competitive advantages over generalists.
 
-### Salary Benchmarks: Base Compensation Compared
+## Salary Benchmarks: Base Compensation Compared
 
 Salary.com's January 2026 benchmarks for the base compensation component of insurance agent income show the three states closely clustered but with Colorado leading:
 
@@ -88,7 +88,7 @@ Arizona: Arizona's ZipRecruiter data shows licensed insurance agents averaging $
 
 The cost-of-living adjustment: The salary differential between states is partially offset by cost-of-living differences. Colorado's cost of living — particularly housing in the Denver metro — is 15–20% above the national average. Texas's major metros are more affordable: Houston and San Antonio remain significantly below the national average cost of living; Dallas and Austin have converged closer to national norms but remain below Denver's cost. Phoenix is experiencing rapid cost-of-living increases as population growth drives housing costs upward, narrowing the gap with Denver in recent years. A producer earning $80,000 in Colorado Springs lives comparably to a producer earning $75,000 in Dallas or $65,000 in Houston — the cost-of-living context matters for evaluating total quality of life, not just nominal income.
 
-### Economic Diversity and Commercial Lines Opportunity
+## Economic Diversity and Commercial Lines Opportunity
 
 The strongest predictor of commercial lines producer income potential is the economic diversity of the state's largest markets — how many distinct industries generate commercial insurance need, and how large and complex are the accounts those industries produce.
 
@@ -98,13 +98,13 @@ Texas's commercial scale: Texas is home to four of the top 12 largest U.S. citie
 
 Arizona's commercial foundation: Arizona's economy has grown significantly around technology (the "Silicon Desert" designation reflects a growing semiconductor and technology manufacturing presence), healthcare, financial services, real estate development, and a substantial tourism and hospitality economy. The Phoenix metro's rapid growth has created a large small-to-mid-market commercial account base. Arizona lacks the energy sector concentration that makes Houston unique and the defense sector concentration that makes Colorado Springs distinctive, but its overall commercial market is competitive and growing.
 
-### Workforce Dynamics: The Aging Producer Opportunity
+## Workforce Dynamics: The Aging Producer Opportunity
 
 All three states — along with the broader U.S. insurance industry — face the same structural demographic challenge: the producer workforce is aging. The average age of an employed insurance agent is 45 years old. Sixty-six percent of insurance agents are 40 or older. More than 90% of new agents quit the business within the first year, and the rate increases to greater than 95% when extended to five years. This attrition rate combined with aging producer demographics creates genuine succession opportunity in every state — retiring producers need successors to acquire their books, and clients of retiring producers need new producers to serve them. Ogcannabisinsurance
 
 The succession opportunity is most concentrated in rural markets and smaller metros — communities where the local independent agent is often a community institution — rather than in major metro areas where large agencies absorb retiring producers' books internally. In Colorado, this succession opportunity concentrates in eastern plains agricultural communities, Western Slope rural markets, and mountain resort communities. In Texas, rural west Texas, the Rio Grande Valley, and small-city markets in the panhandle and eastern regions offer similar succession dynamics. In Arizona, rural communities outside Phoenix and Tucson face similar demographics.
 
-### The Head-to-Head Verdict: Which State Fits Which Producer
+## The Head-to-Head Verdict: Which State Fits Which Producer
 
 Rather than declaring a single winner — which would misrepresent the genuine complexity of this comparison — the most useful analysis matches producer profiles to state markets:
 
@@ -114,7 +114,7 @@ Colorado wins on income-per-producer opportunity, regulatory clarity, and market
 
 Arizona wins on entry accessibility and growth trajectory. Arizona's lower prelicensing requirement and growing population create an accessible market for producers entering insurance from adjacent careers. Phoenix's rapid population growth — sustained over 15+ years — creates consistent personal lines demand. Arizona's hardening property market is creating Colorado-like placement complexity that early-adopter producers with E&S expertise can monetize. The salary gap between Arizona and Colorado at the base level may narrow as Arizona's premium levels increase under hard market pressure.
 
-### Reciprocal Licensing: Serving All Three Markets
+## Reciprocal Licensing: Serving All Three Markets
 
 Colorado, Arizona, and Texas all participate in the NAIC's producer licensing reciprocity framework, meaning a producer licensed in Colorado can obtain a non-resident license in Arizona and Texas (and vice versa) without completing additional prelicensing education — only an application, fee, and background check are required.
 
@@ -122,7 +122,7 @@ For Colorado-based producers who have built a book in Colorado, non-resident lic
 
 Producers building practices in any of the three states should evaluate non-resident licensing in the other two as their commercial book grows and as client relationships expand across state lines.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I am starting fresh with no existing network, which of the three states gives me the best chance of reaching six-figure income within five years?
 

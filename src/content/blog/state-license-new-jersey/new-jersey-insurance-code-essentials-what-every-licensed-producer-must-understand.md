@@ -14,7 +14,7 @@ imageAlt: "New Jersey Insurance Code Essentials: What Every Licensed Producer Mu
 
 New Jersey's insurance regulatory framework sits across two primary titles of the New Jersey Revised Statutes — Title 17 and Title 17B — administered by one of the most active state insurance regulators in the country. The New Jersey Department of Banking and Insurance, headed by the Commissioner of Banking and Insurance, holds broad authority over every licensed producer, every insurer, and every insurance transaction that occurs within state borders. Understanding the architecture of that framework is not optional for producers who want to avoid regulatory action — it is the foundation on which all NJ-specific exam content and producer compliance knowledge rests.
 
-### The Two-Title Structure of NJ Insurance Law
+## The Two-Title Structure of NJ Insurance Law
 
 New Jersey's insurance statutes are divided across two titles:
 
@@ -24,7 +24,7 @@ Title 17B — Insurance governs life insurance, accident and health insurance, a
 
 The administrative rules that implement these statutes are found in Title 11 of the New Jersey Administrative Code (N.J.A.C.), which contains DOBI's regulations governing producer licensing (N.J.A.C. 11:17 et seq.), producer standards of conduct (N.J.A.C. 11:17A through 11:17D), and CE requirements (N.J.A.C. 11:17-3.6).
 
-### The Department of Banking and Insurance
+## The Department of Banking and Insurance
 
 DOBI is the state agency responsible for regulating insurance in New Jersey. Its Division of Insurance performs the following core functions:
 
@@ -40,7 +40,7 @@ Investigates producer misconduct and refers criminal matters to the Office of th
 
 DOBI's headquarters is at 20 West State Street, P.O. Box 325, Trenton, NJ 08625. The main licensing line is (609) 292-4337.
 
-### The Commissioner's Authority
+## The Commissioner's Authority
 
 The Commissioner of Banking and Insurance is DOBI's chief regulator and holds sweeping authority over insurance in New Jersey. Key powers producers must understand:
 
@@ -54,7 +54,7 @@ Retained jurisdiction: Under N.J.S.A. 17:22A-40(d), the Commissioner retains aut
 
 Cease-and-desist authority: The Commissioner may issue cease-and-desist orders against producers or insurers engaging in prohibited conduct, independent of the formal hearing process.
 
-### The Producer Licensing Act: N.J.S.A. 17:22A
+## The Producer Licensing Act: N.J.S.A. 17:22A
 
 The New Jersey Insurance Producer Licensing Act of 2001 (P.L.2001, c.210) is the primary statute governing who must be licensed, how licenses are obtained and maintained, and what conduct can result in disciplinary action. Key provisions producers must know:
 
@@ -68,7 +68,7 @@ Commission prohibition: An insurer or producer may not pay a commission to an un
 
 Grounds for disciplinary action: N.J.S.A. 17:22A-40(a) enumerates 19 specific grounds for probation, suspension, revocation, or refusal to issue or renew a license. These include violating any insurance law or regulation, misappropriating premiums, forging documents, using fraudulent practices, demonstrating incompetence, having a license revoked in another state, and failing to notify the Commissioner within 30 days of a criminal prosecution or disciplinary action.
 
-### The Administrative Code: N.J.A.C. 11:17
+## The Administrative Code: N.J.A.C. 11:17
 
 The NJ Administrative Code implements the Producer Licensing Act through detailed regulations governing:
 
@@ -82,7 +82,7 @@ Rebate and inducement prohibitions — no producer may offer an inducement to pu
 
 Business name requirements — a producer may not conduct insurance business under any name other than their legal name unless that name has been filed with DOBI
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the difference between Title 17 and Title 17B of the New Jersey Revised Statutes?
 

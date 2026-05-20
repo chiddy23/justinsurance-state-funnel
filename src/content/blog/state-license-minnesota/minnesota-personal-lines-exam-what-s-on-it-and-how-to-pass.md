@@ -14,7 +14,7 @@ imageAlt: "Minnesota Personal Lines Exam: What's on It and How to Pass"
 
 The Minnesota Personal Lines insurance licensing exam covers a focused subset of the full P&C curriculum — the property and casualty products that serve individuals, families, and households rather than commercial accounts. It is a standalone exam distinct from the combined Property and Casualty exam, and it produces a line of authority that is more limited than full P&C. Candidates who choose the Personal Lines path need to understand both what the exam covers and what the resulting license authorizes — because the Personal Lines license has specific restrictions that affect which clients a producer can legally serve. This post covers every content area on the Minnesota Personal Lines exam, the Minnesota-specific law that appears in the state section, and the preparation strategy that produces first-attempt passes.
 
-### Exam Specifications and What Personal Lines Authority Means
+## Exam Specifications and What Personal Lines Authority Means
 
 Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 85 Time allowed: 2 hours Passing score: 70% (scaled score of 70 or higher) Results: Immediate — displayed on screen at conclusion Retakes: No limit; 24-hour wait; $45 fee per attempt Exam validity: 3 years from date of passing
 
@@ -24,13 +24,13 @@ What Personal Lines authority does not authorize: Commercial risks of any kind. 
 
 Personal Lines vs. full P&C: Full Property and Casualty authority — obtained by passing the combined P&C exam — covers both personal and commercial risks. A producer who wants to serve both personal clients and business clients needs full P&C authority, not Personal Lines. Producers choosing Personal Lines should be certain their distribution channel is genuinely limited to personal risks before pursuing this more restricted path.
 
-### How the Personal Lines Exam Differs From the P&C Exam
+## How the Personal Lines Exam Differs From the P&C Exam
 
 The Personal Lines exam covers the same product content as the personal lines sections of the combined P&C exam — homeowners forms, personal auto, dwelling policies, personal umbrella — but it does not cover commercial lines products. There are no questions about commercial general liability, business income, builders risk, CGL occurrence vs. claims-made forms, or commercial workers' compensation on the Personal Lines exam.
 
 The state law section of the Personal Lines exam covers the same Minnesota statutes and regulations as the P&C exam's state law section, applied to personal lines contexts — Minnesota's no-fault auto insurance law, producer licensing requirements under Chapter 60K, the unfair trade practices statute, and the Minnesota Insurance Guaranty Association.
 
-### Section 1: Foundational Insurance Concepts
+## Section 1: Foundational Insurance Concepts
 
 The Personal Lines exam opens with foundational concepts that apply across all property and casualty coverage. These questions appear consistently and reward candidates who have internalized the basic vocabulary of insurance.
 
@@ -48,11 +48,11 @@ Coinsurance: A requirement that the insured carry coverage at a specified percen
 
 Policy structure — the five components: Every P&C policy consists of declarations (identifying information and coverage amounts), the insuring agreement (the insurer's promise to pay), conditions (duties of both parties), exclusions (what is not covered), and definitions (the specific meanings of terms used in the policy).
 
-### Section 2: Homeowners Insurance — The Core Personal Lines Product
+## Section 2: Homeowners Insurance — The Core Personal Lines Product
 
 Homeowners coverage is the highest-volume content area on the Personal Lines exam. Know all HO forms, all six coverage sections, their standard limits relative to Coverage A, and the standard exclusions.
 
-#### The HO Forms
+### The HO Forms
 
 HO-1 (Basic Form): Covers 11 named perils — fire, lightning, windstorm, hail, explosion, riot, aircraft, vehicles, smoke, vandalism, and theft. The most restrictive homeowners form; rarely issued today.
 
@@ -68,7 +68,7 @@ HO-6 (Condo Unit Owners Form): Designed for condominium unit owners. Covers pers
 
 HO-8 (Modified Coverage Form): Designed for older homes where the replacement cost significantly exceeds the market value. Pays on an ACV or functional replacement cost basis rather than standard replacement cost.
 
-#### The Six Coverage Sections
+### The Six Coverage Sections
 
 Coverage A — Dwelling: The structure of the home and attached structures. The primary coverage amount from which all other limits are derived. Should reflect the full replacement cost of the dwelling.
 
@@ -102,11 +102,11 @@ Coverage E — Personal Liability: Protects the insured and resident relatives a
 
 Coverage F — Medical Payments to Others: Pays medical expenses of persons (other than residents of the household) injured on the insured's premises or by the insured's activities, regardless of legal liability. Standard limit: $1,000 per person. This is no-fault coverage — no determination of negligence is required.
 
-#### Standard Homeowners Exclusions
+### Standard Homeowners Exclusions
 
 The HO-3 specifically excludes: flood (requires separate NFIP or private flood policy), earthquake (requires endorsement or separate policy), earth movement, sewer backup (unless added by endorsement), governmental action, nuclear hazard, war, intentional acts by the insured, and losses caused by neglect. Business pursuits conducted from the home generate business liability that the standard homeowners liability section does not cover — a home-based business owner typically needs a home business endorsement or separate commercial coverage.
 
-#### Key Homeowners Policy Provisions
+### Key Homeowners Policy Provisions
 
 Free look period: Minnesota requires a 10-day free look period for homeowners policies. The policyholder may return the policy within 10 days of delivery for a full premium refund.
 
@@ -116,7 +116,7 @@ The mortgage clause: When a mortgagee (lender) is named on a homeowners policy, 
 
 Replacement cost vs. ACV conditions: Most HO-3 policies pay ACV at the time of loss and then pay the additional replacement cost amount after the insured has actually repaired or replaced the damaged property. The insured cannot receive replacement cost payment in cash without making the repair — this prevents profit from the claim.
 
-### Section 3: Dwelling Policies
+## Section 3: Dwelling Policies
 
 Dwelling policies (DP forms) cover residential properties that do not qualify for homeowners coverage — typically tenant-occupied rental properties, seasonal homes, or properties under renovation.
 
@@ -130,11 +130,11 @@ Critical difference from homeowners: Standard DP forms do not include personal l
 
 Fair rental value vs. additional living expenses: DP forms provide fair rental value coverage (the rent the landlord would have received from tenants) rather than additional living expenses (which assume the insured occupies the property themselves).
 
-### Section 4: Personal Auto Insurance
+## Section 4: Personal Auto Insurance
 
 Personal auto coverage is the second largest content area on the Personal Lines exam, and Minnesota's no-fault system makes the state section particularly important for this topic.
 
-#### Personal Auto Policy Structure
+### Personal Auto Policy Structure
 
 Part A — Liability: Covers bodily injury and property damage the insured causes to others. Split limits (e.g., 30/60/10) or combined single limit (CSL). Does not cover the insured's own injuries or vehicle damage.
 
@@ -152,7 +152,7 @@ Covered persons under the PAP: The named insured and spouse; family members who 
 
 Non-owned auto coverage: The PAP extends liability and medical payments coverage to the named insured and family members while using a non-owned auto — a borrowed or rental vehicle. Coverage for non-owned autos is excess over any insurance the vehicle owner carries.
 
-#### Minnesota Auto Insurance State Law
+### Minnesota Auto Insurance State Law
 
 Minnesota is a no-fault state under Minn. Stat. §65B.49. Every Minnesota auto insurance policy must include:
 
@@ -174,7 +174,7 @@ SR-22: Not an insurance policy but a certificate filed by the insurer with the M
 
 Underinsured Motorist (UIM) — both UM and UIM are required in Minnesota: A notable Minnesota distinction is that both UM and UIM are mandatory — not optional. Some states require UM but allow UIM to be declined. Minnesota requires both.
 
-### Section 5: Personal Umbrella
+## Section 5: Personal Umbrella
 
 A personal umbrella policy provides excess liability coverage above the limits of the underlying homeowners and personal auto policies, plus broader coverage for some liability exposures the underlying policies exclude.
 
@@ -186,7 +186,7 @@ Self-insured retention (SIR): The umbrella equivalent of a deductible. For drop-
 
 Common personal umbrella exclusions: Business activities and professional liability, intentional acts, damage to property owned by the insured, and auto liability in states where the underlying auto policy does not apply.
 
-### Section 6: Minnesota State Law — Personal Lines Provisions
+## Section 6: Minnesota State Law — Personal Lines Provisions
 
 Producer licensing under Chapter 60K: Personal Lines is a line of authority requiring its own 20-hour [prelicensing](/minnesota/prelicensing) course, PSI exam, and $50 application fee. Personal Lines authority is more limited than full P&C — it covers only personal, family, and household risks.
 
@@ -204,7 +204,7 @@ Nonrenewal: typically 30 days' advance written notice
 
 NFIP — flood coverage: Flood is excluded from all standard homeowners and dwelling policies. The National Flood Insurance Program, administered by FEMA, provides flood insurance to property owners in participating communities. Producers who identify flood exposure for personal lines clients — particularly those near Minnesota's extensive lakes and river systems — should discuss NFIP coverage as a supplement to the homeowners policy.
 
-### Strategic Approach: How to Pass the Personal Lines Exam
+## Strategic Approach: How to Pass the Personal Lines Exam
 
 The HO-3 is the center of the exam. More Personal Lines exam questions draw from the HO-3 special form than from any other single topic. Know the six coverage sections and their standard limits relative to Coverage A cold. Know the distinction between open perils (dwelling) and named perils (personal property). Know the special limits for high-value personal property categories. Know the standard exclusions — particularly flood and earthquake.
 
@@ -224,7 +224,7 @@ Primary Keyword: Minnesota personal lines exam content how to pass
 
 The Minnesota Personal Lines insurance licensing exam covers a focused subset of the full P&C curriculum — the property and casualty products that serve individuals, families, and households rather than commercial accounts. It is a standalone exam distinct from the combined Property and Casualty exam, and it produces a line of authority that is more limited than full P&C. Candidates who choose the Personal Lines path need to understand both what the exam covers and what the resulting license authorizes — because the Personal Lines license has specific restrictions that affect which clients a producer can legally serve. This post covers every content area on the Minnesota Personal Lines exam, the Minnesota-specific law that appears in the state section, and the preparation strategy that produces first-attempt passes.
 
-### Exam Specifications and What Personal Lines Authority Means
+## Exam Specifications and What Personal Lines Authority Means
 
 Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 85 Time allowed: 2 hours Passing score: 70% (scaled score of 70 or higher) Results: Immediate — displayed on screen at conclusion Retakes: No limit; 24-hour wait; $45 fee per attempt Exam validity: 3 years from date of passing
 
@@ -234,13 +234,13 @@ What Personal Lines authority does not authorize: Commercial risks of any kind. 
 
 Personal Lines vs. full P&C: Full Property and Casualty authority — obtained by passing the combined P&C exam — covers both personal and commercial risks. A producer who wants to serve both personal clients and business clients needs full P&C authority, not Personal Lines. Producers choosing Personal Lines should be certain their distribution channel is genuinely limited to personal risks before pursuing this more restricted path.
 
-### How the Personal Lines Exam Differs From the P&C Exam
+## How the Personal Lines Exam Differs From the P&C Exam
 
 The Personal Lines exam covers the same product content as the personal lines sections of the combined P&C exam — homeowners forms, personal auto, dwelling policies, personal umbrella — but it does not cover commercial lines products. There are no questions about commercial general liability, business income, builders risk, CGL occurrence vs. claims-made forms, or commercial workers' compensation on the Personal Lines exam.
 
 The state law section of the Personal Lines exam covers the same Minnesota statutes and regulations as the P&C exam's state law section, applied to personal lines contexts — Minnesota's no-fault auto insurance law, producer licensing requirements under Chapter 60K, the unfair trade practices statute, and the Minnesota Insurance Guaranty Association.
 
-### Section 1: Foundational Insurance Concepts
+## Section 1: Foundational Insurance Concepts
 
 The Personal Lines exam opens with foundational concepts that apply across all property and casualty coverage. These questions appear consistently and reward candidates who have internalized the basic vocabulary of insurance.
 
@@ -258,11 +258,11 @@ Coinsurance: A requirement that the insured carry coverage at a specified percen
 
 Policy structure — the five components: Every P&C policy consists of declarations (identifying information and coverage amounts), the insuring agreement (the insurer's promise to pay), conditions (duties of both parties), exclusions (what is not covered), and definitions (the specific meanings of terms used in the policy).
 
-### Section 2: Homeowners Insurance — The Core Personal Lines Product
+## Section 2: Homeowners Insurance — The Core Personal Lines Product
 
 Homeowners coverage is the highest-volume content area on the Personal Lines exam. Know all HO forms, all six coverage sections, their standard limits relative to Coverage A, and the standard exclusions.
 
-#### The HO Forms
+### The HO Forms
 
 HO-1 (Basic Form): Covers 11 named perils — fire, lightning, windstorm, hail, explosion, riot, aircraft, vehicles, smoke, vandalism, and theft. The most restrictive homeowners form; rarely issued today.
 
@@ -278,7 +278,7 @@ HO-6 (Condo Unit Owners Form): Designed for condominium unit owners. Covers pers
 
 HO-8 (Modified Coverage Form): Designed for older homes where the replacement cost significantly exceeds the market value. Pays on an ACV or functional replacement cost basis rather than standard replacement cost.
 
-#### The Six Coverage Sections
+### The Six Coverage Sections
 
 Coverage A — Dwelling: The structure of the home and attached structures. The primary coverage amount from which all other limits are derived. Should reflect the full replacement cost of the dwelling.
 
@@ -312,11 +312,11 @@ Coverage E — Personal Liability: Protects the insured and resident relatives a
 
 Coverage F — Medical Payments to Others: Pays medical expenses of persons (other than residents of the household) injured on the insured's premises or by the insured's activities, regardless of legal liability. Standard limit: $1,000 per person. This is no-fault coverage — no determination of negligence is required.
 
-#### Standard Homeowners Exclusions
+### Standard Homeowners Exclusions
 
 The HO-3 specifically excludes: flood (requires separate NFIP or private flood policy), earthquake (requires endorsement or separate policy), earth movement, sewer backup (unless added by endorsement), governmental action, nuclear hazard, war, intentional acts by the insured, and losses caused by neglect. Business pursuits conducted from the home generate business liability that the standard homeowners liability section does not cover — a home-based business owner typically needs a home business endorsement or separate commercial coverage.
 
-#### Key Homeowners Policy Provisions
+### Key Homeowners Policy Provisions
 
 Free look period: Minnesota requires a 10-day free look period for homeowners policies. The policyholder may return the policy within 10 days of delivery for a full premium refund.
 
@@ -326,7 +326,7 @@ The mortgage clause: When a mortgagee (lender) is named on a homeowners policy, 
 
 Replacement cost vs. ACV conditions: Most HO-3 policies pay ACV at the time of loss and then pay the additional replacement cost amount after the insured has actually repaired or replaced the damaged property. The insured cannot receive replacement cost payment in cash without making the repair — this prevents profit from the claim.
 
-### Section 3: Dwelling Policies
+## Section 3: Dwelling Policies
 
 Dwelling policies (DP forms) cover residential properties that do not qualify for homeowners coverage — typically tenant-occupied rental properties, seasonal homes, or properties under renovation.
 
@@ -340,11 +340,11 @@ Critical difference from homeowners: Standard DP forms do not include personal l
 
 Fair rental value vs. additional living expenses: DP forms provide fair rental value coverage (the rent the landlord would have received from tenants) rather than additional living expenses (which assume the insured occupies the property themselves).
 
-### Section 4: Personal Auto Insurance
+## Section 4: Personal Auto Insurance
 
 Personal auto coverage is the second largest content area on the Personal Lines exam, and Minnesota's no-fault system makes the state section particularly important for this topic.
 
-#### Personal Auto Policy Structure
+### Personal Auto Policy Structure
 
 Part A — Liability: Covers bodily injury and property damage the insured causes to others. Split limits (e.g., 30/60/10) or combined single limit (CSL). Does not cover the insured's own injuries or vehicle damage.
 
@@ -362,7 +362,7 @@ Covered persons under the PAP: The named insured and spouse; family members who 
 
 Non-owned auto coverage: The PAP extends liability and medical payments coverage to the named insured and family members while using a non-owned auto — a borrowed or rental vehicle. Coverage for non-owned autos is excess over any insurance the vehicle owner carries.
 
-#### Minnesota Auto Insurance State Law
+### Minnesota Auto Insurance State Law
 
 Minnesota is a no-fault state under Minn. Stat. §65B.49. Every Minnesota auto insurance policy must include:
 
@@ -384,7 +384,7 @@ SR-22: Not an insurance policy but a certificate filed by the insurer with the M
 
 Underinsured Motorist (UIM) — both UM and UIM are required in Minnesota: A notable Minnesota distinction is that both UM and UIM are mandatory — not optional. Some states require UM but allow UIM to be declined. Minnesota requires both.
 
-### Section 5: Personal Umbrella
+## Section 5: Personal Umbrella
 
 A personal umbrella policy provides excess liability coverage above the limits of the underlying homeowners and personal auto policies, plus broader coverage for some liability exposures the underlying policies exclude.
 
@@ -396,7 +396,7 @@ Self-insured retention (SIR): The umbrella equivalent of a deductible. For drop-
 
 Common personal umbrella exclusions: Business activities and professional liability, intentional acts, damage to property owned by the insured, and auto liability in states where the underlying auto policy does not apply.
 
-### Section 6: Minnesota State Law — Personal Lines Provisions
+## Section 6: Minnesota State Law — Personal Lines Provisions
 
 Producer licensing under Chapter 60K: Personal Lines is a line of authority requiring its own 20-hour prelicensing course, PSI exam, and $50 application fee. Personal Lines authority is more limited than full P&C — it covers only personal, family, and household risks.
 
@@ -414,7 +414,7 @@ Nonrenewal: typically 30 days' advance written notice
 
 NFIP — flood coverage: Flood is excluded from all standard homeowners and dwelling policies. The National Flood Insurance Program, administered by FEMA, provides flood insurance to property owners in participating communities. Producers who identify flood exposure for personal lines clients — particularly those near Minnesota's extensive lakes and river systems — should discuss NFIP coverage as a supplement to the homeowners policy.
 
-### Strategic Approach: How to Pass the Personal Lines Exam
+## Strategic Approach: How to Pass the Personal Lines Exam
 
 The HO-3 is the center of the exam. More Personal Lines exam questions draw from the HO-3 special form than from any other single topic. Know the six coverage sections and their standard limits relative to Coverage A cold. Know the distinction between open perils (dwelling) and named perils (personal property). Know the special limits for high-value personal property categories. Know the standard exclusions — particularly flood and earthquake.
 
@@ -426,7 +426,7 @@ Understand Coverage C special limits. The dollar sublimits for jewelry ($1,500),
 
 Allocate 35–40% of study time to Minnesota state law. The state section of the Personal Lines exam includes multiple questions on Minnesota auto insurance law that require knowledge of specific statutes. Candidates who treat state law as an afterthought consistently leave points on the table. Know Minn. Stat. §65B.49 (auto no-fault), Chapter 60K (producer licensing), and §72A.20 (unfair trade practices) as a dedicated study module.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I plan to eventually write commercial accounts. Should I take the Personal Lines exam now and add P&C later, or go straight to the full P&C exam?
 

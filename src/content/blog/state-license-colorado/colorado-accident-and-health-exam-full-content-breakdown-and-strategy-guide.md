@@ -14,17 +14,17 @@ imageAlt: "Colorado Accident and Health Exam: Full Content Breakdown and Strateg
 
 The Colorado Accident and Health insurance licensing exam is 96 questions total — 80 scored and 16 pretest — administered by Pearson VUE in 120 minutes. Like the Life exam, it splits into two sections: a general knowledge section of 50 scored questions covering health insurance products, provisions, and concepts, and a Colorado-specific state section of 30 scored questions covering Title 10 of the Colorado Revised Statutes. The content outline published by Pearson VUE (effective January 1, 2024) maps every topic and assigns question counts to each. This post covers every content area in full, explains what the exam actually tests within each subsection, and gives you the specific strategy for the state section topics that determine whether most A&H candidates pass or fail.
 
-### The Exam at a Glance
+## The Exam at a Glance
 
 Passing score: 70% — at least 56 correct scored answers across both sections. The 16 pretest questions are indistinguishable from scored questions and do not affect your score. Answer every question as if it counts.
 
 One structural note before diving in: the A&H exam has 16 pretest questions — one more than the Life exam's 15. This means the A&H exam has a slightly higher ratio of non-scored questions (16.7%) than the Life exam (15.8%). The practical impact is negligible, but it means you should treat unusual or highly technical questions with particular equanimity — they may very well be pretest items.
 
-### PART 1: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
+## PART 1: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
 
 The general section covers five content areas with defined question counts from the official content outline.
 
-#### Content Area I: Types of Policies — 16 Questions
+### Content Area I: Types of Policies — 16 Questions
 
 At 16 questions, Types of Policies is the largest single content area on the A&H general section, representing 32% of your 50 general scored questions. This is where the exam tests product identification and characteristic recall across the full range of health insurance products.
 
@@ -70,7 +70,7 @@ G. Other Policies (1–2 questions)
 
 Dental, vision, cancer, critical illness (pays a lump sum upon diagnosis of a specified illness), hospital indemnity (pays a fixed daily amount for hospitalization), short-term medical (not ACA-compliant; limited duration; often excludes preexisting conditions), accident policies (pay fixed benefits for accidental injuries).
 
-#### Content Area II: Policy Provisions, Clauses, and Riders — 15 Questions
+### Content Area II: Policy Provisions, Clauses, and Riders — 15 Questions
 
 With 15 questions, this is the second heaviest content area at 30% of the general section. The A&H provisions content is distinct from Life provisions — health insurance policies have mandatory provisions required by the NAIC Uniform Policy Provisions Law that differ from life insurance contract elements.
 
@@ -106,7 +106,7 @@ C. Riders (1–2 questions)
 
 Impairment/exclusion rider — excludes a specific preexisting condition from coverage (used when an insurer will issue a policy but not for a known condition). Guaranteed insurability rider — allows the insured to purchase additional disability income coverage at specified future dates without evidence of insurability. Future increase option — similar to guaranteed insurability; allows periodic increases in benefit amount.
 
-#### Content Area III: Social Insurance — 6 Questions
+### Content Area III: Social Insurance — 6 Questions
 
 A. Medicare (Parts A, B, C, D)
 
@@ -128,7 +128,7 @@ C. Social Security Benefits
 
 SSDI (Social Security Disability Insurance) — monthly benefit for workers who become disabled before retirement age; funded through payroll taxes; 5-month elimination period before benefits begin; 24-month Medicare waiting period from SSDI approval. SSI (Supplemental Security Income) — needs-based; for disabled, blind, or aged individuals with limited income and resources; not funded through payroll taxes.
 
-#### Content Area IV: Other Insurance Concepts — 5 Questions
+### Content Area IV: Other Insurance Concepts — 5 Questions
 
 Total, partial, recurrent, and residual disability — total disability: cannot perform all duties of occupation; partial disability: can perform some duties; residual disability: loss of income due to disability, may still work in reduced capacity; recurrent disability: if the same or related disability recurs within a defined period (typically 6 months), it is treated as a continuation of the original claim.
 
@@ -140,7 +140,7 @@ Subrogation — the right of an insurer who has paid a claim to pursue recovery 
 
 Tax treatment — employer-paid health insurance premiums are tax-deductible for the employer and not includable in employee income. Employee-paid premiums through payroll deduction (Section 125 cafeteria plan) are pre-tax. Self-employed individuals may deduct 100% of health insurance premiums. Disability income benefits: if the employer paid the premiums, benefits are taxable to the employee; if the employee paid with after-tax dollars, benefits are tax-free.
 
-#### Content Area V: Field Underwriting Procedures — 8 Questions
+### Content Area V: Field Underwriting Procedures — 8 Questions
 
 Completing the application — producer's role in health insurance underwriting: gather accurate information, explain coverage, obtain signatures. HIPAA privacy — the producer must explain how the insurer will use medical information; HIPAA Authorization required for use of PHI. MIB (Medical Information Bureau) report — used by underwriters to identify medical conditions disclosed in prior insurance applications; producer must disclose to applicant that MIB may be consulted.
 
@@ -148,11 +148,11 @@ Contract law elements — consideration, offer and acceptance, competent parties
 
 Replacement in A&H — when an existing health policy is replaced, the producer must provide replacement disclosures; Colorado Regulation 4-2-1 governs health insurance replacement requirements.
 
-### PART 2: COLORADO STATE SECTION (30 Scored Questions)
+## PART 2: COLORADO STATE SECTION (30 Scored Questions)
 
 The state section is 30 of 80 scored questions — 37.5% of your total score — from only 10 of your 50 [prelicensing](/colorado/prelicensing) hours. The A&H state section is divided identically to the Life state section for the common Colorado provisions (Section I), but Section II contains distinct A&H-only Colorado requirements that differ meaningfully from the Life exam's Section II topics.
 
-#### Section I: Colorado Statutes Common to All Lines — 19 Questions
+### Section I: Colorado Statutes Common to All Lines — 19 Questions
 
 This section is shared with the Life exam. Nineteen of your 30 state-section scored questions come from the common provisions — nearly two-thirds of the state section. The content and strategy here are identical to the Life exam's common section:
 
@@ -160,7 +160,7 @@ Insurance Commissioner (powers, duties, hearings, penalties, license suspension 
 
 Unfair competition and deceptive practices (10-3-1104) — the same eight prohibited acts as the Life exam: misrepresentation, coercion, defamation, unfair discrimination, controlled business, rebating, unfair claims practices, Colorado Fraud Statute. These generate the highest volume of state-section questions on every A&H exam form. Know every prohibited act and its specific definition under the statute.
 
-#### Section II: Colorado Statutes Pertinent to A&H Insurance Only — 11 Questions
+### Section II: Colorado Statutes Pertinent to A&H Insurance Only — 11 Questions
 
 This is where the A&H state section diverges significantly from the Life exam. Eleven questions test Colorado-specific health insurance mandates and regulations that have no parallel in the Life exam content.
 
@@ -216,9 +216,9 @@ H. Sales and Marketing of Health Insurance
 
 Colorado Reg. 4-2-1 governs replacement; 4-2-3 covers marketing conduct; 4-3-1 and 4-3-2 apply to Medicare supplement marketing; 4-4-1 covers LTC marketing; 4-6-8 governs small group marketing. The exam tests the principle that marketing must not misrepresent coverage, must provide required disclosures, and must comply with Colorado's fair marketing standards regulation.
 
-### The A&H Exam's Highest-Frequency State Section Topics: A Priority List
+## The A&H Exam's Highest-Frequency State Section Topics: A Priority List
 
-### Strategy: How to Approach the Colorado A&H Exam
+## Strategy: How to Approach the Colorado A&H Exam
 
 The core strategic difference between A&H and Life: The A&H state section has substantially more Colorado-specific mandated benefit and market regulation content than the Life state section. The Life state section's Section II is relatively compact (replacement rules, suicide clause, free look, insurable interest, lapse notice). The A&H state section's Section II encompasses the full landscape of Colorado health insurance regulation — mandatory benefits, guaranteed issue, COBRA vs. state continuation, mental health parity, small group rating rules, Medicare supplement, LTC, and commission disclosure. There is more to know, more statutory citations to trace, and more scenario-based application questions.
 
@@ -228,7 +228,7 @@ Mental health parity is more than a concept. The exam tests the practical applic
 
 Renewability provisions are conceptual anchors. The distinction between noncancelable, guaranteed renewable, conditionally renewable, and cancelable health policies generates multiple questions. A noncancelable policy is the most favorable to the insured (no premium changes, no cancellation) and commands the highest premium. Guaranteed renewable allows class-wide premium increases but not individual cancellation. The exam presents scenarios requiring you to identify which renewability provision is described or which the insured should prefer.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How is the Colorado A&H exam different from the Life exam in terms of content difficulty?
 

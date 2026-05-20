@@ -14,7 +14,7 @@ imageAlt: "Tennessee Insurance License Fees: Every Cost From Fingerprinting to A
 
 Getting a Tennessee insurance license has a defined, predictable cost structure — but the total depends on which lines you pursue, whether you take the exam remotely or in person, how many attempts you need to pass, and whether you choose to use a prep course. Candidates who understand every fee before they begin avoid the surprise of discovering mid-process that the costs are higher than expected. This post breaks down every cost in the Tennessee licensing process — exam fees, fingerprinting, application fees, and optional costs — with exact figures for every scenario, from a single-line remote candidate to a full four-line in-person applicant, so you can budget accurately before you begin.
 
-### The Four Fee Categories in Tennessee Licensing
+## The Four Fee Categories in Tennessee Licensing
 
 The Tennessee insurance licensing process has four distinct cost categories. Every candidate pays fees in at least three of them:
 
@@ -26,27 +26,27 @@ Category 3 — License application fees: Paid to the Tennessee Department of Com
 
 Category 4 — Optional preparation costs: Paid to a prep course provider. Not required by Tennessee law but strongly recommended given first-time [pass rates](/pass-rates) of approximately 55–65%.
 
-### Category 1: Exam Fees
+## Category 1: Exam Fees
 
-#### Remote vs. In-Person
+### Remote vs. In-Person
 
 Pearson VUE offers two testing formats for Tennessee insurance exams, each with a different fee:
 
 The $6 difference per line is modest — the choice between remote and in-person testing should be made based on your technical setup, personal preference for testing environment, and whether your system passes the OnVUE compatibility check. Choosing remote to save $6 and then discovering your internet connection is unstable on exam day is not a good trade. However, for candidates taking multiple lines, the savings compound:
 
-#### The Retake Cost Reality
+### The Retake Cost Reality
 
 Every failed attempt on any line requires paying the full exam fee again for that line. There is no reduced retake fee in Tennessee and no partial credit for having previously paid. The unlimited retake policy means you can attempt as many times as needed — but each attempt carries the full cost.
 
 The retake cost argument for preparation: A candidate who takes the Property exam three times before passing has spent $165 on exam fees for that single line alone. A quality prep course costs $100–$350 and produces pass rates substantially above Tennessee's general first-time average of 55–65%. For most candidates, the prep course pays for itself by reducing retake probability — even before accounting for the time cost of failed attempts and delayed licensure.
 
-#### Cancellation and Rescheduling
+### Cancellation and Rescheduling
 
 If you need to cancel or reschedule your exam, Pearson VUE requires at least 48 hours advance notice. Cancellations or changes made less than 48 hours before your scheduled appointment result in forfeiture of the full exam fee — the same cost as a failed attempt. Calendar your exam appointment prominently and set a reminder for the 48-hour cancellation deadline so you do not inadvertently forfeit a fee for a scheduling conflict that could have been addressed earlier.
 
-### Category 2: Fingerprinting and Background Check
+## Category 2: Fingerprinting and Background Check
 
-#### IdentoGO Fee
+### IdentoGO Fee
 
 This is a flat fee paid at your IdentoGO appointment regardless of how many lines of authority you are pursuing. A candidate applying for one line pays $37.15. A candidate applying for all four major lines pays the same $37.15 — fingerprinting is per applicant, not per line.
 
@@ -58,9 +58,9 @@ When to pay: At your IdentoGO appointment, which must be scheduled and completed
 
 Appointment timing: Fingerprinting must be completed at least 2 business days before you submit your license application. Schedule your IdentoGO appointment promptly after passing your exam to avoid unnecessary delays in application submission.
 
-### Category 3: License Application Fees
+## Category 3: License Application Fees
 
-#### TDCI Application Fee
+### TDCI Application Fee
 
 The $50 application fee is charged per line of authority. A candidate applying for Property and Casualty pays $100 in TDCI fees ($50 × 2). A candidate applying for all four major lines pays $200 in TDCI fees ($50 × 4).
 
@@ -68,33 +68,33 @@ The $5.60 NIPR transaction processing fee is a flat fee per application submissi
 
 The efficiency of applying for multiple lines at once: Applying for all intended lines in a single NIPR submission is more cost-efficient than applying for lines in stages. A candidate who applies for Property and Casualty together in one submission pays one $5.60 NIPR fee. A candidate who applies for Property first and then adds Casualty three months later in a separate submission pays $5.60 twice. The savings are modest — but the time efficiency of a single submission is the more meaningful advantage.
 
-#### Application Fee by Lines Pursued
+### Application Fee by Lines Pursued
 
-#### When to Pay
+### When to Pay
 
 Application fees are paid through NIPR at the time of application submission — by credit card or debit card. The $5.60 NIPR transaction fee is added automatically by the NIPR system at checkout. There is no option to pay by check or cash through the NIPR portal.
 
-#### The 48-Hour Waiting Period
+### The 48-Hour Waiting Period
 
 Tennessee requires applicants to wait at least 48 hours after passing the exam before submitting the NIPR application. This is a TDCI requirement — not a NIPR limitation. Do not attempt to submit your application immediately after passing. Wait the full 48 hours.
 
-### Total Cost Summary: Every Scenario
+## Total Cost Summary: Every Scenario
 
-#### Scenario 1: Single Line, Remote, First Attempt, No Prep Course
+### Scenario 1: Single Line, Remote, First Attempt, No Prep Course
 
-#### Scenario 2: Single Line, In-Person, First Attempt, No Prep Course
+### Scenario 2: Single Line, In-Person, First Attempt, No Prep Course
 
-#### Scenario 3: Property and Casualty (Two Lines), Remote, First Attempt, No Prep Course
+### Scenario 3: Property and Casualty (Two Lines), Remote, First Attempt, No Prep Course
 
-#### Scenario 4: All Four Major Lines, Remote, First Attempt, No Prep Course
+### Scenario 4: All Four Major Lines, Remote, First Attempt, No Prep Course
 
-#### Scenario 5: Property and Casualty, Remote, With One Retake on Casualty, With Prep Course
+### Scenario 5: Property and Casualty, Remote, With One Retake on Casualty, With Prep Course
 
-#### Scenario 6: All Four Major Lines, In-Person, With Retake on One Line, With Prep Course
+### Scenario 6: All Four Major Lines, In-Person, With Retake on One Line, With Prep Course
 
-### Category 4: Optional Preparation Costs
+## Category 4: Optional Preparation Costs
 
-#### Prep Course Pricing in Tennessee
+### Prep Course Pricing in Tennessee
 
 Tennessee does not require a [prelicensing](/tennessee/prelicensing) course, so all preparation costs are optional. However, given first-time pass rates of approximately 55–65%, preparation costs are more accurately described as risk-reduction investments than optional extras.
 
@@ -104,7 +104,7 @@ The pass guarantee consideration: Several reputable Tennessee prep course provid
 
 Per-line vs. combined course pricing: Some providers price courses per line — a separate course for each of Life, A&H, Property, and Casualty. Others offer combination packages. Candidates pursuing multiple lines should compare the per-line cost to the combination package cost before purchasing. JustInsurance's Tennessee combined Life and Health package is $199 — the equivalent of purchasing Life and Health courses separately at a discount.
 
-#### Study Materials Without a Full Course
+### Study Materials Without a Full Course
 
 Candidates who prefer a lighter-touch approach — particularly those with prior insurance experience — can purchase:
 
@@ -112,29 +112,29 @@ State law study guides: Tennessee-specific exam supplements focusing exclusively
 
 [Practice exam](/tennessee/practice-exam) banks: Standalone question banks with Pearson VUE-formatted practice questions. Typically $40–$80. Most effective when used alongside substantive content review — practice questions alone without content study do not build the knowledge needed to answer exam questions correctly.
 
-### Ongoing Costs After Licensure
+## Ongoing Costs After Licensure
 
 The initial licensing cost is a one-time investment — but Tennessee producers face recurring costs throughout their licensing careers.
 
-#### License Renewal
+### License Renewal
 
 Tennessee licenses renew biennially — every two years — on the last day of the birth month. The $60 renewal fee is paid through NIPR at the time of renewal.
 
-#### Late Renewal Fees
+### Late Renewal Fees
 
 The $120 late fee applies to renewals submitted after the 30-day grace period has expired but within one year of the expiration date. After one year, the producer must retake the Pearson VUE exam and reapply — the full initial licensing cost applies again.
 
-#### Continuing Education Costs
+### Continuing Education Costs
 
 CE costs vary by provider and course selection. Tennessee requires 24 hours of CE per biennial period including 3 hours of ethics. Self-paced online courses typically cost $5–$15 per hour of CE credit. A full 24-hour CE package from a reputable Tennessee provider typically costs $50–$150, depending on provider and format.
 
-#### Specialty Training Costs
+### Specialty Training Costs
 
 Producers who sell specific product types incur one-time specialty training costs:
 
 Specialty training courses approved by the TDCI count toward the 24-hour CE total — they are not additional hours on top of CE.
 
-### Non-Resident Licensing Costs
+## Non-Resident Licensing Costs
 
 Producers licensed in other states who want a Tennessee non-resident license face a different cost structure than resident applicants.
 
@@ -144,7 +144,7 @@ Non-resident applicants must take the Tennessee exam unless they are residents o
 
 Non-resident producers from the five reciprocity states (California, Louisiana, Michigan, Mississippi, Texas) do not take the Tennessee exam — their cost is only the application fee and NIPR transaction fee: $55.60 per line.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I want to get licensed in Property and Casualty. If I take both exams on the same day and pass both, do I pay two NIPR transaction fees when I apply?
 

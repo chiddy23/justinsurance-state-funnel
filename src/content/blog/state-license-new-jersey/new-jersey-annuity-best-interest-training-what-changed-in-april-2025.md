@@ -14,7 +14,7 @@ imageAlt: "New Jersey Annuity Best Interest Training: What Changed in April 2025
 
 New Jersey adopted the NAIC's Best Interest standard for annuity transactions effective April 21, 2025 — replacing the previous suitability-based standard that had governed annuity sales in the state for years. The regulatory change affected every producer who sells annuities in New Jersey, and it created a bifurcated training requirement depending on when the producer was first licensed and whether they had already completed prior annuity suitability training. If you sell annuities in New Jersey — or plan to — this is the one regulatory change from 2025 that affects your authority to do business before you make your next annuity sale.
 
-### What Changed: Suitability to Best Interest
+## What Changed: Suitability to Best Interest
 
 The previous NJ annuity regulation required producers to complete a one-time 4-hour annuity suitability training before selling annuity products. The standard was whether a recommendation was "suitable" for the consumer — a threshold that focused primarily on whether the product fit the consumer's general financial profile.
 
@@ -22,11 +22,11 @@ The NAIC Best Interest standard, adopted by New Jersey effective April 21, 2025,
 
 The regulatory change required updated training to reflect the new standard — which is why DOBI implemented the new training requirements alongside the April 2025 effective date.
 
-### The Three Training Scenarios
+## The Three Training Scenarios
 
 Where you fall in the training requirement depends entirely on your situation as of April 21, 2025.
 
-#### Scenario 1: Licensed Before April 21, 2025 — Already Completed 4-Hour Suitability Training
+### Scenario 1: Licensed Before April 21, 2025 — Already Completed 4-Hour Suitability Training
 
 If you were licensed before the effective date and had already completed the previous one-time 4-hour annuity suitability training, you were required to complete a one-time 1-hour Best Interest update course by October 21, 2025.
 
@@ -34,7 +34,7 @@ This 1-hour course covered the transition from the suitability standard to the b
 
 The October 21, 2025 deadline has passed. Producers who were in this category and have not yet completed the 1-hour update course are out of compliance with DOBI's annuity training requirement. If this describes your situation, complete the 1-hour update immediately — or confirm with DOBI whether the full 4-hour best interest course is now required to come into compliance.
 
-#### Scenario 2: Licensed on or After April 21, 2025 — No Prior Annuity Training
+### Scenario 2: Licensed on or After April 21, 2025 — No Prior Annuity Training
 
 If you were licensed on or after the April 21, 2025 effective date, the previous suitability training never applied to you. You are required to complete a one-time 4-hour Annuity Best Interest Certification Training before you sell, solicit, or negotiate any annuity product in New Jersey.
 
@@ -42,11 +42,11 @@ This 4-hour course covers the Best Interest standard in full: what it requires o
 
 There is no deadline pressure for this group beyond the practical one: you cannot legally sell annuities in New Jersey until the 4-hour training is complete and on file. If you have not completed it, you cannot make an annuity sale — period.
 
-#### Scenario 3: Licensed Before April 21, 2025 — Never Completed Prior Suitability Training
+### Scenario 3: Licensed Before April 21, 2025 — Never Completed Prior Suitability Training
 
 If you were licensed before the effective date but had never completed any annuity suitability training (either because you never sold annuities or because the training lapsed in some way), you are subject to the same standard as new licensees: you must complete the 4-hour Annuity Best Interest Certification Training before selling any annuity product.
 
-### What the Best Interest Standard Requires of Producers
+## What the Best Interest Standard Requires of Producers
 
 The Best Interest standard imposes four specific obligations on producers recommending annuities:
 
@@ -60,15 +60,15 @@ Documentation obligation: You must document the basis for your annuity recommend
 
 This is a materially higher standard than suitability — and the training reflects that. Producers who completed the 4-hour suitability training years ago and felt confident in the annuity sales process will find the best interest standard demands more deliberate, documented, client-centered recommendation practices.
 
-### Reciprocity for Nonresidents
+## Reciprocity for Nonresidents
 
 New Jersey accepts completion of NAIC-based Annuity Best Interest training completed in a producer's resident state as satisfying NJ's requirement, provided the other state's training meets the NAIC standard. Nonresident producers who have completed the Best Interest training in their home state are generally deemed compliant for New Jersey without completing a separate NJ-specific course.
 
-### How the Training Counts Toward CE
+## How the Training Counts Toward CE
 
 The 4-hour Annuity Best Interest Certification Training counts toward your 24-hour biennial CE requirement for the renewal period in which you complete it. It is not an additive obligation — those 4 hours apply toward your CE total. The same applies to the 1-hour update for producers who completed prior suitability training.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed the 4-hour suitability training before April 2025. Do I need to complete the 4-hour Best Interest training too, or just the 1-hour update?
 

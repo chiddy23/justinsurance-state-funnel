@@ -14,13 +14,13 @@ imageAlt: Selling Insurance in New Jersey's Pharmaceutical and Life Sciences Cor
 
 New Jersey is called the medicine chest of the world, and the statistics support the name. The state hosts the headquarters or major facilities of 14 of the world's 20 largest biopharmaceutical companies, more than 3,200 life sciences establishments, and roughly 115,000 life sciences employees earning an average annual salary of $182,100 — more than double the state average. Johnson & Johnson in New Brunswick, Merck in Rahway, Bristol-Myers Squibb in Princeton, Novartis in East Hanover, Bayer in Whippany, Sanofi in Bridgewater, and Organon in Jersey City represent only the largest names in an ecosystem that spans the entire arc of the New Jersey Turnpike corridor. For insurance producers who understand this market, the pharmaceutical and life sciences sector represents one of the highest-value opportunity concentrations in the state.
 
-### Why the Life Sciences Sector Creates Exceptional Insurance Opportunity
+## Why the Life Sciences Sector Creates Exceptional Insurance Opportunity
 
 The life sciences sector's insurance needs are extensive, specialized, and driven by high-income clients. The average life sciences worker in New Jersey earns $182,100 annually — a population with significant personal insurance, benefits, and financial planning needs. The companies themselves carry complex commercial insurance portfolios: product liability, directors and officers (D&O), errors and omissions (E&O), clinical trial liability, property, workers' compensation, group health, and executive benefits. Even the mid-size and emerging biotech companies that populate the NJ life sciences ecosystem represent meaningful commercial insurance accounts.
 
 The sector's concentration also creates opportunity density that is rare in any other state. In Somerset, Middlesex, Union, Morris, and Mercer counties — the heart of New Jersey's research corridor — a producer can drive 20 miles and pass the campuses of five or more Fortune 500 pharmaceutical companies. The clustering effect means that a producer who develops relationships within one company often gains access to introductions within others.
 
-### The Personal Insurance Market: High-Income Workforce
+## The Personal Insurance Market: High-Income Workforce
 
 Life sciences employees in New Jersey represent an ideal personal lines and individual life and health client profile:
 
@@ -30,7 +30,7 @@ Benefit transitions. The life sciences sector is highly active with mergers, acq
 
 Executive benefits. Senior pharmaceutical executives often require personal insurance advisory that extends beyond standard products: supplemental life, disability income insurance to protect high earnings, deferred compensation planning, and long-term care strategies. Life and Health producers with strong relationship skills and knowledge of executive benefit products have a differentiated offering in this market.
 
-### The Commercial Insurance Market: R&D, Clinical Trials, and Manufacturing
+## The Commercial Insurance Market: R&D, Clinical Trials, and Manufacturing
 
 Life sciences companies carry commercial insurance portfolios with distinctive exposures that require specialized knowledge:
 
@@ -42,7 +42,7 @@ Directors and officers (D&O). Publicly traded pharmaceutical companies require D
 
 Group health and employee benefits. Pharmaceutical employers in New Jersey typically offer premium group health benefit packages to attract and retain scientific talent competing nationally and internationally. A producer who can place and service group health, dental, vision, life, disability, and 401(k) advisory for a mid-size biotech is managing a six-to-seven-figure annual revenue relationship.
 
-### Where the Opportunity Is Concentrated
+## Where the Opportunity Is Concentrated
 
 The pharmaceutical research corridor runs roughly along the I-287 arc and into the Princeton corridor:
 
@@ -56,7 +56,7 @@ Bridgewater / Somerset County — Sanofi North American headquarters, multiple m
 
 Princeton / Hopewell (Mercer County) — Bristol-Myers Squibb, Kenvue (J&J consumer spinoff now based in Summit), emerging biotech campuses
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Why is New Jersey particularly important for life sciences insurance producers?
 

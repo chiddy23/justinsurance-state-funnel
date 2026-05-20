@@ -14,7 +14,7 @@ imageAlt: "The Minnesota Insurance Exam Decoded: PSI Format, Test Day, and What 
 
 The Minnesota state insurance licensing exam is the final academic hurdle between completing your [prelicensing](/minnesota/prelicensing) education and holding an active producer license. Most candidates who fail do so not because they lack insurance knowledge but because they underestimated the state law section, did not understand the exam's structure, or arrived at the test center unprepared for the procedural requirements. This post decodes the Minnesota PSI exam completely — how it is structured, what question types appear, how the scoring works, what to bring, what to expect on test day whether you test in person or remotely, and what happens immediately after you finish.
 
-### Who Administers the Minnesota Insurance Exam
+## Who Administers the Minnesota Insurance Exam
 
 Minnesota contracts with PSI Services LLC to administer all insurance producer licensing exams. PSI is a national testing company that administers licensing exams across multiple professions and states. For Minnesota insurance licensing purposes, PSI manages exam registration, test center operations, remote testing, score reporting, and result transmission to the Minnesota Department of Commerce.
 
@@ -22,7 +22,7 @@ PSI's Minnesota insurance exam portal: test-takers.psiexams.com/mnins PSI schedu
 
 The Department of Commerce does not administer exams directly. All exam-related logistics — scheduling, rescheduling, score reports, technical support — go through PSI, not the Department.
 
-### The Two-Part Structure: General and State-Specific
+## The Two-Part Structure: General and State-Specific
 
 Every Minnesota insurance licensing exam is divided into two content sections that appear within a single exam session:
 
@@ -32,7 +32,7 @@ The State-Specific Section tests Minnesota insurance law, statutes, regulations,
 
 Both sections appear within the same exam sitting — you do not take them separately. Your score reflects your performance across the full exam.
 
-### Exam Specifications by Line of Authority
+## Exam Specifications by Line of Authority
 
 The number of questions, time allowed, and content distribution differ by line of authority. All questions are multiple-choice.
 
@@ -40,7 +40,7 @@ Pretest questions: PSI exams may include a small number of unscored pretest ques
 
 Time per question: On a 2-hour, 85-question exam, you have approximately 85 seconds per question on average. On a 3-hour combined exam, approximately 75 seconds per question. These are averages — some questions take 20 seconds and others take two minutes. Manage your time by moving through questions at a steady pace and flagging difficult ones to return to rather than stalling.
 
-### Question Format and Style
+## Question Format and Style
 
 All Minnesota PSI exam questions are four-option multiple choice. One answer is definitively correct; three are incorrect or inferior. The questions are written in a direct, factual style — they test whether you know the rule, the definition, the statute, or the procedure, not whether you can reason around ambiguity.
 
@@ -58,7 +58,7 @@ Calculation questions (rare): Some exams include simple numerical calculations �
 
 Answer choice patterns: PSI exam answer choices are typically constructed so that two of the four options are clearly incorrect, one is plausible but wrong, and one is correct. After eliminating the clearly incorrect options, focus your analysis on distinguishing between the plausible-but-wrong answer and the correct answer. The distinguishing factor is almost always a specific word, a numerical value, or a statutory requirement that makes one option precisely correct and the other subtly wrong.
 
-### The Passing Standard
+## The Passing Standard
 
 The minimum passing score for the Minnesota insurance licensing exam is 70% across all lines and exam types. PSI calculates scores on a scaled basis — the raw score is converted to a scaled score ranging from 0 to 100. A scaled score of 70 or higher is a pass.
 
@@ -70,7 +70,7 @@ If you fail: Your score report includes your numerical score and diagnostic info
 
 Retakes: There is no limit on the number of times you can retake the Minnesota insurance exam. A 24-hour waiting period is required between attempts. The $45 exam fee must be paid for each attempt. Your exam results are valid for three years from the date you pass — giving you substantial time to complete fingerprinting and submit your license application after passing.
 
-### Scheduling Your Exam
+## Scheduling Your Exam
 
 Registration: Schedule at test-takers.psiexams.com/mnins or call PSI at (866) 395-1006. You must have your Certificate of Completion from your prelicensing course in hand before scheduling — do not schedule before your certificate is issued.
 
@@ -80,7 +80,7 @@ Cancellation and rescheduling: You may cancel or reschedule up to 48 hours befor
 
 Payment: The $45 exam fee must be paid at the time of reservation by credit card, debit card, or voucher. Payment cannot be made at the test center on the day of the exam.
 
-### In-Person Testing: What to Expect
+## In-Person Testing: What to Expect
 
 Test center locations: PSI operates insurance exam centers in Minnesota at Rochester, St. Paul (Brainseed Testing Center, Hamline Park Plaza, 570 Asbury St. Suite 206), Willmar, Woodbury, and Brainerd, among others. The full current list of test center locations and hours is available through PSI's scheduling portal.
 
@@ -98,7 +98,7 @@ At your workstation: You will be seated at a computer workstation with a monitor
 
 Breaks: The exam clock continues to run during any breaks. There are no scheduled breaks built into the exam. If you need a restroom break during the exam, you may take one — but the clock does not pause. For a 2-hour exam this is rarely an issue; plan accordingly.
 
-### Remote Testing via PSI Bridge: What to Expect
+## Remote Testing via PSI Bridge: What to Expect
 
 Minnesota insurance exams can be taken remotely through PSI Bridge — PSI's online proctored testing platform. Remote testing allows candidates to take the exam from home or any private space with a compatible setup.
 
@@ -128,7 +128,7 @@ Monitoring: A PSI proctor monitors your exam session in real time via webcam. Th
 
 Spanish language option: PSI offers the Minnesota insurance exam in Spanish. Select the Spanish option when scheduling if you prefer to test in Spanish.
 
-### What the State Law Section Actually Covers
+## What the State Law Section Actually Covers
 
 The state-specific section of the Minnesota exam is where candidates most often underperform, and it warrants specific preparation attention beyond the general principles content.
 
@@ -146,7 +146,7 @@ Minnesota Department of Commerce structure: The Commissioner of Commerce holds r
 
 Minnesota health insurance: MNsure as the state-based exchange; Medical Assistance (Medicaid); MinnesotaCare (Basic Health Program for incomes up to 200% FPL, unique to Minnesota); guarantee funds (Minnesota Life and Health Guaranty Association under Minn. Stat. §61B; Minnesota Insurance Guaranty Association for P&C under Minn. Stat. §60C).
 
-### The Day Before and Day Of: A Preparation Checklist
+## The Day Before and Day Of: A Preparation Checklist
 
 Day before:
 
@@ -180,7 +180,7 @@ Do not leave any questions blank — an unanswered question is automatically wro
 
 Trust your preparation on factual questions; do not second-guess answers you know confidently
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How long does it take to receive my Minnesota license after passing the exam?
 

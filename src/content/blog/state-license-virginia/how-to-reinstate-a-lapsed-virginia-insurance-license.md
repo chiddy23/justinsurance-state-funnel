@@ -14,7 +14,7 @@ imageAlt: How to Reinstate a Lapsed Virginia Insurance License
 
 Virginia insurance licenses do not renew automatically and do not have a forgiveness period for missing the renewal deadline. When a Virginia producer license expires — whether because CE was not completed, the renewal application was not submitted, or both — the license is administratively terminated. The consequences are immediate: you cannot legally sell, solicit, or negotiate insurance in Virginia with a terminated license. For producers who find themselves in this situation, Virginia does provide a path to reinstatement, but it has a hard deadline, specific costs, and no exceptions for the underlying CE obligation. Here is exactly what you need to do.
 
-### Why Virginia Licenses Lapse
+## Why Virginia Licenses Lapse
 
 Virginia licenses expire on November 30 of even years — a single statewide deadline that applies to all producers regardless of when they were originally licensed. Licenses lapse for two reasons, which often occur together:
 
@@ -22,11 +22,11 @@ Failure to complete CE: Virginia requires 16 CE hours per biennial cycle (24 hou
 
 Failure to submit the renewal application: Even if CE is complete, the license lapses if the renewal application and fee are not submitted through NIPR or Sircon by November 30. Virginia has no grace period after the expiration date — the day after November 30, a license that was not renewed is terminated.
 
-### The Reinstatement Window
+## The Reinstatement Window
 
 Virginia allows reinstatement within one year from the license expiration date. For a license that expired November 30, 2024, the reinstatement deadline is November 30, 2025. After that one-year window closes, reinstatement is no longer available — a new license application, including retaking the Prometric exam, is required.
 
-### Reinstatement Requirements
+## Reinstatement Requirements
 
 To reinstate a lapsed Virginia insurance license, you must satisfy all of the following:
 
@@ -40,7 +40,7 @@ A producer reinstating a single line of authority pays $60 per line ($10 + $30 +
 
 4. Provide updated background documentation if required. If significant time has passed since your original fingerprinting and CHRR, the Bureau may request updated documentation. Contact the Bureau directly at AgentLicensing@scc.virginia.gov if your reinstatement involves more than a brief lapse.
 
-### What You Cannot Do While Lapsed
+## What You Cannot Do While Lapsed
 
 A lapsed license is not an inactive license — it is a terminated license. While your license is lapsed:
 
@@ -52,13 +52,13 @@ You cannot receive commissions for insurance transactions in Virginia
 
 If you transact insurance during a lapse period, you are operating without a license — a violation of Title 38.2 that can result in fines and permanent license bars. Do not continue operating on the assumption that your license is still active when you know it has expired.
 
-### After Reinstatement Approval
+## After Reinstatement Approval
 
 Once reinstated, your license is active again for the lines you held. Your carrier appointments that were on file prior to lapse may need to be re-activated by the appointing insurer — contact your carriers to confirm appointment status after your license is reinstated.
 
 Your CE clock resets for the next biennial cycle. Going forward, make CE completion and renewal submission part of a calendar-driven process — the November 30 deadline is the same for every Virginia producer, which means there is no excuse for being caught off-guard by it.
 
-### If the One-Year Window Has Passed
+## If the One-Year Window Has Passed
 
 If your license lapsed more than one year ago, reinstatement is not available. You must apply for a new Virginia producer license from scratch:
 
@@ -72,7 +72,7 @@ Submit a new application through NIPR or Sircon ($15 per line)
 
 The exam score is valid for 183 days from your Prometric exam date. If you have previously held a Virginia license, you still must pass the current exam — there is no grandfathering of prior passage for re-applicants who missed the reinstatement window.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Is there any grace period after November 30 to renew a Virginia insurance license?
 

@@ -14,7 +14,7 @@ imageAlt: "Reinstating a Lapsed Minnesota Insurance License: CE and Penalty Rule
 
 A lapsed Minnesota insurance producer license can be reinstated — but the process, costs, and conditions depend entirely on how long the license has been lapsed and what caused it to lapse in the first place. Minnesota provides a 12-month reinstatement window during which producers can restore their license without repeating the full licensing process. After that window closes, reinstatement is no longer available and full relicensing — new [prelicensing](/minnesota/prelicensing), new exam, new fingerprinting — becomes the only path back. This post covers the complete reinstatement framework: how lapse occurs, what the 12-month window requires, exactly what the penalty fee structure is, how CE interacts with reinstatement, what happens to appointments and carrier relationships during a lapse, and what producers must not do while their license is inactive.
 
-### How a Minnesota Producer License Lapses
+## How a Minnesota Producer License Lapses
 
 A Minnesota producer license lapses automatically when the renewal deadline passes without a completed renewal — meaning no renewal application was submitted, no renewal fee was paid, or required CE was not completed before the deadline. There is no grace period. The license is active through the last day of the birth month in the renewal year and inactive beginning the following day.
 
@@ -28,7 +28,7 @@ Renewal fee not paid: The renewal application was submitted but payment was not 
 
 What does not cause lapse: Having outstanding specialty training obligations — LTC refresher, for example — does not independently cause lapse of the general producer license. The general CE requirement (24 hours including 3 ethics, 12 classroom-equivalent, 12 non-company-sponsored) is what must be complete for renewal. Specialty training obligations affect the producer's ability to sell specific products but do not on their own cause the license to lapse.
 
-### The Immediate Consequences of Lapse
+## The Immediate Consequences of Lapse
 
 The license is inactive from the day after the deadline. On the morning following the missed renewal deadline, the producer's license status in the Department of Commerce's system changes from active to lapsed. The producer no longer has authority to sell, solicit, or negotiate insurance in Minnesota.
 
@@ -38,7 +38,7 @@ Carrier appointments are effectively suspended. While carrier appointments are f
 
 Transacting business on a lapsed license is a regulatory violation. A producer who continues to sell, solicit, or negotiate insurance after their license has lapsed is engaging in unlicensed activity under Minn. Stat. §60K.31. This violation is independent of whether the producer knew their license had lapsed, whether their carrier appointments remain on file, and whether the underlying policies they place are otherwise compliant. Stop transacting insurance business immediately upon discovering a lapse and do not resume until reinstatement is confirmed.
 
-### The 12-Month Reinstatement Window
+## The 12-Month Reinstatement Window
 
 Minnesota provides a 12-month window during which a lapsed producer license can be reinstated without repeating the prelicensing education, PSI state exam, or fingerprinting process. The 12-month window begins on the day after the missed renewal deadline — the first day of lapse — and closes exactly 12 months later.
 
@@ -54,7 +54,7 @@ Submit through NIPR or Sircon: The reinstatement application is submitted throug
 
 No new prelicensing, exam, or fingerprinting: Within the 12-month window, reinstatement does not require repeating any component of the original licensing process. The existing license record is restored — the same license number, the same lines of authority — without starting over.
 
-### The Penalty Fee: Exactly What You Owe
+## The Penalty Fee: Exactly What You Owe
 
 The reinstatement penalty structure is frequently misquoted or misunderstood. The correct calculation:
 
@@ -62,11 +62,11 @@ The penalty is the doubling of the unpaid renewal fee — meaning the $80 that w
 
 Multiple lapse periods: A producer who allowed their license to lapse for one full renewal period — meaning they missed one renewal deadline and are reinstating — pays the doubled fee for that one period. A producer who missed two consecutive renewal periods and is reinstating within 12 months of the most recent lapse pays the doubled fee for the outstanding period. Contact the Department of Commerce at (651) 539-1599 to confirm the exact fee for your specific situation before submitting — the platform calculates the fee based on your license record, but confirming in advance avoids surprises.
 
-### CE Requirements During Reinstatement: The Full Picture
+## CE Requirements During Reinstatement: The Full Picture
 
 The interaction between CE and reinstatement is one of the most frequently misunderstood aspects of the Minnesota reinstatement process. Several specific scenarios require distinct treatment.
 
-#### Scenario 1: Lapse Caused Entirely by Failure to Submit Application (CE Was Complete)
+### Scenario 1: Lapse Caused Entirely by Failure to Submit Application (CE Was Complete)
 
 A producer who completed all 24 CE hours before the renewal deadline but simply failed to submit the renewal application — through forgetfulness, travel, or technical issues — has a CE-complete, application-incomplete lapse.
 
@@ -74,7 +74,7 @@ CE requirement at reinstatement: CE completion was timely. The reinstatement doe
 
 Starting the next CE cycle: The new CE period begins upon reinstatement. The producer has a fresh 24-month CE cycle with no credit for hours that might have been completed during the lapse period. CE completed after the lapse date — during the lapse period itself — may not count toward the reinstated license's first renewal period. Contact the Department of Commerce to confirm the specific CE credit treatment for your reinstatement situation.
 
-#### Scenario 2: Lapse Caused by Incomplete CE
+### Scenario 2: Lapse Caused by Incomplete CE
 
 A producer who missed the renewal deadline because CE was not complete — the most common lapse scenario — must complete the outstanding CE before reinstatement will be processed.
 
@@ -84,19 +84,19 @@ Applying CE completed after the lapse date: CE completed after the license lapse
 
 The new CE cycle after reinstatement: Upon reinstatement, a new 24-month CE cycle begins. Hours completed during the lapse period that were used to satisfy the reinstatement CE requirement do not carry over into the new cycle. The producer starts the new cycle with a zero-hour CE balance and must complete another 24 hours over the subsequent two years.
 
-#### Scenario 3: Lapse With Partial CE Completion
+### Scenario 3: Lapse With Partial CE Completion
 
 A producer who completed 18 of the required 24 CE hours before the lapse deadline must complete the remaining 6 hours — plus satisfy any component deficiencies in ethics, classroom, or non-company-sponsored hours — before reinstatement.
 
 The component deficiency matters as much as the hour deficit: If the 18 completed hours included 0 ethics hours, the producer needs 6 more hours including at least 3 ethics hours. If the 18 hours included only 8 classroom-equivalent hours, the producer needs at least 4 more classroom-equivalent hours among the remaining CE. The reinstatement CE requirement is the full 24-hour obligation with all four components satisfied — not merely completing the remaining hour count.
 
-#### Scenario 4: Long Lapse (More Than 6 Months But Less Than 12 Months)
+### Scenario 4: Long Lapse (More Than 6 Months But Less Than 12 Months)
 
 A producer whose license has been lapsed for 7 or 8 months and who wants to reinstate must complete the CE requirement for the lapsed period and pay the doubled fee — the same requirements as a producer who discovers the lapse within weeks. The only thing the additional lapse time changes is the urgency: with 4–5 months remaining in the 12-month window, the producer has a tighter timeline to complete CE and submit the reinstatement before the window closes.
 
 Urgency calculation: Upon discovering a lapse, immediately calculate how much of the 12-month window remains. Subtract the number of months since the lapse date from 12 to determine remaining window time. If 8 months have passed since the lapse date, 4 months remain. Complete CE as quickly as possible — live webinars from independent providers can provide the classroom and non-company-sponsored components efficiently — and submit the reinstatement application as soon as all components are satisfied and recorded in the transcript.
 
-### After the 12-Month Window: Full Relicensing
+## After the 12-Month Window: Full Relicensing
 
 If a producer does not reinstate within the 12-month window — whether because they were unaware of the lapse, chose not to pursue reinstatement, or were unable to complete CE in time — the reinstatement pathway permanently closes. Full relicensing is the only path back to a Minnesota producer license.
 
@@ -114,7 +114,7 @@ No continuity of prior CE: CE credits completed before the lapse do not carry fo
 
 No continuity of prior licensing history for exemption purposes: A producer who was exempt from CE at initial licensing due to the 6-month new licensee exemption does not receive that exemption again upon relicensing — the exemption applies to the first renewal period of the initial license, not to subsequent licenses.
 
-### Carrier Appointments and Client Accounts During Lapse
+## Carrier Appointments and Client Accounts During Lapse
 
 Appointments during lapse: Carrier appointments technically remain on file during a lapse — the carrier does not automatically terminate appointments when a license lapses. However, those appointments provide no transactional authority because the underlying license is inactive. The producer cannot submit applications, collect premiums, or bind coverage under a lapsed license regardless of appointment status.
 
@@ -124,13 +124,13 @@ Client account management during lapse: Existing policyholders are not directly 
 
 Restoring appointments after reinstatement: After reinstatement is confirmed in the Department's system, contact each appointing carrier to verify that the appointment is active and that the carrier's records reflect the restored license status. Some carriers automatically reactivate appointments when the license is reinstated; others may require the producer to initiate a reactivation or submit a new appointment request.
 
-### Disclosing a Prior Lapse
+## Disclosing a Prior Lapse
 
 A license lapse becomes part of the producer's regulatory history and must be disclosed on future license applications and renewal applications that include disclosure questions about prior regulatory events. Minnesota's renewal disclosure questions ask about changes since the last renewal — a lapse and reinstatement during the current period may need to be disclosed depending on how the disclosure questions are worded. When in doubt, disclose — the consequences of a material non-disclosure are substantially more serious than the consequences of disclosing a lapse that the Department already knows about from its own records.
 
 Disclosures in other states: When applying for non-resident licenses in other states or renewing existing non-resident licenses, those states' disclosure questions may ask about prior license lapses. Disclose accurately in all states — the NIPR producer database reflects license status across all states, and discrepancies between a producer's disclosures and the NIPR database create misrepresentation exposure.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My license lapsed 14 months ago. I discovered it today. Is there any way to reinstate without going through full relicensing?
 

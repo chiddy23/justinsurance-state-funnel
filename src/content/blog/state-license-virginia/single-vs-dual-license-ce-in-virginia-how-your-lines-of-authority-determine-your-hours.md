@@ -14,7 +14,7 @@ imageAlt: "Single vs. Dual License CE in Virginia: How Your Lines of Authority D
 
 The single most important thing to understand about Virginia's [continuing education](/virginia/continuing-education) system is that your CE obligation is determined not by how many lines of authority you hold, but by how many license types you hold. Virginia groups its major lines into two license types for CE purposes, and whether you hold one type or two determines whether you complete 16 hours or 24 hours every biennial cycle. Getting this wrong means either under-completing CE (which terminates your license) or over-completing unnecessarily. This post explains exactly how the classification works, how the 8-hour minimums apply, and what changes if you add a new license type after your initial licensure.
 
-### Virginia's Two CE License Types
+## Virginia's Two CE License Types
 
 Virginia's CE rules, codified in Title 38.2 of the Code of Virginia, classify producer licenses into two major types for CE purposes:
 
@@ -42,11 +42,11 @@ Personal Lines
 
 All of these are the same license type. A producer holding both Property and Casualty as separate lines of authority still holds one license type for CE purposes.
 
-### How the Hours Work
+## How the Hours Work
 
 The jump from 16 to 24 hours happens only when you cross from one license type to two. Within a single license type, adding more lines does not increase your CE obligation.
 
-### The 8-Hour Minimums for Dual Licensees
+## The 8-Hour Minimums for Dual Licensees
 
 A dual licensee's 24-hour requirement includes a mandatory minimum of 8 CE hours applicable to each license type. These minimums cannot be substituted or swapped — you cannot satisfy the dual requirement by taking 16 hours of P&C content and 8 hours of L/A/H content, even though 8 + 16 = 24. Both types must reach at least 8 hours.
 
@@ -54,7 +54,7 @@ Practical allocation options for dual licensees:
 
 The ethics 3 hours count toward the total and typically count toward the license type of the course content — a Virginia laws and regulations course (which satisfies ethics) can count toward either L/A/H or P&C depending on the course's approved category.
 
-### The 75% Company-Sponsored Cap in Practice
+## The 75% Company-Sponsored Cap in Practice
 
 No more than 75% of required CE credits may come from company-sponsored courses. For dual licensees:
 
@@ -66,7 +66,7 @@ Minimum non-company-sponsored: 6 hours (25% of 24)
 
 The cap applies to the total — not separately to each license type. If you complete 18 hours of company-sponsored content (the maximum), the remaining 6 hours must come from non-company sources.
 
-### What Changes When You Add a License Type
+## What Changes When You Add a License Type
 
 If you currently hold only a Life & Health license and add a P&C line of authority, your CE obligation changes for the next renewal cycle going forward:
 
@@ -80,13 +80,13 @@ You must plan your CE to cover both license types before the next renewal
 
 If you add the P&C line midway through your current biennium, you will likely have a partial-biennium situation where you may have already completed some CE for your L/A/H renewal. Confirm with the Bureau of Insurance at AgentLicensing@scc.virginia.gov how mid-biennium license additions affect the current cycle's CE obligation.
 
-### Why the Distinction Matters Practically
+## Why the Distinction Matters Practically
 
 The difference between 16 and 24 hours is 8 additional CE hours per biennial cycle — roughly one additional online course per year. Over a 30-year career, that adds up to 120 additional CE hours and the associated course costs and time. This is not a reason to avoid getting dual licensed — the market access is worth it — but it is a factor to incorporate into annual planning.
 
 The more operationally important point is that under-completing dual licensee CE is a common mistake. Producers who hold both L/A/H and P&C licenses and complete only 16 hours have not satisfied their requirement. Licenses that fail to meet CE requirements are administratively terminated on the renewal date with no grace period. The Bureau of Insurance does not send warning notices about CE deficiencies — your CE transcript on Sircon is your responsibility to monitor.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I hold Life, Annuities, and Health separately as three different line qualifications, do I need more than 16 hours of CE?
 

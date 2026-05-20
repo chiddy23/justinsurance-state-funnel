@@ -15,7 +15,7 @@ imageAlt: "In-Person vs. Remote: Choosing Your Pearson VUE Testing Format in Ten
 
 Every Tennessee insurance licensing exam candidate faces one logistical decision before scheduling: take the Pearson VUE exam at a physical test center or take it remotely from home via OnVUE — Pearson VUE's online proctored platform. Both formats administer the identical exam — the same 77 questions, the same 105-minute time limit, the same 70% pass threshold, the same immediate score reporting. The format choice does not affect what is tested or how scores are calculated. What it affects is the environment in which you perform, the technical requirements you must meet, the procedures you must follow on test day, and the cost you pay. For some candidates the choice is straightforward. For others — particularly those with unreliable internet, household distractions, or technology limitations — the wrong choice creates preventable test-day problems that have nothing to do with knowledge of insurance. This post covers every dimension of the in-person vs. remote decision so you can choose the format that gives you the best chance of performing at your preparation level on exam day.
 
-### The Core Difference: Environment Control
+## The Core Difference: Environment Control
 
 The single most important dimension of this decision is environment control — your ability to manage the conditions under which you take the exam.
 
@@ -25,13 +25,13 @@ Remote (OnVUE): You control the environment. The exam takes place wherever you c
 
 This distinction drives most of the practical differences between the two formats and most of the risk factors that should influence your decision.
 
-### Fee Comparison
+## Fee Comparison
 
 The $6 difference per line is modest in isolation. For a candidate taking all four major lines remotely versus in-person, the difference is $24 total — meaningful but not decisive. The fee difference should not be the primary driver of the format decision. The environment and technical reliability factors carry far more weight in determining which format actually serves you better.
 
-### The Remote Format (OnVUE): Complete Requirements and Procedures
+## The Remote Format (OnVUE): Complete Requirements and Procedures
 
-#### Technical Requirements
+### Technical Requirements
 
 Before scheduling a remote exam, run the Pearson VUE system compatibility check at home.pearsonvue.com/tn/insurance on the specific computer you plan to use — not on a different device, not on the same model but a different unit. Run it at least 24 hours before your scheduled exam. If the check fails the morning of the exam, you have no time to schedule in-person as an alternative.
 
@@ -53,7 +53,7 @@ Google Chrome browser — the OnVUE platform runs within Chrome. Ensure Chrome i
 
 All other applications must be closed during the exam — the OnVUE system detects running applications and may flag or terminate the exam for unauthorized software running in the background. Close everything before beginning check-in.
 
-#### The Testing Environment
+### The Testing Environment
 
 Your physical space must meet Pearson VUE's remote testing environment standards. The proctor reviews your environment during check-in and can deny access or terminate the exam if the space does not comply.
 
@@ -73,7 +73,7 @@ No talking or reading questions aloud — the microphone is monitored throughout
 
 Do not cover your mouth during the exam — the proctor monitors lip movement and covering your mouth triggers intervention.
 
-#### The Check-In Process
+### The Check-In Process
 
 Log in 15–30 minutes before your scheduled start time. The check-in process takes 10–20 minutes and must be completed before the exam clock begins.
 
@@ -95,7 +95,7 @@ The exam begins
 
 If the proctor identifies a problem during check-in — a prohibited item visible, another person in the room, an environmental condition that does not comply — you will be asked to correct it before proceeding. If correction is not possible, the exam session may be denied and the fee forfeited.
 
-#### Proctor Monitoring During the Exam
+### Proctor Monitoring During the Exam
 
 An OnVUE proctor monitors your exam session via webcam and microphone in real time throughout the exam. The proctor can intervene at any point to issue a warning or terminate the session.
 
@@ -115,7 +115,7 @@ Loss of internet connectivity
 
 Exam termination: If the proctor terminates your exam session for a policy violation, the exam is voided and the fee is forfeited. No credit is given for questions already answered. A new exam appointment must be scheduled and the full fee paid again. Terminations are entirely preventable — they result from environment or behavior problems, not knowledge gaps.
 
-#### Who Should Choose Remote
+### Who Should Choose Remote
 
 Remote works best for candidates who:
 
@@ -139,15 +139,15 @@ Have not run the compatibility check on their specific testing computer.
 
 Are taking a high-stakes exam for the first time and would benefit from a standardized, professionally managed environment rather than self-managed home setup.
 
-### The In-Person Format: Complete Requirements and Procedures
+## The In-Person Format: Complete Requirements and Procedures
 
-#### Finding a Test Center
+### Finding a Test Center
 
 Pearson VUE test centers throughout Tennessee administer Tennessee insurance licensing exams. Test center locations can be found at pearsonvue.com/tn/insurance by entering your zip code. Test centers are typically located within office buildings or commercial complexes — they are not standalone dedicated facilities.
 
 One important limitation: The Public Adjuster exam is available only at the Knoxville, Memphis, and Nashville test centers — not at all Pearson VUE locations statewide. For all standard insurance licensing exams (Life, A&H, Property, Casualty, Personal Lines), the full range of Tennessee test center locations is available.
 
-#### Scheduling and Arrival
+### Scheduling and Arrival
 
 Schedule your appointment through your Pearson VUE account at pearsonvue.com/tn/insurance or by calling (800) 274-4957. Payment is required at the time of scheduling.
 
@@ -163,7 +163,7 @@ Read and acknowledge testing policies
 
 Be escorted to your assigned workstation with time to settle before the exam clock begins
 
-#### Identification Requirements
+### Identification Requirements
 
 Bring one government-issued photo ID with your signature. The name on the ID must exactly match the name on your exam registration. Accepted forms:
 
@@ -177,7 +177,7 @@ Military identification
 
 Name discrepancy policy: If the name on your ID differs from your exam registration — even a minor variation such as a middle initial present on one but absent from the other — the test center staff may deny access. Verify the name match in your Pearson VUE account before exam day. Contact Pearson VUE to correct any discrepancy before your appointment.
 
-#### What Goes Into the Locker
+### What Goes Into the Locker
 
 All personal items are stored in a test center-provided locker before entering the testing room:
 
@@ -191,7 +191,7 @@ Any notes, study materials, or reference documents
 
 Nothing enters the testing room except what the test center provides.
 
-#### What the Test Center Provides
+### What the Test Center Provides
 
 Scratch paper or a whiteboard and marker for calculations and notes during the exam
 
@@ -201,17 +201,17 @@ Noise-canceling headphones at some locations — not universally available
 
 You may not bring your own scratch paper, pencils, pens, or any other materials into the testing room.
 
-#### The Testing Room Environment
+### The Testing Room Environment
 
 The testing room contains multiple individual workstations — other candidates may be testing simultaneously on different exams. The room is monitored by test center staff present in the room and by security cameras. The environment is controlled for noise, temperature, and lighting.
 
 Communication with test center staff: If you need assistance during the exam — bathroom break, technical problem with the workstation, noise disruption — raise your hand. Test center staff will come to you. Do not leave your workstation without notifying staff.
 
-#### Score Report at In-Person Test Centers
+### Score Report at In-Person Test Centers
 
 After completing the exam, your score report is displayed on screen and printed by test center staff. You receive the physical printout before leaving the facility. This printed score report is your official documentation of the result.
 
-#### Who Should Choose In-Person
+### Who Should Choose In-Person
 
 In-person works best for candidates who:
 
@@ -229,23 +229,23 @@ Live near a Pearson VUE test center where the convenience advantage of remote te
 
 Have had negative experiences with technology during important remote sessions — video calls, online meetings, remote work — that create concern about technical reliability during a high-stakes exam.
 
-### Taking Multiple Exams on the Same Day
+## Taking Multiple Exams on the Same Day
 
 Tennessee allows candidates to schedule and sit for multiple line exams in a single testing day — the most efficient approach for candidates pursuing Property and Casualty or all four major lines.
 
-#### Multiple Exams In-Person
+### Multiple Exams In-Person
 
 Schedule each exam as a separate appointment at the same test center on the same day. After completing the first exam and receiving your score report, test center staff will transition you to the second exam appointment. The same check-in, locker, and testing room procedures apply to each appointment separately.
 
 Scheduling consideration: Allow the full 105-minute window for each exam plus transition time between appointments. A first exam scheduled at 9:00 a.m. should not have a second exam scheduled before 11:30 a.m. to allow for the full exam duration plus transition.
 
-#### Multiple Exams Remote
+### Multiple Exams Remote
 
 Schedule each exam as a separate OnVUE appointment with at least 30–45 minutes between them. The check-in process for the second exam — including the room scan, ID photo, and proctor review — requires the same 15–30 minutes as the first appointment's check-in.
 
 The fatigue consideration: Two consecutive 105-minute exams — particularly two demanding licensing exams with no break between — is cognitively taxing. Schedule a genuine break between the two remote appointments rather than beginning the second check-in immediately after the first exam ends. Eat something, step away from the screen for 10–15 minutes, and return to the second appointment with a reset mental state.
 
-### The Decision Framework: Choosing Your Format
+## The Decision Framework: Choosing Your Format
 
 Work through the following questions in order. The first question where your answer points clearly to one format is your answer.
 
@@ -283,7 +283,7 @@ If all five questions point to remote: Remote is the right choice for you. Proce
 
 If any question pointed to in-person: In-person is the safer choice. The $6 per line premium over remote is not a meaningful cost compared to the risk of a preventable remote exam failure caused by a technical or environmental problem.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My internet dropped once during a video call last month. Should that concern me for OnVUE?
 

@@ -16,7 +16,7 @@ Three of every Tennessee insurance producer's 24 biennial CE hours must be in et
 
 This post covers every dimension of Tennessee's ethics CE requirement: what the TDCI means by ethics content, how to identify approved ethics courses, what common mistakes cause producers to reach renewal without satisfying the requirement, and how to build an ethics CE strategy that eliminates compliance uncertainty from every renewal cycle.
 
-### What the Ethics Requirement Actually Requires
+## What the Ethics Requirement Actually Requires
 
 Tennessee's ethics CE requirement is established under TCA §56-6-107 and the TDCI's CE rules. It requires that 3 of the 24 biennial CE hours be completed in ethics content specifically approved by the TDCI as ethics CE.
 
@@ -28,9 +28,9 @@ Two elements of that sentence matter:
 
 The ethics designation is binary — a course either carries it or it does not. A producer who completes a 3-hour course on Tennessee insurance law that includes significant discussion of ethical obligations but does not carry the TDCI ethics designation has 3 hours of general CE and zero hours of ethics CE.
 
-### How to Identify an Approved Ethics Course
+## How to Identify an Approved Ethics Course
 
-#### The TDCI Course Approval System
+### The TDCI Course Approval System
 
 The TDCI approves CE courses individually — each course carries a specific course number, credit hour value, and subject matter classification. The ethics classification is part of that individual course approval. When searching for ethics CE, look for courses that carry an explicit ethics designation in the course title, description, or approval attributes.
 
@@ -46,7 +46,7 @@ Verifying through the TDCI:
 
 The TDCI maintains records of approved CE courses and providers. If you are uncertain whether a specific course carries the ethics designation, contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov and provide the course name and provider. The TDCI can confirm whether the course carries the ethics designation before you enroll.
 
-#### What Ethics CE Courses Typically Cover
+### What Ethics CE Courses Typically Cover
 
 TDCI-approved ethics courses for insurance producers typically address one or more of the following content areas:
 
@@ -62,27 +62,27 @@ Consumer protection principles: The ethical obligations producers have to vulner
 
 Suitability and best interest standards: The ethical dimensions of product suitability — particularly for annuity and life insurance products — including the producer's obligation to gather adequate client information before recommending a product and to document the basis for their recommendation.
 
-### Common Mistakes That Leave Producers Without Ethics CE at Renewal
+## Common Mistakes That Leave Producers Without Ethics CE at Renewal
 
-#### Mistake 1: Assuming Relevant Content Equals Ethics Designation
+### Mistake 1: Assuming Relevant Content Equals Ethics Designation
 
 The most common ethics CE compliance failure is completing courses that address ethical themes without verifying that those courses carry the TDCI ethics designation. A producer who completes a course on Tennessee insurance law and regulation, a course on annuity suitability best interest standards, or a course on unfair trade practices may legitimately believe they have satisfied the ethics requirement — because those topics are directly related to ethical conduct. But if none of those courses carries the TDCI ethics designation, the producer has zero hours of ethics CE regardless of the content's relevance.
 
 The fix: Verify the ethics designation before enrolling in any course intended to satisfy the ethics requirement. Do not rely on content relevance — rely on official TDCI course designation.
 
-#### Mistake 2: Front-Loading General CE Without Ethics
+### Mistake 2: Front-Loading General CE Without Ethics
 
 Producers who complete the majority of their CE hours early in the biennial period sometimes reach month 22 or 23 with 22 general hours completed and discover they have not taken any ethics-designated courses. If ethics-approved courses are unavailable from their preferred provider at the deadline, or if available ethics courses require scheduling a live session with limited availability, the producer faces a compliance gap with minimal time to resolve it.
 
 The fix: Complete the 3-hour ethics requirement first — in the first six months of each biennial period — rather than last. Ethics CE is the one fixed categorical requirement. Completing it early eliminates the possibility of reaching renewal without it.
 
-#### Mistake 3: Counting the Same Ethics Course Twice
+### Mistake 3: Counting the Same Ethics Course Twice
 
 Tennessee prohibits producers from repeating the same course within the same biennial period and receiving credit for both completions. This prohibition applies to ethics courses as well. A producer who completes a 3-hour ethics course in year one of the biennial period and then completes the same 3-hour ethics course again in year two receives credit for only one completion — 3 hours of ethics CE, not 6.
 
 The fix: Maintain a record of every course completed during each biennial period including the course number. When selecting courses for the second year of a biennial period, verify that no selected course duplicates a course completed in the first year.
 
-#### Mistake 4: Using Non-Resident Status to Avoid Ethics CE
+### Mistake 4: Using Non-Resident Status to Avoid Ethics CE
 
 Non-resident producers whose home state CE is current are exempt from Tennessee's CE requirements — with the effect that home state CE satisfaction covers Tennessee non-resident CE. However, this exemption applies when the home state has a recognized CE framework that satisfies Tennessee's requirements. If a producer's home state has an ethics CE requirement that is satisfied by home state ethics CE completion, that completion typically satisfies Tennessee's non-resident ethics obligation as well.
 
@@ -90,7 +90,7 @@ The mistake occurs when a producer assumes the non-resident CE exemption elimina
 
 The fix: Non-resident producers should confirm with the TDCI whether their home state's CE framework satisfies Tennessee's ethics requirement, rather than assuming the exemption eliminates it.
 
-### Ethics CE and the 24-Hour Total
+## Ethics CE and the 24-Hour Total
 
 The 3-hour ethics requirement is a subset of the 24-hour total — not an addition to it. A producer who completes 3 hours of ethics CE and 21 hours of general CE has satisfied the full 24-hour requirement. A producer who completes 24 hours of general CE and then adds 3 hours of ethics CE has completed 27 total hours — but only 24 hours are credited toward the renewal requirement (with 3 hours forfeited because Tennessee has no CE carryover).
 
@@ -104,19 +104,19 @@ Total: 24 hours, requirement fully satisfied
 
 Specialty training interaction: If a producer completes specialty training during the biennial period — LTC training, annuity suitability training, or NFIP certification — those hours count toward the 24-hour total. Specialty training courses typically carry general CE designation rather than ethics designation. Specialty training does not satisfy the 3-hour ethics requirement unless the specific specialty training course carries an TDCI ethics designation.
 
-### Building an Ethics CE Strategy for Every Renewal Cycle
+## Building an Ethics CE Strategy for Every Renewal Cycle
 
-#### The First-Priority Approach
+### The First-Priority Approach
 
 Treat ethics CE as the first priority of every biennial renewal period — not the last. Complete 3 hours of TDCI-approved ethics CE in the first three months of each renewal cycle. Document the completion. Verify the hours appear in the TDCI's records. Then complete the remaining 21 hours of general CE at whatever pace suits the rest of the biennial period.
 
 This sequencing eliminates the ethics CE gap risk entirely. A producer who has satisfied the ethics requirement in month three of a 24-month period cannot reach renewal without it — regardless of what happens with general CE completion.
 
-#### The Annual Ethics Review Approach
+### The Annual Ethics Review Approach
 
 Some producers prefer to complete one ethics course per year — two courses across the biennial period — ensuring that the ethics requirement is satisfied at a natural midpoint with no end-of-period deadline pressure. This approach also distributes the ethics content across the biennial period, reinforcing the ethical standards that the CE is designed to maintain rather than treating ethics as a one-time compliance box to check.
 
-#### Verifying Ethics Completion Before Renewal
+### Verifying Ethics Completion Before Renewal
 
 Before submitting the NIPR renewal application, verify two things separately:
 
@@ -126,7 +126,7 @@ Ethics hours: At least 3 of those 24 hours must carry the ethics designation in 
 
 Both verifications are necessary because the TDCI tracks ethics hours separately from general CE hours. A renewal submitted with 24 total hours but zero ethics hours will be rejected as non-compliant even though the total hour count is correct.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed a 4-hour course on Tennessee's Unfair Trade Practices Act that covered producer ethical obligations extensively. My CE provider listed it as general CE, not ethics CE. Can I submit a request to have it reclassified?
 

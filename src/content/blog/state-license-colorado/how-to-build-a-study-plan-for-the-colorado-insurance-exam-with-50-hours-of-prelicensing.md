@@ -16,7 +16,7 @@ Colorado's 50-hour [prelicensing](/colorado/prelicensing) requirement is not a b
 
 This post gives you the exact study plan framework, topic allocation strategy, and milestone schedule to move through Colorado's prelicensing and state exam process efficiently — whether you are pursuing Life, Accident & Health, Property, Casualty, or Personal Lines authority.
 
-### Understanding the 50-Hour Structure Before You Plan
+## Understanding the 50-Hour Structure Before You Plan
 
 Before building a study schedule, internalize what those 50 hours actually contain. Colorado's prelicensing breaks into two distinct components:
 
@@ -36,7 +36,7 @@ The Pearson VUE state exam mirrors this structure exactly: a general knowledge s
 
 This alignment between your prelicensing hours and the exam sections is your study plan's foundation. Every hour spent in the general portion of your course builds toward the general section of the Pearson VUE exam. Every hour spent in the Colorado-specific portion builds toward the state section.
 
-### Choosing Your Study Pace: Three Realistic Timelines
+## Choosing Your Study Pace: Three Realistic Timelines
 
 Before building the day-by-day schedule, decide your pace. Three models work for different life circumstances:
 
@@ -48,29 +48,29 @@ Extended (6–8 weeks): 1–1.5 hours per day. Best for candidates with highly c
 
 One rule applies to all paces: Do not complete your prelicensing course and then wait weeks to schedule the Pearson VUE exam. Exam scheduling should happen the same day you receive your Certificate of Completion. Material retention drops sharply within the first two weeks after course completion. The best candidates schedule the state exam for 5–10 days after completing the Certificate Exam — enough time for final review but short enough that the content is still fresh.
 
-### Phase 1: The General Knowledge Section (Weeks 1–3 of Moderate Pace, ~40 Hours)
+## Phase 1: The General Knowledge Section (Weeks 1–3 of Moderate Pace, ~40 Hours)
 
 The general knowledge section is where most of your prelicensing hours are spent and where most of your exam questions originate. For Life and A&H, 50 of 80 scored questions — 62.5% — come from the general section. For Personal Lines, 75 of 104 scored questions — 72% — are general knowledge. This is the higher-weight section for every line.
 
-#### Topic Allocation for Life Authority (General Portion)
+### Topic Allocation for Life Authority (General Portion)
 
 The Life general section covers five main content areas. Allocate your 40 general hours roughly as follows based on the Pearson VUE content outline weighting:
 
 The Policy Riders, Provisions, Options, and Exclusions section is the heaviest single content area on the Life exam and deserves the most study time. Every beneficiary designation rule, every waiver of premium provision, every assignment type, every dividend option — these are the types of questions that appear in volume.
 
-#### Topic Allocation for Accident & Health Authority (General Portion)
+### Topic Allocation for Accident & Health Authority (General Portion)
 
 Medicare's structure — Part A, B, C, and D — and the distinction between Medicare supplement policies and Medicare Advantage plans appear reliably on the A&H exam. Invest proportionally here.
 
-#### Topic Allocation for Property Authority (General Portion)
+### Topic Allocation for Property Authority (General Portion)
 
 Coinsurance formulas, the difference between actual cash value and replacement cost, and NFIP flood coverage rules are consistently tested and worth deliberate mastery.
 
-#### Topic Allocation for Casualty Authority (General Portion)
+### Topic Allocation for Casualty Authority (General Portion)
 
 Negligence — the duty, breach, causation, damages framework — and the difference between occurrence and claims-made policy forms are the Casualty exam's conceptual anchors.
 
-#### The Active Study Method for General Content
+### The Active Study Method for General Content
 
 Reading through your prelicensing course once is not enough for most candidates. The content density — particularly on policy provisions, coverage triggers, and exclusions — requires multiple passes. A study method that works:
 
@@ -80,7 +80,7 @@ Chapter quizzes: Most Colorado prelicensing providers require 70% on chapter qui
 
 Second pass (weak areas only): Before the Certificate Exam, revisit every chapter where your quiz score was below 85%. You do not have retread chapters where you scored 95% — allocate that time to genuine weak spots.
 
-### Phase 2: The Colorado-Specific Section (Final Week of Prelicensing, ~10 Hours)
+## Phase 2: The Colorado-Specific Section (Final Week of Prelicensing, ~10 Hours)
 
 The Colorado-specific section of the state exam accounts for 30 of 80 scored questions on Life and A&H — 37.5% of the exam. For a section that represents only 10 of your 50 prelicensing hours, this is a disproportionately high exam weight. Many candidates underinvest here and pay for it on the state exam.
 
@@ -92,7 +92,7 @@ The 10 Colorado-specific hours cover three topics:
 
 4 hours: Legal Concepts and Regulations Producer licensing requirements, appointment obligations, reporting duties, renewal and CE obligations, and line-specific Colorado regulations (replacement rules for Life, small group and individual health rules for A&H, etc.). This is the largest single component of the Colorado-specific curriculum and maps to multiple sections of the state exam.
 
-#### Study Strategy for the Colorado Section
+### Study Strategy for the Colorado Section
 
 The Colorado-specific section rewards memorization and application more than conceptual understanding. The questions are more rules-based than concept-based: How many days does a producer have to report a change of address? What constitutes rebating under Colorado law? What is the Commissioner's authority to examine insurers?
 
@@ -104,7 +104,7 @@ Connect Colorado rules to the content outline categories. The Pearson VUE conten
 
 Devote at least 3–4 hours of dedicated review to the Colorado-specific content in the 3–5 days before your Pearson VUE state exam — separate from your initial prelicensing work. The Colorado section is fresh in your mind at Certificate Exam time, but 2–3 weeks later (a common gap between Certificate Exam and state exam) the specific rules can fade.
 
-### Phase 3: The Certificate Exam (End of Prelicensing)
+## Phase 3: The Certificate Exam (End of Prelicensing)
 
 Your prelicensing provider administers the Certificate Exam after you complete all course modules. It requires a 70% passing score and must be supervised in person by a disinterested third party — someone who is not a minor, not related to you, and not your direct supervisor or employee.
 
@@ -120,7 +120,7 @@ Arrange your proctor in advance — last-minute proctor arrangements are the mos
 
 After passing, your provider typically processes your Certificate of Completion within 1–2 business days. Once you receive confirmation that your completion has been reported to Pearson VUE, schedule your state exam immediately.
 
-### Phase 4: The Bridge Period Between Certificate Exam and State Exam (Days 1–10 After Certificate)
+## Phase 4: The Bridge Period Between Certificate Exam and State Exam (Days 1–10 After Certificate)
 
 This 7–10 day window between receiving your Certificate of Completion and sitting for the Pearson VUE exam is the most critical study period in the entire process. You are not covering new material — you are consolidating what you already know and drilling the specific question formats the state exam uses.
 
@@ -134,7 +134,7 @@ Days 7–8: Colorado-specific section deep review Pull out your rules list from 
 
 Days 9–10: Final practice and logistics Take one final timed practice set. Review only the questions you miss. Do not cram new content on day 9 or 10 — if you have covered the material, additional cramming increases anxiety more than it improves scores. On day 9, confirm your test center location and directions, or run your OnVUE system check if testing remotely. On day 10 (exam day), arrive 30 minutes early.
 
-### The Single Most Common Study Plan Mistake in Colorado
+## The Single Most Common Study Plan Mistake in Colorado
 
 The most reliable predictor of failure on the Colorado Pearson VUE exam is not insufficient general knowledge — it is underpreparation on the Colorado-specific state section. Candidates who score 85%+ on their provider's practice exams for general content and then see a failing score on the actual exam almost universally trace the failure to the state section.
 
@@ -142,7 +142,7 @@ This happens because prelicensing providers spend proportionally less time on Co
 
 The fix is mechanical: allocate the last 3–4 days of your bridge review almost entirely to the Colorado-specific section. Review the content outline, your rules list, and practice state-section questions specifically. Do not go into the exam having reviewed general content three times and Colorado-specific content once.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How long should I spend on the prelicensing course if I am pursuing both Property and Casualty authority?
 

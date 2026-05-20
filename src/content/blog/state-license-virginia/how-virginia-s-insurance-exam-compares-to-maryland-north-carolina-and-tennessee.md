@@ -14,11 +14,11 @@ imageAlt: How Virginia's Insurance Exam Compares to Maryland, North Carolina and
 
 Virginia sits at the crossroads of the Mid-Atlantic and Southeast, and producers who want to serve the full DC-to-Charlotte corridor — or the Appalachian corridor into Tennessee — regularly pursue multi-state licensing across all four states. Virginia, Maryland, North Carolina, and Tennessee each use different exam vendors, different [prelicensing](/virginia/prelicensing) structures, different fee schedules, and different renewal timelines. For candidates planning their initial licensing strategy and for producers building multi-state authority through reciprocity, understanding the differences avoids costly surprises.
 
-### Exam Vendor
+## Exam Vendor
 
 Each state uses a different vendor. Scheduling, check-in procedures, ID requirements, and technical systems are different across all four. The only overlap: North Carolina and Tennessee both use Pearson VUE, so candidates building NC+TN authority navigate one vendor instead of two.
 
-### Prelicensing Education Requirements
+## Prelicensing Education Requirements
 
 Virginia's no-prelicensing rule is a dramatic departure from the regional norm. Maryland and North Carolina both require 20 hours per line. Tennessee requires 40 hours per line — among the higher requirements in the Southeast. A candidate planning to get licensed in all four states must complete prelicensing education for Maryland, North Carolina, and Tennessee, but can go straight to the Prometric exam in Virginia.
 
@@ -26,35 +26,35 @@ For a dual-line (L/A/H + P&C) candidate pursuing all four states, the prelicensi
 
 Virginia dramatically reduces time-to-exam. Maryland and NC add 2–3 weeks. Tennessee adds 4–6 weeks before even scheduling an exam.
 
-### Exam Structure and Fees
+## Exam Structure and Fees
 
 Virginia's $35 exam fee is the lowest of the four states. Tennessee ($37) is close. North Carolina ($41) and Maryland ($48–$66) are progressively higher. For a dual-line candidate taking all four states' exams, Virginia offers the cheapest path while delivering the same licensing credential.
 
 All four states use a 70% passing standard on the same national content framework — the core insurance product knowledge is identical. The state law sections differ in content and question count, but the passing threshold is the same.
 
-### Score Validity Windows
+## Score Validity Windows
 
 Virginia's 183-day window is the shortest of the four. Candidates who are pursuing all four states should take the Virginia exam last in their sequence or first and apply immediately, to avoid score expiration while completing other states' requirements. Maryland, NC, and Tennessee's 12-month windows give substantially more flexibility.
 
-### Fingerprinting and Background Checks
+## Fingerprinting and Background Checks
 
 Virginia uses Fieldprint; the other three states use IdentoGO. These are entirely separate vendors with separate websites, separate codes, and separate scheduling processes.
 
-### Application Fees
+## Application Fees
 
 Virginia's per-line fee structure is the most granular — $15 per line means $75 for all five major lines vs. a single application fee in the other states. For a single-line applicant, Virginia is the cheapest. For a five-line applicant, Maryland ($54), NC ($50), and Tennessee ($45) charge less total than Virginia ($75), though the difference is modest.
 
-### CE Requirements at a Glance
+## CE Requirements at a Glance
 
 Virginia's 16-hour single-license CE requirement is the lowest of the four states. For dual-line producers, all four states require 24 hours — but Virginia's 16/24-hour differential based on license count is unique to this state. Virginia's November 30 statewide renewal deadline is the most administratively simple: everyone in Virginia renews on the same date.
 
-### Reciprocity Across All Four States
+## Reciprocity Across All Four States
 
 All four states participate in NAIC reciprocal licensing. Once you hold a resident license in any one of them, you can obtain non-resident authority in the others through NIPR or Sircon without retaking any exam. The fees are: Maryland ($54 per application), North Carolina ($50), Tennessee ($45), Virginia ($15 per line).
 
 Virginia-based producers expanding across these four states through reciprocity pay $15 per line for NC, MD, and TN non-resident licenses — a total outlay of $45–$75 per state depending on lines, with no exam required.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Which of these four states is the fastest path to a first insurance license?
 

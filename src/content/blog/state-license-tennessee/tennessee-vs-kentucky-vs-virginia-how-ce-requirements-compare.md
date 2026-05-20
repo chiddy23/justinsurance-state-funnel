@@ -14,7 +14,7 @@ imageAlt: "Tennessee vs. Kentucky vs. Virginia: How CE Requirements Compare"
 
 Tennessee, Kentucky, and Virginia share both geography and significant producer overlap along the Appalachian corridor — producers based near state lines routinely hold licenses in two or three of these states simultaneously, and producers considering multi-state practice face a genuine comparison question about ongoing CE obligations. All three states use biennial birth month renewal cycles and require ethics CE. But the total hours required, whether those hours must be line-specific, how carryover works, what specialty training is required for specific products, and how non-residents are treated differ meaningfully across the three states. This post provides the complete current comparison across every CE dimension that affects a working producer's ongoing compliance planning.
 
-### The Total Hours Comparison
+## The Total Hours Comparison
 
 The headline CE requirement — total hours per biennial period — produces one of the most significant structural differences across the three states.
 
@@ -32,7 +32,7 @@ Virginia's tiered structure is the most distinctive feature of the three-state c
 
 Virginia's "single license" definition: Life, Annuities, and Health is counted as a single license for Virginia CE purposes. A producer who holds Life and Health lines — but not Property or Casualty — is a single-license holder with a 16-hour requirement. The moment they add a Property or Casualty license, they become a multi-license holder with a 24-hour requirement and the minimum-per-line distribution requirement.
 
-### Ethics Requirements
+## Ethics Requirements
 
 All three states require ethics CE as part of the biennial total. The specific hour requirement is the same across all three:
 
@@ -46,7 +46,7 @@ Virginia: Ethics CE may include Virginia Insurance Laws and Regulations content 
 
 Carryover of excess ethics hours: All three states restrict the carryover of excess ethics hours. Excess ethics hours carry as general CE credit in the next period — not as ethics credit. A producer who completes 6 ethics hours in a period has 3 credited as ethics and 3 as general. The next period's 3-hour ethics requirement must be satisfied with newly designated ethics CE.
 
-### Line-Specific Distribution Requirements
+## Line-Specific Distribution Requirements
 
 This is one of the most consequential structural differences across the three states and the provision most frequently missed by producers managing multi-state CE.
 
@@ -64,7 +64,7 @@ For Virginia multi-license producers, the 8-hours-per-license-type requirement m
 
 The practical impact of Virginia's line distribution rule: A Virginia multi-license producer cannot satisfy their CE requirement entirely through courses in one subject area — even if the total hours are correct. A Virginia P&C and Life/Health producer who completes 20 hours of life insurance courses and 4 hours of P&C courses has not satisfied the requirement — they need at least 8 hours in each license type. This constraint requires deliberate CE planning in Virginia that Tennessee and Kentucky producers do not face.
 
-### Company-Sponsored CE Limits
+## Company-Sponsored CE Limits
 
 Tennessee: No confirmed mandatory cap on company-sponsored CE hours under current TDCI rules. Tennessee does not impose the same structured company-sponsored percentage limit as some states.
 
@@ -74,7 +74,7 @@ Virginia: No more than 75% of required CE credits may come from courses provided
 
 Additionally effective February 1, 2026, Virginia limits producers to no more than 12 CE hours of content completed within any consecutive 24-hour period. This new rule prevents producers from completing their entire CE requirement in a single intensive session.
 
-### CE Carryover
+## CE Carryover
 
 All three states allow carryover of excess CE hours to the next biennial period — a feature that Tennessee, which did not historically permit carryover, now provides.
 
@@ -82,7 +82,7 @@ Tennessee and Kentucky carryover: Both states allow up to 12 hours of excess CE 
 
 Virginia carryover: Virginia allows carryover of excess hours, with the specific rule that hours must be reported in the biennium in which the course was taken. Virginia also allows excess ethics credits to be applied to cover other CE requirements in the current renewal period — and any remaining excess will carry forward into the next period where they can be applied to either ethics or other CE requirements. This is somewhat more flexible than Tennessee's and Kentucky's handling of excess ethics hours.
 
-### Renewal Deadlines and Fee Structure
+## Renewal Deadlines and Fee Structure
 
 All three states use the same renewal deadline structure: last day of the birth month, biennially, with the odd/even year determined by the producer's birth year.
 
@@ -94,13 +94,13 @@ Virginia has a specific annual continuance fee requirement. Virginia resident ag
 
 Virginia also has a CE reporting fee: $2.60 per credit hour reported. This per-hour reporting fee — charged to the producer — is unique among the three states. Tennessee and Kentucky do not charge per-hour reporting fees. Virginia producers completing 24 CE hours pay $62.40 in reporting fees ($2.60 × 24) in addition to their renewal continuance fee.
 
-### Specialty Training Comparison
+## Specialty Training Comparison
 
 All three states require specialty product training following NAIC model frameworks. The training structures are largely parallel but have state-specific variations.
 
 Virginia's LTC training distinction: Virginia has the most demanding LTC training requirement of the three states. The initial 8-hour training must include 6 hours of general LTC content and 2 hours of Virginia-specific LTC Partnership content. The ongoing 4-hour training must include 2 hours of Virginia-specific content. This Virginia-specific content requirement means that non-residents selling LTC in Virginia must complete both an NAIC-approved 8-hour course and a separate 2-hour Virginia LTC Partnership course — they cannot satisfy Virginia's requirement solely through out-of-state NAIC training.
 
-### Non-Resident CE Treatment
+## Non-Resident CE Treatment
 
 All three states exempt non-resident producers from their CE requirements when home state CE is current — following the standard NAIC Producer Licensing Model Act reciprocity framework.
 
@@ -110,9 +110,9 @@ Kentucky: Non-resident producers are exempt from Kentucky CE requirements when t
 
 Virginia: Non-resident producers are exempt from Virginia CE requirements based on reciprocity. However, non-residents selling LTC in Virginia face the most demanding non-resident LTC requirement of the three states — they must complete the 8-hour NAIC LTC course and the 2-hour Virginia LTC Partnership course, even though they are otherwise exempt from Virginia CE.
 
-### The Master Comparison Table
+## The Master Comparison Table
 
-### Who Benefits Most From Each State's Structure
+## Who Benefits Most From Each State's Structure
 
 Tennessee benefits producers who: Want maximum CE subject matter flexibility with no line-type restrictions, who want the longest late renewal window (one year), who prefer no per-hour reporting fees, and who value the absence of an annual continuance fee obligation.
 
@@ -120,7 +120,7 @@ Kentucky benefits producers who: Hold licenses in multiple lines but want a rela
 
 Virginia benefits producers who: Hold only a single license type — the 16-hour requirement is the lowest of the three states for single-license holders. The savings of 8 hours per biennial period for single-license holders is meaningful over a career. However, Virginia's per-hour reporting fee, annual continuance fee, line-type restriction for multi-license holders, and Virginia-specific LTC content requirements add administrative and financial burden that partially offset the hours advantage.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am a Tennessee resident producer holding Property and Casualty. I want to add a Virginia non-resident license. What CE obligations does the Virginia license create?
 

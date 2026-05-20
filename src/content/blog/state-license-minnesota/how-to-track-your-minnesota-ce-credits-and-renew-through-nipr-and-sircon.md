@@ -14,7 +14,7 @@ imageAlt: How to Track Your Minnesota CE Credits and Renew Through NIPR and Sirc
 
 Completing your Minnesota CE courses is only part of the renewal obligation — verifying that those completions are accurately recorded in the Department of Commerce's system, confirming all four CE components are satisfied, and submitting the renewal application through the correct platform before your birth month deadline are the steps that convert completed CE into an active renewed license. Many producers who complete their CE on time still encounter renewal problems because they assume completion equals credit and submission equals approval. This post covers the complete CE tracking and renewal submission process end to end: how the CE credit system works, how to verify your transcript, how to identify and resolve discrepancies, and exactly how to submit your renewal through NIPR and Sircon.
 
-### How Minnesota's CE Credit System Works
+## How Minnesota's CE Credit System Works
 
 Minnesota uses a provider-reported CE system. This means producers do not self-report their CE completions to the Department of Commerce — approved course providers report completions electronically on the producer's behalf. The producer's responsibility is to complete approved courses from approved providers and to verify that those completions have been correctly recorded in the Department's system.
 
@@ -24,7 +24,7 @@ What is reported: For each completed course, the provider submits to the Departm
 
 Where it goes: All reported completions are recorded in the producer's CE transcript, which is maintained electronically by the Department of Commerce and accessible through the Department's licensing portal.
 
-### Accessing Your CE Transcript
+## Accessing Your CE Transcript
 
 The Department of Commerce licensing portal: Access your CE transcript at mn.gov/commerce. Navigate to the licensing portal and log in using your producer credentials. Your CE transcript is accessible under your license record and shows all CE courses that have been reported to the Department for the current renewal period.
 
@@ -46,7 +46,7 @@ Running total of CE hours completed in the current period
 
 What your transcript does not show: Courses you believe you completed but that the provider has not yet reported. A course that is not in your transcript has not been recorded — it does not matter that you completed it, have the certificate, and know the reporting deadline has not passed. Until it appears in the transcript, it is not counted toward your renewal requirement.
 
-### The Four-Component CE Verification Checklist
+## The Four-Component CE Verification Checklist
 
 Viewing your transcript is not simply a matter of confirming the total hour count. Minnesota's CE requirement has four independent components, each of which must be satisfied separately. Use this checklist every time you review your transcript:
 
@@ -60,7 +60,7 @@ Component 4 — Non-company-sponsored hours: Do at least 12 hours come from cour
 
 The specialty verification: If you sell LTC insurance, verify that your current LTC training cycle is satisfied. If you sell annuities and completed the one-time training in a prior period, verify that the training completion is on file. If you sell flood insurance through the NFIP and have a one-time flood training obligation, verify that completion is recorded.
 
-### When to Check Your Transcript
+## When to Check Your Transcript
 
 At CE enrollment: Before beginning a new CE course, check your transcript to confirm what you have completed and what remains. This prevents both over-completing and under-completing — taking unnecessary courses because you miscounted, or arriving at renewal short of a required component because you assumed a course was recorded when it was not.
 
@@ -72,7 +72,7 @@ At the midpoint of your renewal period: Conduct a comprehensive transcript revie
 
 Immediately before submitting your renewal application: Confirm that the transcript shows all 24 hours including the required components before clicking "submit" on your renewal application. Do not submit the renewal assuming CE will appear in the system later — CE must be complete and recorded before submission.
 
-### Resolving CE Transcript Discrepancies
+## Resolving CE Transcript Discrepancies
 
 Problem 1 — A completed course is not in the transcript:
 
@@ -90,7 +90,7 @@ Problem 4 — An ethics course appears without an ethics designation:
 
 If you completed a course specifically to satisfy the ethics requirement but the transcript records it as general CE without an ethics designation, contact the provider. The provider may have submitted the completion without the ethics flag. If the course is approved for ethics credit in the Department's system, the provider can resubmit with the correct designation. If the course is not approved for ethics credit in the Department's system — regardless of its content — the course does not satisfy the ethics requirement and you need to complete an additional approved ethics course.
 
-### Submitting Your Renewal Through NIPR
+## Submitting Your Renewal Through NIPR
 
 NIPR (nipr.com) is one of two platforms through which Minnesota producers submit license renewal applications. It is the platform most producers use because of its multi-state functionality — producers who hold licenses in multiple states can renew all of them through NIPR's consolidated interface.
 
@@ -118,7 +118,7 @@ Step 6 — Review and pay: Confirm the total renewal fee — $80 for a standard 
 
 Step 7 — Save confirmation: NIPR generates a confirmation number and sends a confirmation email after successful submission. Save both. The confirmation number is your proof of submission and can be referenced if any processing questions arise.
 
-### Submitting Your Renewal Through Sircon
+## Submitting Your Renewal Through Sircon
 
 Sircon (sircon.com) is the alternative renewal platform. Some producers prefer Sircon's interface for single-state renewals, and Sircon is specifically referenced in the Department's guidance for certain license actions including temporary license applications.
 
@@ -134,7 +134,7 @@ Step 4 — Complete disclosures, certify CE, review fee, and pay: The same discl
 
 Step 5 — Save confirmation: Sircon generates a confirmation after successful submission. Save the confirmation number and email.
 
-### After Submission: What Happens and How to Confirm
+## After Submission: What Happens and How to Confirm
 
 Processing timeline: The Minnesota Department of Commerce processes renewal applications within approximately 10 business days of receipt. The license does not lapse during processing of a timely-submitted renewal — a renewal submitted before the expiration date maintains license status during the processing period.
 
@@ -142,7 +142,7 @@ How to confirm renewal was processed: Log in to the Department's licensing porta
 
 If the expiration date does not update within 15 business days: Contact the Department of Commerce at (651) 539-1599. Reference your NIPR or Sircon confirmation number. The Department can identify whether a processing delay occurred and provide guidance on the status of your renewal.
 
-### The Early Renewal Window: Using It to Your Advantage
+## The Early Renewal Window: Using It to Your Advantage
 
 Minnesota allows renewal submission up to 90 days before the license expiration date. This window is not just a convenience — it is a risk management tool.
 
@@ -150,7 +150,7 @@ Scenario where early renewal prevents a problem: A producer whose license expire
 
 Early renewal does not change the next renewal date: Submitting 90 days early does not reset the renewal cycle to the submission date. The next renewal deadline remains two years from the original expiration date. Early renewal is purely a timing convenience — it eliminates deadline pressure without changing any substantive requirement.
 
-### Building a Renewal Management System
+## Building a Renewal Management System
 
 The calendar anchor: Set a calendar reminder for the first day of your 90-day early renewal window — three months before your birth month renewal deadline. This reminder signals that the window is open and that your CE should be complete enough to submit.
 
@@ -160,7 +160,7 @@ The completion buffer: Complete your final CE course at least 10 days before you
 
 The document archive: Retain copies of all CE completion certificates — the certificates your providers issue upon course completion — for the duration of each renewal period plus at least one additional year. If a transcript discrepancy arises and you need to prove course completion, your certificate is your documentation. Providers can typically reissue certificates if needed, but having them on file is faster.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I submitted my renewal through NIPR but my license still shows as expired in the Department's system after two weeks. What should I do?
 

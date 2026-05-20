@@ -16,7 +16,7 @@ Long-term care insurance is one of the most consequential and complex products a
 
 This post covers everything Tennessee LTC producers need to know about both training requirements: the statutory basis, the specific hour requirements, when each applies, how each counts toward the general CE obligation, the exemptions, the non-resident rules, the carrier verification obligation, and the compliance management practices that ensure producers never sell LTC with lapsed training certification.
 
-### The Statutory Basis
+## The Statutory Basis
 
 Tennessee's LTC training requirement is established under Rule 0780-01-61-.31(5) of the Tennessee Department of Commerce and Insurance's administrative rules. The rule states that licensed insurance producers who sell long-term care products must complete a one-time training course and ongoing training every 24 months thereafter. The one-time training must be no less than 8 hours. The ongoing training must be no less than 4 hours.
 
@@ -24,15 +24,15 @@ The training framework follows the NAIC Long-Term Care Insurance Model Regulatio
 
 Which licenses authorize LTC sales: A producer may not sell, solicit, or negotiate long-term care insurance unless they hold either a Life line of authority or an Accident and Health or Sickness line of authority. The LTC training requirement applies to producers holding either or both of these lines — not to Property and Casualty producers who do not hold Life or A&H authority.
 
-### The Initial 8-Hour Training Requirement
+## The Initial 8-Hour Training Requirement
 
-#### What It Is
+### What It Is
 
 The initial LTC training is a one-time prerequisite — a single completion satisfies it permanently. Once a Tennessee producer completes the TDCI-approved 8-hour initial LTC course, the initial requirement is satisfied for the duration of their licensed career. There is no renewal or repetition of the initial training.
 
 The prerequisite nature is absolute: A producer cannot sell, solicit, or negotiate long-term care insurance in Tennessee before completing the initial 8-hour training. The prohibition applies regardless of the producer's experience, designations, or professional background. A producer with a CLU designation and 20 years of life insurance experience must complete the initial 8-hour LTC training before their first LTC transaction in Tennessee if they have not previously completed it.
 
-#### What the Initial Training Covers
+### What the Initial Training Covers
 
 The TDCI-approved initial 8-hour LTC course covers the foundational knowledge that Tennessee LTC producers need before serving clients in this product category. Content areas typically include:
 
@@ -48,7 +48,7 @@ Consumer protection provisions: Tennessee's LTC-specific consumer protections �
 
 Suitability in LTC recommendations: The factors that make LTC insurance appropriate or inappropriate for a specific client — financial capacity to pay premiums over time, existing assets and income that LTC is designed to protect, family caregiving resources, and health status at application.
 
-#### How to Complete the Initial Training
+### How to Complete the Initial Training
 
 Approved courses: The initial 8-hour LTC training must be from a TDCI-approved provider offering a course specifically approved for the Tennessee LTC initial training requirement. Not every general LTC education course satisfies the Tennessee requirement. Verify that the provider and course carry explicit TDCI approval for the initial LTC training before enrolling.
 
@@ -58,15 +58,15 @@ Final assessment: LTC training courses typically include a final exam or assessm
 
 Completion documentation: Upon completing the initial 8-hour training, retain the certificate of completion. Tennessee requires producers to keep their original certificates of completion on file for at least 2 years. The carrier who appoints the producer for LTC sales is also required to obtain and retain verification of the producer's training completion — insurers must make this verification available to the Commissioner upon request.
 
-#### When to Complete the Initial Training
+### When to Complete the Initial Training
 
 Complete the initial 8-hour training before your first LTC transaction — not during the transaction or after it. Tennessee's prohibition on selling LTC without the training is an absolute bar, not a cure available retroactively. A producer who sells LTC without completing the initial training has transacted business for which they are not qualified — creating potential grounds for license discipline under TCA §56-6-112.
 
 The practical sequence: Identify LTC as a product line you intend to sell. Complete the 8-hour initial training. Receive and retain your completion certificate. Ensure your appointed carrier has verified your training completion. Then begin LTC sales.
 
-### The Ongoing 4-Hour Training Requirement
+## The Ongoing 4-Hour Training Requirement
 
-#### What It Is
+### What It Is
 
 After completing the initial 8-hour training, Tennessee LTC producers must complete 4 hours of TDCI-approved LTC training every 24 months. The ongoing training is not a one-time requirement — it recurs on a 24-month cycle that continues for as long as the producer sells LTC products in Tennessee.
 
@@ -74,7 +74,7 @@ The 24-month cycle is anchored to the initial completion date — not the bienni
 
 Example: A producer completes the initial 8-hour LTC training on February 15, 2024. Their first ongoing 4-hour training is due by February 15, 2026. Their general CE renewal deadline is the last day of their birth month — say, August 31, 2025. These are different deadlines on different schedules requiring independent tracking.
 
-#### What the Ongoing Training Covers
+### What the Ongoing Training Covers
 
 The 4-hour ongoing training keeps producers current with developments in the LTC insurance market, regulatory changes, and product evolution since their initial certification. Content areas in ongoing LTC training typically include:
 
@@ -86,7 +86,7 @@ Claims and consumer issues: Common LTC claims scenarios, how benefits are trigge
 
 Suitability updates: Evolving suitability standards, best interest considerations in LTC product recommendations, and replacement transaction requirements.
 
-#### How to Complete the Ongoing Training
+### How to Complete the Ongoing Training
 
 Approved courses: The 4-hour ongoing training must be from a TDCI-approved provider offering a course specifically approved for the Tennessee LTC ongoing training requirement. The initial and ongoing training courses are typically separate offerings — completing the initial 8-hour course again does not satisfy the 4-hour ongoing requirement in subsequent cycles.
 
@@ -102,9 +102,9 @@ Second 4-hour ongoing training due: by February 15, 2028
 
 Cycle continues every 24 months indefinitely
 
-### How LTC Training Counts Toward CE
+## How LTC Training Counts Toward CE
 
-#### The Interaction With the 24-Hour Biennial CE Total
+### The Interaction With the 24-Hour Biennial CE Total
 
 LTC training hours count toward Tennessee's 24-hour biennial CE total — they do not add to it. This is a significant benefit: a producer who completes the 8-hour initial LTC training in a given biennial period has 8 of their 24 required CE hours satisfied. A producer who completes the 4-hour ongoing training in a biennial period has 4 of their 24 CE hours satisfied.
 
@@ -112,19 +112,19 @@ The implication for CE planning: Producers who sell LTC products should account 
 
 The ethics requirement is unaffected: LTC training hours count as general CE hours — not ethics hours. Completing LTC training does not satisfy any portion of the 3-hour ethics requirement. The ethics obligation must be satisfied separately with TDCI-designated ethics CE regardless of LTC training completion.
 
-#### When LTC Training and CE Cycles Align
+### When LTC Training and CE Cycles Align
 
 When the 24-month LTC ongoing training cycle falls within the same biennial CE period, the 4 LTC hours reduce the general CE burden for that period. When the LTC cycle falls in a different period than CE renewal, the producer may complete 4 hours of LTC training in a period where those hours are not needed for CE renewal — producing excess hours that may carry forward up to Tennessee's 12-hour carryover limit.
 
-### Exemptions
+## Exemptions
 
-#### The January 1, 1994 Exemption
+### The January 1, 1994 Exemption
 
 Producers who have been continuously licensed since January 1, 1994 are exempt from Tennessee's general CE requirements. Under Rule 0780-01-61-.31(5), these producers are also exempt from the 4-hour ongoing LTC training — but they are not exempt from the initial 8-hour LTC training. Even producers with this grandfathered CE exemption must complete the initial 8-hour training before selling LTC products if they have not previously done so.
 
 This exemption structure is specifically notable: the most senior Tennessee producers — those with the longest licensing history — are required to complete LTC initial training but not ongoing training once they have satisfied the initial requirement.
 
-#### Non-Resident Producers
+### Non-Resident Producers
 
 Non-resident producers who have completed LTC training in another state satisfy Tennessee's LTC training requirements. A producer licensed in Georgia who has completed Georgia's NAIC model-based LTC training does not need to complete separate Tennessee LTC training before selling LTC products in Tennessee under their non-resident license.
 
@@ -134,7 +134,7 @@ The "Original Four" exception: California, Connecticut, Indiana, and New York es
 
 The ongoing training in other states: If a non-resident producer has completed initial LTC training in another state, Tennessee treats their ongoing training obligation as satisfied when they complete ongoing LTC training that meets the NAIC model standards — whether in Tennessee or in another qualifying state. Maintain documentation of all LTC training completions from every state to support verification if the TDCI or a carrier requests it.
 
-### The Carrier Verification Obligation
+## The Carrier Verification Obligation
 
 Tennessee's LTC training rule creates a compliance obligation not just for producers but for the insurers who appoint them. Rule 0780-01-61-.31(5) specifically states that insurers are required to obtain verification and maintain records reflecting that a producer receives the required training, and shall make verification available to the Commissioner upon request.
 
@@ -144,9 +144,9 @@ The carrier as a compliance backstop: Because carriers are required to verify tr
 
 Ongoing training verification: Carriers are also responsible for maintaining records of ongoing LTC training completion and verifying that appointed LTC producers remain current. Some carriers implement their own notification systems to alert producers approaching their ongoing training deadline. Producers should not rely exclusively on carrier notifications — tracking the 24-month ongoing training cycle independently is the producer's professional responsibility.
 
-### Compliance Management for LTC Training
+## Compliance Management for LTC Training
 
-#### The Independent Deadline Tracking System
+### The Independent Deadline Tracking System
 
 Because the LTC ongoing training cycle is anchored to the initial completion date rather than the biennial CE renewal date, LTC producers must manage two independent compliance schedules simultaneously:
 
@@ -156,19 +156,19 @@ Schedule 2: LTC ongoing training — 4 hours, due every 24 months from the initi
 
 Set calendar reminders for both schedules independently. Do not assume alignment — the two schedules will rarely align, and treating them as equivalent produces LTC training lapses that the CE renewal process does not catch.
 
-#### The 90-Day Advance Completion Target
+### The 90-Day Advance Completion Target
 
 Complete ongoing LTC training at least 90 days before the 24-month deadline. This buffer accommodates course availability limitations, completion reporting delays, and any administrative complications that arise near the deadline. A producer who completes ongoing LTC training one week before the 24-month deadline and encounters a course reporting issue has no margin to resolve it without a compliance gap.
 
-#### Documentation Retention
+### Documentation Retention
 
 Retain all LTC training certificates of completion — both initial and ongoing — for a minimum of 2 years as required by Tennessee's CE record-keeping rules. Given that the ongoing training cycle recurs indefinitely, maintaining a comprehensive training record file is best practice. In the event of a carrier audit or TDCI inquiry, the ability to produce a complete training history protects the producer against compliance disputes.
 
-#### Stopping LTC Sales If Training Lapses
+### Stopping LTC Sales If Training Lapses
 
 If a producer's ongoing LTC training lapses — the 24-month cycle passes without completing the required 4-hour course — the producer must stop selling LTC products until the training is completed and current. Continuing to sell LTC on lapsed training carries the same regulatory risk as selling without the initial training. Complete the 4-hour ongoing training immediately upon discovering the lapse, notify the carrier of the completion, and resume LTC sales only after the training is current.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed the initial 8-hour LTC training in another state three years ago. I am now licensed in Tennessee as a non-resident. Do I need to complete Tennessee's LTC training before selling LTC here?
 

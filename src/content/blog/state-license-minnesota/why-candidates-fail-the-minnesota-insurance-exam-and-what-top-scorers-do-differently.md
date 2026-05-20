@@ -14,7 +14,7 @@ imageAlt: Why Candidates Fail the Minnesota Insurance Exam — and What Top Scor
 
 The Minnesota PSI insurance exam has a 70% passing threshold. That number is achievable for every candidate who prepares correctly — and it is a genuine obstacle for candidates who prepare incorrectly, even when those candidates study hard. The difference between candidates who pass on their first attempt and those who fail is rarely raw intelligence or aptitude for insurance concepts. It is almost always preparation strategy — what they studied, how they studied it, and how they allocated their limited study time across the exam's content. This post documents the most common failure patterns on the Minnesota insurance exam and contrasts them directly with what first-attempt passers do differently — giving you a clear picture of which category your current preparation falls into and what to change if the answer is the wrong one.
 
-### Failure Pattern 1: Treating Prelicensing as Exam Preparation
+## Failure Pattern 1: Treating Prelicensing as Exam Preparation
 
 What failing candidates do: They complete the 20-hour [prelicensing](/minnesota/prelicensing) course, pass the internal certification exam, receive their Certificate of Completion, and schedule their PSI exam — all within a few days of each other. They treat the prelicensing completion as equivalent to exam readiness.
 
@@ -24,7 +24,7 @@ The certification exam built into the prelicensing course is proctored at 70% ju
 
 What top scorers do instead: Top scorers treat prelicensing completion as the beginning of exam preparation, not the end. After completing the 20-hour course and passing the certification exam, they spend an additional 8–15 hours in deliberate review — returning to the content outline, building their state law reference sheet, completing full-length practice exams under timed conditions, and actively testing their recall rather than passively re-reading the material. The prelicensing course is the foundation; the additional preparation is what turns the foundation into exam-ready knowledge.
 
-### Failure Pattern 2: Underweighting the State Law Section
+## Failure Pattern 2: Underweighting the State Law Section
 
 What failing candidates do: They allocate their study time proportionally to how much content each section covers in the prelicensing course — spending 65–75% of their study time on general insurance content and 25–35% on Minnesota state law. Their score reports after failing show strong performance on general content sections and failure on the state law sections — particularly Minnesota auto insurance, producer licensing CE requirements, and unfair trade practices.
 
@@ -34,7 +34,7 @@ A candidate who knows general insurance content at 80% accuracy and state law co
 
 What top scorers do instead: Top scorers allocate 35–40% of their study time specifically to Minnesota state law — a deliberately disproportionate allocation relative to the volume of state law content in the prelicensing course. They build a dedicated state law reference sheet covering every testable number and provision. They practice state law topics specifically rather than relying on general practice exams that are weighted toward general content. They know the following without hesitation: Minnesota is a no-fault state; PIP is $40,000 mandatory ($20,000 medical, $20,000 non-medical); lost wages under PIP are paid at 85% capped at $500/week; the tort threshold is $4,000 in medical expenses excluding diagnostic tests; both UM and UIM are mandatory at $25,000/$50,000; the property damage minimum is $10,000, the lowest in the U.S.; CE is 24 hours with 3 ethics, 12 classroom minimum, 12 non-company-sponsored minimum; the reinstatement window is 12 months at double the renewal fee; the appointment requirement is Minn. Stat. §60K.49; the rebating prohibition is bilateral; the unfair claims practices standard is willful OR frequency.
 
-### Failure Pattern 3: Passive Study Without Active Recall
+## Failure Pattern 3: Passive Study Without Active Recall
 
 What failing candidates do: They read through their prelicensing course materials, take notes, review the notes, and read again. Their preparation involves significant time investment — they are genuinely studying — but it is predominantly passive. They recognize the correct answers when they see them in the course material. They cannot reliably retrieve those answers independently when no reference material is present.
 
@@ -46,7 +46,7 @@ What top scorers do instead: Top scorers study actively — specifically through
 
 The research on learning consistently shows that retrieval practice — attempting to recall information — produces stronger long-term retention than re-reading the same material. Top scorers use this principle deliberately. Every study session includes at least one active recall exercise. Every [practice exam](/minnesota/practice-exam) is followed by analysis of wrong answers, not simply a tally of the score.
 
-### Failure Pattern 4: Ignoring Specific Numerical Facts
+## Failure Pattern 4: Ignoring Specific Numerical Facts
 
 What failing candidates do: They study the concepts without memorizing the specific numbers. They know that Minnesota requires PIP coverage but cannot state the exact amount. They know that CE requires ethics hours but cannot state how many. They know that a lapsed license can be reinstated but cannot state the reinstatement window or the penalty. They know the Workers' Comp penalty for non-coverage exists but cannot state the specific amount per employee per week.
 
@@ -56,7 +56,7 @@ The numerical facts that generate exam questions are not abundant — they are a
 
 What top scorers do instead: Top scorers build a numerical reference sheet — a single document that lists every testable number organized by topic. They review this sheet at the beginning of every study session. They use flashcard practice specifically for numerical facts. In the 24 hours before the exam, they review the numerical reference sheet multiple times. On exam day, before the exam begins (while still in the check-in phase at the test center), they mentally review the most critical numbers. The first few minutes after being seated — before the exam clock starts — can be used to write key numbers on scratch paper if the test center provides it. This brief mental or physical anchoring of critical numbers immediately before the exam starts provides retrieval confidence that passive pre-exam reviewing does not.
 
-### Failure Pattern 5: Confusing Similar Concepts
+## Failure Pattern 5: Confusing Similar Concepts
 
 What failing candidates do: They study each concept individually but do not explicitly compare concepts that are structurally similar and frequently confused. They cannot reliably distinguish between the following pairs when they appear in exam questions:
 
@@ -80,7 +80,7 @@ Why this fails: Exam questions test conceptual distinctions precisely. A questio
 
 What top scorers do instead: Top scorers explicitly compare concepts that are similar in structure or frequently confused. They create comparison tables — side by side — for the pairs listed above and for any other concepts that the diagnostic section of their practice exams shows they are confusing. They practice answering questions that specifically target these distinctions. They treat confusion between similar concepts as a separate study category rather than assuming that studying each concept individually will resolve the confusion. It does not — explicit comparison does.
 
-### Failure Pattern 6: Inadequate Practice Exam Usage
+## Failure Pattern 6: Inadequate Practice Exam Usage
 
 What failing candidates do: They take practice exams — but they take them to check comprehension rather than to simulate exam conditions. They pause mid-exam to look up answers they are uncertain about. They take the exams in sections rather than as a continuous timed session. They review only the questions they got wrong, not the full set. They take one practice exam total and consider themselves prepared.
 
@@ -90,7 +90,7 @@ What top scorers do instead: Top scorers take at least two full-length practice 
 
 A candidate who consistently scores 78–82% on realistic practice exams under timed conditions has demonstrated exam readiness with a meaningful buffer above the 70% threshold. A candidate who scores 78% on an untimed, open-note practice exam has demonstrated comprehension, not exam readiness.
 
-### Failure Pattern 7: Poor Time Management During the Exam
+## Failure Pattern 7: Poor Time Management During the Exam
 
 What failing candidates do: They spend too long on difficult questions — stalling for two to three minutes on a single question while the clock runs. They run out of time before completing the exam, leaving questions unanswered. They answer unanswered questions with rushed guesses that reflect no preparation rather than considered reasoning from partial knowledge.
 
@@ -98,7 +98,7 @@ Why this fails: An unanswered question is automatically wrong. A carefully consi
 
 What top scorers do instead: Top scorers develop a pacing strategy before the exam and execute it consistently. On an 85-question, 2-hour exam, 83 seconds per question is the average pace. Top scorers do not spend 83 seconds on every question — they spend 20–30 seconds on easy recall questions, 45–60 seconds on scenario questions, and flag difficult questions for return rather than stalling. They complete the full exam on the first pass, answering every question — even if some answers are flagged as uncertain — and return to flagged questions with remaining time. This approach ensures every question receives an answer and reserves deliberation time for questions that benefit from it. They never leave a question blank. On every question where they cannot immediately recall the answer, they eliminate clearly wrong options and select the best remaining choice — then flag it for review if time remains.
 
-### What Top Scorers Do That Failing Candidates Do Not: The Summary
+## What Top Scorers Do That Failing Candidates Do Not: The Summary
 
 Every pattern above has a mirror image — the behavior that top scorers exhibit instead. Synthesized into a single framework:
 
@@ -116,7 +116,7 @@ Top scorers use practice exams correctly. Timed. Uninterrupted. Full exam length
 
 Top scorers manage time deliberately during the exam. They flag and return; they never stall; they never leave blanks; they answer every question.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I studied for three weeks before my exam and still failed. How is it possible that I wasn't prepared enough?
 

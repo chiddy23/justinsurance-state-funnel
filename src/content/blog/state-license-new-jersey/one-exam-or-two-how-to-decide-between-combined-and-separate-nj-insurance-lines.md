@@ -14,7 +14,7 @@ imageAlt: One Exam or Two? How to Decide Between Combined and Separate NJ Insura
 
 One of the first strategic decisions a New Jersey insurance licensing candidate faces has nothing to do with studying — it is deciding how many exams to take and in what order. New Jersey does not offer a single combined Life and Health exam or a single combined Property and Casualty exam the way some states do. Every line of authority is a separate PSI exam with its own fee, its own [prelicensing](/new-jersey/prelicensing) course requirement, and its own certificate of completion. The question is not whether to take separate exams — you will — but how many lines to pursue upfront, and whether to take them concurrently or sequentially.
 
-### What the Lines of Authority Actually Are
+## What the Lines of Authority Actually Are
 
 New Jersey licenses producers by line of authority. The primary lines most candidates pursue are:
 
@@ -30,7 +30,7 @@ Personal Lines — a combined line covering personal auto and personal property 
 
 Most producers end up pursuing either the Life and Accident & Health combination (commonly called Life and Health, or L&H) or the Property and Casualty combination (P&C) — or eventually all four lines. The decision of where to start depends on what you are going to sell.
 
-### Option 1: Pursue One Line at a Time
+## Option 1: Pursue One Line at a Time
 
 Taking one exam at a time means completing 20 hours of prelicensing education, passing the certification exam, and then sitting the PSI exam for a single line before moving to the next.
 
@@ -54,7 +54,7 @@ Delays starting your career if your employer or market needs you licensed in mul
 
 Best for: Candidates who are new to insurance entirely, who are under no time pressure from an employer, or who are only pursuing one line long-term (for example, a candidate who only intends to sell health insurance independently).
 
-### Option 2: Pursue Two Lines Concurrently
+## Option 2: Pursue Two Lines Concurrently
 
 Concurrent pursuit means completing the prelicensing courses for two lines simultaneously — studying Life and Health course materials at the same time — and then scheduling both PSI exams in close succession, either on the same day or within a few days of each other.
 
@@ -80,7 +80,7 @@ More material to manage and organize simultaneously
 
 Best for: Candidates entering insurance through an agency or employer who needs them licensed in multiple lines quickly, candidates with prior financial services experience who find the national content intuitive, and candidates who are highly organized studiers and can manage parallel coursework without losing depth on either.
 
-### The Life and Health Decision
+## The Life and Health Decision
 
 Life and Accident & Health share significant national content overlap — both cover policy provisions and contract law, insurance concepts, and field underwriting procedures. A candidate studying for both lines simultaneously will notice that roughly half the national content is redundant between them. The material that diverges is the product-specific content: life insurance policy types and riders on one side, health insurance products, managed care, and disability on the other.
 
@@ -92,7 +92,7 @@ Total exam fee: $76 if taken separately or on the same day.
 
 Recommended approach: If your career path involves selling either life or health products, pursue both lines together. The content overlap makes concurrent study efficient, and holding both lines significantly expands the products you can sell. Very few producers who start with Life alone do not eventually add Health — and vice versa. Get both done at the start.
 
-### The Property and Casualty Decision
+## The Property and Casualty Decision
 
 Property and Casualty have less content overlap in the national sections than Life and Health do. Property focuses on physical asset coverage — buildings, personal property, valuation methods, coinsurance. Casualty focuses on liability exposure — auto, general liability, workers' comp, umbrella. The concepts are complementary but not redundant.
 
@@ -106,7 +106,7 @@ Total exam fee: $76.
 
 Recommended approach: Candidates entering P&C roles — particularly auto, homeowners, or commercial lines — should pursue both Property and Casualty together from the start. Holding only one of the two is limiting in most P&C agency contexts. The exception is if an employer needs you selling personal auto immediately and time is the constraint — in that case, starting with Personal Lines (a single combined exam with a narrower scope) can get you operational faster.
 
-### Personal Lines: The Narrower Alternative
+## Personal Lines: The Narrower Alternative
 
 Personal Lines is a single line of authority that covers personal auto and personal homeowners/renters insurance for individuals. It is a narrower scope than holding both Property and Casualty, but it is a single exam with a single prelicensing course requirement.
 
@@ -116,9 +116,9 @@ Best for: Candidates entering a captive agency focused purely on personal lines 
 
 Limitation: Personal Lines does not cover commercial lines. If your market includes any commercial accounts — business auto, general liability, workers' comp — you will need the full Property and Casualty lines.
 
-### A Decision Framework
+## A Decision Framework
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Does New Jersey offer a single combined Life and Health exam?
 

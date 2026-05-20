@@ -16,9 +16,9 @@ Tennessee issues insurance producer licenses by individual line of authority. Ev
 
 Most new producers either undershoot this decision — getting one line when their career direction clearly warrants two or three — or overthink it, delaying licensure while attempting to decide whether they will ever need Variable Products authority. This post gives you the framework to make the right call for your specific situation: what each line covers, which combinations make sense for which career paths, the cost and time implications of each option, and the one mistake that causes most producers to regret their initial licensing choice.
 
-### The Five Core Lines and What Each Authorizes
+## The Five Core Lines and What Each Authorizes
 
-#### Life
+### Life
 
 Life authority covers every life insurance and annuity product:
 
@@ -40,7 +40,7 @@ Business life insurance products — buy-sell funding, split-dollar arrangements
 
 What Life does not cover: Health insurance of any kind, disability income, or long-term care insurance. Those require Accident and Health authority.
 
-#### Accident and Health (A&H)
+### Accident and Health (A&H)
 
 A&H authority covers every health-related insurance product:
 
@@ -66,7 +66,7 @@ TennCare-related coverage transitions and marketplace enrollment through Healthc
 
 What A&H does not cover: Life insurance products of any kind.
 
-#### Property
+### Property
 
 Property authority covers insurance for physical assets:
 
@@ -94,7 +94,7 @@ Earthquake insurance
 
 What Property does not cover: Liability of any kind — auto liability, general liability, workers' compensation. Those require Casualty authority.
 
-#### Casualty
+### Casualty
 
 Casualty authority covers liability insurance:
 
@@ -120,7 +120,7 @@ Employers liability
 
 What Casualty does not cover: Physical property damage — homeowners, commercial property. Those require Property authority.
 
-#### Personal Lines
+### Personal Lines
 
 Personal Lines is a streamlined alternative to holding both Property and Casualty:
 
@@ -130,7 +130,7 @@ Personal homeowners — both property and liability components
 
 Critical limitation: Personal Lines does not authorize commercial lines placements of any kind. A Personal Lines producer cannot write a business owner's policy, a commercial auto policy, or a workers' compensation policy — not even for a small sole proprietor client. The moment a client's insurance need crosses into commercial territory, a Personal Lines producer is unauthorized to serve it.
 
-#### Variable Products
+### Variable Products
 
 Variable Products is an add-on authority, not a standalone license:
 
@@ -140,9 +140,9 @@ Variable annuities (requires Life authority plus Variable Products)
 
 Variable products also involve investment components that are regulated as securities by FINRA. Tennessee's Variable Products insurance license is the insurance side of the authorization. Producers who sell variable products must also hold a FINRA Series 6 (investment company and variable products representative) or Series 7 (general securities representative) registration. Getting the Tennessee Variable Products license without the corresponding FINRA registration does not authorize variable product sales — both the insurance license and the securities registration must be in place.
 
-### The Three Career Paths and Which Lines Each Requires
+## The Three Career Paths and Which Lines Each Requires
 
-#### Career Path 1: Personal Lines Property and Casualty
+### Career Path 1: Personal Lines Property and Casualty
 
 Target client: Individuals and families — homeowners, auto insurance, renters, umbrella liability.
 
@@ -152,7 +152,7 @@ Why not Personal Lines instead? The Personal Lines license covers personal auto 
 
 The cost difference between Personal Lines and full Property and Casualty is two additional exam fees ($59 each) and one additional $50 application fee per line. That investment — approximately $150–$160 additional total — eliminates the ceiling that Personal Lines imposes and opens the commercial market without any future relicensing. For virtually every producer who intends to build a career rather than fill a temporary role, full Property and Casualty is the right choice over Personal Lines.
 
-#### Career Path 2: Life Insurance and Financial Products
+### Career Path 2: Life Insurance and Financial Products
 
 Target client: Individuals, families, and business owners who need life insurance, annuities, and related financial protection products.
 
@@ -162,7 +162,7 @@ A&H consideration for Life producers: Many Life-focused producers eventually fin
 
 Recommendation for Life producers: Obtain both Life and A&H at initial licensing unless you have a specific, compelling reason to limit yourself to Life only. The additional exam and application cost is modest. The income and client relationship depth that A&H access provides is ongoing.
 
-#### Career Path 3: Health Insurance and Employee Benefits
+### Career Path 3: Health Insurance and Employee Benefits
 
 Target client: Individuals seeking marketplace health insurance, Medicare beneficiaries, employees in group benefit plans, employers seeking group health coverage for their workforce.
 
@@ -172,7 +172,7 @@ Why Life alongside A&H for benefits producers: Group benefit packages almost uni
 
 Tennessee's no-income-tax advantage for A&H and Life producers: Tennessee eliminated its Hall income tax on investment income in 2021 and has no personal income tax on wages. This creates a specific opportunity for life insurance and annuity producers — because Tennessee residents who pay no state income tax on investment income are particularly receptive to the tax-deferred and tax-advantaged savings characteristics of permanent life insurance and fixed indexed annuities. Understanding this market dynamic — and how Tennessee's tax structure positions life and annuity products relative to taxable investment alternatives — gives Tennessee Life producers a relevant, state-specific value proposition that producers in income-tax states cannot replicate.
 
-#### Career Path 4: Commercial Lines
+### Career Path 4: Commercial Lines
 
 Target client: Businesses of any size — from sole proprietors to large corporations — with commercial property, liability, workers' compensation, and specialty coverage needs.
 
@@ -182,7 +182,7 @@ A commercial lines producer who holds only Casualty can write workers' compensat
 
 The commercial lines case for adding Life and A&H: Commercial lines producers who serve business owner clients eventually encounter life insurance needs — key person coverage, buy-sell funding, executive benefit plans — that are directly connected to the commercial relationships they have built. A commercial lines producer who holds only Property and Casualty cannot serve those life insurance needs without referring them to another producer. Adding Life authority — ideally at initial licensing — retains those opportunities within the producer's own practice rather than creating referral relationships that could work in both directions.
 
-#### Career Path 5: All Lines — The Complete Practice
+### Career Path 5: All Lines — The Complete Practice
 
 Target client: Any individual or business with any insurance need.
 
@@ -194,11 +194,11 @@ Who should consider all four lines at once: Producers entering a captive agency 
 
 Who should not pursue all four lines at once: Producers who have a specific, clearly defined career focus where additional lines are genuinely irrelevant — a producer who is joining a group health benefits firm that exclusively places employer group health plans has no practical need for Property authority. In this case, the exam time and application fee for Property is a real cost for a license that will not be used. When your career path is specific and clearly defined, match your licensing to it rather than acquiring lines for hypothetical future scenarios.
 
-### The Simultaneous vs. Sequential Decision
+## The Simultaneous vs. Sequential Decision
 
 Beyond which lines to pursue, producers must decide whether to pursue multiple lines simultaneously — taking all intended exams at the same time and submitting one application — or sequentially — getting one line first and adding others later.
 
-#### The Case for Simultaneous Licensing
+### The Case for Simultaneous Licensing
 
 One study period: Preparing for multiple lines simultaneously means one concentrated study period rather than multiple separate study cycles. Many concepts across lines are complementary — understanding insurance contract fundamentals from one line reinforces similar concepts in another line. A candidate who studies Life and A&H together shares a large body of overlapping knowledge across both exams.
 
@@ -208,7 +208,7 @@ Faster full authorization: A producer who completes all intended lines simultane
 
 The study load consideration: Studying for four lines simultaneously is a substantial undertaking. A candidate who is preparing for Life, A&H, Property, and Casualty at the same time is covering substantially more material than a candidate who focuses on one line. Cognitive overload — trying to study too much material in too short a time — produces lower [pass rates](/pass-rates) on each individual exam. If the simultaneous approach means spreading study time so thin that the likelihood of first-time passes across all lines decreases, the sequential approach may produce better outcomes overall.
 
-#### The Case for Sequential Licensing
+### The Case for Sequential Licensing
 
 Focused preparation: Studying for one line at a time allows concentrated, thorough preparation for each exam. A candidate who masters Property before moving to Casualty has a better foundation for the Casualty exam's property-liability interactions than a candidate who studied both simultaneously at reduced depth.
 
@@ -218,7 +218,7 @@ Reduced initial investment: Paying for four exams and four applications at once 
 
 The right sequential order: If pursuing lines sequentially, the order that makes most sense for most producers is to begin with the lines most directly connected to your immediate employment or income opportunity, then add complementary lines as your practice develops. A producer joining a P&C agency starts with Property and Casualty. A producer joining a life insurance agency starts with Life. A producer joining a health benefits firm starts with A&H. Add the complementary lines — Life alongside P&C, A&H alongside Life — within the first six to twelve months of practice.
 
-### The Mistake That Causes the Most Regret
+## The Mistake That Causes the Most Regret
 
 The single most common licensing regret among Tennessee producers is getting Personal Lines when they should have gotten Property and Casualty.
 
@@ -228,7 +228,7 @@ The cost of correcting this mistake later — passing two additional exams and p
 
 If you are at all uncertain whether you might eventually want to serve commercial clients — and most personal lines producers who build thriving practices do encounter commercial needs from their personal lines clients — get full Property and Casualty from the start.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am joining a captive agency that primarily sells auto and homeowners. Should I get Personal Lines or full Property and Casualty?
 

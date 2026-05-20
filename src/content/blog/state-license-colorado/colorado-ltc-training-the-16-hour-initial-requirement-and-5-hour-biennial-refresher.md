@@ -14,7 +14,7 @@ imageAlt: "Colorado LTC Training: The 16-Hour Initial Requirement and 5-Hour Bie
 
 Colorado imposes the most structured long-term care training requirement of any of its specialty CE prerequisites. Before selling a single LTC policy, a producer must complete a 16-hour initial training program. After that, to continue selling LTC, the producer must complete a 5-hour ongoing refresher course every 2 calendar years from the initial completion date — for as long as they continue transacting LTC business. Neither the initial 16 hours nor the ongoing 5 hours can be completed through any format — the Partnership-specific components carry a mandatory classroom or live webinar delivery requirement that does not apply to most other Colorado CE. This post covers every rule, every format requirement, the Colorado LTC Partnership program that drives the classroom mandate, how the hours interact with biennial CE, and the non-resident rules that differ from the annuity training reciprocity framework.
 
-### Why Colorado's LTC Training Is More Stringent Than Other Specialty Prerequisites
+## Why Colorado's LTC Training Is More Stringent Than Other Specialty Prerequisites
 
 The annuity best interest training is 4 hours, one-time, completable online. The NFIP training is 3 hours, one-time, online. The claims-made training is 2 hours, one-time, online. Colorado's LTC training is 16 hours initial plus 5 hours every 2 years, with mandatory classroom delivery for specific components. The difference in scale and structure reflects the difference in regulatory complexity.
 
@@ -22,11 +22,11 @@ Long-term care insurance in Colorado operates within a dual framework: standard 
 
 Because Partnership policies interact directly with Colorado's Medicaid program, the Division of Insurance requires that producers selling LTC in Colorado understand not just the insurance product but also how it connects to Medicaid eligibility — a topic that standard insurance [prelicensing](/colorado/prelicensing) and general CE does not cover. The mandatory classroom component for the Partnership-specific 8 hours of initial training exists specifically to ensure that producers receive interactive instruction on the Medicaid interface, Partnership policy requirements, and the consumer disclosures required for Partnership policies — content complex enough that the Division requires live instruction rather than self-paced reading.
 
-### The 16-Hour Initial Training: Structure and Format Rules
+## The 16-Hour Initial Training: Structure and Format Rules
 
 The 16-hour initial LTC training must be completed before selling, soliciting, or negotiating any LTC product in Colorado. It divides into two 8-hour components with different format requirements:
 
-#### Part 1: 8 Hours of General Long-Term Care Training
+### Part 1: 8 Hours of General Long-Term Care Training
 
 Format: Online self-study, classroom, or live webinar — producer's choice. This component may be completed at the producer's own pace through an approved online course with a final exam, or in a scheduled live classroom or webinar setting.
 
@@ -50,7 +50,7 @@ Underwriting concepts — field underwriting in LTC; conditions that typically r
 
 NAIC LTC Model Act and Regulation — required policy provisions; consumer protections; required disclosures; the role of the Division of Insurance in LTC market oversight
 
-#### Part 2: 8 Hours of Colorado LTC Partnership-Specific Training
+### Part 2: 8 Hours of Colorado LTC Partnership-Specific Training
 
 Format: MANDATORY classroom or live webinar only. This component cannot be completed through online self-study. The Division of Insurance requires live instruction — either in-person at a scheduled classroom session or via synchronous live webinar with an instructor present and able to respond to questions in real time. A recorded webinar does not satisfy the requirement; the session must be live.
 
@@ -72,21 +72,21 @@ Reciprocity between states — if a policyholder moves from Colorado to another 
 
 Practical scenarios — applying Partnership rules to real client situations; comparing Partnership and non-Partnership LTC options for specific client profiles; identifying when a Partnership policy is and is not appropriate
 
-#### Sequencing the Two Components
+### Sequencing the Two Components
 
 The two components may be completed in either order — general LTC first or Partnership-specific first — though most course providers and the DOI bulletin suggest completing the 8-hour general LTC content before the 8-hour Partnership content, since the Partnership content builds on foundational LTC knowledge. Some carriers offer the full 16-hour training as a combined two-day program; others offer the two components as separate courses that must each be scheduled independently.
 
-#### The 16-Hour Certification Exam
+### The 16-Hour Certification Exam
 
 Some approved LTC training providers administer a certification exam at the completion of the 16-hour training. Where required by the provider, a passing score (typically 70%) must be achieved to receive credit for the training. Classroom and webinar components generally do not require a separate exam for the live portions — attendance and participation are the basis for credit. The online general LTC component typically does require a final exam consistent with Colorado's self-study CE rules.
 
-### The 5-Hour Ongoing Refresher: Every 24 Calendar Months
+## The 5-Hour Ongoing Refresher: Every 24 Calendar Months
 
 After completing the initial 16-hour training, producers who continue selling LTC products must complete 5 hours of LTC refresher training every 24 calendar months from the date the initial training was completed. The 24-month clock runs from the initial completion date — not from the producer's license renewal date, not from the biennial CE cycle. The two cycles may not align.
 
 Format: MANDATORY classroom or live webinar only. The same format requirement that applies to the 8-hour Partnership component of the initial training applies to every ongoing refresher: live instruction required, no online self-study. A dedicated 5-hour ongoing LTC course must be completed — not the general LTC component or the Partnership component of the initial training repeated.
 
-#### The Critical Rule That Catches Producers Off Guard
+### The Critical Rule That Catches Producers Off Guard
 
 Neither the 8-hour general LTC course alone nor the 8-hour Partnership course alone satisfies the ongoing 5-hour refresher requirement — even if retaken at the 24-month mark. The only exceptions are:
 
@@ -96,7 +96,7 @@ The complete 16-hour initial training (both components, all 16 hours) retaken to
 
 Attempting to satisfy the ongoing requirement by retaking only the general LTC 8-hour course, or only the Partnership 8-hour course, does not meet the Colorado DOI's requirement. Producers who take this shortcut and submit for renewal discover the deficiency only when the renewal is rejected — at which point they must locate a scheduled 5-hour ongoing LTC course before they can renew.
 
-#### Content of the 5-Hour Ongoing Refresher
+### Content of the 5-Hour Ongoing Refresher
 
 Approved 5-hour ongoing LTC courses cover updates to LTC products, regulations, and the Colorado Partnership program since the producer's initial training or last refresher. Content typically includes:
 
@@ -112,7 +112,7 @@ LTC policy replacement — current standards, disclosure requirements, and the e
 
 Review of consumer disclosure requirements and agent recordkeeping obligations
 
-### How LTC Training Hours Fit Into Biennial CE
+## How LTC Training Hours Fit Into Biennial CE
 
 Both the initial training hours and the ongoing refresher hours count toward the producer's 24-hour biennial CE requirement, under the Accident & Health or Life major lines category:
 
@@ -122,7 +122,7 @@ The practical CE implication for the ongoing refresher: In each biennial CE cycl
 
 Important: the 24-month LTC refresher cycle may not align with the biennial CE cycle. If your LTC initial training was completed in March 2023, your first ongoing refresher is due by March 2025, then March 2027, and so on — regardless of when your license renews. Your biennial CE cycle ends on the last day of your birth month in your renewal year. These two cycles run independently. Plan both calendars separately and do not assume the LTC refresher due date falls in the same period as your CE renewal.
 
-### Non-Resident Producers: LTC Training Is Not Waived
+## Non-Resident Producers: LTC Training Is Not Waived
 
 Non-resident producers are generally exempt from Colorado's biennial CE requirements — they satisfy their home state's CE requirements, and Colorado deems that compliant. LTC training is the explicit exception. Non-resident producers who want to sell LTC products in Colorado must comply with Colorado's LTC training requirements regardless of home state training.
 
@@ -136,13 +136,13 @@ If uncertain, complete the Colorado Partnership-specific training to ensure comp
 
 Maintain documentation of all LTC training completion for record-keeping purposes
 
-### Carriers' Separate LTC Product Training Requirement
+## Carriers' Separate LTC Product Training Requirement
 
 As with annuity training, the state's LTC training requirement and the carrier's product-specific LTC training are two separate, independently required obligations. Completing Colorado's 16-hour initial LTC training certifies to the state that the producer understands general LTC insurance and the Colorado Partnership program. It does not satisfy any carrier's requirement for training on that carrier's specific LTC products.
 
 Carriers whose LTC products the producer wants to sell will require separate product-specific training covering that carrier's policy forms, underwriting guidelines, rate structures, inflation protection options, and sales procedures. Carriers must maintain records of producer LTC training — both the state general training and the carrier's own product training — to satisfy their obligations under the Colorado Partnership program and the DOI's regulatory requirements.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed the 16-hour initial LTC training four years ago but have not completed the 5-hour refresher. Can I still sell LTC products in Colorado?
 

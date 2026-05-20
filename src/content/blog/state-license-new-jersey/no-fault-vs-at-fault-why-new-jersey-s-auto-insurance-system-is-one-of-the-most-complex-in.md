@@ -15,13 +15,13 @@ imageAlt: "No-Fault vs. At-Fault: Why New Jersey's Auto Insurance System Is One 
 
 New Jersey has been a no-fault auto insurance state since 1972 — but calling it a "no-fault state" without further qualification is misleading. New Jersey's auto insurance system is a modified no-fault framework with a tort option that gives drivers a genuine choice between limiting and preserving their right to sue for pain and suffering. It is one of the most architecturally distinctive auto insurance systems in the country, and for any P&C producer selling personal auto in New Jersey, understanding its mechanics is not optional — it is the core of the client conversation.
 
-### What No-Fault Means in New Jersey
+## What No-Fault Means in New Jersey
 
 In a true no-fault state, each driver's own insurer pays their medical bills and lost wages after an accident regardless of who caused the crash, and the ability to sue the at-fault driver for damages is significantly restricted. New Jersey's system follows this general model through its Personal Injury Protection (PIP) requirement, but with a critical modification: drivers choosing a standard policy can elect whether they want to preserve or waive broad tort rights.
 
 Under New Jersey law (N.J.S.A. 39:6A), every driver operating a motor vehicle in New Jersey must carry auto insurance. Standard policy holders must carry PIP coverage with a minimum benefit of $15,000 per person per accident. After an accident, PIP pays for the policyholder's own medical expenses and a portion of lost wages regardless of fault. This is the no-fault component — your own insurer pays your bills first, not the at-fault driver's insurer.
 
-### Personal Injury Protection: The Foundation
+## Personal Injury Protection: The Foundation
 
 PIP is mandatory under every standard New Jersey auto policy. The minimum PIP benefit is $15,000 per person, but policyholders can purchase higher PIP limits. PIP covers:
 
@@ -35,11 +35,11 @@ Funeral expenses in the event of death
 
 PIP pays regardless of fault. If you are rear-ended by an uninsured driver and sustain injuries, your PIP coverage pays your medical bills first — up to the PIP limit. Only after PIP is exhausted, or for damages not covered by PIP, does liability coverage from the at-fault driver become relevant.
 
-### The Tort Option: Limited vs. Unlimited Right to Sue
+## The Tort Option: Limited vs. Unlimited Right to Sue
 
 This is the feature that makes New Jersey's system uniquely complex. Standard policy holders must choose between two tort options at the time they purchase coverage:
 
-#### Limited Right to Sue (Verbal Threshold)
+### Limited Right to Sue (Verbal Threshold)
 
 Under the Limited Right to Sue option, the policyholder retains the right to sue for economic damages (medical bills, lost wages) but gives up the right to sue for noneconomic damages — primarily pain and suffering — unless the injury meets one of the statutory "threshold" categories defined in N.J.S.A. 39:6A-8:
 
@@ -59,13 +59,13 @@ If an injured policyholder's injuries do not meet one of these categories — fo
 
 The Limited Right to Sue option results in lower premiums because the insurer's exposure to pain and suffering claims from their policyholder is significantly reduced.
 
-#### Unlimited Right to Sue
+### Unlimited Right to Sue
 
 Under the Unlimited Right to Sue option, the policyholder retains full tort rights — they can sue the at-fault driver for both economic and noneconomic damages, including pain and suffering, without meeting any threshold. This option provides maximum legal protection but carries higher premiums.
 
 The choice between these options is made on a Coverage Selection Form at the time of policy purchase, and it is irrevocable for the policy term. The option selected applies to the policyholder and all resident relatives covered under the policy.
 
-### The Basic Policy: A Third Option
+## The Basic Policy: A Third Option
 
 New Jersey also offers a basic auto policy under N.J.S.A. 39:6A-3.1, designed for low-income drivers who need only the minimum coverage required by law. The basic policy provides:
 
@@ -79,13 +79,13 @@ No UM/UIM coverage
 
 The basic policy holder has no tort rights — they cannot sue for pain and suffering under any circumstances. The basic policy is not subject to the Phase 2 35/70/25 minimum requirements that apply to standard policies.
 
-### At-Fault vs. No-Fault: The Practical Difference for Producers
+## At-Fault vs. No-Fault: The Practical Difference for Producers
 
 The no-fault framework changes the claims conversation significantly. When a client is injured in an accident, the first question is not "whose fault was it?" but "does my PIP cover this?" The PIP claim goes to the client's own insurer. Only if PIP benefits are exhausted, if the injuries meet the verbal threshold (for Limited Right to Sue clients), or if the client holds Unlimited Right to Sue does the liability claim against the at-fault driver's insurer become the primary recovery mechanism.
 
 This creates a specific producer advisory obligation: explaining the tort option clearly at the time of sale. Producers who fail to explain the consequences of the Limited Right to Sue option — particularly the verbal threshold — expose themselves to E&O claims from clients who later discover their soft tissue injuries do not qualify for pain and suffering recovery.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the difference between the verbal threshold and a dollar threshold in no-fault auto insurance?
 

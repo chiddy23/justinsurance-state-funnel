@@ -14,13 +14,13 @@ imageAlt: Virginia Is an At-Fault State — and One of Four with Pure Contributo
 
 Virginia's liability system makes it one of the most consequential states in the country for understanding how auto and general liability insurance actually works. Virginia is an at-fault state — meaning the driver responsible for causing an accident is financially responsible for the resulting damages. That part is familiar. What distinguishes Virginia is the doctrine governing what happens when fault is shared: pure contributory negligence. Virginia is one of only five jurisdictions in the United States — along with Alabama, Maryland, North Carolina, and the District of Columbia — that still applies this doctrine, which can bar an injured plaintiff from any recovery if they bear even 1% of fault for their own injuries. For producers who advise Virginia clients on liability coverage, understanding this doctrine is not optional — it directly shapes what coverage their clients need and why.
 
-### Pure Contributory Negligence: The Rule
+## Pure Contributory Negligence: The Rule
 
 Under Virginia Code § 8.01-34, and the common law doctrine established in Virginia courts — most notably affirmed in Baskett v. Banks (1947) — a plaintiff who contributes any negligence that is a proximate cause of their injury is completely barred from recovering damages from a defendant. The plaintiff's fault does not need to be equal to, or even comparable to, the defendant's fault. One percent of fault on the plaintiff's side is legally sufficient to eliminate the entire claim.
 
 This contrasts sharply with the comparative negligence system used in 46 states, where a plaintiff's fault reduces (but does not eliminate) their recovery proportionally. In a comparative negligence state, a plaintiff who is 20% at fault for an accident recovers 80% of their damages. In Virginia, that same plaintiff recovers nothing.
 
-### What This Means for Insurance
+## What This Means for Insurance
 
 The pure contributory negligence doctrine shapes Virginia's insurance market in several direct ways:
 
@@ -32,7 +32,7 @@ UM/UIM coverage is more valuable than in comparative negligence states. A Virgin
 
 Umbrella policies have heightened value for defendants. Because Virginia plaintiffs cannot recover when they share any fault, Virginia jury verdicts in genuine at-fault cases (where no contributory negligence exists) can be substantial — courts award full damages when liability is clear. At-fault drivers in serious accidents where contributory negligence cannot be established face the full damage award with no reduction. Personal umbrella policies that extend liability coverage above the primary auto policy are meaningful protection for Virginia drivers with assets to protect.
 
-### Exceptions to the Pure Contributory Negligence Rule
+## Exceptions to the Pure Contributory Negligence Rule
 
 Virginia's pure contributory negligence doctrine has several recognized exceptions:
 
@@ -44,7 +44,7 @@ Railroad workers: Va. Code § 8.01-58 provides a statutory exception for employe
 
 Children under seven: Virginia courts apply a presumption that children under seven years of age cannot be contributorily negligent.
 
-### The Producer's Advisory Role
+## The Producer's Advisory Role
 
 Virginia producers who sell personal and commercial liability insurance should understand that clients in this state face a more binary liability system than most people intuitively expect. Client conversations about liability coverage in Virginia should address:
 
@@ -54,7 +54,7 @@ The contributory negligence reality: insurance companies aggressively look for a
 
 Umbrella policies: in a system without proportional reduction of damages, the upside risk for at-fault drivers in serious accidents is uncapped by percentage allocation — umbrella coverage addresses this directly
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Is Virginia's pure contributory negligence doctrine likely to change?
 

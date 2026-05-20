@@ -14,7 +14,7 @@ imageAlt: "Minnesota Insurance License Requirements Explained: What Every Applic
 
 Before you enroll in a [prelicensing](/minnesota/prelicensing) course or schedule a PSI exam, you need to understand what Minnesota actually requires for producer licensure — not just the steps, but the eligibility standards, the statutory basis for each requirement, and the choices you make at the outset that shape your entire licensing path. This post covers the full requirements picture: who must be licensed, who qualifies to apply, what lines of authority exist and what they authorize, what the prelicensing and exam standards are, and what ongoing requirements attach to the license once you hold it.
 
-### Who Must Be Licensed in Minnesota
+## Who Must Be Licensed in Minnesota
 
 Minnesota law requires a producer license for anyone who sells, solicits, or negotiates insurance in the state. These three terms have specific meaning under Minn. Stat. §60K.31:
 
@@ -28,7 +28,7 @@ Any person whose work falls within one of these three definitions — regardless
 
 What does not require a producer license: Clerical and administrative employees who do not sell, solicit, or negotiate; persons who only quote rates without accepting applications; and employees who provide general information about insurance without recommending specific products or carriers. The line between licensable and non-licensable activity is often narrower than employers assume — producers who supervise unlicensed staff should ensure their staff's activities stay clearly within administrative functions.
 
-### Eligibility Requirements
+## Eligibility Requirements
 
 Age: Applicants must be at least 18 years old at the time of application. There is no maximum age limit.
 
@@ -40,7 +40,7 @@ Background check: All applicants must submit fingerprints for a criminal history
 
 No active license suspension or revocation: Applicants whose producer license has been suspended or revoked in Minnesota or any other state within a specified period may be denied. The Department reviews the regulatory history of all applicants as part of the background review.
 
-### The Minnesota Lines of Authority: What Each Authorizes
+## The Minnesota Lines of Authority: What Each Authorizes
 
 A Minnesota producer license is not a single blanket authorization to sell all insurance. It is a collection of specific lines of authority, each issued separately, each requiring its own prelicensing and exam. The line of authority you hold determines exactly which products you may legally sell.
 
@@ -60,7 +60,7 @@ Farm Property and Farm Liability: A limited line covering agricultural property 
 
 Other limited lines: Title insurance, credit insurance, travel insurance, and bail bonds are additional limited lines with their own separate requirements and, in some cases, no prelicensing requirement.
 
-### The Prelicensing Requirement: Statutory Basis and What It Demands
+## The Prelicensing Requirement: Statutory Basis and What It Demands
 
 Minnesota Statutes §60K.36 Subd. 4 establishes the prelicensing education requirement. The law requires 20 hours of Department-approved prelicensing education per line of authority for all major lines before an applicant may sit for the state licensing exam.
 
@@ -74,7 +74,7 @@ The critical sequence rule: If an applicant takes the PSI state licensing exam b
 
 Combined line requirements: An applicant seeking both Property and Casualty authority must complete 20 hours for each line — 40 hours total. An applicant seeking both Life and A&H must similarly complete 40 hours total. These combined course packages are available from approved providers and are typically more economical than purchasing each line separately.
 
-### Prelicensing Exemptions: When Education Is Not Required
+## Prelicensing Exemptions: When Education Is Not Required
 
 Certain applicants are exempt from the prelicensing education requirement based on professional credentials or academic background. Exemptions apply only to the education requirement — the state exam, fingerprinting, and application are still required. Applicants claiming an exemption must present qualifying documentation at the PSI test center before the exam.
 
@@ -88,7 +88,7 @@ Academic exemption: Applicants with a four-year college degree in business with 
 
 Applicants from other states: Producers establishing Minnesota as their new state of residence and applying for a resident license within 90 days of their prior resident license becoming inactive are exempt from both prelicensing and the state exam — provided they complete fingerprinting and pay the application fee.
 
-### The State Licensing Exam: Standards and Structure
+## The State Licensing Exam: Standards and Structure
 
 After completing prelicensing, the applicant must pass the Minnesota state insurance licensing exam administered by PSI Services LLC. Exams are available at PSI test centers in Rochester, St. Paul, Willmar, Woodbury, and Brainerd, as well as remotely through PSI Bridge.
 
@@ -100,7 +100,7 @@ Exam validity: Exam results are valid for three years from the date the exam was
 
 Retakes: No limit on attempts. A 24-hour waiting period is required between attempts. The $45 exam fee must be paid for each attempt.
 
-### Application and Appointment Requirements
+## Application and Appointment Requirements
 
 Application: Submitted electronically through NIPR (nipr.com) or Sircon. Application fee is $50 per line of authority plus a technology fee ($10–$20) and NIPR transaction fee ($5.60). A combined P&C application costs $100 for both lines. Processing takes approximately 10 business days from submission.
 
@@ -108,7 +108,7 @@ License before appointment: Minnesota allows a producer to obtain a license befo
 
 How appointments work: Appointments are submitted exclusively by the appointing insurer — not by the producer. The insurer files the appointment electronically with the Department of Commerce. Producers cannot self-appoint. When you join an agency or contract with a carrier, that entity is responsible for submitting your appointment. Terminations are similarly handled by the insurer. If you are appointed by multiple carriers and leave one, you must contact that company and request they file the electronic termination — producers cannot terminate their own appointments.
 
-### Lines That Interact: Understanding What Licenses Cover Together
+## Lines That Interact: Understanding What Licenses Cover Together
 
 The relationship between lines of authority creates practical questions that applicants should understand before choosing their initial licensing path.
 
@@ -120,7 +120,7 @@ Life and A&H together: A producer holding only Life authority cannot sell health
 
 Adding lines after initial licensure: After receiving a license, a producer can add additional lines of authority at any time by completing the applicable prelicensing education, passing the applicable exam, and submitting an amended application. There is no waiting period or minimum experience requirement before adding lines.
 
-### Ongoing License Requirements
+## Ongoing License Requirements
 
 Renewal: Minnesota producer licenses renew every two years on the last day of the licensee's birth month. Business entity licenses renew on October 31 biennially. Renewal is submitted through NIPR with a $50 fee plus a $30 technology surcharge.
 
@@ -128,7 +128,7 @@ Renewal: Minnesota producer licenses renew every two years on the last day of th
 
 Lapsed license: A license that expires without renewal can be reinstated within 12 months by paying double the unpaid renewal fee. After 12 months, the producer must reapply as if applying for the first time — completing prelicensing, passing the state exam, completing fingerprinting, and paying the full application fee.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I hold a Minnesota producer license without being employed by an insurance company?
 

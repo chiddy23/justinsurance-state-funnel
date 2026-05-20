@@ -14,13 +14,13 @@ imageAlt: "Virginia Insurance License Fingerprinting: How Fieldprint Works and W
 
 Every Virginia resident insurance license applicant must complete a fingerprint-based criminal history background check before the Bureau of Insurance will approve their license. Virginia uses Fieldprint Virginia — not IdentoGO, which most other states use — and the Fieldprint process is specific enough that applicants who assume it works the same as other states' fingerprinting systems make easily avoidable mistakes. This post covers exactly how Fieldprint works, what the Fieldprint Code means, what happens after your prints are submitted, and how to avoid the most common timing errors.
 
-### Why Virginia Requires Fingerprinting
+## Why Virginia Requires Fingerprinting
 
 Under Title 38.2 of the Code of Virginia, the Bureau of Insurance conducts a criminal history background check on every new resident license applicant. The check runs through two channels: the Virginia State Police (for Virginia criminal history) and the Federal Bureau of Investigation (for national criminal history). Fieldprint collects your digital prints and transmits them electronically to both agencies. The results go directly to the Bureau of Insurance for review as part of your license application.
 
 This is a one-time requirement per application type — with a specific exception: you do not need new fingerprints if you have submitted fingerprints in the last 12 months, are currently licensed, and are applying for the same license type. If you are applying for a different license type (for example, you hold a Life & Annuities license and are adding Property & Casualty), you are required to submit new fingerprints. No exceptions apply.
 
-### Fieldprint Code: FPVABOIProducer
+## Fieldprint Code: FPVABOIProducer
 
 When you create your Fieldprint account and schedule your appointment, you will be asked for a Fieldprint Code. The correct code for Virginia insurance producer license applicants is:
 
@@ -30,7 +30,7 @@ This code is critical. It routes your fingerprint results to the Virginia Bureau
 
 Some sources reference the code FPVABOICHRR — this is an alternative code that may appear in certain contexts. The Bureau's official guidance consistently directs applicants to FPVABOIProducer. Confirm the correct code on the official SCC website (scc.virginia.gov) before scheduling.
 
-### How to Schedule a Fieldprint Appointment
+## How to Schedule a Fieldprint Appointment
 
 Step 1: Go to fieldprintvirginia.com
 
@@ -46,13 +46,13 @@ Step 6: Bring your appointment confirmation number and two valid forms of identi
 
 The appointment itself takes approximately 10 minutes. A trained Fieldprint technician captures your prints digitally using live-scan technology — no ink is involved.
 
-### What Happens After Your Appointment
+## What Happens After Your Appointment
 
 Once your digital prints are submitted, Fieldprint transmits them electronically to the Virginia State Police and FBI. The agencies process the prints and transmit results directly to the Bureau of Insurance. You do not receive a copy of the results — the Bureau accesses them as part of your application review.
 
 You do not need to upload or attach fingerprint results to your NIPR or Sircon application. The results are transmitted directly from the background check system to the Bureau. Your application simply needs to be submitted while your fingerprint results are accessible — within the 90-day window.
 
-### The 90-Day Window: The Most Important Timing Rule
+## The 90-Day Window: The Most Important Timing Rule
 
 Virginia imposes a strict timing requirement: your fingerprints must be no older than 90 days when you submit your license application. You must also submit your application within 90 days of completing your Fieldprint appointment.
 
@@ -66,13 +66,13 @@ You are not waiting weeks for fingerprint results before you can apply
 
 Both the fingerprint window and the 183-day exam score validity window remain open simultaneously
 
-### What If Your Background Check Returns a Conviction?
+## What If Your Background Check Returns a Conviction?
 
 If the Virginia State Police or FBI check returns a criminal history record, the Bureau of Insurance reviews it as part of your application. You are separately required to submit a Criminal History Record Report (CHRR) from the Virginia State Police — the Fieldprint check does not substitute for this requirement. The CHRR is attached to your NIPR or Sircon application electronically.
 
 If your record shows any conviction, you must also provide a detailed written explanation and relevant court documentation. The Bureau reviews each case individually. The most important rule: disclose everything. Failure to disclose a conviction is treated as misrepresentation and is independent grounds for license denial.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is Fieldprint and why does Virginia use it instead of IdentoGO?
 

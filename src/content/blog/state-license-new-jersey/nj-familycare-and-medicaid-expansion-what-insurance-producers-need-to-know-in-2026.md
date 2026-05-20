@@ -14,13 +14,13 @@ imageAlt: "NJ FamilyCare and Medicaid Expansion: What Insurance Producers Need t
 
 New Jersey expanded Medicaid under the Affordable Care Act in 2014 — one of the early expansion states — and NJ FamilyCare, the state's Medicaid program, now covers approximately 1.9 million New Jerseyans as of 2026. That number includes roughly 546,000 working-age adults enrolled specifically through the ACA expansion pathway. For health insurance producers in New Jersey, NJ FamilyCare is not a niche program. It is the coverage pathway for a substantial share of the state's population, and understanding how it works — who qualifies, where it intersects with the Get Covered NJ marketplace, and what the major 2026 changes mean for clients — is part of serving the NJ health insurance market competently.
 
-### What NJ FamilyCare Is
+## What NJ FamilyCare Is
 
 NJ FamilyCare is New Jersey's branded Medicaid and Children's Health Insurance Program (CHIP), administered by the New Jersey Department of Human Services through the Division of Medical Assistance and Health Services (DMAHS). It provides free or very low cost health coverage to eligible residents across several categories: working-age adults, children, pregnant women, parents and caretakers, and aged, blind, and disabled individuals.
 
 New Jersey was one of five states that partially expanded Medicaid before 2014, offering coverage to childless adults with incomes up to 23% of the federal poverty level beginning in April 2011. Full expansion to 138% FPL took effect January 1, 2014 — the earliest date available under the ACA.
 
-### The Eligibility Structure in 2026
+## The Eligibility Structure in 2026
 
 NJ FamilyCare eligibility is organized around income, age, and category. The primary thresholds for 2026:
 
@@ -28,7 +28,7 @@ The adult expansion program (138% FPL) uses the MAGI (Modified Adjusted Gross In
 
 Children's coverage at up to 355% FPL is among the most generous in the country. Since 2023, NJ FamilyCare covers children regardless of immigration status under New Jersey's Cover All Kids initiative — a NJ-specific provision that expanded access significantly.
 
-### The Subsidy Cliff: Where NJ FamilyCare Ends and Marketplace Begins
+## The Subsidy Cliff: Where NJ FamilyCare Ends and Marketplace Begins
 
 Understanding the income boundaries between NJ FamilyCare and Get Covered NJ is essential for producers advising clients on coverage options:
 
@@ -42,7 +42,7 @@ Above 600% FPL: Full unsubsidized marketplace premiums
 
 NJ FamilyCare enrollment is available year-round — there is no open enrollment period for Medicaid. A client who loses income mid-year and falls below 138% FPL can enroll in NJ FamilyCare at any time. This is a critical distinction from marketplace coverage, which requires a qualifying life event or open enrollment window outside of the annual period.
 
-### The 2026 Federal Changes: Work Requirements and Enrollment Impacts
+## The 2026 Federal Changes: Work Requirements and Enrollment Impacts
 
 The One Big Beautiful Bill Act (OBBBA) signed by President Trump on July 4, 2025 imposed several significant changes to federal Medicaid requirements that will affect NJ FamilyCare enrollees:
 
@@ -52,7 +52,7 @@ Six-month renewals: Beginning December 31, 2026, eligibility renewals for adults
 
 Non-citizen coverage restrictions: Effective October 1, 2026, only Legal Permanent Residents, Cuban/Haitian entrants, and certain Compact of Free Association migrants qualify for full Medicaid benefits. An estimated 25,000 legal immigrants in NJ are expected to lose coverage in 2026 under this provision.
 
-### What Producers Need to Know
+## What Producers Need to Know
 
 The coverage conversation is changing. The 2026 changes mean that clients previously enrolled in NJ FamilyCare through the expansion pathway may need to document work or community engagement to maintain coverage, and may face six-month rather than annual renewals. Producers working in the individual health market should understand these changes to advise clients who are near the coverage boundaries — particularly those who might move between NJ FamilyCare and marketplace eligibility as their income or eligibility status changes.
 
@@ -60,7 +60,7 @@ Producers selling marketplace plans must be Get Covered NJ certified before assi
 
 The Long-Term Care Medicaid connection. For Life and Health producers advising clients on long-term care planning, NJ FamilyCare's MLTSS program is a critical context. MLTSS is New Jersey's Medicaid-funded managed long-term services and supports program — an entitlement with no waitlist that provides nursing home and home-based long-term care. New Jersey's high home equity limit ($1,130,000 for MLTSS eligibility) reflects the state's extremely high real estate values and is a planning consideration for NJ clients developing long-term care strategies.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 When did New Jersey expand Medicaid under the ACA?
 

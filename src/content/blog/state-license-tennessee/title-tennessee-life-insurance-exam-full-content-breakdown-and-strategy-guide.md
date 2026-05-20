@@ -14,7 +14,7 @@ imageAlt: "Tennessee Life Insurance Exam: Full Content Breakdown and Strategy Gu
 
 The Tennessee Life insurance licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and must be passed at 70% to earn Life line of authority from the Tennessee Department of Commerce and Insurance. No mandatory [prelicensing](/tennessee/prelicensing) course is required before sitting for the exam. That combination — a substantive exam with no required preparation structure — means the candidates who pass on the first attempt are those who understand exactly what the exam tests and have prepared for both the general life insurance content and the Tennessee state law section with equal discipline. This post provides the complete content breakdown for the Tennessee Life exam: every topic area, what each tests at the level of specificity the exam requires, how question weight is distributed, and the strategic approach that produces first-time passing scores.
 
-### The Two-Section Structure of the Tennessee Life Exam
+## The Two-Section Structure of the Tennessee Life Exam
 
 Every Tennessee insurance licensing exam tests two distinct knowledge domains within a single 77-question session. The Life exam is no exception.
 
@@ -24,9 +24,9 @@ Section 2 — Tennessee State Laws and Regulations: Tests specific knowledge of 
 
 Both sections contribute to the single pool of 68 scored questions. Both must be understood to pass. The most common failure pattern on the Tennessee Life exam is a candidate who prepared thoroughly for the general section but treated the state law section as an afterthought — and fell below 70% because of state law question losses they did not anticipate.
 
-### General Section: Life Insurance Products
+## General Section: Life Insurance Products
 
-#### Term Life Insurance
+### Term Life Insurance
 
 Term life is the foundational life insurance product and consistently the most question-dense topic on the Tennessee Life exam. The exam tests not just the definition of term life but the specific structural variations and their distinct characteristics.
 
@@ -44,7 +44,7 @@ Convertible term: The policy can be converted to a permanent life insurance poli
 
 What to know about term: Term insurance provides pure death benefit protection — there is no cash value accumulation, no loan provision, and no non-forfeiture options (because there is no accumulated value to apply). This distinguishes term from all forms of permanent insurance.
 
-#### Whole Life Insurance
+### Whole Life Insurance
 
 Whole life is permanent life insurance with guaranteed death benefit, guaranteed premium, and guaranteed cash value accumulation. The exam tests the structural variations of whole life and the specific provisions that apply to cash value policies.
 
@@ -60,7 +60,7 @@ Policy loans: The insured may borrow against the cash value without tax conseque
 
 Dividends — participating policies: Mutual insurance company policies frequently pay dividends — a return of excess premium. Dividends are not guaranteed but are paid when the insurer's actual experience (mortality, expenses, investment returns) is more favorable than assumed. Dividend options: cash payment, premium reduction, accumulation at interest, paid-up additions, one-year term insurance. Paid-up additions is frequently tested — dividends purchase small amounts of additional paid-up whole life coverage, increasing both the death benefit and the total cash value over time.
 
-#### Non-Forfeiture Options
+### Non-Forfeiture Options
 
 Non-forfeiture options protect policyholders who stop paying premiums on a whole life policy with accumulated cash value. The policy cannot simply be forfeited — the insured is entitled to the value they have built. Three options:
 
@@ -72,7 +72,7 @@ Extended term insurance: The cash value is used as a single premium to purchase 
 
 The exam frequently presents scenarios asking which non-forfeiture option results in what outcome — knowing both what each option provides and how it differs from the others is essential.
 
-#### Universal Life Insurance
+### Universal Life Insurance
 
 Universal life (UL) is flexible permanent life insurance with separable components — the cost of insurance (mortality charge), the expense charge, and the accumulation account (cash value).
 
@@ -90,7 +90,7 @@ The Option A/Option B distinction is among the most frequently tested universal 
 
 Interest crediting: Universal life cash value earns interest at a current credited rate that may change over time — with a guaranteed minimum floor (typically 2–4%). The policy's performance depends on sustained interest crediting above the minimum guarantee.
 
-#### Variable Life Insurance
+### Variable Life Insurance
 
 Variable life insurance links the cash value and potentially the death benefit to investment subaccounts — portfolios similar to mutual funds — rather than a fixed interest crediting rate. The policyholder bears the investment risk.
 
@@ -102,7 +102,7 @@ The securities regulation overlay: Variable life and variable annuities are clas
 
 Separate accounts vs. general account: Variable product cash values are held in separate accounts — investment subaccounts segregated from the insurer's general assets. Fixed life insurance products hold cash value in the insurer's general account, supported by the company's investment portfolio and backed by the full faith of the insurer.
 
-#### Indexed Universal Life Insurance
+### Indexed Universal Life Insurance
 
 Indexed universal life (IUL) credits interest based on the performance of an external market index — most commonly the S&P 500 — while protecting against negative returns through a floor provision.
 
@@ -118,7 +118,7 @@ Cap: The maximum interest rate that will be credited regardless of index perform
 
 Floor: The minimum interest rate credited regardless of index performance. A 0% floor means cash value does not decrease due to negative index returns — but it also does not decrease the cost of insurance charges, which continue to be deducted from cash value regardless of index performance.
 
-#### Annuities
+### Annuities
 
 Annuities are insurance products designed to accumulate funds and convert them to a stream of income. The exam tests the structural distinctions between annuity types and the specific payout options available.
 
@@ -144,7 +144,7 @@ Fixed period: Payments are made for a specified number of years regardless of wh
 
 Fixed amount: A specified dollar amount is paid each period until the account value is exhausted.
 
-#### Life Insurance Policy Provisions
+### Life Insurance Policy Provisions
 
 Policy provisions are heavily tested on the Tennessee Life exam. Every provision has a specific purpose and specific operational mechanics that the exam tests at a granular level.
 
@@ -168,7 +168,7 @@ Accidental death benefit (double indemnity): A rider that pays an additional dea
 
 Guaranteed insurability (GIR): A rider allowing the insured to purchase additional coverage at specified future dates — typically every three years or upon certain life events — without evidence of insurability. The insured pays the then-current rate for the additional coverage but cannot be declined. GIR riders have a maximum age after which the option expires.
 
-#### Beneficiary Designations
+### Beneficiary Designations
 
 Primary beneficiary: The first-named recipient of the death benefit. If the primary beneficiary survives the insured, they receive the benefit.
 
@@ -182,7 +182,7 @@ Per stirpes distribution: If a named beneficiary predeceases the insured, that b
 
 Per capita distribution: All surviving beneficiaries share the benefit equally. If a named beneficiary predeceases the insured, their share is divided equally among the surviving named beneficiaries — it does not pass to the deceased beneficiary's descendants.
 
-#### Settlement Options
+### Settlement Options
 
 When a death claim is paid, the beneficiary selects how the proceeds are distributed. The insured may designate a settlement option in advance — binding the beneficiary — or leave the choice to the beneficiary.
 
@@ -196,9 +196,9 @@ Fixed amount: A specified dollar amount is paid each period until the proceeds p
 
 Life income: Payments are made for the beneficiary's life. Structurally identical to an annuity — the death benefit is converted to a guaranteed income stream. Sub-options include life only (payments cease at beneficiary's death), life with period certain (minimum payment period guaranteed), and joint and survivor (continues to surviving co-beneficiary).
 
-### General Section: Underwriting and the Application
+## General Section: Underwriting and the Application
 
-#### The Application
+### The Application
 
 Part 1 — General information: Name, address, date of birth, the insurance applied for, beneficiary designation.
 
@@ -208,7 +208,7 @@ Agent's report: The producer's observations about the applicant — demeanor, ap
 
 The applicant's signature: The applicant must sign the application. If material changes occur between application submission and policy delivery, the applicant must acknowledge those changes on a statement of good health or equivalent form at delivery.
 
-#### Insurable Interest
+### Insurable Interest
 
 Life insurance requires that the policy owner have an insurable interest in the insured at the time of application — not at the time of the claim. Insurable interest exists when the policy owner would suffer financial or emotional loss upon the insured's death.
 
@@ -218,7 +218,7 @@ Business-related insurable interest: A corporation has insurable interest in the
 
 The insurable interest at application rule: For life insurance, insurable interest must exist at the time of application — unlike property insurance where it must exist at the time of loss. Once a life insurance policy is issued, the policy owner may designate any person as beneficiary regardless of insurable interest.
 
-#### Risk Classification
+### Risk Classification
 
 Preferred: Excellent health, favorable family history, no hazardous activities. Best rates available.
 
@@ -230,7 +230,7 @@ Declined: Risk is too high for the insurer to accept at any premium.
 
 Temporary flat extra: An additional per-thousand charge applied for a specified number of years (typically three to five) for a condition the insurer expects to improve over time — recent surgery, weight loss in progress, controlled health conditions.
 
-### General Section: Group Life Insurance
+## General Section: Group Life Insurance
 
 Master policy: Issued to the employer (or group sponsor). Individual members of the group receive certificates of coverage — not individual policies.
 
@@ -240,7 +240,7 @@ Conversion right: When group coverage terminates — due to job loss, retirement
 
 Creditor group life insurance: Insurance purchased by lenders on the lives of borrowers — credit life insurance. The death benefit typically equals the outstanding loan balance. Decreasing term is commonly used.
 
-### General Section: Business Life Insurance
+## General Section: Business Life Insurance
 
 Key person life insurance: The business owns the policy, pays the premiums, and is named as beneficiary. The policy covers an employee whose death would cause significant financial loss to the business — a key executive, top salesperson, or technical specialist whose skills are difficult to replace. The death benefit proceeds are not deductible as a business expense. Death benefit received by the business is generally income-tax-free.
 
@@ -252,9 +252,9 @@ Entity purchase (stock redemption): The business entity purchases life insurance
 
 Split-dollar arrangement: The employer and employee share the premium cost and the policy benefits. Common structure: employer pays the portion of premium equal to the annual increase in cash value; employee pays the balance. Upon the insured's death, the employer recovers its premium contributions from the death benefit; the employee's beneficiary receives the remainder.
 
-### Tennessee State Law Section: Life Insurance Focus
+## Tennessee State Law Section: Life Insurance Focus
 
-#### The Replacement Regulation
+### The Replacement Regulation
 
 When a producer recommends replacing an existing life insurance policy, Tennessee's replacement regulation imposes specific obligations designed to protect the policyholder from unsuitable replacements.
 
@@ -274,7 +274,7 @@ The 30-day free look on replacement policies: Replacement policies include a 30-
 
 Twisting: Misrepresenting the terms or conditions of an existing policy — or the performance of an existing insurer — to induce a policyholder to replace coverage. Twisting is a violation of Tennessee's Unfair Trade Practices Act (TCA Title 56, Chapter 8) and a ground for license discipline under TCA §56-6-112.
 
-#### Annuity Suitability — Tennessee's Best Interest Standard
+### Annuity Suitability — Tennessee's Best Interest Standard
 
 Tennessee has adopted the NAIC Suitability in Annuity Transactions model rule, which requires producers to act in the best interest of the consumer when recommending annuity products.
 
@@ -282,7 +282,7 @@ The one-time 4-hour training requirement: Producers must complete a one-time 4-h
 
 Suitability analysis requirements: Before recommending an annuity, the producer must have a reasonable basis to believe the recommendation is in the consumer's best interest based on the consumer's financial situation, needs, risk tolerance, time horizon, and other relevant characteristics.
 
-#### Tennessee's Bad Faith Penalty — TCA §56-7-105
+### Tennessee's Bad Faith Penalty — TCA §56-7-105
 
 This is the single most frequently tested Tennessee-specific provision across all lines on the state law section. For Life exam candidates specifically, understanding how it applies to life insurance claim denials is essential.
 
@@ -292,15 +292,15 @@ The 25% figure is specifically testable: The exam presents the bad faith penalty
 
 The triggering standard: The penalty applies to wrongful refusal to pay — not every delayed claim triggers bad faith. The insurer must have wrongfully denied a valid claim. A claim delayed pending legitimate investigation does not automatically trigger bad faith.
 
-#### The TennCare Direction Prohibition
+### The TennCare Direction Prohibition
 
 TCA §56-6-112 specifically identifies as a ground for producer license discipline: knowingly directing a person to submit an application for health care benefits through TennCare when the person is covered by a group policy or when the group policy is being renewed, and then quoting a rate for a group health insurance policy if the producer knows the person would have otherwise been eligible to participate in the group policy.
 
 This provision is uniquely Tennessee and appears on Life and A&H exam state law sections because it involves health coverage coordination. For Life producers who also advise clients on benefits, it establishes a specific prohibited conduct around TennCare enrollment timing.
 
-### Strategy: How to Study for the Tennessee Life Exam
+## Strategy: How to Study for the Tennessee Life Exam
 
-#### Topic Prioritization
+### Topic Prioritization
 
 Not all topics are weighted equally on the Tennessee Life exam. Allocate study time proportionally to question weight, not alphabetically through a content list.
 
@@ -340,19 +340,19 @@ Credit life insurance
 
 Modified Endowment Contracts (MECs)
 
-#### The State Law Study Protocol
+### The State Law Study Protocol
 
 For the state law section specifically, the most effective study approach is daily flashcard drilling from the beginning of preparation through exam day. Create a card for every specific number, every specific timeline, and every Tennessee-specific provision. The state law section tests recall of specifics — not conceptual understanding. Automatic recall is the goal.
 
 Daily flashcard drill: 10–15 minutes per day reviewing all state law flashcards. Begin on day one of preparation, not the week before the exam. Daily repetition over two to four weeks produces the automatic recall that prevents hesitation on state law questions.
 
-#### Practice Exam Discipline
+### Practice Exam Discipline
 
 Take your first full-length [practice exam](/tennessee/practice-exam) after completing initial content coverage — not before, and not after partial coverage. Use the results to identify your three weakest topic areas and allocate your final study period to those areas. In the final three to five days before your exam, take one timed practice exam per day and review every missed question before stopping for the evening.
 
 The readiness threshold: Three consecutive practice exams at 80% or above. At that level of practice performance, the 70% pass threshold on the actual exam is reachable even accounting for test-day performance variation.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 The Tennessee Life exam covers both life insurance and annuities. How much exam weight do annuities carry, and should I study them as intensely as the life insurance products?
 

@@ -14,7 +14,7 @@ imageAlt: "How to Build a Six-Figure Insurance Income in New Jersey: A Realistic
 
 New Jersey is the fifth-highest-paying state for insurance agents in the country, with commercial lines producers averaging approximately $99,634 in total compensation and top earners — established independent producers with strong commercial books — clearing $200,000 or more annually. Six-figure income in NJ insurance is achievable. But the path to it is specific, and candidates who enter the industry without understanding what actually drives high-income outcomes in this market tend to spend years grinding at below-potential income levels before figuring out what the top producers already know. This post lays out exactly what distinguishes producers who reach $100,000+ from those who plateau at $50,000 to $60,000 — and what a realistic timeline to six figures looks like in New Jersey.
 
-### Why New Jersey Is One of the Best States to Build Insurance Income
+## Why New Jersey Is One of the Best States to Build Insurance Income
 
 New Jersey's income advantage for producers is structural, not accidental:
 
@@ -26,7 +26,7 @@ Commercial market density. NJ has more than 900,000 small businesses employing a
 
 No competitor dominance. Unlike states with heavily captive agent cultures, NJ's independent agency market is robust. World Insurance Associates in Iselin leads the state with $3.1 billion in 2024 gross written premiums. Conner Strong & Buckelew, Arthur J. Gallagher, and Brown & Brown are among the other major NJ brokerages. But the market is large enough that independent producers can build differentiated practices in niche markets without running into the same large-firm competitors everywhere.
 
-### The Income Architecture: How the Money Actually Works
+## The Income Architecture: How the Money Actually Works
 
 Understanding insurance income requires understanding the commission and renewal structure. These are the levers that separate six-figure producers from average ones.
 
@@ -36,9 +36,9 @@ Renewal commission: When the policy renews the following year — and every subs
 
 The compounding math: A producer who places $500,000 in new annual premium in year one at an average 12% commission earns $60,000 in new business commission. In year two, if 85% of that premium renews (a strong retention rate), they earn $51,000 in renewal income plus $60,000 from new production — $111,000 total. By year five, with consistent production and strong retention, the renewal base alone approaches or exceeds $100,000. The book compounds every year you keep producing.
 
-### The Roadmap: Year by Year
+## The Roadmap: Year by Year
 
-#### Year 1–2: Build Foundation, Expect Lean Income
+### Year 1–2: Build Foundation, Expect Lean Income
 
 First-year NJ producers entering through a captive agency arrangement typically earn $35,000 to $55,000 total compensation. Commission-only independent producers may earn less until the renewal base builds. This is the investment phase — no renewable base has been built yet, and income is almost entirely from new production.
 
@@ -54,7 +54,7 @@ Build systematic referral processes — every happy client should refer at least
 
 Track every renewal date — your client retention rate is your income security
 
-#### Year 3–4: The Renewal Inflection
+### Year 3–4: The Renewal Inflection
 
 By year three, a producer who has been consistently placing new business begins to feel the compounding effect. Renewal income from years one and two is adding to new production income. Total income for a producer with strong retention and consistent new business typically reaches $65,000 to $90,000 in year three or four.
 
@@ -68,7 +68,7 @@ Begin moving toward larger accounts — one $500,000 commercial account pays mor
 
 Build your referral network systematically — CPAs, attorneys, real estate agents, mortgage brokers are the most productive referral sources in NJ's high-income market
 
-#### Year 5+: Six Figures and Above
+### Year 5+: Six Figures and Above
 
 A producer who reaches year five with a well-built book — strong retention, consistent new production, at least one niche market specialty — is positioned for six-figure income. The producers who exceed $150,000 to $200,000+ in NJ do so through two primary mechanisms: moving into commercial lines where per-account revenue is substantially higher, and building agency ownership or production bonuses through carrier relationships.
 
@@ -80,7 +80,7 @@ What distinguishes $100,000 producers from $200,000 producers:
 
 The same principle extended further: specialization in high-premium lines (commercial umbrella, management liability, professional liability, group benefits), ownership of the carrier relationship (producer codes that allow direct access to market versus brokerage-through-agency structures), and the systematic development of referral networks that produce qualified leads without cold prospecting.
 
-### The NJ-Specific Advantages Most Producers Underutilize
+## The NJ-Specific Advantages Most Producers Underutilize
 
 The pharmaceutical corridor. A Life producer who develops relationships inside one of NJ's pharmaceutical companies — through employee benefits advisory, executive disability, or group benefits management — has access to a client base earning $150,000–$400,000+ per year who need insurance products that are more complex and higher-premium than standard retail clients.
 
@@ -88,7 +88,7 @@ The 900,000 small businesses. NJ's small business market is enormous, geographic
 
 The tri-state reciprocity opportunity. NJ, NY, and PA participate in nonresident licensing reciprocity. A NJ producer who adds a NY or PA nonresident license through reciprocity can serve clients who work in NJ but live in New York, or who own businesses operating across state lines. Many NJ clients have insurance needs that touch multiple states — a producer with multi-state authority provides seamless service that single-state producers cannot.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Is six-figure income realistic in New Jersey insurance within 5 years?
 

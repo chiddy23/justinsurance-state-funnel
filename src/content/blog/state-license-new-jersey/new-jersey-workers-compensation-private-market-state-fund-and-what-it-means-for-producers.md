@@ -14,13 +14,13 @@ imageAlt: "New Jersey Workers' Compensation: Private Market, State Fund, and Wha
 
 New Jersey is one of 46 states operating a competitive workers' compensation insurance market — meaning employers can purchase coverage from any of more than 400 private insurance carriers licensed to sell workers' comp in the state, rather than being forced to use a state-run fund. This is not a minor administrative distinction. For P&C producers in New Jersey, the competitive market means advisory opportunity, carrier selection complexity, and a business line that touches virtually every employer in one of the country's most densely populated states. Understanding how NJ workers' comp works — who must have it, who is excluded, what the market structure looks like, and what happens when employers do not comply — is foundational knowledge for any commercial lines producer in the Garden State.
 
-### The Legal Mandate: N.J.S.A. 34:15-1
+## The Legal Mandate: N.J.S.A. 34:15-1
 
 New Jersey's workers' compensation framework is governed by the New Jersey Workers' Compensation Act, N.J.S.A. 34:15-1 et seq., first enacted in 1911. The Act establishes a no-fault system — injured workers give up the right to sue employers in exchange for guaranteed access to medical benefits and wage replacement — and requires virtually every employer in the state to maintain workers' compensation coverage.
 
 The mandate applies when an employer has one or more employees. There is no minimum headcount threshold, no grace period after hiring the first employee, and no industry exemption. Coverage must be in place the moment an employment relationship begins.
 
-### Who Must Be Covered
+## Who Must Be Covered
 
 Corporations: All corporations operating in New Jersey must maintain workers' comp coverage or be approved for self-insurance as long as any one or more individuals — including corporate officers — perform services for the corporation for financial consideration. Corporate officers are automatically included and cannot opt out.
 
@@ -32,7 +32,7 @@ Coverage is broadly defined: New Jersey's Workers' Compensation Act applies a li
 
 Covered populations: Workers' comp coverage in NJ extends to full-time and part-time employees, temporary workers, agricultural workers, domestic workers, and even minors and undocumented workers engaged in employment. The breadth of coverage is deliberately broad.
 
-### The Competitive Market Structure
+## The Competitive Market Structure
 
 New Jersey does not have a state insurance fund for workers' compensation. Coverage must be obtained from one of the private carriers licensed in the state, or through the New Jersey Workers' Compensation Insurance Plan (the assigned risk pool) for employers who cannot obtain coverage in the voluntary market.
 
@@ -40,7 +40,7 @@ The NJ Compensation Rating and Inspection Bureau (NJCRIB) is the state's designa
 
 For employers with clean loss histories and favorable risk profiles, the voluntary market offers over 400 carrier options. For employers with poor loss experience, unusual class codes, or high-hazard industries, the assigned risk pool administered through NJCRIB provides coverage as a last resort — at less favorable pricing than the voluntary market.
 
-### Benefits Structure
+## Benefits Structure
 
 New Jersey's workers' comp system provides four categories of benefits:
 
@@ -56,7 +56,7 @@ Death benefits: Paid to dependents of workers killed in work-related accidents.
 
 Benefits begin after a seven-day waiting period. Injuries resulting in disability lasting more than seven days trigger TTD payments retroactively for the waiting period as well.
 
-### Penalties for Non-Compliance
+## Penalties for Non-Compliance
 
 Non-compliance with New Jersey's workers' comp mandate carries severe consequences codified in N.J.S.A. 34:15-79:
 
@@ -72,11 +72,11 @@ The Uninsured Employers Fund provides medical and temporary disability benefits 
 
 The Office of Special Compensation Funds actively cross-checks NJCRIB's coverage database against other employer records to identify businesses operating without workers' comp insurance and sends compliance notices and assessment letters.
 
-### The Second Injury Fund
+## The Second Injury Fund
 
 New Jersey's Second Injury Fund (SIF) makes benefit payments to workers who become permanently disabled due to a work-related accident when the worker had a pre-existing disability. The SIF encourages employers to hire workers with prior disabilities by absorbing the incremental cost attributable to the pre-existing condition — the employer's carrier pays for the work-related injury; the SIF covers the additional permanent disability resulting from the combined effect of the pre-existing condition and the new injury.
 
-### What This Means for Producers
+## What This Means for Producers
 
 For P&C producers in New Jersey, workers' comp is a mandatory commercial line with near-universal employer demand — every business with even one employee is a prospect. The key advisory opportunities include:
 
@@ -86,7 +86,7 @@ Classification accuracy: Premium is calculated using NJCRIB class codes applied 
 
 Self-insurance option: Large employers with demonstrated financial capacity and permanence of business may apply to DOBI for self-insured status. A self-insured employer assumes direct liability for workers' comp claims and may administer them internally or through a TPA. Self-insurance approval requires posting security. For producers, understanding self-insurance helps them serve larger commercial accounts where the option may be worth evaluating.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Does New Jersey have a state workers' compensation fund?
 

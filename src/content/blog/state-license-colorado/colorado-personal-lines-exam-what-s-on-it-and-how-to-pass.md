@@ -14,7 +14,7 @@ imageAlt: "Colorado Personal Lines Exam: What's on It and How to Pass"
 
 The Colorado Personal Lines exam is the longest single-line licensing exam in Colorado — 104 scored questions across five content sections in 135 minutes. It is also the most concentrated single-line exam for producers entering the personal insurance market, since it combines property, automobile, and personal liability coverage knowledge into one comprehensive test rather than two separate exams. For candidates who want to sell homeowners, auto, renters, and personal umbrella coverage without pursuing the full separate Property and Casualty licenses, the Personal Lines path is direct and efficient. This post covers every content section in detail, maps the question counts, and gives you the specific strategy for both the general knowledge and Colorado state section.
 
-### The Exam at a Glance
+## The Exam at a Glance
 
 Passing score: 70% — at least 73 correct scored answers of 104. The general section contributes 75 scored questions and the state section contributes 29.
 
@@ -22,11 +22,11 @@ Important distinction from Property and Casualty: The Personal Lines license aut
 
 [Prelicensing](/colorado/prelicensing) exemption: A producer who already holds both Property and Casualty authority in Colorado is exempt from the Personal Lines prelicensing education requirement — the 50-hour prelicensing course is not required. The Pearson VUE exam is still required unless the 90-day prior resident licensure exemption also applies.
 
-### GENERAL KNOWLEDGE SECTION (75 Scored Questions)
+## GENERAL KNOWLEDGE SECTION (75 Scored Questions)
 
 The general section is structured across four content areas. The Personal Lines general section draws from a broader pool than either the standalone Property or Casualty exam — it tests both property and automobile coverages plus related concepts, making it the widest-coverage general section of any Colorado exam.
 
-#### Content Area I: Property Policies — approximately 30–32 Questions
+### Content Area I: Property Policies — approximately 30–32 Questions
 
 This is the largest portion of the general section. Personal Lines property content mirrors the standalone Property exam's general section but focuses exclusively on personal property coverages rather than commercial lines.
 
@@ -118,7 +118,7 @@ Is excess coverage above underlying policies when underlying limits apply; drops
 
 The exam distinguishes umbrella (broad coverage, potential gap fill with SIR) from excess liability (follows the underlying policy form exactly, no gap coverage).
 
-#### Content Area II: Automobile Policies — approximately 22–24 Questions
+### Content Area II: Automobile Policies — approximately 22–24 Questions
 
 Personal auto is the second-largest content area on the Personal Lines exam. The Personal Auto Policy (PAP) structure drives most of the automobile questions.
 
@@ -186,7 +186,7 @@ Rideshare endorsement — extends coverage for drivers who work for transportati
 
 Agreed value / Stated amount — for classic cars and collectibles
 
-#### Content Area III: Property and Casualty Terms and Concepts — approximately 14 Questions
+### Content Area III: Property and Casualty Terms and Concepts — approximately 14 Questions
 
 This section tests the vocabulary and conceptual framework underlying all Personal Lines coverage. Key topics that generate questions across all exam forms:
 
@@ -208,7 +208,7 @@ Negligence elements: Duty, breach, causation, damages. Colorado follows modified
 
 Subrogation, indemnity, insurable interest — the three bedrock principles tested on every property and casualty exam form.
 
-#### Content Area IV: Policy Provisions and Contract Law — approximately 8–9 Questions
+### Content Area IV: Policy Provisions and Contract Law — approximately 8–9 Questions
 
 Declarations — the summary page: named insured, address, policy period, coverages, limits, deductibles, premium. Insuring agreement — the insurer's promise; defines what is covered and the coverage trigger. Conditions — duties and obligations; insured's duties after a loss include: prompt notice to insurer, protection of property from further damage, submission of proof of loss within required timeframe, cooperation with investigation, submission to examination under oath if requested. Failure to meet conditions can result in claim denial.
 
@@ -220,15 +220,15 @@ Gramm-Leach-Bliley Act (GLBA) Privacy — requires insurers to provide privacy n
 
 Terrorism Risk Insurance Act (TRIA) — federal program that backs private insurance for certified acts of terrorism; producers must offer terrorism coverage under commercial lines; for personal lines, the TRIA framework is background context.
 
-### COLORADO STATE SECTION (29 Scored Questions)
+## COLORADO STATE SECTION (29 Scored Questions)
 
 The Personal Lines state section has 29 scored questions — slightly fewer than the 30 scored on Life and A&H state sections but the same 37.5% proportion of total scored questions relative to the general section's 75.
 
-#### Section I: Colorado Statutes Common to All Lines — approximately 20 Questions
+### Section I: Colorado Statutes Common to All Lines — approximately 20 Questions
 
 Identical content and strategy to every other Colorado exam's common section: Insurance Commissioner authority, licensing and producers' legal responsibility (fiduciary/commingling, commission sharing, unauthorized entities), and unfair competition and deceptive practices (misrepresentation, coercion, defamation, rebating, unfair discrimination, controlled business, unfair claims practices, Colorado Fraud Statute under 10-3-1104). These 20 questions are the most predictable on the entire Personal Lines exam — master the unfair trade practices definitions and the producer licensing rules cold.
 
-#### Section II: Colorado Statutes Pertinent to Personal Lines — approximately 9 Questions
+### Section II: Colorado Statutes Pertinent to Personal Lines — approximately 9 Questions
 
 A. Colorado Auto Insurance Requirements
 
@@ -256,7 +256,7 @@ E. NFIP in Colorado
 
 Colorado producers selling NFIP flood policies must complete the one-time 3-hour NFIP training course before selling any flood insurance product. The exam tests the training obligation and the basic NFIP coverage structure (30-day wait, $250,000/$100,000 residential limits, participating community requirement).
 
-### Mastery Strategy: Personal Lines Specific
+## Mastery Strategy: Personal Lines Specific
 
 Why the Personal Lines exam is harder than it looks: With 104 scored questions and 135 minutes, the Personal Lines exam demands more sustained focus than any other single-line Colorado exam. The exam is also the widest in general content breadth — covering property forms, auto coverage, liability concepts, and Colorado's unique exposure to hail and wildfire in a single sitting.
 
@@ -272,7 +272,7 @@ The coinsurance formula is non-negotiable: The Personal Lines exam will present 
 
 Colorado-specific topics that surprise Personal Lines candidates: The FAIR Plan's role as insurer of last resort, the modified comparative negligence 50% bar (vs. Virginia's pure contributory negligence), the Colorado homeowners 3-hour biennial CE requirement, and the CPCIGA's purpose and limitations. These are testable and distinct from the common unfair trade practices content that most candidates prepare well.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Is the Personal Lines license sufficient to sell all personal insurance in Colorado, or are there products that require the full Property and Casualty licenses?
 

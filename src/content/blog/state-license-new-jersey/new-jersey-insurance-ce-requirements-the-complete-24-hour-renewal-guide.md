@@ -14,9 +14,9 @@ imageAlt: "New Jersey Insurance CE Requirements: The Complete 24-Hour Renewal Gu
 
 New Jersey is one of a relatively small number of states that mandates not just a total CE hour count but a specific delivery format minimum — and that distinction catches licensed producers off guard every renewal cycle. You cannot satisfy New Jersey's 24-hour [continuing education](/new-jersey/continuing-education) requirement entirely through self-paced online courses. At least 12 of your 24 required hours must be completed through classroom instruction or classroom-equivalent delivery, meaning live instruction with real-time interaction between instructor and students. That single rule shapes how every NJ producer should plan their CE before each biennial renewal deadline.
 
-### The Core Requirement at a Glance
+## The Core Requirement at a Glance
 
-### Who Must Complete CE
+## Who Must Complete CE
 
 All resident individual insurance producers holding major lines of authority — Life, Accident and Health, Property, Casualty, Personal Lines, Surplus Lines, or Title — must complete 24 hours of CE per biennial renewal period. This applies regardless of how many lines of authority you hold. A producer licensed in both Life and Property and Casualty still owes only 24 total hours — not 24 per line.
 
@@ -24,7 +24,7 @@ Public adjusters have a separate requirement: 15 CE hours per biennial renewal p
 
 Limited lines producers (for example, travel insurance or credit insurance) are not subject to the standard CE requirement.
 
-### The Classroom Requirement: What Counts
+## The Classroom Requirement: What Counts
 
 New Jersey requires that at least 12 of your 24 CE hours be completed through classroom instruction or classroom-equivalent delivery. "Classroom equivalent" is defined as live instruction in which the instructor and students interact remotely via video conferencing or similar technology — in other words, a live webinar with instructor interaction qualifies. A recorded video course that you watch on your own schedule does not.
 
@@ -32,13 +32,13 @@ This is the most operationally significant CE rule in New Jersey, and it is the 
 
 The practical implication: Plan your CE calendar to complete the 12 live hours first, early in your renewal period. Fill the remaining 12 hours with online self-study courses at your convenience.
 
-### The Ethics Requirement
+## The Ethics Requirement
 
 Three of your 24 hours must be in ethics or consumer protection subjects. This requirement is embedded within the 24-hour total — it does not add hours on top. One important NJ-specific provision: one credit hour of professional ethics may be substituted with one credit hour of insurance fraud training. So if your CE portfolio includes an approved fraud awareness course, that hour can satisfy one of the three ethics credits.
 
 Ethics hours cannot be carried over to the next renewal period, even if you accumulate excess hours.
 
-### Course Format and Exam Rules
+## Course Format and Exam Rules
 
 Classroom and live webinar courses are completed based on attendance and participation. You must be present for the full duration and actively engaged — instructors and platforms track participation. No final exam is required for classroom or webinar CE.
 
@@ -46,13 +46,13 @@ Online self-study courses require you to complete all course material and pass a
 
 Forced progression: New Jersey requires that online CE courses be completed sequentially — you must pass each page or section before advancing to the next. You cannot skip ahead in the course.
 
-### The Carryover Rule
+## The Carryover Rule
 
 Effective June 19, 2023, New Jersey producers who complete more than 24 CE hours in a renewal period may carry over up to 12 excess hours to the next renewal term. Those excess hours can only be carried forward once — they cannot be banked indefinitely. Ethics hours specifically cannot be carried over, even if they were completed in excess of the three-hour requirement.
 
 Before the June 2023 change, no carryover was permitted at all. If you completed 30 hours in one renewal period before that date, the extra 6 hours simply expired. The carryover provision now rewards early completers.
 
-### The Renewal Process
+## The Renewal Process
 
 CE hours must be completed and reported to DOBI before you submit your renewal application. NIPR verifies CE compliance before allowing a renewal submission — if your hours are not on file, you cannot complete the renewal electronically.
 
@@ -62,11 +62,11 @@ Renewal is available through NIPR (nipr.com) or Sircon. NIPR charges a $5.60 pro
 
 DOBI sends renewal notices at least 30 days before expiration. Your renewal window opens 90 days before your expiration date.
 
-### What Happens If You Miss Your Renewal Deadline
+## What Happens If You Miss Your Renewal Deadline
 
 New Jersey allows a 30-day grace period after the expiration date with no penalty. After 30 days, your license becomes inactive and you cannot legally transact insurance business. You then have up to one year from your original expiration date to reinstate your license by paying a $100 reinstatement fee in addition to the standard renewal fee. After one full year past expiration, reinstatement is no longer available — you must apply for a new license as if you were getting licensed for the first time, including [prelicensing](/new-jersey/prelicensing) education and the PSI exam.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Do I need to complete 24 CE hours for every line of authority I hold in New Jersey?
 

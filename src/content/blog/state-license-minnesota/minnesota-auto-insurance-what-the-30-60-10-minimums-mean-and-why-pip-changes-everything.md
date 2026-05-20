@@ -14,7 +14,7 @@ imageAlt: "Minnesota Auto Insurance: What the 30/60/10 Minimums Mean and Why PIP
 
 Every Minnesota driver is required by law to carry auto insurance meeting minimum coverage standards established under Minn. Stat. §65B.49. Those minimums — expressed as 30/60/10 plus mandatory PIP and UM/UIM — represent a coverage structure that is fundamentally different from most states. The 30/60/10 liability minimums are the floor that every driver must maintain. But in Minnesota's no-fault system, PIP is the coverage that actually pays first in most accidents. Understanding what each minimum means, what it covers, what it does not cover, and how the coverages interact in the real-world claim sequence is the foundation of every auto insurance coverage conversation a Minnesota producer has with a client.
 
-### The 30/60/10 Liability Minimums: What Each Number Means
+## The 30/60/10 Liability Minimums: What Each Number Means
 
 Minnesota requires every auto insurance policy to include bodily injury liability and property damage liability at the following minimum limits:
 
@@ -28,7 +28,7 @@ What liability does and does not cover: Liability coverage pays for damages the 
 
 Why 30/60/10 is inadequate for most Minnesota drivers: The minimum limits were established at a time when medical costs, vehicle values, and litigation awards were substantially lower than they are today. A single overnight hospital stay following a serious collision can exceed $30,000. Emergency surgery and rehabilitation can easily reach $100,000 or more. A new pickup truck or SUV commonly costs $50,000–$80,000. The minimum 30/60/10 limits leave substantial personal financial exposure for any driver who causes a serious accident. Producers who present minimum limits as adequate coverage are not serving their clients' actual financial interests.
 
-### Why PIP Changes Everything About Minnesota Auto Insurance
+## Why PIP Changes Everything About Minnesota Auto Insurance
 
 In an at-fault state — Colorado, Texas, Georgia, for example — the claim sequence after an accident is straightforward: the at-fault driver's liability insurance pays the injured party's damages. The injured party waits for fault to be determined, then pursues the at-fault driver's insurer.
 
@@ -44,19 +44,19 @@ Step 4 — If the at-fault driver is uninsured or underinsured, UM/UIM pays. Whe
 
 The practical implication for producers: In Minnesota, a driver who has an accident receives payment from their own insurer first — not from the other driver's insurer. This means that every Minnesota driver's own PIP limits are more immediately consequential than in at-fault states. A client with inadequate PIP limits is underprotected even if the accident is entirely someone else's fault, because PIP is the first-dollar payer regardless.
 
-### The Mandatory Coverage Stack: Every Required Element
+## The Mandatory Coverage Stack: Every Required Element
 
 Minnesota law requires every auto insurance policy to include five distinct coverage elements. A policy that omits any of these is non-compliant with Minnesota law:
 
-#### 1. Bodily Injury Liability — Minimum 30/60
+### 1. Bodily Injury Liability — Minimum 30/60
 
 Pays for bodily injury caused by the insured to third parties. In Minnesota's no-fault system, bodily injury liability is less frequently triggered for minor accidents because the injured party's own PIP pays first. However, for serious accidents that meet the tort threshold — where the injured party can sue for non-economic damages — the at-fault driver's bodily injury liability becomes the critical coverage. A driver with minimum 30/60 liability who causes a serious accident with multiple serious injuries faces a $60,000 limit that may be exhausted by a single hospitalization.
 
-#### 2. Property Damage Liability — Minimum $10,000
+### 2. Property Damage Liability — Minimum $10,000
 
 Pays for property damage caused by the insured to third parties. The no-fault system does not apply to property damage — there is no PIP for vehicles. An injured party can immediately pursue the at-fault driver's property damage liability for vehicle damage without meeting any threshold. The $10,000 minimum is the most dangerously inadequate of Minnesota's minimums — producers should consistently recommend property damage limits of $50,000–$100,000 for clients who drive in environments where they might encounter high-value vehicles.
 
-#### 3. Personal Injury Protection — Minimum $40,000
+### 3. Personal Injury Protection — Minimum $40,000
 
 The $40,000 mandatory PIP split:
 
@@ -68,15 +68,15 @@ The six-month filing deadline: PIP claims must be filed within six months of the
 
 Higher PIP limits are available: Minnesota policyholders may purchase PIP coverage above the $40,000 mandatory minimum. Higher PIP limits are particularly valuable for clients with high incomes (the $500 weekly cap provides minimal wage replacement for high earners), clients with high-deductible health plans (PIP can cover the health plan deductible), and clients without separate disability income coverage.
 
-#### 4. Uninsured Motorist — Minimum $25,000/$50,000
+### 4. Uninsured Motorist — Minimum $25,000/$50,000
 
 Required. Pays the insured's bodily injury damages when the at-fault driver has no insurance — including hit-and-run accidents. UM pays after PIP is exhausted, for injuries meeting the tort threshold. UM is bodily injury coverage — it generally does not cover vehicle damage (that requires uninsured motorist property damage coverage, which is optional in Minnesota).
 
-#### 5. Underinsured Motorist — Minimum $25,000/$50,000
+### 5. Underinsured Motorist — Minimum $25,000/$50,000
 
 Required. Pays the gap between what the at-fault driver's liability coverage paid and the insured's proven damages, up to the UIM policy limits. The distinction between required UM and required UIM is a frequently tested Minnesota-specific provision — both are mandatory in Minnesota, unlike many states where UIM is optional.
 
-### The No-Fault Tort Threshold in Detail
+## The No-Fault Tort Threshold in Detail
 
 The tort threshold determines when an injured Minnesota driver can step outside the no-fault system and pursue the at-fault driver for non-economic damages. The threshold has four independent triggers — meeting any one is sufficient:
 
@@ -90,7 +90,7 @@ Threshold 4 — Death: A fatal accident meets the tort threshold. The decedent's
 
 Below the threshold: When none of the four triggers are met, the injured party's recovery is limited to PIP benefits for their economic losses. They cannot sue the at-fault driver for pain and suffering. This limitation is the fundamental trade-off of the no-fault system — faster payment of economic losses in exchange for restricted access to pain and suffering litigation for minor injuries.
 
-### What 30/60/10 and the No-Fault System Mean for Coverage Adequacy
+## What 30/60/10 and the No-Fault System Mean for Coverage Adequacy
 
 The combination of minimum liability limits and the no-fault framework creates specific coverage adequacy conversations that Minnesota producers should have with every auto insurance client:
 
@@ -102,7 +102,7 @@ Conversation 3 — PIP adequacy: The $40,000 mandatory PIP minimum ($20,000 medi
 
 Conversation 4 — UM/UIM adequacy: Both UM and UIM are mandatory at 25/50 — but 25/50 UM/UIM limits may be insufficient for serious injuries. A client with $100,000 in damages caused by an uninsured driver receives only $25,000 from UM at the minimum limits. Recommending UM/UIM limits that match the client's bodily injury liability limits — and explaining the symmetry — is a coverage adequacy practice that protects clients from the gap that minimum UM/UIM limits leave in serious accidents.
 
-### SR-22: The Financial Responsibility Certificate
+## SR-22: The Financial Responsibility Certificate
 
 An SR-22 is not an insurance policy — it is a certificate of financial responsibility filed by the insurer with Minnesota Driver and Vehicle Services (DVS) certifying that a specific driver carries at least the mandatory minimum liability coverage. Minnesota requires SR-22 filing for:
 
@@ -120,7 +120,7 @@ SR-22 duration: Minnesota typically requires SR-22 filing for three years from t
 
 Producers and SR-22: When a client discloses a prior DUI, driving-without-insurance conviction, or similar violation, the producer must confirm whether the client requires an SR-22, which carriers offer coverage to SR-22 clients, and ensure the SR-22 certificate is filed at policy inception. A client who needs SR-22 and whose policy does not include it has not satisfied their legal requirement to have coverage — the omission of the SR-22 filing leaves the client without legal driving authorization regardless of the insurance policy's existence.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My client rear-ended another driver and caused $35,000 in vehicle damage. They have the minimum $10,000 property damage liability. What happens?
 

@@ -15,7 +15,7 @@ imageAlt: "How to Get Your Colorado Insurance License: The Complete Step-by-Step
 
 Getting a Colorado insurance license follows a four-step sequence: complete [prelicensing](/colorado/prelicensing) education, pass the Pearson VUE state exam, apply through NIPR or Sircon, and receive your license from the Colorado Division of Insurance. Unlike Virginia, which requires no prelicensing, or New Jersey, which uses PSI as its exam vendor, Colorado has its own distinct process — 50 hours of required prelicensing per line of authority, Pearson VUE as the exam vendor, no fingerprinting requirement, and no temporary licenses. Every step has specific rules, fees, and deadlines that interact with each other. This guide covers all of them in the correct order.
 
-### Step 1: Complete a State-Approved Prelicensing Course
+## Step 1: Complete a State-Approved Prelicensing Course
 
 Colorado requires every resident producer applicant to complete a state-approved prelicensing education course before taking the Pearson VUE exam. The requirement is 50 hours per line of authority — structured as 40 hours of general insurance content plus 10 hours of Colorado-specific content.
 
@@ -35,7 +35,7 @@ Once you pass the Certificate Exam, your prelicensing provider reports your comp
 
 Important: Register for your prelicensing course, your license application, and your Pearson VUE exam using exactly the same name as it appears on your government-issued ID. Any discrepancy between these records can delay your certificate of completion or invalidate your progress entirely.
 
-### Step 2: Schedule and Pass the Pearson VUE State Exam
+## Step 2: Schedule and Pass the Pearson VUE State Exam
 
 Colorado's exam vendor is Pearson VUE. All licensing exams must be scheduled through Pearson VUE — online at pearsonvue.com/co/insurance or by phone at (800) 274-2616.
 
@@ -57,7 +57,7 @@ Combined Property and Casualty: You may take the Property exam and the Casualty 
 
 Pearson VUE physical address (Aurora, CO): 3131 S. Vaughn Way, Suite 205, Aurora, CO 80014
 
-### Step 3: Apply for Your License
+## Step 3: Apply for Your License
 
 Once you pass the state exam, you have 1 year from the exam date to submit your license application. Applications are submitted electronically — Colorado does not accept paper applications.
 
@@ -81,19 +81,19 @@ Any administrative actions taken against you by another jurisdiction
 
 Applications requiring additional review may take longer than the standard processing window.
 
-### Step 4: Receive and Print Your License
+## Step 4: Receive and Print Your License
 
 The Colorado DOI processes most applications in under 5 business days. Applications requiring more in-depth review take longer. Once approved, you receive an email confirmation and can print your license directly from Sircon (sircon.com/colorado).
 
 There are no temporary licenses in Colorado. You cannot sell insurance while your application is pending. You must wait for the Division to issue your license before conducting any insurance transactions.
 
-### Fees Summary
+## Fees Summary
 
-### Renewal
+## Renewal
 
 Colorado insurance licenses are renewed every two years, expiring on the last day of your birth month in your renewal year. Producers born in even years renew in even years; producers born in odd years renew in odd years. Renewal requires completion of 24 CE hours (including 3 ethics hours) before the expiration date. The renewal fee is $27 per line of authority.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How long does it take to get a Colorado insurance license from start to finish?
 

@@ -14,7 +14,7 @@ imageAlt: "Virginia's Agricultural and Rural Insurance Market: From the Shenando
 
 Virginia's agricultural sector is geographically diverse in ways that create distinct insurance markets across the state. The Shenandoah Valley — running from Winchester south through Harrisonburg and Staunton to Roanoke — is defined by cattle, poultry, dairy, and some of the Commonwealth's most productive farmland. The Eastern Shore (Accomack and Northampton counties, isolated on the Delmarva Peninsula) grows specialty vegetables and poultry. The Piedmont wine country (Loudoun, Fauquier, Albemarle counties) has made Virginia the fifth-largest wine-producing state in the nation. And Southwest Virginia's Appalachian communities are in the early stages of agricultural diversification that includes hemp, specialty crops, and small-scale livestock. Across all of these regions, the insurance needs are specific, the competition from generic commercial producers is limited, and the client relationships — once earned — tend to be extraordinarily durable.
 
-### The Scale of Virginia Agriculture
+## The Scale of Virginia Agriculture
 
 Agriculture is Virginia's largest private industry by job count and a top-three industry by revenue. Key current statistics:
 
@@ -28,7 +28,7 @@ Cattle/calves, poultry/eggs, dairy, and nursery/greenhouse products are the lead
 
 Virginia is the fifth-largest wine-producing state nationally, with Loudoun County alone hosting 50+ vineyards
 
-### The Shenandoah Valley: Poultry, Dairy, and Agritourism
+## The Shenandoah Valley: Poultry, Dairy, and Agritourism
 
 The Valley's agricultural identity is dominated by poultry (Rockingham County hosts major Cargill/Pilgrim's and Tyson operations), dairy (one of the most productive dairy regions in the East), and cattle. The insurance needs of Valley farms are specific:
 
@@ -40,7 +40,7 @@ Agritourism liability is growing rapidly across the Shenandoah Valley. Rockingha
 
 Virginia's Right to Farm Act provides some liability protection for agricultural operations but does not eliminate the need for coverage — producers who explain this distinction to farmers often uncover significant coverage gaps.
 
-### The Virginia Wine Country: Loudoun, Fauquier, Albemarle, and Nelson Counties
+## The Virginia Wine Country: Loudoun, Fauquier, Albemarle, and Nelson Counties
 
 Virginia's wine country has transformed the Piedmont and Foothills regions into a tourism and hospitality destination generating hundreds of millions in economic activity annually. Loudoun County's 50+ vineyards, the Nelson 151 wine trail in Nelson County (one of the highest concentrations of craft beverage producers per capita in the U.S.), and the Charlottesville/Albemarle wine region collectively create a distinct commercial insurance market:
 
@@ -50,7 +50,7 @@ Event venue liability for the many Virginia wineries and farms that host wedding
 
 Craft beverage insurance (breweries, cideries, distilleries alongside wineries) follows similar structures. Nelson County's extraordinary concentration of craft producers makes it a geographic target for producers building specialty craft beverage insurance practices.
 
-### The Eastern Shore: Specialty Crops and Coastal Farming
+## The Eastern Shore: Specialty Crops and Coastal Farming
 
 Virginia's Eastern Shore — separated from mainland Virginia by the Chesapeake Bay, accessible primarily via the Chesapeake Bay Bridge-Tunnel — is one of the most distinctive farming environments in the state. The low-lying coastal plain produces sweet potatoes, vegetables, poultry, and seafood. The Shore's geographic isolation means the local insurance market has fewer providers than mainland Virginia, creating genuine opportunity for producers willing to serve the community.
 
@@ -58,7 +58,7 @@ Crop insurance through USDA RMA is relevant here as it is for all Virginia speci
 
 Coastal property exposure on the Eastern Shore mirrors Hampton Roads' flood and wind exposure — Shore farms near tidal water need NFIP flood coverage and wind endorsements that mainland farm policies do not require.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What are the most common coverage gaps in Virginia farm policies, and how do producers identify them?
 

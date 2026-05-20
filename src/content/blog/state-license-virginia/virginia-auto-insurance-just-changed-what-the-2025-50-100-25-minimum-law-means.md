@@ -14,7 +14,7 @@ imageAlt: "Virginia Auto Insurance Just Changed: What the 2025 50/100/25 Minimum
 
 Virginia's auto insurance law has undergone three major changes in three years — each affecting how policies are written, how claims are paid, and what producers must explain to clients. The final piece of that legislative sequence took effect January 1, 2025, when minimum liability coverage increased from 30/60/20 to 50/100/25, replacing limits that had been unchanged for decades. Combined with the 2024 mandatory insurance requirement and the 2023 UIM stacking rule, Virginia's auto insurance framework has been fundamentally restructured. Producers who understand each of these changes — the sequence, the statutory basis, and the practical implications — serve clients significantly better than those working from outdated mental models.
 
-### The Three-Year Legislative Timeline
+## The Three-Year Legislative Timeline
 
 July 1, 2023 — UIM Stacking (Va. Code § 38.2-2206): Virginia changed how underinsured motorist (UIM) coverage pays. Before this change, your UIM benefit was reduced by whatever the at-fault driver's liability coverage paid. Under the new rule, UIM coverage stacks on top of liability — you receive both the at-fault driver's liability payout and your own UIM benefit without offset. This change defaulted automatically into all policies issued or renewed after July 1, 2023, unless the policyholder signed a written rejection.
 
@@ -30,7 +30,7 @@ $25,000 property damage per accident (up from $20,000)
 
 Because Virginia law requires UM/UIM coverage to equal the liability minimums, the minimum UM/UIM coverage also increased to $50,000/$100,000/$25,000. Insurers were required to update all policies to the new minimums at renewal for policies taking effect on or after January 1, 2025.
 
-### What 50/100/25 Means in Practice
+## What 50/100/25 Means in Practice
 
 The new minimums represent the floor — the least coverage a Virginia driver can legally carry. The practical significance for producers:
 
@@ -40,7 +40,7 @@ Every policy renewal triggers a minimum coverage check. Policies issued before J
 
 UM/UIM coverage tracks the new minimums automatically. Under Virginia law, UM/UIM coverage must equal the liability minimums unless the policyholder explicitly rejects the higher UM/UIM limit in writing. This means that bringing liability coverage up to 50/100/25 also brings UM/UIM up to 50/100/25 by default.
 
-### FR-44: Double Minimums for DUI Convictions
+## FR-44: Double Minimums for DUI Convictions
 
 Virginia's FR-44 requirement applies to drivers convicted of DUI or certain other serious violations. FR-44 is not insurance — it is a certificate filed by the insurer with the DMV confirming that the driver carries the required enhanced coverage. FR-44 requires double the standard minimums:
 
@@ -52,11 +52,11 @@ $50,000 property damage per accident
 
 FR-44 must be maintained for three years from the date of conviction (or driving privilege reinstatement, if later). FR-44 policies must be filed with the DMV and cannot be cancelled without the insurer providing advance notice to the DMV.
 
-### SR-22: Standard Financial Responsibility Certificate
+## SR-22: Standard Financial Responsibility Certificate
 
 SR-22 is required for less serious violations than DUI — including certain traffic violations, license suspensions, and uninsured accident involvements. Like FR-44, SR-22 is a certificate, not a separate policy. SR-22 confirms the driver carries at least the standard minimum coverage (50/100/25). Required for three years in most cases.
 
-### The Coverage Gap Problem: Why Policy Limits Still Matter
+## The Coverage Gap Problem: Why Policy Limits Still Matter
 
 Even at the new minimums, Virginia's coverage landscape has a structural gap that producers must understand. The gap is created by the interaction of three elements:
 
@@ -68,7 +68,7 @@ UIM coverage is the backstop — if you are not at fault (or are found to have n
 
 A Virginia driver who carries only the minimum 50/100/25 coverage and causes an accident resulting in $200,000 in injuries to a single victim has $50,000 in liability coverage to pay against a $200,000 claim. The remaining $150,000 becomes the driver's personal liability. For clients with assets worth protecting, minimum coverage is a significant exposure — and producers who do not have this conversation at every renewal are not providing complete advisory service.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 When did Virginia's 50/100/25 auto insurance minimums take effect, and what were they before?
 

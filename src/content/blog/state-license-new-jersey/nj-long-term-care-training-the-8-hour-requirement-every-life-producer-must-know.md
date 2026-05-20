@@ -14,7 +14,7 @@ imageAlt: "NJ Long-Term Care Training: The 8-Hour Requirement Every Life Produce
 
 New Jersey is one of the states that takes long-term care insurance training seriously enough to require it before a producer can sell a single LTC policy — not as an annual CE add-on, but as a gated prerequisite. Before you can sell, solicit, or negotiate any long-term care insurance product in New Jersey, you must complete an initial 8-hour LTC certification training course. That training requirement continues with a 4-hour ongoing requirement every 24 months afterward. For Life and Health producers whose clients are aging into long-term care planning conversations, understanding exactly how this requirement works — and how to stay compliant without gaps — is essential.
 
-### The Two-Part Structure of NJ LTC Training
+## The Two-Part Structure of NJ LTC Training
 
 New Jersey's LTC producer training requirement has two distinct components:
 
@@ -22,7 +22,7 @@ Initial Training: 8 hours (one-time) Must be completed before you sell, solicit,
 
 Ongoing Training: 4 hours every 24 months After completing the initial 8-hour course, you must complete a 4-hour ongoing LTC training course every 24-month period. The clock on your first ongoing requirement starts from the completion date of your initial 8-hour course, not from your license renewal date. This means your LTC training renewal cycle may not align with your general CE renewal cycle — you need to track both independently.
 
-### What the 8-Hour Course Covers
+## What the 8-Hour Course Covers
 
 New Jersey's initial LTC training is built around the NAIC Long-Term Care Insurance Model Act and the content framework the NAIC developed for producer LTC education. The course covers:
 
@@ -38,7 +38,7 @@ New Jersey LTC Partnership Program — NJ participates in the Long-Term Care Par
 
 Agent responsibilities — suitability standards, required disclosures, replacement considerations, the free-look period for LTC policies, and the producer's obligations under NJ law.
 
-### The Ongoing 4-Hour Requirement
+## The Ongoing 4-Hour Requirement
 
 Every 24 months after your initial training, you must complete a 4-hour ongoing LTC training course. This requirement exists because LTC insurance products, regulations, and the Medicaid landscape change over time — ongoing training keeps producers current with those changes.
 
@@ -46,21 +46,21 @@ The 4-hour ongoing LTC training can count toward your general 24-hour CE require
 
 Tracking the cycle: Your 24-month LTC ongoing clock runs from the completion date of your initial 8-hour training, not from your license expiration date. If you completed your initial training on March 15, 2024, your first ongoing 4-hour requirement is due by March 15, 2026 — regardless of when your license renewal falls. Keep a separate calendar reminder for your LTC training cycle.
 
-### Nonresident Producers: Reciprocity
+## Nonresident Producers: Reciprocity
 
 New Jersey accepts completion of NAIC-based LTC training completed in another state as satisfying the NJ initial and ongoing LTC training requirements, provided the training meets NAIC standards and the producer's resident state has equivalent LTC training requirements. Nonresident producers who satisfy their resident state's LTC training requirement are generally deemed compliant with NJ's requirement. Verify reciprocity directly with DOBI if you are unsure whether your resident state's LTC training qualifies.
 
-### The Relationship Between LTC Training and the Partnership Program
+## The Relationship Between LTC Training and the Partnership Program
 
 New Jersey's LTC Partnership Program is a significant planning tool that distinguishes NJ from states without partnership participation. Under the program, consumers who purchase a DOBI-approved partnership-qualified LTC policy and exhaust their benefits can apply for Medicaid without spending down assets equal to the policy's total benefit payout. For example, a consumer who purchased $300,000 of partnership benefits and exhausted them could qualify for Medicaid while retaining $300,000 in assets that would otherwise have to be spent down.
 
 Producers who want to sell partnership-qualified LTC policies in New Jersey must complete the 8-hour initial training — the same training required for all LTC sales — and understand the partnership mechanics well enough to explain them to clients. The partnership program adds a Medicaid-planning dimension to LTC sales conversations that general insurance education does not prepare producers for.
 
-### Finding DOBI-Approved LTC Training Courses
+## Finding DOBI-Approved LTC Training Courses
 
 LTC training courses must be approved by DOBI to satisfy the requirement. Approved providers list their courses in the DOBI [continuing education](/new-jersey/continuing-education) provider database. When selecting a course, confirm it is specifically designated as satisfying New Jersey's LTC initial 8-hour or ongoing 4-hour requirement — a general LTC overview course that is not DOBI-approved for LTC training purposes does not count.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Do I have to complete the 8-hour LTC training before I can sell any LTC product in New Jersey, or only for certain policy types?
 

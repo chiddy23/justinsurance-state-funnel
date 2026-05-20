@@ -14,13 +14,13 @@ imageAlt: "NFIP Flood Training in Virginia: Who Needs It, When, and How It Works
 
 Virginia insurance producers who sell federal flood insurance through the National Flood Insurance Program (NFIP) must complete a one-time 3-hour flood insurance training course before selling any NFIP policies. This requirement flows from both federal NFIP standards and Virginia's CE framework — FEMA and the NFIP establish the national baseline, and Virginia's Bureau of Insurance has incorporated the training requirement into state CE compliance. This post covers who must complete the training, what the course covers, and how it interacts with Virginia's broader CE system.
 
-### Who Must Complete Flood CE in Virginia
+## Who Must Complete Flood CE in Virginia
 
 The flood training requirement applies specifically to Property and Casualty and Personal Lines producers who sell, solicit, or negotiate flood insurance policies through the NFIP. Life and Health producers who do not sell flood insurance are not subject to this requirement.
 
 The trigger is selling NFIP flood insurance — not simply holding a P&C or Personal Lines license. A P&C producer who does not sell flood insurance does not need to complete the flood training. However, in practice, most P&C producers in Virginia encounter flood insurance questions because Virginia's geography creates significant flood exposure — coastal communities in Hampton Roads, river-adjacent communities in Richmond and along the James, Northern Virginia properties in flood-prone areas, and the entire Shore corridor face meaningful flood risk. Producers who want to serve clients comprehensively in these markets need the training.
 
-### What the 3-Hour Course Covers
+## What the 3-Hour Course Covers
 
 Virginia's flood CE requirement mirrors FEMA's National Flood Insurance Program training standards. The course content covers:
 
@@ -42,27 +42,27 @@ The private flood insurance market and how it interacts with NFIP coverage
 
 Virginia-specific flood exposure context
 
-### The One-Time Nature of the Requirement
+## The One-Time Nature of the Requirement
 
 The Virginia NFIP flood training is a one-time requirement — complete it once and you have permanently satisfied the training obligation for flood insurance sales under Virginia law, as long as your license remains active. There is no ongoing biennial renewal of flood training required (unlike LTC Partnership training, which requires 4-hour ongoing training every 24 months). FEMA may update its training standards over time — if the national baseline changes, Virginia's requirement may update accordingly — but as of the current framework, the 3-hour course satisfies the requirement on a permanent basis.
 
-### How It Counts Toward CE
+## How It Counts Toward CE
 
 The 3-hour flood training counts toward Virginia CE credit in the biennium in which it is completed. For a P&C-only producer with a 16-hour CE requirement, completing the 3-hour flood course satisfies nearly 20% of the biennial obligation while also satisfying the one-time flood training requirement. Because it is one-time only, the flood course does not generate ongoing CE credit in future biennia — in subsequent cycles, those 3 hours must be filled by other approved CE content.
 
-### The Private Flood Market Consideration
+## The Private Flood Market Consideration
 
 A relevant advisory point for Virginia producers: NFIP flood training satisfies the regulatory requirement for selling NFIP policies. The private flood insurance market — which offers policies through admitted and surplus lines carriers that are not part of the federal NFIP program — is a growing segment in Virginia, particularly for high-value coastal properties, properties that do not meet NFIP coverage needs, and properties where NFIP rates make private alternatives attractive.
 
 Private flood policies are P&C products sold under standard P&C producer authority. Selling private flood products does not separately require the NFIP training under Virginia state law. However, understanding how NFIP coverage works — which the 3-hour training provides — is foundational for advising clients about when NFIP coverage is appropriate versus when private flood may be preferable. Producers serving Virginia's coastal, riverside, and floodplain communities benefit from the NFIP training regardless of whether they intend to sell primarily NFIP policies or private flood alternatives.
 
-### Virginia's Flood Exposure Context
+## Virginia's Flood Exposure Context
 
 Virginia has approximately 549 NFIP-participating municipalities — a high number reflecting the state's geographic diversity of flood risk. The coastal communities of Hampton Roads (Virginia Beach, Norfolk, Chesapeake, Portsmouth) face chronic tidal flooding and storm surge exposure. Richmond and communities along the James, Rappahannock, and Potomac rivers experience freshwater flood events. The Eastern Shore and Northern Neck are low-lying and flood-prone. Northern Virginia has significant development in FEMA-designated flood zones.
 
 After Hurricane Floyd (1999), Hurricane Isabel (2003), and repeated flooding events throughout the subsequent two decades, Virginia has a well-developed awareness of flood insurance in both its regulatory framework and its client population. Producers who understand the NFIP — and the expanding private flood market — have a distinct advantage in serving these communities.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Does the Virginia flood training requirement apply to Life and Health producers, or only P&C producers?
 

@@ -14,13 +14,13 @@ imageAlt: "Energy and Utilities Insurance in New Jersey: Solar, Offshore Wind, a
 
 New Jersey is in the middle of one of the most significant energy infrastructure transformations in its history. The state has committed to 100% clean energy by 2035 under the Clean Energy Act, has the second most ambitious offshore wind capacity target in the nation, and leads the Northeast in residential solar installations. Public Service Enterprise Group (PSEG), one of the country's largest energy companies, is headquartered in Newark. Atlantic City Electric (an Exelon company) serves South Jersey. New Jersey has the highest electricity prices in the mid-Atlantic region — a market condition that accelerates the economic logic of solar adoption. For P&C producers who understand the energy sector's insurance needs, this market is actively expanding in ways that most states are not.
 
-### New Jersey's Energy Market Structure
+## New Jersey's Energy Market Structure
 
 New Jersey's energy market is deregulated for supply — residents and businesses can choose their energy suppliers — but transmission and distribution remain regulated through PSEG, Jersey Central Power & Light (JCP&L), Atlantic City Electric, and Rockland Electric. These regulated utilities are among the largest commercial employers in the state, and their operations require extensive commercial insurance programs covering generation assets, transmission infrastructure, environmental liability, and workers' compensation for a hazardous-duty workforce.
 
 Beyond the utilities, New Jersey's energy market includes a growing ecosystem of energy developers, contractors, solar installers, offshore wind developers, and energy storage companies — all of which require commercial insurance that is specialized by the risks inherent to energy operations.
 
-### Offshore Wind: NJ's Most Significant Energy Insurance Opportunity
+## Offshore Wind: NJ's Most Significant Energy Insurance Opportunity
 
 New Jersey has one of the most aggressive offshore wind development programs in the United States. The state has contracted for approximately 7,500 MW of offshore wind capacity through multiple project approvals. Ørsted, BP, Equinor, and other major offshore wind developers have active projects in NJ waters. The infrastructure required — offshore turbines, foundations, cable routes to shore, onshore interconnection substations — represents billions of dollars in insured assets.
 
@@ -34,7 +34,7 @@ Developer and owner liability: D&O for project company boards, environmental lia
 
 This is highly specialized commercial insurance that requires London market access and relationships with specialist energy underwriters. It is not a market for generalists — but for producers who build expertise in offshore wind coverage, NJ's pipeline of approved projects represents a decade-long flow of new placements.
 
-### Solar: The Residential and Commercial Opportunity
+## Solar: The Residential and Commercial Opportunity
 
 New Jersey consistently ranks among the top states nationally for residential solar installation, driven by high electricity costs, strong state incentives, and a dense population of homeowners with appropriate roof orientations. For P&C producers, the solar boom creates two distinct insurance conversations:
 
@@ -42,19 +42,19 @@ Residential homeowners with solar. A residential solar installation adds $15,000
 
 Commercial solar. Businesses and institutions installing rooftop or ground-mount solar arrays need commercial property coverage for the installation, installation floater coverage during the construction phase, and equipment breakdown coverage for inverters and system components. Community solar projects — shared solar installations serving multiple subscribers — have their own insurance structures including utility liability and professional indemnity for the project development firms.
 
-### PSEG and Utility Commercial Accounts
+## PSEG and Utility Commercial Accounts
 
 PSEG serves approximately 2.3 million electric customers and 1.9 million gas customers across New Jersey. The company's commercial insurance program — covering generation plants, transmission and distribution infrastructure, environmental liability from legacy operations, and workers' compensation for a highly skilled utility workforce — is a massive commercial account. While PSEG itself works with major national brokers, the commercial insurance ecosystem around it — contractors, construction firms, engineering consultants, environmental remediation firms — creates a substantial supporting market for producers with commercial lines expertise.
 
 PSEG's transition toward clean energy has accelerated the decommissioning of legacy gas and coal assets and the buildout of grid infrastructure for renewable integration — both of which require specific insurance coverage for decommissioning liability and new construction.
 
-### Clean Energy Contractors: A Growing Workforce
+## Clean Energy Contractors: A Growing Workforce
 
 The buildout of NJ's offshore wind, solar, and grid modernization infrastructure is creating a large workforce of specialized contractors — electricians, structural engineers, marine construction crews, cable installation specialists, and project management firms. Each contractor is a commercial insurance account requiring general liability, workers' compensation, commercial auto, and often professional liability.
 
 This contractor market is geographically distributed across NJ — wind project staging in South Jersey ports, solar installation firms across the entire state, and grid construction contractors statewide. For commercial lines producers with strong workers' compensation and contractor liability expertise, the clean energy buildout is a multi-year source of new commercial accounts.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is New Jersey's offshore wind development program and what does it mean for insurance producers?
 

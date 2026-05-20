@@ -14,7 +14,7 @@ imageAlt: "Classroom vs. Self-Study CE in New Jersey: What Counts and What Doesn
 
 Half of your New Jersey insurance CE hours must come from live, instructor-led instruction. That is not a suggestion — it is a DOBI requirement that applies to every resident producer with a major line of authority, every renewal period. Understanding exactly what qualifies as classroom, what qualifies as self-study, and how each format works operationally is essential for building a CE plan that actually satisfies the requirement when it is audited at renewal.
 
-### The 12/12 Split
+## The 12/12 Split
 
 New Jersey's 24 CE hours are divided into two delivery categories:
 
@@ -22,15 +22,15 @@ Classroom / Classroom Equivalent — minimum 12 hours required Self-Study — ma
 
 You can fulfill more than 12 hours through classroom delivery if you choose — for example, completing 18 classroom hours and 6 self-study hours satisfies the requirement. What you cannot do is complete fewer than 12 live hours. A producer who completes 20 online self-study hours and 4 live hours has not satisfied the requirement, even though the total hours add up to 24.
 
-### What Qualifies as Classroom CE
+## What Qualifies as Classroom CE
 
-#### In-Person Classroom Courses
+### In-Person Classroom Courses
 
 Traditional in-person classroom CE is taught by a live instructor at a physical location. Students attend in person for the full scheduled duration. Completion is based on attendance and active participation — no final exam is required for classroom courses. The instructor tracks attendance throughout the session.
 
 In-person classroom CE is increasingly uncommon as a primary CE format for most NJ producers, but it remains available through approved providers and industry associations throughout the state. Some producers prefer it for the structured environment and the opportunity to ask questions directly.
 
-#### Live Webinar / Classroom Equivalent
+### Live Webinar / Classroom Equivalent
 
 A live webinar taught by an instructor in real time qualifies as classroom equivalent under DOBI rules, provided the format enables real-time interaction between instructor and students. This is the most common format for satisfying the 12-hour classroom requirement today. Producers attend at a scheduled time, the instructor presents material and responds to questions, and completion is tracked by the platform through attendance monitoring.
 
@@ -54,11 +54,11 @@ Self-paced online modules with embedded video
 
 When registering for CE through any DOBI-approved provider, verify the course delivery format explicitly. If the course can be accessed any time at your own pace, it is self-study. If it requires you to attend at a specific date and time with a live instructor, it is classroom equivalent.
 
-### What Qualifies as Self-Study CE
+## What Qualifies as Self-Study CE
 
 Self-study CE covers online, self-paced courses that you complete independently at your own schedule. These courses account for up to 12 of your 24 required hours.
 
-#### How Self-Study CE Works in New Jersey
+### How Self-Study CE Works in New Jersey
 
 New Jersey self-study CE operates under specific rules that differ from many other states:
 
@@ -72,9 +72,9 @@ Unlimited retakes: If you do not pass the final exam on the first attempt, you c
 
 Reporting: Your CE provider reports your completion to the state typically within one business day of passing the final exam. If course completion occurs after 2:00 PM PT, reporting occurs the following business day.
 
-### Comparing the Two Formats
+## Comparing the Two Formats
 
-### Building a Compliant CE Plan
+## Building a Compliant CE Plan
 
 The most efficient approach to NJ CE compliance is to front-load your classroom hours. Find and register for live webinar courses that satisfy your 12-hour classroom requirement as early in your renewal period as possible. This removes the highest-friction element of your CE — the live scheduling requirement — before it becomes a time-pressure problem near your deadline.
 
@@ -82,13 +82,13 @@ Once your 12 classroom hours are complete, fill the remaining 12 hours through s
 
 The mistake to avoid: accumulating 20+ self-study hours toward the end of your renewal period and then discovering that live courses in the weeks before your expiration date have limited availability or are fully booked.
 
-### The Ethics Hours Overlap
+## The Ethics Hours Overlap
 
 Three of your 24 total hours must be in ethics or consumer protection subjects. Ethics hours can be completed in either classroom or self-study format — there is no delivery format requirement for the ethics component specifically. However, ethics hours cannot be carried over to a future renewal period, even if you complete them in excess of three hours.
 
 One practical note: one of the three ethics hours can be substituted with an insurance fraud course if you prefer to diversify your ethics credit.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I complete all 24 NJ CE hours online through self-study courses?
 

@@ -14,9 +14,9 @@ imageAlt: "Tennessee Insurance License Renewal: Birth Month Deadlines and What Y
 
 Tennessee insurance producer licenses renew every two years on the last day of the producer's birth month. That single sentence contains the entire deadline structure — but understanding exactly what it means in practice, what must be completed before renewal can be submitted, what the grace period actually permits, and what happens when renewal is missed by days versus months versus more than a year requires more than the headline rule. This post covers every dimension of Tennessee license renewal that working producers need to manage their compliance without surprises: the deadline calculation, the CE prerequisite, the renewal submission process, the fee structure, the grace period, the late renewal window, and the reinstatement path when a license has lapsed entirely.
 
-### How the Renewal Deadline Works
+## How the Renewal Deadline Works
 
-#### The Birth Month Structure
+### The Birth Month Structure
 
 Tennessee licenses expire on the last day of the producer's birth month in the renewal year. The renewal deadline is tied to the producer's birthday — not to the date the license was originally issued, not to a fixed calendar date, and not to when the producer last renewed.
 
@@ -26,15 +26,15 @@ Calculating your exact deadline: Combine your birth month with your renewal year
 
 Why birth month matters for planning: Because every producer's deadline is different, there are no universal industry-wide renewal deadlines in Tennessee. A producer cannot rely on colleagues' reminders or industry announcements — their personal deadline is their own responsibility.
 
-#### The Biennial Cycle After the First Renewal
+### The Biennial Cycle After the First Renewal
 
 After the first renewal, the biennial cycle continues from the renewed date. Renewal submissions do not reset the birth month deadline — the deadline remains the last day of the birth month in every subsequent renewal year regardless of when within the grace period renewal was submitted.
 
-### What Must Be Completed Before Renewal
+## What Must Be Completed Before Renewal
 
 Renewal is not automatic. Three conditions must be satisfied before a Tennessee producer license renewal can be successfully submitted and processed.
 
-#### Condition 1: CE Completion
+### Condition 1: CE Completion
 
 24 CE hours including 3 ethics hours must be completed and reported to the TDCI before submitting the renewal application. The CE must be from TDCI-approved providers and approved courses.
 
@@ -44,47 +44,47 @@ How to verify: Contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov, 
 
 Specialty training: LTC ongoing training (4 hours every 24 months) and other specialty training requirements are separate compliance obligations with separate deadlines. They count toward the 24-hour CE total but are tracked on independent schedules. Satisfying the 24-hour general CE requirement does not automatically satisfy outstanding specialty training — and conversely, completing specialty training counts toward the 24-hour total.
 
-#### Condition 2: Accurate Background Disclosure
+### Condition 2: Accurate Background Disclosure
 
 The NIPR renewal application includes background disclosure questions covering criminal history, regulatory actions, financial matters, and other disclosable events since the last renewal. These questions must be answered truthfully. Any new matters — criminal convictions, regulatory actions, judgments — must be disclosed accurately.
 
 Inaccurate or incomplete disclosure on a renewal application is itself a ground for license discipline under TCA §56-6-112 — potentially more serious than the underlying matter being disclosed. When in doubt about whether something requires disclosure, contact the TDCI before submitting the renewal rather than omitting it and hoping it is not discovered.
 
-#### Condition 3: Payment
+### Condition 3: Payment
 
 The renewal fee must be paid at the time of NIPR application submission. There is no invoice-and-pay process — payment is collected at submission.
 
-### The Renewal Fee Structure
+## The Renewal Fee Structure
 
 Payment method: Credit card or debit card through NIPR. No checks or cash accepted through the online portal.
 
-### The Renewal Submission Process
+## The Renewal Submission Process
 
-#### Step 1: Verify CE Completion in TDCI Records
+### Step 1: Verify CE Completion in TDCI Records
 
 Confirm all 24 CE hours including 3 ethics hours appear in the TDCI's system — not just in your CE provider's records. Allow at least several business days after your final course completion before expecting TDCI records to reflect it. Complete CE at least 30 days before the renewal deadline to provide adequate buffer for reporting.
 
-#### Step 2: Log in to NIPR
+### Step 2: Log in to NIPR
 
 Navigate to nipr.com and log in to your existing NIPR account. Use the same account used for your original license application — your National Producer Number (NPN) is the consistent identifier across all licensing transactions.
 
-#### Step 3: Navigate to Renewal
+### Step 3: Navigate to Renewal
 
 From your account dashboard, select the renewal option for your Tennessee resident license. NIPR's interface will display your current Tennessee license information and the renewal options available.
 
-#### Step 4: Complete Background Disclosure Questions
+### Step 4: Complete Background Disclosure Questions
 
 Answer all background questions accurately and completely. Disclose any new matters since your last renewal.
 
-#### Step 5: Pay and Submit
+### Step 5: Pay and Submit
 
 Pay $65.60 (standard renewal) by credit card or debit card. Submit. NIPR routes your renewal to the TDCI for processing.
 
-#### Step 6: Confirm Active Status
+### Step 6: Confirm Active Status
 
 After submission, monitor your license status through the TDCI's online license lookup at tn.gov/commerce/insurance. Standard renewal processing takes 2–5 business days for uncomplicated applications. Do not resume transacting business based on NIPR confirmation alone — confirm active status in the TDCI's system.
 
-### The 30-Day Grace Period
+## The 30-Day Grace Period
 
 Tennessee provides a 30-day grace period after the license expiration date. During this window:
 
@@ -98,29 +98,29 @@ The grace period and active license status: A license that has passed its expira
 
 The grace period is not a planning strategy. It exists to accommodate honest oversights — a renewal that slipped due to travel, illness, or administrative error. Producers who routinely plan to renew during the grace period rather than before the expiration date are one administrative failure away from incurring a $120 late fee.
 
-### Late Renewal: After the Grace Period
+## Late Renewal: After the Grace Period
 
 When a producer does not renew within the 30-day grace period, the license enters a lapsed status. Late renewal is available for up to one year from the expiration date — but it carries a $120 late fee.
 
-#### The Late Renewal Fee
+### The Late Renewal Fee
 
 The $120 late fee is assessed in addition to the standard $60 renewal fee — not instead of it.
 
-#### CE Requirements for Late Renewal
+### CE Requirements for Late Renewal
 
 Before submitting a late renewal application, all CE requirements for the lapsed period must be satisfied. A producer who allowed their license to lapse in part because they had not completed CE must complete CE before the late renewal will be approved. The same 24-hour requirement including 3 ethics hours applies — and the same TDCI record verification step is required before submitting the late renewal.
 
-#### The Late Renewal Process
+### The Late Renewal Process
 
 Late renewal is submitted through NIPR under the same process as standard renewal. Select the late renewal option when it appears in the NIPR interface. Pay the $185.60 total. The TDCI processes late renewals and restores the license to active status upon approval.
 
-#### The One-Year Hard Deadline
+### The One-Year Hard Deadline
 
 Late renewal is available only within one year from the expiration date — not from the end of the grace period. A license that expired March 31, 2025 can be late-renewed through March 31, 2026. On April 1, 2026, late renewal is unavailable regardless of how close to the deadline the producer attempts to submit.
 
 This one-year threshold is not negotiable. There are no extensions, no exception applications, and no TDCI discretion to permit late renewal beyond one year. After one year, full relicensing is the only path.
 
-### Full Relicensing After One Year
+## Full Relicensing After One Year
 
 When a license has been expired for more than one year, the producer must complete the entire initial licensing process from the beginning. Every step of new licensure applies:
 
@@ -138,29 +138,29 @@ Reestablish carrier appointments. All prior appointments are terminated with a l
 
 The full relicensing cost for two lines (Property and Casualty) remote exam plus all fees is approximately $240.75 — not counting a prep course. For all four major lines remote, approximately $438.75. These costs are avoidable through timely renewal.
 
-### Non-Resident Renewal
+## Non-Resident Renewal
 
-#### The Same Deadline Structure
+### The Same Deadline Structure
 
 Tennessee non-resident producer licenses follow the same biennial birth month renewal structure as resident licenses. The deadline is the last day of the birth month in the renewal year — identical to resident renewal.
 
-#### CE Satisfaction Through Home State
+### CE Satisfaction Through Home State
 
 Non-resident producers are exempt from Tennessee's CE requirements when their home state CE is current. A producer whose home state requires 24 biennial CE hours and who has completed those hours has simultaneously satisfied Tennessee's non-resident CE obligation. No additional Tennessee-specific CE is required.
 
 The LTC exception: The LTC training exemption does not apply to non-residents who sell LTC products in Tennessee. LTC initial certification and ongoing training requirements apply to non-resident producers selling LTC in Tennessee regardless of home state CE satisfaction.
 
-#### Non-Resident Renewal Fee
+### Non-Resident Renewal Fee
 
 Identical to resident renewal. Non-resident late renewal carries the same $120 late fee as resident late renewal.
 
-#### The Home State License Dependency
+### The Home State License Dependency
 
 A Tennessee non-resident license is contingent on the home state resident license remaining active and in good standing. If the home state license lapses, is suspended, or is revoked, the Tennessee non-resident license loses its good standing basis and cannot be renewed. Non-residents must maintain their home state license as the foundation of all non-resident licenses.
 
-### Building a Renewal Management System
+## Building a Renewal Management System
 
-#### The Three-Alert Calendar System
+### The Three-Alert Calendar System
 
 Set three calendar reminders tied to your renewal deadline — the last day of your birth month in your renewal year:
 
@@ -170,19 +170,19 @@ Set three calendar reminders tied to your renewal deadline — the last day of y
 
 30 days before the deadline: Renewal submission target. Complete and submit the NIPR renewal application at 30 days before the deadline — not on the deadline. Submitting 30 days early provides buffer for any processing issues, payment failures, or application corrections without risking a lapse.
 
-#### Address Currency
+### Address Currency
 
 The TDCI sends renewal reminders to the address on file. Producers who have moved without updating their address through NIPR do not receive these reminders — and are more likely to miss their renewal deadline as a result. Update your address within 30 days of any change through your NIPR account. This is a TCA §56-6-108(c) requirement for non-residents and a professional compliance obligation for all producers.
 
-#### Multi-Line License Renewal
+### Multi-Line License Renewal
 
 Producers holding multiple lines of authority renew all lines simultaneously through a single NIPR renewal application. All CE hours satisfy all lines together — the 24-hour total is not multiplied by the number of lines held. The single renewal fee of $60 covers all lines. There is no per-line renewal fee structure.
 
-#### Multi-State Renewal Management
+### Multi-State Renewal Management
 
 Producers holding licenses in multiple states must track each state's independent renewal schedule. Tennessee's birth month biennial deadline may not align with other states' renewal schedules. A producer with Tennessee resident and Georgia non-resident licenses may have different renewal deadlines in each state. Maintain a separate calendar entry for each state's license deadline and manage them independently.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My license expires at the end of this month and I have completed all 24 CE hours, but two of them have not yet appeared in the TDCI's records. Should I submit renewal now or wait?
 

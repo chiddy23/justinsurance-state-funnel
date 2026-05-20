@@ -14,7 +14,7 @@ imageAlt: How to Add a Line of Authority to Your Existing Colorado Insurance Lic
 
 An existing Colorado insurance license authorizes you to sell only the lines of authority currently on that license. A producer with a Life license cannot sell homeowners insurance. A producer with a Property license cannot sell health insurance. If your market expands, your clients' needs evolve, or you identify a new revenue opportunity in a line you are not yet licensed for, adding a line of authority to your existing Colorado license is a defined process — not a full relicensing from scratch. This post explains exactly what is required, what is streamlined because you are already licensed, and what remains the same regardless of your existing license status.
 
-### What Adding a Line of Authority Requires
+## What Adding a Line of Authority Requires
 
 Adding a new line of authority to an existing Colorado license requires:
 
@@ -34,7 +34,7 @@ You do not repeat the Colorado-specific prelicensing content (though it is inclu
 
 Your existing license remains active throughout the process — you can continue selling under your current lines while pursuing the new one
 
-### Step 1: Complete Prelicensing for the New Line
+## Step 1: Complete Prelicensing for the New Line
 
 The 50-hour prelicensing requirement applies to every new line of authority, regardless of how many lines you already hold or how many years of industry experience you have. Colorado does not grant prelicensing waivers based on existing licensure.
 
@@ -50,7 +50,7 @@ Certificate valid for 1 year
 
 For existing producers adding a second major line (e.g., adding Property/Casualty to an existing Life/A&H license), the course material will be entirely new — there is minimal overlap between Life/A&H product content and Property/Casualty product content. For existing producers adding a closely related line (e.g., adding standalone Accident & Health to an existing Life license), some content will feel familiar, but the full 50-hour course is still required.
 
-### Step 2: Pass the Pearson VUE Exam for the New Line
+## Step 2: Pass the Pearson VUE Exam for the New Line
 
 Schedule your exam at pearsonvue.com/co/insurance or by calling (800) 274-2616. The process is identical to initial licensing:
 
@@ -66,7 +66,7 @@ Score valid for 1 year — you must submit your line addition application within
 
 Provide your 5-digit training school code from your prelicensing provider when scheduling. Your existing NPN (National Producer Number) will link the new exam score to your existing license record.
 
-### Step 3: Submit the Line Addition Application
+## Step 3: Submit the Line Addition Application
 
 Submit a new application through NIPR (nipr.com) or Sircon (sircon.com/colorado) for the additional line. The fee is $47 per new line of authority (plus $5.60 NIPR transaction fee if using NIPR).
 
@@ -74,7 +74,7 @@ The application process for a line addition is the same as for a new license —
 
 The Division processes line additions in the same timeframe as new licenses — typically under 5 business days.
 
-### The Most Common Line Addition Scenarios
+## The Most Common Line Addition Scenarios
 
 Life/A&H producer adding Property/Casualty: This is the most common expansion in Colorado's multi-line market. A Life/Health producer who has built a personal lines book of clients and wants to offer auto, homeowners, and umbrella coverage needs full Property and Casualty authority. This requires 100 additional hours of prelicensing (50 for Property + 50 for Casualty), two Pearson VUE exams (though these can be taken in a single combined session for $47 at a physical test center), and two $47 line addition applications.
 
@@ -84,7 +84,7 @@ Personal Lines producer adding full Property and Casualty: A producer who starte
 
 Life producer adding Accident & Health (or vice versa): A producer with only Life authority adding standalone A&H, or vice versa, completes the 50-hour A&H course and passes the A&H exam. If you are considering this, evaluate whether starting fresh with the 90-hour combined Life/A&H course might have been more efficient — but for an existing single-line producer, the 50-hour addition is the correct path.
 
-### How the Line Addition Affects Your CE Obligation
+## How the Line Addition Affects Your CE Obligation
 
 Adding a line of authority does not increase your total CE hours from 24. Colorado's biennial CE requirement remains 24 hours regardless of how many lines you hold. The composition requirement adjusts:
 
@@ -96,7 +96,7 @@ If you add Property or Personal Lines, the 3-hour homeowners CE requirement now 
 
 Your CE renewal date does not change when you add a line — the new line is incorporated into your existing renewal cycle.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How long does it take to add a line of authority in Colorado, and can I keep selling my current lines while I complete the process?
 

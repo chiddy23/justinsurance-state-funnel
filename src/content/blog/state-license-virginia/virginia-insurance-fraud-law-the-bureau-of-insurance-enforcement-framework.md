@@ -14,7 +14,7 @@ imageAlt: "Virginia Insurance Fraud Law: The Bureau of Insurance Enforcement Fra
 
 Insurance fraud costs Virginia policyholders real money — fraudulent claims drive up premiums, misrepresentation undermines the integrity of the risk pool, and agent misconduct erodes client trust. Virginia's legal framework for addressing insurance fraud operates across multiple statutory chapters in Title 38.2, with the SCC Bureau of Insurance serving as the primary enforcement authority for market conduct and producer misconduct, and the Commonwealth's attorney system addressing criminal fraud. For producers, understanding the fraud framework is partly about knowing what the rules prohibit — and partly about understanding the reporting obligations that arise when fraud is suspected.
 
-### Virginia's Insurance Fraud Statute
+## Virginia's Insurance Fraud Statute
 
 Virginia's primary insurance fraud statute is found in Title 18.2 of the Code of Virginia (the criminal code), not in Title 38.2. Va. Code § 18.2-178 (insurance fraud) prohibits:
 
@@ -26,7 +26,7 @@ Assisting another in making such false representations
 
 Insurance fraud under § 18.2-178 is a felony (Class 5, punishable by up to 10 years in prison) when the value involved exceeds $1,000, and a Class 1 misdemeanor for smaller amounts. Federal insurance fraud statutes (18 U.S.C. §§ 1033-1034) additionally apply to persons engaged in the business of insurance, imposing federal criminal liability for willfully embezzling, stealing, or misappropriating insurance funds.
 
-### Title 38.2 Fraud-Related Provisions
+## Title 38.2 Fraud-Related Provisions
 
 Within Title 38.2, fraud-related obligations for producers and insurers appear across several chapters:
 
@@ -44,7 +44,7 @@ Any charge of a felony involving misappropriation, conversion, or theft of funds
 
 Any civil judicial action involving fraud, misrepresentation, or dishonest dealing
 
-### The Bureau's Enforcement Authority Against Agents
+## The Bureau's Enforcement Authority Against Agents
 
 The Bureau of Insurance enforces compliance through:
 
@@ -56,7 +56,7 @@ Civil penalties: The SCC can assess civil money penalties for violations of Titl
 
 Restitution: Under § 38.2-218, the Commission may order restitution for policyholders who have been harmed by a producer's illegal conduct, including misappropriation of premiums.
 
-### The $25 Referral Fee Rule and Related Prohibitions
+## The $25 Referral Fee Rule and Related Prohibitions
 
 The Bureau's enforcement guidance highlights a common area of producer confusion around the line between permissible business development and prohibited rebating or fraud:
 
@@ -64,11 +64,11 @@ Referral fees to unlicensed persons: A licensed producer may pay a one-time nomi
 
 Gifts and inducements: Offering any valuable consideration as an inducement to purchase insurance is prohibited rebating under § 38.2-509. Gifts, gift cards, or other items provided to clients who purchase a policy constitute rebating. The Bureau advises that if promotional items are given, they must be available to anyone who enters the agency regardless of whether they buy a policy.
 
-### Producer Record Retention as a Fraud Prevention Tool
+## Producer Record Retention as a Fraud Prevention Tool
 
 Virginia's 3-year record retention requirement (§ 38.2-1809) serves a dual fraud-prevention purpose: it allows producers to document their own compliance with applicable rules, and it allows the Bureau to verify that documented transactions reflect what actually occurred. Adequate records are a producer's primary protection against disputed claims of misrepresentation or misconduct.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the producer's obligation when they suspect a client or claimant is committing insurance fraud?
 

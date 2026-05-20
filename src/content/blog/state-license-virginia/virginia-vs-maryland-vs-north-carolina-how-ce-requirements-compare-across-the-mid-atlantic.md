@@ -14,43 +14,43 @@ imageAlt: "Virginia vs. Maryland vs. North Carolina: How CE Requirements Compare
 
 For producers holding multi-state licenses across the Mid-Atlantic — Virginia, Maryland, and North Carolina being the most common trio — CE requirements are one of the most logistically significant ongoing compliance obligations. All three states require biennial CE. All three require ethics hours. All three administer CE through approved providers. But the specific hours, renewal deadlines, administration systems, carryover rules, and specialty training requirements differ in ways that matter when you are planning a CE schedule across multiple states. This post maps every material difference so you can build an accurate compliance calendar.
 
-### CE Hours Required
+## CE Hours Required
 
 Virginia's single-license CE requirement (16 hours) is 8 hours lower than both Maryland and North Carolina. For a Virginia single-license (L/A/H or P&C) producer, this represents one fewer online course per year compared to MD and NC. A Virginia dual-licensee (L/A/H + P&C) is at parity with MD and NC at 24 hours.
 
 For producers who are Virginia residents holding non-resident licenses in Maryland and North Carolina: non-resident CE compliance in both states is typically satisfied by Virginia CE compliance. Virginia's 16-hour single-license requirement may not technically satisfy Maryland's 24-hour requirement on a credit-for-credit basis — confirm with each state whether the lower Virginia requirement is accepted under reciprocity or whether additional hours are needed.
 
-### Renewal Deadline
+## Renewal Deadline
 
 Virginia and Maryland both use the odd/even birth year system — producers born in even years renew in even years, those born in odd years in odd years. North Carolina uses a different biennial structure tied to individual license issue dates rather than birth year. All three states use NIPR and Sircon for renewal processing.
 
 For a Virginia resident with NC and MD non-resident licenses, your Virginia renewal date is your primary compliance anchor. Non-resident renewal deadlines in Maryland and NC follow those states' systems and may not align with your Virginia deadline — track each state's deadline separately.
 
-### CE Administration
+## CE Administration
 
 Virginia and North Carolina both use Pearson VUE for CE program administration, but these are separate state-specific programs — completing a Virginia Pearson VUE CE course does not automatically satisfy North Carolina CE requirements. Course approvals are state-specific. A Virginia-approved course is not necessarily NC-approved and vice versa.
 
 Maryland administers its own CE program through the Maryland Insurance Administration.
 
-### Company-Sponsored Course Caps
+## Company-Sponsored Course Caps
 
 Virginia's 75% cap is a defined rule. Maryland and North Carolina have their own limitations — confirm current rules with each state's CE administrator before planning a heavily company-sponsored CE schedule for multi-state compliance.
 
-### Carryover Credits
+## Carryover Credits
 
 Virginia's explicit carryover policy (one cycle forward, must be reported in current biennium) is one of its more producer-friendly features. Complete CE early in your biennium and any excess hours count toward the next cycle. MD and NC carryover rules differ — confirm before assuming.
 
-### Specialty Training Requirements
+## Specialty Training Requirements
 
 All three states have adopted some form of the NAIC annuity model regulation and have LTC training requirements for producers selling LTC products. The specific hours and Virginia-specific content requirements apply to Virginia only — for MD and NC non-resident compliance, confirm each state's specialty training requirements with the respective state CE administrator.
 
-### Non-Resident CE Compliance
+## Non-Resident CE Compliance
 
 All three states follow the NAIC non-resident CE reciprocity framework. A Virginia resident holding non-resident licenses in Maryland and North Carolina satisfies both states' non-resident CE requirements by being CE-compliant in Virginia. This is a significant simplification — Virginia residents with multi-state authority need to maintain Virginia CE compliance, not separate CE programs for each state.
 
 Exception for specialty training: Confirm with each state whether specialty product training (LTC Partnership, annuity best interest) requires state-specific components for non-resident producers. Virginia requires a 2-hour Virginia-specific LTC Partnership module for all producers selling LTC Partnership products, including non-residents.
 
-### Practical Implications for Virginia Residents With Multi-State Authority
+## Practical Implications for Virginia Residents With Multi-State Authority
 
 For a Virginia resident holding non-resident licenses in both Maryland and North Carolina, the CE compliance strategy is:
 
@@ -68,7 +68,7 @@ Renew MD and NC non-resident licenses through NIPR or Sircon by each state's res
 
 The non-resident renewal deadlines in MD and NC are independent of your Virginia deadline — add them to your compliance calendar as separate events.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I complete 24 CE hours in Virginia as a dual licensee, does that satisfy Maryland's 24-hour non-resident requirement?
 

@@ -14,7 +14,7 @@ imageAlt: "UM/UIM Coverage in New Jersey: Rules, Limits, and Why It Tracks Liabi
 
 New Jersey requires every standard auto policy to carry both uninsured motorist (UM) and underinsured motorist (UIM) coverage — and since January 1, 2026, both must meet the same minimum limits as bodily injury liability: $35,000 per person and $70,000 per accident. That linkage between liability and UM/UIM minimums is one of the most important structural features of New Jersey's auto insurance system, and it is one of the topics most frequently tested on the NJ Casualty exam's state law section. For producing agents, it also drives direct client advisory conversations about coverage adequacy in one of the most litigation-intensive auto insurance environments in the country.
 
-### What UM and UIM Coverage Do
+## What UM and UIM Coverage Do
 
 Uninsured Motorist (UM) coverage pays for your injuries and damages when you are hurt by a driver who has no auto insurance at all, or in certain hit-and-run situations where the at-fault driver cannot be identified.
 
@@ -24,7 +24,7 @@ Both UM and UIM coverage come in two forms under NJ law: bodily injury and prope
 
 Important limitation on UM/UIM property damage: New Jersey's UM/UIM property damage coverage only applies when the other driver is identified. In a hit-and-run accident where the at-fault driver cannot be identified, UM/UIM property damage does not pay for damage to your vehicle — you would rely on your collision coverage instead.
 
-### The Tracking Requirement: UM/UIM Follows Liability Minimums
+## The Tracking Requirement: UM/UIM Follows Liability Minimums
 
 One of New Jersey's most distinctive UM/UIM rules is that your UM/UIM limits are required to match your liability limits — they track upward together. When the Phase 2 liability minimum increased to 35/70 on January 1, 2026, the UM/UIM minimum increased automatically as well. A policyholder carrying minimum liability coverage now carries 35/70 UM/UIM by default.
 
@@ -36,7 +36,7 @@ For umbrella policies: Many umbrella carriers require that the underlying auto p
 
 The UM/UIM cap: your UM/UIM limits cannot exceed your liability limits. A policyholder with 100/300 liability cannot purchase 250/500 UM/UIM — the UM/UIM ceiling is equal to the liability limit. This is the other side of the tracking relationship — UM/UIM moves with liability in both directions.
 
-### How UIM Works in Practice: The Credit and Offset
+## How UIM Works in Practice: The Credit and Offset
 
 New Jersey's UIM structure requires understanding how the offset works. The UIM carrier is entitled to a credit against the liability limits recovered from the at-fault driver's insurer. The UIM coverage does not stack on top of the at-fault driver's limits — it fills the gap.
 
@@ -58,19 +58,19 @@ Total recovery: $90,000
 
 If the at-fault driver had carried 100/300 liability — equal to your UIM limits — UIM would not be triggered because the tortfeasor's coverage equals your UIM limit. UIM is only triggered when the tortfeasor's available coverage is less than your UIM limit.
 
-### UM/UIM and the Verbal Threshold
+## UM/UIM and the Verbal Threshold
 
 An important interaction that producers must understand: the verbal threshold (Limited Right to Sue election) applies to UM/UIM claims just as it applies to claims against at-fault drivers. A policyholder who elected Limited Right to Sue cannot recover pain and suffering from their own UM/UIM carrier unless their injuries meet the verbal threshold categories — death, dismemberment, significant disfigurement, displaced fracture, loss of fetus, or permanent injury.
 
 This means the tort option election the client makes at the time of purchase affects not just their right to sue other drivers but also their ability to recover noneconomic damages from their own policy's UM/UIM coverage. A client who sustains soft tissue injuries in a hit-and-run accident cannot recover pain and suffering from their UM carrier if they elected Limited Right to Sue and the injuries do not meet the threshold.
 
-### The Advisory Implication: Minimum UM/UIM Is Often Inadequate
+## The Advisory Implication: Minimum UM/UIM Is Often Inadequate
 
 New Jersey's 35/70 UM/UIM minimum — while higher than the previous 25/50 — is still widely considered inadequate by insurance professionals for drivers in a high-density state with high medical costs and high litigation rates. A serious accident can easily generate damages that exceed $35,000 per person before accounting for pain and suffering, lost wages, and long-term care.
 
 The producer's advisory role is to help clients understand that the state minimum provides legal compliance, not meaningful financial protection. Clients who own homes, have significant income, or are the household's primary earner have material exposure above the minimum UM/UIM floors that higher limits can address.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the difference between uninsured motorist and underinsured motorist coverage in New Jersey?
 

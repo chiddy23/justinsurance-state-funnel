@@ -14,7 +14,7 @@ imageAlt: "Rochester and Southeast Minnesota: Medical Devices, Mayo Clinic, and 
 
 Rochester is not a small city that happens to have a famous hospital. It is Minnesota's third-largest city and largest city outside the Twin Cities metro — an economy built almost entirely around the gravity of one institution and now experiencing the most significant period of economic transformation in its history. Mayo Clinic's record profits in 2025, the ongoing $5.6 billion Destination Medical Center initiative, a record-setting $1.2 billion in construction permit valuation in 2025, and the entry of the three largest national homebuilders into the Rochester market for the first time are all indicators of an economy in active expansion. For insurance producers, that expansion means growing commercial accounts, new residential clients, new biotech and life sciences startups, and a professional services market being built in real time around Mayo's institutional gravity.
 
-### Mayo Clinic: The Institutional Foundation
+## Mayo Clinic: The Institutional Foundation
 
 Mayo Clinic is Minnesota's largest employer, with record profits in 2025. Its Rochester campus employs more than 40,000 people across medical, research, administrative, and support functions. The concentration of Mayo employment in Rochester means that one-third of Rochester area total employment is located in or adjacent to the downtown Mayo campus. No other regional economy in Minnesota — or arguably in the upper Midwest — is as concentrated around a single institution.
 
@@ -24,7 +24,7 @@ The supplier and vendor ecosystem: Mayo does not operate in isolation. Every con
 
 The biotech spinoff ecosystem: An ecosystem of medical and biotech firms has evolved from Mayo-adjacent startups into growing companies. Companies like Vyriad/Imanis (working on cancer cures, grew from 20 employees in 2020 to 120 in 2026), Cytotheryx (treatments for liver disease, 13 employees and growing), Rion (launched under Mayo Clinic's Employee Entrepreneurship Program, from 6 to 40 employees), and Nucleus RadioPharma (radiopharmaceutical manufacturing, formed in 2022) represent the early-stage life sciences ecosystem growing in Rochester's shadow. Each of these companies needs directors and officers liability, general liability, professional liability, property coverage, and workers' compensation — with specific coverage requirements unique to their life sciences activities.
 
-### The Destination Medical Center Initiative
+## The Destination Medical Center Initiative
 
 The Destination Medical Center (DMC) is the largest public-private economic initiative in Minnesota's history — a $5.6 billion, 20-year economic development initiative designed to position Rochester as a global center for health and wellness. The initiative combines $585 million in public infrastructure funding with Mayo Clinic's commitment to $3.5 billion in private investment, $128 million from Rochester and Olmsted County, and an estimated $2 billion from private investors.
 
@@ -38,7 +38,7 @@ National homebuilder entry: D.R. Horton (nation's largest homebuilder), Lennar, 
 
 30,000 new jobs over 20 years: The Destination Medical Center initiative projects that Mayo Clinic will add 25,000 to 30,000 Minnesota jobs over the next 20 years as a direct result of the DMC investment. Those jobs — each representing a new employee who needs auto insurance, health insurance, homeowners or renters insurance, life insurance, and disability income protection — represent a 20-year pipeline of new personal lines insurance clients entering the Rochester market.
 
-### IBM Rochester: The Technology Anchor
+## IBM Rochester: The Technology Anchor
 
 IBM employs approximately 4,000 people at one of its largest development centers located just north of downtown Rochester — the largest IBM facility in the world under one contiguous roof. IBM Rochester's presence provides the Rochester insurance market with a second major employer concentration — a technology-focused workforce that complements Mayo's healthcare concentration.
 
@@ -48,7 +48,7 @@ IBM as a commercial account: IBM itself and the ecosystem of technology vendors,
 
 The technology-healthcare convergence: The recent announcement of Google's first Minnesota facility in Rochester reflects the growing fusion between technology and medicine that the DMC initiative is designed to catalyze. As technology companies locate near Mayo to participate in health informatics, AI-assisted diagnostics, and digital health applications, Rochester's technology sector will grow beyond IBM alone — creating new commercial accounts in the technology liability and cyber insurance space.
 
-### The Medical Device and Life Sciences Opportunity
+## The Medical Device and Life Sciences Opportunity
 
 Rochester sits at the geographic and institutional center of Minnesota's Medical Alley — the national health technology cluster that encompasses more than 15,000 health tech companies and their 500,000 employees. Within 90 minutes of the Mayo Clinic campus are the headquarters of Medtronic (world's largest medical device manufacturer), UnitedHealth Group (largest health insurance provider in the U.S.), and Optum (world's largest digital health firm).
 
@@ -64,7 +64,7 @@ Errors and omissions: Professional services associated with device development, 
 
 Recall liability: A product recall — whether voluntary or FDA-mandated — generates significant costs for a device manufacturer: recall execution costs, lost revenue from market withdrawal, and third-party liability for devices already implanted or distributed. Product recall insurance is a specialty line that many medical device companies purchase and that most generalist commercial lines producers do not handle.
 
-### Southeast Minnesota's Agricultural and Manufacturing Base
+## Southeast Minnesota's Agricultural and Manufacturing Base
 
 Rochester's insurance opportunity does not exist in isolation from the broader southeast Minnesota regional economy. Olmsted County and the surrounding counties — Dodge, Fillmore, Freeborn, Goodhue, Houston, Mower, Steele, Wabasha, and Winona — contain a substantial agricultural and manufacturing economy that generates commercial insurance demand independent of Mayo's gravitational pull.
 
@@ -76,7 +76,7 @@ Manufacturing: Southeast Minnesota hosts a meaningful manufacturing sector in co
 
 The Winona and La Crosse corridor: The Mississippi River corridor along Winona and the Wisconsin border generates tourism, river transportation, and light manufacturing activity. Winona's college economy — Winona State University and Saint Mary's University generate a combined 10,000+ student population — creates housing, retail, and service sector commercial accounts in a smaller market with lower competition density than Rochester.
 
-### The Rochester Personal Lines Market: A Growth Story
+## The Rochester Personal Lines Market: A Growth Story
 
 Rochester's personal lines insurance market is growing at a pace that few Minnesota markets outside the Twin Cities metro can match. The combination of Mayo's workforce expansion, national homebuilder entry, and sustained population growth creates a personal lines pipeline that will continue generating new clients for years.
 
@@ -86,13 +86,13 @@ The Mayo workforce's insurance profile: Mayo's workforce includes a large concen
 
 The international patient population: Mayo Clinic treats approximately 2 million patients annually, with a meaningful share traveling from outside the United States. While international visitors are not residential insurance clients, their presence supports a substantial hospitality, transportation, and retail sector in Rochester that generates commercial insurance accounts.
 
-### Competitive Landscape: Rochester vs. Twin Cities
+## Competitive Landscape: Rochester vs. Twin Cities
 
 Rochester's insurance market is meaningfully less competitive than the Twin Cities while offering access to higher-value accounts than most rural Minnesota markets. The major national brokerages — Marsh, Aon, Gallagher — have limited Rochester presence compared to their Twin Cities offices. Regional independent agencies serve the Rochester market, but the producer density per commercial account is substantially lower than in Minneapolis-St. Paul.
 
 The specialist advantage in Rochester: A producer who develops genuine expertise in healthcare professional liability, medical device products liability, or life sciences coverage in Rochester competes with a smaller field of specialist competitors than in the Twin Cities. The same account that would require competing against five specialist brokers in Minneapolis might be accessible to the only specialist in Rochester. The lower competition density combined with the high-value account base makes Rochester one of the most attractive markets for a specialist commercial lines producer outside the Twin Cities.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am a new producer considering Rochester vs. the Twin Cities for building my career. What are the tradeoffs?
 

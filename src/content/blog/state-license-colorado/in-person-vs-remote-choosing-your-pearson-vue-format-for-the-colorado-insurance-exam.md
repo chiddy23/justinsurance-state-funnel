@@ -15,15 +15,15 @@ imageAlt: "In-Person vs. Remote: Choosing Your Pearson VUE Format for the Colora
 
 Colorado insurance licensing candidates have two options for how they sit for the Pearson VUE state exam: in-person at a physical Pearson VUE test center or remotely through OnVUE, Pearson's online proctored platform. Both options deliver the same exam content, use the same scoring system, and produce results that are identical in the eyes of the Colorado Division of Insurance. The format decision is entirely logistical — it is about which environment gives you the best conditions to demonstrate what you have prepared. This post maps every relevant difference between the two formats so you can make the right choice for your specific situation before you schedule.
 
-### The Core Difference: Environment Control
+## The Core Difference: Environment Control
 
 The fundamental distinction between in-person and OnVUE testing is where environmental control sits. At a physical test center, the testing environment is controlled for you — the facility, the workstation, the security protocols, and the technical setup are all standardized and managed by the test center staff. Your only job is to show up, pass ID verification, and perform. With OnVUE, you control the environment — you provide the device, the internet connection, the private room, and the correct technical configuration. That shifts the preparation burden from logistics to self-management.
 
 Neither format is objectively better. The right choice depends on your specific circumstances, home environment, and comfort with technology.
 
-### Format Comparison: Side by Side
+## Format Comparison: Side by Side
 
-### In-Person Testing: The Details
+## In-Person Testing: The Details
 
 Primary Colorado test center: Pearson VUE Colorado Insurance 3131 S. Vaughn Way, Suite 205 Aurora, CO 80014
 
@@ -47,11 +47,11 @@ The combined session advantage: This is the most significant reason to choose in
 
 No-breaks rule: There are no scheduled breaks during the exam. You remain in the testing room for the full duration. The 120-minute Life, A&H, Property, or Casualty exams and the 135-minute Personal Lines exam are continuous. Plan accordingly before your appointment.
 
-### OnVUE Remote Testing: The Details
+## OnVUE Remote Testing: The Details
 
 What OnVUE is: OnVUE is Pearson VUE's secure online proctoring platform. Your exam is delivered to your own device and monitored in real-time by a remote proctor via your webcam and microphone. The exam content and scoring are identical to in-person — what changes is the delivery environment.
 
-#### System Requirements (April 2026)
+### System Requirements (April 2026)
 
 Before scheduling OnVUE, run the system test available at pearsonvue.com/us/en/co/insurance. Do this on the same computer and internet connection you plan to use for the exam — not on a different device. System requirements as of April 2026:
 
@@ -97,7 +97,7 @@ Supported browsers: Chrome, Safari, Firefox, or Microsoft Edge (latest versions)
 
 Browsers: Cookies must be enabled; pop-up blocking must be disabled
 
-#### The Testing Environment
+### The Testing Environment
 
 Your testing space must meet specific conditions. If any condition is not met at check-in, your exam is cancelled and the fee forfeited:
 
@@ -113,7 +113,7 @@ All doors in the room (including closet or bathroom doors) must be closed
 
 No physical scratch materials: OnVUE does not allow you to use paper, whiteboards, or physical scratch materials during the exam. You are provided an on-screen whiteboard tool within the exam interface for notes and calculations. This is a meaningful difference from in-person testing, where physical scratch materials are provided. Candidates who are accustomed to working out coinsurance calculations or other math on paper should practice using an on-screen whiteboard before their exam day.
 
-#### The Check-In Process
+### The Check-In Process
 
 Check-in opens 30 minutes before your exam appointment time. Do not wait until the appointment time — begin check-in as soon as the window opens. The check-in sequence:
 
@@ -129,7 +129,7 @@ Be connected to a live proctor who monitors the session continuously
 
 If any check-in step fails — ID rejected, environment non-compliant, equipment failure — you cannot test and your fee is forfeited.
 
-#### The One-Attempt Rule: The Most Important OnVUE Restriction
+### The One-Attempt Rule: The Most Important OnVUE Restriction
 
 You are allowed only one OnVUE attempt per exam for Colorado insurance licensing. If you take the Life exam via OnVUE and fail, your retake must be taken at a physical Pearson VUE test center. You cannot use OnVUE again for that specific line.
 
@@ -143,7 +143,7 @@ The one-attempt rule does not apply across different lines — if you take the L
 
 Given this rule, candidates who have any doubt about their readiness should strongly consider taking their first attempt in-person rather than OnVUE. If you fail in-person, you retain full flexibility to retake either in-person or via OnVUE. If you fail via OnVUE, in-person is your only retake option.
 
-#### What Happens If OnVUE Has a Technical Problem During Your Exam
+### What Happens If OnVUE Has a Technical Problem During Your Exam
 
 If a technical issue occurs during an OnVUE session, communicate with your proctor via the in-exam chat. The proctor can address procedural issues but cannot pause or extend your exam, and cannot troubleshoot your device or internet connection. If the issue cannot be resolved:
 
@@ -153,7 +153,7 @@ If the technical failure is attributable to your equipment or internet connectio
 
 If your computer freezes or disconnects, close and relaunch the OnVUE application from your downloads folder. Do not use your phone or another device to contact support during the exam — any second device visible during the session violates exam security rules.
 
-### Choosing Your Format: A Decision Framework
+## Choosing Your Format: A Decision Framework
 
 Work through these questions before scheduling:
 
@@ -167,7 +167,7 @@ Question 4: Am I confident in my exam readiness? If not fully confident → In-p
 
 Question 5: Is travel to a test center a significant burden? If yes, and questions 1–4 are all favorable → OnVUE makes sense. Candidates in rural Colorado, candidates with demanding work schedules, or candidates for whom the Aurora test center is a multi-hour round trip have a genuine logistical reason to use OnVUE. The format works well when the home environment is controlled and the technical setup is verified in advance.
 
-### What Both Formats Have in Common
+## What Both Formats Have in Common
 
 Regardless of format, these elements of the Colorado exam experience are identical:
 
@@ -185,7 +185,7 @@ The same prohibition on study materials, notes, and reference documents during t
 
 The same immediate results — you receive a pass or fail notification at the conclusion of every session in both formats
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I pass via OnVUE, is my passing score treated any differently than if I passed in-person?
 

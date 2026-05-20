@@ -17,9 +17,9 @@ Nashville is simultaneously two things that most mid-sized American cities are n
 
 This post covers the Nashville insurance market in the depth that career decisions require: the healthcare economy's insurance implications, the music and entertainment industry's specific coverage needs, the broader Nashville growth story and what it means for every line of insurance, the geographic opportunity across Davidson and the surrounding counties, and the specific producer niches that Nashville's economy makes accessible to producers who understand the market they are working in.
 
-### Nashville's Economy: What It Actually Is
+## Nashville's Economy: What It Actually Is
 
-#### The Healthcare City
+### The Healthcare City
 
 The most important economic fact about Nashville for insurance purposes is not the music. It is the healthcare industry — which is to Nashville what automobiles are to Detroit or technology is to San Francisco.
 
@@ -33,7 +33,7 @@ Oracle's move: Oracle Corporation, one of the world's largest technology compani
 
 What this means for insurance producers: A city with $72 billion in healthcare economic activity, 900 healthcare companies, and 17 publicly traded healthcare company headquarters generates insurance premium volumes that dwarf what the same geographic footprint would produce in most other American cities. Every healthcare employer needs employee benefits, every healthcare-adjacent professional needs professional liability coverage, every healthcare facility needs commercial property and casualty, and every healthcare executive needs personal lines coverage at income levels that produce above-average premiums.
 
-#### The Music and Entertainment Industry
+### The Music and Entertainment Industry
 
 Nashville's music and entertainment industry is genuinely significant — $10 billion annually is not a small number — but its insurance implications are different in character from the healthcare industry's implications. Where healthcare produces large, stable, recurring commercial accounts, music and entertainment produces specialized, often complex, frequently surplus lines placements that reward producers who understand the industry deeply.
 
@@ -43,9 +43,9 @@ The touring musician problem: Nashville is home base for more touring musicians 
 
 The venue liability concentration: Broadway's entertainment district is one of the highest-concentration entertainment venue markets in the country — dozens of bars, restaurants, and live music venues operating in close proximity with high foot traffic, alcohol service, and live entertainment simultaneously. Each venue is a commercial insurance client with general liability, liquor liability, commercial property, workers' compensation, and umbrella needs. Producers who develop expertise in the hospitality and entertainment venue segment have a geographic concentration of prospects within walking distance of each other.
 
-### The Broader Nashville Growth Story
+## The Broader Nashville Growth Story
 
-#### Population and Economic Growth
+### Population and Economic Growth
 
 Nashville's growth over the past decade has been among the fastest of any major metropolitan area in the United States. The combination of Tennessee's no-income-tax environment, Nashville's strong job market anchored by healthcare and technology, and the city's genuine quality of life has produced consistent domestic migration — people moving from higher-cost markets to Nashville in numbers that create continuous new demand for insurance across every personal and commercial line.
 
@@ -53,15 +53,15 @@ The Williamson County adjacency: Franklin and Brentwood — in Williamson County
 
 The suburban expansion: Murfreesboro, Smyrna, La Vergne, Nolensville, Spring Hill, and Mount Juliet have all grown dramatically as workforce housing markets for Nashville's expanding employment base. Each of these communities generates its own personal lines market — homeowners, auto, umbrella — that a producer operating from the Nashville MSA can serve efficiently.
 
-#### The Technology Sector's Insurance Implications
+### The Technology Sector's Insurance Implications
 
 Nashville's technology sector — anchored by Oracle's headquarters and supplemented by a growing ecosystem of health technology companies — creates specific cyber liability, professional liability (E&O), directors and officers liability, and employment practices liability demand that the healthcare sector alone does not fully capture.
 
 Health technology companies that handle patient data carry HIPAA-related cyber liability exposure that is distinct from standard cyber coverage. A health tech startup that suffers a data breach exposing 500,000 patient records faces regulatory, notification, and civil liability costs that require coverage structures specifically designed for that exposure. Nashville's concentration of health tech companies — each with PHI (protected health information) exposure — makes this a specific and growing insurance niche.
 
-### The Insurance Opportunity Map: Nashville by Segment
+## The Insurance Opportunity Map: Nashville by Segment
 
-#### Employee Benefits: The Largest Opportunity
+### Employee Benefits: The Largest Opportunity
 
 The largest single insurance opportunity in Nashville is employee benefits — group health, dental, vision, life, disability, and voluntary benefits for the employers that Nashville's healthcare and technology economy produces.
 
@@ -71,7 +71,7 @@ The healthcare company employee demographics: Healthcare company employees in Na
 
 TennCare's non-expansion implication for benefits: Because Tennessee did not expand Medicaid, the coverage gap between TennCare eligibility and marketplace subsidies creates employer-sponsored insurance as the primary health coverage pathway for Tennessee's working population. Employers who want to attract talent must offer health coverage — they cannot rely on employees to access low-cost Medicaid alternative. This makes Nashville employers more benefits-motivated than employers in Medicaid expansion states where the public coverage alternative is more accessible.
 
-#### Commercial Property and Casualty: Healthcare Facilities
+### Commercial Property and Casualty: Healthcare Facilities
 
 Nashville's healthcare facilities — hospitals, surgery centers, urgent care centers, outpatient clinics, behavioral health facilities — are commercial property and casualty clients of significant size and complexity. A community hospital with 200 beds is a multi-million-dollar commercial P&C account requiring commercial property, general liability, professional liability (medical malpractice), workers' compensation, commercial auto, and umbrella coverage simultaneously.
 
@@ -79,7 +79,7 @@ Producers who want to develop healthcare facility commercial accounts need speci
 
 The professional services network: The Nashville region has also developed a network of professional service firms specializing in the health care industry – including legal, accounting, finance, and real estate services. Each of these professional service firms is itself a commercial insurance client with professional liability, general liability, workers' compensation, and commercial property needs. 10Times
 
-#### Personal Lines: High-Net-Worth Nashville
+### Personal Lines: High-Net-Worth Nashville
 
 Nashville's healthcare executive and physician population creates a concentration of high-net-worth personal lines clients that is unusual for a non-coastal market. Physicians earning $400,000–$800,000 annually, healthcare executives earning $300,000–$2,000,000+, and successful healthcare entrepreneurs who have taken companies public or executed M&A transactions live primarily in the southern Nashville suburbs — Brentwood, Franklin, Belle Meade, Green Hills — and generate personal lines insurance needs that standard personal lines coverage does not fully address.
 
@@ -87,7 +87,7 @@ What high-net-worth personal lines looks like: A physician household with a $2 m
 
 Producers who develop high-net-worth personal lines expertise — who understand umbrella liability adequacy, who work with carriers offering guaranteed replacement cost and agreed value homeowners coverage, who can coordinate personal and commercial coverage for physicians who also own their practice — serve Nashville's healthcare professional demographic at a level that generic personal lines producers cannot match.
 
-#### Life Insurance and Executive Benefits
+### Life Insurance and Executive Benefits
 
 Nashville's concentration of healthcare executives — leaders of publicly traded healthcare companies, hospital system CEOs, physician group partners, and healthcare private equity professionals — creates demand for executive-level life insurance planning and business succession strategies that are absent in most Tennessee markets.
 
@@ -95,9 +95,9 @@ Key person life insurance: A healthcare management company whose CEO is the prim
 
 Buy-sell funding: Nashville's private healthcare companies — physician groups, ambulatory surgery centers, specialty clinics — require buy-sell agreements funded by life insurance to protect ownership continuity when a partner dies or becomes disabled. These placements combine legal complexity (the buy-sell agreement structure) with insurance complexity (the funding mechanism) and relationship complexity (the multi-partner dynamics). Producers who develop expertise in business succession planning for healthcare entities serve a Nashville-specific niche with virtually unlimited prospect volume.
 
-### Building a Nashville Insurance Career
+## Building a Nashville Insurance Career
 
-#### The Referral Network That Matters in Nashville
+### The Referral Network That Matters in Nashville
 
 Nashville's business community is simultaneously large and — in specific industry clusters — surprisingly small. The healthcare industry in particular has a concentrated community of executives, administrators, and professionals who attend the same conferences, join the same professional associations, and maintain relationships across companies. The Nashville Health Care Council, the Nashville Area Chamber of Commerce, and the healthcare-specific professional associations that serve this community create accessible networking entry points for producers who commit to engaging them.
 
@@ -105,13 +105,13 @@ The legal and accounting gateway: Healthcare companies' legal counsel and CPAs a
 
 The physician community: Nashville's physician community — concentrated at Vanderbilt University Medical Center, HCA facilities, Ascension Saint Thomas, and the many independent and private equity-backed physician groups — is both a referral source and a client base. Physicians refer other physicians. A producer who serves one physician well gains access to a community where word-of-mouth credibility is extraordinarily valuable.
 
-#### The Niche Selection Decision
+### The Niche Selection Decision
 
 Nashville's market is large enough that a producer can build a substantial career focused exclusively on one segment — healthcare benefits, entertainment industry commercial, high-net-worth personal lines, or healthcare facility commercial P&C. The market depth in each segment is sufficient to sustain a full career without ever needing to work outside the niche.
 
 The producers who build the most durable Nashville practices are those who make a deliberate niche selection early in their career — who decide to become the most knowledgeable insurance resource in Nashville for a specific type of client — and who build their expertise, referral network, and carrier relationships around that niche systematically. The Nashville market rewards depth of expertise more than breadth of general capability, because the clients in each segment have specific needs that a generalist cannot serve as well as a specialist.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am new to insurance and moving to Nashville. Which segment should I focus on to build a career most efficiently?
 

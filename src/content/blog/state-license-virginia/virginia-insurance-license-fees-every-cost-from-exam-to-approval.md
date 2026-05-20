@@ -15,9 +15,9 @@ imageAlt: "Virginia Insurance License Fees: Every Cost From Exam to Approval"
 
 Virginia's insurance licensing fees are among the lowest in the country — but "low fees" does not mean "simple fees." The cost structure involves multiple vendors, multiple per-line charges, and a series of timing-related risks that can turn one exam fee into three. Candidates who understand every cost before they start avoid surprises. This post covers every fee in the Virginia insurance licensing process, from exam registration through license approval, including renewal and late fees.
 
-### Complete Fee Table
+## Complete Fee Table
 
-### Exam Fees
+## Exam Fees
 
 The Prometric exam fee is $35 per exam, regardless of which line you are testing for. This fee must be paid at the time of reservation — by MasterCard, Visa, money order, company check, or cashier's check. Personal checks are not accepted. The fee is non-refundable.
 
@@ -25,7 +25,7 @@ If you need to retake the exam, you pay another $35. There is no discount for re
 
 Rescheduling: You can reschedule without penalty if you do so before the cutoff (generally 24 hours before the exam). Rescheduling after the cutoff or failing to appear forfeits the exam fee entirely.
 
-### Fingerprinting Fee
+## Fingerprinting Fee
 
 The Fieldprint Virginia fingerprinting fee is $34.95, paid at the time of scheduling at fieldprintvirginia.com. This fee is bundled and covers both the Virginia State Police criminal history check and the FBI national check. There is no additional charge from the Virginia State Police or FBI.
 
@@ -37,7 +37,7 @@ You are applying for a different license type than you currently hold
 
 A new background check is required for any other reason
 
-### Application Fee
+## Application Fee
 
 The Virginia Bureau of Insurance charges $15 per line of authority as a non-refundable application processing fee. This is sometimes called the "per qualification" fee.
 
@@ -55,17 +55,17 @@ Life, Annuities, Health, Property, and Casualty (five lines): $75
 
 Always check the specific NIPR or Sircon application interface to confirm exactly how combined exam results translate to individual line charges before submitting.
 
-### NIPR/Sircon Processing Fee
+## NIPR/Sircon Processing Fee
 
 Both NIPR and Sircon charge a platform transaction fee of $5.60 per application submission. This fee is charged by the platform, not by the Bureau of Insurance. It applies per submission session, not per line — if you apply for five lines in one session, you pay one $5.60 transaction fee, not five.
 
-### Renewal Fees
+## Renewal Fees
 
 Virginia insurance licenses renew biennially. The renewal deadline is November 30 on even years for all Virginia producers. The renewal is tied to your birth year's odd/even cycle — producers born in even years renew on November 30 of even years; producers born in odd years also renew November 30 of even years (Virginia simplified to a single statewide renewal date rather than birthday-based individual deadlines). Confirm your specific renewal date with the Bureau, as individual records may vary.
 
 Virginia has no renewal grace period. If you do not complete your CE requirements and submit renewal before the November 30 deadline, your license is administratively terminated. You have up to one year after expiration to reinstate (paying the $30 late fee and $20 reinstatement fee per line plus the standard $10 renewal fee), but you must also be CE-compliant first.
 
-### What Fees Can Multiply
+## What Fees Can Multiply
 
 Several cost items are structured per-line rather than per-application, meaning candidates with multiple lines of authority pay more:
 
@@ -79,9 +79,9 @@ The $20 reinstatement fee per line: reinstating five expired lines costs $100 in
 
 Candidates who hold multiple lines — which is common in Virginia, where many producers hold both a Life & Annuities + Health combined license and a Property & Casualty license — should budget the full per-line cost at every stage.
 
-### Total Cost by License Type
+## Total Cost by License Type
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Why is the Virginia insurance license application fee charged per line of authority rather than per application?
 

@@ -14,7 +14,7 @@ imageAlt: Colorado Insurance Fraud Law and the Division of Insurance Enforcement
 
 Insurance fraud is not a regulatory technicality in Colorado — it is a criminal offense with felony consequences, enforced by the state Attorney General's Insurance Fraud Unit, the Colorado Division of Insurance, district attorneys across the state, and in some cases federal prosecutors. Colorado's General Assembly has explicitly declared that the state must aggressively confront insurance fraud through stricter enforcement and deterrence, and the statutory framework reflects that legislative intent. For Colorado insurance producers, understanding the fraud statutes means understanding both what constitutes a fraudulent insurance act, what happens when the Division of Insurance investigates, and how the producer's own conduct intersects with the fraud detection and reporting obligations the law imposes on everyone in the insurance transaction chain.
 
-### The Statutory Framework: Three Interconnected Provisions
+## The Statutory Framework: Three Interconnected Provisions
 
 Colorado's insurance fraud law operates through three interconnected statutory provisions that together cover the full spectrum of fraud — from the regulatory definition, to the criminal prohibition, to the immunity framework that encourages reporting.
 
@@ -24,7 +24,7 @@ CRS § 18-5-211 — Insurance Fraud (Criminal Code): The criminal fraud statute.
 
 CRS § 10-1-129 — Additional Fraud Provisions: Companion provision to § 10-1-128 covering additional reporting, civil remedy, and enforcement details.
 
-### What Constitutes a Fraudulent Insurance Act: CRS § 10-1-128(1)
+## What Constitutes a Fraudulent Insurance Act: CRS § 10-1-128(1)
 
 The statutory definition is precise and intentionally broad. A fraudulent insurance act is committed when a person, knowingly and with intent to defraud:
 
@@ -42,7 +42,7 @@ The materiality requirement: Not every error or omission on an insurance documen
 
 The intent requirement: The statute requires knowing conduct with intent to defraud or mislead. Innocent errors, good-faith mistakes, and honest misunderstandings are not fraudulent insurance acts under this definition. The prosecution must establish that the person knew the statement was false and intended to defraud. This element is the most commonly contested issue in criminal insurance fraud prosecutions — establishing what the defendant knew and intended.
 
-### The Criminal Classification: CRS § 18-5-211
+## The Criminal Classification: CRS § 18-5-211
 
 Colorado's criminal insurance fraud statute classifies the offense based on the amount involved:
 
@@ -50,7 +50,7 @@ Class 5 felony consequences beyond imprisonment: A felony conviction carries con
 
 The statute of limitations runs from discovery: HB17-1048 amended Colorado's insurance fraud prosecution timeline to provide that the statute of limitations begins running upon discovery of the criminal act — not upon commission of the act. This is a significant departure from standard limitations rules and reflects the practical reality of insurance fraud: many fraudulent acts are not discovered until months or years after they occur, when claim patterns are analyzed, audits are conducted, or whistleblowers come forward. The discovery rule gives prosecutors the full limitations period from the point of discovery rather than from the point when the fraud was committed.
 
-### Types of Insurance Fraud in Colorado
+## Types of Insurance Fraud in Colorado
 
 Colorado's enforcement actions cover a wide range of fraudulent conduct:
 
@@ -112,7 +112,7 @@ Issuing false certificates of insurance
 
 Participating in a staged accident scheme by facilitating false claims
 
-### The Enforcement Structure: Who Investigates and Prosecutes
+## The Enforcement Structure: Who Investigates and Prosecutes
 
 Colorado's insurance fraud enforcement involves multiple agencies with overlapping but distinct roles:
 
@@ -136,7 +136,7 @@ Maintains the public record of regulatory enforcement actions at doi.colorado.go
 
 Federal Agencies: Federal law enforcement becomes involved when insurance fraud crosses state lines, involves federal programs (Medicare, Medicaid, federal workers' comp), or reaches the threshold of federal criminal statutes. The FBI investigates insurance fraud involving interstate commerce. The Department of Labor-OIG investigates workers' comp fraud. HHS-OIG investigates Medicare and Medicaid fraud. Federal insurance fraud prosecutions under 18 U.S.C. §§ 1033-1034 specifically target unlicensed insurance activity and fraud by persons engaged in the business of insurance.
 
-### The Insurer Anti-Fraud Plan Requirement
+## The Insurer Anti-Fraud Plan Requirement
 
 CRS § 10-1-128(5) requires that insurers licensed in Colorado maintain a comprehensive anti-fraud plan as a condition of licensure. The Commissioner may review any insurer's anti-fraud plan during a market conduct examination. Every licensed insurer must include a summary of its anti-fraud efforts in its annual report to the Division.
 
@@ -154,7 +154,7 @@ Confidentiality of anti-fraud plans: The anti-fraud plan and the annual summary 
 
 The producer's intersection with anti-fraud plans: Licensed producers are specifically addressed in insurer anti-fraud plans — fraud by the insurer's agents and employees is a required subject of the plan. When an insurer's fraud investigation identifies a producer as a suspect, the insurer's reporting obligations under the plan require referral to appropriate law enforcement and regulatory entities. This is a direct pipeline from insurer fraud investigation to DOI regulatory action and AG criminal prosecution.
 
-### The Immunity Framework for Fraud Reporting
+## The Immunity Framework for Fraud Reporting
 
 A significant practical barrier to insurance fraud reporting is the fear of civil liability — a person who reports suspected fraud to an insurer or to the Division of Insurance might worry about being sued by the person they reported. CRS § 10-1-128 directly addresses this barrier through a broad immunity provision.
 
@@ -172,7 +172,7 @@ Good faith is required: The immunity does not protect false or malicious reports
 
 Judgment and settlement notice obligations: When an insurer obtains a judgment or settlement against a licensed person whose services are compensated by insurance claim proceeds — a contractor, a medical provider, an adjuster — the insurer must send notice of that judgment or settlement to the appropriate Colorado licensing board. When any person obtains such a judgment, they may send notice to the DOI. These notice provisions create a cross-agency information flow that allows licensing boards to take action against licensees who have been found liable in insurance fraud litigation.
 
-### The Division of Insurance's Enforcement Tools Against Producers
+## The Division of Insurance's Enforcement Tools Against Producers
 
 When the DOI investigates a producer for insurance fraud, the regulatory enforcement framework operates in parallel with any criminal investigation:
 
@@ -186,7 +186,7 @@ Market conduct examinations: The DOI may examine any insurer's market conduct �
 
 Regulatory actions are public: Unlike insurer anti-fraud plans (which are confidential), regulatory enforcement actions taken by the DOI against producers are posted publicly on the DOI's website at doi.colorado.gov under "Regulatory and Disciplinary Actions." Cease and desist orders, stipulated agreements and final agency orders, and final agency orders against producers are all publicly accessible. A regulatory action against a producer becomes part of their permanent licensing record that must be disclosed on future applications in Colorado and other states through NIPR's producer database.
 
-### What Producers Must Do When They Suspect Fraud
+## What Producers Must Do When They Suspect Fraud
 
 A Colorado producer who discovers or suspects that a client, a third party, or even a colleague is engaged in insurance fraud has both practical and legal considerations to navigate:
 
@@ -200,7 +200,7 @@ Contact the DOI or AG if appropriate: For serious or systemic fraud — particul
 
 Do not confront the suspected fraudster: A producer who directly confronts a client about suspected fraud — rather than reporting through appropriate channels — creates multiple risks: the confrontation may allow the fraudster to destroy evidence, it may expose the producer to physical risk, and it may compromise the subsequent investigation.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If a client asks me to help them adjust a claim in a way that I believe is exaggerated, am I legally obligated to refuse?
 

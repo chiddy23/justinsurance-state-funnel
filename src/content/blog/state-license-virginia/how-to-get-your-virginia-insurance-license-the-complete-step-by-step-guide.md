@@ -14,9 +14,9 @@ imageAlt: "How to Get Your Virginia Insurance License: The Complete Step-by-Step
 
 Virginia is one of the few states in the country that does not require [prelicensing](/virginia/prelicensing) education before you sit for your insurance licensing exam — and the state's regulator is not a Department of Insurance but the Bureau of Insurance within the State Corporation Commission (SCC), a structure unique among the states. These two facts set the tone for everything that follows: Virginia's licensing process is streamlined, candidate-controlled, and moves at the pace you set. Most candidates who are prepared complete the entire process — from deciding to get licensed to holding an active license — in two to four weeks. Here is exactly how it works.
 
-### The Five Steps to a Virginia Insurance License
+## The Five Steps to a Virginia Insurance License
 
-#### Step 1: Pass the Prometric Licensing Exam
+### Step 1: Pass the Prometric Licensing Exam
 
 Virginia uses Prometric to administer all insurance producer licensing exams. You register, schedule, and sit for your exam entirely through Prometric — either at a physical test center or via remote online proctoring using Prometric's ProProctor application.
 
@@ -34,7 +34,7 @@ After failing: You must wait at least 24 hours before rescheduling. After failin
 
 Score validity: Your passing score is valid for 183 calendar days. You must submit your complete license application to the Bureau of Insurance within that window.
 
-#### Step 2: Get Fingerprinted Through Fieldprint
+### Step 2: Get Fingerprinted Through Fieldprint
 
 Virginia requires all resident license applicants to submit fingerprints through Fieldprint Virginia, using live-scan digital technology that transmits prints directly to the Virginia State Police and the FBI for a criminal history background check.
 
@@ -48,7 +48,7 @@ Fieldprint locations: There are approximately 46 Fieldprint locations across Vir
 
 Exemption: Fingerprinting is not required if you have submitted fingerprints in the last 12 months, are currently licensed, and are applying for the same license type.
 
-#### Step 3: Obtain a Criminal History Record Report (CHRR)
+### Step 3: Obtain a Criminal History Record Report (CHRR)
 
 Virginia resident applicants must provide a current Criminal History Record Report from the Virginia State Police, obtained no more than 90 days before the application date. The CHRR is submitted electronically as part of the online application.
 
@@ -56,7 +56,7 @@ If you have resided in Virginia for less than six months, submit a CHRR from you
 
 If your CHRR reveals a misdemeanor or felony conviction, you must also provide a detailed written statement explaining the circumstances and attach relevant court documents to your application. The SCC's Bureau of Insurance reviews all background information before issuing a license.
 
-#### Step 4: Apply Through NIPR or Sircon
+### Step 4: Apply Through NIPR or Sircon
 
 After passing your exam and completing fingerprinting, submit your license application electronically through NIPR (nipr.com) or Sircon (sircon.com). Both platforms allow you to attach required documents including your CHRR.
 
@@ -66,15 +66,15 @@ Processing time: Applications are processed in date order. Allow approximately 1
 
 Applications must be submitted within 90 days of completing fingerprinting and within 183 days of passing the exam. If either window expires, you must start over.
 
-#### Step 5: Print Your License and Get Appointed
+### Step 5: Print Your License and Get Appointed
 
 Once the Bureau of Insurance approves your application, you can print your license through NIPR or Sircon. You do not receive a physical license in the mail.
 
 Before you can transact insurance business on behalf of any specific insurer, that insurer must appoint you. Appointments are filed by the insurer through NIPR. You cannot sell for a carrier until your appointment is active.
 
-### The Full Cost Breakdown
+## The Full Cost Breakdown
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How long does it take to get a Virginia insurance license?
 

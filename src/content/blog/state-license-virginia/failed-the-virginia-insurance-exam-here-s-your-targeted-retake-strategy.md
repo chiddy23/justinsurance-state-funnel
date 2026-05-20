@@ -14,7 +14,7 @@ imageAlt: Failed the Virginia Insurance Exam? Here's Your Targeted Retake Strate
 
 Failing the Virginia insurance exam is not a career-ending event — it is a diagnostic event. Virginia publishes no limit on the number of times you can attempt the exam, charges only $35 per retake, and requires only a 24-hour wait between attempts (with a 30-day pause after three consecutive failures). The candidates who convert a first failure into a passing retake are those who use the score report as a guide rather than a disappointment, make targeted changes to their preparation, and address the actual cause of the failure rather than just studying more of the same material. Here is exactly how to do that.
 
-### Step 1: Read Your Score Report Before You Do Anything Else
+## Step 1: Read Your Score Report Before You Do Anything Else
 
 Within minutes of completing the exam, your score report is displayed on the Prometric screen. A copy is also emailed to you. This report is the most valuable study tool you have for your retake — and candidates who ignore it and go back to studying everything from scratch are the ones who fail again.
 
@@ -38,7 +38,7 @@ Failed both: You need a full preparation reset with more time and a more systema
 
 Failed both, narrowly: You are close — targeted work on the lowest-scoring content areas in both sections may be sufficient.
 
-### Step 2: Calculate Exactly What You Need to Pass
+## Step 2: Calculate Exactly What You Need to Pass
 
 Take the guesswork out of "how close was I?" by doing the math:
 
@@ -56,7 +56,7 @@ State law section: 40 scored questions — you need 28 correct (70%) to pass
 
 If your score report shows you answered 62 national questions correctly, you need 8 more. If it shows 21 state law correct, you need 4 more. These are specific targets — you do not need to get everything right, you need to move specific numbers.
 
-### Step 3: Identify the Root Cause, Not Just the Symptom
+## Step 3: Identify the Root Cause, Not Just the Symptom
 
 Before scheduling your retake, honestly diagnose why you failed. The most common root causes:
 
@@ -70,7 +70,7 @@ Exam anxiety causing retrieval failure. The material is in your memory but anxie
 
 Gaps in specific high-weight content areas. Your score report will tell you which areas scored lowest. If Virginia auto insurance is your weakest state law area, and it comprises roughly 10 of 35 state law questions, improving on that one cluster moves your score by nearly 3 percentage points.
 
-### Step 4: Build a Targeted Retake Study Plan
+## Step 4: Build a Targeted Retake Study Plan
 
 For a state law failure: Spend the majority of your retake preparation time on Virginia statutes. Do not re-study national content unless the score report shows weakness there too. Use this sequence:
 
@@ -86,7 +86,7 @@ For a national content failure: Identify the specific sections with lowest score
 
 For a full failure: Schedule a longer retake window. Two to three weeks of systematic daily study covering both sections is typically sufficient for a candidate who was genuinely close on the first attempt. If you scored below 60% on both sections, consider a full restart with a structured prep course before attempting again.
 
-### The 30-Day Mandatory Wait: Use It Productively
+## The 30-Day Mandatory Wait: Use It Productively
 
 If you failed the exam three times and are in the mandatory 30-day waiting period, that month is preparation time — not a penalty to endure. Use it to completely reset your approach:
 
@@ -100,7 +100,7 @@ Target 80%+ on practice exams before the retake — not 70%, because you want a 
 
 The 30-day pause exists because the Bureau of Insurance recognizes that retaking immediately without meaningful change produces the same result. Your job is to make that change meaningful.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How soon can I retake the Virginia insurance exam after failing?
 

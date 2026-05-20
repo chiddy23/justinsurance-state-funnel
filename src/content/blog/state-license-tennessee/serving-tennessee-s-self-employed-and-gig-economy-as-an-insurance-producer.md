@@ -14,7 +14,7 @@ imageAlt: Serving Tennessee's Self-Employed and Gig Economy as an Insurance Prod
 
 More than 16.8 million Americans — approximately 10% of the U.S. workforce — are self-employed, and at least 42 million engage in some form of gig or freelance work. Tennessee's economic mix amplifies this national trend: Nashville's music and entertainment economy produces a large population of self-employed musicians, songwriters, and creative professionals; the healthcare sector generates thousands of independent contractors and locum physicians; and the logistics economy creates a substantial owner-operator and gig delivery driver population. Every self-employed Tennessean without access to employer-sponsored insurance must piece together their own benefits — health coverage, disability income, life insurance, and business protection — from the individual market, without an HR department, without an employer absorbing half the premium, and often without a clear understanding of what they need or what it costs. That gap is the producer's opportunity.
 
-### Who the Self-Employed Tennessean Actually Is
+## Who the Self-Employed Tennessean Actually Is
 
 "Self-employed" and "gig worker" cover a wide spectrum with very different insurance needs:
 
@@ -28,7 +28,7 @@ The small contractor or tradesperson — electricians, plumbers, HVAC technician
 
 The locum physician and healthcare contractor — independent physicians and advanced practice providers working across multiple Tennessee facilities — earns high income, has professional liability as part of their work agreement, and needs individual disability income protection sized for their contract income.
 
-### Health Insurance: The Central Coverage Need
+## Health Insurance: The Central Coverage Need
 
 Self-employed Tennesseans without a spouse's group plan access health insurance almost exclusively through Healthcare.gov. ACA marketplace plans provide guaranteed-issue comprehensive coverage regardless of pre-existing conditions, with premium tax credits based on household size and Modified Adjusted Gross Income.
 
@@ -42,7 +42,7 @@ The self-employed health insurance deduction: Sole proprietors, partners, and S-
 
 HSA-compatible plans: High-deductible health plans paired with Health Savings Accounts offer a triple tax advantage — contributions are deductible, growth is tax-free, and withdrawals for qualified medical expenses are tax-free. For self-employed clients with relatively low anticipated healthcare utilization and sufficient cash reserves to fund the deductible, HDHP-HSA arrangements are often the most tax-efficient health coverage option available.
 
-### Disability Income: The Coverage Most Self-Employed Clients Are Missing
+## Disability Income: The Coverage Most Self-Employed Clients Are Missing
 
 When an employee becomes disabled, their employer continues paying fixed costs while group disability benefits activate. When a self-employed individual becomes disabled, income stops immediately and completely — with no employer buffer, no sick days, and no group short-term disability benefit. For sole operators, the business may also cease to function, compounding the income loss with the loss of the business itself.
 
@@ -56,7 +56,7 @@ Elimination period should align with the client's cash reserves. Clients with th
 
 Income documentation: IDI underwriting for self-employed applicants requires tax returns — typically two to three years of Schedule C or business returns — to establish the income base. Variable or declining self-employed income creates underwriting complexity. Preparing clients for this documentation requirement before submitting applications avoids delays that frustrate both the client and the placement.
 
-### Life Insurance for the Self-Employed
+## Life Insurance for the Self-Employed
 
 Self-employed individuals need life insurance for the same personal reasons as employed clients — income replacement for dependents, mortgage payoff, education funding. They also have business-specific needs:
 
@@ -66,7 +66,7 @@ Key person: As sole operators, many self-employed Tennesseans effectively are th
 
 Buy-sell funding: Self-employed professionals who operate as partnerships or small S-corporations with co-owners need buy-sell agreements funded by life insurance that allow the surviving owner to purchase the deceased partner's interest from their estate. This placement requires coordination with the client's attorney but produces meaningful premium and significant client loyalty.
 
-### Business Liability: What Personal Policies Do Not Cover
+## Business Liability: What Personal Policies Do Not Cover
 
 Standard personal policies — homeowners, renters, personal auto — explicitly exclude business activities. Self-employed clients who assume their personal policies cover their business operations discover the gap at claim time.
 
@@ -82,7 +82,7 @@ Periods 2 and 3 — En route or delivering: The platform provides $1 million in 
 
 The solution is a rideshare endorsement on the personal auto policy (typically $150–$300 per year) that fills the Period 1 gap. Producers who explain this structure and ensure the driver has the endorsement protect clients from a denied claim after an accident during the most unprotected period.
 
-### Where to Find Self-Employed Clients in Tennessee
+## Where to Find Self-Employed Clients in Tennessee
 
 Nashville's creative community is tight-knit and referral-driven. A producer who serves one musician well — explains coverage in plain terms, navigates the variable income marketplace enrollment accurately — earns word-of-mouth access to an entire community that has historically been underserved.
 
@@ -90,7 +90,7 @@ Coworking spaces and freelancer communities host the independent professional po
 
 Professional contractor associations — independent trades associations, local chapters of professional services organizations, and small business development networks — provide structured access to the contractor and small business owner population throughout the state.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A Nashville session musician earns between $45,000 and $90,000 per year depending on bookings and royalties. How do I help them select marketplace health coverage with that income variability?
 

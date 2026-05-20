@@ -16,11 +16,11 @@ Tennessee eliminated its mandatory [prelicensing](/tennessee/prelicensing) requi
 
 Building your own study plan without a structured course telling you what to study, in what order, and for how long requires a different kind of preparation discipline. You are not following a curriculum. You are building one. This post gives you the complete framework: how to assess your starting knowledge, how to allocate study time across the two exam sections, the specific topics that demand the most attention in each line, how to structure your daily study schedule, how to use practice exams correctly, and how to know when you are genuinely ready to schedule your exam date.
 
-### Step 1: Assess Your Starting Knowledge Honestly
+## Step 1: Assess Your Starting Knowledge Honestly
 
 Before deciding how many hours to study or which topics to prioritize, you need an accurate picture of what you already know — not what you assume you know. Most candidates who fail the Tennessee exam did not fail because the material was too difficult. They failed because they overestimated how much their prior experience translated to exam-ready knowledge.
 
-#### Take a Diagnostic Practice Exam First
+### Take a Diagnostic Practice Exam First
 
 Before reading a single study guide or watching a single instructional video, find a Tennessee-specific Pearson VUE-formatted [practice exam](/tennessee/practice-exam) and take it under realistic conditions — 77 questions, 105 minutes, no notes, no lookups. Score it honestly.
 
@@ -28,7 +28,7 @@ What your diagnostic score tells you:
 
 The critical caveat: A diagnostic score reflects your current knowledge — not your ability to learn. A candidate who scores 45% on the diagnostic and has four weeks to study is in a better position than a candidate who scores 65% but plans to sit for the exam in three days. Use the diagnostic to understand the gap, then plan enough time to close it.
 
-#### Identify Your Knowledge Background
+### Identify Your Knowledge Background
 
 Your prior experience determines which sections of the study plan need the most time and which can move through more quickly.
 
@@ -40,11 +40,11 @@ No prior insurance or financial services experience: Every concept — general a
 
 Producer licensed in another state: You have passed an insurance exam before, which means you have general product knowledge. Your gap is entirely Tennessee-specific — state law, TDCI authority, Tennessee's statutory provisions, and the Pearson VUE platform if you previously tested on PSI. Allocate 70–80% of study time to the state law section and use the general content review only to address topics where your prior state's exam content differs materially from Tennessee's.
 
-### Step 2: Gather the Right Study Materials
+## Step 2: Gather the Right Study Materials
 
 Without a structured course, you are assembling the curriculum yourself. The materials you use determine both the accuracy of what you learn and how efficiently you learn it.
 
-#### What You Need
+### What You Need
 
 A Tennessee-specific study guide for your line: The study guide must cover both the general insurance concepts for your line AND Tennessee-specific statutory content. A nationally-focused insurance study guide — one designed for generic exam content without state-specific coverage — will not prepare you for the Tennessee state law section. Verify that any study guide you use explicitly covers Tennessee law, the TDCI, Tennessee's auto insurance requirements, Tennessee's workers' compensation framework, and Tennessee's unfair trade practices and bad faith provisions.
 
@@ -54,7 +54,7 @@ The TDCI content outline: Available free from Pearson VUE's Tennessee insurance 
 
 Tennessee statutes — TCA Title 56: For the state law section, reading the actual statutory language is the highest-quality preparation available. The specific sections most frequently tested are short and readable. Reading the statute directly ensures you learn what the law actually says rather than a paraphrase that may be imprecise on the specific details the exam tests.
 
-#### What to Avoid
+### What to Avoid
 
 Nationally-generic textbooks without Tennessee content: Standard insurance textbooks that cover general concepts without addressing Tennessee's specific statutory framework will prepare you for the general section and leave you unprepared for state law. If a study material does not mention the TDCI, TCA Title 56, Tennessee's 25/50/25 auto minimums, or the 25% bad faith penalty, it is insufficient for the Tennessee exam.
 
@@ -62,21 +62,21 @@ PSI-formatted practice exams: Even accurate content presented in PSI's interface
 
 Outdated materials: Tennessee's prelicensing elimination took effect March 21, 2023. Materials published before that date may reference requirements that no longer exist and may not reflect other regulatory updates since then. Verify publication dates before relying on any study resource.
 
-### Step 3: Build the Study Schedule
+## Step 3: Build the Study Schedule
 
 The study schedule is the operational core of the self-directed study plan. Without a course providing a built-in timeline, you must create the structure yourself — and you must follow it.
 
-#### Determine Your Total Study Time
+### Determine Your Total Study Time
 
 Convert your estimated total study hours into a daily schedule based on how quickly you need to reach your exam date.
 
 The scheduling principle: Consistent daily study produces stronger retention than weekend cramming. Three hours per day every day outperforms seven hours on Saturday and nothing the rest of the week — particularly for the terminology-heavy general content and the specific statutory provisions that require repetition to recall accurately under exam conditions.
 
-#### The Four-Phase Study Structure
+### The Four-Phase Study Structure
 
 Regardless of your line or total study time, a self-directed Tennessee exam study plan works best when organized into four sequential phases.
 
-#### Phase 1 — Content Coverage (50% of total study time)
+### Phase 1 — Content Coverage (50% of total study time)
 
 Work through every topic in the TDCI content outline for your line systematically. Read through familiar topics quickly but do not skip them — the exam tests specific definitions and specific provisions, not general familiarity. A topic that feels familiar from life experience may be tested at a level of specificity that general familiarity does not support.
 
@@ -150,13 +150,13 @@ Tennessee state law — complete framework including the 5-employee general work
 
 Phase 1 active recall practice: At the end of each topic, close your study materials and write down five specific facts from that topic from memory — specific numbers, specific provisions, specific Tennessee statutory details. This active recall exercise during content coverage produces dramatically stronger retention than passive reading alone.
 
-#### Phase 2 — First Full Practice Exam (5% of total study time)
+### Phase 2 — First Full Practice Exam (5% of total study time)
 
 After completing Phase 1, take your first full-length practice exam under realistic conditions: 77 questions, 105 minutes timed, no notes, no lookups, no interruptions. Score it and review every question — including those you answered correctly. Understanding why a correct answer is correct matters as much as understanding why a wrong answer is wrong.
 
 What Phase 2 reveals: Your Phase 2 score identifies which Phase 1 content areas were effectively addressed and which still have gaps. Compare your Phase 2 score to your diagnostic score — the improvement gap tells you whether your Phase 1 study method is working. If minimal improvement occurred between diagnostic and Phase 2, the study method needs adjustment before continuing.
 
-#### Phase 3 — Targeted Weak Area Review (30% of total study time)
+### Phase 3 — Targeted Weak Area Review (30% of total study time)
 
 Use the Phase 2 practice exam section performance breakdown to identify your three to five weakest content areas. Allocate Phase 3 study time exclusively to those areas. Do not review material you already know well — the marginal return on studying strong areas is negligible compared to the return on closing genuine gaps.
 
@@ -164,7 +164,7 @@ For Tennessee state law gaps: Read the actual TCA statutory provision, not a par
 
 For general content gaps: Return to the study guide section for the specific topic, re-read it from the beginning, then immediately answer 10–15 practice questions on that specific topic. The combination of re-reading immediately followed by targeted practice questions activates the material more effectively than re-reading alone.
 
-#### Phase 4 — Exam Conditioning (15% of total study time)
+### Phase 4 — Exam Conditioning (15% of total study time)
 
 In the final days before your exam, shift from content review to exam conditioning — simulating exam day conditions to build timing discipline, mental stamina, and the confidence that translates into actual exam performance.
 
@@ -180,11 +180,11 @@ On the final day before your exam: take one practice exam in the morning, review
 
 The 80% practice exam target: When your practice exam scores are consistently reaching 80% or above, you have meaningful buffer above the 70% pass threshold. Test-day conditions — mild stress, unfamiliar question phrasing, real stakes — typically reduce performance 3–7% below practice levels. An 80% practice performer has sufficient margin to absorb that reduction and still clear 70% on the scored questions.
 
-### Step 4: The Tennessee State Law Deep Dive
+## Step 4: The Tennessee State Law Deep Dive
 
 The state law section deserves its own dedicated study protocol within the Phase 1 and Phase 3 framework. It is the section that distinguishes Tennessee candidates from candidates in states with mandatory prelicensing — because required prelicensing courses routinely cover state law explicitly, while self-directed candidates frequently underweight it.
 
-#### The Tennessee State Law Master List
+### The Tennessee State Law Master List
 
 Every item on this list should be known to automatic recall — no hesitation, no uncertainty — before you schedule your exam.
 
@@ -286,7 +286,7 @@ Diligent search among admitted carriers required before placement
 
 Not covered by Tennessee guaranty associations
 
-#### The Flashcard System for State Law
+### The Flashcard System for State Law
 
 Create a flashcard for every specific number and provision in the master list. Front of the card: the provision or rule. Back: the specific number or detail.
 
@@ -294,7 +294,7 @@ Sample flashcards:
 
 Review these flashcards daily from Phase 1 onward. Daily repetition over two to four weeks produces the automatic recall that allows state law questions to be answered quickly and accurately — without the hesitation that wastes time and undermines confidence on exam day.
 
-### Step 5: Scheduling Your Exam Date
+## Step 5: Scheduling Your Exam Date
 
 The exam date should be scheduled when — and only when — your practice performance justifies it.
 
@@ -312,7 +312,7 @@ When these indicators are met: Schedule your exam three to five days later. The 
 
 Remote testing technical prep: If testing via OnVUE, run the Pearson VUE system compatibility check at home.pearsonvue.com/tn/insurance at least 24 hours before your scheduled exam — not the morning of. If the check fails, you have no time to schedule in-person as an alternative.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I have two weeks before I need to be licensed for a job start date. Is that enough time to self-study without a course?
 

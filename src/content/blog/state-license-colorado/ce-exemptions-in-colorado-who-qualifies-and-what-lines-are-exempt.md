@@ -14,7 +14,7 @@ imageAlt: "CE Exemptions in Colorado: Who Qualifies and What Lines Are Exempt"
 
 Colorado's 24-hour biennial CE requirement applies to the large majority of licensed insurance producers — but not all of them. Three categories of producers are exempt from the standard CE obligation: newly licensed producers during their first renewal cycle, non-resident producers who satisfy their home state's CE requirements, and producers licensed exclusively in specific limited lines that the Division of Insurance has excluded from the CE framework. Understanding exactly where each exemption begins, where it ends, and what it does and does not cover prevents both the error of completing unnecessary CE and the more costly error of assuming an exemption applies when it does not.
 
-### Exemption 1: Newly Licensed Producers — First Renewal Cycle Only
+## Exemption 1: Newly Licensed Producers — First Renewal Cycle Only
 
 Every producer newly licensed in Colorado is exempt from the 24-hour biennial CE requirement until their second renewal cycle. The first renewal — whenever it falls based on the birth-month biennial cycle — requires only payment of the $27 per line renewal fee. No CE, no ethics hours, no homeowners hours, no specialty training documentation is required to complete the first renewal.
 
@@ -38,7 +38,7 @@ The specialty training prerequisites are not CE in the conventional biennial sen
 
 The practical implication: A producer who completes only [prelicensing](/colorado/prelicensing), passes the state exam, obtains their license, and immediately begins selling annuities without the Annuity Best Interest training has violated Colorado Regulation 4-1-8, even though their biennial CE is not yet required. "I'm exempt from CE" is an accurate statement about the 24-hour biennial requirement. It is not an accurate statement about specialty training prerequisites.
 
-### Exemption 2: Non-Resident Producers — Home State CE Compliance Deemed Sufficient
+## Exemption 2: Non-Resident Producers — Home State CE Compliance Deemed Sufficient
 
 Non-resident producers licensed in Colorado are exempt from Colorado's biennial CE requirements provided they satisfy their home state's CE requirements. Colorado deems home state CE compliance as satisfying the Colorado CE obligation — a reciprocal arrangement that applies to most states and prevents non-residents from being required to complete CE in every state where they hold a non-resident license.
 
@@ -60,7 +60,7 @@ The biennial continuation fee: Non-resident producers are not exempt from the bi
 
 How non-residents document compliance: Non-resident producers do not submit home state CE transcripts to Colorado as part of the renewal workflow. The renewal application through Sircon or NIPR confirms the producer's home state license is in good standing — Colorado relies on that status as proxy for CE compliance. Maintaining good standing in the home state, which typically requires CE compliance, is how the Colorado exemption is effectively satisfied.
 
-### Exemption 3: Limited Lines Producers — Specific Lines Only
+## Exemption 3: Limited Lines Producers — Specific Lines Only
 
 Producers licensed exclusively in one or more of the following limited lines are exempt from the 24-hour biennial CE requirement:
 
@@ -82,11 +82,11 @@ Maintain good standing — a disciplinary action or compliance violation affects
 
 Update the Division of Insurance promptly on changes to background information (criminal charges, administrative actions in other jurisdictions, address changes)
 
-### What No Exemption Covers: The Renewal Fee and Renewal Deadline
+## What No Exemption Covers: The Renewal Fee and Renewal Deadline
 
 Every producer — newly licensed, non-resident, or limited lines exempt — must still renew their license by the last day of their birth month in their renewal year and pay the applicable renewal fee. The CE exemptions remove the CE completion obligation; they do not remove the renewal obligation. A newly licensed producer who skips renewal because they believe the CE exemption means they have nothing to do will find their license lapsed at the first renewal deadline. An exempt limited lines producer who lets the renewal slide will face the same reinstatement rules ($29/line penalty, one-year reinstatement window) as any other lapsed licensee.
 
-### Producer Scenarios: Applying the Exemptions Correctly
+## Producer Scenarios: Applying the Exemptions Correctly
 
 Scenario 1: A producer obtains a Colorado Life license in March 2024 and begins selling term life and whole life policies. Their birthday is in July. When is their first CE obligation?
 
@@ -108,7 +108,7 @@ Scenario 5: A newly licensed Property producer completes their first renewal cyc
 
 At the first renewal (beginning of second cycle), CE obligations begin — 24 hours required for the second renewal, including 3 ethics, 18 Property major lines (including 3 homeowners), and 3 miscellaneous. Separately and immediately upon deciding to sell flood insurance, the producer must complete the one-time 3-hour NFIP training before the first flood policy transaction. The NFIP training is a product prerequisite — it is not deferred by the CE cycle and is not covered by the new licensee exemption from the prior cycle.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am a newly licensed producer and a carrier is requiring me to complete CE before they will appoint me. Does the state CE exemption override the carrier's requirement?
 

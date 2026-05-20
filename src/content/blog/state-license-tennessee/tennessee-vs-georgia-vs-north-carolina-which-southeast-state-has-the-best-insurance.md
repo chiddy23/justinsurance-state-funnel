@@ -14,15 +14,15 @@ imageAlt: "Tennessee vs. Georgia vs. North Carolina: Which Southeast State Has t
 
 The Southeast is one of the fastest-growing regions in the United States for population, commercial development, and insurance premium volume. Tennessee, Georgia, and North Carolina are the three most populous non-coastal Southeast states — each with a major metro anchor, a growing economy, a distinct regulatory environment, and an insurance market shaped by local risk exposures and industry concentration. For producers deciding where to build a career, or for licensed Tennesseans evaluating whether their home state offers the best opportunity, the comparison across these three states reveals meaningful differences that raw salary averages do not capture. This post examines each state across the dimensions that actually determine career outcomes: the economic engines that drive premium volume, the regulatory environment producers operate within, the tax implications for commission income, the health insurance market structure, and the specific commercial niches each state's economy creates.
 
-### The Economic Engines: What Drives Premium Volume in Each State
+## The Economic Engines: What Drives Premium Volume in Each State
 
-#### Tennessee: Healthcare, Logistics, Manufacturing, Tourism
+### Tennessee: Healthcare, Logistics, Manufacturing, Tourism
 
 Tennessee's insurance premium volume flows from four distinct economic pillars that each create specific commercial insurance opportunities. Nashville's $72 billion healthcare economy produces employee benefits, commercial property, professional liability, and high-net-worth personal lines at a concentration found nowhere else in the Southeast outside of Houston's energy sector. Memphis's logistics economy — the #1 cargo airport in the world, 60+ million square feet of warehouse space — produces commercial trucking, cargo, and transportation liability at scale. East and Southeast Tennessee's automotive manufacturing supply chain — organized around Volkswagen in Chattanooga and the broader Southeast automotive ecosystem — produces manufacturing commercial accounts. Sevier County's 12.2 million annual park visitors generate the most concentrated short-term rental and hospitality commercial market in the region.
 
 The Tennessee advantage: No single economic pillar dominates the state's insurance premium base. This diversification means Tennessee producers can find multiple viable specialty niches — healthcare benefits in Nashville, trucking in Memphis, manufacturing commercial in Chattanooga, vacation rental in the Smokies — without concentrating career risk in a single industry or geography.
 
-#### Georgia: Atlanta as the Southeast's Corporate Capital
+### Georgia: Atlanta as the Southeast's Corporate Capital
 
 Georgia's insurance premium volume is dominated by metro Atlanta — one of the largest concentrations of Fortune 500 and Fortune 1000 corporate headquarters in the United States. Delta Air Lines, The Home Depot, UPS, Coca-Cola, and dozens of other major corporations headquartered in Atlanta generate employee benefits, commercial P&C, and executive personal lines at the scale that only the largest metro markets produce.
 
@@ -30,7 +30,7 @@ Atlanta's scale creates intense carrier competition and a sophisticated corporat
 
 Georgia also has significant agricultural and rural insurance markets in southern and coastal Georgia, a growing technology sector, and a film and entertainment industry that has made Atlanta one of the largest film production markets in the United States — each creating specific insurance niches.
 
-#### North Carolina: Banking, Technology, and Research
+### North Carolina: Banking, Technology, and Research
 
 North Carolina's economy is anchored by three distinct clusters: the Charlotte financial services hub (Bank of America, Truist Financial, Duke Energy), the Research Triangle technology and life sciences cluster (Research Triangle Park, Duke University, UNC, NC State), and the coast's continuing real estate and tourism economy despite its hurricane exposure.
 
@@ -38,15 +38,15 @@ The banking and financial services concentration in Charlotte creates a demand f
 
 North Carolina expanded Medicaid in December 2023 — making it the most recent major Medicaid expansion state in the Southeast — which fundamentally changed the health insurance landscape for producers serving low-to-moderate income individuals in the state. Producers in North Carolina now navigate a Medicaid expansion environment in which Tennessee producers do not operate, affecting which clients are marketplace-eligible and which are Medicaid-eligible in ways that require different advisory approaches.
 
-### The Regulatory Environment: How Each State Shapes the Producer's Practice
+## The Regulatory Environment: How Each State Shapes the Producer's Practice
 
-#### Tennessee: Minimal Friction, Competitive Market
+### Tennessee: Minimal Friction, Competitive Market
 
 Tennessee's regulatory environment is consistently producer-friendly. No mandatory [prelicensing](/tennessee/prelicensing) requirements, a $49 remote exam option through Pearson VUE's OnVUE platform, and a biennial renewal structure with straightforward CE requirements. Tennessee's 2013-2014 workers' compensation reform produced 13 consecutive years of rate decreases — making it one of the most favorable commercial P&C environments for employer clients in the Southeast. The TDCI's rate regulation approach has generally supported carrier market participation, contributing to the broad voluntary market availability that Tennessee's commercial and personal lines accounts enjoy.
 
 The surplus lines market: Tennessee's surplus lines framework is streamlined and functional — 5% premium tax, no stamping requirement, and a straightforward diligent search process. The E&S market is accessible for producers serving specialty commercial risks without the administrative complexity that some states impose.
 
-#### Georgia: State-Based Marketplace, Competitive Health Market
+### Georgia: State-Based Marketplace, Competitive Health Market
 
 Georgia launched its own state-based marketplace — Georgia Access — for the 2025 plan year, replacing the federally-facilitated HealthCare.gov platform. This transition created a significant learning curve for producers serving individual and small group health insurance clients — new enrollment processes, new carrier relationships, and new subsidy calculation dynamics. Producers who navigated the transition successfully have built knowledge advantages that newer entrants will need time to develop.
 
@@ -54,7 +54,7 @@ Georgia's individual health insurance market is among the most competitive in th
 
 Georgia's property insurance market has hardened following Hurricane Helene's 2024 catastrophic inland flooding. Georgia's home insurance premiums rose 8.6% in 2025, compared to a national average increase of 5.6%, and have climbed approximately 39.7% cumulatively since 2021. Hard market conditions generate producer opportunity through account rounding, coverage review, and surplus lines placement — but they also make client retention more challenging as premium sticker shock prompts shopping behavior. Zippia
 
-#### North Carolina: Rate Regulation Complexity
+### North Carolina: Rate Regulation Complexity
 
 North Carolina's insurance regulatory environment is among the most distinctive in the Southeast — and the most complex for producers to navigate. North Carolina uses a prior-approval rate filing system for homeowners insurance, but with a specific structure: the North Carolina Rate Bureau files rates on behalf of all member carriers, and the Insurance Commissioner either approves or rejects those rates — a process that has historically produced rate suppression concerns and market availability challenges in coastal and high-risk areas.
 
@@ -62,7 +62,7 @@ The North Carolina Joint Underwriting Association (FAIR Plan) had $253 million i
 
 Hurricane Helene's 2024 impact on western North Carolina — 107 deaths and approximately $5,394 per resident in property damage — has fundamentally changed how producers, clients, and carriers think about inland mountain flood risk. The event exposed coverage gaps in western North Carolina that had previously been assumed low-risk, creating significant producer advisory demand as clients reevaluate their flood and wind coverage adequacy.
 
-### The Tax Calculation: What Commission Income Actually Nets
+## The Tax Calculation: What Commission Income Actually Nets
 
 This is the comparison dimension that salary data almost never addresses — and for producers making location decisions, it is among the most financially consequential.
 
@@ -72,7 +72,7 @@ North Carolina has been on the most aggressive state income tax reduction path i
 
 For high-income producers earning $150,000–$200,000, the Tennessee tax advantage is $8,000–$11,000 per year compared to Georgia — a difference that materially affects real standard of living even when gross income data looks comparable.
 
-### Health Insurance Market: A Critical Dimension for L&H Producers
+## Health Insurance Market: A Critical Dimension for L&H Producers
 
 For producers building practices in individual and group health insurance, the three states present meaningfully different opportunity structures.
 
@@ -82,7 +82,7 @@ Georgia: Expanded Medicaid in 2019 through the state's "Pathways" program — wh
 
 North Carolina: Expanded Medicaid fully in December 2023, making it the most recent of the three states to extend full Medicaid eligibility. This expansion fundamentally changed the advisory conversation for low-to-moderate income clients — producers in North Carolina must now accurately screen clients for Medicaid eligibility before advising on marketplace enrollment, whereas Tennessee producers operate without this option for most working-age adults. North Carolina marketplace enrollment dropped 22% for 2026 — reflecting both subsidy expiration and the Medicaid transition of some formerly marketplace-enrolled clients. The three-insurer exit from North Carolina's 2026 marketplace (from nine to six carriers) reduced competition and increased producer advisory responsibility for plan comparison.
 
-### Commercial Lines: Which State's Economy Creates the Best Commercial Opportunity
+## Commercial Lines: Which State's Economy Creates the Best Commercial Opportunity
 
 For producers building commercial lines practices, the three states' economic profiles create different entry points and income ceilings.
 
@@ -92,7 +92,7 @@ Georgia offers the largest raw commercial premium volume in the Southeast outsid
 
 North Carolina offers distinctive commercial niches that neither Tennessee nor Georgia replicates: the financial institution bond and D&O market in Charlotte, the life sciences professional liability market in RTP, and the coastal marine and property market that serves North Carolina's significant maritime economy. Producers who develop expertise in any of these niches access client bases that are specific to North Carolina's economic geography and that reward depth of knowledge over carrier access breadth.
 
-### Licensing Burden: Getting Started in Each State
+## Licensing Burden: Getting Started in Each State
 
 For producers making initial career decisions or considering multi-state expansion, the licensing process complexity matters.
 
@@ -104,9 +104,9 @@ North Carolina requires 20 hours of prelicensing education for Property and Casu
 
 For Tennessee producers adding non-resident licenses in Georgia or North Carolina, the process is streamlined through NRRA reciprocity — Tennessee's license qualifies the producer for non-resident application in most states without re-examination. Tennessee has formal full-reciprocity agreements with only five states (California, Louisiana, Michigan, Mississippi, and Texas), but NAIC model law states — which include both Georgia and North Carolina — grant non-resident licenses to Tennessee licensees without requiring the state exam.
 
-### The Verdict: Which State Wins on Each Dimension
+## The Verdict: Which State Wins on Each Dimension
 
-### The Honest Conclusion: Tennessee Wins on Structure, Georgia Wins on Scale, North Carolina Wins on Niches
+## The Honest Conclusion: Tennessee Wins on Structure, Georgia Wins on Scale, North Carolina Wins on Niches
 
 No single state dominates every dimension. What the comparison reveals is that the right state depends on what kind of producer you intend to become.
 
@@ -116,7 +116,7 @@ Georgia is the best choice for producers who want access to the largest raw comm
 
 North Carolina is the best choice for producers whose expertise aligns with the state's specific niches — financial institution risk in Charlotte, life sciences professional liability in the Research Triangle, or coastal property and marine in the east. These are high-value, specialized niches that reward knowledge depth and are less accessible to out-of-state competition than Tennessee's or Georgia's more broadly accessible commercial markets.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am licensed in Tennessee and considering adding a Georgia non-resident license to serve clients with Georgia locations. How hard is the process and is it worth it?
 

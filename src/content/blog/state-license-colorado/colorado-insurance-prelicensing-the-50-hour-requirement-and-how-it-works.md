@@ -14,7 +14,7 @@ imageAlt: "Colorado Insurance Prelicensing: The 50-Hour Requirement and How It W
 
 Colorado's insurance [prelicensing](/colorado/prelicensing) requirement is one of the defining features of its licensing process — and one of the most frequently misunderstood. Unlike Virginia, where no prelicensing is required for most lines, or New Jersey, where the requirement is 20 hours per line, Colorado mandates 50 hours of state-approved education per line of authority before a candidate can sit for the Pearson VUE licensing exam. Those 50 hours are structured with a specific breakdown, must conclude with a proctored Certificate Exam, and are valid for exactly one year. Understanding how the prelicensing requirement works — what counts, what does not, and what to do after completion — is the foundation for getting through the licensing process efficiently.
 
-### The 50-Hour Structure: What It Includes
+## The 50-Hour Structure: What It Includes
 
 Colorado's 50-hour prelicensing requirement for each major line of authority divides into two components:
 
@@ -24,13 +24,13 @@ Colorado's 50-hour prelicensing requirement for each major line of authority div
 
 The Legal Concepts and Regulations component is the most directly exam-relevant of the three — it covers Title 10 of the Colorado Revised Statutes, the structure and authority of the DORA Division of Insurance, producer licensing requirements and obligations, and line-specific Colorado regulatory requirements that appear in the state law section of the Pearson VUE exam.
 
-### Hours by License Type
+## Hours by License Type
 
 Colorado's prelicensing structure varies by the license being pursued:
 
 The combined Life + Accident & Health course (90 hours) is the most common single-course choice for candidates pursuing Life and Health authority, because it counts toward both lines with one enrollment rather than two separate 50-hour courses. For Property and Casualty, each is a separate line requiring its own 50-hour course — there is no combined "P&C" prelicensing option, though the 10 Colorado-specific hours may be shared if structured by the provider.
 
-### The Certificate Exam: Required Before the State Exam
+## The Certificate Exam: Required Before the State Exam
 
 At the conclusion of each prelicensing course, every Colorado candidate must pass a Certificate Exam with a score of 70% or higher. This is not optional — it is a mandatory step between completing the prelicensing course and taking the Pearson VUE state exam.
 
@@ -60,13 +60,13 @@ Issues your Certificate of Completion for your records
 
 Your prelicensing provider will report your completion information to Pearson VUE. When scheduling your Pearson VUE state exam, you must provide your 5-digit training school code (each approved provider has its own code) at the time of booking.
 
-### Certificate Validity: 1 Year
+## Certificate Validity: 1 Year
 
 Your Certificate of Completion is valid for one year from the date you complete the course. You must take and pass the Pearson VUE state exam within this one-year window. If the certificate expires before you pass the exam, you must complete a new prelicensing course before taking the exam again.
 
 This one-year clock is one of the most important deadlines to track in the Colorado licensing process. Candidates who complete prelicensing and then delay exam scheduling — due to work schedules, life events, or lack of urgency — occasionally find their certificate has expired when they finally go to schedule their exam. Schedule your exam promptly after completing your prelicensing course to avoid this situation.
 
-### Online vs. Classroom Prelicensing
+## Online vs. Classroom Prelicensing
 
 Colorado-approved prelicensing courses are available in both formats:
 
@@ -76,7 +76,7 @@ In-person classroom: Available through some providers. Classroom format can be b
 
 Both formats satisfy the prelicensing requirement equally — there is no distinction in the state exam or license application process based on how prelicensing was completed.
 
-### Common Pitfalls to Avoid
+## Common Pitfalls to Avoid
 
 Name mismatch: Register for your prelicensing course, your Pearson VUE exam, and your license application using exactly the same name as on your government-issued ID. Even minor discrepancies (middle name included in one registration but not another, nickname vs. legal name) can delay your certificate or invalidate progress.
 
@@ -86,7 +86,7 @@ Missing the certificate validity window: Do not complete prelicensing and then w
 
 Proctor logistics: Do not wait until the day before your Certificate Exam to identify and arrange a qualified proctor. The disinterested third party requirement eliminates most obvious candidates — plan for this in advance.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I complete Colorado's prelicensing course entirely online, or do any portions require in-person attendance?
 

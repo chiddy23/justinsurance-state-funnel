@@ -14,7 +14,7 @@ imageAlt: "How to Get Your Minnesota Insurance License: The Complete Step-by-Ste
 
 Getting a Minnesota insurance license follows a defined five-step process governed by the Minnesota Department of Commerce under Minn. Stat. §60K.36. The steps are sequential — you cannot sit for the state exam without completing [prelicensing](/minnesota/prelicensing) education first, and your exam results do not count if you took the exam before satisfying the prelicensing requirement. This guide walks through every step in the order you complete them, with the specific hours, fees, timelines, and requirements you need to know before you begin.
 
-### Step 1: Choose Your Line of Authority
+## Step 1: Choose Your Line of Authority
 
 Before you enroll in any prelicensing course, you need to decide which line or lines of authority you want to hold. Your line of authority determines which prelicensing course you take, which state exam you sit for, and which types of insurance products you can sell once licensed. Minnesota issues producer licenses for the following major lines:
 
@@ -38,7 +38,7 @@ The most common combinations: Most producers entering the property and casualty 
 
 Choosing the right combination at the outset matters because each additional line requires its own prelicensing hours and exam. Producers who want to sell both P&C and Life products need all four major lines, which means 80 hours of prelicensing and two state exams.
 
-### Step 2: Complete Prelicensing Education
+## Step 2: Complete Prelicensing Education
 
 The requirement: Minnesota requires 20 hours of prelicensing education per line of authority before you may sit for the state licensing exam, under Minn. Stat. §60K.36 Subd. 4. The course must be approved by the Minnesota Department of Commerce. Course providers are listed on Sircon.
 
@@ -54,7 +54,7 @@ Important: If you sit for the state licensing exam before completing all prelice
 
 Exemptions from prelicensing: Certain professional designations exempt holders from the prelicensing education requirement. Life line applicants with CEBS, ChFC, CIC, CLU, FLMI, or LUTCF designations are exempt. A&H applicants with CEBS, HIA, REBC, or RHU are exempt. Property, Casualty, or Personal Lines applicants with AAI, ARM, CIC, or CPCU are exempt. Applicants with a four-year college degree with an insurance emphasis may also qualify for exemption. Applicants claiming an exemption must present documentation at the exam center.
 
-### Step 3: Pass the Minnesota State Licensing Exam
+## Step 3: Pass the Minnesota State Licensing Exam
 
 The exam administrator: Minnesota uses PSI Services LLC for all insurance licensing exams. You schedule your exam at the PSI website (test-takers.psiexams.com/mnins) or by calling PSI at (866) 395-1006.
 
@@ -74,7 +74,7 @@ Retakes: There is no limit on the number of retakes. You must wait 24 hours betw
 
 Spanish exams: Spanish-language exams are available for Minnesota insurance licensing.
 
-### Step 4: Complete Your Background Check (Fingerprinting)
+## Step 4: Complete Your Background Check (Fingerprinting)
 
 Minnesota requires all resident producer license applicants to submit fingerprints for a criminal history background check. The prints are forwarded electronically to both the Minnesota Bureau of Criminal Apprehension (state level) and the FBI (federal level). This is a two-agency background check.
 
@@ -86,7 +86,7 @@ Timing: It is strongly recommended to complete fingerprinting on the day of the 
 
 Criminal history: Having a prior conviction does not automatically disqualify an applicant. The Minnesota Department of Commerce evaluates each case individually. If you have concerns about how your criminal history may affect your application, contact the Department at (651) 539-1599 before beginning the process.
 
-### Step 5: Submit Your License Application
+## Step 5: Submit Your License Application
 
 Where to apply: Applications are submitted online through NIPR (nipr.com) or Sircon. Paper applications are not accepted.
 
@@ -98,13 +98,13 @@ Temporary license: A 180-day temporary producer license is available while your 
 
 Appointment requirement: You can obtain a producer license before being appointed by an insurer (Minn. Stat. §60K.49), but an appointment is required before you can legally transact insurance business in Minnesota. Appointments are submitted electronically by the insurer — you cannot self-appoint. Once appointed, you can transact business in the lines for which both you and the insurer are licensed.
 
-### The Total Cost of Getting Your Minnesota Insurance License
+## The Total Cost of Getting Your Minnesota Insurance License
 
 Here is a realistic total cost summary for the most common licensing paths:
 
 Most candidates who study consistently complete the entire process — prelicensing through license approval — in two to four weeks.
 
-### After You're Licensed: What Comes Next
+## After You're Licensed: What Comes Next
 
 Receiving your Minnesota producer license is the beginning, not the end, of your licensing obligations.
 
@@ -116,7 +116,7 @@ Lapsed license: If you miss your renewal deadline, you have 12 months to reinsta
 
 Appointment maintenance: Each carrier appointment must be maintained or terminated electronically by the insurer. If you switch agencies or carriers, ensure that your new carrier files the appointment before you begin transacting business for them.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Do I need to complete prelicensing before I schedule my PSI exam?
 

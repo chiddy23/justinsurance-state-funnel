@@ -14,7 +14,7 @@ imageAlt: Serving Minnesota's Self-Employed and Gig Economy as an Insurance Prod
 
 There are 83 million Americans working freelance in 2026 — approximately 36% of the total workforce. Only 40% of those workers have access to employer-sponsored medical insurance. Only 5% have access to short-term disability insurance. Only 20% have life insurance. These numbers describe the most structurally underinsured population in the American workforce — and one that is growing faster than any other employment category. In Minnesota, that population includes rideshare drivers, food delivery couriers, independent contractors in construction and trucking, freelance technology and creative professionals, sole proprietors running everything from landscaping businesses to consulting practices, and the thousands of Minnesotans who combine a traditional job with platform-based side income. For producers who understand what this population actually needs and why their coverage gaps are so consequential, the self-employed and gig economy market represents one of the most durable and underpenetrated client segments in Minnesota insurance.
 
-### The Scale of the Opportunity in Minnesota
+## The Scale of the Opportunity in Minnesota
 
 Minnesota's self-employed and gig economy population is substantial and growing. The state's diverse economy — technology and financial services in the Twin Cities, healthcare and medical devices in Rochester, natural resources and tourism in the north, agriculture across Greater Minnesota — each generates significant self-employment in adjacent professional services, skilled trades, and platform-based work. Minnesota's enacted law requiring the Department of Labor and Industry to study the impact of worker misclassification on workers and state revenue signals legislative recognition that the independent contractor population is large enough to warrant systematic attention.
 
@@ -30,11 +30,11 @@ Sole proprietors and small business owners: Minnesotans who operate licensed bus
 
 Farmers and agricultural operators: Minnesota's agricultural economy generates significant self-employment — farm operators who file Schedule F are self-employed by definition, creating the full range of self-employed coverage needs alongside the agricultural insurance discussed separately.
 
-### The Coverage Gap Architecture: What Self-Employed Minnesotans Are Missing
+## The Coverage Gap Architecture: What Self-Employed Minnesotans Are Missing
 
 Understanding the self-employed coverage gap requires mapping every benefit that employer-sponsored coverage provides and identifying what happens when each benefit disappears at the moment of self-employment.
 
-#### Health Insurance: The Primary Gap
+### Health Insurance: The Primary Gap
 
 The most consequential gap for most self-employed Minnesotans is health insurance. Only 40% of gig workers have access to employer-sponsored medical insurance. The absence of employer-sponsored health coverage creates both a coverage problem and a cost problem — the employer's 70–80% premium contribution disappears, and the self-employed individual faces the full gross premium cost.
 
@@ -52,7 +52,7 @@ The Schedule C deduction: Self-employed individuals who are not eligible for emp
 
 HSA-eligible high-deductible health plans: For self-employed clients who are enrolled in a qualifying High-Deductible Health Plan (HDHP), a Health Savings Account (HSA) provides triple tax benefit — contributions are tax-deductible, growth is tax-free, and withdrawals for qualified medical expenses are tax-free. 2026 HSA contribution limits are $4,400 for individuals and $8,750 for families. HSA funds roll over year after year and can be invested for long-term growth. For high-income freelancers who want to reduce both their taxable income and their healthcare cost exposure, an HSA-paired HDHP is frequently the optimal coverage structure.
 
-#### Disability Income: The Most Overlooked Gap
+### Disability Income: The Most Overlooked Gap
 
 Only 5% of gig workers have access to short-term disability insurance. This is the most dangerous coverage gap in the self-employed population — more dangerous in some respects than the health insurance gap, because health insurance has publicly visible solutions (marketplace plans, MNsure) while disability income protection for the self-employed has no analogous public safety net.
 
@@ -68,7 +68,7 @@ Benefit period: How long benefits pay — to age 65, to age 67, or for a specifi
 
 Income documentation requirement: DI carriers require documentation of pre-disability income. Self-employed applicants must provide tax returns showing Schedule C (or Schedule F for farmers) net income. This is a practical consideration — a freelancer with two years of strong income history qualifies for more coverage than one in their first year.
 
-#### Life Insurance: A Systematic Gap
+### Life Insurance: A Systematic Gap
 
 Only 20% of gig workers have life insurance. For self-employed Minnesotans with dependents — children, a spouse who relies on the freelancer's income, or business partners — the absence of employer-provided group life insurance means the full death benefit burden falls on individual policies purchased independently.
 
@@ -78,7 +78,7 @@ Key person life for sole proprietors with employees: A sole proprietor who has e
 
 Business continuation planning: Self-employed professionals with business partners need buy-sell agreements funded by life insurance — ensuring that a surviving partner can purchase the deceased partner's business interest from their estate rather than being forced into an unwanted partnership with the deceased's heirs.
 
-#### Business Owner's Insurance: The Commercial Dimension
+### Business Owner's Insurance: The Commercial Dimension
 
 Self-employed individuals are simultaneously personal insurance clients and business insurance clients. Every self-employed Minnesotan needs to assess whether their personal insurance policies adequately cover their business activities — and most do not.
 
@@ -92,7 +92,7 @@ Professional liability (E&O): Self-employed professionals — consultants, desig
 
 Commercial auto endorsement: A personal auto policy excludes business use beyond commuting. A freelancer who uses their personal vehicle to deliver products, transport clients, or travel to client sites for service work has a business use exposure that is not covered under a standard personal auto policy. A commercial auto endorsement or separate commercial auto policy — depending on the frequency and nature of the business use — addresses this gap.
 
-### Minnesota-Specific: Rideshare Driver Coverage
+## Minnesota-Specific: Rideshare Driver Coverage
 
 Minnesota is one of a small number of states where rideshare drivers automatically receive injury coverage while driving. Minnesota rideshare drivers get automatic injury coverage through the rideshare platform — providing some medical and income replacement coverage while driving for hire. However, this automatic coverage has limitations:
 
@@ -102,7 +102,7 @@ Rideshare endorsement on personal auto: A rideshare endorsement added to a perso
 
 Delivery driver gap: Food delivery drivers face a similar three-period problem. DoorDash, Instacart, and similar platforms provide some commercial coverage during active deliveries, but the transition periods — app active, en route — create the same personal policy exclusion risk as rideshare. Commercial auto or a delivery endorsement addresses this gap.
 
-### Building a Self-Employed Client Practice in Minnesota
+## Building a Self-Employed Client Practice in Minnesota
 
 The referral network for self-employed clients: Self-employed Minnesotans cluster in identifiable professional communities — coworking spaces like CoCo in Minneapolis, professional associations, LinkedIn groups, industry meetups, and platform-specific communities for freelancers. Producers who become known and trusted within these communities generate referrals that compound over time because self-employed individuals refer other self-employed individuals who share the same coverage gaps.
 
@@ -112,7 +112,7 @@ The life event trigger: Self-employment transitions are insurance life events. A
 
 Annual income review: Self-employed clients' insurance needs change with their income. A freelancer earning $35,000 in year one may be MinnesotaCare-eligible. The same freelancer earning $80,000 in year three needs marketplace coverage without subsidy, higher disability benefit limits, and meaningful life insurance. Annual reviews that adjust coverage to match current income levels retain clients and generate organic premium growth without new client acquisition.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A self-employed client asks me how to avoid owing back APTC at tax time when their income is unpredictable. What should I tell them?
 

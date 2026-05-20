@@ -14,7 +14,7 @@ imageAlt: "Tennessee Workers' Compensation Insurance Market: What Producers Need
 
 Workers' compensation is the largest P&C commercial insurance line by premium volume in Tennessee's employer market — and one of the most technically demanding to serve well. Every employer with five or more employees (or any employees in construction) must carry it. Every commercial account conversation that includes payroll means a workers' compensation placement opportunity. And with Tennessee posting its 13th consecutive annual rate decrease effective March 1, 2026, the market rewards producers who understand the rating system well enough to help clients optimize their premium rather than simply renew at whatever the insurer quotes. This post covers the complete Tennessee workers' compensation market from a producer's perspective: the regulatory and rating framework, how premiums are calculated and what moves them, the specific Tennessee rules that differ from other states, the assigned risk market, and the advisory conversations that distinguish competent producers from order-takers.
 
-### The Tennessee Workers' Compensation Market Structure
+## The Tennessee Workers' Compensation Market Structure
 
 Tennessee operates a competitive private insurance market for workers' compensation — no state fund, no monopolistic carrier. Coverage comes exclusively through private insurers or the NCCI-managed assigned risk plan. Hundreds of carriers actively write workers' compensation policies in Tennessee, from national multi-line carriers to specialty workers' compensation writers who focus on specific industries. CSG South
 
@@ -24,29 +24,29 @@ Why rates keep declining: The 2013 reform legislation that took effect July 1, 2
 
 National profitability context: Nationally, workers' compensation posted a combined ratio of 86% in 2024 — making it one of the most profitable lines in the entire P&C industry. Tennessee's market, with its structural reform advantages and consistent rate adequacy, is attractive to carriers and maintains broad voluntary market availability that producers can use to shop accounts competitively.
 
-### NCCI: How the Rating System Works
+## NCCI: How the Rating System Works
 
 Tennessee is an NCCI state. The National Council on Compensation Insurance develops the classification system, files advisory loss costs with the TDCI, calculates experience modification factors for qualifying employers, and manages the assigned risk plan. Understanding NCCI's role is foundational for producers serving any commercial account with employees.
 
-#### Loss Costs and the Carrier Multiplier
+### Loss Costs and the Carrier Multiplier
 
 NCCI does not set final rates — it files advisory loss costs, which represent the portion of premium allocated to pay losses. Individual carriers file their own loss cost multipliers (LCMs) — which layer in the carrier's expenses, profit targets, and risk tolerance — to produce their final rates. This structure is why two carriers quote different premiums for the same account even when both use the same NCCI class codes.
 
 Schedule rating: Tennessee carriers may apply schedule rating credits or debits of up to 25% to adjust their filed rates based on qualitative characteristics of the individual account — safety programs, management experience, premises condition, financial stability, and similar factors. A producer who helps a client document strong safety practices and presents a well-organized submission can influence where within the carrier's permitted schedule rating range the account lands.
 
-#### Classification Codes
+### Classification Codes
 
 Every employee job function is assigned an NCCI classification code that reflects the loss experience of workers performing that type of work. The premium difference between the lowest and highest classification codes in Tennessee is enormous:
 
 Classification accuracy matters financially: A business with $500,000 in payroll classified as retail pays approximately $4,800 in premium. Misclassified as light construction, they might pay $35,000 or more. Over-classification produces premium overpayment the employer bears unnecessarily. Under-classification is discovered at audit and generates additional premium due — sometimes a significant and unexpected billing. Producers who review classification codes with commercial clients and verify that each job function is coded correctly provide measurable financial value before a single claim occurs.
 
-#### The Tennessee Bonus Rule
+### The Tennessee Bonus Rule
 
 Tennessee has a specific workers' compensation premium rule that differs from the standard NCCI approach: bonuses are NOT included in premium calculations in Tennessee, provided they are not paid in lieu of wages and are not specified as part of the wage contract. This is codified in TCA §50-6-402(a) and confirmed by NCCI's clarification at the request of the INSURORS of Tennessee. Self Employed
 
 This distinction matters for employers who pay meaningful year-end bonuses. A construction company with $800,000 in base payroll and $200,000 in performance bonuses calculates premium on $800,000 — not $1 million. Producers who verify that the audit is being conducted correctly — specifically that bonuses are excluded from the payroll base — protect employers from premium overpayment that auditors may inadvertently include.
 
-### The Experience Modification Factor: The Most Important Number in Workers' Comp
+## The Experience Modification Factor: The Most Important Number in Workers' Comp
 
 The experience modification factor (EMR or "mod") compares a specific employer's historical loss experience to the expected losses for other employers in the same classification and adjusts premium accordingly.
 
@@ -62,23 +62,23 @@ The EMR financial impact is multiplicative: A 1.30 EMR on a $40,000 base premium
 
 The frequency versus severity dynamic: The EMR formula weights claim frequency more heavily than severity for smaller claims — meaning multiple small claims can damage a mod more than a single large claim of equivalent total cost. A producer who explains this to clients motivates them to focus loss control efforts on preventing the frequent minor injuries (strains, slips, cuts) that accumulate into mod damage, rather than only worrying about catastrophic events.
 
-### Tennessee-Specific Program Features
+## Tennessee-Specific Program Features
 
-#### The Drug-Free Workplace Program
+### The Drug-Free Workplace Program
 
 Tennessee employers who implement a compliant drug-free workplace program — meeting the BWC's requirements for testing policy, employee notification, and testing implementation — receive a premium credit on their workers' compensation policy. The credit is applied by the carrier. For employers with meaningful payroll, this credit produces real dollar savings that more than offset the administrative cost of maintaining the program. Producers who help clients understand the program requirements and connect them with the appropriate resources to implement a compliant program add value that earns retention.
 
-#### Pay-As-You-Go Workers' Compensation
+### Pay-As-You-Go Workers' Compensation
 
 Several Tennessee carriers offer pay-as-you-go (PAYG) workers' compensation — policies where premium is calculated and debited based on actual payroll each pay period rather than paid in a large upfront deposit with year-end audit adjustment. PAYG eliminates the cash flow problem of large upfront deposits, eliminates the surprise of year-end audit bills, and keeps premium aligned with actual payroll in real time.
 
 For small employers, seasonal employers, and businesses with variable payroll, PAYG is often the preferred structure. Producers who present PAYG as an option — and explain the cash flow and audit-surprise advantages clearly — serve employers who may not know this structure exists.
 
-#### Self-Insurance
+### Self-Insurance
 
 Large Tennessee employers with sufficient financial resources may apply for approval to self-insure their workers' compensation obligations — paying benefits directly rather than through an insurer. Self-insurance approval requires application to the Tennessee Department of Labor and Workforce Development and ongoing financial reporting. Self-insured employers are not insurance clients in the traditional sense — but they are prospects for excess workers' compensation coverage (stop-loss protection above the self-insured retention) and third-party claims administration services.
 
-### The Assigned Risk Plan: Market of Last Resort
+## The Assigned Risk Plan: Market of Last Resort
 
 Employers who cannot obtain workers' compensation coverage in the voluntary market — typically due to poor loss history, high-hazard classification, or new business status with no loss history — can obtain coverage through Tennessee's assigned risk plan, managed by NCCI.
 
@@ -86,7 +86,7 @@ Assigned risk premiums are higher than voluntary market premiums — the assigne
 
 NCCI's Voluntary Competitive Alternatives Program (VCAP) routes assigned risk applications to voluntary carriers who may be willing to write the account — often at more competitive terms than the assigned risk plan. Producers who submit complete, well-documented applications through VCAP serve clients better than those who process assigned risk placements without exploring voluntary alternatives.
 
-### The Policy Structure: What Producers Must Understand
+## The Policy Structure: What Producers Must Understand
 
 Tennessee workers' compensation policies follow the standard NCCI Workers' Compensation and Employers' Liability Insurance Policy structure:
 
@@ -98,7 +98,7 @@ Part Three — Other States Insurance: Extends Part One coverage to employees te
 
 The Annual Audit: Workers' compensation premiums are calculated on estimated payroll and adjusted through an annual audit comparing actual to estimated payroll. Employers whose actual payroll exceeded the estimate owe additional premium; those below receive a credit. Producers who help employers maintain accurate payroll records — and who advise them to contact the carrier mid-year if payroll will significantly exceed or fall below the estimate — prevent audit-time surprises that damage client relationships.
 
-### The Advisory Conversations That Build Practice Value
+## The Advisory Conversations That Build Practice Value
 
 Workers' compensation serves as a natural anchor for the entire commercial account relationship. Every employer with employees needs it, renews it annually, and has ongoing questions about classification accuracy, audit results, and EMR trajectory. Producers who serve workers' compensation clients as genuine advisors — rather than simply processing renewals — create retention advantages that hold through market softening and carrier competition.
 
@@ -108,7 +108,7 @@ The EMR projection conversation: Every qualifying employer who receives an EMR s
 
 The return-to-work conversation: The 7/14-day benefit structure in Tennessee — where disability extending beyond 14 days produces retroactive day-one benefits — creates a specific financial incentive for return-to-work programs. Moving an injured employee from 15 days of total disability to 13 days through modified duty eliminates 13 days of indemnity payments rather than just 2. Producers who help employers understand this dynamic and who discuss the elements of effective return-to-work programs provide loss control guidance that directly affects EMR trajectory.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A commercial client received their renewal with the same EMR as last year but a lower premium because of the statewide rate decrease. They are satisfied and do not want to shop. What advisory conversation should I still have with them?
 

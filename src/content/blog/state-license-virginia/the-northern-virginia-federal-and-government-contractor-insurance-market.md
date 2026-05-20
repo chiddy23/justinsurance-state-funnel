@@ -14,7 +14,7 @@ imageAlt: The Northern Virginia Federal and Government Contractor Insurance Mark
 
 Northern Virginia is not simply a suburb of Washington, DC. It is one of the most concentrated ecosystems of federal agencies, defense contractors, intelligence community operations, and cybersecurity firms in the world — and the resulting insurance market is unlike anything else in Virginia, or in most of the country. Fairfax County alone receives more federal procurement dollars annually than any other county in the United States. The Pentagon sits in Arlington. The CIA's headquarters is in McLean. The NSA-adjacent contractor corridor runs through Herndon, Chantilly, and Reston. For insurance producers who understand this market, Northern Virginia offers a combination of high-income personal clients, large commercial accounts, and specialist coverage needs — particularly cyber liability — that is unmatched in the Mid-Atlantic.
 
-### The Scale of the Market
+## The Scale of the Market
 
 Virginia has the third-highest concentration of federal civilian workers in the nation — approximately 139,244 federal employees as of September 2024. Northern Virginia hosts the dominant share, plus a defense contracting workforce that dwarfs the federal civilian count. Key figures:
 
@@ -28,7 +28,7 @@ Defense spending in Virginia averages approximately $15+ billion annually in con
 
 The average compensation of a federal civilian worker is nearly twice that of a comparable private sector worker. This means Northern Virginia's workforce — combining federal employees and contractors who serve them — earns at a level that creates exceptional personal and commercial insurance needs.
 
-### The Personal Insurance Market: Federal Employees and Contractors
+## The Personal Insurance Market: Federal Employees and Contractors
 
 Federal employee insurance advisory requires specific product knowledge that most generalist producers lack:
 
@@ -48,7 +48,7 @@ High-value homeowners coverage in Northern Virginia's expensive housing market w
 
 Government contractors — the more numerous and often higher-earning segment — have no FEHB or FEGLI equivalent. Their benefits depend entirely on their employer's group offerings, and their personal insurance needs mirror those of any high-income private sector professional. Senior contractors at defense firms earning $150,000–$400,000 need comprehensive personal insurance advisory.
 
-### The Commercial Insurance Market: Cyber and Professional Liability
+## The Commercial Insurance Market: Cyber and Professional Liability
 
 Northern Virginia's commercial insurance market is defined by two dominant lines that require specialized knowledge:
 
@@ -62,7 +62,7 @@ D&O Insurance for the large number of publicly traded defense contractors based 
 
 Workers' Compensation for a defense technology workforce involves high-payroll employees in office environments — a relatively clean workers' comp risk — with the premium volume reflecting the region's high compensation levels.
 
-### Key Geographic Clusters for Producer Positioning
+## Key Geographic Clusters for Producer Positioning
 
 The Northern Virginia defense and intelligence corridor has distinct geographic clusters that represent natural account concentrations:
 
@@ -76,7 +76,7 @@ Arlington: Pentagon, DIA, dozens of defense-adjacent professional services firms
 
 Fairfax City/Springfield: Mid-tier defense contractors, federal agency support operations
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Why is cyber liability particularly important for Northern Virginia government contractors?
 

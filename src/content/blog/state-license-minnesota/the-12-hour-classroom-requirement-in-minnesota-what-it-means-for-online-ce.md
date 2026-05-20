@@ -15,17 +15,17 @@ imageAlt: "The 12-Hour Classroom Requirement in Minnesota: What It Means for Onl
 
 Minnesota's CE requirement is not simply "complete 24 hours of approved courses." It has a structural constraint that significantly affects how producers plan and complete their biennial CE: at least 12 of the 24 required hours must come from classroom or classroom-equivalent instruction. This 12-hour floor means that a maximum of 12 hours — exactly half the total requirement — can be satisfied through purely self-paced online study. Producers who discover this constraint late in their renewal period, after completing the majority of their CE through self-paced online courses, face a scramble to find live instruction that satisfies the remaining classroom obligation before the deadline. This post covers exactly what the 12-hour classroom requirement means, what formats satisfy it, what formats do not, how to plan CE to meet it efficiently, and what the most common mistakes producers make in managing this component.
 
-### The Source and Structure of the Requirement
+## The Source and Structure of the Requirement
 
 Minnesota's classroom requirement is embedded in the broader CE framework under Minn. Stat. §60K.56 and the Department of Commerce's implementing regulations. It is one of four independent components of the 24-hour biennial CE obligation — alongside the 3-hour ethics minimum, the 12-hour non-company-sponsored minimum, and the 24-hour total — and like those other components, it must be satisfied independently. Meeting the total hour count without satisfying the classroom minimum is non-compliance even when every other component is satisfied.
 
 The requirement creates a maximum limit on self-paced online CE. If the classroom minimum is 12 hours out of 24, then the maximum hours a producer can earn through non-classroom formats is 12 hours. Producers who complete all 24 hours in self-paced online courses have a zero-hour classroom total — 12 hours short of compliance regardless of their total CE count.
 
-### What Satisfies the Classroom Requirement
+## What Satisfies the Classroom Requirement
 
 The classroom requirement is satisfied by instruction delivered in real time by a qualified instructor to students who are present and engaged simultaneously. The defining characteristics are real-time delivery, instructor presence, and student attendance at a specific time. These characteristics apply equally to physical classrooms and to qualifying virtual formats.
 
-#### Format 1: Live In-Person Classroom Instruction
+### Format 1: Live In-Person Classroom Instruction
 
 A scheduled, instructor-led course at a physical location — a conference room, a hotel ballroom, an insurance association meeting room, a university classroom — where the instructor and students are physically present together. This is the original and most straightforward classroom format. The instructor lectures, answers questions, and interacts with students in real time. Attendance is tracked.
 
@@ -33,7 +33,7 @@ Live in-person classroom instruction is unambiguously classroom-equivalent for M
 
 Practical availability: Live in-person CE sessions are offered by insurance industry associations, state insurance associations, and some approved CE providers on a scheduled basis — typically at industry events, regional seminars, and professional development conferences. The Minnesota Independent Insurance Agents and Brokers Association, the Professional Insurance Agents of Minnesota, and similar industry organizations offer live classroom CE sessions throughout the year. In-person sessions require the producer to attend at the scheduled time and location, which constrains scheduling flexibility.
 
-#### Format 2: Live Webinars
+### Format 2: Live Webinars
 
 A scheduled, real-time online course delivered by a qualified instructor via video conferencing platform — where the instructor is present and teaching, students are attending simultaneously, and interaction between instructor and students is possible in real time. Live webinars are the most commonly used classroom-equivalent format for working producers because they combine the temporal structure of live instruction with the geographic flexibility of online delivery.
 
@@ -43,11 +43,11 @@ What makes a webinar "live": A webinar is live when students and the instructor 
 
 Confirming live webinar status: Before enrolling in a webinar for classroom CE credit, confirm with the provider: Is the instructor actively present and teaching during the scheduled session? Can students ask questions during the session? Is attendance at the specific scheduled date and time required, or can the session be completed on demand afterward? Affirmative answers to the first two questions and a negative answer to the third indicate a genuine live webinar that qualifies for classroom credit.
 
-#### What About Hybrid Formats?
+### What About Hybrid Formats?
 
 Some CE offerings are structured as hybrid courses — primarily self-paced online content with a scheduled live session component. In these courses, the live session component qualifies for classroom credit and the self-paced component does not. If a 4-hour hybrid course has 1 hour of live webinar content and 3 hours of self-paced material, only the 1 hour of live webinar counts toward the classroom minimum. The provider's course listing should specify which portion of the course qualifies for classroom credit.
 
-### What Does NOT Satisfy the Classroom Requirement
+## What Does NOT Satisfy the Classroom Requirement
 
 The following formats do not count toward the 12-hour classroom minimum regardless of their content quality, provider approval, or the subject matter covered:
 
@@ -61,7 +61,7 @@ Self-study audio or video content: Recorded lectures, educational podcasts, or v
 
 Reading-based self-study: Articles, textbooks, or written materials with accompanying exams. No live instruction; not classroom-equivalent.
 
-### The Intersection With Other CE Components
+## The Intersection With Other CE Components
 
 The classroom requirement interacts with the other CE components in ways that affect how producers most efficiently plan their CE calendar.
 
@@ -71,7 +71,7 @@ Classroom + ethics overlap: A 3-hour live ethics webinar from an independent pro
 
 Carrier-sponsored live instruction: A carrier-sponsored live seminar or live webinar satisfies the classroom component for those hours but not the non-company-sponsored component. Carrier-sponsored live instruction is counted against the 12-hour maximum of company-sponsored CE, and it counts toward the classroom minimum if it is genuinely live instruction. Producers who attend carrier product training webinars can count those hours toward the classroom minimum — but they still need 12 hours from non-company-sponsored sources, independent of how many classroom-eligible carrier seminars they attend.
 
-### The Most Efficient CE Planning Approach
+## The Most Efficient CE Planning Approach
 
 Given the four-component CE structure and the classroom requirement's role within it, the most efficient CE plan for most Minnesota producers follows this sequence:
 
@@ -83,7 +83,7 @@ The result: 24 CE hours total, with 12 classroom-equivalent hours, 24 non-compan
 
 Alternative plan for producers with significant carrier training: A producer who attends substantial live carrier training — carrier product seminars, live carrier compliance webinars — can count those hours toward the classroom minimum (up to 12 hours) and toward the total (up to 12 hours). They then need 12 hours from non-company-sponsored sources for the non-company-sponsored minimum, and 3 hours of ethics from an approved ethics course. If the carrier training hours used the full 12-hour classroom allowance, the non-company-sponsored hours can be satisfied through self-paced online courses — which is efficient scheduling-wise but requires separate ethics CE enrollment if none of the carrier training carried ethics credit.
 
-### Planning Your Live Webinar Schedule
+## Planning Your Live Webinar Schedule
 
 The practical challenge of the classroom requirement is scheduling. Self-paced courses can be completed any time, any day, at any pace. Live webinars require attendance at a specific date and time. Producers who procrastinate on the classroom component find their options constrained as the renewal deadline approaches — not because live webinars are unavailable, but because the specific sessions available may not align with the producer's schedule in the final weeks before renewal.
 
@@ -95,7 +95,7 @@ Batch classroom hours efficiently: Some live webinar providers offer extended se
 
 Track classroom hours separately from total hours: Maintain a personal CE tracking spreadsheet that records each course completed, its format (live webinar, self-paced, in-person), its hours, and whether it carries ethics credit. Tracking classroom hours separately prevents the common mistake of discovering at renewal that total hours are complete but classroom hours are deficient.
 
-### Common Mistakes and How to Avoid Them
+## Common Mistakes and How to Avoid Them
 
 Mistake 1 — Completing all CE through self-paced online courses: A producer completes 24 hours of self-paced online CE from approved providers, including 3 hours of ethics. At renewal, the transcript shows 24 CE hours and 3 ethics hours — but 0 classroom-equivalent hours. The classroom minimum is not satisfied. The producer must complete 12 hours of live instruction before renewing.
 
@@ -113,7 +113,7 @@ Mistake 4 — Assuming carrier seminars satisfy the non-company-sponsored requir
 
 Prevention: Track each CE course by both format (classroom vs. self-paced) and sponsor status (independent vs. company-sponsored). Keep both running totals current throughout the renewal period.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I found a live webinar from an approved provider but it is offered by a carrier I am appointed with. Does it count toward the classroom minimum?
 

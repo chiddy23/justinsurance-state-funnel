@@ -14,7 +14,7 @@ imageAlt: "Minnesota LTC Training: The 8-Hour Initial and 5-Hour Renewal Require
 
 A Minnesota insurance producer cannot sell, solicit, or negotiate long-term care insurance without completing mandatory LTC-specific training before the first sale — and without maintaining that training currency through ongoing refresher requirements every 24 months thereafter. The LTC training requirement is separate from and in addition to the standard 24-hour biennial CE obligation. It exists because long-term care insurance is one of the most consequential and most frequently misunderstood products in the insurance market — a product whose intersection with Minnesota's Medicaid program, the Minnesota Long-Term Care Partnership, and the complex eligibility rules of Medical Assistance creates a knowledge burden that general insurance licensing does not address. This post covers the complete LTC training framework: who must complete it, what each requirement covers, how the ongoing training schedule works, what the insurer verification obligation is, and how non-resident producers navigate Minnesota's LTC training rules.
 
-### Who Must Complete Minnesota LTC Training
+## Who Must Complete Minnesota LTC Training
 
 An individual may not sell, solicit, or negotiate long-term care insurance unless the individual is licensed as an insurance producer for accident and health or sickness insurance or life insurance and has completed an initial training course and ongoing training every 24 months thereafter. R Street Institute
 
@@ -22,13 +22,13 @@ The LTC training requirement applies to any Minnesota-licensed producer — resi
 
 Required underlying license: A producer must hold either an Accident and Health (A&H) or Life line of authority to sell LTC insurance in Minnesota. LTC insurance is a health and disability product — it requires A&H authority — but some LTC products have life insurance components that additionally require Life authority. Confirm with each carrier which line of authority their specific LTC products require.
 
-### The Initial 8-Hour LTC Certification Training
+## The Initial 8-Hour LTC Certification Training
 
 Before a producer can sell or solicit Long-Term Care Insurance, they must complete a state approved, one-time 8-hour Long-Term Care Certification Training course. Harrisonmcwilliams
 
 The 8-hour initial training is a one-time requirement — once completed, it does not need to be repeated. It is completed before the first LTC sale and must be from a Minnesota Department of Commerce-approved provider. The course is not part of the standard 24-hour CE renewal cycle — it stands alone as a pre-sale certification requirement.
 
-#### What the 8-Hour Course Covers
+### What the 8-Hour Course Covers
 
 Insurance producers are required to successfully complete training that has been approved by the Minnesota Department of Commerce. This training includes basic information about Medical Assistance (MA) eligibility and asset protection as it relates to the Long Term Care Partnership (LTCP). R Street Institute
 
@@ -42,13 +42,13 @@ LTC insurance products and policy structures: The course covers the types of LTC
 
 Consumer protection and suitability: The course addresses the producer's suitability obligations in LTC sales — assessing whether LTC insurance is appropriate for the prospective policyholder given their age, health, financial resources, and existing coverage. The course also covers the consumer protection disclosures required in LTC sales, including the Shopper's Guide to Long-Term Care Insurance.
 
-#### Completing the 8-Hour Course
+### Completing the 8-Hour Course
 
 The initial 8-hour course must be from an approved Department of Commerce provider. The course is available in multiple formats — online self-study, live classroom, and live webinar. The format requirements for LTC training differ from general CE requirements — the LTC training course completion is a certification requirement rather than a CE credit requirement, though the hours do count toward the producer's CE total.
 
 The exam requirement: LTC training courses include a completion exam that must be passed with a score of 70% or higher. This exam tests whether the producer has absorbed the course's content on MA eligibility, the Partnership program, and LTC product structures. The exam may require monitoring — verify with the specific provider whether their LTC course exam requires a proctor.
 
-### The Ongoing 4-Hour LTC Training Requirement
+## The Ongoing 4-Hour LTC Training Requirement
 
 Producers must then complete a 4-hour ongoing training requirement every 2 years following the initial completion of the 8-hour training. The training must be specific to MN Medicaid/Medical Assistance and its relationship to MN Partnership plans. Harrisonmcwilliams
 
@@ -58,13 +58,13 @@ The 24-month clock: After completing the initial requirement, producers must com
 
 The content of the 4-hour refresher: The ongoing training covers updates to Minnesota's Medical Assistance eligibility rules, changes to the Long-Term Care Partnership program, and any modifications to LTC insurance regulations or consumer protection requirements since the prior training. Because MA rules and Partnership program details change periodically through legislation and regulatory updates, the refresher ensures that producers who sell LTC maintain current knowledge of the program's most complex dimensions.
 
-#### How the 4-Hour Training Counts Toward CE
+### How the 4-Hour Training Counts Toward CE
 
 The 4-hour ongoing LTC training counts toward the producer's standard 24-hour biennial CE requirement. It is not 4 hours in addition to the 24 CE hours — it is 4 hours that can be applied toward the 24-hour total. A producer who completes the 4-hour LTC refresher and 20 additional CE hours (including 3 ethics) has satisfied both the LTC ongoing requirement and the standard CE renewal requirement with exactly 24 total hours.
 
 The timing challenge: Because the LTC training cycle (anchored to the initial training completion date) and the CE renewal cycle (anchored to the birth month) may not align, a producer must sometimes complete the 4-hour LTC refresher in a renewal period that does not coincide with their CE renewal. In that case, the 4 LTC hours contribute to the CE total for whichever biennial renewal period they fall within — the hours are applied to the period in which they are completed.
 
-### The Insurer Verification Obligation
+## The Insurer Verification Obligation
 
 Minnesota law imposes a specific obligation on LTC insurance carriers regarding producer training verification. Insurance companies must obtain verification that a producer has received the training required by this section before the producer is permitted to sell, solicit, or negotiate the insurer's long-term care insurance products. Insurers also must maintain records verifying that the producer has received the training contained in this section, and they must make that verification available to the commissioner upon request. Csuredi
 
@@ -74,7 +74,7 @@ What this means practically: Producers who intend to add LTC insurance to their 
 
 Record retention: The insurer maintains training verification records. Producers should also retain their own copies of LTC training certificates — both the initial 8-hour and each 4-hour refresher. If a carrier requests proof of current training and the producer cannot locate their certificate, the provider can typically reissue a duplicate certificate — but this takes time that may delay the ability to sell.
 
-### Non-Resident Producer LTC Training Requirements
+## Non-Resident Producer LTC Training Requirements
 
 Initial 8-hour LTC training requirement: Before selling, soliciting, or negotiating LTC insurance products in Minnesota, nonresident producers must complete an initial 8-hour NAIC LTC training course and a Minnesota-specific course or supplement. Minnesota State Specific LTC requirement: For non-residents who have completed the initial 8-hour LTC Partnership course in another state, they must take a 2-hour LTC training course, specific to Minnesota. Ullrich Insurance
 
@@ -84,7 +84,7 @@ Ongoing 4-hour LTC training requirement: After completing the 8-hour initial tra
 
 The ongoing 4-hour requirement applies to non-resident producers just as it does to resident producers. Non-resident producers who sell Minnesota LTC insurance must maintain current training regardless of their home state's LTC training status.
 
-### Minnesota Partnership for Long-Term Care: Why the Training Matters
+## Minnesota Partnership for Long-Term Care: Why the Training Matters
 
 The reason Minnesota imposes LTC training requirements that are more specific than most states is the complexity of the Minnesota Long-Term Care Partnership Program and its interaction with Medical Assistance. Producers who do not understand this interaction cannot explain LTC insurance to Minnesota consumers accurately.
 
@@ -94,7 +94,7 @@ An example: A Minnesota consumer purchases a partnership-qualified LTC policy wi
 
 Why producers need training to explain this accurately: The Partnership benefit interacts with MA eligibility rules in ways that require specific knowledge — which assets are exempt from MA spend-down regardless of the Partnership (homestead, vehicle, personal belongings), how the protected asset amount is calculated, what happens to the protected assets at the consumer's death (estate recovery rules), and whether partnership-qualified policies from other states provide protection in Minnesota. These are not intuitive concepts — they require the foundational knowledge that the 8-hour initial training provides.
 
-### Building LTC Training Into Your Practice Calendar
+## Building LTC Training Into Your Practice Calendar
 
 Complete the initial training before your first LTC conversation. The training must be completed before you sell, solicit, or negotiate — "solicit" includes discussing LTC insurance with a prospective client even before a formal application is submitted. The safest approach is to complete the 8-hour course before any LTC-related client conversation.
 
@@ -104,7 +104,7 @@ Align the ongoing training with your CE renewal when possible. If your 4-hour LT
 
 Verify carrier requirements at initial LTC appointment and at each refresher. Different LTC carriers may have specific requirements beyond the state minimum — carrier-specific product training in addition to the state LTC certification, or specific approved providers for the LTC training. When entering a new LTC carrier appointment, ask the carrier about their specific LTC training requirements rather than assuming the state minimum is sufficient.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed an 8-hour NAIC LTC training course in Wisconsin before moving to Minnesota. Do I need to take Minnesota's full 8-hour initial training again?
 

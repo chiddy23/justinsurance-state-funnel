@@ -14,7 +14,7 @@ imageAlt: "Colorado Workers' Compensation: Pinnacol Assurance, the Private Marke
 
 Colorado workers' compensation law is among the most employer-inclusive in the country. The coverage threshold is one or more employees — any employee, in any capacity, triggers the requirement. No state with a private workers' comp market has a lower threshold. For Colorado insurance producers who serve business clients, understanding how the workers' compensation market is structured — the role of Pinnacol Assurance, the competitive private market alongside it, how premiums are calculated, what benefits are required, and what happens when an employer fails to comply — is foundational knowledge for every commercial account conversation.
 
-### The Statutory Basis: Colorado Workers' Compensation Act
+## The Statutory Basis: Colorado Workers' Compensation Act
 
 Colorado's workers' compensation system operates under the Colorado Workers' Compensation Act, codified primarily in Title 8, Articles 40 through 47 of the Colorado Revised Statutes. The Act establishes workers' compensation as the exclusive remedy for employees injured in the course and scope of employment — meaning an injured employee cannot sue their employer in civil court for negligence if the employer maintains workers' comp coverage. The trade is straightforward: the employee gives up tort litigation rights; the employer provides no-fault coverage for all work-related injuries regardless of fault.
 
@@ -24,7 +24,7 @@ Colorado Division of Insurance (DORA DOI): Regulates the insurance carriers that
 
 Colorado Division of Workers' Compensation (CDWC): A division of the Colorado Department of Labor and Employment. Administers and enforces the Workers' Compensation Act, adjudicates disputed claims between injured workers and employers, enforces employer coverage requirements, and imposes penalties on employers who fail to maintain coverage. Individual workers' comp claims go to the CDWC — not the DOI.
 
-### The Employer Coverage Requirement
+## The Employer Coverage Requirement
 
 Threshold: 1 or more employees. Colorado requires workers' compensation coverage from the moment an employer has any employee — full-time, part-time, seasonal, temporary, or family member employed by the business. There is no minimum hours-per-week threshold, no minimum wage threshold, and no exemption for family employees who are on the payroll.
 
@@ -42,7 +42,7 @@ Casual workers — workers whose total labor for a single employer does not exce
 
 The practical implication: A contractor who hires a single helper — even for one day — has an employee for Colorado workers' comp purposes unless the helper qualifies as an independent contractor under the applicable test. Producers serving small construction contractors, landscaping businesses, and similar labor-intensive industries should treat every conversation about workers' comp coverage as a conversation about the one-employee threshold.
 
-### Penalties for Non-Coverage
+## Penalties for Non-Coverage
 
 Colorado takes employer non-compliance seriously. The penalty structure is among the most aggressive of any state with a competitive workers' comp market:
 
@@ -54,7 +54,7 @@ Business shutdown: The CDWC has authority to issue a stop-work order requiring t
 
 Criminal liability: Willful failure to obtain and maintain workers' comp coverage is a criminal offense in Colorado. Business owners who repeatedly operate without coverage or who deliberately misrepresent their payroll or employee count to reduce premiums can face criminal prosecution.
 
-### Pinnacol Assurance: Colorado's State-Chartered Insurer
+## Pinnacol Assurance: Colorado's State-Chartered Insurer
 
 Pinnacol Assurance is Colorado's state-chartered workers' compensation insurance company. It is not a monopolistic state fund — Colorado eliminated its prior state fund in 2000 and established Pinnacol as a separate, self-sustaining entity. Understanding Pinnacol's precise role is essential for producers, because it is one of the most commonly misunderstood structures in Colorado insurance:
 
@@ -68,7 +68,7 @@ Pinnacol's competitive presence: Beyond the insurer-of-last-resort function, Pin
 
 Pinnacol's limitation: Pinnacol covers only Colorado employees. For employers with workers in multiple states, Pinnacol must partner with insurers in those other states — typically at a premium cost increase. National carriers with multi-state capabilities may offer better overall pricing for employers with significant out-of-state workforce exposure.
 
-### The Private Market: Competitive Alongside Pinnacol
+## The Private Market: Competitive Alongside Pinnacol
 
 Colorado's private workers' compensation market is fully competitive. Any insurer licensed to write workers' compensation in Colorado may compete for Colorado employers. National carriers — Liberty Mutual, Travelers, Hartford, Zurich, The Hartford, and dozens of others — actively write Colorado workers' comp alongside Pinnacol.
 
@@ -76,7 +76,7 @@ The competitive dynamic: Private carriers compete on price, dividend programs, c
 
 The assigned risk pool: Colorado participates in NCCI's assigned risk pool — a mechanism for placing employers who cannot obtain coverage in the voluntary market through any insurer, including Pinnacol in cases where its capacity or operational focus does not accommodate them. NCCI manages the assigned risk pool as a residual market backstop.
 
-### How Premiums Are Calculated: The NCCI Framework
+## How Premiums Are Calculated: The NCCI Framework
 
 Colorado uses the National Council on Compensation Insurance (NCCI) as its advisory rating organization. NCCI collects workers' compensation claims data from insurers nationwide, calculates loss costs by industry classification, and files those loss costs with the Colorado DOI annually. The Commissioner reviews the filing, engages an independent actuarial firm (The Davies Group has served in this role for recent filings), holds a public hearing, and approves the loss costs.
 
@@ -94,7 +94,7 @@ Experience modification factor (e-mod): The e-mod compares a specific employer's
 
 Premium audit: Workers' comp policies are written on estimated payroll and adjusted at the end of the policy period through a premium audit. Actual payroll is compared to the estimate — if actual payroll was higher, the employer owes additional premium; if lower, the employer receives a return. Producers should prepare business clients for the audit process, including maintaining accurate payroll records by classification code throughout the year.
 
-### Benefits Required Under Colorado Workers' Compensation
+## Benefits Required Under Colorado Workers' Compensation
 
 Colorado's workers' comp benefits are defined by statute — they are not negotiable and are not subject to coverage limits in the traditional insurance sense. Every policy must provide the full statutory benefit structure:
 
@@ -116,7 +116,7 @@ Vocational rehabilitation: Colorado requires vocational rehabilitation services 
 
 Death benefits: If an employee dies from a work-related injury or disease, Colorado provides death benefits to surviving dependents — two-thirds of the deceased worker's average weekly wage, subject to the maximum, paid to qualifying dependents. Burial expenses are also covered up to a statutory maximum.
 
-### The Exclusive Remedy and Employers' Liability
+## The Exclusive Remedy and Employers' Liability
 
 Workers' compensation is the exclusive remedy for work-related injuries under Colorado law — an injured employee covered by workers' comp cannot sue the employer in civil court for negligence arising from the same work injury. This is the fundamental bargain of the workers' comp system: guaranteed, no-fault benefits for the employee in exchange for immunity from tort litigation for the employer.
 
@@ -132,7 +132,7 @@ Suits by dual-capacity claims (where the employer is also the product manufactur
 
 Part Three (Other States Insurance): Extends Part One coverage to employees who work temporarily in other states not listed in the policy declarations. Critical for Colorado employers whose workers periodically travel to other states for project work.
 
-### What Producers Need to Know for Client Conversations
+## What Producers Need to Know for Client Conversations
 
 The one-employee trigger conversation: Every small business client — sole proprietors who hire even a part-time helper, homebuilders who use subcontractors, retail shops with a single part-time employee — needs to understand that Colorado's one-employee threshold means coverage is required from the first hire. The most common workers' comp compliance failure among small businesses is the employer who does not realize the coverage obligation has triggered.
 
@@ -142,7 +142,7 @@ The e-mod impact on premium: Producers who help clients understand that every cl
 
 Pinnacol vs. private market placement: Pinnacol is not always the right choice — and it is not always the wrong choice. For preferred-risk employers with strong safety records, the private market may offer lower rates. For employers with poor loss histories, Pinnacol's insurer-of-last-resort obligation ensures availability. The producer's value is in obtaining quotes from both Pinnacol and competitive private carriers and presenting the comparison transparently.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If a Colorado employer uses only independent contractors and no employees, is workers' compensation required?
 

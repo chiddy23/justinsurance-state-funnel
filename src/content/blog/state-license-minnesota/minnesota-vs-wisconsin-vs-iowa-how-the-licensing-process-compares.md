@@ -14,7 +14,7 @@ imageAlt: "Minnesota vs. Wisconsin vs. Iowa: How the Licensing Process Compares"
 
 Minnesota, Wisconsin, and Iowa share borders and producers — agents who live near the state line routinely serve clients in two or three states simultaneously, and producers who relocate between these states face licensing transitions that are easier to navigate when they understand exactly how each state's requirements differ from the others. This post compares the licensing process across all three states across every dimension that matters to a working producer: [prelicensing](/minnesota/prelicensing) education, exam administration, application and fingerprinting, CE requirements, renewal rules, reinstatement, and what reciprocity looks like when crossing between these three markets.
 
-### The Fundamental Difference: Prelicensing Education
+## The Fundamental Difference: Prelicensing Education
 
 The single largest structural difference between these three states is their approach to prelicensing education — and the contrast is dramatic.
 
@@ -26,7 +26,7 @@ Iowa: Iowa requires no prelicensing education whatsoever. It is one of a small n
 
 This difference has significant practical implications. A candidate who wants to enter insurance in Iowa can schedule their Pearson VUE exam without any preliminary coursework — they may walk in unprepared, which contributes to lower first-attempt [pass rates](/pass-rates) in states without prelicensing requirements. A Minnesota or Wisconsin candidate must invest 20 hours in coursework before the exam clock even starts. For a producer relocating between these states, the prelicensing requirement (or absence of one) is one of the first factors to assess.
 
-### Exam Administration: Different Vendors, Different Logistics
+## Exam Administration: Different Vendors, Different Logistics
 
 All three states use recognized national testing vendors — but not the same one.
 
@@ -36,7 +36,7 @@ Wisconsin: PSI also administers Wisconsin's insurance licensing exams. PSI call 
 
 Iowa: Pearson VUE (now Pearson Professional Assessments) administers Iowa's insurance licensing exams — a different vendor from both Minnesota and Wisconsin. Schedule at pearsonvue.com/ia/insurance or call (877) 540-5825. Exam fee: $49 per exam. Remote testing via OnVUE — candidates get only one remote attempt; all subsequent attempts must be in person at a Pearson VUE test center, which is a notable restriction not found in Minnesota or Wisconsin. Exam results are valid for only 90 days — the shortest window of the three states. A candidate who passes the Iowa exam must submit their license application within 90 days or the results expire and they must retake the exam.
 
-### Fingerprinting and Background Checks
+## Fingerprinting and Background Checks
 
 All three states now require fingerprinting — but the timeline and vendor differ.
 
@@ -46,7 +46,7 @@ Wisconsin: Fingerprinting for unlicensed applicants through Fieldprint Wisconsin
 
 Iowa: Effective June 2, 2025, Iowa began requiring fingerprinting and criminal history background checks for resident producer applicants. Iowa uses Fieldprint with Iowa Fieldprint code FPIADOI. This is a recent requirement — producers who obtained their Iowa license before June 2, 2025 were not fingerprinted at initial licensing, though new applicants and renewals post-June 2025 are subject to the new requirement. Iowa uses Fieldprint, not PSI, for fingerprinting.
 
-### Application: Fees and Timing
+## Application: Fees and Timing
 
 All three states accept applications through NIPR, but fee structures differ.
 
@@ -56,7 +56,7 @@ Wisconsin: License application must be submitted through NIPR. Wisconsin require
 
 Iowa: Application must be submitted within 90 days of passing the exam — no exceptions and no extensions. This 90-day window is the tightest of the three states and is driven by Iowa's short exam result validity period. Iowa's application fee structure should be confirmed through NIPR; total government fees for both P&C lines are approximately $222.35 based on verified 2026 data.
 
-### Continuing Education: Three Different Frameworks
+## Continuing Education: Three Different Frameworks
 
 The CE structures of Minnesota, Wisconsin, and Iowa differ in total hours, renewal period length, and the classroom requirement — creating meaningfully different ongoing obligations.
 
@@ -66,7 +66,7 @@ Wisconsin: 24 hours every 2 years, including 3 hours of ethics. Wisconsin does n
 
 Iowa: 36 hours every 3 years, including 3 hours of ethics. Iowa requires 18 of those 36 hours to be completed in a classroom setting — not online. This in-person classroom requirement is significantly more restrictive than Minnesota's (which allows online for at least half the hours) and Wisconsin's (which allows online with proctored exams). Iowa's 3-year renewal cycle is longer than both Minnesota and Wisconsin's 2-year cycles, which means producers manage fewer renewals over a career but must plan for a larger single-period CE obligation. Renewal deadline: last day of birth month, triennial.
 
-### Reinstatement After Lapse
+## Reinstatement After Lapse
 
 All three states provide a reinstatement window for lapsed licenses, with differences in requirements.
 
@@ -78,25 +78,25 @@ Iowa: Reinstatement available up to 1 year after the expiration date. After 1 ye
 
 All three states have a hard cutoff at approximately 12 months — the most consequential date for any producer who has missed a renewal.
 
-### Relocation Between States: What Changes
+## Relocation Between States: What Changes
 
-#### From Minnesota to Wisconsin
+### From Minnesota to Wisconsin
 
 A producer relocating from Minnesota to Wisconsin can transfer their resident license without completing Wisconsin prelicensing or taking the Wisconsin state exam, provided they apply for the Wisconsin resident license within one year of surrendering or allowing their Minnesota resident license to become inactive. Documentation of the prior Minnesota license is required. This generous transfer window is longer than Iowa's 90-day window and reflects Wisconsin's recognition of Minnesota's comparable licensing standards.
 
-#### From Minnesota to Iowa
+### From Minnesota to Iowa
 
 Iowa allows producers relocating from other states to transfer their resident license within 90 days of surrendering the prior resident license without retaking Iowa's licensing exams. Given that Iowa has no prelicensing requirement of its own, this primarily means exam exemption — the relocating Minnesota producer applies through NIPR, pays Iowa's fees, completes fingerprinting through Fieldprint, and receives the Iowa resident license without sitting for the Iowa Pearson VUE exam.
 
-#### From Wisconsin to Minnesota
+### From Wisconsin to Minnesota
 
 Wisconsin producers relocating to Minnesota can obtain a Minnesota resident license without completing Minnesota's 20-hour prelicensing or taking the Minnesota PSI exam, provided they apply for the Minnesota resident license within 90 days of the Wisconsin resident license going inactive. Fingerprinting through PSI and the Minnesota application fee are still required.
 
-#### From Iowa to Minnesota
+### From Iowa to Minnesota
 
 Iowa producers relocating to Minnesota have the same 90-day window — apply for a Minnesota resident license within 90 days of the Iowa license going inactive and no Minnesota prelicensing or exam is required. The absence of Iowa prelicensing does not affect this — the exemption is based on the active Iowa license, not on what that license required to obtain.
 
-### Non-Resident Licensing Across the Three States
+## Non-Resident Licensing Across the Three States
 
 Producers who want to serve clients across state lines without establishing new residency apply for non-resident licenses. All three states participate in NIPR's electronic licensing system and have reciprocity with each other, meaning:
 
@@ -106,7 +106,7 @@ A Wisconsin producer serving Minnesota clients needs a Minnesota non-resident li
 
 An Iowa producer serving Minnesota and Wisconsin clients follows the same process — non-resident applications through NIPR for each state, no prelicensing or exam in the non-home states, CE remains with Iowa under Iowa's 36-hour triennial framework.
 
-### The Bottom Line: Choosing Your Entry State
+## The Bottom Line: Choosing Your Entry State
 
 The structural differences between these three states create practical implications for producers who have a choice about where to establish their primary license:
 
@@ -116,7 +116,7 @@ Wisconsin has a similar structure to Minnesota with the important difference tha
 
 Iowa offers the fastest path to a license from a regulatory standpoint — no required prelicensing education means a motivated candidate can study independently and sit for the Pearson VUE exam on their own timeline. However, the 90-day exam result validity window creates pressure to apply quickly, the single remote exam attempt rule restricts flexibility, and the 36-hour triennial CE requirement with 18 mandatory in-person hours is the most demanding ongoing obligation of the three states.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I hold a Minnesota license and want to add Wisconsin and Iowa non-resident licenses. Do I need to take any additional exams?
 

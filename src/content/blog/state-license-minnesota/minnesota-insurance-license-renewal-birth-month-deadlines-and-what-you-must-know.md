@@ -14,7 +14,7 @@ imageAlt: "Minnesota Insurance License Renewal: Birth Month Deadlines and What Y
 
 Minnesota insurance producer licenses do not renew on a fixed calendar date shared by all licensees. Each producer's renewal deadline is personal — tied to their birth month, occurring biennially. This individualized renewal structure means that a producer born in March renews at the end of March every two years, while a producer born in October renews at the end of October every two years. The deadline is non-negotiable, there is no grace period, and the consequences of missing it range from a modest penalty fee within 12 months to full relicensing requirements after 12 months. This post covers everything a Minnesota producer needs to know about the renewal system — how the deadline is calculated, what the renewal requires, how to submit it, what it costs, what happens when it is missed, and the practical habits that prevent renewal problems before they develop.
 
-### How the Minnesota Renewal Deadline Works
+## How the Minnesota Renewal Deadline Works
 
 The biennial birth month system: Minnesota producer licenses renew on the last day of the licensee's birth month, every two years. The specific years in which renewal falls depend on when the license was originally issued. A producer who received their initial license in an odd-numbered year will renew in odd-numbered years; a producer licensed in an even-numbered year renews in even-numbered years. The Department of Commerce tracks each producer's renewal cycle from the date of initial licensure.
 
@@ -26,11 +26,11 @@ Example timelines:
 
 Identifying your specific renewal year: Log in to the Minnesota Department of Commerce licensing portal at mn.gov/commerce and access your producer license record. Your license record shows the expiration date — the last day of your birth month in your renewal year. This date is your definitive renewal deadline. If you are uncertain whether you renew this year or the following year, the license record is the authoritative source.
 
-### What Renewal Requires: The Complete Checklist
+## What Renewal Requires: The Complete Checklist
 
 License renewal is not simply paying a fee. It requires satisfying all four of the following conditions simultaneously before or by the renewal deadline:
 
-#### Condition 1: Complete All Required CE
+### Condition 1: Complete All Required CE
 
 Minnesota producers must complete 24 hours of CE during the biennial renewal period, including:
 
@@ -46,7 +46,7 @@ Verify your CE transcript before applying. Log in to the Department's portal and
 
 Specialty CE obligations: If you hold obligations beyond the standard 24-hour requirement — the LTC 5-hour biennial refresher or annuity suitability training — those specialty requirements must also be completed before renewal. They are conditions of renewal, not optional additions.
 
-#### Condition 2: Submit the Renewal Application
+### Condition 2: Submit the Renewal Application
 
 The renewal application is submitted electronically through NIPR (nipr.com) or Sircon (sircon.com) — the same platforms used for initial licensing. Paper renewal applications are not accepted.
 
@@ -66,7 +66,7 @@ Review the total renewal fee and complete payment
 
 The renewal is not automatic. The Department does not renew licenses without a producer action. No renewal application submitted means no renewal — the license lapses regardless of whether CE is complete.
 
-#### Condition 3: Pay the Renewal Fee
+### Condition 3: Pay the Renewal Fee
 
 Standard renewal fee: $50 per license plus a $30 technology surcharge, totaling $80 per renewal period for a standard individual producer license. Payment is by credit card or debit card through the NIPR or Sircon portal at the time of the renewal application submission.
 
@@ -74,11 +74,11 @@ Multiple lines of authority: The $80 renewal fee covers the complete license reg
 
 Payment is required at submission. The renewal application is not processed without payment. A renewal application that is submitted without successful payment completion is not a completed renewal.
 
-#### Condition 4: Resolve Any Outstanding Compliance Issues
+### Condition 4: Resolve Any Outstanding Compliance Issues
 
 If the Department of Commerce has any open compliance issues associated with your license — outstanding disciplinary matters, pending investigations, or unresolved regulatory actions — the renewal may not be processed until those matters are addressed. Producers who receive any Department correspondence regarding compliance matters should address them promptly and well before the renewal deadline. Attempting to renew with unresolved compliance issues may result in delayed processing or a conditional renewal.
 
-### The 90-Day Early Renewal Window
+## The 90-Day Early Renewal Window
 
 Minnesota allows producers to submit their renewal application up to 90 days before the license expiration date. For a producer whose license expires on March 31, the early renewal window opens on January 1 of the renewal year.
 
@@ -94,7 +94,7 @@ When early renewal makes strategic sense: A producer whose birth month is Januar
 
 Renewing early does not shorten the next renewal period. Renewing 90 days before the deadline does not reset the renewal cycle — the next renewal deadline remains two years from the original expiration date, not two years from the early renewal submission date. Early renewal is a timing convenience, not a structural change to the renewal cycle.
 
-### Processing Timeline After Submission
+## Processing Timeline After Submission
 
 Minnesota does not instantly activate license renewals at the moment of application submission. The Department processes renewal applications within approximately 10 business days of submission.
 
@@ -104,7 +104,7 @@ Confirmation: Once processed, the renewed license appears in the Department's li
 
 Department communication: The Department does not proactively notify producers when their renewal is processed. The producer is responsible for confirming their renewal status through the portal.
 
-### Renewal Reminders: What the Department Does and Does Not Do
+## Renewal Reminders: What the Department Does and Does Not Do
 
 The Department does not guarantee renewal reminders. Minnesota producers are responsible for tracking their own renewal deadlines. The Department may send courtesy reminders through the email address on file with the licensing system, but these reminders are not guaranteed, are not individually personalized, and do not constitute notice of renewal obligations.
 
@@ -114,7 +114,7 @@ NIPR renewal alerts: NIPR sends renewal reminder notifications to producers who 
 
 Producer responsibility: The legal obligation to renew rests entirely with the producer. Whether or not a reminder was received is not a defense against a lapsed license. Build your own renewal tracking system — a calendar reminder set 90 days before your renewal deadline is the most reliable personal reminder mechanism.
 
-### What Happens If You Miss the Renewal Deadline
+## What Happens If You Miss the Renewal Deadline
 
 Immediate lapse: The license lapses on the day after the renewal deadline without any grace period. A producer born in June whose license expires June 30 has a lapsed license as of July 1 if renewal was not completed by June 30.
 
@@ -132,7 +132,7 @@ No new [prelicensing](/minnesota/prelicensing), no new PSI exam, and no new fing
 
 After 12 months — full relicensing: If the 12-month reinstatement window closes without reinstatement, the producer must apply for a new license as a first-time applicant — completing prelicensing education, passing the PSI state exam, completing fingerprinting, and paying the full initial application fee. All CE credits from before the lapse are forfeited and the CE cycle resets. This is the most consequential outcome of a missed renewal and one that is entirely preventable.
 
-### Renewal for Producers Holding Multiple Lines
+## Renewal for Producers Holding Multiple Lines
 
 A Minnesota producer who holds multiple lines of authority — for example, Property, Casualty, Life, and A&H — has a single license that encompasses all lines. The renewal deadline, renewal fee, and CE requirement apply to the entire license as a unit.
 
@@ -140,13 +140,13 @@ CE course coverage for multiple lines: When a producer holds multiple lines, the
 
 Renewal applies to all lines simultaneously: Renewing the license renews all lines of authority on the license at once. There is no separate renewal for each line — the single renewal application and single renewal fee cover the complete license regardless of how many lines it contains.
 
-### Renewal for Producers Who Have Added Lines During the Renewal Period
+## Renewal for Producers Who Have Added Lines During the Renewal Period
 
 A producer who added a line of authority partway through a renewal period — for example, adding Life authority to a P&C license 14 months before the renewal deadline — does not receive a separate renewal date for the added line. The added line merges into the existing license's renewal schedule. The entire license renews on the same deadline, and the CE requirement covers all lines including those added during the period.
 
 CE for recently added lines: A producer who added a line with 14 months remaining in the renewal period has less time to complete CE for that new line than for the lines held at the start of the period. The CE requirement does not adjust proportionally for mid-period additions — the full renewal CE requirement applies at the next renewal deadline regardless of when lines were added. Plan CE for newly added lines immediately after adding them rather than waiting until the standard CE planning timeline.
 
-### Non-Resident License Renewal
+## Non-Resident License Renewal
 
 Minnesota non-resident producer licenses also renew — but the renewal obligation is structured differently from resident renewals.
 
@@ -156,7 +156,7 @@ Renewal application and fee: Non-resident renewal is submitted through NIPR with
 
 Home state license must remain active: If the producer's home state license lapses or is revoked, the Minnesota non-resident license is affected — Minnesota can take corresponding action. Non-resident producers must maintain their home state license in good standing as the foundation of their Minnesota non-resident authority.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I know my birth month is November, but I am not sure whether I renew this November or next November. How do I confirm which year I renew?
 

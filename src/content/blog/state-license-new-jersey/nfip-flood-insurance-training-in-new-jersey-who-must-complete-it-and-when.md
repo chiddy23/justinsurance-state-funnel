@@ -14,13 +14,13 @@ imageAlt: "NFIP Flood Insurance Training in New Jersey: Who Must Complete It and
 
 New Jersey has more NFIP-participating municipalities than almost any state in the country — 549 out of 566 total municipalities participate in the National Flood Insurance Program. That is not a coincidence. The state's extensive coastline, its proximity to the Atlantic, and its dense concentration of coastal and flood-prone communities make flood insurance one of the most practically important products a New Jersey Property and Casualty producer can offer. It is also one of the few insurance products in NJ that comes with its own federal training mandate layered on top of the state's CE rules — and producers who sell flood coverage without completing that training are out of compliance on two levels simultaneously.
 
-### The Federal Mandate Behind the NJ Requirement
+## The Federal Mandate Behind the NJ Requirement
 
 The NFIP flood insurance training requirement originates at the federal level. Section 207 of the Flood Insurance Reform Act of 2004 (Public Law 108-264) directed FEMA, in cooperation with state insurance regulators and the insurance industry, to establish minimum training and education requirements for all producers who sell flood insurance policies under the NFIP. FEMA established the minimum standard; states implement and enforce it through their CE systems.
 
 New Jersey implemented this requirement through DOBI as a condition of NFIP participation and producer authority to write flood coverage. Non-compliance does not just create a CE gap — it can jeopardize a producer's authority to write flood policies through the NFIP entirely.
 
-### Who Is Required to Complete Flood Training in New Jersey
+## Who Is Required to Complete Flood Training in New Jersey
 
 The flood training requirement applies to:
 
@@ -30,7 +30,7 @@ Personal Lines producers who sell flood insurance policies.
 
 The requirement does not apply to Life or Accident and Health producers who do not hold a Property, Casualty, or Personal Lines authority and do not write flood coverage. If you hold a P&C or Personal Lines license and intend to offer any NFIP policy — even as an incidental add-on to a homeowners sale — the training requirement applies to you.
 
-### The Requirement: One-Time, 3 Hours
+## The Requirement: One-Time, 3 Hours
 
 New Jersey's NFIP flood training requirement is a one-time, 3-hour certification course that must be completed before a producer sells flood insurance policies. Unlike the LTC requirement (which has ongoing components every 24 months) or the Annuity Best Interest requirement (which had an update obligation in 2025), the flood training is a true one-time prerequisite. Once completed, it does not need to be repeated.
 
@@ -38,7 +38,7 @@ The 3 hours count toward your general 24-hour biennial CE requirement for the re
 
 Note on timing: Unlike some state-specific requirements, New Jersey's flood training requirement is attached to the first license renewal following initial licensure, not strictly to the first flood sale. Producers who are newly licensed and intend to sell flood insurance should complete the training before their first sale regardless of where they are in their renewal cycle. DOBI-approved flood training courses are widely available and can typically be completed within a few hours.
 
-### What the 3-Hour Course Covers
+## What the 3-Hour Course Covers
 
 The NFIP flood training course is designed to give Property and Casualty producers a working knowledge of flood insurance mechanics, FEMA flood maps, and the NFIP policy structure. Core content areas include:
 
@@ -54,19 +54,19 @@ Claims handling — the claims process under the NFIP, the role of the adjuster,
 
 The Flood Insurance Reform Act of 2004 — the federal legislative framework behind the training requirement and the producer's obligations under it.
 
-### New Jersey's Flood Risk Context
+## New Jersey's Flood Risk Context
 
 Understanding why this training matters in New Jersey requires no imagination — Superstorm Sandy in 2012 caused over $36 billion in insured losses in NJ alone, with flood damage accounting for the vast majority. Today, 549 New Jersey municipalities participate in the NFIP, and many coastal communities in Ocean, Monmouth, Atlantic, Cape May, and Hudson counties have significant concentrations of NFIP-eligible properties.
 
 For a P&C producer working in any coastal or waterway-adjacent market in New Jersey — and that describes much of the state — flood insurance is not a niche product. It is a core component of a complete homeowners or commercial property conversation. Producers who understand NFIP mechanics, can read a FIRM map, and can explain what the SFIP covers and does not cover provide materially better client service than those who treat flood as a pass-through transaction.
 
-### How the Training Counts Toward CE
+## How the Training Counts Toward CE
 
 The 3-hour NFIP flood training course counts toward the general 24-hour CE requirement for the renewal period in which it is completed. It is typically taken as an online self-study course — counting as 3 of your 12 allowable self-study hours — though some providers offer it in classroom or webinar format as well.
 
 No ongoing renewal of the flood training is required by DOBI. Once the 3-hour course is complete and on file, your flood training obligation is satisfied for the life of your license.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Do I need to complete the NFIP flood training before writing my first flood policy in New Jersey?
 
@@ -100,13 +100,13 @@ Primary Keyword: New Jersey insurance ethics CE requirement
 
 Ethics CE in New Jersey is simultaneously the smallest and the most non-negotiable component of the 24-hour renewal requirement. Three hours — embedded within your total, not added on top — must come from approved ethics or consumer protection courses. That sounds straightforward. But New Jersey has specific rules about what counts toward the ethics hours, what can substitute for one of them, and critically, that ethics hours cannot be carried over to future renewal periods even when other excess hours can. Getting the ethics component right is not just about checking a box — it is about making sure the one CE category that NIPR specifically verifies before approving your renewal application is fully satisfied on time.
 
-### The Baseline Requirement
+## The Baseline Requirement
 
 Under N.J.A.C. 11:17-3.6, every resident individual insurance producer with a major line of authority must complete three credit hours of ethics or consumer protection CE per biennial renewal period. These three hours are included in the 24-hour total — they do not add to it. If you complete 24 CE hours with only 2 ethics hours, you have not satisfied the requirement even though your total hours are correct.
 
 The ethics requirement applies equally regardless of which line of authority you hold. Life producers, P&C producers, and Personal Lines producers all owe the same 3 ethics hours per renewal period.
 
-### The Fraud Substitution: One Hour
+## The Fraud Substitution: One Hour
 
 Effective June 19, 2023, New Jersey allows one of the three ethics credit hours to be substituted with one credit hour related to insurance fraud. This means your ethics obligation can be satisfied through a combination of two hours of traditional ethics content and one hour of an approved insurance fraud awareness course.
 
@@ -114,7 +114,7 @@ This substitution was codified in the NJ Administrative Code and applies to all 
 
 What this means practically: A producer who wants to diversify their ethics credit can complete a 2-hour ethics course and a 1-hour insurance fraud course to fully satisfy the 3-hour ethics requirement. Alternatively, a single 3-hour DOBI-approved ethics course remains a perfectly valid way to satisfy the full requirement.
 
-### What Qualifies as Ethics CE
+## What Qualifies as Ethics CE
 
 DOBI approves specific courses for ethics CE credit. Approved ethics content includes:
 
@@ -128,25 +128,25 @@ Insurance fraud awareness — fraud detection, the producer's reporting obligati
 
 What does not qualify as ethics CE: general insurance product knowledge, sales techniques, motivation content, computer skills, or business development — regardless of how these are framed by a course provider.
 
-### The Non-Carryover Rule for Ethics Hours
+## The Non-Carryover Rule for Ethics Hours
 
 Ethics credit hours earned in excess of three cannot be carried over to the next renewal period — even though other excess CE hours (up to 12) can now be carried forward under the June 2023 rule change. If you complete 6 hours of ethics CE in one renewal period, the additional 3 ethics hours simply expire at the end of that period. They do not count as general CE credits in the next renewal and cannot be banked.
 
 The practical implication: there is no benefit to over-completing your ethics requirement. Complete exactly 3 hours — or slightly over if a course runs to a round number — and allocate your remaining CE time to other approved topics.
 
-### Delivery Format for Ethics CE
+## Delivery Format for Ethics CE
 
 Ethics CE can be completed in either classroom/classroom-equivalent format or self-study format. There is no delivery format requirement specific to ethics hours — they can come from either the live or self-study bucket. However, if you choose to complete your ethics hours through a self-study course, the standard NJ self-study rules apply: forced progression through course content, closed-book final exam, 70% passing score, and a disinterested third-party proctor.
 
 Many producers choose to complete their ethics hours through a live webinar because it simultaneously satisfies both the ethics content requirement and a portion of the 12-hour classroom minimum — a two-for-one efficiency that simplifies the overall CE plan.
 
-### Why Ethics CE Matters Beyond Compliance
+## Why Ethics CE Matters Beyond Compliance
 
 The topics covered in NJ ethics CE are not academic abstractions. They map directly to the grounds for license suspension and revocation under the NJ Insurance Producer Licensing Act. Misrepresentation, rebating, unfair discrimination, commingling funds, forging signatures, and failing to act in the client's interest are all grounds for disciplinary action — and all topics that properly designed ethics CE courses address.
 
 For producers who sell to vulnerable populations — seniors purchasing annuities, Medicare supplement policies, or long-term care insurance — the ethical obligations covered in CE are especially operationally relevant. NJ's insurance fraud unit (the Office of Insurance Fraud Prosecutor) actively investigates complaints involving producer misconduct, and producers who understand the boundaries are better protected from unintentional violations as well as deliberate misconduct.
 
-### Building Ethics CE Into Your Renewal Plan
+## Building Ethics CE Into Your Renewal Plan
 
 The most efficient approach is to complete your 3 ethics hours early in your renewal period through a live webinar — knocking out both ethics content and classroom credit simultaneously. This eliminates any risk of scrambling to find ethics-specific courses near your renewal deadline, when course availability may be limited.
 
@@ -158,7 +158,7 @@ Complete the remaining 21 general CE hours (9 more classroom, 12 self-study) ove
 
 Result: 24 total hours, 3 ethics, 12 classroom — fully compliant
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I satisfy my NJ ethics CE requirement with any approved CE course that mentions ethics, or does it need to be a dedicated ethics course?
 

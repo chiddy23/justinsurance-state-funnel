@@ -14,13 +14,13 @@ imageAlt: "Insurance Agent Salary in Virginia: What You Can Realistically Earn b
 
 Virginia's insurance compensation landscape is one of the most bifurcated in the country. The Alexandria/Arlington corridor — the heart of Northern Virginia — has a mean annual wage of $102,380 across all occupations and a median of $81,620, making it comparable to the highest-wage metros in the United States. Hampton Roads and Richmond operate at meaningfully lower but still solid compensation levels. And the western and southwestern regions of Virginia — the Shenandoah Valley and Southwest Virginia — track close to national medians. For insurance producers, these regional differences translate directly into what per-client premium volume looks like, what types of accounts are available, and what realistic first-year, five-year, and career income trajectories look like in each part of the state.
 
-### What the Data Shows: Virginia Insurance Agent Compensation
+## What the Data Shows: Virginia Insurance Agent Compensation
 
 As with any commissioned profession, salary data for insurance agents varies substantially depending on the source and what compensation model it captures:
 
 The wide spread reflects the compensation model more than measurement inconsistency. A salaried service representative at a captive carrier in Richmond looks nothing like an independent commercial lines producer in Tysons with a $4 million book. Both are "insurance agents in Virginia." The relevant question is not what the average is — it is which segment you are building toward.
 
-### Virginia's Regional Income Divide
+## Virginia's Regional Income Divide
 
 Virginia's economic geography is unusually bifurcated, and this directly shapes producer income potential:
 
@@ -32,7 +32,7 @@ Hampton Roads (Virginia Beach, Norfolk, Chesapeake, Newport News, Hampton): The 
 
 Other Regions (Shenandoah Valley, Southwest Virginia, Roanoke, Lynchburg): West Piedmont averages $51,130 mean annual wage across all occupations — roughly 30% below the Northern Virginia mean. Insurance producers in rural and small-city Virginia earn commensurately less in absolute terms, but cost of living is proportionally lower. Niche opportunities exist in agricultural insurance, rural commercial lines, and community-based personal lines markets.
 
-### Income by Line of Authority in Virginia
+## Income by Line of Authority in Virginia
 
 Commercial Property & Casualty is the highest-earning segment in Virginia, as in most states. Northern Virginia's concentration of defense contractors and technology firms creates particularly high-premium commercial accounts — cyber liability, professional liability, D&O, workers' compensation, and commercial property for high-security facilities. Glassdoor's Virginia insurance industry median of $76,857 primarily reflects P&C and multi-line producers.
 
@@ -40,11 +40,11 @@ Life, Annuities & Health rewards producers who develop the military transition a
 
 Employee Benefits is exceptionally valuable in Northern Virginia, where government contractors compete for talent with premium benefits packages. A benefits producer managing group health, dental, vision, disability, and 401(k) advisory for a 200-person defense contractor in Reston has a relationship worth tens of thousands in annual commission.
 
-### The Captive vs. Independent Divide
+## The Captive vs. Independent Divide
 
 Captive agents (working with a single carrier) in Virginia earn $35,000–$55,000 in the first years with base salary plus commissions. Independent producers build ownership in their book over time and eventually earn primarily from renewal commissions — the compounding income mechanism that drives the wide range between Salary.com's $58,000 average and Glassdoor's $141,974. The typical independent commercial lines producer in Virginia with 7–10 years of experience and a $3 million–$5 million book earns $100,000–$180,000 annually from renewal income alone, before new business commissions.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the realistic income expectation for a first-year Virginia insurance producer?
 

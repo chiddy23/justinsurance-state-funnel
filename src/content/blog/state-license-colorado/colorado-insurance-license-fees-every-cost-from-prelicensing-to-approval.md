@@ -14,9 +14,9 @@ imageAlt: "Colorado Insurance License Fees: Every Cost From Prelicensing to Appr
 
 One of the first practical questions every Colorado insurance license candidate asks is how much the whole process costs. The honest answer is that the total depends on which line of authority you pursue, how many attempts you need on the exam, and which [prelicensing](/colorado/prelicensing) provider you choose. But the state-set fees — the exam fee, the application fee, the NIPR transaction fee — are fixed, published, and do not vary by provider. This post breaks down every cost a Colorado license candidate will encounter from prelicensing enrollment through license issuance, with no hidden items.
 
-### Complete Fee Breakdown by Stage
+## Complete Fee Breakdown by Stage
 
-#### Stage 1: Prelicensing Education
+### Stage 1: Prelicensing Education
 
 The prelicensing course fee is set by each approved provider — it is not a state fee. Typical market rates in 2025:
 
@@ -24,21 +24,21 @@ Price differences between providers primarily reflect included features: [practi
 
 There is no state fee for prelicensing course enrollment. The cost is entirely between you and the approved provider.
 
-#### Stage 2: Pearson VUE State Exam
+### Stage 2: Pearson VUE State Exam
 
 The exam fee is paid at time of scheduling, by credit card, debit card, voucher, or electronic check. Electronic check payments require scheduling at least 5 days in advance (compared to 1 business day for card payments). Fees are non-refundable if you fail to appear for a scheduled exam without canceling at least 48 hours in advance.
 
 The combined Property + Casualty session advantage: Colorado allows candidates to take both the Property exam (75 scored questions, 120 min) and the Casualty exam (81 scored questions, 120 min) in a single session at a physical Pearson VUE test center for a single $47 fee. This saves $47 compared to scheduling each exam separately. Remote testing via OnVUE does not offer this combined option.
 
-#### Stage 3: License Application
+### Stage 3: License Application
 
 Per-line application fees apply. A candidate applying for Life and Accident & Health as two separate lines pays $94 in application fees (or $94 + $5.60 via NIPR). A candidate applying for Property and Casualty as two separate lines also pays $94 (or $99.60 via NIPR).
 
-### Total Cost Scenarios
+## Total Cost Scenarios
 
 Add $47 per additional exam attempt if a retake is needed.
 
-### Ongoing Costs After Licensing
+## Ongoing Costs After Licensing
 
 Once licensed, Colorado producers face recurring costs:
 
@@ -66,13 +66,13 @@ LTC initial training: 16 hours — typically $75 – $150
 
 Carrier appointments: Carrier appointments are filed by the carrier, not the producer, and the appointment fee (if any) is typically absorbed by the carrier. Some carriers may pass appointment fees to producers under certain compensation structures — confirm this with each carrier.
 
-### What Colorado Does Not Charge For
+## What Colorado Does Not Charge For
 
 Colorado's licensing process has no fingerprinting fee — unlike New Jersey (~$66.05 IdentoGO fee) and Virginia (~$34.95 Fieldprint fee), Colorado does not require fingerprinting at any stage. This removes one cost item and one scheduling dependency that candidates in other states must manage.
 
 There is also no [continuing education](/colorado/continuing-education) roster fee in Colorado — CE providers report course completions to the state without an additional charge to the producer.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Is the $47 application fee per line, or a flat fee regardless of how many lines I apply for?
 

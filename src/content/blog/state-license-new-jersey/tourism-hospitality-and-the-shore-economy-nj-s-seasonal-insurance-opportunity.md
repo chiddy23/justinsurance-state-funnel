@@ -14,7 +14,7 @@ imageAlt: "Tourism, Hospitality, and the Shore Economy: NJ's Seasonal Insurance 
 
 New Jersey's 130-mile Atlantic coastline is one of the most economically significant recreational corridors on the East Coast — and one of the most distinctive insurance markets in any state. The Shore economy is seasonal, weather-exposed, geographically concentrated, and still recovering from the long shadow of Superstorm Sandy. Ocean County, Monmouth County, Atlantic County, Cape May County, and sections of Burlington County collectively support a hospitality and tourism economy that employs hundreds of thousands of seasonal and year-round workers, generates billions in annual tourism revenue, and creates commercial insurance needs that are genuinely unique to coastal New Jersey. For P&C producers who understand the Shore market — its risks, its coverage challenges, and its client relationships — this is a defensible specialty niche with strong renewal income and very little generic competition.
 
-### The Economic Scale of the Shore
+## The Economic Scale of the Shore
 
 New Jersey's leisure and hospitality sector employed 395,400 workers statewide in 2023, paying $13.8 billion in total wages and contributing $21.8 billion to New Jersey's Gross State Product. The Shore communities account for a disproportionate share of this activity:
 
@@ -26,7 +26,7 @@ Atlantic County's Atlantic City generates billions in casino and entertainment r
 
 Cape May County is one of the most popular tourist destinations in the entire Northeast, with a historic Victorian downtown and beach communities drawing visitors from New York and Philadelphia
 
-### The Commercial Insurance Market: What Shore Businesses Need
+## The Commercial Insurance Market: What Shore Businesses Need
 
 Shore commercial accounts have insurance needs shaped by seasonal operation, weather exposure, and the specific regulatory environment of coastal NJ:
 
@@ -42,7 +42,7 @@ Hospitality workers' compensation. Hotels, restaurants, and hospitality employer
 
 Atlantic City casino and entertainment accounts. Atlantic City's casino and entertainment complex is a distinct commercial market within the Shore economy. Casinos require specialized commercial property (gaming equipment, cage operations), crime coverage, workers' comp for large unionized workforces, and employment practices liability.
 
-### The Residential Shore Market
+## The Residential Shore Market
 
 Shore residential properties represent one of the most complex personal lines insurance markets in New Jersey:
 
@@ -52,11 +52,11 @@ Vacation rental and short-term rental properties. VRBO and Airbnb rentals are pr
 
 High-value waterfront properties. Oceanfront and bayfront properties in communities like Spring Lake, Deal, and Ocean City represent high-value residential accounts with distinctive coverage requirements — replacement cost adequacy, art and valuables floaters, umbrella coverage, and marine liability for boat docks.
 
-### The Sandy Effect: Coverage Gaps Still Exist
+## The Sandy Effect: Coverage Gaps Still Exist
 
 More than a decade after Superstorm Sandy, coverage gaps remain throughout the Shore market. Producers who conduct thorough coverage reviews — particularly on flood coverage limits, windstorm deductibles, and business income adequacy — regularly identify clients who are materially underinsured relative to their actual exposure. The NJ homeowners market has tightened further in recent years, with premium increases of 16%+ in 2026 and carrier appetite restrictions in the highest-risk coastal ZIP codes. Producers who know which carriers still write coastal NJ properties competently, understand NFIP and private flood market options, and can explain the coverage structures clearly are providing irreplaceable value in a market that has become genuinely difficult to navigate.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What makes the NJ Shore a distinctive insurance market compared to inland NJ?
 

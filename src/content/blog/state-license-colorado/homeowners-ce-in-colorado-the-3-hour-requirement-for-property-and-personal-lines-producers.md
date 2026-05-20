@@ -16,7 +16,7 @@ Colorado requires every producer licensed for Property or Personal Lines to comp
 
 This post explains exactly what the homeowners CE requirement is, why it exists, what qualifies, where it sits within your 24-hour breakdown, what does not satisfy it, and how to integrate it cleanly into your biennial CE plan.
 
-### Why This Requirement Exists
+## Why This Requirement Exists
 
 Colorado is one of the most challenging residential property insurance markets in the United States. The state consistently ranks among the top three nationally for insured hail losses — billions of dollars in residential hail claims occur in Colorado annually, concentrated along the Front Range from Fort Collins through Denver to Colorado Springs and Pueblo. Wildfire risk adds a second catastrophic exposure, particularly along the foothills and mountain communities of the Front Range and Western Slope, where properties in high-risk zones face dramatically higher rebuilding costs than their market values suggest.
 
@@ -26,7 +26,7 @@ The Colorado Division of Insurance's response has been direct: producers who sel
 
 Understanding this context makes the homeowners CE more than a compliance checkbox. For Colorado property producers, it is substantively relevant professional development in a market where coverage adequacy errors carry real consequences for clients.
 
-### Who Must Complete the Homeowners CE Requirement
+## Who Must Complete the Homeowners CE Requirement
 
 The requirement applies to every Colorado producer holding a Property line of authority or a Personal Lines line of authority, every biennial renewal cycle beginning with the second renewal cycle (the first renewal cycle is exempt along with all other CE for newly licensed producers).
 
@@ -40,7 +40,7 @@ Life, Accident & Health only: Producers holding only Life and/or A&H authority, 
 
 Multi-line producers: A producer who holds Property and Casualty — the common combination for producers serving commercial accounts — must complete the homeowners CE because of the Property authority, even if their book of business is entirely commercial. A producer who holds Life, A&H, and Property must complete homeowners CE because of the Property authority. The requirement follows the line, not the producer's actual practice focus.
 
-### Where the 3 Hours Sit Within Your 24-Hour Breakdown
+## Where the 3 Hours Sit Within Your 24-Hour Breakdown
 
 This is the most practically important aspect of the requirement to understand clearly.
 
@@ -54,7 +54,7 @@ The practical breakdown for a Personal Lines producer:
 
 The key rule that surprises producers: Excess homeowners hours — if you complete more than 3 hours in homeowners-approved courses — do not apply to the remaining major lines hours requirement. Excess homeowners hours carry forward as general/miscellaneous credit only. A producer who completes 6 hours of homeowners CE has satisfied the 3-hour homeowners requirement, and the additional 3 hours apply to the miscellaneous category — not to the remaining 15 major lines hours. To fully satisfy the 18 major lines requirement, 15 additional hours of non-homeowners major lines CE are still required.
 
-### What Qualifies as Homeowners CE
+## What Qualifies as Homeowners CE
 
 A course satisfies Colorado's homeowners CE requirement when it is approved by the Colorado Division of Insurance specifically as a homeowners course. The content focus of approved homeowners CE courses reflects the consumer protection purpose of the requirement — coverage adequacy, valuation methodology, and the practical implications of how homeowners policies are structured in Colorado's loss environment.
 
@@ -76,7 +76,7 @@ Endorsements relevant to Colorado clients — replacement cost on personal prope
 
 Producer responsibilities under Colorado law — the DOI's position on producer obligations to discuss coverage adequacy; the ethical dimensions of recommending coverage limits the producer knows or should know are insufficient; documentation practices for coverage adequacy conversations.
 
-### What Does NOT Satisfy the Homeowners CE Requirement
+## What Does NOT Satisfy the Homeowners CE Requirement
 
 The same principle that applies to ethics CE applies here: the course must be specifically approved as homeowners CE, not merely contain homeowners content within a broader property curriculum.
 
@@ -90,19 +90,19 @@ Personal Lines CE without homeowners designation — a general Personal Lines CE
 
 Ethics CE — ethics courses apply to the ethics category only and do not count toward major lines or homeowners requirements.
 
-### Verifying That a Course Qualifies
+## Verifying That a Course Qualifies
 
 Before enrolling in any course you intend to use for the homeowners requirement, confirm the homeowners category designation through the Colorado DOI's approved course listing or the provider's course description. Approved homeowners courses will explicitly state that they satisfy Colorado's homeowners CE requirement and will carry the homeowners category designation on your Sircon transcript after completion.
 
 After completing the course, log in to Sircon and verify that the hours appear on your transcript under the homeowners category before your renewal deadline. If the course appears as general or Property credit rather than homeowners credit, contact your provider to resolve the discrepancy — this occasionally occurs when a course carries multiple category approvals and the provider reports under a default category.
 
-### The No-Repeat Rule
+## The No-Repeat Rule
 
 Colorado prohibits repeating the same CE course within 2 calendar years of its original completion date for credit. This applies to homeowners CE courses as it does to all Colorado CE. A producer who completes a specific 3-hour homeowners valuation course in their current cycle cannot use the same course to satisfy the requirement in the next cycle if less than 2 calendar years have elapsed.
 
 Practically, this means: if your biennial cycles end in even years and you complete your homeowners CE course in March 2026, you cannot use the same course to satisfy your next homeowners CE requirement in your renewal cycle ending in 2028 — but only if the course was completed less than 24 months before you retake it. If the same course is completed in March 2026 and again in April 2028, more than 2 calendar years have elapsed and the repeat is permissible. Most producers simply enroll in a different homeowners CE course each cycle to avoid tracking the 2-year window.
 
-### Integrating the Homeowners Requirement Into Your CE Plan
+## Integrating the Homeowners Requirement Into Your CE Plan
 
 The most reliable approach is to treat the homeowners CE as a named, scheduled component of your biennial CE plan rather than an afterthought in the final months of the cycle.
 
@@ -112,7 +112,7 @@ At the start of the biennial cycle, identify and enroll in: one 3-hour ethics co
 
 Most Colorado CE providers offer bundled 24-hour P&C packages that include the 3-hour ethics course and the 3-hour homeowners valuation course as named components alongside a major lines course. These bundles simplify the planning and enrollment process and ensure the homeowners requirement is built in — not left to be addressed separately at the end of the cycle.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I hold Property and Casualty lines. Do I complete 3 hours of homeowners CE once for both lines or separately for each?
 

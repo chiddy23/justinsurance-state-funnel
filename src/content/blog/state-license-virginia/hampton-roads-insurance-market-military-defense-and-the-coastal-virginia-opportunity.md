@@ -14,7 +14,7 @@ imageAlt: "Hampton Roads Insurance Market: Military, Defense, and the Coastal Vi
 
 Hampton Roads is Virginia's largest population center by geography, home to approximately 1.8 million people across 14 cities and counties clustered around one of the world's greatest natural harbors. The region's economy is built on four pillars that the Hampton Roads Alliance's 2025 Playbook crystallizes as DEAL: Defense, Energy, Aerospace, and Logistics. The federal footprint averages $15.6 billion annually in contracts and grants. Naval Station Norfolk is the largest naval base in the world. Huntington Ingalls Industries' Newport News Shipbuilding is the second-largest private employer in the region. The Port of Virginia handles more cargo than any East Coast port by growth rate. Each of these pillars creates distinct insurance needs — and collectively they make Hampton Roads one of the most complex and opportunity-rich regional insurance markets in Virginia.
 
-### The Military Market: Scale and Insurance Implications
+## The Military Market: Scale and Insurance Implications
 
 Hampton Roads hosts 18 military installations and more than 80,000 active-duty military personnel, plus an estimated 51,769 federal civilian employees as of early 2024. Every branch of the armed forces is represented. The major installations include:
 
@@ -40,7 +40,7 @@ VA loans and homeowners insurance. Hampton Roads has one of the highest rates of
 
 Military auto insurance. Hampton Roads has multiple major auto insurance considerations specific to military clients: vehicles garaged during deployments, vehicles registered in home states while service members are stationed in Virginia, and the complex interaction of Virginia's 2025 50/100/25 minimum requirements with military clients who may have previously relied on their home state's minimums.
 
-### The Defense Contractor and Shipbuilding Market
+## The Defense Contractor and Shipbuilding Market
 
 Hampton Roads' commercial insurance market extends well beyond the military installations to the private-sector defense ecosystem:
 
@@ -52,7 +52,7 @@ BAE Systems Ship Repair, Colonna's Shipyard, NASSCO — major ship repair and ma
 
 The shipbuilding and defense manufacturing sector creates workers' compensation (for hazardous shipyard environments), commercial property, marine, and professional liability insurance needs on a scale that rivals Northern Virginia's tech contractor market.
 
-### The Coastal Property Market
+## The Coastal Property Market
 
 Hampton Roads's coastal geography creates a distinctive P&C insurance market characterized by flood exposure, storm surge risk, and the ongoing effects of Hampton Roads' well-documented tidal flooding (chronic "sunny-day flooding" affecting Norfolk and other low-lying communities).
 
@@ -70,7 +70,7 @@ Elevated homeowners premiums in high-risk coastal ZIP codes
 
 Producers who understand NFIP coverage, elevation certificates, private flood alternatives, and windstorm deductibles provide service in Hampton Roads's coastal market that generic agents cannot match.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the SGLI/VGLI conversion opportunity for Hampton Roads producers, and why is the timing critical?
 

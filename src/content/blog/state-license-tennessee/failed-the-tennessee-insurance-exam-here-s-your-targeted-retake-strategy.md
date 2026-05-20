@@ -16,17 +16,17 @@ Failing the Tennessee insurance licensing exam is more common than most candidat
 
 The candidates who pass their Tennessee retake efficiently share one characteristic: they used their score report strategically. They did not simply study more of everything they already studied. They identified the specific content areas where they failed and rebuilt those areas from the foundation up. This post gives you the complete retake framework — how to read your score report, how to diagnose the category of failure that produced your result, how to build a targeted retake study plan, and the logistics for scheduling your next attempt.
 
-### Step 1: Get Your Score Report and Read It Correctly
+## Step 1: Get Your Score Report and Read It Correctly
 
 Your Pearson VUE score report was delivered immediately after completing the exam — displayed on screen before you left the testing environment. If you tested in person, you received a printed copy at the test center. If you tested remotely via OnVUE, retrieve it from your Pearson VUE account at pearsonvue.com.
 
-#### What the Score Report Contains
+### What the Score Report Contains
 
 Your scaled score: A number on Pearson VUE's standardized scale. Passing is 70. Your score tells you how far below passing you fell and how much ground your retake preparation needs to cover.
 
 Section performance breakdown: The most valuable information on the entire report. The breakdown shows your performance across defined content areas — product types, regulatory provisions, policy concepts — identifying which areas produced the most missed questions.
 
-#### The Single Most Important Diagnostic Question
+### The Single Most Important Diagnostic Question
 
 Did you perform below average on the Tennessee state law section, the general content section, or both?
 
@@ -36,11 +36,11 @@ Primarily general content weakness: The state law section performed adequately. 
 
 Both sections underperformed: Both domains need systematic work. Allow more total study time and address each separately.
 
-### Step 2: Diagnose Your Category of Failure
+## Step 2: Diagnose Your Category of Failure
 
 Failing the Tennessee exam happens for one of four distinct reasons. Identifying your actual failure category before designing your study plan prevents the most common retake mistake — studying more of what you already know rather than addressing what you do not.
 
-#### Category 1: Insufficient Total Preparation
+### Category 1: Insufficient Total Preparation
 
 The profile: Studied some material but not enough — too few total hours, too little depth, or preparation that stopped before reaching genuine readiness. Scaled score is likely below 60. The section breakdown shows below-average performance across multiple content categories in both sections.
 
@@ -50,7 +50,7 @@ The retake approach: Full preparation rebuild. Treat the retake as though sittin
 
 Estimated retake preparation time: 40–60 hours.
 
-#### Category 2: State Law Section Failure
+### Category 2: State Law Section Failure
 
 The profile: General section performance was adequate — at or above average — but the state law section was significantly below average. The overall score fell below 70 because state law questions pulled down a general content score that would have passed on its own.
 
@@ -74,7 +74,7 @@ Key TCA sections to read directly:
 
 Estimated retake preparation time: 15–25 hours focused entirely on Tennessee state law.
 
-#### Category 3: Specific General Content Gaps
+### Category 3: Specific General Content Gaps
 
 The profile: State law section performed adequately — at or near average — but two or three specific general content areas dragged the score below 70. The section breakdown shows concentrated weakness in particular product categories while other areas performed well.
 
@@ -86,7 +86,7 @@ The retake approach: Identify the specific categories where the breakdown shows 
 
 Estimated retake preparation time: 15–25 hours focused on identified weak areas.
 
-#### Category 4: Exam Execution Problems
+### Category 4: Exam Execution Problems
 
 The profile: Practice exam scores were at or above 80% before the exam date. The section breakdown does not show concentrated weakness in any single area. The scaled score fell in the 65–69 range — just below passing.
 
@@ -104,7 +104,7 @@ The retake approach: Content re-study is not the primary need. Exam conditioning
 
 Estimated retake preparation time: 10–15 hours of practice exam conditioning with targeted behavioral adjustment.
 
-### Step 3: Verify State Law Mastery Before Every Retake
+## Step 3: Verify State Law Mastery Before Every Retake
 
 Regardless of failure category, every retake candidate should verify state law recall before scheduling the next attempt. The state law section generates consistent failures in retake candidates who address general content gaps but return to the exam with the same inadequate state law preparation that contributed to their original failure.
 
@@ -118,9 +118,9 @@ Scoring interpretation:
 
 Below 70% accurate: Significant state law gaps. Allocate two to three weeks of daily flashcard drilling regardless of other preparation needs.
 
-### Step 4: The Retake Study Plans
+## Step 4: The Retake Study Plans
 
-#### Category 1 Plan — Full Rebuild (3–4 Weeks)
+### Category 1 Plan — Full Rebuild (3–4 Weeks)
 
 Weeks 1–2: Complete content coverage using a Tennessee-specific Pearson VUE study guide. Work through every topic in the TDCI content outline sequentially. Begin daily state law flashcard drilling from day one.
 
@@ -130,7 +130,7 @@ Week 4 if needed: Continue daily practice exams. Focus each day's post-exam revi
 
 Schedule retake when: Three consecutive practice exams score 80% or above.
 
-#### Category 2 Plan — State Law Deep Dive (2–3 Weeks)
+### Category 2 Plan — State Law Deep Dive (2–3 Weeks)
 
 Days 1–3: Complete the state law verification exercise above. Create flashcards for every missed item.
 
@@ -140,7 +140,7 @@ Days 15–17: Take full-length practice exams under timed conditions. Track stat
 
 Schedule retake when: State law flashcard recall is 100% accurate on two consecutive self-tests AND state law practice performance is above 80%.
 
-#### Category 3 Plan — Targeted Topic Rebuild (1–2 Weeks)
+### Category 3 Plan — Targeted Topic Rebuild (1–2 Weeks)
 
 Day 1: List every content category where the score report showed below-average performance. Rank by severity.
 
@@ -150,7 +150,7 @@ Final 3 days: Take full-length practice exams. Track performance specifically on
 
 Schedule retake when: Previously weak areas score above 80% on practice questions AND full-length practice exams consistently reach 80%+.
 
-#### Category 4 Plan — Exam Conditioning (1 Week)
+### Category 4 Plan — Exam Conditioning (1 Week)
 
 Days 1–2: Diagnose specific behavioral patterns from your prior practice exam history. Identify which execution errors occurred most frequently.
 
@@ -158,9 +158,9 @@ Days 3–7: Take one full-length timed practice exam per day applying your ident
 
 Schedule retake when: Practice exams consistently reach 80%+ AND behavioral error rate has dropped significantly from initial sessions.
 
-### Step 5: Retake Logistics
+## Step 5: Retake Logistics
 
-#### Scheduling
+### Scheduling
 
 Log in to your Pearson VUE account at pearsonvue.com. Schedule a new exam for the same line you failed. Select your testing format — either remote ($49) or in-person ($59) — and pay the retake fee at scheduling. Cancel or reschedule at least 48 hours before the appointment to avoid forfeiting the fee.
 
@@ -168,7 +168,7 @@ No new NIPR application is required for a retake. The application is submitted a
 
 No new IdentoGO fingerprinting is required for a retake. Fingerprinting is completed once per Tennessee resident applicant and does not repeat for additional exam attempts.
 
-#### Timing the Retake
+### Timing the Retake
 
 Tennessee allows unlimited retakes with no mandatory waiting period. You can schedule for the next available appointment immediately after a failure.
 
@@ -176,7 +176,7 @@ The practical recommendation: Do not retake immediately after a knowledge-gap fa
 
 For Category 4 failures, a 3–5 day interval is reasonable — enough time to implement and practice behavioral corrections without so much delay that knowledge fades.
 
-#### After Passing the Retake
+### After Passing the Retake
 
 The same post-exam sequence applies as for any first-time pass:
 
@@ -188,7 +188,7 @@ Submit the NIPR application — $50 per line plus $5.60 NIPR transaction fee
 
 Receive your Tennessee producer license within 2–5 business days of application processing
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I failed by only 3 scaled points — I scored 67 when I needed 70. Does that mean I just need a quick review before retaking?
 

@@ -14,7 +14,7 @@ imageAlt: Failed the Colorado Insurance Exam? Here's Your Targeted Retake Strate
 
 Failing the Colorado Pearson VUE insurance licensing exam is not the end of the process — it is a data event. The failing score report you received contains a diagnostic breakdown by content area that tells you exactly where your preparation fell short. Most candidates who fail discard that report, wait a few days, re-read the same materials, and sit for the exam again with no meaningful change in their preparation. They fail again for the same reasons. This post is the alternative: a structured retake strategy built on what the diagnostic report actually tells you, how Colorado's retake rules work, and the specific preparation adjustments that convert a failing attempt into a passing one.
 
-### What the Failing Score Report Actually Tells You
+## What the Failing Score Report Actually Tells You
 
 Understanding your score report before anything else is non-negotiable. The Colorado Pearson VUE failing report contains two components that most candidates misread.
 
@@ -24,7 +24,7 @@ The diagnostic breakdown: This is the section of the report that drives your ent
 
 Read the diagnostic before you do anything else. Every content area where you performed below the minimum is a retake priority. Every content area where you met or exceeded the minimum is not your problem — do not spend retake time there.
 
-### Colorado's Retake Rules
+## Colorado's Retake Rules
 
 Waiting period: You must wait a minimum of 24 hours after a failed attempt before scheduling a retake. There is no mandatory extended waiting period regardless of how many times you have failed.
 
@@ -36,11 +36,11 @@ Certificate of Completion validity: Your [prelicensing](/colorado/prelicensing) 
 
 Fee: Each retake requires a new exam fee payment ($41 for in-person, or $31 for OnVUE if eligible). Fees are paid at the time of scheduling and are non-refundable.
 
-### The Diagnostic-Driven Retake Framework
+## The Diagnostic-Driven Retake Framework
 
 Once you have read your diagnostic report, structure your retake preparation around four specific questions.
 
-#### Question 1: Did I fail primarily because of the state section, the general section, or both?
+### Question 1: Did I fail primarily because of the state section, the general section, or both?
 
 This is the most important diagnostic question because the answer determines your entire preparation approach.
 
@@ -50,7 +50,7 @@ If the general section performance was weak: This is less common among candidate
 
 If both sections were weak: This indicates insufficient total preparation time regardless of prelicensing completion. The retake preparation needs to be more thorough than the original, not just different. Add a full timed [practice exam](/colorado/practice-exam) from Pearson VUE's official practice test ($19.95, available through your Pearson VUE account) before rescheduling.
 
-#### Question 2: Which specific content areas within the state section were below minimum?
+### Question 2: Which specific content areas within the state section were below minimum?
 
 The state section diagnostic breaks down your performance across the common Section I topics and the line-specific Section II topics. Identify specifically where you fell short.
 
@@ -58,7 +58,7 @@ If Section I (common to all lines) was your weakness: Focus on the unfair trade 
 
 If Section II (line-specific) was your weakness: This requires returning to your prelicensing course's Colorado-specific materials for the specific line you are retaking. Create a rules list if you did not have one — a single document listing every specific rule, number, deadline, and prohibition from the Colorado-specific curriculum. For Life, this means replacement requirements, suicide clause specifics, conversion rights, and annuity best interest. For A&H, this means small group definitions and guaranteed issue rules, COBRA vs. state continuation thresholds and durations, and mental health parity requirements. For P&C and Personal Lines, this means auto minimums, the FAIR Plan, the claims-made and homeowners CE prerequisites, and cancellation/nonrenewal notice rules.
 
-#### Question 3: How far in advance should I schedule the retake?
+### Question 3: How far in advance should I schedule the retake?
 
 Most candidates schedule retakes too soon after failing. The 24-hour minimum waiting period exists to prevent same-day retakes — it does not represent the amount of time needed to meaningfully change your preparation. The appropriate retake schedule depends on your diagnostic gap size:
 
@@ -68,7 +68,7 @@ Moderate gap (scaled score of 55–64, weaknesses across multiple areas in one s
 
 Large gap (scaled score below 55, weaknesses across both sections): 3–4 weeks of structured re-preparation. At this gap level, the original preparation was insufficient rather than just incomplete. The retake preparation needs to function as a more thorough first attempt, not a patch. Schedule the retake only after at least one full timed practice exam produces a score above 75%.
 
-#### Question 4: What specifically will I do differently this time?
+### Question 4: What specifically will I do differently this time?
 
 This is the question most candidates skip — and it is the one that determines whether the retake produces a different result. Re-reading the same materials with no structural change in study method produces minimal improvement. The specific changes that produce measurable score improvement on Colorado retakes:
 
@@ -78,7 +78,7 @@ For general section weakness in specific content areas: Replace re-reading with 
 
 For time pressure issues: If you ran out of time on the first attempt, the retake strategy must include pacing practice. The Colorado Life and A&H exams are 120 minutes for 80 scored questions — 90 seconds per question on average. The Personal Lines exam is 135 minutes for 104 scored questions — approximately 78 seconds per question. Time pressure typically means you spent too long on uncertain questions. Practice the flag-and-move approach: if a question takes more than 90 seconds without a confident answer, flag it and move. Come back at the end. This technique typically recovers 4–8 additional correct answers for candidates who previously ran out of time.
 
-### The Four Days Before Your Retake
+## The Four Days Before Your Retake
 
 Day 1–2: State section deep review. Pull your rules list or create one if you did not have one. Work through every topic from Section I and your line-specific Section II. For each unfair trade practice, write the definition, the distinguishing element, and one scenario. For each Colorado-specific rule (fiduciary obligations, replacement requirements, conversion rights, continuation thresholds, CE prerequisites), confirm you can state the rule precisely without looking at notes.
 
@@ -86,7 +86,7 @@ Day 3: Full timed practice exam. Take a complete timed practice exam covering bo
 
 Day 4 (day before the exam): Targeted review of practice exam misses only. Return to the specific topics where you missed practice questions. Do not re-study topics where your practice exam performance was adequate. Spend no more than 30 minutes on this review. After 30 minutes of targeted review, stop studying. Rest before the exam — cognitive fatigue on exam day is the most common and most preventable performance reducer.
 
-### What to Do Differently on Exam Day
+## What to Do Differently on Exam Day
 
 Arrive 30 minutes early. Late arrival results in forfeiture of your exam fee regardless of your reason for being late. Build in travel buffer time beyond what you think you need.
 
@@ -96,7 +96,7 @@ Treat every question as scored. The 10–16 pretest questions scattered througho
 
 Apply the scenario identification method to unfair trade practice questions. Before looking at the answer choices, identify the type of conduct described in the scenario: Is it a value-based inducement (rebating)? A false statement about a policy (misrepresentation)? A threat or compulsion (coercion)? A false statement about a competitor's finances (defamation)? Identify the act first, then confirm with the answer choices. This prevents the wrong-choice blur that occurs when all four answer choices are unfair trade practices with similar-sounding names.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My diagnostic shows I failed the state section but passed the general section. Is my general section score saved for the retake?
 

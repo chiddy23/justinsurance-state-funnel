@@ -14,13 +14,13 @@ imageAlt: "The Tennessee Insurance Exam Decoded: Format, Sections, and What to E
 
 The Tennessee insurance licensing exam is administered by Pearson VUE, tests two distinct knowledge domains in every line, delivers your score before you leave your seat, and has a first-time [pass rate](/pass-rates) of approximately 55–65% — meaning roughly one in three candidates fails on their first attempt. That failure rate is not a reflection of extraordinary exam difficulty. It is a reflection of what happens when candidates who interpret Tennessee's no-[prelicensing](/tennessee/prelicensing) requirement as permission to underprepare sit for an exam that tests substantive knowledge of insurance products and Tennessee law with equal rigor. This post decodes every element of the Tennessee exam: the format for every line, what each section tests and how the questions are structured, how Pearson VUE's scoring system works, what the test day experience looks like for both remote and in-person candidates, and the specific strategies that produce passing scores across all lines.
 
-### The Structural Foundation: What Every Tennessee Exam Looks Like
+## The Structural Foundation: What Every Tennessee Exam Looks Like
 
 Tennessee administers separate licensing exams for each line of authority through Pearson VUE. There are no combined exams — Life and Accident and Health are tested separately, Property and Casualty are tested separately. Every major line exam follows an identical structural format:
 
 The exam covers two states simultaneously. Every Tennessee insurance exam tests both general insurance knowledge that applies across all jurisdictions and Tennessee-specific statutory knowledge. These are not two separate exams — they are two sections within one exam session. Both sections contribute to the single 68-question scored pool. Both must be understood to pass.
 
-### The Nine Pretest Questions: What They Mean for Your Strategy
+## The Nine Pretest Questions: What They Mean for Your Strategy
 
 Nine of the 77 questions on every Tennessee exam are unscored pretest questions. They are being evaluated by Pearson VUE and the TDCI for inclusion in future exam versions. They look identical to scored questions — same length, same format, same subject matter. You cannot identify them during the exam.
 
@@ -28,11 +28,11 @@ The strategic implication: You cannot skip or guess on questions you believe mig
 
 The margin math: You need 48 of 68 scored questions correct to pass at 70%. You can miss 20 scored questions. But because you do not know which 9 of the 77 questions are pretest, questions you are uncertain about might be scored or pretest — you cannot tell. Treating every question as scored is the only rational strategy.
 
-### Section 1: General Insurance Concepts
+## Section 1: General Insurance Concepts
 
 The general section tests insurance knowledge that applies across all U.S. jurisdictions. This is the foundational product and concept knowledge that defines each line of insurance regardless of which state you are licensed in. The general section is typically where candidates with some prior insurance familiarity — people who have worked in adjacent financial services roles, former customer service staff at insurance companies, or candidates who have held licenses in other states — perform most comfortably.
 
-#### Life Exam — General Section Content
+### Life Exam — General Section Content
 
 Types of life insurance policies: Term life — level term, decreasing term, increasing term, return of premium term. The distinction between level death benefit and decreasing death benefit is frequently tested. Decreasing term is commonly associated with mortgage protection.
 
@@ -98,7 +98,7 @@ Buy-sell agreements — cross-purchase vs. entity purchase structures
 
 Split-dollar arrangements — shared premium and death benefit
 
-#### Accident and Health Exam — General Section Content
+### Accident and Health Exam — General Section Content
 
 Health insurance plan types:
 
@@ -168,7 +168,7 @@ Guaranteed issue and guaranteed renewability
 
 Open enrollment periods and special enrollment triggers
 
-#### Property Exam — General Section Content
+### Property Exam — General Section Content
 
 Property insurance fundamentals:
 
@@ -242,7 +242,7 @@ Contractors equipment floaters
 
 Installation floaters
 
-#### Casualty Exam — General Section Content
+### Casualty Exam — General Section Content
 
 Personal auto policy (PAP) structure:
 
@@ -294,11 +294,11 @@ Retroactive date — how far back prior acts are covered
 
 Extended reporting period (tail coverage) — covers claims made after policy expiration for incidents during the policy period
 
-### Section 2: Tennessee State Laws and Regulations
+## Section 2: Tennessee State Laws and Regulations
 
 The state law section tests specific knowledge of Tennessee's insurance regulatory framework. This section cannot be answered from general insurance knowledge — it requires deliberate study of Tennessee statutes, the TDCI's structure, and Tennessee-specific regulatory provisions. The state law section is where the majority of unprepared candidates fail.
 
-#### TDCI Structure and Commissioner Authority
+### TDCI Structure and Commissioner Authority
 
 Tennessee Department of Commerce and Insurance (TDCI):
 
@@ -322,11 +322,11 @@ Cease and desist authority
 
 License suspension and revocation under TCA §56-6-112
 
-#### Producer Licensing Provisions
+### Producer Licensing Provisions
 
 No mandatory prelicensing — effective March 21, 2023 Exam: Pearson VUE; $59 per attempt; 70% pass; immediate results Fingerprinting: IdentoGO; $37.15; TBI and FBI background check; Fingerprint Policy and Acknowledgement Form to TDCI Application: NIPR; $50 per line; 48-hour post-exam wait mandatory License validity: Biennial; last day of birth month CE: 24 hours biennial; 3 hours ethics; no classroom minimum Renewal fee: $60; 30-day grace period; $120 late fee; up to 1 year late renewal; full relicensing after 1 year Appointment requirement: Carrier must file within 15 days of contract date; TCA §56-6-115 Appointment termination: Insurer must notify Commissioner within 30 days; TCA §56-6-117 Grounds for license discipline: TCA §56-6-112 — fourteen specific grounds including misrepresentation, directing persons to TennCare when covered by group insurance, accepting business from unlicensed individuals
 
-#### Unfair Trade Practices and Unfair Claims Settlement Act
+### Unfair Trade Practices and Unfair Claims Settlement Act
 
 Statutory basis: TCA Title 56, Chapter 8 (adopted 2009)
 
@@ -344,11 +344,11 @@ Compelling insureds to institute suits to recover amounts due by offering substa
 
 Misrepresenting pertinent facts or policy provisions relating to coverage at issue
 
-#### Tennessee Bad Faith Penalty
+### Tennessee Bad Faith Penalty
 
 TCA §56-7-105: If an insurer wrongfully refuses to pay a valid claim, the insured may recover the claim amount plus up to 25% of the liability amount as additional damages. This 25% bad faith penalty is among the most frequently tested Tennessee-specific provisions on the exam — it distinguishes Tennessee from states with different penalty structures.
 
-#### Tennessee Auto Insurance
+### Tennessee Auto Insurance
 
 At-fault state — not no-fault; the liability system applies; injured party pursues the at-fault driver
 
@@ -360,7 +360,7 @@ No mandatory PIP — Tennessee does not require personal injury protection as a 
 
 SR-22: Certificate of financial responsibility for high-risk drivers
 
-#### Tennessee Workers' Compensation
+### Tennessee Workers' Compensation
 
 Statutory basis: TCA §50-6-103
 
@@ -372,7 +372,7 @@ Competitive market — not a monopolistic state fund
 
 Exclusive remedy doctrine applies
 
-#### Tennessee Health Insurance
+### Tennessee Health Insurance
 
 TennCare: Tennessee's Medicaid program — not expanded under the ACA; administered by Tennessee Department of Finance and Administration (not TDCI)
 
@@ -380,7 +380,7 @@ Federal exchange: Tennessee uses Healthcare.gov — not a state-based exchange
 
 TCA §56-6-112 specific prohibition: It is a ground for license discipline for a producer to knowingly direct a person to apply for TennCare when that person is covered by a group policy or when a group policy is being renewed
 
-#### Tennessee Surplus Lines
+### Tennessee Surplus Lines
 
 Non-admitted carriers may write coverage in Tennessee only through licensed surplus lines brokers
 
@@ -390,7 +390,7 @@ Non-admitted policy coverage is not protected by Tennessee guaranty associations
 
 Disclosure obligations to policyholders placing coverage in the surplus lines market
 
-#### Tennessee Reciprocity
+### Tennessee Reciprocity
 
 Full reciprocity: Only five states — California, Louisiana, Michigan, Mississippi, Texas
 
@@ -398,7 +398,7 @@ NAIC model law states: Non-resident licenses available without exam for producer
 
 License transfer within 90 days of relocation to Tennessee — exam waived within this window
 
-### How Pearson VUE Scoring Works
+## How Pearson VUE Scoring Works
 
 Tennessee uses Pearson VUE's scaled scoring system. Your raw score — the number of questions you answer correctly — is converted to a standardized scaled score that accounts for slight variations in difficulty between different exam versions administered to different candidates. This scaling ensures that a candidate who receives a slightly harder version of the exam is not disadvantaged relative to a candidate who receives a slightly easier version.
 
@@ -408,9 +408,9 @@ What the score report shows: Immediately after completing the exam, Pearson VUE 
 
 Targeting 80% in practice: Because the scaling variation and test-day conditions can reduce performance slightly below practice levels, candidates who consistently score 80%+ on practice exams are well-positioned to clear the 70% threshold regardless of which exam version they receive.
 
-### Test Day: Remote vs. In-Person
+## Test Day: Remote vs. In-Person
 
-#### Remote Testing via OnVUE
+### Remote Testing via OnVUE
 
 Compatibility check: Run the Pearson VUE system check at home.pearsonvue.com/tn/insurance on the specific computer you will use — at least 24 hours before your exam, not the morning of. If your system fails, schedule in-person immediately.
 
@@ -438,7 +438,7 @@ Proctor verifies setup and initiates the exam
 
 If the proctor terminates your exam: Exam is voided, fee is forfeited, and a new attempt must be scheduled and paid for in full. Proctor terminations are entirely preventable — prepare your environment before exam day, review OnVUE's testing rules thoroughly, and log in early enough to address any technical issues before the exam begins.
 
-#### In-Person at a Pearson VUE Test Center
+### In-Person at a Pearson VUE Test Center
 
 Arrive: 30 minutes before your scheduled appointment.
 
@@ -452,7 +452,7 @@ After the exam: Your score report is printed and provided before you leave the f
 
 In-person exam fee: $59 per line.
 
-#### Taking Multiple Exams in One Session
+### Taking Multiple Exams in One Session
 
 Tennessee allows candidates to schedule and sit for multiple line exams in a single testing day. The most efficient approach for candidates pursuing both Property and Casualty — or all four major lines — is completing all intended exams on the same day.
 
@@ -460,7 +460,7 @@ For in-person testing, schedule separate appointments at the same test center ba
 
 Which exam to take first: Take the line you are most confident about first. A strong first result builds exam-day confidence and mental focus for the second exam. If confidence is equal across lines, order does not matter.
 
-### The Most Frequently Tested Tennessee Provisions
+## The Most Frequently Tested Tennessee Provisions
 
 Based on exam content patterns, the following Tennessee-specific provisions receive the most consistent exam emphasis and represent the highest return on study time for the state law section:
 
@@ -482,7 +482,7 @@ The TennCare direction prohibition under TCA §56-6-112. The specific ground for
 
 CE requirements — 24 hours biennial, 3 hours ethics, 30-day grace period, $120 late fee. Each specific number is testable individually.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I studied general insurance concepts thoroughly and feel confident about that section. Is the state law section likely to be a significant problem if I review it briefly?
 

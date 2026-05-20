@@ -14,9 +14,9 @@ imageAlt: "NJ vs. NY vs. PA: How New Jersey's CE Requirements Compare to Neighbo
 
 Producers working in the New Jersey, New York, and Pennsylvania tri-state corridor frequently hold licenses in more than one state. A New Jersey resident producer with clients across the Hudson River maintains a NY nonresident license. A Philadelphia-area producer licensed in Pennsylvania often holds NJ nonresident authority as well. Understanding how each state's CE framework works — and where the critical differences lie — is practical knowledge for anyone managing multi-state compliance. The three states share borders, share a PSI exam vendor, and share the same 70% passing standard, but their CE requirements diverge in ways that matter operationally.
 
-### The Side-by-Side Comparison
+## The Side-by-Side Comparison
 
-### Where New Jersey Stands Out: The Classroom Minimum
+## Where New Jersey Stands Out: The Classroom Minimum
 
 The most distinctive feature of New Jersey's CE framework relative to both New York and Pennsylvania is the 12-hour classroom minimum. New Jersey requires that at least half of your 24 CE hours come from live, instructor-led delivery — either in-person classroom or live webinar with real-time interaction.
 
@@ -24,7 +24,7 @@ Neither New York nor Pennsylvania imposes a classroom delivery minimum. New York
 
 For producers managing CE across all three states, the NJ classroom requirement means that NJ compliance requires more active calendar planning than NY or PA. Live webinar courses need to be scheduled at specific times, not taken on demand. Producers who defer CE to the final weeks of their renewal period often discover that available live webinar slots are limited.
 
-### Total Hours: New York Requires Less
+## Total Hours: New York Requires Less
 
 New York's 15-hour CE requirement is the lightest of the three states — 9 fewer hours than New Jersey and Pennsylvania. A New York resident producer completes 15 hours per biennial renewal period with 3 ethics hours included. The remaining 12 hours can come from any combination of approved topics and delivery formats, with no classroom minimum.
 
@@ -32,7 +32,7 @@ New Jersey and Pennsylvania both require 24 hours, making them equivalent in tot
 
 The practical implication for a NJ producer who also holds a NY nonresident license: because NJ's nonresident reciprocity exempts NY nonresidents from NJ CE, a NJ resident producer satisfies their NY nonresident CE compliance by meeting NJ's 24-hour requirement — not by separately completing NY's 15 hours. The home state requirement is the controlling standard.
 
-### Flood Training: Three Different Approaches
+## Flood Training: Three Different Approaches
 
 The three states handle flood CE differently, and for P&C producers working across state lines, this creates three distinct compliance obligations:
 
@@ -44,7 +44,7 @@ Pennsylvania: Effective April 22, 2025, P&C and Personal Lines producers must co
 
 For a producer holding P&C licenses in all three states, the flood training obligations layer: one-time 3-hour NJ NFIP certification (before first NJ flood sale), 1 hour per NY renewal period (regardless of sales), and 2 hours per PA renewal period (regardless of sales) plus a one-time 3-hour PA NFIP certification before first PA flood sale.
 
-### Renewal Fees: New Jersey Charges Per Line
+## Renewal Fees: New Jersey Charges Per Line
 
 New Jersey's $150 renewal fee is assessed per line of authority. A producer holding both Life and Health and Property and Casualty licenses in New Jersey pays $150 per line — $300 total if renewing two separate license authorities. The $5.60 NIPR processing fee is also charged per transaction.
 
@@ -52,19 +52,19 @@ New York charges a flat $80 renewal fee regardless of the number of lines held. 
 
 This makes New Jersey's renewal cost the highest of the three states for multi-line producers. A NJ producer holding four lines of authority pays $600 in renewal fees per cycle; the same producer's NY nonresident renewal costs $80, and PA nonresident renewal costs $110.
 
-### Carryover Rules: Pennsylvania Is the Most Generous
+## Carryover Rules: Pennsylvania Is the Most Generous
 
 Pennsylvania allows producers to carry over up to 24 excess CE hours to the next renewal period — the full 24-hour requirement's worth of carryover. New Jersey allows up to 12 hours of carryover (ethics excluded), effective June 19, 2023. New York allows no carryover whatsoever — excess hours completed in one renewal period simply expire.
 
 For producers who complete CE early and want credit to apply forward, Pennsylvania's unlimited carryover and New Jersey's 12-hour carryover are both valuable. New York's zero-carryover rule means there is no benefit to completing more than 15 hours in any NY renewal period.
 
-### Nonresident Producers: Reciprocity Simplifies Multi-State CE
+## Nonresident Producers: Reciprocity Simplifies Multi-State CE
 
 All three states participate in NAIC CE reciprocity provisions, meaning nonresident producers in good standing with their home state's CE requirements are exempt from the host state's general CE requirement. For a New Jersey resident producer holding NY and PA nonresident licenses, the practical workflow is straightforward: satisfy NJ's 24-hour requirement (including the 12-hour classroom minimum) and you are compliant in NJ, NY, and PA simultaneously for general CE purposes.
 
 Specialty training requirements — LTC, Annuity Best Interest, and flood training — may still apply in each state, subject to each state's reciprocity provisions for those specific requirements.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I'm a New Jersey resident producer with a New York nonresident license, do I have to complete New York's CE separately?
 

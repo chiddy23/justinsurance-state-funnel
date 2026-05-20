@@ -14,7 +14,7 @@ imageAlt: "Colorado Diminished Value and Total Loss Rules: What Every P&C Produc
 
 Two of the most consequential and most frequently misunderstood concepts in Colorado auto insurance claims are diminished value and total loss determination. Clients who do not understand these concepts before a claim occurs consistently feel blindsided when they discover that their fully repaired vehicle is worth thousands of dollars less than before the accident, or that a vehicle that seems repairable has been declared a total loss. Producers who understand Colorado's rules — and explain them proactively — provide a level of service that matters when it counts most. This post covers the complete legal framework for both concepts, how each is calculated, what consumers are entitled to, and what producers need to communicate at policy inception and renewal.
 
-### What Is Diminished Value?
+## What Is Diminished Value?
 
 Diminished value is the reduction in a vehicle's market value caused by the fact that it has been in an accident and repaired — even when repairs are of the highest quality and restore full functionality. The loss exists because the marketplace assigns a lower value to accident-history vehicles than to equivalent vehicles with no accident history. A buyer offered two otherwise identical vehicles — same year, make, model, mileage, and condition — will pay less for the one with an accident history. That price difference is diminished value.
 
@@ -26,13 +26,13 @@ Repair-related diminished value: Additional loss in value caused by substandard 
 
 Immediate diminished value: The loss in value from the moment of the accident before any repairs are made. This category is primarily relevant in total loss scenarios — when a vehicle is declared a total loss, the pre-accident ACV versus post-accident damaged value is the measure of the loss, making immediate DV the central calculation.
 
-### Is Colorado a Diminished Value State?
+## Is Colorado a Diminished Value State?
 
 Yes. Colorado is a recognized diminished value state. Colorado law, specifically the Colorado Revised Statutes, recognizes diminished value as a legitimate form of property damage. Courts have consistently held that when someone damages your property, they are responsible for making you whole — and that includes the hidden loss in value. Agenzee
 
 The legal foundation for Colorado's diminished value rights comes from case law rather than a specific diminished value statute. Colorado, like most states, does not have a diminished value statute. The relevant state law comes from case law including two Colorado Supreme Court decisions — Trujillo v. Wilson and Larson v. Long. These decisions establish the principle that an at-fault party is responsible for the full measure of property damage, which includes both repair costs and any residual loss in market value. Sircon
 
-### Third-Party vs. First-Party Diminished Value Claims
+## Third-Party vs. First-Party Diminished Value Claims
 
 This is the most critical distinction Colorado producers must communicate to auto insurance clients — because it defines when and against whom a DV claim can be made.
 
@@ -42,7 +42,7 @@ First-party DV claims — generally not available in Colorado: A first-party DV 
 
 The uninsured motorist exception: When the at-fault driver is uninsured or a hit-and-run driver, the injured party cannot pursue a third-party DV claim against a driver who has no insurance. Colorado does have uninsured motorist coverage for diminished value when the insured carries UMPD (uninsured motorist property damage) coverage. Producers who want their clients to have DV protection against uninsured drivers should discuss UMPD coverage — not standard collision — as the mechanism. Insuretutor
 
-### The Practical Impact of the Third-Party Limitation
+## The Practical Impact of the Third-Party Limitation
 
 The third-party-only rule has significant practical implications that producers must explain:
 
@@ -54,7 +54,7 @@ Scenario 3 — Uninsured at-fault driver: The client is hit by an uninsured driv
 
 Scenario 4 — Client partially at fault: Under Colorado's modified comparative negligence (50% bar rule), a client who is 30% at fault in an accident can recover 70% of their damages from the other driver — including 70% of their DV claim. A client who is more than 50% at fault has no third-party recovery right and bears their own DV loss entirely.
 
-### How Diminished Value Is Calculated in Colorado
+## How Diminished Value Is Calculated in Colorado
 
 Colorado does not use a specific formula for calculating diminished value. It is up to the claimant to present an amount supported by evidence and a reasonable calculation method. Sircon
 
@@ -66,9 +66,9 @@ The statute of limitations: In Colorado, you can pursue DV for the same length o
 
 Small Claims Court access: For the average person, enforcing the right to recover post-repair residual diminished value is most easily pursued through Small Claims Court. No attorney is necessary, costs are more reasonable, and the process is faster. Small Claims Court authority in Colorado is limited to $7,500. For smaller DV claims — vehicles worth under $30,000–$40,000 — Small Claims Court is a practical and accessible forum. StateRequirement
 
-### Colorado Total Loss Rules
+## Colorado Total Loss Rules
 
-#### The Total Loss Formula
+### The Total Loss Formula
 
 Colorado does not use a fixed-percentage total loss threshold (such as the 75% or 80% thresholds used in some states). Instead, Colorado uses the Total Loss Formula (TLF):
 
@@ -78,7 +78,7 @@ When the sum of what it costs to repair the vehicle plus what the salvage value 
 
 CRS § 10-4-639 — The statutory basis for total loss standards: This provision of Title 10 requires that insurers establish a fair and consistent method for determining total loss of a motor vehicle, including consideration of the vehicle's unique characteristics and use of a credible source of valuation. The insurer must maintain a record of its total loss methodology and provide it to the Commissioner upon request. This statutory requirement creates an obligation of transparency and methodology consistency — a consumer who disputes a total loss determination has a right to the insurer's methodology explanation.
 
-#### How ACV Is Determined
+### How ACV Is Determined
 
 Actual Cash Value represents the fair market value of the vehicle immediately before the accident. Insurers typically determine ACV using specialized valuation tools — CCC One, Mitchell WorkCenter, and similar platforms that compare the vehicle against recent sales of comparable vehicles in the regional market. Key factors:
 
@@ -96,7 +96,7 @@ The valuation challenge: Many ACV reports contain inaccuracies — such as missi
 
 Colorado's appraisal provision: Standard auto policies include an appraisal clause allowing either party to invoke an independent appraisal process when they disagree on ACV. The insured and insurer each select a competent appraiser; the two appraisers select an umpire; a decision by any two of the three binds both parties. The appraisal clause is a cost-effective dispute resolution mechanism that avoids litigation for ACV disagreements. Producers should explain the appraisal clause at policy inception — clients who know it exists are far more likely to use it rather than accepting a low ACV offer.
 
-#### Salvage Titles and Retained Salvage
+### Salvage Titles and Retained Salvage
 
 When a vehicle is declared a total loss, the insurer typically takes title to the damaged vehicle (salvage) as part of the settlement. The vehicle is then sold through a salvage auction. Under Colorado law (CRS § 42-6-102), a vehicle that is declared a total loss based on the TLF formula must be issued a salvage title — a branded title that follows the vehicle permanently and is disclosed to future buyers.
 
@@ -104,7 +104,7 @@ The retained salvage option: Some policies allow the insured to retain the salva
 
 Rebuilt/reconstructed title: A salvage vehicle that is subsequently repaired and passes a Colorado inspection may be re-titled as a rebuilt or reconstructed vehicle. A rebuilt title, while better than a salvage title, still carries market stigma — a rebuilt-title vehicle's ACV is significantly lower than an equivalent clean-title vehicle, which directly affects any future insurance coverage limit under a policy that pays ACV rather than replacement cost.
 
-#### The Producer's Role in Total Loss Claims
+### The Producer's Role in Total Loss Claims
 
 Explain ACV at policy inception: The most common source of client dissatisfaction after a total loss is discovering that the payment is based on ACV — not the purchase price, not the loan payoff, not the replacement cost of a new vehicle. A client who financed a $48,000 vehicle two years ago, who owes $38,000 on the loan, and whose vehicle's ACV has depreciated to $32,000 will receive $32,000 in a total loss — leaving a $6,000 gap that the client must fund out of pocket. This gap is the exact problem that gap insurance (also called loan/lease payoff coverage) addresses. Producers who discuss ACV and gap insurance at the time of the original sale eliminate the client's surprise and the producer's E&O exposure simultaneously.
 
@@ -112,7 +112,7 @@ Discuss gap coverage for financed and leased vehicles: Gap coverage pays the dif
 
 Know the towing and storage disclosure obligation: CRS § 10-4-639 requires that insurers clearly disclose to insureds and third-party claimants what benefits are provided for towing and storage of a damaged vehicle and specifically advise about excess charges the insured may be responsible for. Producers should explain towing and rental coverage at policy inception — a client whose vehicle is stored at a body shop for six weeks during a disputed total loss claim may accumulate hundreds of dollars in daily storage fees that are not covered without a specific endorsement.
 
-### What Producers Must Communicate Before a Claim Occurs
+## What Producers Must Communicate Before a Claim Occurs
 
 The following conversations belong at every auto policy inception and renewal — not after a loss:
 
@@ -124,7 +124,7 @@ Conversation 3 — Diminished value rights: "If another driver totals or serious
 
 Conversation 4 — The appraisal clause: "If you ever disagree with what the insurer offers for your totaled or damaged vehicle, your policy has an appraisal process — you and the insurer each pick an appraiser and they determine fair value. You're not locked into the insurer's first number."
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client's vehicle was declared a total loss but they think the ACV is too low. What are their options?
 

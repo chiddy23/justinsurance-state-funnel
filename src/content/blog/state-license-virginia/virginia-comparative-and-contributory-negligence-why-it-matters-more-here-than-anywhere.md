@@ -14,7 +14,7 @@ imageAlt: "Virginia Comparative and Contributory Negligence: Why It Matters More
 
 Virginia is one of five jurisdictions in the United States — alongside Alabama, Maryland, North Carolina, and the District of Columbia — that maintains the common law doctrine of pure contributory negligence. In the remaining 45 states and territories, some form of comparative fault allows an injured plaintiff to recover even if they share partial responsibility, with their award reduced proportionally. In Virginia, the rule is absolute: a plaintiff who bears any fault — even 1% — for an accident or injury is barred from recovering anything from the defendant. This is not merely a legal technicality. It has direct, practical consequences for how Virginia insurance producers advise clients on coverage levels, policy structures, and liability protection — consequences that differ materially from what would be appropriate in a comparative negligence state.
 
-### The Legal Doctrine: What It Means
+## The Legal Doctrine: What It Means
 
 The doctrine is codified at Va. Code § 8.01-34, and its application in Virginia courts traces to Baskett v. Banks (1947): "No person is entitled to recover from another for damages which have been occasioned by his own act or his own neglect."
 
@@ -24,7 +24,7 @@ Comparison to comparative negligence:
 
 The all-or-nothing structure rewards defendants who can establish any degree of plaintiff fault, regardless of how minor.
 
-### Exceptions to the Pure Contributory Negligence Rule
+## Exceptions to the Pure Contributory Negligence Rule
 
 Virginia's contributory negligence doctrine has several recognized exceptions that preserve recovery in specific circumstances:
 
@@ -36,7 +36,7 @@ Statutory exceptions: Va. Code § 8.01-58 provides exceptions for employees of c
 
 Children under seven: Virginia courts presume children under age seven cannot be contributorily negligent.
 
-### How This Shapes Virginia Insurance Coverage Strategy
+## How This Shapes Virginia Insurance Coverage Strategy
 
 Pure contributory negligence reshapes insurance advisory in three distinct ways:
 
@@ -46,7 +46,7 @@ Pure contributory negligence reshapes insurance advisory in three distinct ways:
 
 3. The defense encourages aggressive investigation by at-fault parties' insurers. Because establishing any degree of plaintiff fault eliminates the entire claim, insurance adjusters and defense counsel in Virginia routinely conduct intensive investigations into every detail of the plaintiff's conduct. A rear-end collision victim who was briefly distracted, had a slightly cracked taillight, or failed to pull fully to the right shoulder may have that fact investigated as a potential complete bar to their claim. This dynamic makes the value of UM/UIM (the policyholder's own protection) even more concrete — it is coverage that responds regardless of how the fault determination unfolds.
 
-### Why Virginia Producers Cannot Simply Apply Out-of-State Mental Models
+## Why Virginia Producers Cannot Simply Apply Out-of-State Mental Models
 
 Producers who are licensed in multiple states and carry mental models from comparative negligence states must actively recalibrate when advising Virginia clients. Common out-of-state assumptions that are wrong in Virginia:
 
@@ -58,7 +58,7 @@ Producers who are licensed in multiple states and carry mental models from compa
 
 Producers who default to comparative negligence advisory logic when serving Virginia clients are giving their clients a materially inaccurate picture of their legal position.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What states still use pure contributory negligence, and why hasn't Virginia changed the rule?
 

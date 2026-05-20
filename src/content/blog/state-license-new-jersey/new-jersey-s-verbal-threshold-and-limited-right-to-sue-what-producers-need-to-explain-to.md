@@ -14,7 +14,7 @@ imageAlt: "New Jersey's Verbal Threshold and Limited Right to Sue: What Producer
 
 The Coverage Selection Form is one of the most consequential documents in New Jersey auto insurance — and one of the most frequently misunderstood by the policyholders who sign it. When a client chooses the Limited Right to Sue option on a standard New Jersey auto policy, they are accepting the verbal threshold as their standard for recovering pain and suffering damages. What that means in practice — which injuries qualify, which do not, and what the downstream consequences are — is a conversation that every NJ P&C producer is obligated to have at the point of sale. Failing to have it is not just poor client service. It is the kind of omission that generates E&O claims.
 
-### The Legal Framework
+## The Legal Framework
 
 New Jersey's verbal threshold is codified in N.J.S.A. 39:6A-8. The statute establishes that a person who has elected the Limited Right to Sue and is injured in an auto accident may only sue the at-fault driver for noneconomic loss — pain and suffering, emotional distress, loss of enjoyment of life — if the injury falls within one of six statutory categories:
 
@@ -32,13 +32,13 @@ A permanent injury within a reasonable degree of medical probability, other than
 
 Injuries that do not fall within any of these categories — including soft tissue injuries, sprains, strains, herniated discs without permanent neurological deficit in some cases, and other injuries that heal or are treatable — do not meet the verbal threshold. The policyholder cannot sue for pain and suffering regardless of how severe the accident was or how high their medical bills are.
 
-### Why "Verbal" and Not "Dollar"
+## Why "Verbal" and Not "Dollar"
 
 The threshold is described as "verbal" because it is defined by verbal categories — the language of the statute — rather than a monetary trigger. In states that use a dollar threshold, a claimant can sue for pain and suffering once their medical expenses exceed a set amount (for example, $2,000). In New Jersey, the threshold is categorical: no dollar amount of medical expenses unlocks the right to sue for pain and suffering unless one of the six injury categories is met.
 
 This distinction has significant practical implications. A client who sustains $30,000 in medical expenses from a herniated disc that responds to treatment and does not result in permanent impairment has not met the verbal threshold. They cannot sue for pain and suffering. Their economic damages — the $30,000 in medical bills — may still be recoverable through liability, but noneconomic loss is off the table.
 
-### The Coverage Selection Form
+## The Coverage Selection Form
 
 Under N.J.A.C. 11:3-15, insurers must provide every applicant for a standard personal auto policy with a Coverage Selection Form that explains the tort options and their consequences. The form must:
 
@@ -52,13 +52,13 @@ Be signed by the applicant before coverage is bound
 
 The Coverage Selection Form is not optional — it is a mandatory disclosure required by DOBI. A producer who fails to ensure the client receives and understands the form before signing is not in compliance with NJ auto insurance regulations.
 
-### The Household Impact
+## The Household Impact
 
 One of the most important — and most commonly overlooked — aspects of the tort option election is that it applies not just to the named insured but to all resident relatives covered under the policy. If the policyholder chooses Limited Right to Sue, every family member living in the household who is covered under that policy is also bound by the verbal threshold if they are injured in an auto accident.
 
 This creates an advisory obligation that extends beyond the named insured. A policyholder with teenage drivers, a spouse, or elderly parents in the household is making the tort election on behalf of all of them. Producers should make this explicitly clear — both verbally and by ensuring the Coverage Selection Form is reviewed carefully — because the household impact is where the most significant consequences of a misunderstood election manifest.
 
-### Premium Difference and Advisory Approach
+## Premium Difference and Advisory Approach
 
 The financial incentive for choosing Limited Right to Sue is real — it results in lower premiums, sometimes significantly so. But the premium savings must be weighed against the coverage limitation, and that weighing is the producer's job, not just the client's.
 
@@ -74,11 +74,11 @@ Documenting that the explanation was given and the Coverage Selection Form was p
 
 Producers who handle this conversation well provide genuine value. Producers who rush through it or omit it entirely face E&O exposure when clients file claims, discover the limitation, and look for someone to blame.
 
-### When the Threshold Is Contested
+## When the Threshold Is Contested
 
 In practice, whether an injury meets the verbal threshold — particularly the "permanent injury" category — is often contested in litigation. Plaintiffs argue that their injuries are permanent; insurers argue they are not. This produces a significant body of NJ case law around what constitutes a "permanent injury within a reasonable degree of medical probability." Producers do not need to be legal experts in this jurisprudence, but understanding that the permanent injury category is the most frequently litigated threshold element helps contextualize why the verbal threshold matters so much in high-density, high-litigation New Jersey.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the verbal threshold in New Jersey, and how does it differ from a dollar threshold?
 

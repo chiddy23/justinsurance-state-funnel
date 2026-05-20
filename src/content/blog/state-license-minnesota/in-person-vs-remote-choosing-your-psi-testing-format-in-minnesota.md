@@ -15,7 +15,7 @@ imageAlt: "In-Person vs. Remote: Choosing Your PSI Testing Format in Minnesota"
 
 Minnesota insurance licensing candidates have two options for taking the PSI state exam: in person at a physical PSI test center or remotely through PSI Bridge, the online proctored testing platform. Both formats deliver the same exam content, use the same passing standard, and produce results that are transmitted to the Minnesota Department of Commerce in exactly the same way. The difference is entirely in the logistics, the environment, and the technical requirements — and those differences matter enough that choosing the wrong format for your circumstances can affect your performance on exam day. This post covers every dimension of both formats so you can make the right choice before you schedule.
 
-### What Is the Same Regardless of Format
+## What Is the Same Regardless of Format
 
 Before examining the differences, confirm what does not change based on testing format:
 
@@ -33,9 +33,9 @@ Exam results validity is identical. Three years from the date of passing, regard
 
 Retake rules are identical. 24-hour wait between attempts; no limit on retakes; $45 per attempt regardless of format.
 
-### In-Person Testing: The Complete Picture
+## In-Person Testing: The Complete Picture
 
-#### PSI Test Center Locations in Minnesota
+### PSI Test Center Locations in Minnesota
 
 PSI operates insurance exam centers across Minnesota. Current confirmed locations include:
 
@@ -51,7 +51,7 @@ Brainerd: 501 W. (verify current address through PSI scheduling portal)
 
 Confirm current hours and availability for your preferred location through the PSI scheduling portal at test-takers.psiexams.com/mnins or by calling (866) 395-1006. Test center hours and availability vary — some centers may not offer exams every day of the week.
 
-#### Scheduling In-Person
+### Scheduling In-Person
 
 Schedule through the PSI portal or by phone. Select your preferred test center location, your exam, and your preferred date and time. Exam slots are typically available with shorter lead time than remote testing, though this depends on test center demand. Payment of the $45 exam fee is required at scheduling — not at the test center.
 
@@ -59,7 +59,7 @@ Fingerprinting on exam day: The most significant logistical advantage of in-pers
 
 Bring your fingerprinting consent form if you plan to be fingerprinted on exam day. Confirm with PSI that the specific test center you are using offers fingerprinting services during the hours you are scheduled. Not every location may offer fingerprinting at every session.
 
-#### What to Bring to the In-Person Test Center
+### What to Bring to the In-Person Test Center
 
 Required:
 
@@ -83,7 +83,7 @@ Food, chewing gum, tobacco products
 
 A beverage is typically permitted — check the specific test center's policy. All prohibited items must remain in your vehicle or be secured in the storage space provided by the test center. Do not bring anything you cannot secure outside the testing room.
 
-#### Arrival and Check-In Process
+### Arrival and Check-In Process
 
 Arrive 30 minutes before your scheduled exam time. The check-in process includes identity verification, a review of the testing rules, biometric capture or signature verification, securing your personal items, and being escorted to your workstation. Candidates who arrive late — even by a few minutes — may not be admitted and will forfeit their $45 exam fee. The test center does not hold exams for late arrivals.
 
@@ -93,7 +93,7 @@ Breaks: The exam clock continues running during any breaks. There are no schedul
 
 At completion: Your score appears on screen immediately. The proctor prints or provides your official score report before you leave. Read the score report carefully — if you failed, the diagnostic breakdown by section is the foundation of your retake strategy and is most reliably captured at the testing center.
 
-#### Who In-Person Testing Is Best Suited For
+### Who In-Person Testing Is Best Suited For
 
 Candidates who want to combine exam and fingerprinting in one appointment. This is the primary logistical advantage of in-person testing for Minnesota applicants. Completing both in a single visit eliminates scheduling complexity and accelerates the application timeline.
 
@@ -105,9 +105,9 @@ Candidates who perform better with structured, separation from distractions. Som
 
 Candidates who live near a PSI test center. If you live within 20–30 minutes of a test center, the logistical overhead of in-person testing is minimal. The combination of proximity plus the fingerprinting convenience makes in-person the obvious choice.
 
-### Remote Testing via PSI Bridge: The Complete Picture
+## Remote Testing via PSI Bridge: The Complete Picture
 
-#### Technical Requirements — Verify Before You Schedule
+### Technical Requirements — Verify Before You Schedule
 
 Remote testing through PSI Bridge requires a compatible technical setup. Verify every element before scheduling your remote exam — discovering a compatibility issue on exam day is not recoverable.
 
@@ -131,13 +131,13 @@ System compatibility check: Run PSI's compatibility checker at syscheck.bridge.p
 
 Internet connection: A stable, wired or strong wireless connection is required. Unstable internet connections that drop during the exam can disrupt your session and in serious cases may cause the exam to terminate. If your home internet connection is unreliable, test from a location with a more stable connection or schedule in person.
 
-#### Scheduling Remote Testing
+### Scheduling Remote Testing
 
 Schedule at the PSI portal just as you would for in-person testing — select your exam, then select a remote testing time slot. Remote testing slots may have different availability than in-person slots depending on proctor scheduling. Remote exams can be scheduled at least two days in advance.
 
 Important: Exam scheduling requires that you select your testing format at the time of scheduling. Confirm your format choice before completing the registration — switching from remote to in-person or vice versa requires canceling and rescheduling, which must be done at least 48 hours before the appointment to avoid forfeiting the exam fee.
 
-#### Day-of Remote Testing: Step by Step
+### Day-of Remote Testing: Step by Step
 
 Log in 30 minutes before your scheduled exam time. This is not optional — early login is required to complete identity verification, room scan, and system check before the exam clock starts. Candidates who log in at the exact scheduled time will not have adequate time for check-in and may miss the start of their testing window.
 
@@ -175,7 +175,7 @@ If a technical issue occurs: PSI's technical support is available during the exa
 
 At completion: Your score appears on screen exactly as it does for in-person testing. Your score report is available electronically after the session.
 
-#### Who Remote Testing Is Best Suited For
+### Who Remote Testing Is Best Suited For
 
 Candidates who live far from PSI test centers. If the nearest test center is 60–90 minutes away, remote testing eliminates significant travel time and cost. Candidates in greater Minnesota — Duluth, Bemidji, Mankato, St. Cloud — may find remote testing more practical than driving to the Twin Cities or Rochester.
 
@@ -185,9 +185,9 @@ Candidates with scheduling constraints that match remote availability. Remote te
 
 Candidates who are uncomfortable in unfamiliar physical environments. Some candidates perform better in the familiar environment of their own home or office than in the unfamiliar, observed environment of a test center. If testing center environments produce anxiety that affects performance, remote testing may produce a calmer exam experience.
 
-### Side-by-Side Comparison
+## Side-by-Side Comparison
 
-### The Decision: How to Choose
+## The Decision: How to Choose
 
 Choose in-person if:
 
@@ -213,7 +213,7 @@ Your scheduling needs are better served by the time slot availability of remote 
 
 You perform better in a familiar personal environment than in a formal test center setting
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I scheduled a remote exam but my computer failed the PSI compatibility check the day before. What do I do?
 

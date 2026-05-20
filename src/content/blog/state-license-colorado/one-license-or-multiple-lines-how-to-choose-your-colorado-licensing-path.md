@@ -14,7 +14,7 @@ imageAlt: One License or Multiple Lines? How to Choose Your Colorado Licensing P
 
 One of the most consequential decisions a Colorado insurance license candidate makes before starting [prelicensing](/colorado/prelicensing) is which line — or lines — of authority to pursue. The answer is not universal. It depends on your target market, career path, employer, and long-term income goals. Choosing the wrong line wastes time and money on prelicensing education you will not use. Choosing too few lines limits your ability to serve clients and earn commissions across their complete insurance picture. This post explains every major line available in Colorado, who should pursue each one, and how multiple lines interact in the licensing and CE framework.
 
-### Colorado's Major Lines of Authority
+## Colorado's Major Lines of Authority
 
 Life authorizes the sale of life insurance policies and annuities. This includes term life, whole life, universal life, variable life (combined with a FINRA securities registration), and fixed and indexed annuities. Every producer who advises clients on income replacement, estate planning, retirement income, or business continuation needs Life authority.
 
@@ -32,7 +32,7 @@ Surplus Lines authorizes the placement of insurance with non-admitted carriers �
 
 Variable Products authorizes the sale of variable life insurance and variable annuities. This authority requires both a Colorado Life license and active FINRA registration (Series 6 or Series 7 securities license). It is pursued by producers who want to offer investment-oriented life and annuity products. FINRA registration is a separate process with its own requirements — variable products licensure in Colorado is a combination of DOI and FINRA compliance.
 
-### Decision Framework: Which Lines Do You Need?
+## Decision Framework: Which Lines Do You Need?
 
 Pure Life and Health career (individual markets, group benefits, Medicare): → Combined Life + Accident & Health license (90-hour prelicensing, combined exam)
 
@@ -44,7 +44,7 @@ Full-service multi-line career: → Property + Casualty + Life + Accident & Heal
 
 Captive carrier employee: → Follow your employer's guidance — many captive carriers specify which lines they require and may support prelicensing costs for required lines
 
-### How Multiple Lines Affect CE
+## How Multiple Lines Affect CE
 
 One of the most producer-friendly aspects of Colorado's CE framework is that the 24-hour biennial CE requirement does not multiply with additional lines. Regardless of whether you hold one line or four, you complete 24 hours of CE every two years.
 
@@ -58,7 +58,7 @@ The only constraint is the composition of those 24 hours:
 
 For dual-line holders (e.g., Life/A&H and Property/Casualty), the 18 major-lines hours can be split between both lines or concentrated in one — the producer has flexibility. For Property or Personal Lines producers, at least 3 of the 18 major-lines hours must be in homeowners CE.
 
-### The Case for Getting Multiple Lines Early
+## The Case for Getting Multiple Lines Early
 
 Most experienced Colorado producers recommend pursuing multiple lines at the outset of a career rather than adding them piecemeal later. The reasons are practical:
 
@@ -70,7 +70,7 @@ CE efficiency: Since CE does not double with additional lines, there is no ongoi
 
 Market access: Colorado's Front Range tech economy, outdoor recreation industry, cannabis sector, and agricultural markets all create cross-line insurance advisory opportunities. A producer limited to a single line cannot serve these markets comprehensively.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Is Personal Lines authority sufficient to build a full personal insurance career in Colorado, or do I need full Property and Casualty?
 

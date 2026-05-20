@@ -14,7 +14,7 @@ imageAlt: "Colorado vs. Utah vs. Wyoming: How the Licensing Process Compares"
 
 If you are entering the insurance business in the Mountain West, or already licensed in one of these three states and evaluating whether to expand, the differences between Colorado, Utah, and Wyoming's licensing processes matter more than most candidates expect. All three use Pearson VUE or Prometric for exams, all three renew biennially on the birth month cycle, and all three require 24 CE hours including 3 ethics hours. But below those surface similarities, the three states diverge significantly on [prelicensing](/colorado/prelicensing) requirements, fingerprinting, exam fees, application costs, score validity, and the timeline from decision to licensed. This post maps every material difference in one place.
 
-### The Single Biggest Difference: Prelicensing Education
+## The Single Biggest Difference: Prelicensing Education
 
 The most consequential structural difference among these three states is Colorado's mandatory prelicensing requirement.
 
@@ -26,23 +26,23 @@ Wyoming: No prelicensing education requirement. Like Utah, candidates schedule d
 
 The practical implication: A motivated candidate in Utah or Wyoming can go from decision to exam appointment in 48 hours — the minimum Pearson VUE/Prometric scheduling window. A Colorado candidate cannot start selling until after completing 50 hours of coursework, passing a proctored Certificate Exam, and then passing the state exam. Realistically, Colorado's total pre-license timeline is 3–6 weeks minimum; Utah and Wyoming can be done in under 2 weeks for a well-prepared candidate.
 
-### Exam Vendors and Fees
+## Exam Vendors and Fees
 
 Colorado and Utah are meaningfully less expensive to exam. Wyoming's exam fees are substantially higher — $96 for a single-line exam versus Colorado's $47 and Utah's $32–$45. A Wyoming candidate pursuing separate Property and Casualty licenses would pay $192 in exam fees; a Colorado candidate can take both in one session for $47.
 
-### Fingerprinting Requirements
+## Fingerprinting Requirements
 
 Colorado is the only one of the three with no fingerprinting requirement at any stage. Utah's fingerprinting is integrated into the test center experience — you complete the license application online via kiosk at the Prometric center, then get fingerprinted before leaving. Wyoming's process is more cumbersome: you apply first, wait for the DOI to mail you a fingerprinting packet, take the packet to local law enforcement, get ink-rolled fingerprints taken (not live scan), and mail the completed card back to the DOI. Wyoming's processing time from application to license issuance averages 30 days — driven almost entirely by the fingerprint-by-mail workflow. Colorado and Utah process applications in 3–10 business days.
 
-### Application Fees
+## Application Fees
 
 Wyoming's application fee is more than double Colorado's and one-third higher than Utah's. A candidate seeking both Property and Casualty in Wyoming pays $200 in application fees; the same candidate in Colorado pays $94–$105.
 
-### Score Validity Windows
+## Score Validity Windows
 
 Utah's 90-day score validity window is the strictest of the three — and a meaningful gotcha for candidates who pass the exam and then delay the application. If a Utah candidate passes in January and does not apply by the end of March, the scores expire and the exam must be retaken at full cost. Colorado's one-year window is far more forgiving. Wyoming's rules are less explicitly stated, but the DOI's guidance is to apply promptly after passing.
 
-### License Renewal: Deadlines and Fees
+## License Renewal: Deadlines and Fees
 
 All three states use a biennial birth-month renewal cycle — licenses expire on the last day of the licensee's birth month every two years. This is consistent across Colorado, Utah, and Wyoming.
 
@@ -50,13 +50,13 @@ Colorado's $27/line renewal fee is the lowest of the three by a wide margin. Wyo
 
 No grace periods: All three states operate without a grace period after the license expiration date. Colorado, Utah, and Wyoming all require that you either renew on time or enter the formal reinstatement process. Transacting insurance on an expired license is prohibited in all three states.
 
-### CE Requirements: What's the Same and What Differs
+## CE Requirements: What's the Same and What Differs
 
 All three states require 24 CE hours per biennial period including 3 ethics hours. The differences are in the fine print:
 
 Utah's classroom requirement (minimum 12 of 24 hours in classroom or classroom-equivalent format) stands out — it is the strictest of the three for CE format. Colorado and Wyoming have no classroom minimums. Utah also has no CE carryover — any excess CE hours earned in a prior period are simply lost, whereas Colorado and Wyoming both allow up to 12 hours to carry over if earned in the final 120 days of the renewal period.
 
-### Non-Resident Licensing: How Reciprocity Works
+## Non-Resident Licensing: How Reciprocity Works
 
 All three states participate in reciprocity for non-resident licensing, meaning if you hold an active resident license in good standing in your home state, you can obtain a non-resident license without taking the state exam.
 
@@ -68,9 +68,9 @@ Wyoming: No exam required for non-residents licensed in good standing in home st
 
 Reciprocity advantage for multi-state expansion: Colorado is the cheapest non-resident expansion of the three ($47–$52.60/line with no fingerprinting). Wyoming is the most expensive ($150/line). For a producer already licensed in one Mountain West state looking to add the other two, the cost and complexity order from least to most is: Colorado → Utah → Wyoming.
 
-### The Complete Side-by-Side Summary
+## The Complete Side-by-Side Summary
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I am already licensed in Colorado, what is the fastest and cheapest way to add Utah and Wyoming non-resident licenses?
 

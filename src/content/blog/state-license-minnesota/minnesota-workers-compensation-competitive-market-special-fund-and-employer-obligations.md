@@ -14,7 +14,7 @@ imageAlt: "Minnesota Workers' Compensation: Competitive Market, Special Fund, an
 
 Minnesota workers' compensation law is straightforward in its coverage threshold — one employee triggers mandatory coverage, with no minimum hours, no minimum wage, and no probationary grace period — and unforgiving in its penalties for non-compliance. The system operates through a competitive insurance market where private carriers compete alongside a state-administered assigned risk mechanism, with the Special Compensation Fund serving as the safety net when an injured worker's employer has no coverage. For producers serving commercial clients of any size, understanding Minnesota's workers' compensation framework — the market structure, the coverage requirements, the benefit formula, the penalty system, and the exemptions — is foundational knowledge for every commercial account conversation.
 
-### The Statutory Basis
+## The Statutory Basis
 
 Minnesota's workers' compensation system is governed primarily by the Minnesota Workers' Compensation Act, codified in Minn. Stat. Chapter 176. Chapter 176 establishes the exclusive remedy doctrine, defines compensable injuries, specifies required benefits, establishes the penalty framework, and governs the overall administration of the system.
 
@@ -26,7 +26,7 @@ Minnesota Department of Commerce: Regulates the insurance carriers who write wor
 
 This dual-agency structure — DLI for claims and employer compliance; DOC for carrier regulation — is a specifically testable Minnesota distinction that frequently appears on the licensing exam.
 
-### The Competitive Market Structure
+## The Competitive Market Structure
 
 Minnesota operates a competitive market system. Unlike the four monopolistic states — North Dakota, Ohio, Washington, and Wyoming — where employers must buy coverage from a state-run fund, Minnesota gives employers choices. Indeed
 
@@ -38,7 +38,7 @@ The assigned risk plan: The Minnesota Workers' Compensation Assigned Risk Plan i
 
 Self-insurance: Large employers with sufficient financial resources may apply to the Department of Labor and Industry for approval to self-insure their workers' compensation obligations. Self-insured employers pay workers' compensation benefits directly rather than through an insurer and must demonstrate financial capacity to meet their obligations. Self-insurance approval requires DLI review and ongoing financial reporting.
 
-### The Employer Coverage Requirement
+## The Employer Coverage Requirement
 
 Threshold: One employee. Minnesota requires workers' compensation coverage from the moment an employer has any employee — full-time, part-time, seasonal, temporary, or family member employed by the business. There is no minimum hours threshold and no minimum wage threshold. Minnesota requires workers' compensation coverage from the first employee — there's no minimum threshold to meet. Indeed
 
@@ -60,7 +60,7 @@ Casual employees: Workers whose employment is casual — not regular or recurrin
 
 The practical implication for producers: Every small business client who hires any worker — even one part-time employee — triggers the workers' compensation coverage requirement. The most common compliance failure among small businesses is the employer who hires their first helper without realizing that the single-employee threshold has been crossed.
 
-### The Workers' Compensation Policy Structure
+## The Workers' Compensation Policy Structure
 
 The standard workers' compensation policy has three coverage parts, each addressing a distinct exposure:
 
@@ -70,7 +70,7 @@ Part Two — Employers' Liability: Covers the employer's liability for work-rela
 
 Part Three — Other States Insurance: Extends Part One coverage to employees who work temporarily in other states not listed in the policy's declarations. Critical for Minnesota employers whose employees travel to other states for project work or client service. Without Part Three, a Minnesota employee injured while working temporarily in Wisconsin would not have Minnesota workers' compensation benefits covering that injury.
 
-### Required Benefits Under Minnesota Workers' Compensation
+## Required Benefits Under Minnesota Workers' Compensation
 
 Minnesota workers' compensation provides comprehensive benefits to injured employees — all mandatory, none subject to policy limits:
 
@@ -90,7 +90,7 @@ Vocational rehabilitation: Retraining, education, and job placement assistance f
 
 Death benefits: Wage replacement payments to surviving dependents — spouse, children — if an employee dies from a work-related injury or illness. Funeral expenses are also covered up to a statutory maximum. Inszone Insurance
 
-### The Exclusive Remedy Doctrine
+## The Exclusive Remedy Doctrine
 
 Workers' compensation is the exclusive remedy for employees injured in the course and scope of employment — Minn. Stat. §176.031. An injured employee covered by workers' compensation cannot sue the employer in civil court for negligence arising from the same work injury. The trade is straightforward: the employee gives up tort litigation rights and receives guaranteed, no-fault benefits; the employer provides those benefits without needing to establish fault.
 
@@ -98,7 +98,7 @@ Exceptions to exclusive remedy: The exclusive remedy doctrine has limited except
 
 Third-party liability: The exclusive remedy protects the employer — not third parties. An employee injured by a defective machine manufactured by a third party may sue that manufacturer in tort while simultaneously receiving workers' compensation benefits from the employer. The employer's workers' compensation insurer may have a subrogation right against the third-party tortfeasor.
 
-### The Penalty Framework for Non-Coverage
+## The Penalty Framework for Non-Coverage
 
 Minnesota's penalties for employer non-compliance with the workers' compensation coverage requirement are among the most significant in the country for a competitive market state:
 
@@ -110,7 +110,7 @@ The Special Compensation Fund and the 65% surcharge: When an employee is injured
 
 The 65% surcharge transforms an already costly uninsured period into an existential financial threat for small employers. A single worker's injury generating $100,000 in workers' compensation benefits creates a $165,000 direct obligation for the uninsured employer — $100,000 in benefit reimbursement plus $65,000 in penalty. This cost structure makes even expensive workers' compensation coverage dramatically less costly than operating without it.
 
-### Premium Calculation: How Workers' Compensation Premiums Are Determined
+## Premium Calculation: How Workers' Compensation Premiums Are Determined
 
 Workers' compensation premiums are calculated using three primary variables:
 
@@ -122,7 +122,7 @@ Experience modification factor (EMR): The EMR compares the employer's specific c
 
 The Minnesota Contractors Premium Adjustment Program (MCPAP): This construction-specific program rewards contractors paying higher wages with premium credits of 5% to 25% based on average hourly wages. MCPAP creates a financial incentive for construction employers to pay above-average wages — higher wages produce both premium credits and typically better-qualified, safer workforces. ShunIns
 
-### What Producers Need to Know for Client Conversations
+## What Producers Need to Know for Client Conversations
 
 The single-employee conversation: Every small business client — sole proprietors who hire even one part-time worker, contractors who use occasional helpers, restaurant owners with their first server — needs to know that Minnesota's one-employee threshold means coverage is required from the first hire. The most common workers' compensation compliance failure is the employer who does not realize the obligation has triggered.
 
@@ -130,7 +130,7 @@ The independent contractor misclassification risk: Employers who pay workers as 
 
 The EMR impact conversation: Producers who help clients understand that every claim affects their EMR for three years — and that a strong safety program and early return-to-work program can significantly improve EMR trajectory — provide genuine value beyond policy placement. An employer who moves from a 1.25 EMR to a 0.85 EMR over three years reduces their premium by 32% independent of any rate change.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the difference between Minnesota's competitive workers' compensation market and a monopolistic state fund?
 

@@ -14,7 +14,7 @@ imageAlt: "Virginia Annuity Best Interest Training: The One-Time 4-Hour Course P
 
 Before any Virginia insurance producer can sell, solicit, or negotiate an annuity product, they must complete a one-time 4-hour Annuity Best Interest training course. This is not a suggestion — it is a licensing requirement under Virginia's adoption of the NAIC 2020 Annuity Transactions Model Regulation, codified in Title 38.2 of the Code of Virginia. Producers who sell annuities without completing the training are in violation of state law. Producers who completed an older annuity suitability course before Virginia adopted the best interest standard may or may not have satisfied the current requirement, depending on when and where they trained. This post clarifies exactly what the requirement covers, who it applies to, and how to confirm compliance.
 
-### What the Best Interest Standard Requires
+## What the Best Interest Standard Requires
 
 Virginia's annuity training requirement reflects the NAIC's 2020 shift from a suitability standard to a best interest standard for annuity sales. The distinction matters:
 
@@ -24,7 +24,7 @@ Best interest standard (current rule): The producer must act in the consumer's b
 
 The 4-hour training covers this framework: the best interest obligation, the four component obligations (care, disclosure, conflict of interest, and documentation), the profile information that must be collected before an annuity recommendation, and Virginia-specific annuity regulations.
 
-### Who Must Complete the Training
+## Who Must Complete the Training
 
 Every Virginia resident producer who sells, solicits, or negotiates annuity products must complete the training before their first annuity transaction. This applies regardless of:
 
@@ -38,15 +38,15 @@ Producers who completed annuity suitability training in a state that has NOT ado
 
 Producers who completed annuity best interest training in a state that HAS adopted the NAIC 2020 Annuity Model Law satisfy Virginia's requirement — no additional training is needed. Virginia's rule explicitly recognizes reciprocal compliance from states that have adopted the same NAIC model.
 
-### Is This a One-Time Requirement?
+## Is This a One-Time Requirement?
 
 Yes — the 4-hour annuity best interest training is a one-time requirement. There is no ongoing renewal obligation for annuity training (unlike LTC Partnership training, which requires 4-hour ongoing training every 24 months). Once you have completed the qualifying 4-hour course, you are permanently compliant with this specific requirement as long as your Virginia license remains active and no further changes to the regulatory standard require updated training.
 
-### How It Counts Toward CE
+## How It Counts Toward CE
 
 The 4-hour annuity best interest training counts as CE credit toward your biennial CE requirement. For a single-license (L/A/H) producer with a 16-hour biennial CE obligation, completing this training satisfies 4 of 16 required hours in the cycle in which it is completed. Since the training is one-time, it only counts toward CE in the cycle during which you first complete it — it does not generate ongoing CE credit in future biennia.
 
-### Confirming Your Compliance Status
+## Confirming Your Compliance Status
 
 If you are unsure whether your prior annuity training satisfied Virginia's current best interest standard, check two things:
 
@@ -56,7 +56,7 @@ If you are unsure whether your prior annuity training satisfied Virginia's curre
 
 Your CE transcript on Sircon shows all courses credited to your Virginia CE record — check whether an annuity best interest or annuity suitability course appears there. If the training is not in your transcript, contact Pearson VUE to confirm current compliance status before your next annuity transaction.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Does the Virginia annuity best interest training apply to all annuity products, or only certain types?
 

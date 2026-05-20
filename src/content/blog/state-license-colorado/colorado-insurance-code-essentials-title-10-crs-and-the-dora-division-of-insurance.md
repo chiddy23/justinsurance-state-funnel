@@ -16,7 +16,7 @@ Every insurance transaction in Colorado — every policy sold, every license iss
 
 For Colorado insurance producers, Title 10 is not academic background material. Its provisions are directly tested on the Pearson VUE licensing exam, referenced in every carrier appointment agreement, and enforced through license suspension, civil penalties, and criminal prosecution when violated. This post maps the structure of Title 10, explains DORA and the Division of Insurance's role and authority, and identifies the specific provisions every Colorado producer needs to know.
 
-### What Title 10 Is and How It Is Organized
+## What Title 10 Is and How It Is Organized
 
 The Colorado Revised Statutes are the codified laws of Colorado, organized into titles by subject matter. Title 10 governs the entire business of insurance in the state. It is a large, detailed body of law — dozens of articles covering every aspect of insurance regulation from market entry to consumer protection to fraud enforcement.
 
@@ -38,7 +38,7 @@ Article 19 — Long-Term Care Insurance: Governs LTC policy standards, the Color
 
 Other Articles cover workers' compensation insurance (Article 4), property and casualty regulation (Articles 4 and 5 through the Division's regulatory authority), surplus lines (Article 5), guaranty funds (Articles 4 and 5), and specialty lines.
 
-### DORA: The Department of Regulatory Agencies
+## DORA: The Department of Regulatory Agencies
 
 The Division of Insurance does not operate as a freestanding state agency. It operates as a division within DORA — the Department of Regulatory Agencies — Colorado's umbrella agency for professional and industry regulation. DORA oversees multiple regulatory divisions including the Division of Securities, the Division of Real Estate, the Division of Professions and Occupations, and the Division of Insurance.
 
@@ -46,7 +46,7 @@ DORA's role in insurance regulation is primarily administrative — it provides 
 
 DORA's address and contact information: Colorado Department of Regulatory Agencies — Division of Insurance 1560 Broadway, Suite 850 Denver, CO 80202 Phone: (303) 894-7499 | Toll-free outside Denver metro: (800) 930-3745 Website: doi.colorado.gov
 
-### The Division of Insurance: Structure and Mission
+## The Division of Insurance: Structure and Mission
 
 The Colorado Division of Insurance (DOI) is the state agency that administers Title 10 on a day-to-day basis. Its core functions fall into three categories: licensing and market entry regulation, market conduct and consumer protection, and financial solvency oversight.
 
@@ -56,7 +56,7 @@ Market conduct and consumer protection: The Division monitors how licensed entit
 
 Financial solvency oversight: The Division monitors the financial condition of insurers licensed in Colorado to ensure they can pay claims. It reviews annual financial statements, conducts financial examinations, and coordinates with other state regulators and the NAIC on multi-state insurer oversight.
 
-### The Commissioner of Insurance: Authority and Powers
+## The Commissioner of Insurance: Authority and Powers
 
 The Division of Insurance is led by the Commissioner of Insurance, an executive appointed under DORA's administrative structure. The Commissioner's authority under Title 10 is broad and specifically defined.
 
@@ -78,7 +78,7 @@ Hearings and due process (CRS §§ 10-1-108 and 10-1-109): Before the Commission
 
 The summary cease and desist exception: In cases where the Commissioner determines that immediate action is necessary to prevent significant harm to the public, a summary cease and desist order may be issued without a prior hearing. The affected party is still entitled to a prompt hearing after the summary order is issued, but the order takes effect immediately.
 
-### The Division's Regulatory Instruments: Bulletins and Regulations
+## The Division's Regulatory Instruments: Bulletins and Regulations
 
 The Commissioner implements Title 10 through two primary instruments below the statutory level:
 
@@ -86,7 +86,7 @@ Division of Insurance Regulations (3 CCR 702): Formal regulations adopted throug
 
 Division Bulletins: The Division's interpretation of existing law or general statements of Division policy. Bulletins do not have the force of law — they are not binding in the way regulations are — but they represent the Division's position on how it will interpret and enforce specific statutory or regulatory provisions. The NFIP training bulletin and the LTC Partnership training bulletin are examples producers encounter in their practice. The DOI's website at doi.colorado.gov lists current regulations and bulletins.
 
-### Key Title 10 Provisions Every Producer Must Know
+## Key Title 10 Provisions Every Producer Must Know
 
 CRS § 10-2-401 — Licensing requirements: Defines who must be licensed, what acts constitute transacting insurance, and the lines of authority available in Colorado. Controlled business prohibition (§ 10-2-401(4)) is defined here.
 
@@ -106,7 +106,7 @@ CRS § 10-16-108 — Health insurance continuation: Colorado state continuation 
 
 CRS § 10-19-101 through 10-19-115 — Long-Term Care Insurance: LTC policy standards, Partnership program requirements, and producer training obligations.
 
-### How Title 10 and DOI Regulations Interact in Practice
+## How Title 10 and DOI Regulations Interact in Practice
 
 Title 10 establishes the framework and the Commissioner's authority. DOI regulations implement the framework in operational detail. Together they govern virtually every aspect of a producer's compliance obligations.
 
@@ -114,7 +114,7 @@ When a producer sells an annuity, three layers of law apply simultaneously: CRS 
 
 When a producer's license is threatened, Title 10's procedural provisions (notice, hearing, appeal rights) are the tools that protect the producer from arbitrary action. When a consumer files a complaint against a producer, Title 10's enforcement provisions are the mechanism by which the Division investigates and resolves it. Title 10 is not background law — it is the operating framework within which every Colorado insurance transaction takes place.
 
-### The DOI and Other State Agencies: Important Distinctions
+## The DOI and Other State Agencies: Important Distinctions
 
 Two regulatory distinctions matter for Colorado producers:
 
@@ -122,7 +122,7 @@ DOI vs. Division of Workers' Compensation (DWFC): The Colorado DOI regulates the
 
 DOI vs. Colorado Division of Securities: Variable life insurance and variable annuities are regulated as securities products in addition to insurance products. The securities side of those products falls under the Colorado Division of Securities (and FINRA at the federal level). The insurance side falls under the DOI. A producer selling variable annuities must satisfy both regulators' requirements — a DOI-issued Life license and a FINRA securities registration — because both agencies have jurisdiction over different aspects of the product.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Where can I access the full text of Title 10 and the DOI's regulations?
 

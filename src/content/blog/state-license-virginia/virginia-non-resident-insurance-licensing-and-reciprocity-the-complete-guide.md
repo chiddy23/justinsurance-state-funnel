@@ -14,7 +14,7 @@ imageAlt: "Virginia Non-Resident Insurance Licensing and Reciprocity: The Comple
 
 Virginia actively participates in the national non-resident producer licensing framework, making it relatively straightforward for licensed producers from other states to obtain Virginia non-resident authority — and for Virginia residents to obtain non-resident licenses in other states. Virginia grants non-resident licenses in the same lines of authority the applicant holds in their home state, without requiring a separate Virginia exam in most cases. The practical value for producers is significant: the Mid-Atlantic and Southeast corridor means that many of Virginia's client markets extend into neighboring Maryland, North Carolina, Tennessee, and West Virginia — and having multi-state authority expands the accounts you can serve without relocating.
 
-### The Core Rule: Reciprocity Without Re-Examination
+## The Core Rule: Reciprocity Without Re-Examination
 
 Under Virginia Code § 38.2-1836, Virginia issues non-resident producer licenses based on the producer's home state license in good standing. If you hold an active Property & Casualty license in North Carolina, you can apply for a Virginia non-resident P&C license without retaking the Prometric exam. If you hold a Life & Health license in Maryland, you can apply for a Virginia non-resident L&H license through NIPR, pay the $15 per-line fee, and receive Virginia authority based on your Maryland license.
 
@@ -30,7 +30,7 @@ You must not be under investigation, disciplinary action, or license suspension 
 
 No exam required. Virginia waives the Prometric exam for non-resident applicants in reciprocal states. The application is purely administrative.
 
-### Non-Resident Application Process
+## Non-Resident Application Process
 
 Platform: NIPR (nipr.com) or Sircon (sircon.com/virginia)
 
@@ -50,13 +50,13 @@ No CHRR required for non-residents. Virginia does not require a separate Virgini
 
 Processing time: Applications are processed in the same 15-business-day window as resident applications.
 
-### Non-Resident CE Requirements
+## Non-Resident CE Requirements
 
 Non-resident producers who hold a Virginia non-resident license are not required to complete Virginia CE. Virginia accepts CE compliance from the producer's home state as satisfying the Virginia [continuing education](/virginia/continuing-education) requirement. If you are CE-compliant in your resident state, you are CE-compliant in Virginia.
 
 Important exception for LTC: Non-resident producers who sell Long-Term Care Partnership products in Virginia must complete the initial 8-hour LTC training and the 2-hour Virginia LTC Partnership course before selling LTC Partnership policies in the state, regardless of their home state's LTC training completion. They must also complete the 4-hour ongoing LTC training every 24 months thereafter.
 
-### Virginia Residents Obtaining Non-Resident Licenses
+## Virginia Residents Obtaining Non-Resident Licenses
 
 Virginia-licensed producers who want to sell in neighboring states should pursue non-resident licenses in those states. The process is symmetric: most states accept a Virginia resident license in good standing as the basis for issuing a non-resident license in the same lines without re-examination.
 
@@ -76,7 +76,7 @@ Washington, DC: DC participates in reciprocal licensing; Virginia producers can 
 
 The most valuable multi-state combinations for Virginia producers depend on where their clients are. Northern Virginia producers serving the DC metro area benefit from DC and Maryland non-resident licenses. Hampton Roads producers may benefit from North Carolina authority. Southwest Virginia producers working in the Appalachian corridor benefit from West Virginia and Tennessee authority.
 
-### Transferring Your Resident License to Virginia
+## Transferring Your Resident License to Virginia
 
 If you are relocating to Virginia and hold a resident license in another state, Virginia allows you to transfer your resident license status within 90 days of canceling your previous resident license — without retaking the Prometric exam.
 
@@ -96,7 +96,7 @@ If you miss the 90-day transfer window, you must satisfy all Virginia resident [
 
 Virginia's system verifies license status automatically through the NAIC Producer Database — no letter of certification from your prior state is required.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Do I need to take the Virginia Prometric exam if I already hold a license in another state?
 

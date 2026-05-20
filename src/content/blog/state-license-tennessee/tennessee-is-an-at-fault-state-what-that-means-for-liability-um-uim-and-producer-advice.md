@@ -14,7 +14,7 @@ imageAlt: "Tennessee Is an At-Fault State: What That Means for Liability, UM/UIM
 
 Tennessee's classification as an at-fault state is not a technicality — it is the structural foundation that determines how every auto insurance claim is handled, which coverages matter most for Tennessee drivers, and what producers must explain to clients who assume their own insurance will take care of them regardless of who caused an accident. In a no-fault state, each driver's own coverage pays their own medical expenses first. In Tennessee, the driver who caused the accident pays for the injuries and damages they caused — through their liability insurance. The injured party waits for that process to work before recovering anything from the responsible driver's insurer. This post goes deeper than the previous post's coverage of the 25/50/25 minimums into the practical implications of Tennessee's at-fault system: how the fault determination actually works, what happens when the at-fault driver has no insurance or insufficient insurance, the specific advisory conversations producers must have with Tennessee auto clients, and the coverage structures that protect clients when the at-fault system fails to deliver what the injured party needs.
 
-### The Legal Foundation of Tennessee's At-Fault System
+## The Legal Foundation of Tennessee's At-Fault System
 
 Tennessee's at-fault auto insurance system is grounded in tort law — the civil law framework that holds people financially responsible for the harm their negligence causes to others. When a Tennessee driver causes an accident through negligence — running a red light, following too closely, driving while distracted — they have committed a tort. The injured party has a legal right to recover their damages from the negligent party.
 
@@ -24,17 +24,17 @@ How Tennessee's system differs from no-fault states: In no-fault states like Mic
 
 The Modified Comparative Fault Act: Tennessee's specific version of the at-fault system is codified in the Tennessee Comparative Fault Act. Under this framework, contributory negligence no longer completely bars recovery (as it once did under the older contributory negligence doctrine). Instead, recovery is possible for claimants who bear less than 50% of the fault — but it is reduced proportionally by their fault percentage. At 50% or more fault, recovery is completely barred.
 
-### How Fault Is Actually Determined
+## How Fault Is Actually Determined
 
 The at-fault system's practical operation depends entirely on how fault is determined — and that determination is less straightforward than clients often assume.
 
-#### At the Accident Scene
+### At the Accident Scene
 
 Police report: When law enforcement responds to an accident, the officer prepares an accident report that typically identifies which driver received citations, describes the physical evidence observed, documents witness statements, and may include the officer's preliminary assessment of how the accident occurred. The police report is frequently the first document an insurer reviews when investigating fault — but it is not conclusive. Insurers conduct independent investigations.
 
 Immediate actions that affect fault: How a driver behaves at the accident scene affects the subsequent fault investigation. Admitting fault, making statements about what happened, or apologizing can be used in subsequent proceedings. Producers who advise clients on auto insurance should note — without practicing law — that clients are generally advised to limit scene statements to factual descriptions for the police report.
 
-#### The Insurance Investigation
+### The Insurance Investigation
 
 After a claim is filed, both insurers — the at-fault driver's insurer and the injured party's insurer — typically conduct independent investigations:
 
@@ -46,7 +46,7 @@ Recorded statements: Insurers frequently request recorded statements from driver
 
 Accident reconstruction: In serious accidents involving significant injuries or disputed fault, insurers may retain accident reconstruction experts who analyze physical evidence to determine how the accident occurred.
 
-#### When Fault Is Disputed
+### When Fault Is Disputed
 
 Disputed fault is common in Tennessee auto accidents, particularly in intersection accidents, merging accidents, and multi-vehicle chain collisions where each driver blames the others. When fault is genuinely disputed, the resolution paths are:
 
@@ -56,9 +56,9 @@ Litigation: When insurers cannot agree on fault or damages, the injured party ma
 
 The litigation timeline: Civil litigation in Tennessee can take months to years to resolve. During that period, the injured party may have mounting medical expenses and lost wages with no payment from the at-fault driver's insurer. This gap between injury and recovery is one of the practical arguments for first-party coverages — MedPay and health insurance — that pay immediately regardless of fault determination.
 
-### The At-Fault System's Impact on Each Coverage Type
+## The At-Fault System's Impact on Each Coverage Type
 
-#### Liability Coverage: The Core of the At-Fault System
+### Liability Coverage: The Core of the At-Fault System
 
 In an at-fault state, liability coverage is the coverage that actually pays after most accidents. The at-fault driver's liability coverage pays the injured party — it is the mechanism through which the tort system's financial accountability is realized.
 
@@ -68,7 +68,7 @@ The personal assets exposure: When an at-fault driver's liability limits are ins
 
 The umbrella supplement: For Tennessee clients with significant assets, a personal umbrella liability policy provides additional limits above the auto policy's liability limits — typically $1 million or more. The umbrella's relatively low cost compared to the protection it provides makes it a particularly valuable recommendation for asset-owning Tennessee auto clients in an at-fault state where liability exposure is the primary financial risk.
 
-#### Medical Payments (MedPay): The At-Fault State's No-Fault Alternative
+### Medical Payments (MedPay): The At-Fault State's No-Fault Alternative
 
 Because Tennessee has no mandatory PIP, MedPay is the only first-party auto medical coverage that pays the insured's own medical expenses immediately after an accident regardless of fault determination.
 
@@ -78,7 +78,7 @@ MedPay as a litigation bridge: The period between an accident and a liability se
 
 MedPay limits and their adequacy: Standard MedPay limits range from $1,000 to $25,000. A client with a $1,000 MedPay limit will exhaust that coverage with a single emergency room visit. Recommending adequate MedPay limits — $5,000 to $10,000 minimum — particularly for clients who have high-deductible health plans, gives clients genuinely meaningful immediate payment protection.
 
-#### Uninsured Motorist: The At-Fault System's Biggest Failure Point
+### Uninsured Motorist: The At-Fault System's Biggest Failure Point
 
 The at-fault system assumes that the at-fault driver carries adequate liability insurance. When that assumption fails — when the at-fault driver carries no insurance — the injured party has a legitimate liability claim against someone who cannot pay it. UM coverage is the solution.
 
@@ -88,7 +88,7 @@ Why UM rejections are inadvisable in Tennessee: Tennessee's uninsured driver rat
 
 The hit-and-run scenario: Tennessee requires physical contact between the unidentified vehicle and the insured's vehicle for UM coverage to apply to a hit-and-run claim. A driver forced off the road by a vehicle that never makes contact does not have a straightforward UM claim — the physical contact requirement exists to prevent fraudulent hit-and-run claims. Producers who explain this limitation to clients who assume all hit-and-run scenarios are covered by UM give those clients accurate expectations about their coverage.
 
-#### Underinsured Motorist: The At-Fault System's Coverage Gap Problem
+### Underinsured Motorist: The At-Fault System's Coverage Gap Problem
 
 When the at-fault driver has liability insurance — but not enough — UIM coverage pays the gap between what the at-fault driver's insurer paid and the injured party's actual damages.
 
@@ -96,9 +96,9 @@ Why UIM is particularly important in an at-fault state: In Tennessee's at-fault 
 
 The UIM stacking question: Some Tennessee auto policies allow UIM limits to be stacked across multiple vehicles — adding the UIM limits from each covered vehicle to produce a higher combined limit. Other policies specifically exclude stacking. The availability and mechanics of UIM stacking under a specific Tennessee policy is a coverage question that producers must be familiar with when advising clients with multiple vehicles.
 
-### The Producer's Advisory Obligations in Tennessee's At-Fault System
+## The Producer's Advisory Obligations in Tennessee's At-Fault System
 
-#### The Coverage Adequacy Conversation Structure
+### The Coverage Adequacy Conversation Structure
 
 Every Tennessee auto insurance client deserves a structured coverage adequacy conversation that addresses the specific risks created by Tennessee's at-fault system. That conversation has four components:
 
@@ -110,7 +110,7 @@ Component 3 — MedPay: "Tennessee doesn't require personal injury protection li
 
 Component 4 — Umbrella: "For clients who own a home, have retirement accounts, or earn wages that could be subject to garnishment, a personal umbrella policy adds a million dollars or more of liability protection above your auto and homeowners limits for a few hundred dollars per year. In Tennessee's at-fault system, you're financially responsible for the full cost of accidents you cause — an umbrella ensures that responsibility doesn't exceed what your insurance can cover."
 
-#### The Comparative Fault Advisory Conversation
+### The Comparative Fault Advisory Conversation
 
 Tennessee's modified comparative fault rule creates a client education opportunity that producers in no-fault states do not have. Every Tennessee client should understand:
 
@@ -120,7 +120,7 @@ How this affects driving behavior: The financial consequence of at-fault driving
 
 The coverage implication: First-party coverages — MedPay, comprehensive health insurance, disability income — become more valuable for clients whose accidents might be found at or above 50% fault. These coverages pay regardless of fault, protecting the client whose third-party recovery is barred.
 
-#### The Minimum Limits Client: A Specific Advisory Scenario
+### The Minimum Limits Client: A Specific Advisory Scenario
 
 When a client presents requesting minimum 25/50/25 coverage to satisfy the legal requirement and nothing more, the producer's professional obligation is to ensure that client understands — before they sign the application — what those limits mean and what they do not cover. Documenting this conversation in the client file is professional best practice.
 
@@ -128,7 +128,7 @@ What to document: The producer recommended higher liability limits. The producer
 
 Why documentation matters: If the client is later involved in a serious accident and faces a personal judgment for excess damages, the documented conversation demonstrates that the producer fulfilled the coverage adequacy advisory obligation — the client made an informed choice.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client says they drive carefully and have never had an accident. Why do they need high liability limits?
 

@@ -14,7 +14,7 @@ imageAlt: "Tourism, Hospitality, and Wine Country: Virginia's Seasonal and Agrit
 
 Virginia's tourism industry generated more than $26 billion in visitor spending in 2024 according to the Virginia Tourism Corporation — making it one of the largest sectors of the state economy and a substantial commercial insurance market that rewards producers with hospitality-specific product knowledge. Unlike New Jersey's shore economy (which is dominated by seasonal coastal volume), Virginia's tourism market is geographically diverse: the Northern Virginia history corridor (Colonial Williamsburg, Monticello, Mount Vernon), the Shenandoah Valley, the Blue Ridge Parkway, Virginia Beach and the coastal communities, the wine country, and the Appalachian outdoor recreation market each have distinct insurance profiles. This diversity creates a hospitality insurance practice that no single competitor can easily dominate.
 
-### The Wine Country Insurance Market: Loudoun, Nelson, Charlottesville, and the Piedmont
+## The Wine Country Insurance Market: Loudoun, Nelson, Charlottesville, and the Piedmont
 
 Virginia has approximately 350+ licensed wineries, making it the fifth-largest wine-producing state in the country. Loudoun County alone hosts more than 50 vineyards. The wine country insurance market is distinctive:
 
@@ -36,7 +36,7 @@ Product liability: For wine sold commercially, product liability coverage for co
 
 The Nelson County concentration: Nelson County, Virginia — south of Charlottesville — has one of the highest concentrations of craft beverage producers per capita in the United States. The Nelson 151 wine trail runs through wineries, cideries, breweries, and distilleries in a compact mountain county of about 15,000 residents. This concentration creates a specialty craft beverage insurance market in a small geography that rewards producers who establish a reputation within the craft beverage community.
 
-### Virginia Beach and Coastal Tourism
+## Virginia Beach and Coastal Tourism
 
 Virginia Beach is Virginia's largest city by population and one of the premier beach destinations on the East Coast. The Atlantic Ocean resort strip generates substantial seasonal commercial insurance activity:
 
@@ -48,7 +48,7 @@ Vacation rental properties: Virginia Beach has thousands of vacation rental prop
 
 Adventure and recreational businesses: Virginia Beach and the broader coastal area hosts water sports operations, jet ski rentals, parasailing companies, surf schools, and charter fishing businesses — each with specialized liability exposures.
 
-### Colonial Williamsburg, Historic Triangle, and Northern Virginia History Corridor
+## Colonial Williamsburg, Historic Triangle, and Northern Virginia History Corridor
 
 The Historic Triangle (Williamsburg, Jamestown, Yorktown) and Northern Virginia's historical sites (Mount Vernon, Monticello, Manassas Battlefield) attract millions of visitors annually. The commercial insurance market here is anchored by:
 
@@ -58,7 +58,7 @@ Museum and cultural institution insurance: Museums and historical sites need spe
 
 Small business hospitality: The Williamsburg area's restaurant, retail, and hospitality businesses represent a high-volume personal and commercial lines market in a geography heavily oriented toward tourism.
 
-### Shenandoah Valley and Blue Ridge Outdoor Recreation
+## Shenandoah Valley and Blue Ridge Outdoor Recreation
 
 The Shenandoah Valley, Blue Ridge Parkway, and Appalachian Trail corridors attract outdoor recreation visitors — hikers, cyclists, fly fishers, kayakers, and rock climbers. The commercial insurance market includes:
 
@@ -66,7 +66,7 @@ Outdoor recreation businesses: Guide services, outfitters, equipment rental comp
 
 Bed-and-breakfasts and glamping: Rural Virginia's agritourism and outdoor recreation market has driven strong growth in B&Bs, farm stays, and glamping operations. These hybrid farm-hospitality businesses need coverage that combines farm package elements with lodging liability.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What are the most important coverage gaps for Virginia winery operations?
 

@@ -14,7 +14,7 @@ imageAlt: Failed the Minnesota Insurance Exam? Here's Your Targeted Retake Strat
 
 Failing the Minnesota PSI insurance exam is frustrating — but it is not unusual, and it is not final. The exam has a 70% passing threshold, which means that on an 85-question exam you can miss 25 questions and still pass. Many candidates who fail on their first attempt pass on their second — not because they are smarter the second time, but because they use the information their score report provides and study differently rather than studying more of the same material in the same way. This post gives you the complete retake framework: what your score report tells you, how to analyze your failure, what to study differently, how to structure your retake timeline, and the specific high-failure-rate topics where targeted work pays the most.
 
-### Step 1: Read Your Score Report Before You Leave the Test Center
+## Step 1: Read Your Score Report Before You Leave the Test Center
 
 The PSI score report you receive immediately after failing the exam is the most valuable study tool you have for your retake. Do not leave the test center without reading it carefully.
 
@@ -42,11 +42,11 @@ What to do with the diagnostic:
 
 Write down your scores by section before leaving the building or log off from the remote testing platform. The score report may not be accessible in the same detailed format later — PSI's portal shows your overall score, but the diagnostic detail is most reliably captured at the time of the exam. Use this data as the foundation of your retake study plan.
 
-### Step 2: Analyze Your Failure — Four Common Patterns
+## Step 2: Analyze Your Failure — Four Common Patterns
 
 Most Minnesota insurance exam failures fall into one of four recognizable patterns. Identifying your pattern determines your retake strategy.
 
-#### Pattern 1: State Law Failure With Strong General Content
+### Pattern 1: State Law Failure With Strong General Content
 
 The signature: High scores on general insurance concepts and product knowledge sections; low scores on Minnesota-specific sections — particularly auto insurance law, producer licensing, CE requirements, unfair trade practices, workers' compensation, and guaranty associations.
 
@@ -54,7 +54,7 @@ Why this happens: Candidates who study the [prelicensing](/minnesota/prelicensin
 
 The retake strategy: Redirect 60% of your retake study time specifically to Minnesota state law. Build or rebuild your state law reference sheet from scratch — the act of reconstructing it surfaces gaps you missed the first time. Focus specifically on: the no-fault auto insurance framework (PIP $40,000, UM/UIM mandatory at 25/50, tort threshold $4,000 excluding diagnostics, six-month PIP filing deadline, $10,000 property damage minimum), producer licensing specifics (20-hour prelicensing, 24-hour CE with 3 ethics and 12 classroom hours, birth month renewal biennial, $50 per line application fee, 12-month reinstatement window), and unfair trade practices (all eight prohibited acts, the bilateral nature of the rebating prohibition, the frequency standard for unfair claims practices).
 
-#### Pattern 2: Broad Underperformance Across All Sections
+### Pattern 2: Broad Underperformance Across All Sections
 
 The signature: Scores below 65% across most or all content areas — both general and state-specific sections performed below the passing threshold.
 
@@ -62,7 +62,7 @@ Why this happens: Insufficient total study time. The prelicensing course was com
 
 The retake strategy: Do not retake immediately. Give yourself a minimum of two to three weeks before scheduling the retake and use that time for systematic re-study of the complete content outline. Rebuild from the course material. Complete the full prelicensing course again as an active review — not just skimming but engaging with each module. Add at least one full-length [practice exam](/minnesota/practice-exam) under timed conditions before retaking.
 
-#### Pattern 3: Specific Product Line Weakness
+### Pattern 3: Specific Product Line Weakness
 
 The signature: Strong performance in most areas but failure in one specific product line — for example, strong across P&C content but failed on workers' compensation, or strong across A&H content but failed on Medicare supplement.
 
@@ -70,7 +70,7 @@ Why this happens: The candidate de-emphasized specific topics during study — e
 
 The retake strategy: Targeted deep study of the specific failing section. If workers' compensation was the weak area, spend three to four dedicated study sessions exclusively on workers' comp — both the general PAP content (coverage parts, exclusive remedy doctrine) and the Minnesota-specific content (one-employee threshold, $1,000/week penalty, 65% claim surcharge, DLI administers claims, DOC regulates carriers). Return to the course material for the weak section and supplement with practice questions specific to that topic.
 
-#### Pattern 4: Near-Miss Across Multiple Sections
+### Pattern 4: Near-Miss Across Multiple Sections
 
 The signature: Scores in the 65–69% range across multiple sections — the candidate was performing close to passing but consistently slightly below threshold in several areas.
 
@@ -78,7 +78,7 @@ Why this happens: The candidate's knowledge is broadly adequate but lacks precis
 
 The retake strategy: Precision study. The issue is not missing knowledge — it is insufficiently precise knowledge. Build a comprehensive numerical reference sheet covering every testable number in the Minnesota content: PIP $40,000 ($20,000/$20,000 split), tort threshold $4,000, lost wage cap $500/week, UM/UIM 25/50, liability 30/60/10, CE 24 hours with 3 ethics and 12 classroom and 12 non-sponsored, application fee $50/line, reinstatement window 12 months, reinstatement penalty double the renewal fee, workers' comp penalty $1,000/week plus 65% surcharge, maximum WC weekly benefit $1,536.84. Review this reference sheet until every number is immediately retrievable without deliberation.
 
-### Step 3: The Retake Timeline — How Much Time Do You Need?
+## Step 3: The Retake Timeline — How Much Time Do You Need?
 
 The 24-hour wait between exam attempts is a floor, not a recommendation. Most candidates who retake within 24–48 hours of failing perform worse or identically to their first attempt, because the same preparation that produced the first failure produces the same result. The only exception is a candidate who failed by a single question and has a clear, specific understanding of exactly which question they missed and why.
 
@@ -88,11 +88,11 @@ For Pattern 2 (broad underperformance): A 3–4 week retake timeline at minimum.
 
 For Pattern 4 (near-miss): A 1–1.5 week retake timeline focused on precision study. The candidate needs to move from conceptual familiarity to factual precision — the study investment is lower in hours but higher in specificity.
 
-### Step 4: What to Study Differently — Not Just More
+## Step 4: What to Study Differently — Not Just More
 
 The most common retake mistake is studying more of the same material in the same way. If your first study cycle produced a 62%, adding 10 more hours of the same approach is unlikely to produce a 70%. The retake strategy requires studying differently — specifically, more actively.
 
-#### Active Recall Over Passive Review
+### Active Recall Over Passive Review
 
 During your first study cycle, you likely read the course material and took notes — a passive approach that introduces content but does not build the retrieval strength the exam requires. For the retake, shift to active recall:
 
@@ -102,7 +102,7 @@ Blank-page recall sessions: Close all materials. Take a blank piece of paper and
 
 Teaching the material: Explain a topic out loud as if you were teaching it to someone who knows nothing about insurance. If you can explain the Minnesota no-fault PIP system completely and accurately without notes — the $40,000 limit, the $20,000/$20,000 split, what lost wages pay, the six-month deadline, the tort threshold — you know it at exam depth. If your explanation stalls or produces uncertainty, that stall point is exactly what needs additional study.
 
-#### Practice Questions — Use Them Differently
+### Practice Questions — Use Them Differently
 
 Most first-attempt candidates who used practice questions did so during study to check comprehension. For the retake, use practice questions to simulate exam conditions:
 
@@ -112,11 +112,11 @@ Wrong-answer analysis: For every practice question you miss, write a one-sentenc
 
 State law practice questions specifically: If your prelicensing provider includes Minnesota-specific practice questions, prioritize those for retake preparation. Generic practice questions test general insurance knowledge; Minnesota-specific questions test whether you know the statutes.
 
-### Step 5: The High-Failure-Rate Topics — Where to Concentrate
+## Step 5: The High-Failure-Rate Topics — Where to Concentrate
 
 These are the Minnesota exam topics that generate the most missed questions across all lines. If your diagnostic showed weakness in any of these, address them specifically in your retake preparation.
 
-#### Minnesota No-Fault Auto — The Most Commonly Missed State Law Section
+### Minnesota No-Fault Auto — The Most Commonly Missed State Law Section
 
 The no-fault auto questions require knowing the complete framework — not just "Minnesota is a no-fault state" but the specific mechanics:
 
@@ -134,25 +134,25 @@ PIP claims must be filed within six months of the accident
 
 Candidates who know "Minnesota requires PIP" without knowing the split, the lost wage cap, the diagnostic test exclusion from the tort threshold, or the mandatory UIM requirement consistently miss four to six questions in this section alone.
 
-#### CE Requirements — Specific Numbers Are the Difference
+### CE Requirements — Specific Numbers Are the Difference
 
 Most candidates know that Minnesota requires 24 hours of CE including 3 hours of ethics. Far fewer know the classroom requirement (12 hours minimum must be classroom or equivalent) and the non-company-sponsored requirement (12 hours minimum must not be sponsored by or affiliated with an insurance company). These two additional constraints generate exam questions that candidates who only know the headline number miss.
 
 The exam also tests the renewal fee structure ($80 total — $50 plus $30 technology surcharge), the 12-month reinstatement window, the reinstatement penalty (double the unpaid renewal fee), and what happens after 12 months (full relicensing required). Know all four of these, not just the 24-hour CE headline.
 
-#### Unfair Trade Practices — Application to Fact Patterns
+### Unfair Trade Practices — Application to Fact Patterns
 
 The unfair trade practices section tests both recognition (which prohibited act does this describe?) and application (has this producer violated §72A.20?). The distinction between misrepresentation and twisting, the bilateral rebating prohibition (both parties violate the law), and the frequency standard for unfair claims practices (a single act may not be a violation; a pattern is) all generate scenario-based questions that require understanding the statute's logic, not just its list.
 
-#### Workers' Compensation — The Agency Split
+### Workers' Compensation — The Agency Split
 
 Minnesota's workers' compensation questions test both the regulatory framework and the specific numbers. The one-employee threshold is well-known; the $1,000/week penalty and the 65% surcharge on claims during non-coverage are less well-studied. The agency split — DLI administers claims, DOC regulates carriers — is a Minnesota-specific fact that appears in exam questions. Know all of it.
 
-#### Medicare (for A&H exam takers)
+### Medicare (for A&H exam takers)
 
 Medicare generates 15–25% of A&H exam questions, and many candidates underperform here because they know the Medicare structure generally but not the specific current dollar amounts. For the retake, build a Medicare numbers reference: Part A deductible ($1,676 per benefit period for 2025), Part B standard premium ($185.00/month standard for 2025), Part B deductible ($257 for 2025), Part B coinsurance (20% of approved charges), the six-month Medigap open enrollment window, the 31-day group conversion right. These numbers change annually — verify current figures with CMS before your retake.
 
-### Step 6: The 48 Hours Before the Retake
+## Step 6: The 48 Hours Before the Retake
 
 Do not study new material in the final 48 hours. The retake preparation window is for adding knowledge you did not have before. The 48 hours before the retake is for consolidating what you have added.
 
@@ -162,7 +162,7 @@ Take one practice exam — not to learn new material but to confirm that your re
 
 Confirm your logistics. Know your test center location or PSI Bridge setup. Know where your Certificate of Completion and ID are. Have both ready the night before.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I failed by three questions on my 85-question exam. Should I retake immediately or wait?
 

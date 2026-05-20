@@ -14,15 +14,15 @@ imageAlt: "TennCare and Tennessee's Health Insurance Market: Medicaid, the Feder
 
 Tennessee operates one of the most distinctive health insurance markets in the Southeast — not because of a state-based exchange or a Basic Health Program, but because of the combination of TennCare as a traditional, non-expanded Medicaid program and a federal exchange market that has undergone dramatic enrollment and premium changes over the past several years. For producers licensed in the Accident and Health line, understanding how these systems interact, who qualifies for each, where the coverage gap falls, and how 2026's subsidy and premium changes have reshaped the market is foundational knowledge for every individual health insurance client conversation. This post covers the complete Tennessee health insurance landscape: TennCare's structure and eligibility, the federal exchange through Healthcare.gov, the APTC and CSR subsidy framework, the 2026 premium surge and its causes, the coverage gap that Tennessee's non-expansion creates, and the producer's advisory role in helping clients navigate their options.
 
-### TennCare: Tennessee's Medicaid Program
+## TennCare: Tennessee's Medicaid Program
 
-#### What TennCare Is
+### What TennCare Is
 
 TennCare is Tennessee's name for its Medicaid program — the joint federal-state health insurance program for low-income individuals. Tennessee administers TennCare through the Tennessee Department of Finance and Administration — not the TDCI. This administrative distinction matters for licensing exam purposes: TennCare is administered by a different state agency than the one that licenses insurance producers.
 
 TennCare provides free or low-cost comprehensive health coverage including preventive care, hospitalization, prescription drugs, mental health services, substance use disorder treatment, and more to eligible low-income Tennessee residents.
 
-#### The Non-Expansion Decision
+### The Non-Expansion Decision
 
 Tennessee is one of ten states that have not expanded Medicaid under the Affordable Care Act as of 2025. When the ACA was passed, it anticipated nationwide Medicaid expansion to 138% of the Federal Poverty Level (FPL) — covering most low-income adults. The Supreme Court's 2012 ruling made expansion optional, and Tennessee opted out.
 
@@ -42,13 +42,13 @@ People with disabilities: Coverage available under separate disability-based eli
 
 Seniors: Low-income seniors may qualify for TennCare alongside Medicare — TennCare can pay Medicare premiums, deductibles, and cost-sharing for dual-eligible beneficiaries.
 
-#### CoverKids: Tennessee's CHIP Program
+### CoverKids: Tennessee's CHIP Program
 
 The Children's Health Insurance Program (CHIP) in Tennessee is called CoverKids. It covers children whose family income is too high for TennCare but below 255% of the Federal Poverty Level. CoverKids fills the gap between TennCare's children's eligibility and the private market — providing low-cost comprehensive coverage for children in families with moderate incomes.
 
 TennCare and CoverKids enrollment is open year-round — there is no enrollment period for these programs. Eligible applicants can enroll at any time through TennCare's enrollment system or through certified navigators.
 
-#### TennCare Administration and the Producer's Role
+### TennCare Administration and the Producer's Role
 
 TennCare is administered by the Tennessee Department of Finance and Administration and managed care organizations contracted by the state. Licensed producers do not sell TennCare coverage — it is a government program with its own enrollment process.
 
@@ -56,9 +56,9 @@ The TCA §56-6-112 TennCare direction prohibition: Tennessee law specifically pr
 
 The producer's legitimate TennCare role: Helping a client determine whether they qualify for TennCare and directing them to appropriate enrollment resources is legitimate and beneficial. The prohibition is on directing group-covered clients to TennCare as a competitive maneuver — not on providing accurate eligibility information to genuinely uninsured clients.
 
-### The Federal Exchange: Healthcare.gov in Tennessee
+## The Federal Exchange: Healthcare.gov in Tennessee
 
-#### Tennessee Is Not a State-Based Exchange
+### Tennessee Is Not a State-Based Exchange
 
 Tennessee uses Healthcare.gov — the federal exchange operated by the Centers for Medicare and Medicaid Services (CMS) — to enroll individuals and families in ACA-compliant marketplace plans. Tennessee is not a state-based exchange state. The TDCI does not operate or administer the exchange enrollment platform.
 
@@ -66,17 +66,17 @@ What this means for producers: Tennessee producers who help clients enroll in ma
 
 TDCI's limited exchange role: While Tennessee does not operate the exchange, the TDCI retains rate review authority — reviewing rates filed by marketplace insurers to ensure they are actuarially justified and neither excessive, inadequate, nor unfairly discriminatory under TCA §56-5-103. The TDCI coordinates with CMS on rate review concerns.
 
-#### Tennessee's Eight Rating Areas
+### Tennessee's Eight Rating Areas
 
 By visiting Healthcare.gov, Tennesseans can search for ACA-compliant products on the individual and small-group markets for each of Tennessee's eight rating areas. Plan availability varies from one region to another — insurers have differing coverage territories and not all plans are available in all counties. Producers assisting clients should verify plan availability in the client's specific county before recommending a plan.
 
-#### Six Insurers for 2026
+### Six Insurers for 2026
 
 For 2026 coverage, six insurers offer individual and family health plans through the Tennessee marketplace — all of which also offered coverage for 2025. Plan availability varies by region. BlueCross BlueShield of Tennessee is the dominant marketplace insurer statewide, offering the broadest geographic coverage. Other marketplace participants serve specific regions or demographics.
 
-### The Subsidy Framework: APTCs and CSRs
+## The Subsidy Framework: APTCs and CSRs
 
-#### Advance Premium Tax Credits (APTCs)
+### Advance Premium Tax Credits (APTCs)
 
 APTCs are federal tax credits that reduce the monthly premium a consumer pays for a marketplace plan. They are calculated based on household income relative to the FPL and the cost of the second-lowest-cost Silver plan (benchmark plan) in the consumer's area.
 
@@ -84,7 +84,7 @@ APTC eligibility in 2026: With the expiration of enhanced subsidies at the end o
 
 The income estimation challenge for Tennessee producers: APTC eligibility is based on projected annual household income. For clients with variable income — self-employed Tennesseans, gig workers, seasonal employees — estimating income accurately is both critical and difficult. Overestimating income forfeits available APTC; underestimating income creates a tax-time reconciliation obligation where the client must repay excess credits. Producers who help clients think through projected income — accounting for business deductions, seasonal patterns, and likely income changes — provide measurable financial value that clients cannot replicate through self-service enrollment.
 
-#### Cost-Sharing Reductions (CSRs)
+### Cost-Sharing Reductions (CSRs)
 
 CSRs are federal payments to insurers that reduce deductibles, copayments, and out-of-pocket maximums for eligible consumers. CSRs are available only on Silver-tier plans purchased through Healthcare.gov for households with incomes between 100% and 250% FPL.
 
@@ -92,9 +92,9 @@ The Silver plan and CSR interaction: For consumers between 100% and 250% FPL who
 
 The CSR eligibility overlap with the coverage gap: Consumers between 100% FPL and TennCare eligibility thresholds — who fall into Tennessee's coverage gap — are technically APTC-eligible starting at 100% FPL. The ACA's original design assumed people below 100% FPL would have Medicaid. In non-expansion Tennessee, people below 100% FPL who do not qualify for TennCare have no ACA subsidy eligibility — creating the coverage gap discussed below.
 
-### The 2026 Market: A Significantly Changed Landscape
+## The 2026 Market: A Significantly Changed Landscape
 
-#### The Enhanced Subsidy Expiration
+### The Enhanced Subsidy Expiration
 
 The American Rescue Plan Act (ARPA) and the Inflation Reduction Act temporarily expanded ACA premium subsidies for 2021–2025. These enhanced subsidies increased credit amounts and extended eligibility to incomes above 400% FPL. Their expiration at the end of 2025 is the most consequential market change affecting Tennessee's individual health insurance landscape in years.
 
@@ -102,7 +102,7 @@ What the enhanced subsidies did for Tennessee enrollment: Enhanced subsidies pro
 
 What the expiration means for 2026: Marketplace insurers expect a costlier enrollee pool without enhanced subsidies — fewer healthy, lower-risk enrollees who are more price-sensitive will maintain coverage when premiums increase substantially. An estimated 142,000 to 203,000 Tennesseans could forgo insurance coverage as a result of 2026's price increases, with the biggest effects on small business owners, gig workers, rural residents, older adults with incomes over 400% FPL, and households earning between $100,000 and $150,000.
 
-#### The 2026 Premium Surge
+### The 2026 Premium Surge
 
 For 2026, the weighted average rate increase for full-price (pre-subsidy) Tennessee marketplace premiums was 37.5%. BlueCross BlueShield of Tennessee — the dominant marketplace insurer — announced average premium increases of 42% for their 2026 marketplace plans.
 
@@ -112,9 +112,9 @@ The impact on subsidized vs. unsubsidized enrollees: Consumers who qualify for A
 
 For subsidized consumers: The APTC adjustment means many lower-income consumers see modest or no net premium increase — their tax credit grows alongside the premium increase, keeping their net monthly payment relatively stable. The meaningful financial impact falls most heavily on the unsubsidized middle-income population.
 
-### Tennessee's Coverage Gap
+## Tennessee's Coverage Gap
 
-#### What the Coverage Gap Is
+### What the Coverage Gap Is
 
 Because Tennessee did not expand Medicaid and the ACA's subsidy structure assumes Medicaid expansion covers low-income adults, a gap exists between TennCare eligibility and marketplace subsidy eligibility for certain Tennessee residents.
 
@@ -124,9 +124,9 @@ The practical scope: Standard Medicaid in Tennessee is not available to most wor
 
 The producer's role with gap-affected clients: When a client falls into Tennessee's coverage gap — earning below 100% FPL without TennCare eligibility — the available options are limited: employer coverage if available, short-term health plans (which carry significant coverage limitations), health sharing ministries, or going without coverage. Producers should accurately describe the limitations of each alternative and help clients understand what they are and are not covered for under non-ACA-compliant options.
 
-### Open Enrollment: Timeline and Special Enrollment
+## Open Enrollment: Timeline and Special Enrollment
 
-#### Open Enrollment for 2026
+### Open Enrollment for 2026
 
 The open enrollment period for 2026 coverage ran from November 1, 2025 through January 15, 2026. Plans selected by December 15, 2025 had coverage effective January 1, 2026. Plans selected between December 16 and January 15, 2026 had coverage effective February 1, 2026.
 
@@ -134,7 +134,7 @@ The shortened 2027 open enrollment: Due to a federal rule change that took effec
 
 TennCare and CoverKids enrollment remains year-round — the open enrollment deadline does not apply to these programs. Eligible consumers can apply for TennCare or CoverKids at any time.
 
-#### Special Enrollment Periods (SEPs)
+### Special Enrollment Periods (SEPs)
 
 Outside of open enrollment, qualifying life events trigger a 60-day window during which consumers may enroll or change marketplace plans. Qualifying events include:
 
@@ -152,21 +152,21 @@ Loss of TennCare or CHIP eligibility
 
 The loss of TennCare SEP: When a client is disenrolled from TennCare — due to income changes or periodic eligibility redetermination — they qualify for a 60-day SEP to enroll in a marketplace plan. During Tennessee's Medicaid unwinding period following the COVID continuous coverage rule, nearly 124,000 Tennessee residents transitioned from Medicaid or CHIP to a private Marketplace plan. This transition represents an ongoing producer advisory opportunity — clients losing TennCare need immediate guidance about marketplace enrollment before the SEP closes.
 
-### What This Means for A&H Producers Serving Tennessee Clients
+## What This Means for A&H Producers Serving Tennessee Clients
 
-#### The Income Estimation Conversation
+### The Income Estimation Conversation
 
 For clients who are self-employed, freelancing, or have variable income, accurately estimating projected annual income is one of the most consequential decisions in marketplace enrollment. Too high an estimate forfeits APTC; too low creates tax-time repayment. Producers who help clients think through their income projections — asking about business deductions that reduce Modified Adjusted Gross Income, seasonal income patterns, and whether any significant income changes are anticipated — provide the kind of personalized guidance that leads to both accurate enrollment and lasting client relationships.
 
-#### The Plan Selection Conversation
+### The Plan Selection Conversation
 
 For subsidy-eligible clients between 100% and 250% FPL, the Silver plan's CSR benefit makes it the right starting point for virtually every plan selection conversation. The lowest premium Bronze plan may have a monthly premium that is $0 or very low after APTC — but a deductible of $7,000 or more. A Silver plan with CSR at the same income level may have a deductible of $500 or less. The total cost difference is dramatic, and clients who select Bronze for the low premium without understanding the CSR benefit on Silver may pay far more out of pocket when they actually use their coverage.
 
-#### The TennCare Eligibility Screen
+### The TennCare Eligibility Screen
 
 Every individual health insurance client conversation should include a TennCare eligibility screen — asking about household size, income level, and whether children are in the household. Clients who qualify for TennCare or CoverKids should be directed to those programs rather than marketplace enrollment — TennCare provides comprehensive coverage at no or minimal cost, while marketplace plans carry premiums and cost-sharing even for subsidized enrollees. The producer who screens for TennCare eligibility serves lower-income clients with the thoroughness those clients deserve.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client earns $35,000 per year as a single adult without children. Do they qualify for TennCare or marketplace subsidies for 2026?
 

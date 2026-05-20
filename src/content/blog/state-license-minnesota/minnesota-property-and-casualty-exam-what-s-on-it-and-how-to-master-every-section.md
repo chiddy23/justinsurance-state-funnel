@@ -14,13 +14,13 @@ imageAlt: "Minnesota Property and Casualty Exam: What's on It and How to Master 
 
 The Minnesota Property and Casualty licensing exam covers the full range of personal and commercial insurance products that P&C producers sell — homeowners, personal auto, commercial property, commercial liability, workers' compensation, and more — plus the Minnesota-specific statutes and regulations that govern every transaction in this state. The combined P&C exam is 130 questions over 3 hours, and every question draws from a published content outline that PSI and the Minnesota Department of Commerce use to build the test. This post maps every content section, identifies the highest-priority topics by exam weight, covers Minnesota state law in the depth the exam requires, and provides the strategic preparation approach that produces first-attempt passes.
 
-### Exam Specifications
+## Exam Specifications
 
 Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 130 (combined Property and Casualty); 85 per standalone line Time allowed: 3 hours (combined); 2 hours per standalone Passing score: 70% (scaled score of 70 or higher) Results: Immediate — displayed on screen at conclusion Retakes: No limit; 24-hour wait; $45 fee per attempt Exam validity: 3 years from date of passing
 
 Note on exam selection: First-time applicants in Wisconsin must select both the general and state-specific labeled exams — Minnesota uses a different structure where the general and state sections are integrated into a single exam. If you are taking only the Property exam or only the Casualty exam as a standalone, each is 85 questions over 2 hours. Most candidates take the combined P&C exam in a single sitting.
 
-### Section 1: Insurance Terms and Foundational Concepts
+## Section 1: Insurance Terms and Foundational Concepts
 
 Before getting into specific product lines, the exam tests foundational insurance concepts that apply across all P&C lines. These questions appear early in the content outline and generate a consistent base of exam questions.
 
@@ -40,11 +40,11 @@ The principle of utmost good faith: Insurance contracts are contracts of utmost 
 
 Policy structure: Declarations (the who, what, where, and how much), insuring agreement (the promise to pay), conditions (obligations of both parties), exclusions (what is not covered), and definitions (terms used in the policy with specific meanings). Every P&C policy contains these components — questions about policy structure test whether you know which component a specific provision appears in.
 
-### Section 2: Property Insurance — Homeowners
+## Section 2: Property Insurance — Homeowners
 
 Homeowners coverage is among the most heavily tested areas on the P&C exam. Know the HO form types, the six coverage sections, and the standard exclusions cold.
 
-#### Homeowners Policy Forms
+### Homeowners Policy Forms
 
 HO-1 (Basic Form): The most limited homeowners form. Covers only the 11 named perils including fire, lightning, windstorm, hail, explosion, riot, aircraft, vehicles, smoke, vandalism, and theft. Rarely sold today.
 
@@ -60,7 +60,7 @@ HO-6 (Condo Unit Owners Form): Covers personal property, the interior of the uni
 
 HO-8 (Modified Coverage Form): Designed for older homes where the replacement cost significantly exceeds the market value. Pays ACV or repair cost rather than full replacement cost.
 
-#### The Six Homeowners Coverage Sections
+### The Six Homeowners Coverage Sections
 
 Coverage A — Dwelling: The structure of the home and attached structures (attached garage, attached deck). The primary coverage amount that all other limits are calculated from.
 
@@ -74,11 +74,11 @@ Coverage E — Personal Liability: Protects the insured against third-party bodi
 
 Coverage F — Medical Payments to Others: Pays medical expenses of third parties injured on the insured's property or by the insured's activities, regardless of fault. Does not cover the insured or residents of the household. Standard limit $1,000.
 
-#### Standard Homeowners Exclusions
+### Standard Homeowners Exclusions
 
 The HO-3 special form excludes specific perils on the open perils dwelling coverage. The most testable exclusions: flood (requires separate NFIP or private flood policy), earthquake (requires endorsement or separate policy), earth movement, governmental action, nuclear hazard, war, intentional acts of the insured, and business pursuits conducted from the home (beyond limited business property coverage).
 
-### Section 3: Property Insurance — Dwelling Policies
+## Section 3: Property Insurance — Dwelling Policies
 
 Dwelling policies (DP forms) are used for non-owner-occupied residential properties — rental properties, seasonal homes, or properties that do not qualify for homeowners coverage.
 
@@ -90,7 +90,7 @@ DP-3 (Special Form): Open perils on the dwelling; named perils on personal prope
 
 Key distinction from homeowners: DP policies do not include personal liability (Coverage E equivalent) or medical payments (Coverage F equivalent) as standard coverages — these must be added by endorsement.
 
-### Section 4: Commercial Property Insurance
+## Section 4: Commercial Property Insurance
 
 Commercial property insurance protects businesses against physical loss to their buildings and business personal property. Key concepts tested on the Minnesota P&C exam:
 
@@ -112,7 +112,7 @@ Inland marine: Covers property in transit and property that moves from location 
 
 National Flood Insurance Program (NFIP): Flood coverage is excluded from standard commercial and homeowners property policies. The NFIP, administered by FEMA, provides flood insurance to property owners in participating communities. Producers who sell NFIP coverage must understand that standard policies do not cover flood and that NFIP is the primary mechanism for flood coverage. Minnesota's numerous lakes and rivers make flood insurance relevant for many Minnesota properties.
 
-### Section 5: Commercial General Liability
+## Section 5: Commercial General Liability
 
 Commercial general liability (CGL) is the foundational liability product for commercial accounts and one of the highest-volume content areas on the casualty section of the P&C exam.
 
@@ -134,11 +134,11 @@ Key CGL exclusions: Expected or intended injury, contractual liability (with exc
 
 Products and completed operations: Coverage for bodily injury or property damage arising from the insured's products after they have left the insured's possession (products) or from completed work after the work has been completed (completed operations). A contractor who completes a job and the work later causes damage has completed operations exposure.
 
-### Section 6: Personal Auto Insurance
+## Section 6: Personal Auto Insurance
 
 Minnesota's no-fault auto insurance system is a high-priority topic on the P&C exam's state law section. Know both the general personal auto policy (PAP) structure and Minnesota's specific statutory requirements.
 
-#### Personal Auto Policy Structure
+### Personal Auto Policy Structure
 
 Part A — Liability: Pays for bodily injury and property damage the insured causes to others. Does not cover the insured's own injuries or vehicle damage.
 
@@ -154,7 +154,7 @@ Comprehensive (other than collision): Damage from perils other than collision �
 
 Named insured persons covered: The named insured and resident relatives while occupying a covered auto or any auto. Permissive users of the covered auto.
 
-#### Minnesota-Specific Auto Insurance Law
+### Minnesota-Specific Auto Insurance Law
 
 Minnesota is a no-fault state under Minn. Stat. §65B.49. This fundamentally changes how auto claims work compared to at-fault states.
 
@@ -178,7 +178,7 @@ Six-month PIP claim deadline: A PIP claim must be filed within six months of the
 
 SR-22: A certificate of financial responsibility filed by an insurer with the Minnesota DVS certifying that a specific driver carries at least the minimum required liability coverage. Required for certain violations — DUI, driving without insurance, certain traffic offenses. SR-22 is not an insurance policy — it is a certificate attesting to the existence of coverage.
 
-### Section 7: Workers' Compensation
+## Section 7: Workers' Compensation
 
 Workers' compensation is a mandatory commercial coverage with significant Minnesota-specific regulatory content. It generates questions in both the general casualty section and the Minnesota state law section.
 
@@ -208,7 +208,7 @@ Penalty for non-coverage: Up to $1,000 per employee per week
 
 Surcharge for claims during non-coverage period: 65% surcharge on benefits owed
 
-### Section 8: Minnesota State Law — P&C Provisions
+## Section 8: Minnesota State Law — P&C Provisions
 
 Minnesota Department of Commerce: The Commissioner of Commerce holds full regulatory authority over P&C insurance in Minnesota. Department address: 85 7th Place East, Suite 280, St. Paul, MN 55101.
 
@@ -220,7 +220,7 @@ Cancellation and nonrenewal requirements: Minnesota statutes specify required no
 
 Minnesota surplus lines: Non-admitted carriers can write coverage in Minnesota for risks that the admitted market will not insure, through licensed surplus lines brokers. The diligent search requirement must be satisfied — the broker must document that the risk was declined by admitted carriers — before placing coverage in the surplus lines market. Surplus lines policies are not covered by the Minnesota Insurance Guaranty Association.
 
-### Strategic Approach: How to Master Every Section
+## Strategic Approach: How to Master Every Section
 
 Prioritize the HO-3 and PAP above all other product content. These two policy forms generate the most exam questions on the P&C exam. Know the HO-3's six coverage sections and their standard limits relative to Coverage A. Know the PAP's four parts and which covers what. Know the distinction between open perils (HO-3 dwelling) and named perils (HO-3 personal property). Know Minnesota's required auto minimums cold — 30/60/10, $40,000 PIP, $25,000/$50,000 UM/UIM.
 
@@ -232,7 +232,7 @@ Build a numerical reference sheet. P&C exam questions frequently test specific n
 
 Do not skip commercial lines. Many candidates studying for the P&C exam focus on personal lines — homeowners and personal auto — because those products feel more familiar. The exam dedicates significant question volume to commercial property, CGL, business income, and workers' compensation. Underpreparation in commercial lines is a consistent reason for first-attempt failures on the combined P&C exam.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 The combined P&C exam has 130 questions in 3 hours. How should I allocate my time?
 

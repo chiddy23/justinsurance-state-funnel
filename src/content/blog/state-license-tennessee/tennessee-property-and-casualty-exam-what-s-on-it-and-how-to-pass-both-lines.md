@@ -18,15 +18,15 @@ Both exams follow the same 77-question, 105-minute Pearson VUE format with 68 sc
 
 This post provides the complete content breakdown for both the Tennessee Property exam and the Tennessee Casualty exam: every topic area, what each tests at exam-level specificity, the strategic approach for sitting for both lines efficiently, and the most frequently tested provisions that generate the most preventable exam failures.
 
-### Why Tennessee Tests Property and Casualty Separately
+## Why Tennessee Tests Property and Casualty Separately
 
 Tennessee's separate exam structure reflects the genuine breadth difference between the two lines. Property insurance covers physical assets — homeowners, commercial property, inland marine, farm property. Casualty covers liability — auto liability, workers' compensation, commercial general liability, umbrella, professional liability. The two disciplines have limited content overlap, and a producer who is expert in property coverage may have significant gaps in casualty concepts and vice versa.
 
 The practical implication: studying for Property and Casualty simultaneously requires twice the content coverage of a single line. Candidates who treat the two as one combined exam and do not differentiate their preparation by line-specific content consistently underperform on one or both exams. The most effective approach is to study the two lines in sequence — fully complete Property preparation, sit for the Property exam, then shift focus to Casualty content — while treating the state law section as shared preparation.
 
-### The Tennessee Property Exam: Complete Content Breakdown
+## The Tennessee Property Exam: Complete Content Breakdown
 
-#### Property Insurance Fundamentals
+### Property Insurance Fundamentals
 
 Insurable interest: For property insurance, insurable interest must exist at the time of loss — not just at the time of application. This is the opposite of life insurance's rule, where insurable interest must exist at application but not necessarily at death. If insurable interest ceases between policy issuance and the loss, the claim may be denied. A seller who has transferred ownership of a building but whose name remains on the policy has no insurable interest in that building at the time of a fire — the policy does not pay.
 
@@ -48,7 +48,7 @@ The coinsurance formula is specifically testable. Expect at least one calculatio
 
 Subrogation: After paying a property claim, the insurer steps into the insured's legal shoes to recover from the responsible third party. If a neighbor's negligence causes a fire that destroys the insured's garage, the property insurer pays the claim and then pursues the neighbor for reimbursement. The insured cannot receive both the insurance payment and a full recovery from the responsible party — the insurer's subrogation right prevents double recovery.
 
-#### Homeowners Policy Forms
+### Homeowners Policy Forms
 
 Tennessee's Property exam tests the homeowners policy forms in depth — not just that they exist, but what each covers, how they differ, and which scenarios call for which form.
 
@@ -128,7 +128,7 @@ Named perils only
 
 Prevents moral hazard in areas where a homeowner might benefit from building a new home after a loss
 
-#### Standard Homeowners Exclusions
+### Standard Homeowners Exclusions
 
 The following exclusions apply across all homeowners forms — the exam tests these consistently:
 
@@ -146,7 +146,7 @@ Intentional acts: Losses caused intentionally by the insured are excluded. Cover
 
 War: War, civil war, insurrection, and related causes are universally excluded.
 
-#### Dwelling Fire Policy Forms
+### Dwelling Fire Policy Forms
 
 Dwelling fire policies provide coverage for residential structures that do not qualify for a homeowners policy — rental properties, vacant dwellings, seasonal homes, or properties the insured does not occupy as their primary residence.
 
@@ -174,7 +174,7 @@ The most comprehensive dwelling fire form — the DP equivalent of the HO-3
 
 The key dwelling fire distinction from homeowners: Dwelling fire policies do not automatically include personal liability coverage (Coverage E) or medical payments (Coverage F). These are separate endorsements if desired. A landlord purchasing a DP-3 for a rental property who wants liability coverage must add it specifically.
 
-#### Commercial Property Insurance
+### Commercial Property Insurance
 
 Building and Personal Property (BPP) Coverage Form: The foundational commercial property coverage form. Covers:
 
@@ -210,7 +210,7 @@ Installation floater: materials and equipment being installed
 
 Motor truck cargo: liability of a carrier for goods being transported
 
-#### Farm Insurance
+### Farm Insurance
 
 Farm policies combine residential (the farmhouse and household property) with agricultural coverages (farm buildings, equipment, livestock, crops). Key farm insurance concepts:
 
@@ -222,9 +222,9 @@ Farm liability: premises and operations liability for the farm, including farm p
 
 NFIP flood and federal crop insurance are separate programs not included in standard farm policies
 
-### The Tennessee Casualty Exam: Complete Content Breakdown
+## The Tennessee Casualty Exam: Complete Content Breakdown
 
-#### Personal Auto Policy (PAP)
+### Personal Auto Policy (PAP)
 
 The personal auto policy is the most heavily tested topic on the Tennessee Casualty exam. Know every coverage part — what it covers, what it excludes, and how it responds in specific scenarios.
 
@@ -306,7 +306,7 @@ Vehicle rolls over with no other vehicle involved: collision
 
 Named non-owner policy: Covers a driver who regularly drives vehicles they do not own — does not provide coverage for any specific vehicle but follows the driver.
 
-#### Tennessee Auto Insurance State Law
+### Tennessee Auto Insurance State Law
 
 At-fault state: Tennessee is a tort state — injured parties pursue the at-fault driver's liability coverage. Tennessee is NOT a no-fault state. No mandatory personal injury protection (PIP).
 
@@ -326,7 +326,7 @@ SR-22: A certificate of financial responsibility filed by an insurer with Tennes
 
 The implied consent law: Tennessee drivers implicitly consent to chemical testing (blood, breath, urine) when they drive on Tennessee roads. Refusal to submit to testing results in automatic license suspension.
 
-#### Commercial General Liability (CGL)
+### Commercial General Liability (CGL)
 
 The CGL policy is the foundational commercial liability product and one of the most heavily tested topics on the Tennessee Casualty exam.
 
@@ -362,7 +362,7 @@ Does not apply to employees (workers' compensation handles employee injuries)
 
 CGL limits structure:
 
-#### Workers' Compensation Insurance
+### Workers' Compensation Insurance
 
 Workers' compensation is a mandatory commercial insurance line — covered extensively on the Tennessee Casualty exam because it intersects multiple testable concepts: the exclusive remedy doctrine, the three-part policy structure, the experience modification factor, and Tennessee's specific employer coverage threshold.
 
@@ -388,7 +388,7 @@ Experience modification factor (EMR): Compares the employer's specific claims hi
 
 Workers' compensation classification codes: Every employee is assigned a classification code reflecting their job duties and the associated historical loss experience for that work type. Classification codes drive the base rate per $100 of payroll before EMR adjustment. Misclassification — placing employees in a lower-rate code than their actual duties warrant — is an audit finding that generates significant additional premium.
 
-#### Umbrella and Excess Liability
+### Umbrella and Excess Liability
 
 Umbrella liability: Provides both additional limits above the underlying liability policies and broader coverage for some exposures the underlying policies exclude. The umbrella pays after the underlying policy limits are exhausted.
 
@@ -400,7 +400,7 @@ Self-insured retention (SIR): The amount the insured retains for losses covered 
 
 Maintenance of underlying limits: The umbrella typically requires the insured to maintain specified underlying limits. If the insured fails to maintain the required underlying coverage — allowing it to lapse or reducing limits — the umbrella responds as if the underlying policy is in force and reduces its payment accordingly.
 
-#### Professional Liability (Errors and Omissions)
+### Professional Liability (Errors and Omissions)
 
 Professional liability insurance covers professionals against claims arising from negligent acts, errors, or omissions in the performance of professional services.
 
@@ -414,7 +414,7 @@ Extended reporting period (tail coverage): Coverage for claims made after the po
 
 E&O vs. CGL: General liability excludes professional errors. A financial advisor whose bad investment recommendation costs a client money has a professional liability claim — not a CGL claim. Professionals need both CGL (for premises and operations liability) and E&O (for professional service errors).
 
-#### Directors and Officers Liability (D&O)
+### Directors and Officers Liability (D&O)
 
 D&O insurance protects directors and officers of corporations against claims arising from their management decisions and actions.
 
@@ -424,7 +424,7 @@ Side B coverage: Reimburses the corporation when it indemnifies its directors an
 
 Side C coverage: Also called entity coverage — protects the corporation itself against securities claims. Primarily relevant for public companies.
 
-#### Cyber Liability Insurance
+### Cyber Liability Insurance
 
 Cyber liability is a growing and increasingly testable topic as the Tennessee insurance exam reflects the current commercial lines market.
 
@@ -446,11 +446,11 @@ Network security liability — liability for failure to prevent transmission of 
 
 Regulatory defense and penalties — costs of regulatory investigations and fines
 
-### The Shared State Law Section: Property and Casualty
+## The Shared State Law Section: Property and Casualty
 
 The state law section content is identical on both the Property and Casualty exams — making it the most efficient portion of the study plan for candidates sitting for both lines. Master it once; it applies to both exams.
 
-#### Tennessee-Specific Provisions Tested on Both Exams
+### Tennessee-Specific Provisions Tested on Both Exams
 
 TDCI authority:
 
@@ -528,9 +528,9 @@ Diligent search among admitted carriers required before placement
 
 Not covered by Tennessee guaranty associations
 
-### Strategy: How to Pass Both Tennessee P&C Exams
+## Strategy: How to Pass Both Tennessee P&C Exams
 
-#### Approach 1: Sequential — Recommended for Most Candidates
+### Approach 1: Sequential — Recommended for Most Candidates
 
 Study Property completely, sit for the Property exam, then shift entirely to Casualty content and sit for the Casualty exam.
 
@@ -544,7 +544,7 @@ A Property failure does not delay Casualty preparation — the two are independe
 
 Optimal sequence: Property first, Casualty second. Property content is somewhat more intuitive for most candidates — physical property coverage concepts connect to personal experience more naturally than casualty liability concepts. A strong Property exam result provides confidence momentum for the Casualty exam.
 
-#### Approach 2: Simultaneous — For Experienced Candidates
+### Approach 2: Simultaneous — For Experienced Candidates
 
 Study both lines together and sit for both exams on the same day.
 
@@ -558,7 +558,7 @@ The candidate is under time pressure to achieve dual licensure quickly
 
 Same-day exam logistics: Schedule both exams at the same Pearson VUE test center or as consecutive OnVUE sessions with at least 30 minutes between appointments for the check-in process. Take the line you are more confident about first.
 
-#### Topic Prioritization for Property
+### Topic Prioritization for Property
 
 Highest priority:
 
@@ -584,7 +584,7 @@ Inland marine — floater types and their purposes
 
 Coverage C special limits — categories and their dollar sublimits
 
-#### Topic Prioritization for Casualty
+### Topic Prioritization for Casualty
 
 Highest priority:
 
@@ -608,7 +608,7 @@ D&O — Side A/B/C distinction
 
 Collision vs. comprehensive scenario questions
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I passed Property but failed Casualty. Do I need to retake Property before I can add Casualty after passing the retake?
 

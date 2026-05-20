@@ -14,7 +14,7 @@ imageAlt: "Tennessee Surplus Lines: When to Use the E&S Market and How It Works"
 
 The surplus lines market — the excess and surplus (E&S) lines market — is the segment of the insurance industry that covers risks the admitted market will not. Every Property, Casualty, and Personal Lines producer in Tennessee will encounter risks that standard admitted carriers decline — whether because of underwriting characteristics, coverage limits, policy terms, or the sheer novelty of the exposure. Understanding when the E&S market is the right solution, what Tennessee's surplus lines framework requires before placing coverage there, and what obligations the producer and broker carry through the entire transaction is foundational commercial lines knowledge. This post covers the complete Tennessee surplus lines framework: the statutory basis, when surplus lines placement is legally permitted, who can place it, the diligent search requirement, the tax and compliance obligations, the mandatory disclosure stamping requirement, what risks cannot be placed in surplus lines, and how the NRRA simplifies multi-state placements.
 
-### The Statutory Foundation: TCA Title 56, Chapter 14
+## The Statutory Foundation: TCA Title 56, Chapter 14
 
 Tennessee's surplus lines framework is codified in TCA Title 56, Chapter 14 — the Tennessee Surplus Lines Insurance Act. The Act governs every aspect of how non-admitted insurance coverage is legally placed in Tennessee: who must be licensed to place it, what conditions must be satisfied before placement is permitted, what taxes apply, what disclosures must be made to insureds, and what records must be maintained.
 
@@ -22,9 +22,9 @@ The fundamental premise of surplus lines law: Tennessee law requires that insura
 
 The home state rule: Tennessee's surplus lines framework applies to surplus lines transactions where the insured's home state is Tennessee. For commercial insureds with multistate operations, the NRRA home state rule — discussed below — determines which state's surplus lines requirements govern.
 
-### Who Can Place Surplus Lines Coverage in Tennessee
+## Who Can Place Surplus Lines Coverage in Tennessee
 
-#### The Licensed Surplus Lines Agent
+### The Licensed Surplus Lines Agent
 
 In Tennessee, surplus lines coverage may only be placed by a producer who holds a specific surplus lines agent license — in addition to their standard producer license. A standard Tennessee Property and Casualty producer license does not authorize surplus lines placements. The surplus lines agent license is a distinct credential that must be separately obtained.
 
@@ -38,11 +38,11 @@ The surplus lines agent (wholesale broker): The licensed surplus lines specialis
 
 Compliance responsibility: The surplus lines agent — not the producing broker — bears primary regulatory responsibility for compliance with Tennessee's surplus lines framework. The surplus lines agent's license is at risk for non-compliance.
 
-### When Surplus Lines Placement Is Permitted: The Eligible Risk
+## When Surplus Lines Placement Is Permitted: The Eligible Risk
 
 Tennessee's surplus lines framework is not a choice — it is a conditional permission. Coverage may be placed with a non-admitted insurer only when the admitted market is unavailable for the specific risk. This eligibility condition is what makes surplus lines placement permissible rather than a violation of Tennessee's requirement that carriers transacting insurance business in Tennessee be admitted.
 
-#### What Makes a Risk Eligible for Surplus Lines
+### What Makes a Risk Eligible for Surplus Lines
 
 A risk is eligible for surplus lines placement when:
 
@@ -52,7 +52,7 @@ The coverage type is not available in Tennessee's admitted market: Some coverage
 
 The insured requires coverage terms unavailable from admitted carriers: An insured may need policy terms — higher limits, broader coverage triggers, specific endorsements, multi-year coverage periods — that admitted carriers do not offer. When the specific terms required are genuinely unavailable in the admitted market, surplus lines placement is appropriate.
 
-#### Ineligible Risks: What Cannot Be Placed in Surplus Lines
+### Ineligible Risks: What Cannot Be Placed in Surplus Lines
 
 Tennessee law specifically prohibits surplus lines placement for certain categories of insurance. These ineligible coverages must be placed in the admitted market or not at all — surplus lines is not an option regardless of admitted market availability:
 
@@ -64,11 +64,11 @@ Workers' compensation — general: Standard workers' compensation coverage canno
 
 Excess workers' compensation — permitted: Excess workers' compensation coverage — policies that provide coverage above a high self-insured retention for large employers who self-insure their workers' compensation obligations — is an exception. Excess workers' compensation may be placed in the surplus lines market.
 
-### The Diligent Search Requirement
+## The Diligent Search Requirement
 
 The diligent search is the procedural cornerstone of Tennessee's surplus lines framework. Before placing any risk in the surplus lines market, the surplus lines agent must conduct a genuine effort to place the coverage with admitted carriers. The diligent search is not a formality — it is a substantive compliance obligation that protects the statutory requirement that admitted market coverage be used when available.
 
-#### What Constitutes a Diligent Search
+### What Constitutes a Diligent Search
 
 A diligent search requires contacting Tennessee-admitted carriers who write the type of coverage needed and giving those carriers a genuine opportunity to provide a quote. The search must be:
 
@@ -80,11 +80,11 @@ Retained for five years: Tennessee requires surplus lines agents to maintain com
 
 The declination affidavit: Many states require a formal diligent search affidavit documenting the admitted market contacts and their outcomes. Tennessee does not use a dedicated stamping organization, which means the surplus lines agent's own documentation and records serve as the compliance evidence.
 
-#### The Number of Required Declinations
+### The Number of Required Declinations
 
 Tennessee does not specify a precise number of admitted carrier declinations required to satisfy the diligent search. The standard is substantive — a genuine effort appropriate to the specific risk. For common risk types with multiple admitted market alternatives, contacting three or more admitted carriers that write the applicable coverage type is standard professional practice. For specialized or emerging risk types with limited admitted market participation, fewer declinations may be necessary because the admitted market capacity is narrow.
 
-#### When Diligent Search Is Not Required
+### When Diligent Search Is Not Required
 
 The exempt commercial purchaser: Tennessee has implemented the NRRA's exempt commercial purchaser provision at TCA §56-14-102(8). An exempt commercial purchaser — a sophisticated commercial entity meeting specific size and financial criteria — may access the surplus lines market without requiring the surplus lines agent to conduct a diligent search. The exempt commercial purchaser has voluntarily waived the admitted market requirement based on its sophistication and financial capacity.
 
@@ -102,11 +102,11 @@ Is a non-profit or public entity with a combined annual budget exceeding $30 mil
 
 The industrial insured exemption: Tennessee also maintains an industrial insured exemption for large commercial insurance buyers who negotiate directly with surplus lines insurers. Industrial insureds may procure coverage directly without going through the admitted market, though premium taxes still apply.
 
-### Eligible Surplus Lines Insurers: Who Tennessee Will Accept
+## Eligible Surplus Lines Insurers: Who Tennessee Will Accept
 
 Not every non-admitted insurer can write surplus lines coverage in Tennessee. The insurer must be eligible — meaning it meets Tennessee's financial standards for non-admitted insurers.
 
-#### Foreign Eligible Surplus Lines Insurers
+### Foreign Eligible Surplus Lines Insurers
 
 Foreign surplus lines insurers (those domiciled in another U.S. state) must appear on Tennessee's eligible surplus lines insurer list maintained by the TDCI. The TDCI's list is published at tn.gov/commerce/insurance/types-of-insurance-companies/surplus-lines. A surplus lines agent may only place coverage with a non-admitted insurer that appears on this eligibility list.
 
@@ -114,23 +114,23 @@ Capital and surplus minimum: Tennessee requires eligible surplus lines insurers 
 
 Annual statement requirement: Foreign eligible surplus lines insurers must file annual statements with the TDCI. Late or incomplete filings are subject to a penalty of $100 per day.
 
-#### Alien Eligible Surplus Lines Insurers
+### Alien Eligible Surplus Lines Insurers
 
 Alien surplus lines insurers (those domiciled outside the United States) are ineligible in Tennessee unless listed by the NAIC International Insurers Department (IID). The IID maintains a list of alien insurers that meet the NAIC's financial standards for non-U.S. insurers participating in the U.S. surplus lines market. Tennessee does not maintain a separate alien insurer eligibility list — the NAIC IID list is the controlling authority.
 
-#### No Domestic Surplus Lines Formation
+### No Domestic Surplus Lines Formation
 
 Tennessee does not allow the formation of domestic surplus lines insurers within the state. Every eligible surplus lines insurer operating in Tennessee is either a foreign (other U.S. state) or alien (non-U.S.) carrier — there are no Tennessee-domiciled surplus lines insurers.
 
-### The Surplus Lines Premium Tax
+## The Surplus Lines Premium Tax
 
-#### The Tax Rate
+### The Tax Rate
 
 Tennessee imposes a gross premium tax on surplus lines insurance at a rate of 5% of gross premiums — calculated on the total premium charged, including endorsement premiums and policy fees where applicable. The 5% rate applies when Tennessee is the insured's home state.
 
 Additionally: Tennessee's SLAS Clearinghouse transaction fee of 0.175% applies to eligible surplus lines transactions processed through the clearinghouse.
 
-#### Collection and Remittance Obligations
+### Collection and Remittance Obligations
 
 The surplus lines agent collects the tax: The surplus lines agent is required to collect the premium tax from the insured at the time of delivering the cover note, certificate of insurance, policy, or other initial confirmation of insurance. The tax is not optional and not rebatable — the statute specifically prohibits the surplus lines agent from rebating any part of the tax.
 
@@ -146,7 +146,7 @@ On or before November 15 — for the quarter ending September 30
 
 The criminal penalty for non-remittance: A surplus lines agent who fails or refuses to pay over the surplus lines premium tax to the state, or who fraudulently withholds, appropriates, or uses the money belonging to the state, commits theft under Tennessee's criminal code — regardless of whether the surplus lines agent claims any interest in the money received. This criminal penalty provision is among the most serious compliance consequences in Tennessee insurance law.
 
-#### The NRRA Home State Rule and Multi-State Placements
+### The NRRA Home State Rule and Multi-State Placements
 
 The Nonadmitted and Reinsurance Reform Act of 2010 (NRRA) fundamentally simplified surplus lines tax obligations for multi-state risks. Under the NRRA:
 
@@ -156,11 +156,11 @@ Conversely: Tennessee surplus lines agents placing risks for insureds whose home
 
 The home state determination for commercial insureds: For commercial entities, the home state is the state where the insured maintains its principal place of business. For individuals, the home state is the state of the insured's principal residence. For multi-state commercial operations, the home state determination is critical — it determines which state's surplus lines framework and tax rate apply to the entire risk.
 
-### The Mandatory Disclosure Stamp
+## The Mandatory Disclosure Stamp
 
 Tennessee law requires that every surplus lines insurance contract, certificate, cover note, or other confirmation of insurance bear the mandatory surplus lines disclosure stamp — either physically stamped, affixed, or printed on the document.
 
-#### The Required Stamp Language
+### The Required Stamp Language
 
 Under TCA §56-14-107, the required disclosure language is:
 
@@ -182,7 +182,7 @@ If the risk is shared among multiple insurers: the name, address, and proportion
 
 Why the stamp matters: The mandatory disclosure stamp serves a dual function — it provides the insured with clear notice that their policy is with a non-admitted insurer (and therefore not covered by Tennessee's guaranty associations), and it creates a compliance record demonstrating that the required disclosure was made. A surplus lines placement completed without the required stamp violates TCA §56-14-107 regardless of whether all other compliance requirements were satisfied.
 
-### The Guaranty Fund Exclusion: The Most Critical Client Disclosure
+## The Guaranty Fund Exclusion: The Most Critical Client Disclosure
 
 The most consequential difference between admitted and surplus lines coverage from the insured's perspective is the guaranty association exclusion.
 
@@ -192,7 +192,7 @@ The disclosure obligation: The surplus lines agent must inform the insured of th
 
 Practical risk management for the surplus lines agent: Working with surplus lines insurers that maintain strong financial ratings reduces — but does not eliminate — the insolvency risk that the guaranty exclusion creates. The TDCI's eligibility list requirements and the minimum capitalization standards are designed to screen out the weakest non-admitted insurers, but financial strength monitoring remains an ongoing obligation.
 
-### Record-Keeping Requirements
+## Record-Keeping Requirements
 
 Tennessee surplus lines agents must maintain complete records of each surplus lines placement for a minimum of five years, available for TDCI examination on request. Required records include:
 
@@ -210,7 +210,7 @@ If the risk involves an exempt commercial purchaser or industrial insured: docum
 
 The Surplus Lines Information Portal (SLIP): As of 2025, the TDCI has implemented SLIP — the Surplus Lines Information Portal — through which non-admitted insurers must submit premium and policy data directly to the TDCI. Per Bulletin 25-01 issued February 2025, all non-admitted insurers are required to report data on policies effective January 1, 2024 and forward. This data allows the TDCI to reconcile premiums written by surplus lines insurers with premiums reported by surplus lines brokers — a compliance oversight mechanism that makes accurate record-keeping by both agents and insurers more important than before.
 
-### Common Tennessee Surplus Lines Scenarios
+## Common Tennessee Surplus Lines Scenarios
 
 Understanding which risks commonly require surplus lines placement in Tennessee gives producers and commercial clients a practical framework for when to expect E&S market involvement.
 
@@ -230,7 +230,7 @@ Excess casualty: High limits of general liability and umbrella coverage beyond w
 
 Construction wrap-up programs: Owner-controlled insurance programs (OCIPs) and contractor-controlled insurance programs (CCIPs) for large construction projects frequently involve surplus lines components for the limits and coverage structures required.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My commercial client needs workers' compensation coverage but the voluntary market has declined them because of their loss history. Can I place their workers' compensation in the surplus lines market?
 

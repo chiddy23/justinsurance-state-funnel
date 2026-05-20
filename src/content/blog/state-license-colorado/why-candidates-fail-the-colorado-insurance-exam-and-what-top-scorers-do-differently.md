@@ -16,9 +16,9 @@ The Colorado insurance licensing exam has a national [pass rate](/pass-rates) ho
 
 This post is not about motivation or general advice. It is a diagnostic analysis of the specific, documented patterns that produce Colorado exam failures and the specific, documented practices that produce first-attempt passes.
 
-### The Six Failure Patterns
+## The Six Failure Patterns
 
-#### Failure Pattern 1: Treating the State Section as Secondary
+### Failure Pattern 1: Treating the State Section as Secondary
 
 This is the single most common cause of first-attempt failure in Colorado, and it is entirely predictable from the structure of the exam and the structure of the prelicensing course.
 
@@ -30,7 +30,7 @@ The diagnostic report from that attempt will show strong general section perform
 
 What top scorers do differently: They identify the state section's disproportionate exam weight early in their prelicensing process and treat the 10 Colorado-specific hours as the highest-priority study content, not the supplemental content that comes at the end. They create a separate rules list during the Colorado-specific curriculum — a single document capturing every definition, deadline, threshold, and prohibition — and they review that list actively in the 3–5 days before the exam. The general section largely takes care of itself if the 50 hours of prelicensing is completed genuinely. The state section requires deliberate, targeted effort beyond the course completion checkbox.
 
-#### Failure Pattern 2: Passive Reading Without Active Recall
+### Failure Pattern 2: Passive Reading Without Active Recall
 
 The most common study method for the prelicensing course is sequential passive reading — working through each chapter from beginning to end, reading the material, maybe highlighting, and moving on. Passive reading creates a sense of familiarity with the material that does not translate to exam performance. Familiarity means you can recognize correct information when you see it. The exam requires recall — retrieving information without prompts when you see a scenario that requires applying that information.
 
@@ -40,7 +40,7 @@ This pattern is especially acute for state section content. The unfair trade pra
 
 What top scorers do differently: They study through output rather than input. For every Colorado unfair trade practice, they write the definition from memory before checking it. For every policy provision, they close the material and explain the provision in their own words before re-reading. For every scenario-based concept — coinsurance formulas, beneficiary designation rules, replacement requirements — they work through practice problems rather than re-reading explanations. Active recall study takes more effort per hour than passive reading and produces dramatically better exam-day retrieval.
 
-#### Failure Pattern 3: Confusing Similar Concepts by Not Isolating Distinctions
+### Failure Pattern 3: Confusing Similar Concepts by Not Isolating Distinctions
 
 The Colorado exam is designed by subject matter experts who understand exactly where candidates make errors. Wrong answer choices on scenario questions are not random — they are the other concepts in the same category that sound similar to the correct answer. A question about rebating will have misrepresentation, coercion, and unfair discrimination as wrong choices. A question about ACV will have replacement cost, agreed value, and functional replacement cost as wrong choices. A question about an HO-4 will have HO-3, HO-6, and HO-2 as wrong choices.
 
@@ -50,7 +50,7 @@ The most dangerous version of this pattern is in the unfair trade practices sect
 
 What top scorers do differently: They study similar concepts in deliberate contrast rather than in sequence. After learning all the unfair trade practices, they create a comparison table — one row per prohibited act, columns for the definition, the distinguishing trigger element, and one scenario example. They test themselves by reading only the scenario column and identifying the act without looking at the definition column. They repeat this drill until identification is automatic. They do the same for HO form distinctions, for loss valuation methods, for renewability provisions, and for any other cluster of related concepts where the exam will present them simultaneously as answer choices.
 
-#### Failure Pattern 4: Underestimating the Coinsurance Formula and Calculation Questions
+### Failure Pattern 4: Underestimating the Coinsurance Formula and Calculation Questions
 
 The coinsurance formula appears on the Property and Personal Lines exams, and candidates who have not practiced it numerically consistently lose those questions even when they understand the concept conceptually. Understanding that coinsurance penalizes underinsurance is different from being able to execute the calculation under exam pressure.
 
@@ -64,7 +64,7 @@ A secondary version of this pattern applies to policy limit calculations, propor
 
 What top scorers do differently: They practice every calculation type numerically, with different numbers, until the setup is reflexive. For coinsurance specifically: they work at least five practice problems with different values for the property replacement cost, the coinsurance percentage required, the insurance carried, and the loss amount. They confirm they can set up the fraction correctly before calculating. They know the answer to a complete-destruction total loss scenario (Recovery = Insurance carried, regardless of the coinsurance percentage, because the numerator and denominator of the insurance-to-value fraction are both multiplied by the same RCV and the fraction simplifies to the insurance carried amount) — a reliably tested edge case that trips unprepared candidates.
 
-#### Failure Pattern 5: Mismanaging Time and Leaving Questions Unanswered
+### Failure Pattern 5: Mismanaging Time and Leaving Questions Unanswered
 
 Every unanswered question is a certain miss. Every guessed answer has a 25% chance of being correct on a four-choice question. These two facts create a clear exam strategy: never leave a question unanswered, and never spend so much time on one question that you cannot reach others.
 
@@ -74,7 +74,7 @@ A secondary version involves candidates who answer every question but spend thei
 
 What top scorers do differently: They use a disciplined flag-and-move protocol. If they read a question and cannot identify the answer within 60–75 seconds, they make their best guess, flag the question, and move to the next one. They do not dwell. At the end of the exam, they return to flagged questions with remaining time. When reviewing a flagged question, they ask: "Did I misread the question the first time, or do I have new information that changes my answer?" If neither, they leave their original answer unchanged. They never leave a question blank — even an informed random guess between two plausible choices is better than no answer.
 
-#### Failure Pattern 6: Treating Pretest Questions as Evidence of Preparation Failure
+### Failure Pattern 6: Treating Pretest Questions as Evidence of Preparation Failure
 
 Every Colorado insurance exam contains 9–16 unidentified pretest questions mixed throughout the scored questions. These experimental items are being evaluated for potential inclusion in future exam forms. They may cover material not in your prelicensing course, test unusual edge cases, or address topics at a level of specificity that exceeds what any standard course covers.
 
@@ -82,7 +82,7 @@ The failure pattern is psychological: a candidate encounters two or three genuin
 
 What top scorers do differently: They enter the exam knowing pretest questions exist and expecting to encounter some items that are unfamiliar or unusually specific. When they hit a difficult question, they treat it as likely pretest, make their best guess, move on, and reset mentally for the next question. They do not let a string of difficult questions alter their emotional state or convince them the exam is going badly. Their mental frame is: this exam contains some questions I cannot know, and some questions I absolutely know, and my job is to maximize performance on the questions I know while guessing efficiently on the ones I do not.
 
-### What Top Scorers Do: A Consolidated Picture
+## What Top Scorers Do: A Consolidated Picture
 
 The practices that separate first-attempt passers from first-attempt failers are not mysterious. They cluster around four consistent behaviors:
 
@@ -94,7 +94,7 @@ The practices that separate first-attempt passers from first-attempt failers are
 
 4. Paced, disciplined exam execution. Top scorers enter the exam with a clear time strategy, apply the flag-and-move protocol consistently, do not dwell beyond 75 seconds on any single item, never leave questions unanswered, and resist the impulse to change answers without new analytical grounds. They treat the exam as a performance event requiring execution discipline, not just knowledge retrieval.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I passed my prelicensing provider's practice exams with scores above 80%, why might I still fail the Pearson VUE exam?
 

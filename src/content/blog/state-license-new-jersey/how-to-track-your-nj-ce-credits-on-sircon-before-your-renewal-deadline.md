@@ -14,7 +14,7 @@ imageAlt: How to Track Your NJ CE Credits on Sircon Before Your Renewal Deadline
 
 The single most preventable cause of last-minute NJ insurance license renewal problems is not missing CE hours — it is not knowing that hours are missing until it is too late to fix them. New Jersey reports CE completions within one business day of course completion. The state transcript system is available 24 hours a day. And yet producers regularly arrive at their renewal deadline to discover that a course they completed weeks earlier never made it onto their official transcript — because they never checked. Tracking your NJ CE credits through Sircon throughout your renewal period is not a bureaucratic chore. It is the single most reliable safeguard against a compliance failure that could cost you your license.
 
-### Where NJ CE Transcripts Live
+## Where NJ CE Transcripts Live
 
 New Jersey's official CE transcript system is managed through Sircon (sircon.com), Vertafore's producer licensing platform. Sircon serves as the state's CE tracking database — CE providers report completed hours to the state through Sircon, and the transcript reflects all hours officially on file with DOBI.
 
@@ -22,7 +22,7 @@ You can also access your CE transcript through NIPR (nipr.com), which pulls from
 
 A third access point is through the DOBI producer database directly at dobi.nj.gov, where you can look up your license status and CE compliance.
 
-### How to Check Your Transcript on Sircon
+## How to Check Your Transcript on Sircon
 
 Step 1: Go to sircon.com and log in to your account. If you do not have a Sircon account, create one using your National Producer Number (NPN), which appears on your NJ license.
 
@@ -44,7 +44,7 @@ Step 4: Verify that every course you have completed appears on the transcript, t
 
 Step 5: Check your renewal date. Your license expiration is the last day of your birth month in the renewal year. The transcript will show your current compliance status relative to that deadline.
 
-### What to Look For When Reviewing Your Transcript
+## What to Look For When Reviewing Your Transcript
 
 Total hours completed: Your running total should be progressing toward 24 over the course of the two-year period. If you are 18 months into your renewal cycle and have only 8 hours on transcript, you have a problem that needs to be addressed now — not in the final month.
 
@@ -56,7 +56,7 @@ Specialty training: If you sell annuities, verify that your Annuity Best Interes
 
 Reported vs. completed: A course you finished last week may not yet appear if the provider has not yet reported it. Most NJ providers report within one business day, but some may take longer. If a recently completed course is missing, contact the provider directly before contacting DOBI.
 
-### Common Transcript Issues and How to Resolve Them
+## Common Transcript Issues and How to Resolve Them
 
 Missing course: A course you completed does not appear on your transcript. First, confirm the provider's reporting timeline — most report within one business day, but some may take up to 30 days. If the course remains missing after the provider's reported timeframe, contact the provider with your completion certificate and request that they resubmit the completion to the state. Keep all CE certificates in your files for a minimum of five years — DOBI requires it, and certificates are your evidence of completion if a reporting dispute arises.
 
@@ -66,7 +66,7 @@ Duplicate course blocked: You attempted to complete a course you took in a previ
 
 Carryover not reflecting: If you carried over up to 12 excess hours from your previous renewal period, those hours should appear on your current transcript. If they do not, contact DOBI or your CE provider to confirm the carryover was properly recorded.
 
-### The 30-Day Completion Rule
+## The 30-Day Completion Rule
 
 DOBI recommends completing all CE at least 30 days before your license expiration date. This buffer allows:
 
@@ -80,7 +80,7 @@ Time to complete any missing hours if a gap is discovered
 
 The 30-day recommendation is not a hard deadline — your hours technically just need to be in the system before you submit your renewal application — but it is a sound operational practice. Producers who check their transcript 30 days before renewal and find a 3-hour gap have time to complete and report one more course. Producers who check the night before their expiration date may not.
 
-### Setting Up a CE Calendar
+## Setting Up a CE Calendar
 
 The most effective approach to CE compliance is treating it as a recurring calendar obligation, not a deadline-driven scramble. A simple CE tracking system:
 
@@ -94,7 +94,7 @@ After each completed course, check your Sircon transcript within 3 business days
 
 This three-reminder system catches problems early enough to fix them without stress.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How long does it take for a completed CE course to appear on my NJ Sircon transcript?
 

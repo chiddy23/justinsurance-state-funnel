@@ -15,7 +15,7 @@ imageAlt: "In-Person vs. Remote: Which PSI Exam Format Is Right for Your NJ Lice
 
 PSI offers New Jersey insurance licensing candidates a genuine choice that most states did not have until recently: sit your exam at a physical test center, or take it remotely from your own computer at home or the office. Both formats deliver the same exam content, the same 70% passing threshold, the same $38 fee, and the same score report. But the experience of taking them is substantially different — and choosing the wrong format for your personality, equipment, or environment can hurt your performance on exam day even if your preparation was solid.
 
-### How the Test Center Format Works
+## How the Test Center Format Works
 
 PSI operates multiple test center locations throughout New Jersey. Once you register at test-takers.psiexams.com/njins and select a test center appointment, you will receive a confirmation with the center address and your scheduled time.
 
@@ -49,7 +49,7 @@ Fixed appointment times — less scheduling flexibility
 
 Arrival logistics add stress for some candidates
 
-### How Remote Proctoring Works
+## How Remote Proctoring Works
 
 Remote proctoring allows you to take the NJ insurance exam from any private location with a qualifying computer setup. A live PSI proctor monitors you via webcam for the entire duration of the exam.
 
@@ -83,7 +83,7 @@ Temporary work authority is NOT issued remotely — you must apply separately fo
 
 Requires a private, uninterrupted space, which not everyone has at home
 
-### The Critical Difference: Temporary Work Authority
+## The Critical Difference: Temporary Work Authority
 
 This is the most strategically important difference between the two formats. When you pass at a physical PSI test center, you are evaluated on the spot for a temporary work authority — a 60-day certificate that allows you to begin selling insurance immediately, under supervision, while your permanent license application is processed.
 
@@ -91,11 +91,11 @@ If you pass remotely, you do not receive a temporary work authority. You must co
 
 For candidates who have a job waiting — a recruiter who hired them specifically to sell insurance — the test center format and the immediate temporary work authority it enables can mean weeks of additional income. For candidates without an urgent start date, the difference is less material.
 
-### Which Format Should You Choose?
+## Which Format Should You Choose?
 
 Most first-time candidates — especially those entering insurance through an agency or employer — are better served by the test center format. The temporary work authority, the on-site tech support, and the structured environment all reduce variables on exam day. Remote proctoring is the better choice for experienced test-takers with reliable home setups who want scheduling flexibility and are comfortable under close webcam monitoring.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I switch from remote to in-person after I register?
 

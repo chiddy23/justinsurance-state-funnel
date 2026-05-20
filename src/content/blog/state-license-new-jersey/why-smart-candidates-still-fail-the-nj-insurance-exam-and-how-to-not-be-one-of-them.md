@@ -14,7 +14,7 @@ imageAlt: Why Smart Candidates Still Fail the NJ Insurance Exam — and How to N
 
 People who fail the New Jersey insurance exam are not, for the most part, unprepared in the conventional sense. They completed their 20-hour [prelicensing](/new-jersey/prelicensing) course. They read the material. They felt ready walking into PSI. And then they scored 63% and left with a diagnostic report they did not expect. Intelligence and effort are not the problem. The problem is a specific set of preparation mistakes that are predictable, common, and entirely avoidable — once you know what they are.
 
-### Failure Reason 1: Treating the Prelicensing Course as Sufficient Preparation
+## Failure Reason 1: Treating the Prelicensing Course as Sufficient Preparation
 
 New Jersey's 20-hour prelicensing requirement is a regulatory minimum, not a preparation benchmark. The course teaches you insurance concepts. The PSI exam tests whether you can apply those concepts correctly under scenario-based conditions, in 83 questions, within a timed setting.
 
@@ -22,7 +22,7 @@ Most prelicensing courses do not replicate the difficulty level or the question 
 
 The fix: Treat your prelicensing course as the foundation, not the ceiling. After completing the course, spend at minimum one additional week on active recall, scenario-based [practice questions](/new-jersey/practice-exam), and targeted review of the NJ state law section before sitting the PSI exam.
 
-### Failure Reason 2: Underestimating the State Law Section
+## Failure Reason 2: Underestimating the State Law Section
 
 The NJ state law section carries 25 scored questions — and on every NJ exam line, it is where candidates lose the most points relative to the general section. The reason is straightforward: the state law section tests New Jersey-specific rules that many prelicensing courses cover lightly, and candidates who rely on their general insurance knowledge to carry them through the state law section routinely find that it does not.
 
@@ -30,7 +30,7 @@ The $10 inducement threshold. The Commissioner's $15,000 penalty authority. The 
 
 The fix: Allocate at least one full week of your study plan exclusively to the NJ state law section. Use the PSI content outline sections 6 and 7 as your checklist. Study the specific numbers, the specific statutory names, and the specific fact patterns PSI uses to test each topic.
 
-### Failure Reason 3: Passive Studying Instead of Active Recall
+## Failure Reason 3: Passive Studying Instead of Active Recall
 
 Re-reading your notes is not studying. Highlighting your course material is not studying. Reading through flashcards front-to-back is not studying. These activities feel productive — you are engaged with the material, you recognize the concepts as you encounter them — but recognition under passive conditions does not translate into retrieval under exam pressure.
 
@@ -38,7 +38,7 @@ The exam does not show you a term and ask you to recognize its definition. It sh
 
 The fix: Study by retrieval. Cover your notes and write out the rule from memory. Answer practice questions before reviewing the answer. Build flashcards that force you to recall, not recognize. The extra friction of retrieval practice is exactly what encodes the material deeply enough to survive exam conditions.
 
-### Failure Reason 4: Skipping or Rushing the Practice Exam Step
+## Failure Reason 4: Skipping or Rushing the Practice Exam Step
 
 A practice exam is not a confidence check — it is a diagnostic tool. Candidates who take one practice exam, score 72%, feel relieved, and book their PSI appointment have not used practice testing correctly. A single practice score tells you almost nothing unless you also analyze every question you missed in detail.
 
@@ -46,7 +46,7 @@ More commonly, candidates skip practice exams entirely. They study their notes, 
 
 The fix: Take at least two full-length practice exams under simulated conditions — 83 questions, no notes, timed to 210 minutes — before your PSI appointment. Spend as much time reviewing your wrong answers as you spent taking the exam. Do not schedule your PSI appointment until you are consistently scoring 75% or above on practice exams.
 
-### Failure Reason 5: Confusing Similar Concepts Under Pressure
+## Failure Reason 5: Confusing Similar Concepts Under Pressure
 
 Insurance content is full of concepts that are genuinely similar to each other and easy to confuse when reading quickly, but that PSI distinguishes precisely in exam questions. The most commonly confused concept pairs on the NJ exams include:
 
@@ -60,13 +60,13 @@ Limited Right to Sue vs. Unlimited Right to Sue — candidates know these are NJ
 
 The fix: For every concept pair or group that you know is similar, study them side-by-side. Create a comparison table in your notes. Practice distinguishing them specifically through scenario questions, not just reviewing each one individually.
 
-### Failure Reason 6: Poor Time Management on Exam Day
+## Failure Reason 6: Poor Time Management on Exam Day
 
 The NJ exam gives you 210 minutes for 83 questions — approximately 2.5 minutes per question. Most candidates have time to spare. But some candidates spend 5 or 6 minutes on difficult questions early in the exam, begin to feel the time pressure, rush through later questions, and make avoidable errors on material they actually knew.
 
 The fix: Practice pacing during your full-length practice exams. When you encounter a question you are uncertain about, flag it and move on immediately. Return to flagged questions after completing the rest of the exam. This ensures you answer every question you know confidently first, then allocate remaining time to the difficult ones. Never let a single hard question cost you easy points on questions later in the exam.
 
-### Failure Reason 7: Exam Anxiety That Is Not Addressed
+## Failure Reason 7: Exam Anxiety That Is Not Addressed
 
 Exam anxiety is real, physiological, and has nothing to do with intelligence or preparation level. A candidate who knows the material thoroughly can still underperform if anxiety degrades working memory, causes rushing, or produces second-guessing on questions they would answer correctly in a calm review session.
 
@@ -76,7 +76,7 @@ The fix: Eliminate as many unknowns as possible before exam day. Drive to the te
 
 On exam morning: eat, arrive 30 minutes early, and do not cram. Light review of key facts the night before is fine. Cramming new material the morning of the exam adds stress without adding points.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the most common reason candidates fail the NJ insurance exam on the first attempt?
 

@@ -14,7 +14,7 @@ imageAlt: "The Tennessee Insurance Exam: Pearson VUE Format, Lines, and What to 
 
 The Tennessee insurance licensing exam is administered exclusively by Pearson VUE — not PSI, which handles licensing exams in most other states. That distinction matters practically: the platform, the question format, the interface, and the test-day procedures are all Pearson VUE's, and candidates who prepare with PSI-calibrated materials or who arrive expecting a PSI experience will encounter differences that add unnecessary friction to an already demanding exam. This post covers everything you need to know about the Tennessee exam before you schedule: the format for every line, what the two exam sections test, how the scoring system works, what both remote and in-person test day procedures require, and the specific strategies that maximize performance on Pearson VUE's platform.
 
-### The Tennessee Exam Structure: What Every Line Looks Like
+## The Tennessee Exam Structure: What Every Line Looks Like
 
 Tennessee administers separate licensing exams for each line of authority. There are no combined exams — Life and Accident and Health are separate, and Property and Casualty are separate. Every major line exam follows the same structural format:
 
@@ -22,11 +22,11 @@ The pretest question reality: Nine questions in every Tennessee exam are unscore
 
 The scoring math: To pass at 70% on 68 scored questions, you need 48 correct. You can miss 20 scored questions and still pass. That sounds like meaningful margin — but between state law questions you have not studied and the random distribution of 9 pretest questions that might absorb some of your uncertain answers, the margin is narrower in practice than the arithmetic suggests.
 
-### The Two Sections of Every Tennessee Exam
+## The Two Sections of Every Tennessee Exam
 
 Every Tennessee insurance licensing exam is divided into two sections that test fundamentally different knowledge domains. Understanding what each section tests — and how much weight each carries — is essential for allocating your preparation time correctly.
 
-#### Section 1: General Insurance Concepts
+### Section 1: General Insurance Concepts
 
 The general section tests insurance knowledge that applies across all states — the foundational product knowledge, legal principles, and industry concepts that define insurance regardless of jurisdiction.
 
@@ -102,7 +102,7 @@ Personal Lines exam — general section topics:
 
 Covers personal auto and personal homeowners concepts — the intersection of the Property and Casualty general sections focused on personal lines only
 
-#### Section 2: Tennessee State Laws and Regulations
+### Section 2: Tennessee State Laws and Regulations
 
 The state law section tests specific knowledge of Tennessee's insurance regulatory framework. This is the section where the majority of unprepared candidates encounter difficulty — and the section that requires the most deliberate, Tennessee-specific study.
 
@@ -214,9 +214,9 @@ Tennessee is an active captive insurance domicile
 
 Captive insurance regulations under TCA 0780-01-41
 
-### Exam Administration: Two Testing Options
+## Exam Administration: Two Testing Options
 
-#### Option 1: Remote Testing via OnVUE
+### Option 1: Remote Testing via OnVUE
 
 OnVUE is Pearson VUE's online proctored testing platform. It allows you to take the Tennessee insurance exam from any location with a qualifying computer setup, eliminating the need to travel to a testing center.
 
@@ -266,7 +266,7 @@ The proctor can terminate the exam for any rule violation
 
 OnVUE fee: $49 per line.
 
-#### Option 2: In-Person at a Pearson VUE Test Center
+### Option 2: In-Person at a Pearson VUE Test Center
 
 In-person testing is available at Pearson VUE testing locations throughout Tennessee. For most standard insurance licensing exams, multiple test center locations are available statewide.
 
@@ -312,7 +312,7 @@ You will know your result — pass or fail, with your scaled score — before le
 
 In-person fee: $59 per line.
 
-### Identification Requirements
+## Identification Requirements
 
 Both remote and in-person testing require one form of government-issued photo identification with your signature. Accepted forms include:
 
@@ -326,7 +326,7 @@ Military identification
 
 Your name on the ID must match your name on your exam registration exactly. Discrepancies — even minor ones like a middle initial present on the ID but absent from the registration — can prevent you from testing. Verify the name match before exam day. If a discrepancy exists, contact Pearson VUE to correct your registration before your appointment.
 
-### Taking Multiple Exams in One Testing Session
+## Taking Multiple Exams in One Testing Session
 
 Tennessee allows candidates to schedule and take multiple line exams in a single testing session. A candidate pursuing both Property and Casualty can take both exams back to back on the same day — paying separate exam fees for each line but completing both in one scheduling event.
 
@@ -338,7 +338,7 @@ For remote testing via OnVUE, schedule your exams as separate appointments with 
 
 Which order to take multiple exams: If taking Property and Casualty on the same day, take the line you are more confident about first. Starting with your stronger line builds exam-day confidence and primes your recall for the second exam. If your confidence level is equal, the order is not significant.
 
-### How Pearson VUE Scoring Works
+## How Pearson VUE Scoring Works
 
 Tennessee uses Pearson VUE's scaled scoring system — your raw score (number of questions answered correctly) is converted to a standardized scale that accounts for slight variations in difficulty between different exam versions. This means:
 
@@ -348,7 +348,7 @@ The practical implication: You should aim to answer substantially more than 70% 
 
 What your score report shows: Your score report includes your pass or fail result, your scaled score, and a section-by-section performance breakdown showing how you performed on different content areas. If you fail, this breakdown identifies your weakest sections — information that directly guides your retake preparation.
 
-### The Retake Policy and Its Implications
+## The Retake Policy and Its Implications
 
 Tennessee allows unlimited exam retakes with no mandatory waiting period between attempts. You can schedule a retake for the next available appointment — potentially the following day — after a failed attempt.
 
@@ -358,7 +358,7 @@ The financial reality of unlimited retakes: Each retake costs the full exam fee 
 
 The score report as a retake guide: After a failed attempt, do not simply study more of what you already studied. Read your section performance breakdown carefully. If you failed because of the state law section, that is a different preparation problem than failing because of property coverage concepts. Identify the specific content areas where your performance was weakest and build your retake preparation around those gaps.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I have taken PSI exams in other states. How different is Pearson VUE in practice?
 

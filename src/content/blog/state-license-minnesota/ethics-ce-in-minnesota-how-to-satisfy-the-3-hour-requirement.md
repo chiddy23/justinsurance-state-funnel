@@ -14,7 +14,7 @@ imageAlt: "Ethics CE in Minnesota: How to Satisfy the 3-Hour Requirement"
 
 Minnesota requires every licensed insurance producer to complete 3 hours of ethics [continuing education](/minnesota/continuing-education) as part of each biennial 24-hour CE obligation. Three hours is a modest number — but the ethics requirement is more precisely defined than the general CE requirement, and producers who treat it casually frequently discover at renewal that courses they assumed carried ethics credit do not. This post covers exactly what Minnesota's ethics CE requirement demands, what qualifies as ethics content under the Department of Commerce's standards, how ethics hours interact with the classroom and non-company-sponsored components of the broader CE requirement, how to verify that a course carries approved ethics credit, and the practical mistakes that cause producers to arrive at renewal without their 3 ethics hours satisfied.
 
-### The Statutory Basis and Basic Requirement
+## The Statutory Basis and Basic Requirement
 
 Minnesota's ethics CE requirement is established under Minn. Stat. §60K.56 as part of the biennial continuing education framework. The statute requires that of the 24 total CE hours a producer must complete per renewal period, at least 3 must be in ethics content approved by the Minnesota Department of Commerce.
 
@@ -24,7 +24,7 @@ The ethics hours count toward the 24-hour total. The ethics requirement is not 2
 
 The ethics requirement is independent of subject matter satisfaction. A course that is generally excellent and genuinely educational but is not specifically approved as ethics content by the Department of Commerce does not satisfy the ethics requirement regardless of how relevant its content is to ethical practice. Approval designation matters — not the producer's assessment of a course's ethical relevance.
 
-### What Qualifies as Ethics CE in Minnesota
+## What Qualifies as Ethics CE in Minnesota
 
 The Minnesota Department of Commerce defines approvable ethics CE content as coursework that addresses professional conduct, ethical decision-making, and regulatory obligations specific to insurance producers. The content must go beyond general insurance product knowledge to address the behavioral and legal standards that govern producer conduct.
 
@@ -48,7 +48,7 @@ Compliance training that is primarily procedural — covering how to complete re
 
 Company-sponsored product training that includes sections on ethical selling practices does not automatically qualify for ethics CE credit. The qualification requires Department approval specifically as ethics content — carrier-branded training rarely receives this designation.
 
-### How Ethics Credit Is Designated in the Department's System
+## How Ethics Credit Is Designated in the Department's System
 
 The Minnesota Department of Commerce maintains an online database of approved CE courses. Each course listing includes:
 
@@ -66,7 +66,7 @@ Partial ethics credit within a broader course: Some CE courses are structured so
 
 Courses marketed as "ethics courses" are not automatically approved for ethics credit. A provider who titles a course "Ethics in Insurance Practice" or "Professional Conduct for Insurance Producers" has described the course's content area but has not guaranteed Department approval for ethics credit. The Department's approval designation in its course database is the controlling standard — not the course title or the provider's marketing description.
 
-### Verifying Ethics Credit Before Enrolling
+## Verifying Ethics Credit Before Enrolling
 
 The safest approach to satisfying the ethics requirement is to verify ethics credit approval before enrolling in any course you intend to count as ethics CE.
 
@@ -76,7 +76,7 @@ Step 2 — Confirm with the provider directly: Before enrolling, contact the CE 
 
 Step 3 — Verify in your transcript after completion: After completing a course you intended to count as ethics CE, check your Department CE transcript to confirm the course appears with the correct ethics credit designation. If the transcript shows the course with general credit only — no ethics designation — contact the provider to determine whether the course was submitted with the correct designation and whether a correction can be submitted to the Department.
 
-### How Ethics Hours Interact With Other CE Components
+## How Ethics Hours Interact With Other CE Components
 
 Minnesota's CE requirement has four components: 24 total hours, 3 ethics hours, 12 classroom-equivalent hours, and 12 non-company-sponsored hours. Ethics hours interact with the other three components in important ways.
 
@@ -88,7 +88,7 @@ Ethics courses can simultaneously satisfy the non-company-sponsored requirement.
 
 The maximum ethics overlap scenario: A producer who completes a 3-hour live ethics webinar from an independent provider satisfies all three of the most restrictive components simultaneously: ethics (3/3), classroom-equivalent (3/12), and non-company-sponsored (3/12). The remaining 21 CE hours can then include up to 9 hours of classroom-equivalent carrier-sponsored training and 9 hours of self-paced online non-company-sponsored training — completing the full 24-hour requirement with maximum flexibility.
 
-### Common Ethics CE Mistakes and How to Avoid Them
+## Common Ethics CE Mistakes and How to Avoid Them
 
 Mistake 1 — Assuming a course has ethics credit without verifying: A producer completes a course titled "Professional Responsibility in Insurance" assuming it carries ethics credit. At renewal, the Department's transcript shows 4 hours of general CE — no ethics designation. The course did not receive ethics approval from the Department despite its professional responsibility theme. The producer must complete an additional 3 hours of approved ethics CE before renewing.
 
@@ -110,7 +110,7 @@ Mistake 5 — Completing ethics CE in the wrong renewal period: A producer compl
 
 Prevention: Complete CE in a planned sequence within each renewal period. There is no benefit to completing more ethics hours than needed in a given period — excess ethics hours do not carry forward.
 
-### Building the 3 Ethics Hours Into Your CE Calendar
+## Building the 3 Ethics Hours Into Your CE Calendar
 
 The most efficient approach to the ethics requirement is to schedule it first — at the beginning of the renewal period — rather than treating it as a detail to address after the general CE is complete.
 
@@ -122,7 +122,7 @@ Use a live 3-hour ethics webinar to satisfy ethics, classroom, and non-company-s
 
 For producers who sell LTC: If you are subject to the 5-hour biennial LTC refresher requirement, check whether the LTC course carries any ethics credit. Some LTC-specific courses include ethics content that is approved for ethics CE credit. If so, the LTC course may reduce the standalone ethics CE you need to complete — but verify the specific ethics credit designation in the Department's course system before relying on this.
 
-### Minnesota-Specific Ethics Content: The Most Testable Topics
+## Minnesota-Specific Ethics Content: The Most Testable Topics
 
 Because ethics CE courses approved by the Minnesota Department of Commerce must cover professional conduct under Minnesota law, the content of most approved ethics courses centers on the same topics tested in the state law section of the Minnesota PSI licensing exam. Completing an approved Minnesota ethics CE course is therefore a useful refresher on the most compliance-critical provisions of Minnesota insurance law.
 
@@ -138,7 +138,7 @@ Replacement and the consumer protection framework: The replacement regulation ex
 
 Producer-client duty of care: The obligation to recommend suitable products, to disclose material information, to act in the client's interest rather than the producer's financial interest, and to manage conflicts of interest transparently constitute the ethical foundation of the producer-client relationship. Ethics CE reinforces these obligations in the context of Minnesota-specific regulatory standards.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed a 6-hour ethics course. Does that satisfy my 3-hour ethics requirement and give me 6 hours toward my 24-hour total?
 

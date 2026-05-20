@@ -14,13 +14,13 @@ imageAlt: "Ethics CE in New Jersey: How to Satisfy the 3-Hour Requirement the Ri
 
 Ethics CE in New Jersey is simultaneously the smallest and the most non-negotiable component of the 24-hour renewal requirement. Three hours — embedded within your total, not added on top — must come from approved ethics or consumer protection courses. That sounds straightforward. But New Jersey has specific rules about what counts toward the ethics hours, what can substitute for one of them, and critically, that ethics hours cannot be carried over to future renewal periods even when other excess hours can. Getting the ethics component right is not just about checking a box — it is about making sure the one CE category that NIPR specifically verifies before approving your renewal application is fully satisfied on time.
 
-### The Baseline Requirement
+## The Baseline Requirement
 
 Under N.J.A.C. 11:17-3.6, every resident individual insurance producer with a major line of authority must complete three credit hours of ethics or consumer protection CE per biennial renewal period. These three hours are included in the 24-hour total — they do not add to it. If you complete 24 CE hours with only 2 ethics hours, you have not satisfied the requirement even though your total hours are correct.
 
 The ethics requirement applies equally regardless of which line of authority you hold. Life producers, P&C producers, and Personal Lines producers all owe the same 3 ethics hours per renewal period.
 
-### The Fraud Substitution: One Hour
+## The Fraud Substitution: One Hour
 
 Effective June 19, 2023, New Jersey allows one of the three ethics credit hours to be substituted with one credit hour related to insurance fraud. This means your ethics obligation can be satisfied through a combination of two hours of traditional ethics content and one hour of an approved insurance fraud awareness course.
 
@@ -28,7 +28,7 @@ This substitution was codified in the NJ Administrative Code and applies to all 
 
 What this means practically: A producer who wants to diversify their ethics credit can complete a 2-hour ethics course and a 1-hour insurance fraud course to fully satisfy the 3-hour ethics requirement. Alternatively, a single 3-hour DOBI-approved ethics course remains a perfectly valid way to satisfy the full requirement.
 
-### What Qualifies as Ethics CE
+## What Qualifies as Ethics CE
 
 DOBI approves specific courses for ethics CE credit. Approved ethics content includes:
 
@@ -42,25 +42,25 @@ Insurance fraud awareness — fraud detection, the producer's reporting obligati
 
 What does not qualify as ethics CE: general insurance product knowledge, sales techniques, motivation content, computer skills, or business development — regardless of how these are framed by a course provider.
 
-### The Non-Carryover Rule for Ethics Hours
+## The Non-Carryover Rule for Ethics Hours
 
 Ethics credit hours earned in excess of three cannot be carried over to the next renewal period — even though other excess CE hours (up to 12) can now be carried forward under the June 2023 rule change. If you complete 6 hours of ethics CE in one renewal period, the additional 3 ethics hours simply expire at the end of that period. They do not count as general CE credits in the next renewal and cannot be banked.
 
 The practical implication: there is no benefit to over-completing your ethics requirement. Complete exactly 3 hours — or slightly over if a course runs to a round number — and allocate your remaining CE time to other approved topics.
 
-### Delivery Format for Ethics CE
+## Delivery Format for Ethics CE
 
 Ethics CE can be completed in either classroom/classroom-equivalent format or self-study format. There is no delivery format requirement specific to ethics hours — they can come from either the live or self-study bucket. However, if you choose to complete your ethics hours through a self-study course, the standard NJ self-study rules apply: forced progression through course content, closed-book final exam, 70% passing score, and a disinterested third-party proctor.
 
 Many producers choose to complete their ethics hours through a live webinar because it simultaneously satisfies both the ethics content requirement and a portion of the 12-hour classroom minimum — a two-for-one efficiency that simplifies the overall CE plan.
 
-### Why Ethics CE Matters Beyond Compliance
+## Why Ethics CE Matters Beyond Compliance
 
 The topics covered in NJ ethics CE are not academic abstractions. They map directly to the grounds for license suspension and revocation under the NJ Insurance Producer Licensing Act. Misrepresentation, rebating, unfair discrimination, commingling funds, forging signatures, and failing to act in the client's interest are all grounds for disciplinary action — and all topics that properly designed ethics CE courses address.
 
 For producers who sell to vulnerable populations — seniors purchasing annuities, Medicare supplement policies, or long-term care insurance — the ethical obligations covered in CE are especially operationally relevant. NJ's insurance fraud unit (the Office of Insurance Fraud Prosecutor) actively investigates complaints involving producer misconduct, and producers who understand the boundaries are better protected from unintentional violations as well as deliberate misconduct.
 
-### Building Ethics CE Into Your Renewal Plan
+## Building Ethics CE Into Your Renewal Plan
 
 The most efficient approach is to complete your 3 ethics hours early in your renewal period through a live webinar — knocking out both ethics content and classroom credit simultaneously. This eliminates any risk of scrambling to find ethics-specific courses near your renewal deadline, when course availability may be limited.
 
@@ -72,7 +72,7 @@ Complete the remaining 21 general CE hours (9 more classroom, 12 self-study) ove
 
 Result: 24 total hours, 3 ethics, 12 classroom — fully compliant
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I satisfy my NJ ethics CE requirement with any approved CE course that mentions ethics, or does it need to be a dedicated ethics course?
 

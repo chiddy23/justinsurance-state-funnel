@@ -14,7 +14,7 @@ imageAlt: How to Reinstate a Lapsed Colorado Insurance License
 
 A lapsed Colorado insurance license does not automatically end your ability to get back into the business — but the path forward depends entirely on one factor: how long your license has been expired. Colorado law creates two completely different reinstatement scenarios divided by a hard one-year cutoff. Reinstate within one year of your expiration date and you submit a new application and pay the initial fee — no new [prelicensing](/colorado/prelicensing) education, no new exam. Let that window close, and you are treated as a brand-new applicant: full 50-hour prelicensing course, Pearson VUE state exam, and the entire licensing process from the beginning. Understanding exactly how each scenario works, what you can and cannot do while lapsed, and how to move through reinstatement quickly is the purpose of this post.
 
-### Colorado's No-Grace-Period Rule
+## Colorado's No-Grace-Period Rule
 
 One of the most important things to understand about Colorado insurance licensing is that the state offers no grace period after license expiration. In many states, producers have a window of 30 to 60 days after their expiration date during which they can still renew with a late fee and maintain continuity. Colorado does not have this.
 
@@ -22,9 +22,9 @@ Your renewal deadline is 10:00 p.m. Mountain Time on the last day of your birth 
 
 This is not a technicality. Colorado Revised Statutes § 10-2-401(1) states that no person shall act as or hold themselves out to be an insurance producer unless duly licensed. Transacting insurance on an expired license exposes you to Division of Insurance disciplinary action, potential fines, and possible policy voidability disputes.
 
-### The Two Reinstatement Paths
+## The Two Reinstatement Paths
 
-#### Path 1: Lapsed Less Than One Year
+### Path 1: Lapsed Less Than One Year
 
 If your Colorado insurance producer license expired within the past calendar year — meaning you are applying for reinstatement within 12 months of your expiration date — Colorado law exempts you from prelicensing education and re-examination under Division Regulation 1-2-10.
 
@@ -50,7 +50,7 @@ Processing: Once your application is submitted and CE is verified as complete, p
 
 Important one-transaction rule: Colorado only allows one electronic renewal/reinstatement transaction per license. If you hold multiple lines of authority and want to reinstate all of them, you must include all lines in a single transaction. If you reinstate only some lines electronically, you cannot submit a second electronic transaction to add the remaining lines later — you must contact the Colorado Division of Insurance directly to handle the additional lines.
 
-#### Path 2: Lapsed More Than One Year
+### Path 2: Lapsed More Than One Year
 
 If your Colorado insurance producer license has been expired for more than one calendar year, you must start completely over. Colorado law provides no reinstatement shortcut for licenses lapsed beyond the one-year window.
 
@@ -68,7 +68,7 @@ Serve the full 3–5 business day processing period before receiving your licens
 
 There is no credit for your prior license, your prior exam scores, or your prior prelicensing education. After one year, the slate is entirely clean — which means the full time and cost of the original licensing process applies.
 
-### What You Cannot Do While Lapsed
+## What You Cannot Do While Lapsed
 
 During any period when your Colorado insurance producer license is inactive — whether lapsed for one month or eleven months — you may not:
 
@@ -82,7 +82,7 @@ Execute or submit insurance applications on behalf of clients
 
 Renewal commissions on existing business are a nuanced area. While a lapsed producer generally cannot continue conducting new insurance transactions, the treatment of renewal commissions on a pre-existing book of business depends on the specific agency agreement and carrier relationship. If you are in this situation, consult with your carrier's compliance department and consider contacting the Division of Insurance directly at dora_ins_licensingandcontinuingeducation@state.co.us.
 
-### How to Check Your License Status and CE Transcript
+## How to Check Your License Status and CE Transcript
 
 Before beginning reinstatement, confirm exactly where you stand:
 
@@ -92,7 +92,7 @@ CE transcript: Use Sircon's [Continuing Education](/colorado/continuing-educatio
 
 National Producer Number (NPN): If you do not know your license number, use Sircon's License Number/NPN Inquiry tool to locate it by name.
 
-### The Reinstatement Application Process Step by Step
+## The Reinstatement Application Process Step by Step
 
 For Path 1 (lapsed under one year):
 
@@ -126,7 +126,7 @@ Submit a new license application through NIPR or Sircon ($47 per line + fees)
 
 Print your license upon approval through Sircon
 
-### Preventing a Future Lapse: The Practical Checklist
+## Preventing a Future Lapse: The Practical Checklist
 
 The most reliable way to avoid reinstatement is building a renewal system that does not depend on remembering the deadline. Colorado sends a renewal notice by email within 90 days before your license expires — but receipt of that notice is not guaranteed and does not extend your deadline.
 
@@ -142,7 +142,7 @@ Submit your renewal application as soon as CE hours are verified, not on the las
 
 Keep CE certificates for 5 years as required by Colorado DOI rules
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can I reinstate my Colorado license if I also have outstanding CE deficiencies from the lapsed period?
 

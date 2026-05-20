@@ -14,7 +14,7 @@ imageAlt: "Colorado Insurance License Requirements Explained: What Every Applica
 
 Colorado's insurance license requirements are specific, sequential, and non-negotiable. Every resident producer must complete [prelicensing](/colorado/prelicensing) education, pass a Pearson VUE exam, apply electronically through NIPR or Sircon, and receive DOI approval before selling a single policy. There are no shortcuts, no temporary licenses, and no exceptions to the prelicensing requirement for resident applicants. Understanding exactly what is required — and in what order — is the foundation of getting licensed efficiently and on the first attempt. This post covers every requirement, from minimum qualifications through application approval.
 
-### Who Must Be Licensed
+## Who Must Be Licensed
 
 Under Colorado law (Title 10 of the Colorado Revised Statutes), a person must hold a valid insurance producer license to sell, solicit, or negotiate insurance in Colorado. This applies to:
 
@@ -30,7 +30,7 @@ Persons adding additional lines of authority to an existing license
 
 Exemptions exist for specific limited roles — such as crop hail, travel, title, and bail bond agents — but virtually all standard P&C and L/A/H producers must be fully licensed.
 
-### Minimum Qualifications
+## Minimum Qualifications
 
 To qualify for a resident Colorado insurance producer license, an applicant must:
 
@@ -50,7 +50,7 @@ Have no active license revocation or denial that would bar licensure
 
 There is no college degree requirement, no prior insurance experience requirement, and no minimum employment history requirement. Any adult Colorado resident who completes the process is eligible to apply.
 
-### The Prelicensing Requirement: 50 Hours Per Line
+## The Prelicensing Requirement: 50 Hours Per Line
 
 Colorado requires 50 hours of state-approved prelicensing education for each major line of authority. These 50 hours are structured as:
 
@@ -66,7 +66,7 @@ The Certificate Exam at the end of each prelicensing course requires a 70% passi
 
 Certificate validity: 1 year from course completion. The state exam must be passed within this window.
 
-### Lines of Authority Available in Colorado
+## Lines of Authority Available in Colorado
 
 Colorado issues producer licenses in the following lines of authority:
 
@@ -90,13 +90,13 @@ Variable Products — variable life and variable annuities (requires FINRA regis
 
 Most producers pursue either Life/A&H or Property/Casualty (or both), depending on their target market. Personal Lines authority covers only personal auto and personal homeowners — candidates who want to write commercial accounts must hold Property and/or Casualty authority.
 
-### The State Exam
+## The State Exam
 
 After completing prelicensing and passing the Certificate Exam, the applicant schedules and takes the Pearson VUE state licensing exam. The exam fee is $47 per exam, paid at time of scheduling. The passing score is 70%, and results are available immediately after the exam.
 
 Exam content is divided into a general knowledge section (basic insurance product principles applicable in all states) and a Colorado state law section (laws, rules, and regulations specific to Colorado). The Colorado state law section of the exam is one of the primary reasons prelicensing is required — it covers Title 10 CRS provisions, Division of Insurance authority, producer licensing rules, and line-specific Colorado regulations that are not part of general insurance knowledge.
 
-### The License Application
+## The License Application
 
 After passing the exam, applicants have 1 year to submit their license application electronically through NIPR or Sircon. The application fee is $47 per line of authority (plus $5.60 NIPR transaction fee). The Division processes most applications in under 5 business days.
 
@@ -112,7 +112,7 @@ Any pending criminal charges
 
 Colorado conducts a background review as part of the application process. Incomplete or inaccurate disclosures are grounds for denial and can result in future licensing bars.
 
-### What Colorado Does NOT Require
+## What Colorado Does NOT Require
 
 Several requirements common in other states do not apply in Colorado:
 
@@ -124,7 +124,7 @@ No waiting periods between exam retakes — you can reschedule 24 hours after a 
 
 No employer sponsorship required — you do not need a carrier appointment or employer to apply for a license
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the difference between a Property license and a Casualty license in Colorado, and do I need both?
 

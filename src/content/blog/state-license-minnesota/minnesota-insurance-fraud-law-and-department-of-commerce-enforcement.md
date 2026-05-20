@@ -14,11 +14,11 @@ imageAlt: Minnesota Insurance Fraud Law and Department of Commerce Enforcement
 
 Insurance fraud is not a technical regulatory violation in Minnesota — it is a crime. The statutes governing it span two separate chapters of Minnesota law: the regulatory fraud framework under Minn. Stat. §§60A.951 through 60A.956, which governs disclosure obligations, insurer antifraud plans, and the Department of Commerce's investigative and enforcement authority; and the criminal fraud statute under Minn. Stat. §609.611, which establishes criminal penalties scaled to the value of the fraud. For licensed producers, the fraud framework creates both compliance obligations and personal criminal exposure. Every producer who assists in submitting a fraudulent application or claim, who participates in a staged accident scheme, or who misappropriates premium funds has committed an act that Minnesota's multi-agency enforcement system is specifically designed to detect, investigate, and prosecute.
 
-### The Two-Statute Framework: §60A.951 and §609.611
+## The Two-Statute Framework: §60A.951 and §609.611
 
 Minnesota's insurance fraud law operates through two interconnected statutory frameworks that address the same underlying conduct from different regulatory angles.
 
-#### Minn. Stat. §60A.951 — The Regulatory Framework
+### Minn. Stat. §60A.951 — The Regulatory Framework
 
 The Minnesota insurance fraud statutory framework spans §60A.951 through §60A.956, covering definitions, disclosure of information, enforcement, antifraud plans, fraud warning requirements on claim forms, and other law enforcement authority. Prosum
 
@@ -30,7 +30,7 @@ The materiality of the false statement: Not every inaccuracy constitutes insuran
 
 The intent requirement: Both the regulatory and criminal fraud frameworks require knowing, intentional conduct. Good-faith errors, honest mistakes, and reasonable misunderstandings are not insurance fraud under either statute. A producer who submits an application containing information they believe to be accurate but that turns out to be wrong has not committed fraud. A producer who knows the information is false and submits it anyway has committed fraud regardless of whether they personally drafted the false information.
 
-#### Minn. Stat. §609.611 — The Criminal Statute
+### Minn. Stat. §609.611 — The Criminal Statute
 
 Section 609.611 is Minnesota's criminal insurance fraud statute, located in the Criminal Code (Chapter 609) rather than the Insurance Code (Chapter 60A). Its placement in the criminal code signals its purpose — criminal prosecution rather than regulatory enforcement.
 
@@ -40,11 +40,11 @@ Mandatory restitution: A person convicted of a violation of this section must be
 
 The statute of limitations — discovery rule: The applicable statute of limitations shall not begin to run until the insurance company or law enforcement agency is aware of the fraud, but in no event may the prosecution be commenced later than seven years after the act has occurred. This discovery-based limitations period is critical — it means that sophisticated fraud schemes that are not discovered for years can still be prosecuted long after the fraudulent acts occurred, as long as prosecution begins within seven years of the act and within the standard limitations period from discovery. USFunds
 
-### The Enforcement Structure: Multiple Agencies, Coordinated Jurisdiction
+## The Enforcement Structure: Multiple Agencies, Coordinated Jurisdiction
 
 Minnesota's insurance fraud enforcement involves multiple agencies with distinct but overlapping roles:
 
-#### The Commerce Fraud Bureau
+### The Commerce Fraud Bureau
 
 The Commerce Fraud Bureau must allocate at least 70 percent of its work to insurance fraud, as defined in sections 60A.951, subdivision 4, and 609.611. The Commerce Fraud Bureau is a dedicated insurance fraud investigation unit within the Minnesota Department of Commerce. Its primary functions include: Denver Gazette
 
@@ -56,25 +56,25 @@ Initiating inquiries and conducting investigations when the bureau has reason to
 
 The Commerce Fraud Bureau is specifically authorized under §60A.951 as an "authorized person" for insurance fraud investigations — giving it full investigative authority within the insurance fraud framework. The commissioner of commerce is an authorized person, meaning the commissioner of commerce for insurers regulated by the commissioner of commerce. Jome
 
-#### The Financial Crimes and Fraud Section (Bureau of Criminal Apprehension)
+### The Financial Crimes and Fraud Section (Bureau of Criminal Apprehension)
 
 The Minnesota Bureau of Criminal Apprehension (BCA) maintains a Financial Crimes and Fraud Section that handles larger insurance fraud matters. The section may impose administrative penalties, order restitution to any person suffering loss, and order restitution to a company for the reasonable documented cost of any investigation. WTW
 
 One hundred percent of the funding allocated to the Bureau of Criminal Apprehension for the assessment may only be used for the investigation of insurance fraud and related crimes. This dedicated funding — generated by insurer assessments — ensures that insurance fraud investigation resources are protected from reallocation to other law enforcement priorities. CNBC
 
-#### County Attorneys and Local Law Enforcement
+### County Attorneys and Local Law Enforcement
 
 Authorized persons include the county attorney, sheriff, or chief of police responsible for investigations in the county where the suspected insurance fraud occurred. Local prosecutors and law enforcement play an important role in insurance fraud enforcement — particularly for frauds that are geographically contained within a single county, such as staged accident schemes, contractor fraud following storm damage, or individual policyholder fraud. Jome
 
-#### The Attorney General
+### The Attorney General
 
 The Minnesota Attorney General is also an authorized person under the fraud framework, providing statewide prosecutorial authority for complex or multi-county insurance fraud matters that exceed local prosecutorial capacity.
 
-#### Federal Agencies
+### Federal Agencies
 
 Federal law enforcement becomes involved when insurance fraud crosses state lines, involves federal programs (Medicare, Medicaid, federal workers' compensation), or reaches the threshold of federal criminal statutes. The FBI investigates insurance fraud involving interstate commerce. The Department of Labor-OIG investigates workers' compensation fraud. HHS-OIG investigates Medicare and Medicaid fraud.
 
-### The Insurer Antifraud Plan Requirement
+## The Insurer Antifraud Plan Requirement
 
 Minn. Stat. §60A.954 requires that every insurer authorized to do business in Minnesota maintain a comprehensive antifraud plan. This plan must address how the insurer identifies, investigates, and reports fraudulent claims and applications.
 
@@ -90,13 +90,13 @@ Procedures for reporting suspected fraud to the Commerce Fraud Bureau and other 
 
 The producer's intersection with insurer antifraud plans: Antifraud plans specifically address fraud by appointed producers — agents and brokers who represent the insurer. When an insurer's fraud investigation identifies a producer as a participant in fraudulent activity, the plan requires referral to appropriate authorities. This creates a direct pipeline from insurer investigation to Department of Commerce regulatory action and potential criminal prosecution.
 
-### Claim Forms Must Contain Fraud Warning
+## Claim Forms Must Contain Fraud Warning
 
 Minn. Stat. §60A.955 requires that all insurance claim forms submitted to Minnesota insurers contain a fraud warning statement. The warning must notify claimants that making a false or fraudulent claim is a crime subject to criminal penalties. This requirement applies to all claim forms — property claims, casualty claims, life insurance claims, and health insurance claims.
 
 Why the fraud warning matters for producers: A producer who assists a client in completing a claim form that contains the fraud warning and who knows or has reason to know the claim contains false information is on notice of the legal consequences. The fraud warning on the claim form is not merely for the claimant's benefit — it also signals to anyone involved in the claim process, including producers who facilitate submissions, that fraudulent claims carry criminal consequences.
 
-### The Administrative Penalty Framework
+## The Administrative Penalty Framework
 
 In addition to criminal prosecution, the Department of Commerce has authority to impose administrative penalties for insurance fraud. The commissioner may impose an administrative penalty against any person for each intentional act of insurance fraud or substantiated acts of attempted insurance fraud, as defined in section 60A.951, subdivision 4, committed by that person. CNBC
 
@@ -106,7 +106,7 @@ Administrative penalties are per-violation: Each separate fraudulent act constit
 
 Administrative penalties operate independently of criminal prosecution: The Department may impose administrative penalties regardless of whether criminal charges are filed. A producer may face administrative penalties even when the conduct does not meet the threshold for criminal prosecution — the administrative standard does not require proof beyond a reasonable doubt.
 
-### Types of Insurance Fraud in Minnesota
+## Types of Insurance Fraud in Minnesota
 
 Minnesota's insurance fraud enforcement addresses a broad spectrum of fraudulent conduct:
 
@@ -154,7 +154,7 @@ Issuing false certificates of insurance
 
 Participating in staged accident schemes
 
-### The Immunity Framework for Good-Faith Reporting
+## The Immunity Framework for Good-Faith Reporting
 
 Minn. Stat. §60A.952 establishes immunity protections for persons who report suspected insurance fraud to authorized persons in good faith. Producers, insurers, employees, and members of the public who report suspected fraud cannot be held civilly liable for that report as long as it is made in good faith.
 
@@ -162,7 +162,7 @@ What the immunity covers: The immunity protects against civil liability for the 
 
 What the immunity does not protect: False or malicious reports made with intent to harm the target rather than to report genuine fraud are not protected. A producer who fabricates a fraud allegation against a competitor and reports it to the Commerce Fraud Bureau to damage the competitor's business has not acted in good faith and does not receive immunity.
 
-### Producer Obligations When Fraud Is Suspected
+## Producer Obligations When Fraud Is Suspected
 
 When a Minnesota producer discovers or suspects insurance fraud — whether by a client, a third-party claimant, or a colleague — several obligations arise:
 
@@ -176,7 +176,7 @@ Document independently: Before reporting, document what was observed, when it wa
 
 Do not confront the suspected fraudster: Direct confrontation risks evidence destruction, physical danger, and compromise of subsequent investigations. Report through appropriate channels rather than addressing the fraud directly.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client pressures me to submit a claim that I believe is inflated. If I refuse and they submit it directly, am I still at risk?
 

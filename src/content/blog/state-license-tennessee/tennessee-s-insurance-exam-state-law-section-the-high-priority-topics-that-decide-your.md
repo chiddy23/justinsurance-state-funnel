@@ -16,7 +16,7 @@ Every Tennessee insurance licensing exam — Life, Accident and Health, Property
 
 The state law section is identical across every Tennessee licensing line. A candidate sitting for the Property exam faces the same Tennessee statutory provisions as a candidate sitting for the Life exam. This means the state law section is the most efficient investment in any Tennessee exam preparation — master it once and it applies to every line you ever sit for. This post covers every high-priority topic in the Tennessee state law section, what each tests at the level of specificity the exam requires, and the specific numbers and provisions that generate the most questions — and the most preventable failures — on Tennessee insurance licensing exams.
 
-### Why the State Law Section Determines Passing Scores
+## Why the State Law Section Determines Passing Scores
 
 The Tennessee insurance licensing exam does not weight sections — every question contributes equally to the 68-question scored pool. But the state law section generates disproportionate difficulty for the specific reason that its content cannot be answered from general insurance knowledge. A candidate who understands homeowners insurance thoroughly from professional experience still does not know Tennessee's bad faith penalty percentage, Tennessee's workers' compensation employee threshold, or the exact number of days before a NIPR application can be submitted after passing the Pearson VUE exam — unless they studied Tennessee law specifically.
 
@@ -24,9 +24,9 @@ The state law section's questions are not conceptual. They are factual. They ask
 
 The practical implication: Candidates who treat state law preparation as memorizing specific facts — not understanding general concepts — consistently outperform candidates who approach it as a conceptual review.
 
-### Priority 1: The Tennessee Department of Commerce and Insurance
+## Priority 1: The Tennessee Department of Commerce and Insurance
 
-#### What the TDCI Is and What the Commissioner Can Do
+### What the TDCI Is and What the Commissioner Can Do
 
 The regulator: The Tennessee Department of Commerce and Insurance (TDCI) is the state agency responsible for licensing, regulating, and disciplining insurance producers and insurers in Tennessee. Unlike some states that have standalone Insurance Departments, Tennessee's TDCI also oversees securities, banking, and other regulated industries — but the insurance division operates with dedicated jurisdiction.
 
@@ -90,13 +90,13 @@ The statutory framework: Tennessee's insurance law is codified in Tennessee Code
 
 Title 56, Chapter 8: Unfair Trade Practices and Unfair Claims Settlement Act
 
-### Priority 2: Producer Licensing Mechanics
+## Priority 2: Producer Licensing Mechanics
 
-#### The No-Prelicensing Rule
+### The No-Prelicensing Rule
 
 Tennessee eliminated mandatory [prelicensing](/tennessee/prelicensing) effective March 21, 2023. No course hours are required before sitting for the Pearson VUE exam. The exam tests this fact in two ways: directly (asking whether prelicensing is required) and indirectly (asking what step comes first in the licensing process — the answer is the exam, not a course).
 
-#### The Exam
+### The Exam
 
 Administered by: Pearson VUE — not PSI. Tennessee is one of a small number of states using Pearson VUE for insurance licensing, making this a testable Tennessee-specific distinction.
 
@@ -112,7 +112,7 @@ Score reporting: Immediate — results displayed before leaving the testing envi
 
 Retakes: Unlimited attempts; no mandatory waiting period between attempts; full exam fee required for each retake
 
-#### Fingerprinting and Background Check
+### Fingerprinting and Background Check
 
 Provider: IdentoGO — not a law enforcement agency (Tennessee's fingerprinting differs from North Carolina's law enforcement approach)
 
@@ -126,7 +126,7 @@ Fingerprint Policy and Acknowledgement Form: Must be read, signed, and submitted
 
 Timing: Fingerprinting must be completed at least 2 business days before submitting the NIPR application. This 2-business-day minimum is testable — candidates who complete fingerprinting on the same day they submit their application have violated the timing requirement.
 
-#### The NIPR Application
+### The NIPR Application
 
 Portal: NIPR (National Insurance Producer Registry) at nipr.com for resident applications
 
@@ -140,7 +140,7 @@ The 48-hour rule is specifically testable. Exam questions ask how long a candida
 
 Processing time: Standard applications are processed within 2–5 business days. Applications requiring background check review or manual TDCI assessment may take up to 15 business days.
 
-#### License Validity and Renewal
+### License Validity and Renewal
 
 License term: Biennial — every two years
 
@@ -160,7 +160,7 @@ Late renewal window: Up to 1 year from the expiration date (not from the end of 
 
 The specific fee and timeline figures are all testable:
 
-#### The Appointment Requirement
+### The Appointment Requirement
 
 The appointment rule: A Tennessee producer license alone does not authorize insurance transactions. Before selling, soliciting, or negotiating insurance for any specific carrier, that carrier must file an appointment with the TDCI.
 
@@ -178,9 +178,9 @@ Termination notification: 30 days from termination date
 
 Exam questions frequently present one timeline and ask whether it matches the appointment or termination provision. The distinction between 15 days (new appointment) and 30 days (termination notification) is specifically tested.
 
-### Priority 3: Continuing Education Requirements
+## Priority 3: Continuing Education Requirements
 
-#### CE Hours and Ethics
+### CE Hours and Ethics
 
 Total CE required: 24 hours per biennial renewal period
 
@@ -194,7 +194,7 @@ CE carryover: Tennessee does not permit CE hour carryover from one biennial peri
 
 The specific CE figures are testable:
 
-#### Specialty Training Requirements
+### Specialty Training Requirements
 
 Long-Term Care (LTC) initial training: 8 hours one-time — must be completed before selling LTC products
 
@@ -212,11 +212,11 @@ Initial: 8 hours (one-time prerequisite before selling LTC)
 
 Ongoing: 4 hours every 24 months
 
-### Priority 4: Tennessee Bad Faith — TCA §56-7-105
+## Priority 4: Tennessee Bad Faith — TCA §56-7-105
 
 The bad faith penalty provision is the single most frequently tested Tennessee-specific statutory provision across every line of the Tennessee insurance exam. It appears on Life, A&H, Property, Casualty, and Personal Lines state law sections with consistent regularity.
 
-#### The Provision
+### The Provision
 
 TCA §56-7-105 establishes: If an insurer wrongfully refuses to pay a valid claim, the insured may recover:
 
@@ -224,7 +224,7 @@ The amount of the claim (what the insurer owed)
 
 Up to 25% of the liability amount as additional damages
 
-#### The 25% Figure Is the Testable Element
+### The 25% Figure Is the Testable Element
 
 The exam does not ask whether Tennessee has a bad faith penalty — it asks what the penalty is. The answer is up to 25% of the liability amount. This specific percentage is what separates Tennessee's provision from other states' penalties and what the exam tests directly.
 
@@ -254,13 +254,13 @@ Personal Lines exam: wrongful denial of a personal auto or homeowners claim
 
 The 25% figure applies across all lines — the same statutory provision governs all insurance lines in Tennessee.
 
-### Priority 5: Unfair Trade Practices — TCA Title 56, Chapter 8
+## Priority 5: Unfair Trade Practices — TCA Title 56, Chapter 8
 
-#### The Statutory Framework
+### The Statutory Framework
 
 Tennessee's Unfair Trade Practices and Unfair Claims Settlement Act is codified at TCA Title 56, Chapter 8. The Act was adopted in 2009. The exam tests both the specific prohibited acts and the unfair claims practices framework.
 
-#### Prohibited Acts Under §56-8-105
+### Prohibited Acts Under §56-8-105
 
 Misrepresentation: Making any false, deceptive, or misleading statement about the terms, benefits, advantages, or conditions of any insurance policy. Includes omissions of material fact that create a misleading impression.
 
@@ -288,19 +288,19 @@ Compelling insureds to institute suits to recover amounts due by offering substa
 
 The frequency standard for unfair claims practices: Unfair claims practices are prohibited when committed with such frequency as to indicate a general business practice — or when committed willfully in violation of the statute. A single delayed acknowledgment of a claim is typically insufficient. A systematic pattern of delay across many policyholders meets the frequency standard.
 
-### Priority 6: Tennessee Auto Insurance Law
+## Priority 6: Tennessee Auto Insurance Law
 
 Tennessee auto insurance generates more state law questions on the Property, Casualty, and Personal Lines exams than any other insurance-specific content area. Every number and every Tennessee-specific rule is testable.
 
-#### Tennessee Is an At-Fault State
+### Tennessee Is an At-Fault State
 
 Tennessee is a tort state — injured parties pursue the at-fault driver's liability insurance. Tennessee does NOT have a no-fault system. There is no mandatory personal injury protection (PIP) requirement. The injured party's own insurer does not automatically pay their medical expenses — the at-fault driver's liability coverage is the primary recovery mechanism.
 
-#### Minimum Required Limits: 25/50/25
+### Minimum Required Limits: 25/50/25
 
 All three figures are independently testable. The exam presents scenarios asking which limit applies to a specific claim component. Know that $25,000 is the per-person bodily injury limit, $50,000 is the per-accident bodily injury aggregate, and $25,000 is the property damage limit.
 
-#### Modified Comparative Fault — The 50% Bar Rule
+### Modified Comparative Fault — The 50% Bar Rule
 
 Tennessee uses a modified comparative fault system. The specific threshold — the bar — is 50%.
 
@@ -320,15 +320,15 @@ Claimant is 50% at fault: recovers nothing
 
 Claimant is 35% at fault: recovers 65% of proven damages
 
-#### Uninsured Motorist — Written Rejection Requirement
+### Uninsured Motorist — Written Rejection Requirement
 
 Tennessee requires uninsured motorist coverage unless the insured affirmatively rejects it in writing. An insurer cannot simply omit UM coverage from a policy without a signed written rejection from the insured. The written rejection requirement is Tennessee-specific and frequently tested.
 
-#### SR-22
+### SR-22
 
 SR-22 is a certificate of financial responsibility — not an insurance policy. It is filed by the insurer with Tennessee's Department of Safety and Homeland Security confirming that a specific high-risk driver maintains at least the mandatory minimum liability coverage. Required following DUI convictions, driving without insurance, and certain other violations. If the policy lapses, the insurer notifies the Department and the driver's license is suspended.
 
-### Priority 7: Workers' Compensation Thresholds
+## Priority 7: Workers' Compensation Thresholds
 
 Workers' compensation generates consistent exam questions on Casualty and Personal Lines state law sections because of Tennessee's two distinct employer coverage thresholds.
 
@@ -342,7 +342,7 @@ The construction-specific 1-employee threshold is the more frequently tested pro
 
 Competitive market: Tennessee's workers' compensation operates in a competitive private insurance market — not a monopolistic state fund. Employers purchase coverage from private insurers. This distinguishes Tennessee from the four monopolistic workers' compensation states: North Dakota, Ohio, Washington, and Wyoming.
 
-### Priority 8: Reciprocity — The Five-State Limitation
+## Priority 8: Reciprocity — The Five-State Limitation
 
 Tennessee's reciprocity structure is significantly more restricted than most candidates expect — and the exam tests this restriction directly.
 
@@ -366,7 +366,7 @@ The five-state list is testable. Know all five states. Exam questions present a 
 
 License transfer within 90 days of moving to Tennessee: A producer who relocates to Tennessee from another state and surrenders their prior state's resident license within 90 days of establishing Tennessee residency can obtain a Tennessee resident license without retaking the exam. After 90 days, the exam is required.
 
-### Priority 9: Surplus Lines
+## Priority 9: Surplus Lines
 
 The surplus lines rule: Non-admitted insurance carriers — carriers that do not hold a Tennessee certificate of authority — may write coverage in Tennessee only through licensed surplus lines brokers.
 
@@ -376,11 +376,11 @@ Guaranty fund exclusion: Surplus lines policies are not covered by Tennessee's g
 
 The surplus lines disclosure obligation is testable. A producer who fails to disclose to a client that their surplus lines placement is not covered by the guaranty associations has violated their disclosure obligations under Tennessee law.
 
-### The State Law Master Flashcard List
+## The State Law Master Flashcard List
 
 Every item below should be recalled automatically — without hesitation — before scheduling your exam. Create a flashcard for each and drill daily from the beginning of preparation through exam day.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How many questions on the Tennessee exam come from the state law section versus the general section?
 

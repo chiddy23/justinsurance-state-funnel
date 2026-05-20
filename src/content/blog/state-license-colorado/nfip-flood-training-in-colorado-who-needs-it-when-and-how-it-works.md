@@ -16,13 +16,13 @@ Every Colorado insurance producer who sells federal flood insurance policies thr
 
 This post covers exactly who the requirement applies to, when it must be completed, what the training covers, how it fits into biennial CE, the WYO carrier training layer that is separate from the state requirement, and why Colorado property producers who are not yet NFIP-trained should treat this as a near-term priority regardless of how frequently they currently handle flood insurance.
 
-### The Legal Basis: Federal Law Implemented Through Colorado's Division of Insurance
+## The Legal Basis: Federal Law Implemented Through Colorado's Division of Insurance
 
 The NFIP flood training requirement is unusual among Colorado's specialty training prerequisites in that its origin is federal rather than state. Section 207 of the Flood Insurance Reform Act of 2004 (Public Law 108-264) directed FEMA to develop minimum training and education requirements for insurance producers who sell flood insurance under the NFIP, in cooperation with state insurance regulators. FEMA published those requirements in the Federal Register at 70 Fed. Reg. 52,117 (September 1, 2005), codified at 44 C.F.R. Part 62.
 
 The Colorado Division of Insurance implemented this federal mandate through a DOI bulletin that applies the FEMA minimum training standards to all Colorado-licensed resident producers in Property, Casualty, or Personal Lines who sell federal flood insurance policies. The bulletin states clearly: licensed insurers must be able to demonstrate to the Commissioner, upon request, that their licensed and appointed producers who sell federal flood insurance policies have complied with the minimum training requirements. The compliance burden ultimately falls on the producer — but carriers are the first line of verification.
 
-### Who the Training Applies To
+## Who the Training Applies To
 
 The Colorado NFIP training requirement applies to Colorado resident producers licensed in any of the following lines of authority who sell federal flood insurance policies:
 
@@ -38,7 +38,7 @@ Life and A&H only producers: Producers who hold only Life and/or Accident & Heal
 
 Non-resident producers: The Colorado DOI bulletin specifically applies to Colorado resident producers. Non-resident producers licensed in Colorado who sell flood insurance should confirm with their carriers whether the non-resident's home state training satisfies Colorado's requirement. In practice, most WYO carriers verify NFIP training compliance independently through their own appointment and training platforms, which provides a practical compliance check regardless of residency status.
 
-### When the Training Must Be Completed
+## When the Training Must Be Completed
 
 The training must be completed before selling, soliciting, or placing any federal flood insurance policy through the NFIP. There is no post-licensing grace period — a producer who places an NFIP policy without completed training is out of compliance from the first transaction.
 
@@ -46,7 +46,7 @@ One-time requirement: Unlike homeowners CE (required every biennial cycle) or LT
 
 When to complete it practically: For any producer who holds Property, Casualty, or Personal Lines authority and actively serves clients with residential or commercial property exposures, the practical answer is: complete the training now, before the next client who needs flood insurance. Flood insurance conversations arise unpredictably — a client in a newly remapped flood zone, a home purchase in a FEMA Special Flood Hazard Area (SFHA), a renewal on a property where the lender requires flood coverage. Having the training complete means you can serve that client immediately rather than having to refer the transaction to another producer or rush through a 3-hour course before closing.
 
-### What the NFIP Training Covers
+## What the NFIP Training Covers
 
 Approved Colorado NFIP training courses are built around FEMA's minimum training and education requirements as published in the Federal Register. The 3-hour minimum course covers the foundational knowledge producers need to accurately sell, explain, and service NFIP policies. Every approved course addresses the following content areas:
 
@@ -112,7 +112,7 @@ Colorado-specific flood exposure context
 
 Colorado's flood risk is less driven by coastal storm surge (Colorado is landlocked) and more by riverine flooding along the state's major river systems — the South Platte, Arkansas, Colorado, Cache la Poudre, and their tributaries — and by flash flooding in the Front Range foothills and mountain communities. The September 2013 Colorado floods, which affected Boulder, Larimer, and several other Front Range counties and caused more than $2 billion in damage, illustrated the severity of Colorado's flood exposure and the frequency with which properties outside formally designated SFHAs are affected by flood events.
 
-### Format and Completion
+## Format and Completion
 
 Approved formats: The 3-hour NFIP training may be completed online through self-study, in a live classroom, or via live webinar. Unlike the LTC Partnership component, there is no mandatory classroom or live instruction requirement for NFIP training. Online self-study with a final exam is the most common completion format for Colorado producers and fully satisfies the requirement.
 
@@ -120,7 +120,7 @@ Final exam: Colorado's CE rules require a final exam for self-study courses. Mos
 
 FEMA's free training: FEMA offers free online training courses for agents at agents.floodsmart.gov through the NFIP's Agent Training platform. FEMA's courses include "Key Fundamentals of Flood Insurance for Agents" — a two-part webinar course, each part two hours in length, providing foundational NFIP knowledge. FEMA also offers Emergency Management Institute (EMI) independent study courses at no cost. However, whether FEMA's free training satisfies Colorado's CE credit requirement depends on whether the specific FEMA course is approved by the Colorado Division of Insurance for CE credit. Many FEMA courses are not registered as Colorado-approved CE providers — they provide excellent substantive training but may not generate reportable CE credit. If CE credit toward your biennial 24-hour requirement is a priority, verify that the specific course you enroll in is Colorado-DOI-approved before completing it.
 
-### How the 3 Hours Fit Into Biennial CE
+## How the 3 Hours Fit Into Biennial CE
 
 The NFIP training counts toward the producer's 24-hour biennial CE requirement as Property major lines CE:
 
@@ -132,7 +132,7 @@ As a one-time training, the CE credit only applies once — in subsequent bienni
 
 Practical planning note: Complete the NFIP training early in your first or second biennial CE cycle as a Property/Casualty or Personal Lines producer. The 3 hours contribute to your major lines total, reducing the remaining major lines CE you need to complete that cycle from 18 hours to 15 hours. In all subsequent cycles, the training is already satisfied and those 3 hours are not available as CE credit again — you need to complete the full 18 major lines hours through other approved courses.
 
-### The WYO Carrier Training Layer
+## The WYO Carrier Training Layer
 
 As with annuity and LTC training, the state's NFIP training requirement and the WYO carrier's training requirement are separate obligations. Completing the 3-hour Colorado DOI-approved NFIP course satisfies the state and federal training mandate. It does not satisfy any WYO carrier's requirement for training on that carrier's specific NFIP policy procedures, systems, and servicing protocols.
 
@@ -140,7 +140,7 @@ WYO carriers — the private insurance companies that write and service NFIP pol
 
 The DOI bulletin's carrier obligation: The Colorado DOI bulletin explicitly requires licensed insurers to be able to demonstrate to the Commissioner that their licensed and appointed producers who sell federal flood insurance have complied with the minimum training requirements. This means carriers have a regulatory obligation to verify producer training compliance — an additional accountability mechanism on top of the producer's individual obligation.
 
-### The Advisory Obligation: When a Client Declines Flood Coverage
+## The Advisory Obligation: When a Client Declines Flood Coverage
 
 The Colorado DOI bulletin contains a practice guidance element that goes beyond the training requirement itself. The Division recommends that when a producer is selling or renewing a homeowners policy, it is prudent to:
 
@@ -152,7 +152,7 @@ Retain that statement in the producer's file on the client
 
 This recommendation reflects E&O risk management as much as consumer protection. A Colorado homeowner who suffers a significant flood loss and was never advised that their homeowners policy excludes flood damage — and that NFIP coverage was available — has a plausible basis for an E&O claim against their producer. Documenting the flood insurance conversation at every homeowners transaction protects both the client (who has made an informed decision) and the producer (who has documented the advisement). Given Colorado's river corridor and flash flood exposure, the flood insurance conversation belongs in every homeowners policy sale and renewal regardless of whether the property is in a formally designated SFHA.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My client's property is in Flood Zone X — a low-risk zone. Do I still need the NFIP training to sell them a policy?
 

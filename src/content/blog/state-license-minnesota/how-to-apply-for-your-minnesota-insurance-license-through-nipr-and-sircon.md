@@ -14,7 +14,7 @@ imageAlt: How to Apply for Your Minnesota Insurance License Through NIPR and Sir
 
 Passing the PSI state exam and completing your fingerprinting clears the two most demanding requirements in the Minnesota licensing process. The application step that follows is procedurally straightforward — but it has specific requirements, fees, and timing rules that applicants who rush through it often get wrong. This post covers the application process in full: how NIPR and Sircon work, which to use, what the fees are for every license type, what happens after you submit, how to check your status, and what the appointment requirement means for when you can actually start working.
 
-### The Two Application Platforms: NIPR and Sircon
+## The Two Application Platforms: NIPR and Sircon
 
 Minnesota accepts producer license applications through two electronic platforms: the National Insurance Producer Registry (NIPR) at nipr.com and Sircon at sircon.com. Both connect to the Minnesota Department of Commerce's licensing system and submit applications to the same destination. The Department does not accept paper applications — all producer license applications must be submitted electronically through one of these two platforms.
 
@@ -24,7 +24,7 @@ Sircon is operated by Vertafore, a technology company that provides compliance m
 
 Which platform to use: For most applicants applying for a Minnesota resident license only, either platform works equally well. The Department processes applications identically regardless of which platform submitted them. If you are planning to apply for non-resident licenses in other states simultaneously, NIPR's multi-state functionality offers a practical advantage. If you are applying only in Minnesota, choose the platform you find easier to navigate.
 
-### Before You Begin the Application
+## Before You Begin the Application
 
 Three conditions must be satisfied before submitting your license application:
 
@@ -36,7 +36,7 @@ Three conditions must be satisfied before submitting your license application:
 
 Timing: You have 36 months from the date you passed your state exam to submit your license application. There is no minimum waiting period after the exam — you can submit the application the same day you pass if your fingerprinting and prelicensing reporting are complete.
 
-### Application Fees: Every Cost Broken Down
+## Application Fees: Every Cost Broken Down
 
 Minnesota charges a $50 application fee per line of authority. This is a per-line fee, not a per-application fee — an applicant seeking multiple lines in a single application pays $50 for each line requested. In addition to the per-line fee, there is a technology surcharge and the NIPR transaction fee.
 
@@ -46,7 +46,7 @@ Non-refundable fees: Application fees are not refunded if your application is de
 
 Technology fee variation: The technology fee amount — $10 or $20 — varies depending on the specific application type and may change. Verify the current technology fee at the time of application through NIPR or Sircon. The $5.60 NIPR transaction fee applies to applications submitted through NIPR; Sircon may have a different or no separate transaction fee — confirm at the time of application.
 
-### Step-by-Step: Submitting Through NIPR
+## Step-by-Step: Submitting Through NIPR
 
 Step 1 — Create or log in to your NIPR account: Go to nipr.com and create a personal producer account if you do not already have one. The account requires your full legal name, Social Security Number, and contact information. Use your legal name exactly as it appears on your government-issued ID — discrepancies between your application name and your ID can delay processing.
 
@@ -70,13 +70,13 @@ Step 5 — Review and pay: Review your selections and the total fee calculation 
 
 Step 6 — Submit and save confirmation: After payment, NIPR generates a confirmation number and confirmation email. Save both. The confirmation number allows you to track the status of your application and serves as proof of submission if any questions arise during processing.
 
-### Step-by-Step: Submitting Through Sircon
+## Step-by-Step: Submitting Through Sircon
 
 The Sircon process follows the same logical flow as NIPR with a slightly different interface. Go to sircon.com, create an account using your legal name and SSN, navigate to the producer licensing application section, select Minnesota, choose your lines of authority, answer the disclosure questions, review the fee total, and complete payment. Sircon also generates a confirmation number at submission.
 
 Sircon and temporary licenses: If you are applying for a temporary producer license simultaneously with your regular application — because a sponsoring insurer is supporting your application — Sircon is specifically referenced in the Department's guidance for temporary license applications. Temporary license applicants should have their sponsoring insurer's information ready at the time of submission.
 
-### Processing Timeline and What Happens After Submission
+## Processing Timeline and What Happens After Submission
 
 Standard processing: The Minnesota Department of Commerce processes most online applications within 10 business days from the date of submission. This is a working-days estimate — weekends and state holidays are not counted. An application submitted on a Monday is typically processed by the following Monday or Tuesday at the latest, assuming no issues arise during review.
 
@@ -86,7 +86,7 @@ If your application is incomplete: If the Department identifies a missing elemen
 
 If your application raises a disclosure concern: Applications that disclose prior regulatory actions, criminal history, or tax liens are reviewed by Department staff. These reviews take longer than standard processing — sometimes several weeks. The Department will contact you for additional documentation if needed.
 
-### Checking Your Application Status
+## Checking Your Application Status
 
 Through NIPR: Log in to your NIPR account and navigate to "Application Status" to see the current status of your submitted application. Status updates typically reflect the Department's most recent processing action.
 
@@ -94,7 +94,7 @@ Through the Minnesota Department of Commerce: The Department's online license lo
 
 Processing confirmation by email: Both NIPR and Sircon send email notifications when your application status changes. Ensure the email address on your account is current and that notifications from these platforms are not filtered into spam.
 
-### Receiving and Accessing Your License
+## Receiving and Accessing Your License
 
 Minnesota does not mail physical producer licenses. Once your license is approved and issued, it is accessible electronically through the Department of Commerce's licensing portal. You can download and print your license from the portal at any time.
 
@@ -102,7 +102,7 @@ License number: Your Minnesota producer license is issued with a unique license 
 
 Multiple lines on a single license record: If you applied for and received multiple lines of authority simultaneously, all approved lines appear on your single producer license record. You do not receive separate licenses for each line — the license record reflects all lines for which you are authorized.
 
-### The Appointment Requirement: When You Can Start Working
+## The Appointment Requirement: When You Can Start Working
 
 Receiving your producer license does not mean you can immediately begin selling insurance. Under Minn. Stat. §60K.49, a producer must be appointed by an insurance company before transacting insurance business in Minnesota. The license authorizes you to hold yourself out as a licensed producer; the appointment authorizes you to actually sell for a specific carrier.
 
@@ -114,7 +114,7 @@ Multiple appointments: You may be appointed by multiple carriers simultaneously.
 
 Appointment terminations: If you leave a carrier or agency relationship, the carrier is responsible for filing the appointment termination electronically. You cannot terminate your own appointment. If you want to ensure a termination is filed — for example, if you are leaving a carrier relationship and want to ensure no future liability under that appointment — contact the carrier directly and request that they file the termination promptly.
 
-### The Temporary License Option
+## The Temporary License Option
 
 Minnesota offers a 180-day temporary producer license for applicants who need to begin transacting business before their regular license application is processed. The temporary license requires:
 
@@ -126,7 +126,7 @@ Satisfying all other eligibility requirements (the temporary license does not ex
 
 The temporary license expires at 180 days or when the regular license is issued, whichever comes first. It is subject to the same appointment requirement — the sponsoring company must file the temporary appointment. If the regular license application is denied, the temporary license also terminates.
 
-### Non-Resident License Applications
+## Non-Resident License Applications
 
 Producers who are licensed in another state and want to also transact business in Minnesota without establishing Minnesota residency apply for a non-resident license through the same NIPR or Sircon platforms.
 
@@ -134,7 +134,7 @@ Reciprocity: Minnesota has reciprocity agreements with most states, meaning non-
 
 Non-resident CE: Non-resident producers satisfy Minnesota's CE requirement by meeting the CE requirements of their home state. Minnesota does not impose separate CE obligations on non-resident licensees as long as their home state CE is current.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I submitted my application through NIPR but made an error in my disclosure answers. What should I do?
 

@@ -14,17 +14,17 @@ imageAlt: "Minnesota Life and Annuities Exam: Full Content Breakdown and Strateg
 
 The Minnesota Life insurance licensing exam tests a specific and learnable body of knowledge. Every question on the exam draws from a published content outline that PSI and the Minnesota Department of Commerce use to construct the test — meaning nothing appears on the exam that is not on the outline, and everything on the outline is a potential source of questions. This post maps the full content of the Minnesota Life exam, explains what each section actually tests and how deeply, identifies the high-priority topics that generate the most exam questions, covers the Minnesota-specific law provisions that appear in the state section, and provides the strategic approach that produces first-attempt passes for candidates who use it.
 
-### Exam Specifications
+## Exam Specifications
 
 Exam administrator: PSI Services LLC Exam format: Multiple choice, four options per question, one correct answer Scored questions: 85 Time allowed: 2 hours Passing score: 70% (scaled score of 70 or higher) Results: Immediate — displayed on screen at conclusion of exam Retakes: No limit; 24-hour wait between attempts; $45 fee per attempt Exam validity: 3 years from date of passing
 
 The 85 questions are divided between a general section covering life insurance principles applicable in all states and a state-specific section covering Minnesota life insurance law. Both sections appear in the same exam session.
 
-### Section 1: Types of Life Insurance Policies
+## Section 1: Types of Life Insurance Policies
 
 This is typically the largest single content area on the Minnesota Life exam and the one where the most questions originate. You need to know each policy type's fundamental mechanics, distinguishing features, premium structure, cash value behavior, and death benefit characteristics.
 
-#### Term Life Insurance
+### Term Life Insurance
 
 Term life insurance provides a death benefit for a specified period — the term — at a fixed or adjustable premium. There is no cash value accumulation. If the insured dies within the term, the death benefit is paid. If the insured outlives the term, the coverage ends with no payout and no residual value.
 
@@ -42,7 +42,7 @@ Convertible term: Can be converted to a permanent policy without evidence of ins
 
 Key testable distinctions for term: Term has no cash value, no loan provision, and no nonforfeiture options (because there is nothing to forfeit). The absence of these features distinguishes term from permanent policies on the exam.
 
-#### Whole Life Insurance
+### Whole Life Insurance
 
 Whole life provides permanent death benefit protection for the insured's entire life, as long as premiums are paid. It accumulates cash value that grows at a guaranteed rate and is available to the policyowner through loans or surrender.
 
@@ -66,7 +66,7 @@ Cash surrender: The policyowner receives the cash value in cash and the policy t
 
 Dividends: Participating whole life policies may pay dividends — a return of excess premium — when the insurer's experience (mortality, investment, expenses) is better than projected. Dividends are not guaranteed. Dividend options include: cash, premium reduction, paid-up additions, accumulate at interest, or one-year term.
 
-#### Universal Life Insurance
+### Universal Life Insurance
 
 Universal life (UL) is permanent life insurance with flexible premiums and an adjustable death benefit. The policyowner can vary the premium amount (within limits) and adjust the death benefit up or down, subject to underwriting for increases.
 
@@ -80,7 +80,7 @@ Option B (Increasing): The death benefit equals the face amount plus the accumul
 
 Lapse risk: Unlike whole life, a UL policy can lapse if the cash value is insufficient to cover the monthly COI charges — even if premiums were previously paid. Policyowners who fund UL policies at the minimum premium level face this risk if the declared interest rate decreases.
 
-#### Variable Life and Variable Universal Life
+### Variable Life and Variable Universal Life
 
 Variable life insurance ties the policy's cash value and, in some versions, the death benefit to investment subaccounts — similar to mutual funds — chosen by the policyowner. Performance is not guaranteed.
 
@@ -88,15 +88,15 @@ Key regulatory distinction: Variable products are both insurance products and se
 
 Variable life vs. variable universal life: Variable life has fixed premiums and a guaranteed minimum death benefit. Variable universal life (VUL) combines the flexible premium feature of universal life with the investment subaccount feature of variable life — maximum flexibility, maximum policyowner investment risk.
 
-#### Indexed Universal Life
+### Indexed Universal Life
 
 Indexed universal life (IUL) credits interest to the cash value based on the performance of a market index (typically the S&P 500), subject to a participation rate, cap, and floor. The floor is typically 0% — meaning the account does not lose value in a down market — and the cap limits the maximum gain in an up market.
 
-#### Group Life Insurance
+### Group Life Insurance
 
 Group life insurance covers multiple insureds under a single master policy issued to the group sponsor (employer, association, union). Individual members receive certificates of coverage. Group life is typically term life with annually renewable premiums. Key testable features: no evidence of insurability for members who enroll during the eligibility period; conversion privilege allows departing members to convert to individual permanent coverage within 31 days without evidence of insurability.
 
-### Section 2: Life Insurance Policy Provisions
+## Section 2: Life Insurance Policy Provisions
 
 Policy provisions are consistently tested on the Minnesota Life exam. Know each provision's name, its purpose, and how it operates.
 
@@ -118,7 +118,7 @@ Beneficiary designations: Primary beneficiaries receive the death benefit if liv
 
 Settlement options: Instead of a lump-sum payment, beneficiaries may receive death proceeds through settlement options: lump sum, interest only, fixed period, fixed amount, or life income (annuity).
 
-### Section 3: Annuities
+## Section 3: Annuities
 
 Annuities are a significant component of the Minnesota Life exam. An annuity is a contract that accumulates funds and then distributes those funds — either as a lump sum or as a series of payments — typically during retirement.
 
@@ -144,7 +144,7 @@ Tax treatment of annuities: Annuity earnings grow tax-deferred. Withdrawals befo
 
 Qualified vs. non-qualified annuities: Qualified annuities are funded with pre-tax dollars (inside an IRA or employer plan). Non-qualified annuities are funded with after-tax dollars. The distinction affects how withdrawals are taxed.
 
-### Section 4: Life Insurance Taxation
+## Section 4: Life Insurance Taxation
 
 Taxation of life insurance is a consistently tested topic — particularly the provisions that make life insurance tax-advantaged.
 
@@ -160,7 +160,7 @@ Modified endowment contracts (MECs): A policy becomes a MEC if it is funded too 
 
 Business life insurance uses: Key person insurance, buy-sell agreements funded with life insurance, and split-dollar arrangements each have specific tax implications that are testable on the exam.
 
-### Section 5: Minnesota State Law — Life Insurance Provisions
+## Section 5: Minnesota State Law — Life Insurance Provisions
 
 The state-specific section of the Minnesota Life exam covers Minnesota statutes governing life insurance producers, policies, and markets.
 
@@ -188,7 +188,7 @@ Group conversion rights: When an employee leaves group life insurance coverage, 
 
 Minnesota Insurance Guaranty Associations: The Minnesota Life and Health Guaranty Association (Minn. Stat. §61B) protects life insurance policyholders if an insurer becomes insolvent. Coverage limits apply — verify current limits directly with the Department of Commerce, as the statute specifies limits that may be updated. The guaranty association is funded by assessments on solvent member insurers — it is not a state-funded program. Producers may not use the existence of guaranty association coverage in sales presentations to minimize concerns about insurer financial strength.
 
-### Strategic Approach: How to Maximize Your Score
+## Strategic Approach: How to Maximize Your Score
 
 Master the policy type mechanics first. The largest share of questions on the Minnesota Life exam tests whether you understand how each policy type works — its premium structure, cash value behavior, death benefit characteristics, and the provisions specific to each type. Get this material solid before moving to taxation or state law.
 
@@ -200,7 +200,7 @@ Use elimination aggressively on difficult questions. PSI Life exam questions are
 
 Do not confuse term and permanent features. Many exam questions test whether candidates know which features apply to term policies and which apply to permanent policies. Term has no cash value, no loan provision, and no nonforfeiture options. Permanent policies (whole life, universal life) have all three. This distinction generates questions across multiple content areas.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How much of the Minnesota Life exam covers annuities specifically?
 

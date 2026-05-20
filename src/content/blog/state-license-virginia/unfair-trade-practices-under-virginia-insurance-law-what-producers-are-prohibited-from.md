@@ -14,7 +14,7 @@ imageAlt: "Unfair Trade Practices Under Virginia Insurance Law: What Producers A
 
 Title 38.2, Chapter 5 of the Code of Virginia (§§ 38.2-500 through 38.2-518) defines and prohibits unfair methods of competition and unfair or deceptive acts and practices in the business of insurance. This chapter exists to implement the intent of Congress under the McCarran-Ferguson Act by ensuring that the Commonwealth's insurance market operates with integrity. For producers, Chapter 5 establishes the boundaries of permissible conduct in soliciting, selling, and servicing insurance. Violations can result in license suspension or revocation, civil penalties, and restitution orders — and in the most serious cases, criminal referral. This post covers every material prohibition that applies directly to Virginia insurance producers.
 
-### Misrepresentation: § 38.2-503
+## Misrepresentation: § 38.2-503
 
 Virginia's misrepresentation prohibition is broad. No person shall:
 
@@ -30,13 +30,13 @@ Make any misrepresentation for the purpose of inducing or attempting to induce a
 
 What this means in practice: Telling a prospect that a policy "covers everything" when it has material exclusions, misquoting premium amounts, misrepresenting dividends on participating policies, or understating the surrender charges on a life policy to make switching sound more attractive are all violations of § 38.2-503.
 
-### Twisting: § 38.2-503
+## Twisting: § 38.2-503
 
 Twisting — inducing a policyholder to lapse, surrender, or replace existing insurance by misrepresenting the existing policy's terms — is prohibited under the same misrepresentation section. The key element is misrepresentation about the existing coverage. Replacing existing insurance is not inherently a violation; misrepresenting it to induce the replacement is.
 
 Virginia's replacement regulations (applicable to life insurance) require specific disclosure when a new policy replaces existing coverage — a Notice Regarding Replacement must be provided, the replacing insurer must notify the existing insurer, and the client must be given a comparison document.
 
-### Rebating: § 38.2-509
+## Rebating: § 38.2-509
 
 No person shall:
 
@@ -50,7 +50,7 @@ The $25 referral fee limit: A producer may pay a one-time nominal referral fee t
 
 Legitimate exceptions: Rebating does not prohibit payment of renewal commissions to persons who were properly licensed at the time of the original transaction, or payment of commissions to filed trade names, or commission-sharing with licensed agents in the same license class.
 
-### Unfair Claim Settlement Practices: § 38.2-510
+## Unfair Claim Settlement Practices: § 38.2-510
 
 The unfair claim settlement practices section prohibits engaging in the following with such frequency as to indicate a general business practice:
 
@@ -72,7 +72,7 @@ Attempting to settle claims for less than the amount to which a reasonable perso
 
 The "general business practice" requirement: Note that this section applies to conduct committed with such frequency as to indicate a general business practice. A single claim-handling error is not automatically a violation — the pattern of conduct matters. This standard applies primarily to insurers and adjusters; for individual producers, misrepresentation about claims falls under § 38.2-503.
 
-### Additional Prohibitions
+## Additional Prohibitions
 
 Defamation (§ 38.2-505): Making, publishing, or circulating any false or maliciously critical statement about the financial condition of any insurer for the purpose of injuring anyone engaged in the insurance business.
 
@@ -84,7 +84,7 @@ Illegal inducements (§ 38.2-513): Making any contract of insurance or agreement
 
 Commission sharing with unlicensed persons: No producer may directly or indirectly share commissions with anyone not also licensed for the same class of insurance involved in the transaction.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the legal distinction between twisting and churning under Virginia law?
 

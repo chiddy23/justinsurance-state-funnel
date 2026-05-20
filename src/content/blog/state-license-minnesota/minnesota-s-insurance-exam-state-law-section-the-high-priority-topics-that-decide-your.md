@@ -16,7 +16,7 @@ Every Minnesota insurance licensing exam — Life, Accident and Health, Property
 
 This post identifies every high-priority topic in Minnesota's state law section across all major lines, explains exactly what the exam tests within each topic, provides the specific statutory citations and numerical facts that generate exam questions, and explains the strategic approach that turns state law preparation into a consistent score advantage.
 
-### Why the State Law Section Decides Your Score
+## Why the State Law Section Decides Your Score
 
 The state law section is the part of the exam where your [prelicensing](/minnesota/prelicensing) course content and the PSI exam content align most precisely — but where independent study beyond the course matters most. Your prelicensing course introduces the Minnesota statutory framework. The exam tests whether you have retained the specific provisions, numbers, and procedures that make Minnesota law distinct from the general insurance principles you studied in the course's first half.
 
@@ -24,35 +24,35 @@ Two candidates can enter the PSI exam with equally strong general content knowle
 
 The state law section covers the same core topics regardless of which line you are testing for — producer licensing, unfair trade practices, the Department of Commerce structure — plus line-specific topics that vary by exam. The topics below are organized from universally applicable (appear on every exam) to line-specific (appear only on relevant exams).
 
-### Universal Topic 1: Producer Licensing — Chapter 60K
+## Universal Topic 1: Producer Licensing — Chapter 60K
 
 Producer licensing law under Minn. Stat. Chapter 60K is tested on every Minnesota insurance exam regardless of line. Every producer needs to know these provisions — and the exam tests them with precision questions that distinguish candidates who know the specific numbers from those who know the general concept.
 
-#### Prelicensing Requirements (Minn. Stat. §60K.36 Subd. 4)
+### Prelicensing Requirements (Minn. Stat. §60K.36 Subd. 4)
 
 20 hours per line of authority — the statutory minimum. Combined lines require 20 hours per line (40 hours for combined P&C; 40 hours for combined Life and A&H). The certification exam within the prelicensing course must be passed at 70% or higher and must be proctored by a disinterested third party. The certificate of completion never expires.
 
 Exam questions this generates: "What is the minimum number of prelicensing hours required per line of authority in Minnesota?" (20 hours.) "Who must monitor the prelicensing certification exam?" (A disinterested third party.) "How long is a Minnesota prelicensing certificate of completion valid?" (It never expires — no expiration date.)
 
-#### State Exam Requirements
+### State Exam Requirements
 
 PSI administers the exam. Passing score: 70%. Results are immediate. Exam results are valid for 3 years from the date of passing. No limit on retake attempts; 24-hour wait between attempts.
 
 Exam questions this generates: "How long are Minnesota insurance exam results valid?" (3 years.) "What is the minimum waiting period between exam retakes in Minnesota?" (24 hours.)
 
-#### Application Requirements
+### Application Requirements
 
 Application fee: $50 per line of authority. Submitted through NIPR or Sircon. Fingerprinting required for all resident applicants — electronically at a PSI test center ($65) or by mail ($33.25). Processing time: approximately 10 business days.
 
 Exam questions this generates: "What is the application fee for a single line of authority in Minnesota?" ($50.) "Who must be fingerprinted when applying for a Minnesota resident insurance license?" (All resident applicants.)
 
-#### Appointment Requirement (Minn. Stat. §60K.49)
+### Appointment Requirement (Minn. Stat. §60K.49)
 
 A producer may obtain a license before being appointed by an insurer, but an appointment is required before transacting insurance business in Minnesota. Appointments are filed electronically by the insurer — producers cannot self-appoint.
 
 Exam questions this generates: "Under Minnesota law, what is required before a licensed producer may transact insurance business?" (An appointment from a carrier.) "Who files a producer appointment with the Minnesota Department of Commerce?" (The appointing insurer.)
 
-#### License Renewal and CE Requirements
+### License Renewal and CE Requirements
 
 Renewal deadline: Last day of the licensee's birth month, biennial (every 2 years). Business entities renew October 31 biennial. Renewals may be submitted up to 90 days early.
 
@@ -64,15 +64,15 @@ Lapsed license reinstatement: Within 12 months — double the unpaid renewal fee
 
 Exam questions this generates: "How many total CE hours must a Minnesota insurance producer complete per renewal period?" (24.) "How many of those hours must be ethics?" (3.) "What is the minimum number of hours that must be in classroom or equivalent format?" (12.) "What is the penalty for reinstating a lapsed Minnesota license within 12 months?" (Double the unpaid renewal fee.) "What happens if a Minnesota producer's license lapses for more than 12 months?" (Full relicensing is required — new prelicensing, exam, and fingerprinting.)
 
-#### Grounds for License Action
+### Grounds for License Action
 
 The Commissioner may deny, suspend, revoke, or refuse to renew a license for: providing false information in a license application, misappropriation of premium funds, misrepresentation of policy terms, willful violations of insurance law, having a license denied or revoked in another state, and conviction of a felony. Each ground is separately testable — the exam frequently presents a scenario and asks which grounds for action apply.
 
-#### Temporary License
+### Temporary License
 
 Minnesota offers a 180-day temporary producer license for applicants sponsored by an appointing insurer. Applied through Sircon. Prelicensing and exam requirements still apply — the temporary license is a timing accommodation, not an exemption from substantive licensing requirements.
 
-### Universal Topic 2: Minnesota Department of Commerce Structure
+## Universal Topic 2: Minnesota Department of Commerce Structure
 
 Regulator: Minnesota Department of Commerce. The Commissioner of Commerce holds full regulatory authority over insurance in Minnesota under Chapter 60A. This is different from states where a separate Insurance Commissioner or Insurance Department exists — in Minnesota, the Department of Commerce regulates multiple industries including insurance, banking, and real estate, with the Commissioner serving as the chief regulatory officer.
 
@@ -80,29 +80,29 @@ Address: 85 7th Place East, Suite 280, St. Paul, MN 55101 Phone: (651) 539-1599 
 
 Exam questions this generates: "Who has regulatory authority over insurance producers and carriers in Minnesota?" (The Commissioner of Commerce.) "Which state agency regulates insurance in Minnesota?" (The Minnesota Department of Commerce.)
 
-### Universal Topic 3: Minnesota Unfair Trade Practices — Minn. Stat. §72A.20
+## Universal Topic 3: Minnesota Unfair Trade Practices — Minn. Stat. §72A.20
 
 The unfair trade practices statute is tested on every Minnesota insurance exam. Know each prohibited act by name and definition — the exam tests both recognition of the act by definition and application of the statute to a described fact pattern.
 
-#### Misrepresentation and False Advertising
+### Misrepresentation and False Advertising
 
 Prohibits making any false, misleading, or deceptive statement about an insurance policy's terms, benefits, or conditions; about an insurer's financial condition; or about dividends or other policy performance. Covers both affirmative false statements and misleading omissions of material fact.
 
 Twisting — a specific application of misrepresentation — uses false or misleading statements to induce a policyholder to replace existing coverage. Twisting is both a misrepresentation violation and a separate concern under replacement regulations.
 
-#### Defamation
+### Defamation
 
 Making, publishing, or circulating any false statement that is maliciously critical of or derogatory to an insurer's financial condition, for the purpose of injuring the insurer or any person in the insurance business. Both elements are required: the statement must be false AND made with malicious intent to injure.
 
-#### Boycott, Coercion, and Intimidation
+### Boycott, Coercion, and Intimidation
 
 Using or threatening force, coercion, or intimidation to compel any person to purchase insurance from a specific insurer or producer. Conditioning the purchase of one insurance product on the purchase of another (tying) is a form of coercive conduct under this provision.
 
-#### Unfair Discrimination
+### Unfair Discrimination
 
 Making any unfair distinction between individuals of the same class and equal risk in the premiums charged, benefits provided, or terms and conditions of any insurance policy without actuarial justification. Rate differences based on legitimate, filed actuarial factors are permissible; differences based on arbitrary, non-actuarial factors are not.
 
-#### Rebating — The Bilateral Prohibition
+### Rebating — The Bilateral Prohibition
 
 Offering, paying, giving, or allowing — directly or indirectly — any rebate of premiums or any valuable consideration not specified in the insurance contract as an inducement to purchase or maintain insurance.
 
@@ -110,17 +110,17 @@ The bilateral nature of this prohibition is a high-priority testable fact: Both 
 
 What is not rebating: Dividends paid by participating policies (specified in the contract), commission sharing between licensed producers, and items of nominal value given to all clients regardless of purchase (not contingent on a specific transaction).
 
-#### Unfair Claims Settlement Practices
+### Unfair Claims Settlement Practices
 
 The unfair claims practices prohibition applies when conduct is either willful or occurs with such frequency as to indicate a general business practice. A single delayed acknowledgment of a claim is an error; a systematic pattern of delayed acknowledgments is an unfair claims practice. Specific prohibited acts include: misrepresenting policy provisions in connection with a claim, failing to acknowledge claims promptly, refusing to pay without a reasonable investigation, failing to affirm or deny coverage within a reasonable time, and compelling insureds to litigate to collect amounts clearly owed.
 
 The frequency standard is a high-priority testable distinction — the exam regularly presents a fact pattern and asks whether the described conduct constitutes an unfair claims practice, requiring the candidate to apply either the willful OR frequency standard.
 
-#### Prohibited Inducements Beyond Rebating
+### Prohibited Inducements Beyond Rebating
 
 Offering special favors, advantages, or dividends not specified in the policy as inducements to purchase. This extends the rebating prohibition to any off-policy benefit offered to influence a purchase decision.
 
-### Universal Topic 4: Minnesota Guaranty Associations
+## Universal Topic 4: Minnesota Guaranty Associations
 
 Minnesota Insurance Guaranty Association (Minn. Stat. §60C): Protects P&C policyholders when a licensed P&C insurer becomes insolvent. Coverage limits apply — verify current limits directly with the Department of Commerce. The guaranty association is funded by assessments on solvent member insurers, not by the state. Non-admitted (surplus lines) carrier policies are not covered by the guaranty association.
 
@@ -130,13 +130,13 @@ The prohibition on using guaranty association protection in sales: Minnesota law
 
 Exam questions this generates: "A producer is presenting a life insurance policy from a financially weak insurer. The producer tells the client not to worry because the guaranty association will cover any claims if the insurer fails. Has the producer violated Minnesota law?" (Yes — using guaranty association coverage in sales presentations is prohibited.)
 
-### P&C and Personal Lines Specific Topic: Minnesota Auto Insurance Law
+## P&C and Personal Lines Specific Topic: Minnesota Auto Insurance Law
 
-#### No-Fault System — Minn. Stat. §65B.49
+### No-Fault System — Minn. Stat. §65B.49
 
 Minnesota is a no-fault state. Every auto insurance policy issued in Minnesota must include Personal Injury Protection (PIP) coverage that pays the insured's medical expenses and non-medical expenses after an auto accident, regardless of fault.
 
-#### Required Minimum Coverages
+### Required Minimum Coverages
 
 The $10,000 property damage minimum is the lowest in the United States — a Minnesota-specific fact that the exam tests repeatedly.
 
@@ -144,7 +144,7 @@ PIP structure: The $40,000 PIP limit is split — $20,000 for medical expenses a
 
 Six-month PIP filing deadline: A PIP claim must be filed within six months of the accident. Claims filed after six months are barred.
 
-#### The Tort Threshold
+### The Tort Threshold
 
 An injured party may step outside the no-fault system and sue the at-fault driver for non-economic damages (pain and suffering) only if one of the following is met:
 
@@ -158,11 +158,11 @@ Death
 
 The $4,000 threshold and the diagnostic test exclusion are both specifically testable. An exam question may specify a claimant's total medical expenses and ask whether the tort threshold is met — and the answer depends on whether diagnostic tests are excluded from the calculation.
 
-#### SR-22
+### SR-22
 
 A certificate of financial responsibility filed by the insurer with Minnesota Driver and Vehicle Services certifying that the named driver carries minimum required coverage. Required for certain license reinstatements. An SR-22 is not an insurance policy — it is a certificate attesting to the existence of coverage. The insurer must notify DVS if the underlying policy lapses.
 
-### P&C and Personal Lines Specific Topic: Minnesota Workers' Compensation
+## P&C and Personal Lines Specific Topic: Minnesota Workers' Compensation
 
 Coverage threshold: One employee triggers mandatory workers' compensation coverage. No minimum headcount.
 
@@ -182,7 +182,7 @@ Administering agency split: The Minnesota Department of Labor and Industry (DLI)
 
 Exam questions this generates: "What is the employer threshold for mandatory workers' compensation coverage in Minnesota?" (One employee.) "What is the maximum daily fine for an employer operating without required workers' comp coverage in Minnesota?" (The statute states up to $1,000 per employee per week.) "What percentage surcharge is added to workers' comp benefits when an employee is injured while the employer was uninsured?" (65%.)
 
-### Life and A&H Specific Topic: Minnesota Replacement Regulation
+## Life and A&H Specific Topic: Minnesota Replacement Regulation
 
 When a new life insurance or annuity policy is purchased and existing coverage may be replaced, Minnesota's replacement regulation requires specific procedures. The producer must:
 
@@ -198,7 +198,7 @@ Free look period for replacement policies: Minnesota requires a 30-day free look
 
 Twisting vs. churning: Twisting uses misrepresentation to induce replacement. Churning recommends repeated replacements primarily to generate commissions. Both violate §72A.20.
 
-### A&H Specific Topic: Minnesota Health Programs
+## A&H Specific Topic: Minnesota Health Programs
 
 MinnesotaCare: Minnesota's Basic Health Program — a state-specific program unique to Minnesota serving individuals with incomes between 138% and 200% of FPL. No other state has an identical program. MinnesotaCare fills the gap between Medical Assistance (Medicaid, up to 138% FPL) and marketplace coverage.
 
@@ -210,7 +210,7 @@ Minnesota LTC certification: Producers must complete an 8-hour initial certifica
 
 Minnesota Continuation Law: Extends COBRA-like continuation coverage to employees of employers with fewer than 20 employees — those too small to be subject to federal COBRA. Provides up to 18 months of continuation coverage.
 
-### How to Prepare for the State Law Section
+## How to Prepare for the State Law Section
 
 Build a dedicated state law reference sheet. The facts above are your raw material — compile them into a single reference document organized by topic. Include every number, every citation, every threshold. Review this sheet at the start of every study session and immediately before the exam.
 
@@ -220,7 +220,7 @@ Practice with state-specific questions. After completing your general content st
 
 Allocate 35–40% of total study time to state law. This allocation feels disproportionate to candidates who view the state law section as smaller and less important than the general section. It is the correct allocation because state law questions have a higher marginal value — a candidate who knows the general content well is already scoring at the average on those questions. Additional study of the state law section produces above-average performance precisely where below-average performance is most common.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How many questions on the Minnesota exam are actually state-specific?
 

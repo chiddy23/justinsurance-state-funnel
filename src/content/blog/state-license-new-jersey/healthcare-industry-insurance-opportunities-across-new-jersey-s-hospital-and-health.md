@@ -14,13 +14,13 @@ imageAlt: Healthcare Industry Insurance Opportunities Across New Jersey's Hospit
 
 New Jersey's healthcare industry is one of the largest and most stable sectors in the state economy — 162,000 hospital employees alone, 75 acute care hospitals, and a healthcare workforce that pays $12 billion annually in salaries. NJ hospitals generate nearly $35 billion in direct economic impact and have historically maintained employment stability that other sectors cannot match. For insurance producers, this sector creates a distinct combination of large commercial accounts, high-income professional clients, and a workforce in continuous need of individual coverage and benefits advisory. The challenge is not finding opportunity — it is knowing where to focus and how to position.
 
-### The Scale of NJ's Healthcare Sector
+## The Scale of NJ's Healthcare Sector
 
 New Jersey is home to 75 acute care hospitals and 127 total healthcare facilities, serving 9.5 million residents. The two dominant health systems — RWJBarnabas Health (18 hospitals, $6 billion in net patient revenue, the largest academic health system in the state through its Rutgers University partnership) and Hackensack Meridian Health (18 hospitals, home to the #1 ranked hospital in NJ) — are among the largest employers in the state. Atlantic Health System (8 hospitals based in Morristown) is the third major network.
 
 Healthcare employed approximately 557,000 workers statewide as of 2023, with hospitals accounting for 162,000 of those jobs. Two-thirds of hospital workers are directly involved in patient care, split between healthcare practitioners (38%) and healthcare support occupations (26%). The remaining third includes administrative, management, and social services roles.
 
-### The Commercial Insurance Opportunity: What Health Systems Need
+## The Commercial Insurance Opportunity: What Health Systems Need
 
 Major health systems in New Jersey carry sophisticated commercial insurance portfolios that require specialized producer knowledge:
 
@@ -34,7 +34,7 @@ Cyber liability. Healthcare is the sector most frequently targeted by ransomware
 
 Group employee benefits. NJ hospitals and health systems employ thousands of nurses, technicians, administrators, and support staff who require competitive group health, dental, vision, life, and disability benefit packages. The annual group benefits renewal for a major health system represents months of advisory work and substantial commission income. In a competitive talent market — NJ hospitals face a projected gap of 80,000 healthcare workers by 2032 — benefits packages are recruitment tools, and employers are increasingly willing to invest in comprehensive benefits to attract and retain clinical staff.
 
-### The Individual and Professional Market
+## The Individual and Professional Market
 
 The 162,000 NJ hospital employees include 43,589 nurses, thousands of physicians, medical directors, and specialists, and administrative professionals at all income levels. This workforce creates a large personal insurance market:
 
@@ -44,11 +44,11 @@ Nurses and clinical staff represent a high-volume personal lines market with abo
 
 Mid-level executives in hospital administration — CFOs, COOs, VP-level roles — represent the executive benefits advisory market: deferred compensation structures, key person life insurance, and supplemental executive retirement plans.
 
-### The Consolidation Effect: M&A Creates Transitions
+## The Consolidation Effect: M&A Creates Transitions
 
 New Jersey's healthcare sector has been consolidating rapidly. RWJBarnabas Health attempted to acquire Saint Peter's Healthcare System before the FTC blocked the deal in 2022. Atlantic Health System then partnered with Saint Peter's in 2024. Cooper University Health Care and Cape Regional Health System announced a merger in April 2023. Each consolidation event disrupts benefit programs, creates need for new commercial insurance placement, and generates transition opportunities for producers already embedded in the affected organizations.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What makes NJ hospitals and health systems valuable commercial accounts for P&C producers?
 

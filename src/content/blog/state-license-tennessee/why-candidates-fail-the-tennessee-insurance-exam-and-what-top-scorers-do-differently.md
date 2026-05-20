@@ -16,13 +16,13 @@ Tennessee's insurance licensing exam has a first-time [pass rate](/pass-rates) o
 
 Understanding why candidates fail is not academic. It is the most direct path to making sure you are not among them. This post identifies every significant failure pattern observed across Tennessee exam candidates — the preparation mistakes, the strategic errors, the test-day decisions, and the mindset failures that produce scores below 70 — and for each one, describes exactly what top-scoring candidates do instead.
 
-### Failure Pattern 1: Treating "No Prelicensing Required" as "No Preparation Required"
+## Failure Pattern 1: Treating "No Prelicensing Required" as "No Preparation Required"
 
 Tennessee eliminated its mandatory [prelicensing](/tennessee/prelicensing) requirement in March 2023. The practical consequence for many candidates has been to interpret the absence of a required course as a signal that the exam does not require serious preparation. It does not mean that. The exam tests the same content it always tested — general insurance product knowledge and Tennessee state law — with the same rigor. What changed is that the state stopped mandating the preparation structure. Candidates who walk into the exam without preparation because no one required them to prepare discover this distinction the hard way.
 
 What top scorers do instead: They treat the absence of mandatory prelicensing as a scheduling advantage — the ability to choose their own preparation timeline and method — rather than as a signal that preparation is optional. Top scorers use structured study materials specifically designed for Pearson VUE and Tennessee, complete multiple full-length practice exams before scheduling their real exam date, and reach exam day with practice scores consistently above 80%.
 
-### Failure Pattern 2: Ignoring the State Law Section
+## Failure Pattern 2: Ignoring the State Law Section
 
 The Tennessee state law section is the most consistently underestimated component of the exam. Candidates who study general insurance concepts thoroughly — policy types, coverage mechanics, underwriting principles — but who do not study Tennessee's specific statutory framework fail state law questions at a rate that pulls their overall score below 70 even when their general content knowledge is adequate.
 
@@ -30,7 +30,7 @@ The state law section cannot be answered from general insurance knowledge. Tenne
 
 What top scorers do instead: They treat the state law section as a standalone study challenge that requires its own dedicated preparation — separate from and in addition to general content study. They use the Tennessee state law master list to identify every specific number and timeline that the exam tests. They create flashcards for every item and drill them daily from the beginning of preparation through exam day. They read the actual TCA statutory text for the most frequently tested provisions. They verify state law recall through self-testing before scheduling the exam — not through general confidence that they have reviewed it.
 
-### Failure Pattern 3: Using Non-Tennessee or Non-Pearson VUE Materials
+## Failure Pattern 3: Using Non-Tennessee or Non-Pearson VUE Materials
 
 Tennessee uses Pearson VUE — not PSI, which administers exams in most other states. Tennessee has state-specific statutory provisions that differ from every other state's law. Both of these facts mean that generic, nationally-oriented insurance study materials — textbooks designed for general insurance knowledge, [practice exam](/tennessee/practice-exam) banks calibrated to PSI's format, study guides that do not address Tennessee's specific statutes — produce preparation gaps that the exam exploits.
 
@@ -42,7 +42,7 @@ Using nationally-generic study guides without Tennessee content: A study guide t
 
 What top scorers do instead: They verify before purchasing any study material that it is specifically designed for Tennessee and for Pearson VUE. They use practice exam banks that simulate Pearson VUE's actual interface. They confirm that state law content explicitly covers TDCI provisions, Tennessee statutory citations, and Tennessee-specific rules rather than generic regulatory frameworks.
 
-### Failure Pattern 4: Taking the Exam Before Practice Scores Justify It
+## Failure Pattern 4: Taking the Exam Before Practice Scores Justify It
 
 Scheduling pressure — an employer's start date, a personal deadline, impatience with the waiting period — causes candidates to schedule their exam before their practice performance demonstrates readiness. The exam date is set first and preparation is squeezed into whatever time remains, regardless of whether that time is sufficient.
 
@@ -50,7 +50,7 @@ The result is predictable. A candidate who has studied for one week and is scori
 
 What top scorers do instead: They schedule the exam only when three consecutive practice exams have scored 80% or above under realistic timed conditions. They treat the 80% practice threshold as the scheduling trigger — not an arbitrary date on the calendar. When practice performance reaches and sustains 80%+, they schedule the exam for three to five days later — allowing a final review period, a final conditioning practice exam, and adequate rest before the appointment.
 
-### Failure Pattern 5: Passive Study Without Active Recall
+## Failure Pattern 5: Passive Study Without Active Recall
 
 Reading a study guide is not the same as learning the material. Candidates who read through their study guide cover to cover — even multiple times — without testing their recall of what they have read consistently underperform on the exam compared to candidates who actively engage with the material through recall exercises, practice questions, and self-testing.
 
@@ -58,7 +58,7 @@ The mechanism is straightforward. Reading creates a sense of familiarity — the
 
 What top scorers do instead: They close the study guide after each topic section and write down five specific facts from memory before moving on. They use flashcards for every state law provision — not because they are taking notes, but because the physical act of trying to recall before checking the answer is what builds genuine memory. They answer practice questions throughout their preparation — not just at the end — and they treat every missed practice question as a learning event rather than a score measurement.
 
-### Failure Pattern 6: Uneven Topic Coverage
+## Failure Pattern 6: Uneven Topic Coverage
 
 Every topic in the TDCI content outline can appear on the exam. Candidates who study the topics they find interesting or familiar in depth while skimming or skipping topics they find less engaging create knowledge gaps that the exam exploits.
 
@@ -76,7 +76,7 @@ Personal Lines: HO form distinctions — particularly what distinguishes HO-4 fr
 
 What top scorers do instead: They work through the TDCI content outline systematically — every topic, in order — without skipping areas that feel less engaging. They allocate study time proportionally to topic weight in the content outline rather than proportionally to personal interest. They identify weak topics through early practice exam performance and give those topics more attention in subsequent study sessions, not less.
 
-### Failure Pattern 7: Practicing Only at the End of Preparation
+## Failure Pattern 7: Practicing Only at the End of Preparation
 
 Candidates who read through all study material first and only take practice exams in the final days before their exam miss the most valuable use of practice exams — as a diagnostic tool throughout preparation rather than as a final performance measurement.
 
@@ -84,7 +84,7 @@ When practice exams are taken only at the end of preparation, there is no time t
 
 What top scorers do instead: They take their first full-length practice exam immediately after completing initial content coverage — not at the end of all preparation. The results of that first practice exam drive the allocation of remaining study time. Weak areas identified in the first practice exam receive concentrated attention in the subsequent study period. A second practice exam after the targeted weak-area review confirms whether those gaps have closed. A final conditioning practice exam in the days before the scheduled exam date verifies overall readiness.
 
-### Failure Pattern 8: Exam Day Execution Errors
+## Failure Pattern 8: Exam Day Execution Errors
 
 A meaningful share of candidates who fail the Tennessee exam have adequate knowledge but fail because of how they perform on exam day — not what they know. The most common execution errors:
 
@@ -98,7 +98,7 @@ Poor time management: At 105 minutes for 77 questions, the average time per ques
 
 What top scorers do instead: They practice under timed conditions in every practice session — 77 questions, 105 minutes, no extensions — building the timing discipline that makes the real exam's time constraint familiar rather than stressful. They establish a rule about first answers — they change an answer only when they have a specific, factual reason to do so, not when they feel uncertain. They read every question twice before looking at the answer choices. They flag difficult questions, move forward, and return only if time permits.
 
-### Failure Pattern 9: Inadequate Remote Exam Environment Preparation
+## Failure Pattern 9: Inadequate Remote Exam Environment Preparation
 
 For candidates who choose the OnVUE remote format, environment preparation failures create exam day problems that have nothing to do with insurance knowledge. The most common:
 
@@ -110,7 +110,7 @@ Internet reliability assumptions: Candidates who test over WiFi without verifyin
 
 What top scorers do instead: They run the compatibility check at least 24 hours before the exam on the specific computer they will use. They prepare their testing space the evening before — clearing the desk, removing prohibited items from the room, communicating to household members that the space is off-limits during the exam window. They use a wired Ethernet connection where possible. They log in 15–30 minutes before the scheduled start time to allow the full check-in process to complete without rushing.
 
-### Failure Pattern 10: Underestimating the Breadth of the A&H Exam
+## Failure Pattern 10: Underestimating the Breadth of the A&H Exam
 
 Among all Tennessee licensing lines, the Accident and Health exam generates the most candidate surprise — because its content breadth substantially exceeds what most candidates anticipate based on their familiarity with health insurance as a concept.
 
@@ -120,7 +120,7 @@ Each of these is a separately tested, specifically numbered provision that requi
 
 What top scorers do instead: They study the A&H exam's full content outline with the recognition that consumer familiarity with health insurance covers only a fraction of what the exam tests. They allocate specific, extended study time to Medicare — treating it as a standalone study challenge equivalent in depth to any individual policy type. They study disability income and long-term care insurance with the same rigor they apply to health plan types, rather than treating them as secondary topics.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am confident in my general insurance knowledge from years working in a related field. Is that confidence justified for the Tennessee exam?
 

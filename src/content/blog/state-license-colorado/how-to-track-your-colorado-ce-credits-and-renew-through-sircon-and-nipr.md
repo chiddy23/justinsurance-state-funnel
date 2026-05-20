@@ -14,7 +14,7 @@ imageAlt: How to Track Your Colorado CE Credits and Renew Through Sircon and NIP
 
 Completing your Colorado CE hours is only half the compliance equation. The other half is verifying that those hours appear correctly on your official transcript, confirming every category requirement is satisfied, and submitting your renewal application through the correct platform before your birth-month deadline. Producers who complete all required CE and then encounter a renewal rejection — because a course was not reported, a category was deficient, or the renewal was submitted before the transcript was fully updated — face the same compliance risk as producers who did not complete CE at all. This post is the step-by-step operational guide to tracking your Colorado CE credits through Sircon, using NIPR as an alternative, and executing the renewal without surprises.
 
-### Understanding the Three Systems Involved
+## Understanding the Three Systems Involved
 
 Colorado's CE tracking and license renewal infrastructure involves three distinct platforms that serve different functions:
 
@@ -24,7 +24,7 @@ NIPR (National Insurance Producer Registry) — the national platform that proce
 
 CE Provider Reporting — CE providers report course completions directly to Sircon's database. The producer does not submit certificates to the state — the provider handles reporting. Most online course providers report completions within 24–48 hours of a passing final exam. The Colorado DOI system may take up to 30 days to fully process new completions into the official transcript. This processing window is the primary operational risk in the renewal workflow — completions that have been reported may not yet appear on the official transcript, and a renewal submitted before the transcript reflects all required hours will be rejected.
 
-### Step 1: Know Your Renewal Deadline Before Anything Else
+## Step 1: Know Your Renewal Deadline Before Anything Else
 
 Every operational decision in your CE and renewal workflow traces back to your renewal deadline. Colorado licenses expire on the last day of your birth month in your renewal year. Your renewal year is even if you were originally licensed in an even year, odd if licensed in an odd year.
 
@@ -32,9 +32,9 @@ Find your exact deadline: Your current expiration date is printed on the front o
 
 Set two calendar alerts: One alert 90 days before your deadline (the earliest you can submit a renewal) and one alert 60 days before your deadline (the target date by which CE should be complete and verified). The 60-day alert is your CE completion deadline — not a warning, a target. CE completed after the 60-day mark introduces processing risk that CE completed earlier avoids entirely.
 
-### Step 2: Track Your CE Credits Through Sircon
+## Step 2: Track Your CE Credits Through Sircon
 
-#### How to Access Your CE Transcript on Sircon
+### How to Access Your CE Transcript on Sircon
 
 Navigate to sircon.com and select the Colorado state information. From the Colorado landing page, locate the CE Transcript Inquiry tool — it may also be labeled "Look up education courses/credits" or "[Continuing Education](/colorado/continuing-education) Transcript Inquiry" depending on the current interface version.
 
@@ -48,7 +48,7 @@ Your date of birth or the last four digits of your Social Security Number, depen
 
 The transcript displays every CE course that has been reported to Sircon for your license, organized by completion date. Each entry shows the course name, provider, course number, completion date, hours awarded, and the credit category (major lines, ethics, homeowners, miscellaneous, specialty training).
 
-#### What to Look for on Your Transcript
+### What to Look for on Your Transcript
 
 Do not simply count total hours. Verify each category separately against your requirements:
 
@@ -66,7 +66,7 @@ Claims-made training (claims-made sellers): 2-hour one-time completion on record
 
 What the transcript does not show by default: Whether your specialty training prerequisites have been completed. Sircon's CE transcript shows course completions — it does not generate a compliance dashboard that says "all requirements met." You must manually verify that the correct categories are satisfied.
 
-#### Common Transcript Discrepancies and How to Resolve Them
+### Common Transcript Discrepancies and How to Resolve Them
 
 Missing course completion: A course you completed does not appear on your transcript after 48 hours. Contact your CE provider first — confirm they submitted the completion and request resubmission if needed. Keep your certificate of completion as documentation. If the provider confirms submission but the completion still does not appear after several days, contact Sircon support or the Colorado DOI licensing staff at (303) 894-7499.
 
@@ -76,11 +76,11 @@ Hours from a prior cycle appearing in current cycle: Carryover hours from the fi
 
 Ethics hours showing as general credit: If you completed ethics CE and it appears as general credit rather than Ethics on your transcript, the course may not have been approved for ethics category credit, or the provider may have reported it incorrectly. Verify the course's ethics approval status through the DOI's approved course list before contacting the provider.
 
-#### Using NIPR's VerifyMyCE Tool as an Alternative
+### Using NIPR's VerifyMyCE Tool as an Alternative
 
 NIPR's VerifyMyCE tool (available through the NIPR website) provides an alternative CE verification interface. Some producers find NIPR's interface more intuitive than Sircon's for certain inquiries. Both tools pull from the same underlying data reported by CE providers to the Colorado DOI. If one tool does not reflect a recent completion, check the other — occasional timing differences between how quickly each interface refreshes may produce briefly different results, though both eventually reflect the same official record.
 
-### Step 3: Build a CE Tracking System for the Full Two-Year Cycle
+## Step 3: Build a CE Tracking System for the Full Two-Year Cycle
 
 Checking your Sircon transcript 60 days before renewal and discovering deficiencies is an avoidable problem. The more reliable approach is maintaining a running CE tracking document throughout the biennial cycle.
 
@@ -94,11 +94,11 @@ At the bottom of the document, maintain a running total against each category re
 
 Certificate storage: Keep your CE certificates for 5 years as required by Colorado law. A dedicated folder — digital or physical — organized by biennial cycle simplifies retrieval if a compliance audit or inquiry arises.
 
-### Step 4: Renew Through Sircon
+## Step 4: Renew Through Sircon
 
 Sircon is the preferred renewal platform for most Colorado producers because it processes the renewal at the state fee rate with no additional transaction fee. The renewal window opens 90 days before your expiration date. Do not submit before the 90-day window opens — the system will not process early renewals.
 
-#### Sircon Renewal Steps
+### Sircon Renewal Steps
 
 Step 1: Log in to Sircon. Navigate to sircon.com and access the Colorado section. Log in with your account credentials. If you have not previously created a Sircon account, you will need your license number, last four digits of your SSN, and date of birth to create one.
 
@@ -114,7 +114,7 @@ Step 6: Confirm submission and receive confirmation. After successful payment, S
 
 Step 7: Print or download your renewed license. Navigate to Sircon's print license tool after renewal. Printing costs $5 per license. Download a digital copy and store it where you can access it for agency appointments, carrier credentialing, and compliance documentation.
 
-### Step 5: Renewing Through NIPR as an Alternative
+## Step 5: Renewing Through NIPR as an Alternative
 
 NIPR processes Colorado renewals identically to Sircon from the producer's perspective, with one difference: NIPR charges a $5.60 transaction fee per transaction in addition to the state renewal fee. For a producer renewing two lines through NIPR, the total cost is ($27 × 2) + $5.60 = $59.60, compared to $54 through Sircon.
 
@@ -122,13 +122,13 @@ When NIPR makes sense over Sircon:
 
 Producers licensed in multiple states who manage all renewals through NIPR may prefer to keep all renewal activity on a single platform for administrative simplicity, absorbing the $5.60 fee as a convenience cost. Producers who manage a book of producers at the agency level may use NIPR's bulk renewal capabilities to handle multiple renewals efficiently.
 
-#### NIPR Renewal Steps
+### NIPR Renewal Steps
 
 Navigate to nipr.com and select the Colorado licensing section. Choose the renewal transaction type for individual producer renewal. The workflow mirrors Sircon: confirm personal information, select lines to renew, complete attestations, and pay. NIPR confirms the transaction and the Colorado DOI record updates.
 
 NIPR also allows producers to check application status after submission — a useful feature if you want to confirm the renewal processed correctly without logging back into Sircon.
 
-### Common Renewal Errors and How to Avoid Them
+## Common Renewal Errors and How to Avoid Them
 
 Submitting before CE is fully processed: The most common renewal failure. A producer completes CE, receives certificates, and immediately submits the renewal — before the completions have been reported to and processed by Sircon. The renewal is rejected because the transcript does not yet reflect all required hours. Solution: wait for Sircon transcript confirmation after every CE completion before submitting renewal. Complete CE at least 60 days before expiration to create processing buffer.
 
@@ -140,7 +140,7 @@ Missing the 90-day renewal window opening: A producer intends to renew early but
 
 Not printing the renewed license: A producer completes renewal successfully but does not retrieve the updated license document. When a carrier or appointment requires license verification, the producer cannot produce current documentation. Solution: print or download the renewed license immediately after completing the renewal transaction.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 My CE transcript shows all required hours but my renewal application was still rejected. What should I check?
 

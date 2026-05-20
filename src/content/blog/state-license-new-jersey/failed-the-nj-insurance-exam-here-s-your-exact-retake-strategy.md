@@ -16,7 +16,7 @@ Failing the New Jersey insurance exam is more common than most candidates expect
 
 Here is exactly how to approach your retake.
 
-### Step 1: Read Your Diagnostic Report Before You Do Anything Else
+## Step 1: Read Your Diagnostic Report Before You Do Anything Else
 
 PSI emails you a diagnostic report within one to three business days of your exam. This report is the most valuable study tool available to you for your retake — and most failed candidates do not use it properly.
 
@@ -24,7 +24,7 @@ The diagnostic breaks down your performance by content section: general knowledg
 
 Before you open a single study material, open your diagnostic report and identify your two or three lowest-scoring sections. Everything in your retake strategy flows from those numbers. A candidate who scored 80% on general knowledge but 45% on state law needs a completely different retake plan than one who scored evenly but below 70% across the board.
 
-### Step 2: Schedule Your Retake With a Realistic Timeline
+## Step 2: Schedule Your Retake With a Realistic Timeline
 
 New Jersey has no mandatory waiting period between exam attempts beyond the 24-hour scheduling restriction — you can call PSI the next business day and book your retake as soon as the following day. But booking immediately is almost never the right move.
 
@@ -38,7 +38,7 @@ Scored 60–64%: Two weeks minimum. Address your weak sections systematically, n
 
 Scored below 60%: Two to three weeks. You have structural gaps, not just a few missed topics. Return to your [prelicensing](/new-jersey/prelicensing) material before retaking.
 
-### Step 3: Study Differently, Not More
+## Step 3: Study Differently, Not More
 
 The single most common retake mistake is doing the same thing that did not work the first time — re-reading the course material from beginning to end and hoping for a different result. Restudying everything equally is inefficient and often ineffective. Your diagnostic report already identified where your points were lost. Study those sections with intensity; do not treat sections where you scored 80%+ as needing significant attention.
 
@@ -66,7 +66,7 @@ For general knowledge weaknesses:
 
 Identify the specific subsections where you lost points and work through scenario-based practice questions in those areas. If you struggled with policy provisions, drill grace periods, reinstatement, incontestability, and nonforfeiture options through application questions, not definitions. If you lost points on coverage analysis for property, practice the coinsurance formula until it is automatic.
 
-### Step 4: Take Two Full Practice Exams Under Exam Conditions
+## Step 4: Take Two Full Practice Exams Under Exam Conditions
 
 Before you schedule your retake with PSI, take at least two complete, timed practice exams under conditions that mirror the real exam. That means: no notes, no phone, no breaks, 83 questions timed to 210 minutes, complete the entire exam before reviewing anything.
 
@@ -74,7 +74,7 @@ Your target for both practice exams should be a consistent score of 75% or highe
 
 If you are not hitting 75%, do not schedule yet. Add another week of targeted study and retest yourself.
 
-### Step 5: Address the Logistics That Tripped You Up Last Time
+## Step 5: Address the Logistics That Tripped You Up Last Time
 
 Some candidates fail not because of content gaps but because of exam day logistics that affected their performance. Ask yourself honestly:
 
@@ -88,13 +88,13 @@ Did technical issues during remote proctoring break your concentration?
 
 If any of these were factors, address them directly. Arrive 30 minutes early. Practice pacing — no more than two to three minutes per question, flag and move. Consider switching formats if the environment was the issue.
 
-### There Is No Lifetime Limit in New Jersey
+## There Is No Lifetime Limit in New Jersey
 
 New Jersey imposes no limit on the number of times you can retake the exam. Each attempt costs $38. Your prelicensing certificate of completion never expires, so you do not need to retake the course before retaking the exam. Your score report from a failed attempt serves as your exam admission document in place of the certificate if you bring it to PSI on your retake.
 
 The only constraint on retakes is the one-year validity of a passing score — but that is irrelevant here, because you are working toward passing, not starting a clock.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How soon can I retake the NJ insurance exam after failing?
 

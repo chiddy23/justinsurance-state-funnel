@@ -14,7 +14,7 @@ imageAlt: "Virginia's Energy and Dominion Power Market: Utilities, Data Centers,
 
 Virginia's energy market is in the middle of a multi-decade transformation — from a predominantly fossil-fuel-based grid to one of the most data-center-intensive electrical systems in the world, while simultaneously building out offshore wind capacity and distributed solar installations. Dominion Energy, headquartered in Richmond, is one of the nation's largest electric and natural gas utilities, serving approximately 2.3 million electric customers and 1.2 million gas customers across Virginia. The company's capital investment program — one of the largest in the U.S. utility sector — is reshaping the state's energy infrastructure in ways that create substantial commercial insurance opportunity for producers who understand the sector. The data center boom alone has made Virginia's electricity demand the most data-center-driven in the country.
 
-### Dominion Energy: Virginia's Utility Anchor
+## Dominion Energy: Virginia's Utility Anchor
 
 Dominion Energy (NYSE: D) is ranked No. 264 on the Fortune 500 as of 2025, with approximately $16 billion in annual revenue and approximately 5,400 Virginia employees. The company is both a major commercial insurance account in its own right and the anchor for an ecosystem of contractors, engineering firms, and energy service companies that represent accessible commercial insurance opportunities.
 
@@ -28,7 +28,7 @@ Solar development: Dominion has one of the largest regulated solar portfolios in
 
 The contractors supporting Dominion's capital program — construction firms, engineering consultancies, cable installation companies, offshore construction specialists — represent a large and growing market for commercial P&C insurance.
 
-### The Data Center Boom and Its Insurance Implications
+## The Data Center Boom and Its Insurance Implications
 
 Northern Virginia's Loudoun County hosts the largest data center market in the world — more data center square footage than any other location globally. The region is a critical node of global internet infrastructure. Virginia's data center industry now consumes so much electricity that Dominion has had to accelerate grid expansion plans specifically to meet data center power demand.
 
@@ -44,7 +44,7 @@ Workers' compensation for data center construction and technical maintenance cre
 
 Beyond Northern Virginia, data center development is now expanding to Southwest Virginia — Wise County and other rural areas where land costs are lower and power is accessible — creating commercial insurance opportunities in markets that have historically had limited large commercial account access.
 
-### Clean Energy Insurance: Solar and Offshore Wind
+## Clean Energy Insurance: Solar and Offshore Wind
 
 Virginia's clean energy transition creates commercial insurance needs across the project lifecycle:
 
@@ -54,7 +54,7 @@ Offshore Wind (CVOW): Dominion's Coastal Virginia Offshore Wind project represen
 
 Energy contractors: The buildout of Virginia's clean energy infrastructure employs thousands of contractors — electricians, solar installers, offshore construction crews — each representing workers' compensation, general liability, and commercial auto accounts.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What commercial insurance lines are most accessible to independent Virginia producers in the energy sector?
 

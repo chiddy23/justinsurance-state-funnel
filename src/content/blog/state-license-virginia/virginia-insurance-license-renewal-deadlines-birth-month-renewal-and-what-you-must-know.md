@@ -14,7 +14,7 @@ imageAlt: "Virginia Insurance License Renewal Deadlines: Birth Month Renewal and
 
 Virginia's license renewal system changed fundamentally on January 1, 2021. Before that date, Virginia producer licenses were perpetual — they required only a biennial continuance fee and CE completion, but had no fixed expiration date. Since January 1, 2021, every Virginia resident producer license expires on a specific date determined by the producer's birth month and birth year — and that date controls every CE deadline, renewal window, and reinstatement timeline that follows. Getting this date right is not optional: Virginia terminates licenses automatically when renewals are not submitted on time, and there is no grace period for CE completion.
 
-### How Your Renewal Date Is Determined
+## How Your Renewal Date Is Determined
 
 Under Va. Code § 38.2-1825.1, your license expires at the end of your birth month, and the year of expiration follows this rule:
 
@@ -26,13 +26,13 @@ Examples:
 
 Your specific expiration date is shown on your license and in your NIPR/Sircon account. If you have questions about your renewal date, contact the Bureau of Insurance at BOILicenseRenewal@scc.virginia.gov.
 
-### The Renewal Window
+## The Renewal Window
 
 You can submit your renewal application up to 90 days before your license expiration date. You cannot renew earlier than that window opens. The renewal is submitted through NIPR or Sircon — the same platforms used for initial licensing.
 
 Renewal fee: $10 per line of authority (non-refundable), plus $5.60 NIPR/Sircon processing fee.
 
-### What Must Be Done Before You Can Renew
+## What Must Be Done Before You Can Renew
 
 Virginia requires all of the following before a renewal application will be accepted:
 
@@ -44,7 +44,7 @@ Virginia requires all of the following before a renewal application will be acce
 
 Important sequencing: CE completion → continuance fee payment → renewal application submission. All three steps must occur before your expiration date.
 
-### What Happens If You Miss the Deadline
+## What Happens If You Miss the Deadline
 
 Virginia has no grace period for CE or for the license renewal itself. The moment your expiration date passes without a completed renewal:
 
@@ -64,17 +64,17 @@ Paying: $10 renewal fee + $30 late fee + $20 reinstatement fee = $60 per line of
 
 After the one-year reinstatement window closes, you must apply as a new producer — including retaking the Prometric exam.
 
-### The Bureau's Notification Process
+## The Bureau's Notification Process
 
 The Bureau of Insurance sends renewal reminder notices approximately 90 days before your license expiration date — this timing aligns with when your renewal window opens. Notices are sent to the email address on file with the Bureau.
 
 Keep your contact information current. Address and email changes must be submitted within 30 calendar days of the change. If your email address is outdated, you will not receive renewal reminders. The absence of a reminder does not extend your renewal deadline — the obligation is yours regardless of whether the Bureau's notice reaches you.
 
-### Special Circumstances: Military Waiver
+## Special Circumstances: Military Waiver
 
 Virginia law provides for renewal waivers for producers who are unable to comply with renewal requirements due to military service or other extenuating circumstances (long-term illness or incapacity). Waiver requests must be submitted in the form prescribed by the Commission and received by the last day of the renewal period. Contact the Bureau of Insurance at BOILicenseRenewal@scc.virginia.gov to initiate a waiver request.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How do I find out my exact Virginia insurance license renewal date?
 

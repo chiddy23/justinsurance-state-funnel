@@ -14,13 +14,13 @@ imageAlt: "Colorado Property and Casualty Exam: What's on It and How to Master E
 
 The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour [prelicensing](/colorado/prelicensing) course, its own Pearson VUE exam, and its own $47 application fee. You can sit for both in a single combined session at a physical Pearson VUE test center for one $41 exam fee, taking 120 minutes per exam back-to-back in a 240-minute total session. The content outline for each exam is published by Pearson VUE and effective January 1, 2024. This post maps every content area of both exams — general knowledge and Colorado state sections — with full topic detail and the specific strategy for the state section topics that most P&C candidates underprepare.
 
-### The Two Exams at a Glance
+## The Two Exams at a Glance
 
 Passing score for each: 70% — at minimum 53 correct scored answers on Property and 57 on Casualty. The combined session scores each exam independently. A pass on one and a fail on the other means you keep the pass and only retake the fail.
 
-### PROPERTY EXAM: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
+## PROPERTY EXAM: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
 
-#### Content Area I: Types of Policies — 22 Questions
+### Content Area I: Types of Policies — 22 Questions
 
 At 22 of 50 general scored questions — 44% — Types of Policies is by far the largest content area on the Property general section. Nearly half your general scored questions require product identification and coverage knowledge.
 
@@ -76,7 +76,7 @@ F. Other Property Policies (1–2 questions)
 
 Title insurance — protects against losses from defects in title to real property; one-time premium; no expiration; owner's policy vs. lender's policy. Farm and ranch policies — specialty agricultural coverage combining dwelling, farm buildings, livestock, equipment, and farm liability. Mobile home policies — specific coverage for manufactured housing.
 
-#### Content Area II: Insurance Terms and Related Concepts — 14 Questions
+### Content Area II: Insurance Terms and Related Concepts — 14 Questions
 
 This is the conceptual vocabulary section — 14 questions testing your command of fundamental property insurance definitions and principles.
 
@@ -110,7 +110,7 @@ Vacancy and unoccupancy — most property policies suspend certain coverages if 
 
 Blanket vs. specific coverage — specific insurance covers a specific item at a specific location for a stated amount; blanket insurance covers multiple items or multiple locations under a single limit.
 
-#### Content Area III: Policy Provisions and Contract Law — 10 Questions
+### Content Area III: Policy Provisions and Contract Law — 10 Questions
 
 Declarations page — the front of the policy; identifies the insured, the property insured, the policy period, the premium, the coverage limits, and the deductibles.
 
@@ -128,7 +128,7 @@ Other insurance provisions — pro rata clause (each insurer pays its proportion
 
 Contract law — same four elements as all insurance contracts (consideration, offer and acceptance, competent parties, legal purpose); same four unique characteristics (conditional, unilateral, adhesion, aleatory).
 
-#### Content Area IV: Completing the Transaction — 4 Questions (Property)
+### Content Area IV: Completing the Transaction — 4 Questions (Property)
 
 Binders — temporary evidence of coverage pending policy issuance; oral or written; effective immediately; coverage terminates when the policy is issued or the binder is cancelled with proper notice.
 
@@ -136,15 +136,15 @@ Field underwriting — the producer's role in gathering accurate property inform
 
 Proof of insurance — evidence of coverage provided to mortgage lenders, vehicle lienholders, or regulatory authorities; certificates of insurance (COIs) for commercial accounts.
 
-### PROPERTY EXAM: COLORADO STATE SECTION (25 Scored Questions)
+## PROPERTY EXAM: COLORADO STATE SECTION (25 Scored Questions)
 
 The Property state section has 25 scored questions (slightly fewer than the Life and A&H state sections' 30 questions) drawn from two main categories:
 
-#### Section I: Colorado Statutes Common to All Lines — approximately 17–18 Questions
+### Section I: Colorado Statutes Common to All Lines — approximately 17–18 Questions
 
 The same common section shared across all Colorado insurance lines: Insurance Commissioner powers, licensing and producer legal responsibility (fiduciary/commingling, commission sharing, unauthorized entities), and unfair competition and deceptive practices (misrepresentation, coercion, defamation, rebating, unfair discrimination, controlled business, unfair claims practices, Colorado Fraud Statute). This section is the same content and strategy as described in the Life and A&H exam guides — know the unfair trade practices definitions cold.
 
-#### Section II: Colorado Statutes Pertinent to Property Insurance Only — approximately 7–8 Questions
+### Section II: Colorado Statutes Pertinent to Property Insurance Only — approximately 7–8 Questions
 
 The Property-specific state section is notably shorter than the A&H equivalent. Key Colorado property law topics:
 
@@ -156,11 +156,11 @@ Residential property — coinsurance and replacement cost — Colorado producers
 
 NFIP in Colorado — flood insurance in Colorado's context: Colorado communities in FEMA-designated flood zones require NFIP coverage as a condition of federally-backed mortgages. The Division of Insurance has authority over flood insurance marketing practices in Colorado. Colorado producers selling NFIP must complete the one-time 3-hour NFIP training.
 
-### CASUALTY EXAM: GENERAL KNOWLEDGE SECTION (56 Scored Questions)
+## CASUALTY EXAM: GENERAL KNOWLEDGE SECTION (56 Scored Questions)
 
 The Casualty general section has 56 scored questions — slightly more than Property's 50. The content outline assigns these across four content areas.
 
-#### Content Area I: Types of Casualty Policies — approximately 22–24 Questions
+### Content Area I: Types of Casualty Policies — approximately 22–24 Questions
 
 A. Auto Insurance
 
@@ -218,7 +218,7 @@ G. Commercial Auto
 
 Business auto policy (BAP) — covers autos used in business; symbol system defines which vehicles are covered (Symbol 1 = any auto; Symbol 2 = owned autos only; Symbol 7 = specifically described autos; Symbol 8 = hired autos; Symbol 9 = non-owned autos). The exam tests the symbol definitions and their coverage implications.
 
-#### Content Area II: Insurance Terms and Related Concepts — 14 Questions (Casualty)
+### Content Area II: Insurance Terms and Related Concepts — 14 Questions (Casualty)
 
 Negligence — the legal basis for most liability claims. Four elements: duty (the defendant owed the plaintiff a care obligation), breach (the defendant failed to meet that duty), causation (the breach caused the harm — actual cause "but for" + proximate cause), damages (actual compensable harm resulted). Liability insurance responds when the insured is found legally negligent.
 
@@ -230,7 +230,7 @@ Defense costs — under standard liability policies, the insurer has a duty to d
 
 Aggregate limits — the maximum the insurer will pay for all claims combined during the policy period; distinct from the per-occurrence limit. CGL policies typically have a general aggregate (overall maximum per year), a products-completed operations aggregate, and a per-occurrence limit.
 
-#### Content Area III: Policy Provisions and Contract Law — 10 Questions (Casualty)
+### Content Area III: Policy Provisions and Contract Law — 10 Questions (Casualty)
 
 Same contract law elements as property: declarations, insuring agreement, exclusions, conditions, endorsements. Key casualty-specific provisions:
 
@@ -240,15 +240,15 @@ Severability of insureds — each insured is treated separately under the CGL; a
 
 Cross-liability exclusion — in standard CGL, there is no coverage for bodily injury or property damage claims between insureds; the policy does not cover one insured suing another.
 
-#### Content Area IV: Completing the Transaction — 5 Questions (Casualty)
+### Content Area IV: Completing the Transaction — 5 Questions (Casualty)
 
 Same elements as Property: binders, field underwriting, certificates of insurance (COIs), the producer's role in gathering accurate information, and the prohibition on material misrepresentation in the application.
 
-### CASUALTY EXAM: COLORADO STATE SECTION (25 Scored Questions)
+## CASUALTY EXAM: COLORADO STATE SECTION (25 Scored Questions)
 
 The structure mirrors the Property state section: approximately 17–18 questions from the common Section I (same unfair trade practices, licensing, Commissioner authority content) and 7–8 questions from Section II covering Colorado-specific Casualty law.
 
-#### Section II: Colorado Statutes Pertinent to Casualty Insurance Only
+### Section II: Colorado Statutes Pertinent to Casualty Insurance Only
 
 Colorado auto insurance requirements — at-fault system; minimum liability 25/50/15 under CRS § 42-7-103; UM/UIM optional but default-included unless rejected in writing; MedPay optional; no PIP required; electronic verification system; SR-22 for certain violations (financial responsibility certificate filed by insurer with DMV); no FR-44 equivalent in Colorado (unlike Virginia's DUI-enhanced certificate requirement).
 
@@ -258,7 +258,7 @@ Colorado workers' compensation — employer threshold (1+ employees), Pinnacol A
 
 Liability insurance cancellation and nonrenewal — same Colorado statutory notice requirements apply to liability policies as to property policies.
 
-### Mastery Strategy: Property and Casualty Together
+## Mastery Strategy: Property and Casualty Together
 
 If taking the combined P+C session: Do not schedule both exams for the same day unless you have genuinely prepared for both. The most common failure pattern in combined P+C sessions is passing one line and failing the other — typically failing Casualty, which has more content (56 scored general questions vs. Property's 50) and more conceptually demanding material (negligence, occurrence vs. claims-made, CGL structure). Prepare for each exam independently, and only combine the session when both preparations are complete.
 
@@ -272,7 +272,7 @@ The highest-yield state section topics (shared across both): Unfair trade practi
 
 Colorado-specific P&C topics that consistently surprise candidates: The claims-made one-time 2-hour CE requirement (a Colorado-specific obligation before selling claims-made policies), the homeowners CE 3-hour biennial requirement for Property/Personal Lines producers, and the NFIP one-time 3-hour training — all three are testable Colorado producer obligations distinct from the standard 24-hour biennial CE.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Should I take Property and Casualty as separate exams or in one combined session?
 

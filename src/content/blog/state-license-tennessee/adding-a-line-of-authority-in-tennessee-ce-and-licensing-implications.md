@@ -16,9 +16,9 @@ A Tennessee insurance producer who wants to expand their practice — adding Pro
 
 This post covers every dimension of adding a line of authority in Tennessee: the exam and application process, the fee structure, how the added line's expiration date interacts with the existing license, CE implications of holding multiple lines, specialty training considerations, and the strategic decisions around whether to add lines simultaneously or sequentially.
 
-### The Process for Adding a Line of Authority
+## The Process for Adding a Line of Authority
 
-#### Step 1: Pass the Pearson VUE Exam for the New Line
+### Step 1: Pass the Pearson VUE Exam for the New Line
 
 Adding any major line of authority requires passing the Tennessee Pearson VUE exam for that line. There are no waivers based on existing license history, no credit for adjacent lines, and no exemptions based on professional experience or designations — unless an exemption specifically applies under Tennessee's licensing rules.
 
@@ -40,11 +40,11 @@ The state law section is the same across all lines. Every Tennessee licensing ex
 
 No mandatory [prelicensing](/tennessee/prelicensing) for the added line. Tennessee eliminated mandatory prelicensing in March 2023. This applies to added lines as well as initial licensing. A producer adding Property to an existing Casualty license can schedule the Property exam without completing any prescribed course.
 
-#### Step 2: Wait the Mandatory 48-Hour Post-Exam Period
+### Step 2: Wait the Mandatory 48-Hour Post-Exam Period
 
 After passing the Pearson VUE exam for the new line, the producer must wait at least 48 hours before submitting the NIPR application. This is Tennessee's mandatory post-exam waiting period — applicable to initial licensing and to adding lines equally.
 
-#### Step 3: Submit a New NIPR Application for the Added Line
+### Step 3: Submit a New NIPR Application for the Added Line
 
 A separate NIPR application — with its own fees — is required for each line added after initial licensing.
 
@@ -54,13 +54,13 @@ The fingerprinting requirement for adding lines: Resident producers who have pre
 
 Application submission process: Log in to your existing NIPR account and submit a new application selecting the line of authority being added. NIPR routes the application to the TDCI for processing. Standard processing time: 2–5 business days for uncomplicated applications.
 
-#### Step 4: Receive the Added Line and Confirm Active Status
+### Step 4: Receive the Added Line and Confirm Active Status
 
 After TDCI processing, the added line appears in your license record alongside your existing lines. Verify through the TDCI's license lookup at tn.gov/commerce/insurance that the new line shows active status before transacting business under that authority.
 
-### How the Added Line's Expiration Date Works
+## How the Added Line's Expiration Date Works
 
-#### The Alignment Question
+### The Alignment Question
 
 When a producer adds a line of authority to an existing Tennessee license, the newly added line's expiration date is aligned to the existing license's renewal cycle — the same biennial birth month deadline. All lines renew simultaneously on the same date.
 
@@ -70,53 +70,53 @@ This alignment means the producer must renew all lines simultaneously on August 
 
 What this means for CE: The CE requirement — 24 hours including 3 ethics per biennial period — applies to all lines together, not separately per line. Adding a Casualty line does not create a new or separate CE obligation. The same 24-hour total satisfies both Property and Casualty simultaneously at renewal. The addition of the Casualty line does not reset the CE period — the existing CE clock continues.
 
-#### The Partial Period at Initial Addition
+### The Partial Period at Initial Addition
 
 When a line is added less than two years before the next renewal deadline, the first renewal of that added line occurs after a partial period. The producer renews all lines together on the standard birth month deadline — the added line simply appears alongside the existing lines on the renewal application.
 
 There is no prorated renewal fee for a line added mid-cycle. The standard $60 renewal fee covers all lines at renewal regardless of how recently any specific line was added.
 
-### CE Implications of Holding Multiple Lines
+## CE Implications of Holding Multiple Lines
 
-#### CE Is Not Multiplied by Line Count
+### CE Is Not Multiplied by Line Count
 
 Tennessee's 24-hour biennial CE requirement applies to the producer — not to each line individually. A producer holding Life, A&H, Property, and Casualty satisfies the CE requirement with 24 total hours including 3 ethics. They do not complete 24 hours per line. The same completion satisfies all lines simultaneously.
 
 Adding a line does not increase the CE requirement. A producer who adds a fifth line to four existing lines does not face a higher CE total. The 24-hour requirement remains the same regardless of how many lines the producer holds.
 
-#### CE Subject Matter Flexibility
+### CE Subject Matter Flexibility
 
 Tennessee CE courses count toward the 24-hour requirement regardless of which line they address. A Property and Casualty producer can complete CE courses on life insurance topics — and those hours count toward the CE total for renewal of the P&C license. Tennessee CE is not line-type specific. Any TDCI-approved course in any insurance subject matter satisfies the general CE requirement.
 
 The ethics requirement applies regardless of lines held. Every producer holding any major lines license must satisfy the 3-hour ethics requirement — adding lines does not change this obligation.
 
-#### The Added Line and CE Already Completed in the Current Period
+### The Added Line and CE Already Completed in the Current Period
 
 When a producer adds a line mid-biennial period, CE hours already completed in that period count toward the CE total for the renewal that includes the new line. There is no requirement to restart CE accumulation when a line is added. A producer who has completed 18 of 24 CE hours and then adds a new line needs only 6 more hours to satisfy the CE requirement for the renewal that covers all lines including the newly added one.
 
-### Specialty Training Implications of Adding Lines
+## Specialty Training Implications of Adding Lines
 
-#### Life Line Added — Annuity Suitability Training
+### Life Line Added — Annuity Suitability Training
 
 A producer who adds the Life line of authority and intends to sell annuity products must complete the one-time 4-hour annuity suitability training before their first annuity transaction. Adding the Life line creates the authority to sell annuities — but the annuity suitability training prerequisite applies immediately upon beginning annuity sales.
 
 If the producer already completed annuity suitability training in connection with a prior Life license in another state, verify with the TDCI whether that completion satisfies Tennessee's requirement before selling annuities in Tennessee.
 
-#### A&H Line Added — LTC Training
+### A&H Line Added — LTC Training
 
 A producer who adds the Accident and Health line and intends to sell long-term care insurance must complete the one-time 8-hour LTC initial training before their first LTC transaction. The A&H line authorizes LTC sales — the LTC training prerequisite must be satisfied before those sales begin.
 
 If the producer has a prior LTC training completion from another state, verify recognition with the TDCI before relying on it for Tennessee LTC sales.
 
-#### Property Line Added — NFIP Flood Certification
+### Property Line Added — NFIP Flood Certification
 
 A producer who adds the Property line and intends to sell NFIP flood policies must complete the one-time 3-hour NFIP flood certification before selling flood insurance. The Property line authorizes flood policy sales — the training prerequisite applies before flood transactions begin.
 
-#### Specialty Training and CE Credit in the Addition Period
+### Specialty Training and CE Credit in the Addition Period
 
 Specialty training hours completed after adding a new line count toward the CE total for the current biennial period. A producer who completes the 4-hour annuity suitability training after adding the Life line has 4 additional CE hours credited to the current period. If the current period's CE total is already at or near 24, those hours may become carryover credit (up to 12 hours maximum carryover).
 
-### The Appointment Requirement for Added Lines
+## The Appointment Requirement for Added Lines
 
 Holding a Tennessee license for a specific line of authority does not authorize transacting business without a carrier appointment. Every carrier whose products the producer will represent under the new line must file a new appointment with the TDCI before the producer can transact business for that carrier under the added line.
 
@@ -124,9 +124,9 @@ The appointment filing deadline: The carrier must file the appointment within 15
 
 Existing appointments and added lines: A carrier that currently appoints the producer for existing lines must file a new appointment for the added line if they want the producer to write that line's products. An existing appointment for Property does not automatically extend to Casualty when the producer adds that line. Coordinate with each carrier's contracting department to ensure the new appointment covers the added line before transacting business under the new authority.
 
-### Strategic Decisions: When to Add Lines
+## Strategic Decisions: When to Add Lines
 
-#### Adding Lines at Initial Licensing vs. Later
+### Adding Lines at Initial Licensing vs. Later
 
 Adding lines at initial licensing is more efficient than adding them later — in terms of total fees paid, total exam sessions required, and administrative burden. A candidate who obtains all intended lines simultaneously at initial licensing pays one $5.60 NIPR transaction fee for all lines, completes all exams in a single study period, and begins their career with full authorization.
 
@@ -150,7 +150,7 @@ The marginal cost of additional exams and fees is modest relative to the career 
 
 The producer wants to avoid the future interruption of adding lines mid-career through a separate exam and application process
 
-#### Adding the Commercial Lines Complement
+### Adding the Commercial Lines Complement
 
 The most common line addition scenario in Tennessee is a Personal Lines producer adding Property and Casualty authority — or a property-only producer adding Casualty — to serve commercial clients whose needs exceed Personal Lines authority.
 
@@ -160,11 +160,11 @@ The cost of adding P&C to a Personal Lines license:
 
 This $203.60 investment — plus preparation time — removes the commercial lines ceiling permanently.
 
-#### The Life and A&H Complement Addition
+### The Life and A&H Complement Addition
 
 A producer holding Life who adds A&H — or A&H who adds Life — gains access to the full individual financial protection product suite. Life and A&H together authorize every personal insurance product category from term life through Medicare supplement through long-term care through disability income. The addition of the second line opens client relationship completeness that a single-line holder cannot achieve.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I currently hold a Casualty license in Tennessee and want to add Property. My Casualty license expires in four months. Should I add Property now or wait until after I renew?
 

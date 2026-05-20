@@ -14,7 +14,7 @@ imageAlt: "Insurance Agent Salary in Minnesota: What You Can Realistically Earn 
 
 No single number accurately describes what a Minnesota insurance producer earns — because insurance income is not a fixed salary driven by job title and years of experience the way most professional compensation works. It is a function of business model, line of business, market, client base, compensation structure, and career stage. A captive personal lines agent in their first year earns a fundamentally different income than a commercial lines producer with a $2 million book in the Twin Cities — yet both hold the same Minnesota insurance producer license. This post gives you the realistic, data-grounded picture of Minnesota insurance agent earnings across every dimension that actually determines income: the data benchmarks, the compensation structures, the geographic variations, the line-of-business differences, and the trajectory from entry-level to high-earning producer.
 
-### What the Data Actually Shows
+## What the Data Actually Shows
 
 Multiple compensation data sources track Minnesota insurance agent earnings, each measuring a slightly different population and using different methodologies. Understanding what each source measures — and why they produce different numbers — is the foundation for setting realistic earnings expectations.
 
@@ -30,7 +30,7 @@ Indeed (April 2026): $94,453 per year average from 504 salary reports taken from
 
 The reconciliation: The variation across sources is explained by what each measures. Salary.com captures base salary benchmarks — the floor of compensation. BLS and Indeed capture total compensation including commissions, bonuses, and variable pay — closer to what high-performing producers actually earn. ZipRecruiter reflects posted compensation ranges including both base and commission. None of these figures is wrong — they measure different things. For a producer whose income is primarily commission-based, the BLS/Indeed total compensation figures are the more relevant benchmarks.
 
-### The Geographic Earnings Gradient in Minnesota
+## The Geographic Earnings Gradient in Minnesota
 
 Minnesota insurance agent earnings vary meaningfully by geography — reflecting both the cost of living adjustments that employers make for higher-cost markets and the concentration of higher-value commercial accounts in specific markets.
 
@@ -46,11 +46,11 @@ Rural outstate Minnesota: Base salary benchmarks in rural areas range from appro
 
 The geographic takeaway: The income differential between rural Minnesota and the Twin Cities metro for an insurance producer is real but not determinative. A rural producer who is the dominant insurance relationship in their community — serving the full insurance needs of agricultural clients, small businesses, and households in a 50-mile radius — may earn more than a Twin Cities producer who is one of dozens competing for the same mid-market commercial accounts.
 
-### Compensation Structures: How Minnesota Producers Are Actually Paid
+## Compensation Structures: How Minnesota Producers Are Actually Paid
 
 The most important variable in Minnesota insurance agent compensation is not geography — it is compensation structure. Three distinct models produce dramatically different income trajectories:
 
-#### Model 1: Captive Agency — Salary Plus Commission
+### Model 1: Captive Agency — Salary Plus Commission
 
 Captive agents represent a single carrier exclusively. Major captive agency systems in Minnesota include State Farm, Allstate, Farmers, American Family, and COUNTRY Financial. The compensation model typically involves:
 
@@ -64,7 +64,7 @@ Carrier-provided benefits including E&O coverage, marketing support, and office 
 
 Earnings trajectory for captive agents: In the first year, captive agents typically earn $35,000–$55,000 combining base/stipend with early commission income. By year three to five with a growing book, total compensation of $60,000–$90,000 is achievable. Agents who build mature captive books with renewal commissions can earn $100,000+ — but the income ceiling is constrained by the single-carrier limitation, the carrier's commission schedule, and the captive model's restriction on placing business outside the carrier's product portfolio.
 
-#### Model 2: Independent Agency — Commission Only or Low Base Plus Commission
+### Model 2: Independent Agency — Commission Only or Low Base Plus Commission
 
 Independent agents represent multiple carriers and earn commissions on business placed with any appointed carrier. The independent model typically involves:
 
@@ -78,7 +78,7 @@ No carrier-provided infrastructure — the producer is responsible for E&O, tech
 
 Earnings trajectory for independent producers: The first 12–18 months in a commission-only independent model are financially demanding — building a book from scratch while earning relatively little. Income in year one is commonly $25,000–$45,000. By year three to five with a growing independent book, $70,000–$120,000 is achievable for producers who have built meaningful client relationships. High-performing independent commercial lines producers with established books in the Twin Cities regularly earn $150,000–$250,000+ annually from commission and contingency income.
 
-#### Model 3: Employee Producer — Salary Plus Bonus at an Agency
+### Model 3: Employee Producer — Salary Plus Bonus at an Agency
 
 Many Minnesota producers work as employee producers at established independent agencies, captive agencies, or insurance brokerage firms. The compensation model involves:
 
@@ -92,7 +92,7 @@ Full employee benefits including health insurance, retirement plan, and paid tim
 
 Earnings trajectory for employee producers: The employee model provides income stability that the commission-only independent model does not — but with lower income ceiling for high producers. An employee producer with 5–10 years of experience and a growing book can earn $70,000–$100,000 in total compensation including base and bonus. The ceiling is lower than an independent producer who owns their own book but the floor is substantially higher, particularly in the early career years.
 
-### Income by Line of Business
+## Income by Line of Business
 
 Commercial lines outearns personal lines for established producers. The reason is simple: commercial accounts generate larger premiums than personal accounts. A commercial property policy for a $5 million building generates substantially more commission than a homeowners policy for a $500,000 residence. The difference in commission per account is even larger in specialty commercial lines — professional liability, directors and officers, cyber liability, construction wrap-up programs.
 
@@ -102,7 +102,7 @@ Medicare supplement and Medicare Advantage produce recurring commission structur
 
 The hard market opportunity in property: Minnesota's 34% average homeowners rate increase in 2025 means that every renewing property account generates higher commission on renewal than it did the prior year, because commission is a percentage of premium. A homeowners account that renewed at $3,500 in 2024 and renewed at $4,700 in 2025 generated 34% more commission for the producer without any additional client acquisition cost.
 
-### The Career Earnings Trajectory
+## The Career Earnings Trajectory
 
 Year 1: $25,000–$50,000 depending on model. Commission-only independent producers are at the low end; salaried captive agents with stipends are at the high end of this range.
 
@@ -114,11 +114,11 @@ Years 8–15: $90,000–$200,000+. Senior producers with established books, stro
 
 Top producers: $200,000–$500,000+. Commercial lines producers with large books of complex accounts, independent agents who have built significant agency operations, and benefits producers managing large group accounts reach this tier. These earnings reflect a career of accumulated book value, not simply annual production.
 
-### Cost of Living Context
+## Cost of Living Context
 
 Minnesota's cost of living provides a favorable context for insurance producer earnings compared to coastal markets with similar income levels. Housing expenses are about 4% above the national average in the Twin Cities — significantly below coastal metros. A Minneapolis insurance producer earning $95,000 has substantially more purchasing power than a producer earning $95,000 in San Francisco or New York. Minnesota's state income tax — a flat 4.4% (the 5th tier for the highest earners reaches 9.85%) — reduces after-tax income compared to states without income tax, but the overall cost-of-living offset remains favorable compared to most high-earning insurance markets.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I am considering leaving a $55,000 salary job to pursue insurance sales in Minnesota. How long before I can realistically expect to match my current income?
 

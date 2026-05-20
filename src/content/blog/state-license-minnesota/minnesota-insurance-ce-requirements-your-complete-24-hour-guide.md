@@ -14,11 +14,11 @@ imageAlt: "Minnesota Insurance CE Requirements: Your Complete 24-Hour Guide"
 
 Every licensed Minnesota insurance producer must complete 24 hours of [continuing education](/minnesota/continuing-education) every two years to maintain an active license. That requirement is the headline — but the headline alone does not tell you what counts toward those 24 hours, what restrictions apply to how you earn them, which formats satisfy the classroom requirement, when the deadline falls, how reporting works, or what happens if you miss the deadline. This post covers the complete Minnesota CE framework in the depth that practicing producers need: every requirement, every restriction, every specialty obligation, and every consequence of non-compliance.
 
-### The Statutory Basis
+## The Statutory Basis
 
 Minnesota's CE requirement is established under Minn. Stat. §60K.56 and the Minnesota Department of Commerce's implementing regulations. The statute requires all holders of major lines producer licenses — Property, Casualty, Personal Lines, Life, Accident and Health, and Variable Life and Variable Annuities — to complete continuing education as a condition of license renewal. The Department of Commerce administers the CE system, approves course providers and courses, and maintains the CE transcript system that records each producer's completed hours.
 
-### Who Must Complete CE
+## Who Must Complete CE
 
 CE is required for all resident producers holding any of the following lines of authority:
 
@@ -42,11 +42,11 @@ Non-resident producers: Non-resident Minnesota licensees satisfy Minnesota's CE 
 
 New licensees: A producer who receives their initial Minnesota license does not immediately face a full biennial CE obligation. The first renewal cycle begins when the license is issued. If a producer is licensed partway through a CE cycle, the CE requirement for their first renewal period is proportional to the time remaining in the cycle — contact the Department of Commerce for the specific calculation applicable to your situation.
 
-### The Four Components of Minnesota's 24-Hour CE Requirement
+## The Four Components of Minnesota's 24-Hour CE Requirement
 
 Minnesota's CE requirement is not simply "complete 24 hours of any approved insurance courses." It has four distinct components that must each be satisfied independently. A producer who completes 24 hours of CE without satisfying all four components has not met the renewal standard even though the total hour count is correct.
 
-#### Component 1: 24 Total Hours
+### Component 1: 24 Total Hours
 
 The baseline requirement is 24 credit hours of Department-approved CE during the biennial renewal period. One CE credit hour is defined as 50 minutes of instruction in a classroom setting or an equivalent amount of content for self-study courses.
 
@@ -54,7 +54,7 @@ Approved providers: All CE courses must be from providers approved by the Minnes
 
 CE credit by line: CE courses are generally approved for specific lines of authority. A producer holding multiple lines needs to verify that the courses they complete are approved for the lines they hold. Some courses are approved for all lines; others are line-specific. A Life producer who completes property-specific CE courses may or may not receive credit toward their Life renewal — confirm course approval for your specific line before enrolling.
 
-#### Component 2: 3 Hours of Ethics
+### Component 2: 3 Hours of Ethics
 
 Of the 24 total required hours, at least 3 must be completed in an ethics course or ethics-focused content approved by the Department of Commerce. The ethics requirement exists separately from the total hour count — a producer who completes 24 hours with only 2 hours of ethics has satisfied neither the ethics requirement nor the total hour requirement.
 
@@ -62,7 +62,7 @@ What qualifies as ethics CE: Ethics content specifically addresses professional 
 
 Ethics content within broader courses: Some CE courses are structured so that a portion of the course's content is approved as ethics and the remainder is approved as general CE. For example, a 4-hour course might carry 1 hour of ethics credit and 3 hours of general credit. Review the course's specific credit breakdown before enrolling — not every hour of a course titled "Ethics in Insurance Practice" necessarily counts as ethics CE.
 
-#### Component 3: 12 Hours Minimum Classroom or Classroom-Equivalent
+### Component 3: 12 Hours Minimum Classroom or Classroom-Equivalent
 
 At least 12 of the 24 required CE hours must be completed in a classroom or classroom-equivalent format. This is a Minnesota-specific CE requirement that significantly constrains how producers earn their CE — it means that a maximum of 12 hours (half the total) can be completed through purely self-study formats that are not classroom-equivalent.
 
@@ -86,7 +86,7 @@ Individual reading-based courses
 
 The practical implication: A producer who completes all 24 hours through self-paced online courses has not satisfied the classroom requirement regardless of how many hours they completed. At least 12 hours must come from live classroom or live webinar formats. Plan your CE calendar to include at least 12 hours of scheduled live instruction each renewal period — do not wait until the final month to find classroom-eligible courses, as availability may be limited.
 
-#### Component 4: 12 Hours Non-Company-Sponsored
+### Component 4: 12 Hours Non-Company-Sponsored
 
 At least 12 of the 24 required CE hours must be completed in courses that are not sponsored by, offered by, or affiliated with any insurance company. This requirement ensures that a meaningful portion of CE content comes from independent sources rather than from carrier training programs that may be designed primarily to promote the carrier's products.
 
@@ -98,7 +98,7 @@ The overlap: The classroom/classroom-equivalent and non-company-sponsored requir
 
 The carrier-sponsored CE maximum: The inverse of the 12-hour non-company-sponsored minimum is that a maximum of 12 hours can be satisfied by company-sponsored CE. Producers who receive significant carrier training — particularly captive agents whose carriers invest heavily in producer education — can count up to 12 hours of that training toward their renewal, but the remaining 12 hours must come from non-company-sponsored sources.
 
-### The Four-Component Grid: Visualizing Compliance
+## The Four-Component Grid: Visualizing Compliance
 
 Understanding how the four components interact helps producers plan their CE calendar efficiently.
 
@@ -106,25 +106,25 @@ A fully compliant CE plan might look like this: 12 hours of live webinars from i
 
 An alternative compliant plan: 12 hours of live carrier-sponsored training (satisfies the classroom-equivalent component for those 12 hours and counts toward the total); 12 hours of self-paced non-company-sponsored online courses including 3 hours of ethics (satisfies the non-company-sponsored component). This plan works but requires careful tracking — the 12 carrier-sponsored hours do not count toward the non-company-sponsored requirement.
 
-### Specialty CE Requirements Beyond the 24-Hour Standard
+## Specialty CE Requirements Beyond the 24-Hour Standard
 
 Several lines and product types impose specialty CE requirements that are separate from and in addition to the standard 24-hour biennial obligation.
 
-#### Long-Term Care (LTC) Producer Certification
+### Long-Term Care (LTC) Producer Certification
 
 Producers who sell long-term care insurance in Minnesota must complete an 8-hour initial LTC certification before selling LTC products. This is a one-time initial requirement — not a biennial obligation — that must be satisfied before the first LTC sale. The 8-hour initial certification must be specific to Minnesota Medicaid and Minnesota Partnership plans, covering the state's specific LTC regulatory framework.
 
 After completing the initial 8-hour certification, a 5-hour LTC-specific refresher is required at each subsequent biennial renewal cycle. The 5-hour refresher counts toward the 24-hour total CE requirement — it is not an additional 5 hours on top of the 24 hours.
 
-#### Annuity Suitability Training
+### Annuity Suitability Training
 
 Producers who sell annuity products in Minnesota must complete annuity suitability training in accordance with the Minnesota Department of Commerce's annuity suitability regulation. The specific hours and format requirements for annuity suitability training have evolved — confirm current requirements with the Department of Commerce at the time you begin selling annuities or at renewal, as the suitability framework has been updated in recent years.
 
-#### Flood Insurance Training
+### Flood Insurance Training
 
 Producers who sell flood insurance through the National Flood Insurance Program (NFIP) may be subject to FEMA-mandated training requirements specific to NFIP products. These federal training requirements exist independently of the Minnesota Department of Commerce CE system. Confirm current FEMA/NFIP training requirements with FEMA's flood insurance resources.
 
-### The Renewal Deadline and CE Timing
+## The Renewal Deadline and CE Timing
 
 Renewal deadline: Individual producer licenses renew on the last day of the producer's birth month, biennially. A producer born in March renews on March 31 of each even or odd year (depending on when they were initially licensed). Business entity licenses renew on October 31 biennially.
 
@@ -134,7 +134,7 @@ The 90-day early renewal window: Producers may submit their renewal application 
 
 CE reporting lag: CE providers must report completions to the Minnesota Department of Commerce within 5 business days of course completion. JustInsurance reports completions the same day you finish — no waiting period. Providers who report on a 5-business-day schedule create risk for producers who complete their final CE course close to the renewal deadline. Complete your final required CE course at least one week before your renewal deadline to ensure the completion is in the Department's system before you submit your renewal.
 
-### How CE Credits Are Reported and Tracked
+## How CE Credits Are Reported and Tracked
 
 Provider reporting: Approved CE providers electronically report each student's course completion to the Minnesota Department of Commerce after the course is completed. The Department adds the completion to the producer's CE transcript. Producers do not self-report their CE — the system is provider-reported.
 
@@ -144,7 +144,7 @@ Accessing your transcript: Log in to the Department of Commerce's producer licen
 
 CE carryover: Minnesota does not allow CE credits to carry over from one renewal period to the next. Hours completed in the current biennial period that exceed 24 do not apply to the next renewal period. Complete CE efficiently within each renewal period — there is no benefit to completing more than 24 hours in a single period beyond ensuring compliance with all four components.
 
-### What Happens If CE Is Incomplete at Renewal
+## What Happens If CE Is Incomplete at Renewal
 
 License lapse: A license for which the renewal deadline passes without completed CE and a submitted renewal application lapses automatically. There is no grace period — the license is inactive from the day after the renewal deadline.
 
@@ -154,7 +154,7 @@ After 12 months: Full relicensing is required — new prelicensing education, ne
 
 Transacting business during a lapse: A producer whose license has lapsed for non-renewal cannot legally sell, solicit, or negotiate insurance. Operating without an active license is a violation of Minn. Stat. §60K.31 regardless of whether the producer has carrier appointments on file. Stop transacting business immediately upon discovering a lapse and pursue reinstatement before resuming.
 
-### Practical CE Planning: Building Your Biennial CE Calendar
+## Practical CE Planning: Building Your Biennial CE Calendar
 
 The two-year planning approach: At the start of each renewal period — immediately after renewing your license — identify the total CE you need: 24 hours, including 3 ethics, 12 classroom-equivalent, and 12 non-company-sponsored. Map out when you will complete each component across the two-year period.
 
@@ -166,7 +166,7 @@ Do not wait until the final month: Producers who plan to complete their CE in th
 
 Track your progress mid-period: Check your CE transcript through the Department's portal at the midpoint of each renewal period. Confirm that completed courses appear with the correct credit hours, the correct line approval, and the correct ethics or specialty designation. Identifying a reporting error or a missing credit at the midpoint gives you adequate time to resolve it before the deadline.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed a 4-hour CE course that my provider lists as including 1 hour of ethics. How do I know if that ethics hour counts toward Minnesota's 3-hour ethics requirement?
 

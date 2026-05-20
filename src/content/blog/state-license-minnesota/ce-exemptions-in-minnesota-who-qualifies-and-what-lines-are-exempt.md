@@ -14,11 +14,11 @@ imageAlt: "CE Exemptions in Minnesota: Who Qualifies and What Lines Are Exempt"
 
 Minnesota's [continuing education](/minnesota/continuing-education) requirement applies broadly — but not universally. Specific categories of producers are exempt from the standard 24-hour biennial CE obligation, and specific lines of authority carry no CE requirement at all. Understanding who qualifies for an exemption and which licenses are exempt matters both for producers who may not need to complete CE and for producers who believe they are exempt when they are not. Misidentifying your CE status — assuming you are exempt when you are subject to the requirement, or completing unnecessary CE because you did not know an exemption applied — creates either compliance risk or wasted time and money. This post covers every CE exemption available in Minnesota, the conditions each exemption requires, the important exceptions to non-resident exemptions, and the lines of authority that carry no CE obligation.
 
-### The Three Categories of CE Exemptions
+## The Three Categories of CE Exemptions
 
 Minnesota's CE exemptions fall into three distinct categories: new licensee exemptions based on how recently the license was issued, limited lines exemptions based on which line is held, and non-resident exemptions based on home state compliance. Each category has specific conditions that must be met for the exemption to apply.
 
-### Exemption 1: New Licensees — Licensed Less Than 6 Months Before First Renewal
+## Exemption 1: New Licensees — Licensed Less Than 6 Months Before First Renewal
 
 Individuals licensed for less than 6 months prior to the first renewal date are exempt for the first renewal period. Total Loss Appraisals
 
@@ -32,7 +32,7 @@ The exemption applies only to the first renewal period. A producer who receives 
 
 The exemption does not waive specialty training requirements. Even if a new licensee is exempt from the general 24-hour CE requirement for their first renewal, product-specific training obligations — LTC training, annuity best interest training, flood training — are not waived. These specialty requirements are pre-sale obligations that apply before the first transaction regardless of the CE cycle.
 
-### Exemption 2: Limited Lines License Holders — Lines That Do Not Require an Exam
+## Exemption 2: Limited Lines License Holders — Lines That Do Not Require an Exam
 
 Individuals holding a limited-lines license that does not require an exam are exempt from Minnesota's CE requirements. Colorado Secretary of State
 
@@ -44,7 +44,7 @@ Producers holding both limited and major lines: A producer who holds a major lin
 
 The credit life/A&H/property special case: Individuals who hold a full-lines license but use it to sell only credit life, credit accident and health, and/or credit property must request exemption form from the Department of Commerce. This is a distinct situation from the standard limited lines exemption — a producer with full-lines authority who uses that license exclusively for credit products is not automatically exempt. They must proactively request an exemption form from the Department and submit it. This exemption is not self-executing — producers in this category who fail to request and submit the form remain subject to the standard CE requirement. Cocaraccidentlawyers
 
-### Exemption 3: Non-Resident Producers — Home State CE Satisfies Minnesota's Requirement
+## Exemption 3: Non-Resident Producers — Home State CE Satisfies Minnesota's Requirement
 
 Non-resident producers (except for the LTC requirement) are exempt from Minnesota's CE requirements, provided they satisfy their home state's CE requirements. Total Loss Appraisals
 
@@ -58,7 +58,7 @@ Home state license status is the key: The non-resident CE exemption functions on
 
 States without reciprocal agreements: A nonresident whose home state does not have a reciprocal agreement with Minnesota may apply hours earned in his or her home state or another CE state to Minnesota's CE requirement. This is a partial accommodation rather than a full exemption — non-resident producers from non-reciprocal states may use CE completed elsewhere but must confirm with the Department that those hours satisfy Minnesota's requirements. Cocaraccidentlawyers
 
-#### The Critical Exception: LTC Training Is Not Waived for Non-Residents
+### The Critical Exception: LTC Training Is Not Waived for Non-Residents
 
 The non-resident CE exemption has one significant carve-out that producers must understand clearly. There is an exception to this exemption: if you sell long-term care as part of Minnesota's partnership, you'll want to check out the long-term care CE requirement. More specifically, non-resident producers must complete training for LTC before selling LTC insurance products in Minnesota. autoclaimconsultantsTotal Loss Appraisals
 
@@ -66,7 +66,7 @@ The LTC training requirement applies to non-resident producers who sell LTC insu
 
 The annuity training non-resident obligation: Similarly, non-resident producers who sell annuities in Minnesota must complete the one-time 4-hour Annuity Best Interest training before transacting annuity business in Minnesota — completion of NAIC Annuity Best Interest training in another state is reciprocal in Minnesota, but non-residents cannot rely solely on the general CE exemption to skip annuity training entirely. Cover Cannabis
 
-### Lines of Authority With No CE Requirement
+## Lines of Authority With No CE Requirement
 
 Beyond producer-level exemptions, specific lines of authority carry no CE obligation because they either do not require an exam for initial licensure or have a regulatory scope that does not necessitate ongoing CE.
 
@@ -80,7 +80,7 @@ Title insurance: Title insurance is a specialized line primarily transacted thro
 
 Farm Property and Farm Liability: This specialized line for agricultural insurance does not require [prelicensing](/minnesota/prelicensing) education before the exam. The CE requirement status for Farm Property and Farm Liability should be verified directly with the Department of Commerce, as the exemption framework depends on whether an exam is required.
 
-### What the Exemptions Do NOT Cover
+## What the Exemptions Do NOT Cover
 
 Understanding the boundaries of CE exemptions is as important as understanding their scope.
 
@@ -90,7 +90,7 @@ The exemption does not waive the renewal application: CE exemptions eliminate th
 
 The exemption does not waive the appointment requirement: Being exempt from CE does not affect the appointment requirement under Minn. Stat. §60K.49. Exempt producers still must hold valid carrier appointments before transacting insurance business.
 
-### No Line-of-Authority Restriction on CE Content
+## No Line-of-Authority Restriction on CE Content
 
 One important feature of Minnesota's CE system that is worth understanding alongside the exemption framework is the absence of line-of-authority restrictions on CE content. Minnesota does not require that insurance producers complete only modules relating to the lines of authority that they hold. For example, a producer who holds a Life line of authority can complete and use a continuing education course pertaining to property and casualty. McQuaid Injury Law
 
@@ -98,7 +98,7 @@ Minnesota also explicitly states that — aside from areas like flood insurance,
 
 This flexibility means that a producer holding both P&C and Life authority can complete all 24 CE hours in Life-focused courses, or all 24 hours in P&C courses, or any combination — without needing to allocate hours proportionally by line. The only content restrictions are the specialty requirements (LTC, annuity, flood) which are line-specific in their application, and the ethics component which must come from specifically approved ethics content.
 
-### Verifying Your Exemption Status
+## Verifying Your Exemption Status
 
 Contact the Department of Commerce directly: If you are uncertain whether an exemption applies to your specific situation — particularly the limited lines exemption or the credit product exemption — contact the Minnesota Department of Commerce Insurance Division at (651) 539-1599 or licensing.commerce@state.mn.us. The Department can confirm your CE status based on your specific license record.
 
@@ -106,7 +106,7 @@ Do not rely on third-party sources alone: CE exemption rules can change through 
 
 For the credit product exemption — request the form proactively: Producers who hold full-lines licenses but sell only credit products must request the exemption form from the Department of Commerce. This exemption is not automatically applied to your license record — the form must be submitted. Request the form well before your renewal deadline so that the exemption is on file when you submit your renewal application.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I received my Minnesota license in August and my renewal deadline is October 31. I've been licensed for only 2 months. Am I exempt from CE for this first renewal?
 

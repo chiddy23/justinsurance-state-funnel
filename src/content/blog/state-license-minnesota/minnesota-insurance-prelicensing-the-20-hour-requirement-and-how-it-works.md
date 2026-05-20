@@ -14,13 +14,13 @@ imageAlt: "Minnesota Insurance Prelicensing: The 20-Hour Requirement and How It 
 
 Minnesota's [prelicensing](/minnesota/prelicensing) education requirement is the foundation of the licensing process — and the step where the most confusion arises. Applicants who misunderstand what the 20-hour requirement actually demands, how the certification exam works, or what the certificate of completion authorizes often delay their licensing timeline unnecessarily or, worse, sit for the state exam before satisfying all prelicensing requirements and forfeit their exam fee. This post covers exactly how Minnesota's prelicensing requirement works: what the law requires, how the hours are counted, what the internal certification exam demands, how the proctor requirement functions, what the certificate of completion is and is not, and how the requirement differs across lines of authority.
 
-### The Statutory Basis: Minn. Stat. §60K.36 Subd. 4
+## The Statutory Basis: Minn. Stat. §60K.36 Subd. 4
 
 Minnesota's prelicensing education requirement is established by Minn. Stat. §60K.36 Subd. 4, which requires applicants for producer licenses to complete a Minnesota Department of Commerce-approved prelicensing course of study before sitting for the state licensing exam. The statute specifies that the course must consist of 20 hours per line of authority covering the general principles of insurance for that line.
 
 The Department of Commerce administers the prelicensing education system — approving course providers, setting content standards, and enforcing the sequence requirement that prelicensing must precede the state exam. Course providers are listed on Sircon, the Department's licensing portal. Only courses from Department-approved providers satisfy the prelicensing requirement. Completing a general insurance education course, a college course in insurance, or a study guide from a non-approved source does not satisfy the statute.
 
-### What 20 Hours Actually Means
+## What 20 Hours Actually Means
 
 The 20-hour requirement is not a guideline or an estimate of how long the course takes to complete. It is a minimum time floor that course providers must verify independently of whether the applicant has completed the course content.
 
@@ -32,7 +32,7 @@ What does not count: Time spent on general study outside the approved course, re
 
 The two-part completion standard: A student satisfies the prelicensing requirement only when both conditions are met: (1) the 20-hour time floor has been reached and verified by the provider, and (2) the internal certification exam has been passed with 70% or higher. Completing the time requirement without passing the certification exam does not yield a certificate. Passing the certification exam before the time requirement is verified does not yield a certificate. Both must be satisfied.
 
-### Lines of Authority and Their Hour Requirements
+## Lines of Authority and Their Hour Requirements
 
 The 20-hour requirement applies per line of authority for the following lines:
 
@@ -40,7 +40,7 @@ Combined line requirements: A producer seeking both Property and Casualty must c
 
 Variable Life and Variable Annuities: This line has a separate education structure. The Variable line requires separate FINRA securities registration in addition to the insurance license. The prelicensing education requirement for this line differs from the major lines — consult the Department of Commerce directly for the current specific requirement.
 
-### Course Content: What the 20 Hours Covers
+## Course Content: What the 20 Hours Covers
 
 Each line of authority's prelicensing course covers the general principles of insurance for that specific line. The content outline is aligned with the PSI state exam content outline, ensuring that completing the course prepares the student for the exam they will take.
 
@@ -54,7 +54,7 @@ Life course content: Types of life insurance (term, whole life, universal life, 
 
 A&H course content: Types of health insurance (individual, group, HMO, PPO, HDHP), disability income policies, long-term care insurance, Medicare supplement (Medigap) policies, government programs (Medicare, Medicaid, Medical Assistance), COBRA continuation, ACA provisions, and Minnesota-specific A&H laws including MNsure, Medical Assistance, and MinnesotaCare.
 
-### The Internal Certification Exam
+## The Internal Certification Exam
 
 After completing the 20 hours of coursework, the applicant must pass an internal certification exam administered by the course provider. This exam is separate from and preliminary to the PSI state licensing exam. It serves as the course's final assessment of whether the applicant has absorbed the material.
 
@@ -68,7 +68,7 @@ Who cannot serve as proctor: Parents, spouses, siblings, children, other family 
 
 Online proctoring mechanics: For self-paced online courses, the certification exam is typically unlocked only after the proctor verifies the applicant's identity electronically — usually through a webcam-based identity confirmation. Once the exam begins, the applicant cannot return to course content. The exam must be completed continuously; the proctor monitors the session throughout. At conclusion, both parties complete the digital affidavit.
 
-### The Certificate of Completion
+## The Certificate of Completion
 
 Upon passing the certification exam with 70% or higher and satisfying the 20-hour time requirement, the course provider issues a Certificate of Completion. This document serves as official proof that the applicant has satisfied Minnesota's prelicensing education requirement and is authorized to schedule and sit for the PSI state licensing exam.
 
@@ -80,7 +80,7 @@ Presentation at the exam center: The certificate must be physically or digitally
 
 Provider reporting to the Department: Course providers are required to report course completions to the Minnesota Department of Commerce within five business days of completion. This reporting allows PSI and the Department to verify that an applicant's prelicensing is on file before releasing state exam results. The Department verifies prelicensing status electronically — even if the provider has reported, applicants should have their certificate in hand as backup documentation.
 
-### Exemptions: When Prelicensing Education Is Not Required
+## Exemptions: When Prelicensing Education Is Not Required
 
 Minnesota's prelicensing requirement does not apply to all applicants. Specific professional designations and academic credentials qualify applicants for an exemption from the education requirement — but not from the state exam, fingerprinting, or application. All exempt applicants must still pass the PSI state licensing exam, complete the background check, and submit the license application.
 
@@ -98,7 +98,7 @@ Farm Property and Farm Liability: No prelicensing required for this limited line
 
 Documentation at the exam center: Applicants claiming an exemption must bring documentation of the qualifying designation or credential to the PSI exam center. Arriving at the exam center without documentation of your exemption may prevent you from being admitted.
 
-### Choosing a Prelicensing Provider
+## Choosing a Prelicensing Provider
 
 Minnesota-approved providers are listed on Sircon. The choice of provider affects the learning experience, the quality of exam preparation, and the efficiency of the certification process — but all approved providers satisfy the same statutory requirement.
 
@@ -108,7 +108,7 @@ Quality indicators for provider selection: A high-quality prelicensing provider 
 
 Cost comparison: Prelicensing course costs vary by provider and format. A single-line online course typically costs $75–$150. Combined-line packages (P&C or Life and A&H) typically cost $150–$250. Live classroom courses often cost more. The prelicensing course cost is one component of the total licensing cost — exam fees ($45), fingerprinting ($65), and application fees ($50 per line plus technology and transaction fees) are separate.
 
-### Common Prelicensing Mistakes and How to Avoid Them
+## Common Prelicensing Mistakes and How to Avoid Them
 
 Mistake 1 — Scheduling the state exam before completing prelicensing. This is the most costly mistake. Applicants who sit for the PSI exam without a valid certificate of completion forfeit their $45 exam fee and must retake the exam after properly completing prelicensing. Do not schedule your PSI exam until your certificate is in hand.
 
@@ -120,7 +120,7 @@ Mistake 4 — Completing prelicensing for one line when you need two. A producer
 
 Mistake 5 — Waiting too long after the certification exam to take the state exam. While the certificate of completion itself never expires, delaying the state exam by months means the course content becomes less fresh. Most candidates perform best on the PSI exam within two to four weeks of completing their prelicensing course, when the material is most current in their memory.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 I completed a prelicensing course years ago but never took the state exam. Do I need to redo the course?
 

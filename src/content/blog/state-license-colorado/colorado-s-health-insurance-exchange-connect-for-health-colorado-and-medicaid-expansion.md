@@ -14,7 +14,7 @@ imageAlt: "Colorado's Health Insurance Exchange: Connect for Health Colorado and
 
 Colorado operates its own state-based health insurance exchange — Connect for Health Colorado — giving the state direct control over enrollment infrastructure, financial assistance programs, and plan oversight that states using the federal Healthcare.gov platform do not have. Colorado's Medicaid expansion, implemented in 2013 under the Affordable Care Act, extended Health First Colorado coverage to adults earning up to 138% of the Federal Poverty Level. Together, the exchange and Medicaid expansion form the two primary pathways through which Colorado residents without employer-sponsored or Medicare coverage access health insurance. For producers licensed in the Accident and Health line, understanding how these programs work — who qualifies, how financial assistance is calculated, how enrollment operates, and what happened to premiums in 2026 — is foundational knowledge for serving Colorado's individual and small group health market.
 
-### Connect for Health Colorado: What It Is and Why It Matters
+## Connect for Health Colorado: What It Is and Why It Matters
 
 Connect for Health Colorado (connectforhealthco.com) is Colorado's official health insurance marketplace under the Affordable Care Act, established as a state-based exchange when Colorado chose not to rely on the federal Healthcare.gov platform. Operating as an independent, quasi-governmental entity, Connect for Health Colorado performs several functions that directly affect producers and their clients:
 
@@ -26,11 +26,11 @@ Broker and assister support: Connect for Health Colorado maintains a statewide n
 
 Eligibility verification: Connect for Health verifies income, citizenship or immigration status, and other eligibility factors for financial assistance applicants. The exchange coordinates with Medicaid and CHP+ to ensure clients who qualify for those programs are routed appropriately rather than purchasing subsidized marketplace coverage.
 
-### The Financial Assistance Structure: APTCs, CSRs, and Colorado Premium Assistance
+## The Financial Assistance Structure: APTCs, CSRs, and Colorado Premium Assistance
 
 Understanding how financial assistance works through Connect for Health Colorado is the most practically important knowledge for producers serving the individual health market.
 
-#### Advance Premium Tax Credits (APTCs)
+### Advance Premium Tax Credits (APTCs)
 
 APTCs are federal tax credits that reduce the monthly premium a policyholder pays for a Connect for Health Colorado plan. They are calculated based on household income relative to the Federal Poverty Level (FPL) and the cost of the benchmark Silver plan in the policyholder's area.
 
@@ -38,27 +38,27 @@ Income eligibility for APTCs: Historically, APTCs were available for incomes bet
 
 The 2026 expiration crisis: The enhanced federal premium tax credits expired December 31, 2025. Congress declined to extend them. The impact on Colorado's marketplace was substantial — the expiration of federal Enhanced Premium Tax Credits reduced or eliminated federal financial help for approximately 78,000 Coloradans, with customers paying approximately $19 million more per month in premiums compared to Plan Year 2025. The Colorado DOI estimated that without state legislative intervention, average premiums statewide would have increased by 174% for 2026. Colorado lawmakers approved a stopgap measure during a special session in August that will blunt the price increase for households between 100% and 400% of the federal poverty level, including $100 million for the state's health insurance affordability fund. With that intervention, the average net premium increase for 2026 is approximately 101% — still substantial, but significantly less severe than the unmitigated projection.
 
-#### Colorado Premium Assistance (CPA)
+### Colorado Premium Assistance (CPA)
 
 Colorado's state-funded Colorado Premium Assistance program, created by HB25B-1006 signed by Governor Polis in 2025, provides premium subsidies to households between 100% and 400% of FPL to offset the loss of federal enhanced tax credits. The state's new Colorado Premium Assistance program for Plan Year 2026 offset premium costs for more than 176,000 customers.
 
 The CPA represents Colorado's use of its own state funds to maintain coverage affordability when federal subsidies contract — a demonstration of the state exchange model's flexibility. States using Healthcare.gov cannot implement state-specific subsidy programs with the same degree of integration.
 
-#### Cost-Sharing Reductions (CSRs)
+### Cost-Sharing Reductions (CSRs)
 
 CSRs are federal payments to insurers that reduce the deductibles, copays, and out-of-pocket maximums for qualifying enrollees. CSRs are available only on Silver-tier plans purchased through Connect for Health Colorado, for households with incomes between 138% and 250% of FPL. CSRs effectively make Silver plans significantly more valuable for lower-income enrollees than the standard actuarial value of the Silver tier would suggest — a Silver plan with CSR at 200% FPL may function more like a Gold or Platinum plan in terms of actual cost-sharing. For 2026, CSRs returned to standard federal levels rather than the enhanced levels of recent years, reducing the cost-sharing benefit for lower-income Silver enrollees.
 
-#### The APTC and CSR Interaction
+### The APTC and CSR Interaction
 
 APTCs and CSRs can be used simultaneously if the enrollee qualifies for both and selects a Silver plan. APTCs reduce the monthly premium; CSRs reduce cost-sharing within the plan. For clients between 138% and 250% FPL, recommending a Silver plan with CSR is typically the highest-value option — the CSR benefit often more than offsets any premium savings from choosing a Bronze plan.
 
-### Plan Tiers and the Colorado Option
+## Plan Tiers and the Colorado Option
 
 Connect for Health Colorado offers plans in four standard metal tiers — Bronze, Silver, Gold, and Platinum — differentiated by actuarial value:
 
 The Colorado Option: Colorado introduced a public option — the Colorado Option — as a standardized plan that insurers must offer alongside their other products. Colorado Option plans are required to cover specific services at no cost to the enrollee, including annual wellness visits, health screenings, immunizations, maternity care, and mental health and substance use disorder services. Colorado Option plans accounted for 47% of the state's marketplace enrollments in 2025. For 2026, six insurers are offering medical plans through Connect for Health Colorado, including Colorado Option plans.
 
-### Enrollment: Open Enrollment and Special Enrollment Periods
+## Enrollment: Open Enrollment and Special Enrollment Periods
 
 Open enrollment: The annual window during which any Colorado resident may enroll in or change a Connect for Health Colorado plan. For Plan Year 2026, open enrollment ran from November 1, 2025 through January 15, 2026. Enrollment by December 15 produces coverage effective January 1; enrollment between December 16 and January 15 produces coverage effective February 1 or mid-February.
 
@@ -68,7 +68,7 @@ Colorado tax return SEP: Colorado has a unique provision allowing residents who 
 
 Health First Colorado and CHP+ enrollment: Medicaid and CHP+ accept applications year-round with no enrollment window. Clients who qualify can enroll any day through Colorado PEAK (the state's benefits eligibility system) or by calling 1-800-221-3943.
 
-### Health First Colorado: Colorado's Medicaid Program
+## Health First Colorado: Colorado's Medicaid Program
 
 Health First Colorado is the name of Colorado's Medicaid program. Colorado expanded Medicaid under the ACA in January 2013 — one of the earlier adopters among states, taking effect at the beginning of the year the ACA's expansion provision became available.
 
@@ -82,19 +82,19 @@ Managed care: Most Health First Colorado enrollees receive their care through ma
 
 Medicaid unwinding impact on exchange enrollment: During the COVID-19 pandemic, federal law prohibited states from disenrolling Medicaid recipients (continuous coverage protection). When that protection ended in mid-2023 and Colorado resumed normal eligibility determinations, hundreds of thousands of Coloradans were reviewed for continued Medicaid eligibility. Those who no longer qualified — typically because their income rose above 138% FPL — needed to transition to marketplace coverage. This "unwinding" contributed to increased Connect for Health Colorado enrollment in 2024 and 2025, as former Medicaid enrollees sought marketplace plans during or after their transition period.
 
-### CHP+: Colorado's Children's Health Insurance Program
+## CHP+: Colorado's Children's Health Insurance Program
 
 Child Health Plan Plus (CHP+) covers children and pregnant women in households with incomes too high for Medicaid but who would otherwise be uninsured. CHP+ covers children from birth through age 18 and pregnant women. Income eligibility extends to approximately 260% of FPL for children. CHP+ provides comprehensive coverage with lower premiums and cost-sharing than marketplace plans, making it the appropriate coverage pathway for eligible children whose families may be shopping on Connect for Health Colorado.
 
 Producers who work with individual and family clients should always screen for Medicaid and CHP+ eligibility before enrolling clients in marketplace plans — a family's children may qualify for CHP+ even if the parents are enrolled in a marketplace plan.
 
-### The Reinsurance Program and Its 2026 Changes
+## The Reinsurance Program and Its 2026 Changes
 
 Colorado operates a reinsurance program under an ACA Section 1332 state innovation waiver. Reinsurance programs work by pooling and paying a portion of the highest-cost claims across the individual market, which reduces the risk that individual insurers face and allows them to price premiums lower than they otherwise would. Colorado's reinsurance program has historically reduced full-price marketplace premiums by approximately 20%.
 
 For 2026, funding for Colorado's reinsurance program decreased significantly due to the sunsetting of certain federal reinsurance pass-through funding. The reduction in reinsurance funding is one of the factors contributing to 2026 premium increases alongside the APTC expiration — the two mechanisms that had been suppressing premium costs both contracted simultaneously for 2026.
 
-### What This Means for A&H Producers in Colorado
+## What This Means for A&H Producers in Colorado
 
 The individual health insurance market in Colorado is in a period of significant transition driven by federal subsidy policy changes. Producers who understand the current environment can provide genuine value to clients navigating it:
 
@@ -106,7 +106,7 @@ The Silver plan and CSR conversation: For clients between 138% and 250% FPL, the
 
 The Medicaid/marketplace boundary: Clients whose income fluctuates around 138% FPL may move between Medicaid eligibility and marketplace eligibility during the year. A client who enrolls in a marketplace plan and then loses income to below 138% FPL should apply for Health First Colorado immediately — staying in a marketplace plan they no longer need while Medicaid is available wastes their subsidy and the state's resources. Producers who actively manage this boundary provide continuity of care and financial efficiency for lower-income clients.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can a producer help clients enroll through Connect for Health Colorado without any cost to the client?
 

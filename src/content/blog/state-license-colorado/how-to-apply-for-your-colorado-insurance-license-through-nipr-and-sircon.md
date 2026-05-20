@@ -14,7 +14,7 @@ imageAlt: How to Apply for Your Colorado Insurance License Through NIPR and Sirc
 
 After passing the Pearson VUE state exam, the next step in Colorado's insurance licensing process is submitting your license application electronically. Colorado processes all license applications, renewals, and continuations through two online platforms: NIPR (National Insurance Producer Registry) at nipr.com, and Sircon at sircon.com/colorado. Paper applications are not accepted — any paper submission is returned unprocessed. Understanding how each platform works, what the fees are, what information is required, and what happens after submission ensures your application moves through the Division's review queue without unnecessary delays.
 
-### The Two Application Platforms
+## The Two Application Platforms
 
 NIPR (nipr.com): NIPR is the national producer licensing platform used by most states. For Colorado, NIPR charges the state's $47 application fee per line of authority plus a $5.60 NIPR transaction fee. NIPR is particularly useful for producers who are simultaneously applying for licenses in multiple states, as the platform allows multi-state filings in a single workflow.
 
@@ -22,7 +22,7 @@ Sircon (sircon.com/colorado): Sircon is the Colorado Division of Insurance's lic
 
 Which should you use? For a single Colorado license application, Sircon saves $5.60 compared to NIPR. For candidates applying for non-resident licenses in multiple states at the same time, NIPR's multi-state filing efficiency may outweigh the $5.60 difference. Either platform is valid — your application goes to the same Division of Insurance queue regardless of which platform you use.
 
-### What You Need Before Applying
+## What You Need Before Applying
 
 Before beginning your application on either platform, gather the following:
 
@@ -46,7 +46,7 @@ Any administrative action by another government agency: copies of the action and
 
 All disclosure documentation should be mailed or faxed to: Pearson VUE / Colorado Division of Insurance 3131 S. Vaughn Way, Suite 205, Aurora, CO 80014 Fax: 303-733-9507
 
-### The Application Screening Questions
+## The Application Screening Questions
 
 Colorado's license application includes screening questions that every applicant must answer. These questions address:
 
@@ -60,9 +60,9 @@ Pending criminal charges
 
 Answer every question truthfully. The Colorado Division of Insurance cross-references NIPR's national licensing database, which contains producer history from all 50 states. Providing false information — even an omission of a minor prior action — is grounds for immediate application denial and can result in a long-term bar from licensure. The Division reviews each "yes" response individually. Disclosure with complete supporting documentation is consistently processed more quickly than incomplete disclosures that require follow-up.
 
-### Fees Summary
+## Fees Summary
 
-### After Submission: What Happens Next
+## After Submission: What Happens Next
 
 Processing time: The Colorado Division of Insurance processes most applications in under 5 business days. Applications that require more in-depth review (due to "yes" answers to screening questions, missing documentation, or name discrepancies) take longer. There is no fixed maximum processing time — the Division reviews each application on its own merits.
 
@@ -72,7 +72,7 @@ Email confirmation: When your application is approved, the Division sends an ema
 
 Printing your license: Once approved, print your license directly from Sircon (sircon.com/colorado) using the "Print or Download Your License" service. The printing fee through Sircon is $5. Your license must be available for inspection upon request — producers are expected to have access to their current license documentation.
 
-### After Your License Is Issued: Key Next Steps
+## After Your License Is Issued: Key Next Steps
 
 Carrier appointments: A Colorado insurance license authorizes you to sell insurance but does not activate any carrier relationship. Before you can sell a specific carrier's products, the carrier must file an appointment on your behalf with the Division. Carriers submit appointments electronically. You cannot sell any carrier's products without an active appointment from that carrier.
 
@@ -88,7 +88,7 @@ Felony convictions or charges
 
 Bankruptcy filings
 
-### Non-Resident Applications
+## Non-Resident Applications
 
 Non-resident producers applying for a Colorado license through NIPR or Sircon follow the same electronic process but do not need to submit exam scores (no exam is required for non-residents applying from reciprocal states). Non-resident applicants must:
 
@@ -98,7 +98,7 @@ Pay the $47 per line application fee (plus $5.60 NIPR fee)
 
 Complete Colorado's LTC training requirements before selling LTC products (LTC training does not transfer from most home states)
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How do I know when my Colorado license has been issued and is active?
 

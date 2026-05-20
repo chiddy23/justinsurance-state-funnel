@@ -15,7 +15,7 @@ imageAlt: "How to Get Your Tennessee Insurance License: The Complete Step-by-Ste
 
 Getting a Tennessee insurance license is a four-step process: pass the state exam, complete fingerprinting and a background check, submit your application through NIPR, and receive your license from the Tennessee Department of Commerce and Insurance. What makes Tennessee's process distinctive is what is absent from that list — there is no mandatory [prelicensing](/tennessee/prelicensing) education requirement. As of March 21, 2023, Tennessee eliminated its formal prelicensing hour requirement, making it one of a small number of states where candidates can go directly to the exam without completing a prescribed course. That structural difference makes Tennessee one of the fastest paths to an insurance license in the country for a well-prepared candidate. This guide covers every step in the exact sequence you need to follow, every fee you will pay, every deadline you need to know, and the decisions that determine how long the process takes.
 
-### Before You Begin: Choose Your Line of Authority
+## Before You Begin: Choose Your Line of Authority
 
 Tennessee issues producer licenses by individual line of authority. Before you schedule an exam or take any other step, you need to decide which line or lines you intend to pursue — because each line requires a separate exam and a separate license application with a separate fee.
 
@@ -45,11 +45,11 @@ All four major lines — for producers who want the full commercial and personal
 
 Why the combination decision matters at the start: Tennessee charges $50 per line for the license application. Taking all four lines at initial licensing costs $200 in application fees — but saves the time and cost of adding lines later. Adding a line of authority after initial licensing requires passing an additional exam and paying an additional application fee. Producers who are certain of their career direction should apply for all intended lines at the start rather than in stages.
 
-### Step 1: Prepare for and Schedule the Pearson VUE Exam
+## Step 1: Prepare for and Schedule the Pearson VUE Exam
 
 Tennessee administers all insurance licensing exams through Pearson VUE — not PSI, which is used in many other states. This is a Tennessee-specific distinction that matters when selecting study materials, because exam prep courses built around PSI's platform differ slightly in interface and format from Pearson VUE's platform. Confirm that any prep course or [practice exam](/tennessee/practice-exam) you use is specifically designed for Pearson VUE and for Tennessee.
 
-#### Exam Format by Line
+### Exam Format by Line
 
 Pretest questions: Nine questions on every Tennessee insurance exam are unscored pretest questions — they are being evaluated for future exam use and do not affect your score. You cannot identify which questions are pretest. Answer every question as though it is scored.
 
@@ -59,11 +59,11 @@ Score report: Pearson VUE delivers your score report immediately after you compl
 
 Retakes: Tennessee allows unlimited retakes with no mandatory waiting period between attempts. However, each retake requires paying the full exam fee again — $59 per attempt per line per attempt. The financial cost of repeated attempts is a genuine incentive to prepare thoroughly before your first attempt. First-time [pass rates](/pass-rates) for the Tennessee exam are approximately 55–65%, reflecting the challenge of exam preparation without mandatory structured prelicensing.
 
-#### Taking Multiple Exams in One Sitting
+### Taking Multiple Exams in One Sitting
 
 Tennessee allows candidates to sit for multiple line exams in a single testing session. A candidate pursuing both Property and Casualty licenses can take both exams back to back in one sitting — paying separate exam fees for each line but completing both in a single scheduling and travel event. This is the most efficient approach for candidates who want a full P&C license.
 
-#### Scheduling the Exam
+### Scheduling the Exam
 
 Remote (OnVUE): Available from any location with a compatible computer, webcam, and reliable internet connection. Fee: $49 per line. You must verify your computer's compatibility with Pearson VUE's OnVUE system before scheduling — visit home.pearsonvue.com/tn/insurance to run the compatibility check. If your computer is not compatible, you must take the exam at a Pearson VUE test center.
 
@@ -73,7 +73,7 @@ Scheduling: Visit pearsonvue.com/tn/insurance or call (800) 274-4957. Payment is
 
 Cancellation and rescheduling: Cancel or reschedule at least 48 hours before your appointment to avoid forfeiting the exam fee. Cancellations or changes within 48 hours of the scheduled exam result in forfeiture of the full fee.
 
-#### Exam Content: What Is Tested
+### Exam Content: What Is Tested
 
 Every Tennessee insurance licensing exam has two sections:
 
@@ -83,7 +83,7 @@ State law section: Tests knowledge specific to Tennessee insurance law, regulati
 
 The state law section is frequently the section where candidates who studied general insurance concepts but not Tennessee-specific law encounter difficulty. Studying Tennessee's specific statutory framework — the TDCI's regulatory authority, the unfair trade practices provisions, the auto insurance minimum requirements, and the workers' compensation threshold rules — is as important as studying general insurance concepts.
 
-### Step 2: Complete Fingerprinting and Background Check
+## Step 2: Complete Fingerprinting and Background Check
 
 Tennessee requires all resident producer applicants to submit fingerprints and consent to a criminal background check through both the Tennessee Bureau of Investigation (TBI) and the FBI. This step must be completed after you pass the state exam and before or concurrent with submitting your license application.
 
@@ -111,7 +111,7 @@ The Fingerprint Policy and Acknowledgement Form: In addition to scheduling your 
 
 Criminal history: Any misdemeanors, felonies, or current criminal proceedings may affect the outcome of your licensing application. If any of these apply to you, you are required to file your application directly with the Tennessee Department of Commerce and Insurance rather than through the standard NIPR electronic process. Contact the TDCI Agent Licensing Section at (615) 741-2693 before proceeding if your background includes any criminal history.
 
-### Step 3: Submit Your License Application Through NIPR
+## Step 3: Submit Your License Application Through NIPR
 
 After passing the exam and completing fingerprinting, submit your Tennessee resident producer license application through the National Insurance Producer Registry (NIPR) at nipr.com.
 
@@ -137,7 +137,7 @@ Processing time: Applications are typically processed within 2–5 business days
 
 What your license number looks like: Tennessee licenses are issued with a National Producer Number (NPN) assigned by NIPR that is used for all future licensing transactions including CE reporting and renewal.
 
-### Step 4: Receive Your License and Get Appointed
+## Step 4: Receive Your License and Get Appointed
 
 Once the TDCI approves your application, your Tennessee producer license is active. You can verify your license status at the TDCI's online license lookup tool at tn.gov/commerce/insurance.
 
@@ -147,17 +147,17 @@ Timing of appointment: Tennessee requires that an insurer file a notice of appoi
 
 The employer or agency relationship: Most new producers enter insurance either through a captive agency system (which handles appointments with the carrier automatically at hiring) or through an independent agency (which manages appointments across multiple carriers). Confirm with your employer or agency principal that all required appointments are filed before you begin writing business.
 
-### The Complete Cost Summary
+## The Complete Cost Summary
 
 Optional but strongly recommended: a Pearson VUE exam prep course. Given Tennessee's first-time pass rate of approximately 55–65%, the cost of a prep course — typically $100–$350 depending on provider and tier — is substantially less than the cost of one or more retake exam fees plus the time cost of delayed licensure.
 
-### The Complete Timeline
+## The Complete Timeline
 
 Typical timeline for a well-prepared candidate:
 
 The fastest path for a candidate who has studied thoroughly, passes the exam on the first attempt, and has no background check complications is approximately 10–14 business days from exam day to license issuance. Candidates who retake the exam or whose background check requires additional review can expect 4–6 weeks or longer.
 
-### Tennessee's Unique Characteristics Worth Knowing
+## Tennessee's Unique Characteristics Worth Knowing
 
 No prelicensing requirement — but study anyway: Tennessee eliminated mandatory prelicensing in March 2023. This means you can sit for the exam tomorrow if you choose. It does not mean the exam is easy without preparation — first-time pass rates of 55–65% reflect the real difficulty of the material. The candidates who pass on the first attempt are almost universally those who completed a structured prep course even though it was not required. The financial and time cost of a retake exam fee — plus the delay in getting licensed — makes voluntary exam preparation the economically rational choice.
 
@@ -169,7 +169,7 @@ Full reciprocity with only five states: Tennessee has formal full-reciprocity ag
 
 No state income tax: Tennessee eliminated its Hall income tax on investment income in 2021 and has no personal income tax on wages or salaries. This makes Tennessee an attractive state for high-income professionals and creates a specific market opportunity for life insurance and annuity products designed for tax-advantaged savings — because residents who pay no state income tax on investment income are particularly receptive to tax-deferred and tax-advantaged financial products.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Do I need to complete a prelicensing course before taking the Tennessee insurance exam?
 

@@ -14,7 +14,7 @@ imageAlt: "Colorado Unfair Trade Practices Law: What Producers Are Prohibited fr
 
 CRS § 10-3-1104 is the most tested statutory provision on the Colorado insurance licensing exam and the most consequential compliance obligation in a Colorado producer's daily practice. It defines every unfair method of competition and deceptive practice prohibited in the business of insurance in Colorado. Violations are not technical regulatory infractions — they are the basis for license suspension, license revocation, civil money penalties, and criminal prosecution. Every Colorado producer needs to know what each prohibited act is, precisely how it is defined, what distinguishes it from similar-sounding conduct, and what the enforcement consequences are when a violation is established.
 
-### The Structure of CRS § 10-3-1104
+## The Structure of CRS § 10-3-1104
 
 The statute is organized under Article 3 of Title 10, Part 11 — Unfair Competition and Deceptive Practices. Section 10-3-1104(1) lists every specific unfair method of competition and deceptive practice that the Division of Insurance may act against. The enforcement mechanism is separate — CRS §§ 10-3-1106 through 10-3-1111 govern how the Commissioner identifies violations, conducts hearings, and imposes penalties.
 
@@ -28,9 +28,9 @@ The Commissioner may also issue cease and desist orders, suspend licenses, revok
 
 Each separate act constituting a violation may be treated as a separate violation — a pattern of conduct generates compounding penalties
 
-### The Eight Primary Producer Prohibitions
+## The Eight Primary Producer Prohibitions
 
-#### 1. Misrepresentation (CRS § 10-3-1104(1)(a); CRS § 10-1-128)
+### 1. Misrepresentation (CRS § 10-3-1104(1)(a); CRS § 10-1-128)
 
 The statutory definition: Making, issuing, circulating, or causing to be made any estimate, circular, statement, sales presentation, omission, or comparison that:
 
@@ -52,7 +52,7 @@ The omission dimension: Producers who present accurate positive information abou
 
 What is NOT misrepresentation: Accurate, factually correct comparisons between products — even if the comparison is unflattering to a competitor's product — are not misrepresentation. Sharing accurate information about coverage limitations with a client, even if it causes them to reconsider a purchase, is not misrepresentation. The distinguishing element is accuracy versus inaccuracy. Persuasion through truthful information is permissible; persuasion through false or misleading information is misrepresentation.
 
-#### 2. Coercion (CRS § 10-3-1104(1)(d); CRS § 10-3-1105)
+### 2. Coercion (CRS § 10-3-1104(1)(d); CRS § 10-3-1105)
 
 The statutory definition: Using or threatening to use coercion, intimidation, force, or physical force against any person to influence the purchase or placement of insurance.
 
@@ -62,7 +62,7 @@ CRS § 10-3-1105 — the companion provision: This section specifically prohibit
 
 The distinguishing trigger: Coercion requires a compulsive element — a threat, force, or conditional withholding of something the person wants or needs. This distinguishes it from misrepresentation (false information) and rebating (inducement through value). Coercion operates through fear, compulsion, or economic pressure rather than through persuasion or inducement.
 
-#### 3. Defamation (CRS § 10-3-1104(1)(c); CRS § 10-1-116)
+### 3. Defamation (CRS § 10-3-1104(1)(c); CRS § 10-1-116)
 
 The statutory definition: Making, publishing, issuing, or circulating any oral or written statement that is false and maliciously critical of or derogatory to the financial condition of any insurer, for the purpose of injuring any person engaged in the business of insurance.
 
@@ -72,7 +72,7 @@ What this covers in practice: A producer who tells prospects that a competitor i
 
 What is NOT defamation: Sharing accurate, verifiable information about a competitor's financial condition — even if that information reflects poorly on the competitor — is not defamation. Quoting publicly available AM Best, Moody's, or S&P ratings accurately is not defamation even if those ratings are unfavorable. The prohibition targets deliberate falsehoods with malicious purpose, not honest competitive comparison.
 
-#### 4. Unfair Discrimination (CRS § 10-3-1104(1)(f); CRS § 10-3-1104.9)
+### 4. Unfair Discrimination (CRS § 10-3-1104(1)(f); CRS § 10-3-1104.9)
 
 The statutory definition (§ 10-3-1104(1)(f)): Making or permitting any unfair discrimination between individuals of the same class and of essentially the same hazard — in the rates charged, benefits payable, or terms and conditions of any insurance policy — without actuarial justification.
 
@@ -90,7 +90,7 @@ What is NOT unfair discrimination: Rate differences that reflect genuine, actuar
 
 CRS § 10-3-1104.9 — the algorithmic discrimination expansion (enacted 2022): This companion section explicitly prohibits unfair discrimination based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression — including through the use of algorithms, predictive models, and external consumer data sources. The Commissioner is required to adopt rules establishing how insurers must test their algorithmic models for discriminatory impact. This provision represents Colorado's recognition that modern underwriting and pricing models can produce discriminatory outcomes even without discriminatory intent, and that regulatory scrutiny must extend to the inputs and logic of those models.
 
-#### 5. Controlled Business (CRS § 10-2-401(4))
+### 5. Controlled Business (CRS § 10-2-401(4))
 
 The statutory definition: Obtaining an insurance producer license primarily for the purpose of writing insurance on the producer's own life, person, or property — or that of the producer's immediate family members, business partners, or employees.
 
@@ -100,7 +100,7 @@ Why this prohibition exists: Insurance producer licensing is granted to facilita
 
 Practical line: Producers who write occasional insurance on their own property or family members' coverage as incidental transactions within a broader book of public-facing business are not engaged in controlled business. The prohibition targets the motive behind obtaining or maintaining the license — if the primary purpose is self-insurance rather than public service, the controlled business prohibition applies.
 
-#### 6. Rebating (CRS § 10-3-1104(1)(g))
+### 6. Rebating (CRS § 10-3-1104(1)(g))
 
 The statutory definition: Paying, allowing, giving, offering, or agreeing to give — directly or indirectly — any rebate of premiums payable, any special favor or advantage in the dividends or other benefits of any insurance policy, or any valuable consideration or inducement not specified in the insurance contract, as an inducement to insure.
 
@@ -136,7 +136,7 @@ Accurate price competition — charging a lower premium than a competitor is not
 
 The contingency requirement: The inducement must be connected to the insurance purchase to constitute rebating. A producer who gives a holiday gift to all clients — not tied to any specific transaction — is not rebating. A producer who gives a gift to a client who just purchased a policy, or offers a gift as an incentive to purchase, is rebating. The timing and conditionality of the benefit determine whether it constitutes a prohibited inducement.
 
-#### 7. Unfair Claims Practices (CRS § 10-3-1104(1)(h))
+### 7. Unfair Claims Practices (CRS § 10-3-1104(1)(h))
 
 The statutory definition: Committing any of the following acts, either in willful violation of Title 10 or with such frequency as to indicate a general business practice:
 
@@ -162,7 +162,7 @@ The frequency standard — the most important interpretive element: A single ins
 
 The producer's direct obligation versus the insurer's obligation: CRS § 10-3-1104(1)(h) applies to all persons in the business of insurance — both insurers and producers. Producers who misrepresent policy provisions when a client files a claim, who discourage clients from pursuing legitimate claims, or who participate in a pattern of claim discouragement are themselves in violation, not just the insurer.
 
-#### 8. Colorado Insurance Fraud (CRS §§ 10-1-128; 10-1-129)
+### 8. Colorado Insurance Fraud (CRS §§ 10-1-128; 10-1-129)
 
 The statutory definition (§ 10-1-128): Willfully making a false statement or misrepresentation in any insurance application, policy, certificate, affidavit, proof of loss, or other document presented to an insurer in connection with insurance.
 
@@ -176,7 +176,7 @@ Who is subject to prosecution: The producer who assists in submitting a fraudule
 
 The willfulness requirement: Insurance fraud requires a willful, intentional false statement — not an innocent mistake or good-faith error. A producer who corrects an error on an application immediately upon discovering it has not committed fraud. A producer who knows an application contains false information and submits it anyway has committed fraud.
 
-### Beyond the Eight: Additional Prohibitions Under 10-3-1104
+## Beyond the Eight: Additional Prohibitions Under 10-3-1104
 
 The statute contains additional prohibited acts beyond the eight most commonly tested:
 
@@ -186,7 +186,7 @@ Unfair discrimination in health insurance (§ 10-3-1104(1)(h) additional subsect
 
 Motor vehicle insurance discrimination (§ 10-3-1104(4)): Insurers may not deny, cancel, or surcharge motor vehicle insurance solely because of a marijuana-related conviction under Colorado law. This provision reflects Colorado's legalized cannabis framework — a criminal history related to marijuana use that is now legal under state law cannot be the sole basis for adverse auto insurance action.
 
-### The Enforcement Sequence
+## The Enforcement Sequence
 
 When the Division of Insurance receives information suggesting a producer has engaged in an unfair trade practice, the enforcement sequence under CRS § 10-3-1106 through § 10-3-1111 proceeds as follows:
 
@@ -200,7 +200,7 @@ Appeal: The producer may appeal a final order to the Colorado Court of Appeals. 
 
 Consent orders: Many enforcement matters resolve through a stipulated agreement — a negotiated resolution in which the producer acknowledges the violation, agrees to corrective action, and accepts specified penalties, without the need for a full hearing. Consent orders are publicly posted on the Division's website at doi.colorado.gov.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can a producer be disciplined for a violation they did not know about — for example, if a staff member engaged in rebating without the producer's knowledge?
 

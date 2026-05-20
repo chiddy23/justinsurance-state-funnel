@@ -14,7 +14,7 @@ imageAlt: "CE Exemptions in Virginia: Who Qualifies for the 65/20 Grandfather Ru
 
 Virginia has a CE exemption for long-tenured senior producers — the 65/20 rule — but the exemption is not automatic, is subject to strict continuity requirements, and was significantly changed by legislation effective January 1, 2019. Producers who qualified for the permanent exemption before December 31, 2018 were grandfathered; new exemptions under the old rule are no longer available. The current CE exemption framework has two qualifying paths, both of which require age and continuous licensure, and both of which are voided permanently if the producer allows their license to lapse. This post explains who qualifies, what the exemption provides, and what threatens it.
 
-### The 65/20 Rule: Two Qualifying Paths
+## The 65/20 Rule: Two Qualifying Paths
 
 Virginia currently recognizes two versions of the 65/20 CE exemption:
 
@@ -34,7 +34,7 @@ Criterion B: A resident producer who is at least 65 years old and has held a Vir
 
 Both paths require continuous licensure — no gaps. A single lapse in licensure eliminates the exemption and cannot be recovered.
 
-### What the Exemption Provides
+## What the Exemption Provides
 
 Producers who qualify for the CE exemption under either path are exempt from completing CE hours as a condition of license renewal. They must still:
 
@@ -46,13 +46,13 @@ Pay the CE continuance fee if applicable (confirm current requirements with Pear
 
 The CE exemption eliminates the 16 or 24-hour CE obligation. It does not eliminate the renewal fee or the renewal application requirement.
 
-### The 2019 Change: What It Means for New Exemption Claims
+## The 2019 Change: What It Means for New Exemption Claims
 
 The Virginia General Assembly repealed the availability of new 65/20 permanent exemptions effective January 1, 2019. A producer who turns 65 with 20 years of continuous licensure after December 31, 2018 is still eligible for an ongoing CE exemption under the current rule — but the exemption is evaluated on an ongoing basis at each renewal rather than granted permanently in advance. This is a subtle but meaningful difference from the pre-2019 permanent grant.
 
 Practically: Producers who currently qualify at age 65+ with 20 years of continuous licensure can claim the exemption at renewal. However, any future lapse in licensure permanently voids the exemption, and the producer cannot re-qualify.
 
-### How Licensure Continuity is Measured
+## How Licensure Continuity is Measured
 
 "Continuously" means without any gap in licensure. The 20 years of continuous licensure can be counted across:
 
@@ -64,15 +64,15 @@ Licenses held in other states (for Path 2/Criterion B, up to 16 of the 20 years)
 
 A producer who held a Life & Annuities license in Maryland for 16 years, then relocated to Virginia and has held a Virginia resident Life & Annuities license for 4 consecutive years, meets Criterion B if they are at least 65 years old at the time of the renewal period.
 
-### Specialty Training Requirements: Not Exempt
+## Specialty Training Requirements: Not Exempt
 
 CE exemption does not eliminate specialty training obligations. A producer who qualifies for the 65/20 CE exemption and sells LTC Partnership policies must still complete the initial 8-hour LTC Partnership training and the ongoing 4-hour training every 24 months. The annuity best interest one-time training and the one-time NFIP flood training similarly apply to exempt producers who sell those products. The CE exemption covers only the general biennial CE hour requirement — specialty product training requirements are separate obligations rooted in product authorization, not CE compliance.
 
-### Limited Lines License Holders
+## Limited Lines License Holders
 
 Virginia producers who hold only limited lines licenses (credit life/health, travel accident, travel baggage insurance) are also exempt from CE requirements. Limited lines are narrow product authorizations that do not require CE compliance under Virginia's current framework.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I received a permanent CE exemption before 2019 and my license recently lapsed, can I reinstate and reclaim the exemption?
 

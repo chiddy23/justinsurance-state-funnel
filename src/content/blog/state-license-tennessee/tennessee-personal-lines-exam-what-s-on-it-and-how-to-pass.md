@@ -16,7 +16,7 @@ The Tennessee Personal Lines licensing exam is a focused alternative to holding 
 
 Understanding what the Personal Lines exam covers — and what it does not — is the first strategic decision every candidate must make. Personal Lines authority is narrower than full Property and Casualty. A Personal Lines producer cannot write a business owner's policy, commercial auto, workers' compensation, or any other commercial coverage regardless of how small the client's business is. The moment a client's insurance need crosses into commercial territory, the Personal Lines license cannot serve it. This post covers the complete content of the Tennessee Personal Lines exam, the strategic considerations around choosing Personal Lines versus full P&C, and the preparation approach that produces first-time passing scores.
 
-### The Scope of Personal Lines Authority in Tennessee
+## The Scope of Personal Lines Authority in Tennessee
 
 Before covering exam content, clarifying exactly what Tennessee Personal Lines authority covers — and does not cover — is essential. The exam tests both the coverage concepts and the boundaries of Personal Lines authority.
 
@@ -52,7 +52,7 @@ Any professional liability or specialty commercial lines
 
 The commercial exclusion is absolute. A Personal Lines producer who writes a commercial policy — even a small business's auto coverage — has transacted business outside their line of authority, violating TCA §56-6-112 and creating grounds for license discipline.
 
-### The Two-Section Structure
+## The Two-Section Structure
 
 Like every Tennessee insurance exam, the Personal Lines exam tests two knowledge domains within one 77-question session.
 
@@ -62,15 +62,15 @@ Section 2 — Tennessee State Laws and Regulations: The TDCI regulatory framewor
 
 The state law section on the Personal Lines exam is identical to the state law section on the Property and Casualty exams — same TDCI provisions, same Tennessee auto minimums, same workers' compensation thresholds, same bad faith penalty, same CE requirements. A candidate who holds a Property or Casualty license already has the state law section mastered for Personal Lines as well.
 
-### General Section: Personal Auto Insurance
+## General Section: Personal Auto Insurance
 
 Personal auto is the highest question-density topic on the Tennessee Personal Lines exam. The exam tests the personal auto policy (PAP) in depth — every coverage part, what it covers, what it excludes, how it responds in specific scenarios, and the Tennessee-specific auto insurance provisions that overlay the standard PAP framework.
 
-#### Personal Auto Policy (PAP) Structure
+### Personal Auto Policy (PAP) Structure
 
 The standard personal auto policy is organized into four coverage parts plus general provisions. Each part is independently purchased — a consumer can buy liability only, liability plus physical damage, or any combination.
 
-#### Part A — Liability Coverage
+### Part A — Liability Coverage
 
 What it covers: Bodily injury and property damage that the insured causes to third parties. If the insured rear-ends another vehicle and injures the occupants, Part A pays the other driver's medical expenses, lost wages, pain and suffering, and vehicle repair costs — up to the policy's liability limits.
 
@@ -106,7 +106,7 @@ The permissive use rule and its limits: Permissive use extends coverage to drive
 
 The family member definition: Family member includes a person related to the named insured by blood, marriage, or adoption who resides in the named insured's household — including a ward or foster child. A college student who maintains the named insured's address as their permanent residence typically qualifies as a family member. A child who has established a permanent separate residence does not.
 
-#### Tennessee Auto Minimum Liability Requirements
+### Tennessee Auto Minimum Liability Requirements
 
 Tennessee is an at-fault state. Injured parties pursue the at-fault driver's liability insurance. Tennessee does not have a no-fault (PIP) system — there is no mandatory personal injury protection.
 
@@ -126,7 +126,7 @@ Uninsured motorist coverage: Tennessee requires UM coverage unless the insured r
 
 SR-22: A certificate of financial responsibility filed by the insurer with Tennessee's Department of Safety and Homeland Security confirming that a high-risk driver maintains the required minimum coverage. Required following DUI convictions, driving without insurance, and certain other violations. If the policy lapses, the insurer notifies the Department and the driver's license is suspended. SR-22 is a filing — not a separate policy.
 
-#### Part B — Medical Payments (MedPay)
+### Part B — Medical Payments (MedPay)
 
 What it covers: Reasonable medical expenses for the named insured and family members injured in any auto accident — regardless of fault. Also covers passengers in the covered auto injured in an accident.
 
@@ -152,7 +152,7 @@ Injuries during the commission of a felony
 
 Injuries covered by workers' compensation
 
-#### Part C — Uninsured and Underinsured Motorist Coverage
+### Part C — Uninsured and Underinsured Motorist Coverage
 
 Uninsured motorist (UM): Pays the insured's bodily injury damages when the at-fault driver has no liability insurance. Also covers hit-and-run accidents in most circumstances — Tennessee requires physical contact with the unidentified vehicle for UM coverage to apply to a hit-and-run claim.
 
@@ -164,7 +164,7 @@ UM/UIM limits: Tennessee requires UM unless rejected in writing. Most carriers o
 
 UM property damage: Standard UM coverage is bodily injury only. Uninsured motorist property damage (UMPD) is a separate coverage that pays for vehicle damage caused by an uninsured driver. Without UMPD, the insured must use their own collision coverage (subject to the deductible) for vehicle damage caused by an uninsured driver.
 
-#### Part D — Physical Damage Coverage
+### Part D — Physical Damage Coverage
 
 Collision: Covers damage to the covered auto from collision with another vehicle or object — including rollovers. The insured pays the deductible; the insurer pays the remainder up to ACV.
 
@@ -180,7 +180,7 @@ Transportation expense coverage: A PAP endorsement or provision paying for renta
 
 Gap coverage: When a financed vehicle is declared a total loss, the ACV payout from the auto insurer may be less than the outstanding loan balance — leaving the owner owing money on a vehicle they no longer have. GAP (Guaranteed Asset Protection) coverage pays this difference. GAP is typically offered by lenders and dealerships but may also be available as an auto insurance endorsement.
 
-#### Auto Insurance Endorsements
+### Auto Insurance Endorsements
 
 Named non-owner policy: Provides liability coverage for a driver who regularly operates vehicles they do not own — covering the driver's liability exposure when they drive borrowed or rented vehicles. Does not provide physical damage coverage on any specific vehicle.
 
@@ -190,9 +190,9 @@ Extended non-owned coverage: Expands the definition of covered auto to include r
 
 Rideshare endorsement: Fills the coverage gap for drivers who use their personal vehicle for rideshare platforms (Uber, Lyft). The personal auto policy excludes business use — the rideshare endorsement extends coverage for Period 1 (app on, no passenger matched) when neither the personal policy nor the platform's commercial coverage applies.
 
-### General Section: Homeowners Insurance
+## General Section: Homeowners Insurance
 
-#### The Homeowners Policy Forms — Complete Comparison
+### The Homeowners Policy Forms — Complete Comparison
 
 The homeowners policy forms generate more questions on the Personal Lines exam than any other single topic category. The exam does not just ask what an HO-3 is — it tests which form applies to which situation, what each form covers, and how each form differs from the others.
 
@@ -252,7 +252,7 @@ Named perils only
 
 Prevents the moral hazard situation where a homeowner with a deteriorating older home would financially benefit from a total loss that triggered a full replacement cost payment
 
-#### HO-3 Coverage Sections in Depth
+### HO-3 Coverage Sections in Depth
 
 Coverage A — Dwelling: The home structure including attached structures (attached garage, deck), permanently installed fixtures (built-in appliances, cabinets), and materials on the premises for use in construction or repair. Open perils — all causes of loss are covered except specifically excluded perils.
 
@@ -270,7 +270,7 @@ Coverage E — Personal Liability: Protects the insured against third-party clai
 
 Coverage F — Medical Payments to Others: No-fault medical payments for injuries to third parties occurring on the insured's premises or arising from the insured's personal activities. Standard limit: $1,000. No lawsuit or negligence determination required — Coverage F pays to resolve minor injury claims quickly and prevent them from escalating into Coverage E liability claims.
 
-#### Standard Homeowners Exclusions
+### Standard Homeowners Exclusions
 
 Flood: Water entering from the ground level — flooding, storm surge, surface water runoff, overflow of bodies of water. Separate National Flood Insurance Program (NFIP) policy required for flood coverage. The flood exclusion is one of the most frequently tested homeowners coverage gaps.
 
@@ -286,7 +286,7 @@ Intentional acts: Losses caused by the insured's intentional conduct are exclude
 
 Concurrent causation and the anti-concurrent causation clause: When both a covered peril and an excluded peril contribute to a loss, the anti-concurrent causation clause excludes the loss if an excluded peril set the chain of events in motion — even if a covered peril also contributed. The exam tests this concept through flood-plus-wind scenarios where flood (excluded) undermines a foundation and wind (covered) topples the structure.
 
-#### Dwelling Fire Policies
+### Dwelling Fire Policies
 
 Dwelling fire policies provide property coverage for residential properties that do not qualify for homeowners insurance — investment properties, rental properties, vacant homes, and non-owner-occupied seasonal residences.
 
@@ -316,7 +316,7 @@ The most comprehensive dwelling fire form — the residential investor's preferr
 
 Critical dwelling fire distinction: Liability coverage (Coverage E equivalent) and medical payments (Coverage F equivalent) are NOT automatically included in dwelling fire policies. A landlord who wants premises liability coverage for a rental property must add it as a separate endorsement. Candidates who assume dwelling fire policies include liability coverage like homeowners policies fail questions on this specific distinction.
 
-#### Inland Marine for Personal Lines
+### Inland Marine for Personal Lines
 
 Scheduled personal property endorsement (personal articles floater): Provides agreed-value, open-perils coverage for specifically listed high-value items that exceed the Coverage C special sublimits — jewelry, fine art, musical instruments, cameras, collectibles, silverware.
 
@@ -332,7 +332,7 @@ Worldwide coverage — the item is covered anywhere in the world
 
 Mysterious disappearance covered — unlike Coverage C's theft requirement, if a scheduled ring disappears and the insured cannot establish theft, the personal articles floater still pays
 
-#### Personal Umbrella Liability
+### Personal Umbrella Liability
 
 Personal umbrella insurance provides liability coverage above the underlying auto and homeowners policies — and also covers some exposures those policies exclude.
 
@@ -364,11 +364,11 @@ Workers' compensation obligations
 
 The insured's own property damage (umbrella is liability coverage only)
 
-### Tennessee State Law Section: Personal Lines Focus
+## Tennessee State Law Section: Personal Lines Focus
 
 The state law section of the Personal Lines exam is identical to the state law section on the Property and Casualty exams. Every provision in the shared state law framework appears on all three exams. For Personal Lines candidates, the auto insurance provisions receive particular emphasis because personal auto is the dominant product category.
 
-#### Tennessee-Specific Provisions for Personal Lines Producers
+### Tennessee-Specific Provisions for Personal Lines Producers
 
 The 25% bad faith penalty (TCA §56-7-105): If a property or casualty insurer wrongfully refuses to pay a valid claim, the insured may recover the claim amount plus up to 25% additional damages. Applies to wrongful denial of homeowners claims, wrongful denial of auto claims, and wrongful denial of any other covered loss under a personal lines policy.
 
@@ -396,9 +396,9 @@ CE requirements: 24 hours biennial; 3 hours ethics; no classroom minimum
 
 TDCI enforcement: Civil penalties up to $1,000 per violation (TCA §56-2-305); license discipline grounds (TCA §56-6-112); unfair trade practices (TCA Title 56, Chapter 8)
 
-### Strategy: How to Pass the Tennessee Personal Lines Exam
+## Strategy: How to Pass the Tennessee Personal Lines Exam
 
-#### Is Personal Lines the Right Choice?
+### Is Personal Lines the Right Choice?
 
 Before finalizing your study plan, confirm that Personal Lines — rather than full Property and Casualty — is the right license for your career direction.
 
@@ -406,7 +406,7 @@ Choose Personal Lines if: Your employer sells only personal auto and homeowners,
 
 Choose full Property and Casualty instead if: You have any likelihood of serving clients with commercial needs, your agency offers both personal and commercial products, you plan to eventually expand your practice, or you are uncertain about your long-term focus. The additional cost of two exams and two application fees — approximately $150–$160 more — is a modest investment compared to the cost of adding lines later and the opportunity cost of referral-based commercial needs you cannot serve with Personal Lines authority.
 
-#### Topic Prioritization for Personal Lines
+### Topic Prioritization for Personal Lines
 
 Highest priority — deepest study:
 
@@ -444,19 +444,19 @@ Concurrent causation concept
 
 MedPay coordination with health insurance
 
-#### The State Law Flashcard System
+### The State Law Flashcard System
 
 Create and drill flashcards for every specific number in the Tennessee state law section. Review daily from the beginning of preparation through exam day. The state law section tests recall of specific figures — automatic recall is the goal.
 
 Essential Personal Lines state law flashcards:
 
-#### Practice Exam Discipline
+### Practice Exam Discipline
 
 Take your first full-length [practice exam](/tennessee/practice-exam) after completing initial content coverage — not before. Use the score report to identify your three weakest topic areas. In the final three to five days before your exam, take one timed practice exam per day and review every missed question before stopping.
 
 The readiness threshold: Three consecutive practice exams at 80% or above. At that level, the 70% pass threshold on the actual exam is reachable even accounting for test-day performance variation.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client tells me they run a small business from their home — can I cover their business liability under a homeowners policy as a Personal Lines producer?
 

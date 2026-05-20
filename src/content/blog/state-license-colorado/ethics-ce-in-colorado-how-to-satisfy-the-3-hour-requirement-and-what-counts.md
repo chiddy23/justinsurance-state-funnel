@@ -14,7 +14,7 @@ imageAlt: "Ethics CE in Colorado: How to Satisfy the 3-Hour Requirement and What
 
 Every Colorado insurance producer renewing their license on the second and subsequent renewal cycles must complete 3 hours of ethics CE as part of the 24-hour biennial requirement. Three hours sounds minimal — and it is, relative to the 18-hour major lines obligation — but the ethics requirement generates more renewal confusion than its size suggests. Producers misidentify which courses qualify, miscalculate how excess ethics hours apply, and occasionally discover at renewal that what they completed does not count toward the ethics category specifically. This post covers exactly what the ethics CE requirement is, what qualifies, what does not, and how to structure your CE schedule so that the 3-hour ethics obligation is satisfied cleanly every cycle.
 
-### What the Requirement Is
+## What the Requirement Is
 
 Colorado's biennial CE requirement of 24 hours breaks into three categories:
 
@@ -22,7 +22,7 @@ The 3-hour ethics requirement cannot be satisfied by major lines content, homeow
 
 CRS citation: The ethics CE requirement flows from CRS § 10-2-301, which governs Colorado producer [continuing education](/colorado/continuing-education) requirements, and the implementing Division of Insurance regulations specifying category requirements.
 
-### What Qualifies as Ethics CE in Colorado
+## What Qualifies as Ethics CE in Colorado
 
 A course qualifies for Colorado ethics CE credit when it meets two conditions: it is approved by the Colorado Division of Insurance as a CE provider course, and it is specifically designated in the course approval as satisfying the ethics category. Both conditions must be met — Division approval alone does not make a course count for ethics credit if the approval does not include the ethics category designation.
 
@@ -46,7 +46,7 @@ Practical ethics scenarios — scenario-based analysis of common ethical challen
 
 What ethics courses do not need to cover: A Colorado ethics CE course does not need to exhaustively cover product knowledge, state regulatory procedures, or technical insurance concepts. Courses that are primarily technical — covering policy forms, underwriting procedures, or claims processes — with only a brief ethics section are not approved as ethics CE courses regardless of whether ethical themes appear in the material.
 
-### What Does NOT Count as Ethics CE
+## What Does NOT Count as Ethics CE
 
 This is where renewal errors occur. The following types of content or courses do not satisfy the 3-hour ethics requirement even though producers sometimes assume they do:
 
@@ -66,7 +66,7 @@ Anti-money laundering (AML) training — AML courses cover regulatory compliance
 
 The consistent principle: if a course is approved for major lines credit, specialty training credit, or general miscellaneous credit but not specifically approved as an ethics course, it does not satisfy the ethics requirement regardless of how much ethical content it contains.
 
-### How to Verify a Course Qualifies for Ethics Credit
+## How to Verify a Course Qualifies for Ethics Credit
 
 Before enrolling in any course you intend to use for your ethics requirement, confirm the ethics category designation through one of two methods:
 
@@ -76,7 +76,7 @@ Check the provider's course description. Reputable Colorado CE providers clearly
 
 Check your Sircon transcript after completion. Once a provider reports your course completion to Sircon, your transcript shows the hours credited and the category. If you completed what you believed to be an ethics course and your transcript shows the hours as general or major lines credit rather than ethics credit, contact your provider to resolve the discrepancy before your renewal deadline.
 
-### Where Ethics Hours Fall in Your 24-Hour Breakdown
+## Where Ethics Hours Fall in Your 24-Hour Breakdown
 
 Understanding exactly where ethics hours count — and where they do not — prevents the common error of inadvertently under-satisfying one of the three category requirements.
 
@@ -88,7 +88,7 @@ Excess ethics hours apply to miscellaneous credit only. If you complete 6 hours 
 
 The practical planning implication: Structure your 24 hours as three distinct blocks — 18 major lines, 3 ethics, 3 miscellaneous — and complete at least one dedicated ethics course that accounts for all 3 ethics hours. Do not attempt to satisfy ethics credit through incidental ethical content in major lines courses.
 
-### Ethics CE and the Carryover Rule
+## Ethics CE and the Carryover Rule
 
 Up to 12 CE hours completed in the final 120 days of your current biennial period may carry forward into the next cycle. Ethics hours that carry forward under this rule convert to general/miscellaneous credit in the new period — they do not carry forward as ethics credit.
 
@@ -96,7 +96,7 @@ This means: if you complete 6 hours of ethics CE in the final 120 days of your c
 
 Practical planning: Complete your ethics CE early in your renewal cycle rather than in the final 120 days. There is no strategic benefit to saving ethics CE for late in the cycle — unlike some CE hours where late completion maximizes carryover value, ethics hours that carry forward lose their ethics designation. Complete the 3 ethics hours in the first year of your biennial cycle and focus the remaining 21 hours on major lines and miscellaneous content.
 
-### Formats for Ethics CE
+## Formats for Ethics CE
 
 Colorado ethics CE may be completed in any of the three standard approved formats:
 
@@ -110,7 +110,7 @@ There is no requirement that ethics CE be completed in a classroom or live setti
 
 Final exam requirement for online courses: Colorado requires that self-study CE courses include a final exam. Most providers require a passing score (typically 70%) to receive credit. If you do not pass the final exam on the first attempt, you can review the material and retake the exam — there is no penalty for retakes on CE final exams, and most providers offer unlimited retakes within the enrollment period.
 
-### Integrating Ethics CE Into Your Two-Year CE Plan
+## Integrating Ethics CE Into Your Two-Year CE Plan
 
 A practical 24-hour CE plan for a Colorado producer might look like this:
 
@@ -134,7 +134,7 @@ Submit renewal after transcript confirms all requirements met
 
 This front-loading of ethics CE in year 1 eliminates the risk of forgetting it in year 2, avoids the carryover conversion issue (ethics hours completed late in the cycle lose their ethics designation when they carry forward), and gives you the full second year to complete the larger major lines obligation without time pressure.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Can one course satisfy both the ethics requirement and major lines hours simultaneously?
 

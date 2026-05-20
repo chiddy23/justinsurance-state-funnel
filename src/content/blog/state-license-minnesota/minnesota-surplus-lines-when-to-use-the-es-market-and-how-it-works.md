@@ -14,7 +14,7 @@ imageAlt: "Minnesota Surplus Lines: When to Use the E&S Market and How It Works"
 
 The excess and surplus lines market exists to insure risks that the admitted market will not write — and in Minnesota's current hard property insurance environment, that market is growing in practical importance for producers serving commercial accounts and high-risk residential properties. Understanding when the E&S market is appropriate, how surplus lines placement works procedurally, what the diligent search requirement demands, what disclosures must be made to the insured, and what the tax and filing obligations are separates producers who can serve their full book of business from those who must turn away clients whose risks fall outside admitted market appetite.
 
-### What the Surplus Lines Market Is
+## What the Surplus Lines Market Is
 
 Admitted carriers hold a Minnesota certificate of authority issued by the Department of Commerce. They are subject to full Minnesota regulatory oversight — rate and form filing requirements, financial solvency standards, market conduct examination, and guaranty fund participation. When an admitted carrier becomes insolvent, the Minnesota Insurance Guaranty Association (P&C, Minn. Stat. §60C) or the Minnesota Life and Health Guaranty Association (Minn. Stat. §61B) steps in to pay covered claims up to statutory limits.
 
@@ -22,7 +22,7 @@ Non-admitted carriers — surplus lines insurers — do not hold a Minnesota cer
 
 The trade-off: Non-admitted carriers have greater flexibility — they can write risks that admitted carriers decline, charge market rates without filing approval constraints, and use manuscript policy forms tailored to specific risk exposures. This flexibility comes at the cost of the regulatory protections that admitted market placement provides, which is why the surplus lines framework requires both a diligent search before placing with a non-admitted carrier and mandatory disclosure to the insured about the loss of guaranty fund protection.
 
-### The Statutory Framework
+## The Statutory Framework
 
 Minnesota's surplus lines law is codified primarily in Minn. Stat. §§60A.195 through 60A.209. Key provisions:
 
@@ -38,7 +38,7 @@ Minnesota's surplus lines law is codified primarily in Minn. Stat. §§60A.195 t
 
 Chapter 297I — Insurance Taxes: Establishes the surplus lines premium tax framework administered by the Minnesota Department of Revenue.
 
-### Who Can Place Surplus Lines Coverage in Minnesota
+## Who Can Place Surplus Lines Coverage in Minnesota
 
 The surplus lines broker license: Only a producer who holds a Minnesota surplus lines broker license may legally place coverage with a non-admitted carrier for a Minnesota-home-state insured. The surplus lines broker license is separate from the standard producer license and has a significantly higher application and renewal fee — $500 for both initial application and renewal, compared to $50 per line for a standard producer license.
 
@@ -56,7 +56,7 @@ The retail producer maintains the client relationship while the wholesaler handl
 
 This wholesale market model allows retail producers to access E&S market capacity without individually holding surplus lines licenses, as long as they work through properly licensed wholesale intermediaries.
 
-### The Diligent Search Requirement
+## The Diligent Search Requirement
 
 Before placing any coverage with a non-admitted carrier, the surplus lines broker must conduct a diligent search of the admitted market — making a genuine effort to place the risk with admitted carriers before resorting to the non-admitted market. The diligent search is not a formality — it is a substantive compliance requirement that must be documented.
 
@@ -78,7 +78,7 @@ When diligent search is not required: Minnesota, like many states following the 
 
 Documenting the diligent search: The surplus lines broker must document the diligent search and retain that documentation. If the Department of Commerce investigates a surplus lines placement, the broker must be able to produce evidence that the admitted market was genuinely approached and declined the risk before the non-admitted placement was made.
 
-### Eligible vs. Ineligible Surplus Lines Insurers
+## Eligible vs. Ineligible Surplus Lines Insurers
 
 Not all non-admitted carriers are equally positioned under Minnesota's surplus lines framework. The law distinguishes between eligible and ineligible surplus lines insurers.
 
@@ -98,7 +98,7 @@ For ineligible carriers, the required notice reads: "THIS INSURANCE IS ISSUED PU
 
 Both notices must be printed, typed, or stamped in red ink upon the face of the policy in not less than 10-point type and must not be covered or concealed in any manner.
 
-### The Disclosure Obligation to the Insured
+## The Disclosure Obligation to the Insured
 
 Before placing coverage with an eligible surplus lines insurer, the surplus lines broker must make specific disclosures to the insured. These disclosures serve two purposes: they inform the insured of the material differences between admitted and non-admitted coverage, and they create a documented record that the insured made an informed decision to accept surplus lines placement.
 
@@ -114,9 +114,9 @@ The insured has a right to seek coverage in the admitted market if it becomes av
 
 Why the guaranty fund disclosure is the most critical: The loss of guaranty association protection is the most consequential difference between admitted and non-admitted placement. For the standard admitted market placement, a Minnesota policyholder can rely on the guaranty fund as a backstop if their insurer fails. For a surplus lines placement, there is no backstop. A commercial insured whose surplus lines carrier becomes insolvent may find their claims unpaid and their coverage vanished. The producer who failed to disclose this risk has exposed themselves to professional liability.
 
-### Tax and Filing Obligations
+## Tax and Filing Obligations
 
-#### The Surplus Lines Premium Tax
+### The Surplus Lines Premium Tax
 
 Minnesota imposes a 3% surplus lines premium tax on gross premiums less return premiums for surplus lines policies covering Minnesota home-state risks. This tax is paid to the Minnesota Department of Revenue.
 
@@ -126,7 +126,7 @@ Filing: All surplus lines brokers must report the Non-Admitted Surplus Lines Ins
 
 Gross premiums defined: Gross premiums for nonadmitted insurance includes any payment made as consideration for an insurance contract for such insurance, including premium deposits, assessments, fees, and any other compensation given in consideration for a contract of insurance. Gross premiums does not include the stamping fee.
 
-#### The Stamping Fee
+### The Stamping Fee
 
 The Minnesota Surplus Lines Association (MNSLA) charges a stamping fee of 0.04% of taxable premium, payable to the Association. The stamping fee is separate from the 3% surplus lines premium tax and is not included in the gross premium calculation for tax purposes.
 
@@ -134,7 +134,7 @@ The MNSLA stamping process: Surplus lines brokers must submit transaction data t
 
 Registration with MNSLA: To submit transactions to the MNSLA stamping office, surplus lines brokers must register as members of the association, confirm their surplus lines license number with the Department of Commerce, and create a login to the MNSLA online transaction system. Brokers who have not registered with MNSLA cannot legally complete the required stamping for Minnesota surplus lines placements.
 
-### When to Use the E&S Market: Common Risk Categories
+## When to Use the E&S Market: Common Risk Categories
 
 Understanding when a risk should be routed to the surplus lines market requires knowing which types of risks routinely fall outside admitted market appetite in Minnesota.
 
@@ -154,7 +154,7 @@ Professional and management liability: Unusual professional liability risks, dir
 
 Excess coverage: When an insured's risk requires limits above what admitted carriers will provide, the E&S market provides excess layers above the admitted primary policy.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A commercial client's admitted carrier is non-renewing their property coverage due to hail claims history. The client cannot find admitted replacement coverage. What do I need to do before placing them in the surplus lines market?
 

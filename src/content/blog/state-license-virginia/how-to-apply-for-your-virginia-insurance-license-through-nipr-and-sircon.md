@@ -14,7 +14,7 @@ imageAlt: How to Apply for Your Virginia Insurance License Through NIPR and Sirc
 
 Passing the Prometric exam is the hard part of getting your Virginia insurance license. Submitting the application is the administrative part — but it has enough specific requirements, attachment obligations, and window constraints that candidates who handle it carelessly create delays or forfeit their passing scores. Virginia does not offer grace periods or exceptions for missed application windows. The 183-day score validity and the 90-day fingerprint window run simultaneously and independently, and both must be satisfied before you submit. This post walks through the application process exactly as Virginia requires it.
 
-### Where to Apply: NIPR vs. Sircon
+## Where to Apply: NIPR vs. Sircon
 
 Virginia accepts online license applications through two platforms:
 
@@ -26,23 +26,23 @@ Important: NIPR does not pre-verify your exam results before accepting submissio
 
 Renewal note: Both NIPR and Sircon are used for license renewals as well. The $10 renewal fee applies per line of authority at renewal.
 
-### The Application Fee
+## The Application Fee
 
 Virginia charges a $15 non-refundable processing fee per line of authority (also called "per qualification"). This fee does not vary by line — Life, Health, Property, Casualty, and Personal Lines each cost $15.
 
 If you are applying for both Property and Casualty as separate lines, you pay $30. If you passed the combined Series 11-01 exam and are applying for Life, Annuities, and Health as a package, you pay $15 per qualification requested — check the specific NIPR or Sircon application flow to confirm exactly how the charges apply for combined exam results.
 
-### What You Must Attach to Your Application
+## What You Must Attach to Your Application
 
 Virginia's Bureau of Insurance requires specific documentation attached to the online application:
 
-#### Criminal History Record Report (CHRR)
+### Criminal History Record Report (CHRR)
 
 A current CHRR from the Virginia State Police, no more than 90 days old at the time of submission. You obtain this through the Virginia State Police website. The CHRR is submitted electronically as an attachment to your NIPR or Sircon application.
 
 If you have been a Virginia resident for less than six months, submit a CHRR from your previous home state.
 
-#### Disclosure Documents for Criminal History
+### Disclosure Documents for Criminal History
 
 If your CHRR shows any conviction — misdemeanor or felony — you must additionally attach:
 
@@ -54,11 +54,11 @@ Court documents obtained directly from the Clerk of the Court with jurisdiction 
 
 The Bureau reviews these documents individually. Incomplete disclosure is treated as misrepresentation and is grounds for license denial independent of the underlying conviction.
 
-#### Fingerprint Verification
+### Fingerprint Verification
 
 You do not need to upload fingerprint results separately — Fieldprint transmits results directly to the Bureau of Insurance electronically. However, your fingerprints must be on file with the Bureau before the application can be fully processed. Complete your Fieldprint appointment before or around the same time as your exam to avoid delays.
 
-### The Two Windows You Must Track Simultaneously
+## The Two Windows You Must Track Simultaneously
 
 Virginia's application requirements create two independent deadlines that must both be satisfied:
 
@@ -70,7 +70,7 @@ Additionally: you must submit your license application within 90 days of complet
 
 The simplest approach: schedule your Fieldprint appointment within a week of your Prometric exam. Pass your exam. Submit your application within the next few days. This keeps both windows wide open and eliminates timing risk.
 
-### Processing Time and What to Expect
+## Processing Time and What to Expect
 
 Applications are processed by the Virginia Bureau of Insurance in date order. The typical processing time is approximately 15 business days from the date of submission. During processing, the Bureau reviews your exam results (transmitted electronically by Prometric), your CHRR, and any disclosure documents.
 
@@ -78,7 +78,7 @@ You can check application status through the NIPR website after submission.
 
 Once approved, you will receive an email notification and can print your license from NIPR or Sircon. Virginia does not mail paper licenses.
 
-### After Approval: Getting Appointed
+## After Approval: Getting Appointed
 
 Having a Virginia insurance license does not mean you can immediately transact business. Before you can sell insurance for any specific carrier, that insurer must file an appointment with the Bureau of Insurance through NIPR. Appointments are filed and managed by the insurer, not by you.
 
@@ -86,7 +86,7 @@ The appointment authorizes you to act as that insurer's agent for the lines you 
 
 You can hold a license without any active appointments — the license represents your authority to sell insurance in Virginia; the appointment represents authorization from a specific insurer. Both are required before any insurance transaction can legally occur.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Should I use NIPR or Sircon to apply for my Virginia insurance license?
 

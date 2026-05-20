@@ -14,11 +14,11 @@ imageAlt: "Tennessee Life Insurance Law: Replacement, Suitability, and Producer 
 
 Tennessee's life insurance regulatory framework imposes specific conduct obligations on producers that extend well beyond simply holding a Life line of authority and placing policies. Three areas of law generate the most compliance activity, the most exam questions, and the most regulatory enforcement: the replacement regulation that governs every transaction in which a new life insurance policy takes the place of an existing one, the suitability and best interest standards that govern annuity recommendations, and the broader producer conduct obligations established in TCA Title 56 and the TDCI's administrative rules. This post covers all three — what each requires, what violations look like, and what producers must do at each stage of a life insurance transaction to maintain compliance.
 
-### The Foundational Policy Obligations: What Tennessee Law Requires of Every Life Policy
+## The Foundational Policy Obligations: What Tennessee Law Requires of Every Life Policy
 
 Before examining replacement and suitability, understanding the mandatory policy provisions that Tennessee law requires in every individual life insurance contract establishes the baseline against which producer conduct is evaluated.
 
-#### The Free Look Period
+### The Free Look Period
 
 Tennessee law requires that every life insurance policy delivered in the state include a free look period — a window during which the policyholder may return the policy for a full premium refund without penalty.
 
@@ -28,7 +28,7 @@ Replacement free look period: When a life insurance policy is issued in connecti
 
 The 30-day replacement free look is specifically testable on the Tennessee Life exam. The standard free look is 10 days; the replacement free look is 30 days. The doubling of the review period for replacement transactions reflects Tennessee's heightened consumer protection concern in replacement transactions where a producer's financial incentive to generate a new commission may conflict with the policyholder's interest in maintaining an existing policy with accumulated value.
 
-#### Incontestability
+### Incontestability
 
 Tennessee life insurance policies must include an incontestability clause. After a policy has been in force for two years — the contestability period — the insurer cannot void the policy or deny a claim based on misrepresentation in the application, except for fraud.
 
@@ -36,21 +36,21 @@ The two-year standard: Before two years, the insurer may investigate and potenti
 
 Reinstatement restarts the contestability period: If a lapsed policy is reinstated, the two-year incontestability period restarts from the reinstatement date — not from the original policy issuance date. This is specifically testable content: a policy that was contested after reinstatement may validly be contested based on misrepresentation in the reinstatement application even if more than two years elapsed since original issuance.
 
-#### Misstatement of Age or Sex
+### Misstatement of Age or Sex
 
 If the insured's age or sex was misstated on the application, the insurer adjusts the death benefit to the amount the paid premium would have purchased at the correct age and sex — rather than voiding the policy. This adjustment protects the policyholder from losing coverage entirely due to an innocent misstatement about age.
 
-#### Grace Period
+### Grace Period
 
 Tennessee life insurance policies must include a 30-day grace period for premium payment. If a premium is not paid when due, the policy remains in force for 30 days. If the insured dies during the grace period, the death benefit is paid minus the unpaid premium. This grace period prevents unintentional lapse from a single missed payment.
 
 The health insurance grace period distinction: The standard grace period for annual-premium health insurance policies is 31 days — one day longer than the life insurance standard. This one-day difference is specifically testable on the Tennessee exam.
 
-#### Interest on Death Claims — TCA §56-7-315
+### Interest on Death Claims — TCA §56-7-315
 
 Tennessee's interest on death claims provision is more protective than many states. Under TCA §56-7-315, if a life insurer does not pay a death claim, interest begins accruing 15 days after the date of death — not 15 days after proof of loss is submitted. Interest compounds annually for up to three years. This provision creates a financial incentive for timely claim payment regardless of when the beneficiary submits the claim.
 
-#### Tennessee Life and Health Insurance Guaranty Association (TNLIGA)
+### Tennessee Life and Health Insurance Guaranty Association (TNLIGA)
 
 All licensed life insurers doing business in Tennessee must be members of the Tennessee Life and Health Insurance Guaranty Association. When a member insurer becomes insolvent and is placed in liquidation, TNLIGA pays claims up to statutory limits:
 
@@ -60,7 +60,7 @@ Cash surrender values: $100,000 maximum
 
 TNLIGA is not insurance on insurance. Producers must not use TNLIGA membership as a sales tool — implying that a policy is "safe" because of TNLIGA protection misrepresents the nature and limits of the guaranty association. TNLIGA provides a safety net within defined limits; it does not guarantee unlimited policyholder protection.
 
-#### Illustration Requirements — Rule 0780-01-33
+### Illustration Requirements — Rule 0780-01-33
 
 Tennessee's administrative Rule 0780-01-33 governs life insurance policy illustrations — the presentations of projected policy values, premiums, and benefits used in sales presentations. Key requirements:
 
@@ -68,9 +68,9 @@ Dividend illustrations: For participating policies that illustrate dividends, th
 
 Non-guaranteed elements: Any illustration that includes non-guaranteed elements — projected interest crediting rates, projected dividends, projected cash value accumulation above the guaranteed basis — must clearly distinguish guaranteed from non-guaranteed values. Using an illustration that blurs this distinction to make a policy appear more favorable than it actually is constitutes misrepresentation.
 
-### The Replacement Regulation: Tennessee Rule 0780-01-24
+## The Replacement Regulation: Tennessee Rule 0780-01-24
 
-#### Defining a Replacement Transaction
+### Defining a Replacement Transaction
 
 Under TDCI Rule 0780-01-24, a replacement transaction is any transaction in which new life insurance is purchased and it is known or should be known to the proposing agent that by reason of the transaction, existing life insurance has been or is to be:
 
@@ -88,7 +88,7 @@ The "known or should be known" standard: The replacement regulation applies whet
 
 The financed purchase: A financed purchase — where the new policy is funded by withdrawing values from, borrowing against, or surrendering an existing policy — is a replacement transaction subject to Rule 0780-01-24's full requirements regardless of whether the existing policy is formally terminated.
 
-#### Replacement Exemptions Under Rule 0780-01-24
+### Replacement Exemptions Under Rule 0780-01-24
 
 The replacement regulation does not apply to all transactions involving a new policy issued alongside an existing policy. Exemptions include:
 
@@ -98,7 +98,7 @@ Proposed life insurance that replaces life insurance under a binding or conditio
 
 Transactions where the replacing insurer and the existing insurer are the same company, or are subsidiaries or affiliates under common ownership or control — though agents in same-company replacements must still comply with certain requirements
 
-#### Producer Obligations in a Replacement Transaction
+### Producer Obligations in a Replacement Transaction
 
 When a replacement transaction is identified, Tennessee's replacement regulation imposes specific and sequential obligations on the producer.
 
@@ -116,7 +116,7 @@ Obligation 5 — Comparison documentation: The producer must provide the applica
 
 Obligation 6 — The 30-day replacement free look: As noted above, replacement policies must include a 30-day free look period during which the applicant can return the new policy for a full refund. This provision is mandatory for all replacement transactions subject to the regulation.
 
-#### Twisting: The Replacement Fraud Prohibited
+### Twisting: The Replacement Fraud Prohibited
 
 Twisting is misrepresentation in the context of a replacement transaction — using substantially inaccurate presentations or comparisons of a contract's premiums, benefits, dividends, or values to induce a policyholder to replace an existing policy.
 
@@ -134,7 +134,7 @@ Misrepresenting the financial condition of the existing insurer to suggest the e
 
 The prima facie evidence standard: Patterns of action by policyowners who purchase replacing policies from the same agent after indicating on applications that no replacement is involved constitute prima facie evidence of agent twisting under Rule 0780-01-24. The TDCI does not need direct evidence of misrepresentation — a pattern of replacements with the same agent accompanied by "no replacement" answers on applications creates a presumption of twisting activity.
 
-#### Churning
+### Churning
 
 Churning is a pattern of replacement activity where a producer repeatedly replaces a client's life insurance policies — often using the existing policy's cash value to fund each new policy — primarily to generate first-year commissions rather than because each replacement genuinely serves the client's interests. Unlike twisting, churning may not involve outright misrepresentation — the comparison provided may be accurate — but the pattern of conduct reveals that the replacements serve the producer's financial interest rather than the client's.
 
@@ -142,15 +142,15 @@ Churning violates the producer's fiduciary obligation to clients, violates the b
 
 The replacement register requirement: Replacing insurers must maintain a replacement register tracking all replacement transactions submitted by each appointed producer. This register creates a documented record that regulators and the insurer's compliance function use to identify potential twisting or churning patterns.
 
-### Annuity Suitability: The Best Interest Standard — Rule 0780-01-86
+## Annuity Suitability: The Best Interest Standard — Rule 0780-01-86
 
-#### The Regulatory Foundation
+### The Regulatory Foundation
 
 Tennessee's annuity suitability framework is codified in TDCI Rule 0780-01-86, effective January 1, 2024. This rule implements the NAIC Suitability in Annuity Transactions Model Regulation — requiring producers who recommend annuities to act in the consumer's best interest.
 
 The best interest standard is higher than mere suitability. Prior to the rule's update, the standard was suitability — a recommendation was acceptable if it was suitable for the consumer's situation. The current best interest standard requires the producer to prioritize the consumer's financial interests when making recommendations — not simply to avoid recommending unsuitable products.
 
-#### The Four Obligations
+### The Four Obligations
 
 Care obligation: The producer must exercise reasonable diligence, care, and skill to understand the consumer's financial situation, needs, objectives, risk tolerance, time horizon, and other relevant characteristics and recommend an annuity that effectively serves the consumer's best interest based on that understanding.
 
@@ -160,7 +160,7 @@ Conflict of interest obligation: The producer must identify and manage conflicts
 
 Documentation obligation: Every annuity recommendation must be documented — the consumer profile information gathered, the alternatives considered, the basis for concluding the recommended annuity serves the consumer's best interest, and any conflicts of interest identified and managed.
 
-#### Consumer Profile Information
+### Consumer Profile Information
 
 Before recommending any annuity, the producer must gather:
 
@@ -182,7 +182,7 @@ Intended use of the annuity — income generation, asset accumulation, tax defer
 
 If the consumer declines to provide information: The producer may not make a recommendation. The producer may only proceed with an unsolicited sale — and the refusal must be documented. A producer who proceeds with a recommendation without gathering the required consumer profile information has not fulfilled the care obligation regardless of how reasonable the recommendation might appear.
 
-#### The One-Time Training Requirement
+### The One-Time Training Requirement
 
 Before selling any annuity product in Tennessee, every producer must complete a one-time 4-hour annuity suitability training course approved by the TDCI. This training is a prerequisite — a producer who holds a Life line of authority but has not completed the training cannot legally solicit the sale of an annuity product in Tennessee.
 
@@ -190,9 +190,9 @@ Producers who held a Life line of authority before January 1, 2024 and wanted to
 
 Insurers are required to verify that producers have completed the annuity training before authorizing them to sell annuity products.
 
-### Producer Conduct Obligations: The Complete Framework
+## Producer Conduct Obligations: The Complete Framework
 
-#### The Application Process
+### The Application Process
 
 Accuracy of information: The producer's primary obligation in completing a life insurance application is accuracy — ensuring that all information submitted accurately reflects the applicant's representations. A producer who records information differently than the applicant provided — to improve the risk profile and obtain more favorable underwriting — has committed misrepresentation.
 
@@ -200,7 +200,7 @@ The agent's report: Most life insurance applications include an agent's report �
 
 Material misrepresentation: A material misrepresentation on a life insurance application — one that would have affected the insurer's decision to issue the policy or the terms on which it was issued — is grounds for the insurer to void the policy during the two-year contestability period. A producer who assists an applicant in misrepresenting material information has violated §56-53-102 (insurance fraud) and §56-6-112 (grounds for license discipline).
 
-#### Policy Delivery
+### Policy Delivery
 
 The producer's obligation does not end when the application is submitted. Policy delivery — presenting the issued policy to the client — is a formal compliance step with its own obligations.
 
@@ -210,11 +210,11 @@ Delivery receipt: Some insurers require a signed delivery receipt from the polic
 
 Material changes: If the issued policy differs materially from the applied-for coverage — a different benefit amount, a substandard rating, an exclusion rider — the producer must explain the difference clearly. A policyholder who accepts a materially different policy without understanding the difference has not given informed consent to the coverage actually issued.
 
-#### The Disclosure of Adverse Administrative Actions
+### The Disclosure of Adverse Administrative Actions
 
 Under Tennessee's licensing framework, a producer must report any administrative action taken against them in any other state or federal jurisdiction within 30 days of the final disposition of that action. The same 30-day reporting requirement applies to any criminal conviction. Failure to report adverse actions is itself a ground for license discipline under §56-6-112.
 
-### Life Settlements: Producer Obligations Under Rule 0780-01-71
+## Life Settlements: Producer Obligations Under Rule 0780-01-71
 
 A life settlement is the sale of an existing life insurance policy by the policyowner to a third-party investor for more than the cash surrender value but less than the death benefit. Tennessee's life settlement framework is codified in Rule 0780-01-71.
 
@@ -224,7 +224,7 @@ Licensing: Life settlement brokers who facilitate the sale of life insurance pol
 
 The anti-churning intersection with life settlements: A producer who advises a client to surrender a policy — depriving the client of potential life settlement value — in order to use the cash value to fund a new policy on which the producer earns a first-year commission has potentially engaged in churning and may have violated the producer's duty to advise about the life settlement option.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client asks me to replace their 15-year-old universal life policy with a new indexed universal life policy from a different carrier. The existing policy has substantial cash value. What are my specific obligations under Tennessee's replacement regulation before I submit the application?
 

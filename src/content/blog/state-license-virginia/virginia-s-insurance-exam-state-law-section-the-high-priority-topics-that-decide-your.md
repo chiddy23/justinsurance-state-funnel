@@ -14,13 +14,13 @@ imageAlt: "Virginia's Insurance Exam State Law Section: The High-Priority Topics
 
 The Virginia state law section is where prepared candidates become licensed and underprepared candidates schedule retakes. It is the section most often underestimated, most often under-studied, and most often responsible for failing an otherwise adequate exam performance. The P&C exam has 35 scored state law questions; the L/A/H exam has 40. In both cases, you must hit 70% on this section independently — 25 correct out of 35 for P&C, 28 correct out of 40 for L/A/H. This post identifies the high-priority topics within the state law section by exam line and gives you the framework for mastering each of them before exam day.
 
-### Why the State Law Section Is Different
+## Why the State Law Section Is Different
 
 The national section of the Virginia exam tests insurance products, principles, and federal rules that are the same everywhere. Study materials for the national section are widely available, generally accurate, and interchangeable across states. The state law section tests the specific statutes of the Code of Virginia, the administrative rules of the SCC Bureau of Insurance, and Virginia-specific coverage rules that differ from other states. Candidates who study national content heavily and treat state law as an afterthought regularly discover on exam day that they scored 80% on the national section and 62% on state law — and failed.
 
 The state law section rewards candidates who read the source material. Virginia's insurance statutes are available at law.lis.virginia.gov under Title 38.2. They are readable, organized, and authoritative. Questions are drawn from the statute — not from a textbook's interpretation of the statute. Reading the relevant chapters directly is the single highest-leverage state law preparation action available.
 
-### The SCC Bureau of Insurance: Virginia's Unique Regulatory Structure
+## The SCC Bureau of Insurance: Virginia's Unique Regulatory Structure
 
 Why it matters: Every state law question that references "the regulator" or "the department" in Virginia answers differently than in most states. Virginia's insurance regulator is the Bureau of Insurance within the State Corporation Commission (SCC) — not a standalone Department of Insurance with a Commissioner who is a cabinet-level officer. This distinction appears in multiple questions.
 
@@ -36,7 +36,7 @@ The SCC has jurisdiction over producer licensing, market conduct, company solven
 
 The phrase "the Commission" in Virginia insurance law refers to the SCC, not a commissioner
 
-### Virginia Auto Insurance Law: The Highest-Testing Topic in P&C State Law
+## Virginia Auto Insurance Law: The Highest-Testing Topic in P&C State Law
 
 Three years of rapid legislative change have made Virginia auto insurance law one of the most heavily tested and frequently updated state law topics. Know every change:
 
@@ -52,7 +52,7 @@ $100,000 bodily injury per accident
 
 $25,000 property damage UM/UIM must equal these minimums. FR-44 (DUI conviction) requires double: 100/200/50.
 
-### Virginia Workers' Compensation: The Key Facts for P&C State Law
+## Virginia Workers' Compensation: The Key Facts for P&C State Law
 
 Virginia's workers' comp market has distinct features tested on the P&C exam:
 
@@ -66,11 +66,11 @@ Administered by: The Virginia Workers' Compensation Commission (separate from th
 
 Exclusive remedy: Workers' comp is the exclusive remedy against the employer (injured workers cannot sue the employer in civil court for job injuries in most circumstances)
 
-### Producer Licensing Rules in Virginia: Both Sections Test This
+## Producer Licensing Rules in Virginia: Both Sections Test This
 
 Both the P&C and L/A/H state law sections test Virginia's producer licensing framework:
 
-### Unfair Trade Practices: What Virginia Law Prohibits
+## Unfair Trade Practices: What Virginia Law Prohibits
 
 Virginia's unfair trade practices statute (Title 38.2, Chapter 13) is tested in both the P&C and L/A/H state law sections. The key prohibited acts:
 
@@ -82,7 +82,7 @@ Twisting: Inducing a policyholder to lapse, forfeit, change, or surrender existi
 
 Unfair claim settlement practices: Failing to acknowledge claims promptly, failing to investigate claims within a reasonable time, offering unjustly low settlements, delaying payment without reasonable basis. These are tested in both lines.
 
-### Virginia-Specific Life and Health Law (L/A/H Exam)
+## Virginia-Specific Life and Health Law (L/A/H Exam)
 
 For the L/A/H state law section, additional priority topics include:
 
@@ -94,7 +94,7 @@ LTC Partnership program: Producers must complete the 8-hour initial training (6 
 
 Annuity Best Interest: One-time 4-hour training required before selling any annuity products in Virginia. This is Virginia's adoption of the NAIC 2020 Annuity Model Law best-interest framework. Producers who completed annuity suitability training in a state that has adopted the NAIC 2020 model satisfy the Virginia requirement.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How many state law questions must I answer correctly to pass the Virginia P&C exam state law section?
 

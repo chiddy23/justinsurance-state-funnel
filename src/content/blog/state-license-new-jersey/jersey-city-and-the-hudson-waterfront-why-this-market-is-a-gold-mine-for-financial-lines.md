@@ -14,7 +14,7 @@ imageAlt: "Jersey City and the Hudson Waterfront: Why This Market Is a Gold Mine
 
 Jersey City is the second-largest city in New Jersey, but by the metric that matters most for insurance producers — concentration of high-income, high-net-worth clients and sophisticated commercial accounts — it is arguably the most valuable market in the state. The Hudson County waterfront has undergone a transformation over the past three decades from an industrial corridor to one of the densest concentrations of financial services employment outside of Manhattan. Goldman Sachs, JPMorgan Chase, Morgan Stanley, Citigroup, and dozens of hedge funds and asset managers have established major operations in Jersey City's Newport and Exchange Place districts. Their employees live in the high-rises that line the Hudson River between Jersey City and Hoboken, pay among the highest rents in the country, and represent a client profile that rewards producers who can serve them well.
 
-### The Financial Services Concentration: What It Means for Producers
+## The Financial Services Concentration: What It Means for Producers
 
 New Jersey's finance sector employed 233,500 workers statewide in 2023, paying an average annual wage of more than $157,000 — the second-highest average wage of any sector in the state behind life sciences. A disproportionate share of that employment and income is concentrated in Hudson County and specifically in the Jersey City/Hoboken corridor, where the Manhattan overflow of financial services firms has colonized the west bank of the Hudson River.
 
@@ -28,7 +28,7 @@ Executive benefits. Senior financial services professionals — portfolio manage
 
 Cyber liability. Financial services firms, regardless of size, carry cyber liability exposure that has become a standard commercial insurance requirement. From the large bank trading floors to the boutique hedge fund in Newport Centre, every financial services operation with client data has cyber exposure.
 
-### Hoboken: The Adjacent Premium Personal Market
+## Hoboken: The Adjacent Premium Personal Market
 
 Immediately north of Jersey City along the Hudson is Hoboken, a one-square-mile city with among the highest per-capita incomes in New Jersey. Hoboken's population is heavily weighted toward young professionals working in finance, technology, and professional services in New York City — many of whom commute via PATH train directly to Midtown or the World Trade Center.
 
@@ -46,17 +46,17 @@ High net worth accumulation as careers mature, requiring increasingly complex in
 
 Hoboken also has a significant commercial market: the restaurant, hospitality, and retail corridor on Washington Street; boutique professional services firms; and the growing presence of tech and media companies attracted by cheaper rents relative to Manhattan with comparable talent access.
 
-### The Goldman Sachs Effect: What Major Financial Employers Mean
+## The Goldman Sachs Effect: What Major Financial Employers Mean
 
 Goldman Sachs operates a major facility in Jersey City — one of the largest Goldman operations outside of New York — employing thousands of financial professionals across trading, technology, and operations. JPMorgan, Citigroup, and other major banks have similar presences. These institutions represent both commercial accounts (in the sense of group benefits, professional liability for registered investment advisers, etc.) and concentrations of individually high-value personal insurance clients.
 
 The pattern in this market is well established: a producer who develops one relationship inside a Goldman or JPMorgan operation and delivers exceptional service tends to generate referrals within the same firm. Financial services professionals talk among themselves about service providers — accountants, attorneys, financial planners, and insurance producers who serve them well circulate through professional networks. A single satisfied vice president in a trading operation can generate multiple peer referrals.
 
-### The Organon Opportunity: Jersey City's Pharmaceutical Presence
+## The Organon Opportunity: Jersey City's Pharmaceutical Presence
 
 Organon & Co., the women's health pharmaceutical company that spun off from Merck in 2021, is headquartered in Jersey City. With approximately 10,000 employees worldwide, the Jersey City headquarters represents a pharmaceutical employer embedded in the financial services corridor — combining the income profile of a pharma workforce with the geographic advantages of the Hudson County market. The combination of pharma and finance employment in a single city is distinctive to Jersey City and creates a multi-sector client base within a compact geography.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Why is Jersey City particularly valuable for Life and financial lines insurance producers?
 

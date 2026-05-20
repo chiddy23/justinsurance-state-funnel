@@ -14,7 +14,7 @@ imageAlt: "Minnesota Unfair Trade Practices Law: What Producers Are Prohibited f
 
 Minn. Stat. §72A.20 is the most directly enforceable conduct standard in Minnesota insurance law for licensed producers. It defines every unfair method of competition and deceptive practice that the Commissioner of Commerce may act against — and it applies to every transaction, every client interaction, and every competitive behavior a Minnesota producer engages in. Violations are not minor regulatory infractions. They are the basis for license suspension, license revocation, civil money penalties, and in fraud cases, criminal prosecution. This post covers every prohibited act under §72A.20 in the depth that working producers and exam candidates need: what each prohibition covers precisely, what it does not cover, how it applies to real-world producer conduct, and what the enforcement framework looks like when violations are identified.
 
-### The Statutory Framework
+## The Statutory Framework
 
 Minn. Stat. §72A.20 is located in Chapter 72A of the Minnesota Statutes — the Trade Practices and Frauds chapter that governs the business conduct of all persons engaged in insurance in Minnesota. The statute establishes a list of specific unfair methods of competition and deceptive practices that are prohibited in the business of insurance. The Commissioner of Commerce has authority to investigate any person engaged in the business of insurance in Minnesota for violations of §72A.20, to conduct hearings, and to impose administrative penalties including license action.
 
@@ -22,7 +22,7 @@ Who is subject to §72A.20: The statute applies to any person engaged in the bus
 
 The enforcement mechanism: When the Commissioner determines that a violation has occurred or is occurring, the Department may issue a cease and desist order requiring the person to stop the prohibited conduct immediately, impose civil money penalties, suspend or revoke the producer's license, and refer criminal violations to the appropriate prosecutorial authority. Enforcement actions are posted publicly on the Department's website at mn.gov/commerce — creating a permanent public record that follows the producer.
 
-### Prohibited Act 1: Misrepresentation and False Advertising
+## Prohibited Act 1: Misrepresentation and False Advertising
 
 The prohibition: Making, issuing, circulating, or causing to be made any written or oral statement that:
 
@@ -44,7 +44,7 @@ Twisting as a specific form of misrepresentation: When misrepresentation is used
 
 What is NOT misrepresentation: Accurate, factually supported comparisons between insurance products — even comparisons that are unflattering to a competitor's product — are not misrepresentation. A producer who presents documented, accurate information about the differences between two competing products, including accurate information about limitations or exclusions in a competitor's policy, is engaging in permissible competitive communication.
 
-### Prohibited Act 2: False Advertising
+## Prohibited Act 2: False Advertising
 
 The prohibition: Making, publishing, disseminating, or circulating any advertisement, announcement, or statement that contains any assertion, representation, or statement that is untrue, deceptive, or misleading regarding insurance products, an insurer's financial condition, or any person in the insurance business.
 
@@ -52,7 +52,7 @@ The relationship to misrepresentation: False advertising and misrepresentation a
 
 Digital and social media communications: False advertising under §72A.20 applies to all communication channels — including websites, social media posts, email marketing, and online reviews. A producer who posts inaccurate comparative claims about competitors on social media has engaged in false advertising regardless of the informal nature of the medium.
 
-### Prohibited Act 3: Defamation
+## Prohibited Act 3: Defamation
 
 The prohibition: Making, publishing, or circulating any oral or written statement that is false and maliciously critical of or derogatory to the financial condition of any person engaged in the business of insurance, for the purpose of injuring that person in the business of insurance.
 
@@ -60,7 +60,7 @@ The two required elements: Two conditions must both be present for the defamatio
 
 What is NOT defamation: Sharing accurate, documented information about a competitor's financial condition or regulatory history — even if that information reflects unfavorably on the competitor — is permissible. Quoting accurate AM Best, Moody's, or S&P ratings; accurately describing a competitor's publicly disclosed regulatory actions; or accurately summarizing documented financial difficulties are all permissible competitive communications when the information is accurate and not maliciously distorted.
 
-### Prohibited Act 4: Boycott, Coercion, and Intimidation
+## Prohibited Act 4: Boycott, Coercion, and Intimidation
 
 The prohibition: Engaging in any act that restrains fair trade or commerce in the business of insurance, entering into any agreement that boycotts, coerces, or intimidates any person in connection with an insurance transaction, or using or threatening to use force, coercion, or intimidation to compel any person to transact insurance with a specific insurer or producer.
 
@@ -68,7 +68,7 @@ What this covers in practice: A mortgage lender who tells a borrower that a loan
 
 Tying arrangements: A related prohibited practice is conditioning the sale or purchase of one insurance product on the purchase of another product from the same insurer or producer — a "tying" arrangement. An insurer that requires a commercial property policyholder to also purchase commercial auto from the same carrier as a condition of coverage issuance is engaging in a tying arrangement that violates this provision.
 
-### Prohibited Act 5: Unfair Discrimination
+## Prohibited Act 5: Unfair Discrimination
 
 The prohibition: Making or permitting any unfair discrimination between individuals of the same class and equal risk:
 
@@ -84,7 +84,7 @@ What is NOT unfair discrimination: Legitimate underwriting decisions based on do
 
 Protected characteristics: Minnesota's unfair discrimination prohibition specifically addresses discrimination based on characteristics that are not legitimate actuarial risk factors — race, color, national origin, and similar characteristics. Rate differences based solely on these characteristics, without actuarial justification, are unfair discrimination under the statute.
 
-### Prohibited Act 6: Rebating — The Bilateral Prohibition
+## Prohibited Act 6: Rebating — The Bilateral Prohibition
 
 The prohibition: Offering, paying, giving, allowing, or agreeing to give any rebate of premiums payable, any special favor or advantage, or any valuable consideration or inducement not specified in the insurance contract, as an inducement to insure.
 
@@ -118,7 +118,7 @@ Accurate price competition — a producer's carrier filing lower rates than a co
 
 The contingency requirement: The key element distinguishing rebating from permissible conduct is the contingency — the item of value must be offered as an inducement to purchase or maintain insurance. A holiday gift given by a producer to all clients regardless of purchase decisions is not rebating (no contingency). The same gift offered only to clients who purchase a new policy during the quarter is rebating (contingent on purchase).
 
-### Prohibited Act 7: Unfair Claims Settlement Practices
+## Prohibited Act 7: Unfair Claims Settlement Practices
 
 The prohibition: Committing, either willfully or with such frequency as to indicate a general business practice, any of the following acts:
 
@@ -144,7 +144,7 @@ This is a regularly tested distinction on the Minnesota licensing exam. A questi
 
 Producer application: The unfair claims practices prohibition applies to producers as well as insurers. A producer who misrepresents policy provisions when a client files a claim, who discourages a client from pursuing a legitimate claim, or who participates in a pattern of claim discouragement is individually subject to enforcement action under this provision — not just the insurer.
 
-### Prohibited Act 8: Controlled Business
+## Prohibited Act 8: Controlled Business
 
 The prohibition: Obtaining or maintaining an insurance producer license primarily for the purpose of writing insurance on the producer's own life, person, or property, or on the life, person, or property of the producer's immediate family members, business partners, or employees — rather than for the purpose of serving the general public.
 
@@ -152,7 +152,7 @@ The "primarily" standard: A producer is not prohibited from writing insurance on
 
 Why this prohibition exists: Insurance producer licensing exists to facilitate the placement of insurance between the public and insurers. Using a license primarily as a vehicle to obtain insurance at reduced cost, to collect commissions on one's own purchases, or to access insurer relationships for personal benefit — without genuinely serving the public — undermines the purpose of the licensing system.
 
-### The Enforcement Framework Under §72A.20
+## The Enforcement Framework Under §72A.20
 
 Investigation: The Commissioner may investigate any person in the business of insurance upon receiving information suggesting a §72A.20 violation. The investigation may be triggered by consumer complaints, market conduct examination findings, referrals from other regulators, or the Commissioner's own monitoring activities.
 
@@ -164,7 +164,7 @@ License action: In addition to or instead of civil penalties, the Commissioner m
 
 Public posting: All regulatory actions are posted on the Department's website at mn.gov/commerce. A cease and desist order, a civil penalty, or a license action becomes part of the producer's permanent public regulatory record — visible to prospective clients, carriers, and other states through the NIPR database.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client asks me to match a competitor's quote by reducing my commission and refunding the difference to the client. Is this rebating?
 

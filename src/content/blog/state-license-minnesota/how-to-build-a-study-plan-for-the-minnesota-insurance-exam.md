@@ -14,7 +14,7 @@ imageAlt: How to Build a Study Plan for the Minnesota Insurance Exam
 
 A study plan is not a schedule. A schedule tells you when to study. A study plan tells you what to study, in what order, at what depth, and how to verify that you are retaining what you have covered before you sit for the PSI exam. Most candidates who fail the Minnesota insurance exam on their first attempt did not fail because they did not study — they failed because they studied without a plan, covered everything at the same depth, spent too much time on topics that generate few exam questions, and underallocated time to Minnesota state law, which is where the exam separates prepared candidates from unprepared ones. This post builds the study plan that changes that outcome.
 
-### The Foundation: Understanding What You Are Preparing For
+## The Foundation: Understanding What You Are Preparing For
 
 Before building a study plan, understand the exam you are preparing for. The Minnesota PSI insurance exam has two distinct content sections — a general section and a Minnesota state-specific section — and your study time should be allocated between them based on where exam questions actually come from, not based on which material feels more comfortable or more interesting.
 
@@ -24,7 +24,7 @@ The state-specific section covers Minnesota insurance law, statutes, and regulat
 
 The content outline: PSI publishes the content outline for each Minnesota insurance exam in its Candidate Information Bulletin. Your [prelicensing](/minnesota/prelicensing) course is built to this outline. Treat the content outline as your master checklist — every topic on it is a potential source of exam questions, and every topic you have not studied is a gap that could cost you points.
 
-### Step 1: Know Your Timeline
+## Step 1: Know Your Timeline
 
 The first element of a study plan is an honest assessment of how much time you have between now and your PSI exam date. Different timelines require different study intensities.
 
@@ -36,7 +36,7 @@ Extended timeline (5–8 weeks): Study sessions of 1–2 hours per day, three to
 
 The minimum viable study time: Regardless of your timeline, completing the full 20-hour prelicensing course is the baseline — not the ceiling. The prelicensing course satisfies the statutory requirement and introduces the material; it does not independently produce exam readiness. Practice exams, active review of Minnesota law, and targeted study of weak areas are additional investments that the 20-hour requirement does not dictate but that consistent first-attempt passing requires.
 
-### Step 2: Allocate Study Time by Exam Section
+## Step 2: Allocate Study Time by Exam Section
 
 Once you know your total available study time, allocate it deliberately. A rough allocation that works for most Minnesota insurance exam candidates:
 
@@ -48,7 +48,7 @@ Practice exams and review (10–15% of study time): Taking full-length practice 
 
 The most common study plan error is inverting this allocation — spending 70% of time on general content because it is more familiar and only 30% on state law because it feels like less material. State law is less material in volume but generates a proportionally significant share of exam questions. Study it accordingly.
 
-### Step 3: Structure Your Study Sessions
+## Step 3: Structure Your Study Sessions
 
 Effective study sessions for a high-stakes exam are not passive reading sessions. They are active engagement with material that requires retrieval, application, and self-testing.
 
@@ -68,7 +68,7 @@ Session length: 60–90 minutes per session is the effective range for most cand
 
 Rest days: Build at least one rest day per week into your plan. Cognitive consolidation — the process by which studied material moves from working memory to long-term memory — happens partly during rest. Candidates who study seven days per week without breaks consistently report diminishing returns in the final days before their exam.
 
-### Step 4: The Minnesota State Law Study Module
+## Step 4: The Minnesota State Law Study Module
 
 Because the state law section is where most first-attempt failures occur, it deserves its own focused study module within your overall plan. The following topics require specific, deliberate memorization — not just general familiarity.
 
@@ -160,7 +160,7 @@ Medical Assistance: Minnesota's Medicaid program
 
 MinnesotaCare: Minnesota's Basic Health Program (BHP) for incomes up to 200% FPL — unique to Minnesota; provides coverage below the marketplace income threshold
 
-### Step 5: Build Your Personal Reference Sheet
+## Step 5: Build Your Personal Reference Sheet
 
 A reference sheet is a single-page (or two-page) condensed summary of the most testable facts in the Minnesota state law section — the numbers, definitions, and procedures that are most likely to appear as exam questions. Building this sheet yourself is more valuable than using a pre-made reference card, because the act of deciding what to include reinforces your understanding of what is important.
 
@@ -178,7 +178,7 @@ The workers' compensation benefit formula: two-thirds of average weekly wage
 
 How to use the reference sheet: Review it at the beginning of each study session. Add to it as you discover additional testable facts. In the final 48 hours before the exam, read through it multiple times — this is the material most likely to appear in questions you can answer correctly with direct recall.
 
-### Step 6: Full-Length Practice Exams
+## Step 6: Full-Length Practice Exams
 
 Practice exams serve two functions: they simulate the test day experience under time pressure, and they identify specific knowledge gaps that targeted review can close before the real exam.
 
@@ -190,7 +190,7 @@ How to review practice exams: After completing the practice exam, review every q
 
 Target score for practice exams: Aim for 80% or higher on full-length practice exams before sitting for the real exam. A candidate who consistently scores 80% on realistic practice exams is well-positioned to exceed the 70% passing threshold on the real exam, accounting for some variance in question difficulty between practice and actual exams.
 
-### Step 7: The Final 48 Hours
+## Step 7: The Final 48 Hours
 
 How you spend the 48 hours before your PSI exam matters as much as how you spent the preceding weeks.
 
@@ -224,7 +224,7 @@ For remote: log in 30 minutes before your reservation time; clear your workspace
 
 Brief review of your reference sheet only — no new material
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How many practice questions should I complete before my exam?
 

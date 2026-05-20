@@ -14,17 +14,17 @@ imageAlt: "Colorado Life and Annuities Exam: Full Content Breakdown and Strategy
 
 The Colorado Life insurance licensing exam is 95 questions long — 80 scored and 15 pretest — administered by Pearson VUE in 120 minutes. It is divided into two sections: a general knowledge section of 50 scored questions covering product knowledge, terms, and concepts, and a Colorado-specific state section of 30 scored questions covering Title 10 of the Colorado Revised Statutes. Every topic that appears on the exam is published in the official Pearson VUE content outline, effective January 1, 2024. This post maps every content area, assigns the question counts to each, explains what the exam actually tests within each area, and gives you the specific strategy for the state section topics that most candidates underprepare.
 
-### The Exam at a Glance
+## The Exam at a Glance
 
 The 15 pretest questions are indistinguishable from scored questions and are scattered throughout the exam. They do not affect your score but you will not know which they are. Answer every question as if it counts.
 
 Passing score: 70% of the 80 scored questions — meaning you need at least 56 correct scored answers to pass. Because you cannot identify pretest questions, the practical target is approximately 56–60 of all 80 scored questions correct across both sections.
 
-### PART 1: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
+## PART 1: GENERAL KNOWLEDGE SECTION (50 Scored Questions)
 
 The general section is drawn from four content areas. The Pearson VUE content outline assigns specific question counts to each. These counts are not suggestions — they reflect the actual distribution of scored questions on every form of the exam.
 
-#### Content Area I: Types of Policies — 15 Questions
+### Content Area I: Types of Policies — 15 Questions
 
 This is the product knowledge foundation of the exam. Fifteen of your 50 general scored questions — 30% — test your ability to identify, distinguish, and apply the characteristics of life insurance and annuity products.
 
@@ -56,7 +56,7 @@ E. Combination plans and variations
 
 Joint life (first-to-die) — covers two lives; pays death benefit upon the first death; premium lower than two separate policies. Survivorship life (second-to-die) — pays death benefit only upon the second death; used primarily in estate planning to pay estate taxes; lower premium than first-to-die.
 
-#### Content Area II: Life Provisions, Riders, Options, and Exclusions — 15 Questions
+### Content Area II: Life Provisions, Riders, Options, and Exclusions — 15 Questions
 
 This is tied with Types of Policies as the heaviest single content area at 15 questions — 30% of the general section. More specifically, provisions, riders, and options questions are where most Life exam failures occur. The content is highly detailed and requires precise recall of how specific policy mechanics work.
 
@@ -98,7 +98,7 @@ C. Policy exclusions
 
 War exclusion — death resulting from war or military service may be excluded or result in return of premium only. Aviation exclusion — death as a result of non-commercial aviation (e.g., flying a private plane) may be excluded. Dangerous occupation — death resulting from an undisclosed hazardous occupation may be subject to exclusion or adjusted benefit.
 
-#### Content Area III: Completing the Application, Underwriting, and Delivering the Policy — 12 Questions
+### Content Area III: Completing the Application, Underwriting, and Delivering the Policy — 12 Questions
 
 Completing the application: Required signatures — both the proposed insured and the policyowner (if different) must sign the application. Agent signs as witness. Changes on the application must be initialed by the applicant. Incomplete applications must be returned to the applicant — the agent cannot complete them without the applicant. Warranties vs. representations — in life insurance, application statements are representations (believed to be true) not warranties (guaranteed to be absolutely true). Conditional receipt — coverage begins upon application and initial premium payment if the applicant is insurable at standard rates as of the application date. Binding receipt — coverage begins immediately upon payment of initial premium.
 
@@ -108,7 +108,7 @@ Underwriting: Insurable interest must exist at policy inception for life insuran
 
 Contract law — the four elements: Consideration (offer and acceptance + first premium or application), offer and acceptance, competent parties (legal age, sound mind), legal purpose. Unique characteristics: conditional (company's duty to pay is conditional on premium payment and other conditions), unilateral (only the insurer makes an enforceable promise), adhesion (take it or leave it — drafted by insurer, ambiguities construed against insurer), aleatory (values exchanged are unequal and contingent on an uncertain event).
 
-#### Content Area IV: Retirement and Other Insurance Concepts — 8 Questions
+### Content Area IV: Retirement and Other Insurance Concepts — 8 Questions
 
 Third-party ownership — a person other than the insured owns the policy and exercises owner rights (e.g., business-owned key person insurance). Life settlements — the sale of an existing life policy to a third party for a lump sum greater than the cash surrender value but less than the face amount; the buyer receives the death benefit. Distinct from viatical settlements (terminally ill insured).
 
@@ -120,11 +120,11 @@ Key person insurance — business purchases policy on a key employee; business i
 
 Social Security — retirement, disability, survivor, and Medicare benefits. Age for full Social Security retirement benefits varies by birth year (currently 67 for those born after 1960). Tax treatment — individual life premiums are generally not tax-deductible; death benefits generally received income-tax-free by beneficiaries; cash value grows tax-deferred. Modified Endowment Contracts (MECs) — policies that fail the 7-pay test; lose tax-advantaged treatment for withdrawals and loans (treated as income first, subject to 10% penalty if under 59½).
 
-### PART 2: COLORADO STATE SECTION (30 Scored Questions)
+## PART 2: COLORADO STATE SECTION (30 Scored Questions)
 
 The state section is 30 of 80 scored questions — 37.5% of your entire score — but draws from only 10 of your 50 [prelicensing](/colorado/prelicensing) hours. This disproportionate exam weight relative to study time is the most common reason well-prepared candidates fail. Every question in this section has a specific statutory or regulatory citation in the official content outline. The citations are your study map.
 
-#### Section I: Colorado Statutes Common to All Lines — 20 Questions
+### Section I: Colorado Statutes Common to All Lines — 20 Questions
 
 This section is shared across Life, Accident & Health, Property, and Casualty exams. Twenty of your 30 state-section scored questions come from these common provisions.
 
@@ -156,7 +156,7 @@ Unfair claims practices (10-3-1104(1)(h)) — misrepresenting facts or policy pr
 
 Colorado Fraud Statute (10-1-128; 10-1-129) — willfully making a false statement or representation in any insurance application, policy, or claim; a Class 5 felony for amounts over $1,000.
 
-#### Section II: Colorado Statutes Pertinent to Life Insurance Only — 10 Questions
+### Section II: Colorado Statutes Pertinent to Life Insurance Only — 10 Questions
 
 A. Policy Replacement (Reg. 4-1-4)
 
@@ -190,7 +190,7 @@ H. Lapse Notice Requirement (10-7-105.5)
 
 Colorado requires that before a life insurance policy lapses due to nonpayment of premium, the insurer must send a lapse notice to the named policyowner and any known assignee. This notice requirement protects against unintentional lapse of coverage.
 
-### Strategy: How to Approach the Colorado Life Exam
+## Strategy: How to Approach the Colorado Life Exam
 
 Where most candidates fail: The state section. The 30 state-specific scored questions represent 37.5% of your score, yet most prelicensing courses spend only 10 of 50 hours on Colorado-specific content. The math creates a preparation gap that shows up as a failing score even when general knowledge is solid.
 
@@ -204,7 +204,7 @@ Second, for annuity questions, apply the suitability-to-best-interest distinctio
 
 Third, on replacement and disclosure questions, the trigger matters. Ask yourself: is this a replacement? A replacement occurs when an existing policy is being lapsed, surrendered, reduced, converted, or borrowed against in connection with a new policy being purchased. If yes, the replacement regulation obligations apply — Notice Regarding Replacement, record keeping, notification to replacing insurer.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How many questions about annuities specifically appear on the Colorado Life exam?
 

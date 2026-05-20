@@ -14,13 +14,13 @@ imageAlt: "Tennessee Unfair Trade Practices Law: What Producers Are Prohibited f
 
 TCA Title 56, Chapter 8 — Tennessee's Unfair Trade Practices and Unfair Claims Settlement Act, adopted in 2009 — is the most directly enforceable conduct standard in Tennessee insurance law for licensed producers. It defines every unfair method of competition and deceptive practice that the Commissioner of Commerce and Insurance may act against, and it applies to every transaction, every client interaction, and every competitive behavior a Tennessee producer engages in. Violations are not minor regulatory infractions. They are the basis for license suspension, license revocation, civil money penalties under §56-2-305, and in fraud cases, criminal prosecution. This post covers every prohibited act under Chapter 8 in the depth that working producers and exam candidates need: what each prohibition covers precisely, what it does not cover, how it applies to real-world producer conduct, and what the enforcement framework looks like when violations are identified.
 
-### The Statutory Framework
+## The Statutory Framework
 
 TCA Title 56, Chapter 8 establishes a list of specific unfair methods of competition and deceptive practices prohibited in the business of insurance in Tennessee. The statute applies to any person engaged in the business of insurance in Tennessee — insurers, producers, adjusters, and any other person who engages in insurance transactions. A producer who violates Chapter 8 is subject to individual disciplinary action regardless of whether the insurer they represent was also involved.
 
 The enforcement mechanism: When the Commissioner determines that a violation has occurred, the Department may issue a cease and desist order, impose civil money penalties under §56-2-305 (up to $1,000 per violation, higher for willful misconduct), suspend or revoke the producer's license under §56-6-112, and refer criminal violations to appropriate prosecutorial authority. All enforcement actions are posted publicly on the TDCI's website at tn.gov/commerce/insurance — creating a permanent public record that follows the producer throughout their career.
 
-### Prohibited Act 1: Misrepresentation and False Advertising
+## Prohibited Act 1: Misrepresentation and False Advertising
 
 The prohibition: Making, issuing, circulating, or causing to be made any written or oral statement that misrepresents the benefits, advantages, conditions, or terms of any insurance policy; misrepresents the dividends or share of surplus previously paid on any policy; makes any false or misleading statement about the financial condition of any insurer; uses the name or title of any policy in a misleading way; or is misleading through any omission of a material fact.
 
@@ -30,25 +30,25 @@ Twisting as a specific form of misrepresentation: When misrepresentation is used
 
 What is NOT misrepresentation: Accurate, factually supported comparisons between insurance products — even comparisons that are unflattering to a competitor's product — are not misrepresentation. A producer who presents documented, accurate information about the differences between two competing products is engaging in permissible competitive communication.
 
-### Prohibited Act 2: Defamation
+## Prohibited Act 2: Defamation
 
 The prohibition: Making, publishing, or circulating any oral or written statement that is false and maliciously critical of or derogatory to the financial condition of any person engaged in the business of insurance, for the purpose of injuring that person in the insurance business.
 
 The two required elements: Both conditions must be present — the statement must be false, and it must be made with malicious intent to injure the target in the insurance business. A producer who makes an accurate negative statement about a competitor's financial condition supported by documented rating agency information has not committed defamation. A producer who fabricates or grossly distorts negative financial information about a competitor for competitive advantage has.
 
-### Prohibited Act 3: Boycott, Coercion, and Intimidation
+## Prohibited Act 3: Boycott, Coercion, and Intimidation
 
 The prohibition: Engaging in any act that restrains fair trade in the business of insurance, entering into any agreement that boycotts, coerces, or intimidates any person in connection with an insurance transaction, or using or threatening to use force, coercion, or intimidation to compel any person to transact insurance with a specific insurer or producer.
 
 What this covers in practice: A mortgage lender who tells a borrower a loan will be denied unless the borrower purchases homeowners insurance from the lender's affiliated producer is engaging in coercion. An employer who threatens adverse consequences if employees do not purchase supplemental insurance through a specific producer is engaging in intimidation. Tying arrangements — conditioning the availability of one product on the purchase of another — violate this provision.
 
-### Prohibited Act 4: Unfair Discrimination
+## Prohibited Act 4: Unfair Discrimination
 
 The prohibition: Making or permitting any unfair discrimination between individuals of the same class and equal risk in the rates charged for insurance, the dividends or other benefits payable under a policy, or the terms and conditions of a policy.
 
 The actuarial justification standard: Rate differences based on legitimate, actuarially supported risk distinctions are permissible — not unfair discrimination. Age-based rates, geographic rating factors, claims history, and construction type are all legitimate rating variables when supported by actuarial data filed with and approved by the TDCI. Unfair discrimination occurs when rate differences exist between objectively equivalent risks without actuarial justification — including discrimination based on race, color, national origin, or similar characteristics that are not legitimate actuarial risk factors.
 
-### Prohibited Act 5: Rebating — The Bilateral Prohibition
+## Prohibited Act 5: Rebating — The Bilateral Prohibition
 
 The prohibition: Offering, paying, giving, allowing, or agreeing to give any rebate of premiums payable, any special favor or advantage, or any valuable consideration or inducement not specified in the insurance contract, as an inducement to purchase insurance.
 
@@ -80,7 +80,7 @@ Items of truly nominal value given uniformly without purchase contingency
 
 Legitimate price competition — a carrier filing lower rates than a competitor is not rebating
 
-### Prohibited Act 6: Unfair Claims Settlement Practices
+## Prohibited Act 6: Unfair Claims Settlement Practices
 
 The prohibition under §56-8-105: Committing any of the following acts, either willfully or with such frequency as to indicate a general business practice:
 
@@ -106,17 +106,17 @@ This distinction is regularly tested on the Tennessee licensing exam. A question
 
 Producer application: The unfair claims practices prohibition applies to producers as well as insurers. A producer who misrepresents policy provisions when a client files a claim, who discourages a client from pursuing a legitimate claim, or who participates in a pattern of claim discouragement is individually subject to enforcement under this provision — not just the insurer whose product is involved.
 
-### Prohibited Act 7: Controlled Business
+## Prohibited Act 7: Controlled Business
 
 The prohibition: Obtaining or maintaining an insurance producer license primarily for the purpose of writing insurance on the producer's own life, person, or property, or on the life, person, or property of the producer's immediate family members, business partners, or employees — rather than for the purpose of serving the general public.
 
 The "primarily" standard: A producer is not prohibited from writing insurance on their own property or for family members. The prohibition triggers when this type of self-focused business represents the primary purpose for holding the license. Using the licensing system to access insurer relationships, obtain reduced-cost coverage, or collect commissions on one's own purchases without genuinely serving the public is controlled business.
 
-### The Bad Faith Interaction With Chapter 8
+## The Bad Faith Interaction With Chapter 8
 
 The bad faith penalty under §56-7-105 — up to 25% additional damages for wrongful refusal to pay a valid claim — creates a private remedy for individual policyholders against insurers. Chapter 8's unfair claims practices provisions create a separate regulatory enforcement mechanism the Commissioner exercises against insurers and producers on behalf of the public. A pattern of claims handling that violates §56-8-105 may simultaneously give rise to individual policyholder bad faith claims under §56-7-105 and regulatory enforcement action by the Commissioner under Chapter 8. The two frameworks address the same underlying conduct from different directions — one through private litigation, one through public enforcement.
 
-### The Enforcement Framework
+## The Enforcement Framework
 
 Investigation: The Commissioner may investigate any person in the business of insurance upon receiving information suggesting a Chapter 8 violation — triggered by consumer complaints, market conduct examinations, referrals from other regulators, or the Commissioner's own monitoring.
 
@@ -126,7 +126,7 @@ License action: The Commissioner may suspend or revoke a producer's license for 
 
 Public posting: All regulatory actions are posted publicly on the TDCI website. A cease and desist order, civil penalty, or license action becomes part of the producer's permanent public record visible to prospective clients, carriers, and other states through the NIPR database.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client asks me to match a competitor's lower premium by reducing my commission and passing the savings along. Is this rebating?
 

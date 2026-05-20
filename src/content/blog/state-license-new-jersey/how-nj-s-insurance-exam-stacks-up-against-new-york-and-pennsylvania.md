@@ -14,11 +14,11 @@ imageAlt: How NJ's Insurance Exam Stacks Up Against New York and Pennsylvania
 
 New Jersey, New York, and Pennsylvania share borders, commuters, and — in the case of New Jersey — hundreds of thousands of residents who work in the New York metro market or the Philadelphia corridor. Producers who get licensed in one of these states sometimes pursue nonresident licenses in the others, or move across state lines and need to understand how the new exam compares to the one they already passed. Even candidates deciding where to get licensed first benefit from understanding how these three exam systems differ in structure, difficulty, and cost.
 
-### The Quick Comparison
+## The Quick Comparison
 
 All three states use PSI as their exam administrator. All three require a 70% passing score. But the differences in question count, [prelicensing](/new-jersey/prelicensing) requirements, and [pass rates](/pass-rates) are significant.
 
-### Prelicensing Education: New Jersey Is Middle Ground
+## Prelicensing Education: New Jersey Is Middle Ground
 
 New Jersey's 20-hour prelicensing requirement per line is modest — substantially lower than New York, but more demanding than Pennsylvania.
 
@@ -28,7 +28,7 @@ Pennsylvania eliminated its mandatory prelicensing education requirement entirel
 
 New Jersey's 20 hours is enough to cover the core material when studied properly, but it places more responsibility on the candidate to supplement with additional exam prep. A candidate who completes only the 20 required hours and takes no additional practice exams is taking a meaningful risk.
 
-### Question Count and Time Per Question
+## Question Count and Time Per Question
 
 New Jersey's exams are shorter than New York's and Pennsylvania's by question count. NJ Life has 83 questions; NY Life has 100; PA Life has 100. This sounds like an advantage for NJ candidates — fewer questions to answer — but the time allocation actually gives NJ candidates more time per question, not less.
 
@@ -36,7 +36,7 @@ New Jersey's 210-minute time limit for 83 questions works out to about 2.5 minut
 
 By time pressure, New Jersey's exam is the most forgiving of the three. Candidates who need time to think through scenario-based questions or who test slower have a structural advantage in NJ relative to NY and PA.
 
-### Pass Rates: New York's P&C Is Uniquely Difficult
+## Pass Rates: New York's P&C Is Uniquely Difficult
 
 Pass rate data reveals a significant divergence among the three states — particularly for Property and Casualty.
 
@@ -48,7 +48,7 @@ Pennsylvania's pass rates cluster in the 51–57% range across most lines — br
 
 The takeaway: NJ's Property exam is genuinely difficult relative to other NJ lines and relative to what its modest prelicensing requirement might suggest. NJ's Casualty and Life exams are more forgiving. New York's P&C exam is in a different difficulty category from anything in NJ or PA.
 
-### State Law Complexity: All Three Are Demanding, But Different
+## State Law Complexity: All Three Are Demanding, But Different
 
 Each state's exam tests a state-specific law section that requires targeted preparation regardless of prior general knowledge.
 
@@ -58,17 +58,17 @@ New York's state law section is substantially larger. The New York Department of
 
 Pennsylvania's state law section is present but somewhat lighter in total weight, partly because PA's exams do not have the density of state-specific regulatory architecture that NY and NJ carry.
 
-### Score Validity: New York Gives You More Time
+## Score Validity: New York Gives You More Time
 
 New York's passing score is valid for two years from the date of the exam — twice as long as New Jersey's and Pennsylvania's one-year windows. For candidates who pass but face delays in completing the background check and application process, New York's two-year window provides significant breathing room. NJ and PA candidates who pass but do not complete their license application within 12 months must retake the exam.
 
-### If You Are Pursuing Nonresident Licenses
+## If You Are Pursuing Nonresident Licenses
 
 NJ producers pursuing a New York nonresident license are not required to take the NY exam, provided they hold an active NJ resident license in good standing and NY reciprocates (which it does for producers licensed in their home state in good standing). The same applies in reverse — NY producers can apply for NJ nonresident licenses without completing NJ's prelicensing or exam, provided their NY license is active or was active within the previous 90 days.
 
 Pennsylvania has similar reciprocity provisions. Verify current NIPR reciprocity terms directly before applying, as reciprocity agreements can change.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Is the New Jersey insurance exam harder than the Pennsylvania exam?
 

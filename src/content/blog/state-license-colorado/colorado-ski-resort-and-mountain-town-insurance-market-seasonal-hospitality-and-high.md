@@ -14,7 +14,7 @@ imageAlt: "Colorado Ski Resort and Mountain Town Insurance Market: Seasonal, Hos
 
 Colorado's ski resort and mountain town markets represent the most distinctive regional insurance opportunity in the state — and the most technically demanding. The combination of catastrophic wildfire exposure, extreme high-value residential properties, seasonal business operations, hospitality liability, and a workforce that cycles between employer coverage and individual market plans creates insurance needs that generalist producers consistently underserve. Many carriers will not write policies at all anymore in ski areas like Aspen, Snowmass, Vail, Beaver Creek, Telluride, and Breckenridge due to their inherent fire risk and high property values. For the producers who develop genuine expertise in this market, that carrier reluctance translates directly into client dependence on producers who can find solutions where others cannot. The Zebra
 
-### The Mountain Market's Economic Structure
+## The Mountain Market's Economic Structure
 
 Colorado's resort communities are economically different from every other regional market in the state. They combine:
 
@@ -26,7 +26,7 @@ A large workforce that lives differently from their employers: The permanent wor
 
 Remote geography and its insurance implications: Mountain resort communities are typically 70–120 miles from Front Range population centers, accessible by a limited number of mountain passes that are subject to winter closures. This remoteness affects contractors, fire response times, and the logistics of claims adjusting — all of which influence underwriting decisions and the practical experience of policyholders after a loss.
 
-### The Property Insurance Crisis in Mountain Communities
+## The Property Insurance Crisis in Mountain Communities
 
 The most acute insurance challenge in Colorado's mountain resort market is residential property availability — particularly in wildfire-exposed areas. Some foothill and mountain areas report average homeowners insurance premiums well above $7,500 per year, compared to the statewide average of approximately $4,600. Wildland-urban interface communities like Evergreen, Boulder foothills, Aspen, and Pagosa Springs face the most concentrated wildfire risk. Kansas DMV
 
@@ -40,9 +40,9 @@ Producers serving mountain resort communities need direct relationships with E&S
 
 The "whole account" bundling strategy: Insurers view any property over $1.5 million as "luxury" and pursue the client's whole account — bundling primary and secondary homes with auto and umbrella. They want all your business. For producers, this means mountain resort residential accounts are worth pursuing not just for the single property but for the full household account, which may include a primary Front Range residence, a mountain second home, one or more investment properties, multiple high-value vehicles, and a personal umbrella with limits of $5–$25 million. The Zebra
 
-### The Commercial Insurance Market for Ski Resort Communities
+## The Commercial Insurance Market for Ski Resort Communities
 
-#### Hospitality and Lodging
+### Hospitality and Lodging
 
 Ski resort communities are fundamentally hospitality economies — hotels, lodges, vacation rental properties, restaurants, bars, adventure outfitters, and ski shops all generate commercial insurance needs:
 
@@ -66,13 +66,13 @@ Guide and outfitter liability in Colorado is a specialized market. Standard CGL 
 
 Ski shops and equipment rentals: Retail ski shops in mountain resort communities combine retail merchandise operations with ski and snowboard equipment rental fleets — skis, boots, poles, and snowboards that are rented to hundreds of clients daily during peak season. The rental fleet represents significant inventory value and generates product liability exposure when rented equipment fails and causes injury. Commercial property coverage for the retail merchandise, inland marine for the rental fleet, and products liability are the core coverage needs of ski rental operations.
 
-#### The Ski Resort Itself
+### The Ski Resort Itself
 
 The major ski resorts — Vail, Aspen/Snowmass, Breckenridge, Keystone, Steamboat Springs, Telluride, and Winter Park — are typically large enough that their insurance programs are handled directly with major national brokers rather than local producers. However, the supply chain that serves the resorts — food and beverage suppliers, lift maintenance contractors, snowmaking equipment contractors, grooming equipment operators — generates commercial lines accounts accessible to regional producers.
 
 Workers' compensation for ski resort contractors: Construction and maintenance contractors who work on ski resort infrastructure — chairlift installation and maintenance, snowmaking systems, resort building construction and renovation — have elevated workers' compensation classifications due to the heights, terrain, and specialized equipment involved. Colorado's one-employee threshold means every contractor with any employees must carry workers' comp. The resort contracting market generates workers' comp accounts at rates well above the statewide average.
 
-### The Health Insurance Dimension: Mountain Workers and Individual Coverage
+## The Health Insurance Dimension: Mountain Workers and Individual Coverage
 
 The seasonal workforce structure of mountain resort communities creates a specific and underserved individual health insurance market that A&H producers can serve:
 
@@ -84,7 +84,7 @@ The health insurance navigation challenge in mountain communities — limited ca
 
 The remote work immigrant: COVID-era remote work policies brought thousands of urban professionals to Colorado's mountain resort communities — people who could maintain their professional careers from Telluride or Steamboat without commuting to Denver. Many of these remote workers are self-employed, consultants, or gig economy participants who need individual health coverage year-round. The premium differential between mountain and Front Range health coverage is a genuine financial planning issue for this population.
 
-### High-Value Personal Lines: The Private Client Market
+## High-Value Personal Lines: The Private Client Market
 
 The most financially significant personal lines opportunity in Colorado's mountain resort market is the private client segment — households with total insurable assets of $5 million or more seeking comprehensive coverage across multiple properties, vehicles, and valuable articles.
 
@@ -94,7 +94,7 @@ Valuable articles: High-net-worth Aspen and Vail clients often own significant c
 
 Fine art in mountain homes: Aspen specifically has one of the highest concentrations of fine art in residential settings of any small market in the United States — the Aspen Art Museum's influence and the community's high-net-worth concentration have created a residential art market. Fine art coverage requires agreed value, no deductible, worldwide coverage, and in some cases specialized climate and humidity condition requirements for artwork stored at altitude.
 
-### Building a Mountain Market Practice
+## Building a Mountain Market Practice
 
 The real estate attorney and agent relationship: Real estate transactions in mountain resort communities require insurance confirmation before closing. Buyers should be checking into home insurance options immediately upon going under contract — this is high priority due to the numerous insurance issues occurring around the country and in Colorado. A producer who builds relationships with Aspen, Telluride, and Vail real estate attorneys and agents is positioned to receive referrals at the moment when insurance placement is urgent and alternatives are limited. The producer who can place coverage on a $15 million Aspen property that three other producers declined to write creates a client relationship that will last as long as the client owns the property. The Zebra
 
@@ -102,7 +102,7 @@ Year-round presence matters: Mountain resort insurance clients — both personal
 
 The surplus lines expertise requirement: Producers serving mountain resort communities without a surplus lines license, or without access to E&S market wholesalers who specialize in mountain property, cannot serve a significant portion of this market. Developing those relationships — or working through an agency with existing E&S access — is a prerequisite for meaningful mountain market participation.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client wants to buy a $10 million property in Aspen but cannot get standard homeowners coverage. What are their realistic options?
 

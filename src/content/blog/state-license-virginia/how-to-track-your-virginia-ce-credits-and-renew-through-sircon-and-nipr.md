@@ -14,13 +14,13 @@ imageAlt: How to Track Your Virginia CE Credits and Renew Through Sircon and NIP
 
 Virginia's CE and license renewal system runs across two separate administrative infrastructures — Pearson VUE administers the CE program and tracks credit completions, and the SCC Bureau of Insurance processes license renewals through NIPR and Sircon. Understanding which system does what, and how to use each one before your renewal deadline, prevents the most common administrative failures that cause Virginia producers to face late fees or license termination. This post gives you a step-by-step guide to tracking your CE progress and completing your Virginia license renewal correctly.
 
-### The Two Systems and What They Do
+## The Two Systems and What They Do
 
 Pearson VUE — CE Program Administrator: Pearson VUE (contracted by the Virginia Insurance [Continuing Education](/virginia/continuing-education) Board) manages course approvals, tracks CE credit completions, administers the continuance fee, and maintains the CE records that feed into Sircon's transcript system. All CE compliance questions go to Pearson VUE: 877-234-6093 or VirginiaInsuranceCE@pearson.com.
 
 Sircon and NIPR — License Renewal Platforms: Sircon (sircon.com/virginia) and NIPR (nipr.com) are the platforms where you submit renewal applications and pay renewal fees to the Bureau of Insurance. CE transcript data from Pearson VUE flows into Sircon's records, allowing the Bureau to verify CE compliance when processing renewals. All renewal processing goes through NIPR or Sircon — not directly to the Bureau.
 
-### Step 1: Check Your CE Transcript
+## Step 1: Check Your CE Transcript
 
 Log into Sircon at sircon.com/virginia and access the Continuing Education Transcript Inquiry tool. This shows:
 
@@ -46,7 +46,7 @@ Specialty training completions (annuity best interest, LTC, flood) are recorded 
 
 If a course completion is missing: Contact Pearson VUE at 877-234-6093. CE providers are required to report completions to the CE system, but delays and errors occur. Do not wait until your renewal deadline to discover a missing completion — allow at least 30 days before your renewal date for any transcript discrepancies to be resolved.
 
-### Step 2: Pay the CE Continuance Fee
+## Step 2: Pay the CE Continuance Fee
 
 Virginia's CE program requires producers to pay a biennial continuance fee to Pearson VUE before completed CE credits are officially applied toward your renewal requirement. This fee is due by November 30 of the renewal year.
 
@@ -54,13 +54,13 @@ Visit virginiainsurancece.com to confirm the current fee amount and payment proc
 
 Non-resident producers also pay a documentation filing fee to the CE administrator by November 30 — confirm current requirements with Pearson VUE.
 
-### Step 3: Verify Your License Renewal Date
+## Step 3: Verify Your License Renewal Date
 
 Your license expires at the end of your birth month, in your odd/even renewal year. Confirm your specific expiration date in your NIPR or Sircon account. The Bureau sends renewal reminder notices approximately 90 days before your expiration — ensure your email address is current in the Bureau's system at BOILicenseRenewal@scc.virginia.gov.
 
 Your renewal window opens 90 days before your expiration date. You can submit the renewal application any time within that window, but not before it opens.
 
-### Step 4: Submit the Renewal Application
+## Step 4: Submit the Renewal Application
 
 When your CE is complete, your continuance fee is paid, and your renewal window is open, log into NIPR (nipr.com) or Sircon (sircon.com/virginia) and submit your renewal application:
 
@@ -78,15 +78,15 @@ Processing: Renewals are typically processed within a few business days when sub
 
 Early completion tip: Complete CE and submit your renewal at least 30 days before your expiration date. This gives the system time to process the renewal before the deadline and gives you time to address any issues that arise.
 
-### Step 5: Confirm Your Renewed License
+## Step 5: Confirm Your Renewed License
 
 After submission and Bureau approval, your renewed license is available to print from NIPR or Sircon. No physical license is mailed. Your renewed license will show your new expiration date — two years from the prior expiration date.
 
-### VerifyMyCE Tool
+## VerifyMyCE Tool
 
 Virginia's CE program offers a VerifyMyCE account tool at virginiainsurancece.com (administered by Pearson VUE). This tool provides another way to view your CE transcript and confirm compliance status. It is complementary to Sircon's transcript view — if there is a discrepancy between the two systems, contact Pearson VUE to resolve it.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How quickly do CE course completions appear in my Sircon transcript?
 

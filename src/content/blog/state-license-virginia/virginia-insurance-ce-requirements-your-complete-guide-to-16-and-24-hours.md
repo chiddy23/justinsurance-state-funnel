@@ -14,7 +14,7 @@ imageAlt: "Virginia Insurance CE Requirements: Your Complete Guide to 16 and 24 
 
 Every Virginia resident insurance producer must complete [continuing education](/virginia/continuing-education) before renewing their license. The amount required depends on a single variable: how many license types you hold. If you hold one license type — or hold both Life & Annuities and Health together — you complete 16 CE hours per biennial cycle. If you hold two or more license types — typically Life & Health plus Property & Casualty — you complete 24 CE hours, with a minimum of 8 hours applicable to each license type. This is the foundational structure that every other CE rule flows from. This post covers the full Virginia CE framework: what counts, what is required, who administers it, and how to stay compliant before your renewal deadline.
 
-### The Two Tiers: 16 Hours vs. 24 Hours
+## The Two Tiers: 16 Hours vs. 24 Hours
 
 Virginia's CE requirement is designed around license types, not individual lines of authority. Understanding this distinction avoids common miscalculations.
 
@@ -24,13 +24,13 @@ Property and Casualty are treated as a single license type. A producer holding a
 
 Holding two license types — L/A/H AND P&C — triggers the 24-hour requirement. A producer licensed in both Life & Health and Property & Casualty holds two license types and must complete 24 CE hours per cycle, with a minimum of 8 hours applicable to each license type. The 8-hour minimums cannot be waived by taking more than 16 hours in one type.
 
-### The Ethics Requirement
+## The Ethics Requirement
 
 Every Virginia resident producer must complete at least 3 credit hours of ethics as part of their total CE requirement — whether the total is 16 or 24 hours. Ethics hours are not a separate add-on; they count toward the total.
 
 Virginia's ethics requirement has an important distinction: for producers (not public adjusters), ethics courses may include material on Virginia insurance law and regulations. A 3-hour Virginia laws and regulations course can satisfy the ethics requirement. However, ethics courses categorized as Other General Insurance (OGI) credits cannot be applied to the ethics requirement — OGI courses count toward total hours but not toward the 3-hour ethics minimum.
 
-### The Company-Sponsored Course Cap
+## The Company-Sponsored Course Cap
 
 No more than 75% of your required CE credits may come from courses provided by insurance companies or agencies. This means:
 
@@ -40,7 +40,7 @@ For a 24-hour producer: no more than 18 hours may be company-sponsored
 
 This rule prevents producers from fulfilling their entire CE obligation through carrier-provided training. At least 25% of required credits must come from non-company-sponsored courses.
 
-### Who Administers Virginia CE
+## Who Administers Virginia CE
 
 Virginia's CE program is administered by the Virginia Insurance Continuing Education Board, a statutory board created by the Virginia General Assembly. The Board has contracted with Pearson VUE to administer the day-to-day operations of the CE program — including course approvals, transcript tracking, and the continuance fee.
 
@@ -52,7 +52,7 @@ Phone: 877-234-6093
 
 The Virginia Bureau of Insurance (SCC) handles licensing and renewal processing. Pearson VUE handles CE program administration. These are two separate systems — completing CE through Pearson VUE-approved courses does not automatically renew your license; you must also submit the renewal application and pay the renewal fee through NIPR or Sircon.
 
-### Your Renewal Deadline
+## Your Renewal Deadline
 
 Virginia licenses expire at the end of your birth month, based on the odd/even year of your birth:
 
@@ -64,13 +64,13 @@ Your CE must be completed before your license renewal date. There is no grace pe
 
 Continuance fee: Virginia's CE program requires producers to pay a biennial continuance fee to the CE program administrator (Pearson VUE) before earned CE credits can be applied to the renewal requirement. This fee is due by November 30 of the renewal year. Confirm the current fee amount and payment process at virginiainsurancece.com.
 
-### Carryover Credits
+## Carryover Credits
 
 Virginia allows excess CE credits to be carried forward one renewal cycle. Credits completed in excess of your requirement in the current biennium can be applied to the next biennium. However, the courses must be reported in the biennium in which they were taken — you cannot retroactively claim credits from a prior period for a current deficiency.
 
 You may not take the same course twice within a single biennium for credit.
 
-### Specialty Requirements
+## Specialty Requirements
 
 In addition to the general CE requirement, several one-time and ongoing specialty training requirements apply:
 
@@ -82,7 +82,7 @@ NFIP Flood Insurance: One-time 3-hour training before selling flood insurance th
 
 These specialty requirements are addressed in detail in separate posts in this cluster.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Does Virginia require CE for non-resident producers?
 

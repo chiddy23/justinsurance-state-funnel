@@ -14,7 +14,7 @@ imageAlt: "Colorado Non-Resident Insurance Licensing: How Reciprocity Works"
 
 Colorado offers one of the most streamlined non-resident licensing processes in the country. If you are currently licensed as a resident producer in good standing in your home state, you can obtain a Colorado non-resident license without completing any [prelicensing](/colorado/prelicensing) education and without taking the Colorado state exam. The application is submitted electronically, the fee is $47 per line, and the Division processes most applications within 5 business days. For producers based in neighboring states — Utah, Wyoming, New Mexico, Arizona, Kansas, Nebraska — or anywhere in the country, adding a Colorado non-resident license is a low-friction way to expand your market.
 
-### How Colorado Non-Resident Reciprocity Works
+## How Colorado Non-Resident Reciprocity Works
 
 Colorado's non-resident licensing is governed by Title 10, Article 2 of the Colorado Revised Statutes. Colorado participates in the national producer licensing reciprocity framework administered through NIPR. Under this framework:
 
@@ -30,13 +30,13 @@ Your home state CE requirements are current (if applicable for your license tier
 
 If your home state license lapses while you hold a Colorado non-resident license, the Colorado non-resident license is affected. Maintaining your home state license in good standing is the prerequisite for Colorado non-resident licensing — it is an ongoing condition, not just a point-in-time requirement.
 
-### Lines Covered by Reciprocity
+## Lines Covered by Reciprocity
 
 Colorado grants non-resident reciprocity for the same lines of authority you hold in your home state. If your home state license covers Life and Accident & Health, Colorado will issue you non-resident authority for Life and Accident & Health. If you hold Property and Casualty in your home state, Colorado grants Property and Casualty non-resident authority.
 
 Important exception: Property and Casualty licensing structures differ by state. Some states issue a combined "P&C" license as a single line. Colorado treats Property and Casualty as two separate lines. When reciprocity is applied, Colorado maps your home state's combined P&C license to both Property and Casualty authority in Colorado — this is handled automatically in the NIPR system.
 
-### Application Process for Non-Resident License
+## Application Process for Non-Resident License
 
 Step 1: Submit your non-resident application through NIPR (nipr.com) or Sircon (sircon.com/colorado).
 
@@ -54,13 +54,13 @@ Step 4: Print your Colorado non-resident license from Sircon. Your license will 
 
 No exam required. No prelicensing required. No fingerprinting required. Non-resident applicants have no testing obligations in Colorado regardless of their state of domicile.
 
-### The Biennial Continuation Fee
+## The Biennial Continuation Fee
 
 Colorado non-resident producers must pay a biennial continuation fee to maintain their Colorado non-resident license. This fee is due at the same interval as the resident renewal cycle — every two years, by the last day of the producer's birth month. The continuation fee is $27 per line of authority — the same as the resident renewal fee.
 
 Non-resident producers who miss the continuation fee deadline have 1 calendar year from the expiration date to renew the license before it lapses permanently (requiring a new application). A $29 late penalty fee per line applies if renewed after the expiration date.
 
-### CE Requirements for Non-Resident Colorado Producers
+## CE Requirements for Non-Resident Colorado Producers
 
 Colorado's CE requirement for non-resident producers is significantly simpler than for residents:
 
@@ -78,13 +78,13 @@ Exception — LTC training: Non-resident producers selling long-term care insura
 
 Annuity Best Interest: Non-resident producers who complete NAIC-equivalent Annuity Best Interest training in their home state are deemed compliant with Colorado's 4-hour Annuity Best Interest requirement, provided Colorado recognizes the home state's training as substantially similar.
 
-### States With Full Colorado Reciprocity
+## States With Full Colorado Reciprocity
 
 Colorado maintains reciprocal licensing agreements with virtually every U.S. state and territory that participates in the NIPR producer licensing system. The major neighboring states — Utah, Wyoming, New Mexico, Arizona, Kansas, Nebraska — all have full reciprocity with Colorado. Producers from any of these states can obtain Colorado non-resident licenses with no exam or prelicensing requirement.
 
 The one exception category is states with non-standard licensing structures — if your home state's license categories do not map cleanly to Colorado's separate Property and Casualty lines, NIPR may require manual review. In practice, this is rare for standard producer licenses.
 
-### Why Colorado Non-Resident Licensing Matters
+## Why Colorado Non-Resident Licensing Matters
 
 Front Range producers with multi-state books: The Northern Colorado Front Range (Fort Collins, Greeley) borders Wyoming and is close to Nebraska. The Southern Front Range (Colorado Springs, Pueblo) is near New Mexico. The Western Slope border regions touch Utah. Producers with clients near state borders have legitimate business reasons to hold non-resident licenses in neighboring states — and Colorado's non-resident process makes this practical to maintain.
 
@@ -92,7 +92,7 @@ Remote and national producers: Colorado's growing population and its large self-
 
 Surplus lines brokers: Non-resident surplus lines authority in Colorado requires an existing active P&C license from the home state and compliance with Colorado's surplus lines regulations. This is an important licensing pathway for wholesale brokers placing risks in Colorado's hard-market property segments.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I move to Colorado from another state, does my non-resident license automatically convert to a resident license?
 

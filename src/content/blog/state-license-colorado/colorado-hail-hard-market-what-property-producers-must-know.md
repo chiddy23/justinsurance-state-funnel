@@ -14,9 +14,9 @@ imageAlt: Colorado Hail Hard Market  What Property Producers Must Know
 
 Colorado is in one of the most consequential property insurance market disruptions in its history. The cost of property insurance in Colorado has increased an average of 57.9% from 2018 to 2023, according to the Rocky Mountain Insurance Association. Carriers are tightening underwriting, nonrenewing policies at elevated rates, and in some cases exiting the Colorado market entirely. The Colorado FAIR Plan — the insurer of last resort — only became operational for residential properties in April 2025. For producers licensed for Property or Personal Lines, the hard market is not background context: it is the defining operational reality of every homeowners transaction they handle. Understanding why the market reached this point, what it means for coverage availability, and what producers must do differently in this environment is the foundation of effective client service in Colorado property insurance right now. Annuity.org
 
-### Why Colorado's Property Market Is in Crisis
+## Why Colorado's Property Market Is in Crisis
 
-#### Hail: The Primary Driver
+### Hail: The Primary Driver
 
 Hail-related claims drive 55% to 70% of homeowners insurance costs statewide. Colorado sits in the heart of "Hail Alley" — the geographic corridor running from the Texas Panhandle through eastern Colorado and into Nebraska and Wyoming where atmospheric conditions produce some of the largest and most frequent hailstorms on the planet. The Front Range from Fort Collins through Denver to Colorado Springs and Pueblo is particularly exposed, with hailstones routinely reaching golf ball size and occasionally tennis ball size or larger. Agenzee
 
@@ -24,13 +24,13 @@ In the past 10 years, hailstorms have caused more than $5 billion in insured dam
 
 The hail problem is compounded by two simultaneous cost trends that together create a perfect loss inflation scenario. First, hail frequency has increased — more storms, more frequently, covering larger geographic areas. Second, the cost to repair or replace a hail-damaged roof has increased dramatically. Roofing material costs, labor costs, and supply chain constraints have collectively driven roof replacement costs to levels that frequently exceed the dwelling coverage limits set when policies were originally written. Colorado's $151 million per year in average hail losses is the second highest of any state. Kruise
 
-#### Wildfire: The Secondary but Growing Exposure
+### Wildfire: The Secondary but Growing Exposure
 
 Wildfire adds a distinct, geographically concentrated catastrophic exposure to Colorado's property market. More than 321,000 Colorado homes face moderate or higher wildfire risk, with potential reconstruction costs of $141 billion. All 20 of the state's most destructive wildfires took place within the last 20 years. The Marshall Fire of December 2021, which destroyed more than 1,000 homes in Boulder County's suburban neighborhoods at the urban-wildland interface, demonstrated that wildfire risk in Colorado is not limited to rural mountain communities — it extends into densely built suburban areas that insurers had not historically underwritten as wildfire-exposed. FcslaKruise
 
 Post-wildfire reconstruction costs have consistently exceeded pre-fire estimates and existing coverage limits. The Marshall Fire aftermath revealed systematic underinsurance at scale — thousands of homeowners whose policies were based on pre-fire dwelling valuations discovered they could not fully rebuild because construction costs had escalated well beyond what their Coverage A limits reflected. This underinsurance discovery accelerated regulatory and legislative pressure on producers to conduct more rigorous coverage adequacy conversations.
 
-#### The Market Response: Rate Increases, Nonrenewals, and Market Exits
+### The Market Response: Rate Increases, Nonrenewals, and Market Exits
 
 The combination of hail frequency, wildfire risk, escalating construction costs, and reinsurance cost increases has produced a carrier response that defines the current hard market:
 
@@ -42,11 +42,11 @@ Carrier market exits: Some carriers have determined that Colorado's loss environ
 
 Tighter underwriting standards: Carriers remaining in the Colorado market are applying more restrictive underwriting criteria: age and condition requirements for roofing, distance from wildfire hazard zones, construction materials, prior claim history, and geographic concentration limits. A property that was straightforward to insure in 2019 may require multiple declinations before finding placement in 2025.
 
-### The Policy Form Changes That Affect Colorado Clients
+## The Policy Form Changes That Affect Colorado Clients
 
 Beyond premium increases and availability constraints, the hard market has produced meaningful changes to what Colorado homeowners policies actually cover — changes that many policyholders do not realize until they file a claim.
 
-#### Wind/Hail Deductibles: The Shift to Percentage-Based
+### Wind/Hail Deductibles: The Shift to Percentage-Based
 
 The most significant coverage change affecting Colorado homeowners is the widespread shift from flat-dollar wind and hail deductibles to percentage-based deductibles. In Colorado, wind and hail are always listed as named perils and usually carry a separate, higher deductible, either a flat $2,500–$10,000 or a 1–5% percentage of Coverage A. Reged
 
@@ -56,7 +56,7 @@ A client with a $500,000 home and a 2% wind/hail deductible who files a $40,000 
 
 Producers reviewing policy renewals must verify whether the wind/hail deductible has changed from a flat dollar amount to a percentage basis — this change can occur at renewal without the policyholder fully appreciating the financial impact until a claim is filed.
 
-#### ACV Roof Coverage: The Cosmetic Damage Exclusion
+### ACV Roof Coverage: The Cosmetic Damage Exclusion
 
 A second significant policy change is the growing prevalence of actual cash value (ACV) roof coverage rather than replacement cost (RCV) coverage for roofs. Under ACV roof coverage, the insurer pays the depreciated value of the roof at the time of loss rather than the cost to replace it with new materials. For a 15-year-old asphalt shingle roof that has exhausted most of its useful life, ACV coverage may pay only a fraction of the replacement cost — leaving the homeowner responsible for thousands of dollars in out-of-pocket costs even after a covered hail loss.
 
@@ -64,7 +64,7 @@ The cosmetic damage exclusion compounds this problem. An increasing number of Co
 
 The producer's obligation: Clients who do not know whether their roof is covered on an ACV or RCV basis, and who do not know whether their policy contains a cosmetic damage exclusion, cannot make informed insurance decisions. Reviewing these policy terms at every renewal — and explaining in plain language what a hail claim would actually pay under each structure — is both an ethical obligation and an E&O risk management practice.
 
-### The Colorado FAIR Plan: What It Is and What It Is Not
+## The Colorado FAIR Plan: What It Is and What It Is Not
 
 The Colorado Fair Access to Insurance Requirements (FAIR) Plan Association was established by HB23-1288, signed into law May 12, 2023. The FAIR Plan board was appointed in January 2024, its Plan of Operation was approved by the Division of Insurance in July 2024, and the FAIR Plan began accepting personal lines applications on April 10, 2025. WebCE
 
@@ -76,7 +76,7 @@ The last-resort principle: If private insurance is available, homeowners cannot 
 
 FAIR Plan as a temporary bridge: The appropriate positioning of the FAIR Plan for clients who qualify is as a temporary measure while they continue to seek voluntary market placement — not a permanent insurance solution. FAIR Plan coverage is typically more expensive per dollar of coverage than equivalent voluntary market coverage, and its coverage scope is narrower. Producers whose clients are placed in the FAIR Plan should continue actively seeking voluntary market alternatives at each renewal.
 
-### Legislative and Regulatory Responses
+## Legislative and Regulatory Responses
 
 Colorado has enacted several significant legislative measures in response to the property market crisis:
 
@@ -88,7 +88,7 @@ Senate Bill 23-166 — Wildfire Resiliency Code: Established a statewide Wildfir
 
 Impact-resistant roofing incentives: Colorado legislation has encouraged homeowners to install Class 4 impact-resistant roofing systems — the highest hail-resistance rating — through mitigation credit programs. Some carriers offer meaningful premium discounts (10–30% in some cases) for Class 4 roofs, creating a financial incentive for roof upgrades that simultaneously improve property resilience and insurance affordability.
 
-### What the Hard Market Requires of Property Producers
+## What the Hard Market Requires of Property Producers
 
 The hard market does not simply make property insurance more expensive — it changes what competent property insurance practice looks like. The following practices are not optional professional development in this environment; they are the baseline expectations for every Colorado property producer.
 
@@ -102,7 +102,7 @@ Understand and communicate the cosmetic damage exclusion: A client who purchases
 
 Document coverage adequacy conversations: Given the Marshall Fire experience and the systematic underinsurance that followed, producers who have coverage adequacy conversations with clients should document those conversations. A client file note recording that the producer discussed Coverage A adequacy, explained the difference between market value and replacement cost, and either confirmed the client accepted the current limit as adequate or updated the limit protects the producer if the coverage is later disputed. The 3-hour biennial homeowners CE requirement exists specifically because the Division of Insurance views this documentation and advisory practice as a baseline professional obligation.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 A client received a nonrenewal notice because of their roof's age. What options do they have?
 

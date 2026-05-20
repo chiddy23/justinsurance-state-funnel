@@ -15,7 +15,7 @@ imageAlt: "Virginia's Health Insurance Exchange and Medicaid Expansion: What Pro
 
 Virginia made two foundational changes to its health coverage landscape in the past decade: Medicaid expansion in January 2019 and the launch of its own state-based insurance marketplace in fall 2023. Together, these changes significantly expanded coverage access for low- and middle-income Virginians and created a more complex coverage navigation environment for producers. Understanding how the Virginia Insurance Marketplace works, what Medicaid expansion covers, how the two interact, and what the current federal policy landscape means for Virginia clients is essential for any Life and Health producer serving Virginia's individual and small-group markets.
 
-### Virginia's Insurance Marketplace: From Federal to State-Based
+## Virginia's Insurance Marketplace: From Federal to State-Based
 
 Virginia's insurance marketplace went through three distinct phases:
 
@@ -27,7 +27,7 @@ Fall 2023 onward: Virginia launched its own state-based exchange, branded as Vir
 
 Why this matters for producers: Producers working with Virginia clients on marketplace coverage need to use the Virginia state platform, not HealthCare.gov, for plan selection and enrollment. Certified application counselors, navigators, and licensed producers who assist clients with marketplace enrollment must be familiar with the state platform's interface, plan availability, and subsidy calculation tools.
 
-### What the Virginia Marketplace Offers
+## What the Virginia Marketplace Offers
 
 For Plan Year 2026, Virginia's marketplace offers plans from 8 insurers (down from 10 in 2025). Plans are available in four metal tiers (Bronze, Silver, Gold, Platinum) plus catastrophic plans for eligible consumers under age 30 or with hardship exemptions.
 
@@ -37,7 +37,7 @@ Premium tax credits (subsidies): Federal premium tax credits reduce monthly prem
 
 Virginia reinsurance program: Virginia's reinsurance program, which took effect in 2023, helps reduce premiums for consumers who do not receive subsidies (those above 400% FPL) by absorbing a portion of high-cost claims. This program has helped moderate rate increases for higher-income enrollees.
 
-### Medicaid Expansion: Virginia's Cardinal Care Program
+## Medicaid Expansion: Virginia's Cardinal Care Program
 
 Virginia expanded Medicaid under the ACA effective January 1, 2019, making adults aged 19–64 with incomes up to 138% of the Federal Poverty Level (FPL) eligible for Medicaid coverage.
 
@@ -49,17 +49,17 @@ Current MCOs (as of July 2025): Aetna, Anthem HealthKeepers Plus, Humana Healthy
 
 FAMIS (Family Access to Medical Insurance Security): Virginia's CHIP program, covering uninsured children in families with incomes up to 205% FPL depending on age and program.
 
-### How the Marketplace and Medicaid Interact
+## How the Marketplace and Medicaid Interact
 
 The income-based coverage ladder in Virginia:
 
 Producers who assist clients with coverage navigation must understand where Medicaid eligibility ends and marketplace eligibility begins — this line determines whether a client applies at DMAS (Medicaid) or through the marketplace platform.
 
-### Federal Policy Risk: OBBBA and Medicaid Cuts
+## Federal Policy Risk: OBBBA and Medicaid Cuts
 
 The federal One Big Beautiful Bill Act (OBBBA) signed in 2025 includes significant reductions in federal Medicaid funding and new work requirements for expansion enrollees. Virginia hospitals and advocates have projected that Virginia could lose $3.3 billion in federal Medicaid funding, with approximately 365,000 eligible Virginians potentially being disenrolled from Cardinal Care. As of mid-2026, the implementation timeline for these changes was still developing — producers should stay current on Virginia's DMAS website for the latest enrollment and eligibility guidance.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 What is the role of a certified insurance producer in the Virginia Marketplace?
 

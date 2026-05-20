@@ -14,39 +14,39 @@ imageAlt: How to Build a 30-Day NJ Insurance Exam Study Plan That Actually Works
 
 Most people who fail the New Jersey insurance exam did not fail because the material was too hard. They failed because they had no plan — they read through their course materials once, felt roughly prepared, and walked into PSI underprepared on the state law section. A structured 30-day study plan eliminates that outcome. Thirty days is enough time for most candidates to complete their 20-hour [prelicensing](/new-jersey/prelicensing) requirement, review the material systematically, and pass the PSI exam on the first attempt.
 
-### Why 30 Days Works for Most Candidates
+## Why 30 Days Works for Most Candidates
 
 New Jersey requires 20 hours of prelicensing education per line of authority, with three of those hours dedicated to ethics. That is a relatively modest requirement compared to states like New York (40 hours for Life) or Florida (60 hours for 2-20). The course content is manageable in under two weeks for most people, which leaves the second half of your 30 days for active review, practice testing, and targeted drilling on the state law section — the area where NJ candidates most commonly fall short.
 
 If you are taking two lines simultaneously (for example, Life and Health), add 10 days to this plan and treat each line's state-specific content as a separate study unit.
 
-### The 30-Day Plan: Week by Week
+## The 30-Day Plan: Week by Week
 
-#### Week 1: Complete Your Prelicensing Course
+### Week 1: Complete Your Prelicensing Course
 
 Days 1 through 7 should be devoted entirely to working through your DOBI-approved prelicensing course. Do not skim. Read every section, complete every end-of-chapter quiz, and take notes on terms and concepts you are not immediately certain about. The prelicensing course is calibrated to the PSI content outline — if it is in the course, it may be on the exam.
 
 Target: 3 hours of course study per day, finishing all 20 required hours by the end of Day 7.
 
-#### Week 2: Review and Reinforce
+### Week 2: Review and Reinforce
 
 Days 8 through 14 shift from reading to active recall. Go back through your notes and build a personal glossary of terms. Focus especially on: types of policies and their features, policy provisions (grace periods, reinstatement, incontestability), and the mechanics of contract law as applied to insurance. These topics appear across multiple question types and reward candidates who understand the concepts, not just the definitions.
 
 On Day 12 or 13, take your first full-length [practice exam](/new-jersey/practice-exam) under timed conditions. Do not check answers as you go. Complete all 83 questions, then review every single answer — both the ones you got right and the ones you got wrong. The goal is not the score; it is identifying your weak topic areas before the real exam.
 
-#### Week 3: Dominate the State Law Section
+### Week 3: Dominate the State Law Section
 
 Days 15 through 21 are dedicated almost entirely to New Jersey-specific law. This is the section most candidates underweight in their studying and the section that most frequently causes failures. New Jersey's state law section covers producer licensing requirements, the role and authority of the DOBI Commissioner, unfair trade practices, the no-fault auto insurance system, the verbal threshold tort option, replacement regulations, and more.
 
 Pull up the PSI content outline for your exam line and work through every NJ-specific topic listed in sections IV and V. For each topic, ask yourself: what is the rule, what are the exceptions, and what fact pattern would PSI use to test this? Practice answering state law questions and tracking where you lose points.
 
-#### Week 4: Practice Testing and Final Polish
+### Week 4: Practice Testing and Final Polish
 
 Days 22 through 28 are for volume practice. Take at least two full-length practice exams under simulated test conditions — no notes, no phone, timed. After each exam, spend equal time reviewing wrong answers as you did taking the test. By Day 26, your practice scores should be consistently above 75%. If they are not, spend Days 27 and 28 drilling your lowest-scoring topic areas exclusively.
 
 Days 29 and 30 are for light review only — do not cram new material. Read through your personal glossary, review your flagged topics, and prepare your logistics for exam day: confirm your PSI appointment, locate your prelicensing certificate, plan your route to the test center.
 
-### Study Techniques That Work for This Exam
+## Study Techniques That Work for This Exam
 
 Active recall over passive reading. Flashcards, self-quizzing, and writing out definitions from memory are more effective than re-reading your notes. Your brain encodes information more deeply when it has to retrieve it, not just recognize it.
 
@@ -56,11 +56,11 @@ Question-first studying. After completing a topic in your course, immediately fi
 
 Time your practice sessions. The NJ exam gives you 210 minutes for 83 questions — about 2.5 minutes per question. You should be comfortably finishing practice sets well under pace. If you are regularly running out of time, your familiarity with the material needs work.
 
-### A Word on the Prelicensing Certification Exam
+## A Word on the Prelicensing Certification Exam
 
 Before you can sit for the PSI state exam, you must pass your prelicensing course's internal certification exam. In New Jersey, this exam must be proctored by a disinterested third party — someone who is not a friend, family member, or anyone with a financial interest in your results. You must score at least 70% to receive your certificate of completion. Plan for this exam in Week 1 of your study schedule — complete your 20 course hours, then schedule your proctored certification exam before moving into Week 2 review.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 How long should I study for the New Jersey insurance exam?
 

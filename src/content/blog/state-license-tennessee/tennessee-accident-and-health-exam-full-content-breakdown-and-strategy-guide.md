@@ -14,7 +14,7 @@ imageAlt: "Tennessee Accident and Health Exam: Full Content Breakdown and Strate
 
 The Tennessee Accident and Health licensing exam is administered by Pearson VUE, contains 77 questions — 68 scored and 9 unscored pretest — and must be passed at 70% to earn Accident and Health line of authority from the Tennessee Department of Commerce and Insurance. No mandatory [prelicensing](/tennessee/prelicensing) course is required. The A&H exam covers the broadest product landscape of any Tennessee licensing line — health insurance plan types, Medicare in all its parts, Medicaid through TennCare, disability income insurance, long-term care insurance, the Affordable Care Act framework, and Tennessee's state-specific health insurance regulatory provisions. Candidates who underestimate the breadth of this exam because they are familiar with health insurance as a consumer consistently fail the state law section and the Medicare-specific content that appears in higher volume than most candidates anticipate. This post provides the complete content breakdown for the Tennessee A&H exam: every topic area, what each tests at exam-level specificity, how the content is weighted, and the strategic approach that produces first-time passing scores.
 
-### The Two-Section Structure
+## The Two-Section Structure
 
 Every Tennessee insurance licensing exam tests two knowledge domains within a single 77-question, 105-minute session.
 
@@ -24,9 +24,9 @@ Section 2 — Tennessee State Laws and Regulations: Tests specific knowledge of 
 
 Both sections contribute to the single pool of 68 scored questions. The state law section is where the largest concentration of preventable failures occurs — candidates who know health insurance thoroughly from professional experience but have not studied Tennessee's specific statutory provisions lose enough state law questions to fall below 70% on the total exam.
 
-### General Section: Health Insurance Plan Types
+## General Section: Health Insurance Plan Types
 
-#### Traditional Indemnity Insurance
+### Traditional Indemnity Insurance
 
 Traditional indemnity insurance — also called fee-for-service — is the original health insurance model. The insured receives care from any provider, the provider bills the insurer, and the insurer pays based on the policy's benefit schedule.
 
@@ -44,7 +44,7 @@ The insured pays the remaining 20% plus any amount above UCR
 
 The indemnity concept: Indemnity insurance restores the insured to their pre-loss financial position — it pays based on actual medical expenses incurred rather than providing a fixed scheduled benefit. This is distinct from benefit schedule plans that pay a fixed dollar amount per procedure regardless of actual cost.
 
-#### Health Maintenance Organizations (HMOs)
+### Health Maintenance Organizations (HMOs)
 
 HMOs provide comprehensive health coverage through a defined network of providers in exchange for a fixed monthly premium and low or no cost-sharing at the point of service.
 
@@ -68,7 +68,7 @@ Network model HMO: The HMO contracts with multiple physician group practices, ea
 
 IPA model (Independent Practice Association): The HMO contracts with an IPA — an association of independent physicians in private practice who agree to see HMO members alongside their other patients. The most flexible HMO model and the most common in practice.
 
-#### Preferred Provider Organizations (PPOs)
+### Preferred Provider Organizations (PPOs)
 
 PPOs offer a middle path between the cost efficiency of HMOs and the freedom of traditional indemnity insurance.
 
@@ -84,7 +84,7 @@ Higher premiums than HMOs — members pay for the freedom to go out-of-network
 
 In-network vs. out-of-network cost comparison: In-network services typically have lower deductibles and lower coinsurance. Out-of-network services have higher deductibles and higher coinsurance — sometimes significantly higher. The cost differential incentivizes in-network use without requiring it.
 
-#### Exclusive Provider Organizations (EPOs)
+### Exclusive Provider Organizations (EPOs)
 
 EPOs combine features of HMOs and PPOs in a specific way that is frequently tested because candidates confuse them with both.
 
@@ -98,7 +98,7 @@ The critical combination: restrictive on coverage (network only) but flexible on
 
 The testable distinction: EPO vs. HMO — EPO does not require a PCP or referral. EPO vs. PPO — EPO provides no out-of-network coverage. EPO combines the worst of both (no out-of-network flexibility, no referral freedom from HMO) and the best of both (direct specialist access from PPO, lower premium from restricted network) depending on how you frame it.
 
-#### Point of Service Plans (POS)
+### Point of Service Plans (POS)
 
 POS plans are hybrids that allow members to choose at the point of service whether to use the HMO-style network or the PPO-style out-of-network option.
 
@@ -112,7 +112,7 @@ Members decide at each service event whether to stay in-network (lower cost, PCP
 
 The testable distinction: POS vs. HMO — POS allows out-of-network use. POS vs. PPO — POS requires PCP referral for in-network care. POS is the most flexible managed care option but typically the most administratively complex.
 
-#### High-Deductible Health Plans (HDHPs) and Health Savings Accounts (HSAs)
+### High-Deductible Health Plans (HDHPs) and Health Savings Accounts (HSAs)
 
 HDHPs pair high deductibles with lower premiums and eligibility to contribute to a Health Savings Account.
 
@@ -142,35 +142,35 @@ HSA funds roll over year to year — they do not expire like Flexible Spending A
 
 FSA comparison: Flexible Spending Accounts allow pre-tax contributions for medical expenses but are use-it-or-lose-it — unused funds are forfeited at year end (subject to a small rollover allowance under IRS rules). FSAs do not require HDHP enrollment.
 
-### General Section: Policy Provisions
+## General Section: Policy Provisions
 
-#### The Consideration Clause
+### The Consideration Clause
 
 Establishes what each party gives in exchange for the insurance contract. The insurer provides the promise of benefit payment. The insured provides the application (including truthful representations) and the first premium payment. Both elements — the application and the premium — constitute the insured's consideration.
 
-#### The Entire Contract Clause
+### The Entire Contract Clause
 
 The policy and the attached application constitute the entire contract between the insurer and the insured. Any statements made by the insurer's agents that are not incorporated into the written policy are not binding. The insured is protected from having policy terms changed orally — any modification must be in writing and attached to the policy.
 
-#### The Grace Period
+### The Grace Period
 
 Health insurance: 7-day grace period for weekly premium policies; 10-day grace period for monthly premium policies; 31-day grace period for all other policies (including annual premium policies).
 
 The grace period distinction between health insurance and life insurance is specifically testable. Life insurance has a standard 30-day grace period. Health insurance has a 31-day grace period for non-weekly, non-monthly policies — a one-day difference that appears on exam questions.
 
-#### The Reinstatement Provision
+### The Reinstatement Provision
 
 If a health insurance policy lapses due to non-payment, the policyholder may apply for reinstatement. If the insurer does not deny reinstatement within 45 days of receiving the reinstatement application and premium, the policy is automatically reinstated. The reinstated policy does not cover sickness that manifests within 10 days of reinstatement — the waiting period prevents reinstatement solely to obtain benefits for a known condition.
 
-#### The Incontestability Provision
+### The Incontestability Provision
 
 After a health insurance policy has been in force for a specified period — typically two to three years — the insurer cannot contest coverage based on misrepresentation in the application except for fraudulent misstatement. The health insurance incontestability provision parallels the life insurance provision in structure but differs in the applicable period depending on the policy type.
 
-#### The Time Limit on Certain Defenses
+### The Time Limit on Certain Defenses
 
 Limits the period during which the insurer may deny claims based on misrepresentation. After two to three years of continuous coverage, most health policies limit the insurer's right to deny claims based on preexisting condition misrepresentation — not eliminating it for fraud but restricting it for innocent misrepresentation.
 
-#### Coordination of Benefits (COB)
+### Coordination of Benefits (COB)
 
 When a person is covered by two health insurance policies — as a named insured under one and as a dependent under another — coordination of benefits rules prevent overpayment beyond 100% of actual expenses.
 
@@ -184,7 +184,7 @@ The birthday rule for dependent children: When a child is covered under both par
 
 The National Association of Insurance Commissioners (NAIC) COB model: Establishes order of benefit determination when multiple policies cover the same person — named insured first, then dependent coverage, then birthday rule for children.
 
-#### COBRA Continuation Coverage
+### COBRA Continuation Coverage
 
 The Consolidated Omnibus Budget Reconciliation Act (COBRA) requires employers with 20 or more employees who offer group health plans to offer continuation coverage to employees and dependents who lose coverage due to qualifying events.
 
@@ -202,19 +202,19 @@ Election period: Qualified beneficiaries have 60 days from the date coverage end
 
 The 20-employee threshold: COBRA applies only to employers with 20 or more employees in the prior calendar year. Smaller employers may be subject to state mini-COBRA laws — Tennessee has provisions for smaller employers that the exam may test.
 
-#### Conversion Rights
+### Conversion Rights
 
 When group health coverage terminates, the insured has the right to convert to an individual health policy without evidence of insurability, regardless of health status. The converted policy is typically a different plan design than the group plan — often with higher premiums and different benefit structure. The conversion right must be exercised within 31 days of group coverage termination.
 
-#### Subrogation
+### Subrogation
 
 Subrogation is the insurer's right to recover from a responsible third party the amounts it paid to the insured. If a health insurer pays $50,000 in medical expenses for injuries caused by a negligent third party, and the insured later recovers $50,000 from the third party's liability insurer, the health insurer can claim reimbursement from those recovered proceeds. The insured cannot be unjustly enriched by receiving both insurance benefits and full tort recovery for the same loss.
 
-### General Section: Medicare
+## General Section: Medicare
 
 Medicare is consistently one of the highest question-density topics on the Tennessee A&H exam. Candidates who have not studied Medicare's four parts in detail — particularly the specific services covered by each part, the premium structures, and the Medigap standardized plan framework — lose multiple exam questions to Medicare content.
 
-#### Medicare Part A — Hospital Insurance
+### Medicare Part A — Hospital Insurance
 
 Coverage: Inpatient hospital care, skilled nursing facility (SNF) care following a qualifying hospital stay, hospice care, and limited home health care.
 
@@ -240,7 +240,7 @@ Beyond 100 days: No Medicare SNF coverage
 
 SNF qualification requirement: Medicare covers SNF care only following a qualifying hospital inpatient stay of at least 3 consecutive days. Observation status (which is classified as outpatient) does not qualify. The 3-day qualifying stay is a specifically testable provision.
 
-#### Medicare Part B — Medical Insurance
+### Medicare Part B — Medical Insurance
 
 Coverage: Physician services, outpatient hospital care, preventive services, durable medical equipment (DME), mental health services, and outpatient physical, occupational, and speech therapy.
 
@@ -252,7 +252,7 @@ Preventive services: Part B covers a wide range of preventive services at no cos
 
 Enrollment: Part B enrollment is voluntary but carries penalties for late enrollment. The Initial Enrollment Period (IEP) is the 7-month window centered on the month of Medicare eligibility (3 months before, the month of, and 3 months after). Beneficiaries who delay enrollment beyond the IEP without creditable coverage pay a permanent 10% premium penalty for each 12-month period they delayed.
 
-#### Medicare Part C — Medicare Advantage
+### Medicare Part C — Medicare Advantage
 
 Medicare Advantage plans are private insurance plans approved by CMS that provide all Medicare Part A and Part B benefits — and typically additional benefits — through a managed care structure.
 
@@ -274,7 +274,7 @@ Enrollment: Beneficiaries enrolled in Medicare Advantage plans continue to pay t
 
 The producer certification requirement: Producers who sell Medicare Advantage and Part D plans must complete annual certification through the carrier's training portal (typically including AHIP certification) before they can represent those plans in any plan year. This annual certification is separate from the Tennessee A&H license and must be renewed every year.
 
-#### Medicare Part D — Prescription Drug Coverage
+### Medicare Part D — Prescription Drug Coverage
 
 Part D provides prescription drug benefits through private insurance plans approved by CMS.
 
@@ -284,7 +284,7 @@ Plan structure: Formulary-based — each plan has a list of covered drugs organi
 
 2025–2026 changes — the $2,000 out-of-pocket cap: The Inflation Reduction Act capped Medicare Part D out-of-pocket costs at $2,000 per year effective 2025 — eliminating the previous coverage gap (donut hole) that had required beneficiaries to pay 25% of costs after initial coverage limits were reached. This is a significant recent change that may appear on current Tennessee exams.
 
-#### Medicare Supplement Insurance (Medigap)
+### Medicare Supplement Insurance (Medigap)
 
 Medigap policies are standardized private insurance products designed to fill the gaps in original Medicare (Parts A and B) — covering deductibles, coinsurance, and copayments that original Medicare leaves to the beneficiary.
 
@@ -310,11 +310,11 @@ Dental, vision, and hearing (requires separate coverage or Medicare Advantage)
 
 Long-term custodial care
 
-### General Section: Disability Income Insurance
+## General Section: Disability Income Insurance
 
 Disability income insurance is consistently underrepresented in candidates' preparation — most candidates who have health insurance familiarity have less personal experience with disability products, creating knowledge gaps that the exam exploits.
 
-#### Definition of Disability
+### Definition of Disability
 
 The definition of disability in a policy is the most important feature determining when benefits are paid.
 
@@ -326,7 +326,7 @@ Modified own-occupation (transitional): Own-occupation for the first two to five
 
 The exam tests the definitions by their practical outcomes. Scenario questions ask: under which definition is this person disabled? Know how each definition applies to specific factual scenarios.
 
-#### Elimination Period (Waiting Period)
+### Elimination Period (Waiting Period)
 
 The elimination period is the waiting period between the onset of disability and when benefits begin. No benefits are paid during the elimination period — it functions like a deductible in time rather than dollars.
 
@@ -340,31 +340,31 @@ STD: Shorter elimination period (0–14 days), shorter benefit period (typically
 
 LTD: Longer elimination period (typically 90 days), longer benefit period (2 years, 5 years, to age 65, or lifetime)
 
-#### Benefit Amount
+### Benefit Amount
 
 Individual disability income policies typically replace 60–70% of pre-disability gross income. The replacement is partial — not 100% — to preserve the financial incentive to return to work. Benefits paid from individually owned policies purchased with after-tax premiums are income-tax-free. Benefits from employer-paid group policies are typically taxable income.
 
-#### Benefit Period
+### Benefit Period
 
 Short-term: Weeks to months — typically 13 or 26 weeks.
 
 Long-term: Years or age-based — common benefit periods include 2 years, 5 years, to age 65, or to age 67. Lifetime disability benefit periods are rare in individual policies but may appear on the exam as a concept.
 
-#### Residual Disability
+### Residual Disability
 
 Residual (partial) disability occurs when the insured can work but at reduced capacity — fewer hours or reduced duties — resulting in a proportional income loss. A residual disability benefit pays a proportional benefit based on the percentage of income lost, rather than requiring the insured to be totally unable to work.
 
 The proportional formula: If the insured's pre-disability income was $10,000/month and post-disability income is $6,000/month, the income loss is 40%. The residual benefit pays 40% of the disability income benefit amount.
 
-#### Waiver of Premium
+### Waiver of Premium
 
 If the insured becomes disabled, premiums are waived for the duration of the disability after the elimination period. The policy remains in force without premium payment while the insured is disabled. If the insured recovers and returns to work, premium payments resume.
 
-#### Social Insurance Supplement (SIS) Rider
+### Social Insurance Supplement (SIS) Rider
 
 Pays an additional benefit if the insured is denied Social Security Disability Insurance (SSDI) benefits. The rider provides a bridge between the insured's own disability policy coverage and the anticipated SSDI benefit that was applied for but not yet approved.
 
-#### Non-Cancelable vs. Guaranteed Renewable Policies
+### Non-Cancelable vs. Guaranteed Renewable Policies
 
 Non-cancelable: The insurer cannot cancel the policy, raise the premium, or change the policy terms as long as premiums are paid. The policy terms — including the disability definition, benefit amount, and elimination period — are locked for the life of the policy. The most protective policy type. The most expensive.
 
@@ -374,9 +374,9 @@ Conditionally renewable: The insurer can refuse to renew under specified conditi
 
 Optionally renewable: The insurer may choose not to renew the policy at any renewal date. Least protective. Rarely sold in the modern individual disability market.
 
-### General Section: Long-Term Care Insurance
+## General Section: Long-Term Care Insurance
 
-#### The Benefit Trigger
+### The Benefit Trigger
 
 Long-term care benefits are paid when the insured meets the benefit trigger — the clinical standard that establishes the need for long-term care.
 
@@ -398,17 +398,17 @@ The cognitive impairment trigger: The insured has a severe cognitive impairment 
 
 Both triggers must be defined in the policy and both represent the NAIC LTC Model Act standard that Tennessee follows.
 
-#### Elimination Period
+### Elimination Period
 
 LTC policies have elimination periods — typically 30, 60, or 90 days — during which the insured pays out of pocket before LTC benefits begin. Longer elimination period = lower premium.
 
 Calendar day vs. service day elimination periods: A calendar day elimination period counts every day regardless of whether care was received. A service day elimination period counts only days on which covered care was actually received. Calendar day elimination periods are satisfied more quickly and are more favorable to the insured.
 
-#### Benefit Period
+### Benefit Period
 
 How long the policy pays — commonly 2 years, 3 years, 5 years, or unlimited. Benefit amount × benefit period = total lifetime maximum benefit.
 
-#### Inflation Protection
+### Inflation Protection
 
 LTC costs inflate significantly over time — home health aide and nursing facility costs have historically risen faster than general inflation. Inflation protection options:
 
@@ -418,7 +418,7 @@ Compound inflation protection: The daily benefit increases by a fixed percentage
 
 Guaranteed purchase option: The insured is offered the opportunity to purchase additional coverage at specified intervals without evidence of insurability. The insured can accept or decline; declining the option eventually eliminates future offers.
 
-#### Tennessee LTC Training Requirements
+### Tennessee LTC Training Requirements
 
 Initial training: 8-hour LTC certification training must be completed before selling LTC products in Tennessee. This is a one-time prerequisite — not a recurring CE requirement.
 
@@ -426,9 +426,9 @@ Ongoing training: 4-hour LTC training required every 24 months (anchored to the 
 
 Training credit toward CE: LTC training hours count toward Tennessee's 24-hour biennial CE requirement — they do not add to it.
 
-### Tennessee State Law Section: A&H Focus
+## Tennessee State Law Section: A&H Focus
 
-#### TennCare — Tennessee's Medicaid Program
+### TennCare — Tennessee's Medicaid Program
 
 TennCare is Tennessee's name for its Medicaid program. Several Tennessee-specific TennCare provisions are consistently tested on the A&H exam state law section.
 
@@ -442,11 +442,11 @@ The TennCare direction prohibition (TCA §56-6-112): It is a ground for producer
 
 This provision is uniquely Tennessee and directly addresses a specific prohibited conduct around TennCare enrollment timing. It appears consistently on A&H exam state law questions. Know it by the statutory reference (§56-6-112) and its specific application — directing a group-covered person to TennCare to deplete public benefits before replacing with private group coverage is a license discipline ground.
 
-#### Tennessee Bad Faith Penalty — TCA §56-7-105
+### Tennessee Bad Faith Penalty — TCA §56-7-105
 
 If an insurer wrongfully refuses to pay a valid A&H claim — medical expense claim, disability income claim, or LTC benefit — the insured may recover the claim amount plus up to 25% additional damages. The 25% figure is specifically tested. The A&H exam tests this provision in scenarios where an insurer delays or denies a legitimate claim.
 
-#### TDCI Structure and Producer Licensing
+### TDCI Structure and Producer Licensing
 
 TDCI authority:
 
@@ -474,7 +474,7 @@ Carrier must file within 15 days of contract date (TCA §56-6-115)
 
 Carrier must notify Commissioner of termination within 30 days (TCA §56-6-117)
 
-#### Tennessee Unfair Trade Practices Act (TCA Title 56, Chapter 8)
+### Tennessee Unfair Trade Practices Act (TCA Title 56, Chapter 8)
 
 The unfair claims practices provisions under TCA §56-8-105 apply directly to A&H insurance claim handling. Prohibited acts include:
 
@@ -490,7 +490,7 @@ Compelling insureds to institute suits by offering substantially less than amoun
 
 For A&H producers, these prohibitions apply both to their own conduct in facilitating claims and to the conduct of insurers they represent.
 
-#### Tennessee-Specific A&H Provisions
+### Tennessee-Specific A&H Provisions
 
 Small employer health insurance: Tennessee has specific regulations governing health insurance coverage for small employers — typically defined as employers with 2 to 50 employees. Small employer health insurance rules address guaranteed availability, premium rating limitations, and portability provisions.
 
@@ -498,9 +498,9 @@ Individual health insurance continuation: Tennessee law provides continuation ri
 
 Mental health parity: Tennessee follows federal mental health parity requirements under the Mental Health Parity and Addiction Equity Act (MHPAEA) — group health plans may not impose more restrictive benefit limitations on mental health and substance use disorder (MH/SUD) services than on medical and surgical benefits.
 
-### Strategy: How to Study for the Tennessee A&H Exam
+## Strategy: How to Study for the Tennessee A&H Exam
 
-#### Topic Prioritization
+### Topic Prioritization
 
 Highest priority — deepest study:
 
@@ -540,7 +540,7 @@ Tennessee small employer health insurance regulations
 
 Specific 2026 Medicare cost-sharing amounts (know the structure, not necessarily every dollar figure)
 
-#### The Medicare Deep Dive
+### The Medicare Deep Dive
 
 Medicare is the topic area where the most preventable A&H exam failures occur. Most candidates have some familiarity with Medicare as a concept — but the exam tests specific operational details:
 
@@ -560,13 +560,13 @@ The COBRA 18-month vs. 36-month periods and the specific qualifying events that 
 
 Allocate more study time to Medicare than your familiarity with the general concept suggests — because the exam tests operational specifics, not the general concept.
 
-#### The Disability Definition Study Protocol
+### The Disability Definition Study Protocol
 
 The own-occupation vs. any-occupation distinction generates more exam questions than its apparent simplicity suggests — because the exam presents scenario-based questions that require applying the definition to specific factual situations. Practice applying each definition to every scenario:
 
 For every disability scenario question: identify the person's prior occupation, identify what they can still do, apply own-occupation (can they do their specific job?) and any-occupation (can they do any reasonable job?) independently, and select the definition under which the person is or is not disabled. Practice this mechanical application until it is automatic.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Medicare appears on the A&H exam, but I am primarily interested in selling individual health insurance to working-age adults. Do I really need to study Medicare in depth?
 

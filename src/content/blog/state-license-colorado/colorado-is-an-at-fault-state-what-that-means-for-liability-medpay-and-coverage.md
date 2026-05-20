@@ -14,7 +14,7 @@ imageAlt: Colorado Is an At-Fault State — What That Means for Liability, MedPa
 
 Colorado is an at-fault state. That single classification shapes every aspect of how auto insurance works for Colorado drivers — who pays after an accident, how fault is determined, what coverages are necessary, and what happens when the at-fault driver cannot pay. For producers selling personal auto coverage in Colorado, understanding the at-fault system is not just regulatory background knowledge — it is the foundation of every coverage adequacy conversation with a client.
 
-### What At-Fault Means: The Basic Framework
+## What At-Fault Means: The Basic Framework
 
 In an at-fault state, the driver who caused the accident is financially responsible for the resulting damages. Their liability insurance pays for the other party's injuries, lost wages, pain and suffering, and property damage — up to the limits of the policy. When a Colorado driver causes an accident, the injured party has three routes to compensation:
 
@@ -26,7 +26,7 @@ Route 3 — Personal injury lawsuit against the at-fault driver: If the at-fault
 
 The contrast with no-fault states: In no-fault states like Florida and Michigan, each driver's own Personal Injury Protection (PIP) coverage pays for their own medical expenses first, regardless of who caused the accident. Lawsuits and third-party claims are restricted — drivers cannot sue the at-fault party except for serious injuries that meet a defined threshold. No-fault systems reduce litigation volume by limiting third-party claims for minor accidents. Colorado made a deliberate policy choice to remain an at-fault state when it eliminated its no-fault PIP requirement, trading the efficiency of first-party payment for the fault accountability of the tort system.
 
-### Why Colorado Eliminated PIP
+## Why Colorado Eliminated PIP
 
 Colorado was once a no-fault state. The state required Personal Injury Protection coverage, which paid the policyholder's medical expenses after any accident regardless of fault — the same system Florida and Michigan still use. Colorado repealed its PIP requirement effective July 1, 2003, converting to a pure at-fault tort system.
 
@@ -34,11 +34,11 @@ The repeal was driven by documented abuses of the no-fault system — particular
 
 The practical consequence of this history is that Colorado has no PIP requirement. The coverage that replaced PIP's first-party medical payment function — MedPay — is optional, must be offered by every insurer, and is automatically included in policies unless specifically declined. It is smaller in scope and lower in limits than traditional PIP, which creates coverage gaps that producers and clients need to understand.
 
-### MedPay: Colorado's First-Party Medical Coverage
+## MedPay: Colorado's First-Party Medical Coverage
 
 Medical Payments (MedPay) coverage is the closest Colorado comes to a no-fault first-party medical coverage mechanism. Since 2009, Colorado law has required every auto insurer to offer MedPay with a minimum limit of $5,000 as part of any Colorado auto insurance policy. Since 2009 as well, MedPay has been automatically included in Colorado policies — the insurer adds it to the policy by default, and the policyholder must decline it in writing to remove it.
 
-#### What MedPay Covers
+### What MedPay Covers
 
 MedPay pays for reasonable and necessary medical expenses resulting from a covered auto accident — for the named insured, resident relatives, and any passenger in the covered vehicle at the time of the accident. It pays regardless of who caused the accident.
 
@@ -60,15 +60,15 @@ Dental treatment caused by the accident
 
 Funeral expenses (in fatal accidents)
 
-#### What MedPay Does Not Cover
+### What MedPay Does Not Cover
 
 MedPay does not cover lost wages, pain and suffering, property damage, or any non-medical expense. It is a narrow, medical-specific coverage. It does not cover injuries sustained outside a vehicle — a policyholder injured while riding a bicycle is not covered under their auto policy's MedPay unless they were struck by a vehicle as a pedestrian, which most MedPay forms do cover.
 
-#### MedPay Limits
+### MedPay Limits
 
 Colorado's required minimum offer is $5,000. Most insurers offer MedPay in limit increments: $1,000, $2,500, $5,000, $10,000, $25,000, and in some cases higher. The premium cost for MedPay is modest relative to the protection it provides — the $5,000 minimum can be added to most policies for less than $5–$15 per month. Higher limits (e.g., $25,000) provide meaningful first-party medical protection for serious injuries and are worth recommending to clients with high-deductible health plans.
 
-#### MedPay's Key Advantages in Colorado's At-Fault System
+### MedPay's Key Advantages in Colorado's At-Fault System
 
 Speed: MedPay pays without waiting for a fault determination. In an at-fault system, the liability investigation can take weeks or months. Medical bills arrive immediately. MedPay provides funds during the gap between the accident and the liability settlement.
 
@@ -80,11 +80,11 @@ Covers health insurance gaps: When a client has a $3,000 or $5,000 health insura
 
 Fault-neutral: A driver who was at fault for the accident and therefore cannot recover from the other driver's liability insurer can still use their own MedPay to cover medical expenses. MedPay is not forfeited by being at fault.
 
-#### MedPay and Subrogation
+### MedPay and Subrogation
 
 When MedPay pays a client's medical expenses and the at-fault driver is later identified and their liability insurer pays a settlement, the MedPay insurer has a subrogation right — the right to recover the amount it paid from the settlement proceeds. In practice, this means a client who receives both MedPay payments and a liability settlement does not keep both — the MedPay insurer recovers its outlay from the settlement. The client is not double-compensated. Producers should explain this to clients who ask why their insurer wants to be "paid back" from a settlement — subrogation is not a penalty, it is the mechanism that prevents double recovery and keeps premiums lower for all policyholders.
 
-### Colorado's Liability System: What At-Fault Means for the At-Fault Driver
+## Colorado's Liability System: What At-Fault Means for the At-Fault Driver
 
 When a Colorado driver is at fault for an accident, their liability insurer handles the claim against them. But liability coverage has limits that can be exhausted, and the at-fault driver remains personally liable for damages above those limits. The stakes of being underinsured are personal and financial:
 
@@ -94,7 +94,7 @@ Defense costs: Colorado liability policies include a duty to defend — the insu
 
 Umbrella coverage as the solution: A personal umbrella policy provides high-limit liability coverage above the underlying auto and homeowners limits, typically in $1 million increments. For Colorado drivers with assets to protect — homeowners, professionals, business owners — umbrella coverage is the most cost-effective way to bridge the gap between minimum or moderate auto liability limits and serious accident exposure. Annual premiums for $1 million in umbrella coverage are typically $150–$300, a modest cost relative to the protection.
 
-### Modified Comparative Negligence: When Fault Is Shared
+## Modified Comparative Negligence: When Fault Is Shared
 
 Colorado's at-fault system does not always produce a clean 100/0 fault determination. Many accidents involve shared responsibility — both drivers contributed to the collision through inattention, speeding, failure to yield, or other negligence. Colorado's modified comparative negligence rule (CRS § 13-21-111) governs these situations.
 
@@ -104,11 +104,11 @@ Proportional reduction below 50%: A plaintiff who is found to be 50% or less res
 
 What this means for coverage advice: The 50% bar creates a specific coverage scenario worth discussing with clients. A driver who is determined to be 51% at fault for an accident has no third-party recovery right under Colorado's modified comparative negligence rule. Their only source of compensation for their own medical expenses is their own MedPay and health insurance. Their only source of compensation for their vehicle damage is collision coverage. Clients who carry only the state minimum liability and decline MedPay and collision coverage are taking on significant financial risk in any shared-fault accident. The at-fault system does not guarantee compensation from another party — it guarantees accountability, which requires first-party coverages to function as the safety net when third-party recovery is unavailable.
 
-### The Coverage Architecture for Colorado Drivers
+## The Coverage Architecture for Colorado Drivers
 
 Understanding Colorado's at-fault system clarifies why each coverage layer exists and what gap it fills:
 
-### Practical Coverage Conversations for Colorado Producers
+## Practical Coverage Conversations for Colorado Producers
 
 The at-fault system creates three coverage conversations every Colorado auto producer should have with every client:
 
@@ -118,7 +118,7 @@ Conversation 2 — Do you have MedPay and at what limit? Since MedPay is auto-in
 
 Conversation 3 — Do you have collision coverage? In an at-fault state, a driver who causes an accident has no third-party source for their own vehicle damage. Their own collision coverage is their only first-party vehicle protection. For clients who own vehicles outright and have declined collision, the conversation is about whether they can absorb the full replacement cost of their vehicle if they cause an accident and their car is totaled.
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 If I am injured in an accident that was not my fault, do I file a claim with my own insurer or the other driver's insurer?
 

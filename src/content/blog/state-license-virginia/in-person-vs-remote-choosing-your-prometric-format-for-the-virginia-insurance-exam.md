@@ -15,7 +15,7 @@ imageAlt: "In-Person vs. Remote: Choosing Your Prometric Format for the Virginia
 
 Virginia candidates have two formats for the Prometric insurance licensing exam: in-person at a Prometric test center, or remote via Prometric's ProProctor platform from your own computer. Both cost the same ($35), deliver the same exam content, use the same scoring standard (70% each section), and produce the same score report. The difference is logistics — and the right choice depends entirely on your situation. This post covers every relevant detail about both formats so you can make the decision before you schedule.
 
-### In-Person at a Prometric Test Center
+## In-Person at a Prometric Test Center
 
 Virginia has six Prometric test center locations within the Commonwealth. You can also test at any of the 300+ Prometric centers nationwide — Virginia does not require you to test in-state.
 
@@ -53,7 +53,7 @@ Proctor physically present if issues arise
 
 No risk of technical disqualification
 
-### Remote via Prometric's ProProctor Platform
+## Remote via Prometric's ProProctor Platform
 
 Virginia insurance exams are available via Prometric's ProProctor remote proctoring platform. You take the exam on your own computer, in your own space, monitored by a Prometric proctor via webcam and screen monitoring.
 
@@ -101,7 +101,7 @@ Technical issues: If you experience technical difficulties during the exam, Prom
 
 Cancellation rule for remote exams: You must cancel at least three calendar days before your scheduled appointment to avoid forfeiting $40 of your exam fee. The same rule applies to in-person exams.
 
-### The Decision Framework
+## The Decision Framework
 
 The remote option is not inherently harder or easier — the exam is identical. The format choice is purely about which testing environment allows you to perform at your best.
 
@@ -127,7 +127,7 @@ You prefer testing from home to reduce commute and logistical stress
 
 In-person scheduling is limited in your area or time window
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 Is the Virginia insurance exam harder in one format versus the other?
 

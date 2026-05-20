@@ -32,7 +32,7 @@ All three are real options for a Florida 2-15 candidate — the right choice dep
 
 Florida's 2-15 Life, Health & Variable Annuity license is among the more complex state licensing tests in the country, and the state eliminated remote/online proctored exams [as of February 16, 2024](https://home.pearsonvue.com/fl/insurance). Every 2-15 candidate must now test in person at a Pearson VUE testing center. The exam contains approximately 150 questions with a 2-hour 45-minute time limit, and the passing score is 70%. Florida's application fee is $50 and the exam fee is $44 through Pearson VUE.
 
-The [Florida Department of Financial Services](https://myfloridacfo.com/division/agents/licensure/continuing-education) requires 40 hours of prelicensing education for the combined 2-15 license — more than most states require for a standard Life & Health combined license. Two things follow from this:
+The [Florida Department of Financial Services](https://myfloridacfo.com/division/agents/licensing/agents-and-adjusters/continuing-education) requires 40 hours of prelicensing education for the combined 2-15 license — more than most states require for a standard Life & Health combined license. Two things follow from this:
 
 1. **Your prelicensing provider matters more in Florida than in Texas or most other states**, where prelicensing isn't required or is shorter.
 2. **Course completion certificates are valid for 4 years** — you don't have to test immediately, but if you wait longer than 4 years the certificate expires and prelicensing has to be redone. After passing the exam, you have 12 months to submit your license application through NIPR before the exam result expires.

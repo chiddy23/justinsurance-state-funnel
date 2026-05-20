@@ -119,13 +119,19 @@ export default async function PracticeExamPage({
     "@type": "Product",
     name: card.title,
     description: card.desc,
-    brand: { "@type": "Brand", name: "JustInsurance" },
+    image: "https://justinsuranceco.com/justinsurance-logo.png",
+    brand: {
+      "@type": "Brand",
+      "@id": "https://justinsuranceco.com#organization",
+      name: "JustInsurance",
+    },
     offers: {
       "@type": "Offer",
       price: "59.00",
       priceCurrency: "USD",
       availability: "https://schema.org/InStock",
       url: card.url,
+      category: "Paid",
     },
   }));
 

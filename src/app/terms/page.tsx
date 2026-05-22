@@ -14,7 +14,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
   { name: "Terms of Service", url: "https://justinsuranceco.com/terms" },
 ]);
 
-const LAST_UPDATED = "April 1, 2025";
+const LAST_UPDATED = "May 22, 2026";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Sub-components
@@ -235,9 +235,54 @@ export default function TermsPage() {
 
         <p className="text-sm font-semibold text-navy mb-2">Standard Refund Policy</p>
         <P>
-          Refund requests submitted within 7 days of purchase and before more than 20% of course
-          content has been accessed will be honored in full. No refunds will be issued after the
-          7-day window or once more than 20% of course content has been accessed.
+          By enrolling in any JustInsurance course, you acknowledge that you have read and
+          understood the refund policy below.
+        </P>
+
+        <div className="space-y-3 mb-4">
+          <div className="bg-white border-l-4 border-gold rounded-r-lg border-t border-r border-b border-gray-200 p-4">
+            <p className="text-sm font-bold text-navy mb-1">
+              Within 24 hours of purchase &mdash; $5 processing fee
+            </p>
+            <p className="text-sm text-gray-600 leading-relaxed">
+              If you request a refund within 24 hours of purchase and have completed less than
+              50% of the course, we refund the full purchase price minus a $5 processing fee.
+            </p>
+          </div>
+
+          <div className="bg-white border-l-4 border-gold rounded-r-lg border-t border-r border-b border-gray-200 p-4">
+            <p className="text-sm font-bold text-navy mb-1">
+              After 24 hours, within 30 days &mdash; $24.95 processing fee
+            </p>
+            <p className="text-sm text-gray-600 leading-relaxed">
+              If you request a refund after 24 hours of purchase but within 30 days, and have
+              completed less than 50% of the course, we refund the full purchase price minus a
+              $24.95 processing fee.
+            </p>
+          </div>
+
+          <div className="bg-gray-50 border-l-4 border-gray-400 rounded-r-lg border-t border-r border-b border-gray-200 p-4">
+            <p className="text-sm font-bold text-gray-700 mb-1">
+              After 30 days or 50%+ complete &mdash; no refund
+            </p>
+            <p className="text-sm text-gray-600 leading-relaxed">
+              A refund is not available if the request is submitted more than 30 days after
+              purchase, or if you have completed more than 50% of the coursework &mdash;
+              whichever occurs first.
+            </p>
+          </div>
+        </div>
+
+        <P>
+          Refund requests must be submitted to{" "}
+          <a
+            href="mailto:support@justinsuranceco.com"
+            className="text-navy underline hover:text-gold"
+          >
+            support@justinsuranceco.com
+          </a>
+          . Course progress is measured by the percentage of lessons, video minutes, and
+          quizzes completed as tracked by our learning platform.
         </P>
 
         <p className="text-sm font-semibold text-navy mb-2">Pass Guarantee</p>

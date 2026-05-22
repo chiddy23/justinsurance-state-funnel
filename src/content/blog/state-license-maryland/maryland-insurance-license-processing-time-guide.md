@@ -10,7 +10,7 @@ clusterName: 'State License – Maryland'
 type: supporting
 date: '2026-04-30'
 author: Justin vom Eigen
-image: /blog/images/top-tips-for-choosing-the-best-insurance-pre-licensing-course-now.jpg
+image: /blog/images/avoid-these-common-mistakes-in-pre-licensing-courses-for-insurance.jpg
 imageAlt: >-
   Maryland insurance professional reviewing materials related to maryland
   insurance license processing time guide.

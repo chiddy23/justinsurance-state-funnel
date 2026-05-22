@@ -10,7 +10,7 @@ clusterName: 'State License – Maryland'
 type: supporting
 date: '2026-04-30'
 author: Justin vom Eigen
-image: /blog/images/why-getting-your-insurance-license-is-easier-than-you-think.jpg
+image: /blog/images/easy-strategies-to-help-you-pass-property-and-casualty-exam.jpg
 imageAlt: >-
   Maryland insurance professional reviewing materials related to maryland
   insurance code: core laws for licensed producers.

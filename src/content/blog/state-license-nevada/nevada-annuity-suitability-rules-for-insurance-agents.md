@@ -10,7 +10,7 @@ clusterName: 'State License – Nevada'
 type: supporting
 date: '2026-04-27'
 author: Justin vom Eigen
-image: /blog/images/unlock-your-insurance-career-potential-tips-for-success-today.jpg
+image: /blog/images/boost-your-career-with-a-north-carolina-insurance-license.jpg
 imageAlt: >-
   Nevada insurance professional reviewing materials related to nevada annuity
   suitability rules for insurance agents.

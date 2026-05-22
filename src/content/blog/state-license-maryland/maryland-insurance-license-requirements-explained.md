@@ -10,7 +10,7 @@ clusterName: 'State License – Maryland'
 type: supporting
 date: '2026-04-30'
 author: Justin vom Eigen
-image: /blog/images/ultimate-guide-to-passing-your-property-and-casualty-exam.jpg
+image: /blog/images/don-t-stress-property-and-casualty-licensing-exam-made-simple.jpg
 imageAlt: >-
   Maryland insurance professional reviewing materials related to maryland
   insurance license requirements explained.

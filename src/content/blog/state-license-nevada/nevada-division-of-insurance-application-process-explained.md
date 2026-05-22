@@ -10,7 +10,7 @@ clusterName: 'State License – Nevada'
 type: supporting
 date: '2026-04-27'
 author: Justin vom Eigen
-image: /blog/images/top-strategies-for-navigating-continuing-education-for-insurance-agents.jpg
+image: /blog/images/discover-the-best-ways-to-meet-insurance-ce-renewal-requirements.jpg
 imageAlt: >-
   Nevada insurance professional reviewing materials related to nevada division
   of insurance application process explained.

@@ -10,7 +10,7 @@ clusterName: 'State License – Maryland'
 type: supporting
 date: '2026-04-30'
 author: Justin vom Eigen
-image: /blog/images/top-strategies-for-navigating-continuing-education-for-insurance-agents.jpg
+image: /blog/images/discover-the-best-ways-to-meet-insurance-ce-renewal-requirements.jpg
 imageAlt: >-
   Maryland insurance professional reviewing materials related to maryland
   insurance administration application walkthrough.

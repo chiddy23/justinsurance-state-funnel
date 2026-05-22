@@ -10,7 +10,7 @@ clusterName: 'State License – Nevada'
 type: supporting
 date: '2026-04-27'
 author: Justin vom Eigen
-image: /blog/images/why-getting-your-insurance-license-is-easier-than-you-think.jpg
+image: /blog/images/easy-strategies-to-help-you-pass-property-and-casualty-exam.jpg
 imageAlt: >-
   Nevada insurance professional reviewing materials related to nevada insurance
   code: producer obligations and key laws.

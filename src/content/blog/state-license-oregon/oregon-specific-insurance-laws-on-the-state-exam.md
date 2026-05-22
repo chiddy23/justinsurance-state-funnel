@@ -10,7 +10,7 @@ clusterName: 'State License – Oregon'
 type: supporting
 date: '2026-04-27'
 author: Justin vom Eigen
-image: /blog/images/what-you-should-know-about-renewing-your-insurance-license.jpg
+image: /blog/images/boost-your-license-renewal-with-state-insurance-ce-mandates.jpg
 imageAlt: >-
   Oregon insurance professional reviewing materials related to oregon-specific
   insurance laws on the state exam.

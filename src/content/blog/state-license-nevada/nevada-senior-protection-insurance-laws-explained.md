@@ -10,7 +10,7 @@ clusterName: 'State License – Nevada'
 type: supporting
 date: '2026-04-27'
 author: Justin vom Eigen
-image: /blog/images/your-guide-to-mastering-the-insurance-pre-licensing-online-courses.jpg
+image: /blog/images/choose-the-right-california-insurance-pre-licensing-courses-fast.jpg
 imageAlt: >-
   Nevada insurance professional reviewing materials related to nevada senior
   protection insurance laws explained.

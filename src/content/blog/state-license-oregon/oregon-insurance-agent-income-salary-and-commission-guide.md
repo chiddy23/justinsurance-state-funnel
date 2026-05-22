@@ -10,7 +10,7 @@ clusterName: 'State License – Oregon'
 type: supporting
 date: '2026-04-27'
 author: Justin vom Eigen
-image: /blog/images/your-guide-to-mastering-the-insurance-pre-licensing-online-courses.jpg
+image: /blog/images/choose-the-right-california-insurance-pre-licensing-courses-fast.jpg
 imageAlt: >-
   Oregon insurance professional reviewing materials related to oregon insurance
   agent income: salary and commission guide.

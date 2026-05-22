@@ -11,7 +11,7 @@ clusterName: 'State License – Oregon'
 type: supporting
 date: '2026-04-27'
 author: Justin vom Eigen
-image: /blog/images/top-tips-for-choosing-the-best-insurance-pre-licensing-course-now.jpg
+image: /blog/images/avoid-these-common-mistakes-in-pre-licensing-courses-for-insurance.jpg
 imageAlt: >-
   Oregon insurance professional reviewing materials related to how to pass the
   oregon insurance exam on the first try.

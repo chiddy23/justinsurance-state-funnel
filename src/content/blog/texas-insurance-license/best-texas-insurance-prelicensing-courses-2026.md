@@ -22,8 +22,8 @@ This guide compares JustInsurance against the three providers most Texas candida
 
 - **JustInsurance**: $199 all-inclusive. 100+ videos, 5× weekly live instructor sessions, unlimited adaptive practice exams, flashcards, AI-powered exam simulations, white-glove NIPR help — all included in the base price. 93% [pass rate](/pass-rates) published with full methodology. 30-day guarantee window from enrollment.
 - **XCEL Solutions**: Describes its offering as a "3-Part Training Program" (prelicensing course, prep review course, exam simulator) with a tiered pricing model. Access windows, livestream session frequency, and feature inclusions can vary by tier. Markets "Trusted to Pass" language but does not publish a specific first-attempt pass rate with disclosed methodology on its public product pages.
-- **ExamFX**: Pass guarantee requires candidates to take the state licensing exam within **3 calendar days** of scoring 80%+ on their Readiness Exam. Published three package tiers (Self-Study, Video Study, Live Online) with different feature mixes. Publishes a 93% overall pass rate on /resources/candidates with disclosed methodology (2,826 self-reported respondents Feb 1 – Oct 17, 2025).
-- **AD Banker**: Long-established provider with multiple product formats (self-study, live webinar, classroom). Read current reviews on Trustpilot and Google before purchasing. Does not prominently publish a specific first-attempt pass rate with disclosed methodology.
+- **ExamFX**: Pass guarantee requires candidates to take the state licensing exam within **3 calendar days** of scoring 80%+ on their Readiness Exam. Uses multiple package tiers — live instructor sessions are typically reserved for higher-priced packages; verify current tier names and inclusions at examfx.com. Publishes a 93% overall pass rate on /resources/candidates with disclosed methodology (2,826 self-reported respondents Feb 1 – Oct 17, 2025).
+- **AD Banker**: Long-established provider (founded 1979, acquired by The CE Shop in December 2022) with multiple product formats (self-study and instructor-led live web class). Does not prominently publish a specific first-attempt pass rate with disclosed methodology on its product pages.
 
 If you want straightforward all-inclusive pricing with every feature bundled: JustInsurance. If you prefer evaluating package tiers and assembling the specific features you want: XCEL or ExamFX can fit depending on your schedule.
 
@@ -52,7 +52,7 @@ Two things follow from this:
 
 - **JustInsurance**: 100+ videos covering every topic on the Texas Life and Health exam content outline, with AI-optimized text at a 4th–5th grade reading level so the material is accessible regardless of your study background. Audio vocabulary lists for on-the-go review. Texas-specific modules cover state insurance code references candidates actually see on the exam.
 - **XCEL**: Video depth varies by package tier. Confirm current package inclusions at xcelsolutions.com before purchase.
-- **ExamFX**: Video depth varies across ExamFX's three published package tiers (Self-Study, Video Study, Live Online). Confirm inclusions at examfx.com before purchase.
+- **ExamFX**: Video depth varies across ExamFX's package tiers. Confirm current tier names and inclusions at examfx.com before purchase.
 - **AD Banker**: Self-study, live webinar, and classroom formats are offered. Feature inclusion varies by format and state. Confirm at adbanker.com.
 
 ### Practice exam quality
@@ -68,7 +68,7 @@ For Texas specifically, **realistic practice simulations matter more than in oth
 
 - **JustInsurance**: Live instructor sessions **5× weekly**, included in the $199 base course. Real-time Q&A with licensed insurance educators. No upgrade tier required.
 - **XCEL**: Offers livestream instructor-led classes with feature inclusion that can vary by package tier.
-- **ExamFX**: Live webinars and live online sessions are features of ExamFX's "Live Online" package tier; inclusion in other tiers (Self-Study, Video Study) can vary.
+- **ExamFX**: Live webinars and live online sessions are advertised as features; inclusion typically varies by package tier — verify at examfx.com before purchase.
 - **AD Banker**: Live webinar format is one of the product options — availability depends on schedule and region.
 
 ### Course access and extensions

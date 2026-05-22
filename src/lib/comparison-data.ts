@@ -44,12 +44,12 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "ExamFX",
     domain: "examfx.com",
     weaknesses: [
-      "Per ExamFX's published pass guarantee policy (examfx.com/pass-guarantee, verified April 2026): the pass guarantee requires taking the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam — verify current terms at examfx.com before purchase",
-      "Per ExamFX's published refund policy (examfx.com/refund-policy, verified April 2026): the standard refund policy requires refund request within 48 hours of purchase, and course extensions and in-course purchases are non-refundable — verify current terms at examfx.com before purchase",
+      "Per ExamFX's published pass guarantee policy (examfx.com/pass-guarantee, verified May 2026): the pass guarantee requires taking the state licensing exam within 3 calendar days of scoring 80%+ on their Readiness Exam — verify current terms at examfx.com before purchase",
+      "Per ExamFX's published refund policy (examfx.com/refund-policy, verified May 2026): the standard refund policy requires refund request within 48 hours of purchase, and course extensions and in-course purchases are non-refundable — verify current terms at examfx.com before purchase",
       "Pass-rate methodology counts self-reported survey respondents broadly; JustInsurance's published methodology applies a stricter inclusion bar (3× consecutive 80%+ practice-exam scores)",
     ],
     youShouldKnow:
-      "ExamFX's pass guarantee requires candidates to take the Readiness Exam no more than three calendar days prior to their state licensing exam, scoring 80% or higher. Because Pearson VUE and PSI testing-center availability varies by market, candidates should plan the sequence carefully. JustInsurance's guarantee allows 30 days from first enrollment to sit for the exam, giving more scheduling flexibility. ExamFX publishes line-of-authority pass rates (95% Life, 94% Life & Health, 99% P&C) with disclosed methodology — 2,826 self-reported survey respondents collected Feb 1 – Oct 17, 2025. JustInsurance publishes a 93% pass rate at /pass-rates using a stricter inclusion bar: students who completed the full course, finished recommended hours, and scored 80%+ on the practice exam three times in a row before testing. Both are disclosed; the qualifying criteria differ.",
+      "ExamFX's pass guarantee requires candidates to take the Readiness Exam no more than three calendar days prior to their state licensing exam, scoring 80% or higher. Because Pearson VUE and PSI testing-center availability varies by market, candidates should plan the sequence carefully. JustInsurance's guarantee allows 30 days from first enrollment to sit for the exam, giving more scheduling flexibility. ExamFX uses multiple package tiers — live instructor sessions are typically reserved for higher-priced packages; verify current tier names and inclusions at examfx.com before purchase. ExamFX publishes line-of-authority pass rates (95% Life, 94% Life & Health, 99% P&C) with disclosed methodology — 2,826 self-reported survey respondents collected Feb 1 – Oct 17, 2025. JustInsurance publishes a 93% pass rate at /pass-rates using a stricter inclusion bar: students who completed the full course, finished recommended hours, and scored 80%+ on the practice exam three times in a row before testing. Both are disclosed; the qualifying criteria differ. (Comparison reflects ExamFX's consumer product; their enterprise Elite Learning platform is a separate B2B offering.)",
   },
   adbanker: {
     slug: "adbanker",
@@ -57,13 +57,13 @@ export const PROVIDERS: Record<string, Provider> = {
     fullName: "AD Banker & Company",
     domain: "adbanker.com",
     weaknesses: [
-      "Prospective students should read current reviews on trustpilot.com and reviews.google.com before purchasing",
-      "Public product pages use tiered packaging; feature inclusion (live instructor sessions, practice exam access windows, extension durations) can vary by package tier and state — verify current inclusions at adbanker.com before purchase",
+      "Public product pages use tiered packaging (self-study and instructor-led live web class formats); feature inclusion (live instructor sessions, practice exam access windows, extension durations) can vary by package tier and state — verify current inclusions at adbanker.com before purchase",
       "AD Banker does not prominently publish a specific first-attempt pass rate percentage with disclosed methodology on its public product pages — verify any pass-rate claim and underlying methodology at adbanker.com before relying on it",
       "Pass guarantee and refund policy specifics vary by package and state; candidates should read the current terms on adbanker.com prior to enrolling",
+      "Owned by The CE Shop (acquired December 2022, Waud Capital portfolio) — context to consider when evaluating AD Banker alongside other CE Shop-affiliated providers",
     ],
     youShouldKnow:
-      "AD Banker & Company is a long-established prelicensing and continuing-education provider with multiple product tiers (self-study, live webinar, classroom) and state-specific course catalogs. Feature inclusion, access duration, and guarantee terms can vary by package tier and state, so prospective students should read AD Banker's current product and policy pages directly. Worth checking current third-party reviews on trustpilot.com and reviews.google.com before purchase. JustInsurance takes a single all-inclusive approach instead: the $199 base price covers 100+ videos, unlimited adaptive practice exams, 5× weekly live instructor sessions, flashcards, audio vocabulary, AI-powered exam simulations, and white-glove licensing support — same set of features for every student, no tier shopping. JustInsurance also publishes a 93% pass rate at /pass-rates with full methodology disclosed. Always verify current AD Banker package contents, pass guarantee, and refund terms at adbanker.com before purchase.",
+      "AD Banker & Company is a long-established prelicensing and continuing-education provider (founded 1979, acquired by The CE Shop in December 2022) with multiple product tiers (self-study and instructor-led live web class formats) and state-specific course catalogs. Feature inclusion, access duration, and guarantee terms can vary by package tier and state, so prospective students should read AD Banker's current product and policy pages directly at adbanker.com. JustInsurance takes a single all-inclusive approach instead: the $199 base price covers 100+ videos, unlimited adaptive practice exams, 5× weekly live instructor sessions, flashcards, audio vocabulary, AI-powered exam simulations, and white-glove licensing support — same set of features for every student, no tier shopping. JustInsurance also publishes a 93% pass rate at /pass-rates with full methodology disclosed. Always verify current AD Banker package contents, pass guarantee, and refund terms at adbanker.com before purchase.",
   },
   aceable: {
     slug: "aceable",
@@ -89,10 +89,10 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     examfx: { kind: "limited", label: "Video depth varies by package tier" },
   },
   {
-    feature: "AI-Generated Coverage of State Exam Outline (JustInsurance feature)",
+    feature: "AI-Generated Coverage of State Exam Outline",
     justinsurance: { kind: "yes" },
-    xcel: { kind: "no" },
-    examfx: { kind: "no" },
+    xcel: { kind: "limited", label: "Rubi AI Study Partner offered; scope not publicly disclosed" },
+    examfx: { kind: "limited", label: "Not in current public consumer packages — verify at examfx.com" },
   },
   {
     feature: "Course Extension Options",
@@ -113,10 +113,10 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     examfx: { kind: "limited", label: "Live webinars offered; availability varies by package" },
   },
   {
-    feature: "AI-Powered Adaptive Exam Simulations (JustInsurance feature)",
+    feature: "AI-Powered Adaptive Exam Simulations",
     justinsurance: { kind: "yes" },
-    xcel: { kind: "no" },
-    examfx: { kind: "no" },
+    xcel: { kind: "limited", label: "Weighted-topic simulators only; not adaptive AI" },
+    examfx: { kind: "limited", label: "Consumer product: weighted-topic only. Elite Learning (B2B) is separate." },
   },
   {
     feature: "Flashcards Included in Base Package",
@@ -127,14 +127,14 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
   {
     feature: "White-Glove Licensing Process Support",
     justinsurance: { kind: "yes", label: "NIPR + fingerprinting help" },
-    xcel: { kind: "no" },
-    examfx: { kind: "no" },
+    xcel: { kind: "limited", label: "Not advertised in current packages — verify at xcelsolutions.com" },
+    examfx: { kind: "limited", label: "Not advertised in current packages — verify at examfx.com" },
   },
   {
     feature: "Audio Vocabulary Lists",
     justinsurance: { kind: "yes" },
-    xcel: { kind: "no" },
-    examfx: { kind: "no" },
+    xcel: { kind: "limited", label: "Not advertised in current packages — verify at xcelsolutions.com" },
+    examfx: { kind: "limited", label: "Not advertised in current packages — verify at examfx.com" },
   },
   {
     feature: "Published Pass Rate with Methodology",
@@ -143,16 +143,16 @@ export const COMPARISON_ROWS: ComparisonRow[] = [
     examfx: { kind: "yes", label: "94% L&H, 95% Life, 99% P&C; 2,826 self-reported respondents" },
   },
   {
-    feature: "AI-Optimized Reading Level — 4th/5th Grade (JustInsurance feature)",
+    feature: "AI-Optimized Reading Level — 4th/5th Grade",
     justinsurance: { kind: "yes" },
-    xcel: { kind: "no" },
-    examfx: { kind: "no" },
+    xcel: { kind: "limited", label: "No published reading-level standard — verify at xcelsolutions.com" },
+    examfx: { kind: "limited", label: "No published reading-level standard — verify at examfx.com" },
   },
   {
     feature: "Free Report Card Review if Student Fails",
     justinsurance: { kind: "yes" },
-    xcel: { kind: "no" },
-    examfx: { kind: "no" },
+    xcel: { kind: "limited", label: "Not advertised in current packages — verify at xcelsolutions.com" },
+    examfx: { kind: "limited", label: "Not advertised in current packages — verify at examfx.com" },
   },
   {
     feature: "Developer API for Agency Onboarding Automation",

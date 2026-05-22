@@ -45,11 +45,6 @@ function competitorFaqs(p: (typeof PROVIDERS)[string]) {
           "AD Banker & Company does not prominently publish a specific first-attempt pass rate percentage with disclosed methodology on its public product pages. JustInsurance publishes a 93% pass rate at /pass-rates with full methodology disclosed: students who completed the full course, finished recommended study hours, and scored 80%+ on the practice exam three times in a row before testing. Methodology transparency is what lets a prospective student evaluate a pass-rate claim on equal footing. If AD Banker updates its public pages with a pass-rate figure and methodology, compare those qualifying criteria directly against the /pass-rates methodology before drawing a conclusion.",
       },
       {
-        question: "How reliable are customer reviews of AD Banker?",
-        answer:
-          "Customer review sentiment on third-party review platforms is mixed — we recommend reading current reviews on trustpilot.com and reviews.google.com for an unfiltered view of recent student experiences before purchasing from any prelicensing provider (AD Banker, JustInsurance, or any competitor). Look for recurring themes — course access duration complaints, refund-process friction, instructor responsiveness — rather than individual star counts. JustInsurance maintains a published pass-rate methodology and 7-day support (M–F 7a–10p, Sat/Sun 8a–8p) specifically to give students predictable touchpoints throughout the course.",
-      },
-      {
         question: "What does AD Banker include vs charge extra for?",
         answer:
           "AD Banker's public product pages use tiered packaging: self-study, live webinar, and classroom options can include different combinations of video content, instructor contact, practice exams, flashcards, and extended access. Which features are included in the base package versus offered as an upgrade can vary by package tier and state — verify current inclusions at adbanker.com before purchase. JustInsurance avoids tier shopping by putting every core study feature — 100+ videos, unlimited adaptive practice exams, flashcards, 5× weekly live instructor sessions, AI-powered exam simulations, audio vocabulary, and extension options — in the base $199 price.",
@@ -205,7 +200,7 @@ export default async function CompetitorComparisonPage({
           <p className="text-xs text-gray-600 leading-relaxed">
             <strong className="text-navy">Comparison accuracy:</strong> Claims on this page reflect
             {" "}{p.fullName}&apos;s publicly available product pages, pass guarantee, refund policy,
-            and FAQ documents as of April 17, 2026. Competitor terms, pricing, and features can change
+            and FAQ documents as of May 22, 2026. Competitor terms, pricing, and features can change
             without notice. Always verify current terms directly at{" "}
             <a href={`https://${p.domain}`} target="_blank" rel="noopener noreferrer" className="underline text-navy hover:text-gold">
               {p.domain}
@@ -227,17 +222,17 @@ export default async function CompetitorComparisonPage({
         </div>
       </section>
 
-      {/* Weaknesses list */}
+      {/* Trade-offs list (formerly "Falls Short" — softened framing per Lanham audit 2026-05-22) */}
       <section className="bg-white py-16 px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy mb-6">
-            Where {p.fullName} Falls Short
+            Trade-offs to Know About {p.fullName}
           </h2>
           <ul className="space-y-3">
             {p.weaknesses.map((w) => (
-              <li key={w} className="flex gap-3 bg-red-50 border-l-4 border-red-400 rounded-r-md p-4">
-                <span className="flex-shrink-0 w-6 h-6 rounded-full bg-red-100 text-red-600 flex items-center justify-center text-sm font-bold mt-0.5">
-                  ✗
+              <li key={w} className="flex gap-3 bg-gold/5 border-l-4 border-gold/60 rounded-r-md p-4">
+                <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gold/15 text-gold-dark flex items-center justify-center text-sm font-bold mt-0.5">
+                  i
                 </span>
                 <p className="text-gray-800 leading-relaxed">{w}</p>
               </li>
@@ -245,7 +240,7 @@ export default async function CompetitorComparisonPage({
           </ul>
           <p className="text-gray-500 text-sm mt-6 italic">
             Claims on this page are based on {p.fullName}&apos;s publicly available product pages and
-            published policy documents as of April 2026. Competitor policies and pricing can change —
+            published policy documents as of May 2026. Competitor policies and pricing can change —
             always verify current terms directly at {p.domain} before purchase.
           </p>
         </div>

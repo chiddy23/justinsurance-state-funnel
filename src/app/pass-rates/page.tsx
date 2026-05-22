@@ -11,7 +11,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateArticleSchemaWithReview
 export const metadata: Metadata = {
   title: { absolute: "JustInsurance Pass Rates — 93% First-Attempt (Methodology)" },
   description:
-    "JustInsurance students pass their insurance licensing exam at a 93% first-attempt rate vs ~55% national average. See how our courses compare.",
+    "JustInsurance students pass their insurance licensing exam at a 93% first-attempt rate among students who complete the course and recommended practice. Full methodology disclosed.",
   alternates: { canonical: "https://justinsuranceco.com/pass-rates" },
 };
 
@@ -47,7 +47,7 @@ const features = [
   {
     title: "State-Specific Content",
     description:
-      "Every course is tailored to your state's Department of Insurance requirements. You study exactly what your exam tests — nothing irrelevant, nothing missing.",
+      "Every course is tailored to your state's Department of Insurance requirements and aligned to your state's exam content outline.",
   },
   {
     title: "Self-Paced Learning",
@@ -130,20 +130,20 @@ export default function PassRatesPage() {
               </p>
             </div>
 
-            {/* National average stat */}
+            {/* Unprepared-candidate comparison (scoped, no specific national-average claim) */}
             <div className="bg-gray-100 rounded-2xl p-10 text-center shadow-md">
               <p className="text-gray-500 text-sm uppercase tracking-widest font-semibold mb-3">
-                National Average
+                Without Structured Prep
               </p>
               <p
                 className="font-extrabold leading-none mb-3 text-gray-400"
                 style={{ fontSize: "5rem" }}
               >
-                ~55%
+                ~50&ndash;60%
               </p>
-              <p className="text-gray-700 text-lg font-semibold">First-Attempt Pass Rate</p>
+              <p className="text-gray-700 text-lg font-semibold">Typical First-Attempt Range</p>
               <p className="text-gray-500 text-sm mt-2">
-                Without structured preparation or a state-approved course
+                Per Pearson VUE and state DOI published pass-rate ranges; varies by state and line of authority
               </p>
             </div>
           </div>
@@ -151,8 +151,9 @@ export default function PassRatesPage() {
           {/* Delta callout */}
           <div className="mt-8 bg-gold/10 border border-gold/30 rounded-xl p-6 text-center">
             <p className="text-navy font-bold text-xl">
-              JustInsurance students pass at nearly{" "}
-              <span className="text-gold">2x the national rate</span>
+              JustInsurance students pass at{" "}
+              <span className="text-gold">substantially higher rates</span>
+              {" "}than candidates who skip structured preparation
             </p>
           </div>
         </div>
@@ -175,12 +176,13 @@ export default function PassRatesPage() {
               state, and line of authority.
             </p>
             <p>
-              <strong className="text-navy">The ~55% national average</strong> reflects
-              publicly available data and industry research on first-attempt pass
-              rates for insurance licensing exams. Candidates who attempt the exam
-              without completing a structured, state-approved course typically pass
-              at rates between 50% and 60% on the first attempt, depending on the
-              state and line of authority.
+              <strong className="text-navy">The 50&ndash;60% typical range for candidates without structured prep</strong> reflects
+              published first-attempt pass-rate data from Pearson VUE handbooks, state Department of
+              Insurance reports, and industry summaries. The exact figure varies meaningfully by
+              state and line of authority &mdash; some state exams sit closer to 50%, others closer to 65%.
+              The pattern that holds across nearly every state: candidates who complete a structured,
+              state-approved prelicensing course pass at substantially higher rates than candidates
+              who attempt the exam unprepared.
             </p>
             <p>
               <strong className="text-navy">Students who complete our full course</strong>{" "}

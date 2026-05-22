@@ -47,7 +47,7 @@ The biggest difference between providers isn't the base price — it's what you 
 
 - **JustInsurance**: 100+ videos covering every topic on the Florida 2-15 content outline, with AI-optimized text at a 4th–5th grade reading level so the material is accessible to candidates from any background. Audio vocabulary lists for on-the-go review.
 - **XCEL**: Video depth varies by package tier. Confirm current package inclusions at xcelsolutions.com before purchase.
-- **ExamFX**: Video depth varies across ExamFX's three published package tiers (Self-Study, Video Study, Live Online). Confirm inclusions at examfx.com before purchase.
+- **ExamFX**: Video depth varies across ExamFX's package tiers. Confirm current tier names and inclusions at examfx.com before purchase.
 
 ### Practice exam quality
 
@@ -136,7 +136,7 @@ The base price comparison is misleading because of the upcharge model. Here's wh
 - **Total depends on which package and add-ons you select** — confirm at xcelsolutions.com
 
 ### ExamFX total cost
-- Base prelicensing: varies by package tier (Self-Study, Video Study, Live Online)
+- Base prelicensing: varies by package tier — verify current tier names and inclusions at examfx.com
 - Add-ons (flashcards, extensions, additional practice content, live session upgrades): vary by tier
 - Course extensions: 30-day and 60-day paid options per ExamFX FAQ
 - **Total depends on which tier and add-ons you select** — confirm at examfx.com

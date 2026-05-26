@@ -1,14 +1,25 @@
 // P&C Continuing Education packages — 31 packages across 25 states.
 //
-// Pricing rule (per stakeholder, 2026-04-29):
-//   "Pricing is the same as L&H by state. If state and hours match, price matches."
-// Implementation:
-//   - Default per-package price = state's L&H ceInfo.packagePrice (from states.ts)
-//   - AZ priced at $111 (matches L&H AZ 48-hour package)
-//   - AK priced at $75 (matches L&H AK premium)
-//   - All other 23 states: $39 (matches L&H baseline)
-//   - For non-standard hour packages (FL multi-package, MA tier 2, KS 18-hr, VA 16-hr, IA 36-hr),
-//     defaulted to state's L&H base price; flagged for stakeholder confirmation in build report.
+// Pricing rule (corrected 2026-05-26 — supersedes the 2026-04-29 note):
+//   SBS / per-credit-hour states:  price = $39 base + $1.50 per credit hour.
+//   Flat (non-SBS) states:          price = $39 flat, regardless of hours.
+//
+//   The $39+$1.50/hr formula reproduces every L&H price exactly:
+//     18 hr -> $66    24 hr -> $75    36 hr -> $93
+//     45 hr -> $106.50   48 hr -> $111   60 hr -> $129
+//
+//   Flat-$39 (non-SBS) states confirmed by stakeholder: CA, ME, NC, NJ, OH,
+//     TX, WV, WY, VA (16-hr), and all 6 FL packages. These stay $39 even at
+//     24 hours — they do NOT carry the per-credit-hour SBS reporting uplift.
+//
+//   ORIGINAL BUG: the 2026-04-29 build hardcoded every non-AK/AZ state to $39,
+//   assuming "$39 = L&H baseline." That was wrong — the SBS states' L&H prices
+//   were already formula-derived ($66/$75/$106.50/$111). 14 P&C packages were
+//   underpriced as a result and corrected 2026-05-26 (NE/ID/IL/MT/NH/NM/RI/TN/
+//   VT/WI -> $75, KS -> $66, IA -> $93, MA 45-hr -> $106.50, MA 60-hr -> $129).
+//
+//   Provider approval: same provider numbers cover both L&H and P&C.
+//   Pull provider numbers from states.ts at render time — do NOT duplicate here.
 //
 // Provider approval: same provider numbers cover both L&H and P&C per stakeholder confirmation.
 // Pull provider numbers from states.ts at render time — do NOT duplicate here.
@@ -161,7 +172,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 33, totalHours: 36,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8520D459-F4DD-4E5A-A96C-B54D826E479D",
     specialNotes: ["Iowa requires 36 hours every 3-year renewal cycle, including 3 hours of ethics."],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
+    status: "Active", price: "$93",
   },
   {
     state: "ID", stateName: "Idaho", stateSlug: "idaho",
@@ -169,7 +180,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     shortName: "Idaho P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 21, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=619B808F-7017-4374-9A8B-14B4C659E284",
-    specialNotes: [], status: "Active", price: "$39",
+    specialNotes: [], status: "Active", price: "$75",
   },
   {
     state: "IL", stateName: "Illinois", stateSlug: "illinois",
@@ -180,7 +191,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     specialNotes: [
       "Ethics module is delivered in webinar format per Illinois Department of Insurance requirements.",
     ],
-    status: "Active", price: "$39",
+    status: "Active", price: "$75",
   },
   {
     state: "KS", stateName: "Kansas", stateSlug: "kansas",
@@ -191,7 +202,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     specialNotes: [
       "Kansas P&C and Personal Lines licensees who sell flood insurance must also complete a one-time 3-hour NFIP course (not included in this package).",
     ],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
+    status: "Active", price: "$66",
   },
   {
     state: "ME", stateName: "Maine", stateSlug: "maine",
@@ -210,7 +221,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     specialNotes: [
       "Includes the 1-hour Montana Insurance Law module required by the Montana Commissioner of Securities and Insurance.",
     ],
-    status: "Active", price: "$39",
+    status: "Active", price: "$75",
   },
   {
     state: "NC", stateName: "North Carolina", stateSlug: "north-carolina",
@@ -226,7 +237,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     shortName: "Nebraska P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 21, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=A326832A-30F9-458E-9A91-457C366D8BBE",
-    specialNotes: [], status: "Active", price: "$39",
+    specialNotes: [], status: "Active", price: "$75",
   },
   {
     state: "NH", stateName: "New Hampshire", stateSlug: "new-hampshire",
@@ -234,7 +245,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     shortName: "New Hampshire P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 21, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=13D82FEE-FE0D-4943-B7EB-D258EF6CE98D",
-    specialNotes: [], status: "Active", price: "$39",
+    specialNotes: [], status: "Active", price: "$75",
   },
   {
     state: "NJ", stateName: "New Jersey", stateSlug: "new-jersey",
@@ -253,7 +264,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     specialNotes: [
       "Includes Classroom Equivalent Hours per New Mexico Office of Superintendent of Insurance requirements.",
     ],
-    status: "Active", price: "$39",
+    status: "Active", price: "$75",
   },
   {
     state: "OH", stateName: "Ohio", stateSlug: "ohio",
@@ -269,7 +280,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     shortName: "Rhode Island P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 21, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=AA4DDCAE-926A-42B2-8712-B9A5D80F9295",
-    specialNotes: [], status: "Active", price: "$39",
+    specialNotes: [], status: "Active", price: "$75",
   },
   {
     state: "TN", stateName: "Tennessee", stateSlug: "tennessee",
@@ -277,7 +288,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     shortName: "Tennessee P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 21, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=DFFBA3A0-0E5A-43B2-8E1E-E3364C3F4CF5",
-    specialNotes: [], status: "Active", price: "$39",
+    specialNotes: [], status: "Active", price: "$75",
   },
   {
     state: "TX", stateName: "Texas", stateSlug: "texas",
@@ -301,7 +312,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     specialNotes: [
       "Virginia P&C agents need 16 hours every 2-year renewal cycle, including 3 hours of ethics.",
     ],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
+    status: "Active", price: "$39",
   },
   {
     state: "VT", stateName: "Vermont", stateSlug: "vermont",
@@ -309,7 +320,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     shortName: "Vermont P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 21, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=397262AF-2EEE-4F14-83A2-38C9E0CEA9C4",
-    specialNotes: [], status: "Active", price: "$39",
+    specialNotes: [], status: "Active", price: "$75",
   },
   {
     state: "WI", stateName: "Wisconsin", stateSlug: "wisconsin",
@@ -317,7 +328,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     shortName: "Wisconsin P&C CE",
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 21, totalHours: 24,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=E358162D-AEEC-4229-994A-A8C499CE3E42",
-    specialNotes: [], status: "Active", price: "$39",
+    specialNotes: [], status: "Active", price: "$75",
   },
   {
     state: "WV", stateName: "West Virginia", stateSlug: "west-virginia",
@@ -432,7 +443,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     specialNotes: [
       "Massachusetts 45-hour CE tier — for licensees on the standard 3-year renewal track.",
     ],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
+    status: "Active", price: "$106.50",
   },
   {
     state: "MA", stateName: "Massachusetts", stateSlug: "massachusetts", packageSlug: "60-hour",
@@ -443,7 +454,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     specialNotes: [
       "Massachusetts 60-hour CE tier — for licensees with the extended renewal-cycle requirement.",
     ],
-    status: "Active", price: "$39", priceNeedsConfirmation: true,
+    status: "Active", price: "$129",
   },
 ];
 

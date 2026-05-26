@@ -8,15 +8,22 @@
 //     18 hr -> $66    24 hr -> $75    36 hr -> $93
 //     45 hr -> $106.50   48 hr -> $111   60 hr -> $129
 //
-//   Flat-$39 (non-SBS) states confirmed by stakeholder: CA, ME, NC, NJ, OH,
-//     TX, WV, WY, VA (16-hr), and all 6 FL packages. These stay $39 even at
-//     24 hours — they do NOT carry the per-credit-hour SBS reporting uplift.
+//   SBS states get the formula (the 25 per State-Based Systems / NAIC):
+//     AL, AK, AZ, AR, CT, DE, DC, HI, ID, IL, KS, MA, MT, NE, NH, NM, ND,
+//     OK, OR, RI, SC, SD, TN, VT, WI. (We currently sell P&C in: AK, AZ, ID,
+//     IL, KS, MA, MT, NE, NH, NM, RI, TN, VT, WI.)
+//
+//   Flat-$39 (non-SBS) states confirmed by stakeholder: CA, IA, ME, NC, NJ,
+//     OH, TX, WV, WY, VA (16-hr), and all 6 FL packages. These stay $39
+//     regardless of hours — they do NOT carry the per-credit-hour SBS uplift.
+//     (NOTE: Iowa is 36 hours but is NON-SBS, so it is flat $39 — do not
+//     formula-price it. Its L&H price was corrected $59 -> $39 to match.)
 //
 //   ORIGINAL BUG: the 2026-04-29 build hardcoded every non-AK/AZ state to $39,
 //   assuming "$39 = L&H baseline." That was wrong — the SBS states' L&H prices
-//   were already formula-derived ($66/$75/$106.50/$111). 14 P&C packages were
+//   were already formula-derived ($66/$75/$106.50/$111). 13 P&C packages were
 //   underpriced as a result and corrected 2026-05-26 (NE/ID/IL/MT/NH/NM/RI/TN/
-//   VT/WI -> $75, KS -> $66, IA -> $93, MA 45-hr -> $106.50, MA 60-hr -> $129).
+//   VT/WI -> $75, KS -> $66, MA 45-hr -> $106.50, MA 60-hr -> $129).
 //
 //   Provider approval: same provider numbers cover both L&H and P&C.
 //   Pull provider numbers from states.ts at render time — do NOT duplicate here.
@@ -172,7 +179,7 @@ const PC_CE_PACKAGES_RAW: PCPackageInput[] = [
     ethicsHours: 3, ethicsLabel: "Ethics", pcHours: 33, totalHours: 36,
     cartLink: "https://yourinsurancelicense.myabsorb.com/#/AddToCart?CourseIds=8520D459-F4DD-4E5A-A96C-B54D826E479D",
     specialNotes: ["Iowa requires 36 hours every 3-year renewal cycle, including 3 hours of ethics."],
-    status: "Active", price: "$93",
+    status: "Active", price: "$39",
   },
   {
     state: "ID", stateName: "Idaho", stateSlug: "idaho",

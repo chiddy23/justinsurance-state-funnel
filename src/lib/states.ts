@@ -2761,7 +2761,7 @@ export const STATES: Record<string, StateData> = {
       renewalPeriod: "3 years",
       ethicsHours: 3,
       requirementsUrl: "https://iid.iowa.gov/summary-resident-iowa-continuing-education",
-      packagePrice: "$59",
+      packagePrice: "$39",
       ethicsCoursePrice: "$10",
       individualCoursePrice: "$10",
       completionTime: "A few hours (depending on course length)",

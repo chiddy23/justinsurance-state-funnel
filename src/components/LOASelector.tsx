@@ -9,6 +9,19 @@ import {
   isPCMultiPackageState,
 } from "@/data/pc-ce-packages";
 
+// States where the L/H/L&H CE Absorb catalog contains MULTIPLE packages per
+// LOA (so the link is a picker, not a direct cart). For these states the
+// L/H/L&H cards render "Choose a Package →" matching the P&C pattern, since
+// "Enroll Now — $X" is misleading when the user still has to pick a package.
+const MULTI_PACKAGE_LH_CE_STATES = new Set<string>(["florida", "massachusetts"]);
+
+// Optional per-state price-display override for multi-package L/H/L&H states.
+// Use when the multiple packages have DIFFERENT prices and a range is more
+// accurate than a single number. FL omitted because both packages are $39.
+const MULTI_PACKAGE_LH_CE_PRICE_OVERRIDE: Record<string, string> = {
+  massachusetts: "$106.50 – $129",
+};
+
 function isOptionalHours(hours: number | string): boolean {
   if (typeof hours !== "string") return false;
   const lower = hours.toLowerCase();
@@ -168,7 +181,20 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               : "md:grid-cols-3 gap-6"
           }`}
         >
-          {cards.map((card, idx) => (
+          {cards.map((card, idx) => {
+            // Detect L/H/L&H CE cards in multi-package states (FL, MA).
+            // These point to an Absorb catalog with multiple packages, so
+            // the user has to pick before adding to cart — render the same
+            // "Choose a Package" affordance the P&C card uses, even though
+            // the link is external.
+            const isLHCard =
+              courseType === "continuing-education" &&
+              (card.slug === "life" || card.slug === "health" || card.slug === "life-and-health");
+            const isMultiPackageLH = isLHCard && MULTI_PACKAGE_LH_CE_STATES.has(stateSlug);
+            const displayPrice = isMultiPackageLH
+              ? (MULTI_PACKAGE_LH_CE_PRICE_OVERRIDE[stateSlug] ?? card.price)
+              : card.price;
+            return (
             <div
               key={card.slug}
               className={`bg-white rounded-xl shadow-md border-2 ${
@@ -192,7 +218,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-gray-500 text-sm">Course Price</span>
-                  <span className="text-navy font-bold">{card.price}</span>
+                  <span className="text-navy font-bold">{displayPrice}</span>
                 </div>
                 {courseType === "continuing-education" && (
                   <div className="flex justify-between items-center">
@@ -219,6 +245,19 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 >
                   Choose a Package &rarr;
                 </Link>
+              ) : isMultiPackageLH ? (
+                // External Absorb catalog containing multiple L/H/L&H packages
+                // (FL, MA). User still needs to pick a package, so use the
+                // same "Choose" affordance instead of "Enroll Now — $price".
+                <a
+                  href={card.enrollHref}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  {...getCtaAttrs({ href: card.enrollHref, location: "loa-card", state: stateSlug, loa: card.slug })}
+                  className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-4 rounded-lg transition-colors"
+                >
+                  Choose a Package &rarr;
+                </a>
               ) : (
                 // External cart link (single-package) — open in new tab,
                 // "Enroll Now" label with price.
@@ -233,7 +272,8 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 </a>
               )}
             </div>
-          ))}
+            );
+          })}
         </div>
       </div>
     </section>

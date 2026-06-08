@@ -18,9 +18,15 @@ import {
   generateArticleSchemaWithReviewer,
 } from "@/lib/schema";
 
-const PAGE_TITLE = "State-Approved Property & Casualty CE | JustInsurance";
+// Title/meta/H1 rewrite 2026-06-08 — SERP CTR fix.
+// Diagnosis (GSC May 10–June 6): pos 3.07 / 3,525 imp / 1 click / 0.03% CTR.
+// Page was "ranked but invisible" — competitors (Kaplan $49, XCEL $40 FL,
+// 360training $39) win every click by surfacing price + credit hours +
+// state-approved + auto-reporting in the SERP snippet. Old title surfaced
+// none of those four hooks. Each hook now in title or meta first 120 chars.
+const PAGE_TITLE = "P&C CE from $39 — 24-Hr State-Approved | JustInsurance";
 const PAGE_DESC =
-  "State-approved Property & Casualty CE in 25 states. IDECC-certified instructor, same-day DOI reporting, statutory citations on every package.";
+  "State-approved Property & Casualty CE from $39. 24-hour packages in 25 states, same-day DOI reporting, instant certificate. IDECC-certified instructor — pick your state and finish today.";
 const CANONICAL = "https://justinsuranceco.com/property-and-casualty-ce";
 
 export function generateMetadata(): Metadata {
@@ -127,6 +133,40 @@ const credentialSchema = {
   url: CANONICAL,
 };
 
+// AggregateOffer over every P&C CE package in every supported state.
+// Computed at build time so price range is always accurate. Enables Google
+// to render the "from $39" price-rich SERP badge — a primary CTR lever
+// missing in the May 10–June 6 GSC window (pos 3.07 / 0.03% CTR).
+function buildAggregateOfferSchema() {
+  const allPrices: number[] = [];
+  let offerCount = 0;
+  for (const slug of PC_STATE_SLUGS) {
+    for (const pkg of getPCPackagesForState(slug)) {
+      const n = parseFloat(pkg.price.replace(/[^0-9.]/g, ""));
+      if (!isNaN(n) && n > 0) allPrices.push(n);
+      offerCount++;
+    }
+  }
+  const lowPrice = Math.min(...allPrices).toFixed(2);
+  const highPrice = Math.max(...allPrices).toFixed(2);
+  return {
+    "@context": "https://schema.org",
+    "@type": "AggregateOffer",
+    priceCurrency: "USD",
+    lowPrice,
+    highPrice,
+    offerCount,
+    availability: "https://schema.org/InStock",
+    url: CANONICAL,
+    seller: { "@id": "https://justinsuranceco.com#organization" },
+    itemOffered: {
+      "@type": "EducationalOccupationalCredential",
+      name: "Property & Casualty Insurance Producer License — Continuing Education",
+    },
+  };
+}
+const aggregateOfferSchema = buildAggregateOfferSchema();
+
 const webPageSchema = {
   "@context": "https://schema.org",
   "@type": "WebPage",
@@ -209,6 +249,7 @@ export default function PropertyAndCasualtyCEPage() {
       <SchemaMarkup schema={articleSchema} />
       <SchemaMarkup schema={webPageSchema} />
       <SchemaMarkup schema={credentialSchema} />
+      <SchemaMarkup schema={aggregateOfferSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -224,17 +265,38 @@ export default function PropertyAndCasualtyCEPage() {
             P&amp;C License Renewal
           </p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
-            State-Approved Property &amp; Casualty Continuing Education
+            Property &amp; Casualty CE from $39 — {supportedCount} States, Same-Day DOI Reporting
           </h1>
+
+          {/* Price + hours + reporting + cert strip — answers the four pre-click
+              qualifying questions competitors win on (added 2026-06-08). */}
+          <div className="flex flex-wrap justify-center gap-x-6 gap-y-2 mb-6 text-sm md:text-base text-gold font-semibold">
+            <span>From $39</span>
+            <span className="text-blue-300">·</span>
+            <span>24-hour packages</span>
+            <span className="text-blue-300">·</span>
+            <span>Same-day DOI reporting</span>
+            <span className="text-blue-300">·</span>
+            <span>Instant certificate</span>
+          </div>
+
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            {supportedCount}-state coverage. State-approved P&amp;C CE built around an IDECC-certified instructor curriculum, same-day DOI reporting, and statutory citations on every state page. Auto, homeowners, commercial, and workers&apos; comp content written in plain English.
+            Renew your P&amp;C license today with state-approved CE packages starting at $39. Every bundle covers your state&apos;s full credit-hour requirement (typically 24 hours including Law &amp; Ethics), is filed with your Department of Insurance the same business day you finish, and ships with an instant printable certificate. IDECC-certified instructor curriculum across {supportedCount} states.
           </p>
-          <a
-            href="#states"
-            className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-10 py-4 rounded-lg shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5"
-          >
-            Find Your State
-          </a>
+          <div className="flex flex-col sm:flex-row gap-3 justify-center">
+            <a
+              href="#states"
+              className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-8 py-4 rounded-lg shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5"
+            >
+              See My State&apos;s Package
+            </a>
+            <a
+              href="/continuing-education"
+              className="inline-block bg-transparent border-2 border-gold text-gold hover:bg-gold hover:text-gray-dark font-bold text-lg px-8 py-4 rounded-lg transition-all"
+            >
+              Browse All CE
+            </a>
+          </div>
         </div>
       </section>
 

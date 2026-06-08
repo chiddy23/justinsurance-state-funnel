@@ -8,10 +8,17 @@ import PressLogosBar from "@/components/PressLogosBar";
 import TrustBar from "@/components/TrustBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 
+// Title/meta/answer rewrite 2026-06-08 — featured-snippet capture.
+// Diagnosis (GSC May 10–June 6): pos 8.5 / 1875 imp / 0 clicks. Xcel
+// Solutions holds the snippet ("two and six weeks"), sitting above all
+// 10 organic results. We were ranging 4-8 weeks (wider/slower than Xcel's
+// 2-6, NOIS's 1-4) — Google rewards the more confident credible number.
+// Title now leads with the range; meta + hero + callout all unified on
+// "2 to 6 weeks" with the number in the first 8-12 words of every answer.
 export const metadata: Metadata = {
-  title: { absolute: "How Long Does It Take to Get an Insurance License?" },
+  title: { absolute: "How Long to Get an Insurance License? 2-6 Weeks" },
   description:
-    "Most candidates earn an insurance license in 4-8 weeks, but timelines vary by state. Phase-by-phase breakdown, state comparison, and realistic calendar.",
+    "Most people get an insurance license in 2 to 6 weeks. Full-time study in real-time-issuance states can finish in under 2 weeks. See the step-by-step timeline, state comparison, and shortcuts.",
   alternates: { canonical: "https://justinsuranceco.com/how-long-to-get-insurance-license" },
 };
 
@@ -24,7 +31,27 @@ const faqs = [
   {
     question: "How long does it take to get an insurance license?",
     answer:
-      "For most candidates the full process runs 4 to 8 weeks from enrolling in a prelicensing course to receiving an active license number. About 1 to 3 weeks goes to coursework, 1 to 2 weeks to exam scheduling and sitting for the test, and anywhere from same-day to 3 weeks for background checks and state processing. Candidates who study full-time and live in a real-time-issuance state such as Florida or Texas can finish in as little as 10 to 14 days.",
+      "For most people, getting an insurance license takes 2 to 6 weeks from enrollment to an active license number. Full-time students in real-time-issuance states like Florida, Texas, and Georgia can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. The four phases are prelicensing coursework, exam scheduling and sitting, fingerprinting and background check, and license application and state issuance.",
+  },
+  {
+    question: "How fast can you get an insurance license?",
+    answer:
+      "Under 2 weeks with full-time study in a real-time-issuance state like Florida, Texas, or Georgia. Book fingerprints in week 1 so the background check runs in parallel with coursework, schedule the state exam the day you finish the course, and apply through NIPR within 24 hours of passing. Real-time-issuance states post the active license number within 1 to 2 business days of a clean application.",
+  },
+  {
+    question: "How long does an insurance prelicensing course take?",
+    answer:
+      "20 to 52 hours of study, completable in 3 days to 3 weeks depending on state and pace. Most states require 20 to 40 hours per line of authority. California requires 12 hours of Ethics and Code only (post-AB 943). Texas, Pennsylvania, Arizona, and a handful of other states have no prelicensing requirement at all. A motivated full-time student can clear a 40-hour combined Life & Health course in 5 to 7 days.",
+  },
+  {
+    question: "How long is an insurance license good for?",
+    answer:
+      "Most insurance licenses are valid for 2 years from the date of issue, with biennial renewal tied to your birth month or license anniversary. Ohio runs a 2-year cycle. A handful of states use different cycles — Iowa is 3 years, Arizona is 4 years. Continuing education credits (typically 24 hours per cycle including 3 hours of ethics) must be reported to your Department of Insurance before the renewal deadline to keep the license active.",
+  },
+  {
+    question: "How long does it take to get a life insurance license?",
+    answer:
+      "2 to 6 weeks for a life-only license — the same end-to-end timeline as combined Life & Health, but the exam is shorter (typically 100 questions, 2 hours, vs. 150 questions, 3 hours for combined L&H). If you plan to sell both lines, take the combined exam to save 2 to 4 weeks of duplicated coursework, fingerprinting, and application steps.",
   },
   {
     question: "What is the fastest way to get an insurance license?",
@@ -123,8 +150,66 @@ const articleSchema = generateArticleSchemaWithReviewer({
   description:
     "Realistic timelines for getting your insurance license: prelicensing study time, exam scheduling, application processing, and fingerprinting wait. State-by-state.",
   datePublished: "2026-04-15",
+  dateModified: "2026-06-08",
   url: "https://justinsuranceco.com/how-long-to-get-insurance-license",
 });
+
+// HowTo schema — mirrors the 4 phases below. Eligible for stepper rich
+// results and used by Google as a content-classification signal even
+// where rich results aren't rendered. ISO 8601 duration codes.
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  name: "How to Get an Insurance License",
+  description:
+    "Step-by-step guide to earning an insurance producer license in 2 to 6 weeks: prelicensing coursework, state exam, fingerprinting, and license application.",
+  totalTime: "P6W",
+  estimatedCost: { "@type": "MonetaryAmount", currency: "USD", value: "199" },
+  supply: [
+    { "@type": "HowToSupply", name: "State-approved prelicensing course" },
+    { "@type": "HowToSupply", name: "Government-issued photo ID" },
+    { "@type": "HowToSupply", name: "Fingerprinting appointment with IdentoGO, Fieldprint, or state vendor" },
+    { "@type": "HowToSupply", name: "NIPR account (nipr.com)" },
+  ],
+  step: [
+    {
+      "@type": "HowToStep",
+      position: 1,
+      name: "Complete prelicensing coursework",
+      text: "Enroll in a state-approved prelicensing course. Most states require 20 to 40 hours of instruction per line of authority. A motivated full-time student finishes in 5 to 7 days; part-time candidates typically need 2 to 3 weeks.",
+      timeRequired: "P3W",
+      url: "https://justinsuranceco.com/prelicensing",
+    },
+    {
+      "@type": "HowToStep",
+      position: 2,
+      name: "Schedule and pass the state exam",
+      text: "Book your exam through Pearson VUE or PSI as soon as you finish coursework. Next-day availability is common in metro areas. Results are delivered on-screen at the end of the exam.",
+      timeRequired: "P14D",
+    },
+    {
+      "@type": "HowToStep",
+      position: 3,
+      name: "Get fingerprinted and complete background check",
+      text: "Book a fingerprint appointment in week 1 so the background check runs in parallel with study. Clean records clear in 3 to 10 business days. Prior arrests or out-of-state records may add 2 to 6 weeks of manual review.",
+      timeRequired: "P3W",
+    },
+    {
+      "@type": "HowToStep",
+      position: 4,
+      name: "Submit license application via NIPR",
+      text: "Apply through the National Insurance Producer Registry (nipr.com) within 24 hours of passing the exam. Fees run $30 to $200. Real-time-issuance states post an active license number within minutes; batch-review states (CA, NY, PA, NC, WA) review in weekly cycles.",
+      timeRequired: "P4W",
+      url: "https://nipr.com",
+    },
+  ],
+};
+
+// Speakable schema deferred — schema.org SpeakableSpecification is officially
+// a PROPERTY of Article/WebPage, not a standalone @type. Would need to
+// extend generateArticleSchemaWithReviewer to take a speakable param. Voice-
+// snippet capture is also niche relative to web featured snippets — revisit
+// only if voice queries become a meaningful share of GSC impressions.
 
 export default function HowLongToGetInsuranceLicensePage() {
   return (
@@ -132,6 +217,7 @@ export default function HowLongToGetInsuranceLicensePage() {
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={articleSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={howToSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -149,8 +235,9 @@ export default function HowLongToGetInsuranceLicensePage() {
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
             How Long Does It Take to Get an Insurance License?
           </h1>
+          <p className="text-sm text-blue-200/80 mb-4">Updated June 2026 · Reviewed by Justin vom Eigen, Licensed Insurance Agent</p>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto mb-8">
-            Short answer: 4 to 8 weeks for most candidates. Motivated students in real-time-issuance states can be licensed in as little as 2 weeks. Here is the phase-by-phase breakdown, state comparison, and a realistic calendar.
+            2 to 6 weeks for most candidates. Full-time students in real-time-issuance states like Florida, Texas, and Georgia can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. Here is the phase-by-phase breakdown, state comparison, and a realistic calendar.
           </p>
           <div className="inline-flex flex-wrap gap-3 justify-center">
             <Link href="/prelicensing" className="bg-gold text-navy font-bold px-6 py-3 rounded-lg hover:brightness-95 transition">
@@ -170,13 +257,16 @@ export default function HowLongToGetInsuranceLicensePage() {
         <ArticleByline />
       </div>
 
-      {/* Short Answer Callout */}
+      {/* Short Answer Callout — featured-snippet bait.
+          Wrapper structure preserved to avoid sequencing risk per 2026-06-08
+          diagnosis. The wrapping div will be stripped in a follow-up deploy
+          after Google reindexes the new wording. */}
       <section className="bg-white py-12 px-4 border-b border-gray-100">
         <div className="max-w-3xl mx-auto">
           <div className="bg-gold/10 border-l-4 border-gold rounded-r-xl p-6">
             <p className="text-sm uppercase tracking-wider text-gold font-bold mb-2">The short answer</p>
             <p className="text-navy text-lg leading-relaxed">
-              A typical candidate goes from enrollment to an active license number in <strong>4 to 8 weeks</strong>. The range exists because four independent stages — coursework, exam, background check, and state processing — each carry their own timeline, and states handle the final step very differently. Real-time-issuance states like Florida, Texas, and Georgia finish faster than batch-review states like California and New York.
+              For most people, getting an insurance license takes <strong>2 to 6 weeks</strong> from enrollment to an active license number. Full-time students in real-time-issuance states like Florida, Texas, and Georgia can finish in under 2 weeks. Part-time candidates balancing study with work usually need 4 to 8 weeks. The range exists because four independent stages — coursework, exam, background check, and state processing — each carry their own timeline, and states handle the final step very differently.
             </p>
           </div>
         </div>

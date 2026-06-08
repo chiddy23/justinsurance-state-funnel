@@ -75,6 +75,50 @@ export default function BlogIndexPage() {
         </div>
       </section>
 
+      {/* Brand-nav action bar — captures the brand-aware visitors who land
+          here as a Google sitelink-style secondary result for "just insurance"
+          / "justinsurance login" queries (GSC May 10-June 6: 2,391 imp / 0
+          clicks at pos 3.8 — diagnosis 2026-06-08 confirmed BRANDED, not
+          topical demand). Gives them an obvious next action so they don't
+          bounce back to SERP. */}
+      <section className="bg-white border-b border-gray-200">
+        <div className="max-w-5xl mx-auto px-4 py-5">
+          <p className="text-center text-sm text-gray-500 mb-3">Looking for something specific?</p>
+          <div className="flex flex-wrap justify-center gap-3">
+            <a
+              href="https://yourinsurancelicense.myabsorb.com"
+              className="inline-flex items-center gap-2 bg-navy text-white font-semibold text-sm px-5 py-2.5 rounded-lg hover:bg-navy/90 transition"
+            >
+              Log in to my course
+            </a>
+            <Link
+              href="/prelicensing"
+              className="inline-flex items-center gap-2 bg-gold text-gray-dark font-semibold text-sm px-5 py-2.5 rounded-lg hover:brightness-95 transition"
+            >
+              Browse prelicensing courses
+            </Link>
+            <Link
+              href="/continuing-education"
+              className="inline-flex items-center gap-2 border border-gray-300 text-navy font-semibold text-sm px-5 py-2.5 rounded-lg hover:bg-gray-50 transition"
+            >
+              Continuing education
+            </Link>
+            <Link
+              href="/reviews"
+              className="inline-flex items-center gap-2 border border-gray-300 text-navy font-semibold text-sm px-5 py-2.5 rounded-lg hover:bg-gray-50 transition"
+            >
+              Read student reviews
+            </Link>
+            <Link
+              href="/contact"
+              className="inline-flex items-center gap-2 border border-gray-300 text-navy font-semibold text-sm px-5 py-2.5 rounded-lg hover:bg-gray-50 transition"
+            >
+              Contact us
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Latest Posts */}
       <section className="bg-white py-16 px-4">
         <div className="max-w-7xl mx-auto">

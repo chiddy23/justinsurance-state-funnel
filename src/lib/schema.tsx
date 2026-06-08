@@ -241,56 +241,13 @@ export function generateOrganizationSchema(): object {
   };
 }
 
-// ---------------------------------------------------------------------------
-// Product schema (triggers price + star rating in SERPs)
-// ---------------------------------------------------------------------------
-
-export function generateProductSchema(params: {
-  stateName: string;
-  loaName: string;
-  courseType: "prelicensing" | "continuing-education";
-  price: string;
-  stateSlug: string;
-  loaSlug: string;
-  description: string;
-}): object {
-  const { stateName, loaName, courseType, price, stateSlug, loaSlug, description } = params;
-  const courseLabel =
-    courseType === "prelicensing"
-      ? "Prelicensing Course"
-      : "Continuing Education Course";
-
-  const canonicalUrl = `${BASE_URL}/${stateSlug}/${courseType === "prelicensing" ? "prelicensing" : "continuing-education"}/${loaSlug}`;
-
-  // NOTE: aggregateRating + review intentionally OMITTED here.
-  // Self-hosted Review JSON-LD pointing at our own brand violates Google's
-  // self-serving-review policy. Re-enable only when sourcing reviews from
-  // a third-party verified API (Trustpilot, Google reviews via API, etc).
-  return {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    name: `${stateName} ${loaName} ${courseLabel}`,
-    description,
-    brand: {
-      "@type": "Brand",
-      name: "JustInsurance",
-    },
-    offers: {
-      "@type": "Offer",
-      price: price.replace(/[^0-9.]/g, ""),
-      priceCurrency: "USD",
-      availability: "https://schema.org/InStock",
-      url: canonicalUrl,
-      seller: {
-        "@type": "Organization",
-        "@id": `${BASE_URL}#organization`,
-        name: "JustInsurance LLC",
-      },
-    },
-    image: LOGO_URL,
-    url: canonicalUrl,
-  };
-}
+// Product schema for prelicensing/CE LOA pages was REMOVED 2026-06-08.
+// It duplicated the Course schema's entity, causing Google to demote it to
+// "product snippets" (355 imp / pos 42.86 / 0.28% CTR over May 10 → June 6).
+// Course is the correct primary type — offers/pricing already live inside
+// the Course schema's hasCourseInstance.offers block.
+// Practice-exam cards still carry their own inline Product schema (legitimate
+// — practice exams aren't courses), generated directly in practice-exam/page.tsx.
 
 // ---------------------------------------------------------------------------
 // FAQPage schema

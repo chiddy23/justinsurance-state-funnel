@@ -9,7 +9,6 @@ import {
   generateCourseSchema,
   generateBreadcrumbSchema,
   generateFAQSchema,
-  generateProductSchema,
   SchemaMarkup,
 } from "@/lib/schema";
 import { getPrelicensingCourseFAQs, buildFaqData } from "@/lib/faq-data";
@@ -151,17 +150,11 @@ export default async function PrelicensingCoursePage({
     { name: loaDef.shortName, url: `https://justinsuranceco.com/${stateData.slug}/prelicensing/${loaDef.slug}` },
   ]);
   const faqSchema = generateFAQSchema(faqs);
-  const productSchema = generateProductSchema({
-    stateName: stateData.name,
-    loaName: loaDef.name,
-    courseType: "prelicensing",
-    price: pricing.price,
-    stateSlug: stateData.slug,
-    loaSlug: loaDef.slug,
-    description: hoursIsNumber
-      ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, state-approved, online, self-paced. 93% pass rate, pass guarantee included. ${pricing.price}.`
-      : `${stateData.name} ${loaDef.name} prelicensing course — state-approved, online, self-paced. 93% pass rate, pass guarantee included. ${pricing.price}.`,
-  });
+  // Product schema intentionally removed 2026-06-08: it was duplicating the
+  // Course schema's entity, which Google was demoting to low-quality "product
+  // snippets" (355 imp / pos 42.86 / 0.28% CTR in May 10 → June 6 GSC).
+  // Course is the correct primary type for prelicensing pages; offers/pricing
+  // already live inside the Course schema's hasCourseInstance.offers block.
 
   const articleHeadline = `${stateData.name} ${loaDef.name} Prelicensing Course`;
   const articleDescription = hoursIsNumber
@@ -186,7 +179,6 @@ export default async function PrelicensingCoursePage({
       <SchemaMarkup schema={courseSchema} />
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
-      <SchemaMarkup schema={productSchema} />
       <SchemaMarkup schema={articleSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />

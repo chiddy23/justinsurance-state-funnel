@@ -8,10 +8,20 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArti
 import Link from "next/link";
 import ArticleByline from "@/components/ArticleByline";
 
+// SEO refresh 2026-06-08 — defend featured snippet + capture adjacent
+// Life/Health/state-specific cost queries.
+// GSC May 10-June 6 confirmed we hold the snippet for "how much to get
+// insurance license" ($300-$600 paragraph) — zero-click pattern at 533
+// imp / 0 clicks is structural. Real upside is ~860 imp on Life-LOA,
+// Health-LOA, and state-specific cost queries where we rank pos 5-13
+// without snippet protection. Title now leads with $; meta widens to
+// $700 to match the higher-fee state reality (CA/MA/IL) and signal
+// completeness; hero body sentence preserved verbatim (load-bearing
+// for the existing snippet).
 export const metadata: Metadata = {
-  title: { absolute: "How Much Does an Insurance License Cost? 2026 Fees" },
+  title: { absolute: "Insurance License Cost 2026: $300-$700 All-In Breakdown" },
   description:
-    "Insurance license costs $300 to $600 all-in: state exam, application, fingerprint, and prelicensing fees. State-by-state breakdown for 2026.",
+    "Insurance license costs $300-$700 all-in for 2026: $150-$400 course + $29-$98 exam + $10-$225 application + $30-$50 fingerprint. See your state's exact total below.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-license-cost" },
 };
 
@@ -50,6 +60,36 @@ const faqs = [
     question: "Are there ongoing costs after I get my license?",
     answer:
       "Yes. Licenses renew every 1 to 3 years depending on the state, and most states require continuing education (typically 24 CE hours per 2-year cycle). Renewal fees range from about $20 to $100 per line. If you get appointed by a carrier, the appointment fee (usually $10 to $40 per carrier per state) is typically paid by the carrier, not the agent. Our license renewal guide has full state-by-state renewal data.",
+  },
+  {
+    question: "How much does it cost to get a life insurance license?",
+    answer:
+      "A resident Life-only insurance license runs $275 to $525 all-in for most candidates. That includes a Life prelicensing course ($199 at JustInsurance), the Life state exam fee ($33 to $55 in most states; $98 in California), the state application fee ($10 to $225), and fingerprinting ($30 to $50). Life-only is typically $50 to $100 cheaper than a combined Life and Health license because you only sit one exam and pay one application fee per line of authority.",
+  },
+  {
+    question: "How much is the life insurance exam?",
+    answer:
+      "The state Life insurance exam fee ranges from $33 to $55 in most states, paid to Pearson VUE or PSI per attempt. California is the high outlier at $98 per attempt. The Life-only exam is shorter than the combined Life and Health exam (typically 100 questions, 2 hours, versus 150 questions, 3 hours), but the fee structure per exam vendor is the same. If you fail, you pay the full fee again for every retake.",
+  },
+  {
+    question: "How much is a Life and Health insurance license?",
+    answer:
+      "A resident Life and Health combined license costs $375 to $700 all-in. The course is the same price as a single-line course at JustInsurance ($199), but the exam, application, and fingerprint fees apply per line of authority in most states. Candidates who plan to sell both lines almost always save money by taking the combined exam in a single sitting rather than two separate exams — one fingerprint appointment, one combined application, one course tuition.",
+  },
+  {
+    question: "How much is an insurance license in Florida?",
+    answer:
+      "A Florida resident insurance license runs $143 in state fees plus your prelicensing course ($199 at JustInsurance) for a typical $342 all-in. State fees break down as $44 exam (per attempt, paid to Pearson VUE), $50 application (per line of authority, paid to MyFloridaCFO), and $49.50 fingerprinting through Idemia ($24 FDLE + $12 FBI + $13.50 Idemia). Florida is mid-range nationally — cheaper than California ($98 exam + $188 application) but pricier than Michigan or Ohio ($10 application).",
+  },
+  {
+    question: "What is the cheapest state to get an insurance license?",
+    answer:
+      "Michigan and Ohio share the lowest state application fee at $10 per line of authority. Adding a typical $41 to $49 state exam fee and $30 to $50 fingerprinting brings the all-in state cost to under $100 in either state. With JustInsurance's $199 prelicensing course, you can be fully licensed in Michigan or Ohio for under $300. Missouri's $29 exam fee is the lowest in the country, but Missouri's $100 application brings the total back into the mid-range.",
+  },
+  {
+    question: "How much does it cost to become an insurance agent?",
+    answer:
+      "Getting licensed costs $300 to $700 all-in (course, exam, application, fingerprint). Becoming a working agent adds a few additional one-time costs: errors and omissions (E&O) insurance ($300 to $600 per year), state appointment fees in some states ($10 to $40 per carrier, usually paid by the carrier), and optional NAIFA/IIABA professional association dues ($50 to $300 per year). Most independent agents are fully operational for under $1,000 in their first year, then renewal CE plus E&O is the recurring cost.",
   },
 ];
 
@@ -134,8 +174,73 @@ const articleSchema = generateArticleSchemaWithReviewer({
   description:
     "Full breakdown of insurance license costs nationwide — prelicensing courses, state exam fees, application fees, and fingerprinting. Total cost ranges by state.",
   datePublished: "2026-04-15",
+  dateModified: "2026-06-08",
   url: "https://justinsuranceco.com/insurance-license-cost",
 });
+
+// AggregateOffer schema for price-rich SERP treatment on cost queries.
+// lowPrice = lowest plausible all-in (MI/OH ~$285); highPrice = $700 to
+// match the higher-fee state reality (CA/MA/IL). offerCount = number of
+// states represented in the on-page fee table.
+const aggregateOfferSchema = {
+  "@context": "https://schema.org",
+  "@type": "AggregateOffer",
+  priceCurrency: "USD",
+  lowPrice: "300",
+  highPrice: "700",
+  offerCount: 23,
+  availability: "https://schema.org/InStock",
+  url: "https://justinsuranceco.com/insurance-license-cost",
+  itemOffered: {
+    "@type": "Service",
+    name: "Resident Insurance Producer License — All-In Cost",
+    serviceType: "Insurance license issuance, exam, fingerprinting, and prelicensing course",
+    provider: { "@id": "https://justinsuranceco.com#organization" },
+  },
+};
+
+// HowTo schema with estimatedCost — snippet-eligible separately from
+// FAQPage on "how to get an insurance license" queries.
+const howToCostSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  name: "How to Get an Insurance License (Step-by-Step with Costs)",
+  description:
+    "Total cost of earning a resident insurance producer license, broken down step by step: prelicensing course, state exam, fingerprinting, and application.",
+  estimatedCost: {
+    "@type": "MonetaryAmount",
+    currency: "USD",
+    minValue: "300",
+    maxValue: "700",
+  },
+  totalTime: "P6W",
+  step: [
+    {
+      "@type": "HowToStep",
+      position: 1,
+      name: "Pay for a state-approved prelicensing course",
+      text: "Most courses run $150 to $400. JustInsurance is a flat $199 per line.",
+    },
+    {
+      "@type": "HowToStep",
+      position: 2,
+      name: "Pay the state exam fee",
+      text: "$29 to $98 per attempt, paid to Pearson VUE or PSI when you schedule.",
+    },
+    {
+      "@type": "HowToStep",
+      position: 3,
+      name: "Pay for fingerprinting and background check",
+      text: "$30 to $50 to IdentoGO, Fieldprint, or a state-contracted vendor.",
+    },
+    {
+      "@type": "HowToStep",
+      position: 4,
+      name: "Pay the state license application fee",
+      text: "$10 to $225 to your state Department of Insurance, plus a $5 NIPR transaction fee.",
+    },
+  ],
+};
 
 export default function InsuranceLicenseCostPage() {
   return (
@@ -143,6 +248,8 @@ export default function InsuranceLicenseCostPage() {
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={articleSchema} />
       <SchemaMarkup schema={faqSchema} />
+      <SchemaMarkup schema={aggregateOfferSchema} />
+      <SchemaMarkup schema={howToCostSchema} />
 
       <BreadcrumbNav
         crumbs={[
@@ -164,7 +271,7 @@ export default function InsuranceLicenseCostPage() {
             Most candidates spend between <strong className="text-gold">$300 and $600</strong> all-in to get a resident insurance producer license. The exact figure depends on your state, your line of authority, and whether you pass on the first attempt.
           </p>
           <p className="text-sm text-blue-200 max-w-2xl mx-auto">
-            Updated April 2026. Fee data verified against state Department of Insurance sites, NIPR, Pearson VUE, and PSI.
+            Updated June 2026. Fee data verified against state Department of Insurance sites, NIPR, Pearson VUE, and PSI.
           </p>
         </div>
       </section>
@@ -196,6 +303,57 @@ export default function InsuranceLicenseCostPage() {
             <p className="text-gray-700 leading-relaxed mt-4">
               Candidates in low-fee states like Michigan can get fully licensed for under $300. Texas runs about $330. Candidates in California, Illinois, or Massachusetts should plan for closer to $600, largely because the application fee is front-loaded.
             </p>
+          </div>
+        </div>
+      </section>
+
+      {/* LOA-specific cost anchors — captures Life/Health/P&C-specific
+          cost queries (~860 imp/mo combined) that currently land on the
+          generic page without a line-specific answer. Added 2026-06-08. */}
+      <section className="bg-white py-16 px-4 border-t border-gray-100">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">
+            Cost by Line of Authority
+          </h2>
+          <p className="text-gray-500 mb-8 max-w-2xl">
+            All-in cost varies by which line(s) you license. The course tuition is flat, but exam and application fees apply per line in most states.
+          </p>
+
+          <div className="space-y-8">
+            <div id="life-cost">
+              <h3 className="text-xl font-bold text-navy mb-3">How much does a Life insurance license cost? <span className="text-gold">$275–$525</span></h3>
+              <p className="text-gray-700 leading-relaxed">
+                A resident Life-only insurance license runs <strong className="text-navy">$275 to $525 all-in</strong> for most candidates. That covers a Life prelicensing course (<Link href="/prelicensing" className="text-navy underline underline-offset-2 hover:text-gold">$199 at JustInsurance</Link>), the Life state exam fee ($33–$55 in most states; $98 in California), the state application fee ($10–$225), and fingerprinting ($30–$50). Life-only is typically $50 to $100 cheaper than combined Life and Health because you sit one exam and pay one application fee per line of authority.
+              </p>
+            </div>
+
+            <div id="health-cost">
+              <h3 className="text-xl font-bold text-navy mb-3">How much does a Health insurance license cost? <span className="text-gold">$275–$525</span></h3>
+              <p className="text-gray-700 leading-relaxed">
+                A resident Health-only insurance license runs <strong className="text-navy">$275 to $525 all-in</strong>, mirroring the Life-only cost structure. Most candidates who pursue Health pursue Life at the same time — see the Life and Health combined option below for the bundled savings.
+              </p>
+            </div>
+
+            <div id="life-and-health-cost">
+              <h3 className="text-xl font-bold text-navy mb-3">How much does a Life and Health combined license cost? <span className="text-gold">$375–$700</span></h3>
+              <p className="text-gray-700 leading-relaxed">
+                A resident Life and Health combined license costs <strong className="text-navy">$375 to $700 all-in</strong>. Most states charge per line of authority for the exam, application, and fingerprint — but JustInsurance&apos;s prelicensing course price covers both lines in a single bundle. Candidates planning to sell both lines almost always save by taking the combined exam in one sitting: one fingerprint appointment, one combined application, one course tuition.
+              </p>
+            </div>
+
+            <div id="pc-cost">
+              <h3 className="text-xl font-bold text-navy mb-3">How much does a Property &amp; Casualty license cost? <span className="text-gold">$325–$650</span></h3>
+              <p className="text-gray-700 leading-relaxed">
+                A resident P&amp;C insurance license runs <strong className="text-navy">$325 to $650 all-in</strong>. P&amp;C state exam fees sit slightly above Life/Health in most states ($40–$75 vs $33–$55), and application fees mirror Life/Health. JustInsurance&apos;s prelicensing course is $199 per line; combined Personal Lines + Commercial Lines candidates should expect closer to the $650 ceiling.
+              </p>
+            </div>
+
+            <div id="exam-fee">
+              <h3 className="text-xl font-bold text-navy mb-3">How much is the insurance exam itself? <span className="text-gold">$29–$98 per attempt</span></h3>
+              <p className="text-gray-700 leading-relaxed">
+                The state insurance exam fee is <strong className="text-navy">$29 to $98 per attempt</strong>, paid directly to Pearson VUE or PSI when you schedule. Missouri ($29) is the cheapest; California ($98) the most expensive. Most states fall between $39 and $55. The fee is the same for Life, Health, P&amp;C, and combined exams — what varies is the state, not the line. Retakes require paying the full fee again.
+              </p>
+            </div>
           </div>
         </div>
       </section>

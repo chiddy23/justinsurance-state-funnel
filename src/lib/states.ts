@@ -1635,7 +1635,10 @@ export const STATES: Record<string, StateData> = {
     fingerprintRequirement: "Fingerprinting required through IdentoGO (Code: DFS-1-FL921060Z)",
     applicationProcess: "Submit your application through the National Insurance Producer Registry (NIPR)",
     applicationFee: "50",
-    backgroundCheckCost: "50",
+    // FL DFS-published rate: $49.50 LiveScan (most common) or $50.75 fingerprint
+    // cards, plus local FL county sales tax. Verified 2026-06-09 against
+    // myfloridacfo.com/division/agents/licensing/agents-and-adjusters/fingerprinting-information
+    backgroundCheckCost: "49.50",
     totalCostRange: "$350-500 estimated total cost",
     applicationProcessingTime: "2-5 business days",
     licenseIssueTime: "a few days after submitting all required documentation",

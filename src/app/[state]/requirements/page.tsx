@@ -18,6 +18,25 @@ import EditorialByline from "@/components/EditorialByline";
 import SourcesBlock from "@/components/SourcesBlock";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
+
+// VideoObject schema for the Florida-only embed on /florida/requirements.
+// The video's own YouTube description points buyers to this URL, closing
+// the loop — viewer arrives expecting the step-by-step they just watched
+// and gets it. Single-source-of-truth video data lives in
+// src/lib/youtube-videos.json (key "/florida/requirements"). Added 2026-06-09.
+const floridaRequirementsVideoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: "How To Get Your Florida Life + Health Insurance License (Step by Step)",
+  description:
+    "Step-by-step walkthrough of the Florida 2-15 Life, Health & Annuity license process: 60-hr prelicensing, $44 Pearson VUE exam, IdentoGO fingerprinting, and NIPR application. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  thumbnailUrl: "https://i.ytimg.com/vi/o80zGv0ksMA/hqdefault.jpg",
+  uploadDate: "2026-06-09",
+  duration: "PT5M54S",
+  contentUrl: "https://www.youtube.com/watch?v=o80zGv0ksMA",
+  embedUrl: "https://www.youtube-nocookie.com/embed/o80zGv0ksMA",
+};
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -162,6 +181,9 @@ export default async function RequirementsPage({
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={articleSchema} />
+      {stateData.slug === "florida" && (
+        <SchemaMarkup schema={floridaRequirementsVideoSchema} />
+      )}
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -202,6 +224,17 @@ export default async function RequirementsPage({
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <EditorialByline lastVerified={stateData.lastVerified} />
       </div>
+
+      {/* Florida step-by-step walkthrough video. Placed under the editorial
+          byline so viewer-to-reader handoff is tight: the video's YouTube
+          description points buyers HERE, and they immediately see the same
+          step-by-step they just watched. VideoObject schema emitted above. */}
+      {stateData.slug === "florida" && (
+        <YouTubeEmbed
+          videoId="o80zGv0ksMA"
+          title="How To Get Your Florida Life + Health Insurance License (Step by Step)"
+        />
+      )}
 
       {/* ── 2. Quick Requirements Summary Table ─────────────────────────────── */}
       <section className="bg-white py-16 px-4">

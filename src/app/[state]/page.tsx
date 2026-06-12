@@ -99,9 +99,12 @@ export async function generateMetadata({
 
   // Spanish-language pilot — emit hreflang reciprocity ONLY for FL/TX.
   // Self-references "en-US" + "es-US" + "x-default" → English canonical.
+  // URLs MUST be no-slash to match site canonical (middleware.ts:60-68
+  // 308-redirects trailing slash → no-slash). Fixed 2026-06-12 after
+  // Semrush flagged 8 hreflang errors caused by trailing slashes here.
   if (stateData.slug === "florida" || stateData.slug === "texas") {
-    const enUrl = `https://justinsuranceco.com/${stateData.slug}/`;
-    const esUrl = `https://justinsuranceco.com/es/${stateData.slug}/`;
+    const enUrl = `https://justinsuranceco.com/${stateData.slug}`;
+    const esUrl = `https://justinsuranceco.com/es/${stateData.slug}`;
     return {
       ...meta,
       alternates: {
@@ -221,7 +224,7 @@ export default async function StateHubPage({
       {(stateData.slug === "florida" || stateData.slug === "texas") && (
         <div className="bg-gold/10 border-y border-gold/30 py-3 px-4 text-center">
           <a
-            href={`/es/${stateData.slug}/`}
+            href={`/es/${stateData.slug}`}
             hrefLang="es-US"
             className="text-navy font-semibold hover:text-gold-dark transition-colors text-sm md:text-base inline-flex items-center gap-2"
           >

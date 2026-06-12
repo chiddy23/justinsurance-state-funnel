@@ -132,6 +132,15 @@ export default async function BlogPostPage({
         name: "JustInsurance LLC",
       },
     },
+    // reviewedBy added 2026-06-12 per Semrush audit. Matches the pattern
+    // emitted by generateArticleSchemaWithReviewer in src/lib/schema.tsx.
+    // Strengthens E-E-A-T by surfacing an editorial-reviewer signal.
+    reviewedBy: {
+      "@type": "Person",
+      name: "Justin vom Eigen",
+      url: "https://justinsuranceco.com/about",
+      jobTitle: "Founder and CEO",
+    },
     publisher: {
       "@type": "Organization",
       name: "JustInsurance LLC",

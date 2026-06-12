@@ -94,6 +94,15 @@ export function generateCourseSchema(params: {
     teaches: `${stateName} ${loaShort} insurance licensing requirements`,
     educationalLevel: "Beginner",
     coursePrerequisites: "None",
+    // courseSchedule added 2026-06-12 per Semrush audit (773 invalid
+    // structured-data items, 36 specifically missing this field). Reflects
+    // our self-paced, always-available enrollment model with a 30-day
+    // course access window matching the pass-guarantee terms.
+    courseSchedule: {
+      "@type": "Schedule",
+      repeatFrequency: "P1D",
+      duration: "PT30D",
+    },
     ...(hasHours ? { timeRequired: `PT${hours}H` } : {}),
     inLanguage: "en-US",
     availableLanguage: "en",
@@ -156,6 +165,13 @@ export function generateStateHubCourseSchema(params: {
     educationalCredentialAwarded: `${stateName} Insurance Prelicensing Certificate`,
     educationalLevel: "Beginner",
     coursePrerequisites: "None",
+    // courseSchedule parity with generateCourseSchema — same self-paced
+    // 30-day window. Added 2026-06-12 per Semrush audit.
+    courseSchedule: {
+      "@type": "Schedule",
+      repeatFrequency: "P1D",
+      duration: "PT30D",
+    },
     ...(hoursNum ? { timeRequired: `PT${hoursNum}H` } : {}),
     inLanguage: "en-US",
     availableLanguage: "en",

@@ -12,8 +12,10 @@ import TestimonialCards from "@/components/TestimonialCards";
 
 const BASE_URL = "https://justinsuranceco.com";
 const SLUG = "florida";
-const ES_PATH = `/es/${SLUG}/`;
-const EN_PATH = `/${SLUG}/`;
+// No-slash paths to match site canonical (middleware 308-redirects
+// trailing slash). Fixed 2026-06-12 per Semrush hreflang audit.
+const ES_PATH = `/es/${SLUG}`;
+const EN_PATH = `/${SLUG}`;
 
 export const metadata: Metadata = {
   title: { absolute: "Florida Curso de Licencia de Seguros — $199 | JustInsurance" },

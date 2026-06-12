@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Smooth-scroll for in-page anchor links (e.g., navbar "View All States"
+   → /#states on the homepage). Added 2026-06-12. Browsers honor
+   prefers-reduced-motion automatically for users who opt out of animation. */
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #1A1A1A;

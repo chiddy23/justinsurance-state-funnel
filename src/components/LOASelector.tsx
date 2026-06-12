@@ -233,7 +233,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 {...getCtaAttrs({ href: card.pageHref, location: "loa-card-learn-more", state: stateSlug, loa: card.slug })}
                 className="block text-center text-navy border border-navy hover:bg-navy hover:text-white font-medium py-2 px-4 rounded-lg transition-colors mb-2 text-sm"
               >
-                Learn More
+                {card.name} Details
               </Link>
               {card.enrollHref.startsWith("/") ? (
                 // Internal link (multi-package landing) — no new tab, "Choose"

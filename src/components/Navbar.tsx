@@ -94,7 +94,7 @@ export default function Navbar() {
                     ))}
                     <div className="border-t border-gray-100 mt-1 pt-1">
                       <Link
-                        href="/"
+                        href="/#states"
                         className="block px-4 py-2 text-navy font-semibold hover:bg-gray-bg text-sm"
                       >
                         View All States &rarr;
@@ -213,7 +213,7 @@ export default function Navbar() {
               </Link>
             ))}
             <Link
-              href="/"
+              href="/#states"
               className="block px-2 py-2 text-gold font-semibold"
               onClick={() => setMobileOpen(false)}
             >

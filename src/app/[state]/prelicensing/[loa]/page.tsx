@@ -27,6 +27,60 @@ import StickyMobileCTA from "@/components/StickyMobileCTA";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
+import YouTubeEmbed from "@/components/YouTubeEmbed";
+
+// LOA-buy-page step-by-step walkthrough videos. Each video's YouTube
+// description points buyers to /[state]/prelicensing/life-and-health as
+// the secondary link, so embedding it here closes the loop for the small
+// fraction of viewers who click that secondary CTA. Per-state map; only
+// applies to the life-and-health LOA. Added FL+CA+TX 2026-06-12.
+type LoaVideo = {
+  videoId: string;
+  title: string;
+  uploadDate: string;
+  duration: string;
+  description: string;
+};
+const LOA_VIDEOS: Record<string, LoaVideo> = {
+  florida: {
+    videoId: "o80zGv0ksMA",
+    title: "How To Get Your Florida Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-09",
+    duration: "PT5M54S",
+    description:
+      "Step-by-step walkthrough of the Florida 2-15 Life, Health & Annuity license process: 60-hr prelicensing, $44 Pearson VUE exam, IdentoGO fingerprinting, and NIPR application. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+  california: {
+    videoId: "urRztwGUnhY",
+    title: "How To Get Your California Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-11",
+    duration: "PT7M18S",
+    description:
+      "Step-by-step walkthrough of the California Life & Health license process: 12-hour Code & Ethics requirement (post-AB 943), $98 PSI exam, Live Scan fingerprinting, and CDI application via NIPR. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+  texas: {
+    videoId: "ZgLGWFzBcGA",
+    title: "How To Get Your Texas Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-11",
+    duration: "PT5M51S",
+    description:
+      "Step-by-step walkthrough of the Texas General Lines Life, Accident & Health license process: optional prelicensing, $39 Pearson VUE InsTX-LAH05 exam, IdentoGO fingerprinting, and TDI application via Sircon/NIPR. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+};
+
+function buildLoaVideoSchema(v: LoaVideo) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: v.title,
+    description: v.description,
+    thumbnailUrl: `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`,
+    uploadDate: v.uploadDate,
+    duration: v.duration,
+    contentUrl: `https://www.youtube.com/watch?v=${v.videoId}`,
+    embedUrl: `https://www.youtube-nocookie.com/embed/${v.videoId}`,
+  };
+}
 
 type CatalogLinks = typeof catalogLinks;
 
@@ -180,6 +234,9 @@ export default async function PrelicensingCoursePage({
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={articleSchema} />
+      {loaDef.slug === "life-and-health" && LOA_VIDEOS[stateData.slug] && (
+        <SchemaMarkup schema={buildLoaVideoSchema(LOA_VIDEOS[stateData.slug])} />
+      )}
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -199,6 +256,18 @@ export default async function PrelicensingCoursePage({
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
       </div>
+
+      {/* Step-by-step walkthrough video for life-and-health buyers in
+          states that have one (FL/CA/TX as of 2026-06-12 — see LOA_VIDEOS
+          above). The video's YouTube description points buyers to this URL
+          as the secondary CTA. Placed under byline + before CourseOverviewBox
+          so the buyer sees the same step-by-step they just watched. */}
+      {loaDef.slug === "life-and-health" && LOA_VIDEOS[stateData.slug] && (
+        <YouTubeEmbed
+          videoId={LOA_VIDEOS[stateData.slug].videoId}
+          title={LOA_VIDEOS[stateData.slug].title}
+        />
+      )}
 
       {hoursIsNumber ? (
         <CourseOverviewBox

@@ -77,6 +77,48 @@
     "uploadDate": "2026-06-09",
     "duration": "PT5M54S"
   },
+  "/florida/prelicensing/life-and-health": {
+    "videoId": "o80zGv0ksMA",
+    "title": "How To Get Your Florida Life + Health Insurance License (Step by Step)",
+    "uploadDate": "2026-06-09",
+    "duration": "PT5M54S"
+  },
+  "/california": {
+    "videoId": "urRztwGUnhY",
+    "title": "How To Get Your California Life + Health Insurance License (Step by Step)",
+    "uploadDate": "2026-06-11",
+    "duration": "PT7M18S"
+  },
+  "/california/requirements": {
+    "videoId": "urRztwGUnhY",
+    "title": "How To Get Your California Life + Health Insurance License (Step by Step)",
+    "uploadDate": "2026-06-11",
+    "duration": "PT7M18S"
+  },
+  "/california/prelicensing/life-and-health": {
+    "videoId": "urRztwGUnhY",
+    "title": "How To Get Your California Life + Health Insurance License (Step by Step)",
+    "uploadDate": "2026-06-11",
+    "duration": "PT7M18S"
+  },
+  "/texas": {
+    "videoId": "ZgLGWFzBcGA",
+    "title": "How To Get Your Texas Life + Health Insurance License (Step by Step)",
+    "uploadDate": "2026-06-11",
+    "duration": "PT5M51S"
+  },
+  "/texas/requirements": {
+    "videoId": "ZgLGWFzBcGA",
+    "title": "How To Get Your Texas Life + Health Insurance License (Step by Step)",
+    "uploadDate": "2026-06-11",
+    "duration": "PT5M51S"
+  },
+  "/texas/prelicensing/life-and-health": {
+    "videoId": "ZgLGWFzBcGA",
+    "title": "How To Get Your Texas Life + Health Insurance License (Step by Step)",
+    "uploadDate": "2026-06-11",
+    "duration": "PT5M51S"
+  },
   "/blog/texas-insurance-license": {
     "videoId": "HhtvSFxHomw",
     "title": "Life Insurance Exam Practice Questions (30 MUST-KNOW) – Part 10",

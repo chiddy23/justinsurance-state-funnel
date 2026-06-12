@@ -20,23 +20,58 @@ import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 
-// VideoObject schema for the Florida-only embed on /florida/requirements.
-// The video's own YouTube description points buyers to this URL, closing
-// the loop — viewer arrives expecting the step-by-step they just watched
-// and gets it. Single-source-of-truth video data lives in
-// src/lib/youtube-videos.json (key "/florida/requirements"). Added 2026-06-09.
-const floridaRequirementsVideoSchema = {
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  name: "How To Get Your Florida Life + Health Insurance License (Step by Step)",
-  description:
-    "Step-by-step walkthrough of the Florida 2-15 Life, Health & Annuity license process: 60-hr prelicensing, $44 Pearson VUE exam, IdentoGO fingerprinting, and NIPR application. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
-  thumbnailUrl: "https://i.ytimg.com/vi/o80zGv0ksMA/hqdefault.jpg",
-  uploadDate: "2026-06-09",
-  duration: "PT5M54S",
-  contentUrl: "https://www.youtube.com/watch?v=o80zGv0ksMA",
-  embedUrl: "https://www.youtube-nocookie.com/embed/o80zGv0ksMA",
+// /[state]/requirements step-by-step walkthrough videos. Each state's video
+// description points buyers to its /[state]/requirements URL specifically,
+// closing the viewer-to-page loop. Single-source-of-truth registry lives
+// in src/lib/youtube-videos.json; per-state map below carries the extra
+// VideoObject schema fields. Added FL 2026-06-09; CA + TX 2026-06-12.
+type RequirementsVideo = {
+  videoId: string;
+  title: string;
+  uploadDate: string;
+  duration: string;
+  description: string;
 };
+const REQUIREMENTS_VIDEOS: Record<string, RequirementsVideo> = {
+  florida: {
+    videoId: "o80zGv0ksMA",
+    title: "How To Get Your Florida Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-09",
+    duration: "PT5M54S",
+    description:
+      "Step-by-step walkthrough of the Florida 2-15 Life, Health & Annuity license process: 60-hr prelicensing, $44 Pearson VUE exam, IdentoGO fingerprinting, and NIPR application. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+  california: {
+    videoId: "urRztwGUnhY",
+    title: "How To Get Your California Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-11",
+    duration: "PT7M18S",
+    description:
+      "Step-by-step walkthrough of the California Life & Health license process: 12-hour Code & Ethics requirement (post-AB 943), $98 PSI exam, Live Scan fingerprinting, and CDI application via NIPR. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+  texas: {
+    videoId: "ZgLGWFzBcGA",
+    title: "How To Get Your Texas Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-11",
+    duration: "PT5M51S",
+    description:
+      "Step-by-step walkthrough of the Texas General Lines Life, Accident & Health license process: optional prelicensing, $39 Pearson VUE InsTX-LAH05 exam, IdentoGO fingerprinting, and TDI application via Sircon/NIPR. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+};
+
+function buildRequirementsVideoSchema(v: RequirementsVideo) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: v.title,
+    description: v.description,
+    thumbnailUrl: `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`,
+    uploadDate: v.uploadDate,
+    duration: v.duration,
+    contentUrl: `https://www.youtube.com/watch?v=${v.videoId}`,
+    embedUrl: `https://www.youtube-nocookie.com/embed/${v.videoId}`,
+  };
+}
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -181,8 +216,8 @@ export default async function RequirementsPage({
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={articleSchema} />
-      {stateData.slug === "florida" && (
-        <SchemaMarkup schema={floridaRequirementsVideoSchema} />
+      {REQUIREMENTS_VIDEOS[stateData.slug] && (
+        <SchemaMarkup schema={buildRequirementsVideoSchema(REQUIREMENTS_VIDEOS[stateData.slug])} />
       )}
 
       <BreadcrumbNav crumbs={crumbs} />
@@ -225,14 +260,16 @@ export default async function RequirementsPage({
         <EditorialByline lastVerified={stateData.lastVerified} />
       </div>
 
-      {/* Florida step-by-step walkthrough video. Placed under the editorial
-          byline so viewer-to-reader handoff is tight: the video's YouTube
-          description points buyers HERE, and they immediately see the same
-          step-by-step they just watched. VideoObject schema emitted above. */}
-      {stateData.slug === "florida" && (
+      {/* Step-by-step walkthrough video for the states that have one
+          (FL/CA/TX as of 2026-06-12 — see REQUIREMENTS_VIDEOS above).
+          Placed under the editorial byline so viewer-to-reader handoff is
+          tight: each video's YouTube description points buyers to THIS
+          URL, and they immediately see the same step-by-step they just
+          watched. VideoObject schema emitted above. */}
+      {REQUIREMENTS_VIDEOS[stateData.slug] && (
         <YouTubeEmbed
-          videoId="o80zGv0ksMA"
-          title="How To Get Your Florida Life + Health Insurance License (Step by Step)"
+          videoId={REQUIREMENTS_VIDEOS[stateData.slug].videoId}
+          title={REQUIREMENTS_VIDEOS[stateData.slug].title}
         />
       )}
 

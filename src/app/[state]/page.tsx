@@ -25,21 +25,57 @@ import StateSalaryCard from "@/components/StateSalaryCard";
 import HowToGetLicensed from "@/components/HowToGetLicensed";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 
-// VideoObject schema for the Florida-only embed. Mirrors the pattern
-// used on /health-insurance-license. Single-source-of-truth video data
-// lives in src/lib/youtube-videos.json (key "/florida"). Added 2026-06-09.
-const floridaVideoSchema = {
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  name: "How To Get Your Florida Life + Health Insurance License (Step by Step)",
-  description:
-    "Step-by-step walkthrough of the Florida 2-15 Life, Health & Annuity license process: 60-hr prelicensing, $44 Pearson VUE exam, IdentoGO fingerprinting, and NIPR application. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
-  thumbnailUrl: "https://i.ytimg.com/vi/o80zGv0ksMA/hqdefault.jpg",
-  uploadDate: "2026-06-09",
-  duration: "PT5M54S",
-  contentUrl: "https://www.youtube.com/watch?v=o80zGv0ksMA",
-  embedUrl: "https://www.youtube-nocookie.com/embed/o80zGv0ksMA",
+// State-hub step-by-step walkthrough videos. Single-source-of-truth video
+// data lives in src/lib/youtube-videos.json; the per-state map below carries
+// the additional fields needed for VideoObject schema (description + thumb).
+// Added FL 2026-06-09; added CA + TX 2026-06-12.
+type StateHubVideo = {
+  videoId: string;
+  title: string;
+  uploadDate: string;
+  duration: string;
+  description: string;
 };
+const STATE_HUB_VIDEOS: Record<string, StateHubVideo> = {
+  florida: {
+    videoId: "o80zGv0ksMA",
+    title: "How To Get Your Florida Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-09",
+    duration: "PT5M54S",
+    description:
+      "Step-by-step walkthrough of the Florida 2-15 Life, Health & Annuity license process: 60-hr prelicensing, $44 Pearson VUE exam, IdentoGO fingerprinting, and NIPR application. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+  california: {
+    videoId: "urRztwGUnhY",
+    title: "How To Get Your California Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-11",
+    duration: "PT7M18S",
+    description:
+      "Step-by-step walkthrough of the California Life & Health license process: 12-hour Code & Ethics requirement (post-AB 943), $98 PSI exam, Live Scan fingerprinting, and CDI application via NIPR. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+  texas: {
+    videoId: "ZgLGWFzBcGA",
+    title: "How To Get Your Texas Life + Health Insurance License (Step by Step)",
+    uploadDate: "2026-06-11",
+    duration: "PT5M51S",
+    description:
+      "Step-by-step walkthrough of the Texas General Lines Life, Accident & Health license process: optional prelicensing, $39 Pearson VUE InsTX-LAH05 exam, IdentoGO fingerprinting, and TDI application via Sircon/NIPR. Hosted by Justin vom Eigen, IDECC Certified Distance Education Instructor and founder of JustInsurance LLC.",
+  },
+};
+
+function buildStateVideoSchema(v: StateHubVideo) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: v.title,
+    description: v.description,
+    thumbnailUrl: `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`,
+    uploadDate: v.uploadDate,
+    duration: v.duration,
+    contentUrl: `https://www.youtube.com/watch?v=${v.videoId}`,
+    embedUrl: `https://www.youtube-nocookie.com/embed/${v.videoId}`,
+  };
+}
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -173,7 +209,9 @@ export default async function StateHubPage({
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={courseSchema} />
       <SchemaMarkup schema={articleSchema} />
-      {stateData.slug === "florida" && <SchemaMarkup schema={floridaVideoSchema} />}
+      {STATE_HUB_VIDEOS[stateData.slug] && (
+        <SchemaMarkup schema={buildStateVideoSchema(STATE_HUB_VIDEOS[stateData.slug])} />
+      )}
 
       <BreadcrumbNav crumbs={crumbs} />
 
@@ -225,15 +263,16 @@ export default async function StateHubPage({
         doiUrl={stateData.doiUrl}
       />
 
-      {/* Florida step-by-step walkthrough video. Placed after the provider
-          badge so credibility signals (DOI + provider #) frame the video,
-          and before specialNotices / TwoPathSelector so it gets dwell-time
-          weight on the highest-impression FL surface (GSC 1,550 imp /
-          pos 25.6). VideoObject schema emitted above. Added 2026-06-09. */}
-      {stateData.slug === "florida" && (
+      {/* State-hub step-by-step walkthrough video for the states that have
+          one (FL/CA/TX as of 2026-06-12 — see STATE_HUB_VIDEOS above).
+          Placed after the provider badge so credibility signals (DOI +
+          provider #) frame the video, and before specialNotices /
+          TwoPathSelector so it gets dwell-time weight on these high-
+          impression surfaces. VideoObject schema emitted above. */}
+      {STATE_HUB_VIDEOS[stateData.slug] && (
         <YouTubeEmbed
-          videoId="o80zGv0ksMA"
-          title="How To Get Your Florida Life + Health Insurance License (Step by Step)"
+          videoId={STATE_HUB_VIDEOS[stateData.slug].videoId}
+          title={STATE_HUB_VIDEOS[stateData.slug].title}
         />
       )}
 

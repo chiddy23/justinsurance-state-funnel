@@ -18,6 +18,7 @@ import {
 import FAQAccordion from "@/components/FAQAccordion";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
+import CEIndividualCoursesTile from "@/components/CEIndividualCoursesTile";
 // Re-use the package detail renderer + FAQ builder defined in the parent route
 // file. Next.js only consumes `default`, `generateMetadata`, and
 // `generateStaticParams` from page.tsx — extra exports are inert and safe.
@@ -192,6 +193,14 @@ export default async function PCPackagePage({
           </div>
         </section>
       )}
+
+      {/* Individual-courses catalog tile — same à-la-carte category as all
+          other CE pages. */}
+      <CEIndividualCoursesTile
+        stateSlug={stateData.slug}
+        stateName={stateData.name}
+        doiName={stateData.doiName}
+      />
 
       <FAQAccordion
         faqs={faqs}

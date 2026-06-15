@@ -22,6 +22,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
+import CEIndividualCoursesTile from "@/components/CEIndividualCoursesTile";
 
 // ---------------------------------------------------------------------------
 // Static params — only the 25 states with at least one P&C package
@@ -677,6 +678,16 @@ export default async function PCStateHubPage({
         // SINGLE-PACKAGE: render full detail
         <PCPackageDetail stateData={stateData} pkg={packages[0]} />
       )}
+
+      {/* Individual-courses catalog tile — same à-la-carte category as the
+          L&H CE pages (per catalog owner, P&C individual courses share the
+          one "individual" category). Shared tail covers both the multi- and
+          single-package render paths. */}
+      <CEIndividualCoursesTile
+        stateSlug={stateData.slug}
+        stateName={stateData.name}
+        doiName={stateData.doiName}
+      />
 
       <FAQAccordion
         faqs={faqs}

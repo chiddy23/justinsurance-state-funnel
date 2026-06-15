@@ -24,6 +24,7 @@ import StickyMobileCTA from "@/components/StickyMobileCTA";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
+import CEIndividualCoursesTile from "@/components/CEIndividualCoursesTile";
 
 type CatalogLinks = typeof catalogLinks;
 
@@ -310,6 +311,16 @@ export default async function CECoursePage({
       <CourseFeatures variant="ce" />
 
       <TestimonialCards variant="ce" stateName={stateData.name} seed={stateData.slug} />
+
+      {/* Individual-courses catalog tile — same à-la-carte category as the
+          hub. White background here to sit cleanly between the white
+          TestimonialCards and the FAQ section. */}
+      <CEIndividualCoursesTile
+        stateSlug={stateData.slug}
+        stateName={stateData.name}
+        doiName={stateData.doiName}
+        sectionClassName="bg-white px-4 pb-12"
+      />
 
       <FAQAccordion
         faqs={faqs}

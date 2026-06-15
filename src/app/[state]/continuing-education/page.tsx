@@ -15,6 +15,8 @@ import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
 import Link from "next/link";
 import { PC_STATE_SLUGS } from "@/data/pc-ce-packages";
+import catalogLinks from "@/lib/catalog-links.json";
+import { getCtaAttrs } from "@/lib/gtm-attrs";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -75,6 +77,18 @@ export default async function CEHubPage({
     { name: stateData.name, href: `/${stateData.slug}/` },
     { name: "Continuing Education" },
   ];
+
+  // À-la-carte "individual courses" Absorb catalog category. All 50 states
+  // carry this key in catalog-links.json (distinct from the package
+  // catalog the LOA cards link to). Fall back to the CE category root if a
+  // state ever lacks it.
+  const ceCatalog = (
+    catalogLinks as Record<string, { "continuing-education"?: Record<string, string> }>
+  )[stateData.slug]?.["continuing-education"];
+  const individualCoursesUrl =
+    ceCatalog?.individual ??
+    ceCatalog?.category ??
+    "https://yourinsurancelicense.myabsorb.com/";
 
   return (
     <>
@@ -197,6 +211,41 @@ export default async function CEHubPage({
           courseType="continuing-education"
           stateData={stateData}
         />
+
+        {/* Individual-courses catalog tile. The LOA cards above link to the
+            PACKAGE catalog; this tile links to the à-la-carte INDIVIDUAL
+            course category in Absorb (a distinct catalog per state). Kept
+            OUT of the LOA grid deliberately so it never alters the card-count
+            layout (3-card vs 4-card P&C states). Mirrors the P&C cross-link
+            tile pattern above. External LMS link → new tab. Added 2026-06-13. */}
+        <section className="bg-gray-bg px-4 pb-16">
+          <div className="max-w-5xl mx-auto">
+            <a
+              href={individualCoursesUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              {...getCtaAttrs({
+                href: individualCoursesUrl,
+                location: "ce-individual-catalog",
+                state: stateData.slug,
+                loa: "individual",
+              })}
+              className="block bg-white border-l-4 border-navy rounded-r-xl p-5 shadow-sm hover:shadow-md hover:bg-gray-50 transition-all group"
+            >
+              <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-1">
+                Need just one topic?
+              </p>
+              <p className="text-navy font-bold text-base md:text-lg group-hover:underline">
+                Browse all individual {stateData.name} CE courses in our catalog &rarr;
+              </p>
+              <p className="text-gray-600 text-sm mt-1">
+                Prefer to build your own hours? Pick à-la-carte CE courses to
+                fill a specific gap or top off your remaining {stateData.name}{" "}
+                hours — same-day {stateData.doiName} reporting on every course.
+              </p>
+            </a>
+          </div>
+        </section>
       </div>
 
       {/* How CE Works */}

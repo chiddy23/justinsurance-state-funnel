@@ -92,8 +92,14 @@ export async function generateMetadata({
   const fullTitle = `${stateData.name} Insurance License Requirements 2026 | ${brand}`;
   const shortTitle = `${stateData.abbreviation} Insurance License Requirements 2026 | ${brand}`;
   const titleString = fullTitle.length <= 60 ? fullTitle : shortTitle;
-  // Keep description <= 155 chars for all 50 state names including DC
-  const description = `${stateData.name} insurance license requirements 2026: prelicensing hours, exam, fingerprinting, fees, CE renewal. Updated ${stateData.lastVerified}.`;
+  // Answer-first meta (2026-06-17): replaced the old topic-list
+  // ("prelicensing hours, exam, fingerprinting, fees, CE renewal") with
+  // concrete per-state numbers. GSC showed requirements pages ranking
+  // ~pos 9-10 but converting ~0 — competitors win the click by surfacing
+  // specifics (passing score, fee, CE hours) in the snippet, not a list of
+  // topics. Numbers come from the same stateData fields that feed the
+  // on-page requirements table. Kept <= ~160 chars across all 50 states.
+  const description = `${stateData.name} insurance license requirements (2026): must be ${stateData.minAge}+, pass the ${stateData.examInfo.passingScore}% state exam, get fingerprinted, and pay a $${stateData.applicationFee} application fee. ${stateData.ce.totalHours}-hr CE to renew.`;
   return {
     title: { absolute: titleString },
     description,
@@ -272,6 +278,36 @@ export default async function RequirementsPage({
           title={REQUIREMENTS_VIDEOS[stateData.slug].title}
         />
       )}
+
+      {/* TL;DR direct-answer block — snippet/AI-overview bait. Added
+          2026-06-17 (GSC: page ranks ~pos 9-10 but the first on-page prose
+          was a marketing value-promise, weak snippet material). This bolded
+          factual lead gives Google a query-shaped answer to pull and
+          reinforces the meta so it's less likely to be rewritten.
+          Template-safe: examProvider is per-state (NEVER hardcode a vendor —
+          it's PSI / Pearson VUE / Prometric by state); backgroundCheckCost
+          is guarded because 13 states store a non-numeric string
+          ("No separate fee" etc.); prelicensing hours are kept generic
+          because 33 states are non-numeric. */}
+      <section className="bg-white pt-12 px-4">
+        <div className="max-w-4xl mx-auto">
+          <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-5">
+            <p className="text-gray-800 leading-relaxed">
+              <strong>Quick answer:</strong> To get {aOrAn(stateData.name)}{" "}
+              {stateData.name} insurance license you must be {stateData.minAge}+,
+              complete state-approved
+              prelicensing, pass the {stateData.examInfo.examProvider} state exam
+              ({stateData.examInfo.passingScore}% to pass), get fingerprinted
+              ({/^[0-9.]+$/.test(stateData.backgroundCheckCost)
+                ? `~$${stateData.backgroundCheckCost}`
+                : stateData.backgroundCheckCost.toLowerCase()}
+              ), and submit a ${stateData.applicationFee} license application.
+              Renewal requires {stateData.ce.totalHours} CE hours (including{" "}
+              {stateData.ce.ethicsHours} ethics) every {stateData.ce.renewalPeriod}.
+            </p>
+          </div>
+        </div>
+      </section>
 
       {/* ── 2. Quick Requirements Summary Table ─────────────────────────────── */}
       <section className="bg-white py-16 px-4">

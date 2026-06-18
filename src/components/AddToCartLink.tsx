@@ -12,11 +12,13 @@ import type { GtmAttrs } from "@/lib/gtm-attrs";
 // THIS domain (no cross-domain dependency). The SEO/GTM side builds a GA4
 // `add_to_cart` tag off this event.
 //
-// Pushes a standard GA4 ecommerce payload on click:
-//   event: "add_to_cart"
-//   ecommerce.items[0]: { item_id (courseId), item_name, item_category
-//     (courseType), item_variant (loa), price, quantity }
-//   plus top-level us_state + course_type for easy GTM segmentation.
+// Pushes on click both (a) FLAT top-level keys for easy GTM Data Layer
+// Variables, and (b) a standard GA4 ecommerce object:
+//   event:        "add_to_cart"
+//   course_id, course_name, course_price, course_loa, course_state,
+//   course_type   <- map these directly as GTM Data Layer Variables
+//   ecommerce.items[0]: { item_id, item_name, item_category, item_variant,
+//     price, quantity }   <- for the GA4 ecommerce tag
 //
 // Guard: only fires for real single-course cart links
 // (…/#/AddToCart?CourseIds=<id>). Catalog/picker/curricula links are ignored,
@@ -29,6 +31,13 @@ import type { GtmAttrs } from "@/lib/gtm-attrs";
 
 // GA4 event name — the contract with GTM. Change here if GTM expects another.
 const ADD_TO_CART_EVENT = "add_to_cart";
+
+// Ensure the dataLayer exists at module load (GTM also creates it, but this
+// guards against a click landing before GTM's init in edge cases).
+if (typeof window !== "undefined") {
+  const w = window as unknown as { dataLayer?: unknown[] };
+  w.dataLayer = w.dataLayer || [];
+}
 
 function extractCourseId(href: string): string | null {
   const m = href.match(/CourseIds=([0-9a-fA-F-]{36})/);
@@ -82,8 +91,14 @@ export default function AddToCartLink({
       w.dataLayer.push({ ecommerce: null });
       w.dataLayer.push({
         event: ADD_TO_CART_EVENT,
-        us_state: state,
+        // Flat keys — map these 1:1 as GTM Data Layer Variables.
+        course_id: courseId,
+        course_name: itemName,
+        course_price: value,
+        course_loa: loa,
+        course_state: state,
         course_type: courseType,
+        // GA4 ecommerce object — for the GA4 add_to_cart tag.
         ecommerce: {
           currency: "USD",
           value,

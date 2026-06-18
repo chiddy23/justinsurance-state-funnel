@@ -2,6 +2,7 @@
 
 import React from "react";
 import { getCtaAttrs } from "@/lib/gtm-attrs";
+import AddToCartLink from "@/components/AddToCartLink";
 
 interface StickyMobileCTAProps {
   text: string;
@@ -9,17 +10,20 @@ interface StickyMobileCTAProps {
   price?: string;
   state?: string;
   loa?: string;
+  courseType?: string;
 }
 
-export default function StickyMobileCTA({ text, href, price, state, loa }: StickyMobileCTAProps) {
+export default function StickyMobileCTA({ text, href, price, state, loa, courseType }: StickyMobileCTAProps) {
   return (
     <div className="fixed bottom-0 left-0 right-0 z-40 md:hidden">
       <div className="bg-white border-t border-gray-200 shadow-2xl px-4 py-3">
-        <a
+        <AddToCartLink
           href={href}
-          target="_blank"
-          rel="noopener noreferrer"
-          {...getCtaAttrs({ href, location: "sticky-mobile", state, loa })}
+          price={price}
+          state={state}
+          loa={loa}
+          courseType={courseType}
+          gtmAttrs={getCtaAttrs({ href, location: "sticky-mobile", state, loa })}
           className="flex items-center justify-center gap-2 w-full bg-gold hover:bg-gold-dark text-gray-dark font-bold text-base py-3.5 px-6 rounded-lg transition-colors"
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -27,7 +31,7 @@ export default function StickyMobileCTA({ text, href, price, state, loa }: Stick
           </svg>
           {text}
           {price && <span className="ml-1 font-extrabold">&mdash; {price}</span>}
-        </a>
+        </AddToCartLink>
       </div>
     </div>
   );

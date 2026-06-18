@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { StateData } from "@/lib/states";
 import catalogLinks from "@/lib/catalog-links.json";
 import { getCtaAttrs } from "@/lib/gtm-attrs";
+import AddToCartLink from "@/components/AddToCartLink";
 import {
   PC_STATE_SLUGS,
   getPCPackagesForState,
@@ -260,16 +261,21 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
                 </a>
               ) : (
                 // External cart link (single-package) — open in new tab,
-                // "Enroll Now" label with price.
-                <a
+                // "Enroll Now" label with price. AddToCartLink fires the GA4
+                // add_to_cart dataLayer event (courseId + price + state/loa)
+                // and preserves the existing data-gtm-* attributes.
+                <AddToCartLink
                   href={card.enrollHref}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  {...getCtaAttrs({ href: card.enrollHref, location: "loa-card", state: stateSlug, loa: card.slug })}
+                  price={card.price}
+                  state={stateSlug}
+                  loa={card.slug}
+                  courseType={courseType}
+                  itemName={`${stateData.name} ${card.name}`}
+                  gtmAttrs={getCtaAttrs({ href: card.enrollHref, location: "loa-card", state: stateSlug, loa: card.slug })}
                   className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-4 rounded-lg transition-colors"
                 >
                   Enroll Now &mdash; {card.price}
-                </a>
+                </AddToCartLink>
               )}
             </div>
             );

@@ -10,6 +10,7 @@ import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import FAQAccordion from "@/components/FAQAccordion";
 import RelatedStatePages from "@/components/RelatedStatePages";
+import AddToCartLink from "@/components/AddToCartLink";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -213,14 +214,17 @@ export default async function PracticeExamPage({
                   </div>
                   <h3 className="font-bold text-navy mb-2 leading-snug">{card.title}</h3>
                   <p className="text-gray-600 text-sm leading-relaxed mb-6 flex-1">{card.desc}</p>
-                  <a
+                  <AddToCartLink
                     href={card.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    price="$59"
+                    state={slug}
+                    loa={card.loa}
+                    courseType="practice-exam"
+                    itemName={`${stateName} ${card.loa} Practice Exam`}
                     className="block text-center bg-navy hover:bg-navy-dark text-white font-bold py-3 px-6 rounded-lg transition-colors"
                   >
                     Buy &amp; Start Now
-                  </a>
+                  </AddToCartLink>
                   <p className="text-gray-500 text-xs text-center mt-2">
                     Instant access · {stateData.courseAccessDays}-day access
                   </p>

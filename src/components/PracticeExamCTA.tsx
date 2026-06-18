@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { PracticeExams } from "@/lib/states";
+import AddToCartLink from "@/components/AddToCartLink";
 
 interface Props {
   stateName: string;
@@ -42,14 +43,17 @@ export default function PracticeExamCTA({ stateName, stateSlug, practiceExams, l
             </div>
             <div className="flex flex-col gap-2 min-w-[200px]">
               {directUrl ? (
-                <a
+                <AddToCartLink
                   href={directUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  price="$59"
+                  state={stateSlug}
+                  loa={loa}
+                  courseType="practice-exam"
+                  itemName={`${stateName} ${loa} Practice Exam`}
                   className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
                 >
                   Buy &amp; Start — $59
-                </a>
+                </AddToCartLink>
               ) : null}
               <Link
                 href={`/${stateSlug}/practice-exam`}

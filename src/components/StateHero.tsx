@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { getCtaAttrs } from "@/lib/gtm-attrs";
+import AddToCartLink from "@/components/AddToCartLink";
 
 interface CTAButton {
   text: string;
@@ -31,27 +32,33 @@ export default function StateHero({ title, subtitle, ctaButtons, eyebrow }: Stat
           {subtitle}
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          {ctaButtons.map((btn, i) =>
-            btn.variant === "secondary" ? (
-              <Link
+          {ctaButtons.map((btn, i) => {
+            const isSecondary = btn.variant === "secondary";
+            const cls = isSecondary
+              ? "inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-white hover:text-navy transition-all"
+              : "inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-8 py-4 rounded-lg shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5";
+            const location = isSecondary ? "hero-secondary" : "hero-primary";
+            const gtmAttrs = getCtaAttrs({ href: btn.href, location });
+            const isExternal = /^https?:\/\//.test(btn.href);
+            // External Absorb enroll links → AddToCartLink (fires GA4
+            // add_to_cart when the href is a real cart link; self-guards
+            // otherwise). Internal nav stays a Next <Link>.
+            return isExternal ? (
+              <AddToCartLink
                 key={i}
                 href={btn.href}
-                {...getCtaAttrs({ href: btn.href, location: "hero-secondary" })}
-                className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-white hover:text-navy transition-all"
+                price={btn.text}
+                gtmAttrs={gtmAttrs}
+                className={cls}
               >
                 {btn.text}
-              </Link>
+              </AddToCartLink>
             ) : (
-              <Link
-                key={i}
-                href={btn.href}
-                {...getCtaAttrs({ href: btn.href, location: "hero-primary" })}
-                className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-8 py-4 rounded-lg shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5"
-              >
+              <Link key={i} href={btn.href} {...gtmAttrs} className={cls}>
                 {btn.text}
               </Link>
-            )
-          )}
+            );
+          })}
         </div>
       </div>
     </section>

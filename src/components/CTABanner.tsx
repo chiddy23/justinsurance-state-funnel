@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { getCtaAttrs } from "@/lib/gtm-attrs";
+import AddToCartLink from "@/components/AddToCartLink";
 
 interface CTABannerProps {
   title: string;
@@ -8,9 +9,15 @@ interface CTABannerProps {
   ctaText: string;
   ctaHref: string;
   externalLink?: boolean;
+  // Optional enrichment for the GA4 add_to_cart event when this banner is an
+  // external Absorb enroll CTA. courseId is auto-derived from ctaHref; price
+  // is parsed from ctaText if not passed.
+  state?: string;
+  loa?: string;
+  courseType?: string;
 }
 
-export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalLink = false }: CTABannerProps) {
+export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalLink = false, state, loa, courseType }: CTABannerProps) {
   const gtmAttrs = getCtaAttrs({ href: ctaHref, location: "cta-banner" });
   return (
     <section className="bg-navy py-16 px-4">
@@ -22,15 +29,17 @@ export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalL
           {subtitle}
         </p>
         {externalLink ? (
-          <a
+          <AddToCartLink
             href={ctaHref}
-            target="_blank"
-            rel="noopener noreferrer"
-            {...gtmAttrs}
+            price={ctaText}
+            state={state}
+            loa={loa}
+            courseType={courseType}
+            gtmAttrs={gtmAttrs}
             className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold text-lg px-10 py-4 rounded-lg shadow-lg transition-all hover:shadow-xl hover:-translate-y-0.5"
           >
             {ctaText}
-          </a>
+          </AddToCartLink>
         ) : (
           <Link
             href={ctaHref}

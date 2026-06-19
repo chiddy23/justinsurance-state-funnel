@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useId, useState } from "react";
 import {
   LASTINGMARK_CE_CATALOGS,
 } from "@/lib/lastingmark-ce-catalogs";
@@ -8,8 +8,11 @@ import {
 // State picker for the Lasting Mark CE landing page. Mirrors the client's GHL
 // page: choose a state, click "Browse Courses", open that state's Absorb CE
 // catalog in a new tab. Catalog URLs come from the live client page verbatim.
+// useId() keeps the label/select association unique when rendered more than
+// once on the same page (hero + lower section).
 export default function LastingMarkStateSelect() {
   const [url, setUrl] = useState("");
+  const selectId = useId();
 
   function browse() {
     if (url) window.open(url, "_blank", "noopener,noreferrer");
@@ -17,11 +20,11 @@ export default function LastingMarkStateSelect() {
 
   return (
     <div className="mx-auto flex max-w-xl flex-col items-stretch justify-center gap-3 sm:flex-row">
-      <label htmlFor="lm-state" className="sr-only">
+      <label htmlFor={selectId} className="sr-only">
         Select your state
       </label>
       <select
-        id="lm-state"
+        id={selectId}
         value={url}
         onChange={(e) => setUrl(e.target.value)}
         className="min-w-[220px] flex-1 rounded-lg border border-white/30 bg-white px-4 py-3 text-gray-dark shadow-sm focus:outline-none focus:ring-2 focus:ring-sky-400"

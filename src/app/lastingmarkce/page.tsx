@@ -14,8 +14,6 @@ import LastingMarkStateSelect from "@/components/LastingMarkStateSelect";
 // For true privacy (hide the content, not just the listing), put it behind auth.
 // ---------------------------------------------------------------------------
 
-const CATALOG_URL =
-  "https://yourinsurancelicense.myabsorb.com/#/catalog/8b752ab9-df9c-45f2-bd07-5dc0b85ca4e2";
 const COUPON_CODE = "LASTINGMARK";
 
 export const metadata: Metadata = {
@@ -58,20 +56,6 @@ const WHY = [
 export default function LastingMarkCEPage() {
   return (
     <>
-      {/* Co-brand partnership bar */}
-      <div className="bg-white py-4 border-b border-gray-200">
-        <div className="mx-auto flex max-w-6xl items-center justify-center px-4">
-          <Image
-            src="/lastingmarkce/cobrand-logo.png"
-            alt="JustInsurance in partnership with Lasting Mark"
-            width={300}
-            height={86}
-            priority
-            className="h-auto w-[260px] sm:w-[300px]"
-          />
-        </div>
-      </div>
-
       {/* Hero */}
       <section className="relative isolate overflow-hidden">
         <Image
@@ -84,32 +68,27 @@ export default function LastingMarkCEPage() {
         />
         <div className="absolute inset-0 -z-10 bg-navy/85" />
         <div className="mx-auto max-w-5xl px-4 py-20 sm:py-28 text-center text-white">
-          <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-gold">
-            JustInsurance Continuing Education
+          <p className="mb-4 inline-block rounded-full bg-gold/15 px-4 py-1 text-sm font-semibold uppercase tracking-wide text-gold ring-1 ring-gold/40">
+            Exclusive Lasting Mark Partner Offer
           </p>
           <h1 className="text-4xl sm:text-5xl font-bold leading-tight">
-            Need CE Credits Fast?
+            Access Your Lasting Mark{" "}
+            <span className="text-gold">×</span> JustInsurance CE Discount
           </h1>
           <p className="mx-auto mt-5 max-w-2xl text-lg text-white/90">
-            Complete your state-approved insurance CE online — quick, easy, and
-            hassle-free. Move at your own pace and report the same day.
+            As a Lasting Mark partner, you get{" "}
+            <span className="font-semibold text-white">$10 off</span> your
+            state-approved continuing education — 100% online, self-paced, and
+            already the lowest prices in the industry at just $1.50 per credit
+            hour.
           </p>
           <div className="mt-8 flex flex-col items-center gap-3">
             <a
-              href={CATALOG_URL}
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#pick-state"
               className="inline-block rounded-lg bg-gold px-8 py-4 text-lg font-bold text-navy-dark shadow-lg transition hover:bg-gold-light"
             >
-              View Course Catalog
+              Get Started ↓
             </a>
-            <p className="text-sm text-white/80">
-              Just{" "}
-              <span className="font-semibold text-white">
-                $1.50 per credit hour
-              </span>{" "}
-              — already the lowest prices in the industry.
-            </p>
           </div>
         </div>
       </section>
@@ -144,8 +123,19 @@ export default function LastingMarkCEPage() {
             </p>
           </div>
 
+          {/* Co-brand logo, brought down next to the picker for visibility */}
+          <div className="mx-auto mt-8 flex max-w-md justify-center rounded-xl bg-white px-6 py-4 shadow-lg">
+            <Image
+              src="/lastingmarkce/cobrand-logo.png"
+              alt="JustInsurance in partnership with Lasting Mark"
+              width={300}
+              height={86}
+              className="h-auto w-[260px] sm:w-[300px]"
+            />
+          </div>
+
           {/* State picker */}
-          <div className="mt-8">
+          <div id="pick-state" className="mt-6 scroll-mt-24">
             <LastingMarkStateSelect />
           </div>
 
@@ -228,12 +218,10 @@ export default function LastingMarkCEPage() {
             Self-paced, state-approved, and the lowest prices in the industry.
           </p>
           <a
-            href={CATALOG_URL}
-            target="_blank"
-            rel="noopener noreferrer"
+            href="#pick-state"
             className="mt-6 inline-block rounded-lg bg-gold px-8 py-4 text-lg font-bold text-navy-dark shadow-lg transition hover:bg-gold-light"
           >
-            View Course Catalog
+            Select Your State to Get Started ↑
           </a>
           <p className="mt-6 text-sm text-white/70">
             Questions? Call{" "}

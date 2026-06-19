@@ -30,25 +30,33 @@ export async function generateMetadata({
   if (!post) return {};
 
   // Build a metaTitle that ALWAYS differs from the H1 for SEO.
-  // H1 = post.title. Meta title appends a brand suffix, truncating the
-  // title portion if needed to stay within 60 chars total.
+  // H1 = post.title. The meta <title> appends a brand suffix when it fits.
+  //
+  // IMPORTANT: never front-truncate the title with "…". These blog titles are
+  // templated and carry their distinguishing keyword at the END (the state, or
+  // "renewal" vs "requirements"), so chopping the tail produced DUPLICATE,
+  // keyword-stripped titles (CO/MN/VA all collapsed to "How to Add a Line of
+  // Authority to Your Existing… | JI Blog"). Instead keep the FULL, unique
+  // title — adding the shortest brand suffix only while it stays within a
+  // tolerant ceiling, otherwise the bare title. Google may visually shorten an
+  // over-length title in the SERP, but the tag stays unique and keyword-complete.
+  const FULL_MAX = 60; // ideal display target (title + brand suffix)
+  const HARD_MAX = 70; // tolerate up to here with a brand suffix before dropping it
   const suffixes = [
     " | JustInsurance",
     " | JI Blog",
   ];
   let metaTitle = "";
   for (const sfx of suffixes) {
-    const max = 60 - sfx.length;
-    if (post.title.length <= max) {
+    if (post.title.length + sfx.length <= FULL_MAX) {
       metaTitle = post.title + sfx;
       break;
     }
   }
   if (!metaTitle) {
-    // Title is longer than 60 - 10 = 50 chars; truncate title and add shortest suffix
     const sfx = " | JI Blog";
-    const max = 60 - sfx.length - 3; // -3 for "..."
-    metaTitle = post.title.slice(0, max).trim() + "..." + sfx;
+    metaTitle =
+      post.title.length + sfx.length <= HARD_MAX ? post.title + sfx : post.title;
   }
 
   const canonicalUrl = `https://justinsuranceco.com/blog/${cluster}/${slug}`;

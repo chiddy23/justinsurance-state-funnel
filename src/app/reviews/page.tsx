@@ -3,6 +3,14 @@ import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 import { ALL_TESTIMONIALS, GOOGLE_REVIEWS, type Testimonial } from "@/lib/testimonials";
+import { TRUSTPILOT, TRUSTPILOT_REVIEWS } from "@/lib/trustpilot";
+import TrustpilotStars from "@/components/TrustpilotStars";
+
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+function fmtDate(iso: string): string {
+  const [y, m, d] = iso.split("-");
+  return `${MONTHS[Number(m) - 1]} ${Number(d)}, ${y}`;
+}
 
 export const metadata: Metadata = {
   title: { absolute: "JustInsurance Student Reviews & Testimonials" },
@@ -81,11 +89,7 @@ export default function ReviewsPage() {
 
       {/* Stats band */}
       <section className="bg-gold/10 border-b border-gold/30 py-6 px-4">
-        <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-5 gap-4 text-center">
-          <div>
-            <p className="text-2xl md:text-3xl font-bold text-navy">5.0★</p>
-            <p className="text-xs text-gray-700">Average rating</p>
-          </div>
+        <div className="max-w-5xl mx-auto grid grid-cols-2 md:grid-cols-6 gap-4 text-center">
           <a
             href="https://www.google.com/search?q=JustInsurance+Pembroke+Pines+FL+reviews"
             target="_blank"
@@ -103,6 +107,22 @@ export default function ReviewsPage() {
             </p>
             <p className="text-xs text-gray-700">on Google</p>
           </a>
+          <a
+            href={TRUSTPILOT.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block hover:opacity-80 transition-opacity"
+          >
+            <p className="text-2xl md:text-3xl font-bold text-navy flex items-center justify-center gap-1.5">
+              {TRUSTPILOT.score}
+              <TrustpilotStars size="w-5 h-5" count={1} />
+            </p>
+            <p className="text-xs text-gray-700">on Trustpilot</p>
+          </a>
+          <div>
+            <p className="text-2xl md:text-3xl font-bold text-navy">{TRUSTPILOT.count}</p>
+            <p className="text-xs text-gray-700">Trustpilot reviews</p>
+          </div>
           <div>
             <p className="text-2xl md:text-3xl font-bold text-navy">20,000+</p>
             <p className="text-xs text-gray-700">Students licensed</p>
@@ -162,6 +182,71 @@ export default function ReviewsPage() {
               className="text-sm text-navy underline hover:text-gold"
             >
               See all reviews on Google →
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Trustpilot Reviews */}
+      <section className="bg-white py-12 px-4 border-b border-gray-200">
+        <div className="max-w-6xl mx-auto">
+          <div className="flex flex-col items-center text-center gap-2 mb-8">
+            <div className="flex items-center gap-2">
+              <span className="text-lg font-bold text-navy">Excellent</span>
+              <TrustpilotStars size="w-6 h-6" />
+            </div>
+            <p className="text-sm text-gray-600">
+              Rated <strong>{TRUSTPILOT.score}</strong> out of 5 based on{" "}
+              <a
+                href={TRUSTPILOT.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-semibold text-navy underline hover:text-gold"
+              >
+                {TRUSTPILOT.count} reviews
+              </a>{" "}
+              on{" "}
+              <span className="font-bold" style={{ color: "#00B67A" }}>
+                Trustpilot
+              </span>
+            </p>
+          </div>
+          <div className="columns-1 md:columns-2 lg:columns-3 gap-4">
+            {TRUSTPILOT_REVIEWS.map((r) => (
+              <article
+                key={r.name + r.date + r.text.slice(0, 16)}
+                className="break-inside-avoid mb-4 bg-white rounded-xl border border-gray-200 shadow-sm p-5"
+              >
+                <div className="flex items-center justify-between mb-2">
+                  <TrustpilotStars size="w-4 h-4" count={r.stars} />
+                  <span className="text-[11px] text-gray-400">{fmtDate(r.date)}</span>
+                </div>
+                <p className="text-gray-700 text-sm leading-relaxed mb-4">
+                  &ldquo;{r.text}&rdquo;
+                </p>
+                <div className="flex items-center gap-2.5">
+                  <div
+                    className="w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0"
+                    style={{ backgroundColor: "#00B67A" }}
+                  >
+                    <span className="text-white font-bold text-xs">{r.initials}</span>
+                  </div>
+                  <div>
+                    <p className="font-semibold text-navy text-sm">{r.name}</p>
+                    <p className="text-gray-500 text-xs">via Trustpilot</p>
+                  </div>
+                </div>
+              </article>
+            ))}
+          </div>
+          <div className="text-center mt-6">
+            <a
+              href={TRUSTPILOT.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-navy underline hover:text-gold"
+            >
+              See all {TRUSTPILOT.count} reviews on Trustpilot →
             </a>
           </div>
         </div>

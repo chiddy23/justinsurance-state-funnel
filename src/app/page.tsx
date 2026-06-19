@@ -4,6 +4,8 @@ import { STATES } from "@/lib/states";
 import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import CTABanner from "@/components/CTABanner";
+import TrustpilotStars from "@/components/TrustpilotStars";
+import { TRUSTPILOT } from "@/lib/trustpilot";
 import { SchemaMarkup, generateOrganizationSchema } from "@/lib/schema";
 
 const homeTitle = "Insurance Prelicensing & CE Courses | JustInsurance";
@@ -61,6 +63,21 @@ export default function HomePage() {
               className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-white hover:text-navy transition-all"
             >
               Call 754-223-9744
+            </a>
+          </div>
+          <div className="mt-6 flex justify-center">
+            <a
+              href={TRUSTPILOT.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 text-sm text-blue-100 hover:text-white transition-colors"
+            >
+              <TrustpilotStars size="w-4 h-4" />
+              <span>
+                <strong className="text-white">{TRUSTPILOT.label}</strong>{" "}
+                {TRUSTPILOT.score}/5 · {TRUSTPILOT.count} reviews on{" "}
+                <span className="font-semibold text-white">Trustpilot</span>
+              </span>
             </a>
           </div>
         </div>

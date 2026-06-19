@@ -40,7 +40,7 @@ export default function LastingMarkStateSelect() {
         type="button"
         onClick={browse}
         disabled={!url}
-        className="rounded-lg bg-sky-500 px-6 py-3 font-semibold text-white shadow transition hover:bg-sky-600 disabled:cursor-not-allowed disabled:opacity-50"
+        className="rounded-lg bg-sky-400 px-6 py-3 font-semibold text-navy-dark shadow transition hover:bg-sky-300 disabled:cursor-not-allowed disabled:opacity-50"
       >
         Browse Courses →
       </button>

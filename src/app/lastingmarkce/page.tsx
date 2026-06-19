@@ -79,8 +79,7 @@ export default function LastingMarkCEPage() {
             As a Lasting Mark partner, you get{" "}
             <span className="font-semibold text-white">$10 off</span> your
             state-approved continuing education — 100% online, self-paced, and
-            already the lowest prices in the industry at just $1.50 per credit
-            hour.
+            already the lowest prices in the industry.
           </p>
           <div className="mt-8 flex flex-col items-center gap-3">
             <a

@@ -123,14 +123,14 @@ export default function LastingMarkCEPage() {
             </p>
           </div>
 
-          {/* Co-brand logo, brought down next to the picker for visibility */}
-          <div className="mx-auto mt-8 flex max-w-md justify-center rounded-xl bg-white px-6 py-4 shadow-lg">
+          {/* Co-brand logo — white reverse, transparent/clean on the navy (no card) */}
+          <div className="mx-auto mt-8 flex justify-center">
             <Image
-              src="/lastingmarkce/cobrand-logo.png"
+              src="/lastingmarkce/cobrand-logo-white.png"
               alt="JustInsurance in partnership with Lasting Mark"
               width={300}
               height={86}
-              className="h-auto w-[260px] sm:w-[300px]"
+              className="h-auto w-[280px] sm:w-[340px]"
             />
           </div>
 

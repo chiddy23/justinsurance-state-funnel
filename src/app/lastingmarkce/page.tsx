@@ -128,9 +128,9 @@ export default function LastingMarkCEPage() {
             <Image
               src="/lastingmarkce/cobrand-logo-white.png"
               alt="JustInsurance in partnership with Lasting Mark"
-              width={300}
-              height={86}
-              className="h-auto w-[280px] sm:w-[340px]"
+              width={1632}
+              height={260}
+              className="h-auto w-[340px] sm:w-[460px]"
             />
           </div>
 

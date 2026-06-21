@@ -1,6 +1,14 @@
 import React from "react";
+import { TRUSTPILOT } from "@/lib/trustpilot";
 
-const TRUST_SIGNALS = [
+interface TrustSignal {
+  icon: React.ReactNode;
+  label: string;
+  sub: string;
+  href?: string;
+}
+
+const TRUST_SIGNALS: TrustSignal[] = [
   {
     icon: (
       <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -30,6 +38,17 @@ const TRUST_SIGNALS = [
     ),
     label: "5.0 on Google",
     sub: "Verified Google reviews",
+  },
+  {
+    icon: (
+      <svg className="w-6 h-6" viewBox="0 0 24 24" aria-hidden="true">
+        <rect width="24" height="24" rx="2" fill="#00B67A" />
+        <path d="M12 4l2.06 5.06 5.44.4-4.16 3.52 1.31 5.3L12 15.9 7.35 18.28l1.31-5.3L4.5 9.46l5.44-.4L12 4z" fill="#fff" />
+      </svg>
+    ),
+    label: `${TRUSTPILOT.score} on Trustpilot`,
+    sub: `${TRUSTPILOT.count} verified reviews`,
+    href: TRUSTPILOT.url,
   },
   {
     icon: (
@@ -64,19 +83,33 @@ export default function TrustBar() {
   return (
     <section className="bg-gray-bg border-b border-gray-200 py-4">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-wrap justify-center gap-6 md:gap-0 md:grid md:grid-cols-6">
-          {TRUST_SIGNALS.map((signal) => (
-            <div
-              key={signal.label}
-              className="flex items-center gap-2 md:justify-center px-2"
-            >
-              <span className="text-navy flex-shrink-0">{signal.icon}</span>
-              <div>
-                <p className="text-navy font-bold text-sm leading-tight">{signal.label}</p>
-                <p className="text-gray-500 text-xs leading-tight hidden sm:block">{signal.sub}</p>
+        <div className="flex flex-wrap justify-center gap-x-6 gap-y-4 lg:grid lg:grid-cols-7 lg:gap-0">
+          {TRUST_SIGNALS.map((signal) => {
+            const inner = (
+              <>
+                <span className="text-navy flex-shrink-0">{signal.icon}</span>
+                <div>
+                  <p className="text-navy font-bold text-sm leading-tight">{signal.label}</p>
+                  <p className="text-gray-500 text-xs leading-tight hidden sm:block">{signal.sub}</p>
+                </div>
+              </>
+            );
+            return signal.href ? (
+              <a
+                key={signal.label}
+                href={signal.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 lg:justify-center px-2 hover:opacity-80 transition-opacity"
+              >
+                {inner}
+              </a>
+            ) : (
+              <div key={signal.label} className="flex items-center gap-2 lg:justify-center px-2">
+                {inner}
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       </div>
     </section>

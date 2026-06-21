@@ -38,6 +38,7 @@ const TRUST_SIGNALS: TrustSignal[] = [
     ),
     label: "5.0 on Google",
     sub: "Verified Google reviews",
+    href: "https://www.google.com/search?q=JustInsurance+Pembroke+Pines+FL+reviews",
   },
   {
     icon: (

@@ -84,26 +84,44 @@ export const TRUSTPILOT_REVIEWS: TrustpilotReview[] = [
   { name: "Braden R.", initials: "BR", stars: 5, date: "2026-05-08", text: "Great company! Got me through my Health and Life pre-course as well as passing my state exam first try. The exam prep material is updated regularly making it easy!" },
 ];
 
-// Return up to `n` reviews for a state hub: any state-matched reviews first,
-// then a deterministic, per-state-varied fill of substantial reviews so every
-// state shows a different (but stable) set. Display-only; no schema.
+// Deterministic per-state PRNG (xmur3 seed -> mulberry32) for a stable shuffle,
+// so each state gets a distinct-but-stable ordering (no hash-collision twins).
+function seededShuffle<T>(seed: string, items: T[]): T[] {
+  let h = 1779033703 ^ seed.length;
+  for (let i = 0; i < seed.length; i++) {
+    h = Math.imul(h ^ seed.charCodeAt(i), 3432918353);
+    h = (h << 13) | (h >>> 19);
+  }
+  let a = (h ^= h >>> 16) >>> 0;
+  const rand = () => {
+    a = (a + 0x6d2b79f5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+  const arr = items.slice();
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+// Return up to `n` reviews for a state hub: state-matched reviews first, then a
+// deterministic per-state shuffle of STATELESS reviews. Filler is stateless only,
+// so a review tagged for another state never shows on the wrong page, and the
+// shuffle (seeded by state name) gives each state a distinct, stable set.
+// Display-only; no schema.
 export function getTrustpilotForState(stateName: string, n = 3): TrustpilotReview[] {
   const lc = stateName.toLowerCase();
-  const result = TRUSTPILOT_REVIEWS.filter((r) => r.state && r.state.toLowerCase() === lc);
-  const used = new Set(result.map((r) => r.name));
-  const pool = TRUSTPILOT_REVIEWS.filter((r) => !used.has(r.name) && r.text.length >= 70);
-  let h = 0;
-  for (let i = 0; i < stateName.length; i++) h = ((h << 5) - h + stateName.charCodeAt(i)) | 0;
-  let idx = Math.abs(h) % (pool.length || 1);
-  let guard = 0;
-  while (result.length < n && pool.length && guard < pool.length * 2) {
-    const cand = pool[idx % pool.length];
-    idx += 1;
-    guard += 1;
-    if (cand && !used.has(cand.name)) {
-      result.push(cand);
-      used.add(cand.name);
-    }
+  const matched = TRUSTPILOT_REVIEWS.filter(
+    (r) => r.state && r.state.toLowerCase() === lc
+  );
+  const fillerPool = TRUSTPILOT_REVIEWS.filter((r) => !r.state && r.text.length >= 70);
+  const result = [...matched];
+  for (const r of seededShuffle(stateName, fillerPool)) {
+    if (result.length >= n) break;
+    result.push(r);
   }
   return result.slice(0, n);
 }

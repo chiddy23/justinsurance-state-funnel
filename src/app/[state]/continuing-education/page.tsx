@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
-import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
+import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateCEHubCourseSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
 import { getCEHubFAQs, buildFaqData } from "@/lib/faq-data";
 import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
@@ -71,6 +71,13 @@ export default async function CEHubPage({
     url: `https://justinsuranceco.com/${stateData.slug}/continuing-education`,
   });
 
+  const courseSchema = generateCEHubCourseSchema({
+    stateName: stateData.name,
+    stateSlug: stateData.slug,
+    price: ce.packagePrice,
+    hours: ce.totalHours,
+  });
+
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name, href: `/${stateData.slug}/` },
@@ -82,6 +89,7 @@ export default async function CEHubPage({
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
       <SchemaMarkup schema={articleSchema} />
+      <SchemaMarkup schema={courseSchema} />
 
       <BreadcrumbNav crumbs={crumbs} />
 

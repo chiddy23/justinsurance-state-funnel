@@ -180,6 +180,82 @@ export function generateStateHubCourseSchema(params: {
 }
 
 // ---------------------------------------------------------------------------
+// CE-hub Course schema (surfaces course rich results on the 50
+// /[state]/continuing-education hubs — the per-LOA leaves already carry
+// generateCourseSchema, but the hub itself had none)
+// ---------------------------------------------------------------------------
+
+export function generateCEHubCourseSchema(params: {
+  stateName: string;
+  stateSlug: string;
+  price: string;
+  hours?: number | string;
+}): object {
+  const { stateName, stateSlug, price, hours } = params;
+  const hoursNum =
+    typeof hours === "number"
+      ? hours
+      : typeof hours === "string"
+        ? parseInt(hours, 10) || undefined
+        : undefined;
+  const ceUrl = `${BASE_URL}/${stateSlug}/continuing-education`;
+  const offer = {
+    "@type": "Offer",
+    price: price.replace(/[^0-9.]/g, ""),
+    priceCurrency: "USD",
+    availability: "https://schema.org/InStock",
+    url: ceUrl,
+    category: "Paid",
+  };
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    name: `${stateName} Insurance Continuing Education (CE) Course`,
+    description: `State-approved online insurance continuing education for ${stateName} producers. Complete all required CE hours, including the ethics requirement, in one self-paced package with same-day reporting to the ${stateName} Department of Insurance.`,
+    image: LOGO_URL,
+    provider: {
+      "@type": "Organization",
+      "@id": `${BASE_URL}#organization`,
+      name: "JustInsurance LLC",
+      url: BASE_URL,
+      logo: LOGO_URL,
+    },
+    hasCourseInstance: {
+      "@type": "CourseInstance",
+      courseMode: "Online",
+      location: {
+        "@type": "VirtualLocation",
+        url: ceUrl,
+      },
+      instructor: {
+        "@type": "Person",
+        name: "Justin vom Eigen",
+        jobTitle: "Licensed Insurance Agent, IDECC Certified Distance Education Instructor",
+        url: `${BASE_URL}/about/justin-vom-eigen`,
+      },
+      ...(hoursNum ? { courseWorkload: `PT${hoursNum}H` } : {}),
+      offers: offer,
+    },
+    offers: offer,
+    educationalCredentialAwarded: `${stateName} Insurance CE Certificate`,
+    teaches: `${stateName} insurance continuing education and ethics requirements`,
+    educationalLevel: "Intermediate",
+    coursePrerequisites: "Active insurance producer license",
+    // Same self-paced 30-day window as the other Course schemas (Semrush parity).
+    courseSchedule: {
+      "@type": "Schedule",
+      repeatFrequency: "P1D",
+      duration: "PT30D",
+    },
+    ...(hoursNum ? { timeRequired: `PT${hoursNum}H` } : {}),
+    inLanguage: "en-US",
+    availableLanguage: "en",
+    url: ceUrl,
+  };
+}
+
+// ---------------------------------------------------------------------------
 // BreadcrumbList schema
 // ---------------------------------------------------------------------------
 

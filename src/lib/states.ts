@@ -8308,6 +8308,12 @@ export const STATES: Record<string, StateData> = {
         title: "Virginia does not require prelicensing education for standard producer lines",
         body: "Virginia repealed mandatory prelicensing for major lines (Acts 2001, c. 706); only title insurance retains a separate education requirement under Va. Code 38.2-1814.1. Structured prep is still strongly recommended given the Prometric exam's heavy state-law content. After passing, apply through NIPR — most licenses issue within three weeks of complete documentation.",
       },
+      {
+        kind: "tip",
+        title: "Virginia CE hours scale with how many lines you hold — 16 vs 24",
+        body: "Virginia is unusual in scaling CE by license scope (Va. Code 38.2-1866): a producer holding a single line of authority completes 16 hours every two years, while a producer holding multiple lines — for example Life plus Health — completes 24 hours. Either way, 3 of those hours must be ethics (which may include Virginia insurance law), and when you hold multiple lines at least 8 credits must be specific to each license type. Most JustInsurance students carry more than one line, so the 24-hour total shown here is the figure to plan for.",
+        link: { href: "https://law.lis.virginia.gov/vacode/title38.2/chapter18/article7/section38.2-1866/", text: "Va. Code 38.2-1866", external: true },
+      },
     ],
 
     studentsCount: "3,400",

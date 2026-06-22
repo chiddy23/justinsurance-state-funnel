@@ -21,7 +21,9 @@
  * your existing doPost — the rest is optional.
  */
 
-var NOTIFY_EMAILS = 'justin@justinsuranceco.com,support@justinsuranceco.com';
+// NOTE: support inbox is the yourinsurancelicense.com address (the site DISPLAYS
+// support@justinsuranceco.com, but the monitored inbox is the .com migration one).
+var NOTIFY_EMAILS = 'justin@justinsuranceco.com,support@yourinsurancelicense.com';
 var SHEET_NAME = 'Partner Applications';
 var HEADERS = ['Timestamp', 'Full Name', 'Email', 'Phone', 'Agents / Month', 'Heard From', 'Message'];
 

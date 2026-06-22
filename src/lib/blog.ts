@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
+import { extractFaqs, type FaqPair } from "./faq-extract";
 
 const BLOG_DIR = path.join(process.cwd(), "src/content/blog");
 
@@ -24,6 +25,7 @@ export interface BlogPost {
   imageAlt: string;
   imageCredit?: string;
   content: string; // Rendered HTML string
+  faqs?: FaqPair[]; // Parsed FAQ Q/A pairs (post detail only) for FAQPage schema
 }
 
 export interface Cluster {
@@ -80,6 +82,9 @@ async function parsePostFile(
     imageAlt: data.imageAlt ?? "",
     imageCredit: data.imageCredit,
     content: String(processedContent),
+    // Parse FAQ pairs from the raw markdown (more reliable than the rendered
+    // HTML) so the post page can emit FAQPage structured data.
+    faqs: extractFaqs(cleanedBody),
   };
 }
 

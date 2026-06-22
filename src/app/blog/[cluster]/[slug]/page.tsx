@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import BlogStateLinks from "@/components/BlogStateLinks";
-import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
+import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import { getAllPosts, getPostBySlug, getRelatedPosts } from "@/lib/blog";
 
 // ---------------------------------------------------------------------------
@@ -164,6 +164,11 @@ export default async function BlogPostPage({
     },
   };
 
+  // FAQPage schema — only when the post actually has a parseable FAQ section.
+  // The Q/A content is rendered visibly on the page (required by Google).
+  const faqSchema =
+    post.faqs && post.faqs.length > 0 ? generateFAQSchema(post.faqs) : null;
+
   const formattedDate = post.date
     ? new Date(post.date + "T00:00:00").toLocaleDateString("en-US", {
         year: "numeric",
@@ -176,6 +181,7 @@ export default async function BlogPostPage({
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={articleSchema} />
+      {faqSchema && <SchemaMarkup schema={faqSchema} />}
       <BreadcrumbNav crumbs={crumbs} />
 
       {/* Hero */}

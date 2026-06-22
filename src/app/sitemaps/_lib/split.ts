@@ -48,7 +48,7 @@ function allEntries(): SitemapEntry[] {
   // Spanish-language pilot pages.
   for (const slug of ["florida", "texas"]) {
     entries.push({
-      url: `${BASE_URL}/es/${slug}/`,
+      url: `${BASE_URL}/es/${slug}`,
       lastModified,
       changeFrequency: "monthly",
       priority: 0.8,
@@ -65,7 +65,7 @@ function allEntries(): SitemapEntry[] {
 
   // Property & Casualty CE — national hub.
   entries.push({
-    url: `${BASE_URL}/property-and-casualty-ce/`,
+    url: `${BASE_URL}/property-and-casualty-ce`,
     lastModified,
     changeFrequency: "monthly",
     priority: 0.9,
@@ -74,7 +74,7 @@ function allEntries(): SitemapEntry[] {
   // P&C state hubs.
   for (const slug of PC_STATE_SLUGS) {
     entries.push({
-      url: `${BASE_URL}/${slug}/continuing-education/property-and-casualty/`,
+      url: `${BASE_URL}/${slug}/continuing-education/property-and-casualty`,
       lastModified,
       changeFrequency: "monthly",
       priority: 0.8,
@@ -85,7 +85,7 @@ function allEntries(): SitemapEntry[] {
   for (const p of PC_CE_PACKAGES) {
     if (!p.packageSlug) continue;
     entries.push({
-      url: `${BASE_URL}/${p.stateSlug}/continuing-education/property-and-casualty/${p.packageSlug}/`,
+      url: `${BASE_URL}/${p.stateSlug}/continuing-education/property-and-casualty/${p.packageSlug}`,
       lastModified,
       changeFrequency: "monthly",
       priority: 0.75,

@@ -50,7 +50,7 @@ export default async function PracticeExamPage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateName, href: `/${slug}/` },
+    { name: stateName, href: `/${slug}` },
     { name: "Practice Exam" },
   ];
 

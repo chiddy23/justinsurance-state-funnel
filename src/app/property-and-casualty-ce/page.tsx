@@ -337,7 +337,7 @@ export default function PropertyAndCasualtyCEPage() {
             {supportedStates.map((s) => (
               <Link
                 key={s.slug}
-                href={`/${s.slug}/continuing-education/property-and-casualty/`}
+                href={`/${s.slug}/continuing-education/property-and-casualty`}
                 className="group bg-white border border-gray-200 rounded-xl p-5 hover:border-navy hover:shadow-md transition-all"
               >
                 <div className="flex items-start justify-between mb-3">
@@ -452,7 +452,7 @@ export default function PropertyAndCasualtyCEPage() {
             {unsupportedStates.map((s) => (
               <Link
                 key={s.slug}
-                href={`/${s.slug}/`}
+                href={`/${s.slug}`}
                 className="group flex items-center gap-2 bg-gray-50 hover:bg-gray-100 rounded-lg p-3 border border-gray-100 transition-all"
               >
                 <span className="text-xs font-bold text-gray-400 w-8 flex-shrink-0">

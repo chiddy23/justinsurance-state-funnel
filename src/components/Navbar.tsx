@@ -86,7 +86,7 @@ export default function Navbar() {
                     {POPULAR_STATES.map((state) => (
                       <Link
                         key={state.slug}
-                        href={`/${state.slug}/`}
+                        href={`/${state.slug}`}
                         className="block px-4 py-2 text-gray-dark hover:bg-gray-bg hover:text-navy transition-colors text-sm"
                       >
                         {state.name}

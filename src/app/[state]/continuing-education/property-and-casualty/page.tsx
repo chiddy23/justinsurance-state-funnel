@@ -440,7 +440,7 @@ export function PCPackageDetail({
                 </li>
                 <li className="flex justify-between items-center">
                   <span className="text-gray-500">More info</span>
-                  <Link href={`/${stateData.slug}/continuing-education/`} className="font-semibold text-navy hover:text-gold transition-colors">
+                  <Link href={`/${stateData.slug}/continuing-education`} className="font-semibold text-navy hover:text-gold transition-colors">
                     L&amp;H CE →
                   </Link>
                 </li>
@@ -552,8 +552,8 @@ export default async function PCStateHubPage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateData.name, href: `/${stateData.slug}/` },
-    { name: "Continuing Education", href: `/${stateData.slug}/continuing-education/` },
+    { name: stateData.name, href: `/${stateData.slug}` },
+    { name: "Continuing Education", href: `/${stateData.slug}/continuing-education` },
     { name: "Property & Casualty" },
   ];
 
@@ -609,7 +609,7 @@ export default async function PCStateHubPage({
                 {packages.map((p) => (
                   <Link
                     key={p.packageSlug}
-                    href={`/${stateData.slug}/continuing-education/property-and-casualty/${p.packageSlug}/`}
+                    href={`/${stateData.slug}/continuing-education/property-and-casualty/${p.packageSlug}`}
                     className="block bg-gray-bg hover:bg-white border border-gray-200 hover:border-gold rounded-xl p-6 transition-all hover:shadow-md group"
                   >
                     <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-2">

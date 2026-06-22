@@ -223,8 +223,8 @@ export default async function PrelicensingCoursePage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateData.name, href: `/${stateData.slug}/` },
-    { name: "Prelicensing", href: `/${stateData.slug}/prelicensing/` },
+    { name: stateData.name, href: `/${stateData.slug}` },
+    { name: "Prelicensing", href: `/${stateData.slug}/prelicensing` },
     { name: loaDef.shortName },
   ];
 

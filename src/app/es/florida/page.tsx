@@ -135,13 +135,13 @@ export default function FloridaSpanishHubPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href={`/${SLUG}/prelicensing/`}
+              href={`/${SLUG}/prelicensing`}
               className="inline-block bg-gold text-navy font-bold text-lg px-8 py-4 rounded-lg hover:bg-gold-dark transition-all"
             >
               {SPANISH_UI.startPrelicensing}
             </Link>
             <Link
-              href={`/${SLUG}/continuing-education/`}
+              href={`/${SLUG}/continuing-education`}
               className="inline-block bg-transparent border-2 border-white text-white font-bold text-lg px-8 py-4 rounded-lg hover:bg-white hover:text-navy transition-all"
             >
               {SPANISH_UI.renewWithCE}
@@ -180,7 +180,7 @@ export default function FloridaSpanishHubPage() {
               </p>
               <p className="text-2xl font-bold text-gold-dark mb-2">$199</p>
               <Link
-                href={`/${SLUG}/prelicensing/`}
+                href={`/${SLUG}/prelicensing`}
                 className="text-navy underline text-sm hover:text-gold"
               >
                 Ver detalles del curso →
@@ -197,7 +197,7 @@ export default function FloridaSpanishHubPage() {
               </p>
               <p className="text-2xl font-bold text-gold-dark mb-2">$39</p>
               <Link
-                href={`/${SLUG}/continuing-education/`}
+                href={`/${SLUG}/continuing-education`}
                 className="text-navy underline text-sm hover:text-gold"
               >
                 Ver paquete de CE →
@@ -245,7 +245,7 @@ export default function FloridaSpanishHubPage() {
           </div>
           <div className="mt-6 text-center">
             <Link
-              href={`/${SLUG}/requirements/`}
+              href={`/${SLUG}/requirements`}
               className="text-sm text-navy underline hover:text-gold"
             >
               {SPANISH_UI.viewRequirements} →
@@ -388,7 +388,7 @@ export default function FloridaSpanishHubPage() {
             de aprobación.
           </p>
           <Link
-            href={`/${SLUG}/prelicensing/`}
+            href={`/${SLUG}/prelicensing`}
             className="inline-block bg-gold text-navy font-bold text-lg px-8 py-4 rounded-lg hover:bg-gold-dark transition-all"
           >
             {SPANISH_UI.browseCourses}

@@ -51,7 +51,7 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
               </li>
             </ul>
             <Link
-              href={`/${stateSlug}/prelicensing/`}
+              href={`/${stateSlug}/prelicensing`}
               className="block text-center bg-navy hover:bg-navy-light text-white font-bold py-3 px-6 rounded-lg transition-colors"
             >
               Get My License &rarr;
@@ -90,7 +90,7 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
               </li>
             </ul>
             <Link
-              href={`/${stateSlug}/continuing-education/`}
+              href={`/${stateSlug}/continuing-education`}
               className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
             >
               Renew My License &rarr;

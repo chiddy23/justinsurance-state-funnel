@@ -63,7 +63,7 @@ export default async function PrelicensingHubPage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateData.name, href: `/${stateData.slug}/` },
+    { name: stateData.name, href: `/${stateData.slug}` },
     { name: "Prelicensing" },
   ];
 

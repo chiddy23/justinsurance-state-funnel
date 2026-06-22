@@ -72,7 +72,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             description: "Sell term life, whole life, universal life, and annuity products. The essential license for any agent working in life insurance or financial services.",
             hours: stateData.prelicensing.life.hours,
             price: stateData.prelicensing.life.price,
-            pageHref: `/${stateSlug}/prelicensing/life/`,
+            pageHref: `/${stateSlug}/prelicensing/life`,
             enrollHref: getEnrollLink("life"),
           },
           {
@@ -81,7 +81,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             description: "Sell major medical, Medicare supplement, disability income, long-term care, and other health products. Essential for agents focused on health and Medicare markets.",
             hours: stateData.prelicensing.health.hours,
             price: stateData.prelicensing.health.price,
-            pageHref: `/${stateSlug}/prelicensing/health/`,
+            pageHref: `/${stateSlug}/prelicensing/health`,
             enrollHref: getEnrollLink("health"),
           },
           {
@@ -90,7 +90,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             description: "The most popular choice — get licensed to sell both life and health products with a single combined course and exam. Maximize your earning potential from day one.",
             hours: stateData.prelicensing.lifeAndHealth.hours,
             price: stateData.prelicensing.lifeAndHealth.price,
-            pageHref: `/${stateSlug}/prelicensing/life-and-health/`,
+            pageHref: `/${stateSlug}/prelicensing/life-and-health`,
             enrollHref: getEnrollLink("life-and-health"),
           },
         ]
@@ -102,7 +102,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
-            pageHref: `/${stateSlug}/continuing-education/life/`,
+            pageHref: `/${stateSlug}/continuing-education/life`,
             enrollHref: getEnrollLink("life"),
           },
           {
@@ -112,7 +112,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
-            pageHref: `/${stateSlug}/continuing-education/health/`,
+            pageHref: `/${stateSlug}/continuing-education/health`,
             enrollHref: getEnrollLink("health"),
           },
           {
@@ -122,7 +122,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
-            pageHref: `/${stateSlug}/continuing-education/life-and-health/`,
+            pageHref: `/${stateSlug}/continuing-education/life-and-health`,
             enrollHref: getEnrollLink("life-and-health"),
           },
         ];
@@ -153,12 +153,12 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
       hours: hoursDisplay,
       price: pcPackages[0].price,
       renewalYears: undefined,
-      pageHref: `/${stateSlug}/continuing-education/property-and-casualty/`,
+      pageHref: `/${stateSlug}/continuing-education/property-and-casualty`,
       // For multi-package states, send to the landing page (visitor picks
       // their specific package); for single-package states, link directly
       // to the cart.
       enrollHref: isMulti
-        ? `/${stateSlug}/continuing-education/property-and-casualty/`
+        ? `/${stateSlug}/continuing-education/property-and-casualty`
         : pcPackages[0].cartLink,
     });
   }

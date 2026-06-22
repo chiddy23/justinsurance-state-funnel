@@ -249,8 +249,8 @@ export default async function StateHubPage({
         }
         subtitle={heroSubtitle}
         ctaButtons={[
-          { text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing/` },
-          { text: "Renew with CE", href: `/${stateData.slug}/continuing-education/`, variant: "secondary" },
+          { text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing` },
+          { text: "Renew with CE", href: `/${stateData.slug}/continuing-education`, variant: "secondary" },
         ]}
       />
 
@@ -335,7 +335,7 @@ export default async function StateHubPage({
                   </li>
                 </ul>
                 <Link
-                  href={`/${stateData.slug}/prelicensing/`}
+                  href={`/${stateData.slug}/prelicensing`}
                   className="block text-center bg-navy hover:bg-navy-light text-white font-bold py-3 px-6 rounded-lg transition-colors"
                 >
                   Get My License &rarr;
@@ -374,7 +374,7 @@ export default async function StateHubPage({
                   </li>
                 </ul>
                 <Link
-                  href={`/${stateData.slug}/continuing-education/`}
+                  href={`/${stateData.slug}/continuing-education`}
                   className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
                 >
                   Renew L&amp;H License &rarr;
@@ -413,7 +413,7 @@ export default async function StateHubPage({
                   </li>
                 </ul>
                 <Link
-                  href={`/${stateData.slug}/continuing-education/property-and-casualty/`}
+                  href={`/${stateData.slug}/continuing-education/property-and-casualty`}
                   className="block text-center bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-6 rounded-lg transition-colors"
                 >
                   Renew P&amp;C License &rarr;
@@ -508,7 +508,7 @@ export default async function StateHubPage({
           </p>
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
             <Link
-              href={`/${stateData.slug}/requirements/`}
+              href={`/${stateData.slug}/requirements`}
               className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <p className="text-2xl mb-2" aria-hidden="true">📋</p>
@@ -518,7 +518,7 @@ export default async function StateHubPage({
               </p>
             </Link>
             <Link
-              href={`/${stateData.slug}/prelicensing/`}
+              href={`/${stateData.slug}/prelicensing`}
               className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <p className="text-2xl mb-2" aria-hidden="true">🎓</p>
@@ -528,7 +528,7 @@ export default async function StateHubPage({
               </p>
             </Link>
             <Link
-              href={`/${stateData.slug}/continuing-education/`}
+              href={`/${stateData.slug}/continuing-education`}
               className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <p className="text-2xl mb-2" aria-hidden="true">🔄</p>
@@ -538,7 +538,7 @@ export default async function StateHubPage({
               </p>
             </Link>
             <Link
-              href={`/${stateData.slug}/practice-exam/`}
+              href={`/${stateData.slug}/practice-exam`}
               className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <p className="text-2xl mb-2" aria-hidden="true">📝</p>
@@ -548,7 +548,7 @@ export default async function StateHubPage({
               </p>
             </Link>
             <Link
-              href={`/${stateData.slug}/cost/`}
+              href={`/${stateData.slug}/cost`}
               className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <p className="text-2xl mb-2" aria-hidden="true">💰</p>
@@ -669,7 +669,7 @@ export default async function StateHubPage({
                 Recent Articles
               </p>
               <Link
-                href={`/blog/state-license-${stateData.slug}/`}
+                href={`/blog/state-license-${stateData.slug}`}
                 className="text-base md:text-lg font-bold text-navy hover:text-gold-dark transition-colors underline-offset-4 hover:underline"
               >
                 {stateData.name} Insurance License — Articles, Guides &amp; News &rarr;
@@ -787,7 +787,7 @@ export default async function StateHubPage({
         title={`Ready to Get Your ${stateData.name} Insurance License?`}
         subtitle="Enroll in a state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee."
         ctaText="Browse Courses"
-        ctaHref={`/${stateData.slug}/prelicensing/`}
+        ctaHref={`/${stateData.slug}/prelicensing`}
       />
     </>
   );

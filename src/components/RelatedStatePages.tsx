@@ -36,67 +36,67 @@ function buildLinks(
 ): LinkItem[] {
   const all: LinkItem[] = [
     {
-      href: `/${stateSlug}/`,
+      href: `/${stateSlug}`,
       title: `${stateName} Insurance License Hub`,
       description: `Overview of prelicensing, CE, and exam requirements in ${stateName}.`,
       badge: "Overview",
     },
     {
-      href: `/${stateSlug}/requirements/`,
+      href: `/${stateSlug}/requirements`,
       title: `${stateName} License Requirements`,
       description: `Step-by-step legal and documentation requirements from the ${stateName} Department of Insurance.`,
       badge: "Requirements",
     },
     {
-      href: `/${stateSlug}/practice-exam/`,
+      href: `/${stateSlug}/practice-exam`,
       title: `${stateName} Practice Exam`,
       description: `Free practice questions modeled on the ${stateName} state licensing exam.`,
       badge: "Practice",
     },
     {
-      href: `/${stateSlug}/prelicensing/`,
+      href: `/${stateSlug}/prelicensing`,
       title: `${stateName} Prelicensing Courses`,
       description: `All state-approved prelicensing course options for ${stateName}.`,
       badge: "Prelicensing",
     },
     {
-      href: `/${stateSlug}/prelicensing/life/`,
+      href: `/${stateSlug}/prelicensing/life`,
       title: `${stateName} Life Insurance Prelicensing`,
       description: `Prelicensing course for the Life-only license in ${stateName}.`,
       badge: "Life",
     },
     {
-      href: `/${stateSlug}/prelicensing/health/`,
+      href: `/${stateSlug}/prelicensing/health`,
       title: `${stateName} Health Insurance Prelicensing`,
       description: `Prelicensing course for the Health-only license in ${stateName}.`,
       badge: "Health",
     },
     {
-      href: `/${stateSlug}/prelicensing/life-and-health/`,
+      href: `/${stateSlug}/prelicensing/life-and-health`,
       title: `${stateName} Life & Health Prelicensing`,
       description: `Combined Life & Health prelicensing course for ${stateName}.`,
       badge: "L&H",
     },
     {
-      href: `/${stateSlug}/continuing-education/`,
+      href: `/${stateSlug}/continuing-education`,
       title: `${stateName} Continuing Education`,
       description: `CE course catalog for ${stateName} license renewal.`,
       badge: "CE",
     },
     {
-      href: `/${stateSlug}/continuing-education/life/`,
+      href: `/${stateSlug}/continuing-education/life`,
       title: `${stateName} Life CE Renewal`,
       description: `CE hours for ${stateName} Life license renewal.`,
       badge: "CE Life",
     },
     {
-      href: `/${stateSlug}/continuing-education/health/`,
+      href: `/${stateSlug}/continuing-education/health`,
       title: `${stateName} Health CE Renewal`,
       description: `CE hours for ${stateName} Health license renewal.`,
       badge: "CE Health",
     },
     {
-      href: `/${stateSlug}/continuing-education/life-and-health/`,
+      href: `/${stateSlug}/continuing-education/life-and-health`,
       title: `${stateName} Life & Health CE Renewal`,
       description: `Combined Life & Health CE for ${stateName} license renewal.`,
       badge: "CE L&H",
@@ -104,16 +104,16 @@ function buildLinks(
   ];
 
   return all.filter((link) => {
-    if (currentPage === "state-hub" && link.href === `/${stateSlug}/`) return false;
-    if (currentPage === "requirements" && link.href === `/${stateSlug}/requirements/`) return false;
-    if (currentPage === "practice-exam" && link.href === `/${stateSlug}/practice-exam/`) return false;
-    if (currentPage === "prelicensing-hub" && link.href === `/${stateSlug}/prelicensing/`) return false;
-    if (currentPage === "ce-hub" && link.href === `/${stateSlug}/continuing-education/`) return false;
+    if (currentPage === "state-hub" && link.href === `/${stateSlug}`) return false;
+    if (currentPage === "requirements" && link.href === `/${stateSlug}/requirements`) return false;
+    if (currentPage === "practice-exam" && link.href === `/${stateSlug}/practice-exam`) return false;
+    if (currentPage === "prelicensing-hub" && link.href === `/${stateSlug}/prelicensing`) return false;
+    if (currentPage === "ce-hub" && link.href === `/${stateSlug}/continuing-education`) return false;
     if (currentPage === "prelicensing-loa" && currentLoa) {
-      if (link.href === `/${stateSlug}/prelicensing/${currentLoa}/`) return false;
+      if (link.href === `/${stateSlug}/prelicensing/${currentLoa}`) return false;
     }
     if (currentPage === "ce-loa" && currentLoa) {
-      if (link.href === `/${stateSlug}/continuing-education/${currentLoa}/`) return false;
+      if (link.href === `/${stateSlug}/continuing-education/${currentLoa}`) return false;
     }
     return true;
   });

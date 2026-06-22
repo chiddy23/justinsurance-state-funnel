@@ -144,8 +144,8 @@ export default async function CECoursePage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateData.name, href: `/${stateData.slug}/` },
-    { name: "Continuing Education", href: `/${stateData.slug}/continuing-education/` },
+    { name: stateData.name, href: `/${stateData.slug}` },
+    { name: "Continuing Education", href: `/${stateData.slug}/continuing-education` },
     { name: loaDef.shortName },
   ];
 

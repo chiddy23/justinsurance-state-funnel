@@ -143,7 +143,7 @@ export default function HomePage() {
 
             {/* Property & Casualty CE */}
             <Link
-              href="/property-and-casualty-ce/"
+              href="/property-and-casualty-ce"
               className="group bg-white rounded-xl border-2 border-transparent hover:border-gold shadow-md hover:shadow-xl transition-all p-6 flex flex-col"
             >
               <div className="w-12 h-12 bg-gold rounded-full flex items-center justify-center mb-4">
@@ -179,7 +179,7 @@ export default function HomePage() {
             {states.map((state) => (
               <Link
                 key={state.slug}
-                href={`/${state.slug}/`}
+                href={`/${state.slug}`}
                 className="group flex items-center gap-2 bg-gray-bg hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md"
               >
                 <span className="text-xs font-bold text-gray-400 group-hover:text-blue-200 w-8 flex-shrink-0">

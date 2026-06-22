@@ -80,7 +80,7 @@ export default async function CEHubPage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateData.name, href: `/${stateData.slug}/` },
+    { name: stateData.name, href: `/${stateData.slug}` },
     { name: "Continuing Education" },
   ];
 
@@ -128,7 +128,7 @@ export default async function CEHubPage({
         <section className="bg-white pt-10 px-4">
           <div className="max-w-5xl mx-auto">
             <Link
-              href={`/${stateData.slug}/continuing-education/property-and-casualty/`}
+              href={`/${stateData.slug}/continuing-education/property-and-casualty`}
               className="block bg-gold/10 border-l-4 border-gold rounded-r-lg p-5 hover:bg-gold/20 transition-colors group"
             >
               <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-1">

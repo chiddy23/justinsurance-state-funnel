@@ -179,7 +179,7 @@ export default function LifeAndHealthInsuranceLicensePage() {
             {states.map((state) => (
               <Link
                 key={state.slug}
-                href={`/${state.slug}/prelicensing/life-and-health/`}
+                href={`/${state.slug}/prelicensing/life-and-health`}
                 className="group flex items-center gap-2 bg-gray-50 hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md border border-gray-100"
               >
                 <span className="text-xs font-bold text-gray-400 group-hover:text-blue-200 w-8 flex-shrink-0">

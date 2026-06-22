@@ -208,7 +208,7 @@ export default async function CostPage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateData.name, href: `/${stateData.slug}/` },
+    { name: stateData.name, href: `/${stateData.slug}` },
     { name: "Cost" },
   ];
 
@@ -281,11 +281,11 @@ export default async function CostPage({
         ctaButtons={[
           {
             text: "Start Now for $199",
-            href: `/${stateData.slug}/prelicensing/`,
+            href: `/${stateData.slug}/prelicensing`,
           },
           {
             text: "See Requirements",
-            href: `/${stateData.slug}/requirements/`,
+            href: `/${stateData.slug}/requirements`,
             variant: "secondary",
           },
         ]}
@@ -584,7 +584,7 @@ export default async function CostPage({
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link
-              href={`/${stateData.slug}/`}
+              href={`/${stateData.slug}`}
               className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <div className="font-semibold text-navy mb-1">
@@ -595,7 +595,7 @@ export default async function CostPage({
               </div>
             </Link>
             <Link
-              href={`/${stateData.slug}/prelicensing/`}
+              href={`/${stateData.slug}/prelicensing`}
               className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <div className="font-semibold text-navy mb-1">Prelicensing</div>
@@ -608,7 +608,7 @@ export default async function CostPage({
               </div>
             </Link>
             <Link
-              href={`/${stateData.slug}/requirements/`}
+              href={`/${stateData.slug}/requirements`}
               className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <div className="font-semibold text-navy mb-1">Requirements</div>
@@ -617,7 +617,7 @@ export default async function CostPage({
               </div>
             </Link>
             <Link
-              href={`/${stateData.slug}/continuing-education/`}
+              href={`/${stateData.slug}/continuing-education`}
               className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all"
             >
               <div className="font-semibold text-navy mb-1">CE Renewal</div>

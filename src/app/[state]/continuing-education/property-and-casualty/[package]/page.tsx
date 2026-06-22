@@ -129,11 +129,11 @@ export default async function PCPackagePage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateData.name, href: `/${stateData.slug}/` },
-    { name: "Continuing Education", href: `/${stateData.slug}/continuing-education/` },
+    { name: stateData.name, href: `/${stateData.slug}` },
+    { name: "Continuing Education", href: `/${stateData.slug}/continuing-education` },
     {
       name: "Property & Casualty",
-      href: `/${stateData.slug}/continuing-education/property-and-casualty/`,
+      href: `/${stateData.slug}/continuing-education/property-and-casualty`,
     },
     { name: pkg.shortName },
   ];
@@ -163,7 +163,7 @@ export default async function PCPackagePage({
               {siblings.map((s) => (
                 <Link
                   key={s.packageSlug}
-                  href={`/${stateData.slug}/continuing-education/property-and-casualty/${s.packageSlug}/`}
+                  href={`/${stateData.slug}/continuing-education/property-and-casualty/${s.packageSlug}`}
                   className="block bg-white hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors group"
                 >
                   <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">
@@ -178,7 +178,7 @@ export default async function PCPackagePage({
                 </Link>
               ))}
               <Link
-                href={`/${stateData.slug}/continuing-education/property-and-casualty/`}
+                href={`/${stateData.slug}/continuing-education/property-and-casualty`}
                 className="block bg-navy hover:bg-navy-dark text-white border border-navy rounded-lg p-4 transition-colors"
               >
                 <p className="text-[10px] font-bold uppercase tracking-wide text-gold mb-1">All Packages</p>

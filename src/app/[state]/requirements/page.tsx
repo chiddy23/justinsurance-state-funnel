@@ -213,7 +213,7 @@ export default async function RequirementsPage({
 
   const crumbs = [
     { name: "Home", href: "/" },
-    { name: stateData.name, href: `/${stateData.slug}/` },
+    { name: stateData.name, href: `/${stateData.slug}` },
     { name: "Requirements" },
   ];
 
@@ -236,11 +236,11 @@ export default async function RequirementsPage({
         ctaButtons={[
           {
             text: "Start My Course",
-            href: `/${stateData.slug}/prelicensing/`,
+            href: `/${stateData.slug}/prelicensing`,
           },
           {
             text: "Renew My License",
-            href: `/${stateData.slug}/continuing-education/`,
+            href: `/${stateData.slug}/continuing-education`,
             variant: "secondary",
           },
         ]}
@@ -429,7 +429,7 @@ export default async function RequirementsPage({
                     </p>
                   )}
                   <Link
-                    href={`/${stateData.slug}/prelicensing/`}
+                    href={`/${stateData.slug}/prelicensing`}
                     className="text-sm font-semibold text-gold hover:underline"
                   >
                     Browse {stateData.name} Prelicensing Courses →
@@ -758,7 +758,7 @@ export default async function RequirementsPage({
           </div>
           <div className="text-center">
             <Link
-              href={`/${stateData.slug}/continuing-education/`}
+              href={`/${stateData.slug}/continuing-education`}
               className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold px-8 py-4 rounded-lg shadow transition-all hover:shadow-lg hover:-translate-y-0.5"
             >
               Browse {stateData.name} CE Courses →
@@ -876,7 +876,7 @@ export default async function RequirementsPage({
               <div className="font-semibold text-navy mb-1">{stateData.name} CE Courses</div>
               <div className="text-sm text-gray-600">Renew your license with state-approved continuing education.</div>
             </Link>
-            <Link href={`/${stateData.slug}/cost/`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
+            <Link href={`/${stateData.slug}/cost`} className="block p-5 bg-white rounded-lg border border-gray-200 hover:border-gold hover:shadow-md transition-all">
               <div className="font-semibold text-navy mb-1">{stateData.name} License Cost Breakdown</div>
               <div className="text-sm text-gray-600">{stateData.name}-specific cost: course, exam, fingerprinting, and application fees.</div>
             </Link>

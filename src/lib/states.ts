@@ -970,7 +970,7 @@ export const STATES: Record<string, StateData> = {
     ce: {
       totalHours: 24,
       renewalPeriod: "2 years",
-      ethicsHours: 4,
+      ethicsHours: 3,
       requirementsUrl: "https://www.insurance.ca.gov/0200-industry/0030-seek-pre-lic/446-9.cfm",
       packagePrice: "$39",
       ethicsCoursePrice: "$10",

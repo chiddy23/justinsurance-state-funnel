@@ -8,9 +8,9 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: { absolute: "Non-Resident Insurance License: Reciprocity Guide" },
+  title: { absolute: "No Exam Needed: Get a Non-Resident Insurance License" },
   description:
-    "Most states let you apply for a non-resident insurance license through NIPR with no new exam. Fees, reciprocity rules, and the application process.",
+    "Hold an active resident license? Apply for a non-resident insurance license via NIPR — no exam, fees $30–$100 per state, decisions in 1–15 days.",
   alternates: { canonical: "https://justinsuranceco.com/non-resident-insurance-license" },
 };
 
@@ -199,6 +199,23 @@ export default function NonResidentInsuranceLicensePage() {
 
       <TrustBar />
       <PressLogosBar />
+
+      {/* TL;DR quick-answer box — answer-first snippet bait */}
+      <section className="bg-white pt-10 px-4">
+        <div className="max-w-4xl mx-auto">
+          <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-5">
+            <p className="text-gray-800 leading-relaxed">
+              <strong>Quick answer:</strong> If you already hold an active resident insurance license,
+              you can get a non-resident license in almost any other state without retaking an exam.
+              Apply online at{" "}
+              <a href="https://nipr.com" className="text-navy underline hover:text-gold" target="_blank" rel="noopener noreferrer">NIPR.com</a>
+              {" "}— the process takes under 20 minutes, fees run $30 to $100 per state plus a ~$5.60
+              NIPR transaction fee, and most states issue a decision within 1 to 15 business days.
+              All 50 states plus DC honor NAIC reciprocity, so no new prelicensing course is required.
+            </p>
+          </div>
+        </div>
+      </section>
 
       {/* What is a non-resident license */}
       <section className="bg-white py-16 px-4">

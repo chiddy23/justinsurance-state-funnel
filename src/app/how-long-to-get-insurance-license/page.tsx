@@ -16,9 +16,9 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArti
 // Title now leads with the range; meta + hero + callout all unified on
 // "2 to 6 weeks" with the number in the first 8-12 words of every answer.
 export const metadata: Metadata = {
-  title: { absolute: "How Long to Get an Insurance License? 2-6 Weeks" },
+  title: { absolute: "Insurance License in 2–6 Weeks: Step-by-Step Timeline" },
   description:
-    "Most people get an insurance license in 2 to 6 weeks. Full-time study in real-time-issuance states can finish in under 2 weeks. See the step-by-step timeline, state comparison, and shortcuts.",
+    "Most people get licensed in 2–6 weeks. Full-time study in FL, TX, or GA can cut that to under 2 weeks. Courses from $199. Step-by-step timeline inside.",
   alternates: { canonical: "https://justinsuranceco.com/how-long-to-get-insurance-license" },
 };
 

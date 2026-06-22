@@ -19,9 +19,9 @@ import ArticleByline from "@/components/ArticleByline";
 // completeness; hero body sentence preserved verbatim (load-bearing
 // for the existing snippet).
 export const metadata: Metadata = {
-  title: { absolute: "Insurance License Cost 2026: $300-$700 All-In Breakdown" },
+  title: { absolute: "How Much Is an Insurance License? $300–$600 All-In" },
   description:
-    "Insurance license costs $300-$700 all-in for 2026: $150-$400 course + $29-$98 exam + $10-$225 application + $30-$50 fingerprint. See your state's exact total below.",
+    "A life insurance license costs $275–$525 all-in; most states run $300–$600 total. Course $199, exam $29–$98, app fee $10–$225. 100% online.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-license-cost" },
 };
 
@@ -34,7 +34,7 @@ const faqs = [
   {
     question: "How much does an insurance license cost in total?",
     answer:
-      "For most candidates, the total out-of-pocket cost falls between $300 and $600. That figure includes a prelicensing course ($199 at JustInsurance), the state exam fee (ranging from about $29 in Missouri to $98 in California), the state application fee (as low as $10 in Michigan and Ohio, as high as $225 in Massachusetts), and fingerprinting or background check costs ($30 to $50 in most states). If you add an optional state-specific practice exam ($59), you are still usually under $600.",
+      "For most candidates, the total out-of-pocket cost falls between $300 and $600. That figure includes a 100% online prelicensing course ($199 at JustInsurance), the state exam fee (ranging from about $29 in Missouri to $98 in California), the state application fee (as low as $10 in Michigan and Ohio, as high as $225 in Massachusetts), and fingerprinting or background check costs ($30 to $50 in most states). If you add an optional state-specific practice exam ($59), you are still usually under $600.",
   },
   {
     question: "Why does the cost vary so much between states?",
@@ -282,6 +282,20 @@ export default function InsuranceLicenseCostPage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline />
       </div>
+
+      {/* TL;DR quick-answer box — snippet/AI-overview bait. Placed above the
+          full Short Answer section so Google's crawler sees a query-shaped
+          direct answer immediately after the byline. Added 2026-06-22.
+          All figures sourced from this page only. */}
+      <section className="bg-white pt-10 px-4">
+        <div className="max-w-4xl mx-auto">
+          <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-5">
+            <p className="text-gray-800 leading-relaxed">
+              <strong>Quick answer:</strong> A resident insurance license costs <strong>$300–$600 all-in</strong> for most candidates — course ($199 at JustInsurance), state exam ($29–$98), application fee ($10–$225), and fingerprinting ($30–$50). A life-only license typically runs <strong>$275–$525</strong>; a combined Life and Health license runs <strong>$375–$700</strong>. Low-fee states like Michigan and Ohio bring the total under $300; high-fee states like California and Massachusetts push it toward $600+. The biggest cost variable is retake fees — students who meet JustInsurance&apos;s study path pass at a 93% rate.
+            </p>
+          </div>
+        </div>
+      </section>
 
       {/* Short Answer */}
       <section className="bg-white py-16 px-4">

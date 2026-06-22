@@ -7,9 +7,9 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 import { COMPARISON_ROWS, PROVIDERS, PASS_RATE_FOOTNOTE } from "@/lib/comparison-data";
 
 export const metadata: Metadata = {
-  title: { absolute: "JustInsurance vs XCEL, ExamFX, AD Banker, Aceable Compared" },
+  title: { absolute: "Best Insurance Prelicensing Course: Compared 2026" },
   description:
-    "Compare the top insurance prelicensing providers side-by-side — JustInsurance, XCEL, ExamFX, AD Banker, and Aceable. Videos, live sessions, pass rates, guarantees, and pricing.",
+    "JustInsurance beats XCEL, ExamFX, AD Banker & Aceable: $199 all-inclusive, 93% pass rate, 5×/wk live sessions & 30-day pass guarantee. Full comparison.",
   alternates: { canonical: "https://justinsuranceco.com/compare" },
 };
 
@@ -64,6 +64,16 @@ export default function ComparePage() {
           { name: "Compare Providers" },
         ]}
       />
+
+      {/* TL;DR — Quick Answer */}
+      <section className="bg-blue-50 border-l-4 border-gold py-5 px-4">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-xs font-semibold uppercase tracking-wide text-gold mb-1">Quick Answer</p>
+          <p className="text-navy font-semibold text-base leading-relaxed">
+            JustInsurance is the best-value insurance prelicensing course at $199 all-inclusive — no upgrades needed for flashcards, live sessions, or exam simulations. It publishes a 93% pass rate with disclosed methodology and backs every course with a 30-day pass guarantee. XCEL and ExamFX use tiered pricing where features and extended access cost extra; ExamFX&apos;s pass guarantee requires a Readiness Exam within 3 calendar days of your state exam.
+          </p>
+        </div>
+      </section>
 
       {/* Hero */}
       <section className="bg-gradient-to-br from-navy to-navy-dark text-white py-16 md:py-20 px-4">

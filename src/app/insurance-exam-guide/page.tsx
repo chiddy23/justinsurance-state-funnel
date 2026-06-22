@@ -16,9 +16,9 @@ const ALL_STATES_FOR_EXAM_GUIDE = Object.values(STATES)
   .sort((a, b) => a.name.localeCompare(b.name));
 
 export const metadata: Metadata = {
-  title: { absolute: "Insurance License Exam Guide 2026 — Pass Rates & Prep" },
+  title: { absolute: "How to Pass the Insurance License Exam — 93% Pass Rate" },
   description:
-    "Everything you need to pass your insurance license exam. State-by-state exam details, Pearson VUE and PSI prep tips, practice questions, and pass rate data.",
+    "Pass your insurance exam on the first try. 100-150 questions, 70% to pass, instant results. JustInsurance students pass at 93% vs. a 55% national average.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-exam-guide" },
 };
 
@@ -189,6 +189,17 @@ export default function InsuranceExamGuidePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline />
       </div>
+
+      {/* TL;DR quick-answer block — answer-first snippet bait */}
+      <section className="bg-white pt-10 px-4">
+        <div className="max-w-4xl mx-auto">
+          <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-5">
+            <p className="text-gray-800 leading-relaxed">
+              <strong>Quick answer:</strong> The insurance licensing exam is a proctored, multiple-choice test — typically 100–150 questions with a 70% passing score and a 2–3 hour time limit. Results are delivered on-screen immediately after you finish. JustInsurance students pass at a <strong>93% rate</strong>, nearly double the national average of ~55%, because our courses align precisely with your state&apos;s exam content outline. State-specific practice exams ($59) let you simulate real test-day conditions before you sit for the real thing.
+            </p>
+          </div>
+        </div>
+      </section>
 
       {/* What to Expect */}
       <section className="bg-white py-16 px-4">

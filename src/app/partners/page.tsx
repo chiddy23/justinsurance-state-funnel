@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Link from "next/link";
 
 const GOOGLE_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbwL4nQzBj1tZs70fd6oSl7c293WCFfryc7BpogOCoBq6UZ4_RDfoXCoouwbPWvBbKP34g/exec";
+  "https://script.google.com/macros/s/AKfycbzb4qAx7DwRSUnWKdY4lgiSpZwd6Bos5C9WcDCxm4FNnSSmnA0Oge-WKQ78joslSodGGg/exec";
 
 // ── Metadata is in layout or via generateMetadata in a separate file.
 // Since this is a "use client" component, we export metadata from a

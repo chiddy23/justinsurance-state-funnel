@@ -58,7 +58,7 @@ const faqs = [
 const stats = [
   { value: "From $39", label: "CE package price", sub: "Includes all required hours and ethics" },
   { value: "Same day", label: "DOI reporting", sub: "Credits recorded immediately upon completion" },
-  { value: "50", label: "States covered", sub: "State-approved CE in every market we serve" },
+  { value: "49", label: "States covered", sub: "State-approved CE in every market we serve" },
   { value: "2–4 hrs", label: "Avg. completion time", sub: "Complete your renewal in a single session" },
 ];
 

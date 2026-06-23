@@ -48,7 +48,7 @@ const TRUST_SIGNALS: TrustSignal[] = [
       </svg>
     ),
     label: `${TRUSTPILOT.score} on Trustpilot`,
-    sub: `${TRUSTPILOT.count} verified reviews`,
+    sub: `${TRUSTPILOT.count} Trustpilot reviews`,
     href: TRUSTPILOT.url,
   },
   {
@@ -67,7 +67,7 @@ const TRUST_SIGNALS: TrustSignal[] = [
       </svg>
     ),
     label: "Same-Day Reporting",
-    sub: "CE reported instantly",
+    sub: "Reported same business day",
   },
   {
     icon: (
@@ -76,7 +76,7 @@ const TRUST_SIGNALS: TrustSignal[] = [
       </svg>
     ),
     label: "Est. 2018",
-    sub: "8 years educating agents",
+    sub: "Educating agents since 2018",
   },
 ];
 

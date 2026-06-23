@@ -859,25 +859,11 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     videoId: "it9dlxYAAbY",
   },
   {
-    name: "Liv",
-    initials: "LI",
-    source: "youtube",
-    text: "This is my Gf utube account. But i had to comment, i did my test today. I studied on excel and could not get anything right. I watched your videos and the way you explained things, wow. I passed cause of you. I hope you see this. Bye.",
-    videoId: "OzD0syM2d70",
-  },
-  {
     name: "Ladylastrape",
     initials: "LA",
     source: "youtube",
     text: "Thank you I passed my Life & Health on my first attempt March 9, 2025 after watching all your videos! Great training helpcouldn’t get any better!",
     videoId: "0hP0lwdeDAE",
-  },
-  {
-    name: "Nisainthecity",
-    initials: "NI",
-    source: "youtube",
-    text: "thank u! im taking the xcel solutions course and i absolutely hate it. it’s very boring and hard to grasp but watching these videos made it so much easier for me to understand these concepts. thank u so much!",
-    videoId: "hADoF38rhdk",
   },
   {
     name: "Dogsupernova",
@@ -892,13 +878,6 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     source: "youtube",
     text: "Omg I passed the exam on my first try! Your videos are EXTREMELY informative. If I did not find your channel, I don’t know how I would have gotten through this exam. THANK YOU!",
     videoId: "-Iqfheopp8k",
-  },
-  {
-    name: "JustInsurance Student",
-    initials: "JI",
-    source: "youtube",
-    text: "I used xcel to study for my first attempt and failed , their language is so complicated. I watched your videos for a few days and passed my test today. Thank you, you're a good teacher .",
-    videoId: "tVoyYZhVsng",
   },
   {
     name: "Margie",

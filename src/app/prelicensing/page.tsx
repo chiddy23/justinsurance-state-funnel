@@ -58,7 +58,7 @@ const faqs = [
 const stats = [
   { value: "$199", label: "Flat course price", sub: "No hidden fees or subscriptions" },
   { value: "93%", label: "First-attempt pass rate", sub: "vs. ~55% national average" },
-  { value: "50", label: "States covered", sub: "State-approved in every market we serve" },
+  { value: "49", label: "States covered", sub: "State-approved in every market we serve" },
   { value: "1–3 wks", label: "Avg. completion time", sub: "Fully self-paced, no deadlines" },
 ];
 

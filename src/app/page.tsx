@@ -239,7 +239,7 @@ export default function HomePage() {
                   </svg>
                 ),
                 title: "Same-Day CE Reporting",
-                desc: "Finish your CE and we report your completion to the state the same day — so your renewal is never delayed.",
+                desc: "Finish your CE and we report your completion to the state the same day.",
               },
               {
                 icon: (

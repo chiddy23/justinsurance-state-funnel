@@ -73,7 +73,7 @@ const orgPersonSchema = {
 const stats = [
   { value: "20,000+", label: "Students Trained" },
   { value: "93%", label: "First-Attempt Pass Rate" },
-  { value: "50", label: "States Covered" },
+  { value: "49", label: "States Covered" },
   { value: "20,000+", label: "YouTube Subscribers" },
   { value: "$199", label: "Prelicensing" },
   { value: "$39", label: "CE (from)" },
@@ -265,7 +265,7 @@ export default function AboutPage() {
           <P>
             JustInsurance is a fully online insurance education platform offering state-approved
             insurance prelicensing courses, insurance continuing education, and full licensing
-            support across all 50 state Departments of Insurance. Every course is approved where
+            support across 49 state Departments of Insurance. Every course is approved where
             required, self-paced, and built for the way candidates actually study.
           </P>
 

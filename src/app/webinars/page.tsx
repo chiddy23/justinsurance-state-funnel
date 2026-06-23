@@ -50,7 +50,7 @@ const faqs = [
   {
     question: "Who teaches the live sessions?",
     answer:
-      "JustInsurance live sessions are led by licensed insurance educators — professionals who've carried real insurance licenses and have taught thousands of students through their state exams. You're not watching a pre-recorded actor or an offshore tutor. You're learning from instructors who know the test content and the regulatory environment you're about to walk into.",
+      "JustInsurance live sessions are led by licensed insurance educators — professionals who've carried real insurance licenses and have taught thousands of students through their state exams. You're not watching a pre-recorded actor. You're learning from instructors who know the test content and the regulatory environment you're about to walk into.",
   },
   {
     question: "How do I join a live session?",
@@ -83,7 +83,7 @@ const valueProps = [
   },
   {
     title: "Real licensed instructors",
-    desc: "Sessions are taught by licensed insurance educators who've helped thousands of students pass — not pre-recorded lectures or offshore tutors.",
+    desc: "Sessions are taught by licensed insurance educators who've helped thousands of students pass — not pre-recorded lectures.",
   },
   {
     title: "Included in every $199 course — no upcharge",

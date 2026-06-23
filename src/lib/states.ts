@@ -4287,7 +4287,7 @@ export const STATES: Record<string, StateData> = {
     stateSpecificIntro: "Minnesota is a state where prelicensing certificates do not expire, giving candidates extra flexibility in timing their exam. The state's insurance market is anchored by Minneapolis-Saint Paul, which hosts headquarters for several major national carriers including Allianz Life, Securian Financial, and UnitedHealth Group. Minnesota's strong healthcare sector and high educational attainment create a particularly sophisticated market for health, life, and annuity products.",
     stateSpecificFAQ: {
       question: "Do Minnesota insurance prelicensing certificates expire?",
-      answer: "No. Unlike most states, Minnesota prelicensing certificates do not expire. Once you complete your approved prelicensing course, you can take your time scheduling the state exam without the pressure of a 6-month or 12-month certificate expiration window. This flexibility is helpful for candidates who need to manage work and family obligations while studying. Minnesota uses Pearson VUE for exam administration.",
+      answer: "No. Unlike most states, Minnesota prelicensing certificates do not expire. Once you complete your approved prelicensing course, you can take your time scheduling the state exam without the pressure of a 6-month or 12-month certificate expiration window. This flexibility is helpful for candidates who need to manage work and family obligations while studying. Minnesota uses PSI for exam administration.",
     },
     stateTestimonial: {
       quote: "JustInsurance's Minnesota course gave me the flexibility I needed. Since the prelicensing certificate doesn't expire, I could study at my own pace and take the Pearson VUE exam when I was truly ready.",

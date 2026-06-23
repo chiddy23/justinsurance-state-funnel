@@ -116,7 +116,7 @@ export default async function CEHubPage({
           </div>
           <div>
             <p className="text-lg font-bold text-gold">Same-Day CE Reporting</p>
-            <p className="text-white/90">We report your CE completion to the {stateData.doiName} the same day you finish — so your license never lapses.</p>
+            <p className="text-white/90">We report your CE completion to the {stateData.doiName} the same day you finish.</p>
           </div>
         </div>
       </section>

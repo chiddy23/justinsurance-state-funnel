@@ -152,7 +152,7 @@ export default function PartnersPage() {
             Partner with JustInsurance
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-3xl mx-auto">
-            Give your recruits the highest pass rate in the industry. State-approved
+            Give your recruits a 93% pass rate. State-approved
             prelicensing and CE courses nationwide &mdash; with agency dashboards,
             bulk pricing, and dedicated support.
           </p>

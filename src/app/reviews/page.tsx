@@ -132,7 +132,7 @@ export default function ReviewsPage() {
             <p className="text-xs text-gray-700">First-attempt pass rate</p>
           </div>
           <div>
-            <p className="text-2xl md:text-3xl font-bold text-navy">50</p>
+            <p className="text-2xl md:text-3xl font-bold text-navy">49</p>
             <p className="text-xs text-gray-700">States covered</p>
           </div>
         </div>

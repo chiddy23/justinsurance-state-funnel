@@ -28,16 +28,6 @@ No PIP mandate in Indiana: Unlike no-fault states (MN: $40,000 mandatory PIP; NJ
 
 Required minimums (confirmed from Indiana BMV):
 
-$30,000 bodily injury per person
-
-$60,000 bodily injury per accident
-
-$25,000 property damage per accident
-
-Wait — let me correct that from the research:
-
-Required minimums (confirmed from Indiana BMV):
-
 $25,000 bodily injury per person
 
 $50,000 bodily injury per accident

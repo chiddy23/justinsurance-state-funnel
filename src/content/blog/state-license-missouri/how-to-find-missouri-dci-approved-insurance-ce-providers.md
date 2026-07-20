@@ -65,7 +65,7 @@ Pay renewal fee
 
 License renewed
 
-Renewal deadline: Last day of birth month; 2-year cycle.
+Renewal deadline: your birth date (the birthday itself, not month-end); 2-year cycle.
 
 ## 5 Frequently Asked Questions
 

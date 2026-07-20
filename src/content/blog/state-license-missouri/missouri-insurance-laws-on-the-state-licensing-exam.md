@@ -58,7 +58,7 @@ Fee waiver: available for qualifying low-income/veterans
 
 1033 waiver: required for certain felony convictions before application
 
-Renewal: 2 years; last day birth month; CE 16 hrs/3 Ethics
+Renewal: every 2 years on your birth date (not month-end); CE 16 hrs/3 Ethics
 
 License grounds for action:
 

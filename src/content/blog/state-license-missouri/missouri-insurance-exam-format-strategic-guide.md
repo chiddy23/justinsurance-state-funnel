@@ -90,7 +90,7 @@ All exams:
 
 DCI: Missouri Department of Commerce and Insurance; Commissioner authority; insurance.mo.gov; RSMo Chapters 375/379; multi-sector (insurance + financial institutions + professional registration)
 
-Producer licensing: No PLE; $29-$35 Pearson VUE; in-person only; 70% both sections; 1-year validity; 24-hr retake; retake failed section only; no fingerprinting; $100 NIPR; 24-48 hr wait before applying; 5-10 day processing; no temp license; renewal 2 years/last day birth month; CE 16 hrs/3 Ethics
+Producer licensing: No PLE; $29-$35 Pearson VUE; in-person only; 70% both sections; 1-year validity; 24-hr retake; retake failed section only; no fingerprinting; $100 NIPR; 24-48 hr wait before applying; 5-10 day processing; no temp license; renewal 2 years/birth date (not month-end); CE 16 hrs/3 Ethics
 
 RSMo unfair practices: Misrepresentation, twisting, churning, rebating, defamation, unfair discrimination, unfair claims settlement
 

@@ -66,7 +66,7 @@ DCI is multi-sector: insurance + financial institutions + professional registrat
 
 Producer licensing (RSMo Chapter 375):
 
-No PLE required; Pearson VUE $29-$35; in-person only (May 2025); 70% BOTH sections; 1-year validity; 24-hr retake; retake failed section only; no fingerprinting; $100 NIPR application; 5-10 day processing; 1-year apply window; no temporary license; renewal 2 years/last day birth month; CE 16 hrs/3 Ethics
+No PLE required; Pearson VUE $29-$35; in-person only (May 2025); 70% BOTH sections; 1-year validity; 24-hr retake; retake failed section only; no fingerprinting; $100 NIPR application; 5-10 day processing; 1-year apply window; no temporary license; renewal 2 years/birth date (not month-end); CE 16 hrs/3 Ethics
 
 Unfair practices under RSMo Chapter 375:
 

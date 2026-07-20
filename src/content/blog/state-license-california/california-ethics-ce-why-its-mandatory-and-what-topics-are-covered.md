@@ -49,7 +49,7 @@ Unfair trade practices. California law prohibits specific practices — twisting
 
 Replacement ethics. Replacing an existing policy with a new one is legal, but only when it benefits the client. Doing it to generate commission is unethical and illegal. Ethics CE covers the specific obligations that protect clients during replacement transactions.
 
-Suitability standards. Selling products that fit a client's genuine needs rather than products that pay the agent more. California's enhanced suitability requirements — particularly for annuities under AB 2468 and long-term care — are reinforced through ethics training.
+Suitability standards. Selling products that fit a client's genuine needs rather than products that pay the agent more. California's enhanced suitability requirements — particularly for annuities under SB 263 and long-term care — are reinforced through ethics training.
 
 Senior client protection. California has specific protections for older clients, and ethics CE often covers the special responsibilities agents have when working with seniors, including recognizing diminished capacity, avoiding high-pressure tactics, and respecting the involvement of family members when appropriate.
 
@@ -57,7 +57,7 @@ Complaint handling and regulatory cooperation. How to respond when a client has 
 
 ## Why California Emphasizes Ethics
 
-California has one of the strongest consumer protection frameworks in U.S. insurance. CDI's enforcement actions, combined with legislative activity like AB 2468 and the state's strong privacy laws, reflect an underlying philosophy: consumers deserve agents who act ethically, not just legally.
+California has one of the strongest consumer protection frameworks in U.S. insurance. CDI's enforcement actions, combined with legislative activity like SB 263 and the state's strong privacy laws, reflect an underlying philosophy: consumers deserve agents who act ethically, not just legally.
 
 Ethics CE supports that philosophy by making sure the ethical standards are front of mind for every licensed professional. It's the mechanism that keeps agents aligned with evolving expectations rather than stuck in older practices that may no longer meet the standard.
 

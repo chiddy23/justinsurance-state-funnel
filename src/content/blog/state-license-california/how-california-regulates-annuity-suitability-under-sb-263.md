@@ -1,9 +1,9 @@
 ---
-title: How California Regulates Annuity Suitability Under AB 2468
+title: How California Regulates Annuity Suitability Under SB 263
 description: >-
-  California Annuity Suitability Rules Under AB 2468 — practical guidance for California insurance agents working with the Department of Insurance.
-keyword: california annuity suitability AB 2468
-targetKeywords: california annuity suitability AB 2468
+  California Annuity Suitability Rules Under SB 263 — practical guidance for California insurance agents working with the Department of Insurance.
+keyword: california annuity suitability SB 263
+targetKeywords: california annuity suitability SB 263
 cluster: state-license-california
 clusterName: State License – California
 type: supporting
@@ -13,19 +13,19 @@ image: /blog/images/how-to-nail-your-california-insurance-license-continuing-edu
 imageAlt: California insurance professional reviewing licensing materials
 ---
 
-Annuity suitability has been one of the most scrutinized areas in California insurance regulation for years — and Assembly Bill 2468 significantly strengthened the state's framework for protecting consumers in annuity transactions. Agents selling annuities in California need to understand both what the law requires and why it exists.
+Annuity suitability has been one of the most scrutinized areas in California insurance regulation for years — and Senate Bill 263 significantly strengthened the state's framework for protecting consumers in annuity transactions. Agents selling annuities in California need to understand both what the law requires and why it exists.
 
-Here's how California regulates annuity suitability under AB 2468 and related provisions.
+Here's how California regulates annuity suitability under SB 263 and related provisions.
 
 ## Why Annuity Suitability Rules Matter
 
 Annuities aren't inappropriate products — but they're the wrong fit for many consumers. They often involve long surrender periods, meaningful fees, complex features, and significant tax implications. When sold to clients whose situations don't align with what an annuity offers, the harm can be substantial — especially for seniors on fixed incomes.
 
-California enhanced its suitability framework specifically because unsuitable annuity sales had become a persistent consumer protection concern. AB 2468 and subsequent related legislation raised the standard for how agents recommend annuity products.
+California enhanced its suitability framework specifically because unsuitable annuity sales had become a persistent consumer protection concern. SB 263 and subsequent related legislation raised the standard for how agents recommend annuity products.
 
-## What AB 2468 Established
+## What SB 263 Established
 
-Assembly Bill 2468 (and California's broader annuity suitability framework) requires that recommendations to purchase, replace, or exchange an annuity must be based on reasonable grounds that the product is suitable for the specific consumer.
+Senate Bill 263 (Dodd), signed February 29, 2024 and applying to annuity recommendations made on or after January 1, 2025, amended California Insurance Code sections 10509.914 and 10509.915 to adopt the best-interest standard. It requires that recommendations to purchase, replace, or exchange an annuity must be based on reasonable grounds that the product is suitable for the specific consumer.
 
 This isn't a surface-level obligation. Reasonable grounds require actually considering the consumer's situation and genuinely evaluating whether the product fits — not simply having the consumer sign a suitability form without meaningful analysis.
 

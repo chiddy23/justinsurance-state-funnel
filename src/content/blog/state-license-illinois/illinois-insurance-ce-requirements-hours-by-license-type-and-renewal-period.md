@@ -153,7 +153,7 @@ These specialty requirements are in addition to — not part of — your standar
 ## 5 Frequently Asked Questions
 
 - When exactly is my Illinois CE due? Your CE is tied to your 2-year renewal cycle based on your original license date. Confirm your specific date through IDOI's producer portal or Sircon.
-- Can I carry over extra CE hours to the next renewal cycle? No. Hours completed in one cycle only apply to that cycle. Excess hours don't roll forward.
+- Can I carry over extra CE hours to the next renewal cycle? Yes — up to 12 unused CE hours carry into the next 2-year period. Ethics hours never carry over: a new 3-hour classroom or webinar ethics course is required every cycle (50 Ill. Adm. Code 3119.45).
 - Are online CE courses accepted in Illinois? Yes. IDOI accepts approved online courses, and most agents complete CE online at their own pace.
 - Does the Ethics requirement change every cycle? The 3-hour Ethics requirement applies to every 2-year cycle. You must complete it each renewal period.
 - What if I hold licenses in multiple states? Illinois CE satisfies Illinois requirements. Other states have their own CE rules — though many states have home-state reciprocity that allows Illinois CE to satisfy non-resident obligations. Verify with each state.

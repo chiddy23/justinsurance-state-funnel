@@ -154,7 +154,7 @@ These specialty requirements are in addition to — not part of — your standar
 
 1. When exactly is my Georgia CE due? Your CE is tied to your 2-year renewal cycle based on your original license date. Confirm your specific date through OCI's producer portal or Sircon.
 
-2. Can I carry over extra CE hours to the next renewal cycle? No. Hours completed in one cycle only apply to that cycle. Excess hours don't roll forward.
+2. Can I carry over extra CE hours to the next renewal cycle? Yes — up to 50% of the biennial requirement (12 of your 24 hours) may carry forward to the next filing period (Ga. Comp. R. & Regs. 120-2-3-.15(5)). Ethics hours must still be completed each cycle.
 
 3. Are online CE courses accepted in Georgia? Yes. OCI accepts approved online courses, and most agents complete CE online at their own pace.
 

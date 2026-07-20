@@ -33,7 +33,7 @@ Unfair Trade Practices. California prohibits specific conduct considered unfair 
 
 Replacement of Life Insurance and Annuities. Specific rules govern the replacement of existing life insurance policies and annuity contracts. Disclosure requirements, required forms, and notification obligations to the existing insurer are all covered.
 
-Annuity Suitability. Enhanced by Assembly Bill 2468, California's annuity suitability framework imposes detailed obligations on agents selling annuities — especially to seniors. Requirements include information collection, suitability analysis, training, and documentation.
+Annuity Suitability. Enhanced by Senate Bill 263, California's annuity suitability framework imposes detailed obligations on agents selling annuities — especially to seniors. Requirements include information collection, suitability analysis, training, and documentation.
 
 Privacy and Information Protection. California has some of the strongest privacy laws in the country. The California Insurance Information and Privacy Protection Act and related rules govern how agents collect, store, share, and disclose client information.
 

@@ -60,7 +60,7 @@ Pearson VUE: $29-$35; in-person only (May 2025); 70% BOTH sections separately; 1
 
 $100 NIPR; 24-48 hr wait; 5-10 business days; no temp license; 1-year apply window
 
-Renewal: 2 years; last day birth month; CE 16 hrs/3 Ethics
+Renewal: every 2 years on your birth date (not month-end); CE 16 hrs/3 Ethics
 
 Unfair practices by name
 

@@ -60,9 +60,9 @@ The California Consumer Privacy Act (CCPA). Broader consumer privacy rights that
 
 Agents are expected to know what can and cannot be shared about clients, when consent is required, and what disclosures must be made to clients about how their information is handled.
 
-## Annuity Suitability Under AB 2468
+## Annuity Suitability Under SB 263
 
-California's annuity suitability requirements, enhanced by Assembly Bill 2468 and related legislation, impose significant obligations on agents selling annuities:
+California's annuity suitability requirements, enhanced by Senate Bill 263 and related legislation, impose significant obligations on agents selling annuities:
 
 - Agents must have reasonable grounds to believe an annuity is suitable based on the consumer's financial situation, objectives, and needs
 - Specific suitability factors must be considered and documented

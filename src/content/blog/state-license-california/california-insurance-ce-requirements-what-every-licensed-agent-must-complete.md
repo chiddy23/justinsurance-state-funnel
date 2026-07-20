@@ -68,7 +68,7 @@ Agents selling annuities in California must complete annuity-specific training:
 - 8-hour initial annuity training before the first annuity sale
 - 4-hour annuity refresher CE every 2 years
 
-These hours can count toward your 24-hour CE requirement, but the training specifically must be approved annuity content. This reflects California's enhanced focus on annuity suitability under AB 2468.
+These hours can count toward your 24-hour CE requirement, but the training specifically must be approved annuity content. This reflects California's enhanced focus on annuity suitability under SB 263.
 
 ## The 20-Year Exemption
 

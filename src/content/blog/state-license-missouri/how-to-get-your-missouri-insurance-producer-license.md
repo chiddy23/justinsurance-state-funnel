@@ -86,7 +86,7 @@ Temporary license: Missouri does not issue temporary insurance licenses.
 
 ## Step 4: Maintain Your License
 
-Renewal: 2 years; last day of birth month. CE: 16 hours every 2 years (3 Ethics) — the lowest CE requirement of all comparison states (most require 24 hours).
+Renewal: every 2 years on your birth date (the birthday itself, not month-end). CE: 16 hours every 2 years (3 Ethics) — the lowest CE requirement of all comparison states (most require 24 hours).
 
 ## Missouri vs. Comparison States
 

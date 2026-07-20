@@ -64,7 +64,7 @@ Colorado's licensing framework is among the more demanding in the Mountain West 
 
 ### Arizona Licensing
 
-Arizona has no mandatory prelicensing requirement for any line — candidates may sit for the Pearson VUE exam directly, though a 20-hour (single line) or 40-hour (combined Life and A&H) self-study course is commonly used to prepare. CE is 24 hours biennial for most lines. Arizona's regulatory structure under the Arizona Department of Insurance and Financial Institutions (DIFI) is straightforward and producer-friendly.
+Arizona has no mandatory prelicensing requirement for any line — candidates may sit for the PSI exam directly (Arizona moved to PSI effective September 3, 2025), though a 20-hour (single line) or 40-hour (combined Life and A&H) self-study course is commonly used to prepare. CE is 24 hours biennial for most lines. Arizona's regulatory structure under the Arizona Department of Insurance and Financial Institutions (DIFI) is straightforward and producer-friendly.
 
 The absence of a mandatory prelicensing requirement makes Arizona one of the more accessible states for new producer entry — less time and cost to get licensed, lower barrier to market participation. The tradeoff is a licensing process that requires less state-specific knowledge investment, which means producers entering the Arizona market with limited insurance background have less foundational preparation than Colorado's 50-hour requirement provides.
 

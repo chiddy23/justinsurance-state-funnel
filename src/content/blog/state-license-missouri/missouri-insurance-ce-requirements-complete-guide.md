@@ -30,7 +30,7 @@ Remaining 13 hours: approved CE content
 
 CE before renewal submission
 
-Renewal: 2 years; last day of birth month
+Renewal: every 2 years on your birth date (not month-end)
 
 ## Specialty Training Requirements
 

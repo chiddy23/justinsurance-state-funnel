@@ -46,7 +46,7 @@ Pearson VUE: $29-$35; in-person only (May 2025); 70% BOTH sections; 1-year valid
 
 NIPR application: $100; 24-48 hr wait; 5-10 business days; no temp license
 
-Renewal: 2 years; last day birth month; CE 16 hrs/3 Ethics
+Renewal: every 2 years on your birth date (not month-end); CE 16 hrs/3 Ethics
 
 Specialty CE (annuity, LTC, NFIP flood): not on record with the DCI — confirm current requirements with the Missouri DCI if you sell these product lines
 

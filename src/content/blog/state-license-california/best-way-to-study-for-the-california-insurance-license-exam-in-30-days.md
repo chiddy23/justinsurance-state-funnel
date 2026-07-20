@@ -57,7 +57,7 @@ Focus areas:
 - Riders and optional features
 - Fixed, variable, immediate, and deferred annuities
 - Tax treatment of life insurance and annuities
-- Annuity suitability considerations (especially California AB 2468 requirements)
+- Annuity suitability considerations (especially California SB 263 requirements)
 
 Approach:
 
@@ -105,7 +105,7 @@ Focus areas:
 - California replacement rule
 - California unfair trade practices
 - Privacy laws and California-specific disclosure rules
-- Annuity suitability under AB 2468
+- Annuity suitability under SB 263
 - Free-look period requirements
 - License requirements and CE rules
 - Ethics and agent conduct

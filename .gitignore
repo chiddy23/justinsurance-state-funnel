@@ -28,6 +28,21 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# certificate audit log (local dev only — contains hashed PII)
+.cert-audit/
+
+# local dev/build logs + one-off temp captures (never part of a release commit)
+build_*.log
+nextstart_*.log
+UsersChiddAppDataLocalTemp*.html
+
+# generated certificate render artifacts (~70MB of PNGs; regenerated from
+# cert-templates via scripts/render-*.mjs — source stays in git, renders do not)
+/cert-pngs/
+/cert-grids-png/
+/calibration-grids/
+/calibration-samples/
+
 # vercel
 .vercel
 

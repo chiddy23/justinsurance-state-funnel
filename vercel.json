@@ -6,8 +6,14 @@
       "destination": "https://justinsuranceco.com/:path*",
       "statusCode": 301
     },
+    { "source": "/compare", "destination": "/prelicensing", "statusCode": 301 },
+    { "source": "/compare/:path*", "destination": "/prelicensing", "statusCode": 301 },
+    { "source": "/blog/florida-insurance-license/best-florida-insurance-prelicensing-courses-2026", "destination": "/florida/prelicensing", "statusCode": 301 },
+    { "source": "/blog/texas-insurance-license/best-texas-insurance-prelicensing-courses-2026", "destination": "/texas/prelicensing", "statusCode": 301 },
     { "source": "/washington-dc", "destination": "/", "statusCode": 301 },
     { "source": "/washington-dc/:path*", "destination": "/", "statusCode": 301 },
+    { "source": "/new-york", "destination": "/", "statusCode": 301 },
+    { "source": "/new-york/:path*", "destination": "/", "statusCode": 301 },
     { "source": "/refund-policy", "destination": "/terms#payment-refunds", "statusCode": 301 },
     { "source": "/services", "destination": "/prelicensing", "statusCode": 301 },
     { "source": "/health-insurance-license-exam-in-2026-whats-changed", "destination": "/health-insurance-license", "statusCode": 301 },
@@ -127,7 +133,9 @@
       "headers": [
         { "key": "X-Content-Type-Options", "value": "nosniff" },
         { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "X-XSS-Protection", "value": "1; mode=block" }
+        { "key": "X-XSS-Protection", "value": "0" },
+        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(), payment=()" }
       ]
     }
   ]

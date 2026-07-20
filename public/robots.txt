@@ -18,5 +18,52 @@ Disallow: /author/
 Disallow: /comments/
 Disallow: /*?s=
 
+# ── AI / bulk-harvest crawlers ──────────────────────────────────────────────
+# Deny the bots that copy content to TRAIN models or feed AI datasets — they
+# take the content and send no traffic back. This only binds POLITE bots; the
+# rotating-proxy scraper (Botasaurus/Bright Data, spoofed browser UAs) ignores
+# robots.txt entirely and is handled at the edge (Vercel Firewall ASN deny +
+# src/middleware.ts blocklist). Keeping this explicit also documents that such
+# access is unauthorized under Terms §7, which strengthens the case against
+# anyone — including a proxy operator's customer — who scrapes anyway.
+#
+# NOT blocked (deliberately): Googlebot/Bingbot (search = traffic), and the
+# live answer-fetchers ChatGPT-User / OAI-SearchBot / PerplexityBot, which fetch
+# a page only when a real person asks and can surface the site in AI answers.
+# Blocking those trades away that visibility — flip them to Disallow only if the
+# owner decides the harvest isn't worth the referral exposure.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
 Sitemap: https://justinsuranceco.com/sitemap.xml
 Sitemap: https://justinsuranceco.com/video-sitemap.xml

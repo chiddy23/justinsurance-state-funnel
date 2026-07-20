@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 
 const GOOGLE_SCRIPT_URL =
@@ -11,7 +11,14 @@ const GOOGLE_SCRIPT_URL =
 // companion file (see below). For now, the page renders fully client-side
 // to support the interactive form.
 
-const features = [
+interface Feature {
+  icon: React.ReactNode;
+  title: string;
+  desc: string;
+  link?: { href: string; label: string };
+}
+
+const features: Feature[] = [
   {
     icon: (
       <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -46,7 +53,7 @@ const features = [
       </svg>
     ),
     title: "API Integration",
-    desc: "We\u2019re the first insurance education company with API integration. Plug our courses directly into your onboarding or AMS system.",
+    desc: "We\u2019re one of the few insurance education companies with API integration. Plug our courses directly into your onboarding or AMS system.",
   },
   {
     icon: (
@@ -55,7 +62,8 @@ const features = [
       </svg>
     ),
     title: "93% Pass Rate",
-    desc: "Our students pass at 93% \u2014 nearly double the national average. Better-prepared agents means lower attrition and faster production.",
+    desc: "Our students pass at a 93% rate among those who complete the course. Better-prepared agents means lower attrition and faster production.",
+    link: { href: "/pass-rates", label: "See how we calculate this →" },
   },
   {
     icon: (
@@ -82,6 +90,7 @@ interface FormData {
   agentsPerMonth: string;
   heardFrom: string;
   about: string;
+  consent: boolean;
 }
 
 const initialForm: FormData = {
@@ -91,11 +100,19 @@ const initialForm: FormData = {
   agentsPerMonth: "",
   heardFrom: "",
   about: "",
+  consent: false,
 };
 
 export default function PartnersPage() {
   const [form, setForm] = useState<FormData>(initialForm);
   const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
+  const errorRef = useRef<HTMLDivElement>(null);
+
+  // Move focus to the error message when submission fails, so screen
+  // reader users are notified immediately.
+  useEffect(() => {
+    if (status === "error") errorRef.current?.focus();
+  }, [status]);
 
   function handleChange(
     e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>
@@ -103,8 +120,14 @@ export default function PartnersPage() {
     setForm((prev) => ({ ...prev, [e.target.name]: e.target.value }));
   }
 
+  function handleConsentChange(e: React.ChangeEvent<HTMLInputElement>) {
+    setForm((prev) => ({ ...prev, consent: e.target.checked }));
+  }
+
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
+    // Audit 2026-07-14 (COMM-01): the marketing-consent checkbox is OPTIONAL —
+    // never block submission on it.
     setStatus("loading");
 
     try {
@@ -112,7 +135,14 @@ export default function PartnersPage() {
         method: "POST",
         mode: "no-cors",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(form),
+        // Audit 2026-07-14 (COMM-05): consent-evidence fields — text version,
+        // page, and timestamp — so a consent record exists beyond a boolean.
+        body: JSON.stringify({
+          ...form,
+          consentTextVersion: "2026-07-14.optional-marketing-v2",
+          pageUrl: typeof window !== "undefined" ? window.location.href : "",
+          consentTimestamp: new Date().toISOString(),
+        }),
       });
       // no-cors means we can't read the response, but if fetch didn't throw, it sent
       setStatus("success");
@@ -133,7 +163,7 @@ export default function PartnersPage() {
               </Link>
             </li>
             <li className="flex items-center gap-1">
-              <svg className="w-3 h-3 text-gray-400 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg className="w-3 h-3 text-gray-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
               <span className="text-navy font-medium">Partners</span>
@@ -152,9 +182,10 @@ export default function PartnersPage() {
             Partner with JustInsurance
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-3xl mx-auto">
-            Give your recruits a 93% pass rate. State-approved
-            prelicensing and CE courses nationwide &mdash; with agency dashboards,
-            bulk pricing, and dedicated support.
+            Give your recruits a 93% pass rate among students who complete the course
+            (<Link href="/pass-rates" className="underline hover:text-gold">see methodology</Link>).
+            State-approved prelicensing and CE courses nationwide &mdash; with agency
+            dashboards, bulk pricing, and dedicated support.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -184,7 +215,7 @@ export default function PartnersPage() {
           </p>
 
           {status === "success" ? (
-            <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
+            <div role="status" className="bg-green-50 border border-green-200 rounded-xl p-8 text-center">
               <svg className="w-12 h-12 text-green-500 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
@@ -304,7 +335,13 @@ export default function PartnersPage() {
               </div>
 
               {status === "error" && (
-                <div className="bg-red-50 border border-red-200 rounded-lg p-4">
+                <div
+                  ref={errorRef}
+                  role="alert"
+                  aria-live="assertive"
+                  tabIndex={-1}
+                  className="bg-red-50 border border-red-200 rounded-lg p-4"
+                >
                   <p className="text-red-700 text-sm">
                     Something went wrong. Please try again or call{" "}
                     <a href="tel:7542239744" className="font-semibold underline">
@@ -314,6 +351,43 @@ export default function PartnersPage() {
                   </p>
                 </div>
               )}
+
+              {/* Audit 2026-07-14 (COMM-01/06): transactional contact is a
+                  NOTICE (submitting the form implies it); autodial/AI-voice/
+                  marketing outreach is a SEPARATE, OPTIONAL opt-in so express
+                  written consent is never a condition of applying. */}
+              <p className="text-xs text-gray-500 leading-relaxed">
+                By submitting this application, you agree that JustInsurance may
+                contact you by phone or email about your application. See our{" "}
+                <Link href="/privacy-policy" className="underline hover:text-navy">
+                  Privacy Policy
+                </Link>{" "}
+                and{" "}
+                <Link href="/terms" className="underline hover:text-navy">
+                  Terms
+                </Link>
+                .
+              </p>
+              <div className="flex items-start gap-2.5">
+                <input
+                  type="checkbox"
+                  id="consent"
+                  name="consent"
+                  checked={form.consent}
+                  onChange={handleConsentChange}
+                  className="mt-0.5 h-4 w-4 flex-shrink-0 rounded border-gray-300 text-navy focus:ring-navy"
+                />
+                <label htmlFor="consent" className="text-xs text-gray-500 leading-relaxed">
+                  <span className="font-semibold text-gray-600">Optional:</span>{" "}
+                  I also authorize JustInsurance to contact me at the phone number
+                  and email I provided &mdash; including by automated technology,
+                  autodialed or pre-recorded/AI voice calls, and text messages &mdash;
+                  about its partnership program, products, and services. Consent is
+                  not a condition of applying or of any purchase. Message and data
+                  rates may apply; message frequency varies. Reply STOP to opt out
+                  or HELP for help.
+                </label>
+              </div>
 
               <button
                 type="submit"
@@ -367,8 +441,13 @@ export default function PartnersPage() {
               <span className="text-2xl flex-shrink-0">👆</span>
               <div>
                 <h3 className="font-bold text-navy text-base mb-1">Fingerprinting guidance</h3>
+                {/* Vendor-neutral: IdentoGO is only one of several vendors. Per
+                    states.ts, Arizona routes through Fieldprint, California
+                    through Live Scan, and North Carolina through local police
+                    departments — so "IdentoGO codes" is not a deliverable we can
+                    promise nationwide. */}
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  State-specific IdentoGO codes, vendor selection, scheduling &mdash; the place most candidates get stuck.
+                  Your state&rsquo;s fingerprint vendor and code, scheduling, and what to bring &mdash; the place most candidates get stuck.
                 </p>
               </div>
             </div>
@@ -387,7 +466,8 @@ export default function PartnersPage() {
             <p className="text-blue-100 leading-relaxed">
               Your new agents reach <strong className="text-gold">active license status faster</strong> &mdash;
               typically 2&ndash;4 weeks from enrollment &mdash; with no abandoned candidates stuck mid-process.
-              That&apos;s measurable retention versus the industry standard where 30&ndash;40% of trainees never finish licensing.
+              That&apos;s measurable retention versus an industry pattern our agency partners frequently describe,
+              where many trainees never finish licensing.
             </p>
           </div>
         </div>
@@ -411,6 +491,11 @@ export default function PartnersPage() {
                 </div>
                 <h3 className="font-bold text-navy mb-2 text-sm">{f.title}</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">{f.desc}</p>
+                {f.link && (
+                  <Link href={f.link.href} className="text-gold-deep hover:underline text-xs font-semibold mt-2 inline-block">
+                    {f.link.label}
+                  </Link>
+                )}
               </div>
             ))}
           </div>

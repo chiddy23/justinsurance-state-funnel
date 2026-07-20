@@ -99,6 +99,13 @@ export async function generateMetadata({
       type: "website",
       images: [{ url: "/og-image.png", alt: cluster.name }],
     },
+    // Own twitter block so the root layout's fallback (which may carry
+    // marketing claims not valid in every state) is never inherited here.
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+    },
   };
 }
 

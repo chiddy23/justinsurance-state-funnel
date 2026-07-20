@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Link from "next/link";
 
 // ── Video data ──
@@ -41,6 +41,19 @@ function VideoCard({ id, title, desc, onPlay }: { id: string; title: string; des
 
 export default function PartnerResourcesPage() {
   const [playingId, setPlayingId] = useState<string | null>(null);
+  const playingVideo = [...PARTNER_VIDEOS, ...CANDIDATE_VIDEOS].find(
+    (v) => v.id === playingId
+  );
+
+  // A11Y-06 (audit 2026-07-14): close the video dialog on Escape.
+  useEffect(() => {
+    if (!playingId) return;
+    function onKey(e: KeyboardEvent) {
+      if (e.key === "Escape") setPlayingId(null);
+    }
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [playingId]);
 
   return (
     <>
@@ -52,11 +65,11 @@ export default function PartnerResourcesPage() {
               <Link href="/" className="hover:text-navy hover:underline">Home</Link>
             </li>
             <li className="flex items-center gap-1">
-              <svg className="w-3 h-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
+              <svg className="w-3 h-3 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
               <Link href="/partners" className="hover:text-navy hover:underline">Partners</Link>
             </li>
             <li className="flex items-center gap-1">
-              <svg className="w-3 h-3 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
+              <svg className="w-3 h-3 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
               <span className="text-navy font-medium">Resources</span>
             </li>
           </ol>
@@ -78,11 +91,11 @@ export default function PartnerResourcesPage() {
 
       {/* Video Modal */}
       {playingId && (
-        <div className="fixed inset-0 bg-black/80 z-50 flex items-center justify-center p-4" onClick={() => setPlayingId(null)}>
+        <div role="dialog" aria-modal="true" aria-label={playingVideo ? `${playingVideo.title} — video` : "Video player"} className="fixed inset-0 bg-black/80 z-50 flex items-center justify-center p-4" onClick={() => setPlayingId(null)}>
           <div className="relative w-full max-w-4xl" onClick={(e) => e.stopPropagation()}>
-            <button onClick={() => setPlayingId(null)} className="absolute -top-10 right-0 text-white hover:text-gold text-sm font-semibold">Close &times;</button>
+            <button autoFocus onClick={() => setPlayingId(null)} className="absolute -top-10 right-0 text-white hover:text-gold text-sm font-semibold">Close &times;</button>
             <div style={{ aspectRatio: "16/9" }} className="rounded-xl overflow-hidden">
-              <iframe src={`https://www.youtube-nocookie.com/embed/${playingId}?autoplay=1&rel=0`} title="Video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className="w-full h-full" />
+              <iframe src={`https://www.youtube-nocookie.com/embed/${playingId}?autoplay=1&rel=0`} title={playingVideo ? playingVideo.title : "Video"} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen className="w-full h-full" />
             </div>
           </div>
         </div>
@@ -117,13 +130,37 @@ export default function PartnerResourcesPage() {
       {/* ── STUDY BENCHMARKS ── */}
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-4xl mx-auto">
+          {/* These benchmarks ARE the Pass Guarantee eligibility criteria in the
+              Terms (Section 4), so they must match the Terms in substance: a
+              partner who coaches to a looser number costs their candidate the
+              guarantee. Corrected here:
+                - "2-3x in a row" -> the Terms require 80%+ THREE times in a row.
+                - "30 hrs Life & Health / 20 hrs Life or Health" -> the Terms set
+                  recommended hours to the candidate's OWN state's required
+                  course hours wherever prelicensing is required (a Florida
+                  candidate coached to 30 hrs against a 60-hr requirement
+                  forfeits the guarantee); the flat 20/40 figures apply ONLY in
+                  states with no prelicensing requirement.
+                - Added the 30-day first-attempt window, which is also a
+                  guarantee condition partners must coach to. */}
           <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2">Study Benchmarks</h2>
-          <p className="text-gray-500 mb-8">The numbers that predict a pass. If your candidates hit these targets, they pass.</p>
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+          <p className="text-gray-500 mb-2">
+            These are the Pass Guarantee eligibility conditions from our{" "}
+            <a href="/terms" className="text-navy font-semibold underline hover:text-gold">
+              Terms of Service
+            </a>
+            . Coach to them exactly &mdash; if a candidate misses one, the guarantee does not apply.
+          </p>
+          <p className="text-gray-500 mb-8 text-sm">
+            The Pass Guarantee is not offered in Ohio, Illinois, or West Virginia, or in states
+            where our provider approval is still pending.
+          </p>
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {[
-              { val: "30 hrs", label: "Life & Health combined" },
-              { val: "20 hrs", label: "Life or Health only" },
-              { val: "80%+", label: "Practice exams, 2\u20133x in a row" },
+              { val: "State hours", label: "Recommended study hours = your candidate\u2019s state\u2019s required course hours, where prelicensing is required" },
+              { val: "20 / 40 hrs", label: "Single line / dual line (Life & Health) \u2014 only in states with no prelicensing requirement" },
+              { val: "80%+", label: "Practice exams, three times in a row, before sitting for the state exam" },
+              { val: "30 days", label: "First state exam attempt, counted from first enrollment" },
               { val: "90 min", label: "State laws section" },
               { val: "30 min", label: "Exam prep videos" },
             ].map((s) => (
@@ -164,8 +201,13 @@ export default function PartnerResourcesPage() {
             <div className="bg-gold/10 border border-gold/30 rounded-xl p-5">
               <div className="text-3xl mb-3">3</div>
               <h3 className="font-bold text-navy text-sm mb-2">Fingerprinting guidance</h3>
+              {/* Vendor-neutral: IdentoGO is only one of several vendors across
+                  the states. Per states.ts, Arizona routes through Fieldprint,
+                  California through Live Scan, and North Carolina through local
+                  police departments. Selling "IdentoGO codes" as the deliverable
+                  promises something that does not exist in much of the country. */}
               <p className="text-gray-700 text-sm leading-relaxed">
-                State-specific IdentoGO codes, vendor selection, scheduling. This is the #1 place candidates get stuck without help.
+                Your candidate&rsquo;s state fingerprint vendor and code, scheduling, and what to bring. The vendor differs by state &mdash; IdentoGO, Fieldprint, Live Scan, or a local police department. This is the #1 place candidates get stuck without help.
               </p>
             </div>
             <div className="bg-gold/10 border border-gold/30 rounded-xl p-5">
@@ -194,8 +236,8 @@ export default function PartnerResourcesPage() {
               { title: "Enrolling people and then going silent.", desc: "The most common mistake, by far. You enroll someone, don\u2019t call them for 3 days, and by then they\u2019ve already lost momentum. The Day 1 call exists for a reason." },
               { title: "Assuming people will study on their own.", desc: "They won\u2019t. Most candidates need someone checking in on them regularly. If you\u2019re not looking at the dashboard and following up, nobody is." },
               { title: "Not rescheduling exams when the numbers aren\u2019t there.", desc: "If a candidate is 3 days from their exam and hasn\u2019t hit the benchmarks, letting them sit for it is setting them up to fail. Push the exam back." },
-              { title: "Blaming the course material.", desc: "Our pass rate is 93%+ for a reason. When someone fails, it\u2019s almost always because the time and reps weren\u2019t there \u2014 not because the material was lacking." },
-              { title: "Letting candidates drift for weeks.", desc: "A 14-day sprint turns into a 30-day crawl, and then they never take the exam. Keep the timeline tight. Urgency is your best tool." },
+              { title: "Blaming the course material.", desc: "Our completer pass rate is 93% for a reason. When someone doesn\u2019t pass, it\u2019s usually because the recommended study time and practice-exam reps weren\u2019t there \u2014 not because the material was lacking." },
+              { title: "Letting candidates drift for weeks.", desc: "A 14-day sprint turns into a 30-day crawl, and then they never take the exam. Keep the timeline tight. Momentum is your best tool." },
             ].map((m, i) => (
               <div key={i} className="bg-gray-bg rounded-xl p-5 border border-gray-200">
                 <div className="flex gap-3 items-start">
@@ -219,9 +261,13 @@ export default function PartnerResourcesPage() {
             {[
               { q: "Can a candidate retake the exam if they fail?", a: "Yes. Most states allow retakes, though there may be a waiting period (typically 24 hours to 30 days). Email the report card to support@justinsuranceco.com and we\u2019ll build a custom retake plan." },
               { q: "How do I add another candidate?", a: "Reach out to our team via text at 850-790-4811 or through your agency contact, and we\u2019ll get them enrolled and set up in the system." },
-              { q: "What if a candidate needs more time on the course?", a: "Course access doesn\u2019t expire on a hard deadline, but the goal is to keep the timeline tight. If they need more time, have them reschedule their exam \u2014 but don\u2019t let \u201Cmore time\u201D become an excuse." },
+              // Corrected: course access DOES expire. Terms Section 3: prelicensing
+              // access runs 30 days from enrollment, and the FAQ says the same.
+              // Telling partners there is no hard deadline sets their candidates up
+              // to lose both their access and their guarantee.
+              { q: "What if a candidate needs more time on the course?", a: "Prelicensing course access runs 30 days from the date of enrollment \u2014 that is a hard deadline (Terms, Section 3). If a candidate needs more time, have them contact support before their access expires; extensions are reviewed case by case. Keep in mind the Pass Guarantee separately requires their first state exam attempt within 30 days of first enrollment, so stalling can cost them the guarantee even if access is extended." },
               { q: "What states do you cover?", a: "We offer pre-licensing and continuing education courses nationwide. Contact us if you have questions about a specific state\u2019s requirements." },
-              { q: "How does the 850-790-4811 support line work?", a: "Our team sends automated check-in texts to enrolled candidates and responds to incoming questions. It\u2019s not a replacement for your follow-up \u2014 it\u2019s a supplement." },
+              { q: "How does the 850-790-4811 support line work?", a: "Our team sends check-in texts to enrolled candidates and responds to incoming questions. It\u2019s not a replacement for your follow-up \u2014 it\u2019s a supplement." },
               { q: "Who do I contact if I have a question that\u2019s not here?", a: "Text or call 850-790-4811, or email support@justinsuranceco.com." },
             ].map((faq, i) => (
               <details key={i} className="group border border-gray-200 rounded-xl overflow-hidden bg-white">
@@ -255,7 +301,7 @@ export default function PartnerResourcesPage() {
               support@justinsuranceco.com
             </a>
           </div>
-          <p className="text-blue-200/60 text-sm mt-6">
+          <p className="text-blue-200 text-sm mt-6">
             Not a partner yet?{" "}
             <Link href="/partners" className="text-gold hover:underline">Apply here</Link>
           </p>

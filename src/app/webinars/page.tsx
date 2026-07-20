@@ -35,7 +35,7 @@ const faqs = [
   {
     question: "Do I have to pay extra for the live sessions?",
     answer:
-      "No. Live instructor sessions are included free with every JustInsurance prelicensing course — the base $199 course gives you access to all five sessions per week at no upcharge. Competitors use tiered pricing where live-session inclusion can vary by package: ExamFX markets its live webinars as part of its \"Live Online\" package tier, and XCEL offers livestream exam review as a study-tool feature with package-dependent inclusion (verify current terms at examfx.com and xcelsolutions.com before purchase). With us, there's no tier shopping.",
+      "No. Live instructor sessions are included free with every JustInsurance prelicensing course — the base $199 course gives you access to all five sessions per week at no upcharge, with no add-on tiers or package upgrades to shop through.",
   },
   {
     question: "What platform do the live sessions run on?",
@@ -236,38 +236,26 @@ export default function WebinarsPage() {
       <section className="bg-navy py-16 px-4">
         <div className="max-w-3xl mx-auto text-center text-white">
           <p className="text-gold font-semibold uppercase tracking-wide text-xs mb-3">
-            Side-by-Side
+            Included with Every Course
           </p>
           <h2 className="text-2xl md:text-3xl font-bold mb-5">
-            How Our Live Classes Compare to ExamFX and XCEL
+            Live Classes Without the Package Tiers
           </h2>
           <p className="text-blue-100 leading-relaxed mb-4">
-            <strong className="text-white">ExamFX</strong> offers live webinars as a named feature
-            of its &ldquo;Live Online&rdquo; package tier. Their other published tiers (Self-Study
-            and Video Study) list different study-tool mixes &mdash; verify current package
-            inclusions at examfx.com before purchase.
-          </p>
-          <p className="text-blue-100 leading-relaxed mb-4">
-            <strong className="text-white">XCEL Solutions</strong> lists livestream exam reviews
-            among its study tools and uses a tiered pricing model. Which features are included in
-            each tier can vary &mdash; verify current inclusions at xcelsolutions.com before
-            purchase.
+            Many prelicensing providers reserve live instruction for higher-priced package
+            tiers or sell it as an add-on &mdash; which means comparing tier charts before you
+            even start studying.
           </p>
           <p className="text-blue-100 leading-relaxed mb-8">
             <strong className="text-white">JustInsurance</strong> includes live instructor sessions
             5x per week in the base $199 course. One tier, same feature set for every student &mdash;
             no upgrade decisions at checkout.
           </p>
-          <p className="text-blue-300 text-xs italic mb-6">
-            Competitor claims reflect publicly available product pages as of April 2026. Terms and
-            inclusions can change &mdash; always verify current policies directly at the competitor&apos;s
-            domain before purchase.
-          </p>
           <Link
-            href="/compare"
+            href="/prelicensing"
             className="inline-block bg-gold hover:bg-gold-dark text-gray-dark font-bold py-3 px-7 rounded-lg transition-colors"
           >
-            See Full Provider Comparison &rarr;
+            See What&apos;s Included &rarr;
           </Link>
         </div>
       </section>
@@ -276,7 +264,7 @@ export default function WebinarsPage() {
 
       <CTABanner
         title="Ready to Study With Real Instructors?"
-        subtitle="Pick your state and enroll. Live sessions, recordings, practice exams, and our pass guarantee — all included in the base $199 course."
+        subtitle="Pick your state and enroll. Live sessions, recordings, practice exams, and our pass guarantee (in eligible states) — all included in the base $199 course."
         ctaText="Find My State"
         ctaHref="/"
       />

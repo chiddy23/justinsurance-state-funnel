@@ -7,11 +7,39 @@ import TrustBar from "@/components/TrustBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 import Link from "next/link";
 import ArticleByline from "@/components/ArticleByline";
+import { STATES } from "@/lib/states";
+
+// ---------------------------------------------------------------------------
+// "JustInsurance is an approved CE provider in the states we serve" was an
+// unqualified universal: Washington's providerApprovalNumber is "PENDING" in
+// states.ts, so we are NOT an approved CE provider in every state we serve, and
+// we cannot report CE to a DOI that has not approved us. Counts derive from
+// states.ts so this copy self-corrects the moment an approval issues.
+// ---------------------------------------------------------------------------
+const SERVED_STATES = Object.values(STATES).filter((s) => s.slug !== "new-york");
+const SERVED_STATE_COUNT = SERVED_STATES.length;
+const CE_APPROVAL_PENDING = SERVED_STATES.filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+const CE_APPROVED_COUNT = SERVED_STATE_COUNT - CE_APPROVAL_PENDING.length;
+
+/** "A", "A and B", "A, B, and C" — for naming pending states in prose. */
+const formatStateNames = (states: { name: string }[]): string => {
+  const names = states.map((s) => s.name);
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+};
+
+/** States whose approval is pending, including New York (not in SERVED_STATES). */
+const ALL_PENDING_STATES = Object.values(STATES).filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
 
 export const metadata: Metadata = {
   title: { absolute: "Insurance License Renewal Guide 2026 | CE by State | JustInsurance" },
   description:
-    "How to renew your insurance license — CE hour requirements by state, renewal deadlines, and how to report your CE. Same-day reporting. Updated 2026.",
+    "How to renew your insurance license — CE hour requirements by state, renewal deadlines, and how to report your CE. Typically same-day reporting. Updated 2026.",
   alternates: { canonical: "https://justinsuranceco.com/license-renewal-guide" },
 };
 
@@ -33,8 +61,15 @@ const faqs = [
   },
   {
     question: "Does JustInsurance report my CE completion to my state DOI?",
-    answer:
-      "Yes. JustInsurance is an approved provider nationwide we serve. Once you complete a CE course, we report your completion directly to your state's Department of Insurance — typically the same business day. You do not need to submit anything yourself.",
+    answer: `Yes — in the ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve where our CE provider approval is active. See your state page for the approval number. Once you complete a CE course, we report your completion directly to your state's Department of Insurance — typically the same business day, and you do not need to submit anything yourself.${
+      CE_APPROVAL_PENDING.length === 0
+        ? ""
+        : ` Our ${formatStateNames(
+            CE_APPROVAL_PENDING
+          )} CE provider approval is still pending, so completions in ${
+            CE_APPROVAL_PENDING.length === 1 ? "that state" : "those states"
+          } are not yet reported to the DOI — you receive a certificate of completion for your records until approval issues.`
+    }`,
   },
   {
     question: "Can I start CE courses before my renewal window opens?",
@@ -51,58 +86,14 @@ const faqs = [
 const faqSchema = generateFAQSchema(faqs);
 
 // CE data: [stateName, slug, ceHours, renewalPeriod]
-// Source: states.ts — New York excluded per site policy
-const statesCEData: [string, string, number, string][] = [
-  ["Alabama", "alabama", 24, "2 years"],
-  ["Alaska", "alaska", 24, "2 years"],
-  ["Arizona", "arizona", 48, "4 years"],
-  ["Arkansas", "arkansas", 24, "2 years"],
-  ["California", "california", 24, "2 years"],
-  ["Colorado", "colorado", 24, "2 years"],
-  ["Connecticut", "connecticut", 24, "2 years"],
-  ["Delaware", "delaware", 24, "2 years"],
-  ["Florida", "florida", 24, "2 years"],
-  ["Georgia", "georgia", 24, "2 years"],
-  ["Hawaii", "hawaii", 24, "2 years"],
-  ["Idaho", "idaho", 24, "2 years"],
-  ["Illinois", "illinois", 24, "2 years"],
-  ["Indiana", "indiana", 24, "2 years"],
-  ["Iowa", "iowa", 36, "3 years"],
-  ["Kansas", "kansas", 18, "2 years"],
-  ["Kentucky", "kentucky", 24, "2 years"],
-  ["Louisiana", "louisiana", 24, "2 years"],
-  ["Maine", "maine", 24, "2 years"],
-  ["Maryland", "maryland", 24, "2 years"],
-  ["Massachusetts", "massachusetts", 45, "3 years"],
-  ["Michigan", "michigan", 24, "2 years"],
-  ["Minnesota", "minnesota", 24, "2 years"],
-  ["Mississippi", "mississippi", 24, "2 years"],
-  ["Missouri", "missouri", 24, "2 years"],
-  ["Montana", "montana", 24, "2 years"],
-  ["Nebraska", "nebraska", 24, "2 years"],
-  ["Nevada", "nevada", 24, "2 years"],
-  ["New Hampshire", "new-hampshire", 24, "2 years"],
-  ["New Jersey", "new-jersey", 24, "2 years"],
-  ["New Mexico", "new-mexico", 24, "2 years"],
-  ["North Carolina", "north-carolina", 24, "2 years"],
-  ["North Dakota", "north-dakota", 24, "2 years"],
-  ["Ohio", "ohio", 24, "2 years"],
-  ["Oklahoma", "oklahoma", 24, "2 years"],
-  ["Oregon", "oregon", 24, "2 years"],
-  ["Pennsylvania", "pennsylvania", 24, "2 years"],
-  ["Rhode Island", "rhode-island", 24, "2 years"],
-  ["South Carolina", "south-carolina", 24, "2 years"],
-  ["South Dakota", "south-dakota", 10, "1 year"],
-  ["Tennessee", "tennessee", 24, "2 years"],
-  ["Texas", "texas", 24, "2 years"],
-  ["Utah", "utah", 24, "2 years"],
-  ["Vermont", "vermont", 24, "2 years"],
-  ["Virginia", "virginia", 24, "2 years"],
-  ["Washington", "washington", 24, "2 years"],
-  ["West Virginia", "west-virginia", 24, "2 years"],
-  ["Wisconsin", "wisconsin", 24, "2 years"],
-  ["Wyoming", "wyoming", 24, "2 years"],
-];
+// DERIVED from states.ts at build time — never hand-maintain this table. A
+// hardcoded copy lived here and silently drifted from the source of truth it
+// claimed to come from (it still said Virginia 24 after states.ts was corrected
+// to 16 per Va. Code § 38.2-1866(C)). New York excluded per site policy.
+const statesCEData: [string, string, number, string][] = Object.values(STATES)
+  .filter((s) => s.slug !== "new-york")
+  .sort((a, b) => a.name.localeCompare(b.name))
+  .map((s) => [s.name, s.slug, s.ce.totalHours, s.ce.renewalPeriod]);
 
 const renewalSteps = [
   {
@@ -113,12 +104,12 @@ const renewalSteps = [
   {
     step: "2",
     title: "We Report to Your DOI",
-    body: "Once you pass each course, JustInsurance automatically transmits your completion record to your state's Department of Insurance. Same-day reporting means your hours are on file the day you finish.",
+    body: "Once you pass each course, JustInsurance typically transmits your completion record to your state's Department of Insurance the same business day. Most states then post the credit to your license record within a few business days.",
   },
   {
     step: "3",
     title: "Confirm with Your State",
-    body: "Log in to your state's producer licensing portal to verify your CE hours are on file. Most states display completion records within 1 business day. Then submit your renewal application and pay the renewal fee.",
+    body: "Log in to your state's producer licensing portal to verify your CE hours are on file. Most states display completion records within a few business days. Then submit your renewal application and pay the renewal fee.",
   },
   {
     step: "4",
@@ -265,13 +256,13 @@ export default function LicenseRenewalGuidePage() {
               </h2>
               <div className="space-y-4 text-gray-600 text-sm leading-relaxed">
                 <p>
-                  When you complete a CE course through JustInsurance, we transmit your completion record to your state&apos;s Department of Insurance on the same business day — not in 5–7 business days, not after a manual review queue.
+                  When you complete a CE course through JustInsurance, we typically transmit your completion record to your state&apos;s Department of Insurance on the same business day you finish — not after a manual review queue. Most states then post the credit to your license record within a few business days.
                 </p>
                 <p>
                   This matters because your CE hours must be on file before your state will process your renewal. A provider that takes days to report can leave you in a limbo period where your license appears expired even though you finished your CE on time.
                 </p>
                 <p>
-                  With same-day reporting, you can complete your CE, confirm the hours posted to your state portal, and submit your renewal application — all within a single day if needed.
+                  With same-day reporting in most cases, your completion reaches the state right away — it&apos;s still worth checking your state portal in the days that follow to confirm the credit has posted before you submit your renewal application.
                 </p>
               </div>
             </div>
@@ -282,9 +273,9 @@ export default function LicenseRenewalGuidePage() {
               <p className="text-gold font-extrabold leading-none mb-3" style={{ fontSize: "3.5rem" }}>
                 Same Day
               </p>
-              <p className="text-white font-semibold">CE Credits Posted to Your State</p>
+              <p className="text-white font-semibold">CE Completion Reported to Your State</p>
               <p className="text-blue-300 text-sm mt-2">
-                Available nationwide we serve. No manual submissions required.
+                Available in the states we serve. No manual submissions required.
               </p>
             </div>
           </div>
@@ -342,8 +333,19 @@ export default function LicenseRenewalGuidePage() {
               </tbody>
             </table>
           </div>
-          <p className="text-xs text-gray-400 text-center mt-4">
-            New York not shown — JustInsurance does not currently serve NY. Data verified March 2026.
+          {/* Was: "JustInsurance does not currently serve NY" — too broad, and
+              contradicted by the New York practice-exam page we actually sell.
+              The accurate, states.ts-backed statement is about CE approval. */}
+          <p className="text-xs text-gray-500 text-center mt-4">
+            New York not shown.{" "}
+            {ALL_PENDING_STATES.length > 0 && (
+              <>
+                Our CE provider approval is still pending in{" "}
+                {formatStateNames(ALL_PENDING_STATES)}, so JustInsurance CE is not yet available{" "}
+                {ALL_PENDING_STATES.length === 1 ? "there" : "in those states"}.{" "}
+              </>
+            )}
+            State requirement data verified March 2026.
           </p>
         </div>
       </section>
@@ -404,8 +406,8 @@ export default function LicenseRenewalGuidePage() {
             </p>
             <p>
               <strong className="text-navy">No grace period, immediate lapse:</strong>{" "}
-              California, Illinois (for CE completion), New York, and Wisconsin
-              lapse immediately on expiration. Oklahoma, North Carolina, and a
+              California, Illinois (for CE completion), and New York lapse
+              immediately on expiration. Oklahoma, North Carolina, and a
               handful of other states have strict non-grace structures.
             </p>
             <p>
@@ -416,11 +418,11 @@ export default function LicenseRenewalGuidePage() {
               allow time for same-day reporting and state processing. For the
               exact rules in your state, see the {`"`}What Happens If You Miss Your CE
               Deadline?{`"`} section on your state&apos;s CE page (e.g.,{" "}
-              <Link href="/florida/continuing-education" className="text-gold-dark font-semibold hover:underline">Florida</Link>
+              <Link href="/florida/continuing-education" className="text-gold-deep font-semibold hover:underline">Florida</Link>
               ,{" "}
-              <Link href="/texas/continuing-education" className="text-gold-dark font-semibold hover:underline">Texas</Link>
+              <Link href="/texas/continuing-education" className="text-gold-deep font-semibold hover:underline">Texas</Link>
               ,{" "}
-              <Link href="/california/continuing-education" className="text-gold-dark font-semibold hover:underline">California</Link>
+              <Link href="/california/continuing-education" className="text-gold-deep font-semibold hover:underline">California</Link>
               ).
             </p>
             <p>
@@ -433,9 +435,9 @@ export default function LicenseRenewalGuidePage() {
             <p className="pt-2">
               Our support team can help navigate state-specific reinstatement
               rules —{" "}
-              <Link href="/contact" className="text-gold-dark font-semibold hover:underline">contact us</Link>
+              <Link href="/contact" className="text-gold-deep font-semibold hover:underline">contact us</Link>
               {" "}or call{" "}
-              <a href="tel:7542239744" className="text-gold-dark font-semibold hover:underline">754-223-9744</a>
+              <a href="tel:7542239744" className="text-gold-deep font-semibold hover:underline">754-223-9744</a>
               .
             </p>
           </div>
@@ -448,7 +450,7 @@ export default function LicenseRenewalGuidePage() {
       {/* CTA */}
       <CTABanner
         title="Renew Your License Today"
-        subtitle="Complete your CE hours online with JustInsurance. $39 packages, same-day DOI reporting, available nationwide."
+        subtitle="Complete your CE hours online with JustInsurance. $39 packages, typically same-day DOI reporting, available nationwide."
         ctaText="Find CE Courses"
         ctaHref="/continuing-education"
       />

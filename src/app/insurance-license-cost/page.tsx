@@ -114,7 +114,6 @@ const stateFeeTable: { state: string; slug: string; examFee: string; appFee: str
   { state: "Michigan", slug: "michigan", examFee: "$41", appFee: "$10" },
   { state: "Missouri", slug: "missouri", examFee: "$29–$35", appFee: "$100" },
   { state: "Nevada", slug: "nevada", examFee: "$37", appFee: "$185" },
-  { state: "New York", slug: "new-york", examFee: "$33", appFee: "$80" },
   { state: "North Carolina", slug: "north-carolina", examFee: "$45", appFee: "$82" },
   { state: "Ohio", slug: "ohio", examFee: "$49", appFee: "$10" },
   { state: "Pennsylvania", slug: "pennsylvania", examFee: "$43", appFee: "$55" },
@@ -142,18 +141,23 @@ const hiddenCosts = [
   },
   {
     title: "CE Course Costs at Renewal",
-    body: "Every renewal cycle (usually 2 years) you will need to complete continuing education. CE costs range from $39 for a JustInsurance package to well over $150 at some legacy providers. Factor this into the lifetime cost of holding a license.",
+    // Removed: "to well over $150 at some legacy providers" — an unsubstantiated
+    // competitor price comparison (Lanham/§43(a) exposure). All competitor
+    // comparisons were purged sitewide; this one survived. Our own CE pricing is
+    // stated instead, and it is not flat $39 — ce.packagePrice in states.ts runs
+    // $39–$111 depending on the state's required hours.
+    body: "Every renewal cycle (usually 2 years) you will need to complete continuing education. JustInsurance CE packages start at $39, with the exact price depending on how many hours your state requires. Factor this into the lifetime cost of holding a license.",
   },
 ];
 
 const minimizeCost = [
   {
     title: "Pass on the first attempt",
-    body: "The single biggest variable in total licensing cost is how many times you sit for the exam. JustInsurance students pass at a 93% rate among those who met our recommended study metrics (recommended study hours plus 80%+ on the practice exam three times in a row). Compare that to the national first-attempt pass rate of roughly 55%. Every retake costs the full exam fee.",
+    body: "The single biggest variable in total licensing cost is how many times you sit for the exam. JustInsurance students pass at a 93% rate among those who met our recommended study metrics (recommended study hours plus 80%+ on the practice exam three times in a row). Every retake costs the full exam fee.",
   },
   {
     title: "Pick a fixed-price course",
-    body: "JustInsurance charges a flat $199 for prelicensing regardless of state. Several competitors use an upcharge model where the advertised price only covers the video content and you pay extra for practice questions, flashcards, and instructor access. Read the /compare page for the full breakdown.",
+    body: "JustInsurance charges a flat $199 for prelicensing regardless of state — practice questions, flashcards, and instructor access are all included, with no upcharges or add-on tiers. Always confirm exactly what a course price includes before you buy, since some pricing models cover only the video content.",
   },
   {
     title: "Use a state-specific practice exam",
@@ -386,7 +390,7 @@ export default function InsuranceLicenseCostPage() {
             <div className="bg-white rounded-xl p-7 shadow-sm border border-gray-100">
               <h3 className="font-bold text-navy text-lg mb-3">1. Prelicensing Course — $150 to $400</h3>
               <p className="text-gray-700 leading-relaxed text-sm mb-3">
-                Most states require a state-approved prelicensing course before you can sit for the exam. Course prices vary widely. Per public product pages from XCEL Solutions, Kaplan, and ExamFX (verified April 2026), each provider uses tiered or modular pricing where the advertised base price typically covers core video content, with practice questions, instructor access, and other study tools available across higher tiers or as add-ons. Verify current pricing at xcelsolutions.com, kaplanfinancial.com, and examfx.com before purchase. <Link href="/prelicensing" className="text-navy underline underline-offset-2 hover:text-gold">JustInsurance charges a flat $199</Link> per line of authority, all-inclusive — every practice question, every flashcard, every instructor session is in the base price.
+                Most states require a state-approved prelicensing course before you can sit for the exam, and course prices vary widely — many providers use tiered or add-on pricing where the advertised base price covers core content and additional study tools cost extra. <Link href="/prelicensing" className="text-navy underline underline-offset-2 hover:text-gold">JustInsurance charges a flat $199</Link> per line of authority, all-inclusive — every practice question, every flashcard, every instructor session is in the base price.
               </p>
               <p className="text-gray-700 leading-relaxed text-sm">
                 This is the one fee you actually control. Picking a course that is aligned to your state&apos;s exam content outline is the difference between passing on the first try and paying $98 per retake in a high-fee state.
@@ -516,49 +520,26 @@ export default function InsuranceLicenseCostPage() {
         </div>
       </section>
 
-      {/* Competitor Pricing Comparison */}
+      {/* JustInsurance Pricing */}
       <section className="py-16 px-4" style={{ backgroundColor: "#F5F7FA" }}>
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-            How JustInsurance Pricing Compares
+            Simple, All-Inclusive Pricing
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-            The advertised price is not always the all-in price. Here is how the three major providers actually charge.
+            One flat price per line of authority — no tiers, no add-ons, no surprises.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-            <div className="bg-white rounded-xl p-6 border-2 border-gold shadow-md">
+          <div className="max-w-md mx-auto">
+            <div className="bg-white rounded-xl p-6 border-2 border-gold shadow-md text-center">
               <h3 className="font-bold text-navy text-lg mb-2">JustInsurance</h3>
-              <p className="text-2xl font-extrabold text-gold mb-3">$199 flat</p>
+              <p className="text-3xl font-extrabold text-gold mb-3">$199 flat</p>
               <p className="text-gray-700 text-sm leading-relaxed">
-                One price per line of authority. Includes all practice questions, flashcards, instructor Q&amp;A, and pass guarantee access. No add-on tiers. Same price in every state.
-              </p>
-            </div>
-            <div className="bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
-              <h3 className="font-bold text-navy text-lg mb-2">XCEL Solutions</h3>
-              <p className="text-2xl font-extrabold text-gray-500 mb-3">Tiered</p>
-              <p className="text-gray-700 text-sm leading-relaxed">
-                Per xcelsolutions.com (verified April 2026): tiered pricing model where lower tiers may have shorter access windows and fewer included features than upper tiers. Verify current package terms at xcelsolutions.com before purchase.
-              </p>
-            </div>
-            <div className="bg-white rounded-xl p-6 border border-gray-200 shadow-sm">
-              <h3 className="font-bold text-navy text-lg mb-2">ExamFX</h3>
-              <p className="text-2xl font-extrabold text-gray-500 mb-3">Add-on model</p>
-              <p className="text-gray-700 text-sm leading-relaxed">
-                Per examfx.com (verified April 2026): base course with optional add-ons for additional study tools and pass protection. Pass guarantee window is time-limited — verify current eligibility window at <a href="https://www.examfx.com/pass-guarantee" target="_blank" rel="noopener noreferrer" className="underline">examfx.com/pass-guarantee</a> before purchase.
+                One price per line of authority — the same in every state. Includes all practice questions, flashcards, instructor Q&amp;A, and pass guarantee access (where available). No add-on tiers, no hidden fees.
               </p>
             </div>
           </div>
-          <p className="text-xs text-gray-500 text-center mt-6 max-w-3xl mx-auto leading-relaxed">
-            Competitor claims reflect publicly available product pages as of April 2026. Terms,
-            pricing, and feature inclusions can change without notice — always verify current
-            policies directly at the competitor&apos;s domain before purchase.
-          </p>
           <p className="text-center mt-8 text-sm text-gray-600">
-            Full feature-by-feature comparison:{" "}
-            <Link href="/compare" className="text-navy underline underline-offset-2 hover:text-gold font-semibold">
-              /compare
-            </Link>
-            {" "}·{" "}
+            See what students say:{" "}
             <Link href="/reviews" className="text-navy underline underline-offset-2 hover:text-gold font-semibold">
               Read student reviews
             </Link>

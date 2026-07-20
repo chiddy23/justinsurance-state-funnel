@@ -10,15 +10,19 @@ import { SchemaMarkup, generateArticleSchemaWithReviewer, generateBreadcrumbSche
 import Link from "next/link";
 import { STATES } from "@/lib/states";
 
+// Identical filter to /practice-exam's STATES_WITH_EXAMS, so both pages render
+// the same list AND quote the same count. The count is derived, never
+// hardcoded: this page previously said "49 states" while rendering 48 (every
+// state except Mississippi and Nevada, which carry no practiceExams data).
 const ALL_STATES_FOR_EXAM_GUIDE = Object.values(STATES)
   .filter((s) => s.practiceExams)
   .map((s) => ({ slug: s.slug, name: s.name }))
   .sort((a, b) => a.name.localeCompare(b.name));
 
 export const metadata: Metadata = {
-  title: { absolute: "How to Pass the Insurance License Exam — 93% Pass Rate" },
+  title: { absolute: "How to Pass the Insurance License Exam — 93% Completer Pass Rate" },
   description:
-    "Pass your insurance exam on the first try. 100-150 questions, 70% to pass, instant results. JustInsurance students pass at 93% vs. a 55% national average.",
+    "Pass your insurance exam on the first try. 100-150 questions, 70% to pass, instant results. JustInsurance students pass at a 93% first-attempt rate among students who complete the course.",
   alternates: { canonical: "https://justinsuranceco.com/insurance-exam-guide" },
 };
 
@@ -195,7 +199,7 @@ export default function InsuranceExamGuidePage() {
         <div className="max-w-4xl mx-auto">
           <div className="bg-blue-50 border-l-4 border-navy rounded-r-lg p-5">
             <p className="text-gray-800 leading-relaxed">
-              <strong>Quick answer:</strong> The insurance licensing exam is a proctored, multiple-choice test — typically 100–150 questions with a 70% passing score and a 2–3 hour time limit. Results are delivered on-screen immediately after you finish. JustInsurance students pass at a <strong>93% rate</strong>, nearly double the national average of ~55%, because our courses align precisely with your state&apos;s exam content outline. State-specific practice exams ($59) let you simulate real test-day conditions before you sit for the real thing.
+              <strong>Quick answer:</strong> The insurance licensing exam is a proctored, multiple-choice test — typically 100–150 questions with a 70% passing score and a 2–3 hour time limit. Results are delivered on-screen immediately after you finish. JustInsurance students pass at a <strong>93% rate</strong> (among students who complete the course and recommended practice) because our courses align precisely with your state&apos;s exam content outline. State-specific practice exams ($59) let you simulate real test-day conditions before you sit for the real thing.
             </p>
           </div>
         </div>
@@ -346,7 +350,7 @@ export default function InsuranceExamGuidePage() {
               <strong className="text-navy">Review your score report.</strong> Your exam results include a breakdown by topic area. Use this to identify exactly where to focus your review — not just study everything again from scratch.
             </p>
             <p>
-              <strong className="text-navy">Use our pass guarantee.</strong> JustInsurance students who meet the recommended study hours, score 80%+ on the practice exam three times in a row, and sit for their first-time state exam within 30 days of first enrollment are eligible for a full refund of their course fee if they don&apos;t pass. We stand behind our content.
+              <strong className="text-navy">Use our pass guarantee.</strong> JustInsurance students who meet the recommended study hours, score 80%+ on the practice exam three times in a row, and sit for their first-time state exam within 30 days of first enrollment are eligible for a full refund of their course fee if they don&apos;t pass, in states where the guarantee is offered. The pass guarantee is not available in every state and is void where prohibited, including Ohio, Illinois, and West Virginia. We stand behind our content.
             </p>
             <p>
               <strong className="text-navy">Most students pass on the second attempt</strong> when they take time to address the weak areas identified in their score report. The exam is passable — you just need the right preparation.
@@ -362,22 +366,14 @@ export default function InsuranceExamGuidePage() {
             Our Pass Rate Speaks for Itself
           </h2>
           <p className="text-gray-600 mb-8 max-w-xl mx-auto leading-relaxed">
-            JustInsurance students pass the insurance licensing exam at a 93% rate — nearly double the national average of ~55%. That gap exists because our courses are purpose-built to align with your state&apos;s exact exam content outline.
+            JustInsurance students pass the insurance licensing exam at a 93% rate among students who complete the course and recommended practice. That result reflects the fact that our courses are purpose-built to align with your state&apos;s exact exam content outline.
           </p>
-          <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-8">
+          <div className="flex justify-center items-center mb-8">
             <div className="bg-navy rounded-2xl px-12 py-8 text-center shadow-lg">
               <p className="text-gold font-extrabold leading-none mb-2" style={{ fontSize: "4rem" }}>
                 93%
               </p>
-              <p className="text-white font-semibold text-sm">JustInsurance Pass Rate</p>
-            </div>
-            <div className="text-navy font-bold text-3xl hidden sm:block">vs</div>
-            <div className="text-navy font-bold text-3xl sm:hidden">vs</div>
-            <div className="bg-gray-100 rounded-2xl px-12 py-8 text-center shadow-md">
-              <p className="text-gray-400 font-extrabold leading-none mb-2" style={{ fontSize: "4rem" }}>
-                ~55%
-              </p>
-              <p className="text-gray-600 font-semibold text-sm">National Average</p>
+              <p className="text-white font-semibold text-sm">JustInsurance First-Attempt Pass Rate</p>
             </div>
           </div>
           <Link
@@ -403,8 +399,8 @@ export default function InsuranceExamGuidePage() {
             </h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Full-length practice exams that mirror the real state exam. Detailed answer
-              explanations, unlimited retakes. Available for 49 states in Life, Health, and
-              Life &amp; Health. Pick your state to get started.
+              explanations, unlimited retakes. Available for {ALL_STATES_FOR_EXAM_GUIDE.length}{" "}
+              states in Life, Health, and Life &amp; Health. Pick your state to get started.
             </p>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
@@ -412,7 +408,7 @@ export default function InsuranceExamGuidePage() {
               <Link
                 key={s.slug}
                 href={`/${s.slug}/practice-exam`}
-                className="bg-white border border-gray-200 rounded-lg px-3 py-2 text-sm font-medium text-navy hover:border-gold hover:text-gold-dark transition-colors text-center"
+                className="bg-white border border-gray-200 rounded-lg px-3 py-2 text-sm font-medium text-navy hover:border-gold hover:text-gold-deep transition-colors text-center"
               >
                 {s.name}
               </Link>

@@ -140,7 +140,7 @@ const reciprocityData: { name: string; category: "Full" | "Partial" | "Extra"; n
   { name: "Missouri", category: "Full", note: "Standard NIPR application, reciprocal on all major LOAs" },
   { name: "Virginia", category: "Full", note: "Reciprocal under NAIC framework" },
   { name: "Illinois", category: "Full", note: "Reciprocal; non-residents file through NIPR" },
-  { name: "California", category: "Extra", note: "May require supplemental Form 441-9 for LOAs beyond the basics; longer background review" },
+  { name: "California", category: "Extra", note: "May require supplemental forms for LOAs beyond the basics and longer background review — verify current form requirements with the CA DOI" },
   { name: "Florida", category: "Extra", note: "Separate state-specific CE rules still apply for certain LOAs; longer processing" },
   { name: "Hawaii", category: "Extra", note: "Higher fees; periodic supplemental documentation requests" },
   { name: "New York", category: "Extra", note: "Reciprocal for standard LOAs; unique carveouts for surplus lines and public adjuster lines" },
@@ -153,7 +153,7 @@ const pitfalls = [
   },
   {
     title: "Confusing Reporting Rules for CE",
-    body: "Most agents think they owe CE to every state they hold a license in. In reality, reciprocity means your home-state CE covers your non-resident obligations in 90%+ of situations. The exceptions are narrow — Florida's LAH update and a few annuity-specific rules — but agents frequently over-buy CE out of caution.",
+    body: "Most agents think they owe CE to every state they hold a license in. In reality, reciprocity means your home-state CE covers your non-resident obligations in most states. The exceptions are narrow — Florida's LAH update and a few annuity-specific rules are the most commonly cited — but requirements can change, so verify current rules with each state's DOI before assuming you're covered. Agents frequently over-buy CE out of caution.",
   },
   {
     title: "Forgetting Appointment Transitions",

@@ -10,7 +10,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Health Insurance License Course | Online | JustInsurance";
 const PAGE_DESC =
-  "Get your health insurance license online. $199 state-approved prelicensing with pass guarantee. Self-paced courses available nationwide. Enroll today.";
+  "Get your health insurance license online. $199 state-approved prelicensing with pass guarantee in eligible states. Self-paced courses available nationwide. Enroll today.";
 const CANONICAL = "https://justinsuranceco.com/health-insurance-license";
 
 export const metadata: Metadata = {
@@ -114,7 +114,7 @@ export default function HealthInsuranceLicensePage() {
             Health Insurance License Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Get your health insurance license online for $199. State-approved courses covering major medical, disability, LTC, and Medicare. Pass guarantee included.
+            Get your health insurance license online for $199. State-approved courses covering major medical, disability, LTC, and Medicare. Pass guarantee included (available in most states).
           </p>
           <a
             href="#states"
@@ -122,6 +122,13 @@ export default function HealthInsuranceLicensePage() {
           >
             Find My State
           </a>
+          <p className="text-blue-200 text-xs mt-6 max-w-xl mx-auto leading-relaxed">
+            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.{" "}
+            <Link href="/pass-rates" className="underline hover:text-white">
+              Terms
+            </Link>
+            : complete the recommended hours, score 80%+ on the practice exam three times, and sit for your state exam within 30 days of enrolling.
+          </p>
         </div>
       </section>
 
@@ -142,7 +149,7 @@ export default function HealthInsuranceLicensePage() {
               Long-term care insurance and Medicare products represent two of the fastest-growing segments in the industry. More than 10,000 Americans turn 65 every single day, and virtually all of them need help navigating Medicare Supplement, Medicare Advantage, and Part D prescription drug plans. Health-licensed agents who specialize in the senior market are among the most in-demand in the country.
             </p>
             <p>
-              To sell any of these products, you must hold an active health insurance license in each state where your clients reside. The licensing process starts with completing a state-approved prelicensing course, passing the state licensing exam, and submitting a license application to the Department of Insurance. JustInsurance provides the online prelicensing education — $199 flat, self-paced, and backed by our pass guarantee. Select your state below to get started.
+              To sell any of these products, you must hold an active health insurance license in each state where your clients reside. The licensing process starts with completing a state-approved prelicensing course, passing the state licensing exam, and submitting a license application to the Department of Insurance. JustInsurance provides the online prelicensing education — $199 flat, self-paced, and backed by our pass guarantee, available in most states. Select your state below to get started.
             </p>
           </div>
         </div>
@@ -160,6 +167,11 @@ export default function HealthInsuranceLicensePage() {
                 <p className="text-gold font-extrabold text-3xl md:text-4xl mb-1">{stat.value}</p>
                 <p className="text-navy font-bold text-sm mb-1">{stat.label}</p>
                 <p className="text-gray-500 text-xs leading-snug">{stat.sub}</p>
+                {stat.label === "First-attempt pass rate" && (
+                  <Link href="/pass-rates" className="block text-[11px] text-navy underline hover:text-gold-deep mt-1">
+                    See methodology →
+                  </Link>
+                )}
               </div>
             ))}
           </div>
@@ -182,7 +194,7 @@ export default function HealthInsuranceLicensePage() {
                 href={`/${state.slug}/prelicensing/health`}
                 className="group flex items-center gap-2 bg-gray-50 hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md border border-gray-100"
               >
-                <span className="text-xs font-bold text-gray-400 group-hover:text-blue-200 w-8 flex-shrink-0">
+                <span className="text-xs font-bold text-gray-500 group-hover:text-blue-200 w-8 flex-shrink-0">
                   {state.abbreviation}
                 </span>
                 <span className="text-sm font-medium text-navy group-hover:text-white leading-tight">

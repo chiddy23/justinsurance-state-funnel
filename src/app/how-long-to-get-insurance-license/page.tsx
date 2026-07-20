@@ -36,7 +36,7 @@ const faqs = [
   {
     question: "How fast can you get an insurance license?",
     answer:
-      "Under 2 weeks with full-time study in a real-time-issuance state like Florida, Texas, or Georgia. Book fingerprints in week 1 so the background check runs in parallel with coursework, schedule the state exam the day you finish the course, and apply through NIPR within 24 hours of passing. Real-time-issuance states post the active license number within 1 to 2 business days of a clean application.",
+      "The typical range is 2 to 6 weeks. The fastest realistic case is under 2 weeks, achievable with full-time study in a real-time-issuance state like Florida, Texas, or Georgia. To hit that pace: book fingerprints in week 1 so the background check runs in parallel with coursework, schedule the state exam the day you finish the course, and apply through NIPR within 24 hours of passing. Real-time-issuance states post the active license number within 1 to 2 business days of a clean application — but most candidates, especially those studying part-time, should expect the fuller 2-to-6-week range.",
   },
   {
     question: "How long does an insurance prelicensing course take?",

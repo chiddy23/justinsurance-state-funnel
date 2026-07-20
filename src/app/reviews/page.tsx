@@ -2,9 +2,16 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
-import { ALL_TESTIMONIALS, GOOGLE_REVIEWS, type Testimonial } from "@/lib/testimonials";
+import {
+  ALL_TESTIMONIALS,
+  GOOGLE_REVIEWS,
+  isDisplayable,
+  mentionsCompetitor,
+  type Testimonial,
+} from "@/lib/testimonials";
 import { TRUSTPILOT, TRUSTPILOT_REVIEWS } from "@/lib/trustpilot";
 import TrustpilotStars from "@/components/TrustpilotStars";
+import { getGoogleReviews } from "@/lib/google-reviews";
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 function fmtDate(iso: string): string {
@@ -12,14 +19,25 @@ function fmtDate(iso: string): string {
   return `${MONTHS[Number(m) - 1]} ${Number(d)}, ${y}`;
 }
 
-export const metadata: Metadata = {
-  title: { absolute: "JustInsurance Student Reviews & Testimonials" },
-  description:
-    "Real reviews from JustInsurance students who passed their state insurance licensing exam. 5-star Google rating, 20,000+ students licensed across 49 states.",
-  alternates: { canonical: "https://justinsuranceco.com/reviews" },
-};
+export async function generateMetadata(): Promise<Metadata> {
+  // Live Google rating so the meta description never drifts from the real number.
+  const google = await getGoogleReviews();
+  return {
+    title: { absolute: "JustInsurance Student Reviews & Testimonials" },
+    description: `Real reviews from JustInsurance students who passed their state insurance licensing exam. ${google.rating}-star Google rating, 20,000+ students trained across 49 states.`,
+    alternates: { canonical: "https://justinsuranceco.com/reviews" },
+  };
+}
 
-const REVIEWS = ALL_TESTIMONIALS;
+// Defense in depth. All three lists are already gated at their source, but
+// /reviews is the one page that reprints every review we hold — so it re-applies
+// the named-competitor gate here rather than trusting the import to have done
+// it. Republishing a third party's disparaging comparison about a named
+// competitor is republication, and carries the same Lanham exposure as saying
+// it ourselves; see COMPETITOR_NAMES in @/lib/testimonials.
+const REVIEWS = ALL_TESTIMONIALS.filter(isDisplayable);
+const GOOGLE = GOOGLE_REVIEWS.filter(isDisplayable);
+const TRUSTPILOT_DISPLAY = TRUSTPILOT_REVIEWS.filter((r) => !mentionsCompetitor(r));
 
 function sourceLabel(t: Testimonial): string {
   if (t.source === "youtube") return "via YouTube comment";
@@ -39,12 +57,12 @@ const breadcrumbSchema = generateBreadcrumbSchema([
 // Google's policy restricts Product/Organization schema with self-hosted
 // review markup (self-serving review policy). AggregateRating alone is
 // AggregateRating schema stripped until Google review count reaches 25+.
-// Visual "5.0 on Google" badges remain on-page (HTML only).
+// Visual "4.9 on Google" badges remain on-page (HTML only).
 // Re-enable Organization+AggregateRating schema here once review volume is credible.
 
 function StarRow() {
   return (
-    <div className="flex gap-0.5" aria-label="5 out of 5 stars">
+    <div className="flex gap-0.5" aria-hidden="true">
       {Array.from({ length: 5 }).map((_, i) => (
         <svg key={i} className="w-5 h-5 text-gold fill-current" viewBox="0 0 24 24">
           <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
@@ -54,7 +72,10 @@ function StarRow() {
   );
 }
 
-export default function ReviewsPage() {
+export default async function ReviewsPage() {
+  // Live Google Business Profile rating + count (auto-updates via ISR, falls
+  // back to the last-known-good 4.9/22). Single source of truth shared with TrustBar.
+  const google = await getGoogleReviews();
   return (
     <>
       <SchemaMarkup schema={breadcrumbSchema} />
@@ -75,12 +96,41 @@ export default function ReviewsPage() {
           <h1 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">
             What JustInsurance Students Say
           </h1>
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-4">
-            <StarRow />
-            <p className="text-2xl font-bold">5.0 / 5</p>
+          {/* An aggregate rating must carry its source and sample size. This
+              hero previously showed a bare "{google.rating} / 5" with no
+              attribution — which reads as an overall rating for the business
+              while actually being the higher of our two profiles (Google 4.9,
+              n=22-29) and quietly omitting the larger sample (Trustpilot 4.8,
+              n=53). Both are now shown with source and count, so nothing here
+              can be read as an unsourced sitewide average.
+              google.count is 0 when the Places API omits userRatingCount; the
+              sample is then left off rather than printed as "(0 reviews)". */}
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-x-8 gap-y-3 mb-5">
+            <div className="flex items-center gap-2.5">
+              <StarRow />
+              <p className="text-lg font-bold whitespace-nowrap">
+                {google.rating} / 5 on Google
+                {google.count > 0 && (
+                  <span className="font-normal text-blue-100">
+                    {" "}
+                    ({google.count} reviews)
+                  </span>
+                )}
+              </p>
+            </div>
+            <div className="flex items-center gap-2.5">
+              <TrustpilotStars size="w-5 h-5" />
+              <p className="text-lg font-bold whitespace-nowrap">
+                {TRUSTPILOT.score} / 5 on Trustpilot
+                <span className="font-normal text-blue-100">
+                  {" "}
+                  ({TRUSTPILOT.count} reviews)
+                </span>
+              </p>
+            </div>
           </div>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-2xl mx-auto">
-            20,000+ students licensed nationwide. Real feedback from
+            20,000+ students trained nationwide. Real feedback from
             students who finished prelicensing, passed their state exam, and built
             an insurance career.
           </p>
@@ -97,7 +147,7 @@ export default function ReviewsPage() {
             className="block hover:opacity-80 transition-opacity"
           >
             <p className="text-2xl md:text-3xl font-bold text-navy flex items-center justify-center gap-1.5">
-              5.0
+              {google.rating}
               <svg className="w-5 h-5 inline-block" viewBox="0 0 24 24" aria-hidden="true">
                 <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92a5.06 5.06 0 01-2.2 3.32v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.1z" fill="#4285F4"/>
                 <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
@@ -125,7 +175,7 @@ export default function ReviewsPage() {
           </div>
           <div>
             <p className="text-2xl md:text-3xl font-bold text-navy">20,000+</p>
-            <p className="text-xs text-gray-700">Students licensed</p>
+            <p className="text-xs text-gray-700">Students trained</p>
           </div>
           <div>
             <p className="text-2xl md:text-3xl font-bold text-navy">93%</p>
@@ -149,10 +199,10 @@ export default function ReviewsPage() {
               <path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" fill="#EA4335"/>
             </svg>
             <h2 className="text-xl md:text-2xl font-bold text-navy">Google Reviews</h2>
-            <span className="text-sm text-gray-500 ml-1">5.0 ★ · {GOOGLE_REVIEWS.length} reviews</span>
+            <span className="text-sm text-gray-500 ml-1">{google.rating} ★ · {google.count} reviews</span>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-            {GOOGLE_REVIEWS.map((r) => (
+            {GOOGLE.map((r) => (
               <article key={r.name} className="bg-white rounded-xl border border-gray-200 shadow-sm p-5">
                 <div className="flex items-center gap-1 mb-2">
                   {Array.from({ length: 5 }).map((_, i) => (
@@ -212,14 +262,14 @@ export default function ReviewsPage() {
             </p>
           </div>
           <div className="columns-1 md:columns-2 lg:columns-3 gap-4">
-            {TRUSTPILOT_REVIEWS.map((r) => (
+            {TRUSTPILOT_DISPLAY.map((r) => (
               <article
                 key={r.name + r.date + r.text.slice(0, 16)}
                 className="break-inside-avoid mb-4 bg-white rounded-xl border border-gray-200 shadow-sm p-5"
               >
                 <div className="flex items-center justify-between mb-2">
                   <TrustpilotStars size="w-4 h-4" count={r.stars} />
-                  <span className="text-[11px] text-gray-400">{fmtDate(r.date)}</span>
+                  <span className="text-[11px] text-gray-500">{fmtDate(r.date)}</span>
                 </div>
                 <p className="text-gray-700 text-sm leading-relaxed mb-4">
                   &ldquo;{r.text}&rdquo;
@@ -304,7 +354,7 @@ export default function ReviewsPage() {
                           {" · "}
                           <Link
                             href={`/${r.state.toLowerCase().replace(/\s+/g, "-")}`}
-                            className="hover:text-gold-dark hover:underline"
+                            className="hover:text-gold-deep hover:underline"
                           >
                             {r.state}
                           </Link>
@@ -319,24 +369,26 @@ export default function ReviewsPage() {
         </div>
       </section>
 
-      {/* Competitor comparison cross-link */}
+      {/* Course cross-link */}
       <section className="bg-white py-10 px-4 border-t border-gray-100">
         <div className="max-w-3xl mx-auto text-center">
-          <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-2">
-            Still Comparing?
+          <p className="text-gold-deep font-semibold uppercase tracking-wide text-xs mb-2">
+            Still Deciding?
           </p>
           <h2 className="text-xl md:text-2xl font-bold text-navy mb-3">
-            See Why Students Chose JustInsurance Over XCEL and ExamFX
+            See Everything Included in the $199 Course
           </h2>
           <p className="text-gray-600 mb-5 max-w-2xl mx-auto text-sm">
-            Side-by-side comparison of the three major prelicensing providers —
-            18 feature points, real pricing, and full guarantee terms.
+            One all-inclusive price — 100+ videos, unlimited adaptive practice
+            exams, 5× weekly live instructor sessions, flashcards, and a pass
+            guarantee in eligible states (not available in OH, IL, or WV; terms
+            apply). No tiers, no upgrades at checkout.
           </p>
           <Link
-            href="/compare"
+            href="/prelicensing"
             className="inline-block bg-navy hover:bg-navy-light text-white font-bold py-2.5 px-6 rounded-lg transition-colors text-sm"
           >
-            Compare Providers →
+            Explore the Course →
           </Link>
         </div>
       </section>
@@ -348,16 +400,19 @@ export default function ReviewsPage() {
             About These Reviews
           </h2>
           <p className="text-gray-600 leading-relaxed text-sm">
-            Reviews shown above are real student feedback collected through course
-            completion surveys and follow-up communication. Initials are used in
-            place of full names to protect student privacy. Our 5-star rating
-            reflects aggregate satisfaction across the 20,000+ students who have
-            completed JustInsurance prelicensing or CE courses since 2018. For our
-            published pass-rate methodology, see{" "}
-            <Link href="/pass-rates" className="text-gold-dark underline hover:text-gold font-semibold">
+            Reviews shown above are real, unedited student feedback published by
+            students on YouTube, Google, and Trustpilot; each is reproduced from
+            its public source. Initials are used in place of full names to
+            protect student privacy. Star ratings shown are the ratings on our
+            Google and Trustpilot profiles as of the date indicated and reflect
+            only the students who chose to leave a review on those platforms.
+            For our published pass-rate methodology, see{" "}
+            <Link href="/pass-rates" className="text-gold-deep underline hover:text-gold font-semibold">
               /pass-rates
             </Link>
-            .
+            . Testimonials reflect individual experiences; individual results vary and
+            are not a guarantee of similar outcomes. Students are not paid or given any
+            discount, gift, or other compensation in exchange for leaving a review.
           </p>
         </div>
       </section>
@@ -369,8 +424,8 @@ export default function ReviewsPage() {
             Ready to Join Them?
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6 max-w-2xl mx-auto">
-            State-approved prelicensing nationwide. $199 all-inclusive.
-            Pass guarantee backed by published methodology.
+            State-approved prelicensing across the country. $199 all-inclusive.
+            Pass guarantee in eligible states, backed by published methodology.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link
@@ -380,10 +435,10 @@ export default function ReviewsPage() {
               Find Your State
             </Link>
             <Link
-              href="/compare"
+              href="/prelicensing"
               className="inline-block bg-white/10 hover:bg-white/20 border border-white/30 text-white font-semibold py-3 px-8 rounded-lg transition-colors"
             >
-              Compare Providers
+              Explore Courses
             </Link>
           </div>
         </div>

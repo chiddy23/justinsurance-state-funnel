@@ -10,7 +10,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Life Insurance License Course | Online | JustInsurance";
 const PAGE_DESC =
-  "Get your life insurance license online. $199 state-approved prelicensing with pass guarantee. Self-paced courses available nationwide. Enroll today.";
+  "Get your life insurance license online. $199 state-approved prelicensing with pass guarantee in eligible states. Self-paced courses available nationwide. Enroll today.";
 const CANONICAL = "https://justinsuranceco.com/life-insurance-license";
 
 export const metadata: Metadata = {
@@ -46,7 +46,7 @@ const faqs = [
   {
     question: "How much can I earn selling life insurance?",
     answer:
-      "Life insurance agents are among the highest-earning professionals in financial services. First-year agents typically earn between $40,000 and $70,000 in commission income, while experienced agents and top producers regularly exceed $100,000 to $250,000 per year. Income scales significantly with your renewal book — clients who keep their policies pay you renewals year after year.",
+      "Life insurance agents are among the highest-earning professionals in financial services. First-year agents typically earn between $40,000 and $70,000 in commission income, while experienced agents and top producers regularly exceed $100,000 to $250,000 per year. Income scales significantly with your renewal book — clients who keep their policies pay you renewals year after year. Income figures are illustrative and drawn from public labor-market data (e.g., U.S. Bureau of Labor Statistics); they are not a guarantee or representation of earnings, and individual results vary.",
   },
   {
     question: "Is a life license required to sell annuities?",
@@ -114,7 +114,7 @@ export default function LifeInsuranceLicensePage() {
             Life Insurance License Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Earn your life insurance license online for $199. State-approved courses covering term, whole life, universal life, and annuities. Pass guarantee included.
+            Earn your life insurance license online for $199. State-approved courses covering term, whole life, universal life, and annuities. Pass guarantee included (available in most states).
           </p>
           <a
             href="#states"
@@ -122,6 +122,13 @@ export default function LifeInsuranceLicensePage() {
           >
             Find My State
           </a>
+          <p className="text-blue-200 text-xs mt-6 max-w-xl mx-auto leading-relaxed">
+            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.{" "}
+            <Link href="/pass-rates" className="underline hover:text-white">
+              Terms
+            </Link>
+            : complete the recommended hours, score 80%+ on the practice exam three times, and sit for your state exam within 30 days of enrolling.
+          </p>
         </div>
       </section>
 
@@ -160,9 +167,17 @@ export default function LifeInsuranceLicensePage() {
                 <p className="text-gold font-extrabold text-3xl md:text-4xl mb-1">{stat.value}</p>
                 <p className="text-navy font-bold text-sm mb-1">{stat.label}</p>
                 <p className="text-gray-500 text-xs leading-snug">{stat.sub}</p>
+                {stat.label === "First-attempt pass rate" && (
+                  <Link href="/pass-rates" className="block text-[11px] text-navy underline hover:text-gold-deep mt-1">
+                    See methodology →
+                  </Link>
+                )}
               </div>
             ))}
           </div>
+          <p className="text-center text-xs text-gray-500 mt-6 max-w-xl mx-auto">
+            Income figures are illustrative and drawn from public labor-market data (e.g., U.S. Bureau of Labor Statistics); they are not a guarantee or representation of earnings, and individual results vary.
+          </p>
         </div>
       </section>
 
@@ -182,7 +197,7 @@ export default function LifeInsuranceLicensePage() {
                 href={`/${state.slug}/prelicensing/life`}
                 className="group flex items-center gap-2 bg-gray-50 hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md border border-gray-100"
               >
-                <span className="text-xs font-bold text-gray-400 group-hover:text-blue-200 w-8 flex-shrink-0">
+                <span className="text-xs font-bold text-gray-500 group-hover:text-blue-200 w-8 flex-shrink-0">
                   {state.abbreviation}
                 </span>
                 <span className="text-sm font-medium text-navy group-hover:text-white leading-tight">

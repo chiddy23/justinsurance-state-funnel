@@ -52,7 +52,7 @@ const faqs = [
   {
     question: "Can I get a refund if I don't pass?",
     answer:
-      "The standalone practice exam is a study tool and is not covered by the prelicensing course pass guarantee. However, our full prelicensing course — which includes a practice exam — is backed by a pass guarantee if you meet the eligibility criteria (recommended study hours, 80%+ three times in a row on the practice exam, and testing within 30 days of enrollment). If the full prep package appeals to you, see our state prelicensing courses.",
+      "The standalone practice exam is a study tool and is not covered by the prelicensing course pass guarantee. However, our full prelicensing course — which includes a practice exam — is backed by a pass guarantee (in eligible states) if you meet the eligibility criteria (recommended study hours, 80%+ three times in a row on the practice exam, and testing within 30 days of enrollment). If the full prep package appeals to you, see our state prelicensing courses.",
   },
 ];
 
@@ -119,6 +119,12 @@ export default function PracticeExamHubPage() {
           <div>
             <p className="text-2xl md:text-3xl font-bold text-navy">93%</p>
             <p className="text-sm text-gray-600">first-attempt pass rate</p>
+            <p className="text-xs text-gray-500 mt-0.5">
+              Among students who complete the course and recommended practice.{" "}
+              <Link href="/pass-rates" className="underline hover:text-navy">
+                See methodology
+              </Link>
+            </p>
           </div>
           <div>
             <p className="text-2xl md:text-3xl font-bold text-navy">$59</p>
@@ -144,7 +150,7 @@ export default function PracticeExamHubPage() {
           <p className="text-blue-100 leading-relaxed mb-6">
             Our state-approved prelicensing courses include a full-length practice exam at no extra
             cost — plus complete video lessons, readings, and quizzes. One purchase, test-ready in
-            days, and backed by our pass guarantee.
+            days, and backed by our pass guarantee in eligible states.
           </p>
           <Link
             href="/prelicensing"
@@ -164,13 +170,16 @@ export default function PracticeExamHubPage() {
           <h3 className="text-xl md:text-2xl font-bold text-navy mb-2">
             Not Ready to Buy Yet? Start With Our Free Study Guide
           </h3>
+          {/* Was "The most comprehensive free insurance exam study guide online"
+              — an unqualified superlative with nothing behind it. Replaced with
+              what the guide verifiably contains. */}
           <p className="text-gray-600 mb-4 max-w-xl mx-auto">
-            The most comprehensive free insurance exam study guide online — universal concepts,
-            50-term glossary, all 50 state breakdowns, mnemonics, and a 7-day plan.
+            A free insurance exam study guide — universal concepts, a 50-term glossary, all 50
+            state breakdowns, mnemonics, and a 7-day plan.
           </p>
           <Link
             href="/study-guide"
-            className="inline-block bg-white border-2 border-gold hover:bg-gold/10 text-gold-dark font-bold py-2.5 px-6 rounded-lg transition-colors"
+            className="inline-block bg-white border-2 border-gold hover:bg-gold/10 text-gold-deep font-bold py-2.5 px-6 rounded-lg transition-colors"
           >
             Read the Free Study Guide →
           </Link>
@@ -199,7 +208,7 @@ export default function PracticeExamHubPage() {
               },
               {
                 title: "Build the 80% benchmark",
-                desc: "Students who score 80%+ three times in a row on our practice exam pass the real state exam on the first attempt.",
+                desc: "Students who score 80%+ three times in a row on our practice exam typically pass the real state exam on the first attempt. Results vary by student.",
               },
             ].map((item) => (
               <div key={item.title} className="bg-white rounded-xl p-6 shadow-sm">
@@ -251,7 +260,7 @@ export default function PracticeExamHubPage() {
               <Link
                 key={s.slug}
                 href={`/${s.slug}/practice-exam`}
-                className="bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg px-3 py-2 text-sm font-medium text-navy hover:text-gold-dark transition-colors text-center"
+                className="bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg px-3 py-2 text-sm font-medium text-navy hover:text-gold-deep transition-colors text-center"
               >
                 {s.name}
               </Link>

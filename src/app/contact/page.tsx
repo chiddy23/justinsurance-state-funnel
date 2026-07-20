@@ -74,7 +74,7 @@ export default function ContactPage() {
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed max-w-3xl mx-auto">
             Have a question about prelicensing, continuing education, or your
-            state licensing process? Our support team is staffed by licensed
+            state licensing process? Our support team includes licensed
             insurance professionals who can help.
           </p>
         </div>

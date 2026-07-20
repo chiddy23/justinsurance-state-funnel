@@ -67,7 +67,7 @@ const ourCoursesFaqs = [
   {
     question: "Does JustInsurance offer a pass guarantee?",
     answer:
-      "Yes. If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. This guarantee reflects our confidence in the quality of our course content and your preparation.",
+      "Yes. If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. This guarantee reflects our confidence in the quality of our course content and your preparation. Not available for Ohio, Illinois, or West Virginia courses.",
   },
   {
     question: "Are JustInsurance courses fully online?",
@@ -85,7 +85,7 @@ const continuingEducationFaqs = [
   {
     question: "Does JustInsurance report CE completions to my state?",
     answer:
-      "Yes. JustInsurance is a state-approved CE provider nationwide we serve. Completions are reported directly to your state's Department of Insurance — typically the same business day. You do not need to submit transcripts or paperwork yourself.",
+      "Yes. JustInsurance is a state-approved CE provider in the states where we offer CE. Completions are reported directly to your state's Department of Insurance — typically the same business day. You do not need to submit transcripts or paperwork yourself.",
   },
   {
     question: "What happens if I miss my CE deadline?",
@@ -251,7 +251,6 @@ export default function FAQPage() {
               { slug: "florida", name: "Florida" },
               { slug: "texas", name: "Texas" },
               { slug: "california", name: "California" },
-              { slug: "new-york", name: "New York" },
               { slug: "georgia", name: "Georgia" },
               { slug: "ohio", name: "Ohio" },
               { slug: "illinois", name: "Illinois" },
@@ -285,27 +284,27 @@ export default function FAQPage() {
         <div className="max-w-3xl mx-auto text-sm text-gray-600 text-center">
           <p>
             See also:{" "}
-            <Link href="/prelicensing" className="text-gold-dark hover:underline font-semibold">
+            <Link href="/prelicensing" className="text-gold-deep hover:underline font-semibold">
               Prelicensing courses
             </Link>
             {" · "}
-            <Link href="/continuing-education" className="text-gold-dark hover:underline font-semibold">
+            <Link href="/continuing-education" className="text-gold-deep hover:underline font-semibold">
               CE packages from $39
             </Link>
             {" · "}
-            <Link href="/practice-exam" className="text-gold-dark hover:underline font-semibold">
+            <Link href="/practice-exam" className="text-gold-deep hover:underline font-semibold">
               Practice exams
             </Link>
             {" · "}
-            <Link href="/study-guide" className="text-gold-dark hover:underline font-semibold">
+            <Link href="/study-guide" className="text-gold-deep hover:underline font-semibold">
               Free study guide
             </Link>
             {" · "}
-            <a href="https://www.nipr.com" target="_blank" rel="noopener noreferrer" className="text-gold-dark hover:underline font-semibold">
+            <a href="https://www.nipr.com" target="_blank" rel="noopener noreferrer" className="text-gold-deep hover:underline font-semibold">
               NIPR reciprocal licensing
             </a>
             {" · "}
-            <Link href="/contact" className="text-gold-dark hover:underline font-semibold">
+            <Link href="/contact" className="text-gold-deep hover:underline font-semibold">
               Contact support
             </Link>
           </p>
@@ -360,7 +359,7 @@ export default function FAQPage() {
       {/* CTA */}
       <CTABanner
         title="Ready to Get Started?"
-        subtitle="Find your state's prelicensing or CE course and get licensed or renewed today. State-approved, self-paced, and backed by our pass guarantee."
+        subtitle="Find your state's prelicensing or CE course and get licensed or renewed today. State-approved, self-paced, and backed by our pass guarantee in eligible states."
         ctaText="Find Your State"
         ctaHref="/"
       />

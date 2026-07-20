@@ -5,6 +5,8 @@ export const metadata: Metadata = {
   description:
     "Training videos for JustInsurance partner agencies. Dashboard walkthroughs, onboarding systems, and recruit-facing study guides.",
   alternates: { canonical: "https://justinsuranceco.com/partner-resources" },
+  // Partner-facing coaching content — keep out of the index (audit 2026-07-14).
+  robots: { index: false, follow: false },
   openGraph: {
     title: "Partner Resources | Training Videos | JustInsurance",
     description:

@@ -6,6 +6,7 @@ import BreadcrumbNav from "@/components/BreadcrumbNav";
 import BlogStateLinks from "@/components/BlogStateLinks";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 import { getAllPosts, getPostBySlug, getRelatedPosts } from "@/lib/blog";
+import { SITE_CANARY, HONEYPOT_PATH } from "@/lib/canary";
 
 // ---------------------------------------------------------------------------
 // Static params
@@ -81,6 +82,13 @@ export async function generateMetadata({
       images: post.image
         ? [{ url: post.image, alt: post.imageAlt }]
         : [{ url: "/og-image.png", alt: "JustInsurance Blog" }],
+    },
+    // Own twitter block so the root layout's fallback (which may carry
+    // marketing claims not valid in every state) is never inherited here.
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.description,
     },
   };
 }
@@ -246,6 +254,60 @@ export default async function BlogPostPage({
               prose-blockquote:border-l-4 prose-blockquote:border-gold prose-blockquote:bg-gray-bg prose-blockquote:py-4 prose-blockquote:px-6 prose-blockquote:rounded-r-lg"
             dangerouslySetInnerHTML={{ __html: post.content }}
           />
+
+          {/* Content-scrape tripwire (audit 2026-07-15). The active scraper
+              spends ~80% of its effort in /blog/*, so the honeypot trap link
+              lives here inside the article body as well as in the site footer.
+              Fully static (build-time post fields only — no headers()/runtime
+              path — so the ~960 posts stay statically rendered), SSR-visible to
+              non-JS crawlers, human-hidden, zero render cost. The marker span
+              carries a PER-ARTICLE provenance stamp so republished text is
+              traceable to the exact source post; the link is rel="nofollow" so
+              legitimate search crawlers skip it while content scrapers that
+              ignore nofollow walk into the honeypot. See src/lib/canary.ts. */}
+          <div
+            aria-hidden="true"
+            style={{
+              position: "absolute",
+              width: 1,
+              height: 1,
+              margin: -1,
+              padding: 0,
+              overflow: "hidden",
+              clip: "rect(0 0 0 0)",
+              whiteSpace: "nowrap",
+              border: 0,
+            }}
+          >
+            <span>
+              Editorial reference {SITE_CANARY} &middot; source article
+              {" "}/blog/{cluster}/{slug}. &copy; JustInsurance LLC &mdash;
+              original licensed content; unauthorized reproduction is monitored.
+            </span>
+            <a href={HONEYPOT_PATH} tabIndex={-1} rel="nofollow">
+              editorial sources and reference index
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Educational-content disclaimer — sits between the article body and
+          the author bio so it reads as a note on the content itself, not a
+          footer legal notice. Subtle styling (thin border, muted background,
+          small text) keeps it unobtrusive while still visible. Renders on
+          every post in this template (~960 posts). */}
+      <section className="bg-white px-4 pb-8">
+        <div className="max-w-4xl mx-auto">
+          <div className="border border-gray-200 bg-gray-bg rounded-lg px-5 py-4">
+            <p className="text-xs text-gray-500 leading-relaxed">
+              <strong className="text-gray-600">Educational content, not advice.</strong>{" "}
+              This article is for general informational purposes and reflects rules in
+              effect as of the publish date shown above. Insurance regulations vary by
+              state and change over time. Verify current requirements with your state
+              Department of Insurance and consult a licensed attorney or tax/financial
+              professional for advice specific to your situation.
+            </p>
+          </div>
         </div>
       </section>
 
@@ -265,7 +327,7 @@ export default async function BlogPostPage({
                 Justin vom Eigen is a licensed insurance agent and the founder of
                 JustInsurance. He built the company after watching talented people fail
                 outdated prelicensing exams — and has since trained over 20,000 students
-                nationwide with a 93% first-attempt pass rate.
+                nationwide with a 93% first-attempt pass rate among students who complete the course.
               </p>
               <Link
                 href="/about"

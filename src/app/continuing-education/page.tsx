@@ -8,9 +8,42 @@ import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
+// ---------------------------------------------------------------------------
+// Coverage and approval are different facts. We publish CE pages for every state
+// except New York (49), but we hold a state CE provider approval number only
+// where providerApprovalNumber !== "PENDING" — New York AND Washington are both
+// "PENDING" today. The old "49 / State-approved CE in every market we serve"
+// stat silently counted Washington as approved. Derived from states.ts so the
+// copy self-corrects the moment an approval issues.
+// ---------------------------------------------------------------------------
+const SERVED_STATES = Object.values(STATES).filter((s) => s.slug !== "new-york");
+const SERVED_STATE_COUNT = SERVED_STATES.length;
+const CE_APPROVAL_PENDING = SERVED_STATES.filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+const CE_APPROVED_COUNT = SERVED_STATE_COUNT - CE_APPROVAL_PENDING.length;
+
+/** "A", "A and B", "A, B, and C" — for naming pending states in prose. */
+const formatStateNames = (states: { name: string }[]): string => {
+  const names = states.map((s) => s.name);
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+};
+
+const CE_APPROVAL_SUB =
+  CE_APPROVAL_PENDING.length === 0
+    ? "State-approved CE in every market we serve"
+    : `State-approved CE in ${CE_APPROVED_COUNT} of them — ${formatStateNames(CE_APPROVAL_PENDING)} approval pending`;
+
+/** Lowercase, mid-sentence form of the same claim, for prose and metadata. */
+const CE_APPROVAL_PHRASE =
+  CE_APPROVAL_PENDING.length === 0
+    ? `state-approved CE in all ${SERVED_STATE_COUNT} states we serve`
+    : `state-approved CE in ${CE_APPROVED_COUNT} of the ${SERVED_STATE_COUNT} states we serve (our ${formatStateNames(CE_APPROVAL_PENDING)} approval is still pending)`;
+
 const PAGE_TITLE = "Insurance CE Courses | Same-Day Reporting | JustInsurance";
-const PAGE_DESC =
-  "Renew your insurance license online. State-approved CE with same-day DOI reporting, IDECC-certified curriculum. L&H from $39, P&C CE in 25 states.";
+const PAGE_DESC = `Renew your insurance license online. State-approved CE with same-day DOI reporting in most cases — ${CE_APPROVAL_PHRASE}. L&H from $39, P&C CE in 25 states.`;
 const CANONICAL = "https://justinsuranceco.com/continuing-education";
 
 export const metadata: Metadata = {
@@ -46,7 +79,7 @@ const faqs = [
   {
     question: "What does 'same-day DOI reporting' mean?",
     answer:
-      "When you complete your CE course with JustInsurance, we electronically report your completion to your state's Department of Insurance the same business day. This means your CE credits are recorded in the state system immediately — no waiting, no paperwork, and no risk of your renewal being delayed because of a reporting lag.",
+      "When you complete your CE course with JustInsurance, we typically electronically report your completion to your state's Department of Insurance the same business day you finish — no paperwork or transcripts for you to mail. Most states then post the credit to your license record within a few business days, so it's worth confirming your hours are on file in your state's producer portal before you submit your renewal.",
   },
   {
     question: "Can I take CE if my license has already expired?",
@@ -57,8 +90,8 @@ const faqs = [
 
 const stats = [
   { value: "From $39", label: "CE package price", sub: "Includes all required hours and ethics" },
-  { value: "Same day", label: "DOI reporting", sub: "Credits recorded immediately upon completion" },
-  { value: "49", label: "States covered", sub: "State-approved CE in every market we serve" },
+  { value: "Same day", label: "DOI reporting", sub: "We typically transmit your completion the same business day" },
+  { value: String(SERVED_STATE_COUNT), label: "States covered", sub: CE_APPROVAL_SUB },
   { value: "2–4 hrs", label: "Avg. completion time", sub: "Complete your renewal in a single session" },
 ];
 
@@ -90,7 +123,7 @@ const webPageSchema = {
   name: "Insurance Continuing Education — Same-Day DOI Reporting",
   url: "https://justinsuranceco.com/continuing-education",
   description:
-    "State-approved insurance continuing education for license renewal. Same-day DOI reporting, IDECC-certified instructor curriculum. Life & Health CE from $39, plus Property & Casualty CE in 25 states.",
+    "State-approved insurance continuing education for license renewal. Typically includes same-day DOI reporting. Life & Health CE from $39, plus Property & Casualty CE in 25 states.",
   mainEntityOfPage: {
     "@type": "WebPage",
     "@id": "https://justinsuranceco.com/continuing-education",
@@ -118,7 +151,7 @@ export default function ContinuingEducationPage() {
     "@context": "https://schema.org",
     "@type": "Course",
     name: "Insurance Continuing Education (CE) Courses",
-    description: "State-approved online insurance CE courses for license renewal. Nationwide coverage. Same-day reporting to your state DOI. From $39.",
+    description: `Online insurance CE courses for license renewal — ${CE_APPROVAL_PHRASE}. Same-day reporting to your state DOI. From $39.`,
     provider: {
       "@type": "Organization",
       name: "JustInsurance LLC",
@@ -141,9 +174,9 @@ export default function ContinuingEducationPage() {
     url: CANONICAL,
   };
 
-  const states = Object.values(STATES)
-    .filter((s) => s.slug !== "new-york")
-    .sort((a, b) => a.name.localeCompare(b.name));
+  // Same source as SERVED_STATE_COUNT so the rendered list can never drift from
+  // the "N states covered" number. Copy before sorting — sort() mutates.
+  const states = [...SERVED_STATES].sort((a, b) => a.name.localeCompare(b.name));
 
   return (
     <>
@@ -170,7 +203,7 @@ export default function ContinuingEducationPage() {
             Insurance Continuing Education (CE) Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Renew your insurance license online starting at $39. State-approved CE packages with same-day DOI reporting. Available in 49 states (all except New York) — no classroom required.
+            Renew your insurance license online starting at $39. CE packages with same-day DOI reporting in most cases, and {CE_APPROVAL_PHRASE}. Available in {SERVED_STATE_COUNT} states (all except New York) — no classroom required.
           </p>
           <a
             href="#states"
@@ -195,10 +228,10 @@ export default function ContinuingEducationPage() {
               Insurance continuing education (CE) is the ongoing education requirement that all licensed insurance agents must satisfy to keep their license active. Every state&apos;s Department of Insurance mandates a certain number of CE credit hours — typically 20 to 24 hours — within each renewal period, which is usually two years. These hours must cover state-approved topics, and most states require that a portion of those hours address ethics and professional conduct.
             </p>
             <p>
-              JustInsurance CE packages are designed to fulfill your entire renewal requirement in a single, convenient online bundle. Our courses are pre-approved by your state&apos;s DOI, so the credits are guaranteed to count. Each package includes the required ethics hours, and you can complete everything at your own pace — many agents finish in a single afternoon.
+              JustInsurance CE packages are designed to fulfill your entire renewal requirement in a single, convenient online bundle. Our courses are approved by your state&apos;s insurance regulator — see each course listing for its approved credit hours. Each package includes the required ethics hours, and you can complete everything at your own pace — many agents finish in a single afternoon.
             </p>
             <p>
-              One of the most important advantages of renewing with JustInsurance is same-day DOI reporting. The moment you complete your course, we transmit your completion record electronically to the state. Your credits appear in the state&apos;s system the same business day, protecting you from renewal delays that can arise when reporting lags behind your license expiration date.
+              One of the most important advantages of renewing with JustInsurance is same-day DOI reporting in most cases. The moment you complete your course, we typically transmit your completion record electronically to your state&apos;s Department of Insurance — no paperwork or transcripts for you to mail. Most states then post the credit to your license record within a few business days, so it&apos;s worth confirming your hours are on file before your renewal deadline.
             </p>
           </div>
         </div>
@@ -289,7 +322,7 @@ export default function ContinuingEducationPage() {
                 href={`/${state.slug}/continuing-education`}
                 className="group flex items-center gap-2 bg-gray-50 hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md border border-gray-100"
               >
-                <span className="text-xs font-bold text-gray-400 group-hover:text-blue-200 w-8 flex-shrink-0">
+                <span className="text-xs font-bold text-gray-500 group-hover:text-blue-200 w-8 flex-shrink-0">
                   {state.abbreviation}
                 </span>
                 <span className="text-sm font-medium text-navy group-hover:text-white leading-tight">
@@ -323,7 +356,7 @@ export default function ContinuingEducationPage() {
 
       <CTABanner
         title="Don't Let Your License Lapse"
-        subtitle="Complete your CE in as little as a few hours, get same-day DOI reporting, and keep your license active without the stress."
+        subtitle="Complete your CE in as little as a few hours, typically get same-day DOI reporting, and keep your license active without the stress."
         ctaText="Renew My License Now"
         ctaHref="#states"
       />

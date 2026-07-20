@@ -93,7 +93,9 @@ export default function FloridaSpanishHubPage() {
   };
 
   return (
-    <>
+    // WCAG 3.1.1/3.1.2 (audit 2026-07-14): page content is Spanish but the
+    // root layout emits lang="en" — scope the correct language here.
+    <div lang="es">
       <SchemaMarkup schema={generateOrganizationSchema()} />
       <SchemaMarkup schema={breadcrumbSchema} />
       <SchemaMarkup schema={faqSchema} />
@@ -178,7 +180,7 @@ export default function FloridaSpanishHubPage() {
                 Curso combinado de 60 horas que cubre seguros de vida, salud y anualidades
                 — todo lo que necesitas para presentar el examen estatal de Florida.
               </p>
-              <p className="text-2xl font-bold text-gold-dark mb-2">$199</p>
+              <p className="text-2xl font-bold text-gold-deep mb-2">$199</p>
               <Link
                 href={`/${SLUG}/prelicensing`}
                 className="text-navy underline text-sm hover:text-gold"
@@ -195,7 +197,7 @@ export default function FloridaSpanishHubPage() {
                 horas obligatorias de Ley y Ética de Florida. Reportamos al DFS el mismo
                 día.
               </p>
-              <p className="text-2xl font-bold text-gold-dark mb-2">$39</p>
+              <p className="text-2xl font-bold text-gold-deep mb-2">$39</p>
               <Link
                 href={`/${SLUG}/continuing-education`}
                 className="text-navy underline text-sm hover:text-gold"
@@ -398,10 +400,10 @@ export default function FloridaSpanishHubPage() {
 
       {/* Last verified */}
       <section className="bg-white py-4 px-4 border-t border-gray-100">
-        <div className="max-w-5xl mx-auto text-center text-xs text-gray-400">
+        <div className="max-w-5xl mx-auto text-center text-xs text-gray-500">
           {SPANISH_UI.lastVerifiedLabel}: {stateData.lastVerified}
         </div>
       </section>
-    </>
+    </div>
   );
 }

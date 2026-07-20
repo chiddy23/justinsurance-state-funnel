@@ -26,7 +26,7 @@ import {
 // none of those four hooks. Each hook now in title or meta first 120 chars.
 const PAGE_TITLE = "P&C CE from $39 — 24-Hr State-Approved | JustInsurance";
 const PAGE_DESC =
-  "State-approved Property & Casualty CE from $39. 24-hour packages in 25 states, same-day DOI reporting, instant certificate. IDECC-certified instructor — pick your state and finish today.";
+  "State-approved Property & Casualty CE from $39. 24-hour packages in 25 states, typically same-day DOI reporting, instant certificate. IDECC-certified instructor — pick your state and finish today.";
 const CANONICAL = "https://justinsuranceco.com/property-and-casualty-ce";
 
 export function generateMetadata(): Metadata {
@@ -81,7 +81,7 @@ const faqs = [
   {
     question: "When are CE credits reported to my state's Department of Insurance?",
     answer:
-      "JustInsurance electronically reports your completion to your state's Department of Insurance the same business day you finish the course. Credits appear in the state's tracking system immediately, which protects your renewal from being blocked by a reporting lag. You receive a completion certificate by email at the same time so you have proof of credit on file.",
+      "JustInsurance typically electronically reports your completion to your state's Department of Insurance the same business day you finish the course. Most states then post the credit to your license record within a few business days, and you receive a completion certificate by email the same day so you have proof of credit on file in the meantime.",
   },
   {
     question: "Can I combine my Life & Health and P&C CE in one package?",
@@ -91,7 +91,7 @@ const faqs = [
   {
     question: "What happens if I miss my P&C CE deadline?",
     answer:
-      "Consequences vary by state, but the typical pattern is: your license becomes inactive on the expiration date, you cannot legally write new business, and you have a grace period (commonly 60 to 90 days) to complete your CE and pay a reinstatement fee. After the grace window, most states require you to re-apply as a new applicant — which can mean retaking the prelicensing course and the state exam. Always complete CE before your deadline, and use a same-day reporting provider so credits hit the state system immediately.",
+      "Consequences vary by state, but the typical pattern is: your license becomes inactive on the expiration date, you cannot legally write new business, and you have a grace period (commonly 60 to 90 days) to complete your CE and pay a reinstatement fee. After the grace window, most states require you to re-apply as a new applicant — which can mean retaking the prelicensing course and the state exam. Always complete CE well before your deadline — same-day reporting typically means your completion reaches the state the day you finish, but most states still take a few business days to post the credit to your record.",
   },
 ];
 
@@ -281,7 +281,7 @@ export default function PropertyAndCasualtyCEPage() {
           </div>
 
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Renew your P&amp;C license today with state-approved CE packages starting at $39. Every bundle covers your state&apos;s full credit-hour requirement (typically 24 hours including Law &amp; Ethics), is filed with your Department of Insurance the same business day you finish, and ships with an instant printable certificate. IDECC-certified instructor curriculum across {supportedCount} states.
+            Renew your P&amp;C license today with state-approved CE packages starting at $39. Every bundle covers your state&apos;s full credit-hour requirement (typically 24 hours including Law &amp; Ethics), is typically filed with your Department of Insurance the same business day you finish, and ships with an instant printable certificate. IDECC-certified instructor curriculum across {supportedCount} states.
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <a
@@ -342,7 +342,7 @@ export default function PropertyAndCasualtyCEPage() {
               >
                 <div className="flex items-start justify-between mb-3">
                   <div>
-                    <p className="text-xs font-bold uppercase tracking-widest text-gray-400 group-hover:text-gold mb-1">
+                    <p className="text-xs font-bold uppercase tracking-widest text-gray-500 group-hover:text-gold mb-1">
                       {s.abbreviation}
                     </p>
                     <h3 className="text-base font-bold text-navy leading-tight group-hover:text-navy">
@@ -380,7 +380,7 @@ export default function PropertyAndCasualtyCEPage() {
             Why Producers Choose JustInsurance for P&amp;C CE
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-            Every package is built to clear your renewal in a single sitting and lock the credits into the state system the same day.
+            Every package is built to clear your renewal in a single sitting and typically lock the credits into the state system the same day.
           </p>
           <ul className="space-y-3 max-w-3xl mx-auto">
             {[
@@ -390,7 +390,7 @@ export default function PropertyAndCasualtyCEPage() {
               },
               {
                 label: "Same-day DOI reporting",
-                desc: "Credits transmit to your state Department of Insurance the same business day you finish — no lag, no manual upload, no risk of your renewal being blocked by a reporting delay.",
+                desc: "Credits typically transmit to your state Department of Insurance the same business day you finish — no manual upload, no transcripts to mail. Most states post the credit to your license record within a few business days after that.",
               },
               {
                 label: "Statutory citations on every state page",
@@ -455,7 +455,7 @@ export default function PropertyAndCasualtyCEPage() {
                 href={`/${s.slug}`}
                 className="group flex items-center gap-2 bg-gray-50 hover:bg-gray-100 rounded-lg p-3 border border-gray-100 transition-all"
               >
-                <span className="text-xs font-bold text-gray-400 w-8 flex-shrink-0">
+                <span className="text-xs font-bold text-gray-500 w-8 flex-shrink-0">
                   {s.abbreviation}
                 </span>
                 <span className="text-sm font-medium text-gray-700 leading-tight">
@@ -494,7 +494,7 @@ export default function PropertyAndCasualtyCEPage() {
                 Life &amp; Health CE Hub
               </h3>
               <p className="text-sm text-gray-600">
-                The 50-state L&amp;H continuing education catalog — same-day reporting, $39 starting price.
+                The 49-state L&amp;H continuing education catalog — typically same-day reporting, $39 starting price.
               </p>
             </Link>
             <Link
@@ -540,7 +540,7 @@ export default function PropertyAndCasualtyCEPage() {
       {/* Final CTA */}
       <CTABanner
         title="Find Your State and Renew Today"
-        subtitle={`P&C CE in ${supportedCount} states with same-day DOI reporting. Pick your state, complete the package, get your credits posted the same business day.`}
+        subtitle={`P&C CE in ${supportedCount} states with same-day DOI reporting in most cases. Pick your state, complete the package, and typically get your credits posted the same business day.`}
         ctaText="Find Your State"
         ctaHref="#states"
       />

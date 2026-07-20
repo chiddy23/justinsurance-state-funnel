@@ -62,7 +62,7 @@ const features = [
   {
     title: "Pass Guarantee",
     description:
-      "We're so confident in our courses that we back them with a pass guarantee. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of your first enrollment. If you don't pass, we refund your course fee.",
+      "We're so confident in our courses that we back them with a pass guarantee in eligible states. Meet the recommended study hours, score 80%+ on the practice exam three times in a row, and test within 30 days of your first enrollment. If you don't pass, we refund your course fee. The guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.",
   },
 ];
 
@@ -136,7 +136,7 @@ export default function PassRatesPage() {
                 Without Structured Prep
               </p>
               <p
-                className="font-extrabold leading-none mb-3 text-gray-400"
+                className="font-extrabold leading-none mb-3 text-gray-500"
                 style={{ fontSize: "5rem" }}
               >
                 ~50&ndash;60%
@@ -229,7 +229,7 @@ export default function PassRatesPage() {
       <section className="py-12 px-4" style={{ backgroundColor: "#F5F7FA" }}>
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-navy font-bold text-2xl mb-2">
-            20,000+ Students Licensed
+            20,000+ Students Trained
           </p>
           <p className="text-gray-600">
             JustInsurance has helped agents nationwide earn and renew
@@ -247,15 +247,16 @@ export default function PassRatesPage() {
             See Pass Rate Data in Action — Explore Our Top States
           </h2>
           <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-            Every state page includes the same 93% pass rate, state-approved
-            curriculum, and pass guarantee — plus state-specific exam details.
+            Every state page includes the same 93% pass rate and state-approved
+            curriculum, plus state-specific exam details. Our pass guarantee is
+            included in most states and is not offered in Ohio, Illinois, or
+            West Virginia.
           </p>
           <nav className="flex flex-wrap justify-center gap-2 text-sm">
             {[
               { slug: "florida", name: "Florida" },
               { slug: "texas", name: "Texas" },
               { slug: "california", name: "California" },
-              { slug: "new-york", name: "New York" },
               { slug: "georgia", name: "Georgia" },
               { slug: "ohio", name: "Ohio" },
             ].map((s) => (

@@ -14,7 +14,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
   { name: "Terms of Service", url: "https://justinsuranceco.com/terms" },
 ]);
 
-const LAST_UPDATED = "May 22, 2026";
+const LAST_UPDATED = "July 7, 2026";
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Sub-components
@@ -113,8 +113,10 @@ export default function TermsPage() {
               ["#payment-refunds", "Payment & Refunds"],
               ["#ce-reporting", "CE Reporting"],
               ["#intellectual-property", "IP"],
+              ["#acceptable-use", "Acceptable Use"],
               ["#liability", "Liability"],
               ["#governing-law", "Governing Law"],
+              ["#disclaimer", "Disclaimer"],
               ["#contact", "Contact"],
             ].map(([href, label]) => (
               <a
@@ -150,7 +152,7 @@ export default function TermsPage() {
         <P>
           If you do not agree to these Terms, you may not use the Services. We reserve the right
           to modify these Terms at any time. Material changes will be communicated as described
-          in Section 9.
+          in Section 10.
         </P>
       </Section>
 
@@ -189,6 +191,15 @@ export default function TermsPage() {
           You must be at least 18 years of age to create an account. JustInsurance reserves the
           right to suspend or terminate any account that violates these Terms or applicable law.
         </P>
+        <P>
+          By providing a phone number, you consent to receive calls and text messages
+          (including via automated technology) from JustInsurance at that number, as described in
+          our{" "}
+          <a href="/privacy-policy#sms-calls" className="text-navy underline hover:text-gold transition-colors">
+            Privacy Policy
+          </a>
+          ; such consent is not required to purchase any course.
+        </P>
       </Section>
 
       {/* 3. Course Access & Licensing */}
@@ -200,8 +211,9 @@ export default function TermsPage() {
         </P>
         <UL>
           <LI>
-            <strong>Prelicensing courses</strong> provide access for 60 to 90 days from the date
-            of enrollment, depending on your state&rsquo;s requirements.
+            <strong>Prelicensing courses</strong> provide access for 30 days from the date of
+            enrollment, or the access period stated on the course page at the time of
+            purchase if different.
           </LI>
           <LI>
             <strong>CE courses</strong> remain accessible until you have completed all required
@@ -214,6 +226,13 @@ export default function TermsPage() {
           <LI>
             Extension requests are handled on a case-by-case basis. Contact support before your
             access expires.
+          </LI>
+          <LI>
+            <strong>Other products.</strong> Standalone practice exams provide access for the
+            period stated on the product page. The Pass Guarantee applies only to qualifying
+            prelicensing courses as described in Section 4. Agency, bulk, and subscription
+            arrangements are governed by a separate written agreement between JustInsurance and
+            the partner organization.
           </LI>
         </UL>
         <P>
@@ -229,7 +248,7 @@ export default function TermsPage() {
         <P>
           All prices are listed in U.S. dollars. Payment is due in full at the time of enrollment.
           We accept major credit and debit cards processed through our PCI-compliant payment
-          processor. By submitting payment, you authorize us to charge the full course price to
+          processor, and may accept other payment methods presented at checkout or by invoice. By submitting payment, you authorize us to charge the full course price to
           your selected payment method.
         </P>
 
@@ -291,9 +310,10 @@ export default function TermsPage() {
         </P>
         <UL>
           <LI>
-            You must complete the recommended study hours for your state — 20 hours for a single
-            line of authority, or 40 hours for a dual line (Life &amp; Health) in states that do
-            not require prelicensing — as tracked by our learning platform.
+            You must complete the recommended study hours for your state — in states that require
+            prelicensing education, the recommended hours equal your state&apos;s required course
+            hours; in states that do not, 20 hours for a single line of authority or 40 hours
+            for a dual line (Life &amp; Health) — as tracked by our learning platform.
           </LI>
           <LI>
             You must score 80% or higher on the practice exam three times in a row before sitting
@@ -317,6 +337,12 @@ export default function TermsPage() {
           The Pass Guarantee applies to the prelicensing course cost only and does not cover exam
           fees, application fees, or any other third-party costs. Courses purchased at a
           promotional discount may have modified guarantee terms disclosed at the time of sale.
+          The Pass Guarantee is not available for Ohio courses (Ohio Admin. Code
+          3901-5-07(H)(16)), West Virginia courses (WV Offices of the Insurance
+          Commissioner pre-licensing provider advertising requirements), or
+          Illinois courses. The list of eligible states is reflected on each
+          state&apos;s course pages; where the guarantee is not offered, no
+          purchase includes it.
         </P>
       </Section>
 
@@ -385,8 +411,117 @@ export default function TermsPage() {
         </P>
       </Section>
 
-      {/* 7. Limitation of Liability */}
-      <Section id="liability" number="7" title="Limitation of Liability" altBg={false}>
+      {/* 7. Acceptable Use & Automated Access */}
+      <Section id="acceptable-use" number="7" title="Acceptable Use &amp; Automated Access" altBg={false}>
+        <P>
+          The Services &mdash; including all pages of justinsuranceco.com, our blog, our state and
+          prelicensing content, and our account-based learning platform at
+          yourinsurancelicense.myabsorb.com &mdash; are provided for your lawful, personal use only.
+          This Section applies to every visitor and user of the Services, whether or not you create
+          an account, and whether access is carried out by a human or by any automated agent, bot,
+          or process acting on your behalf. By accessing the Services by any means, you and any
+          automated agent you use or direct agree to this Section.
+        </P>
+        <P>
+          You agree that you will not, and will not authorize, enable, direct, or assist any other
+          person or automated agent to, engage in any of the following:
+        </P>
+        <UL>
+          <LI>
+            Access, or attempt to access, any part of the Services by any automated means &mdash;
+            including any bot, spider, crawler, scraper, headless browser, script, or other software
+            or process &mdash; except that a general-purpose Internet search engine may crawl
+            publicly available pages solely to the extent expressly permitted by our robots.txt file
+            and solely to create a publicly available searchable index. All other automated access is
+            prohibited.
+          </LI>
+          <LI>
+            Scrape, harvest, extract, data-mine, index, cache (other than ordinary temporary browser
+            caching), or systematically download, copy, collect, aggregate, or store any content,
+            text, images, video, course materials, practice questions, pricing, or other data from
+            the Services.
+          </LI>
+          <LI>
+            Circumvent, disable, bypass, probe, or defeat &mdash; or attempt to do so &mdash; any
+            rate limit, IP-address block, access restriction, CAPTCHA, authentication requirement,
+            login gate, robots.txt directive, or any other technological or security measure that we
+            use to control, protect, or limit access to the Services or to the copyrighted works
+            available through them. These measures are technological measures that effectively
+            control access to our copyrighted content, and circumventing them is prohibited.
+          </LI>
+          <LI>
+            Use rotating, proxy, anonymizing, datacenter, or other IP addresses, or multiple
+            accounts, or any other method, in order to evade, disguise, or defeat any block, rate
+            limit, suspension, or other restriction we have applied.
+          </LI>
+          <LI>
+            Use any content, text, or data obtained from the Services to build, train, or improve any
+            dataset, database, machine-learning or artificial-intelligence model, large language
+            model, or any competing or derivative product, service, or educational offering.
+          </LI>
+          <LI>
+            Frame, mirror, republish, redistribute, sell, or make available to any third party any
+            content obtained from the Services.
+          </LI>
+          <LI>
+            Access the Services in a manner that imposes, or may impose, an unreasonable or
+            disproportionately large load on our infrastructure, or that interferes with, degrades,
+            or disrupts the operation, integrity, availability, or performance of the Services or the
+            servers or networks that host them.
+          </LI>
+        </UL>
+        <P>
+          <strong>Accessibility exception.</strong> Nothing in this Section is intended to restrict
+          the use of assistive technologies &mdash; such as screen readers, refreshable braille
+          displays, or other tools used by individuals with disabilities to access and read the
+          Services for their own personal, non-automated use. Legitimate, individual accessibility
+          use of the Services is welcome and permitted.
+        </P>
+        <P>
+          <strong>Grant and revocation of authorization.</strong> Your permission to access the
+          Services is a limited, revocable license, not a right. We may revoke, suspend, condition,
+          or limit your authorization to access all or any part of the Services at any time, for any
+          reason, with or without notice, including by written notice to you or to your Internet or
+          cloud-service provider, and by technical means such as blocking your account, IP addresses,
+          IP ranges, or hosting provider (ASN). Any access to the Services after your authorization
+          has been revoked, or that evades or circumvents any block or restriction we have applied,
+          is access without authorization and is expressly prohibited.
+        </P>
+        <P>
+          <strong>Ownership and copyright.</strong> The original course text, blog articles, practice
+          questions, and other original expression made available through the Services are works of
+          authorship owned by JustInsurance LLC and protected by U.S. copyright law. Unauthorized
+          reproduction, distribution, or creation of derivative works from that original expression,
+          and the removal or alteration of any copyright, authorship, or terms-of-use notice
+          associated with it, is prohibited and may constitute copyright infringement and a violation
+          of 17 U.S.C. &sect; 1201.
+        </P>
+        <P>
+          <strong>Monitoring and evidence.</strong> We may monitor, log, and record access to the
+          Services &mdash; including IP addresses, request timestamps, request volume, and user-agent
+          and account information &mdash; to detect, investigate, prevent, and document violations of
+          this Section, and we may preserve and use those records in connection with enforcement.
+        </P>
+        <P>
+          <strong>Reservation of remedies.</strong> Violation of this Section is a material breach of
+          these Terms. In addition to terminating your account and access, we reserve the right to
+          pursue any and all remedies available at law or in equity, which may include injunctive and
+          other equitable relief, breach-of-contract damages, and claims under applicable federal and
+          state law, including the U.S. Copyright Act, the Digital Millennium Copyright Act (including
+          17 U.S.C. &sect; 1201), the Computer Fraud and Abuse Act, and the Florida Computer Abuse and
+          Data Recovery Act (Fla. Stat. &sect;&sect; 668.801&ndash;668.805), to the extent each
+          applies to the conduct at issue. Where permitted by the applicable statute or agreement, we
+          will seek recovery of our costs and reasonable attorneys&rsquo; fees. Nothing in this
+          Section guarantees any particular claim, outcome, or remedy; the availability of any
+          specific claim depends on the facts and governing law. This Section is in addition to, and
+          does not limit, the intellectual-property and other protections stated elsewhere in these
+          Terms, and is governed by the Florida choice-of-law and Broward County venue provisions
+          below.
+        </P>
+      </Section>
+
+      {/* 8. Limitation of Liability */}
+      <Section id="liability" number="8" title="Limitation of Liability" altBg={true}>
         <P>
           THE SERVICES ARE PROVIDED &ldquo;AS IS&rdquo; AND &ldquo;AS AVAILABLE&rdquo; WITHOUT WARRANTIES OF ANY KIND,
           EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
@@ -412,8 +547,8 @@ export default function TermsPage() {
         </P>
       </Section>
 
-      {/* 8. Governing Law */}
-      <Section id="governing-law" number="8" title="Governing Law" altBg={true}>
+      {/* 9. Governing Law */}
+      <Section id="governing-law" number="9" title="Governing Law" altBg={false}>
         <P>
           These Terms are governed by and construed in accordance with the laws of the State of
           Florida, without regard to its conflict of law principles. You agree that any dispute
@@ -428,8 +563,8 @@ export default function TermsPage() {
         </P>
       </Section>
 
-      {/* 9. Changes to Terms */}
-      <Section id="changes" number="9" title="Changes to These Terms" altBg={false}>
+      {/* 10. Changes to Terms */}
+      <Section id="changes" number="10" title="Changes to These Terms" altBg={true}>
         <P>
           We reserve the right to modify these Terms at any time. When we make material changes,
           we will update the &ldquo;Last updated&rdquo; date at the top of this page and notify registered
@@ -442,8 +577,27 @@ export default function TermsPage() {
         </P>
       </Section>
 
-      {/* 10. Contact */}
-      <Section id="contact" number="10" title="Contact Information" altBg={true}>
+      {/* 11. Disclaimer — Educational Content */}
+      <Section id="disclaimer" number="11" title="Disclaimer &mdash; Educational Content" altBg={false}>
+        <P>
+          JustInsurance provides state-approved insurance education. Our courses, blog posts, and
+          guides are for general educational and informational purposes only and are not legal,
+          tax, financial, or regulatory advice. Licensing and continuing education requirements
+          change frequently and vary by state. You should always verify current rules with your
+          state Department of Insurance and consult a qualified professional (such as an attorney,
+          accountant, or licensed insurance professional) before acting or relying on any
+          information provided through the Services.
+        </P>
+        <P>
+          Completion of a JustInsurance course does not guarantee that you will pass any state
+          licensing exam, obtain or maintain a license, or satisfy any particular regulatory
+          requirement. It is your responsibility to confirm that a course satisfies your state&rsquo;s
+          specific requirements before enrolling.
+        </P>
+      </Section>
+
+      {/* 12. Contact */}
+      <Section id="contact" number="12" title="Contact Information" altBg={true}>
         <P>
           Questions or concerns about these Terms should be directed to:
         </P>

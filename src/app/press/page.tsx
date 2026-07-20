@@ -1,12 +1,41 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { STATES } from "@/lib/states";
+
+// ---------------------------------------------------------------------------
+// "State-approved in 49 states" counted Washington as approved. Both New York
+// AND Washington carry providerApprovalNumber === "PENDING" in states.ts, so the
+// honest number is 48: we serve 49 states (all except New York) and hold an
+// active state provider approval in 48 of them. Derived here so the number
+// self-corrects the moment an approval issues.
+// ---------------------------------------------------------------------------
+const SERVED_STATES = Object.values(STATES).filter((s) => s.slug !== "new-york");
+const SERVED_STATE_COUNT = SERVED_STATES.length;
+const APPROVAL_PENDING_STATES = SERVED_STATES.filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+const APPROVED_STATE_COUNT = SERVED_STATE_COUNT - APPROVAL_PENDING_STATES.length;
+
+/** "A", "A and B", "A, B, and C" — for naming pending states in prose. */
+const formatStateNames = (states: { name: string }[]): string => {
+  const names = states.map((s) => s.name);
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+};
+
+// No leading space: JSX already inserts one between the preceding text line and
+// this expression. Empty string renders nothing once every approval has issued.
+const PENDING_APPROVAL_NOTE =
+  APPROVAL_PENDING_STATES.length === 0
+    ? ""
+    : `Our ${formatStateNames(APPROVAL_PENDING_STATES)} provider approval is still pending.`;
 
 export const metadata: Metadata = {
   title: {
     absolute: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",
   },
-  description:
-    "JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% student pass rate, 20,000+ students trained across 49 states.",
+  description: `JustInsurance press coverage. Featured on NASDAQ TradeTalks and Yahoo Finance. 93% pass rate among students who complete the course, 20,000+ students trained, state-approved in ${APPROVED_STATE_COUNT} states.`,
   robots: "index, follow",
   alternates: {
     canonical: "https://justinsuranceco.com/press",
@@ -14,7 +43,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Press & Media | JustInsurance | NASDAQ · Yahoo Finance",
     description:
-      "JustInsurance press coverage and media mentions. Featured on NASDAQ and Yahoo Finance for our 93% pass-rate breakthrough.",
+      "JustInsurance press coverage and media mentions. Featured on NASDAQ and Yahoo Finance for our 93% pass-rate breakthrough (among students who complete the course).",
     url: "https://justinsuranceco.com/press/",
     siteName: "JustInsurance",
     type: "website",
@@ -29,14 +58,14 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Press & Media | JustInsurance",
     description:
-      "Featured on NASDAQ and Yahoo Finance for our 93% pass-rate breakthrough in insurance licensing education.",
+      "Featured on NASDAQ and Yahoo Finance for our 93% pass-rate breakthrough (among students who complete the course) in insurance licensing education.",
     images: ["/og-image.png"],
   },
 };
 
 const pressSchema = {
   "@context": "https://schema.org",
-  "@type": "NewsArticle",
+  "@type": "Article",
   headline:
     "JustInsurance Unveils 93% Pass-Rate Breakthrough, Offering a Scalable Solution to the U.S. Insurance Agent Shortage",
   datePublished: "2025-12-10",
@@ -52,7 +81,7 @@ const pressSchema = {
     url: "https://www.globenewswire.com",
   },
   description:
-    "JustInsurance announces a 93% pass rate for insurance licensing exams — nearly double the national average — with 900% year-over-year growth and 20,000+ students trained.",
+    "JustInsurance announces a 93% pass rate (among students who complete the course) for insurance licensing exams, with 20,000+ students trained.",
   about: {
     "@type": "Organization",
     name: "JustInsurance LLC",
@@ -86,10 +115,13 @@ const MEDIA_OUTLETS = [
   },
 ];
 
+// "900% year-over-year growth" removed: the release named no metric, baseline,
+// period, or methodology, and nothing on the site substantiates it. An
+// unqualified growth figure is the kind of claim we cannot defend, so it is out
+// rather than merely footnoted.
 const PRESS_STATS = [
   { value: "93%", label: "Student Pass Rate" },
-  { value: "2×", label: "National Average" },
-  { value: "900%", label: "Year-Over-Year Growth" },
+  { value: String(APPROVED_STATE_COUNT), label: "State Approvals" },
   { value: "20,000+", label: "Students Trained" },
 ];
 
@@ -98,7 +130,7 @@ export default function PressPage() {
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(pressSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(pressSchema).replace(/</g, "\u003c") }}
       />
 
       {/* Hero */}
@@ -111,9 +143,13 @@ export default function PressPage() {
             JustInsurance in the News
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Our 93% pass-rate breakthrough has been recognized by leading
-            financial and business media as a solution to the U.S. insurance
-            agent shortage.
+            Our 93% pass-rate breakthrough (among students who complete the course) has been
+            recognized by leading financial and business media as a solution to the U.S.
+            insurance agent shortage.{" "}
+            <Link href="/pass-rates" className="underline hover:text-gold">
+              See methodology
+            </Link>
+            .
           </p>
         </div>
       </section>
@@ -147,7 +183,7 @@ export default function PressPage() {
       {/* Key Stats */}
       <section className="py-12 bg-white">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 md:gap-8">
             {PRESS_STATS.map((stat) => (
               <div key={stat.label} className="text-center">
                 <p className="text-4xl md:text-5xl font-bold text-navy mb-1">
@@ -157,6 +193,13 @@ export default function PressPage() {
               </div>
             ))}
           </div>
+          <p className="text-center text-xs text-gray-500 mt-6">
+            *93% pass rate among students who complete the course.{" "}
+            <Link href="/pass-rates" className="underline hover:text-navy">
+              See how we calculate this
+            </Link>
+            .
+          </p>
         </div>
       </section>
 
@@ -185,7 +228,7 @@ export default function PressPage() {
               allowFullScreen
             />
           </div>
-          <p className="text-center text-sm text-gray-400 mt-4">
+          <p className="text-center text-sm text-gray-500 mt-4">
             Broadcast live from the NASDAQ MarketSite &bull; Hosted by Jill Malandrino
           </p>
         </div>
@@ -220,18 +263,26 @@ export default function PressPage() {
               <p>
                 <strong className="text-navy">Pembroke Pines, FL</strong> —
                 JustInsurance LLC announced a landmark milestone in insurance
-                education: an industry-leading{" "}
+                education: a{" "}
                 <strong>93% first-attempt pass rate</strong> for insurance
-                licensing exams — nearly double the national average of 46%.
+                licensing exams (among students who complete the course).
               </p>
 
+              {/* Product description rewritten to match what we actually sell.
+                  The prior copy described an "AI-powered adaptive learning
+                  platform" with "personalized learning pathways" and
+                  "real-world coaching that simulates agency environments" — no
+                  such product exists on this site, and no other page describes
+                  one. This paragraph now mirrors the course contents set out in
+                  the FAQ on the state and hub pages. */}
               <p>
-                The company, founded by Justin vom Eigen, attributes this
-                breakthrough to its AI-powered adaptive learning platform, which
-                features personalized learning pathways, instant practice test
-                analysis, and real-world coaching that simulates agency
-                environments. The result: students not only pass faster — they
-                are better prepared for the field.
+                The company, founded by Justin vom Eigen, attributes the result
+                to how the courses are built rather than to any single
+                technology: course content organized by state exam topic,
+                chapter-by-chapter review quizzes, full-length practice exams
+                that mirror the format and difficulty of the real state exam,
+                and a final exam — all self-paced, on any device, and written in
+                plain English by a licensed agent.
               </p>
 
               <blockquote className="border-l-4 border-gold pl-6 py-2 bg-gray-50 rounded-r-lg">
@@ -248,14 +299,13 @@ export default function PressPage() {
               </blockquote>
 
               <p>
-                JustInsurance reported{" "}
-                <strong>900% year-over-year growth</strong> and has trained
-                over <strong>20,000 students</strong> across 49 states in life,
-                health, and life &amp; health insurance prelicensing and
-                continuing education (CE). The platform&apos;s students also
-                show <strong>30% lower attrition</strong> than the industry
-                standard — meaning more agents completing training and entering
-                the field.
+                JustInsurance has trained over{" "}
+                <strong>20,000 students</strong> in life, health, and life
+                &amp; health insurance prelicensing and continuing education
+                (CE). Based on the company&apos;s internal completion tracking,
+                the platform&apos;s students also show{" "}
+                <strong>strong course-completion rates</strong> — meaning more
+                agents completing training and entering the field.
               </p>
 
               <p>
@@ -268,11 +318,15 @@ export default function PressPage() {
                 <li>Limited access to updated, state-specific materials</li>
               </ul>
 
+              {/* CE is not a flat $39 — ce.packagePrice in states.ts ranges from
+                  $39 to $111 depending on the state's required hours. Every
+                  other page says "from $39"; this one now matches. */}
               <p>
-                With prelicensing courses at{" "}
-                <strong>$199 and CE at $39</strong>, JustInsurance offers one
-                of the most affordable pass-guarantee programs in the market,
-                with same-day DOI reporting after course completion.
+                With prelicensing courses at <strong>$199</strong> and CE
+                packages <strong>from $39</strong> (CE package pricing varies by
+                state), JustInsurance offers affordable, all-inclusive
+                pass-guarantee pricing, with same-day DOI reporting in most
+                cases after course completion.
               </p>
             </div>
 
@@ -354,29 +408,30 @@ export default function PressPage() {
             <div className="bg-gray-50 rounded-2xl p-8 border border-gray-100">
               <h3 className="text-lg font-bold text-navy mb-4">About JustInsurance</h3>
               <p className="text-gray-600 text-sm leading-relaxed mb-4">
-                JustInsurance LLC (d/b/a Your Insurance License) is a
-                state-approved online insurance education provider offering
-                prelicensing and continuing education (CE) courses for life
-                and health insurance agents across 49 states.
+                JustInsurance LLC (d/b/a Your Insurance License) is an online
+                insurance education provider offering prelicensing and
+                continuing education (CE) courses for life and health insurance
+                agents in {SERVED_STATE_COUNT} states. Our state provider
+                approval is active in {APPROVED_STATE_COUNT} of them.
+                {PENDING_APPROVAL_NOTE}
               </p>
               <p className="text-gray-600 text-sm leading-relaxed mb-4">
                 Founded by Justin vom Eigen in Pembroke Pines, Florida,
                 JustInsurance has trained over 20,000 students and maintains a
-                93% first-attempt exam pass rate — nearly double the national
-                average.
+                93% first-attempt exam pass rate (among students who complete the course).
               </p>
               <ul className="text-sm text-gray-600 space-y-2">
                 <li className="flex items-center gap-2">
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  State-approved in 49 states
+                  State-approved in {APPROVED_STATE_COUNT} states
                 </li>
                 <li className="flex items-center gap-2">
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  93% first-attempt pass rate
+                  93% first-attempt pass rate (course completers)
                 </li>
                 <li className="flex items-center gap-2">
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
@@ -388,7 +443,7 @@ export default function PressPage() {
                   <svg className="w-4 h-4 text-gold flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                   </svg>
-                  Pass guarantee on all courses
+                  Pass guarantee in eligible states
                 </li>
               </ul>
             </div>
@@ -400,11 +455,11 @@ export default function PressPage() {
       <section className="bg-navy py-14">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-4">
-            Ready to Join 20,000+ Licensed Students Nationwide?
+            Ready to Join 20,000+ Students Nationwide?
           </h2>
           <p className="text-gray-300 mb-8 text-lg">
-            Get your insurance license online — $199 prelicensing, $39 CE, pass
-            guarantee included.
+            Get your insurance license online — $199 prelicensing, CE from $39,
+            pass guarantee in eligible states.
           </p>
           <Link
             href="/"

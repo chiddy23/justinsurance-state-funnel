@@ -10,7 +10,7 @@ import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib
 
 const PAGE_TITLE = "Life & Health Insurance License | Combined | JustInsurance";
 const PAGE_DESC =
-  "Get your combined life and health insurance license online. $199 state-approved prelicensing with pass guarantee. The most popular license type nationwide.";
+  "Get your combined life and health insurance license online. $199 state-approved prelicensing with pass guarantee in eligible states. The most popular license type nationwide.";
 const CANONICAL = "https://justinsuranceco.com/life-and-health-insurance-license";
 
 export const metadata: Metadata = {
@@ -114,7 +114,7 @@ export default function LifeAndHealthInsuranceLicensePage() {
             Life &amp; Health Insurance License Courses
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Get the broadest insurance license available for $199. One combined course covers life, health, disability, LTC, annuities, and Medicare. Pass guarantee included.
+            Get the broadest insurance license available for $199. One combined course covers life, health, disability, LTC, annuities, and Medicare. Pass guarantee included (available in most states).
           </p>
           <a
             href="#states"
@@ -122,6 +122,13 @@ export default function LifeAndHealthInsuranceLicensePage() {
           >
             Find My State
           </a>
+          <p className="text-blue-200 text-xs leading-relaxed mt-6 max-w-xl mx-auto">
+            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.{" "}
+            <Link href="/pass-rates" className="underline hover:text-gold">
+              Terms
+            </Link>
+            : complete the recommended hours, score 80%+ on the practice exam three times, and sit for your state exam within 30 days of enrolling.
+          </p>
         </div>
       </section>
 
@@ -139,10 +146,10 @@ export default function LifeAndHealthInsuranceLicensePage() {
               The combined life and health insurance license is the single most popular license type for new and experienced agents alike — and for good reason. Instead of limiting yourself to one product category, a combined license authorizes you to sell the full spectrum of personal insurance products: term and permanent life insurance, fixed annuities, individual and group major medical plans, disability income insurance, long-term care insurance, Medicare Supplement plans, and Medicare Advantage plans. This breadth means you can serve one client from the beginning of their career through retirement with products that meet every protection need.
             </p>
             <p>
-              From an income standpoint, the combined license is the highest-ceiling option for most agents. Life insurance renewals build a passive income stream as clients keep their policies. Medicare products pay recurring commissions for as long as the client remains enrolled. Annuity cases can generate some of the largest single-sale commissions in the industry. Agents who hold both lines consistently out-earn single-line agents because they have more entry points to serve each client and more cross-selling opportunities throughout that relationship.
+              From an income standpoint, the combined license is the highest-ceiling option for most agents. Life insurance renewals build a passive income stream as clients keep their policies. Medicare products pay recurring commissions for as long as the client remains enrolled. Annuity cases can generate some of the largest single-sale commissions in the industry. Agents who hold both lines often out-earn single-line agents because they have more entry points to serve each client and more cross-selling opportunities throughout that relationship. Income varies widely by individual, market, and effort — no income level is typical or guaranteed.
             </p>
             <p>
-              The combined prelicensing course covers all the education required for both lines of authority — typically 30 to 40 hours depending on your state. You take a single licensing exam (or two exams on the same day in select states) and receive one license credential authorizing both product categories. JustInsurance offers this course for $199 flat with a pass guarantee. Select your state below to see the specific requirements, hours, and exam format for your market.
+              The combined prelicensing course covers all the education required for both lines of authority — typically 30 to 40 hours depending on your state. You take a single licensing exam (or two exams on the same day in select states) and receive one license credential authorizing both product categories. JustInsurance offers this course for $199 flat with a pass guarantee available in most states (not offered in Ohio, Illinois, or West Virginia). Select your state below to see the specific requirements, hours, and exam format for your market.
             </p>
           </div>
         </div>
@@ -160,6 +167,11 @@ export default function LifeAndHealthInsuranceLicensePage() {
                 <p className="text-gold font-extrabold text-3xl md:text-4xl mb-1">{stat.value}</p>
                 <p className="text-navy font-bold text-sm mb-1">{stat.label}</p>
                 <p className="text-gray-500 text-xs leading-snug">{stat.sub}</p>
+                {stat.label === "First-attempt pass rate" && (
+                  <Link href="/pass-rates" className="block text-[11px] text-navy underline hover:text-gold mt-1">
+                    See methodology →
+                  </Link>
+                )}
               </div>
             ))}
           </div>
@@ -182,7 +194,7 @@ export default function LifeAndHealthInsuranceLicensePage() {
                 href={`/${state.slug}/prelicensing/life-and-health`}
                 className="group flex items-center gap-2 bg-gray-50 hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md border border-gray-100"
               >
-                <span className="text-xs font-bold text-gray-400 group-hover:text-blue-200 w-8 flex-shrink-0">
+                <span className="text-xs font-bold text-gray-500 group-hover:text-blue-200 w-8 flex-shrink-0">
                   {state.abbreviation}
                 </span>
                 <span className="text-sm font-medium text-navy group-hover:text-white leading-tight">

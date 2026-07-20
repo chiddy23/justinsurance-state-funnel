@@ -5,14 +5,14 @@ import CTABanner from "@/components/CTABanner";
 import { SchemaMarkup, generateBreadcrumbSchema } from "@/lib/schema";
 
 export const metadata: Metadata = {
-  title: { absolute: "About JustInsurance — 20,000+ Students Licensed Since 2018" },
+  title: { absolute: "About JustInsurance — 20,000+ Students Trained Since 2018" },
   description:
-    "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% pass rate. 49 states.",
+    "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% completer pass rate. 49 states.",
   alternates: { canonical: "https://justinsuranceco.com/about" },
   openGraph: {
-    title: "About JustInsurance — 20,000+ Students Licensed Since 2018",
+    title: "About JustInsurance — 20,000+ Students Trained Since 2018",
     description:
-      "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% pass rate.",
+      "Founded by licensed agent Justin vom Eigen after watching talented people fail outdated exams. 20,000+ students trained. 93% completer pass rate.",
     url: "https://justinsuranceco.com/about",
     siteName: "JustInsurance",
     type: "website",
@@ -181,8 +181,12 @@ export default function AboutPage() {
             <Link href="/" className="underline hover:text-gold">
               nationwide
             </Link>{" "}
-            with a <strong className="text-white">93% first-attempt pass rate</strong>,
-            offering modern{" "}
+            with a <strong className="text-white">93% first-attempt pass rate</strong>{" "}
+            (among students who complete the course and recommended practice —{" "}
+            <Link href="/pass-rates" className="underline hover:text-gold">
+              see methodology
+            </Link>
+            ), offering modern{" "}
             <Link href="/prelicensing" className="underline hover:text-gold">
               insurance prelicensing courses
             </Link>{" "}
@@ -214,7 +218,7 @@ export default function AboutPage() {
           </div>
           <div>
             <p className="text-3xl md:text-4xl font-extrabold text-navy">20,000+</p>
-            <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">Students Licensed</p>
+            <p className="text-xs text-gray-700 uppercase tracking-wide mt-1">Students Trained</p>
           </div>
         </div>
       </section>
@@ -244,10 +248,16 @@ export default function AboutPage() {
             had explained them to him. The channel grew past 20,000 subscribers. Thousands of
             candidates started messaging him after passing their exams. That was the signal.
           </P>
+          {/* Launch year reconciled to January 2023 to match
+              /about/justin-vom-eigen, which is both more specific ("founded
+              JustInsurance LLC in November 2018; the platform launched in
+              January 2023") and internally corroborated — that page has Justin
+              in an agency-leadership role through December 2022, which a 2022
+              platform launch would overlap. */}
           <P>
-            JustInsurance launched publicly in 2022 as a full prelicensing education platform
-            built on the same principle: explain it the way an agent would, cut the filler, and
-            get people across the finish line.
+            JustInsurance launched publicly in January 2023 as a full prelicensing education
+            platform built on the same principle: explain it the way an agent would, cut the
+            filler, and get people across the finish line.
           </P>
           <Quote author="Justin vom Eigen, Founder & CEO">
             I kept recruiting talented people who would fail their prelicensing exams or quit
@@ -280,7 +290,7 @@ export default function AboutPage() {
           <H3>For Licensed Agents</H3>
           <P>
             For existing producers, we deliver CE packages that cover your state&apos;s required
-            hours plus ethics — reported directly to your Department of Insurance, usually the
+            hours plus ethics — reported directly to your Department of Insurance, typically the
             same business day you finish.
           </P>
 
@@ -311,9 +321,12 @@ export default function AboutPage() {
             ))}
           </div>
           <p className="text-gray-500 text-xs mt-6 text-center max-w-2xl mx-auto">
-            93% first-attempt pass rate reflects JustInsurance student outcomes and is well above
-            the ~46% national average across major state exam providers. Founded 2018, public
-            since 2022.
+            93% first-attempt pass rate reflects JustInsurance student outcomes among students who
+            complete the course and recommended practice. Founded 2018, public since January
+            2023.{" "}
+            <Link href="/pass-rates" className="text-navy font-semibold underline hover:text-gold">
+              See how we calculate this →
+            </Link>
           </p>
         </div>
       </section>
@@ -350,8 +363,8 @@ export default function AboutPage() {
               application walkthroughs.
             </li>
             <li>
-              <strong className="text-navy">30% faster completion</strong> than traditional
-              classroom formats. Students move at their own pace, on any device.
+              <strong className="text-navy">Self-paced completion</strong> — students move at
+              their own pace, on any device, without waiting on a fixed classroom schedule.
             </li>
             <li>
               <strong className="text-navy">Plain English instruction</strong> — no industry
@@ -363,10 +376,20 @@ export default function AboutPage() {
               course.
             </li>
             <li>
-              <strong className="text-navy">Pass guarantee</strong> — complete the course and your
-              practice exams. If you don&apos;t pass, we refund the course fee.
+              <strong className="text-navy">Pass guarantee</strong> (available in most states) —
+              complete the recommended hours, score 80%+ on the practice exam three times, and sit
+              for your state exam within 30 days of enrolling. If you don&apos;t pass, we refund the
+              course fee.
             </li>
           </ul>
+          <p className="text-gray-500 text-xs leading-relaxed mb-6">
+            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or
+            West Virginia.{" "}
+            <Link href="/pass-rates" className="text-navy font-semibold underline hover:text-gold">
+              Full terms
+            </Link>
+            .
+          </p>
           <Quote author="Justin vom Eigen">
             We turned the most boring part of insurance into something that doesn&apos;t make you
             want to quit your career before it starts.
@@ -451,7 +474,7 @@ export default function AboutPage() {
               >
                 <div className="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-2 mb-2">
                   <p className="font-bold text-navy">{p.outlet}</p>
-                  <p className="text-xs text-gray-400">{p.date}</p>
+                  <p className="text-xs text-gray-500">{p.date}</p>
                 </div>
                 <p className="text-gray-600 text-sm leading-relaxed mb-2">{p.title}</p>
                 <a
@@ -495,7 +518,7 @@ export default function AboutPage() {
 
       <CTABanner
         title="Ready to Get Licensed?"
-        subtitle="State-approved prelicensing from $199. Pass guarantee included. Study at your own pace nationwide."
+        subtitle="State-approved prelicensing from $199. Pass guarantee included in most states. Study at your own pace nationwide."
         ctaText="Find My State"
         ctaHref="/#states"
       />

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { STATES } from "@/lib/states";
+import { credentialKindFromHours } from "@/lib/prelicensing-status";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CTABanner from "@/components/CTABanner";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
@@ -8,9 +9,65 @@ import TrustBar from "@/components/TrustBar";
 import PressLogosBar from "@/components/PressLogosBar";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schema";
 
+// ---------------------------------------------------------------------------
+// Coverage, approval, and credential kind are THREE different facts. Conflating
+// them produces claims we cannot substantiate, so every number below is derived
+// from states.ts and self-corrects the moment an approval issues.
+//
+//  1. Coverage — we publish course pages for every state except New York (49).
+//  2. Approval — we hold a state provider approval number only where
+//     providerApprovalNumber !== "PENDING". New York AND Washington are both
+//     "PENDING" today, so the old "49 / State-approved in every market we serve"
+//     stat silently counted Washington as approved.
+//  3. Credential kind — a "state-approved PRELICENSING" claim is only truthful
+//     in states that actually mandate prelicensing and therefore issue a
+//     prelicensing-provider approval. In exam-only states our approval is
+//     CE-only (see src/lib/prelicensing-status.ts), so a blanket "state-approved
+//     prelicensing in N states" would assert a credential we do not hold.
+//
+// Net: of the 49 states we serve, 17 mandate prelicensing and we hold the
+// prelicensing approval in all 17 (New York, the only pending mandate state, is
+// not served). That is what the stat below says — no more.
+// ---------------------------------------------------------------------------
+const ALL_STATES = Object.values(STATES);
+const SERVED_STATES = ALL_STATES.filter((s) => s.slug !== "new-york");
+const SERVED_STATE_COUNT = SERVED_STATES.length;
+
+const mandatesPrelicensing = (s: (typeof ALL_STATES)[number]): boolean =>
+  credentialKindFromHours([
+    s.prelicensing?.life?.hours,
+    s.prelicensing?.health?.hours,
+    s.prelicensing?.lifeAndHealth?.hours,
+  ]) === "prelicensing";
+
+const SERVED_PRELICENSING_STATES = SERVED_STATES.filter(mandatesPrelicensing);
+const SERVED_PRELICENSING_PENDING = SERVED_PRELICENSING_STATES.filter(
+  (s) => s.providerApprovalNumber === "PENDING"
+);
+const SERVED_PRELICENSING_APPROVED_COUNT =
+  SERVED_PRELICENSING_STATES.length - SERVED_PRELICENSING_PENDING.length;
+
+/** "A", "A and B", "A, B, and C" — for naming pending states in prose. */
+const formatStateNames = (states: { name: string }[]): string => {
+  const names = states.map((s) => s.name);
+  if (names.length <= 1) return names.join("");
+  if (names.length === 2) return `${names[0]} and ${names[1]}`;
+  return `${names.slice(0, -1).join(", ")}, and ${names[names.length - 1]}`;
+};
+
+const PRELICENSING_APPROVAL_SUB =
+  SERVED_PRELICENSING_PENDING.length === 0
+    ? `State-approved prelicensing in all ${SERVED_PRELICENSING_STATES.length} states we serve that require it`
+    : `State-approved prelicensing in ${SERVED_PRELICENSING_APPROVED_COUNT} of the ${SERVED_PRELICENSING_STATES.length} states we serve that require it — ${formatStateNames(SERVED_PRELICENSING_PENDING)} approval pending`;
+
+/** Lowercase, mid-sentence form of the same claim, for prose and metadata. */
+const PRELICENSING_APPROVAL_PHRASE =
+  SERVED_PRELICENSING_PENDING.length === 0
+    ? "state-approved in every state we serve that requires prelicensing education"
+    : `state-approved in ${SERVED_PRELICENSING_APPROVED_COUNT} of the ${SERVED_PRELICENSING_STATES.length} states we serve that require prelicensing education`;
+
 const PAGE_TITLE = "Insurance Prelicensing Courses | Nationwide | JustInsurance";
-const PAGE_DESC =
-  "State-approved insurance prelicensing courses online — $199 with pass guarantee. Life, Health, and Life & Health courses, available in 49 states.";
+const PAGE_DESC = `Insurance prelicensing courses online — $199 with pass guarantee in eligible states. Life, Health, and Life & Health courses, available in ${SERVED_STATE_COUNT} states and ${PRELICENSING_APPROVAL_PHRASE}.`;
 const CANONICAL = "https://justinsuranceco.com/prelicensing";
 
 export const metadata: Metadata = {
@@ -51,14 +108,14 @@ const faqs = [
   {
     question: "What happens if I don't pass the licensing exam?",
     answer:
-      "JustInsurance backs every prelicensing course with a pass guarantee. If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. Our 93% first-attempt pass rate reflects the quality of our curriculum, but the guarantee gives you peace of mind either way.",
+      "JustInsurance backs every prelicensing course with a pass guarantee in eligible states (the guarantee is not offered in Ohio, Illinois, or West Virginia). If you complete the recommended study hours for your state (20 hours single line, or 40 hours dual line in states that don't require prelicensing), score 80% or higher on the practice exam three times in a row, and sit for your first-time state exam attempt within 30 days of your first enrollment, we will refund your course fee in full if you don't pass. Our 93% first-attempt pass rate reflects the quality of our curriculum, but the guarantee gives you peace of mind either way.",
   },
 ];
 
 const stats = [
   { value: "$199", label: "Flat course price", sub: "No hidden fees or subscriptions" },
-  { value: "93%", label: "First-attempt pass rate", sub: "vs. ~55% national average" },
-  { value: "49", label: "States covered", sub: "State-approved in every market we serve" },
+  { value: "93%", label: "First-attempt pass rate", sub: "Among students who complete the course" },
+  { value: String(SERVED_STATE_COUNT), label: "States covered", sub: PRELICENSING_APPROVAL_SUB },
   { value: "1–3 wks", label: "Avg. completion time", sub: "Fully self-paced, no deadlines" },
 ];
 
@@ -107,8 +164,7 @@ const webPageSchema = {
   "@type": "WebPage",
   name: "Insurance Prelicensing Courses — Nationwide Coverage",
   url: "https://justinsuranceco.com/prelicensing",
-  description:
-    "State-approved insurance prelicensing courses across 49 states. Life, Health, and Life & Health combined courses for the State Insurance Producer License. $199 with pass guarantee.",
+  description: `Insurance prelicensing courses across ${SERVED_STATE_COUNT} states, ${PRELICENSING_APPROVAL_PHRASE}. Life, Health, and Life & Health combined courses for the State Insurance Producer License. $199 with pass guarantee in eligible states.`,
   mainEntityOfPage: {
     "@type": "WebPage",
     "@id": "https://justinsuranceco.com/prelicensing",
@@ -133,9 +189,9 @@ export default function PrelicensingPage() {
   ]);
   const faqSchema = generateFAQSchema(faqs);
 
-  const states = Object.values(STATES)
-    .filter((s) => s.slug !== "new-york")
-    .sort((a, b) => a.name.localeCompare(b.name));
+  // Same source as SERVED_STATE_COUNT so the rendered list can never drift from
+  // the "N states covered" number. Copy before sorting — sort() mutates.
+  const states = [...SERVED_STATES].sort((a, b) => a.name.localeCompare(b.name));
 
   return (
     <>
@@ -161,8 +217,15 @@ export default function PrelicensingPage() {
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
             Insurance Prelicensing Courses
           </h1>
-          <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            Complete your state-required prelicensing education online for $199. Self-paced, state-approved, and backed by our pass guarantee. Available in 49 states (all except New York).
+          <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-4 max-w-2xl mx-auto">
+            Complete your state-required prelicensing education online for $199. Self-paced and backed by our pass guarantee in eligible states. Available in {SERVED_STATE_COUNT} states (all except New York) — and {PRELICENSING_APPROVAL_PHRASE}.
+          </p>
+          <p className="text-sm text-blue-200/80 mb-8 max-w-2xl mx-auto">
+            Pass guarantee is available in most states and is not offered in Ohio, Illinois, or West Virginia.{" "}
+            <Link href="/pass-rates" className="underline hover:text-white">
+              See guarantee terms
+            </Link>
+            .
           </p>
           <a
             href="#states"
@@ -208,6 +271,11 @@ export default function PrelicensingPage() {
                 <p className="text-gold font-extrabold text-3xl md:text-4xl mb-1">{stat.value}</p>
                 <p className="text-navy font-bold text-sm mb-1">{stat.label}</p>
                 <p className="text-gray-500 text-xs leading-snug">{stat.sub}</p>
+                {stat.label === "First-attempt pass rate" && (
+                  <Link href="/pass-rates" className="block text-[11px] text-navy underline hover:text-gold-deep mt-1">
+                    See methodology →
+                  </Link>
+                )}
               </div>
             ))}
           </div>
@@ -230,7 +298,7 @@ export default function PrelicensingPage() {
                 href={`/${state.slug}/prelicensing`}
                 className="group flex items-center gap-2 bg-gray-50 hover:bg-navy rounded-lg p-3 transition-all hover:shadow-md border border-gray-100"
               >
-                <span className="text-xs font-bold text-gray-400 group-hover:text-blue-200 w-8 flex-shrink-0">
+                <span className="text-xs font-bold text-gray-500 group-hover:text-blue-200 w-8 flex-shrink-0">
                   {state.abbreviation}
                 </span>
                 <span className="text-sm font-medium text-navy group-hover:text-white leading-tight">
@@ -253,6 +321,13 @@ export default function PrelicensingPage() {
               <div key={faq.question} className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
                 <h3 className="font-bold text-navy mb-3 text-lg">{faq.question}</h3>
                 <p className="text-gray-600 leading-relaxed text-sm">{faq.answer}</p>
+                {faq.question === "What happens if I don't pass the licensing exam?" && (
+                  <p className="mt-2 text-xs">
+                    <Link href="/pass-rates" className="text-navy underline hover:text-gold-deep">
+                      See how we calculate this →
+                    </Link>
+                  </p>
+                )}
               </div>
             ))}
           </div>
@@ -286,7 +361,7 @@ export default function PrelicensingPage() {
 
       <CTABanner
         title="Ready to Start Your Prelicensing Course?"
-        subtitle="Pick your state, enroll in minutes, and start studying today. Pass guarantee included with every course."
+        subtitle="Pick your state, enroll in minutes, and start studying today. Pass guarantee included in eligible states."
         ctaText="Find My State"
         ctaHref="#states"
       />

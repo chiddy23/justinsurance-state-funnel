@@ -4,10 +4,16 @@ import Script from "next/script";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import GtmGate from "@/components/GtmGate";
 
 // GA4 (G-MTQQ0C7DKL) is now fired exclusively by GTM (Configuration tag).
 // Direct <GoogleAnalytics> removed 2026-05-01 after SEO team confirmed
 // GTM-injected GA4 was flowing pageviews. Single source of truth via GTM.
+// The GTM bootstrap script itself lives in <GtmGate> so it can be route-gated
+// off of /certificate/* pages, which carry student PII (firstName/lastName/
+// email) on their query string and must never reach GA4. GTM_ID stays here
+// only for the noscript fallback below (see GtmGate.tsx for why that fallback
+// isn't gated).
 const GTM_ID = "GTM-PV25B4HX";
 
 const inter = Inter({
@@ -22,8 +28,11 @@ export const metadata: Metadata = {
     default:
       "Insurance Prelicensing & CE Courses | JustInsurance",
   },
+  // NOTE: keep this fallback description guarantee-free. It is inherited by any
+  // page that doesn't set its own description — including Ohio pages, where
+  // guarantee offers are prohibited (OH Admin. Code 3901-5-07(H)(16)).
   description:
-    "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.",
+    "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% completer pass rate, instant access. From $199.",
   metadataBase: new URL("https://justinsuranceco.com"),
   robots: "index, follow",
   // Explicit icons declaration with STABLE URLs (no Next.js content-hash query strings).
@@ -51,8 +60,11 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Insurance Prelicensing & CE Courses | JustInsurance",
+    // NOTE: keep this fallback description guarantee-free. It is inherited by
+    // every page that doesn't set its own twitter block — including Ohio pages,
+    // where guarantee offers are prohibited (OH Admin. Code 3901-5-07(H)(16)).
     description:
-      "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.",
+      "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% completer pass rate, instant access. From $199.",
     images: ["/og-image.png"],
   },
 };
@@ -65,15 +77,35 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable}>
       <head>
-        <Script id="gtm-init" strategy="afterInteractive">
-          {`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','${GTM_ID}');`}
+        <GtmGate />
+        {/* Cart-link guard: ANY query param before the # on an Absorb hash
+            deep-route (#/AddToCart, #/cart) empties the cart (verified — same
+            failure as the old _gl bug). This strips known tracking params off
+            every myabsorb.com link, defeating any tag-manager decoration.
+            The click listener sits on documentElement in the CAPTURE phase so
+            it runs AFTER document-level decorators and wins the race. */}
+        <Script id="cart-link-guard" strategy="afterInteractive">
+          {`(function(){
+var BAD=['ji_vid','ji_src','_gl','_ga','_gac'];
+function isCart(h){h=(h||'').toLowerCase();return h==='myabsorb.com'||h.slice(-13)==='.myabsorb.com';}
+function clean(u){try{var x=new URL(u,location.href);if(!isCart(x.hostname))return u;var c=false;
+for(var i=0;i<BAD.length;i++){if(x.searchParams.has(BAD[i])){x.searchParams['delete'](BAD[i]);c=true;}}
+return c?x.toString():u;}catch(e){return u;}}
+function sweep(){try{var as=document.getElementsByTagName('a');
+for(var i=0;i<as.length;i++){var a=as[i];try{if(a.href&&isCart(a.hostname)){var c=clean(a.href);if(c!==a.href)a.href=c;}}catch(e){}}}catch(e){}}
+sweep();setInterval(sweep,1500);
+document.documentElement.addEventListener('click',function(ev){
+try{var t=ev.target,a=t&&t.closest?t.closest('a'):null;if(a&&a.href&&isCart(a.hostname)){var c=clean(a.href);if(c!==a.href)a.href=c;}}catch(e){}},true);
+})();`}
         </Script>
       </head>
       <body className="font-sans antialiased bg-white text-gray-dark min-h-screen flex flex-col">
+        <a
+          href="#main-content"
+          className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[100] focus:bg-white focus:text-navy focus:font-semibold focus:px-4 focus:py-2 focus:rounded-md focus:shadow-lg"
+        >
+          Skip to main content
+        </a>
         <noscript>
           <iframe
             src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
@@ -83,7 +115,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           />
         </noscript>
         <Navbar />
-        <main className="flex-grow">{children}</main>
+        <main id="main-content" className="flex-grow">{children}</main>
         <Footer />
       </body>
     </html>

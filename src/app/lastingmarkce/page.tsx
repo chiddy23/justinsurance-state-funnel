@@ -19,7 +19,7 @@ const COUPON_CODE = "LASTINGMARK";
 export const metadata: Metadata = {
   title: "Continuing Education Courses",
   description:
-    "Complete your state-approved insurance continuing education online — fast, self-paced, and the lowest prices in the industry.",
+    "Complete your state-approved insurance continuing education online — fast, self-paced, and affordable all-inclusive pricing.",
   robots: {
     index: false,
     follow: false,
@@ -79,7 +79,7 @@ export default function LastingMarkCEPage() {
             As a Lasting Mark partner, you get{" "}
             <span className="font-semibold text-white">$10 off</span> your
             state-approved continuing education — 100% online, self-paced, and
-            already the lowest prices in the industry.
+            already affordable, all-inclusive pricing.
           </p>
           <div className="mt-8 flex flex-col items-center gap-3">
             <a
@@ -214,7 +214,7 @@ export default function LastingMarkCEPage() {
             Ready to knock out your CE?
           </h2>
           <p className="mt-3 text-white/80">
-            Self-paced, state-approved, and the lowest prices in the industry.
+            Self-paced, state-approved, and affordable all-inclusive pricing.
           </p>
           <a
             href="#pick-state"

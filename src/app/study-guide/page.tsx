@@ -9,7 +9,8 @@ import YouTubeEmbed from "@/components/YouTubeEmbed";
 import StudyGuideStateGrid from "@/components/StudyGuideStateGrid";
 import PracticeQuestionCard from "@/components/PracticeQuestionCard";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
-import { ALL_STATE_SLUGS } from "@/lib/states";
+import { ALL_STATE_SLUGS, STATES, type StateData } from "@/lib/states";
+import { credentialKindFromHours } from "@/lib/prelicensing-status";
 import studyGuideStates from "@/lib/study-guide-states.json";
 import {
   LIFE_INSURANCE_TYPES,
@@ -87,6 +88,106 @@ const videoSchema = {
 
 const VALID_SLUGS = new Set(ALL_STATE_SLUGS);
 
+// ─────────────────────────────────────────────────────────────────────────────
+// Part 4 state table — exam provider and prelicensing hours are DERIVED AT BUILD
+// TIME from STATES (src/lib/states.ts), the single source of truth.
+//
+// study-guide-states.json is a hand-authored file that had drifted badly from
+// states.ts (34 wrong exam providers, 32 states carrying an invented
+// prelicensing-hour mandate). Because this page publishes a named-expert review
+// attestation, those figures are never read from the JSON any more. The JSON is
+// still the source for the fields states.ts does not carry (question count, time
+// limit, passing score, topic weights, retake policy, application note, common
+// failure points, and the law/tip prose).
+// ─────────────────────────────────────────────────────────────────────────────
+
+type StudyGuideState = (typeof studyGuideStates)[number];
+
+const toSlug = (name: string) => name.toLowerCase().replace(/\s+/g, "-");
+
+/**
+ * states.ts stores some providers with a trailing qualifier — e.g.
+ * "PSI (effective September 3, 2025)" or "Kentucky Department of Insurance
+ * (administered directly at ~15 state testing sites; …)". The compact stat tile
+ * shows the provider name only; the parenthetical is dropped for layout, never
+ * for meaning (the remaining name is the provider in force today).
+ */
+const shortProvider = (provider: string) => provider.replace(/\s*\([^)]*\)\s*$/, "").trim();
+
+const hoursLabel = (v: number | string) => (typeof v === "number" ? `${v} hrs` : String(v));
+
+/**
+ * Honest prelicensing label. If no line carries numeric hours the state does not
+ * mandate prelicensing at all (credentialKindFromHours → "ce") and we say
+ * "Not required" rather than printing a number the state does not require.
+ * Handles per-line splits (20/20/40), single-course states (CA 12/12/12 under
+ * AB 943), fully distinct lines (FL 30/40/60), and non-numeric combined values
+ * (WI lifeAndHealth = "no combined license").
+ */
+function formatPrelicensingHours(pre: StateData["prelicensing"]): string {
+  const life = pre.life.hours;
+  const health = pre.health.hours;
+  const both = pre.lifeAndHealth.hours;
+
+  if (credentialKindFromHours([life, health, both]) === "ce") return "Not required";
+
+  if (typeof life === "number" && life === health) {
+    if (both === life) return `${life} hours`;
+    return typeof both === "number"
+      ? `${life} hrs per line · ${both} hrs Life & Health`
+      : `${life} hrs per line · ${both}`;
+  }
+  return `Life ${hoursLabel(life)} · Health ${hoursLabel(health)} · L&H ${hoursLabel(both)}`;
+}
+
+// A number tied to a prelicensing claim ("20-hour pre-licensing course",
+// "40 hours of pre-licensing education"). Deliberately narrow: it must NOT match
+// exam time limits, retake waits, CE hours, or separate product-training
+// mandates such as Nevada's 8-hour senior annuity suitability course.
+const PRELICENSING_HOURS_CLAIM =
+  /\d+[-–\s]*hours?\b[^.]{0,40}?pre-?licens|pre-?licens[^.]{0,40}?\b\d+[-–\s]*hours?/i;
+
+const VENDOR_NAMES = ["Pearson VUE", "Prometric", "PSI"];
+
+/**
+ * True when hand-authored prose asserts something states.ts contradicts: an
+ * hours mandate in a state that requires no prelicensing, or a testing vendor
+ * that is not the state's provider. Such prose is withheld (never rewritten from
+ * memory — the original text stays in study-guide-states.json for re-authoring).
+ */
+function contradictsStateFacts(text: string, facts: StateData): boolean {
+  const kind = credentialKindFromHours([
+    facts.prelicensing.life.hours,
+    facts.prelicensing.health.hours,
+    facts.prelicensing.lifeAndHealth.hours,
+  ]);
+  if (kind === "ce" && PRELICENSING_HOURS_CLAIM.test(text)) return true;
+  return VENDOR_NAMES.some(
+    (v) => new RegExp(`\\b${v}\\b`).test(text) && !facts.examInfo.examProvider.includes(v),
+  );
+}
+
+const tableStates: StudyGuideState[] = studyGuideStates.map((row) => {
+  const facts: StateData | undefined = STATES[toSlug(row.name)];
+
+  // Washington D.C. has no row in states.ts, so nothing can be derived for it.
+  // Its hand-authored values pass through untouched rather than be guessed at.
+  if (!facts) return row;
+
+  const admin = shortProvider(facts.examInfo.examProvider);
+  return {
+    ...row,
+    admin,
+    hours: formatPrelicensingHours(facts.prelicensing),
+    law: contradictsStateFacts(row.law, facts)
+      ? `We're re-verifying our ${row.name} law summary against primary sources. The current, source-verified ${row.name} requirements are on the ${row.name} state page linked below.`
+      : row.law,
+    tip: contradictsStateFacts(row.tip, facts)
+      ? `Exam-day logistics for ${row.name} — test-center options and on-screen tools — are confirmed by ${admin} when you schedule.`
+      : row.tip,
+  };
+});
+
 const crumbs = [
   { name: "Home", href: "/" },
   { name: "Study Guide" },
@@ -101,7 +202,7 @@ function MnemonicCard({ m }: { m: Mnemonic }) {
         </div>
         <div>
           <h4 className="font-bold text-navy leading-tight">{m.title}</h4>
-          <p className="text-sm text-gold-dark italic mt-0.5">{m.phrase}</p>
+          <p className="text-sm text-gold-deep italic mt-0.5">{m.phrase}</p>
         </div>
       </header>
       <ul className="text-sm text-gray-700 space-y-1.5 pl-4">
@@ -209,11 +310,11 @@ export default function StudyGuidePage() {
         <div className="max-w-4xl mx-auto text-center text-sm">
           <p className="text-navy">
             <strong>Ready for a real test?</strong> Our{" "}
-            <Link href="/practice-exam" className="text-gold-dark underline hover:text-gold font-semibold">
+            <Link href="/practice-exam" className="text-gold-deep underline hover:text-gold font-semibold">
               state-specific practice exams
             </Link>{" "}
             mirror the real licensing exam — $59 per state. Or grab the{" "}
-            <Link href="/prelicensing" className="text-gold-dark underline hover:text-gold font-semibold">
+            <Link href="/prelicensing" className="text-gold-deep underline hover:text-gold font-semibold">
               full prelicensing course
             </Link>{" "}
             (includes practice exam).
@@ -333,7 +434,7 @@ export default function StudyGuidePage() {
           <p className="text-center text-gray-600 mb-8 max-w-2xl mx-auto">
             These 50 terms appear on virtually every state exam. Master them and you&apos;ll
             recognize familiar language in almost every question. Terms marked{" "}
-            <span className="inline-block bg-gold/20 text-gold-dark text-xs font-bold px-2 py-0.5 rounded">L&amp;H</span>{" "}
+            <span className="inline-block bg-gold/20 text-gold-deep text-xs font-bold px-2 py-0.5 rounded">L&amp;H</span>{" "}
             are especially important for Life &amp; Health exams.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -341,7 +442,7 @@ export default function StudyGuidePage() {
               <div key={t.name} className="bg-white rounded-lg p-4 border border-gray-200">
                 <p className="font-bold text-navy mb-1 flex items-center gap-2">
                   {t.name}
-                  {t.lh && <span className="bg-gold/20 text-gold-dark text-xs font-bold px-2 py-0.5 rounded">L&amp;H</span>}
+                  {t.lh && <span className="bg-gold/20 text-gold-deep text-xs font-bold px-2 py-0.5 rounded">L&amp;H</span>}
                 </p>
                 <p className="text-sm text-gray-600 leading-relaxed">{t.def}</p>
               </div>
@@ -359,7 +460,7 @@ export default function StudyGuidePage() {
             counts, passing score, prelicensing hours, retake rules, and a one-paragraph state
             law summary.
           </p>
-          <StudyGuideStateGrid states={studyGuideStates} validSlugs={VALID_SLUGS} />
+          <StudyGuideStateGrid states={tableStates} validSlugs={VALID_SLUGS} />
         </div>
       </section>
 
@@ -452,7 +553,7 @@ export default function StudyGuidePage() {
                     { label: "Evening", text: d.evening },
                   ].map((p) => (
                     <div key={p.label}>
-                      <p className="text-xs uppercase tracking-wide text-gold-dark font-bold mb-1">{p.label}</p>
+                      <p className="text-xs uppercase tracking-wide text-gold-deep font-bold mb-1">{p.label}</p>
                       <p className="text-sm text-gray-700 leading-relaxed">{p.text}</p>
                     </div>
                   ))}
@@ -493,7 +594,7 @@ export default function StudyGuidePage() {
           <SectionHeader part="Part 9" title="Closing & Resources" subtitle="You've done the work. Now finish strong." />
           <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed space-y-4">
             <p>You made it to the end of this guide. That says something about you.</p>
-            <p>Most people skim. Most people look for shortcuts. You just worked through the most comprehensive free insurance exam resource available anywhere — and that kind of commitment is exactly what separates first-time passers from students who struggle.</p>
+            <p>Most people skim. Most people look for shortcuts. You just worked through this guide end to end — and that kind of commitment is exactly what separates first-time passers from students who struggle.</p>
             <p>Here&apos;s the truth: <strong className="text-navy">the insurance exam is not designed to trick brilliant people.</strong> It&apos;s designed to screen out people who didn&apos;t prepare. You&apos;ve prepared. Now finish strong.</p>
           </div>
           <div className="bg-navy rounded-2xl p-8 text-center text-white mt-8">

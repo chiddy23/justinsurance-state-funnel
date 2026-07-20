@@ -236,7 +236,7 @@ export default function JustinVomEigenBioPage() {
             </Link>{" "}
             in 49 states, has produced over 120 instructional videos and
             practice-exam banks, and supports more than 1,000 agency
-            partnerships, with 20,000+ students licensed nationwide.
+            partnerships, with 20,000+ students trained nationwide.
           </P>
 
           <P>
@@ -407,7 +407,7 @@ export default function JustinVomEigenBioPage() {
 
       <CTABanner
         title="Ready to Get Licensed?"
-        subtitle="State-approved prelicensing from $199. Pass guarantee included. Study at your own pace nationwide."
+        subtitle="State-approved prelicensing from $199. Pass guarantee included in eligible states. Study at your own pace nationwide."
         ctaText="Find My State"
         ctaHref="/#states"
       />

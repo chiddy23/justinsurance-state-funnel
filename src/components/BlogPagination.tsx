@@ -28,7 +28,7 @@ export default function BlogPagination({ currentCluster, allClusters }: BlogPagi
             href={`/blog/${prev.slug}`}
             className="group flex flex-col items-start gap-0.5 p-4 rounded-xl border border-gray-200 bg-white hover:border-navy hover:shadow-sm transition-all"
           >
-            <span className="text-gray-400 text-xs uppercase tracking-wide font-semibold flex items-center gap-1">
+            <span className="text-gray-500 text-xs uppercase tracking-wide font-semibold flex items-center gap-1">
               <svg
                 className="w-4 h-4"
                 fill="none"
@@ -61,7 +61,7 @@ export default function BlogPagination({ currentCluster, allClusters }: BlogPagi
             href={`/blog/${next.slug}`}
             className="group flex flex-col items-end gap-0.5 p-4 rounded-xl border border-gray-200 bg-white hover:border-navy hover:shadow-sm transition-all w-full sm:w-auto sm:min-w-[220px]"
           >
-            <span className="text-gray-400 text-xs uppercase tracking-wide font-semibold flex items-center gap-1">
+            <span className="text-gray-500 text-xs uppercase tracking-wide font-semibold flex items-center gap-1">
               Next Cluster
               <svg
                 className="w-4 h-4"

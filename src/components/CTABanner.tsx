@@ -15,9 +15,30 @@ interface CTABannerProps {
   state?: string;
   loa?: string;
   courseType?: string;
+  // Optional small muted text rendered under the CTA button — e.g. refund
+  // policy microcopy. Purely additive; existing callers are unaffected.
+  disclosure?: React.ReactNode;
 }
 
-export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalLink = false, state, loa, courseType }: CTABannerProps) {
+// Shared refund-policy microcopy for use as the `disclosure` prop on this
+// component (or dropped inline near any Enroll CTA). Reused across the
+// prelicensing/CE state pages so the refund policy is visible at the
+// point of sale even though checkout itself happens on Absorb.
+export function RefundDisclosure() {
+  return (
+    <>
+      Secure checkout. 30-day refund policy applies (a processing fee may
+      apply; refunds are not available after 30 days or once 50% of the
+      course is complete). See our{" "}
+      <Link href="/terms#payment-refunds" className="underline hover:opacity-75">
+        Refund Policy
+      </Link>
+      .
+    </>
+  );
+}
+
+export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalLink = false, state, loa, courseType, disclosure }: CTABannerProps) {
   const gtmAttrs = getCtaAttrs({ href: ctaHref, location: "cta-banner" });
   return (
     <section className="bg-navy py-16 px-4">
@@ -48,6 +69,11 @@ export default function CTABanner({ title, subtitle, ctaText, ctaHref, externalL
           >
             {ctaText}
           </Link>
+        )}
+        {disclosure && (
+          <p className="text-blue-200 text-xs mt-4 leading-relaxed">
+            {disclosure}
+          </p>
         )}
       </div>
     </section>

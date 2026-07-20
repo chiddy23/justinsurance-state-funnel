@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Link from "next/link";
 import { getCtaAttrs } from "@/lib/gtm-attrs";
 import AddToCartLink from "@/components/AddToCartLink";
 
@@ -32,6 +33,15 @@ export default function StickyMobileCTA({ text, href, price, state, loa, courseT
           {text}
           {price && <span className="ml-1 font-extrabold">&mdash; {price}</span>}
         </AddToCartLink>
+        <p className="text-center text-[11px] text-gray-500 mt-1.5">
+          <Link
+            href="/terms#payment-refunds"
+            aria-label="Refund policy"
+            className="underline hover:text-gray-600"
+          >
+            Refund policy
+          </Link>
+        </p>
       </div>
     </div>
   );

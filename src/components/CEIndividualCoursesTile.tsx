@@ -19,6 +19,9 @@ interface CEIndividualCoursesTileProps {
   /** Tailwind classes for the wrapping <section>. Lets each page match its
    *  surrounding background (gray vs white) and spacing. */
   sectionClassName?: string;
+  /** Pending-approval states (NY, WA) cannot claim DOI reporting yet; drops the
+   *  "same-day reporting" line. Defaults true (approved states unchanged). */
+  providerApproved?: boolean;
 }
 
 export default function CEIndividualCoursesTile({
@@ -26,6 +29,7 @@ export default function CEIndividualCoursesTile({
   stateName,
   doiName,
   sectionClassName = "bg-gray-bg px-4 pb-16",
+  providerApproved = true,
 }: CEIndividualCoursesTileProps) {
   const ceCatalog = (
     catalogLinks as Record<string, { "continuing-education"?: Record<string, string> }>
@@ -50,7 +54,7 @@ export default function CEIndividualCoursesTile({
           })}
           className="block bg-white border-l-4 border-navy rounded-r-xl p-5 shadow-sm hover:shadow-md hover:bg-gray-50 transition-all group"
         >
-          <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-1">
+          <p className="text-gold-deep font-semibold uppercase tracking-wide text-xs mb-1">
             Need just one topic?
           </p>
           <p className="text-navy font-bold text-base md:text-lg group-hover:underline">
@@ -58,8 +62,15 @@ export default function CEIndividualCoursesTile({
           </p>
           <p className="text-gray-600 text-sm mt-1">
             Prefer to build your own hours? Pick à-la-carte CE courses to fill a
-            specific gap or top off your remaining {stateName} hours — same-day{" "}
-            {doiName} reporting on every course.
+            specific gap or top off your remaining {stateName} hours
+            {providerApproved ? (
+              <>
+                {" "}
+                — with typically same-day {doiName} reporting.
+              </>
+            ) : (
+              "."
+            )}
           </p>
         </a>
       </div>

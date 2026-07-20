@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { getStateBySlug } from "@/lib/states";
+import { credentialKindFromHours } from "@/lib/prelicensing-status";
 
 type CurrentPage =
   | "state-hub"
@@ -34,6 +36,19 @@ function buildLinks(
   currentPage: CurrentPage,
   currentLoa?: string
 ): LinkItem[] {
+  // Only claim "state-approved PRELICENSING" where such an approval actually
+  // exists: the provider approval must be granted (not PENDING) AND the state
+  // must actually regulate prelicensing. In exam-only states the approval is
+  // CE-only, so "state-approved prelicensing" asserts a credential we don't hold.
+  const _st = getStateBySlug(stateSlug);
+  const prelicensingApproved =
+    !!_st &&
+    _st.providerApprovalNumber !== "PENDING" &&
+    credentialKindFromHours([
+      _st.prelicensing.life.hours,
+      _st.prelicensing.health.hours,
+      _st.prelicensing.lifeAndHealth.hours,
+    ]) === "prelicensing";
   const all: LinkItem[] = [
     {
       href: `/${stateSlug}`,
@@ -44,7 +59,7 @@ function buildLinks(
     {
       href: `/${stateSlug}/requirements`,
       title: `${stateName} License Requirements`,
-      description: `Step-by-step legal and documentation requirements from the ${stateName} Department of Insurance.`,
+      description: `Step-by-step legal and documentation requirements to get licensed in ${stateName}.`,
       badge: "Requirements",
     },
     {
@@ -56,7 +71,7 @@ function buildLinks(
     {
       href: `/${stateSlug}/prelicensing`,
       title: `${stateName} Prelicensing Courses`,
-      description: `All state-approved prelicensing course options for ${stateName}.`,
+      description: `All ${prelicensingApproved ? "state-approved " : ""}prelicensing course options for ${stateName}.`,
       badge: "Prelicensing",
     },
     {
@@ -74,7 +89,7 @@ function buildLinks(
     {
       href: `/${stateSlug}/prelicensing/life-and-health`,
       title: `${stateName} Life & Health Prelicensing`,
-      description: `Combined Life & Health prelicensing course for ${stateName}.`,
+      description: `Life & Health prelicensing course for ${stateName}.`,
       badge: "L&H",
     },
     {
@@ -147,10 +162,10 @@ export default function RelatedStatePages({
               href={link.href}
               className={`block ${cardBg} hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors group`}
             >
-              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">
+              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-deep mb-1">
                 {link.badge}
               </p>
-              <h3 className="font-semibold text-navy text-sm mb-1 group-hover:text-gold-dark transition-colors leading-snug">
+              <h3 className="font-semibold text-navy text-sm mb-1 group-hover:text-gold-deep transition-colors leading-snug">
                 {link.title}
               </h3>
               <p className="text-gray-600 text-xs leading-relaxed">{link.description}</p>

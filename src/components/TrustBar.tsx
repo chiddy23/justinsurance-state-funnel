@@ -1,5 +1,8 @@
 import React from "react";
 import { TRUSTPILOT } from "@/lib/trustpilot";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { getGoogleReviews } from "@/lib/google-reviews";
+import { getStateBySlug } from "@/lib/states";
 
 interface TrustSignal {
   icon: React.ReactNode;
@@ -36,7 +39,7 @@ const TRUST_SIGNALS: TrustSignal[] = [
         <path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" fill="#EA4335"/>
       </svg>
     ),
-    label: "5.0 on Google",
+    label: "4.9 on Google",
     sub: "Verified Google reviews",
     href: "https://www.google.com/search?q=JustInsurance+Pembroke+Pines+FL+reviews",
   },
@@ -67,7 +70,7 @@ const TRUST_SIGNALS: TrustSignal[] = [
       </svg>
     ),
     label: "Same-Day Reporting",
-    sub: "Reported same business day",
+    sub: "Typically reported same business day",
   },
   {
     icon: (
@@ -80,12 +83,95 @@ const TRUST_SIGNALS: TrustSignal[] = [
   },
 ];
 
-export default function TrustBar() {
+// 1-for-1 replacement for the Pass Guarantee signal in states where the
+// guarantee cannot be offered (Ohio Admin. Code 3901-5-07(H)(16)). Keeps the
+// 7-slot layout intact.
+const INSTANT_ACCESS_SIGNAL: TrustSignal = {
+  icon: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+    </svg>
+  ),
+  label: "Instant Course Access",
+  sub: "Start studying in minutes",
+};
+
+// Replacement signals for states whose JustInsurance provider approval is still
+// PENDING (currently New York and Washington). We must not display an active
+// "State-Approved / Official course approval" badge or a "Same-Day Reporting"
+// badge, because both assert an approval the state has not granted. These swap
+// in 1-for-1 and auto-revert the moment providerApprovalNumber is set.
+const STATE_STANDARDS_SIGNAL: TrustSignal = {
+  icon: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+    </svg>
+  ),
+  label: "Built to State Standards",
+  sub: "Aligned to the state exam outline",
+};
+const ONLINE_SELF_PACED_SIGNAL: TrustSignal = {
+  icon: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+    </svg>
+  ),
+  label: "100% Online",
+  sub: "Self-paced on any device",
+};
+
+interface TrustBarProps {
+  /** State page slug (e.g. "ohio"). When the state excludes the pass
+   * guarantee, that signal is swapped for a neutral one. Omit on national
+   * pages — rendering is unchanged. */
+  stateSlug?: string;
+}
+
+export default async function TrustBar({ stateSlug }: TrustBarProps) {
+  // Live Google Business Profile rating + count (auto-updates via ISR; falls
+  // back to the static display when no API key/place ID is configured).
+  const google = await getGoogleReviews();
+
+  // Pending-approval gate: states with providerApprovalNumber === "PENDING"
+  // (currently NY, WA) cannot show the active "State-Approved" or "Same-Day
+  // Reporting" badges — the approval that would make them true has not issued.
+  const state = stateSlug ? getStateBySlug(stateSlug) : undefined;
+  const providerApproved = !state || state.providerApprovalNumber !== "PENDING";
+
+  // Audit 2026-07-14: on NATIONAL pages (no stateSlug) the bar is visible to
+  // visitors from excluded states too, so the guarantee signal must carry the
+  // eligibility hedge. State pages keep the short label (full terms render in
+  // PassGuarantee on the same page); excluded states swap the signal entirely.
+  const base = TRUST_SIGNALS.map((signal) => {
+    if (!providerApproved) {
+      if (signal.label === "State-Approved") return STATE_STANDARDS_SIGNAL;
+      if (signal.label === "Same-Day Reporting") return ONLINE_SELF_PACED_SIGNAL;
+    }
+    if (signal.label === "Pass Guarantee") {
+      if (!stateSlug)
+        return { ...signal, sub: "Pass or we refund — eligible states, terms apply" };
+      if (!hasPassGuarantee(stateSlug)) return INSTANT_ACCESS_SIGNAL;
+    }
+    return signal;
+  });
+
+  const signals = base.map((signal) =>
+    signal.label.endsWith("on Google")
+      ? {
+          ...signal,
+          label: `${google.rating} on Google`,
+          sub:
+            google.count > 0
+              ? `${google.count.toLocaleString()} verified Google reviews`
+              : signal.sub,
+        }
+      : signal
+  );
   return (
     <section className="bg-gray-bg border-b border-gray-200 py-4">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-wrap justify-center gap-x-6 gap-y-4 lg:grid lg:grid-cols-7 lg:gap-0">
-          {TRUST_SIGNALS.map((signal) => {
+          {signals.map((signal) => {
             const inner = (
               <>
                 <span className="text-navy flex-shrink-0">{signal.icon}</span>

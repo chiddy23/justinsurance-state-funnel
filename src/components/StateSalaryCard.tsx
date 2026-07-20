@@ -103,10 +103,13 @@ export default function StateSalaryCard({
             </a>
             , {row.updatedYear}.
             {usedFallback && (
-              <span className="block mt-1 text-gray-400">
+              <span className="block mt-1 text-gray-500">
                 {stateName}-specific figures suppressed or unavailable in this BLS release; United States totals shown.
               </span>
             )}
+          </p>
+          <p className="mt-1 text-xs text-gray-500">
+            Illustrative figures from public labor-market data; not a guarantee of income. Individual results vary.
           </p>
         </div>
       </div>

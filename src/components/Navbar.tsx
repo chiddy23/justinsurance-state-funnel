@@ -16,7 +16,6 @@ const RESOURCES_LINKS = [
   { label: "Blog", href: "/blog" },
   { label: "Exam Guide", href: "/insurance-exam-guide" },
   { label: "Study Guide", href: "/study-guide" },
-  { label: "Compare Providers", href: "/compare" },
   { label: "Renewal Guide", href: "/license-renewal-guide" },
   { label: "FAQ", href: "/faq" },
   { label: "Pass Rates", href: "/pass-rates" },
@@ -31,7 +30,6 @@ const POPULAR_STATES = [
   { name: "Florida", slug: "florida" },
   { name: "Texas", slug: "texas" },
   { name: "California", slug: "california" },
-  { name: "New York", slug: "new-york" },
   { name: "Georgia", slug: "georgia" },
   { name: "Ohio", slug: "ohio" },
   { name: "Illinois", slug: "illinois" },
@@ -69,11 +67,22 @@ export default function Navbar() {
               className="relative"
               onMouseEnter={() => setDropdownOpen(true)}
               onMouseLeave={() => setDropdownOpen(false)}
+              onBlur={(e) => {
+                if (!e.currentTarget.contains(e.relatedTarget as Node)) {
+                  setDropdownOpen(false);
+                }
+              }}
             >
               <Link
                 href="/#states"
                 className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium py-4"
                 aria-expanded={dropdownOpen}
+                onFocus={() => setDropdownOpen(true)}
+                onKeyDown={(e) => {
+                  if (e.key === "Escape") {
+                    setDropdownOpen(false);
+                  }
+                }}
               >
                 Browse States
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -109,10 +118,21 @@ export default function Navbar() {
               className="relative"
               onMouseEnter={() => setCoursesOpen(true)}
               onMouseLeave={() => setCoursesOpen(false)}
+              onBlur={(e) => {
+                if (!e.currentTarget.contains(e.relatedTarget as Node)) {
+                  setCoursesOpen(false);
+                }
+              }}
             >
               <button
                 className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium py-4"
                 aria-expanded={coursesOpen}
+                onClick={() => setCoursesOpen((prev) => !prev)}
+                onKeyDown={(e) => {
+                  if (e.key === "Escape") {
+                    setCoursesOpen(false);
+                  }
+                }}
               >
                 Courses
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -140,10 +160,21 @@ export default function Navbar() {
               className="relative"
               onMouseEnter={() => setResourcesOpen(true)}
               onMouseLeave={() => setResourcesOpen(false)}
+              onBlur={(e) => {
+                if (!e.currentTarget.contains(e.relatedTarget as Node)) {
+                  setResourcesOpen(false);
+                }
+              }}
             >
               <button
                 className="flex items-center gap-1 text-white hover:text-gold transition-colors font-medium py-4"
                 aria-expanded={resourcesOpen}
+                onClick={() => setResourcesOpen((prev) => !prev)}
+                onKeyDown={(e) => {
+                  if (e.key === "Escape") {
+                    setResourcesOpen(false);
+                  }
+                }}
               >
                 Resources
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -183,6 +214,8 @@ export default function Navbar() {
             className="md:hidden text-white p-2"
             onClick={() => setMobileOpen(!mobileOpen)}
             aria-label="Toggle menu"
+            aria-expanded={mobileOpen}
+            aria-controls="mobile-menu"
           >
             {mobileOpen ? (
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -199,7 +232,7 @@ export default function Navbar() {
 
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className="md:hidden bg-navy-dark border-t border-navy-light max-h-[80vh] overflow-y-auto">
+        <div id="mobile-menu" className="md:hidden bg-navy-dark border-t border-navy-light max-h-[80vh] overflow-y-auto">
           <div className="px-4 py-3 space-y-1">
             <p className="text-gold font-semibold text-sm uppercase tracking-wide py-2">Popular States</p>
             {POPULAR_STATES.map((state) => (

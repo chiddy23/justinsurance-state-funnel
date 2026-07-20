@@ -19,7 +19,7 @@ export default function PressLogosBar() {
             aria-label="Read our NASDAQ TradeTalks coverage"
             className="group flex items-center gap-2 bg-white border border-gray-200 hover:border-gold rounded-full px-4 py-1.5 transition-colors"
           >
-            <span className="text-navy font-bold text-sm group-hover:text-gold-dark transition-colors">
+            <span className="text-navy font-bold text-sm group-hover:text-gold-deep transition-colors">
               NASDAQ
             </span>
             <span className="text-gray-500 text-xs">TradeTalks</span>
@@ -30,7 +30,7 @@ export default function PressLogosBar() {
             aria-label="Read our Yahoo Finance coverage"
             className="group flex items-center gap-2 bg-white border border-gray-200 hover:border-gold rounded-full px-4 py-1.5 transition-colors"
           >
-            <span className="text-navy font-bold text-sm group-hover:text-gold-dark transition-colors">
+            <span className="text-navy font-bold text-sm group-hover:text-gold-deep transition-colors">
               Yahoo<span className="text-purple-600">!</span>
             </span>
             <span className="text-gray-500 text-xs">Finance</span>
@@ -42,7 +42,7 @@ export default function PressLogosBar() {
             className="group flex items-center gap-2 bg-white border border-gray-200 hover:border-gold rounded-full px-4 py-1.5 transition-colors"
           >
             <span className="text-gray-500 text-xs">Founded by</span>
-            <span className="text-navy font-bold text-sm group-hover:text-gold-dark transition-colors">
+            <span className="text-navy font-bold text-sm group-hover:text-gold-deep transition-colors">
               Justin vom Eigen
             </span>
           </Link>

@@ -55,7 +55,7 @@ function StateCard({
           <span>{state.name}</span>
           <span
             className={`text-xl transition-transform duration-200 ${
-              isOpen ? "rotate-180 text-gold-dark" : "text-gold"
+              isOpen ? "rotate-180 text-gold-deep" : "text-gold"
             }`}
             aria-hidden="true"
           >
@@ -75,7 +75,7 @@ function StateCard({
           { label: "Retake Policy", val: state.retake },
         ].map((s) => (
           <div key={s.label}>
-            <p className="text-xs uppercase tracking-wide text-gold-dark font-semibold mb-0.5">
+            <p className="text-xs uppercase tracking-wide text-gold-deep font-semibold mb-0.5">
               {s.label}
             </p>
             <p className="text-navy font-semibold leading-tight">{s.val}</p>
@@ -92,7 +92,7 @@ function StateCard({
               {state.topics.map((t) => (
                 <span
                   key={t}
-                  className="bg-gold/15 text-gold-dark text-xs font-semibold px-3 py-1 rounded-full"
+                  className="bg-gold/15 text-gold-deep text-xs font-semibold px-3 py-1 rounded-full"
                 >
                   {t}
                 </span>
@@ -132,13 +132,13 @@ function StateCard({
             <div className="pt-4 border-t border-gray-100 grid grid-cols-1 sm:grid-cols-3 gap-2">
               <Link
                 href={`/${slug}`}
-                className="text-center bg-gray-bg hover:bg-gold/10 hover:text-gold-dark border border-gray-200 hover:border-gold text-navy font-semibold rounded-lg py-2 px-3 text-xs transition-colors"
+                className="text-center bg-gray-bg hover:bg-gold/10 hover:text-gold-deep border border-gray-200 hover:border-gold text-navy font-semibold rounded-lg py-2 px-3 text-xs transition-colors"
               >
                 {state.name} Overview
               </Link>
               <Link
                 href={`/${slug}/prelicensing`}
-                className="text-center bg-gray-bg hover:bg-gold/10 hover:text-gold-dark border border-gray-200 hover:border-gold text-navy font-semibold rounded-lg py-2 px-3 text-xs transition-colors"
+                className="text-center bg-gray-bg hover:bg-gold/10 hover:text-gold-deep border border-gray-200 hover:border-gold text-navy font-semibold rounded-lg py-2 px-3 text-xs transition-colors"
               >
                 Prelicensing Course
               </Link>

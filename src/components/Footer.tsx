@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { SITE_CANARY, HONEYPOT_PATH } from "@/lib/canary";
 
 const POPULAR_STATES = [
   { name: "Florida", slug: "florida" },
@@ -61,8 +62,8 @@ export default function Footer() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
                 <div>
-                  <p className="mb-1"><span className="text-gray-400 text-xs uppercase tracking-wide">Mail:</span> PO BOX 1025, Rincon PR 00677</p>
-                  <p><span className="text-gray-400 text-xs uppercase tracking-wide">Registered:</span> 1806 N Flamingo Rd Ste 230, Pembroke Pines, FL 33028</p>
+                  <p className="mb-1"><span className="text-gray-500 text-xs uppercase tracking-wide">Mail:</span> PO BOX 1025, Rincon PR 00677</p>
+                  <p><span className="text-gray-500 text-xs uppercase tracking-wide">Registered:</span> 1806 N Flamingo Rd Ste 230, Pembroke Pines, FL 33028</p>
                 </div>
               </div>
             </div>
@@ -92,7 +93,6 @@ export default function Footer() {
               <li><Link href="/faq" className="text-gray-300 hover:text-gold transition-colors text-sm">FAQ</Link></li>
               <li><Link href="/pass-rates" className="text-gray-300 hover:text-gold transition-colors text-sm">Pass Rates by State</Link></li>
               <li><Link href="/reviews" className="text-gray-300 hover:text-gold transition-colors text-sm">Reviews</Link></li>
-              <li><Link href="/compare" className="text-gray-300 hover:text-gold transition-colors text-sm">Compare Providers</Link></li>
               <li><Link href="/insurance-license-cost" className="text-gray-300 hover:text-gold transition-colors text-sm">License Cost</Link></li>
               <li><Link href="/how-long-to-get-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Licensing Timeline</Link></li>
               <li><Link href="/non-resident-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Non-Resident License</Link></li>
@@ -166,7 +166,6 @@ export default function Footer() {
               <li><Link href="/blog/florida-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Florida License</Link></li>
               <li><Link href="/blog/texas-insurance-license" className="text-gray-300 hover:text-gold transition-colors text-sm">Texas License</Link></li>
               <li><Link href="/blog/state-license-california" className="text-gray-300 hover:text-gold transition-colors text-sm">California License</Link></li>
-              <li><Link href="/blog/state-license-new-york" className="text-gray-300 hover:text-gold transition-colors text-sm">New York License</Link></li>
               <li><Link href="/blog/how-to-become-an-insurance-agent" className="text-gray-300 hover:text-gold transition-colors text-sm">Become an Agent</Link></li>
               <li><Link href="/blog" className="text-gold hover:text-gold-light transition-colors text-sm font-medium">View All Articles &rarr;</Link></li>
             </ul>
@@ -181,24 +180,61 @@ export default function Footer() {
               <li><Link href="/contact" className="text-gray-300 hover:text-gold transition-colors text-sm">Contact</Link></li>
               <li><Link href="/privacy-policy" className="text-gray-300 hover:text-gold transition-colors text-sm">Privacy Policy</Link></li>
               <li><Link href="/terms" className="text-gray-300 hover:text-gold transition-colors text-sm">Terms of Service</Link></li>
+              <li><Link href="/accessibility" className="text-gray-300 hover:text-gold transition-colors text-sm">Accessibility</Link></li>
+              <li><Link href="/disclosures" className="text-gray-300 hover:text-gold transition-colors text-sm">Disclosures</Link></li>
+              <li><Link href="/privacy-policy#do-not-sell" className="text-gray-300 hover:text-gold transition-colors text-sm">Do Not Sell or Share My Personal Information</Link></li>
             </ul>
           </div>
         </div>
 
         {/* Bottom bar */}
-        <div className="border-t border-navy-light mt-10 pt-6 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-gray-400 text-sm text-center sm:text-left">
-            &copy; {new Date().getFullYear()} JustInsurance LLC. All rights reserved.
+        <div className="border-t border-navy-light mt-10 pt-6 flex flex-col gap-4">
+          <p className="text-gray-300 text-xs leading-relaxed text-center sm:text-left max-w-4xl">
+            JustInsurance provides state-approved insurance education. Our courses, blog posts,
+            and guides are for general educational and informational purposes only and are not
+            legal, tax, financial, or regulatory advice. Licensing and CE requirements change
+            frequently &mdash; always verify current rules with your state insurance
+            regulator and consult a qualified professional before acting.
           </p>
-          <div className="flex items-center gap-4">
-            <a href="https://www.youtube.com/@InsuranceExam" target="_blank" rel="noopener noreferrer" aria-label="YouTube" className="text-gray-400 hover:text-gold transition-colors">
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-            </a>
-            <a href="https://www.linkedin.com/in/justin-vom-eigen-04198714a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-gray-400 hover:text-gold transition-colors">
-              <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
-            </a>
+          <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
+            <p className="text-gray-300 text-sm text-center sm:text-left">
+              &copy; {new Date().getFullYear()} JustInsurance LLC. All rights reserved.
+            </p>
+            <div className="flex items-center gap-4">
+              <a href="https://www.youtube.com/@InsuranceExam" target="_blank" rel="noopener noreferrer" aria-label="YouTube" className="text-gray-500 hover:text-gold transition-colors">
+                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+              </a>
+              <a href="https://www.linkedin.com/in/justin-vom-eigen-04198714a/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-gray-500 hover:text-gold transition-colors">
+                <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+              </a>
+            </div>
           </div>
         </div>
+      </div>
+      {/* Content-scrape tripwire (audit 2026-07-15) — static, SSR-visible to
+          non-JS crawlers, zero render-cost. Hidden site marker + a crawler-only
+          link to the honeypot trap. See src/lib/canary.ts. */}
+      <div
+        aria-hidden="true"
+        style={{
+          position: "absolute",
+          width: 1,
+          height: 1,
+          margin: -1,
+          padding: 0,
+          overflow: "hidden",
+          clip: "rect(0 0 0 0)",
+          whiteSpace: "nowrap",
+          border: 0,
+        }}
+      >
+        <span>
+          Editorial reference {SITE_CANARY}. © JustInsurance; unauthorized
+          reproduction of this content is monitored.
+        </span>
+        <a href={HONEYPOT_PATH} tabIndex={-1} rel="nofollow">
+          reference index
+        </a>
       </div>
     </footer>
   );

@@ -1,5 +1,6 @@
 import React from "react";
 import type { StateData } from "@/lib/states";
+import { formatPassingScore } from "@/lib/exam-score";
 
 interface StateRequirementsBlockProps {
   stateData: StateData;
@@ -11,8 +12,14 @@ function isOptionalHours(hours: number | string): boolean {
   return lower.includes("none required") || lower.includes("not required");
 }
 
-function formatHoursDisplay(hours: number | string): string {
-  if (isOptionalHours(hours)) return "40 hrs (recommended)";
+function formatHoursDisplay(hours: number | string, completionTime?: string): string {
+  const ct = completionTime ? completionTime.match(/\d+/) : null;
+  // Optional-prelicensing states: recommended hours come from THIS line's
+  // completionTime (Life/Health 20, L&H 40), not a hardcoded 40.
+  if (isOptionalHours(hours)) return ct ? `${ct[0]} hrs (recommended)` : "40 hrs (recommended)";
+  // Non-numeric marker like "no combined license" (Wisconsin): show the line's
+  // completionTime hours instead of the marker text.
+  if (typeof hours === "string" && !/^\s*\d/.test(hours)) return ct ? `${ct[0]} hours` : `${hours}`;
   return `${hours} hours`;
 }
 
@@ -47,15 +54,15 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
             <ul className="space-y-2 text-sm">
               <li className="flex justify-between py-2 border-b border-gray-100">
                 <span className="text-gray-500">Life Only</span>
-                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.life.hours)} &mdash; {prelicensing.life.price}</span>
+                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.life.hours, prelicensing.life.completionTime)} &mdash; {prelicensing.life.price}</span>
               </li>
               <li className="flex justify-between py-2 border-b border-gray-100">
                 <span className="text-gray-500">Health Only</span>
-                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.health.hours)} &mdash; {prelicensing.health.price}</span>
+                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.health.hours, prelicensing.health.completionTime)} &mdash; {prelicensing.health.price}</span>
               </li>
               <li className="flex justify-between py-2">
                 <span className="text-gray-500">Life &amp; Health</span>
-                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.lifeAndHealth.hours)} &mdash; {prelicensing.lifeAndHealth.price}</span>
+                <span className="font-semibold text-navy">{formatHoursDisplay(prelicensing.lifeAndHealth.hours, prelicensing.lifeAndHealth.completionTime)} &mdash; {prelicensing.lifeAndHealth.price}</span>
               </li>
             </ul>
             {hasOptionalPrelicensing && (
@@ -104,7 +111,7 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
               </li>
               <li className="flex justify-between py-2 border-b border-gray-100">
                 <span className="text-gray-500">Passing Score</span>
-                <span className="font-semibold text-navy">{examInfo.passingScore}%</span>
+                <span className="font-semibold text-navy">{formatPassingScore(stateData.slug, examInfo.passingScore)}</span>
               </li>
               <li className="flex justify-between py-2 border-b border-gray-100">
                 <span className="text-gray-500">Exam Fee</span>
@@ -144,8 +151,8 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
             )}
             {noCombinedExam && (
               <div className="bg-amber-50 rounded-lg p-3 mb-4">
-                <p className="text-gold-dark text-xs font-semibold">No combined Life &amp; Health exam</p>
-                <p className="text-gray-600 text-xs mt-1">Life and Health exams must be scheduled and taken separately in {name}.</p>
+                <p className="text-gold-deep text-xs font-semibold">No combined Life &amp; Health exam</p>
+                <p className="text-gray-600 text-xs mt-1">Life and Health are separate exams in {name} — there is no single combined exam.</p>
               </div>
             )}
             <a

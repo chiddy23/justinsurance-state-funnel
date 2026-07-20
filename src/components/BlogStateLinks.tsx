@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { getStateForCluster } from "@/lib/blog-cluster-state-map";
+import { getStateBySlug } from "@/lib/states";
+import { credentialKindFromHours } from "@/lib/prelicensing-status";
 
 interface BlogStateLinksProps {
   clusterSlug: string;
@@ -20,18 +22,36 @@ interface LinkCard {
 // middleware 308-redirects trailing slashes, so a trailing slash here would
 // waste a redirect hop and dilute the internal-link equity on ~800 posts.
 function buildLinksForState(stateSlug: string, stateName: string, full: boolean): LinkCard[] {
+  // Only 18 states mandate prelicensing; in the other 32 our approval is CE-ONLY,
+  // so claiming "state-approved prelicensing" — or asserting the state HAS a
+  // "prelicensing requirement" — is false there. These cards render on ~391 blog
+  // posts in exam-only clusters (TN, VA, NC, PA, MD, WA, AZ, ...), several of
+  // which repealed their mandate outright. Gate on the real credential kind.
+  const _st = getStateBySlug(stateSlug);
+  const prelicensingRequired =
+    !!_st &&
+    credentialKindFromHours([
+      _st.prelicensing.life.hours,
+      _st.prelicensing.health.hours,
+      _st.prelicensing.lifeAndHealth.hours,
+    ]) === "prelicensing";
+
   const cards: LinkCard[] = [
     {
       href: `/${stateSlug}`,
       badge: "Overview",
       title: `${stateName} Insurance Licensing`,
-      description: `State-approved prelicensing & CE courses for ${stateName} agents.`,
+      description: prelicensingRequired
+        ? `State-approved prelicensing & CE courses for ${stateName} agents.`
+        : `Exam-prep & state-approved CE courses for ${stateName} agents.`,
     },
     {
       href: `/${stateSlug}/prelicensing`,
       badge: "Prelicensing",
       title: `${stateName} Prelicensing Courses`,
-      description: `All state-approved options to satisfy ${stateName}'s prelicensing requirement.`,
+      description: prelicensingRequired
+        ? `All state-approved options to satisfy ${stateName}'s prelicensing requirement.`
+        : `Exam-prep course options for ${stateName} — no state prelicensing requirement.`,
     },
     {
       // Requirements is the priority in-post link — these pages sit on page 2
@@ -45,7 +65,7 @@ function buildLinksForState(stateSlug: string, stateName: string, full: boolean)
       href: `/${stateSlug}/continuing-education`,
       badge: "CE",
       title: `${stateName} Continuing Education`,
-      description: `Renew your ${stateName} license with same-day CE reporting.`,
+      description: `Renew your ${stateName} license with same-day CE reporting in most cases.`,
     },
   ];
 
@@ -86,13 +106,13 @@ function buildGenericLinks(clusterSlug: string): LinkCard[] {
     href: "/property-and-casualty-ce",
     badge: "P&C CE",
     title: "Property & Casualty CE",
-    description: "State-approved P&C continuing education with same-day reporting.",
+    description: "State-approved P&C continuing education with same-day reporting in most cases.",
   };
   const CE: LinkCard = {
     href: "/continuing-education",
     badge: "CE",
     title: "Continuing Education Courses",
-    description: "Renew your license with state-approved CE and same-day reporting.",
+    description: "Renew your license with state-approved CE and same-day reporting in most cases.",
   };
 
   if (clusterSlug === "p-and-c-exam-prep") return [PC, PRELICENSING, EXAM];
@@ -127,7 +147,7 @@ export default function BlogStateLinks({
   return (
     <section className="bg-gray-bg py-12 px-4 border-t border-gray-100">
       <div className="max-w-5xl mx-auto">
-        <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-2">
+        <p className="text-gold-deep font-semibold uppercase tracking-wide text-xs mb-2">
           {eyebrow}
         </p>
         <h2 className="text-xl md:text-2xl font-bold text-navy mb-2">
@@ -141,10 +161,10 @@ export default function BlogStateLinks({
               href={link.href}
               className="block bg-white hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors group"
             >
-              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">
+              <p className="text-[10px] font-bold uppercase tracking-wide text-gold-deep mb-1">
                 {link.badge}
               </p>
-              <h3 className="font-semibold text-navy text-sm mb-1 group-hover:text-gold-dark transition-colors leading-snug">
+              <h3 className="font-semibold text-navy text-sm mb-1 group-hover:text-gold-deep transition-colors leading-snug">
                 {link.title}
               </h3>
               <p className="text-gray-600 text-xs leading-relaxed">{link.description}</p>

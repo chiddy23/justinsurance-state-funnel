@@ -41,7 +41,7 @@ export default function BlogCard({ post, showCluster = false, featured = false }
             {post.description}
           </p>
           <div className="flex items-center justify-between">
-            <p className="text-gray-400 text-xs">{post.date}</p>
+            <p className="text-gray-500 text-xs">{post.date}</p>
             <Link
               href={href}
               className="text-navy font-semibold text-sm hover:text-gold transition-colors inline-flex items-center gap-1"
@@ -83,7 +83,7 @@ export default function BlogCard({ post, showCluster = false, featured = false }
           {post.description}
         </p>
         <div className="flex items-center justify-between mt-auto pt-3 border-t border-gray-100">
-          <p className="text-gray-400 text-xs">{post.date}</p>
+          <p className="text-gray-500 text-xs">{post.date}</p>
           <Link
             href={href}
             className="text-navy font-semibold text-sm hover:text-gold transition-colors inline-flex items-center gap-1"

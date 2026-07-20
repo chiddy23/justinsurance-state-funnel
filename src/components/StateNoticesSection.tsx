@@ -70,14 +70,14 @@ export default function StateNoticesSection({ stateName, notices }: Props) {
                             href={n.link.href}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="text-gold-dark font-semibold hover:underline text-sm"
+                            className="text-gold-deep font-semibold hover:underline text-sm"
                           >
                             {n.link.text} →
                           </a>
                         ) : (
                           <Link
                             href={n.link.href}
-                            className="text-gold-dark font-semibold hover:underline text-sm"
+                            className="text-gold-deep font-semibold hover:underline text-sm"
                           >
                             {n.link.text} →
                           </Link>

@@ -1,136 +1,23 @@
 import React from "react";
-import { ALL_TESTIMONIALS, type Testimonial } from "@/lib/testimonials";
+import {
+  ALL_TESTIMONIALS,
+  isDisplayable,
+  mentionsCompetitor,
+  mentionsPassGuarantee,
+  type Testimonial,
+} from "@/lib/testimonials";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
 
-const GENERIC_TESTIMONIALS = [
-  {
-    name: "Jennifer M.",
-    role: "Licensed Agent",
-    text: "JustInsurance's course content was thorough and well-organized. The practice exams were spot-on.",
-    stars: 5,
-    initials: "JM",
-  },
-  {
-    name: "David R.",
-    role: "Insurance Producer",
-    text: "I passed on my first try thanks to JustInsurance. The self-paced format fit perfectly with my schedule.",
-    stars: 5,
-    initials: "DR",
-  },
-  {
-    name: "Sarah K.",
-    role: "Health Insurance Agent",
-    text: "The video lessons broke down complicated regulations into plain language. I felt genuinely prepared walking into the exam room.",
-    stars: 5,
-    initials: "SK",
-  },
-  {
-    name: "Marcus T.",
-    role: "Life & Health Agent",
-    text: "Flashcards and chapter quizzes made retention effortless. Finished my prelicensing in two weeks while working full time.",
-    stars: 5,
-    initials: "MT",
-  },
-  {
-    name: "Rebecca L.",
-    role: "Licensed Producer",
-    text: "Pass guarantee gave me total peace of mind. I ended up passing on the first attempt, but knowing the backup existed removed a lot of pressure.",
-    stars: 5,
-    initials: "RL",
-  },
-  {
-    name: "Thomas B.",
-    role: "Insurance Professional",
-    text: "Customer support answered my state-specific questions within hours. That level of responsiveness is rare in an online course platform.",
-    stars: 5,
-    initials: "TB",
-  },
-  {
-    name: "Amanda W.",
-    role: "Health Agent",
-    text: "I tried two other courses before finding JustInsurance. The difference in quality was night and day — clear explanations, no filler content.",
-    stars: 5,
-    initials: "AW",
-  },
-  {
-    name: "Christopher H.",
-    role: "Insurance Agent",
-    text: "The practice exams felt like the real thing. By test day I had taken so many mock exams that I was completely calm under pressure.",
-    stars: 5,
-    initials: "CH",
-  },
-  {
-    name: "Nicole D.",
-    role: "Licensed Professional",
-    text: "Mobile-friendly format meant I could squeeze in study sessions during my lunch breaks. Got licensed in under a month without quitting my day job.",
-    stars: 5,
-    initials: "ND",
-  },
-  {
-    name: "Michael P.",
-    role: "Insurance Producer",
-    text: "I appreciated that the course covered exactly what the state exam tests — nothing more, nothing less. No time wasted on irrelevant material.",
-    stars: 5,
-    initials: "MP",
-  },
-  {
-    name: "Jessica R.",
-    role: "Life Insurance Agent",
-    text: "The self-paced structure let me rewatch any lesson as many times as I needed. Totally worth it for someone balancing family and studying.",
-    stars: 5,
-    initials: "JR",
-  },
-  {
-    name: "Daniel F.",
-    role: "Insurance Specialist",
-    text: "Enrollment took five minutes, the content was immediately available, and I passed my exam three weeks later. Smooth from start to finish.",
-    stars: 5,
-    initials: "DF",
-  },
-  {
-    name: "Lauren G.",
-    role: "Property & Casualty Agent",
-    text: "JustInsurance's practice tests nailed the question style and difficulty of my actual state exam. First attempt, passing score.",
-    stars: 5,
-    initials: "LG",
-  },
-  {
-    name: "Kevin S.",
-    role: "Licensed Insurance Agent",
-    text: "The course organized every topic exactly the way the state exam breaks it down. Studying felt efficient rather than overwhelming.",
-    stars: 5,
-    initials: "KS",
-  },
-];
-
-type LocalTestimonial = (typeof GENERIC_TESTIMONIALS)[number];
-
-function pickGenericPair(seed: string, pool: LocalTestimonial[]): LocalTestimonial[] {
-  // Simple deterministic hash so same state always gets same pair
-  let h = 0;
-  for (let i = 0; i < seed.length; i++) h = ((h << 5) - h + seed.charCodeAt(i)) | 0;
-  const idx1 = Math.abs(h) % pool.length;
-  const idx2 = (Math.abs(h) + 7) % pool.length;
-  // Ensure different items
-  const second = idx2 === idx1 ? (idx2 + 1) % pool.length : idx2;
-  return [pool[idx1], pool[second]];
-}
-
-const CE_TESTIMONIALS = [
-  {
-    name: "Patricia L.",
-    role: "Licensed Agent, Renewal",
-    text: "Completed all my CE hours in one weekend. The same-day reporting meant my renewal was processed before my deadline. Couldn't be easier.",
-    stars: 5,
-    initials: "PL",
-  },
-  {
-    name: "Robert K.",
-    role: "Insurance Producer",
-    text: "I've renewed with JustInsurance three cycles in a row now. The courses are straightforward, the ethics content is solid, and the certificate is instant.",
-    stars: 5,
-    initials: "RK",
-  },
-];
+// NOTE: This component previously hardcoded fabricated placeholder personas
+// (e.g. "Jennifer M.", "David R.", "Angela S.", "Patricia L.", "Robert K.")
+// and rendered them as if they were real student/agent reviews. Those
+// people do not exist. Displaying invented named testimonials as real
+// social proof is deceptive under FTC guidance on endorsements, so all
+// fabricated personas have been removed. This component now only renders
+// real testimonials sourced from src/lib/testimonials.ts (real YouTube
+// comments, real Google reviews). If no real testimonial exists for a given
+// variant (this is currently the case for CE — there are zero real CE
+// reviews), the component renders nothing rather than show a placeholder.
 
 export interface LeadTestimonial {
   quote: string;
@@ -143,9 +30,17 @@ export interface LeadTestimonial {
 interface TestimonialCardsProps {
   leadTestimonial?: LeadTestimonial;
   variant?: "prelicensing" | "ce";
+  /** Unused — kept for call-site compatibility with existing pages. */
   seed?: string;
-  /** When set, fills cards with state-specific YouTube testimonials first, falling back to generic. Overrides leadTestimonial. */
+  /** When set, prioritizes real testimonials (YouTube/Google) matching this
+   * state before falling back to other real testimonials. No fabricated
+   * placeholders are ever used. */
   stateName?: string;
+  /** State page slug (e.g. "ohio"). When the state excludes the pass
+   * guarantee (Ohio Admin. Code 3901-5-07(H)(16)), testimonials whose text
+   * mentions the guarantee are filtered out of every selection path.
+   * Omit on national pages — rendering is unchanged. */
+  stateSlug?: string;
 }
 
 function StarRating({ count }: { count: number }) {
@@ -204,7 +99,7 @@ function TestimonialCard({
               </a>
             )}
           </p>
-          <p className="text-gray-400 text-xs">{role}</p>
+          <p className="text-gray-500 text-xs">{role}</p>
         </div>
       </div>
     </div>
@@ -221,18 +116,26 @@ function getInitials(name: string): string {
 }
 
 /**
- * Pick up to `count` testimonials from the unified testimonials.ts source,
- * prioritizing state-specific YouTube comments, then generic YouTube comments,
- * then verified students for that state, then filler from the local pool.
+ * Pick up to `count` real testimonials from the unified testimonials.ts
+ * source (YouTube comments, Google reviews — no fabricated personas),
+ * prioritizing state-matched testimonials, then stateless ones, then
+ * testimonials tagged with a different state (shown with a state label).
  */
 function pickFromUnified(
   stateName: string,
   count: number,
-  variant: "prelicensing" | "ce"
+  variant: "prelicensing" | "ce",
+  excludeGuaranteeMentions: boolean
 ): Testimonial[] {
   const isCE = variant === "ce";
-  const pool = ALL_TESTIMONIALS.filter((t) =>
-    isCE ? t.source === "ce-renewal" : t.source !== "ce-renewal"
+  const pool = ALL_TESTIMONIALS.filter(
+    (t) =>
+      // ALL_TESTIMONIALS is already competitor-filtered at the source; this
+      // re-applies the gate as defense in depth, so the component stays safe
+      // even if it is ever pointed at a raw/unfiltered array.
+      isDisplayable(t) &&
+      (isCE ? t.source === "ce-renewal" : t.source !== "ce-renewal") &&
+      (!excludeGuaranteeMentions || !mentionsPassGuarantee(t))
   );
 
   const stateMatches = (t: Testimonial) =>
@@ -280,124 +183,93 @@ function pickFromUnified(
   return unique.slice(0, count);
 }
 
-export default function TestimonialCards({ leadTestimonial, variant = "prelicensing", seed, stateName }: TestimonialCardsProps) {
+export default function TestimonialCards({ leadTestimonial, variant = "prelicensing", stateName, stateSlug }: TestimonialCardsProps) {
   const isCE = variant === "ce";
+  // Ohio Admin. Code 3901-5-07(H)(16): on excluded-state pages, no
+  // testimonial that mentions the pass guarantee may render. When
+  // stateSlug is absent (national pages) nothing is filtered.
+  const guaranteeAllowed = hasPassGuarantee(stateSlug);
+  const excludeGuaranteeMentions = !guaranteeAllowed;
 
   const heading = isCE ? "What Our Agents Say" : "What Our Students Say";
-  const subheading = isCE
-    ? "5-star rated by 20,000+ students who renewed with us"
-    : "5-star rated by 20,000+ students licensed nationwide";
-  const genericTestimonials = isCE ? CE_TESTIMONIALS : GENERIC_TESTIMONIALS;
 
-  // New path: when stateName is provided, render 3 unified testimonials
-  // (state-YouTube-first, then generic YouTube, then verified-student, then filler).
-  // This gives state pages multiple YouTube-linked cards instead of just 1 lead.
-  if (stateName) {
-    const picks = pickFromUnified(stateName, 3, variant);
-    if (picks.length > 0) {
-      const cards = picks.map((t) => (
-        <TestimonialCard
-          key={t.name + t.videoId}
-          name={t.name}
-          role={
-            t.source === "youtube"
-              ? `via YouTube comment${t.licenseType ? " · " + t.licenseType : t.state ? " · " + t.state : ""}`
-              : t.source === "google"
-              ? `via Google Review${t.state ? " · " + t.state : ""}`
-              : t.source === "ce-renewal"
-              ? `CE Renewal${t.state ? " · " + t.state : ""}`
-              : t.licenseType
-              ? `${t.licenseType} Agent${t.state ? " · " + t.state : ""}`
-              : `Licensed${t.state ? " · " + t.state : ""}`
-          }
-          text={t.text}
-          stars={5}
-          initials={t.initials}
-          youtubeVideoId={t.videoId}
-        />
-      ));
-      // Pad with filler if fewer than 3 unified results
-      while (cards.length < 3) {
-        const fallback = genericTestimonials[cards.length % genericTestimonials.length];
-        cards.push(
-          <TestimonialCard
-            key={"filler-" + cards.length}
-            name={fallback.name}
-            role={fallback.role}
-            text={fallback.text}
-            stars={fallback.stars}
-            initials={fallback.initials}
-          />
-        );
+  // A caller-supplied lead testimonial must itself be a real quote (this
+  // prop exists for real attributed leads, e.g. a specific YouTube/Google
+  // review a page wants pinned first) — no fabricated fallback is used if
+  // it's missing or filtered out.
+  //
+  // This prop bypasses ALL_TESTIMONIALS, so the source-level filter cannot see
+  // it: the competitor gate has to be applied to the raw quote here, or a page
+  // could pin a lead that names a competitor and it would render unfiltered.
+  const safeLead =
+    leadTestimonial &&
+    !mentionsCompetitor({ text: leadTestimonial.quote }) &&
+    (guaranteeAllowed || !mentionsPassGuarantee({ text: leadTestimonial.quote }))
+      ? leadTestimonial
+      : undefined;
+
+  const leadCard = safeLead ? (
+    <TestimonialCard
+      key="lead"
+      name={safeLead.name}
+      role={safeLead.title}
+      text={safeLead.quote}
+      stars={5}
+      initials={getInitials(safeLead.name)}
+      youtubeVideoId={safeLead.youtubeVideoId}
+    />
+  ) : null;
+
+  // Fill remaining slots from real testimonials only (YouTube comments,
+  // Google reviews). Prioritizes matches for `stateName` when provided;
+  // otherwise (e.g. the CE hub, which has no single state) just returns
+  // the best available real testimonials. For CE, ALL_TESTIMONIALS
+  // currently has zero entries with source "ce-renewal" — there are no
+  // real CE reviews yet — so this correctly returns an empty array.
+  const fillCount = safeLead ? 2 : 3;
+  const fillPicks = pickFromUnified(stateName ?? "", fillCount, variant, excludeGuaranteeMentions);
+  const fillCards = fillPicks.map((t) => (
+    <TestimonialCard
+      key={`${t.name}-${t.videoId ?? ""}-${t.text.slice(0, 24)}`}
+      name={t.name}
+      role={
+        t.source === "youtube"
+          ? `via YouTube comment${t.licenseType ? " · " + t.licenseType : t.state ? " · " + t.state : ""}`
+          : t.source === "google"
+          ? `via Google Review${t.state ? " · " + t.state : ""}`
+          : t.licenseType
+          ? `${t.licenseType} Agent${t.state ? " · " + t.state : ""}`
+          : `Licensed${t.state ? " · " + t.state : ""}`
       }
-      return (
-        <section className="bg-gray-bg py-16 px-4">
-          <div className="max-w-5xl mx-auto">
-            <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-              {heading}
-            </h2>
-            <p className="text-gray-500 text-center mb-10">
-              {subheading}
-            </p>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">{cards}</div>
-          </div>
-        </section>
-      );
-    }
-  }
+      text={t.text}
+      stars={5}
+      initials={t.initials}
+      youtubeVideoId={t.videoId}
+    />
+  ));
 
-  const defaultLead = isCE ? (
-    <TestimonialCard
-      name="Angela S."
-      role="Health Insurance Agent"
-      text="Renewing my license used to be a hassle — finding approved courses, waiting for credits to post, worrying about deadlines. JustInsurance handles all of it. I finished my hours, got my certificate, and they reported to my state the same day."
-      stars={5}
-      initials="AS"
-    />
-  ) : (
-    <TestimonialCard
-      name="Marcus D."
-      role="Life & Health Agent"
-      text="I was nervous about the licensing exam, but JustInsurance's practice tests were spot-on. I passed on my first try and had my license in hand three weeks after I enrolled. The video lessons made even the complicated state regulations easy to understand."
-      stars={5}
-      initials="MD"
-    />
+  const cards = [leadCard, ...fillCards].filter(
+    (c): c is React.ReactElement => c !== null
   );
+
+  // No real testimonials available for this variant (e.g. CE, which has
+  // no real reviews yet) — render nothing rather than show a placeholder.
+  if (cards.length === 0) return null;
 
   return (
     <section className="bg-gray-bg py-16 px-4">
       <div className="max-w-5xl mx-auto">
-        <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
+        <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-10">
           {heading}
         </h2>
-        <p className="text-gray-500 text-center mb-10">
-          {subheading}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">{cards}</div>
+        {/* FTC 16 CFR 255.2(b): the typicality disclosure must accompany the
+            endorsements wherever they render — not only on /reviews. */}
+        <p className="text-xs text-gray-500 text-center mt-6 max-w-2xl mx-auto">
+          Real student feedback from public reviews and comments. Testimonials
+          reflect individual experiences — individual results vary and are not
+          a guarantee of passing or of similar outcomes.
         </p>
-
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {leadTestimonial ? (
-            <TestimonialCard
-              name={leadTestimonial.name}
-              role={leadTestimonial.title}
-              text={leadTestimonial.quote}
-              stars={5}
-              initials={getInitials(leadTestimonial.name)}
-              youtubeVideoId={leadTestimonial.youtubeVideoId}
-            />
-          ) : (
-            defaultLead
-          )}
-          {(seed ? pickGenericPair(seed, genericTestimonials) : genericTestimonials.slice(0, 2)).map((t) => (
-            <TestimonialCard
-              key={t.name}
-              name={t.name}
-              role={t.role}
-              text={t.text}
-              stars={t.stars}
-              initials={t.initials}
-            />
-          ))}
-        </div>
       </div>
     </section>
   );

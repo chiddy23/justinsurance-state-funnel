@@ -1,8 +1,19 @@
+import { stateDisclosure } from "@/lib/state-disclosures";
+import type { CredentialKind } from "@/lib/prelicensing-status";
+
 interface Props {
   stateName: string;
   doiName: string;
   providerNumber: string;
   doiUrl?: string;
+  stateSlug?: string;
+  /**
+   * Whether the state approval is a prelicensing-provider approval or a
+   * continuing-education approval. Drives the badge heading so we never claim a
+   * "prelicensing provider" credential in a state that does not issue one.
+   * Defaults to "prelicensing" for backward compatibility.
+   */
+  credentialKind?: CredentialKind;
 }
 
 /**
@@ -15,8 +26,23 @@ export default function StateProviderBadge({
   doiName,
   providerNumber,
   doiUrl,
+  stateSlug,
+  credentialKind = "prelicensing",
 }: Props) {
   if (!providerNumber) return null;
+
+  // Only claim a "prelicensing provider" credential where the state actually
+  // requires prelicensing and issues such an approval. In CE-only states the
+  // approval is a continuing-education approval, so say so.
+  const roleLabel =
+    credentialKind === "ce"
+      ? "Continuing Education Provider"
+      : "Prelicensing Provider";
+
+  // Some states (Minnesota Minn. Stat. 45.37, Oregon OAR 836-071-0190) require a
+  // verbatim approval/registration statement in provider advertising. Rendered
+  // below the badge for those states; undefined (no-op) for all others.
+  const disclosure = stateDisclosure(stateSlug);
 
   return (
     <section className="bg-gold/10 border-y border-gold/30 py-4 px-4">
@@ -40,7 +66,7 @@ export default function StateProviderBadge({
         </div>
         <div className="text-sm">
           <p className="text-navy font-bold">
-            State-Approved {stateName} Prelicensing Provider
+            State-Approved {stateName} {roleLabel}
           </p>
           <p className="text-gray-700">
             Approval #{providerNumber} ·{" "}
@@ -49,7 +75,7 @@ export default function StateProviderBadge({
                 href={doiUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="underline hover:text-gold-dark"
+                className="underline hover:text-gold-deep"
               >
                 Verify with the {doiName}
               </a>
@@ -57,6 +83,11 @@ export default function StateProviderBadge({
               <span>Verified with the {doiName}</span>
             )}
           </p>
+          {disclosure && (
+            <p className="text-gray-700 text-sm mt-1.5 max-w-xl">
+              {credentialKind === "ce" ? disclosure.ce : disclosure.prelicense}
+            </p>
+          )}
         </div>
       </div>
     </section>

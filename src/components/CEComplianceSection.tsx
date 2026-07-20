@@ -13,6 +13,13 @@ interface CEComplianceSectionProps {
   stateName: string;
   doiName: string;
   compliance: CEComplianceData;
+  /**
+   * Pending-approval states (providerApprovalNumber === "PENDING", currently NY
+   * and WA): completions cannot yet be reported to the DOI, so the "we report
+   * same business day" claim is dropped. Defaults true (every approved state
+   * renders byte-identical).
+   */
+  providerApproved?: boolean;
 }
 
 interface ComplianceCard {
@@ -25,6 +32,7 @@ export default function CEComplianceSection({
   stateName,
   doiName,
   compliance,
+  providerApproved = true,
 }: CEComplianceSectionProps) {
   const cards: ComplianceCard[] = [
     {
@@ -100,7 +108,7 @@ export default function CEComplianceSection({
         <div className="bg-amber-50 border-l-4 border-gold rounded-r-lg p-6 mb-8">
           <div className="flex items-start gap-3">
             <svg
-              className="w-6 h-6 text-gold-dark flex-shrink-0 mt-0.5"
+              className="w-6 h-6 text-gold-deep flex-shrink-0 mt-0.5"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -142,8 +150,16 @@ export default function CEComplianceSection({
             Don&apos;t Let Your License Lapse
           </h3>
           <p className="text-blue-100 leading-relaxed mb-6 max-w-2xl mx-auto">
-            Complete your {stateName} CE today &mdash; we report same-day to the {doiName}, so
-            your license stays active and you stay earning.
+            {providerApproved ? (
+              <>
+                Complete your {stateName} CE today &mdash; we typically report your completion to the {doiName} the
+                same business day, so you can renew on time.
+              </>
+            ) : (
+              <>
+                Get your {stateName} CE hours done early so you&apos;re ready well before your renewal deadline.
+              </>
+            )}
           </p>
           <a
             href="#ce-courses"

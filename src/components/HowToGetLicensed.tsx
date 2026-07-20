@@ -1,6 +1,8 @@
 import React from "react";
 import type { StateData } from "@/lib/states";
 import { SchemaMarkup } from "@/lib/schema";
+import { formatPassingScore } from "@/lib/exam-score";
+import { credentialKindFromHours } from "@/lib/prelicensing-status";
 
 interface HowToGetLicensedProps {
   stateData: StateData;
@@ -21,20 +23,38 @@ interface HowToGetLicensedProps {
 export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
   const { name, examInfo, applicationFee, totalLicensingTime, fingerprintRequirement } = stateData;
 
+  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
+  // and WA) cannot claim a "state-approved" course until approval issues.
+  const providerApproved = stateData.providerApprovalNumber !== "PENDING";
+  // CE-only states must not be told to finish a "state-approved" prelicensing course.
+  const prelicensingApproved =
+    providerApproved &&
+    credentialKindFromHours([
+      stateData.prelicensing.life.hours,
+      stateData.prelicensing.health.hours,
+      stateData.prelicensing.lifeAndHealth.hours,
+    ]) === "prelicensing";
+  // States that require no fingerprinting (e.g. Arkansas) must not carry a
+  // "Complete fingerprinting" step heading; the background-check step still
+  // applies, so the heading reflects the state's actual fingerprint flag.
+  const noFingerprint =
+    fingerprintRequirement.toLowerCase().includes("not required") ||
+    fingerprintRequirement.toLowerCase().includes("no finger");
+
   const steps = [
     {
       n: 1,
       title: "Complete your prelicensing course",
-      body: `Finish a state-approved prelicensing course covering the ${name} exam content outline. JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line.`,
+      body: `Finish ${prelicensingApproved ? "a state-approved" : "an online"} prelicensing course covering the ${name} exam content outline. JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line.`,
     },
     {
       n: 2,
       title: `Schedule and pass the ${name} state exam`,
-      body: `Book your exam through ${examInfo.examProvider} (${examInfo.examFee ? `$${examInfo.examFee} per attempt` : "current fee at provider site"}). Passing score is ${examInfo.passingScore}%.`,
+      body: `Book your exam through ${examInfo.examProvider} (${examInfo.examFee ? `$${examInfo.examFee} per attempt` : "current fee at provider site"}). Passing score: ${formatPassingScore(stateData.slug, examInfo.passingScore)}.`,
     },
     {
       n: 3,
-      title: "Complete fingerprinting and background check",
+      title: noFingerprint ? "Complete your background check" : "Complete fingerprinting and background check",
       body: fingerprintRequirement || `Submit fingerprints through ${name}'s designated vendor (typically IdentoGO). Background check fees usually run $30–$50 paid directly to the vendor.`,
     },
     {

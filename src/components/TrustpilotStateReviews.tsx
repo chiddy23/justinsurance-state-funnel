@@ -78,6 +78,13 @@ export default function TrustpilotStateReviews({ stateName }: { stateName: strin
             See all {TRUSTPILOT.count} reviews on Trustpilot →
           </a>
         </div>
+        {/* FTC 16 CFR 255.2(b): typicality disclosure accompanies the
+            endorsements wherever this component renders. */}
+        <p className="text-xs text-gray-500 text-center mt-4 max-w-2xl mx-auto">
+          Reviews are real, unedited Trustpilot posts. They reflect individual
+          experiences — individual results vary and are not a guarantee of
+          passing or of similar outcomes.
+        </p>
       </div>
     </section>
   );

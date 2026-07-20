@@ -29,8 +29,19 @@ function isOptionalHours(hours: number | string): boolean {
   return lower.includes("none required") || lower.includes("not required");
 }
 
-function formatLoaHours(hours: number | string): string {
-  if (isOptionalHours(hours)) return "40 (recommended)";
+function formatLoaHours(hours: number | string, completionTime?: string): string {
+  const ct = completionTime ? completionTime.match(/\d+/) : null;
+  if (isOptionalHours(hours)) {
+    // Optional-prelicensing states: show the RECOMMENDED hours for THIS line
+    // from completionTime (Life/Health 20, L&H 40) — not a hardcoded 40, which
+    // overstates the single-line courses 2x.
+    return ct ? `${ct[0]} (recommended)` : "40 (recommended)";
+  }
+  // Non-numeric marker like "no combined license" (Wisconsin): show the line's
+  // completionTime hours (40 total) rather than printing the marker text.
+  if (typeof hours === "string" && !/^\s*\d/.test(hours)) {
+    return ct ? ct[0] : String(hours);
+  }
   return String(hours);
 }
 
@@ -47,6 +58,10 @@ interface LOACardData {
   name: string;
   description: string;
   hours: number | string;
+  /** Per-line completionTime (e.g. "20 hours") — the recommended-hours source
+   *  used when hours is optional/non-numeric so single lines aren't shown as 40. */
+  completionTime?: string;
+  hoursSubtext?: string;
   price: string;
   renewalYears?: number;
   pageHref: string;
@@ -54,6 +69,9 @@ interface LOACardData {
 }
 
 export default function LOASelector({ stateSlug, courseType, stateData }: LOASelectorProps) {
+  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
+  // and WA) cannot claim "state-approved" hours or DOI reporting in the CE cards.
+  const providerApproved = stateData.providerApprovalNumber !== "PENDING";
   const catalogKey = courseType === "continuing-education" ? "continuing-education" : "prelicensing";
   const stateCatalog = (catalogLinks as CatalogLinks)[stateSlug as keyof CatalogLinks];
 
@@ -71,6 +89,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             name: "Life Insurance",
             description: "Sell term life, whole life, universal life, and annuity products. The essential license for any agent working in life insurance or financial services.",
             hours: stateData.prelicensing.life.hours,
+            completionTime: stateData.prelicensing.life.completionTime,
             price: stateData.prelicensing.life.price,
             pageHref: `/${stateSlug}/prelicensing/life`,
             enrollHref: getEnrollLink("life"),
@@ -80,6 +99,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
             name: "Health Insurance",
             description: "Sell major medical, Medicare supplement, disability income, long-term care, and other health products. Essential for agents focused on health and Medicare markets.",
             hours: stateData.prelicensing.health.hours,
+            completionTime: stateData.prelicensing.health.completionTime,
             price: stateData.prelicensing.health.price,
             pageHref: `/${stateSlug}/prelicensing/health`,
             enrollHref: getEnrollLink("health"),
@@ -87,8 +107,22 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life-and-health",
             name: "Life & Health Insurance",
-            description: "The most popular choice — get licensed to sell both life and health products with a single combined course and exam. Maximize your earning potential from day one.",
+            // Illinois certifies Life and Accident & Health as SEPARATE lines
+            // (215 ILCS 5/500-30(b)) — the L&H package is two separate courses
+            // + two separate exams, never "a single combined course and exam."
+            // Gated on classroomWebinarHours (IL) so other states are unchanged.
+            description: stateData.classroomWebinarHours
+              ? "The most popular choice — get licensed to sell both life and health products. In Illinois this package is two separately state-certified courses (a 20-hour Life course + a 20-hour Health course) bundled at one price, with separate Life and Health state exams."
+              : stateData.noCombinedExam
+              ? "The most popular choice — get licensed to sell both life and health products. This state has no combined Life & Health exam, so the package is two separate courses with two separate state exams. Maximize your earning potential from day one."
+              : "The most popular choice — get licensed to sell both life and health products with a single combined course and exam. Maximize your earning potential from day one.",
             hours: stateData.prelicensing.lifeAndHealth.hours,
+            completionTime: stateData.prelicensing.lifeAndHealth.completionTime,
+            hoursSubtext:
+              stateData.classroomWebinarHours &&
+              Number(stateData.prelicensing.lifeAndHealth.hours) === 40
+                ? "20h Life + 20h Health = 40 total · 15h live webinar + 25h self-study"
+                : undefined,
             price: stateData.prelicensing.lifeAndHealth.price,
             pageHref: `/${stateSlug}/prelicensing/life-and-health`,
             enrollHref: getEnrollLink("life-and-health"),
@@ -98,7 +132,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "life",
             name: "Life Insurance CE",
-            description: "Complete your life insurance continuing education requirements online. State-approved hours that keep your life license active and compliant.",
+            description: `Complete your life insurance continuing education requirements online. ${providerApproved ? "State-approved hours" : "Hours"} that keep your life license active and compliant.`,
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
@@ -108,7 +142,7 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
           {
             slug: "health",
             name: "Health Insurance CE",
-            description: "Complete your health insurance CE requirements online. Covers all required topics including ethics. Same-day reporting to your state DOI.",
+            description: `Complete your health insurance CE requirements online. Covers all required topics including ethics.${providerApproved ? " Same-day reporting to your state DOI in most cases." : ""}`,
             hours: stateData.ce.totalHours,
             price: stateData.ce.packagePrice,
             renewalYears: undefined,
@@ -215,8 +249,11 @@ export default function LOASelector({ stateSlug, courseType, stateData }: LOASel
               <div className="border-t border-gray-100 pt-4 mb-4 space-y-2">
                 <div className="flex justify-between items-center">
                   <span className="text-gray-500 text-sm">Hours Required</span>
-                  <span className="text-navy font-bold">{formatLoaHours(card.hours)} hrs</span>
+                  <span className="text-navy font-bold">{formatLoaHours(card.hours, card.completionTime)} hrs</span>
                 </div>
+                {card.hoursSubtext && (
+                  <p className="text-gray-500 text-xs leading-snug">{card.hoursSubtext}</p>
+                )}
                 <div className="flex justify-between items-center">
                   <span className="text-gray-500 text-sm">Course Price</span>
                   <span className="text-navy font-bold">{displayPrice}</span>

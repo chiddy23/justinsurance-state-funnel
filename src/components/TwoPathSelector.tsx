@@ -1,5 +1,8 @@
 import React from "react";
 import Link from "next/link";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { getStateBySlug } from "@/lib/states";
+import { credentialKindFromHours } from "@/lib/prelicensing-status";
 
 interface TwoPathSelectorProps {
   stateSlug: string;
@@ -7,6 +10,26 @@ interface TwoPathSelectorProps {
 }
 
 export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelectorProps) {
+  // Ohio Admin. Code 3901-5-07(H)(16): no pass-guarantee offers on Ohio
+  // pages. Swap the bullet 1-for-1 to keep the three-item list intact.
+  const showGuarantee = hasPassGuarantee(stateSlug);
+  const state = getStateBySlug(stateSlug);
+  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
+  // and WA) must NOT claim active state approval or DOI reporting — the approval
+  // that would make those true has not issued. Gate the approval adjective and
+  // the "we report to the state" copy; both auto-restore when approval lands.
+  const providerApproved = state?.providerApprovalNumber !== "PENDING";
+  // "state-approved prelicensing" requires a prelicensing approval regime.
+  const prelicensingApproved =
+    providerApproved &&
+    !!state &&
+    credentialKindFromHours([
+      state.prelicensing.life.hours,
+      state.prelicensing.health.hours,
+      state.prelicensing.lifeAndHealth.hours,
+    ]) === "prelicensing";
+  // CE package price varies by state ($39 / $54 / $75) — never hard-code $39.
+  const ceStartPrice = state?.ce.packagePrice ?? "$39";
   return (
     <section className="bg-white py-16 px-4">
       <div className="max-w-4xl mx-auto">
@@ -28,23 +51,23 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
             </div>
             <h3 className="text-xl font-bold text-navy mb-3">Prelicensing</h3>
             <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
-              New to insurance? Get your {stateName} insurance license with a state-approved prelicensing course. Study online at your own pace, then pass the state exam.
+              New to insurance? Get your {stateName} insurance license with {prelicensingApproved ? "a state-approved" : "an online"} prelicensing course. Study online at your own pace, then pass the state exam.
             </p>
             <ul className="space-y-2 mb-6">
               <li className="flex items-center gap-2 text-sm text-gray-600">
-                <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 100% online &amp; self-paced
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600">
-                <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
-                Pass guarantee included
+                {showGuarantee ? "Pass guarantee included" : "Instant course access — start in minutes"}
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600">
-                <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Starting at $199
@@ -67,26 +90,26 @@ export default function TwoPathSelector({ stateSlug, stateName }: TwoPathSelecto
             </div>
             <h3 className="text-xl font-bold text-navy mb-3">Continuing Education (CE)</h3>
             <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
-              Already licensed? Complete your {stateName} CE hours online before your renewal deadline. We report your completion to the state same-day.
+              Already licensed? Complete your {stateName} CE hours online before your renewal deadline.{providerApproved ? " We typically report your completion to the state same-day." : ""}
             </p>
             <ul className="space-y-2 mb-6">
               <li className="flex items-center gap-2 text-sm text-gray-600">
-                <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
-                Same-day DOI reporting
+                {providerApproved ? "Same-day DOI reporting" : "Self-paced on any device"}
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600">
-                <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Complete at your own pace
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-600">
-                <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
-                Starting at $39
+                Starting at {ceStartPrice}
               </li>
             </ul>
             <Link

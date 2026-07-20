@@ -1,4 +1,5 @@
 import React from "react";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
 
 interface CourseOverviewBoxProps {
   hours: number;
@@ -6,6 +7,11 @@ interface CourseOverviewBoxProps {
   format?: string;
   accessDuration?: string;
   includes?: string[];
+  /** State page slug (e.g. "ohio"). When the state excludes the pass
+   * guarantee (Ohio Admin. Code 3901-5-07(H)(16)), any "Pass guarantee"
+   * include is swapped 1-for-1 for a neutral benefit. Omit on national
+   * pages — rendering is unchanged. */
+  stateSlug?: string;
 }
 
 export default function CourseOverviewBox({
@@ -27,7 +33,20 @@ export default function CourseOverviewBox({
     "Certificate of completion",
     "Pass guarantee",
   ],
+  stateSlug,
 }: CourseOverviewBoxProps) {
+  // Covers both the default list and caller-supplied `includes` arrays.
+  // De-duped so a caller who already lists instant access doesn't produce
+  // a duplicate row (and duplicate React key).
+  const displayIncludes = hasPassGuarantee(stateSlug)
+    ? includes
+    : Array.from(
+        new Set(
+          includes.map((item) =>
+            /pass\s*guarantee/i.test(item) ? "Instant course access" : item
+          )
+        )
+      );
   return (
     <section className="bg-white py-12 px-4">
       <div className="max-w-4xl mx-auto">
@@ -56,9 +75,9 @@ export default function CourseOverviewBox({
           <div className="border-t border-gray-200 p-6">
             <h3 className="font-semibold text-navy mb-4">What&apos;s Included</h3>
             <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-              {includes.map((item) => (
+              {displayIncludes.map((item) => (
                 <li key={item} className="flex items-center gap-2 text-gray-600 text-sm">
-                  <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
                   {item}

@@ -75,6 +75,8 @@ export default function PracticeQuestionCard({ q }: { q: PracticeQ }) {
 
         {isAnswered && (
           <div
+            role="status"
+            aria-live="polite"
             className={`border-l-4 rounded-r-md p-4 text-sm ${
               userWasCorrect
                 ? "bg-green-50 border-green-600"
@@ -94,7 +96,7 @@ export default function PracticeQuestionCard({ q }: { q: PracticeQ }) {
             <button
               type="button"
               onClick={() => setSelected(null)}
-              className="mt-3 text-gold-dark hover:text-gold text-xs font-semibold underline"
+              className="mt-3 text-gold-deep hover:text-gold text-xs font-semibold underline"
             >
               Try again →
             </button>

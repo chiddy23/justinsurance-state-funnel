@@ -83,7 +83,7 @@ const CE_FEATURES = [
       </svg>
     ),
     title: "Same-Day Reporting",
-    description: "We report your completion to your state's Department of Insurance the same day.",
+    description: "We typically report your completion to your state insurance regulator the same day.",
   },
   {
     icon: (
@@ -107,15 +107,65 @@ const CE_FEATURES = [
 
 interface CourseFeaturesProps {
   variant?: "prelicensing" | "ce";
+  /**
+   * Illinois only: 3 of the 24 CE hours must be classroom/webinar ethics
+   * (215 ILCS 5/500-35(b)), so the generic "No classroom required" claim on
+   * the Self-Paced card is false for IL. When true, that card's copy is
+   * swapped. Every other state renders byte-identically (defaults false).
+   */
+  ceEthicsWebinar?: boolean;
+  /**
+   * Pending-approval states (providerApprovalNumber === "PENDING", currently NY
+   * and WA): the CE course is not yet state-approved and completions cannot be
+   * reported to the DOI, so the "State-Approved Content" and "Same-Day
+   * Reporting" cards and the "get reported to the state" subheading are swapped
+   * for accurate copy. Every approved state renders byte-identical (default true).
+   */
+  providerApproved?: boolean;
 }
 
-export default function CourseFeatures({ variant = "prelicensing" }: CourseFeaturesProps) {
+export default function CourseFeatures({
+  variant = "prelicensing",
+  ceEthicsWebinar = false,
+  providerApproved = true,
+}: CourseFeaturesProps) {
   const isCE = variant === "ce";
-  const features = isCE ? CE_FEATURES : PRELICENSING_FEATURES;
+  let features = isCE ? CE_FEATURES : PRELICENSING_FEATURES;
+  if (isCE && ceEthicsWebinar) {
+    features = features.map((f) =>
+      f.title === "Self-Paced Online"
+        ? {
+            ...f,
+            title: "Self-Paced + Ethics Webinar",
+            description:
+              "Most CE hours are self-paced on any device. Per Illinois requirements (215 ILCS 5/500-35(b)), the 3 mandatory ethics hours are delivered in live classroom or webinar format with verified attendance.",
+          }
+        : f
+    );
+  }
+  if (isCE && !providerApproved) {
+    features = features.map((f) => {
+      if (f.title === "State-Approved Content")
+        return {
+          ...f,
+          title: "State-Aligned Content",
+          description: "Course content is built to your state's CE topic requirements, including ethics hours.",
+        };
+      if (f.title === "Same-Day Reporting")
+        return {
+          ...f,
+          title: "Study on Any Device",
+          description: "Complete your CE hours from any device, on your own schedule — laptop, tablet, or phone.",
+        };
+      return f;
+    });
+  }
   const heading = isCE ? "Everything You Need to Renew" : "Everything You Need to Pass";
   const subheading = isCE
-    ? "Your CE course includes everything you need to complete your hours, get reported to the state, and keep your license active."
-    : "Your course includes all the tools proven to help students pass their state exam on the first try.";
+    ? providerApproved
+      ? "Your CE course includes everything you need to complete your hours, get reported to the state, and keep your license active."
+      : "Your CE course includes everything you need to complete your hours and keep your license active."
+    : "Your course includes all the tools designed to help students pass their state exam on the first try.";
 
   return (
     <section className="bg-gray-bg py-16 px-4">

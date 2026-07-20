@@ -209,7 +209,7 @@ export default async function PrelicensingHubPage({
                 ) : isMinnesota ? (
                   <>To earn your certificate, Minnesota requires you to pass a proctored final exam — you arrange a disinterested third-party proctor (not a relative, co-worker, or your instructor) who verifies your photo ID and signs an affidavit that you completed the exam without assistance (Minn. Stat. &sect; 45.305, subd. 5). Your certificate of completion is issued after you pass that proctored final and we receive the signed affidavit; JustInsurance then reports your completion to the Minnesota Department of Commerce. You schedule and take the state licensing exam separately with {stateData.examInfo.examProvider}.</>
                 ) : (
-                  <>Once you complete the required hours and pass the course assessments, you&apos;ll receive an official certificate of completion for your {stateData.name} licensing exam with {stateData.examInfo.examProvider}.{stateData.providerApprovalNumber !== "PENDING" ? " Your approved provider also reports your completion to the state." : ""}</>
+                  <>Once you complete {isCEOnlyState ? "the course" : "the required hours"} and pass the course assessments, you&apos;ll receive an official certificate of completion for your {stateData.name} licensing exam with {stateData.examInfo.examProvider}.{stateData.providerApprovalNumber !== "PENDING" && !isCEOnlyState ? " Your approved provider also reports your completion to the state." : ""}</>
                 )}
               </p>
             </div>
@@ -222,7 +222,7 @@ export default async function PrelicensingHubPage({
                   ? { step: "2", title: "Complete Your Hours", desc: `Complete the required 7.5 live webinar hours per line of authority (attendance verified) plus 12.5 self-paced hours per line — video lessons, readings, and quizzes.` }
                   : isCalifornia
                   ? { step: "2", title: "Study at Your Pace", desc: `Complete the single 12-hour Code and Ethics course — it satisfies the ethics requirement for every line of authority and is completed only once — with video lessons, readings, and quizzes on any device.` }
-                  : { step: "2", title: "Study at Your Pace", desc: `Complete your required prelicensing hours for your line of authority — video lessons, readings, and quizzes on any device.` },
+                  : { step: "2", title: "Study at Your Pace", desc: isCEOnlyState ? `Work through the exam-prep course at your own pace for your line of authority — video lessons, readings, and quizzes on any device.` : `Complete your required prelicensing hours for your line of authority — video lessons, readings, and quizzes on any device.` },
                 ilWebinar
                   ? { step: "3", title: "Earn Your Certificate", desc: `Complete all modules and quizzes in forced-progression order, pass the final exam with 70% or higher, and attend and participate in the required 7.5-hour live webinar sessions — then you'll be issued your Illinois Certificate of Completion.` }
                   : { step: "3", title: "Earn Your Certificate", desc: "Pass the course assessments to receive your official certificate of completion from JustInsurance." },
@@ -293,7 +293,7 @@ export default async function PrelicensingHubPage({
                 step: "4",
                 icon: "🪪",
                 title: "Apply for Your License",
-                desc: `Submit your license application to the ${stateData.doiName}${stateData.applicationBeforeExam ? " (apply before your exam in ${stateData.name})" : " after passing your exam"}.`,
+                desc: `Submit your license application to the ${stateData.doiName}${stateData.applicationBeforeExam ? ` (apply before your exam in ${stateData.name})` : " after passing your exam"}.`,
               },
             ].map((item) => (
               <div key={item.step} className="text-center bg-gray-bg rounded-xl p-6">

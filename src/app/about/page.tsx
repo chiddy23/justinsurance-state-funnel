@@ -273,10 +273,12 @@ export default function AboutPage() {
         <div className="max-w-3xl mx-auto">
           <H2 id="what-we-do">What JustInsurance Does</H2>
           <P>
-            JustInsurance is a fully online insurance education platform offering state-approved
-            insurance prelicensing courses, insurance continuing education, and full licensing
-            support across 49 state Departments of Insurance. Every course is approved where
-            required, self-paced, and built for the way candidates actually study.
+            JustInsurance is a fully online insurance education platform offering insurance
+            prelicensing courses, insurance continuing education, and full licensing support
+            across 49 states. Our courses carry state approval wherever the state approves that
+            course type &mdash; continuing education broadly, and prelicensing in the states that
+            actually mandate it. Everything is self-paced and built for the way candidates
+            actually study.
           </P>
 
           <H3>For New Agents</H3>

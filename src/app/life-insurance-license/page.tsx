@@ -58,7 +58,7 @@ const faqs = [
 const stats = [
   { value: "$199", label: "Prelicensing price", sub: "Flat rate, no hidden fees" },
   { value: "93%", label: "First-attempt pass rate", sub: "Among JustInsurance completers" },
-  { value: "49", label: "States covered", sub: "State-approved life courses nationwide" },
+  { value: "49", label: "States covered", sub: "Life exam prep and state-approved CE" },
   { value: "$100K+", label: "Top producer income", sub: "Avg. annual earnings for experienced agents" },
 ];
 

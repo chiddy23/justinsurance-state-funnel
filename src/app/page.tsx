@@ -49,7 +49,7 @@ export default function HomePage() {
             Get Your Insurance License Online
           </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-2xl mx-auto">
-            State-approved prelicensing and CE courses nationwide. 100% online, self-paced, and backed by our pass guarantee in eligible states. Join 20,000+ students who&apos;ve trusted JustInsurance.
+            State-approved CE nationwide, plus prelicensing in every state that requires it. 100% online, self-paced, and backed by our pass guarantee in eligible states. Join 20,000+ students who&apos;ve trusted JustInsurance.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -110,7 +110,7 @@ export default function HomePage() {
                 Prelicensing Courses
               </h3>
               <p className="text-gray-600 text-sm leading-relaxed mb-4 flex-grow">
-                State-approved prelicensing for Life, Health, and Life &amp; Health insurance licenses. From $199. Pass guarantee included in eligible states.
+                Prelicensing for Life, Health, and Life &amp; Health insurance licenses &mdash; state-approved where the state requires it. From $199. Pass guarantee included in eligible states.
               </p>
               <span className="inline-flex items-center gap-1 text-navy font-semibold text-sm group-hover:text-gold-deep transition-colors">
                 See Prelicensing Courses &rarr;
@@ -172,7 +172,7 @@ export default function HomePage() {
             Choose Your State
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            We offer state-approved insurance prelicensing and CE courses nationwide. Click your state to get started.
+            We offer state-approved continuing education nationwide, plus prelicensing in every state that requires it. Click your state to get started.
           </p>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3">

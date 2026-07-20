@@ -58,7 +58,7 @@ const faqs = [
 const stats = [
   { value: "$199", label: "Prelicensing price", sub: "Flat rate, no hidden fees" },
   { value: "93%", label: "First-attempt pass rate", sub: "Among JustInsurance completers" },
-  { value: "49", label: "States covered", sub: "State-approved health courses nationwide" },
+  { value: "49", label: "States covered", sub: "Health exam prep and state-approved CE" },
   { value: "10,000+", label: "Medicare enrollees per day", sub: "Turning 65 in the U.S. daily" },
 ];
 

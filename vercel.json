@@ -1,141 +1,646 @@
 {
   "redirects": [
     {
+      "source": "/blog/state-license-california/how-california-regulates-annuity-suitability-under-ab-2468",
+      "destination": "/blog/state-license-california/how-california-regulates-annuity-suitability-under-sb-263",
+      "statusCode": 301
+    },
+    {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "www.justinsuranceco.com" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.justinsuranceco.com"
+        }
+      ],
       "destination": "https://justinsuranceco.com/:path*",
       "statusCode": 301
     },
-    { "source": "/compare", "destination": "/prelicensing", "statusCode": 301 },
-    { "source": "/compare/:path*", "destination": "/prelicensing", "statusCode": 301 },
-    { "source": "/blog/florida-insurance-license/best-florida-insurance-prelicensing-courses-2026", "destination": "/florida/prelicensing", "statusCode": 301 },
-    { "source": "/blog/texas-insurance-license/best-texas-insurance-prelicensing-courses-2026", "destination": "/texas/prelicensing", "statusCode": 301 },
-    { "source": "/washington-dc", "destination": "/", "statusCode": 301 },
-    { "source": "/washington-dc/:path*", "destination": "/", "statusCode": 301 },
-    { "source": "/new-york", "destination": "/", "statusCode": 301 },
-    { "source": "/new-york/:path*", "destination": "/", "statusCode": 301 },
-    { "source": "/refund-policy", "destination": "/terms#payment-refunds", "statusCode": 301 },
-    { "source": "/services", "destination": "/prelicensing", "statusCode": 301 },
-    { "source": "/health-insurance-license-exam-in-2026-whats-changed", "destination": "/health-insurance-license", "statusCode": 301 },
-    { "source": "/from-basics-to-pro-comprehensive-online-courses-for-your-insurance-license", "destination": "/prelicensing", "statusCode": 301 },
-    { "source": "/get-an-insurance-license-overview", "destination": "/insurance-exam-guide", "statusCode": 301 },
-    { "source": "/online-vs-livestream-classes-for-the-state-insurance-license-exam-in-2026", "destination": "/blog", "statusCode": 301 },
-    { "source": "/master-your-insurance-exam-prep-with-your-insurance-license", "destination": "/study-guide", "statusCode": 301 },
-    { "source": "/which-is-the-easiest-state-to-get-an-insurance-license-in-2026", "destination": "/blog", "statusCode": 301 },
-    { "source": "/florida/continuing-education/property-and-casualty/homeowners-flood", "destination": "/florida/continuing-education/property-and-casualty/personal-lines-flood", "statusCode": 301 },
-    { "source": "/florida/continuing-education/property-and-casualty/personal-auto", "destination": "/florida/continuing-education/property-and-casualty/commercial-flood", "statusCode": 301 },
-    { "source": "/practice", "destination": "/practice-exam", "statusCode": 301 },
-    { "source": "/alabama-insurance-license", "destination": "/alabama", "statusCode": 301 },
-    { "source": "/alabama-insurance-pre-licensing-courses-justinsurance", "destination": "/alabama/prelicensing", "statusCode": 301 },
-    { "source": "/alaska-insurance-license", "destination": "/alaska", "statusCode": 301 },
-    { "source": "/alaska-insurance-pre-licensing-courses-justinsurance", "destination": "/alaska/prelicensing", "statusCode": 301 },
-    { "source": "/arizona-insurance-license", "destination": "/arizona", "statusCode": 301 },
-    { "source": "/arizona-insurance-pre-licensing-courses-justinsurance", "destination": "/arizona/prelicensing", "statusCode": 301 },
-    { "source": "/arkansas-insurance-license", "destination": "/arkansas", "statusCode": 301 },
-    { "source": "/arkansas-insurance-pre-licensing-courses-justinsurance", "destination": "/arkansas/prelicensing", "statusCode": 301 },
-    { "source": "/california-insurance-license", "destination": "/california", "statusCode": 301 },
-    { "source": "/california-insurance-pre-licensing-courses-justinsurance", "destination": "/california/prelicensing", "statusCode": 301 },
-    { "source": "/colorado-insurance-license", "destination": "/colorado", "statusCode": 301 },
-    { "source": "/colorado-insurance-pre-licensing-courses-justinsurance", "destination": "/colorado/prelicensing", "statusCode": 301 },
-    { "source": "/connecticut-insurance-license", "destination": "/connecticut", "statusCode": 301 },
-    { "source": "/connecticut-insurance-pre-licensing-courses-justinsurance", "destination": "/connecticut/prelicensing", "statusCode": 301 },
-    { "source": "/delaware-insurance-license", "destination": "/delaware", "statusCode": 301 },
-    { "source": "/delaware-insurance-pre-licensing-courses-justinsurance", "destination": "/delaware/prelicensing", "statusCode": 301 },
-    { "source": "/florida-insurance-license", "destination": "/florida", "statusCode": 301 },
-    { "source": "/florida-insurance-pre-licensing-courses-justinsurance", "destination": "/florida/prelicensing", "statusCode": 301 },
-    { "source": "/georgia-insurance-license", "destination": "/georgia", "statusCode": 301 },
-    { "source": "/georgia-insurance-pre-licensing-courses-justinsurance", "destination": "/georgia/prelicensing", "statusCode": 301 },
-    { "source": "/hawaii-insurance-license", "destination": "/hawaii", "statusCode": 301 },
-    { "source": "/hawaii-insurance-pre-licensing-courses-justinsurance", "destination": "/hawaii/prelicensing", "statusCode": 301 },
-    { "source": "/idaho-insurance-license", "destination": "/idaho", "statusCode": 301 },
-    { "source": "/idaho-insurance-pre-licensing-courses-justinsurance", "destination": "/idaho/prelicensing", "statusCode": 301 },
-    { "source": "/illinois-insurance-license", "destination": "/illinois", "statusCode": 301 },
-    { "source": "/illinois-insurance-pre-licensing-courses-justinsurance", "destination": "/illinois/prelicensing", "statusCode": 301 },
-    { "source": "/indiana-insurance-license", "destination": "/indiana", "statusCode": 301 },
-    { "source": "/indiana-insurance-pre-licensing-courses-justinsurance", "destination": "/indiana/prelicensing", "statusCode": 301 },
-    { "source": "/iowa-insurance-license", "destination": "/iowa", "statusCode": 301 },
-    { "source": "/iowa-insurance-pre-licensing-courses-justinsurance", "destination": "/iowa/prelicensing", "statusCode": 301 },
-    { "source": "/kansas-insurance-license", "destination": "/kansas", "statusCode": 301 },
-    { "source": "/kansas-insurance-pre-licensing-courses-justinsurance", "destination": "/kansas/prelicensing", "statusCode": 301 },
-    { "source": "/kentucky-insurance-license", "destination": "/kentucky", "statusCode": 301 },
-    { "source": "/kentucky-insurance-pre-licensing-courses-justinsurance", "destination": "/kentucky/prelicensing", "statusCode": 301 },
-    { "source": "/louisiana-insurance-license", "destination": "/louisiana", "statusCode": 301 },
-    { "source": "/louisiana-insurance-pre-licensing-courses-justinsurance", "destination": "/louisiana/prelicensing", "statusCode": 301 },
-    { "source": "/maine-insurance-license", "destination": "/maine", "statusCode": 301 },
-    { "source": "/maine-insurance-pre-licensing-courses-justinsurance", "destination": "/maine/prelicensing", "statusCode": 301 },
-    { "source": "/maryland-insurance-license", "destination": "/maryland", "statusCode": 301 },
-    { "source": "/maryland-insurance-pre-licensing-courses-justinsurance", "destination": "/maryland/prelicensing", "statusCode": 301 },
-    { "source": "/massachusetts-insurance-license", "destination": "/massachusetts", "statusCode": 301 },
-    { "source": "/massachusetts-insurance-pre-licensing-courses-justinsurance", "destination": "/massachusetts/prelicensing", "statusCode": 301 },
-    { "source": "/michigan-insurance-license", "destination": "/michigan", "statusCode": 301 },
-    { "source": "/michigan-insurance-pre-licensing-courses-justinsurance", "destination": "/michigan/prelicensing", "statusCode": 301 },
-    { "source": "/minnesota-insurance-license", "destination": "/minnesota", "statusCode": 301 },
-    { "source": "/minnesota-insurance-pre-licensing-courses-justinsurance", "destination": "/minnesota/prelicensing", "statusCode": 301 },
-    { "source": "/mississippi-insurance-license", "destination": "/mississippi", "statusCode": 301 },
-    { "source": "/mississippi-insurance-pre-licensing-courses-justinsurance", "destination": "/mississippi/prelicensing", "statusCode": 301 },
-    { "source": "/missouri-insurance-license", "destination": "/missouri", "statusCode": 301 },
-    { "source": "/missouri-insurance-pre-licensing-courses-justinsurance", "destination": "/missouri/prelicensing", "statusCode": 301 },
-    { "source": "/montana-insurance-license", "destination": "/montana", "statusCode": 301 },
-    { "source": "/montana-insurance-pre-licensing-courses-justinsurance", "destination": "/montana/prelicensing", "statusCode": 301 },
-    { "source": "/nebraska-insurance-license", "destination": "/nebraska", "statusCode": 301 },
-    { "source": "/nebraska-insurance-pre-licensing-courses-justinsurance", "destination": "/nebraska/prelicensing", "statusCode": 301 },
-    { "source": "/nevada-insurance-license", "destination": "/nevada", "statusCode": 301 },
-    { "source": "/nevada-insurance-pre-licensing-courses-justinsurance", "destination": "/nevada/prelicensing", "statusCode": 301 },
-    { "source": "/new-hampshire-insurance-license", "destination": "/new-hampshire", "statusCode": 301 },
-    { "source": "/new-hampshire-insurance-pre-licensing-courses-justinsurance", "destination": "/new-hampshire/prelicensing", "statusCode": 301 },
-    { "source": "/new-jersey-insurance-license", "destination": "/new-jersey", "statusCode": 301 },
-    { "source": "/new-jersey-insurance-pre-licensing-courses-justinsurance", "destination": "/new-jersey/prelicensing", "statusCode": 301 },
-    { "source": "/new-mexico-insurance-license", "destination": "/new-mexico", "statusCode": 301 },
-    { "source": "/new-mexico-insurance-pre-licensing-courses-justinsurance", "destination": "/new-mexico/prelicensing", "statusCode": 301 },
-    { "source": "/new-york-insurance-license", "destination": "/new-york", "statusCode": 301 },
-    { "source": "/new-york-insurance-pre-licensing-courses-justinsurance", "destination": "/new-york/prelicensing", "statusCode": 301 },
-    { "source": "/north-carolina-insurance-license", "destination": "/north-carolina", "statusCode": 301 },
-    { "source": "/north-carolina-insurance-pre-licensing-courses-justinsurance", "destination": "/north-carolina/prelicensing", "statusCode": 301 },
-    { "source": "/north-dakota-insurance-license", "destination": "/north-dakota", "statusCode": 301 },
-    { "source": "/north-dakota-insurance-pre-licensing-courses-justinsurance", "destination": "/north-dakota/prelicensing", "statusCode": 301 },
-    { "source": "/ohio-insurance-license", "destination": "/ohio", "statusCode": 301 },
-    { "source": "/ohio-insurance-pre-licensing-courses-justinsurance", "destination": "/ohio/prelicensing", "statusCode": 301 },
-    { "source": "/oklahoma-insurance-license", "destination": "/oklahoma", "statusCode": 301 },
-    { "source": "/oklahoma-insurance-pre-licensing-courses-justinsurance", "destination": "/oklahoma/prelicensing", "statusCode": 301 },
-    { "source": "/oregon-insurance-license", "destination": "/oregon", "statusCode": 301 },
-    { "source": "/oregon-insurance-pre-licensing-courses-justinsurance", "destination": "/oregon/prelicensing", "statusCode": 301 },
-    { "source": "/pennsylvania-insurance-license", "destination": "/pennsylvania", "statusCode": 301 },
-    { "source": "/pennsylvania-insurance-pre-licensing-courses-justinsurance", "destination": "/pennsylvania/prelicensing", "statusCode": 301 },
-    { "source": "/rhode-island-insurance-license", "destination": "/rhode-island", "statusCode": 301 },
-    { "source": "/rhode-island-insurance-pre-licensing-courses-justinsurance", "destination": "/rhode-island/prelicensing", "statusCode": 301 },
-    { "source": "/south-carolina-insurance-license", "destination": "/south-carolina", "statusCode": 301 },
-    { "source": "/south-carolina-insurance-pre-licensing-courses-justinsurance", "destination": "/south-carolina/prelicensing", "statusCode": 301 },
-    { "source": "/south-dakota-insurance-license", "destination": "/south-dakota", "statusCode": 301 },
-    { "source": "/south-dakota-insurance-pre-licensing-courses-justinsurance", "destination": "/south-dakota/prelicensing", "statusCode": 301 },
-    { "source": "/tennessee-insurance-license", "destination": "/tennessee", "statusCode": 301 },
-    { "source": "/tennessee-insurance-pre-licensing-courses-justinsurance", "destination": "/tennessee/prelicensing", "statusCode": 301 },
-    { "source": "/texas-insurance-license", "destination": "/texas", "statusCode": 301 },
-    { "source": "/texas-insurance-pre-licensing-courses-justinsurance", "destination": "/texas/prelicensing", "statusCode": 301 },
-    { "source": "/utah-insurance-license", "destination": "/utah", "statusCode": 301 },
-    { "source": "/utah-insurance-pre-licensing-courses-justinsurance", "destination": "/utah/prelicensing", "statusCode": 301 },
-    { "source": "/vermont-insurance-license", "destination": "/vermont", "statusCode": 301 },
-    { "source": "/vermont-insurance-pre-licensing-courses-justinsurance", "destination": "/vermont/prelicensing", "statusCode": 301 },
-    { "source": "/virginia-insurance-license", "destination": "/virginia", "statusCode": 301 },
-    { "source": "/virginia-insurance-pre-licensing-courses-justinsurance", "destination": "/virginia/prelicensing", "statusCode": 301 },
-    { "source": "/washington-insurance-license", "destination": "/washington", "statusCode": 301 },
-    { "source": "/washington-insurance-pre-licensing-courses-justinsurance", "destination": "/washington/prelicensing", "statusCode": 301 },
-    { "source": "/west-virginia-insurance-license", "destination": "/west-virginia", "statusCode": 301 },
-    { "source": "/west-virginia-insurance-pre-licensing-courses-justinsurance", "destination": "/west-virginia/prelicensing", "statusCode": 301 },
-    { "source": "/wisconsin-insurance-license", "destination": "/wisconsin", "statusCode": 301 },
-    { "source": "/wisconsin-insurance-pre-licensing-courses-justinsurance", "destination": "/wisconsin/prelicensing", "statusCode": 301 },
-    { "source": "/wyoming-insurance-license", "destination": "/wyoming", "statusCode": 301 },
-    { "source": "/wyoming-insurance-pre-licensing-courses-justinsurance", "destination": "/wyoming/prelicensing", "statusCode": 301 },
-    { "source": "/:path+/", "destination": "https://justinsuranceco.com/:path+", "statusCode": 301 }
+    {
+      "source": "/compare",
+      "destination": "/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/compare/:path*",
+      "destination": "/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/florida-insurance-license/best-florida-insurance-prelicensing-courses-2026",
+      "destination": "/florida/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/texas-insurance-license/best-texas-insurance-prelicensing-courses-2026",
+      "destination": "/texas/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/washington-dc",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/washington-dc/:path*",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-york",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-york/:path*",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/refund-policy",
+      "destination": "/terms#payment-refunds",
+      "statusCode": 301
+    },
+    {
+      "source": "/services",
+      "destination": "/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/health-insurance-license-exam-in-2026-whats-changed",
+      "destination": "/health-insurance-license",
+      "statusCode": 301
+    },
+    {
+      "source": "/from-basics-to-pro-comprehensive-online-courses-for-your-insurance-license",
+      "destination": "/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/get-an-insurance-license-overview",
+      "destination": "/insurance-exam-guide",
+      "statusCode": 301
+    },
+    {
+      "source": "/online-vs-livestream-classes-for-the-state-insurance-license-exam-in-2026",
+      "destination": "/blog",
+      "statusCode": 301
+    },
+    {
+      "source": "/master-your-insurance-exam-prep-with-your-insurance-license",
+      "destination": "/study-guide",
+      "statusCode": 301
+    },
+    {
+      "source": "/which-is-the-easiest-state-to-get-an-insurance-license-in-2026",
+      "destination": "/blog",
+      "statusCode": 301
+    },
+    {
+      "source": "/florida/continuing-education/property-and-casualty/homeowners-flood",
+      "destination": "/florida/continuing-education/property-and-casualty/personal-lines-flood",
+      "statusCode": 301
+    },
+    {
+      "source": "/florida/continuing-education/property-and-casualty/personal-auto",
+      "destination": "/florida/continuing-education/property-and-casualty/commercial-flood",
+      "statusCode": 301
+    },
+    {
+      "source": "/practice",
+      "destination": "/practice-exam",
+      "statusCode": 301
+    },
+    {
+      "source": "/alabama-insurance-license",
+      "destination": "/alabama",
+      "statusCode": 301
+    },
+    {
+      "source": "/alabama-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/alabama/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/alaska-insurance-license",
+      "destination": "/alaska",
+      "statusCode": 301
+    },
+    {
+      "source": "/alaska-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/alaska/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/arizona-insurance-license",
+      "destination": "/arizona",
+      "statusCode": 301
+    },
+    {
+      "source": "/arizona-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/arizona/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/arkansas-insurance-license",
+      "destination": "/arkansas",
+      "statusCode": 301
+    },
+    {
+      "source": "/arkansas-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/arkansas/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/california-insurance-license",
+      "destination": "/california",
+      "statusCode": 301
+    },
+    {
+      "source": "/california-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/california/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/colorado-insurance-license",
+      "destination": "/colorado",
+      "statusCode": 301
+    },
+    {
+      "source": "/colorado-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/colorado/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/connecticut-insurance-license",
+      "destination": "/connecticut",
+      "statusCode": 301
+    },
+    {
+      "source": "/connecticut-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/connecticut/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/delaware-insurance-license",
+      "destination": "/delaware",
+      "statusCode": 301
+    },
+    {
+      "source": "/delaware-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/delaware/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/florida-insurance-license",
+      "destination": "/florida",
+      "statusCode": 301
+    },
+    {
+      "source": "/florida-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/florida/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/georgia-insurance-license",
+      "destination": "/georgia",
+      "statusCode": 301
+    },
+    {
+      "source": "/georgia-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/georgia/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/hawaii-insurance-license",
+      "destination": "/hawaii",
+      "statusCode": 301
+    },
+    {
+      "source": "/hawaii-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/hawaii/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/idaho-insurance-license",
+      "destination": "/idaho",
+      "statusCode": 301
+    },
+    {
+      "source": "/idaho-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/idaho/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/illinois-insurance-license",
+      "destination": "/illinois",
+      "statusCode": 301
+    },
+    {
+      "source": "/illinois-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/illinois/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/indiana-insurance-license",
+      "destination": "/indiana",
+      "statusCode": 301
+    },
+    {
+      "source": "/indiana-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/indiana/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/iowa-insurance-license",
+      "destination": "/iowa",
+      "statusCode": 301
+    },
+    {
+      "source": "/iowa-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/iowa/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/kansas-insurance-license",
+      "destination": "/kansas",
+      "statusCode": 301
+    },
+    {
+      "source": "/kansas-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/kansas/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/kentucky-insurance-license",
+      "destination": "/kentucky",
+      "statusCode": 301
+    },
+    {
+      "source": "/kentucky-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/kentucky/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/louisiana-insurance-license",
+      "destination": "/louisiana",
+      "statusCode": 301
+    },
+    {
+      "source": "/louisiana-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/louisiana/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/maine-insurance-license",
+      "destination": "/maine",
+      "statusCode": 301
+    },
+    {
+      "source": "/maine-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/maine/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/maryland-insurance-license",
+      "destination": "/maryland",
+      "statusCode": 301
+    },
+    {
+      "source": "/maryland-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/maryland/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/massachusetts-insurance-license",
+      "destination": "/massachusetts",
+      "statusCode": 301
+    },
+    {
+      "source": "/massachusetts-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/massachusetts/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/michigan-insurance-license",
+      "destination": "/michigan",
+      "statusCode": 301
+    },
+    {
+      "source": "/michigan-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/michigan/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/minnesota-insurance-license",
+      "destination": "/minnesota",
+      "statusCode": 301
+    },
+    {
+      "source": "/minnesota-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/minnesota/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/mississippi-insurance-license",
+      "destination": "/mississippi",
+      "statusCode": 301
+    },
+    {
+      "source": "/mississippi-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/mississippi/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/missouri-insurance-license",
+      "destination": "/missouri",
+      "statusCode": 301
+    },
+    {
+      "source": "/missouri-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/missouri/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/montana-insurance-license",
+      "destination": "/montana",
+      "statusCode": 301
+    },
+    {
+      "source": "/montana-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/montana/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/nebraska-insurance-license",
+      "destination": "/nebraska",
+      "statusCode": 301
+    },
+    {
+      "source": "/nebraska-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/nebraska/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/nevada-insurance-license",
+      "destination": "/nevada",
+      "statusCode": 301
+    },
+    {
+      "source": "/nevada-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/nevada/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-hampshire-insurance-license",
+      "destination": "/new-hampshire",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-hampshire-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/new-hampshire/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-jersey-insurance-license",
+      "destination": "/new-jersey",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-jersey-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/new-jersey/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-mexico-insurance-license",
+      "destination": "/new-mexico",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-mexico-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/new-mexico/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-york-insurance-license",
+      "destination": "/new-york",
+      "statusCode": 301
+    },
+    {
+      "source": "/new-york-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/new-york/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/north-carolina-insurance-license",
+      "destination": "/north-carolina",
+      "statusCode": 301
+    },
+    {
+      "source": "/north-carolina-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/north-carolina/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/north-dakota-insurance-license",
+      "destination": "/north-dakota",
+      "statusCode": 301
+    },
+    {
+      "source": "/north-dakota-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/north-dakota/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/ohio-insurance-license",
+      "destination": "/ohio",
+      "statusCode": 301
+    },
+    {
+      "source": "/ohio-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/ohio/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/oklahoma-insurance-license",
+      "destination": "/oklahoma",
+      "statusCode": 301
+    },
+    {
+      "source": "/oklahoma-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/oklahoma/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/oregon-insurance-license",
+      "destination": "/oregon",
+      "statusCode": 301
+    },
+    {
+      "source": "/oregon-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/oregon/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/pennsylvania-insurance-license",
+      "destination": "/pennsylvania",
+      "statusCode": 301
+    },
+    {
+      "source": "/pennsylvania-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/pennsylvania/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/rhode-island-insurance-license",
+      "destination": "/rhode-island",
+      "statusCode": 301
+    },
+    {
+      "source": "/rhode-island-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/rhode-island/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/south-carolina-insurance-license",
+      "destination": "/south-carolina",
+      "statusCode": 301
+    },
+    {
+      "source": "/south-carolina-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/south-carolina/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/south-dakota-insurance-license",
+      "destination": "/south-dakota",
+      "statusCode": 301
+    },
+    {
+      "source": "/south-dakota-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/south-dakota/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/tennessee-insurance-license",
+      "destination": "/tennessee",
+      "statusCode": 301
+    },
+    {
+      "source": "/tennessee-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/tennessee/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/texas-insurance-license",
+      "destination": "/texas",
+      "statusCode": 301
+    },
+    {
+      "source": "/texas-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/texas/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/utah-insurance-license",
+      "destination": "/utah",
+      "statusCode": 301
+    },
+    {
+      "source": "/utah-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/utah/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/vermont-insurance-license",
+      "destination": "/vermont",
+      "statusCode": 301
+    },
+    {
+      "source": "/vermont-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/vermont/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/virginia-insurance-license",
+      "destination": "/virginia",
+      "statusCode": 301
+    },
+    {
+      "source": "/virginia-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/virginia/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/washington-insurance-license",
+      "destination": "/washington",
+      "statusCode": 301
+    },
+    {
+      "source": "/washington-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/washington/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/west-virginia-insurance-license",
+      "destination": "/west-virginia",
+      "statusCode": 301
+    },
+    {
+      "source": "/west-virginia-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/west-virginia/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/wisconsin-insurance-license",
+      "destination": "/wisconsin",
+      "statusCode": 301
+    },
+    {
+      "source": "/wisconsin-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/wisconsin/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/wyoming-insurance-license",
+      "destination": "/wyoming",
+      "statusCode": 301
+    },
+    {
+      "source": "/wyoming-insurance-pre-licensing-courses-justinsurance",
+      "destination": "/wyoming/prelicensing",
+      "statusCode": 301
+    },
+    {
+      "source": "/:path+/",
+      "destination": "https://justinsuranceco.com/:path+",
+      "statusCode": 301
+    }
   ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "X-XSS-Protection", "value": "0" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(), payment=()" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "0"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=()"
+        }
       ]
     }
   ]

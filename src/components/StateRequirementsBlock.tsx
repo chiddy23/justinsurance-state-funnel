@@ -24,7 +24,7 @@ function formatHoursDisplay(hours: number | string, completionTime?: string): st
 }
 
 export default function StateRequirementsBlock({ stateData }: StateRequirementsBlockProps) {
-  const { name, doiName, doiUrl, prelicensing, ce, examInfo, noCombinedExam, applicationBeforeExam } = stateData;
+  const { name, doiName, doiUrl, prelicensing, ce, examInfo, noCombinedExam, applicationBeforeExam, applicationProcessingTime } = stateData;
   const { examProvider, examProviderUrl, examBookingUrl } = examInfo;
 
   const hasOptionalPrelicensing =
@@ -141,7 +141,7 @@ export default function StateRequirementsBlock({ stateData }: StateRequirementsB
               {doiName}
             </h3>
             <p className="text-gray-600 text-sm mb-4">
-              Your license application is submitted to the {doiName}. Most applications are processed within 2–5 business days when submitted online through NIPR or the DOI portal.
+              Your license application is submitted to the {doiName}. Most applications are processed within {applicationProcessingTime} when submitted online through NIPR or the DOI portal.
             </p>
             {applicationBeforeExam && (
               <div className="bg-blue-50 rounded-lg p-3 mb-4">

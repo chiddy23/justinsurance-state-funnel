@@ -72,7 +72,7 @@ const features: Feature[] = [
       </svg>
     ),
     title: "Nationwide Coverage",
-    desc: "State-approved nationwide. Whether you\u2019re a regional agency or national IMO, we have your markets covered.",
+    desc: "State-approved CE nationwide, with prelicensing in every state that requires it. Whether you\u2019re a regional agency or national IMO, we have your markets covered.",
   },
 ];
 
@@ -184,7 +184,7 @@ export default function PartnersPage() {
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed mb-8 max-w-3xl mx-auto">
             Give your recruits a 93% pass rate among students who complete the course
             (<Link href="/pass-rates" className="underline hover:text-gold">see methodology</Link>).
-            State-approved prelicensing and CE courses nationwide &mdash; with agency
+            State-approved CE nationwide, plus prelicensing where required &mdash; with agency
             dashboards, bulk pricing, and dedicated support.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

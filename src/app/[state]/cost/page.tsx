@@ -7,6 +7,7 @@ import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
+import { credentialKindFromHours } from "@/lib/prelicensing-status";
 import {
   generateArticleSchemaWithReviewer,
   generateBreadcrumbSchema,
@@ -96,10 +97,20 @@ export default async function CostPage({
   // -------------------------------------------------------------------------
   // Determine prelicensing requirement & cost
   // -------------------------------------------------------------------------
-  const lhHours = stateData.prelicensing.lifeAndHealth.hours;
+  // The old test was `/not\s*required/i` against the L&H hours only. That matched
+  // Alabama's "Not Required (as of Jan 1, 2024)" but MISSED "None required
+  // (optional)" — the value 33 states actually use ("None" contains no "not") — so
+  // this page treated prelicensing as MANDATORY across nearly every exam-only
+  // state, in all 9 places this flag is used. It also ignored the Life/Health
+  // lines, which is what actually decides the requirement (e.g. Wisconsin, whose
+  // L&H is "no combined license" but whose Life and Health lines DO require hours).
+  // Use the canonical predicate instead.
   const noPrelicensingRequired =
-    typeof lhHours !== "number" &&
-    /not\s*required/i.test(String(lhHours));
+    credentialKindFromHours([
+      stateData.prelicensing.life.hours,
+      stateData.prelicensing.health.hours,
+      stateData.prelicensing.lifeAndHealth.hours,
+    ]) === "ce";
 
   const prelicensingDisplay = noPrelicensingRequired
     ? "Not required"
@@ -416,9 +427,12 @@ export default async function CostPage({
               <ul className="space-y-2 text-sm text-gray-700">
                 <li className="flex gap-2">
                   <span className="text-gold font-bold">✓</span>
-                  {isProviderApproved
+                  {/* "State-approved" here asserts a PRELICENSING approval. In
+                      exam-only states our approval is CE-only, so gate on the
+                      requirement too — same defect class as faq-data.ts. */}
+                  {isProviderApproved && !noPrelicensingRequired
                     ? `State-approved ${stateData.name} prelicensing course`
-                    : `${stateData.name} prelicensing course`}
+                    : `${stateData.name} ${noPrelicensingRequired ? "exam-prep" : "prelicensing"} course`}
                 </li>
                 <li className="flex gap-2">
                   <span className="text-gold font-bold">✓</span>

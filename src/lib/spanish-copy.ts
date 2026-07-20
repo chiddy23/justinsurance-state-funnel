@@ -62,7 +62,7 @@ export const SPANISH_UI = {
     {
       icon: "🏛️",
       title: "Cursos aprobados por el estado",
-      desc: "Cada curso de JustInsurance está aprobado oficialmente por el departamento de seguros de tu estado para cumplir con los requisitos de prelicenciatura y CE.",
+      desc: "Los cursos de JustInsurance cuentan con aprobación estatal donde el estado la otorga: educación continua (CE) y prelicenciatura en los estados que la exigen. Donde el estado no exige prelicenciatura, nuestro curso es preparación para el examen.",
     },
     {
       icon: "📱",
@@ -112,7 +112,7 @@ export const FLORIDA_ES: SpanishStateCopy = {
     {
       question: "¿Cuánto cuesta obtener una licencia de seguros en Florida?",
       answer:
-        "El costo total para obtener tu licencia de seguros de Florida normalmente está entre $350 y $500. El desglose es así: la cuota del examen de Pearson VUE es de $44, la cuota de solicitud al Departamento de Servicios Financieros de Florida es de $50, y la verificación de antecedentes con huellas digitales agrega aproximadamente $50 adicionales. Si necesitas un curso de prelicenciatura, el paquete combinado de Vida y Salud de JustInsurance cuesta $199 — eso es $199 menos que comprar los cursos de Vida y Salud por separado. Todo lo que necesitas para obtener tu licencia, sin cargos ocultos.",
+        "El costo total para obtener tu licencia de seguros de Florida ronda los $343 (curso más cuotas estatales). El desglose es así: la cuota del examen de Pearson VUE es de $44, la cuota de solicitud al Departamento de Servicios Financieros de Florida es de $50, y la verificación de antecedentes con huellas digitales agrega aproximadamente $50 adicionales. Si necesitas un curso de prelicenciatura, el paquete combinado de Vida y Salud de JustInsurance cuesta $199 — eso es $199 menos que comprar los cursos de Vida y Salud por separado. Todo lo que necesitas para obtener tu licencia, sin cargos ocultos.",
     },
     {
       question: "¿Cuánto tiempo toma obtener la licencia en Florida?",
@@ -152,7 +152,7 @@ export const TEXAS_ES: SpanishStateCopy = {
     {
       question: "¿Cómo obtengo mi licencia de seguros en Texas?",
       answer:
-        "Obtener tu licencia de seguros de Texas implica cuatro pasos. Primero, prepárate para tu examen — Texas no requiere un curso formal de prelicenciatura, pero la mayoría de los candidatos exitosos toman uno. Segundo, aprueba el examen estatal administrado por Pearson VUE — necesitas al menos 70% para aprobar. Tercero, completa una verificación de antecedentes con huellas digitales a través de IdentoGO (Service Code 11G6QF). Cuarto, presenta tu solicitud por medio del National Insurance Producer Registry (NIPR) y paga la cuota de $50 al Departamento de Seguros de Texas. La mayoría de los candidatos completan todo el proceso en 2-4 semanas. JustInsurance ofrece cursos de preparación para Texas 100% en línea, a tu propio ritmo, que te llevan al día del examen con confianza.",
+        "Obtener tu licencia de seguros de Texas implica cuatro pasos. Primero, prepárate para tu examen — Texas no requiere un curso formal de prelicenciatura, pero la mayoría de los candidatos exitosos toman uno. Segundo, aprueba el examen estatal administrado por Pearson VUE — necesitas un puntaje escalado de al menos 70 para aprobar (es un puntaje escalado, no un porcentaje de respuestas correctas). Tercero, completa una verificación de antecedentes con huellas digitales a través de IdentoGO (Service Code 11G6QF). Cuarto, presenta tu solicitud por medio del National Insurance Producer Registry (NIPR) y paga la cuota de $50 al Departamento de Seguros de Texas. La mayoría de los candidatos completan todo el proceso en 2-4 semanas. JustInsurance ofrece cursos de preparación para Texas 100% en línea, a tu propio ritmo, que te llevan al día del examen con confianza.",
     },
     {
       question: "¿Cuánto cuesta obtener una licencia de seguros en Texas?",

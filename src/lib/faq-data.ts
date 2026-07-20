@@ -141,6 +141,20 @@ function $(val: string): string {
 }
 
 // Returns true when the state does not require prelicensing hours for a given LOA
+/**
+ * Map a display LOA name to the slug used by PER_EXAM_SCORES ("life" | "health" |
+ * "life-and-health"). LOA display names carry an " Insurance" suffix ("Health
+ * Insurance", "Life & Health Insurance"), so a naive `loaName.toLowerCase()` or
+ * `loaName === "Life & Health"` NEVER matches the score table — the lookup silently
+ * fell back to the state-level score and rendered Michigan's Health exam as 72%
+ * instead of 76%. Match on substance, not on the exact display string.
+ */
+function loaSlugFromName(loaName: string): "life" | "health" | "life-and-health" {
+  if (/life\s*(&|and)\s*health/i.test(loaName)) return "life-and-health";
+  if (/health/i.test(loaName)) return "health";
+  return "life";
+}
+
 function isPleNotRequired(hours: string | number): boolean {
   if (typeof hours === "number") return false;
   const lower = hours.toLowerCase();
@@ -227,7 +241,7 @@ export function getStateHubFAQs(data: StateDataForFAQ): FAQ[] {
   return [
     {
       question: `How do I get my ${data.name} insurance license?`,
-      answer: `Getting your ${data.name} insurance license involves four steps. First, ${pleStep}. Second, pass the ${data.name} state licensing exam administered by ${data.examProvider} — you need at least ${passingScoreProse(data.slug, data.passingScore)} to pass. Third, complete a background check${data.fingerprintRequirement.toLowerCase().includes("not required") || data.fingerprintRequirement.toLowerCase().includes("no finger") ? "" : ", including fingerprinting"}. Fourth, ${data.applicationProcess} and pay the ${data.doiName} application fee of ${$(data.applicationFee)}. Most candidates complete the entire process in ${data.totalLicensingTime}. JustInsurance offers fully online, self-paced prelicensing courses ${data.providerApproved ? `approved for ${data.name}` : `built to the ${data.name} exam content outline`} that get you to exam day confident and prepared.`,
+      answer: `Getting your ${data.name} insurance license involves four steps. First, ${pleStep}. Second, pass the ${data.name} state licensing exam administered by ${data.examProvider} — you need at least ${passingScoreProse(data.slug, data.passingScore)} to pass. Third, complete a background check${data.fingerprintRequirement.toLowerCase().includes("not required") || data.fingerprintRequirement.toLowerCase().includes("no finger") ? "" : ", including fingerprinting"}. Fourth, ${data.applicationProcess} and pay the ${data.doiName} application fee of ${$(data.applicationFee)}. Most candidates complete the entire process in ${data.totalLicensingTime}. JustInsurance offers fully online, self-paced ${prelicensingRequired ? "prelicensing" : "exam-prep"} courses ${data.providerApproved && prelicensingRequired ? `approved for ${data.name}` : `built to the ${data.name} exam content outline`} that get you to exam day confident and prepared.`,
     },
     {
       question: `How much does it cost to get ${aOrAn(data.name)} ${data.name} insurance license?`,
@@ -302,7 +316,11 @@ export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
           ? `Life & Health (two separate courses): ${formatHours(data.combinedHours)} total`
           : `Life & Health (combined): ${formatHours(data.combinedHours)}`
       );
-    hoursAnswer = `${data.name} requires the following prelicensing education hours before you can sit for the state exam: ${parts.join("; ")}. These hours must be completed through an approved ${data.doiName} provider. JustInsurance is an approved provider and our courses are approved to meet ${data.name}'s exact hour requirements for each line of authority.`;
+    hoursAnswer = `${data.name} requires the following prelicensing education hours before you can sit for the state exam: ${parts.join("; ")}. These hours must be completed through an approved ${data.doiName} provider. ${
+      data.providerApproved
+        ? `JustInsurance is an approved provider and our courses are approved to meet ${data.name}'s exact hour requirements for each line of authority.`
+        : `JustInsurance's courses are built to meet ${data.name}'s exact hour requirements for each line of authority.`
+    }`;
   }
 
   const coverAnswer = isCalifornia
@@ -334,7 +352,11 @@ export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
         ? `Yes. California approves online prelicensing education, and that is exactly what JustInsurance provides — study on any device, from anywhere, on your own schedule, with no scheduled live sessions or fixed class times. It is flexible in when and where you study, but it is not self-paced in length: the 12 hours are monitored seat time. The state requires the course to occupy the full 12 hours of active study, so it cannot be rushed or skipped ahead. A built-in timer counts down as you work through the material, so you can always see how much engaged study time is left, and you confirm your participation by electronic affidavit at the end (10 CCR §§ 2188.2, 2188.5). Your enrollment gives you ${data.courseAccessDays} days of access to fit those 12 hours around your schedule, and you receive your certificate of completion as soon as you finish.`
         : isMinnesota
         ? `Yes. Minnesota approves online, self-paced prelicensing education, and that is exactly what JustInsurance provides — study on any device, from anywhere, with no fixed class times. Two Minnesota rules to plan for. First, seat time: Minnesota requires the course to be built so it actually takes the full required hours of interactive study to complete — a course approved for a set number of hours must take at least that many hours — with technology that guarantees the seat time and automatically logs you out if you are inactive for more than 10 minutes, so you cannot finish faster than your required hours (Minn. Stat. § 45.305, subd. 4). Second, the final exam must be proctored: you arrange a disinterested third-party proctor (someone with no conflict of interest — not a relative, co-worker, or your instructor) who verifies your photo ID and signs an affidavit that you completed the exam without outside assistance (Minn. Stat. § 45.305, subd. 5; proctor defined § 45.25, subd. 12). Your enrollment gives you ${data.courseAccessDays} days of full course access, and your state-recognized certificate of completion is issued only after your seat time is met, you pass the proctored final exam, and we receive the signed proctor affidavit — not automatically when you finish the lessons.`
-        : `Yes. ${data.name} approves online, self-paced prelicensing education, and that is exactly what JustInsurance provides. You can study on any device — laptop, tablet, or phone — from anywhere with an internet connection. There are no scheduled live sessions or fixed class times. Your enrollment gives you ${data.courseAccessDays} days of full course access, and most students complete the material in just 5–10 days. Once you finish, you receive ${data.providerApproved ? "a state-recognized certificate of completion" : "a certificate of completion"} immediately through the platform.`,
+        : anyLineRequired
+        ? data.providerApproved
+          ? `Yes. ${data.name} approves online, self-paced prelicensing education, and that is exactly what JustInsurance provides. You can study on any device — laptop, tablet, or phone — from anywhere with an internet connection. There are no scheduled live sessions or fixed class times. Your enrollment gives you ${data.courseAccessDays} days of full course access, and most students complete the material in just 5–10 days. Once you finish, you receive a state-recognized certificate of completion immediately through the platform.`
+          : `Yes. ${data.name} allows online, self-paced prelicensing education, and JustInsurance's course is delivered entirely online. You can study on any device — laptop, tablet, or phone — from anywhere with an internet connection. There are no scheduled live sessions or fixed class times. Your enrollment gives you ${data.courseAccessDays} days of full course access, and most students complete the material in just 5–10 days. Once you finish, you receive a certificate of completion immediately through the platform.`
+        : `${data.name} does not require a prelicensing course to sit for the state exam, so there is no mandatory course to complete — but you can absolutely prepare online. JustInsurance's ${data.name} exam-prep course is fully self-paced: study on any device — laptop, tablet, or phone — from anywhere, with no scheduled live sessions or fixed class times. Your enrollment gives you ${data.courseAccessDays} days of full access, and most students complete the material in just 5–10 days. When you finish, you receive a certificate of completion immediately through the platform.`,
     },
     {
       question: `What does ${data.name} insurance prelicensing cover?`,
@@ -356,6 +378,13 @@ export function getPrelicensingHubFAQs(data: StateDataForFAQ): FAQ[] {
  * Targets queries like "[state] insurance CE requirements" and renewal cycles
  */
 export function getCEHubFAQs(data: StateDataForFAQ): FAQ[] {
+  // Exam-only states have no prelicensing education to "retake" on reinstatement —
+  // telling a lapsed producer there they may have to redo prelicensing invents a
+  // requirement the state does not have. Gate that clause on the real signal.
+  const ceHubPrelicensingRequired =
+    !isPleNotRequired(data.lifeHours) ||
+    !isPleNotRequired(data.healthHours) ||
+    !isPleNotRequired(data.combinedHours);
   // Higher first-renewal total (Massachusetts: 60, then 45). Undefined
   // everywhere else — those answers render byte-identically. See firstTermCeHours.
   const firstTerm = firstTermCeHours(data);
@@ -371,7 +400,7 @@ export function getCEHubFAQs(data: StateDataForFAQ): FAQ[] {
     },
     {
       question: `Can I complete my ${data.name} insurance CE online?`,
-      answer: `Yes. ${data.name} approves online CE courses, and JustInsurance provides a full catalog of self-paced courses that meet all ${data.doiName} requirements. You can study on any device, pause and resume whenever you need to, and complete your ${firstTerm ? `${data.ceTotalHours}-hour renewal-cycle requirement (${firstTerm} hours before your first renewal)` : `${data.ceTotalHours}-hour requirement`} in a single sitting or spread across multiple sessions. ${data.providerApproved ? `Once you finish each course, JustInsurance reports your completion electronically to the ${data.doiName} — you do not need to mail certificates or manually update your license record.` : `Once ${data.name} finalizes our CE provider approval, JustInsurance will report your completions electronically to the ${data.doiName}; until then you receive a certificate of completion for your records.`}`,
+      answer: `Yes. ${data.name} approves online CE courses, and JustInsurance provides a full catalog of self-paced courses ${data.providerApproved ? `that meet all ${data.doiName} requirements` : `aligned to ${data.doiName} requirements`}. You can study on any device, pause and resume whenever you need to, and complete your ${firstTerm ? `${data.ceTotalHours}-hour renewal-cycle requirement (${firstTerm} hours before your first renewal)` : `${data.ceTotalHours}-hour requirement`} in a single sitting or spread across multiple sessions. ${data.providerApproved ? `Once you finish each course, JustInsurance reports your completion electronically to the ${data.doiName} — you do not need to mail certificates or manually update your license record.` : `Once ${data.name} finalizes our CE provider approval, JustInsurance will report your completions electronically to the ${data.doiName}; until then you receive a certificate of completion for your records.`}`,
     },
     {
       question: `What happens if I don't complete my ${data.name} CE on time?`,
@@ -383,7 +412,7 @@ export function getCEHubFAQs(data: StateDataForFAQ): FAQ[] {
       ? [
           {
             question: `How do I reinstate a lapsed ${data.name} insurance license?`,
-            answer: `If your ${data.name} insurance license has lapsed, you typically have ${data.ceReinstatementWindow} to reinstate it before you must re-apply as a new licensee. Reinstatement in ${data.name} runs ${data.ceReinstatementFee}, and you must complete any outstanding CE hours from the lapsed period before the ${data.doiName} will process your reinstatement. The sooner you act, the simpler the process — waiting too long can mean retaking prelicensing education and the state exam from scratch.${data.providerApproved ? ` JustInsurance courses report electronically to the ${data.doiName}, so once your hours are complete your reinstatement moves fast.` : ``}`,
+            answer: `If your ${data.name} insurance license has lapsed, you typically have ${data.ceReinstatementWindow} to reinstate it before you must re-apply as a new licensee. Reinstatement in ${data.name} runs ${data.ceReinstatementFee}, and you must complete any outstanding CE hours from the lapsed period before the ${data.doiName} will process your reinstatement. The sooner you act, the simpler the process — waiting too long can mean starting over${ceHubPrelicensingRequired ? ` with prelicensing education and the state exam` : ` and retaking the state exam`} from scratch.${data.providerApproved ? ` JustInsurance courses report electronically to the ${data.doiName}, so once your hours are complete your reinstatement moves fast.` : ``}`,
           },
         ]
       : []),
@@ -421,6 +450,14 @@ export function getPrelicensingCourseFAQs(
     typeof hours === "string" && hours.toLowerCase().includes("no combined");
   const combinedTotalHours = Number(data.lifeHours) + Number(data.healthHours);
   const hoursNotRequired = isPleNotRequired(hours) && !isNoCombinedLicense;
+  // `providerApproved` is derived from providerApprovalNumber !== "PENDING" — a
+  // CONTINUING EDUCATION provider approval. It must never be reused to assert
+  // PRELICENSING approval: in exam-only states the DOI runs no prelicensing
+  // approval program at all, so "approved by the {DOI}" / "meets all state
+  // education requirements" / "state-recognized certificate" are false there.
+  // Every state-approval claim below requires BOTH: we hold the approval AND
+  // this line of authority actually mandates prelicensing.
+  const prelicensingApproved = data.providerApproved && !hoursNotRequired;
   const hoursDisplay = isNoCombinedLicense
     ? `${Number.isFinite(combinedTotalHours) ? combinedTotalHours : 40} hours`
     : formatHours(hours);
@@ -444,23 +481,25 @@ export function getPrelicensingCourseFAQs(
     },
     {
       question: `What is the pass rate for JustInsurance students on the ${data.name} ${loaName} exam?`,
-      answer: `JustInsurance students nationwide pass insurance licensing exams at a rate of approximately ${Math.round(parseFloat(data.passRate))}% on their first attempt — measured among students who complete the full course, finish the recommended study hours, and score 80%+ three times in a row on the practice exam before testing. The ${data.name} ${loaName} exam is administered by ${data.examProvider} and requires at least ${formatPassingScore(data.slug, data.passingScore, loaName === "Life & Health" ? "life-and-health" : loaName.toLowerCase())} to pass. JustInsurance's course includes a full-length practice exam modeled on the actual ${data.examProvider} content outline, so you can benchmark your readiness. Full pass rate methodology at /pass-rates.`,
+      answer: `JustInsurance students nationwide pass insurance licensing exams at a rate of approximately ${Math.round(parseFloat(data.passRate))}% on their first attempt — measured among students who complete the full course, finish the recommended study hours, and score 80%+ three times in a row on the practice exam before testing. The ${data.name} ${loaName} exam is administered by ${data.examProvider} and requires at least ${formatPassingScore(data.slug, data.passingScore, loaSlugFromName(loaName))} to pass. JustInsurance's course includes a full-length practice exam modeled on the actual ${data.examProvider} content outline, so you can benchmark your readiness. Full pass rate methodology at /pass-rates.`,
     },
     {
       question: `What happens if I fail the ${data.name} ${loaName} exam?`,
       answer: `If you do not pass the ${data.name} ${loaName} exam on your first attempt, you can retake it after ${data.retakeWaitingPeriod}. ${data.retakeLimitInfo} Each retake requires paying the ${$(data.examFee)} exam fee again to ${data.examProvider}. JustInsurance recommends reviewing your score report after a failed attempt to identify weak areas, then spending additional time on those topics before rescheduling. Your JustInsurance course access remains active throughout your ${data.courseAccessDays}-day enrollment window, so you can review material at no extra cost.`,
     },
     {
-      question: `Is the JustInsurance ${data.name} ${loaName} course ${data.providerApproved ? "state-approved" : "approved yet"}?`,
+      question: `Is the JustInsurance ${data.name} ${loaName} course ${prelicensingApproved || hoursNotRequired ? "state-approved" : "approved yet"}?`,
       answer: data.name === "California"
         ? `Yes. The JustInsurance California ${loaName} prelicensing course is approved by the California Department of Insurance and satisfies California's mandatory 12-hour Code and Ethics prelicensing requirement — a single course, taken once, regardless of line of authority (AB 943, effective January 1, 2026). When you finish, you receive an official certificate of completion and JustInsurance reports your completion to the CDI; the Department verifies your prelicensing education as part of your license application, so you do not submit the certificate to ${data.examProvider} to register for the exam. JustInsurance maintains active approval status with the CDI and updates course content whenever California insurance law or exam content outlines change.`
-        : data.providerApproved
+        : hoursNotRequired
+        ? `${data.name} does not require prelicensing education for the ${loaName} line, so the ${data.doiName} does not approve or register prelicensing courses — there is no state prelicensing approval for any provider to hold. The JustInsurance ${data.name} ${loaName} course is exam preparation, built to the full ${data.examProvider} exam content outline.${data.providerApproved ? ` JustInsurance does hold ${data.doiName} approval as a continuing education provider, which is a separate credential from prelicensing and applies to license renewal, not to getting licensed.` : ``} You receive an official JustInsurance certificate of completion when you finish.`
+        : prelicensingApproved
         ? `Yes. The JustInsurance ${data.name} ${loaName} prelicensing course is approved by the ${data.doiName} and meets all state education requirements for the ${loaName} line of authority. Upon completing the course, you receive an official certificate of completion that ${data.examProvider} accepts for exam registration. JustInsurance maintains active approval status with the ${data.doiName} and updates course content whenever ${data.name} insurance law or exam content outlines change.`
         : `The JustInsurance ${data.name} ${loaName} prelicensing course is built to the ${data.doiName}'s ${loaName} education standards and the full ${data.examProvider} exam content outline. Our ${data.name} provider approval is currently pending with the ${data.doiName}; JustInsurance will update this page as soon as the approval is finalized. You still receive an official certificate of completion when you finish the course.`,
     },
     {
       question: `What's included in the ${data.name} ${loaName} prelicensing course?`,
-      answer: `The JustInsurance ${data.name} ${loaName} prelicensing course at ${$(price)} includes everything you need in a single purchase: ${hoursNotRequired ? "comprehensive" : hoursDisplay + " of"} ${data.providerApproved ? "state-approved" : "exam-focused"} course content organized by exam topic, chapter-by-chapter review quizzes to reinforce key concepts, a full-length practice exam that mirrors the format and difficulty of the actual ${data.examProvider} exam, ${data.courseAccessDays} days of unlimited access across all your devices, and your official ${data.providerApproved ? "state-recognized " : ""}certificate of completion${data.name === "Minnesota" ? ", issued once you pass Minnesota's required proctor-monitored final exam and we receive your signed proctor affidavit (Minn. Stat. § 45.305, subd. 5). There are no hidden JustInsurance fees, required textbooks, or add-on course costs — though a proctor you arrange may charge its own fee." : " issued immediately when you finish. There are no hidden fees, no required textbooks, and no add-on costs."}`,
+      answer: `The JustInsurance ${data.name} ${loaName} prelicensing course at ${$(price)} includes everything you need in a single purchase: ${hoursNotRequired ? "comprehensive" : hoursDisplay + " of"} ${prelicensingApproved ? "state-approved" : "exam-focused"} course content organized by exam topic, chapter-by-chapter review quizzes to reinforce key concepts, a full-length practice exam that mirrors the format and difficulty of the actual ${data.examProvider} exam, ${data.courseAccessDays} days of unlimited access across all your devices, and your official ${prelicensingApproved ? "state-recognized " : ""}certificate of completion${data.name === "Minnesota" ? ", issued once you pass Minnesota's required proctor-monitored final exam and we receive your signed proctor affidavit (Minn. Stat. § 45.305, subd. 5). There are no hidden JustInsurance fees, required textbooks, or add-on course costs — though a proctor you arrange may charge its own fee." : " issued immediately when you finish. There are no hidden fees, no required textbooks, and no add-on costs."}`,
     },
   ];
 }

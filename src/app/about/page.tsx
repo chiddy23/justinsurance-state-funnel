@@ -291,7 +291,7 @@ export default function AboutPage() {
 
           <H3>For Licensed Agents</H3>
           <P>
-            For existing producers, we deliver CE packages that cover your state&apos;s required
+            For existing producers, in the states where we hold CE approval, we deliver packages that cover your state&apos;s required
             hours plus ethics — reported directly to your Department of Insurance, typically the
             same business day you finish.
           </P>
@@ -520,7 +520,7 @@ export default function AboutPage() {
 
       <CTABanner
         title="Ready to Get Licensed?"
-        subtitle="State-approved prelicensing from $199. Pass guarantee included in most states. Study at your own pace nationwide."
+        subtitle="Prelicensing from $199, state-approved where the state requires it. Pass guarantee included in most states. Study at your own pace nationwide."
         ctaText="Find My State"
         ctaHref="/#states"
       />

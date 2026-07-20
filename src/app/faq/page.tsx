@@ -24,7 +24,7 @@ const gettingLicensedFaqs = [
   {
     question: "How do I get an insurance license?",
     answer:
-      "The process has four main steps: (1) Complete a state-approved prelicensing education course for your line of authority — Life, Health, or Life & Health. (2) Pass the state insurance licensing exam at an approved test center or online. (3) Submit a license application through NIPR or your state's producer portal and pay the application fee. (4) Complete any background check or fingerprinting required by your state. Most agents go from enrollment to license in 4 to 8 weeks.",
+      "The process has four main steps: (1) If your state requires prelicensing (18 do), complete a state-approved course for your line of authority — Life, Health, or Life & Health; in the other 32 states you can go straight to the exam. (2) Pass the state insurance licensing exam at an approved test center or online. (3) Submit a license application through NIPR or your state's producer portal and pay the application fee. (4) Complete any background check or fingerprinting required by your state. Most agents go from enrollment to license in 4 to 8 weeks.",
   },
   {
     question: "Do I need a sponsor or employer to get licensed?",

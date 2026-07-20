@@ -41,7 +41,7 @@ const faqs = [
   {
     question: "How long does an insurance prelicensing course take?",
     answer:
-      "20 to 52 hours of study, completable in 3 days to 3 weeks depending on state and pace. Most states require 20 to 40 hours per line of authority. California requires 12 hours of Ethics and Code only (post-AB 943). Texas, Pennsylvania, Arizona, and a handful of other states have no prelicensing requirement at all. A motivated full-time student can clear a 40-hour combined Life & Health course in 5 to 7 days.",
+      "20 to 52 hours of study, completable in 3 days to 3 weeks depending on state and pace. Only 18 states require prelicensing at all; where required, hours vary by state and line of authority. California requires 12 hours of Ethics and Code only (post-AB 943). Texas, Pennsylvania, Arizona, and a handful of other states have no prelicensing requirement at all. A motivated full-time student can clear a 40-hour combined Life & Health course in 5 to 7 days.",
   },
   {
     question: "How long is an insurance license good for?",
@@ -88,7 +88,7 @@ const phases = [
     title: "Prelicensing Coursework",
     duration: "3 days – 3 weeks",
     body:
-      "Most states require 20 to 40 hours of state-approved prelicensing instruction per line of authority. A motivated full-time student can clear a 40-hour combined Life & Health course in 5 to 7 days. Candidates studying around a job typically finish in 2 to 3 weeks. California eliminated line-specific prelicensing hours under AB 943 (effective January 2026) and now only requires a 12-hour Ethics and Code course.",
+      "Only 18 states require prelicensing at all. Where it is required, the number of hours varies by state and line of authority. A motivated full-time student can clear a 40-hour combined Life & Health course in 5 to 7 days. Candidates studying around a job typically finish in 2 to 3 weeks. California eliminated line-specific prelicensing hours under AB 943 (effective January 2026) and now only requires a 12-hour Ethics and Code course.",
   },
   {
     num: "02",
@@ -125,7 +125,7 @@ const stateTimes = [
   { state: "North Carolina", hours: "Not required (optional)", issuance: "Batch review", total: "4–7 weeks", notes: "NCDOI manual review standard" },
   { state: "Arizona", hours: "Not required (optional)", issuance: "Real-time via NIPR", total: "2–4 weeks", notes: "DIFI posts licenses within 1 business day" },
   { state: "Michigan", hours: "20 hr per line (40 combined)", issuance: "Real-time via NIPR", total: "3–5 weeks", notes: "DIFS issues quickly after clean background" },
-  { state: "Washington", hours: "Not required (optional)", issuance: "Batch review", total: "4–6 weeks", notes: "OIC uses Prometric for testing" },
+  { state: "Washington", hours: "Not required (optional)", issuance: "Batch review", total: "4–6 weeks", notes: "OIC uses PSI for testing" },
 ];
 
 const weekPlan = [
@@ -176,7 +176,7 @@ const howToSchema = {
       "@type": "HowToStep",
       position: 1,
       name: "Complete prelicensing coursework",
-      text: "Enroll in a state-approved prelicensing course. Most states require 20 to 40 hours of instruction per line of authority. A motivated full-time student finishes in 5 to 7 days; part-time candidates typically need 2 to 3 weeks.",
+      text: "If your state requires prelicensing (18 do), enroll in a state-approved course; hours vary by state and line of authority. A motivated full-time student finishes in 5 to 7 days; part-time candidates typically need 2 to 3 weeks.",
       timeRequired: "P3W",
       url: "https://justinsuranceco.com/prelicensing",
     },

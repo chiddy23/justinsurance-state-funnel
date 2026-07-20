@@ -72,7 +72,7 @@ const features: Feature[] = [
       </svg>
     ),
     title: "Nationwide Coverage",
-    desc: "State-approved CE nationwide, with prelicensing in every state that requires it. Whether you\u2019re a regional agency or national IMO, we have your markets covered.",
+    desc: "State-approved CE nationwide, with prelicensing in the states where we are approved. Whether you\u2019re a regional agency or national IMO, we have your markets covered.",
   },
 ];
 

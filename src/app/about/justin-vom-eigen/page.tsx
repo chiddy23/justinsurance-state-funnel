@@ -220,7 +220,7 @@ export default function JustinVomEigenBioPage() {
             line. Curriculum is designed against the official Prometric and
             Pearson VUE state exam content outlines so coursework maps
             directly to what candidates will see on test day. Today
-            JustInsurance offers state-approved{" "}
+            JustInsurance offers, in the states that require and approve it, state-approved{" "}
             <Link
               href="/prelicensing"
               className="text-navy font-semibold underline hover:text-gold"
@@ -407,7 +407,7 @@ export default function JustinVomEigenBioPage() {
 
       <CTABanner
         title="Ready to Get Licensed?"
-        subtitle="State-approved prelicensing from $199. Pass guarantee included in eligible states. Study at your own pace nationwide."
+        subtitle="Prelicensing from $199, state-approved where the state requires it. Pass guarantee included in eligible states. Study at your own pace nationwide."
         ctaText="Find My State"
         ctaHref="/#states"
       />

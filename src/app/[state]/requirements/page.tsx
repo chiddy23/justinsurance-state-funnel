@@ -250,6 +250,13 @@ export default async function RequirementsPage({
               typeof stateData.prelicensing.lifeAndHealth.hours === "number"
                 ? ` and ${stateData.prelicensing.lifeAndHealth.hours} hours for a combined Life & Health license.`
                 : "."
+            }${
+              // Mississippi HB 819 (Miss. Code § 83-17-251(2)(h)) exempts Life-ONLY
+              // applicants. Without this note the hours sentence asserts a Life
+              // requirement that step 1 on this same page says does not apply.
+              stateData.slug === "mississippi"
+                ? " Under House Bill 819 (Miss. Code § 83-17-251(2)(h)), applicants seeking the Life line of authority ONLY are exempt from that requirement."
+                : ""
             } Courses are available fully online through JustInsurance.`
           : `${stateData.name} does not require prelicensing education to sit for the state exam. JustInsurance still offers optional, fully online exam-prep courses.`,
     },

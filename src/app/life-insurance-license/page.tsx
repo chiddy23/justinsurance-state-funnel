@@ -59,7 +59,7 @@ const stats = [
   { value: "$199", label: "Prelicensing price", sub: "Flat rate, no hidden fees" },
   { value: "93%", label: "First-attempt pass rate", sub: "Among JustInsurance completers" },
   { value: "49", label: "States covered", sub: "Life exam prep and state-approved CE" },
-  { value: "$100K+", label: "Top producer income", sub: "Avg. annual earnings for experienced agents" },
+  { value: "$78K", label: "Experienced-agent earnings", sub: "Highest state average in our data; varies widely by state and book" },
 ];
 
 const videoSchema = {
@@ -108,7 +108,7 @@ export default function LifeInsuranceLicensePage() {
       <section className="bg-navy text-white py-16 md:py-24 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-gold font-semibold text-sm uppercase tracking-widest mb-4">
-            State-Approved Prelicensing
+            Prelicensing &amp; Exam Prep
           </p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
             Life Insurance License Courses

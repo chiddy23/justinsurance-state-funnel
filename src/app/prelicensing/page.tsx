@@ -93,7 +93,7 @@ const faqs = [
   {
     question: "What is insurance prelicensing?",
     answer:
-      "Insurance prelicensing is a state-mandated education requirement that must be completed before you can sit for your state insurance licensing exam. Each state specifies a minimum number of required hours — typically 20 to 40 hours — covering topics like insurance concepts, policy types, regulations, and ethics. JustInsurance courses satisfy these requirements nationwide where we operate.",
+      "Insurance prelicensing is a state-required education course in the 18 states that mandate it; in the other 32 you can sit for the exam without one. Where it is required, the state specifies a minimum number of hours — covering topics like insurance concepts, policy types, regulations, and ethics. JustInsurance courses satisfy these requirements nationwide where we operate.",
   },
   {
     question: "How long does prelicensing take to complete?",
@@ -250,10 +250,10 @@ export default function PrelicensingPage() {
               Insurance prelicensing is state-required education in the states that mandate it &mdash; 17 of the 49 states we serve. Where it is required you must complete it before sitting for the state licensing exam; in the remaining states a prelicensing course is optional exam preparation that most successful candidates still take. In the states that do require it, the Department of Insurance sets the required number of study hours — typically between 20 and 40 hours — and defines the topics that must be covered, including life insurance concepts, health insurance products, policy structures, annuities, federal and state regulations, and professional ethics.
             </p>
             <p>
-              JustInsurance prelicensing courses are fully online and 100% self-paced. You study through video lessons, reading modules, and chapter quizzes, then take a final practice exam that mirrors your state&apos;s actual licensing test. When you pass, you receive a state-recognized completion certificate that unlocks your eligibility to sit for the official exam.
+              JustInsurance prelicensing courses are fully online and 100% self-paced. You study through video lessons, reading modules, and chapter quizzes, then take a final practice exam that mirrors your state&apos;s actual licensing test. When you pass, you receive a completion certificate — state-recognized in the states that approve prelicensing providers, where it unlocks your eligibility to sit for the official exam.
             </p>
             <p>
-              Prelicensing is required for every line of authority — whether you want to sell life insurance, health insurance, or both. The right course depends on the license type your state requires and the products you plan to offer clients. Use the state grid below to find the course options available in your state.
+              Where a state requires prelicensing, the requirement applies to each line of authority you want to carry — life insurance, health insurance, or both. In the 32 states that do not require it, a course is optional exam preparation. The right course depends on the license type your state requires and the products you plan to offer clients. Use the state grid below to find the course options available in your state.
             </p>
           </div>
         </div>

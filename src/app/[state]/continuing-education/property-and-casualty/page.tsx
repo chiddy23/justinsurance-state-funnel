@@ -153,7 +153,7 @@ export function buildPCFAQs(
     },
     {
       question: `I hold both an L&H license and a P&C license. Do I need two separate CE packages?`,
-      answer: `Yes. ${stateName} treats L&H CE and P&C CE as separate compliance tracks. You'll need to complete ${stateReq.totalHours} hours of P&C CE for your P&C license AND the ${ceHours} hours of L&H CE for your L&H license each renewal cycle (${stateReq.statuteCitation}). JustInsurance offers both — you can bundle them at checkout.`,
+      answer: `It depends on how ${stateName} scales CE. ${stateName}'s published requirement is ${stateReq.totalHours} hours per renewal cycle. Some states apply one combined total across every line you hold, while others increase the total when you hold licenses in different scopes — they do not always simply double. Confirm your exact obligation with the ${doiName} before assuming you owe the ${ceHours} hours of L&H CE for your L&H license each renewal cycle (${stateReq.statuteCitation}). JustInsurance offers both — you can bundle them at checkout.`,
     },
   ];
 

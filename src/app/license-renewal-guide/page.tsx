@@ -450,7 +450,7 @@ export default function LicenseRenewalGuidePage() {
       {/* CTA */}
       <CTABanner
         title="Renew Your License Today"
-        subtitle="Complete your CE hours online with JustInsurance. $39 packages, typically same-day DOI reporting, available nationwide."
+        subtitle="Complete your CE hours online with JustInsurance. CE packages from $39, typically same-day DOI reporting, in the states where we are approved."
         ctaText="Find CE Courses"
         ctaHref="/continuing-education"
       />

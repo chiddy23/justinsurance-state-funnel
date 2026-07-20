@@ -7469,7 +7469,7 @@ export const STATES: Record<string, StateData> = {
       examProviderUrl: "https://www.pearsonvue.com/tn/insurance",
       examBookingUrl: "https://www.pearsonvue.com/tn/insurance",
       retakeWaitingPeriod: "a 10-day waiting period following your first failure, or a 30-day waiting period following each subsequent failure",
-      retakeLimitInfo: "There is no hard cap on retakes, but if you have not passed within 6 months of your first attempt, you must retake your pre-licensing education before testing again.",
+      retakeLimitInfo: "There is no hard cap on retakes. Tennessee does not require prelicensing education, so there is no course to repeat — confirm current retake timing in your PSI candidate handbook.",
       examResultsTiming: "Within 24 hours (most candidates receive results within minutes of completing the exam)",
       examSchedulingInfo: "https://www.pearsonvue.com/tn/insurance",
     },

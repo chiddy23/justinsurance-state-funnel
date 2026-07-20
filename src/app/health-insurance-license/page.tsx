@@ -51,7 +51,7 @@ const faqs = [
   {
     question: "How is health insurance prelicensing structured?",
     answer:
-      "Health insurance prelicensing courses cover topics including major medical insurance concepts, HMO and PPO plan structures, individual vs. group markets, disability insurance, Medicare and Medicaid programs, long-term care, applicable federal laws (ACA, HIPAA, ERISA), and state-specific regulations. Most states require between 20 and 40 prelicensing hours for the health line of authority.",
+      "Health insurance prelicensing courses cover topics including major medical insurance concepts, HMO and PPO plan structures, individual vs. group markets, disability insurance, Medicare and Medicaid programs, long-term care, applicable federal laws (ACA, HIPAA, ERISA), and state-specific regulations. Of the 18 states that require prelicensing, hours for the health line vary by state; the other 32 require none.",
   },
 ];
 
@@ -108,7 +108,7 @@ export default function HealthInsuranceLicensePage() {
       <section className="bg-navy text-white py-16 md:py-24 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-gold font-semibold text-sm uppercase tracking-widest mb-4">
-            State-Approved Prelicensing
+            Prelicensing &amp; Exam Prep
           </p>
           <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 text-balance">
             Health Insurance License Courses
@@ -149,7 +149,7 @@ export default function HealthInsuranceLicensePage() {
               Long-term care insurance and Medicare products represent two of the fastest-growing segments in the industry. More than 10,000 Americans turn 65 every single day, and virtually all of them need help navigating Medicare Supplement, Medicare Advantage, and Part D prescription drug plans. Health-licensed agents who specialize in the senior market are among the most in-demand in the country.
             </p>
             <p>
-              To sell any of these products, you must hold an active health insurance license in each state where your clients reside. The licensing process starts with completing a state-approved prelicensing course, passing the state licensing exam, and submitting a license application to the Department of Insurance. JustInsurance provides the online prelicensing education — $199 flat, self-paced, and backed by our pass guarantee, available in most states. Select your state below to get started.
+              To sell any of these products, you must hold an active health insurance license in each state where your clients reside. In the states that require prelicensing, the process starts with completing a state-approved prelicensing course, passing the state licensing exam, and submitting a license application to the Department of Insurance. JustInsurance provides the online prelicensing education — $199 flat, self-paced, and backed by our pass guarantee, available in most states. Select your state below to get started.
             </p>
           </div>
         </div>

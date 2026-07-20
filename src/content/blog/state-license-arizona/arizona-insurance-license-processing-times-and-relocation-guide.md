@@ -104,7 +104,7 @@ License issued electronically. Check your DIFI account and the email on file for
 
 CE planning. Arizona's 4-year CE cycle begins from your license issuance date. With 48 hours required over 4 years, planning early avoids last-minute rushes.
 
-License renewal. Biennial fee ($120 per license class through NIPR). Note: HB 2054 (June 2025) standardized all Arizona renewal dates to December 31.
+License renewal. Arizona licenses run on a single 4-year cycle, renewing on the last day of your birth month every 4 years, processed through NIPR.
 
 Carrier appointments. Contact carriers for appointment paperwork.
 
@@ -114,7 +114,7 @@ Assumed name (if applicable). File Form L-193 with DIFI and register trade name 
 
 Arizona has a streamlined path for producers relocating from another state:
 
-Exam exemption: If you held an active resident license in another state for the same line of authority, Arizona exempts you from the state exam. This is a meaningful benefit — no exam fee ($59), no exam prep, and immediate access to the state's insurance market.
+Exam exemption: If you held an active resident license in another state for the same line of authority, Arizona exempts you from the state exam. This is a meaningful benefit — no exam fee ($50), no exam prep, and immediate access to the state's insurance market.
 
 Required steps for relocating producers:
 
@@ -152,11 +152,11 @@ When does your CE cycle start? From your license issuance date.
 
 First CE deadline: 4 years from license issuance.
 
-Planning with HB 2054 renewal change: HB 2054 (June 2025) standardized all Arizona license renewal dates to December 31. This means your CE may not align perfectly with your fee renewal. Track both separately:
+Planning your CE and renewal together: Arizona's license renewal and CE deadline fall on the same 4-year cycle, so there's a single date to track:
 
 CE deadline: 4 years from license issuance (specific date)
 
-Fee renewal: December 31 biennial
+License renewal: Last day of your birth month, every 4 years
 
 CE carryover warning: Arizona does not allow CE carryover. Excess CE hours cannot be applied to the next 4-year period. Plan your CE completion to land within the 4-year window without significant over-completion.
 
@@ -180,7 +180,7 @@ Complete securities licensing if needed. For variable products, securities licen
 - What's the most common reason Arizona applications get stalled? Missing or incorrectly submitted Form L-FPV — the fingerprint verification form that must be mailed to DIFI with the Fieldprint reference number. Many applicants complete fingerprinting but forget this required mailing step.
 - Do I need to take Arizona's exam if I'm moving from another state? Generally no — if you held an active resident license in another state for the same line of authority Arizona offers, you're exempt from Arizona's exam. Complete fingerprinting and apply within 90 days of receiving clearance from your prior state.
 - Can I keep my Arizona license if I move to another state? Yes. Email a copy of your new resident license to DIFI within 30 days of receiving it, and DIFI can convert your Arizona license to non-resident status. Otherwise, email Form L-CLR for clearance.
-- When does my Arizona CE cycle start? From your license issuance date. Arizona's 4-year cycle gives you 48 hours to complete (including 6 ethics hours) from that date. Note that Arizona's December 31 fee renewal (per HB 2054) operates on a separate biennial schedule.
+- When does my Arizona CE cycle start? From your license issuance date. Arizona's 4-year cycle gives you 48 hours to complete (including 6 ethics hours) from that date, aligned with your 4-year license renewal.
 
 ## Plan Your Arizona Licensing Timeline Accurately
 

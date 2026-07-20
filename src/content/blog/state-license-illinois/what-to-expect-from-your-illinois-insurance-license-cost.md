@@ -30,7 +30,7 @@ In Illinois, you must be at least 18 years old. You also need to complete certai
 
 ## Choose your pre-licensing course
 
-Finding an [Illinois insurance prelicensing](/illinois/prelicensing) course that suits both your budget and learning style is an important first step. Most course providers offer in-person classes, online self-paced modules, or live webinars. This choice affects not only how much you’ll pay, but also how effectively you’ll study and retain information.
+Finding an [Illinois insurance prelicensing](/illinois/prelicensing) course that suits both your budget and learning style is an important first step. Most course providers offer in-person classes, online self-paced modules, or live webinars. This choice affects not only how much you’ll pay, but also how effectively you’ll study and retain information. Keep in mind that Illinois requires 7.5 of the 20 prelicensing hours for each line of authority to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119), so expect any state-approved course to combine live sessions with self-paced study.
 
 Some pre-licensing programs allow you to bundle multiple lines of authority into a single package, which may lower your total costs if you plan to become licensed in more than one line. Course providers often post reviews or testimonials from past students—you might find that these are just as valuable as the official sales pitch, because they give you insight into how much support and guidance you can expect.
 
@@ -60,13 +60,13 @@ May depend on the number of lines you test for.
 
 Background check/fingerprinting
 
-$50 – $70
+$0 for most residents
 
-Required to confirm fitness for licensing.
+Fingerprinting is not required for most Illinois resident applicants — the state relies on application disclosures instead. Only relevant in limited edge cases.
 
 Application fee
 
-~$180
+~$215
 
 Set by the Illinois Department of Insurance.
 
@@ -86,7 +86,7 @@ It’s also good to keep your budget in mind here. If you’re in a rush and wai
 
 ## Complete your application
 
-After you pass the exam, you’ll submit your application to the Illinois Department of Insurance. This is where you’ll pay the state licensing fee, which generally hovers around $180. Typically, a background check or fingerprinting is also required to finalize the license—even if you completed it earlier, you would pay the fee at this point or during your exam booking process.
+After you pass the exam, you’ll submit your application to the Illinois Department of Insurance. This is where you’ll pay the state licensing fee, which generally hovers around $215. Illinois screens most resident applicants through the disclosure questions on the application rather than fingerprinting, so answer those questions accurately and completely to finalize the license.
 
 Be sure to fill out the application accurately. Mistakes can delay your license or result in additional fees. Double-check everything from your name and address to confirming which type of insurance license you’re applying for.
 

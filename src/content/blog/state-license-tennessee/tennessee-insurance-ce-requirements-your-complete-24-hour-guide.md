@@ -24,7 +24,7 @@ The remaining 21 hours may be any TDCI-approved insurance continuing education c
 
 No classroom minimum. Tennessee does not require any portion of the 24 hours to be completed through live instruction or classroom-equivalent format. All 24 hours can be completed through self-paced online courses. This is one of Tennessee's most producer-friendly CE features — it eliminates the scheduling constraints and geographic limitations that mandatory classroom requirements impose in other states.
 
-No carryover. Hours completed beyond 24 in a biennial period are forfeited. They do not carry forward to the next renewal cycle. A producer who completes 30 hours of CE in one period has satisfied the requirement — the additional 6 hours produce no future credit.
+Carryover treatment is not publicly posted. The TDCI has not published a specific policy or hour limit governing whether hours completed beyond 24 in a biennial period carry forward to the next renewal cycle. A producer who completes 30 hours of CE in one period has satisfied the requirement regardless, but should not assume the additional 6 hours produce future credit — confirm directly with the TDCI before relying on any carryover.
 
 ## What Counts as Approved CE
 
@@ -100,7 +100,7 @@ Provider reporting: Approved CE providers are responsible for reporting course c
 
 Timing of reporting: There is typically a delay of one to several business days between a producer completing a course and the completion appearing in the TDCI's records. Producers who complete CE courses the day before their renewal deadline and immediately submit their renewal application may find that their hours have not yet been reported — causing the renewal application to be rejected as non-compliant.
 
-The verification step: Before submitting the renewal application, verify that all required CE hours appear in the TDCI's system. Contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov to confirm your CE standing, or access the producer portal at tn.gov/commerce/insurance. Do not submit renewal based on the CE provider's records alone — the TDCI's records are what matter for renewal processing.
+The verification step: Before submitting the renewal application, verify that all required CE hours appear in the TDCI's system. Contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov to confirm your CE standing, or access the producer portal at tn.gov/commerce/insurance. Do not submit renewal based on the CE provider's records alone — the TDCI's records are what matter for renewal processing.
 
 ### Incomplete Reporting
 
@@ -116,15 +116,15 @@ Tennessee licenses expire on the last day of the producer's birth month in the r
 
 Renewal is submitted through NIPR at nipr.com. Payment is by credit card or debit card at the time of submission.
 
-### The 30-Day Grace Period
+### The 60-Day Grace Period
 
-Tennessee provides a 30-day grace period after the license expiration date — the license can be renewed within 30 days of expiration at the standard $65.60 cost with no additional fee. A license that expires April 30 can be renewed through May 30 at the standard renewal cost.
+Tennessee provides a 60-day grace period after the license expiration date — the license can be renewed within 60 days of expiration at the standard renewal cost with no additional fee. A license that expires April 30 can be renewed through June 29 at the standard renewal cost.
 
 The grace period and active status: A license that has passed its expiration date — even within the grace period — is technically expired. Producers should not assume the grace period authorizes continued insurance transactions during the expired window. Consult the TDCI directly to confirm the scope of active authorization during the grace period before transacting business.
 
 ### Late Renewal
 
-After the 30-day grace period expires, late renewal is available for up to one year from the expiration date. Late renewal carries a $120 late fee in addition to the standard $60 renewal fee.
+After the 60-day grace period expires, late renewal is available for up to one year from the expiration date. Late renewal carries a late fee in addition to the standard renewal fee — the TDCI does not publicly post the exact late-fee amount, so contact the TDCI directly for the current figure.
 
 Late renewal is submitted through NIPR under the same process as standard renewal. The TDCI processes late renewals and restores the license to active status upon approval.
 
@@ -142,7 +142,7 @@ Step 3: Log in to NIPR at nipr.com and navigate to the renewal section.
 
 Step 4: Complete the renewal application including updated background disclosure questions. Any new criminal convictions, regulatory actions, or other disclosable matters since the last renewal must be accurately disclosed.
 
-Step 5: Pay the renewal fee — $60 plus $5.60 NIPR transaction fee for standard renewal.
+Step 5: Pay the renewal fee — check your NIPR renewal screen or contact the TDCI for the current standard renewal amount.
 
 Step 6: Submit. The TDCI processes renewal applications and confirms active status upon approval.
 
@@ -188,7 +188,7 @@ This record provides documentation for any TDCI inquiry about CE compliance and 
 
 I completed a CE course last week but it has not appeared in the TDCI's records yet. My renewal deadline is in five days. What should I do?
 
-Contact the CE provider immediately and request confirmation that the completion was submitted to the TDCI. Ask for a resubmission if necessary. Simultaneously contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov to report the discrepancy and ask whether your renewal can be processed pending confirmation of the completion. Do not submit your NIPR renewal application until the hours appear in the TDCI's records — a renewal submitted with unverified CE will be rejected as non-compliant. If the five-day window is insufficient to resolve the reporting gap, you may need to submit renewal within the 30-day grace period after the expiration date, which carries no late fee. This situation illustrates exactly why completing CE at least 30 days before the renewal deadline — not five days before — is the right practice. Reporting delays of one to several business days are normal; a five-day window does not accommodate them.
+Contact the CE provider immediately and request confirmation that the completion was submitted to the TDCI. Ask for a resubmission if necessary. Simultaneously contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov to report the discrepancy and ask whether your renewal can be processed pending confirmation of the completion. Do not submit your NIPR renewal application until the hours appear in the TDCI's records — a renewal submitted with unverified CE will be rejected as non-compliant. If the five-day window is insufficient to resolve the reporting gap, you may need to submit renewal within the 60-day grace period after the expiration date, which carries no late fee. This situation illustrates exactly why completing CE at least 30 days before the renewal deadline — not five days before — is the right practice. Reporting delays of one to several business days are normal; a five-day window does not accommodate them.
 
 I hold both Life and A&H licenses. Do I need 24 hours of CE for each line, or just 24 hours total?
 
@@ -196,7 +196,7 @@ I hold both Life and A&H licenses. Do I need 24 hours of CE for each line, or ju
 
 My annuity suitability training was completed three years ago in a different state. Does it satisfy Tennessee's requirement?
 
-Possibly — if that state has adopted the NAIC Suitability in Annuity Transactions model regulation in a form substantially similar to Tennessee's requirements. Tennessee follows the NAIC model, and completions in other NAIC model-compliant states may be recognized. However, do not assume recognition — verify with the TDCI directly before selling annuities in Tennessee based on out-of-state training. Contact the TDCI at (615) 741-2693 and provide the details of your prior training — the state where it was completed, the course name and hours, and the completion date. The TDCI will confirm whether it satisfies Tennessee's requirement or whether you need to complete Tennessee-specific annuity suitability training before transacting annuity business in the state.
+Possibly — if that state has adopted the NAIC Suitability in Annuity Transactions model regulation in a form substantially similar to Tennessee's requirements. Tennessee follows the NAIC model, and completions in other NAIC model-compliant states may be recognized. However, do not assume recognition — verify with the TDCI directly before selling annuities in Tennessee based on out-of-state training. Contact the TDCI at (615) 741-2241 and provide the details of your prior training — the state where it was completed, the course name and hours, and the completion date. The TDCI will confirm whether it satisfies Tennessee's requirement or whether you need to complete Tennessee-specific annuity suitability training before transacting annuity business in the state.
 
 Tennessee's 24-hour CE requirement is among the most manageable ongoing compliance obligations in the country — no classroom minimum, no company-sponsored hour cap, fully satisfiable through online self-paced courses, and with specialty training hours counting toward the total rather than adding to it. The producers who experience compliance problems with this framework are almost universally those who wait until the final weeks of their biennial period to address CE — and who encounter reporting delays, course availability issues, or administrative complications that a 90-day planning horizon would have prevented entirely. Start early, track carefully, verify before submitting renewal, and Tennessee's CE requirement is a routine administrative obligation rather than a recurring compliance crisis.
 

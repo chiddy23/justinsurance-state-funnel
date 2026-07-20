@@ -58,7 +58,7 @@ Scenario questions dominate. Most questions aren't simple definitions — they'r
 
 The Florida-specific section is unforgiving. Candidates who study generic material tend to underperform on state-law questions, which can drag their overall score below the passing threshold.
 
-Time pressure adds stress. With 3.5 hours for 165 questions, time usually isn't the biggest issue — but test anxiety can cause rushed answers and silly mistakes.
+Time pressure adds stress. With 2 hours and 45 minutes for the 2-15 exam's 165 questions, time usually isn't the biggest issue — but test anxiety can cause rushed answers and silly mistakes.
 
 ## What Score Should You Aim for in Practice?
 
@@ -68,7 +68,7 @@ Here's why: practice exams are usually slightly easier than the actual exam, and
 
 ## Can You Fail and Still Retake?
 
-Yes. Florida has no lifetime cap on exam attempts. You can retake as many times as needed. However, each attempt requires a new Pearson VUE registration and fee, and there is typically a short waiting period between attempts.
+Yes. Florida limits candidates to 5 exam attempts per exam type within a rolling 12-month period. If you reach that limit, you must wait until the 12-month window resets before testing again. Each attempt requires a new Pearson VUE registration and fee, but there is no mandatory waiting period between attempts — you can schedule your next available test date right away.
 
 More attempts also means more time and money invested. Passing on the first or second try is dramatically more efficient than taking it five or six times.
 

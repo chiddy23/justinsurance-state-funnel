@@ -66,13 +66,13 @@ You can complete fingerprinting before or after your exam, but it must be done b
 
 ## Step 4: Schedule and Pass the State Exam
 
-Georgia insurance exams are administered by Prometric. Once your prelicense education is complete:
+Georgia insurance exams are administered by Pearson VUE. Once your prelicense education is complete:
 
-- Register at prometric.com
+- Register at home.pearsonvue.com/ga/insurance
 
 - Schedule your exam at a Georgia testing center
 
-- Pay the exam fee (typically around $63)
+- Pay the exam fee (typically around $67)
 
 - Bring two forms of ID to your appointment — one must be government-issued with photo
 
@@ -124,7 +124,7 @@ From starting your prelicense course to holding your license, most Georgia candi
 
 2. Can I take the prelicense course online? Yes. Georgia allows fully online prelicense education through OCI-approved providers.
 
-3. What happens if I fail the state exam? You can retake it. Georgia allows multiple attempts, though each retake requires a new Prometric registration and fee. There's typically a short waiting period between attempts.
+3. What happens if I fail the state exam? You can retake it. Georgia allows multiple attempts, though each retake requires a new Pearson VUE registration and fee, plus a mandatory waiting period (14 days after a first or second failure, 60 days after a third or subsequent failure).
 
 4. How long is a Georgia insurance license valid? Georgia insurance licenses are issued as ongoing licenses with biennial renewal. You must complete CE and renewal requirements every 2 years.
 

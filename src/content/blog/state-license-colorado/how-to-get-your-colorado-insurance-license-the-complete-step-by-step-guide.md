@@ -27,7 +27,7 @@ The 10 Colorado-specific hours break down as:
 
 4 hours: Legal Concepts and Regulations
 
-If you are pursuing a combined Life, Accident & Health license, the requirement increases to 90 hours (80 general + 10 Colorado-specific). Property and Casualty are separate lines of authority in Colorado — each requires its own 50-hour prelicensing course, though you can take both exams in a single Pearson VUE session at a physical test center.
+If you are pursuing both Life and Accident & Health authority, the requirement is 100 hours total — the full 50-hour Life course and the full 50-hour Health course, completed as two separate enrollments with two separate exams (Colorado has no combined course or combined exam for Life/A&H). Property and Casualty are separate lines of authority in Colorado — each requires its own 50-hour prelicensing course, though you can take both exams in a single Pearson VUE session at a physical test center.
 
 The Certificate Exam: At the conclusion of your prelicensing course, you must pass a Certificate Exam with a score of 70% or higher. This exam must be monitored by a disinterested third party — someone who is not a minor, not related to you, and not your immediate supervisor or employee. The proctor must be physically present for the entire exam duration and must follow all applicable state proctoring rules.
 
@@ -53,7 +53,7 @@ No personal items are allowed in the testing room — no cell phones, watches, w
 
 Exam structure: Each exam has both a general knowledge section (basic insurance product knowledge) and a Colorado state-specific section (laws, rules, regulations, and practices unique to Colorado). Results are available immediately after you complete the exam.
 
-Combined Property and Casualty: You may take the Property exam and the Casualty exam in a single session for a single $47 fee — but only at a physical Pearson VUE test center, not remotely. This is the most cost-efficient path for candidates pursuing a full P&C license.
+Combined Property and Casualty: You may take the Property exam and the Casualty exam in a single session — but only at a physical Pearson VUE test center, not remotely. Confirm current combined-session pricing directly with Pearson VUE before scheduling.
 
 Pearson VUE physical address (Aurora, CO): 3131 S. Vaughn Way, Suite 205, Aurora, CO 80014
 
@@ -105,7 +105,7 @@ No. Colorado does not require fingerprinting as part of the insurance producer l
 
 Can I take the Property and Casualty exams together on the same day?
 
-Yes — and Colorado specifically allows you to take both the Property exam and the Casualty exam in a single session for a single $47 exam fee, but only at a physical Pearson VUE test center. Remote testing via OnVUE does not offer this combined-session option. The combined session allows 240 minutes total (120 minutes for each exam). Candidates who want to pursue a full P&C license should take advantage of this option to save $47 and simplify their exam day logistics.
+Yes — and Colorado specifically allows you to take both the Property exam and the Casualty exam in a single session, but only at a physical Pearson VUE test center. Remote testing via OnVUE does not offer this combined-session option. The combined session allows 240 minutes total (120 minutes for each exam). Candidates who want to pursue a full P&C license should take advantage of this option to save money and simplify their exam day logistics — confirm current combined-session pricing directly with Pearson VUE.
 
 What happens if my prelicensing certificate expires before I pass the exam?
 

@@ -21,7 +21,7 @@ You might be surprised at how quickly small charges add up when you pursue your 
 
 ## Understand the licensing process
 
-Before you dive into the specific costs, it helps to have a basic overview of the licensing steps in Maryland. You need to complete a [pre-licensing](/maryland/prelicensing) course, pass the official licensing exam, and submit application forms through the National Insurance Producer Registry (NIPR). In most cases, you must also complete fingerprinting or a background check. Each of these actions has an associated fee. Start by reviewing [Maryland prelicensing courses](/maryland/prelicensing) so you know exactly which hours apply to your chosen line of authority.
+Before you dive into the specific costs, it helps to have a basic overview of the licensing steps in Maryland. Maryland no longer requires pre-licensing education (the requirement was eliminated effective October 1, 2024), so your core steps are passing the official licensing exam and submitting application forms through the National Insurance Producer Registry (NIPR). Many candidates still opt into an [optional pre-licensing](/maryland/prelicensing) course to prepare, and each step in the process has an associated fee. Start by reviewing [optional Maryland exam-prep courses](/maryland/prelicensing) so you know what's available for your chosen line of authority.
 
 If you plan to sell more than one line of insurance, such as life and health or property and casualty, you might pay separate exam fees, course fees, or other administrative charges. Keeping track of these items in advance helps you stay organized and avoid unpleasant surprises when you start the application process.
 
@@ -49,15 +49,15 @@ $50–$250
 
 Exam fee
 
-$45–$60 per attempt
+$60 per attempt
 
 Application fee (via NIPR)
 
-~$70
+$54 (+ $5.60 NIPR transaction fee, ~$59.60 total)
 
-Fingerprinting / background check
+Background check (no fingerprinting required in Maryland)
 
-$60–$70
+No separate fee
 
 License printing or renewal
 
@@ -67,7 +67,7 @@ Depending on your personal situation, you might also need to budget for travel e
 
 ## Manage course and exam expenses
 
-One of the first real decisions you will make is choosing a pre-licensing course. In Maryland, you are required to complete a state-approved program that covers fundamental insurance concepts, state regulations, and ethical guidelines. Costs for these courses vary based on the provider, the number of study materials they offer, and whether the course is online or in-person.
+One of the first real decisions you may make is whether to enroll in an optional pre-licensing course. Maryland doesn't require it, but many candidates choose a program that covers fundamental insurance concepts, state regulations, and ethical guidelines to prepare for the exam. Costs for these courses vary based on the provider, the number of study materials they offer, and whether the course is online or in-person.
 
 To avoid hidden fees, look into what your provider includes with your tuition. Some bundle the textbook, practice exams, and interactive quizzes, while others may charge extra for each item. Contact the provider directly if their pricing structure feels unclear. Online programs can be a cost-saving option if you do not need the structure of a traditional classroom—just confirm they are recognized by the [Maryland Insurance Administration](/maryland/requirements).
 
@@ -83,7 +83,7 @@ Keep in mind that many examination centers charge a rescheduling fee if you chan
 
 ### 1\. Do I need separate licenses for life and health, and property and casualty?
 
-Yes. While the state of Maryland allows you to hold multiple lines, each major line—life, health, property, and casualty—generally requires a separate pre-licensing course, exam, and application. Make sure you budget extra time and money if you plan to pursue more than one line simultaneously.
+Yes. While the state of Maryland allows you to hold multiple lines, each major line—life, health, property, and casualty—requires a separate exam and application (pre-licensing coursework is optional, not required, for any line). Make sure you budget extra time and money if you plan to pursue more than one line simultaneously.
 
 ### 2\. How many times can I take the exam?
 
@@ -91,7 +91,7 @@ You can retake the exam as many times as necessary, but each attempt will requir
 
 ### 3\. Is pre-licensing mandatory in Maryland?
 
-Maryland mandates that you complete a state-approved pre-licensing course for each line of authority you want to sell. This requirement ensures you grasp core insurance principles, state-specific regulations, and best practices. Not completing your pre-licensing course in advance can delay your exam eligibility.
+No. Maryland eliminated its pre-licensing education mandate effective October 1, 2024, so you can register for the Prometric exam directly without a course. Many candidates still choose an optional pre-licensing course to reinforce core insurance principles, state-specific regulations, and best practices before test day, but skipping it will not delay your exam eligibility.
 
 ### 4\. Can I bundle my lines of authority to save money?
 

@@ -1,6 +1,6 @@
 ---
 title: Virginia No Prelicensing Insurance Requirement  What It Means
-description: Virginia is one of the only states in the country that does not require candidates to complete any prelicensing education before sitting for an insuranc...
+description: Virginia does not require candidates to complete any prelicensing education before sitting for an insuranc...
 keyword: virginia no prelicensing insurance requirement what it means
 targetKeywords: virginia no prelicensing insurance requirement what it means
 cluster: state-license-virginia
@@ -12,7 +12,7 @@ image: /blog/images/the-truth-about-virginia-insurance-license-cost-for-you.jpg
 imageAlt: Virginia No Prelicensing Insurance Requirement  What It Means
 ---
 
-Virginia is one of the only states in the country that does not require candidates to complete any [prelicensing](/virginia/prelicensing) education before sitting for an insurance licensing exam. In every other major insurance licensing state — New York requires 40 to 90 hours, New Jersey requires 20 hours per line, Florida requires 40 to 60 hours — a candidate cannot even schedule the state exam without a certificate of completion from a state-approved prelicensing provider. Virginia eliminated this hurdle entirely for all lines except Title insurance. You can schedule your Prometric exam tomorrow, study entirely on your own, and sit for a 140-question test that determines whether you get your license. For candidates who understand what this means, it is a genuine advantage. For candidates who misread it as permission to show up unprepared, it is a trap.
+Virginia is one of many states that does not require candidates to complete any [prelicensing](/virginia/prelicensing) education before sitting for an insurance licensing exam. In states that still mandate it — New York requires 20 to 40 hours, New Jersey requires 20 hours per line, Florida requires 30 to 60 hours depending on the line — a candidate cannot even schedule the state exam without a certificate of completion from a state-approved prelicensing provider. Virginia eliminated this hurdle entirely for all lines except Title insurance. You can schedule your Prometric exam tomorrow, study entirely on your own, and sit for a 140-question test that determines whether you get your license. For candidates who understand what this means, it is a genuine advantage. For candidates who misread it as permission to show up unprepared, it is a trap.
 
 ## What the Rule Actually Says
 
@@ -74,7 +74,7 @@ Because the exam is genuinely difficult, and preparation is the single most cont
 
 How does Virginia compare to neighboring states on prelicensing requirements?
 
-Virginia's no-prelicensing rule is exceptional in the region. North Carolina requires 20 hours per line for most candidates. Maryland requires 20 to 52 hours depending on the line. West Virginia requires prelicensing education before the Pearson VUE exam. Tennessee requires 40 hours for Life and Health and 40 hours for P&C. Among Virginia's direct neighbors, only Pennsylvania recently eliminated its prelicensing requirement (effective April 2025). Virginia has operated without a mandatory prelicensing requirement for all lines except Title for much longer, making it one of the most candidate-friendly states in the country from a process standpoint — though not from a difficulty standpoint.
+Virginia's no-prelicensing rule is no longer exceptional in the region — it is now the norm among its direct neighbors. North Carolina and Maryland both once required 20 hours of prelicensing per line, but North Carolina repealed its requirement in 2025 and Maryland repealed its requirement in 2024; neither currently requires any prelicensing hours. Tennessee, which once required 40 hours per line, repealed its requirement back in 2023. Pennsylvania also eliminated its prelicensing requirement, effective 2025. West Virginia is the one direct neighbor that still requires prelicensing — 20 hours per line before the Pearson VUE exam. Virginia has operated without a mandatory prelicensing requirement for all lines except Title the longest of the group, but candidates in Maryland, North Carolina, Tennessee, and Pennsylvania today face the same no-mandatory-coursework starting point.
 
 Does taking a prelicensing course give me any official standing with the Virginia Bureau of Insurance?
 

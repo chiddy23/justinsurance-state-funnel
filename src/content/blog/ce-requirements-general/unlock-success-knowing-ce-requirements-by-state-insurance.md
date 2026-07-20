@@ -49,7 +49,7 @@ Key note
 
 Texas
 
-24 (2 ethics)
+24 (3 ethics)
 
 Every 2 years
 
@@ -65,7 +65,7 @@ Could require long-term care or annuity courses
 
 Florida
 
-24 (5 law & ethics)
+24 (4 law & ethics)
 
 Every 2 years
 
@@ -73,11 +73,11 @@ Certain additional courses if selling life or health
 
 New York
 
-15 (1 flood if relevant)
+15 (1 ethics)
 
 Every 2 years
 
-Applies only to certain property or casualty lines
+Ethics requirement applies to all license types
 
 Even within these examples, the renewal window might begin on your birthday or at the license issuance date. Requirements often overlap with federal mandates, especially for topics like flood insurance. Pay close attention if you carry multiple lines of authority in more than one state, since you’ll need to meet the strictest CE obligations where applicable.
 

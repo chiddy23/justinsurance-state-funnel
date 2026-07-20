@@ -98,7 +98,7 @@ Complete 48 hours CE every 4 years (6 hours ethics)
 
 Exam limit (A.R.S. § 20-284(H)): Maximum 4 attempts per line per year; 1-year wait after 4th failure.
 
-License renewal: Biennial fee; December 31 renewal date (HB 2054, June 2025).
+License renewal: Every 4 years, on the last day of your birth month.
 
 Grounds for disciplinary action under A.R.S. Title 20:
 

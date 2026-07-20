@@ -17,7 +17,7 @@ imageAlt: >-
   your wisconsin insurance producer license.
 ---
 
-Wisconsin's insurance licensing process has several features that make it genuinely distinctive among all comparison states. The Office of the Commissioner of Insurance (OCI) requires 20 hours of [prelicensing](/wisconsin/prelicensing) education per line of authority, structured as an 8-hour common section (principles, WI laws, ethics — shareable across lines within 12 months) and a 12-hour line-specific section. PSI Services LLC administers the exam — the only comparison state using PSI alongside Minnesota and New Jersey. Fingerprinting is required through Fieldprint Wisconsin ($36). The application fee is $75 per line of authority, processing takes 1-3 business days, and there is no mandatory retake waiting period — allowing immediate rescheduling after a failed exam. Wisconsin's economy anchors on Northwestern Mutual (Fortune 500 life insurer; Milwaukee), Epic Systems (world's largest EHR company; Madison), American Family Insurance (Madison), and a manufacturing-and-dairy heritage that creates commercial insurance advisory need throughout the state. Here's the complete guide.
+Wisconsin's insurance licensing process has several features that make it genuinely distinctive among all comparison states. The Office of the Commissioner of Insurance (OCI) requires 20 hours of [prelicensing](/wisconsin/prelicensing) education per line of authority, structured as an 8-hour common section (principles, WI laws, ethics — shareable across lines within 12 months) and a 12-hour line-specific section. PSI Services LLC administers the exam — the only comparison state using PSI alongside Minnesota and New Jersey. Fingerprinting is required through Fieldprint Wisconsin ($34.75). The application fee is $75 per line of authority, processing takes 1-3 business days, and a failed exam carries approximately a 2-calendar-day mandatory waiting period before you can retake it. Wisconsin's economy anchors on Northwestern Mutual (Fortune 500 life insurer; Milwaukee), Epic Systems (world's largest EHR company; Madison), American Family Insurance (Madison), and a manufacturing-and-dairy heritage that creates commercial insurance advisory need throughout the state. Here's the complete guide.
 
 ## Who Regulates Wisconsin Insurance
 
@@ -93,7 +93,7 @@ Website: fieldprintwisconsin.com
 
 Fieldprint code: FPWIOCIInsurance (not case sensitive)
 
-Fee: $36.00 for digital fingerprinting
+Fee: $34.75 for digital fingerprinting
 
 Two forms of current signature identification required at appointment (primary must be government-issued with photo)
 
@@ -123,7 +123,7 @@ Exam fee: $75 per exam (each line is a separate exam) Passing score: 70% Score v
 
 Results: Score displayed on screen at end; email report sent. Diagnostic report emailed if failed.
 
-Retakes: Unlimited; no mandatory waiting period — can immediately reschedule.
+Retakes: Unlimited; approximately a 2-calendar-day mandatory waiting period before rescheduling.
 
 Cancel/reschedule: At least 48 hours in advance or forfeit fee.
 
@@ -166,13 +166,13 @@ Renewal: 2 years; last day of birth month. Renewal fee: $35 (resident); $75 (non
 ## 5 Frequently Asked Questions
 
 - What makes Wisconsin's 8-hour shared PLE section distinctive? Wisconsin's 8-hour common section — covering principles of insurance, general Wisconsin insurance laws, and ethics — is required for every line but needs to be completed only once within a 12-month period. If you complete Life PLE in January and want to add Health PLE in September of the same year, you only need the 12-hour Health-specific section (not the full 20 hours again). This is more efficient than states like Indiana and Missouri (where each line's PLE is fully independent) and allows multi-line candidates to build credentials progressively.
-- Why does Wisconsin have no mandatory retake waiting period? Wisconsin's PSI exam allows candidates to immediately reschedule after a failed attempt — no mandatory 24-hour or 48-hour wait. This is the most candidate-friendly retake policy of all comparison states (Indiana requires 48 hours; Missouri requires 24 hours; Maryland requires 4 days). The immediate reschedule option means candidates who fail can review their diagnostic report, study focused weak areas, and test again on the next available appointment without administrative delays.
+- Does Wisconsin have a mandatory retake waiting period? Yes — Wisconsin's PSI exam requires approximately a 2-calendar-day wait before candidates can reschedule after a failed attempt. That puts Wisconsin roughly in line with Indiana's 48-hour wait, longer than Missouri's and Minnesota's 24-hour waits, but shorter than Maryland's 4-day wait. Candidates who fail should use the wait to review their diagnostic report and focus study on weak areas before the next available appointment.
 - What is the OCI's "Intermediary's Guide to Wisconsin Insurance Law"? OCI developed this study guide specifically for the Wisconsin laws section of the PSI exam — covering insurance concepts, state laws, and ethics. Hard copies are no longer printed; candidates access it online at oci.wi.gov. It is the only OCI-published study material for the Wisconsin laws portion — OCI has not prepared study materials for the product knowledge (national) questions. Every WI exam prep candidate should review this guide alongside their PLE course.
 - What is the Wisconsin 180-day score validity and how does it create a timeline? After passing the PSI exam, candidates must apply for the license within 180 days. This includes time for Fieldprint fingerprinting processing and OCI application review (1-3 business days). The 180-day window is substantially more generous than Indiana's 6-month PLE window but less forgiving than Missouri's 1-year window. Since OCI processes applications in 1-3 business days, there's no time pressure from processing — the fingerprint results must simply be received before OCI issues the license.
 - Does Wisconsin allow combined Life & Health or P&C exams like some other states? No — Wisconsin explicitly does NOT offer combined exams. Property and Casualty are separate exams (each $75; each 100 questions; each 2 hours), requiring separate study and separate PLE tracks (8 hours shared + 12 hours each). Life and Accident & Health are similarly separate. Candidates pursuing all four major lines must take four separate PSI exams at $75 each = $300 in exam fees (vs. Missouri's combined L&H + P&C approach at $70 total).
 
 ## Start Your Wisconsin License Process
 
-Wisconsin's OCI framework, PSI exam network, and no-wait retake policy create a clear and achievable licensing timeline. JustInsurance's OCI-approved Wisconsin prelicensing courses cover all four major lines with the 8-hour shared section built in.
+Wisconsin's OCI framework, PSI exam network, and predictable ~2-day retake window create a clear and achievable licensing timeline. JustInsurance's OCI-approved Wisconsin prelicensing courses cover all four major lines with the 8-hour shared section built in.
 
 Enroll today and start your Wisconsin insurance career.

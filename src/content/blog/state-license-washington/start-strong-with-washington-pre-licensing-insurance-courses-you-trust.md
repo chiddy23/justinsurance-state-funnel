@@ -20,7 +20,7 @@ imageCredit: Photo by Thirdman on Pexels
 
 ## Understand your [Washington pre-licensing](/washington/prelicensing) requirements
 
-Before you can start your insurance career in Washington, you need [pre-licensing](/washington/prelicensing) training that meets state guidelines. Most learners complete separate courses for life & health or property & casualty, depending on which lines of authority they want. Completing these educational requirements ensures you have a solid grasp of every core concept—from policy types and regulations to ethics and consumer protections.
+Washington does not require [pre-licensing](/washington/prelicensing) training before you sit for the exam, but plenty of aspiring agents still choose it to prepare. Most learners who opt in complete separate courses for life & health or property & casualty, depending on which lines of authority they want. Completing this optional education helps you build a solid grasp of core concepts—from policy types and regulations to ethics and consumer protections.
 
 Even if you are switching careers or have a finance background, studying the basics helps you understand how Washington laws apply to real-life scenarios. By choosing high-quality Washington pre-licensing insurance courses, you give yourself the best possible foundation for your new path in this growing industry.
 
@@ -94,9 +94,9 @@ When selecting a format, think about which environment helps you absorb informat
 ## Frequently asked questions
 
 1.  Do I need different courses for each type of license in Washington?  
-    Yes. Each line of authority requires targeted education. For instance, if you plan to sell life & health policies, you must study that track. The same goes for property & casualty. You can take both if your goal is to handle multiple product lines.
+    Washington does not require pre-licensing education for any line of authority, so no course is mandatory. If you choose optional prep, it is generally organized by line — for instance, a track for life & health and a separate track for property & casualty — and you can take both if your goal is to handle multiple product lines.
 2.  How many hours of pre-licensing education are required?  
-    Washington typically requires a set number of hours for each line of authority. This ensures you have an in-depth understanding of relevant regulations, statutes, and best practices. Check the latest requirement for your specific license type before you enroll.
+    Washington has no state-mandated pre-licensing hour requirement — that requirement was eliminated in 2023. Optional courses are commonly built around 20 hours per line or 40 hours for combined lines, but that is simply a course length, not a state requirement. Voluntary prep is still recommended to help you study for the exam.
 3.  Are online courses accepted by Washington’s licensing board?  
     Yes. Online courses from approved providers typically satisfy state requirements just like in-person classes. Just be sure the course is recognized by the relevant Washington regulatory authority so you do not waste time on noncompliant training.
 4.  What if I need extra time to complete the course?  

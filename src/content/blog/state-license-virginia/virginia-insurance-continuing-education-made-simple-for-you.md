@@ -21,7 +21,7 @@ Whether you are just starting your journey in the insurance world or looking to 
 
 Before diving into the details of exams and certifications, it is important to understand the fundamentals. In Virginia, life, health, property, and casualty are among the most common lines of insurance for new agents. Each line requires a solid knowledge base, and the Virginia Bureau of Insurance keeps a close eye on whether you meet all the standards.
 
-Because insurance plays such a pivotal role in safeguarding citizens, the process of obtaining your license ensures that you have the right skills and ethical grounding. This starts with meeting specific education requirements. You will be expected to complete a [pre-licensing](/virginia/prelicensing) course, which usually involves several hours of state-approved study on topics like policy terminology, coverage areas, and regulatory requirements. Once you have that under your belt, you will be ready to take the official state exam.
+Because insurance plays such a pivotal role in safeguarding citizens, the process of obtaining your license ensures that you have the right skills and ethical grounding. Virginia does not require a [pre-licensing](/virginia/prelicensing) course for standard lines before you sit for the exam — that mandate was repealed statewide except for title insurance. Many candidates still choose an optional course covering policy terminology, coverage areas, and regulatory requirements to build confidence before test day.
 
 Some people find the regulations and steps overwhelming at first, but once you realize each requirement is simply designed to boost your competency, the journey seems more approachable. In fact, many find that a solid foundation in insurance law and policy language makes them more confident when working with real clients.
 
@@ -35,7 +35,7 @@ You will generally need to complete each module and demonstrate your understandi
 
 ## Schedule and pass your exam
 
-Once you finish the required pre-licensing hours, the next step is to schedule your exam. Testing centers typically offer multiple dates each month, so you should find a spot that fits your schedule. Exams are computer-based and usually include a designated number of questions on both general insurance knowledge and Virginia-specific regulations. You will need a passing score—often around 70 percent or higher—to move forward.
+Once you finish any optional pre-licensing study you chose to complete, the next step is to schedule your exam. Testing centers typically offer multiple dates each month, so you should find a spot that fits your schedule. Exams are computer-based and usually include a designated number of questions on both general insurance knowledge and Virginia-specific regulations. You will need a passing score—often around 70 percent or higher—to move forward.
 
 To ensure success, give yourself extra time for targeted review in the days before your test date. Practice exams can help you familiarize yourself with the question formats, the pace you will need, and the areas you need to revisit. A calm review environment—rather than cramming the night before—tends to build lasting confidence.
 
@@ -45,7 +45,7 @@ On the day of your exam, arrive early, bring valid identification, and clear you
 
 After achieving a passing score, you will apply for your [Virginia insurance license](/virginia). This involves filling out an application through the National Insurance Producer Registry (NIPR) or another state-approved system, paying the licensing fees, and possibly updating or submitting background check information. The application covers personal details, education, and exam results. Once you submit everything correctly, you can expect to receive your license or a status update within a few weeks.
 
-You might be asked to document your pre-licensing hours as well, so keep those records in a safe place. If you used an online course provider, they should supply you with proof of completion. Make sure all your details are accurate—mistakes might slow down the process. Once your application is approved, you will officially hold a Virginia insurance license, opening the door to starting your career or expanding your existing lines of authority.
+Virginia does not require you to document pre-licensing hours as part of your application—the state doesn't issue completion certificates or collect this documentation for standard lines, since the exam itself is the qualifying standard. Make sure all your details are accurate—mistakes might slow down the process. Once your application is approved, you will officially hold a Virginia insurance license, opening the door to starting your career or expanding your existing lines of authority.
 
 ## Fulfill continuing education requirements
 

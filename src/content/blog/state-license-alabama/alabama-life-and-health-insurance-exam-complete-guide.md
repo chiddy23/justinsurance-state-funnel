@@ -120,7 +120,7 @@ Passing grades are reported electronically to the ALDOI within 3-5 days.
 
 Next steps after passing:
 
-Complete fingerprinting through Gemalto Cogent Systems (time it carefully — fingerprints are valid 30 days only)
+Complete fingerprinting through Fieldprint Alabama (time it carefully — fingerprints are valid 30 days only)
 
 Submit license application through NIPR or SBS
 

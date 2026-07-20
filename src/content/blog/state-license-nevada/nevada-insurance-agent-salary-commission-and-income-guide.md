@@ -22,7 +22,9 @@ Here's an honest breakdown of Nevada insurance agent income.
 
 ## The Short Answer
 
-Nevada insurance agents typically earn between $45,000 and $90,000 in their first few years, with experienced agents regularly reaching $100,000 to $200,000 once they've built a solid book of business. Top producers and agency owners can earn $225,000 to $450,000+ annually.
+Nevada insurance agents typically earn between $30,990 and $38,600 in their first year, with experienced agents earning $44,990 to $58,930 once they've built a solid book of business — the statewide average sits around $66,040. Top producers and agency owners can earn $129,210 or more annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 Important note: Nevada has no state income tax, which significantly affects take-home pay. A Nevada agent earning $100,000 has substantially more take-home income than agents earning $100,000 in California, New York, or Oregon.
 
@@ -44,21 +46,21 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by Nevada City
 
-Las Vegas (and surrounding metro). Nevada's largest market with substantial diversity. Hospitality industry, healthcare, real estate, and growing professional services. New agents in Las Vegas can reach $50,000-$90,000 in their first 1-2 years; established agents commonly earn $130,000-$250,000+.
+Las Vegas (and surrounding metro). Nevada's largest market with substantial diversity. Hospitality industry, healthcare, real estate, and growing professional services. New agents in Las Vegas typically fall in the $30,990-$38,600 first-year range; established agents commonly earn toward the upper end of the experienced band ($44,990-$58,930), with top producers in specialty niches reaching the state's top-producer benchmark of $129,210+.
 
-Henderson. Las Vegas suburb with affluent residential markets and growing commercial activity. Established Henderson agents commonly earn $120,000-$220,000+, with high-net-worth specialty practices earning more.
+Henderson. Las Vegas suburb with affluent residential markets and growing commercial activity. Established Henderson agents commonly earn in the $44,990-$58,930 experienced range, with high-net-worth specialty practices able to approach top-producer income.
 
-Summerlin and Northwest Las Vegas. Affluent Las Vegas suburbs supporting high-net-worth practices. Established agents in these areas often earn $130,000-$240,000+.
+Summerlin and Northwest Las Vegas. Affluent Las Vegas suburbs supporting high-net-worth practices. Established agents in these areas often earn similarly to Henderson, with specialty and estate-planning-focused practices reaching the higher end of that range or beyond.
 
-Reno. Northern Nevada's largest market. Growing tech industry presence, financial services, and Tahoe-area markets. Established Reno agents commonly earn $100,000-$200,000+.
+Reno. Northern Nevada's largest market. Growing tech industry presence, financial services, and Tahoe-area markets. Established Reno agents commonly earn in the $44,990-$58,930 experienced range.
 
-Sparks. Reno-area suburb with mixed residential and commercial markets. Established agents commonly earn $90,000-$170,000+.
+Sparks. Reno-area suburb with mixed residential and commercial markets. Established agents commonly earn somewhat below the statewide experienced average, given the smaller client base.
 
-Carson City. State capital with significant government and healthcare employment. Steady, consistent insurance market. Established Carson City agents commonly earn $80,000-$150,000+.
+Carson City. State capital with significant government and healthcare employment. Steady, consistent insurance market. Established Carson City agents commonly earn in line with or slightly below the statewide experienced range.
 
-Lake Tahoe area. Vacation property and hospitality industry markets. Specialty opportunity with seasonal considerations. Established agents commonly earn $90,000-$190,000+, with high-net-worth Tahoe specialty practices earning substantially more.
+Lake Tahoe area. Vacation property and hospitality industry markets. Specialty opportunity with seasonal considerations. Established agents commonly earn within the statewide experienced range, with high-net-worth Tahoe specialty practices able to earn more.
 
-Smaller markets and rural Nevada. Lower cost of living significantly affects practical income. Established rural Nevada agents commonly earn $75,000-$140,000+.
+Smaller markets and rural Nevada. Lower cost of living significantly affects practical income. Established rural Nevada agents commonly earn below the statewide experienced average, reflecting smaller client bases and lower cost of living.
 
 ## What Drives Nevada Income
 
@@ -133,8 +135,8 @@ Each model has different income trajectories and lifestyle implications.
 - Is Nevada a good state for insurance agent income? Yes, particularly given the state's no-income-tax advantage. Top Nevada agents earn comparably to top agents in many higher-tax states with significantly better take-home value.
 - How long does it take to earn a full-time income as a Nevada insurance agent? Most serious agents reach full-time income levels within 12-24 months. Agents with strong networks or niche focus can accelerate this timeline.
 - Do Nevada agents pay state income tax on commissions? No. Nevada has no state income tax. Commissions are subject only to federal income taxes.
-- What's a realistic first-year income for a new Nevada agent? Most new agents earn between $40,000 and $85,000 in year one depending on agency structure, product mix, and work ethic.
-- Can I earn over $200,000 as a Nevada insurance agent? Yes, consistently. Many established Nevada agents earn $200,000+ annually, and top producers earn substantially more. Combined with no state income tax, this represents excellent take-home income.
+- What's a realistic first-year income for a new Nevada agent? Most new agents earn between $30,990 and $38,600 in year one depending on agency structure, product mix, and work ethic.
+- Can I earn over $129,210 as a Nevada insurance agent? Yes, though it's a top-producer outcome rather than a typical result — Nevada's top producers and agency owners earn $129,210 or more annually, well above the $44,990-$58,930 experienced-agent range. Combined with no state income tax, this represents excellent take-home value.
 
 ## Start Your Nevada Insurance Income Right
 

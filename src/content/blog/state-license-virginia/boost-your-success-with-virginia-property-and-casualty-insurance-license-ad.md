@@ -32,7 +32,7 @@ If you do have a criminal record, be prepared to provide documentation. Often, t
 
 ## Complete [pre-licensing requirements](/virginia/prelicensing)
 
-Once you confirm your eligibility, it's time to enroll in a state-approved [pre-licensing](/virginia/prelicensing) course. The number of mandatory course hours varies, but typically you need around 20 hours focusing specifically on property and casualty content. This coursework helps you master important topics, from understanding fundamental policy changes to explaining factors that affect policy premiums.
+Virginia does not mandate a set number of pre-licensing hours for property and casualty — the state does not require prelicensing education for standard producer lines at all. Even so, once you confirm your eligibility, many candidates choose to enroll in a state-approved [pre-licensing](/virginia/prelicensing) course voluntarily; JustInsurance's optional P&C course runs about 20 hours. This coursework helps you master important topics, from understanding fundamental policy changes to explaining factors that affect policy premiums.
 
 Pre-licensing classes cover Virginia insurance regulations, the basics of underwriting, and the intricacies of property and casualty contracts. While you could fulfill these requirements online or in a traditional classroom setting, it's smart to consider your learning style. If you learn best at your own pace, online programs might be ideal due to their flexibility. If you prefer face-to-face interactions, you might appreciate a live classroom environment where you can ask questions and benefit from group discussions.
 
@@ -40,7 +40,7 @@ Many people find it helpful to use a resource like JustInsurance, which provides
 
 ## Schedule and pass the exam
 
-After you complete the required pre-licensing hours, you can schedule your property and casualty exam. In Virginia, the exam typically consists of one main portion dedicated to property and casualty concepts, plus a Virginia-specific section that tests your knowledge of local regulations. Expect a multiple-choice format, often with 100 or more questions. You'll face questions on coverage types, policy structure, and specific state laws.
+After you complete any optional pre-licensing coursework you choose to take (Virginia does not require it for property and casualty), you can schedule your exam. In Virginia, the exam typically consists of one main portion dedicated to property and casualty concepts, plus a Virginia-specific section that tests your knowledge of local regulations. Expect a multiple-choice format, often with 100 or more questions. You'll face questions on coverage types, policy structure, and specific state laws.
 
 Scheduling the exam is generally a smooth process. Most applicants go through an official test provider authorized by the Virginia SCC. You'll choose from a list of testing centers and select a date and time that fits your schedule. Remember to bring two valid forms of ID on exam day, and be sure to arrive early to avoid feeling rushed.
 
@@ -48,9 +48,9 @@ Many test-takers worry about the exam difficulty, but solid preparation typicall
 
 ## Factor in costs and time
 
-Obtaining a Virginia property and casualty insurance license comes with a few fees and a bit of patience. You typically pay for your pre-licensing course, exam fees, and the license application itself. These can add up, so it's smart to set aside a budget in advance. Some individuals also earmark a little extra for supplemental study guides or flashcards, especially if they learn well with physical materials.
+Obtaining a Virginia property and casualty insurance license comes with a few fees and a bit of patience. If you choose to take an optional pre-licensing course, you'll pay for that on top of exam fees and the license application itself. These can add up, so it's smart to set aside a budget in advance. Some individuals also earmark a little extra for supplemental study guides or flashcards, especially if they learn well with physical materials.
 
-In terms of timing, most people complete their pre-licensing course within a couple of weeks. The actual exam can be scheduled shortly after finishing those hours. If you pass your exam on the first attempt, you'll likely be able to apply for your license the same day or within a few days, depending on the provider's procedures. In many cases, the entire process — from signing up for a pre-licensing course to receiving your license — can take anywhere from two to six weeks. This is just an estimate, so your timeline may vary based on work schedules, family commitments, or preparation pace.
+In terms of timing, most people who take a pre-licensing course complete it within a couple of weeks, and the exam can be scheduled shortly after. If you pass your exam on the first attempt, you'll likely be able to apply for your license the same day or within a few days, depending on the provider's procedures. In many cases, the entire process — from starting your exam prep to receiving your license — can take anywhere from two to six weeks. This is just an estimate, so your timeline may vary based on work schedules, family commitments, or preparation pace.
 
 ## Launch your insurance career
 
@@ -61,7 +61,7 @@ Securing your property and casualty license is an important milestone, but your 
 Below is a quick refresher on the essential steps to earn your license:
 
 -   Verify you meet minimum age and background requirements.
--   Complete required pre-licensing coursework (property and casualty).
+-   Complete optional pre-licensing coursework (property and casualty) if you choose to take one.
 -   Schedule and take your licensing exam at an approved test site.
 -   Submit your completed application and any fees to the Virginia SCC.
 -   Begin your new professional journey with confidence.

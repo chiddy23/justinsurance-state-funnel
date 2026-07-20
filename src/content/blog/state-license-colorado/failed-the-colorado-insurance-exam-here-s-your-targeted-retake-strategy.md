@@ -34,7 +34,7 @@ OnVUE restriction: If you took your failed attempt through OnVUE remote proctori
 
 Certificate of Completion validity: Your [prelicensing](/colorado/prelicensing) Certificate of Completion remains valid for one year from the date of completion. If your certificate is approaching expiration, schedule your retake with enough time to pass before the certificate expires. If the certificate expires before you pass, you must complete the full 50-hour prelicensing course again before your exam scores become valid — regardless of how many attempts you have made.
 
-Fee: Each retake requires a new exam fee payment ($41 for in-person, or $31 for OnVUE if eligible). Fees are paid at the time of scheduling and are non-refundable.
+Fee: Each retake requires a new $48 exam fee payment, whether taken in-person or via OnVUE (if eligible). Fees are paid at the time of scheduling and are non-refundable.
 
 ## The Diagnostic-Driven Retake Framework
 

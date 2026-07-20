@@ -16,7 +16,7 @@ The New Jersey Property and Casualty exams cover two of the most commercially im
 
 ## How the P&C Exams Are Structured
 
-Property and Casualty are separate exams in New Jersey. Each contains 83 scored questions plus unscored pretest items, allows 210 minutes, and requires a 70% passing score. The fee is $38 per exam. Most candidates pursuing a full P&C license take both exams — either on the same day or in close succession.
+Property and Casualty are separate exams in New Jersey. The Property exam has 79 scored questions and the Casualty exam has 91 scored questions, each plus unscored pretest items; both allow 210 minutes and require a 70% passing score. The fee is $47 per exam. Most candidates pursuing a full P&C license take both exams — either on the same day or in close succession.
 
 Each exam follows the same two-section architecture: a general knowledge section covering nationally applicable P&C concepts, and a New Jersey state law section covering NJ-specific regulations, the auto insurance system, and producer licensing rules.
 
@@ -90,7 +90,7 @@ Correct Answer: B. Under the verbal threshold (Limited Right to Sue), a NJ polic
 
 Do I have to take the Property and Casualty exams separately in New Jersey?
 
-Yes. Property and Casualty are two separate lines of authority in New Jersey, each requiring its own 20-hour [prelicensing](/new-jersey/prelicensing) course and its own PSI exam. You must hold both the Property and Casualty licenses to have what is commonly called a "P&C license." You can take both exams on the same day at PSI — paying two $38 fees — or schedule them separately. Most candidates find it efficient to complete both prelicensing courses first, then schedule the exams in close succession.
+Yes. Property and Casualty are two separate lines of authority in New Jersey, each requiring its own 20-hour [prelicensing](/new-jersey/prelicensing) course and its own PSI exam. You must hold both the Property and Casualty licenses to have what is commonly called a "P&C license." You can take both exams on the same day at PSI — paying two $47 fees — or schedule them separately. Most candidates find it efficient to complete both prelicensing courses first, then schedule the exams in close succession.
 
 How heavily is New Jersey auto insurance tested on the Casualty exam?
 

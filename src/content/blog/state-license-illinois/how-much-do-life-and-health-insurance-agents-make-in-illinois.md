@@ -23,7 +23,9 @@ Here's an honest breakdown of what Illinois insurance agents earn.
 
 ## The Short Answer
 
-Illinois life and health insurance agents typically earn between $45,000 and $90,000 in their first few years, with experienced agents regularly reaching $95,000 to $185,000 once they've built a solid book of business. Top producers and agency owners can earn $200,000 to $450,000+ annually.
+Illinois life and health insurance agents typically earn between $38,000 and $48,000 in their first year, with experienced agents regularly reaching $59,000 to $98,000 once they've built a solid book of business — the statewide average sits around $96,810. Top producers and agency owners can reach $150,000+ annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 These numbers reflect realistic outcomes, not ceiling potential. Illinois's strong market — particularly the Chicago metro area — supports higher earning potential for agents who specialize effectively.
 
@@ -88,8 +90,8 @@ University markets. Champaign-Urbana and other university communities have disti
 - Is Illinois a good state for insurance agent income? Yes. Illinois offers strong earning potential, especially in the Chicago metro area. Top Illinois agents earn comparably to top agents in larger coastal markets.
 - How long does it take to earn a full-time income as an Illinois insurance agent? Most serious agents reach full-time income levels within 12-24 months. Agents with strong networks or niche focus can accelerate this timeline.
 - Do Illinois agents pay state income tax on commissions? Yes. Illinois has state income tax. Factor this into your financial planning compared to states like Texas or Florida with no state income tax.
-- What's a realistic first-year income for a new Illinois agent? Most new agents earn between $40,000 and $80,000 in year one depending on agency structure, product mix, and work ethic.
-- Can I earn over $200,000 as an Illinois insurance agent? Yes, consistently. Many established Illinois agents earn $200,000+ annually, and top producers earn substantially more. It requires sustained client relationships, specialization, and professional growth.
+- What's a realistic first-year income for a new Illinois agent? Most new agents earn between $38,000 and $48,000 in year one depending on agency structure, product mix, and work ethic.
+- Can I earn over $150,000 as an Illinois insurance agent? Yes. Established, specialized Illinois agents and agency owners can reach $150,000+ annually. It requires sustained client relationships, specialization, and professional growth.
 
 ## Start Your Illinois Insurance Income Right
 

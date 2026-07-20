@@ -68,7 +68,7 @@ Moving quickly is almost always cheaper than waiting.
 
 Step 1 — Check your license status in MyProfile. Log into the DFS portal and see exactly where you stand. Your status, outstanding CE requirements, and any suspension notifications will be visible there.
 
-Step 2 — Complete your missing CE immediately. Enroll in DFS-approved courses to fulfill the outstanding hours, including the 5-hour Law and Ethics Update if you haven't completed it.
+Step 2 — Complete your missing CE immediately. Enroll in DFS-approved courses to fulfill the outstanding hours, including the 4-hour Law and Ethics Update if you haven't completed it.
 
 Step 3 — Pay all applicable fees. This includes late fees, reinstatement fees if applicable, and your regular renewal fee. All can typically be paid through the DFS portal.
 

@@ -124,6 +124,6 @@ The Indiana Auto Insurance Plan (INAIP) provides coverage for high-risk Indiana 
 
 ## Serve Indiana Auto Clients With Current Knowledge
 
-Indiana's 51% comparative fault bar, auto-included UM/UIM, diminished value allowance, and 16% uninsured driver rate create advisory opportunities that reward producers who understand Indiana law. JustInsurance's IDOI-approved Indiana courses cover Indiana auto law in depth.
+Indiana's 51% comparative fault bar, auto-included UM/UIM, diminished value allowance, and 16% uninsured driver rate create advisory opportunities that reward producers who understand Indiana law. For Indiana P&C prelicensing and CE, search Sircon or the IDOI's approved-provider list.
 
 Enroll today and build the Indiana auto insurance expertise your clients need.

@@ -43,7 +43,7 @@ Online courses, on the other hand, are usually self-paced and let you tune in fr
 
 ## Evaluate cost and support
 
-Pre-licensing courses vary in price, with providers offering everything from budget-friendly packages to premium bundles that include one-on-one coaching. However, higher cost doesn’t always mean higher quality. It’s smart to break down the features included in each course package. Does the tuition cover printed textbooks, practice exams, and unlimited instructor support? Some programs even offer pass guarantees, which can give you more confidence as you invest in your education.
+Pre-licensing courses vary in price, with providers offering everything from budget-friendly packages to premium bundles that include one-on-one coaching. However, higher cost doesn’t always mean higher quality. It’s smart to break down the features included in each course package. Does the tuition cover printed textbooks, practice exams, and unlimited instructor support? Some programs highlight extra support options like unlimited retakes or bonus review sessions — evaluate what's actually included rather than relying on marketing claims alone.
 
 When evaluating support, see if the provider offers email or chat help, live Q&A sessions, or a dedicated instructor phone line. A quick response from your course provider can keep you motivated and prevent confusion from building up. In many cases, investing in strong support is money well spent because it helps you master challenging topics faster.
 
@@ -54,7 +54,7 @@ Hearing from other students or reading instructor bios can also give you insight
 ## Frequently asked questions
 
 1.  How many study hours are required in Indiana?  
-    The number of pre-licensing hours varies by license line, but typically you can expect around 24 hours per line. Check the Indiana Department of Insurance guidelines to confirm the current requirements and ensure the course you choose meets or exceeds them.
+    The number of pre-licensing hours varies by license line, but typically you can expect around 20 hours per line in Indiana. Check the Indiana Department of Insurance guidelines to confirm the current requirements and ensure the course you choose meets or exceeds them.
 2.  Which exam is hardest to pass, Life & Health or Property & Casualty?  
     It depends on your interests, background, and comfort with the material. Some find Life & Health topics more straightforward, while others feel more at home with Property & Casualty. Exam difficulty also depends on the depth of your study and the quality of your course materials.
 3.  How long does it take to get licensed?  

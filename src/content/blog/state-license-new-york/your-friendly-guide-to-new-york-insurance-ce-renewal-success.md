@@ -15,11 +15,11 @@ imageAlt: Three professionals discussing a data presentation in an office settin
 imageCredit: Photo by Kampus Production on Pexels
 ---
 
-Are you ready to tackle your New York insurance CE renewal with confidence? Whether you’ve been in the insurance field for years or you’re relatively new, staying on top of your [New York continuing education](/new-york/continuing-education) can feel overwhelming at first. Fortunately, a friendly approach and a clear roadmap can transform the experience from stressful to empowering. Below, you’ll find practical steps that show you exactly how to meet New York’s CE requirements and advance your professional goals.
+Are you ready to tackle your New York insurance CE renewal with confidence? Whether you’ve been in the insurance field for years or you’re relatively new, staying on top of your New York continuing education can feel overwhelming at first. Fortunately, a friendly approach and a clear roadmap can transform the experience from stressful to empowering. Below, you’ll find practical steps that show you exactly how to meet New York’s CE requirements and advance your professional goals.
 
 ## Understand your renewal basics
 
-Renewing your insurance license is more than a one-time formality. It helps you stay up to date on the latest regulations, products, and best practices in the industry. In New York, you generally need to complete your [continuing education](/new-york/continuing-education) before you can renew your license. This process ensures you’re equipped with the knowledge to serve clients responsibly and ethically.
+Renewing your insurance license is more than a one-time formality. It helps you stay up to date on the latest regulations, products, and best practices in the industry. In New York, you generally need to complete your continuing education before you can renew your license. This process ensures you’re equipped with the knowledge to serve clients responsibly and ethically.
 
 Commit to thinking of CE as an integral piece of your professional journey rather than a checkbox you race through. When you see it as ongoing training that boosts your expertise, it feels less like a chore and more like an investment in yourself. The Department of Financial Services sets specific requirements and deadlines for renewal, so your first move is to be informed.
 

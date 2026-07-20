@@ -388,9 +388,9 @@ IdentoGO fingerprinting: $37.15; 2 business days before application
 
 NIPR application: $50; 48-hour post-exam mandatory wait
 
-Biennial renewal; last day of birth month; $60 renewal fee
+Biennial renewal; last day of birth month; standard renewal fee (contact the TDCI for the current amount)
 
-30-day grace period; $120 late fee; 1-year late renewal window
+60-day grace period; late fee not publicly posted (contact the TDCI); 1-year late renewal window
 
 CE requirements: 24 hours biennial; 3 hours ethics; no classroom minimum
 
@@ -418,7 +418,7 @@ HO form distinctions — which form applies to which residential situation
 
 Standard homeowners exclusions — flood, earthquake, ordinance or law, business pursuits
 
-Tennessee state law — bad faith (25%), auto minimums, UM rejection, TDCI enforcement, CE (24/3), appointment rules (15 days), renewal ($60/30-day grace/$120 late fee/1-year window)
+Tennessee state law — bad faith (25%), auto minimums, UM rejection, TDCI enforcement, CE (24/3), appointment rules (15 days), renewal (standard fee/60-day grace/late fee not publicly posted/1-year window)
 
 Medium priority — solid understanding:
 

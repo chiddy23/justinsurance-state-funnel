@@ -42,15 +42,11 @@ This rule prevents producers from fulfilling their entire CE obligation through 
 
 ## Who Administers Virginia CE
 
-Virginia's CE program is administered by the Virginia Insurance Continuing Education Board, a statutory board created by the Virginia General Assembly. The Board has contracted with Pearson VUE to administer the day-to-day operations of the CE program — including course approvals, transcript tracking, and the continuance fee.
+Virginia's CE requirement is set by the State Corporation Commission's Bureau of Insurance under Va. Code 38.2-1866. Approved course providers report your completions into the CE tracking system that feeds your Sircon transcript, and the Bureau verifies that record when you submit your renewal.
 
-For CE questions, contact Pearson VUE directly:
+For CE questions, start with the Bureau of Insurance's own CE requirements page, and use Sircon or NIPR for transcript and renewal questions — details in the [continuing education](/virginia/continuing-education) hub.
 
-Email: VirginiaInsuranceCE@pearson.com
-
-Phone: 877-234-6093
-
-The Virginia Bureau of Insurance (SCC) handles licensing and renewal processing. Pearson VUE handles CE program administration. These are two separate systems — completing CE through Pearson VUE-approved courses does not automatically renew your license; you must also submit the renewal application and pay the renewal fee through NIPR or Sircon.
+Completing CE courses does not automatically renew your license — you must also submit the renewal application and pay the renewal fee through NIPR or Sircon.
 
 ## Your Renewal Deadline
 
@@ -62,11 +58,9 @@ Born in an odd year: license expires at the end of your birth month in odd-numbe
 
 Your CE must be completed before your license renewal date. There is no grace period for CE — failing to complete CE by your renewal date prevents renewal and triggers license termination.
 
-Continuance fee: Virginia's CE program requires producers to pay a biennial continuance fee to the CE program administrator (Pearson VUE) before earned CE credits can be applied to the renewal requirement. This fee is due by November 30 of the renewal year. Confirm the current fee amount and payment process at virginiainsurancece.com.
-
 ## Carryover Credits
 
-Virginia allows excess CE credits to be carried forward one renewal cycle. Credits completed in excess of your requirement in the current biennium can be applied to the next biennium. However, the courses must be reported in the biennium in which they were taken — you cannot retroactively claim credits from a prior period for a current deficiency.
+Virginia does not allow excess CE credits to carry forward. Credits completed in excess of your requirement in the current biennium do not apply to the next biennium — you must complete your full 16 or 24 hours fresh in each renewal period.
 
 You may not take the same course twice within a single biennium for credit.
 
@@ -86,7 +80,7 @@ These specialty requirements are addressed in detail in separate posts in this c
 
 Does Virginia require CE for non-resident producers?
 
-Non-resident producers are not required to complete Virginia CE. Virginia accepts CE compliance from the producer's home state as satisfying the Virginia non-resident CE requirement. Non-resident producers who are CE-compliant in their home state are considered compliant in Virginia. However, certain specialty training requirements — specifically the LTC Partnership 2-hour Virginia-specific module — do apply to non-resident producers who sell LTC Partnership products in Virginia, regardless of home-state CE compliance. Non-resident producers are also required to pay a non-resident CE documentation filing fee to the CE administrator by November 30. Contact Pearson VUE for current non-resident fee details.
+Non-resident producers are not required to complete Virginia CE. Virginia accepts CE compliance from the producer's home state as satisfying the Virginia non-resident CE requirement. Non-resident producers who are CE-compliant in their home state are considered compliant in Virginia. However, certain specialty training requirements — specifically the LTC Partnership 2-hour Virginia-specific module — do apply to non-resident producers who sell LTC Partnership products in Virginia, regardless of home-state CE compliance. Confirm current non-resident filing requirements at the Bureau of Insurance's CE requirements page before your renewal deadline.
 
 Do I have to take CE courses specific to my line of authority?
 
@@ -94,16 +88,16 @@ For the 16-hour single license requirement, all CE hours must be relevant to the
 
 What happens if I complete more than my required CE hours?
 
-Excess CE credits earned above your biennial requirement can be carried forward to the next renewal cycle automatically — no action required on your part. However, the courses must have been reported to the CE program in the biennium in which they were taken. Credits from prior biennia that were not reported in the correct period cannot be retroactively applied. This carryover provision rewards producers who complete CE early and consistently, rather than scrambling to finish requirements in the weeks before their renewal deadline. Building a habit of completing CE well before the renewal date also gives course providers time to report completions to the Bureau before your license expiration.
+Excess CE credits above your biennial requirement do not carry forward — Virginia requires you to complete your full 16 or 24 hours fresh in each renewal period. There is no benefit to over-completing hours in one cycle to reduce the load in the next. What over-completing early does help with is timing: finishing your hours well before your renewal deadline gives course providers time to report completions to the CE tracking system before your license expiration, rather than scrambling in the final weeks before your renewal date.
 
 How do I check my Virginia CE transcript?
 
-Virginia CE transcripts are maintained through Sircon. Log in at sircon.com/virginia and use the Continuing Education Transcript Inquiry tool to view your current CE credit balance, the courses completed, the dates of completion, and the categories applied. This is the most reliable way to confirm that your CE credits have been reported correctly before submitting your renewal application. If a course completion is missing from your transcript, contact Pearson VUE at 877-234-6093 or VirginiaInsuranceCE@pearson.com — the CE administrator resolves transcript discrepancies, not the Bureau of Insurance.
+Virginia CE transcripts are maintained through Sircon. Log in at sircon.com/virginia and use the Continuing Education Transcript Inquiry tool to view your current CE credit balance, the courses completed, the dates of completion, and the categories applied. This is the most reliable way to confirm that your CE credits have been reported correctly before submitting your renewal application. If a course completion is missing from your transcript, contact the course provider first to confirm it was reported, then follow up with Sircon support if it still isn't showing — don't wait until close to your renewal deadline to chase down a missing completion.
 
-What is the difference between the CE requirement and the continuance fee?
+Do company-sponsored courses count toward my ethics hours?
 
-The CE requirement refers to the credit hours you must complete — 16 or 24 hours per biennium. The continuance fee is a separate administrative fee paid to the CE program administrator (Pearson VUE) that must be paid before your completed CE credits can be applied to your renewal. These are two distinct obligations: completing the hours without paying the continuance fee means your credits are not officially recognized; paying the fee without completing the hours means your license still cannot be renewed. Both must be satisfied. The continuance fee is due by November 30 of the renewal year. Confirm the current fee amount at virginiainsurancece.com, as fee amounts are subject to change.
+Company-sponsored courses can count toward your ethics requirement as long as the specific course is approved as an ethics course — the 75% company-sponsored cap applies to your total CE hours, not to the ethics category specifically. Just make sure enough of your non-ethics hours also come from non-company-sponsored sources to stay under the cap overall.
 
 Virginia's CE framework is straightforward once you understand the license type distinction — 16 hours for one type, 24 for two — and build your biennial schedule around your birth-month renewal deadline well in advance.
 
-Visit JustInsurance to enroll today and complete your Virginia CE requirements with state-approved courses that meet the current Pearson VUE content standards.
+Visit JustInsurance to enroll today and complete your Virginia CE requirements with state-approved courses that meet current Virginia CE standards.

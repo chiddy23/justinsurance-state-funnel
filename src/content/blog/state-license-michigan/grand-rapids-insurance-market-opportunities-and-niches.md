@@ -238,6 +238,8 @@ Quality of life premium. Grand Rapids consistently ranks among best cities for q
 
 Established Grand Rapids specialty practices commonly produce $100,000-$195,000+ for individual producers, with top business-owner-focused or family-wealth producers earning substantially more.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## 5 Frequently Asked Questions
 
 - What makes Grand Rapids different from Detroit as an insurance market? Grand Rapids offers a diversified economy rather than automotive concentration, a culture built on family-owned private businesses and Dutch Reformed heritage creating distinctive referral dynamics, strong healthcare and furniture industry markets, and a growing metro with better quality of life metrics than Detroit.

@@ -27,9 +27,9 @@ Generally, you must be at least 18 years old and a legal resident of Florida or 
 
 ## Complete your pre-licensing education
 
-Florida has separate [pre-licensing requirements](/florida/prelicensing) for different lines of insurance, such as life, health, and property and casualty. These courses equip you with the knowledge needed to pass the exam and serve your future clients responsibly. You can take these courses online or in a classroom, depending on your learning style and schedule.
+Florida has separate [pre-licensing requirements](/florida/prelicensing) for different lines of insurance, such as life and health. These courses equip you with the knowledge needed to pass the exam and serve your future clients responsibly. You can take these courses online or in a classroom, depending on your learning style and schedule.
 
-The table below offers a quick look at the typical course hour requirements for popular license types:
+The table below offers a quick look at the course hour requirements for the license types JustInsurance offers pre-licensing courses for:
 
 License type
 
@@ -47,11 +47,7 @@ Life & health combo
 
 60 hours
 
-Property & casualty
-
-40 hours
-
-Actual requirements can vary, so you will want to check with the Florida Department of Financial Services for the most up-to-date guidelines. Your chosen [pre-licensing](/florida/prelicensing) course provider should also verify that they meet the lawful standards for Florida’s curriculum.
+Property & casualty prelicensing hour requirements vary and are not offered through JustInsurance's pre-licensing catalog — check with the Florida Department of Financial Services for the current requirement if you're pursuing a 2-20 General Lines license. Your chosen [pre-licensing](/florida/prelicensing) course provider should also verify that they meet the lawful standards for Florida's curriculum.
 
 ## Gather the necessary documents
 

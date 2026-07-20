@@ -90,7 +90,7 @@ All exams:
 
 DCI: Missouri Department of Commerce and Insurance; Commissioner authority; insurance.mo.gov; RSMo Chapters 375/379; multi-sector (insurance + financial institutions + professional registration)
 
-Producer licensing: No PLE; $29-$35 Pearson VUE; in-person only; 70% both sections; 1-year validity; 24-hr retake; retake failed section only; no fingerprinting; $100 NIPR; 24-48 hr wait before applying; 5-10 day processing; no temp license; renewal 2 years/last day birth month; CE 16 hrs/3 Ethics; Annuity Best Interest 4-hr one-time (Aug 30, 2024)
+Producer licensing: No PLE; $29-$35 Pearson VUE; in-person only; 70% both sections; 1-year validity; 24-hr retake; retake failed section only; no fingerprinting; $100 NIPR; 24-48 hr wait before applying; 5-10 day processing; no temp license; renewal 2 years/last day birth month; CE 16 hrs/3 Ethics
 
 RSMo unfair practices: Misrepresentation, twisting, churning, rebating, defamation, unfair discrimination, unfair claims settlement
 
@@ -101,8 +101,6 @@ Healthcare.gov — NOT state-based exchange
 MO HealthNet — Missouri Medicaid; voter-approved August 2020 (Amendment 2); courts ordered implementation; implemented summer 2021; adults to 138% FPL
 
 No Missouri individual mandate
-
-Annuity Best Interest (eff. August 30, 2024): 4-hr one-time; 1-hr update for prior completions
 
 P&C-specific:
 
@@ -124,7 +122,7 @@ Workers' comp: 5+ employees (1+ for construction); Chapter 287; NCCI; Travelers 
 - How do I use the Pearson VUE diagnostic report? After the Missouri exam, candidates can log into their Pearson VUE account to access a diagnostic report showing performance by content category. For the failed section, the report identifies which subject areas had the most incorrect answers — allowing targeted review rather than restudy of all content.
 - Is the combined Life & A&H exam harder than two separate exams? The combined exam (170 questions, 180 min) requires sustained focus for 3 hours and covers both lines' content simultaneously. Per-question pacing (63 seconds) is tighter than individual exams (72 seconds). For candidates who have prepared for both lines, the combined exam is efficient — same two sections (national and state) just covering both lines' content. The primary risk is mental fatigue over 3 hours.
 - What is the historical context of Missouri switching to in-person only? Missouri's May 7, 2025 elimination of remote online exams reversed the COVID-era accommodation that allowed online testing. As a DCI/Pearson VUE policy decision, all Missouri insurance licensing exams now require candidates to appear at a physical test center. This affects candidates in rural Missouri who may be farther from test centers and candidates who preferred the convenience of home testing.
-- How does Missouri's 40-60% first-attempt [pass rate](/pass-rates) compare to other states? Missouri's pass rates are slightly lower than some comparison states — which can be attributed to the no-PLE structure (no mandated study floor) combined with the two-section scoring requirement. States that require PLE (IN: 20 hours; MN: 20 hours) create a mandatory study baseline that improves first-attempt rates. Missouri's self-directed study requirement makes exam prep quality directly correlated with pass rates.
+- How does Missouri's 40-60% first-attempt pass rate compare to other states? Industry sources put the all-candidate first-attempt pass rate at roughly 40-60% depending on line — slightly lower than some comparison states, which can be attributed to the no-PLE structure (no mandated study floor) combined with the two-section scoring requirement. States that require PLE (IN: 20 hours; MN: 20 hours) create a mandatory study baseline that improves first-attempt rates. That industry figure isn't JustInsurance's own outcome, though — among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93% (see [pass rates](/pass-rates) for methodology). Missouri's self-directed study requirement makes exam prep quality directly correlated with pass rates.
 
 ## Master the Missouri Exam Format
 

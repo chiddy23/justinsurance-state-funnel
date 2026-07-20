@@ -28,7 +28,7 @@ There is no state fee for prelicensing course enrollment. The cost is entirely b
 
 The exam fee is paid at time of scheduling, by credit card, debit card, voucher, or electronic check. Electronic check payments require scheduling at least 5 days in advance (compared to 1 business day for card payments). Fees are non-refundable if you fail to appear for a scheduled exam without canceling at least 48 hours in advance.
 
-The combined Property + Casualty session advantage: Colorado allows candidates to take both the Property exam (75 scored questions, 120 min) and the Casualty exam (81 scored questions, 120 min) in a single session at a physical Pearson VUE test center for a single $47 fee. This saves $47 compared to scheduling each exam separately. Remote testing via OnVUE does not offer this combined option.
+The combined Property + Casualty session advantage: Colorado allows candidates to take both the Property exam (75 scored questions, 120 min) and the Casualty exam (81 scored questions, 120 min) in a single session at a physical Pearson VUE test center, typically for a single combined fee rather than two separate exam fees (each exam individually costs $48 — confirm current combined-session pricing directly with Pearson VUE). Remote testing via OnVUE does not offer this combined option.
 
 ### Stage 3: License Application
 
@@ -36,7 +36,7 @@ Per-line application fees apply. A candidate applying for Life and Accident & He
 
 ## Total Cost Scenarios
 
-Add $47 per additional exam attempt if a retake is needed.
+Add $48 per additional exam attempt if a retake is needed.
 
 ## Ongoing Costs After Licensing
 
@@ -80,7 +80,7 @@ The $47 application fee is per line of authority. If you apply for Life and Acci
 
 If I fail the exam and need to retake it, what does the retake cost and when can I reschedule?
 
-Each retake costs $47 — the same fee as the original attempt. There is no penalty fee, no escalating retake fee, and no limit on the number of attempts. You must wait at least 24 hours after a failed attempt before scheduling your next exam. You can reschedule online at pearsonvue.com/co/insurance or by calling (800) 274-2616. If you fail multiple times, Pearson VUE provides a diagnostic report after each failed attempt showing your performance by content area — this is a valuable tool for targeting your study before the next attempt. Most candidates who fail the first attempt pass within 1–2 retakes when they use the diagnostic report to focus their preparation on their weakest content areas.
+Each retake costs $48 — the same fee as the original attempt. There is no penalty fee, no escalating retake fee, and no limit on the number of attempts. You must wait at least 24 hours after a failed attempt before scheduling your next exam. You can reschedule online at pearsonvue.com/co/insurance or by calling (800) 274-2616. If you fail multiple times, Pearson VUE provides a diagnostic report after each failed attempt showing your performance by content area — this is a valuable tool for targeting your study before the next attempt. Most candidates who fail the first attempt pass within 1–2 retakes when they use the diagnostic report to focus their preparation on their weakest content areas.
 
 Does the license renewal fee change if I add lines of authority later in my career?
 
@@ -88,12 +88,12 @@ Yes — the renewal fee is $27 per line of authority regardless of when each lin
 
 Are there any hidden costs in the Colorado licensing process that candidates typically miss?
 
-The most commonly missed cost items are: (1) the NIPR $5.60 transaction fee — candidates who use NIPR for the first time are sometimes surprised by this fee at checkout; (2) retake exam fees — candidates who budget only for a single attempt and fail face an unexpected $47 per retake; (3) the $5 license printing fee on Sircon — small but often overlooked; (4) specialty training costs that arise immediately after licensing for producers who plan to sell annuities, LTC, or flood insurance — these one-time courses cost $20–$150 and are required before the first sale; and (5) CE costs — while not due immediately, the 24-hour biennial CE obligation begins running from your license issue date, and CE courses have their own provider fees. None of these are large individually, but together they can add $200–$400 to the total cost of the first two years beyond initial licensing fees.
+The most commonly missed cost items are: (1) the NIPR $5.60 transaction fee — candidates who use NIPR for the first time are sometimes surprised by this fee at checkout; (2) retake exam fees — candidates who budget only for a single attempt and fail face an unexpected $48 per retake; (3) the $5 license printing fee on Sircon — small but often overlooked; (4) specialty training costs that arise immediately after licensing for producers who plan to sell annuities, LTC, or flood insurance — these one-time courses cost $20–$150 and are required before the first sale; and (5) CE costs — while not due immediately, the 24-hour biennial CE obligation begins running from your license issue date, and CE courses have their own provider fees. None of these are large individually, but together they can add $200–$400 to the total cost of the first two years beyond initial licensing fees.
 
 How does Colorado compare to neighboring states in terms of licensing fees?
 
-Colorado's total first-year licensing costs are in the middle range compared to neighboring states. Utah's exam fee is $55, its application fee is $75, and it requires 40 hours of prelicensing — making a single-line total comparable to Colorado's. Wyoming's exam fee is $40 and application fee is $40, with 20 hours of prelicensing — lower upfront costs but fewer required education hours. New Mexico and Arizona have similar total cost structures. Colorado's distinctive cost advantage is the combined Property + Casualty exam session ($47 for both exams rather than $47 each) and the absence of a fingerprinting fee — two structural savings that benefit candidates pursuing full P&C licensing.
+Colorado's total first-year licensing costs are in the middle range compared to neighboring states. Utah's exam fee is about $32 (Prometric), its application fee is $75, and it has no mandatory prelicensing requirement. Wyoming's exam fee is $96 and application fee is $100, also with no mandatory prelicensing requirement — both states trade Colorado's required 50-hour prelicensing course for optional self-study, so their overall first-line total can run lower even with a higher exam or application fee. New Mexico and Arizona have similar total cost structures. Colorado's distinctive cost advantage is the combined Property + Casualty exam session (typically one combined fee for both exams rather than two separate $48 exam fees — confirm current pricing with Pearson VUE) and the absence of a fingerprinting fee — two structural savings that benefit candidates pursuing full P&C licensing.
 
-Colorado's licensing fee structure is transparent and predictable. The state-set fees — $47 exam, $47 application, $27 renewal — are among the most straightforward in the Mountain West. The variable cost is the prelicensing provider choice, and that decision is where research pays off: a provider with strong practice exam tools increases first-attempt pass probability, which directly reduces total cost by eliminating retake fees.
+Colorado's licensing fee structure is transparent and predictable. The state-set fees — $48 exam, $47 application, $27 renewal — are among the most straightforward in the Mountain West. The variable cost is the prelicensing provider choice, and that decision is where research pays off: a provider with strong practice exam tools increases first-attempt pass probability, which directly reduces total cost by eliminating retake fees.
 
 Visit JustInsurance to enroll today and get Colorado-approved prelicensing education at a price that fits your budget.

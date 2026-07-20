@@ -51,8 +51,6 @@ Days 11 through 13: Take full-length timed practice exams covering all topic are
 
 Day 14 (Exam Day): Light review of your weakest areas in the morning — no new material. Arrive at the PSI testing center 30 minutes before your scheduled time, bring your government-issued photo ID, and trust your preparation.
 
-## Study Schedule at a Glance
-
 ## Adjusting for Your Schedule
 
 If you are studying while working full-time and cannot commit two to three hours per day, extend the plan to three or four weeks rather than compressing daily study time. Cramming the night before the exam is significantly less effective than spaced repetition over multiple days. Louisiana's unlimited retake policy removes the pressure of a one-shot window, but every retake costs money and time — your goal is to pass on the first attempt.

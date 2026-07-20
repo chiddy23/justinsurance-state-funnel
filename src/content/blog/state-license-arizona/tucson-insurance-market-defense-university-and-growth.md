@@ -255,6 +255,8 @@ Fort Huachuca/Sierra Vista: US Army Intelligence Center — substantial active d
 
 Tucson income levels for insurance agents are generally below Phoenix metro but reflect a more affordable cost of living:
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 Indeed data: average insurance agent salary in Tucson $72,600 (2026 data)
 
 Salary.com: Tucson insurance agent averages approximately $54,000 for benchmark roles

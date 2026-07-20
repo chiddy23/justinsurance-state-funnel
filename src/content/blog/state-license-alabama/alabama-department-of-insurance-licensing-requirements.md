@@ -118,7 +118,7 @@ Timing: Get fingerprinted AFTER passing the exam and ONE DAY before applying
 
 Validity: Fingerprints remain in the ALDOI system only 30 days after being taken
 
-Approved Vendor: Alabama uses Gemalto Cogent Systems for fingerprinting
+Approved Vendor: Alabama uses Fieldprint Alabama for fingerprinting
 
 Results: Submitted electronically to the ALDOI for background review
 
@@ -184,7 +184,7 @@ After submitting your application, the ALDOI reviews:
 
 Exam completion. Reported electronically from the University of Alabama within 3-5 days of passing.
 
-Background check. Fingerprint results submitted through Gemalto Cogent.
+Background check. Fingerprint results submitted through Fieldprint Alabama.
 
 Disclosure answers. Cross-referenced against available records.
 

@@ -256,7 +256,7 @@ Don't apply and then delay studying. The window is running from application subm
 
 If you fail: Budget for a new NIPR application (~$15.60) before rescheduling. Don't just pay the $41 retake fee and try to reschedule — this will be declined. Submit new application, then schedule.
 
-If significantly delayed: Verify your application hasn't expired before scheduling. Contact DIFS at (877) 999-6442 if uncertain about application validity.
+If significantly delayed: Verify your application hasn't expired before scheduling. Contact DIFS at (517) 284-8800 if uncertain about application validity.
 
 ## Common Study Plan Mistakes
 

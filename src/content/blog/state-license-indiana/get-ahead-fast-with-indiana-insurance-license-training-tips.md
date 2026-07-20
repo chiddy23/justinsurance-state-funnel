@@ -19,7 +19,7 @@ Embarking on your [Indiana insurance license](/indiana) training is an exciting 
 
 ## Know the requirements
 
-Before you dive into any coursework, it’s important to understand Indiana’s licensing requirements. Approved [Indiana prelicensing courses](/indiana/prelicensing) cover every topic you'll see on the state exam. The state mandates specific [pre-licensing](/indiana/prelicensing) hours based on your chosen authority, whether it’s life, health, property, or casualty. Check the [Indiana Department of Insurance](/indiana/requirements) guidelines to confirm how many hours of training you need, and ensure the course provider offers an approved program that meets these standards.
+Before you dive into any coursework, it’s important to understand Indiana’s licensing requirements. Approved [Indiana prelicensing courses](/indiana/prelicensing) cover every topic you'll see on the state exam for life, health, and combined life & health authority. The state mandates specific pre-licensing hours based on your chosen authority, whether it’s life, health, property, or casualty — for property and casualty prelicensing, confirm approved providers through Sircon or the state. Check the [Indiana Department of Insurance](/indiana/requirements) guidelines to confirm how many hours of training you need, and ensure the course provider offers an approved program that meets these standards.
 
 By verifying requirements early on, you avoid surprises and can plan your schedule accordingly. Plus, you’ll appreciate knowing each hour of study directly applies toward your license.
 

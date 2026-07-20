@@ -1,7 +1,7 @@
 ---
 title: Your Friendly Guide to Pennsylvania Insurance License Fees
 description: >-
-  Pennsylvania insurance license fees: required prelicensing hours, exam
+  Pennsylvania insurance license fees: optional prelicensing hours, exam
   registration, state fees, application steps, and tips from licensed insurance
 keyword: pennsylvania insurance license fees
 targetKeywords: pennsylvania insurance license fees
@@ -25,9 +25,9 @@ Understanding your path toward a Pennsylvania insurance license is the first ste
 
 In Pennsylvania, each line of authority (like life or property) you want covered on your license carries its own exam and often its own fees. To avoid sticker shock, do a bit of advance planning to identify which lines you plan to pursue. You don’t have to tackle every line of authority at once. Start with what you need immediately, and consider adding additional lines later if you discover a need for them in your career.
 
-## Complete your pre-licensing course
+## Complete your pre-licensing course (optional)
 
-Every new insurance agent in Pennsylvania must fulfill a set number of [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) education hours—usually around 24 for each major line of authority. These hours are designed to give you a thorough overview of essential insurance concepts, policy structures, and legal requirements. The coursework typically includes reading assignments, quizzes, and practice exams that simulate the real test environment.
+Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) education hours are optional rather than mandatory. Courses that cover Life or Health typically run around 20 hours each. If you choose to take one, it gives you a thorough overview of essential insurance concepts, policy structures, and legal requirements, and the coursework typically includes reading assignments, quizzes, and practice exams that simulate the real test environment.
 
 Choosing a state-approved pre-licensing provider matters. The course cost can vary, often landing between $100 and $300 depending on the provider, the course format (online or in-person), and any additional materials included. You might see some packages that integrate practice tests or supplemental study resources. Whichever option you pick, make sure it fits your learning style. After all, you want to enter the exam feeling confident and well-prepared.
 
@@ -39,7 +39,7 @@ Keep a realistic study schedule that accounts for work, family, or other respons
 
 ## Understand the exam fees
 
-Exam fees are likely the largest part of pennsylvania insurance license fees, so it’s important to set aside a portion of your budget for them. The exact amount depends on how many lines of authority you’re testing for at once, but generally, you can anticipate paying in the ballpark of $40 to $60 per exam attempt. You’ll also be responsible for any fees related to scheduling changes, should you need to reschedule your exam date.
+Exam fees are likely the largest part of pennsylvania insurance license fees, so it’s important to set aside a portion of your budget for them. Pennsylvania's exam fee is $43 per attempt, paid to PSI Services at registration. You’ll also be responsible for any fees related to scheduling changes, should you need to reschedule your exam date.
 
 Below is a quick reference table to give you a sense of what to expect. Actual fees can change, so always confirm with the official testing provider:
 
@@ -49,15 +49,15 @@ Estimated Cost
 
 Purpose
 
-Pre-licensing course
+Pre-licensing course (optional)
 
 $100 - $300
 
-Mandatory education hours
+Optional education hours
 
 Insurance exam (per line)
 
-$40 - $60
+$43
 
 Measures your knowledge of insurance concepts
 

@@ -23,7 +23,7 @@ Whether you want to become a life, health, or property and casualty insurance ag
 
 ## Start your journey
 
-You might be wondering what it takes to begin. Since each state has its own guidelines, the first step is exploring the basics of Virginia’s insurance licensing. Typically, you will need to meet the minimum age requirement of 18, complete a [pre-licensing](/virginia/prelicensing) course, pass the official state exam, and submit the necessary paperwork. If you follow the process in the right order, you will set yourself up for success and avoid any last-minute surprises.
+You might be wondering what it takes to begin. Since each state has its own guidelines, the first step is exploring the basics of Virginia’s insurance licensing. Typically, you will need to meet the minimum age requirement of 18, pass the official state exam, and submit the necessary paperwork; Virginia does not require a [pre-licensing](/virginia/prelicensing) course for standard lines, though many candidates take one voluntarily to prepare. If you follow the process in the right order, you will set yourself up for success and avoid any last-minute surprises.
 
 A good way to kick off is by choosing a track that fits your goals. Virginia offers different license types, such as Life and Annuities, Health, Property and Casualty, and Personal Lines. If you already know which path suits you, you can home in on that area early on. Otherwise, talk with professionals you trust, do a little research, or call the Virginia Bureau of Insurance for guidance. Taking the time to define your direction ensures you do not waste energy on courses you do not actually need.
 
@@ -31,9 +31,9 @@ A good way to kick off is by choosing a track that fits your goals. Virginia off
 
 Before signing up for any training program, it is best to confirm your eligibility. First, you should have a government-issued ID proving you are at least 18 years old. Next, you will need to be a resident of Virginia or maintain a primary business address in the state.
 
-Virginia also expects you to complete a specific number of pre-licensing hours based on your license line. For instance, the Life and Health license might involve separate courses or a combined approach if you want to earn both licenses in one go. Be sure to verify with the Virginia Bureau of Insurance, since they keep updated details on the curriculum and any new regulations.
+Virginia does not set a required number of pre-licensing hours for standard lines — that requirement was repealed statewide except for title insurance. If you choose to take an optional course anyway, you can pick separate courses per line or a combined approach if you want to prepare for both Life and Health in one go. Be sure to verify current details with the Virginia Bureau of Insurance, since they keep updated information on curriculum and any new regulations.
 
-It helps to plan for both the time and the cost requirements. You will pay fees for the pre-licensing courses, the state exam, and the license application. Setting a realistic budget upfront spares you from financial hiccups later.
+It helps to plan for both the time and the cost requirements. You may pay fees for an optional pre-licensing course, plus the state exam and the license application. Setting a realistic budget upfront spares you from financial hiccups later.
 
 ## Choose your pre-licensing course
 
@@ -54,7 +54,7 @@ At this point, practice exams are your friend. They mimic the style and complexi
 
 ## Pass the state exam
 
-Once you have completed your required pre-licensing hours, it is time to register for the exam through the test provider designated by the Virginia Bureau of Insurance. Plan to schedule your test at a time and location that feels comfortable. Testing centers are typically found in major cities, but online proctored exams may also be an option in certain circumstances.
+Once you have completed any optional pre-licensing hours you chose to take, it is time to register for the exam through the test provider designated by the Virginia Bureau of Insurance. Plan to schedule your test at a time and location that feels comfortable. Testing centers are typically found in major cities, but online proctored exams may also be an option in certain circumstances.
 
 On exam day, do not forget to bring the proper identification. You will usually have a certain time limit to complete the test, so factor in any breaks you might need. Stay calm and methodical. If you stumble on a difficult question, mark it and move on, then come back at the end with a fresh perspective.
 

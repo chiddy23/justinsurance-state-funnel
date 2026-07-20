@@ -42,9 +42,9 @@ These study habits ensure you develop a strong knowledge base, laying the ground
 
 ## Take the licensing exam
 
-Once you’ve finished your pre-licensing hours, you’re ready for the official test. Michigan typically partners with exam administrators like PSI, where you can schedule a convenient time and location. The exam fee usually ranges from about $40 to $60, though costs can vary.
+Once you’ve finished your pre-licensing hours, you’re ready for the official test. Michigan partners with PSI Services for exam administration, where you can schedule a convenient time and location. The exam fee is $41 per attempt.
 
-This test is multiple choice, and you need a passing score—often around 70 percent, depending on the line of authority. On exam day:
+This test is multiple choice, and Michigan uses variable passing scores by line of authority — 72% for Life, 76% for Accident & Health, 75% for Property, and 74% for Casualty (74% combined P&C, 75% combined Life & Health) — all above the national standard of 70%. On exam day:
 
 • Arrive early to park, check in, and get settled without rushing.  
 • Bring valid identification. You won’t be allowed to test without it.  

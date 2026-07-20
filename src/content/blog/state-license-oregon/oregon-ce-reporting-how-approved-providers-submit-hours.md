@@ -192,7 +192,7 @@ Submitting renewal before CE is reported will result in rejection.
 
 Before you click "submit" on your renewal:
 
-✅ Total CE hours for your license type are met (24 hours) ✅ Ethics requirement (3 hours) is satisfied ✅ Oregon law requirement (3 hours) is satisfied ✅ Specialty training (LTC, Annuity Best Interest, Flood) is complete if applicable ✅ Ongoing flood CE (2 hours) is complete if you sell flood ✅ All hours appear correctly on your SBS transcript ✅ Your contact and identifying information is current
+✅ Total CE hours for your license type are met (24 hours) ✅ Ethics requirement (3 hours) is satisfied ✅ Oregon law requirement (3 hours) is satisfied ✅ Specialty training (LTC, Annuity Best Interest, Flood) is complete if applicable — confirm current hour requirements with the Oregon DFR, since a single standardized rule isn't publicly posted ✅ All hours appear correctly on your SBS transcript ✅ Your contact and identifying information is current
 
 Only then submit your renewal.
 

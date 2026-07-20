@@ -37,7 +37,7 @@ Washington requires candidates to undergo a background check that reviews both f
 
 ### Pre-licensing education
 
-To demonstrate your competence, you will need to complete a minimum number of [Washington prelicensing education](/washington/prelicensing) hours specific to the line of authority you want to sell. Life and disability (health) insurance, for instance, each require a certain number of credits, while property and casualty lines have their own education standards. [Pre-licensing](/washington/prelicensing) courses can be taken in-person or online, depending on your schedule. Look for programs that are approved by the Washington Insurance Commissioner to avoid any confusion about qualifying coursework.
+Washington does not require a minimum number of [pre-licensing education](/washington/prelicensing) hours for any line of authority — that requirement was eliminated in 2023. You are still welcome to work through optional coursework for life and disability (health) or property and casualty lines to build your knowledge before the exam. [Pre-licensing](/washington/prelicensing) courses can be taken in-person or online, depending on your schedule, if you decide to enroll in one.
 
 ## Steps to become licensed
 
@@ -45,14 +45,14 @@ Once you understand the core requirements, the actual path to licensure is prett
 
 1.  Confirm your eligibility  
     Make sure you meet the age, residency, and background conditions before you start any training. Identifying and addressing potential obstacles now will prevent delays later.
-2.  Complete your pre-licensing education  
-    Select a program that covers the exam content in your chosen lines of authority. You will receive a certificate of completion or proof of course hours, which you often need when scheduling your exam.
+2.  Consider optional exam prep  
+    You are not required to take a pre-licensing course, but selecting a program that covers the exam content in your chosen lines of authority can help you feel prepared.
 3.  Pass the state exam  
-    After finishing your education, register for the official [Washington insurance licensing exam](/washington/requirements). Testing services will verify that you have met all the prerequisites. Be sure to arrive on time, bring proper identification, and keep track of your passing score report once you finish.
+    Whenever you feel ready, register for the official [Washington insurance licensing exam](/washington/requirements). Be sure to arrive on time, bring proper identification, and keep track of your passing score report once you finish.
 4.  Submit your license application  
     Once you pass your exam, submit the appropriate application to the OIC. Include your score report, any background documentation, and the license fee. If everything is in order, you can usually expect to receive your license without a long waiting period.
 
-You will also be able to maintain multiple lines of authority, such as life and health or property and casualty, under one license. Just note that separate exams and fees apply for each line you want to hold. If you decide to expand into more types of coverage in the future, you simply complete the relevant coursework, pass any additional exams, and update your existing license.
+You will also be able to maintain multiple lines of authority, such as life and health or property and casualty, under one license. Just note that separate exams and fees apply for each line you want to hold. If you decide to expand into more types of coverage in the future, you simply pass the additional exam(s) and update your existing license.
 
 ## Why your background check matters
 
@@ -62,14 +62,14 @@ In Washington, the state thoroughly reviews your criminal, financial, and profes
 
 Below are some frequently asked questions about Washington insurance license eligibility. These answers can give you clarity if you are unsure about specific details during your preparation.
 
-1.  Do I need a certain educational background to qualify? Washington does not require a college degree or any specific academic background. You only need to complete the state-approved pre-licensing education for the license type you want before sitting for the exam.
+1.  Do I need a certain educational background to qualify? Washington does not require a college degree, any specific academic background, or state-approved pre-licensing education. You simply need to meet the age and background-check requirements and pass the exam for the license type you want.
 2.  What if I have a previous misdemeanor or felony conviction? Having a criminal record, especially a felony, does not guarantee rejection, but the OIC will look closely at those circumstances. If your conviction involved fraud, dishonesty, or financial misconduct, you may face additional scrutiny. It is best to provide all requested documentation so that a proper determination can be made.
-3.  How hard is the pre-licensing exam? Difficulty varies from person to person, but passing rates are generally reasonable if you study properly. Pre-licensing courses cover all the exam topics. You can also find practice exams to help boost your confidence.
-4.  Can I get licensed for multiple lines at once? Yes, you may pursue multiple lines, like life and health or property and casualty, under your Washington insurance license. Just keep in mind that separate exams and course requirements apply to each line. You can often schedule both exams back to back if you prefer to do everything in one go.
+3.  How hard is the state exam? Difficulty varies from person to person, but passing rates are generally reasonable if you study properly. Optional pre-licensing courses cover all the exam topics if you choose to enroll in one. You can also find practice exams to help boost your confidence.
+4.  Can I get licensed for multiple lines at once? Yes, you may pursue multiple lines, like life and health or property and casualty, under your Washington insurance license. Just keep in mind that separate exams apply to each line — no course requirement applies to any of them. You can often schedule both exams back to back if you prefer to do everything in one go.
 5.  When do I have to renew my license? In Washington, most insurance licenses renew every two years. You will need to complete [Washington continuing education](/washington/continuing-education) classes and pay a renewal fee. The OIC sends renewal reminders, but it is good to mark your calendar so you do not miss any deadlines.
 
 ## Start your journey with JustInsurance
 
-Pursuing a career in insurance opens new doors for you, whether you are looking for a fresh start or want a more flexible schedule that fits your life. Once you meet the Washington insurance license eligibility requirements and pass your exam, you will be ready to connect neighbors, families, and businesses with the coverage that suits them best. You do not have to take this leap alone. Partner with a trusted resource like JustInsurance to navigate pre-licensing courses, exam registration, and everything else that comes with building your professional path.
+Pursuing a career in insurance opens new doors for you, whether you are looking for a fresh start or want a more flexible schedule that fits your life. Once you meet the Washington insurance license eligibility requirements and pass your exam, you will be ready to connect neighbors, families, and businesses with the coverage that suits them best. You do not have to take this leap alone. Partner with a trusted resource like JustInsurance to navigate optional exam prep, exam registration, and everything else that comes with building your professional path.
 
-Take the first step today by confirming your eligibility and enrolling in the right training program. Before you know it, you will be guiding your clients with confidence. Once you are licensed, consider staying up to date with industry developments to maintain a competitive edge in the Washington marketplace. That way, your new career is not just about earning credentials, it is about shaping a fulfilling future—both for you and the community you serve.
+Take the first step today by confirming your eligibility and starting your exam prep, whether through a training program or on your own. Before you know it, you will be guiding your clients with confidence. Once you are licensed, consider staying up to date with industry developments to maintain a competitive edge in the Washington marketplace. That way, your new career is not just about earning credentials, it is about shaping a fulfilling future—both for you and the community you serve.

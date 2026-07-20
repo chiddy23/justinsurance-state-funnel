@@ -248,6 +248,8 @@ Cross-state opportunity. NYC commuter clients can support cross-state practice i
 
 Established Fairfield County HNW practices commonly produce $250,000-$600,000+ in annual income, with top practices substantially higher.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Cost Considerations
 
 Fairfield County operating costs are substantial:

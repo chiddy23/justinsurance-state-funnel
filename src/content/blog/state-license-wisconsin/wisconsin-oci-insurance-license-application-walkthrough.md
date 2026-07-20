@@ -16,7 +16,7 @@ imageAlt: >-
   insurance license application walkthrough.
 ---
 
-Wisconsin's license application process follows a clear five-step sequence: OCI-approved PLE (20 hours/line), Fieldprint fingerprinting ($36), PSI exam ($75/exam), NIPR application ($75/line), and 1-3 business day processing. The 180-day score validity creates the outer timing constraint. No combined exams are available, making each line a separate investment of PLE time and exam fees. Wisconsin's $75 application fee per line of authority makes full multi-line licensing (Life + Health + Property + Casualty) cost $300+ in application fees alone — but Wisconsin's 1-3 business day processing is the fastest of all comparison states. Here's the precise walkthrough.
+Wisconsin's license application process follows a clear five-step sequence: OCI-approved PLE (20 hours/line), Fieldprint fingerprinting ($34.75), PSI exam ($75/exam), NIPR application ($75/line), and 1-3 business day processing. The 180-day score validity creates the outer timing constraint. No combined exams are available, making each line a separate investment of PLE time and exam fees. Wisconsin's $75 application fee per line of authority makes full multi-line licensing (Life + Health + Property + Casualty) cost $300+ in application fees alone — but Wisconsin's 1-3 business day processing is the fastest of all comparison states. Here's the precise walkthrough.
 
 ## The WI Licensing Sequence
 
@@ -24,7 +24,7 @@ Five-step sequence with 180-day score window:
 
 Complete 20-hour PLE per line (8 hrs shared + 12 hrs line-specific) → Certificate of Completion → 180-day clock starts upon passing PSI exam
 
-Complete Fieldprint fingerprinting ($36) — can do before or after exam
+Complete Fieldprint fingerprinting ($34.75) — can do before or after exam
 
 Schedule and pass PSI exam ($75/line) — bring Certificate of Completion + ID
 
@@ -54,7 +54,7 @@ STEP 2: Complete Fieldprint Fingerprinting
 
 Schedule at fieldprintwisconsin.com using code FPWIOCIInsurance.
 
-Fee: $36.00
+Fee: $34.75
 
 Bring two forms of signature ID (primary must be government-issued with photo)
 
@@ -76,7 +76,7 @@ Choose in-person PSI test center or PSI Bridge remote testing (requires Chrome; 
 
 Exam day: Arrive 30 minutes early; bring government ID + Certificate of Completion. Score displayed on screen immediately.
 
-If fail: no mandatory wait — immediately reschedule and pay another $75 exam fee.
+If fail: a roughly 2-calendar-day mandatory wait applies before rescheduling; pay another $75 exam fee.
 
 STEP 4: Submit NIPR Application (After 48-72 Hours)
 

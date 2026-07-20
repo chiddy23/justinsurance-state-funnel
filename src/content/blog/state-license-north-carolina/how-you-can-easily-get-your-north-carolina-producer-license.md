@@ -19,13 +19,13 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 Keywords: north carolina producer license
 
-Getting your North Carolina producer license can feel like a big undertaking, but with the right steps and resources, you’ll find the process is more approachable than you might think. By understanding the requirements, completing the [pre-licensing](/north-carolina/prelicensing) education, and knowing what to expect on exam day, you’ll be ready to embark on a new career in insurance. Below, you’ll learn everything you need to do, plus a few tips to guide you along the way.
+Getting your North Carolina producer license can feel like a big undertaking, but with the right steps and resources, you’ll find the process is more approachable than you might think. By understanding the requirements, deciding whether [pre-licensing](/north-carolina/prelicensing) education is right for you, and knowing what to expect on exam day, you’ll be ready to embark on a new career in insurance. Below, you’ll learn everything you need to do, plus a few tips to guide you along the way.
 
 ## Understand the licensing process
 
-Before diving into the details, it’s helpful to have a basic overview of how producer licensing works in North Carolina. A “producer” license allows you to sell or negotiate different types of insurance, such as life, health, property, or casualty. The state’s Department of Insurance oversees the entire process, which typically includes education, an exam, and an application.
+Before diving into the details, it’s helpful to have a basic overview of how producer licensing works in North Carolina. A “producer” license allows you to sell or negotiate different types of insurance, such as life, health, property, or casualty. The state’s Department of Insurance oversees the entire process, which includes an exam and an application; as of October 1, 2025 (HB 737), prelicensing education is optional rather than a required step.
 
-When you’re first exploring a career in insurance, it’s natural to have questions about costs, timelines, and the level of commitment needed. Fortunately, North Carolina has a straightforward path. Once you’ve met the education requirement, you’ll register for the licensing exam. Passing the exam is your key to applying for the producer license itself. From there, you can focus on choosing the specific lines of authority that you’re most interested in selling.
+When you’re first exploring a career in insurance, it’s natural to have questions about costs, timelines, and the level of commitment needed. Fortunately, North Carolina has a straightforward path. Once you’ve decided whether to take a prelicensing course, you’ll register for the licensing exam. Passing the exam is your key to applying for the producer license itself. From there, you can focus on choosing the specific lines of authority that you’re most interested in selling.
 
 ## Meet basic eligibility
 
@@ -33,15 +33,15 @@ Like most states, North Carolina has some baseline requirements for becoming an 
 
 If you have any concerns about your eligibility, it’s a good idea to check with the [North Carolina Department of Insurance](/north-carolina/requirements) before you invest time and money in pre-licensing courses. Often, the department’s website provides direct guidance on potential background issues and how they might affect your application. That way, you’ll have clarity from the very beginning.
 
-## Finish pre-licensing education
+## Consider pre-licensing education (optional)
 
-Once you’ve confirmed you meet the basic requirements, your next step is to complete a state-approved [North Carolina prelicensing](/north-carolina/prelicensing) course. This coursework covers the essentials of insurance, policy types, and state regulations. The number of credit hours can vary depending on which license type you’re pursuing, but you’ll typically need to dedicate around 20 hours for each line of authority (for example, Life, Accident and Health, or Property and Casualty).
+Once you’ve confirmed you meet the basic requirements, your next decision is whether to complete a [North Carolina prelicensing](/north-carolina/prelicensing) course. North Carolina eliminated the mandatory prelicensing requirement effective October 1, 2025 (HB 737), so this coursework is no longer legally required — but most candidates still choose a structured course covering the essentials of insurance, policy types, and state regulations. Courses that follow the pre-HB 737 structure typically run around 20 hours for each line of authority (for example, Life, Accident and Health, or Property and Casualty).
 
 You can choose between online or in-person classes, depending on your schedule and learning preferences. Online classes tend to offer more flexibility, allowing you to progress whenever you have spare time. In-person options let you ask questions on the spot and often come with peer support. Either way, the goal is the same: to give you a solid foundation in insurance topics so you can feel confident on exam day.
 
 ## Schedule and pass the exam
 
-After completing your pre-licensing education, it’s time to schedule your licensing exam. North Carolina contracts with a testing vendor, and you can often choose a date, time, and test center that fit your schedule. Once you arrive, you’ll follow a computer-based testing format that covers insurance regulations, ethics, and product-specific questions.
+Whether or not you complete pre-licensing education, once you feel prepared it’s time to schedule your licensing exam. North Carolina contracts with a testing vendor, and you can often choose a date, time, and test center that fit your schedule. Once you arrive, you’ll follow a computer-based testing format that covers insurance regulations, ethics, and product-specific questions.
 
 To maximize your odds of success, try quizzing yourself daily and reviewing any areas where you feel unsure. Focus on the major topics you covered in your coursework: policy types, state laws, and industry terminology. Most exam vendors provide immediate pass/fail results, so you’ll know right away whether you can move forward with your application. If you don’t pass on your first try, don’t get discouraged. You can reschedule and retake the exam once you’re fully comfortable with the material again.
 
@@ -71,7 +71,7 @@ If you’re looking for extra guidance, consider signing up for a reputable trai
 
 ## Helpful reminders and final thoughts
 
-It’s normal to feel overwhelmed when you first research how to become a licensed insurance producer in North Carolina, but keep in mind that thousands of people successfully navigate the process every year. By breaking down each step—meeting eligibility, finishing your pre-licensing education, passing the state exam, and submitting your application—you can systematically check each box until you’re ready to start selling.
+It’s normal to feel overwhelmed when you first research how to become a licensed insurance producer in North Carolina, but keep in mind that thousands of people successfully navigate the process every year. By breaking down each step—meeting eligibility, deciding on pre-licensing education, passing the state exam, and submitting your application—you can systematically check each box until you’re ready to start selling.
 
 If you ever get stuck, remember to reach out to the North Carolina Department of Insurance, or consult your pre-licensing course provider. Their goal is to support you, and they often have clear guidance on exam content, application details, and [continuing education](/north-carolina/continuing-education). Lean on them for clarification, and don’t be afraid to ask questions.
 

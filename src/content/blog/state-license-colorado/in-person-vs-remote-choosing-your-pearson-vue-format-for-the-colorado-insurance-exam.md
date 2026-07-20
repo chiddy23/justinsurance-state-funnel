@@ -43,7 +43,7 @@ Receive scratch paper or an erasable board for notes — you may not bring your 
 
 Prohibited in the testing room: Cell phones, smart watches, electronic devices of any kind, wallets, purses, food, gum, tobacco products, and any study materials. Beverages are permitted.
 
-The combined session advantage: This is the most significant reason to choose in-person over OnVUE for candidates pursuing both Property and Casualty. At a physical test center, you can take both the Property exam and the Casualty exam in a single session for a single $41 fee — 240 total minutes (120 per exam). OnVUE does not offer combined sessions. Two separate OnVUE bookings at $31 each cost $62 for the same two exams that cost $41 in-person. For candidates pursuing both lines simultaneously, in-person is the financially and logistically superior choice.
+The combined session advantage: This is the most significant reason to choose in-person over OnVUE for candidates pursuing both Property and Casualty. At a physical test center, you can take both the Property exam and the Casualty exam in a single session for one combined fee (confirm the current amount with Pearson VUE) — 240 total minutes (120 per exam). OnVUE does not offer combined sessions, so two separate OnVUE bookings ($48 each, $96 total) are required for the same two exams that cost less as a single in-person combined session. For candidates pursuing both lines simultaneously, in-person is the financially and logistically superior choice.
 
 No-breaks rule: There are no scheduled breaks during the exam. You remain in the testing room for the full duration. The 120-minute Life, A&H, Property, or Casualty exams and the 135-minute Personal Lines exam are continuous. Plan accordingly before your appointment.
 
@@ -157,13 +157,13 @@ If your computer freezes or disconnects, close and relaunch the OnVUE applicatio
 
 Work through these questions before scheduling:
 
-Question 1: Am I taking Property and Casualty together? If yes → In-person. The combined session saves $21 and consolidates logistics. OnVUE cannot offer combined sessions.
+Question 1: Am I taking Property and Casualty together? If yes → In-person. The combined session costs less than two separate OnVUE bookings and consolidates logistics — confirm the current combined-session fee with Pearson VUE. OnVUE cannot offer combined sessions.
 
 Question 2: Is my home or work environment reliably private and quiet? If no, or uncertain → In-person. A testing environment you cannot control introduces risk that the test center eliminates. A household with children, pets, other people present, or unpredictable noise creates real OnVUE compliance risk — if someone enters your room, your exam is terminated.
 
 Question 3: Is my internet connection stable and fast enough? If uncertain → In-person. Run the OnVUE system test before deciding. If the test flags any issue with your connection speed, equipment, or configuration, choose in-person. Internet variability is the most common cause of OnVUE technical failures.
 
-Question 4: Am I confident in my exam readiness? If not fully confident → In-person. The one-attempt OnVUE rule means a failed remote attempt removes OnVUE as an option for your retakes. Preserving flexibility is worth the $10 price difference. If you are well-prepared and the remote format fits your situation, OnVUE is a perfectly reliable option.
+Question 4: Am I confident in my exam readiness? If not fully confident → In-person. The one-attempt OnVUE rule means a failed remote attempt removes OnVUE as an option for your retakes. Preserving that flexibility is worth more than any small price difference between formats. If you are well-prepared and the remote format fits your situation, OnVUE is a perfectly reliable option.
 
 Question 5: Is travel to a test center a significant burden? If yes, and questions 1–4 are all favorable → OnVUE makes sense. Candidates in rural Colorado, candidates with demanding work schedules, or candidates for whom the Aurora test center is a multi-hour round trip have a genuine logistical reason to use OnVUE. The format works well when the home environment is controlled and the technical setup is verified in advance.
 

@@ -77,13 +77,19 @@ Licensing exam registration
 
 $40-$60 per attempt
 
-3 hours on test day
+2-3 hours on test day
 
-License application & background
+License application fee
 
-$30-$50 application
+Around $10
 
 5-14 days after passing
+
+Background check & fingerprinting
+
+Around $72
+
+Under 30 minutes to complete
 
 These figures can change based on demand and the provider you use. Always double-check current fees and timeframes so that you can budget accordingly.
 

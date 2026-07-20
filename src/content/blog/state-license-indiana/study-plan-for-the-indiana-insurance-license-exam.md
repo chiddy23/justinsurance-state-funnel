@@ -48,7 +48,7 @@ PLE: 20 hours; 6-month validity; bring Certificate to exam; 70% PLE exam; $4 ros
 
 Pearson VUE: $69; 70%; 48-hr retake; 1 OnVUE; Ivy Tech/PVue/military; bring Certificate + ID
 
-Gemalto fingerprinting: ~$47.35
+Fingerprinting: Not required — self-disclosure on the NIPR application only
 
 Application: $40 + $5.60 NIPR; 5-7 days; 6-month apply window
 
@@ -138,6 +138,6 @@ Spanish not available via OnVUE
 
 ## Build Your Indiana Study Plan Right
 
-Indiana's state section has genuinely distinctive content — HIP 2.0, ICRB, Annuity Best Interest — that rewards specific Indiana preparation. JustInsurance's IDOI-approved Indiana courses cover the full Pearson VUE content outline with Indiana state law depth.
+Indiana's state section has genuinely distinctive content — HIP 2.0, ICRB, Annuity Best Interest — that rewards specific Indiana preparation. JustInsurance's IDOI-approved Indiana Life, Health, and Life & Health courses cover the full Pearson VUE content outline for those lines with Indiana state law depth.
 
 Enroll today and prepare for the Indiana exam efficiently.

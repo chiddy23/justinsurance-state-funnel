@@ -44,7 +44,7 @@ TDCI contact information:
 
 Address: 500 James Robertson Parkway, Nashville, TN 37243-1134
 
-Phone: (615) 741-2693 / (888) 416-0868
+Phone: (615) 741-2241
 
 Email: ce.agent.licensing@tn.gov
 
@@ -180,7 +180,7 @@ Each line requires a separate exam and a separate fee. There are no combination 
 
 ### Retakes
 
-Tennessee allows unlimited exam retakes. There is no mandatory waiting period between attempts. Each retake requires paying the full exam fee for that line. The unlimited retake policy with no waiting period creates maximum flexibility for candidates — but the financial cost of repeated failures makes thorough preparation the economically rational approach.
+Tennessee allows unlimited exam retakes — there is no cap on the number of attempts. However, a mandatory waiting period applies between attempts: 10 days after your first failure and 30 days after each subsequent failure. Each retake requires paying the full exam fee for that line. The unlimited-attempt policy gives candidates flexibility over the long run — but the financial cost of repeated failures, combined with the mandatory wait between attempts, makes thorough preparation the economically rational approach.
 
 ### Score Reports
 
@@ -226,7 +226,7 @@ Read the Fingerprint-Based Criminal History Record Check Policy (available on th
 
 Sign the one-page Fingerprint Policy and Acknowledgement Form
 
-Submit the signed form to the TDCI by email at ce.agent.licensing@tn.gov or by fax at (615) 532-2862
+Submit the signed form to the TDCI by email at ce.agent.licensing@tn.gov (confirm the current submission method on the TDCI's agent-producer resources page)
 
 This form can be submitted while or after submitting your NIPR application. The names on the Fingerprint Policy and Acknowledgement Form and on your NIPR application must match exactly. A name mismatch will delay processing.
 
@@ -234,7 +234,7 @@ This form can be submitted while or after submitting your NIPR application. The 
 
 The background check covers both Tennessee Bureau of Investigation (TBI) records and FBI federal records. The check reviews criminal history for convictions, pending charges, and other matters that may affect fitness for licensure under TCA §56-6-112.
 
-Criminal history and licensing: Any misdemeanors, felonies, or current criminal proceedings in your background require direct application to the TDCI rather than through the standard NIPR electronic process. The TDCI evaluates criminal history on a case-by-case basis — certain convictions do not automatically disqualify an applicant, but the evaluation requires individual TDCI review. Contact the TDCI Agent Licensing Section at (615) 741-2693 before proceeding if you have any criminal history to disclose.
+Criminal history and licensing: Any misdemeanors, felonies, or current criminal proceedings in your background require direct application to the TDCI rather than through the standard NIPR electronic process. The TDCI evaluates criminal history on a case-by-case basis — certain convictions do not automatically disqualify an applicant, but the evaluation requires individual TDCI review. Contact the TDCI Agent Licensing Section at (615) 741-2241 before proceeding if you have any criminal history to disclose.
 
 ## The License Application
 
@@ -286,11 +286,11 @@ Tennessee has no mandatory classroom hour minimum — all 24 hours can be comple
 
 ### Renewal Fee
 
-The TDCI renewal fee is $60 per renewal. Renewal is submitted through NIPR.
+The TDCI renewal fee is not publicly posted — check your NIPR renewal screen or contact the TDCI for the current amount. Renewal is submitted through NIPR.
 
 ### Grace Period and Late Renewal
 
-Tennessee provides a 30-day grace period after the license expiration date during which the license can be renewed with no additional fee. After the 30-day grace period, late renewal is possible for up to one year after expiration — but a $120 late fee applies. After one year of expiration, the license cannot be renewed and the producer must apply for a new license, including passing the exam again.
+Tennessee provides a 60-day grace period after the license expiration date during which the license can be renewed with no additional fee. After the 60-day grace period, late renewal is possible for up to one year after expiration — but a late fee applies (the TDCI does not publicly post the exact amount — contact the TDCI directly). After one year of expiration, the license cannot be renewed and the producer must apply for a new license, including passing the exam again.
 
 ### Specialty Training Requirements
 
@@ -322,11 +322,11 @@ Yes. Tennessee issues licenses by individual line of authority. If you passed Pr
 
 I have a misdemeanor conviction from several years ago. Will this prevent me from getting a Tennessee insurance license?
 
-Not necessarily — Tennessee evaluates criminal history on a case-by-case basis rather than applying an automatic disqualification for all misdemeanors. The nature of the offense, how long ago it occurred, and evidence of rehabilitation are all relevant factors in the TDCI's evaluation. However, you must apply directly through the TDCI rather than through the standard NIPR electronic process, which means your application will take longer to process as the TDCI conducts its individual review. Contact the TDCI Agent Licensing Section at (615) 741-2693 before proceeding — they can provide guidance on your specific situation and the documentation you should include with your application to support a favorable determination. Attempting to proceed through NIPR without disclosing criminal history is a separate and more serious violation than the underlying conviction itself.
+Not necessarily — Tennessee evaluates criminal history on a case-by-case basis rather than applying an automatic disqualification for all misdemeanors. The nature of the offense, how long ago it occurred, and evidence of rehabilitation are all relevant factors in the TDCI's evaluation. However, you must apply directly through the TDCI rather than through the standard NIPR electronic process, which means your application will take longer to process as the TDCI conducts its individual review. Contact the TDCI Agent Licensing Section at (615) 741-2241 before proceeding — they can provide guidance on your specific situation and the documentation you should include with your application to support a favorable determination. Attempting to proceed through NIPR without disclosing criminal history is a separate and more serious violation than the underlying conviction itself.
 
 How long does my Tennessee license remain valid if I never renew it?
 
-Your Tennessee license expires on the last day of your birth month in the biennial renewal year. After expiration, you have a 30-day grace period to renew with no late fee. After the grace period, you can renew for up to one year past expiration by paying a $120 late fee. After one full year past expiration, the license is permanently lapsed and you must apply for a new license — including passing the Pearson VUE exam again for each line you want to hold. The practical message is that renewal is far less costly in time, money, and disruption than letting a license lapse beyond the one-year late renewal window. Set calendar reminders well before your birth month renewal deadline, complete your 24 CE hours at least 30 days before expiration, and renew through NIPR before the deadline.
+Your Tennessee license expires on the last day of your birth month in the biennial renewal year. After expiration, you have a 60-day grace period to renew with no late fee. After the grace period, you can renew for up to one year past expiration by paying a late fee (contact the TDCI for the current amount, since it is not publicly posted). After one full year past expiration, the license is permanently lapsed and you must apply for a new license — including passing the Pearson VUE exam again for each line you want to hold. The practical message is that renewal is far less costly in time, money, and disruption than letting a license lapse beyond the one-year late renewal window. Set calendar reminders well before your birth month renewal deadline, complete your 24 CE hours at least 30 days before expiration, and renew through NIPR before the deadline.
 
 Tennessee's insurance licensing requirements are structured to be accessible — no mandatory prelicensing, a clear four-step process, immediate exam results, and a reasonable fee structure — while maintaining the professional standards that protect Tennessee policyholders. Every requirement in the process serves a specific purpose: the exam verifies minimum knowledge of insurance products and Tennessee law, the background check protects consumers from producers with disqualifying histories, the appointment requirement ensures that producers represent only carriers who have authorized their activities, and the CE requirement ensures that licensed producers maintain current knowledge throughout their careers. Applicants who understand every requirement before they begin move through the process efficiently, without the delays and additional costs that avoidable errors produce.
 

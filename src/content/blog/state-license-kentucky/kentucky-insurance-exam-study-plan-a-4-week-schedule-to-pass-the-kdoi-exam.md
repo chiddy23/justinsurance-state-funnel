@@ -42,8 +42,6 @@ Dedicate at least two study sessions specifically to Kentucky statutory content:
 
 Take at least two more full-length practice exams. Review incorrect answers carefully — understand why the right answer is right, not just that it is right. On the last day before your exam, do a light review of your weakest areas only. Avoid the temptation to cram new material the night before. On exam day, arrive 10 minutes early, bring your government-issued photo ID, and answer every question — there is no penalty for guessing.
 
-## Study Schedule at a Glance
-
 ## Adjusting the Plan for Different Schedules
 
 If you are studying while working full-time, extend the plan to six weeks by spreading the PLE coursework across three weeks instead of two. If you are studying full-time, you may be able to compress the plan into two to three weeks. Kentucky's forced-progression requirement means you cannot skip content regardless of how fast you want to move — but within each lesson, you set your own pace.
@@ -54,5 +52,5 @@ If you are studying while working full-time, extend the plan to six weeks by spr
 - What should I do if I finish the prelicensing course but my application is still processing? Use the three-to-five business day processing window for additional exam review. Take practice exams, review state law content, and confirm that all your supporting documents are on file with the KDOI.
 - Can I take the Kentucky exam without completing the full 20-hour PLE course? No. Completion of the 20-hour KDOI-approved prelicensing course is a mandatory prerequisite. Exam scheduling cannot be authorized without a valid PLE completion certificate on file.
 - Are JustInsurance [practice questions](/kentucky/practice-exam) similar to what appears on the KDOI exam? JustInsurance practice questions are designed to cover the same content areas and knowledge requirements tested on the KDOI exam. Regular practice with these questions builds the pattern recognition that makes exam content easier to navigate under test conditions.
-- What if I don't pass the exam after four weeks? File the Exam Retake Form with the KDOI, pay the $50 retake fee, and reschedule beginning the next business day. Review your incorrect areas using the score breakdown, then schedule your retake within the 120-day window. You have up to three attempts within that period.
+- What if I don't pass the exam after four weeks? File the Exam Retake Form with the KDOI, pay the $50 retake fee, and reschedule beginning the next business day. Review your incorrect areas using the score breakdown, then schedule your retake within the 120-day window. There is no limit on the number of retakes within that window; if it expires before you pass, you must submit a new application.
 Start your four-week Kentucky exam journey today. JustInsurance's KDOI-approved prelicensing courses give you every content area you need to pass on the first attempt. Enroll at justinsuranceco.com.

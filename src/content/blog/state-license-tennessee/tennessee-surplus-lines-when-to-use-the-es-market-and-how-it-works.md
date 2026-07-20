@@ -28,7 +28,7 @@ The home state rule: Tennessee's surplus lines framework applies to surplus line
 
 In Tennessee, surplus lines coverage may only be placed by a producer who holds a specific surplus lines agent license — in addition to their standard producer license. A standard Tennessee Property and Casualty producer license does not authorize surplus lines placements. The surplus lines agent license is a distinct credential that must be separately obtained.
 
-Surplus lines agent license: The surplus lines agent license authorizes the holder to place coverage with non-admitted insurers for risks that cannot be placed in the admitted market. The biennial renewal fee for the surplus lines agent license is $120 — double the standard major lines producer renewal fee of $60.
+Surplus lines agent license: The surplus lines agent license authorizes the holder to place coverage with non-admitted insurers for risks that cannot be placed in the admitted market. The biennial renewal fee for the surplus lines agent license is not covered here — contact the TDCI for the current amount, which is separate from the standard major-lines producer renewal fee.
 
 The producing broker's role: In many Tennessee surplus lines transactions, the placing structure involves two licensed professionals:
 

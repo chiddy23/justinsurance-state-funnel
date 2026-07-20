@@ -18,11 +18,11 @@ imageCredit: Photo by Olasupo John on Pexels
 
 If you’re ready to broaden your expertise and keep your license in good standing, completing your New York health insurance CE credits is an essential step. The process can seem daunting at first, but it’s really about planning, preparation, and a confident approach to your studies. As you progress, you’ll gain valuable insights that ultimately help you serve your clients better and stay up to date on industry developments.
 
-In this guide, you’ll find practical tips that walk you through key aspects of [New York continuing education](/new-york/continuing-education) requirements. From clarifying your obligations to scheduling regular study time, these pointers give you a clear strategy to fulfill your CE credits without stress. Let’s dive in and get you on track to success.
+In this guide, you’ll find practical tips that walk you through key aspects of New York continuing education requirements. From clarifying your obligations to scheduling regular study time, these pointers give you a clear strategy to fulfill your CE credits without stress. Let’s dive in and get you on track to success.
 
 ## Understand your CE basics
 
-In New York, the Department of Financial Services oversees [continuing education](/new-york/continuing-education) requirements for insurance professionals. While details may vary depending on your license type, health insurance licensees must typically complete a specified amount of CE credits within each renewal cycle.
+In New York, the Department of Financial Services oversees continuing education requirements for insurance professionals. While details may vary depending on your license type, health insurance licensees must typically complete a specified amount of CE credits within each renewal cycle.
 
 It’s wise to confirm exactly how many credits you need for “New York health insurance CE,” because sometimes new rules or recent changes can impact the total. Typically, you’ll be asked to include credits from both core topics and elective options, giving you a chance to refresh foundational knowledge while exploring specialized areas. By reviewing these requirements when you renew, you’ll avoid last-minute surprises and secure enough time to complete every credit comfortably.
 

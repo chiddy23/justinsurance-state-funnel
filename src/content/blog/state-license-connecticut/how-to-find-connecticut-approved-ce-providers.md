@@ -50,7 +50,7 @@ This is more restrictive than many states, which accept reciprocal CE more readi
 
 ## Where to Find the Official Provider List
 
-You can find Connecticut-approved CE providers through two official sources:
+You can find Connecticut-approved CE providers through the official source below:
 
 State Based Systems (SBS) Course Lookup
 
@@ -64,19 +64,7 @@ Check provider approval status
 
 Confirm course meets your CE requirement type (Laws/Regs/Ethics, line of authority, etc.)
 
-Pearson VUE Provider and Course Lookup
-
-Pearson VUE manages CE administration for Connecticut. Their provider and course lookup offers:
-
-Comprehensive list of approved providers
-
-Detailed course information
-
-Course approval numbers
-
-Type designations (Laws/Regs/Ethics, specialty training, etc.)
-
-Both sources are authoritative — verify before enrolling in any Connecticut CE course.
+This source is authoritative — verify before enrolling in any Connecticut CE course. (Note: Pearson VUE administers Connecticut's licensing exam only — it does not manage CE provider or course approvals.)
 
 ## Key Information to Verify Before Enrolling
 
@@ -290,7 +278,7 @@ Or specifically: cid.licensing@ct.gov for licensing matters
 
 ## 5 Frequently Asked Questions
 
-- Where can I find a list of Connecticut-approved CE providers? Through the State Based Systems (SBS) Course Lookup at sbs.naic.org or the Pearson VUE Provider and Course Lookup. Both are authoritative sources.
+- Where can I find a list of Connecticut-approved CE providers? Through the State Based Systems (SBS) Course Lookup at sbs.naic.org, the authoritative source. (Pearson VUE administers Connecticut's licensing exam only, not CE provider approvals.)
 - Can I use CE I completed for another state in Connecticut? Generally no. Connecticut requires courses specifically approved in Connecticut. Coursework approved only in another state cannot be applied to Connecticut CE except in specific exemption cases.
 - What's the roster fee for Connecticut CE? $3.75 per course processed. This fee covers the cost of reporting your completion to the CID.
 - Do all Connecticut CE courses require proctoring? Self-study courses require proctored final exams by disinterested third parties. Live classroom and webinar formats typically don't require separate proctoring (attendance verification serves a similar purpose).

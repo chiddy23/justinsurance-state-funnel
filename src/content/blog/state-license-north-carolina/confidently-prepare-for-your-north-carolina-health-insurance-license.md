@@ -29,9 +29,9 @@ Before diving into the application process, make sure you meet North Carolina’
 
 If these criteria are true for you, you’re already on track. However, if you have any concerns about your background or documentation, consider reaching out to the North Carolina Department of Insurance (NCDOI) for clarity. They can provide official guidance to help you move forward without confusion.
 
-## Choose a pre-licensing course
+## Consider a pre-licensing course (optional)
 
-A state-approved [North Carolina prelicensing](/north-carolina/prelicensing) course is required for most individuals hoping to earn a North Carolina health insurance license. You’ll cover key topics like policy types, state regulations, and ethical sales practices, helping you build a solid foundation of expertise.
+As of October 1, 2025, North Carolina House Bill 737 eliminated the mandatory prelicensing requirement, so a [North Carolina prelicensing](/north-carolina/prelicensing) course is now optional rather than required — but many candidates still choose one when earning a North Carolina health insurance license. You’ll cover key topics like policy types, state regulations, and ethical sales practices, helping you build a solid foundation of expertise.
 
 Look for courses geared specifically toward health insurance or life and health combined, since you often need separate certifications to sell each type of coverage. You can find both classroom-based sessions and online offerings. If your schedule is tight, an online course might let you learn at your own pace without sacrificing quality.
 
@@ -42,11 +42,11 @@ Look for courses geared specifically toward health insurance or life and health 
 -   Flexible learning formats (online or in-person) to match your lifestyle
 -   Strong reviews or recommendations from other students
 
-Completing your [pre-licensing](/north-carolina/prelicensing) coursework successfully is a big milestone, showing you have the foundational knowledge to discuss insurance plans with future clients.
+Completing [pre-licensing](/north-carolina/prelicensing) coursework, if you choose to enroll, is a great milestone, showing you have the foundational knowledge to discuss insurance plans with future clients.
 
 ## Schedule your licensing exam
 
-Once you finish the required pre-licensing hours, you’re ready to take the [North Carolina licensing exam](/north-carolina/requirements). There is usually a separate exam for each type of license, such as health, or life and health combined.
+Once you feel prepared — whether through a pre-licensing course or self-study — you’re ready to take the [North Carolina licensing exam](/north-carolina/requirements). There is usually a separate exam for each type of license, such as health, or life and health combined.
 
 To get started, locate a test provider authorized by the NCDOI and set up an exam appointment that suits your schedule. Be prepared to pay an examination fee when you book the date. While the amount can change over time, most fees fall within a moderate range and can be paid by credit or debit card.
 
@@ -67,7 +67,7 @@ During the exam, carefully read each question, and watch out for subtle differen
 Test anxiety is natural. If you feel overwhelmed:
 
 1.  Pause, take a full breath, and refocus on the exam.
-2.  Remind yourself you have prepared thoroughly via your pre-licensing course.
+2.  Remind yourself you have prepared thoroughly, whether through a pre-licensing course or self-study.
 3.  Tackle each question methodically, one at a time.
 
 It also helps to remember that you can usually retake the exam if you don’t pass on your first try. However, proper preparation is key to boosting your confidence and increasing your likelihood of success.

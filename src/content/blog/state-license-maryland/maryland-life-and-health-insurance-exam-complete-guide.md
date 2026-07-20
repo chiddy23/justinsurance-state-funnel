@@ -72,15 +72,15 @@ State Regulatory Jurisdiction (4 items):
 
 MIA — dedicated insurance regulator (not a multi-sector agency like VA's SCC, NJ's DOBI, or MN's DOC)
 
-Commissioner Marie L. Grant; authority under Maryland Insurance Article
+MIA Commissioner authority under Maryland Insurance Article (verify current appointee at insurance.maryland.gov)
 
-200 St. Paul Place, Suite 2700, Baltimore, MD 21202; (410) 468-2411
+200 St. Paul Place, Suite 2700, Baltimore, MD 21202; (410) 468-2000
 
 State Regulation (6 items):
 
 Maryland Insurance Article provisions
 
-Producer licensing: no PLE (eliminated Oct 1, 2024); Prometric exam; $60; 70%; 6-month validity; 4-day retake wait; $54 NIPR application; no fingerprinting; 7-10 business day processing; renewal 2 years/last day birth month/$69; CE 24 hrs/3 Ethics/no carryover
+Producer licensing: no PLE (eliminated Oct 1, 2024); Prometric exam; $60; 70%; 6-month validity; 4-day retake wait; $54 NIPR application; no fingerprinting; 7-10 business day processing; renewal 2 years/last day birth month/$69 ($54 + $15 fraud prevention); CE 24 hrs/3 Ethics/no carryover
 
 Appointment requirements: Maryland does NOT require insurer appointment reporting to MIA (except terminations for cause); insurers maintain Producer Register
 

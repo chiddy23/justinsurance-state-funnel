@@ -40,7 +40,7 @@ Confirm the course is categorized as Ethics or Laws and Regulations (not OGI)
 
 Confirm the course is appropriate for your license type (L/A/H or P&C)
 
-If you are unsure whether a specific course satisfies the ethics requirement, contact Pearson VUE at 877-234-6093 or VirginiaInsuranceCE@pearson.com before completing the course.
+If you are unsure whether a specific course satisfies the ethics requirement, verify its category on Sircon or check with the course provider before completing it.
 
 ## Virginia's "Laws and Regulations" Option for Ethics
 
@@ -60,7 +60,7 @@ Virginia public adjusters have a slightly different ethics CE rule. Public adjus
 
 Does Virginia require ethics CE every biennium, or only once?
 
-Virginia requires 3 ethics hours in every biennial renewal cycle — it is not a one-time requirement. Every time you renew your license, 3 of your required CE hours must be ethics-qualifying courses. There is no exemption from the ethics requirement for experienced producers or those with prior ethics course completion. A new ethics course (or Virginia laws and regulations course, for producers) must be taken in each biennium. Excess ethics credits from a prior biennium do carry forward as general CE credit, but they do not carry forward as ethics credit toward the new biennium's 3-hour minimum — you must take new ethics-qualifying courses each cycle.
+Virginia requires 3 ethics hours in every biennial renewal cycle — it is not a one-time requirement. Every time you renew your license, 3 of your required CE hours must be ethics-qualifying courses. There is no exemption from the ethics requirement for experienced producers or those with prior ethics course completion. A new ethics course (or Virginia laws and regulations course, for producers) must be taken in each biennium. Virginia does not carry forward excess credits between biennia at all — ethics or otherwise — so a prior cycle's ethics course provides no benefit toward the new biennium; you must take a new ethics-qualifying course each cycle.
 
 Can I take the same ethics course twice for credit in different biennia?
 
@@ -76,7 +76,7 @@ Yes — a 3-hour Virginia laws and regulations course approved as satisfying the
 
 What should I do if I discover at renewal time that I'm deficient in ethics hours?
 
-If you realize you are deficient in ethics hours — for example, you have completed 16 hours total but only 1 is properly categorized as ethics — you must complete additional ethics-qualifying CE before submitting your renewal. There is no CE grace period in Virginia; your renewal application will not be approved with a CE deficiency. Contact Pearson VUE (877-234-6093) to confirm your transcript status and identify which of your completed courses are categorized as ethics. Enroll in and complete a Virginia-approved ethics or laws and regulations course before the renewal deadline, confirm completion is reported to the system, then submit your renewal application. Do not allow less than 30 days before your expiration date — reporting delays can create problems at this stage.
+If you realize you are deficient in ethics hours — for example, you have completed 16 hours total but only 1 is properly categorized as ethics — you must complete additional ethics-qualifying CE before submitting your renewal. There is no CE grace period in Virginia; your renewal application will not be approved with a CE deficiency. Check your Sircon transcript to confirm your status and identify which of your completed courses are categorized as ethics. Enroll in and complete a Virginia-approved ethics or laws and regulations course before the renewal deadline, confirm completion is reported to the system, then submit your renewal application. Do not allow less than 30 days before your expiration date — reporting delays can create problems at this stage.
 
 Ethics CE is a small but non-negotiable component of Virginia's licensing system. Three hours per biennium — in a qualifying course, properly categorized, reported before your renewal — is all that is required. The most common mistake is assuming an OGI course satisfies the requirement when it does not. Verify the course category before completing it.
 

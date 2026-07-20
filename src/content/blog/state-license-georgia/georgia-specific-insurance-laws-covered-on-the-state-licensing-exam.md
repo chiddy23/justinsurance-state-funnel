@@ -98,7 +98,7 @@ The exam tests understanding of Georgia's own licensing rules:
 
 - Residency requirements
 
-- [Prelicense](/georgia/prelicensing) education (40 hours for Life, Accident, and Sickness)
+- [Prelicense](/georgia/prelicensing) education (16 hours for combined Life, Accident, and Sickness — 8 hours per line)
 
 - Exam requirements
 

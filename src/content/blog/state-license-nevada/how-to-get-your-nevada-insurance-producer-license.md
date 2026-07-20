@@ -64,11 +64,7 @@ Schedule at a Nevada Pearson VUE test center (most candidates) or use online pro
 
 Bring two valid forms of identification on test day, one government-issued with photo
 
-Exam fees:
-
-$55 for single-line exams
-
-$65 for combo exams (e.g., Life and Health combined)
+Exam fee: $37, paid to Pearson VUE at registration. Confirm the current fee on the Pearson VUE Nevada candidate handbook before scheduling, as fees can change.
 
 You can also opt for online proctored testing if you prefer testing from home.
 
@@ -248,8 +244,8 @@ Securities credentials (typically Series 6 or 7 plus Series 63 or 66) required
 
 - Do I need a college degree to get a Nevada insurance license? No. Nevada doesn't require a degree. You need to pass the state exam, complete fingerprinting, and submit a clean application.
 - Is prelicense education required in Nevada? No. Nevada doesn't require prelicense education for insurance producer licenses (except bail agents). However, prelicense courses are highly recommended for exam preparation.
-- How much does the Nevada exam cost? $55 for single-line exams and $65 for combo exams. Fees are paid to Pearson VUE at registration.
-- How long is my Nevada insurance license valid? After your initial cycle (which is shorter), Nevada producer licenses renew every 3 years on a triennial cycle.
+- How much does the Nevada exam cost? $37, paid to Pearson VUE at registration. Confirm the current fee before scheduling, as fees can change.
+- How long is my Nevada insurance license valid? Nevada producer licenses renew every 3 years on a triennial cycle, by the last day of your birth month.
 - What happens if I move to Nevada with an existing insurance license from another state? Apply for a Nevada Resident Producer license within 90 days of establishing residency. You won't need to take the exam if you held the same lines in your previous state.
 
 ## Start Your Nevada Insurance Career Right

@@ -108,7 +108,7 @@ Estimated retake preparation time: 10–15 hours of practice exam conditioning w
 
 Regardless of failure category, every retake candidate should verify state law recall before scheduling the next attempt. The state law section generates consistent failures in retake candidates who address general content gaps but return to the exam with the same inadequate state law preparation that contributed to their original failure.
 
-The verification method: Without any reference materials, write down every specific number and timeline from the Tennessee state law master list — the TDCI civil penalty maximum, the bad faith penalty percentage, the auto insurance minimum limits, the workers' compensation thresholds, the fingerprinting fee, the 48-hour NIPR wait, the appointment filing and termination deadlines, the CE hours and ethics requirement, the LTC training hours, the renewal fee, the grace period, the late renewal fee, the late renewal window, and the five full-reciprocity states. Give yourself 10 minutes. Score against the master list from the state law high-priority topics guide.
+The verification method: Without any reference materials, write down every specific number and timeline from the Tennessee state law master list — the TDCI civil penalty maximum, the bad faith penalty percentage, the auto insurance minimum limits, the workers' compensation thresholds, the fingerprinting fee, the 48-hour NIPR wait, the appointment filing and termination deadlines, the CE hours and ethics requirement, the LTC training hours, the renewal fee, the grace period, the late renewal fee, the late renewal window, and the non-resident reciprocity framework. Give yourself 10 minutes. Score against the master list from the state law high-priority topics guide.
 
 Scoring interpretation:
 
@@ -170,7 +170,7 @@ No new IdentoGO fingerprinting is required for a retake. Fingerprinting is compl
 
 ### Timing the Retake
 
-Tennessee allows unlimited retakes with no mandatory waiting period. You can schedule for the next available appointment immediately after a failure.
+Tennessee allows unlimited retakes with no cap on the total number of attempts, but there is a mandatory waiting period: 10 days after your first failure, and 30 days after each subsequent failure. You cannot schedule the next available appointment immediately after a failure — you must wait out the applicable period first.
 
 The practical recommendation: Do not retake immediately after a knowledge-gap failure (Categories 1, 2, or 3). The gaps that caused your failure require time to address — scheduling a retake within 24 hours of a knowledge-gap failure produces the same result. Return when practice performance justifies it — three consecutive practice exams at 80%+, not when urgency or frustration says to go back in.
 

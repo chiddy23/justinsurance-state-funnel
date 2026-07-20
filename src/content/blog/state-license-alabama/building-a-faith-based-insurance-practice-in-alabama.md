@@ -189,6 +189,8 @@ Market location. Birmingham, Huntsville, Mobile metro communities support higher
 
 Established Alabama faith-based practices commonly produce $90,000-$200,000+ in annual income, with top practices earning substantially more.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## 5 Frequently Asked Questions
 
 - Do I need to be deeply religious to build a faith-based practice in Alabama? You need authentic faith connection to your community. Inauthentic religious identification is recognized quickly and damages rather than helps your practice.

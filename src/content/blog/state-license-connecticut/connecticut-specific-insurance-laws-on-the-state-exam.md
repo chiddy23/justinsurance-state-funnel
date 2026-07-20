@@ -81,7 +81,7 @@ Prelicense education: 20 hours per individual line, 40 hours for combined L&H or
 
 Examination: Required for most license types
 
-Background check: State and federal criminal history (no fingerprinting required)
+Background check: Self-disclosure on NIPR application (no fingerprinting, no separate state or federal criminal-history check)
 
 Continuing education: 24 hours every 2 years (21 General + 3 Laws/Regs/Ethics)
 

@@ -42,8 +42,6 @@ The market conduct examination function of the KDOI scrutinizes how producers ac
 
 License revocations, civil penalties, and restitution orders resulting from ethics violations are a matter of public record in Kentucky. The patterns are consistent: misrepresentation of policy terms, failure to disclose material information, unauthorized policy replacements, and churning. These violations rarely begin with an agent who set out to do something wrong. They typically begin with an agent who got sloppy, cut a corner, or did not fully understand where the line was. Quality ethics CE closes that gap.
 
-## Ethics Requirements Compared to Other States
-
 ## How to Choose a Kentucky Ethics CE Course That Actually Helps
 
 Not all ethics courses are created equal. Here is what to look for when selecting yours. First, confirm the course is specifically approved by the KDOI for ethics CE credit — not just approved for general CE with some ethics content included. The 3-hour requirement must come from a course designated for ethics credit. Second, look for courses that have been updated recently to reflect current Kentucky regulatory developments, including the Annuity Best Interest standard and any KDOI bulletins issued since the course was last revised. Third, choose a course that uses case studies and real-world scenarios rather than a straight recitation of statutes. Pattern recognition built through case studies is what actually protects your license in the field.

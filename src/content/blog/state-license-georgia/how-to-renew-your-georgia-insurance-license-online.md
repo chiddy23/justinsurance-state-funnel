@@ -150,7 +150,7 @@ Missed ethics requirement. You completed 24 hours but didn't complete the requir
 
 Incomplete specialty training. LTC or annuity training wasn't completed or reported. Complete required training and have it reported before renewing.
 
-Disclosure disclosure issues. New reportable events since last renewal need proper documentation. Gather supporting documents and disclose completely.
+Disclosure issues. New reportable events since last renewal need proper documentation. Gather supporting documents and disclose completely.
 
 Address or contact mismatches. Incorrect information in OCI's system can cause delays. Update your profile before renewing.
 

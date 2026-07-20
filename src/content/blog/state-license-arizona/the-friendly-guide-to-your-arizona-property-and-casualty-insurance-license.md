@@ -32,7 +32,7 @@ Beyond that, it’s a good idea to collect all the paperwork you might need, suc
 
 ## Completing pre-licensing education
 
-Arizona typically requires a certain number of [Arizona insurance prelicensing](/arizona/prelicensing) study hours for the property and casualty lines. While the state does not strictly mandate a classroom course, many find it beneficial to enroll in a prep program or choose an online study course. Structured classes can provide interactive lessons, quizzes, and personalized guidance, which can really boost your confidence before test day.
+Arizona does not mandate a set number of [Arizona insurance prelicensing](/arizona/prelicensing) study hours for the property and casualty lines — it's optional rather than state-required. Even so, many find it beneficial to enroll in a prep program or choose an online study course. Structured classes can provide interactive lessons, quizzes, and personalized guidance, which can really boost your confidence before test day.
 
 During this stage, try to focus on real-world examples. Property and casualty insurance covers everything from a minor fender bender in a supermarket parking lot to significant losses from natural disasters. Imagining how these policies apply in everyday life makes the material stick, especially if you prefer learning by doing rather than just memorizing facts.
 

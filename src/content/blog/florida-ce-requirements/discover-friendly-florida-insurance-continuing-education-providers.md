@@ -29,7 +29,7 @@ Every insurance state license has distinct renewal rules, but Florida's are stra
 
 Because Florida's rules differ from other states, it is important to understand exactly what your license mandates. Requirements vary depending on how long you have held your license and the type of coverage you sell. If you are a new licensee, you can expect to complete a set of core topics, including ethics and state-specific regulations.
 
-Most license types will need anywhere from 20 to 24 hours of CE every two years, although you should verify the exact figures for your license class. Some specialized licenses, such as life and variable annuities, may have additional stipulations. Keep in mind that the state also updates its rules periodically, so even seasoned agents need to stay alert.
+Florida license holders generally need to complete 24 hours of CE every two years, including 4 hours of law and ethics, although you should verify any line-of-authority specifics for your license class. Keep in mind that the state also updates its rules periodically, so even seasoned agents need to stay alert.
 
 Working with a Florida insurance continuing education provider that delivers the most up-to-date coursework makes a huge difference. Providers like JustInsurance focus on the latest regulatory changes, which saves you from scrambling if Florida introduces a new mandate. You can also look for a study plan or course bundle that matches your license type, so you are not left trying to guess which classes to pick.
 
@@ -73,9 +73,9 @@ On top of that, feel free to explore specialized electives once you have met the
 1.  How often do I need to renew my [Florida insurance license](/florida)?  
     You will typically renew your license every two years. You must complete your required continuing education hours before your specific renewal deadline to remain active.
 2.  How many CE hours am I required to complete?  
-    The number of hours varies based on your license type and how long you have held it. Newer licensees often need to complete more hours than those licensed for many years. Always verify the latest requirements on the Florida Department of Financial Services website.
+    Most Florida license holders need 24 hours of CE every two-year cycle, including 4 hours of law and ethics. Always verify any line-of-authority specifics on the Florida Department of Financial Services website.
 3.  Can I earn extra hours and roll them over to the next renewal cycle?  
-    Florida does not generally allow carryover credits. Each two-year cycle has its own CE requirements, so any additional hours you complete in one cycle usually will not count toward the next.
+    Yes. Florida allows you to carry forward up to 24 excess CE hours into your next two-year cycle. Carried-over ethics hours only count as general credit, so you still need to complete 4 new Florida law and ethics hours each cycle.
 4.  What if I have multiple lines of insurance, like life and health?  
     If you hold multiple Florida licenses, check your exact credit requirements for each license type. Many times, core topics overlap, but you will need to ensure you meet the total credit hours for all lines rather than assuming one set covers everything.
 5.  How do I confirm that my credits have been reported?  

@@ -20,13 +20,13 @@ If you're considering a career as a licensed insurance agent in Louisiana — or
 
 ## The Honest Income Picture
 
-The median household income in Louisiana is approximately $48,800, modestly below the national average. Licensed insurance agents in the state fall across a wide compensation range depending on line of authority, employment model, market segment, and geography. Entry-level captive agents typically earn a base salary in the $33,000 to $48,000 range during their first one to two years, supplemented by performance bonuses. That number climbs significantly with a developed book of business.
+The median household income in Louisiana is approximately $48,800, modestly below the national average. Licensed insurance agents in the state fall across a wide compensation range depending on line of authority, employment model, market segment, and geography. Entry-level captive agents typically earn a base salary in the $33,000 to $41,000 range during their first one to two years, supplemented by performance bonuses. That number climbs significantly with a developed book of business.
 
 Independent agents working on commission have no floor and no ceiling. New independent agents in their first year may earn $28,000 to $35,000 while building their client pipeline. Experienced independent agents with a developed commercial book — particularly in the energy corridor, maritime sector, or hospitality market — earn significantly more. Experienced commercial lines producers in Louisiana's petrochemical, maritime, and energy markets can reach $80,000 to $140,000 or more with a strong book of business.
 
-Health and life producers who specialize in group benefits for Louisiana's large healthcare employer population — Ochsner Health, LCMC Health, and the major hospital systems employing tens of thousands — can earn $55,000 to $90,000 or more with a mature book.
+Health and life producers who specialize in group benefits for Louisiana's large healthcare employer population — Ochsner Health, LCMC Health, and the major hospital systems employing tens of thousands — can earn $55,000 to $76,000 or more with a mature book.
 
-⚠️ Salary figures are estimates based on general market data. Verify current figures with the Bureau of Labor Statistics or Louisiana Workforce Commission.
+⚠️ Salary figures are estimates based on general market data. Verify current figures with the Bureau of Labor Statistics or Louisiana Workforce Commission. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## Line of Authority and Earning Potential
 
@@ -40,15 +40,13 @@ Accident & Health producers benefit from Louisiana's large Medicaid-adjacent pop
 
 Louisiana adopted a flat 3% individual income tax rate effective January 1, 2025, replacing a prior graduated system that topped out at 4.25%. This is among the lowest income tax rates in the nation and is particularly advantageous for commission-based producers whose income fluctuates year to year — the flat rate applies uniformly regardless of how much you earn in a given year.
 
-## Income Comparison: Louisiana vs. Neighboring States
-
 ## The Specialty Market Advantage
 
 Louisiana's most distinctive earning opportunities lie in specialty markets that require knowledge most general-market agents do not have. The offshore energy sector — governed partly by federal maritime law (Jones Act, Longshore Act) rather than state workers' comp — requires producers who understand federal maritime coverage frameworks. The petrochemical corridor requires knowledge of chemical plant property, pollution liability, and contractor programs that are not part of standard P&C training. The hospitality and entertainment industry in New Orleans requires liquor liability expertise, event coverage knowledge, and familiarity with the unique risks of a city that hosts more than 130 major events and festivals annually. Producers who develop genuine expertise in any of these areas access a client base that is high-value, relationship-driven, and not easily served by competitors who lack the specialized knowledge.
 
 ## Frequently Asked Questions
 
-- What is the average salary for a new insurance agent in Louisiana? New captive agents in Louisiana typically earn $33,000 to $48,000 in their first year depending on base salary structure, draw against commission arrangements, and line of authority. New independent agents often start lower but have higher upside. Most agents who build a stable book of business earn significantly above the median household income within three to five years.
+- What is the average salary for a new insurance agent in Louisiana? New captive agents in Louisiana typically earn $33,000 to $41,000 in their first year depending on base salary structure, draw against commission arrangements, and line of authority. New independent agents often start lower but have higher upside. Most agents who build a stable book of business earn significantly above the median household income within three to five years.
 - How does Louisiana's 3% flat income tax benefit commission-based producers? Louisiana's 3% flat individual income tax rate, effective January 1, 2025, is among the lowest in the nation. For a producer earning $100,000, the difference between Louisiana's 3% rate and Wisconsin's top marginal rate of 7.65% represents over $4,600 in additional take-home pay annually. The flat structure also makes income planning more predictable for producers whose commission income varies year to year.
 - Which insurance market segment has the highest earning potential in Louisiana? Commercial lines — particularly energy, maritime, petrochemical, and hospitality specialty markets — offers the highest earnings ceiling for Louisiana producers. The concentration of high-value commercial risks in Louisiana is exceptional, and the specialty knowledge barrier creates defensible client relationships that general-market agents cannot easily replicate.
 - How does Louisiana's high cost of living affect producer income? Louisiana's 3% flat income tax is a genuine advantage, but the state has the highest combined state and local sales tax rate in the nation at approximately 10.11%. This affects the cost of goods and services in Louisiana and partially offsets the income tax advantage, particularly in higher-cost markets like New Orleans. Overall, Louisiana's cost of living is below the national average outside of New Orleans, which helps producers in secondary markets.

@@ -137,7 +137,9 @@ Healthcare professional markets. Atrium Health's substantial Charlotte presence 
 
 Technology professional markets. Charlotte's growing tech sector and major bank tech operations create substantial professional client markets with sophisticated financial planning needs.
 
-Lake Norman HNW practice. Charlotte's Lake Norman area hosts substantial high-net-worth concentration — real estate developers, corporate executives, banking principals, entrepreneurs. Established Lake Norman agents routinely earn $180,000-$350,000+ annually.
+Lake Norman HNW practice. Charlotte's Lake Norman area hosts substantial high-net-worth concentration — real estate developers, corporate executives, banking principals, entrepreneurs. Established Lake Norman agents serving this niche routinely earn well above the state average, with top producers approaching or exceeding North Carolina's top-producer benchmark of roughly $126,970 annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 Military-adjacent. Charlotte is within reasonable proximity of Fort Liberty (Fayetteville) for producers willing to serve military families.
 
@@ -225,7 +227,7 @@ NASCAR/motorsports niche. The Lake Norman-Mooresville area is home to numerous N
 
 - Is Charlotte really the second-largest US banking center? Yes, by total bank assets. Bank of America's global headquarters, Truist Financial's headquarters, and substantial Wells Fargo operations make Charlotte one of the most concentrated banking markets in the world outside New York City.
 - Do I need to specialize in banking clients to succeed in Charlotte? No. Charlotte offers diverse market opportunities including healthcare, technology, small business, HNW, coastal-adjacent, and military-adjacent. Banking specialization offers particularly strong income potential but isn't the only path.
-- What's the Lake Norman opportunity? Lake Norman is a large reservoir north of Charlotte hosting substantial wealth concentration — banking executives, corporate leaders, NASCAR professionals. Established Lake Norman agents serving HNW markets commonly earn $180,000-$350,000+.
+- What's the Lake Norman opportunity? Lake Norman is a large reservoir north of Charlotte hosting substantial wealth concentration — banking executives, corporate leaders, NASCAR professionals. Established Lake Norman agents serving HNW markets commonly earn well above the state average, with top producers approaching or exceeding North Carolina's top-producer benchmark of roughly $126,970 (figures illustrative, not a guarantee of earnings).
 - Is Charlotte better for captive or independent agents? Both can succeed. Captive works well with major brands having strong Charlotte presence. Independent works well for agents serving specific professional niches or wanting long-term book ownership. The banking professional specialty particularly benefits from independent multi-carrier access.
 - How long before a Charlotte banking professional practice becomes profitable? Building a genuine banking professional practice typically takes 3-5 years of consistent relationship development. Agents with existing Charlotte banking connections or prior financial services backgrounds can accelerate this timeline.
 

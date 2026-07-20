@@ -62,7 +62,7 @@ When to use it: Use the TDCI portal as your primary CE verification source — n
 
 For the most authoritative CE standing confirmation, contact the TDCI Agent Licensing Section directly:
 
-Phone: (615) 741-2693 or (888) 416-0868
+Phone: (615) 741-2241
 
 Email: ce.agent.licensing@tn.gov
 
@@ -114,7 +114,7 @@ Step 1: Log in to your CE provider's account and confirm the completion is recor
 
 Step 2: Contact the CE provider directly and ask them to confirm the completion was reported to the TDCI and to provide the date of that report. If the completion was not yet reported, request immediate submission.
 
-Step 3: If the provider confirms the completion was reported but the hours still do not appear in the TDCI's records after two additional business days, contact the TDCI directly at (615) 741-2693 or ce.agent.licensing@tn.gov. Provide the course name, course number, completion date, and provider name. The TDCI can investigate the discrepancy and manually credit the hours if the provider's report is confirmed.
+Step 3: If the provider confirms the completion was reported but the hours still do not appear in the TDCI's records after two additional business days, contact the TDCI directly at (615) 741-2241 or ce.agent.licensing@tn.gov. Provide the course name, course number, completion date, and provider name. The TDCI can investigate the discrepancy and manually credit the hours if the provider's report is confirmed.
 
 Step 4: While the discrepancy is being resolved, do not submit your NIPR renewal application. Wait until the hours are reflected in the TDCI's records.
 
@@ -190,7 +190,7 @@ NIPR collects the renewal fee at the time of submission:
 
 Payment methods: Credit card and debit card only. NIPR does not accept checks or cash.
 
-Late renewal selection: If your license has lapsed beyond the 30-day grace period, select the late renewal option when it appears in the NIPR interface. The late fee is added automatically when the late renewal path is selected.
+Late renewal selection: If your license has lapsed beyond the 60-day grace period, select the late renewal option when it appears in the NIPR interface. The late fee is added automatically when the late renewal path is selected.
 
 ### Step 6: Submit and Save Confirmation
 
@@ -214,15 +214,15 @@ What to look for: Your license record should show an updated expiration date ref
 
 ### Renewing Multiple Lines Simultaneously
 
-Tennessee producers holding multiple lines of authority — Life, A&H, Property, Casualty, or combinations — renew all lines in a single NIPR renewal submission. The 24-hour CE total satisfies all lines simultaneously — CE is not multiplied by the number of lines held. The $60 renewal fee covers all lines in one submission. There is no per-line renewal fee.
+Tennessee producers holding multiple lines of authority — Life, A&H, Property, Casualty, or combinations — renew all lines in a single NIPR renewal submission. The 24-hour CE total satisfies all lines simultaneously — CE is not multiplied by the number of lines held. The standard renewal fee covers all lines in one submission. There is no per-line renewal fee.
 
 ### Non-Resident Renewal
 
-Non-resident renewals follow the same NIPR process under the Non-Resident Renewal (NRR) path. The renewal fee is the same — $60 plus $5.60 NIPR fee. Non-residents satisfy CE through home state compliance — Tennessee does not require separate CE completion. Before submitting a non-resident renewal, confirm that the home state license is active and in good standing — Tennessee non-resident renewal is contingent on home state license validity.
+Non-resident renewals follow the same NIPR process under the Non-Resident Renewal (NRR) path. The renewal fee is the same as resident renewal. Non-residents satisfy CE through home state compliance — Tennessee does not require separate CE completion. Before submitting a non-resident renewal, confirm that the home state license is active and in good standing — Tennessee non-resident renewal is contingent on home state license validity.
 
 ### CE Completion After Expiration (Late Renewal)
 
-If a license has lapsed because CE was not completed before the expiration date, all CE requirements must be satisfied before submitting the late renewal. Complete the outstanding CE, verify hours appear in the TDCI's records, then submit the late renewal with the $185.60 total fee. Do not submit the late renewal before CE is confirmed in TDCI records — a late renewal application submitted without verified CE will be rejected.
+If a license has lapsed because CE was not completed before the expiration date, all CE requirements must be satisfied before submitting the late renewal. Complete the outstanding CE, verify hours appear in the TDCI's records, then submit the late renewal with the standard renewal fee plus the late fee (contact the TDCI for the current total). Do not submit the late renewal before CE is confirmed in TDCI records — a late renewal application submitted without verified CE will be rejected.
 
 ### Addressing a Rejected Renewal Application
 
@@ -236,7 +236,7 @@ Background disclosure rejection: The TDCI will typically contact you directly fo
 
 I submitted my NIPR renewal three days ago and my license still shows as expired in the TDCI's system. Is this a problem?
 
-Not necessarily — standard renewal processing takes 2–5 business days, and some applications require additional review time. If your license was active at the time of submission and you submitted before the expiration date or within the grace period, you are in the processing window rather than in a compliance problem. Continue monitoring the TDCI's license lookup at tn.gov/commerce/insurance. If the status has not updated to active after 7 business days from submission, contact the TDCI at (615) 741-2693 with your NIPR confirmation number and inquiry about the status. Avoid transacting business while the license shows expired in the TDCI's system — confirm active status before resuming transactions.
+Not necessarily — standard renewal processing takes 2–5 business days, and some applications require additional review time. If your license was active at the time of submission and you submitted before the expiration date or within the grace period, you are in the processing window rather than in a compliance problem. Continue monitoring the TDCI's license lookup at tn.gov/commerce/insurance. If the status has not updated to active after 7 business days from submission, contact the TDCI at (615) 741-2241 with your NIPR confirmation number and inquiry about the status. Avoid transacting business while the license shows expired in the TDCI's system — confirm active status before resuming transactions.
 
 My CE provider's account shows 24 hours completed including 3 ethics hours, but the TDCI portal shows only 21 hours with 3 ethics. Three hours are missing. What is the most likely cause and how do I fix it?
 

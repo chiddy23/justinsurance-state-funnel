@@ -22,7 +22,9 @@ Here's an honest breakdown of Oregon insurance agent income.
 
 ## The Short Answer
 
-Oregon insurance agents typically earn between $45,000 and $85,000 in their first few years, with experienced agents regularly reaching $95,000 to $185,000 once they've built a solid book of business. Top producers and agency owners can earn $200,000 to $400,000+ annually.
+Oregon insurance agents typically earn between $38,690 and $46,250 in their first few years, with experienced agents regularly reaching $60,710 to $78,790 once they've built a solid book of business. Top producers and agency owners can earn $124,990 or more annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 These numbers reflect realistic outcomes, not ceiling potential. Oregon's market — particularly in Portland metro and growing secondary cities — supports strong earning potential for agents who specialize effectively.
 
@@ -44,23 +46,23 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by Oregon City
 
-Portland. Oregon's largest metro area and economic center. Strong markets for technology, healthcare, financial services, and professional clients. New agents in Portland metro can reach $50,000-$85,000 in their first 1-2 years; established agents commonly earn $130,000-$240,000+.
+Portland. Oregon's largest metro area and economic center. Strong markets for technology, healthcare, financial services, and professional clients. New agents in Portland metro can reach $50,000-$85,000 in their first 1-2 years; established agents commonly earn $85,000-$124,990+, with top producers and agency owners able to exceed that ceiling.
 
-Eugene-Springfield. University of Oregon presence plus growing tech and healthcare. Established agents commonly earn $90,000-$170,000+.
+Eugene-Springfield. University of Oregon presence plus growing tech and healthcare. Established agents commonly earn $80,000-$115,000+.
 
-Salem. State capital with significant government, healthcare, and educational employment. Steady, consistent insurance market. Established Salem agents commonly earn $85,000-$160,000+.
+Salem. State capital with significant government, healthcare, and educational employment. Steady, consistent insurance market. Established Salem agents commonly earn $78,000-$110,000+.
 
-Bend. Growing market with technology, tourism, retiree migration, and outdoor recreation industries. Established Bend agents commonly earn $90,000-$175,000+, with the rapid growth creating strong opportunity.
+Bend. Growing market with technology, tourism, retiree migration, and outdoor recreation industries. Established Bend agents commonly earn $80,000-$115,000+, with the rapid growth creating strong opportunity.
 
-Medford-Ashland. Southern Oregon hub with healthcare, agriculture, and growing wine industry. Established agents commonly earn $80,000-$155,000+.
+Medford-Ashland. Southern Oregon hub with healthcare, agriculture, and growing wine industry. Established agents commonly earn $75,000-$105,000+.
 
-Corvallis. Oregon State University presence creates academic, research, and tech-related markets. Established agents commonly earn $80,000-$150,000+.
+Corvallis. Oregon State University presence creates academic, research, and tech-related markets. Established agents commonly earn $75,000-$100,000+.
 
-Beaverton, Hillsboro, Lake Oswego (Portland suburbs). Tech industry concentration ("Silicon Forest") creates strong professional client markets. Established agents in these areas often earn $130,000-$260,000+.
+Beaverton, Hillsboro, Lake Oswego (Portland suburbs). Tech industry concentration ("Silicon Forest") creates strong professional client markets. Established agents in these areas often earn $90,000-$124,990+, with top producers reaching beyond that ceiling.
 
-Coastal communities (Astoria, Newport, Coos Bay). Smaller markets with tourism, fishing, and recreational opportunities. Established agents commonly earn $70,000-$140,000+.
+Coastal communities (Astoria, Newport, Coos Bay). Smaller markets with tourism, fishing, and recreational opportunities. Established agents commonly earn $65,000-$95,000+.
 
-Smaller cities and rural Oregon. Lower cost of living significantly affects practical income. Established rural Oregon agents commonly earn $70,000-$135,000+.
+Smaller cities and rural Oregon. Lower cost of living significantly affects practical income. Established rural Oregon agents commonly earn $65,000-$90,000+.
 
 ## What Drives Oregon Income
 
@@ -129,8 +131,8 @@ Each model has different income trajectories and lifestyle implications.
 - Is Oregon a good state for insurance agent income? Yes, with caveats. Oregon offers strong earning potential, especially in Portland metro. However, Oregon's high state income tax affects take-home pay compared to no-income-tax states.
 - How long does it take to earn a full-time income as an Oregon insurance agent? Most serious agents reach full-time income levels within 12-24 months. Agents with strong networks or niche focus can accelerate this timeline.
 - Do Oregon agents pay state income tax on commissions? Yes. Oregon has one of the highest state income tax rates in the country. Factor this into your financial planning.
-- What's a realistic first-year income for a new Oregon agent? Most new agents earn between $40,000 and $80,000 in year one depending on agency structure, product mix, and work ethic.
-- Can I earn over $200,000 as an Oregon insurance agent? Yes, consistently. Many established Oregon agents earn $200,000+ annually, and top producers earn substantially more. It requires sustained client relationships, specialization, and professional growth.
+- What's a realistic first-year income for a new Oregon agent? Most new agents earn between $38,690 and $46,250 in year one depending on agency structure, product mix, and work ethic.
+- Can I earn six figures as an Oregon insurance agent? Yes. Established Oregon agents commonly reach $60,710 to $78,790, and top producers can reach $124,990 or more. It requires sustained client relationships, specialization, and professional growth.
 
 ## Start Your Oregon Insurance Income Right
 

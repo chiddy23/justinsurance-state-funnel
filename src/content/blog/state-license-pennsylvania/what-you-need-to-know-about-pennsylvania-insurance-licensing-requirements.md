@@ -28,53 +28,53 @@ Before diving into coursework or exam preparation, you will want to make sure yo
 
 If you already meet these foundational requirements, you are off to a great start. Knowing from the beginning that you have a clean record and the proper documentation can help prevent delays once you reach the application phase.
 
-## Complete the pre-licensing courses
+## Complete the pre-licensing courses (optional but recommended)
 
-Next on your path is completing the mandatory [pre-licensing](/pennsylvania/prelicensing) education for the specific line or lines of insurance you intend to sell. Pennsylvania usually requires a dedicated number of course hours that cover core insurance principles, state regulations, and ethical considerations. While this might feel like going back to school, think of it as an excellent opportunity to build confidence in your knowledge.
+Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the state's prelicense education requirement, so completing a [pre-licensing](/pennsylvania/prelicensing) course for the specific line or lines of insurance you intend to sell is now optional rather than mandatory. Even so, a course that covers core insurance principles, state regulations, and ethical considerations can help you feel more confident going into the exam.
 
 Pre-licensing courses are offered through various approved providers, both in-person and online. You should choose a format that works best with your schedule and learning style. Most of these courses offer practice quizzes, real-world examples, and other resources that can make the material more engaging and easier to absorb.
 
-Below is a quick look at some common lines of authority and approximate course hour requirements:
+Below is a quick look at some common lines of authority and typical (optional) course hours:
 
 Line of authority
 
-Pre-licensing hours (approx.)
+Typical course hours (optional)
 
-Exam fee (approx.)
+Exam fee
 
 Life Insurance
 
-24
+20
 
-$40
+$43
 
 Health Insurance
 
-24
+20
 
-$40
+$43
 
 Property
 
-24
+Varies by provider
 
-$40
+$43
 
 Casualty
 
-24
+Varies by provider
 
-$40
+$43
 
-Keep in mind these figures can change over time, so always confirm with the Pennsylvania Insurance Department or an approved course provider. Successfully finishing your pre-licensing program does more than fulfill a requirement, it also prepares you for the state exam so you can walk in feeling more prepared.
+Keep in mind these figures can change over time, so always confirm with the Pennsylvania Insurance Department or an approved course provider. Finishing a pre-licensing program isn't a state requirement, but it can prepare you for the state exam so you can walk in feeling more prepared.
 
 ## Register for the state exam
 
-Once you have completed the required pre-licensing coursework, your next step is to register for the official Pennsylvania licensing exam. You will typically schedule your test through an authorized exam provider, either by phone or online. To pick a day and time that works for you, make sure to plan ahead, because some testing centers have limited slots—especially during busy seasons.
+Once you're ready — whether or not you took a pre-licensing course — your next step is to register for the official Pennsylvania licensing exam. You will typically schedule your test through an authorized exam provider, either by phone or online. To pick a day and time that works for you, make sure to plan ahead, because some testing centers have limited slots—especially during busy seasons.
 
-Each exam contains both general insurance topics and Pennsylvania-specific regulations. You will answer multiple-choice questions on policy types, policy provisions, and ethical considerations. The cost usually ranges around $40 per exam, but check the latest guidelines to confirm your exact amount. On exam day, try to arrive early so you have a moment to relax and gather your thoughts before diving into the test.
+Each exam contains both general insurance topics and Pennsylvania-specific regulations. You will answer multiple-choice questions on policy types, policy provisions, and ethical considerations. The cost is $43 per exam, but check the latest guidelines to confirm your exact amount. On exam day, try to arrive early so you have a moment to relax and gather your thoughts before diving into the test.
 
-If you find yourself feeling anxious, remember that your pre-licensing course material should cover most of what you will encounter on the exam. Take plenty of practice tests, review your notes for areas you find challenging, and approach any tough questions by eliminating obviously incorrect answers first. Often, the more prepared you are, the calmer you will feel when the test begins.
+If you find yourself feeling anxious, remember that a pre-licensing course (if you took one) should cover most of what you will encounter on the exam. Take plenty of practice tests, review your notes for areas you find challenging, and approach any tough questions by eliminating obviously incorrect answers first. Often, the more prepared you are, the calmer you will feel when the test begins.
 
 ## Apply for your official license
 

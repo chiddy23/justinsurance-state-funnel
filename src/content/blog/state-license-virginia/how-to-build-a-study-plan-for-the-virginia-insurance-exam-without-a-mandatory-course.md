@@ -69,7 +69,7 @@ End of week 2 benchmark: Take a full-length Virginia state law practice exam or 
 
 Review your practice exam diagnostics from weeks 1 and 2. Identify the specific content areas where you scored below 70% and target those specifically. Do not re-study areas where you are already strong.
 
-Take two full-length integrated practice exams — covering both national and state sections — under timed conditions. For the P&C exam, that means 135 minutes for 145 questions. For the L/A/H exam, 150 minutes for 150 questions. Do not allow yourself more time than the real exam provides.
+Take two full-length integrated practice exams — covering both national and state sections — under timed conditions. For the P&C exam, that means 135 minutes for 135 questions. For the L/A/H exam, 150 minutes for 140 questions. Do not allow yourself more time than the real exam provides.
 
 End of week 3 benchmark: Consistently scoring 75%+ on both sections on practice exams. If you are not there, extend week 3 before proceeding.
 

@@ -476,7 +476,7 @@ CE and renewal:
 
 24 hours biennial; 3 hours ethics; no classroom minimum
 
-Renewal fee: $60; 30-day grace period; $120 late fee; up to 1 year late renewal
+Renewal fee: standard amount (contact the TDCI); 60-day grace period; late fee not publicly posted (contact the TDCI); up to 1 year late renewal
 
 Appointment rules:
 
@@ -518,7 +518,7 @@ Competitive market — not monopolistic state fund
 
 Reciprocity:
 
-Full reciprocity with only 5 states: California, Louisiana, Michigan, Mississippi, Texas
+Broad reciprocity with other states under NAIC model law — non-resident license generally available without retaking the exam
 
 Surplus lines:
 
@@ -612,7 +612,7 @@ Collision vs. comprehensive scenario questions
 
 I passed Property but failed Casualty. Do I need to retake Property before I can add Casualty after passing the retake?
 
-No. Tennessee issues licenses by individual line of authority. Your Property license is active and remains active — it is not affected by your Casualty exam result. Study for the Casualty retake using your score report to identify the weakest content areas, schedule the retake when practice performance reaches 80%+, pass the Casualty exam, and submit a separate NIPR application for Casualty authority with its own $50 application fee plus $5.60 NIPR fee. There is no waiting period between the failed Casualty attempt and the retake. Your Property license is fully operative throughout.
+No. Tennessee issues licenses by individual line of authority. Your Property license is active and remains active — it is not affected by your Casualty exam result. Study for the Casualty retake using your score report to identify the weakest content areas, schedule the retake when practice performance reaches 80%+, pass the Casualty exam, and submit a separate NIPR application for Casualty authority with its own $50 application fee plus $5.60 NIPR fee. Tennessee requires a 10-day wait after a first failure (30 days after each subsequent failure) before you can retake the Casualty exam. Your Property license is fully operative throughout that wait.
 
 The coinsurance formula confuses me in exam questions. How do I set it up correctly every time?
 

@@ -36,6 +36,8 @@ As you develop your skills, you open the door to higher-level positions or speci
 
 You’ll likely find that experienced insurance agents often surpass $50,000 to $60,000 annually, with many going beyond that range as they deepen their client base. [Continuing education](/continuing-education), earning specialized licenses, or seeking advanced certifications can position you as a go-to resource. Over time, these credentials translate into higher commissions and a stabler income.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Tips for success as a new agent
 
 To make the most of your early earning potential, you’ll want to take consistent action. Here are a few moves that can help you stand out:

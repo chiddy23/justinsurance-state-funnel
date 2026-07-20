@@ -30,6 +30,8 @@ In general, the insurance agent annual salary can vary widely based on location,
 
 With a few years of experience, and especially if you specialize in products like life insurance or commercial policies, it’s realistic to see annual earnings climb into the $60,000 to $80,000 bracket. Top performers in major metropolitan areas, or those with a strong book of business, may surpass six figures. The important takeaway is that your salary potential increases as you grow your clientele, refine your sales approach, and gain product expertise.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Weigh key factors that impact compensation
 
 Although an insurance agent’s salary can be fairly predictable, several influences will shape your exact earnings potential:
@@ -61,7 +63,7 @@ Steady growth in your book of business, along with honing your sales and communi
 ## FAQs about insurance agent annual salary
 
 1.  How much can a new insurance agent expect to earn?  
-    Entry-level agents often start in the low to mid $40,000s, although actual salaries vary based on location, agency structure, and the types of policies sold.
+    Entry-level agents often start in the low to mid $40,000s, although actual salaries vary based on location, agency structure, and the types of policies sold. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 2.  Do insurance agents only earn commissions?  
     Not always. Some agents receive both a base salary and commissions. Others work on a commission-only model. Each setup has its pros and cons, so it’s helpful to clarify pay structure before signing on.
 3.  Which insurance lines tend to pay the most?  

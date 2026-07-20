@@ -16,13 +16,13 @@ imageAlt: >-
   insurance license processing time guide.
 ---
 
-Missouri's licensing timeline from starting preparation to holding an active producer license is typically 2 to 4 weeks. No PLE, no fingerprinting, and 5-10 business day processing make Missouri one of the fastest licensing paths available. The primary variables are exam preparation time (self-directed; first-attempt [pass rates](/pass-rates) of 40-60% make preparation essential) and the 24-48 hour wait after passing before applying. With no temporary license available, understanding Missouri's processing timeline helps candidates plan their career start date accurately.
+Missouri's licensing timeline from starting preparation to holding an active producer license is typically 2 to 4 weeks. No PLE, no fingerprinting, and 5-10 business day processing make Missouri one of the fastest licensing paths available. The primary variables are exam preparation time (self-directed; industry sources put the all-candidate first-attempt pass rate at 40-60%, making preparation essential — that figure isn't JustInsurance's own outcome, and among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93%, see [pass rates](/pass-rates) for methodology) and the 24-48 hour wait after passing before applying. With no temporary license available, understanding Missouri's processing timeline helps candidates plan their career start date accurately.
 
 ## Timeline Overview
 
 ## Stage 1: Exam Preparation — The Critical Investment
 
-Missouri's 40-60% first-attempt pass rate makes study preparation the most impactful licensing investment. The two-section format — national AND Missouri state — requires:
+Missouri's industry-wide 40-60% first-attempt pass rate (all candidates; not JustInsurance's own outcome — see the note above) makes study preparation the most impactful licensing investment. The two-section format — national AND Missouri state — requires:
 
 National content: Standard insurance product knowledge, policy provisions, underwriting concepts — covered by most exam prep materials.
 
@@ -43,8 +43,6 @@ MO HealthNet = Missouri Medicaid (expanded 2021; adults to 138% FPL)
 Healthcare.gov (federal exchange)
 
 Workers' comp: 5+ employees (1+ construction); NCCI; Chapter 287
-
-Annuity Best Interest training (eff. August 30, 2024)
 
 Recommended preparation timeline: 2-4 weeks of focused study before scheduling.
 

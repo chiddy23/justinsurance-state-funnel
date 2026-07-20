@@ -1,7 +1,7 @@
 ---
 title: Best Cities in California to Build an Insurance Agency (LA, SF, San Diego Compared)
 description: >-
-  Best California Cities for Insurance Agents in 2025 — practical guidance for California insurance agents working with the Department of Insurance.
+  Best California Cities for Insurance Agents in 2026 — practical guidance for California insurance agents working with the Department of Insurance.
 keyword: best cities california insurance agents
 targetKeywords: best cities california insurance agents
 cluster: state-license-california

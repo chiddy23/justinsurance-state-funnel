@@ -32,7 +32,7 @@ NIPR processing fee
 
 Optional: [prelicense](/alabama/prelicensing) course or exam prep materials
 
-Total initial costs typically range from $200 to $600 depending on your choices for prelicense preparation.
+Total initial costs typically range from $400 to $500 depending on your choices for prelicense preparation.
 
 ## Exam Fees
 
@@ -62,7 +62,7 @@ Each retake also requires a new exam fee.
 
 ## Fingerprinting Fees
 
-Alabama uses Gemalto Cogent Systems for fingerprinting. Fees typically range from $40-$60 depending on location and any additional services.
+Alabama uses Fieldprint Alabama for fingerprinting. Fees typically range from $40-$60 depending on location and any additional services.
 
 Remember: fingerprints remain valid in the ALDOI system only 30 days, so timing matters. Get fingerprinted after passing your exam and one day before applying.
 
@@ -74,7 +74,7 @@ Application fees are separate from:
 
 Exam fees (paid to University of Alabama)
 
-Fingerprinting fees (paid to Gemalto)
+Fingerprinting fees (paid to Fieldprint Alabama)
 
 NIPR processing fees (paid to NIPR)
 
@@ -208,11 +208,11 @@ Take advantage of reciprocity. If you're already licensed in another state, non-
 
 Complete CE throughout the cycle. Spreading CE costs over 2 years is easier than a lump-sum expense at renewal.
 
-Use SCDOI-approved providers. Approved providers ensure your hours count and costs aren't wasted.
+Use ALDOI-approved providers. Approved providers ensure your hours count and costs aren't wasted.
 
 ## 5 Frequently Asked Questions
 
-- What's the total cost to get an Alabama insurance license? Typically $285-$555 for a standard Life and Health license, including exam, fingerprinting, application, and optional exam prep.
+- What's the total cost to get an Alabama insurance license? Typically $400-$500 for a standard Life and Health license, including exam, fingerprinting, application, and optional exam prep.
 - How much is the Alabama license renewal fee? $70 every 2 years, plus CE costs and $1.00 per credit hour for CE reporting.
 - Do I need to pay for prelicense education in Alabama? No. Prelicense education is no longer required as of January 1, 2024, so this cost is optional (though recommended).
 - What happens if I miss my renewal deadline? During the 30-day grace period, a $50 late fee applies on top of the renewal fee. After the grace period, reinstatement requires double the renewal fee. Beyond 1 year, you may need to reapply as a new applicant.

@@ -100,7 +100,7 @@ The Personal Lines line of authority in Virginia allows you to sell personal (no
 
 Does adding a line of authority restart my license's renewal cycle?
 
-No. Adding a line of authority does not reset your existing license's renewal date. All lines on your Virginia producer license renew on the same statewide deadline — November 30 on even years. Your CE compliance must cover all lines you hold by that renewal date. The new line you add will be included in your next renewal cycle — if you add Property & Casualty in March 2025, it renews along with all your other lines on November 30, 2026. You may need to complete CE for the new line in a partial biennium if you add it close to the renewal date, so add lines early in the renewal cycle if possible.
+No. Adding a line of authority does not reset your existing license's renewal date. All lines on your Virginia producer license renew together on your individual birth-month deadline — the last day of your birth month, in the odd or even year matching your birth year. Your CE compliance must cover all lines you hold by that renewal date. The new line you add will be included in your next renewal cycle on that same birth-month date. You may need to complete CE for the new line in a partial biennium if you add it close to the renewal date, so add lines early in the renewal cycle if possible.
 
 Can I hold a Virginia insurance license without any active carrier appointments?
 

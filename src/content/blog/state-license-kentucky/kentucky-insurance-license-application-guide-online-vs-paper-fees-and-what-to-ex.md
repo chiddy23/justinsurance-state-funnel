@@ -34,7 +34,7 @@ Online applications submitted through NIPR are processed within approximately th
 
 ## Supporting Documents Required
 
-Your signed and dated Certificate of Completion (Form CPL-01) must be submitted to the KDOI. Your provider reports completions electronically on a daily basis, but you are responsible for confirming that the KDOI has received it. If not reflected in the system, you can upload it directly through eServices, email it to DOI.LicensingMail@ky.gov, or fax it to the Licensing Division. Your AOC criminal background report must also have been submitted through kycourts.gov with the Dept of Insurance (DOI) designated as the recipient.
+Your signed and dated Certificate of Completion (Form CPL-01) must be submitted to the KDOI. Your provider reports completions electronically on a daily basis, but you are responsible for confirming that the KDOI has received it. If not reflected in the system, you can upload it directly through eServices, email it to DOI.AgentLicensingMail@ky.gov, or fax it to the Licensing Division. Your AOC criminal background report must also have been submitted through kycourts.gov with the Dept of Insurance (DOI) designated as the recipient.
 
 If you answer "yes" to any background disclosure questions on the application, you must submit supporting documentation. The KDOI evaluates background disclosures individually — disclosures do not automatically disqualify an applicant, but they do require additional review time.
 
@@ -44,13 +44,13 @@ Within 24 hours of submitting your NIPR application, create your KY eServices ac
 
 ## Kentucky vs. Neighboring States: Application Fee Comparison
 
-Kentucky's fee structure is competitive, particularly because the court-based AOC background check is notably less expensive than fingerprint-based systems used by Indiana and others.
+Kentucky's fee structure is competitive, particularly because the court-based AOC background check is notably less expensive than fingerprint-based systems used by Ohio, Tennessee, and other states.
 
 ## Frequently Asked Questions
 
 - Can I apply for multiple lines of authority on the same application? Yes. You can apply for multiple lines of authority in a single NIPR transaction. Each line of authority carries its own $40 application fee, but you pay only one $5.60 NIPR transaction fee. You will need to pass a separate examination for each line.
 - How long does the KDOI take to process my application? Online applications are typically processed within three to five business days when all supporting documents are complete. If your background report contains a disclosure requiring additional review, processing may take longer.
-- What if I submit my application but my PLE certificate hasn't been received by the KDOI yet? Your provider reports completions daily. If your certificate doesn't appear within a day or two, contact your provider first. If the issue persists, upload the signed and dated Form CPL-01 through eServices, email it to DOI.LicensingMail@ky.gov, or fax it to the KDOI Licensing Division.
+- What if I submit my application but my PLE certificate hasn't been received by the KDOI yet? Your provider reports completions daily. If your certificate doesn't appear within a day or two, contact your provider first. If the issue persists, upload the signed and dated Form CPL-01 through eServices, email it to DOI.AgentLicensingMail@ky.gov, or fax it to the KDOI Licensing Division.
 - Are the application fees refundable if I decide not to continue? No. All NIPR application fees and transaction fees are non-refundable once the transaction is submitted.
 - Can I check my application status online? Yes. Once you set up your KY eServices account at insurance.ky.gov, you can monitor your application status in real time and receive notification when processing is complete and you are authorized to schedule your examination.
 Start your Kentucky insurance career right. JustInsurance offers state-approved prelicensing education for all major lines of authority. Visit justinsuranceco.com to enroll and get your Certificate of Completion ready before you apply.

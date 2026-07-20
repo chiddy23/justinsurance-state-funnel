@@ -106,6 +106,6 @@ Payroll fraud — Indiana's most common workers' comp fraud type: Employers who 
 
 ## Build Your Indiana Commercial Lines Practice
 
-Indiana's 4th-lowest workers' comp rates, ICRB classification system, and manufacturing/pharmaceutical/agricultural sectors create active commercial insurance advisory opportunities. JustInsurance's IDOI-approved Indiana courses cover workers' comp law and fraud provisions in producer-focused depth.
+Indiana's 4th-lowest workers' comp rates, ICRB classification system, and manufacturing/pharmaceutical/agricultural sectors create active commercial insurance advisory opportunities. For Indiana P&C/commercial-lines prelicensing and CE, search Sircon or the IDOI's approved-provider list.
 
 Enroll today and develop your Indiana commercial lines expertise.

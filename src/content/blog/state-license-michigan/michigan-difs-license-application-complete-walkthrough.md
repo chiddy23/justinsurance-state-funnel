@@ -45,7 +45,7 @@ Address: 530 W. Allegan St., 7th Floor, Lansing, MI 48933-1521
 
 Mailing: PO Box 30220, Lansing, MI 48909-7720
 
-Phone: (877) 999-6442
+Phone: (517) 284-8800
 
 Email: difs-licensing@michigan.gov
 
@@ -69,7 +69,7 @@ Schedule state exam through PSI (pay $41 per exam)
 
 Pass state exam
 
-DIFS reviews application (up to 14 business days)
+DIFS reviews application (14-21 business days)
 
 Receive physical license by mail
 
@@ -269,13 +269,13 @@ Application completeness. Any missing information triggers follow-up requests.
 
 ## Processing Times
 
-Standard clean applications: Up to 14 business days from submission of all requirements.
+Standard clean applications: 14-21 business days from submission of all requirements.
 
 Applications with disclosures: May take longer depending on complexity.
 
 Physical license delivery: Michigan mails physical licenses, adding mail time beyond the processing window.
 
-Total realistic timeline: 3-5 weeks from completing PLE to receiving physical license for clean applications.
+Total realistic timeline: 2-4 weeks from completing PLE to receiving physical license for clean applications.
 
 ## After License Issuance
 
@@ -283,7 +283,7 @@ Physical license mailed. Michigan sends a physical license by mail to your addre
 
 License is perpetual. Michigan producer licenses don't have traditional expiration dates — they remain active as long as you meet CE requirements.
 
-CE compliance date. The last day of your birth month in your even or odd birth year determines your CE compliance cycle.
+CE compliance date. The first day of your birth month in your even or odd birth year determines your CE compliance cycle.
 
 Carrier appointments. Contact carriers to complete appointment paperwork. Michigan carriers receive annual appointment invoices from DIFS in January.
 
@@ -310,7 +310,7 @@ Timeline — Typically faster than resident licensing due to no exam requirement
 - What is DIFS and what does it regulate? The Michigan Department of Insurance and Financial Services regulates insurance, banking, securities, and mortgage in Michigan. For insurance producers, DIFS manages licensing, renewals, CE compliance, and disciplinary actions under MCL Chapter 500.
 - How long is my Michigan NIPR application valid? 180 days from entry into the DIFS database. All requirements (PLE completion, exam passage) must be satisfied within this window. If you fail your exam within the 180-day period, you must submit a new application and fee before rescheduling.
 - Does Michigan charge per-line application fees? No. Michigan's approximately $15.60 total application fee (through NIPR) covers the application regardless of how many lines of authority you're applying for — making Michigan one of the most affordable states for multi-line applications.
-- How long after submitting all requirements does Michigan take to issue a license? Up to 14 business days. Michigan mails a physical license, so allow additional mail time. Total realistic timeline from submitting all requirements to receiving the physical license is 3-5 weeks for clean applications.
+- How long after submitting all requirements does Michigan take to issue a license? 14-21 business days. Michigan mails a physical license, so allow additional mail time. Total realistic timeline from submitting all requirements to receiving the physical license is 2-4 weeks for clean applications.
 - Can a Michigan non-resident apply without taking the state exam? Yes. Non-resident producers who are currently licensed as a resident and in good standing in their home state can obtain a Michigan non-resident license without completing Michigan PLE or taking the Michigan state exam. Apply through NIPR and DIFS verifies home state license through the State Producer Licensing Database.
 
 ## Apply for Michigan Licensing With Confidence

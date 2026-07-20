@@ -44,7 +44,7 @@ What to ask before enrolling:
 
 Verifying through the TDCI:
 
-The TDCI maintains records of approved CE courses and providers. If you are uncertain whether a specific course carries the ethics designation, contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov and provide the course name and provider. The TDCI can confirm whether the course carries the ethics designation before you enroll.
+The TDCI maintains records of approved CE courses and providers. If you are uncertain whether a specific course carries the ethics designation, contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov and provide the course name and provider. The TDCI can confirm whether the course carries the ethics designation before you enroll.
 
 ### What Ethics CE Courses Typically Cover
 
@@ -92,7 +92,7 @@ The fix: Non-resident producers should confirm with the TDCI whether their home 
 
 ## Ethics CE and the 24-Hour Total
 
-The 3-hour ethics requirement is a subset of the 24-hour total — not an addition to it. A producer who completes 3 hours of ethics CE and 21 hours of general CE has satisfied the full 24-hour requirement. A producer who completes 24 hours of general CE and then adds 3 hours of ethics CE has completed 27 total hours — but only 24 hours are credited toward the renewal requirement (with 3 hours forfeited because Tennessee has no CE carryover).
+The 3-hour ethics requirement is a subset of the 24-hour total — not an addition to it. A producer who completes 3 hours of ethics CE and 21 hours of general CE has satisfied the full 24-hour requirement. A producer who completes 24 hours of general CE and then adds 3 hours of ethics CE has completed 27 total hours for the current renewal, which is already satisfied at 24. Whether the extra 3 hours carry forward to reduce the next period's requirement is not publicly posted by the TDCI — confirm directly with the TDCI before assuming those hours are either forfeited or credited toward a future period.
 
 The most efficient completion structure:
 
@@ -138,7 +138,7 @@ For your Tennessee resident license, you must satisfy Tennessee's specific ethic
 
 My ethics course was completed and I have a certificate of completion from the provider, but the 3 ethics hours have not appeared in the TDCI's records three days before my renewal deadline. What should I do?
 
-Contact the CE provider immediately and request confirmation that the completion was reported to the TDCI. Ask specifically whether the submission included the ethics designation — not just the credit hours. Request a resubmission with the ethics designation clearly indicated if there is any question about what was submitted. Simultaneously contact the TDCI at (615) 741-2693 to report the discrepancy and ask whether the renewal can be processed pending confirmation. If the three-day window is insufficient to resolve the reporting gap, submit renewal within the 30-day grace period after your expiration date once the ethics hours are confirmed in the TDCI's records. The grace period carries no additional fee. This situation reinforces the fundamental CE management principle: complete the 3-hour ethics requirement at least 30 days before the renewal deadline — not three days before — so that normal reporting delays cannot create a compliance gap at the worst possible moment.
+Contact the CE provider immediately and request confirmation that the completion was reported to the TDCI. Ask specifically whether the submission included the ethics designation — not just the credit hours. Request a resubmission with the ethics designation clearly indicated if there is any question about what was submitted. Simultaneously contact the TDCI at (615) 741-2241 to report the discrepancy and ask whether the renewal can be processed pending confirmation. If the three-day window is insufficient to resolve the reporting gap, submit renewal within the 60-day grace period after your expiration date once the ethics hours are confirmed in the TDCI's records. The grace period carries no additional fee. This situation reinforces the fundamental CE management principle: complete the 3-hour ethics requirement at least 30 days before the renewal deadline — not three days before — so that normal reporting delays cannot create a compliance gap at the worst possible moment.
 
 Tennessee's 3-hour ethics CE requirement is among the most straightforward ongoing compliance obligations in the producer licensing framework — but only when it is managed proactively. The producers who experience compliance problems with this requirement are almost universally those who completed general CE without verifying the ethics designation, who left ethics CE until the final days of the biennial period, or who assumed that content relevance was equivalent to TDCI designation. The fix is simple: treat ethics CE as the first item on every biennial CE checklist, verify the TDCI ethics designation before enrolling, complete it early, and confirm the hours appear in the TDCI's records with the ethics classification intact. Every other CE decision in the biennial period becomes easier once the ethics requirement is satisfied and documented.
 

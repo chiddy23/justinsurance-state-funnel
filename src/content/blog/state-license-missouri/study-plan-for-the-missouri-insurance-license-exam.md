@@ -16,7 +16,7 @@ imageAlt: >-
   the missouri insurance license exam.
 ---
 
-Missouri's exam study plan is entirely self-directed — no mandated PLE creates maximum flexibility but also maximum risk. The 40-60% first-attempt [pass rate](/pass-rates) reflects candidates who underestimate the two-section format and the Missouri state section's distinctly Missouri content. The state section — approximately 15-25% of questions scored separately at 70%+ — is where the exam is won or lost for candidates who rely only on national content preparation. The lowest exam fees nationally ($29-$35) make retakes financially accessible, but a first-attempt pass saves both time and the 24-hour retake wait. Here's a study plan calibrated to Missouri's actual exam.
+Missouri's exam study plan is entirely self-directed — no mandated PLE creates maximum flexibility but also maximum risk. Industry sources put the all-candidate first-attempt pass rate at 40-60%, reflecting candidates who underestimate the two-section format and the Missouri state section's distinctly Missouri content. That figure isn't JustInsurance's own outcome — among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93% (see [pass rates](/pass-rates) for methodology). The state section — approximately 15-25% of questions scored separately at 70%+ — is where the exam is won or lost for candidates who rely only on national content preparation. The lowest exam fees nationally ($29-$35) make retakes financially accessible, but a first-attempt pass saves both time and the 24-hour retake wait. Here's a study plan calibrated to Missouri's actual exam.
 
 ## How Long to Study
 
@@ -71,8 +71,6 @@ Healthcare.gov — Missouri does NOT have a state exchange
 MO HealthNet — Missouri Medicaid; Amendment 2 passed August 2020; legislature refused funding; courts ordered it; implemented summer 2021; adults to 138% FPL
 
 No Missouri individual mandate
-
-Annuity Best Interest (August 30, 2024): 4-hr one-time; prior completions: 1-hr update; any state with similar laws
 
 Priority 2 — P&C Missouri items:
 

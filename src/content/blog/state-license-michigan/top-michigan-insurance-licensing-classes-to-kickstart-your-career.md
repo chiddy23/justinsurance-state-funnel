@@ -82,7 +82,7 @@ A strong application includes:
 -   Payment of required state licensing fees.
 -   Proof of having completed pre-licensing education.
 
-Some individuals might need to provide additional information, such as fingerprinting or background checks, depending on the state’s guidelines. Taking care of these details early can shorten your timeline to licensure.
+Michigan does not require fingerprinting — DIFS runs an application-based background review instead, so simply disclosing your history accurately on the NIPR application covers this step. Taking care of these details early can shorten your timeline to licensure.
 
 ## Pass the exam and finalize requirements
 

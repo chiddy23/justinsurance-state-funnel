@@ -34,7 +34,7 @@ Pass score: 70% on scored questions
 
 Score reporting: Immediate — results displayed before leaving the testing environment
 
-Retakes: Unlimited, no mandatory waiting period, full exam fee per attempt
+Retakes: Unlimited attempts (no hard cap), but a 10-day waiting period after the first failure and a 30-day waiting period after each subsequent failure; full exam fee per attempt
 
 The state law section is the same across all lines. Every Tennessee licensing exam includes the same Tennessee state law section testing TDCI provisions, producer licensing requirements, unfair trade practices, bad faith, auto minimums, workers' compensation thresholds, CE requirements, and appointment rules. A producer who has already passed one Tennessee line exam has studied this content — the state law section for the added line exam is not new material. The only new content is the general section for the added line.
 
@@ -74,7 +74,7 @@ What this means for CE: The CE requirement — 24 hours including 3 ethics per b
 
 When a line is added less than two years before the next renewal deadline, the first renewal of that added line occurs after a partial period. The producer renews all lines together on the standard birth month deadline — the added line simply appears alongside the existing lines on the renewal application.
 
-There is no prorated renewal fee for a line added mid-cycle. The standard $60 renewal fee covers all lines at renewal regardless of how recently any specific line was added.
+There is no prorated renewal fee for a line added mid-cycle. The standard renewal fee covers all lines at renewal regardless of how recently any specific line was added.
 
 ## CE Implications of Holding Multiple Lines
 
@@ -114,7 +114,7 @@ A producer who adds the Property line and intends to sell NFIP flood policies mu
 
 ### Specialty Training and CE Credit in the Addition Period
 
-Specialty training hours completed after adding a new line count toward the CE total for the current biennial period. A producer who completes the 4-hour annuity suitability training after adding the Life line has 4 additional CE hours credited to the current period. If the current period's CE total is already at or near 24, those hours may become carryover credit (up to 12 hours maximum carryover).
+Specialty training hours completed after adding a new line count toward the CE total for the current biennial period. A producer who completes the 4-hour annuity suitability training after adding the Life line has 4 additional CE hours credited to the current period. If the current period's CE total is already at or near 24, those excess hours may or may not carry forward to the next period — the TDCI has not publicly posted a specific carryover policy or hour limit, so confirm directly with the TDCI rather than assuming a specific figure applies.
 
 ## The Appointment Requirement for Added Lines
 
@@ -176,7 +176,7 @@ Your existing 24-hour biennial CE obligation satisfies the Life line at renewal 
 
 I added a line of authority six months ago and my existing license renews in two months. The newly added line has only been active for six months — do I need to complete a full biennial period of CE before renewing the new line?
 
-No. When you renew in two months, you renew all lines together under your existing biennial CE obligation — 24 hours including 3 ethics for the full renewal, regardless of how recently the new line was added. The new line does not create a separate or prorated CE requirement. If your CE for the current biennial period is satisfied — 24 hours in TDCI records including 3 ethics — you renew all lines including the recently added one in the upcoming renewal. The $60 renewal fee covers all lines. There is no separate or additional renewal fee for the line added mid-period. The new line's next full biennial CE cycle begins from the upcoming renewal date — the same two-year cycle as all your other lines.
+No. When you renew in two months, you renew all lines together under your existing biennial CE obligation — 24 hours including 3 ethics for the full renewal, regardless of how recently the new line was added. The new line does not create a separate or prorated CE requirement. If your CE for the current biennial period is satisfied — 24 hours in TDCI records including 3 ethics — you renew all lines including the recently added one in the upcoming renewal. The standard renewal fee covers all lines. There is no separate or additional renewal fee for the line added mid-period. The new line's next full biennial CE cycle begins from the upcoming renewal date — the same two-year cycle as all your other lines.
 
 Adding a line of authority in Tennessee is a straightforward process — one additional exam, one additional NIPR application, and an understanding of how the new line integrates into the existing renewal and CE framework. The producers who manage this process most efficiently are those who plan the addition intentionally — timing it relative to their renewal cycle, ensuring the exam and application are completed before client opportunities require the new authority, and coordinating carrier appointments for the new line before the first transaction. Every line added expands the client service capacity and the income potential of the Tennessee producer license — making the $55.60 application investment and the exam preparation time one of the most productive decisions in an insurance career.
 

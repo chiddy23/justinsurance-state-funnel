@@ -36,7 +36,7 @@ DCI's distinctive multi-sector mandate: Like Minnesota's DOC, Missouri's DCI reg
 
 Missouri does not require prelicensing education. Candidates can schedule the Pearson VUE exam immediately without completing any DCI-approved prelicensing course.
 
-Strong recommendation: Although PLE is not required, the Pearson VUE exam is challenging — with first-attempt [pass rates](/pass-rates) averaging 40-60% depending on line (per industry sources). JustInsurance's DCI-approved Missouri exam prep courses are built around the two-section Pearson VUE format with Missouri-specific state law content.
+Strong recommendation: Although PLE is not required, the Pearson VUE exam is challenging — industry sources put first-attempt pass rates for all candidates at roughly 40-60% depending on line. That figure isn't JustInsurance's own outcome: among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93% (see [pass rates](/pass-rates) for methodology). JustInsurance's DCI-approved Missouri exam prep courses are built around the two-section Pearson VUE format with Missouri-specific state law content.
 
 Designation exemptions from exam: Missouri has specific provisions for certain designations — verify current exemption criteria at insurance.mo.gov. Candidates with qualifying designations should contact DCI before scheduling.
 

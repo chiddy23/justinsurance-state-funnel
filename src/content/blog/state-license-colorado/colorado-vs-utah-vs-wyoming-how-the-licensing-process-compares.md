@@ -18,7 +18,7 @@ If you are entering the insurance business in the Mountain West, or already lice
 
 The most consequential structural difference among these three states is Colorado's mandatory prelicensing requirement.
 
-Colorado: 50 hours of state-approved prelicensing education required per line of authority before sitting for the state exam (90 hours for combined Life, Accident & Health). This is not optional — exam scores are invalidated if prelicensing was not completed first. The 50 hours include 40 general insurance hours and 10 Colorado-specific hours, and culminate in a proctored Certificate Exam at 70% passing. Certificate valid for one year.
+Colorado: 50 hours of state-approved prelicensing education required per line of authority before sitting for the state exam (100 hours total if pursuing both Life and Accident & Health, since each is its own separate 50-hour course — Colorado has no combined course or exam). This is not optional — exam scores are invalidated if prelicensing was not completed first. The 50 hours include 40 general insurance hours and 10 Colorado-specific hours, and culminate in a proctored Certificate Exam at 70% passing. Certificate valid for one year.
 
 Utah: No prelicensing education requirement. Candidates may sit directly for the Prometric exam after scheduling and paying the fee. Prep courses are strongly recommended by every provider given national [pass rates](/pass-rates) hovering around 55–60%, but there is no legal obligation to complete any coursework before the state exam.
 
@@ -28,7 +28,7 @@ The practical implication: A motivated candidate in Utah or Wyoming can go from 
 
 ## Exam Vendors and Fees
 
-Colorado and Utah are meaningfully less expensive to exam. Wyoming's exam fees are substantially higher — $96 for a single-line exam versus Colorado's $47 and Utah's $32–$45. A Wyoming candidate pursuing separate Property and Casualty licenses would pay $192 in exam fees; a Colorado candidate can take both in one session for $47.
+Colorado and Utah are meaningfully less expensive to exam. Wyoming's exam fees are substantially higher — $96 for a single-line exam versus Colorado's $48 and Utah's $32–$45. A Wyoming candidate pursuing separate Property and Casualty licenses would pay $192 in exam fees; a Colorado candidate can take both in one session at a physical test center (confirm current combined-session pricing with Pearson VUE).
 
 ## Fingerprinting Requirements
 
@@ -82,7 +82,7 @@ Wyoming's 30-day average from application to license issuance is driven by its f
 
 Does Colorado's 50-hour prelicensing requirement make it harder to get licensed than Utah or Wyoming?
 
-It adds time and cost to the initial process — not difficulty in the pass/fail sense. The Colorado prelicensing course itself is comprehensive preparation for the Pearson VUE state exam, and candidates who complete it thoroughly tend to pass the state exam at higher rates than unprepared candidates sitting directly for Utah or Wyoming exams. The time cost is real: 50 hours of coursework plus the Certificate Exam typically takes 2–4 weeks to complete, adding 3–5 weeks to Colorado's total timeline compared to Utah or Wyoming. The financial cost is the course fee (typically $125–$200) plus the $47 exam fee, compared to Utah and Wyoming where candidates who self-study spend only the exam fee. For candidates who approach prelicensing seriously, however, the pass rate improvement from Colorado's mandatory preparation often justifies the time investment.
+It adds time and cost to the initial process — not difficulty in the pass/fail sense. The Colorado prelicensing course itself is comprehensive preparation for the Pearson VUE state exam, and candidates who complete it thoroughly tend to pass the state exam at higher rates than unprepared candidates sitting directly for Utah or Wyoming exams. The time cost is real: 50 hours of coursework plus the Certificate Exam typically takes 2–4 weeks to complete, adding 3–5 weeks to Colorado's total timeline compared to Utah or Wyoming. The financial cost is the course fee (typically $125–$200) plus the $48 exam fee, compared to Utah and Wyoming where candidates who self-study spend only the exam fee. For candidates who approach prelicensing seriously, however, the pass rate improvement from Colorado's mandatory preparation often justifies the time investment.
 
 Which of the three states has the most producer-friendly CE structure for multi-line licensees?
 

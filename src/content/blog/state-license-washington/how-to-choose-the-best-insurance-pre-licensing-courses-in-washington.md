@@ -22,9 +22,9 @@ It can take a bit of research to figure out which program matches your lifestyle
 
 ## Understand Washington’s [pre-licensing requirements](/washington/prelicensing)
 
-Before you invest time and money in a pre-licensing program, it pays to get familiar with statewide standards. In Washington State, you generally need to complete a certain number of study hours per line of authority, such as Life, Health, Property, or Casualty. These hours prepare you to understand important insurance concepts and state regulations, which the official exam will test you on.
+Before you invest time and money in a pre-licensing program, it pays to get familiar with statewide standards. Washington does not require a set number of study hours for any line of authority — Life, Health, Property, or Casualty — since the pre-licensing education requirement was eliminated in 2023. Even so, optional coursework can help you understand important insurance concepts and state regulations that the official exam will test you on.
 
-Since each type of insurance license has unique requirements, confirm the hours for the lines you plan to pursue. If you intend to earn multiple licenses, you may need additional coursework. When you select a provider, look for programs that cover the needed topics in a way that aligns with the [Washington Office of the Insurance Commissioner](/washington/requirements)’s guidelines.
+Since course offerings vary by line, confirm what topics are covered for the line(s) you plan to pursue. If you intend to earn multiple licenses, you may want additional coursework for each. When you select a provider, look for programs that cover the needed topics in a way that aligns with the [Washington Office of the Insurance Commissioner](/washington/requirements)’s guidelines.
 
 Most pre-licensing courses include lessons on insurance ethics, policy types, and relevant state laws. However, some find it helpful when a provider goes further by offering practice exams or interactive quizzes. Getting comfortable with multiple-choice formats can sharpen your test-taking skills and help reinforce key concepts.
 
@@ -99,7 +99,7 @@ If you find a concept confusing, remember most course providers, including JustI
 ## Frequently asked questions
 
 1\. Do I need to take separate courses for different types of insurance?  
-Yes. Washington State typically requires a specific number of course hours for each line of authority. If you plan on licensing in multiple areas, expect some overlap, but also unique content for each specialty.
+No course is required at all — Washington does not mandate pre-licensing hours for any line of authority. If you choose optional coursework and plan on licensing in multiple areas, expect some overlap between tracks, but also unique content for each specialty.
 
 2\. How long do I have to complete my pre-licensing course?  
 Your course provider will outline how much time you have once you enroll. Many programs give you several months of access to materials, although exact durations vary. When choosing a course, check that the access window aligns with your schedule.

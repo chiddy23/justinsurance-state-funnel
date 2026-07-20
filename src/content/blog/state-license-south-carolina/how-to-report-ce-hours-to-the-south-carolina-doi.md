@@ -140,7 +140,7 @@ If the provider confirms they reported correctly but your transcript still shows
 
 SCDOI contact:
 
-Phone: 803-737-6205
+Phone: (803) 737-6160
 
 Email: Via doi.sc.gov
 
@@ -186,7 +186,7 @@ Only then submit your renewal.
 - How fast do CE hours appear on my SCDOI transcript? Most approved providers report within 1 business day. JustInsurance (SCDOI Provider #500031569) reports within 1 business day.
 - What's the $1.50 per credit hour fee for? It covers the administrative cost of electronic CE reporting through State Based Systems. Confirm with your provider whether this is included in course pricing or charged separately.
 - Where can I check my current CE standing? Visit statebasedsystems.com or log into your account at doi.sc.gov. Either will show your current CE transcript.
-- What do I do if my CE hours don't show up after a week? Contact your course provider first — they can verify and retransmit if needed. If that doesn't resolve it, contact the SCDOI at 803-737-6205.
+- What do I do if my CE hours don't show up after a week? Contact your course provider first — they can verify and retransmit if needed. If that doesn't resolve it, contact the SCDOI at (803) 737-6160.
 
 ## Report Right, Renew Right
 

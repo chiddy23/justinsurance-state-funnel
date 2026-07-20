@@ -252,7 +252,7 @@ Pass the state exam. With 70%+ score.
 
 Apply for license. Through NIPR with $140 application fee.
 
-Complete background check. State and federal criminal history check (no fingerprinting required).
+Complete self-disclosure on your NIPR application — Connecticut does not require fingerprinting or a separate state/federal criminal-history check.
 
 Receive license. Typically 7-10 business days for clean applications.
 

@@ -26,26 +26,28 @@ Once you are ready to apply, submit your resident producer license application t
 
 ## Louisiana's Flat Application Fee: A Genuine Advantage
 
-Louisiana uses a flat application fee of $55 regardless of how many lines of authority you include in a single application. This is meaningfully different from states like Kentucky and Indiana, where the fee is $40 per line of authority. If you are applying for both Life and Property & Casualty in Louisiana, you pay $55 once. In Kentucky, the same applicant would pay $80 ($40 per line). In Indiana, $80 as well. Louisiana's flat fee structure rewards producers who apply for multiple lines simultaneously.
+Louisiana uses a flat application fee of $75 regardless of how many lines of authority you include in a single application. This is meaningfully different from states like Kentucky and Indiana, where the fee is $40 per line of authority. If you are applying for both Life and Property & Casualty in Louisiana, you pay $75 once. In Kentucky, the same applicant would pay $80 ($40 per line). In Indiana, $80 as well. Louisiana's flat fee structure rewards producers who apply for multiple lines simultaneously.
 
-The $5.60 NIPR transaction fee applies once per application regardless of the number of lines included.
+Check NIPR for any additional transaction fee that may apply at the time you submit your application.
 
 ## Application Fee Comparison: Louisiana vs. Neighboring States
 
-⚠️ Application processing time for Louisiana not confirmed from official LDI source — verify current processing timeframes at ldi.la.gov or by calling (225) 342-0860 before publishing.
+Louisiana's $75 flat application fee compares favorably to per-line fee structures in nearby comparison states: Kentucky and Indiana each charge $40 per line of authority, meaning a two-line applicant pays $80 in either state versus a single $75 fee in Louisiana. The gap widens further for producers seeking three or more lines of authority, since Louisiana's fee does not scale with the number of lines included on the application.
+
+⚠️ Application processing time for Louisiana not confirmed from official LDI source — verify current processing timeframes at ldi.la.gov or by calling (800) 259-5300 before publishing.
 
 ## What the LDI Reviews
 
-The LDI reviews your application, exam score records received from PSI, and background check results from the Louisiana State Police and FBI forwarded through IdentoGO. If your background check reveals prior convictions or other disclosures, the LDI evaluates these individually. A prior conviction does not automatically disqualify an applicant, but it does require additional review and may require supporting documentation. Contact the LDI Producer Licensing Division at (225) 342-0860 before applying if you have a prior record and want to understand how it may affect your application.
+The LDI reviews your application, exam score records received from PSI, and background check results from the Louisiana State Police and FBI forwarded through IdentoGO. If your background check reveals prior convictions or other disclosures, the LDI evaluates these individually. A prior conviction does not automatically disqualify an applicant, but it does require additional review and may require supporting documentation. Contact the LDI at (800) 259-5300 before applying if you have a prior record and want to understand how it may affect your application.
 
 ## The Advantage of Applying for Multiple Lines at Once
 
-Because Louisiana charges a flat $55 application fee regardless of lines included, there is a clear financial incentive to apply for multiple lines of authority in a single application. Each line of authority requires its own PSI exam (paid separately), but you pay the application fee only once. A producer who tests for and passes both the Life exam ($30) and the P&C exam ($53) and applies for both lines in a single NIPR application pays $83 in exam fees and $60.60 in application fees — a total of $143.60 before fingerprinting.
+Because Louisiana charges a flat $75 application fee regardless of lines included, there is a clear financial incentive to apply for multiple lines of authority in a single application. Each line of authority requires its own PSI exam (paid separately, $36 per attempt), but you pay the application fee only once. A producer who tests for and passes both the Life exam and the P&C exam and applies for both lines in a single NIPR application pays $72 in exam fees and $75 in application fees before fingerprinting — check NIPR for any additional transaction fee.
 
 ## Frequently Asked Questions
 
 - Do I apply for my Louisiana insurance license before or after the exam? After. Louisiana's process runs exam and fingerprinting first, then NIPR application. Your PSI exam score is transmitted to the LDI within one to two business days, and IdentoGO fingerprint results arrive within approximately three business days. Once both are on file, submit your NIPR application.
-- How much is the Louisiana insurance license application fee? The application fee is $55 flat regardless of how many lines of authority you include in a single NIPR application, plus a $5.60 NIPR transaction fee. This flat structure is advantageous for applicants seeking multiple lines simultaneously.
+- How much is the Louisiana insurance license application fee? The application fee is $75 flat regardless of how many lines of authority you include in a single NIPR application (check NIPR for any additional transaction fee). This flat structure is advantageous for applicants seeking multiple lines simultaneously.
 - Can I add lines of authority to an existing Louisiana license? Yes. You can add lines of authority to an active Louisiana license through NIPR. Each additional line requires passing the relevant PSI exam. Fingerprinting is not required for licensed resident producers who are adding a line of authority to an existing active license.
 - How do I track the status of my Louisiana license application? Track your application status through your Industry Access account at ldi.la.gov. PSI transmits exam scores to the LDI within one to two business days of passing. Monitor your account for status updates after submitting your NIPR application.
 - Is the Louisiana application fee refundable? No. NIPR application fees are non-refundable once the transaction is submitted. Exam fees paid to PSI are also non-refundable. Ensure all prerequisites — exam passage and fingerprinting — are complete before submitting your application.

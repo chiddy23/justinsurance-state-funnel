@@ -22,7 +22,9 @@ Here's an honest breakdown of Michigan insurance agent income.
 
 ## The Short Answer
 
-Michigan insurance agents typically earn between $46,000 and $78,000 in their first few years, with experienced agents regularly reaching $100,000 to $180,000 once they've built a solid book of business. Top producers and agency owners can earn $220,000 to $425,000+ annually.
+Michigan insurance agents typically earn between $36,510 and $43,480 in their first few years, with experienced agents regularly reaching $58,910 to $79,740 once they've built a solid book of business. Top producers and agency owners can earn up to $125,780 or more annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 These numbers reflect realistic outcomes, not ceiling potential. Michigan's market — particularly metro Detroit, Grand Rapids, and affluent suburban communities — supports strong earning potential for agents who specialize effectively. Michigan's moderate cost of living outside metro Detroit, combined with a flat income tax structure, means nominal income translates well to take-home purchasing power.
 
@@ -44,25 +46,25 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by Michigan Region
 
-Metro Detroit (Wayne, Oakland, Macomb, Washtenaw counties). Michigan's largest market with substantial automotive industry, healthcare, financial services, and professional services. New agents in metro Detroit can reach $48,000-$75,000 in years 1-2; established agents commonly earn $115,000-$210,000+. Top Detroit-area producers in automotive executive or HNW markets earn substantially more.
+Metro Detroit (Wayne, Oakland, Macomb, Washtenaw counties). Michigan's largest market with substantial automotive industry, healthcare, financial services, and professional services. New agents in metro Detroit can reach $37,000-$44,000 in years 1-2; established agents commonly earn $62,000-$85,000. Top Detroit-area producers in automotive executive or HNW markets can approach or exceed the statewide top-producer benchmark of roughly $125,780.
 
-Oakland County (Troy, Birmingham, Bloomfield Hills, Novi, Rochester Hills). Michigan's wealthiest county. Substantial HNW and upper-middle-class professional markets. Established Oakland County agents commonly earn $130,000-$245,000+.
+Oakland County (Troy, Birmingham, Bloomfield Hills, Novi, Rochester Hills). Michigan's wealthiest county. Substantial HNW and upper-middle-class professional markets. Established Oakland County agents commonly earn $68,000-$95,000, with top producers reaching into six figures.
 
-Macomb County (Sterling Heights, Warren, Clinton Township, St. Clair Shores). Large middle-income market with substantial UAW (United Auto Workers) membership and blue-collar/skilled trades population. Established agents commonly earn $95,000-$170,000+.
+Macomb County (Sterling Heights, Warren, Clinton Township, St. Clair Shores). Large middle-income market with substantial UAW (United Auto Workers) membership and blue-collar/skilled trades population. Established agents commonly earn $55,000-$78,000.
 
-Grand Rapids metropolitan area. Michigan's second-largest metro, home to Meijer, Amway, Steelcase, Gentex, and other major employers. Strong healthcare (Corewell Health, Spectrum Health legacy), growing manufacturing, and substantially conservative business culture creating strong individual insurance market. Established Grand Rapids agents commonly earn $100,000-$185,000+.
+Grand Rapids metropolitan area. Michigan's second-largest metro, home to Meijer, Amway, Steelcase, Gentex, and other major employers. Strong healthcare (Corewell Health, Spectrum Health legacy), growing manufacturing, and substantially conservative business culture creating strong individual insurance market. Established Grand Rapids agents commonly earn $58,000-$80,000.
 
-Ann Arbor. University of Michigan concentration — academic and healthcare professional markets (University of Michigan Health System). Substantial HNW and professional markets. Established Ann Arbor agents commonly earn $105,000-$195,000+.
+Ann Arbor. University of Michigan concentration — academic and healthcare professional markets (University of Michigan Health System). Substantial HNW and professional markets. Established Ann Arbor agents commonly earn $60,000-$82,000.
 
-Lansing and Capital Region. State government employment, Michigan State University, and healthcare. Established agents commonly earn $90,000-$165,000+.
+Lansing and Capital Region. State government employment, Michigan State University, and healthcare. Established agents commonly earn $55,000-$75,000.
 
-Flint (Genesee County). Recovering industrial market. Smaller market with less competition. Established agents commonly earn $75,000-$135,000+.
+Flint (Genesee County). Recovering industrial market. Smaller market with less competition. Established agents commonly earn $45,000-$65,000.
 
-Kalamazoo/Battle Creek. Pharmaceutical (Pfizer Kalamazoo site, Stryker HQ in Kalamazoo), manufacturing, and Western Michigan University. Established agents commonly earn $85,000-$155,000+.
+Kalamazoo/Battle Creek. Pharmaceutical (Pfizer Kalamazoo site, Stryker HQ in Kalamazoo), manufacturing, and Western Michigan University. Established agents commonly earn $50,000-$70,000.
 
-Traverse City and Northern Michigan. Growing resort and retirement markets with substantial second-home and retiree populations. Established agents commonly earn $80,000-$150,000+.
+Traverse City and Northern Michigan. Growing resort and retirement markets with substantial second-home and retiree populations. Established agents commonly earn $48,000-$68,000.
 
-Upper Peninsula (Marquette, Houghton, Sault Ste. Marie). Very small markets with minimal competition. Established agents commonly earn $65,000-$115,000+.
+Upper Peninsula (Marquette, Houghton, Sault Ste. Marie). Very small markets with minimal competition. Established agents commonly earn $40,000-$58,000.
 
 ## What Drives Michigan Income
 
@@ -165,8 +167,8 @@ Military specialty. Fort Custer Training Center and other Michigan military faci
 - Is Michigan a good state for insurance agent income? Yes, with appropriate context. Michigan's automotive industry wealth, substantial senior population, and genuine no-fault auto complexity create real income opportunity — particularly in Oakland County and the Grand Rapids corridor. The flat 4.05% income tax and moderate cost of living (outside city of Detroit and select affluent suburbs) translate income well to take-home purchasing power.
 - How long does it take to earn a full-time income as a Michigan agent? Most serious agents reach full-time income levels within 12-18 months. Agents with strong automotive industry connections, Grand Rapids business community ties, or niche focus (senior, healthcare, no-fault specialty) can accelerate this timeline.
 - Do Michigan agents pay state income tax on commissions? Yes. Michigan has a flat 4.05% state income tax on all income including commissions. Agents in Detroit, Grand Rapids, and several other Michigan cities also pay local city income taxes — Detroit residents at approximately 2.4%.
-- What's a realistic first-year income for a new Michigan agent? Most new agents earn between $44,000 and $78,000 in year one depending on agency structure, product mix, work ethic, and market focus.
-- Can I earn over $200,000 as a Michigan insurance agent? Yes. Many established Michigan agents — particularly those serving Oakland County HNW markets, automotive executive clients, Grand Rapids business owner markets, or senior-focused practices — earn $200,000+ annually. Top producers earn substantially more.
+- What's a realistic first-year income for a new Michigan agent? Most new agents earn between $36,510 and $43,480 in year one depending on agency structure, product mix, work ethic, and market focus.
+- Can I earn six figures as a Michigan insurance agent? Yes, though it represents an established practice rather than a typical outcome. Many experienced Michigan agents — particularly those serving Oakland County HNW markets, automotive executive clients, Grand Rapids business owner markets, or senior-focused practices — reach the state's top-producer benchmark of roughly $125,780 annually with a mature book of business.
 
 ## Start Your Michigan Insurance Income Right
 

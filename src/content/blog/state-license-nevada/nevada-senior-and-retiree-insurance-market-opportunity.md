@@ -210,7 +210,9 @@ Cross-sell. Senior clients often need multiple product types — Medicare plus L
 
 Geographic concentration. Concentrated senior markets (Sun City communities, etc.) support efficient practice operations.
 
-Established Nevada senior practices commonly produce $100,000-$250,000+ in annual income, with top practices substantially higher.
+Established Nevada senior practices commonly earn toward the higher end of the state's experienced-agent range ($44,990-$58,930), and top senior-market specialists who reach the state's top-producer tier can approach or exceed $129,210 annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 ## Service Demands
 

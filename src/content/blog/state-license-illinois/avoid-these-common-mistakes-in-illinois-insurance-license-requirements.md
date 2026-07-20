@@ -32,7 +32,7 @@ Make sure you’re honest and thorough when providing information. Even seemingl
 
 A common mistake is ignoring the requirement for [Illinois insurance prelicensing](/illinois/prelicensing) education. Illinois mandates specific coursework depending on the type of insurance license you plan to pursue, such as life, health, property, or casualty. Many people assume they can simply study on their own, only to find themselves ineligible to sit for the exam.
 
-Before signing up for classes, ensure the course provider is state-approved. You may find in-person sessions or online modules, each offering quizzes and final assessments to prepare you for the state exam. [Pre-licensing](/illinois/prelicensing) coursework can span from a few days to several weeks, so plan your schedule carefully. Although you might be tempted to rush through the material, remember that a strong foundation in the topics will boost your confidence on exam day.
+Before signing up for classes, ensure the course provider is state-approved. You may find in-person sessions or online modules, each offering quizzes and final assessments to prepare you for the state exam. Keep in mind that Illinois requires 7.5 of the 20 prelicensing hours for each line of authority to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119) — the remaining hours may be completed by self-study. [Pre-licensing](/illinois/prelicensing) coursework can span from a few days to several weeks, so plan your schedule carefully. Although you might be tempted to rush through the material, remember that a strong foundation in the topics will boost your confidence on exam day.
 
 ## Register properly for the state exam
 

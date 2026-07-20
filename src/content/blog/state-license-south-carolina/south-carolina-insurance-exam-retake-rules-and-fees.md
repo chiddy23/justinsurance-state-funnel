@@ -54,7 +54,7 @@ The retake fee is the same as the initial attempt fee — no discounts for retak
 
 ## Number of Attempts Allowed
 
-South Carolina doesn't cap the total number of times you can retake the exam. You can keep attempting until you pass.
+South Carolina allows a maximum of 6 exam attempts per exam within a one-year period. If you reach that limit, you must wait until the one-year period resets before you can sit for the exam again.
 
 However:
 
@@ -169,7 +169,7 @@ Don't pass and then sit on your results. Submit your application quickly.
 - How soon can I retake the South Carolina insurance exam after failing? Typically after a minimum 24-hour waiting period. But waiting 1-2 weeks for focused preparation typically produces much better results.
 - Do I have to redo my prelicense course if I fail the exam? No. Your prelicense completion remains valid (within its validity period). You only need to re-register and pay the retake fee.
 - Will a failed attempt show up on my license application? No. The SCDOI's license application process considers your most recent passing result, not your full attempt history.
-- Is there a limit on how many times I can retake? South Carolina doesn't cap attempts. You can keep trying until you pass, though each attempt requires time and money.
+- Is there a limit on how many times I can retake? Yes — South Carolina allows a maximum of 6 exam attempts per exam within a one-year period. Once you hit that limit, you must wait until the one-year period resets, and each attempt still requires time and money.
 - What if I'm running out of time on my valid exam results? Submit your license application immediately. Exam results are typically valid for 1 year from the date you passed. Don't risk having to retake.
 
 ## Don't Let One Setback Stop You

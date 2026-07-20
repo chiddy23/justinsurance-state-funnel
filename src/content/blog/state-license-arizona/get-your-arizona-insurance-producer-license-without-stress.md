@@ -28,19 +28,19 @@ As an insurance producer, you will assist clients in finding policies that prote
 
 ## Gather your required documents
 
-Once you know this is the right path for you, gather the documentation you will need. In Arizona, this often includes proof of completion for a state-approved pre-licensing course, personal identification, and a completed licensing application. Though the process feels formal, it is really just a set of guidelines to verify your background and ensure you meet legal requirements.
+Once you know this is the right path for you, gather the documentation you will need. In Arizona, this includes personal identification and a completed licensing application; if you choose to take an optional pre-licensing course, keep your completion certificate handy as well. Though the process feels formal, it is really just a set of guidelines to verify your background and ensure you meet legal requirements.
 
 Double-check that your ID is valid and up to date, and be sure you know what form of payment is accepted for the various fees you will encounter. This proactive approach saves you time down the road and allows you to step into your licensing journey feeling prepared.
 
 ## Complete your pre-licensing coursework
 
-The state of Arizona requires [Arizona insurance prelicensing](/arizona/prelicensing) education before you can register for the official exam. These courses are specifically designed to help you grasp insurance fundamentals and the regulations that apply to your chosen line of authority. You can opt for in-person classes or choose from a variety of online programs if you prefer a flexible schedule.
+Arizona does not require [Arizona insurance prelicensing](/arizona/prelicensing) education before you register for the official exam — you're free to go straight to scheduling the state exam. That said, most candidates still choose a pre-licensing course because it's specifically designed to help you grasp insurance fundamentals and the regulations that apply to your chosen line of authority. You can opt for in-person classes or choose from a variety of online programs if you prefer a flexible schedule.
 
 As you progress through the material, pay close attention to both national insurance principles and Arizona-specific laws. Keep detailed notes, ask your instructors for clarifications whenever something is unclear, and commit the key concepts to memory. This is your foundation, so a solid grasp of the coursework will make the exam much easier.
 
 ## Schedule and pass your exam
 
-Following completion of your coursework, you will be eligible to schedule your official licensing exam. Booking your exam date in advance helps you plan your study schedule more effectively. If you can, avoid last-minute cramming. Instead, focus on gradually reviewing everything you learned in your pre-licensing program.
+Whether or not you take a pre-licensing course, you can schedule your official licensing exam whenever you're ready. Booking your exam date in advance helps you plan your study schedule more effectively. If you can, avoid last-minute cramming. Instead, focus on gradually reviewing everything you learned in your pre-licensing program.
 
 Expect questions on insurance ethics, state regulations, and coverage specifics. Although the exam can be challenging, remember that thorough preparation is your best friend. Do practice quizzes, read through any supplemental materials your course provider offers, and consider forming a small study group with classmates. Approach the exam with confidence, and you will stand a great chance of passing on your first attempt.
 
@@ -68,7 +68,7 @@ The exam fee varies depending on the line of authority you select. While specifi
 
 ### How long does pre-licensing coursework take?
 
-In general, each line of authority requires a set number of hours, often 20 to 40, before you are allowed to sit for the exam. The total timeframe can vary if you are pursuing multiple lines, but most students set aside a few weeks to complete each course thoroughly.
+Arizona does not mandate a set number of prelicensing hours — the exam has no coursework prerequisite. If you choose to take an optional course, most run 20 to 40 hours depending on the line of authority, and most students set aside a few weeks to complete each course thoroughly.
 
 ### Can I take the exam remotely?
 

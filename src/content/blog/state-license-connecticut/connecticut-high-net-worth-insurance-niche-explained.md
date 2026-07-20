@@ -230,6 +230,8 @@ Long-term relationships. Multi-generational HNW relationships compound over deca
 
 Established Connecticut HNW practices commonly produce $200,000-$500,000+ in annual income, with top practices substantially higher.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Career Development in HNW Practice
 
 Building HNW practice typically involves:

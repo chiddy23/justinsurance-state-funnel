@@ -15,17 +15,17 @@ imageAlt: Confident young adult working on a laptop in a stylish modern office s
 imageCredit: Photo by Vitaly Gariev on Pexels
 ---
 
-[New York insurance continuing education](/new-york/continuing-education) (CE) courses are a crucial piece of staying licensed and confident in your insurance career. Whether you are just beginning your journey toward becoming an insurance professional or you already hold a New York license and want to renew, understanding the requirements for both [pre-licensing](/new-york/prelicensing) and ongoing CE will help you meet state guidelines. Below, you will find clear steps to follow, practical tips to stay motivated, and insider pointers on making the most of your learning experience.
+New York insurance continuing education (CE) courses are a crucial piece of staying licensed and confident in your insurance career. Whether you are just beginning your journey toward becoming an insurance professional or you already hold a New York license and want to renew, understanding the requirements for both pre-licensing and ongoing CE will help you meet state guidelines. Below, you will find clear steps to follow, practical tips to stay motivated, and insider pointers on making the most of your learning experience.
 
 ## Understand New York CE requirements
 
-Growing your insurance expertise starts with knowing the rules. In New York, the Department of Financial Services typically requires you to complete a set number of hours of [continuing education](/new-york/continuing-education) every two years to keep your license active. CE courses ensure you stay updated on critical industry changes, emerging trends, and new regulations.
+Growing your insurance expertise starts with knowing the rules. In New York, the Department of Financial Services typically requires you to complete a set number of hours of continuing education every two years to keep your license active. CE courses ensure you stay updated on critical industry changes, emerging trends, and new regulations.
 
 By taking the right courses, you will be better prepared to offer informed guidance to your clients, stand out to employers, and ultimately protect your license from lapsing. Most lines of authority need 15 hours of CE completion every renewal cycle. However, specific lines could require more hours or particular topic areas. Always check the details for your license type so you take only what you need.
 
 ## Complete your license pre-work
 
-If you are brand new to the insurance field, you will begin with [New York prelicensing courses](/new-york/prelicensing). This is distinct from ongoing CE but sets the foundation for your entire career. During these initial courses, you will focus on core insurance principles and specialized content matching the line of authority you intend to pursue, such as Life, Accident & Health, or Property & Casualty.
+If you are brand new to the insurance field, you will begin with New York prelicensing courses. This is distinct from ongoing CE but sets the foundation for your entire career. During these initial courses, you will focus on core insurance principles and specialized content matching the line of authority you intend to pursue, such as Life, Accident & Health, or Property & Casualty.
 
 Plan to invest time in studying the basics. By building a strong foundation, you will grasp more advanced topics later on without feeling overwhelmed. Pre-licensing requirements vary depending on the license, but expect to complete anywhere from 20 to 40 hours of coursework.
 

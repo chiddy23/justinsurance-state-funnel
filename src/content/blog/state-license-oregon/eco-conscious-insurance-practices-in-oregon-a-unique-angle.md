@@ -228,6 +228,8 @@ Retention. Eco-conscious clients often stay long-term when service is excellent.
 
 Established Oregon eco-conscious practices commonly produce $90,000-$200,000+ in annual income, with top practices earning substantially more.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## 5 Frequently Asked Questions
 
 - Do I need deep environmental commitment to build an eco-conscious practice? You need authentic environmental commitment, not performative positioning. Inauthentic positioning is recognized quickly and damages rather than helps your practice.

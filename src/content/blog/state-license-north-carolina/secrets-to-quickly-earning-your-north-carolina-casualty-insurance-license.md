@@ -31,7 +31,7 @@ Think of your upcoming journey as a series of building blocks. Each block, such 
 Your first move is to ensure you meet the state’s basic standards for licensing. North Carolina generally expects applicants to:
 
 -   Be at least 18 years old
--   Pass a state-approved pre-licensing course
+-   Pass the state casualty insurance exam (pre-licensing education is optional as of HB 737, eff. October 1, 2025)
 -   Complete fingerprinting and a background check
 -   Submit an application and fee
 
@@ -39,23 +39,23 @@ Always double-check these criteria on the [North Carolina Department of Insuranc
 
 Most people find it reassuring to gather necessary documents and schedule fingerprinting early. Handling these steps up front will save you from rushing at the last minute. You’ll also feel confident knowing you’ve met every requirement before moving on.
 
-## Complete required pre-licensing
+## Consider a pre-licensing course (optional)
 
-Once you’re certain you meet the state’s standards, the next block is your [North Carolina prelicensing](/north-carolina/prelicensing) education. This step covers essential insurance concepts, policy types, and regulatory guidelines that directly prepare you for the state exam. While it may sound like a lot, these courses are specifically designed to equip you with what you need and streamline your progress.
+Once you’re certain you meet the state’s standards, many candidates still choose [North Carolina prelicensing](/north-carolina/prelicensing) education, even though it's no longer required as of HB 737 (eff. October 1, 2025). This step covers essential insurance concepts, policy types, and regulatory guidelines that directly prepare you for the state exam. While it may sound like a lot, these courses are specifically designed to equip you with what you need and streamline your progress.
 
 Some online programs let you learn at your own pace, so you can study after work or on weekends without overhauling your schedule. If you prefer a classroom vibe, look for in-person lessons that include lively group discussions and Q&A sessions. Either way, you’ll be covering topics such as accident and health fundamentals, key legal principles, and state-specific rules around licensing procedures.
 
-After finishing your required hours, you’ll usually get a certificate of completion. Keep it in a safe place because you’ll need this proof before booking your exam. Think of your pre-licensing as a well-laid training plan: the better your foundation, the smoother your entrance into a new career.
+If you enroll in a course, you’ll usually get a certificate of completion. Keep it in a safe place for your records. Think of pre-licensing as a well-laid training plan: the better your foundation, the smoother your entrance into a new career.
 
 ## Register for your state exam
 
-With your pre-licensing course behind you, it’s time to register for the official casualty insurance exam. In North Carolina, you typically schedule with an approved testing service on a date that works best for you. Many test centers let you pick a morning or afternoon start time, so choose a window when you’re most alert.
+Once you feel prepared — whether through a pre-licensing course or self-study — it’s time to register for the official casualty insurance exam. In North Carolina, you typically schedule with an approved testing service on a date that works best for you. Many test centers let you pick a morning or afternoon start time, so choose a window when you’re most alert.
 
-When you register, you’ll pay an exam fee that can vary slightly each year. Be ready with the identification and documentation required, which may include details from your pre-licensing course certificate and any state-issued ID. If you’re not sure which documents to bring, give the testing service a quick call. It takes only a few minutes, and you’ll avoid confusion or delays on your test day.
+When you register, you’ll pay an exam fee that can vary slightly each year. Be ready with the identification and documentation required, which may include details from your pre-licensing course certificate (if you completed one) and any state-issued ID. If you’re not sure which documents to bring, give the testing service a quick call. It takes only a few minutes, and you’ll avoid confusion or delays on your test day.
 
 ## Prepare smart for exam day
 
-Exam prep is something you can control, so take advantage. Even after passing your pre-licensing course, you’ll want to review key areas of focus, such as policy coverages and North Carolina-specific regulations, so they’re fresh in your mind.
+Exam prep is something you can control, so take advantage. Whether or not you took a pre-licensing course, you’ll want to review key areas of focus, such as policy coverages and North Carolina-specific regulations, so they’re fresh in your mind.
 
 Here’s one approach: spend short, focused study sessions on topics you find most challenging. Maybe it’s learning policy definitions, or perhaps it’s the state laws around claim handling. Tackle them head-on in 20-minute intervals, then take a quick break to let the information sink in. This method keeps you engaged without burning out.
 
@@ -71,4 +71,4 @@ Don’t forget to keep expanding your skill set. Hiring managers and potential c
 
 Finally, it’s a good idea to partner with reputable training and professional support organizations that can guide you along the way. If you want extra help at any stage, JustInsurance has helpful tools designed for North Carolina students. You’ll find step-by-step resources, targeted [practice questions](/north-carolina/practice-exam), and the support you need to feel prepared for every challenge.
 
-Ready to get started? Grab your pre-licensing materials, schedule your exam, and begin shaping your new future. With careful planning and the right resources, you can earn your North Carolina casualty insurance license faster than you might imagine, and position yourself for a rewarding career built on trust and expertise.
+Ready to get started? Decide on your study approach, schedule your exam, and begin shaping your new future. With careful planning and the right resources, you can earn your North Carolina casualty insurance license faster than you might imagine, and position yourself for a rewarding career built on trust and expertise.

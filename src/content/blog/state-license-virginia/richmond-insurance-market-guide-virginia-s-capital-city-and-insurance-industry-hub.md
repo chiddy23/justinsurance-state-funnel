@@ -78,6 +78,8 @@ Does Richmond's lower cost of living make it a better market than Northern Virgi
 
 For independent producers, Northern Virginia offers higher absolute income potential due to higher premium densities and more complex accounts. However, Richmond's lower cost of living means that a producer earning $120,000 in Richmond and spending $1,600/month on housing has meaningfully better real purchasing power than a comparable producer earning $150,000 in Fairfax County and spending $3,200/month on housing. Richmond also offers a more relationship-oriented business culture than Northern Virginia's transient government-contractor environment — relationships in Richmond last longer and generate more multi-generational business because clients stay in the market rather than rotating with government contract assignments. For producers who prioritize lifestyle over absolute income ceiling, Richmond's combination of a genuine insurance industry culture, solid commercial market, and favorable cost of living is a compelling career location.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 Richmond's insurance market combines institutional depth (Markel, Genworth, VRS, the Federal Reserve) with a diverse commercial sector and affluent suburban personal lines market. Producers who understand both the institutional insurance culture that defines Richmond and the Fortune 500 commercial needs that drive its premium economy are positioned to build one of the most stable and diversified books in the Commonwealth.
 
 Visit JustInsurance to enroll today and build the Virginia producer credentials that access Richmond's multi-dimensional insurance market.

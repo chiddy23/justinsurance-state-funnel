@@ -22,6 +22,8 @@ The Salary.com figures represent base salary benchmarks — the floor of compens
 
 The key interpretation: The salary gap between Minnesota and Wisconsin is meaningful but not dramatic at the base salary level ($59,527 vs. $57,223). The gap becomes larger when total compensation including commission is measured, because Minnesota's larger commercial economy generates higher-premium accounts that produce higher commission per placement. The Iowa gap is consistent across all sources — Iowa's lower salary benchmarks reflect a smaller commercial economy, lower average business premiums, and fewer high-value specialty lines accounts than either Minnesota or Wisconsin.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## The Economic Foundation: What Drives Insurance Demand in Each State
 
 Insurance income is ultimately a function of the economy being insured — larger premiums generate larger commissions, and more complex accounts generate pricing power for producers who develop relevant expertise. The three states differ meaningfully in the economic drivers that create insurance demand.
@@ -58,9 +60,9 @@ State exam: PSI Services; $45 major lines. Combined P&C: 130 questions/3 hours. 
 
 Application fee: $50 per line plus technology fee plus $5.60 NIPR transaction fee. Combined P&C approximately $125.60 total.
 
-CE: 24 hours biennial; 3 hours ethics; 12 hours classroom-equivalent minimum; 12 hours non-company-sponsored minimum. No carryover. Renewal: $80.
+CE: 24 hours biennial; 3 hours ethics; 12 hours non-company-sponsored minimum (satisfiable entirely through self-paced online courses from an independent provider — no live instruction required). No carryover. Renewal: $80.
 
-Overall assessment: Minnesota's prelicensing requirement (20 hours per line) and classroom CE minimum (12 hours) are among the more demanding in the region. The investment is higher than Wisconsin or Iowa at entry but produces more comprehensively prepared producers.
+Overall assessment: Minnesota's prelicensing requirement (20 hours per line) is among the more demanding in the region. The investment is higher than Wisconsin or Iowa at entry but produces more comprehensively prepared producers.
 
 ### Wisconsin
 
@@ -70,19 +72,19 @@ State exam: PSI Services; exam results valid 180 days. Wisconsin's exam validity
 
 Application fee: Competitive with Minnesota.
 
-CE: 24 hours biennial; no mandatory classroom hour minimum; no mandatory ethics hour requirement in the same structure as Minnesota. Wisconsin's CE flexibility — all hours can be completed through self-paced online courses — makes compliance easier to manage than Minnesota's 12-hour classroom equivalent requirement.
+CE: 24 hours biennial; no mandatory ethics hour requirement in the same structure as Minnesota. Wisconsin's CE flexibility — all hours can be completed through self-paced online courses — is similar to Minnesota's, where the non-company-sponsored requirement can likewise be satisfied entirely online through an independent provider.
 
-Overall assessment: Wisconsin's licensing requirements are somewhat less demanding at entry and more flexible in CE structure than Minnesota's. The lack of mandatory classroom hours in CE makes Wisconsin compliance more manageable for producers who prefer self-paced learning. The 180-day exam validity window is the most significant operational difference — candidates must apply promptly after passing.
+Overall assessment: Wisconsin's licensing requirements are somewhat less demanding at entry than Minnesota's. Both states allow CE to be completed entirely through self-paced online courses. The 180-day exam validity window is the most significant operational difference — candidates must apply promptly after passing.
 
 ### Iowa
 
 Prelicensing: Iowa has no mandatory prelicensing education requirement — candidates can sit for the state exam without completing a prescribed course. This is the most permissive prelicensing structure of the three states and represents the lowest barrier to entry.
 
-State exam: Pearson VUE; $49 per exam. Exam results valid 90 days — the shortest validity window of the three states, requiring prompt application after passing.
+State exam: Pearson VUE; $44 per exam. Exam results valid 90 days — the shortest validity window of the three states, requiring prompt application after passing.
 
 Application fee: Comparable to other states.
 
-CE: 36 hours triennial (every three years rather than biennial); 18 hours must be in-person classroom equivalent. Iowa's triennial CE cycle means producers complete CE over a three-year period rather than two years, but the total hours (36) are 50% more than Minnesota's or Wisconsin's biennial 24 hours. The 18-hour in-person classroom requirement exceeds Minnesota's 12-hour classroom requirement in absolute terms — making Iowa's CE structure among the most classroom-intensive in the region despite the less frequent cycle.
+CE: 36 hours triennial (every three years rather than biennial). Iowa's triennial CE cycle means producers complete CE over a three-year period rather than two years, but the total hours (36) are 50% more than Minnesota's or Wisconsin's biennial 24 hours.
 
 Overall assessment: Iowa is the easiest state to enter (no mandatory prelicensing) but has the most intensive CE structure over the full career cycle (36 hours including 18 classroom every three years). The Pearson VUE exam platform differs from the PSI platform used in Minnesota and Wisconsin, requiring platform-specific preparation for candidates testing in all three states.
 
@@ -94,7 +96,7 @@ The border opportunity: Producers based near state lines — the Twin Cities nea
 
 Non-resident CE treatment: All three states exempt non-resident producers from their CE requirements when the producer's home state CE is current. A Minnesota resident producer who completes Minnesota's 24-hour CE requirement automatically satisfies both Wisconsin's and Iowa's non-resident CE obligations without additional course completion. This makes multi-state licensing essentially free of additional compliance burden beyond the initial application fees.
 
-The Wisconsin carryover advantage for dual residents: Wisconsin allows up to 12 hours of CE carryover from one biennial period to the next — a benefit Minnesota does not provide. A producer who transitions from Minnesota to Wisconsin residency benefits from Wisconsin's more permissive CE structure going forward, including the elimination of the classroom hour minimum and the addition of the carryover provision.
+CE structure for dual residents: Wisconsin's CE requirement (24 hours biennial, 3 ethics) does not allow carryover from one renewal period to the next — the same is true of Minnesota. A producer who transitions from Minnesota to Wisconsin residency completes each state's full CE requirement independently, though both states otherwise permit the full CE requirement to be completed through self-paced online courses.
 
 ## The Hard Market Context: Property Insurance in All Three States
 
@@ -114,7 +116,7 @@ Evaluating each state across the dimensions most relevant to a producer's long-t
 
 Choose Minnesota if: You want the highest income ceiling, you have or can build professional networks in the Twin Cities commercial economy, you are interested in specialty lines complexity — healthcare professional liability, medical device, financial institution, technology E&O — or you are already in Minnesota and want to maximize the opportunity where you are. Minnesota's combination of Fortune 500 density, hard property market commission tailwind, growing Rochester market, and self-employed population that is systematically underinsured creates more addressable insurance opportunity per square mile of urban commercial territory than either Wisconsin or Iowa.
 
-Choose Wisconsin if: You are in a border area between Minnesota and Wisconsin and want the flexibility of serving both markets, you prefer a less structured CE obligation (no classroom minimum, carryover allowed), you are focused on agricultural insurance in the dairy belt of central Wisconsin, or you want a commercial lines market that is meaningful but less intensely competitive than the Twin Cities. Wisconsin's Madison and Milwaukee markets provide solid commercial careers; the rural agricultural market creates a different but viable path.
+Choose Wisconsin if: You are in a border area between Minnesota and Wisconsin and want the flexibility of serving both markets, you are focused on agricultural insurance in the dairy belt of central Wisconsin, or you want a commercial lines market that is meaningful but less intensely competitive than the Twin Cities. Wisconsin's Madison and Milwaukee markets provide solid commercial careers; the rural agricultural market creates a different but viable path.
 
 Choose Iowa if: You are focused on agricultural insurance — crop insurance, farm property, livestock — where Iowa's corn, soybean, hog, and specialty crop base creates one of the largest agricultural insurance markets in the country. Iowa's Des Moines insurance industry cluster also creates carrier-side employment opportunities — underwriting, actuarial, claims management, product development — that are not matched by Wisconsin's or Minnesota's insurance industry employment concentration. If your goal is a producer career in agricultural lines, Iowa's combination of enormous crop insurance premium volume, low competition density in rural markets, and deep agricultural community relationships creates a compelling case.
 

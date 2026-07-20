@@ -84,15 +84,15 @@ The failing score report also includes a diagnostic breakdown by content area sh
 
 In-person at a Pearson VUE test center:
 
-$41 per session for up to two exams taken together (Property + Casualty can be combined)
+$48 per exam
 
-Single exam in-person: $41
+Up to two exams (Property + Casualty) can be taken together in a single test-center session for one combined fee — confirm the current combined-session amount directly with Pearson VUE
 
 The primary Colorado test center is 3131 S. Vaughn Way, Suite 205, Aurora, CO 80014; additional authorized test centers exist across Colorado
 
 Online via OnVUE remote proctoring:
 
-$31 per exam taken through OnVUE
+$48 per exam taken through OnVUE
 
 Important restriction: You are allowed only one online (OnVUE) attempt per exam. If you fail an OnVUE exam, all subsequent retakes must be taken at a physical Pearson VUE test center. This is a Colorado-specific rule that catches many candidates off guard.
 
@@ -200,7 +200,7 @@ The Colorado insurance exam uses scaled scoring to ensure fairness across differ
 
 Can I take multiple lines of authority in one testing session, and how does that work?
 
-Yes, at a physical Pearson VUE test center you can take up to two exams in one session for a single fee of $41. Property and Casualty are the most common combination — they can be taken back-to-back in a 240-minute total session (120 minutes per exam). You cannot combine Life with Property in the same single-fee session; combined sessions are specifically designed for P&C. Taking both Property and Casualty together is cost-efficient and practical for candidates pursuing the full commercial P&C license. OnVUE remote exams do not offer combined sessions — each online exam is a separate booking at $31 each, with the additional restriction that you can only take one OnVUE attempt per exam across your lifetime for that line.
+Yes, at a physical Pearson VUE test center you can take up to two exams in one session for a single combined fee (confirm the current amount with Pearson VUE). Property and Casualty are the most common combination — they can be taken back-to-back in a 240-minute total session (120 minutes per exam). You cannot combine Life with Property in the same single-fee session; combined sessions are specifically designed for P&C. Taking both Property and Casualty together is cost-efficient and practical for candidates pursuing the full commercial P&C license. OnVUE remote exams do not offer combined sessions — each online exam is a separate $48 booking, with the additional restriction that you can only take one OnVUE attempt per exam across your lifetime for that line.
 
 If I fail one section of a combined Property and Casualty session, do I have to retake both?
 
@@ -214,6 +214,6 @@ Is the Colorado insurance exam the same regardless of where I take it — Aurora
 
 All Pearson VUE-authorized test centers administer the same exam under the same standardized procedures. The content, question pool, time limits, scoring methodology, and security protocols are identical regardless of which physical location you choose. The main practical differences between test center locations are scheduling availability and travel convenience. The primary Colorado licensing exam center is in Aurora (3131 S. Vaughn Way, Suite 205), but authorized Pearson VUE test centers exist across Colorado including in Fort Collins, Colorado Springs, Grand Junction, and other Front Range cities. Confirm your specific center's availability and any local logistics through the Pearson VUE scheduling portal before booking.
 
-Understanding the Colorado exam's structure — two sections, scaled scoring, the OnVUE one-attempt rule, the $41 combined session option, and the 30-minute early arrival requirement — gives you complete operational clarity before your exam day. Preparation for the content is necessary; preparation for the logistics is what separates candidates who walk in confidently from those who encounter avoidable surprises.
+Understanding the Colorado exam's structure — two sections, scaled scoring, the OnVUE one-attempt rule, the in-person combined-session option, and the 30-minute early arrival requirement — gives you complete operational clarity before your exam day. Preparation for the content is necessary; preparation for the logistics is what separates candidates who walk in confidently from those who encounter avoidable surprises.
 
 Visit JustInsurance to enroll today and prepare for the Pearson VUE exam with a state-approved Colorado prelicensing course aligned to every content area tested.

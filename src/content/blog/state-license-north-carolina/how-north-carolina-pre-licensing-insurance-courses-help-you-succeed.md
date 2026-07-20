@@ -20,9 +20,9 @@ imageCredit: Photo by cottonbro studio on Pexels
 
 ## Understand the North Carolina licensing process
 
-North Carolina requires you to complete specific [pre-licensing](/north-carolina/prelicensing) steps before you can legally sell or discuss insurance policies. By taking [north carolina pre-licensing](/north-carolina/prelicensing) insurance courses, you ensure that you meet the state's requirements and build a solid foundation for your future career. This isn't about jumping through hoops. Rather, it's a way to gain the knowledge you need to make confident decisions on behalf of your clients.
+As of October 1, 2025, North Carolina House Bill 737 eliminated the mandatory [pre-licensing](/north-carolina/prelicensing) education requirement, so completing a course is now optional rather than a legal prerequisite to sitting for the exam. Even so, taking [north carolina pre-licensing](/north-carolina/prelicensing) insurance courses is still the most common path candidates choose, since it builds a solid foundation for your future career. This isn't about jumping through hoops. Rather, it's a way to gain the knowledge you need to make confident decisions on behalf of your clients.
 
-Licensing is regulated by the [North Carolina Department of Insurance](/north-carolina/requirements), which sets rules for everything from the minimum study hours to the types of exams you'll take. Most people choose to pursue one line of authority at a time, like Life or Property & Casualty, but you can also combine multiple lines if you want to offer broader services. Either way, your journey begins with meeting all of the state-mandated coursework requirements.
+Licensing is regulated by the [North Carolina Department of Insurance](/north-carolina/requirements), which sets rules for the exams you'll take and the exam vendor (Pearson VUE) you'll test through. Most people choose to pursue one line of authority at a time, like Life or Property & Casualty, but you can also combine multiple lines if you want to offer broader services. Either way, your journey typically starts with deciding whether structured coursework or self-study is the better fit before you schedule your exam.
 
 ## Choose the right pre-licensing courses
 
@@ -36,11 +36,11 @@ Once you've settled on a pre-licensing provider, you'll embark on a structured s
 
 A common concern is time management, especially if you're juggling work or family commitments. To stay on track, break your study sessions into smaller chunks and use realistic deadlines. Some programs even include progress quizzes or milestone reviews that allow you to gauge how well you understand each section before moving on.
 
-Below is a sample table that outlines typical course lengths for major lines of authority:
+Below is a sample table that outlines typical course lengths for major lines of authority. These hours are no longer state-mandated in North Carolina, but they reflect a typical structured course length for candidates who choose to enroll:
 
 Line of Authority
 
-Required Hours
+Typical Course Hours (optional)
 
 Approx. Completion Time
 
@@ -98,6 +98,6 @@ By following a pre-licensing curriculum through an approved program, you give yo
 
 Your path to becoming a licensed [North Carolina insurance](/north-carolina) agent is as much about personal growth as it is about meeting official requirements. Each course topic you study adds to the value you bring to future clients. Each quiz you take boosts your confidence. And each day you show up to learn is another step closer to your goal.
 
-Now is the time to take action. If you're ready to enroll in north carolina pre-licensing insurance courses, do your research, find the right course provider, and commit to the process. It's more than a mandatory step. It's an investment in abilities that will shape your entire career. Whether you dream of working for a big firm, serving your local community, or becoming the go-to insurance resource in your area, the first step is right in front of you.
+Now is the time to take action. If you're ready to enroll in north carolina pre-licensing insurance courses, do your research, find the right course provider, and commit to the process. Even though it's optional under current North Carolina law, it's an investment in abilities that will shape your entire career. Whether you dream of working for a big firm, serving your local community, or becoming the go-to insurance resource in your area, the first step is right in front of you.
 
 Remember, you're not alone. JustInsurance is here if you need guidance for finding reputable pre-licensing classes or help with exam preparation. Start your journey today, and tomorrow you could be on your way to a rewarding career where you make a genuine impact on people's lives.

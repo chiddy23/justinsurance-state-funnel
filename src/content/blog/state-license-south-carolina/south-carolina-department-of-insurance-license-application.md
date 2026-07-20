@@ -40,7 +40,7 @@ The Director of Insurance leads the SCDOI. Your license application is reviewed 
 
 Before submitting your application, you should have:
 
-Completed South Carolina-approved [prelicense](/south-carolina/prelicensing) education
+(Optional but recommended) Completed a South Carolina [prelicense](/south-carolina/prelicensing) course — South Carolina does not require prelicensing education before you sit for the exam or apply
 
 Passed the South Carolina state exam
 
@@ -84,7 +84,7 @@ South Carolina as your target state
 
 Resident or non-resident producer (as applicable)
 
-The license type matching your prelicense education and exam
+The license type matching the exam you passed (and any prelicense course you completed, if applicable)
 
 Common options include:
 
@@ -196,7 +196,7 @@ Incomplete disclosure answers. Answering "no" when "yes" is the honest answer cr
 
 Missing documentation. "Yes" disclosure answers typically require supporting documents.
 
-Wrong license type. Applying for licenses you didn't complete prelicense education for means rejection.
+Wrong license type. Applying for a license type that doesn't match the exam(s) you actually passed means rejection.
 
 Unpaid fees. Applications without successful payment aren't processed.
 

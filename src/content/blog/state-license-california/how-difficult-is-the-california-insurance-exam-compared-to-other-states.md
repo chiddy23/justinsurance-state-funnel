@@ -35,8 +35,6 @@ Strong consumer protection focus. California has one of the strongest consumer p
 
 ## Where California Is Easier Than Other States
 
-60% passing score. Many states require 70% or higher. California's lower passing threshold means you can miss more questions and still pass. This is a real advantage — though not as generous as it sounds because the questions are still rigorous.
-
 No separate law exam. Some states (like Texas, for some lines) have you take multiple exams. California's combined Life, Accident, and Health exam handles everything in a single sitting.
 
 Well-documented exam content outline. CDI publishes a detailed content outline specifying exactly what can be tested. This transparency lets candidates prepare precisely.
@@ -49,7 +47,7 @@ Well-documented exam content outline. CDI publishes a detailed content outline s
 | Time limit | 3h 15m | 2h 30m | 3h 30m | 2h 30m |
 | Passing score | 60% | 70% | 70% | 70% |
 | State-specific content weight | 20–30% | 15–20% | 25–30% | 20–25% |
-| Prelicense education | 12 hours (Code & Ethics only) | 40 hours | 60 hours (2-15) | 40 hours |
+| Prelicense education | 12 hours (Code & Ethics only) | None required (optional) | 60 hours (2-15) | 40 hours |
 
 Each state has its own mix of factors. California's combination — 150 questions, 60% passing, 20–30% state content, 12 hours [prelicense](/california/prelicensing) — puts it in the moderate difficulty tier overall.
 
@@ -79,11 +77,11 @@ Focus on California-specific content. Don't treat state law as an afterthought. 
 
 Master scenario questions. Read each question carefully, identify what's being asked, and think through the answer rather than picking the first option that sounds right.
 
-Score 70%+ in practice. Don't aim for 60% in practice — aim higher. Test-day conditions almost always produce lower scores than practice.
+Score comfortably above 70% in practice. Don't aim to just squeak by the passing score — aim higher. Test-day conditions almost always produce lower scores than practice.
 
 ## 5 Frequently Asked Questions
 
-1. Is California harder than Texas or Florida for insurance exams? California's passing score is lower (60% vs. 70%), but the content is broader and the state-specific law section is detailed. Overall difficulty is comparable — no single state is dramatically harder than the others.
+1. Is California harder than Texas or Florida for insurance exams? California's passing score (60%) is actually lower than most other states' 70%, but the content is broader and the state-specific law section is detailed. Overall difficulty is comparable — no single state is dramatically harder than the others.
 
 2. Can I pass the California exam without extensive study? Very unlikely. Candidates who treat the exam casually typically fail. Serious preparation is the reliable path to passing.
 

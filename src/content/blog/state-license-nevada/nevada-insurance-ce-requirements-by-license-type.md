@@ -36,11 +36,9 @@ This 30-hour, 3-year framework distinguishes Nevada from most states, which use 
 
 ## Your License Renewal Cycle
 
-Nevada insurance licenses generally renew on a 3-year cycle, with specific timing rules:
+Nevada insurance licenses renew on a 3-year cycle, with a consistent timing rule:
 
-Initial cycle. Major Lines licensees first renew their license by the last day of their birth month following their initial 2-year period from issuance.
-
-Subsequent cycles. After the initial cycle, licenses renew every 3 years on the first day of the month following the issuance month.
+License renewal. Major Lines licensees renew their license by the last day of their birth month, every 3 years.
 
 This makes Nevada's renewal cycle longer than most states (which typically use 2-year cycles), giving you more flexibility — but also requiring careful tracking since renewal dates come less frequently.
 
@@ -90,7 +88,7 @@ Counts within the 30-hour total (not in addition)
 
 ## Nevada CE Timing Specifics
 
-No carryover. Hours completed in one renewal period don't carry forward to the next.
+Carryover policy unconfirmed. Nevada doesn't publicly post a carryover policy for excess CE hours — plan to complete exactly what you need each cycle and confirm with the Nevada Division of Insurance if you're unsure.
 
 Course repetition. You generally cannot take the same CE course more than once in a renewal period for credit. Choose varied courses.
 
@@ -200,7 +198,7 @@ Note: Sircon is the primary platform for Nevada license renewals. Make sure you 
 
 - How many CE hours do I need every 3 years in Nevada? 30 hours of CE, including 3 hours of ethics, every triennial renewal cycle.
 - Why does Nevada use a 3-year cycle when most states use 2 years? This is Nevada's regulatory choice. The longer cycle gives producers more flexibility but requires careful tracking.
-- Can I carry over extra CE hours to the next renewal cycle? No. Nevada doesn't allow carryover of excess credits.
+- Can I carry over extra CE hours to the next renewal cycle? Nevada doesn't publicly post a carryover policy for excess CE credits. Plan to complete exactly what you need each cycle and confirm current policy with the Nevada Division of Insurance.
 - What if I hold licenses in multiple lines of authority? Your total CE requirement is still 30 hours — you don't double it.
 - Are Long-Term Care training hours on the same cycle as my license? No. LTC has its own 2-year cycle for the 4-hour ongoing training, separate from your 3-year license cycle.
 

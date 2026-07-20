@@ -190,7 +190,7 @@ Missing documentation. "Yes" disclosure answers typically require supporting doc
 
 Wrong license type. Applying for licenses you didn't complete prelicense education for means rejection.
 
-Submitting application past 12-month window. Your prelicense exam result is valid for 12 months. Beyond that, you must retake.
+Letting your prelicensing certificate lapse. Your prelicensing completion certificate is valid for 12 months, and you must pass the PSI exam within that window. Beyond that, you must retake the prelicensing course.
 
 ## If Your Application Is Denied
 

@@ -1,8 +1,8 @@
 ---
 title: Build a Strong Client Base with Effective Business Planning
 description: >-
-  Insurance agent business planning: what agents actually earn, commission
-  structures, income by specialty, and how to increase your earnings in 2026.
+  Insurance agent business planning: clarifying your mission, identifying your
+  ideal clients, building a strategic schedule, and networking for referrals.
 keyword: insurance agent business planning
 targetKeywords: insurance agent business planning
 cluster: insurance-agent-career-guide

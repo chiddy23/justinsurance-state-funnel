@@ -56,11 +56,11 @@ If your Colorado insurance producer license has been expired for more than one c
 
 What is required:
 
-Complete a new state-approved 50-hour prelicensing course for each line of authority you wish to obtain (or 90 hours for combined Life, Accident & Health)
+Complete a new state-approved 50-hour prelicensing course for each line of authority you wish to obtain (100 hours total if reinstating both Life and Accident & Health, since each is its own separate 50-hour course — Colorado has no combined course)
 
 Pass the Certificate Exam (70% passing score, proctored by a disinterested third party)
 
-Schedule and pass the Pearson VUE state licensing exam ($47 per line, 70% passing score)
+Schedule and pass the Pearson VUE state licensing exam ($48 per line, 70% passing score)
 
 Submit a new license application through NIPR or Sircon ($47 per line + $5.60 NIPR fee)
 
@@ -114,13 +114,13 @@ Once approved (3–5 business days), print your license through Sircon
 
 For Path 2 (lapsed over one year):
 
-Enroll in a state-approved Colorado prelicensing course (50 hours per line, or 90 hours for combined Life, A&H)
+Enroll in a state-approved Colorado prelicensing course (50 hours per line; 100 hours total if reinstating both Life and A&H, as two separate 50-hour courses)
 
 Complete all course requirements and pass the Certificate Exam (70%, proctored)
 
 Schedule the Pearson VUE state exam at pearsonvue.com/co/insurance or by calling (800) 274-2616
 
-Pass the Pearson VUE exam (70% passing score; $47 fee per line)
+Pass the Pearson VUE exam (70% passing score; $48 fee per line)
 
 Submit a new license application through NIPR or Sircon ($47 per line + fees)
 

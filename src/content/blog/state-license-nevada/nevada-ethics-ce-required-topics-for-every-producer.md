@@ -121,7 +121,7 @@ Together, these specialty trainings and ethics CE reinforce a coherent standard 
 ## 5 Frequently Asked Questions
 
 - Can I substitute general CE hours for the Ethics requirement? No. The 3-hour Ethics requirement must be specifically ethics-focused content approved by the Nevada DOI.
-- Can I take more than 3 hours of ethics? Yes. If you complete more ethics hours, they count toward your general CE hours. However, Nevada doesn't allow carryover to the next cycle.
+- Can I take more than 3 hours of ethics? Yes. If you complete more ethics hours, they count toward your general CE hours. Nevada doesn't publicly post a carryover policy for excess hours into the next cycle, so plan to complete only what you need each period and confirm with the Nevada DOI if you're unsure.
 - Does the Ethics requirement apply every renewal cycle or just once? Every cycle. The 3-hour Ethics requirement applies to every 3-year renewal period throughout your career.
 - Are online ethics courses accepted? Yes. The Nevada DOI accepts approved online ethics courses, and most agents complete their ethics CE online.
 - What happens if I complete 30 hours but skip the Ethics portion? Your CE won't be considered complete, and your renewal won't be accepted. The Ethics requirement is mandatory.

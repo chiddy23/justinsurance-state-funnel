@@ -30,7 +30,7 @@ Producers who have been continuously licensed in Tennessee since January 1, 1994
 
 The continuous licensure requirement is strict. Any lapse in Tennessee licensure after January 1, 1994 — even a brief lapse due to a missed renewal — breaks the continuity and eliminates eligibility for this exemption. A producer who was licensed in Tennessee on January 1, 1994 but whose license lapsed for even one day in a subsequent year does not qualify.
 
-How to verify eligibility: Contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov and request confirmation of your continuous licensure history dating to January 1, 1994. Do not assume the exemption applies based on personal recollection — obtain TDCI confirmation before treating the CE requirement as waived.
+How to verify eligibility: Contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov and request confirmation of your continuous licensure history dating to January 1, 1994. Do not assume the exemption applies based on personal recollection — obtain TDCI confirmation before treating the CE requirement as waived.
 
 ### What the Exemption Covers
 
@@ -48,7 +48,7 @@ NFIP flood certification. If a continuously licensed producer sells NFIP flood p
 
 ### The Practical Implication
 
-A Tennessee producer continuously licensed since January 1, 1994 who sells life insurance, homeowners insurance, and auto insurance — but not LTC and not annuities — has no CE obligation. They do not need to complete any courses, track any hours, or report anything to the TDCI for CE purposes. Their license renews through NIPR on the biennial birth month schedule with the $65.60 renewal fee and the background disclosure questions — CE completion is simply not a condition of their renewal.
+A Tennessee producer continuously licensed since January 1, 1994 who sells life insurance, homeowners insurance, and auto insurance — but not LTC and not annuities — has no CE obligation. They do not need to complete any courses, track any hours, or report anything to the TDCI for CE purposes. Their license renews through NIPR on the biennial birth month schedule with the standard renewal fee and the background disclosure questions — CE completion is simply not a condition of their renewal.
 
 If the same producer begins selling annuities, they must complete the 4-hour annuity suitability training before their first annuity transaction. That training counts as CE in the period completed — but since the CE exemption eliminates the CE requirement, the credit is irrelevant. The training is a product qualification, not a CE obligation.
 
@@ -64,7 +64,7 @@ This exemption covers the overwhelming majority of non-resident producers in Ten
 
 The non-resident CE exemption covers the full 24-hour Tennessee CE requirement including the 3-hour ethics component. A non-resident producer whose home state CE is current has no independent Tennessee CE obligation.
 
-The renewal process for non-residents: Non-resident renewal is submitted through NIPR under the Non-Resident Renewal (NRR) path. The $65.60 renewal fee applies. The renewal is processed based on home state license status — Tennessee does not independently verify CE completion for non-resident renewals when home state CE compliance is established.
+The renewal process for non-residents: Non-resident renewal is submitted through NIPR under the Non-Resident Renewal (NRR) path. The standard renewal fee applies. The renewal is processed based on home state license status — Tennessee does not independently verify CE completion for non-resident renewals when home state CE compliance is established.
 
 ### What the Exemption Does NOT Cover
 
@@ -118,17 +118,11 @@ A public adjuster who has been licensed for less than one full year before their
 
 This exemption mirrors the logic of similar exemptions in other states — a newly licensed adjuster who obtained their license recently has limited benefit from completing CE before their first renewal when they have been licensed for such a short period.
 
-## The CE Carryover Provision — Not an Exemption but Often Confused as One
+## CE Carryover — Not Publicly Posted, and Not an Exemption Even Where It Applies
 
-Tennessee allows producers to carry over up to 12 excess CE hours from one biennial period to the next. This is not an exemption from CE — it is a partial credit mechanism for over-completion.
+Some states allow producers to carry a limited number of excess CE hours forward into the next biennial period. Tennessee's specific treatment of excess CE hours is not publicly posted by the TDCI — there is no confirmed hour limit or carryover mechanism published on the agency's site. Producers who complete more than 24 hours in a period should not assume any specific carryover figure applies; contact the TDCI directly at (615) 741-2241 or ce.agent.licensing@tn.gov to confirm whether — and how much — excess credit carries forward before relying on it in renewal planning.
 
-How carryover works: A producer who completes 36 CE hours in a biennial period has 24 hours credited to the current period and 12 hours carried forward to the next period. The carried-forward 12 hours reduce the CE obligation in the next period from 24 hours to 12 hours — but they do not eliminate it.
-
-The ethics carryover limitation: Excess ethics hours carry forward as general CE credit only — not as ethics credit. A producer who completes 6 ethics hours in a period has 3 credited as ethics and 3 credited as general CE in the current period. If the 3 excess ethics hours are among the 12 carried forward, they carry as general CE in the next period. The next period's 3-hour ethics requirement must be satisfied with newly completed ethics-designated CE regardless of carried-forward hours.
-
-The carryover ceiling: A maximum of 12 hours may carry over. Any excess beyond 12 is forfeited regardless of how many total hours were completed.
-
-Carryover and repeated courses: Hours carried over to the next period are counted as duplicate if the same course is taken again in the new period. A carried-forward course cannot be repeated for additional credit in the subsequent period.
+Even if some carryover is confirmed for a producer's specific situation, it would not function as an exemption. Carryover, where it exists in any state's framework, is a partial-credit mechanism for over-completion, not a waiver — it can reduce a future period's hour count but does not eliminate the ethics-hour requirement, which must generally be satisfied with newly completed, ethics-designated CE regardless of any carried-forward general credit. Do not plan a renewal around an assumed carryover allowance until the TDCI has confirmed it in writing for your specific circumstances.
 
 ## Confirming Your Exemption Status
 
@@ -146,7 +140,7 @@ Question 3: Does the exemption cover the specific obligation I am treating as wa
 
 When in doubt about whether an exemption applies to your specific situation, contact the TDCI before treating any CE obligation as waived:
 
-Phone: (615) 741-2693 or (888) 416-0868
+Phone: (615) 741-2241
 
 Email: ce.agent.licensing@tn.gov
 
@@ -160,7 +154,7 @@ It appears to — but verify before your next renewal rather than continuing to 
 
 I am a non-resident producer from Florida. Florida has its own CE requirement that I complete every two years. Does satisfying Florida's CE automatically exempt me from Tennessee's CE requirement?
 
-Florida has adopted the NAIC Producer Licensing Model Act and offers non-resident licenses to Tennessee producers on equivalent terms. Tennessee recognizes Florida's CE compliance as satisfaction of Tennessee's non-resident CE requirement. As long as your Florida resident license is active and your Florida CE is current — meaning you have satisfied Florida's biennial CE requirement — your Tennessee non-resident CE obligation is simultaneously satisfied. You do not need to complete any Tennessee-specific CE courses. Your Tennessee non-resident renewal is submitted through NIPR's NRR path with the $65.60 renewal fee, and CE compliance is demonstrated through the active status of your Florida license rather than through Tennessee CE records. The exception: if you sell LTC products in Tennessee, confirm whether your Florida LTC training completion satisfies Tennessee's LTC training requirement, or whether a Tennessee-specific LTC training completion is needed.
+Florida has adopted the NAIC Producer Licensing Model Act and offers non-resident licenses to Tennessee producers on equivalent terms. Tennessee recognizes Florida's CE compliance as satisfaction of Tennessee's non-resident CE requirement. As long as your Florida resident license is active and your Florida CE is current — meaning you have satisfied Florida's biennial CE requirement — your Tennessee non-resident CE obligation is simultaneously satisfied. You do not need to complete any Tennessee-specific CE courses. Your Tennessee non-resident renewal is submitted through NIPR's NRR path with the standard renewal fee, and CE compliance is demonstrated through the active status of your Florida license rather than through Tennessee CE records. The exception: if you sell LTC products in Tennessee, confirm whether your Florida LTC training completion satisfies Tennessee's LTC training requirement, or whether a Tennessee-specific LTC training completion is needed.
 
 I hold both a Personal Lines license and a credit insurance limited lines license in Tennessee. Do I need to complete CE for both licenses or just one?
 

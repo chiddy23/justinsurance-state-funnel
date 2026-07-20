@@ -22,7 +22,7 @@ Here's the complete breakdown of the Georgia insurance exam format.
 
 ## Who Administers the Exam
 
-Georgia insurance licensing exams are administered by Prometric on behalf of the Georgia Office of Commissioner of Insurance and Safety Fire (OCI). You register, schedule, and take the exam at Prometric testing centers throughout Georgia.
+Georgia insurance licensing exams are administered by Pearson VUE on behalf of the Georgia Office of Commissioner of Insurance and Safety Fire (OCI). You register, schedule, and take the exam at Pearson VUE testing centers throughout Georgia.
 
 ## Exam Breakdown by License Type
 
@@ -122,7 +122,7 @@ Pacing strategy:
 
 ## What the Testing Interface Looks Like
 
-Prometric's testing platform allows you to:
+Pearson VUE's testing platform allows you to:
 
 - Navigate forward and backward through questions
 
@@ -162,7 +162,7 @@ These percentages shift over time and aren't exact, but they give you a sense of
 
 ## What to Expect on Exam Day
 
-- Arrive at your Prometric center at least 30 minutes early
+- Arrive at your Pearson VUE center at least 30 minutes early
 
 - Bring two forms of ID (one must be government-issued with photo)
 
@@ -190,13 +190,13 @@ Either way, results are reported electronically to OCI. You don't need to submit
 
 If you fail:
 
-- Wait at least 24 hours before scheduling a retake (check current Prometric policies)
+- Wait 14 days before scheduling a retake after your first or second failure, or 60 days after a third or subsequent failure (check current Pearson VUE policies)
 
-- Pay a new exam fee of approximately $63
+- Pay a new exam fee of approximately $67
 
 - Georgia doesn't cap attempts — you can retake until you pass
 
-- Each retake requires new Prometric registration
+- Each retake requires new Pearson VUE registration
 
 Use your failed score report to focus study on weak content areas before retaking.
 
@@ -210,7 +210,7 @@ Use your failed score report to focus study on weak content areas before retakin
 
 4. What happens if I run out of time? Unanswered questions count as wrong. Always guess rather than leaving blank. The exam auto-submits when time expires.
 
-5. Can I flag questions and come back to them? Yes. Prometric's testing platform lets you flag questions and return before submitting. Use this strategy — answer what you know first, then revisit uncertain questions with remaining time.
+5. Can I flag questions and come back to them? Yes. Pearson VUE's testing platform lets you flag questions and return before submitting. Use this strategy — answer what you know first, then revisit uncertain questions with remaining time.
 
 ## Know the Format, Own the Exam
 

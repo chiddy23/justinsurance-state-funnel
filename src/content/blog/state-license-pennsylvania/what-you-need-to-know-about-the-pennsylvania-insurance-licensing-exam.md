@@ -26,15 +26,15 @@ Before anything else, confirm you meet Pennsylvania’s basic licensing requirem
 
 Each type of insurance license (like life, health, property, or casualty) may have its own stipulations for training and testing. Make sure to verify exactly what license tracks you plan to pursue so you don’t waste time preparing for the wrong exam. While it’s possible to earn multiple licenses, focus on one license at a time if you’re brand-new to insurance.
 
-## Fulfill your pre-licensing course
+## Consider a pre-licensing course (optional)
 
-Pennsylvania typically requires you to take an approved [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) course for each line of authority you want to sell, such as life or health insurance. These courses can range from 20 to 40 hours of classwork, depending on the license type. Some programs allow you to study online at your own pace, while others offer classroom sessions if you prefer face-to-face instruction.
+Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so you're no longer required to take an approved [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) course for the line of authority you want to sell, such as life or health insurance. Even so, many candidates choose to take one — courses typically range from 20 to 40 hours of classwork, depending on the license type. Some programs allow you to study online at your own pace, while others offer classroom sessions if you prefer face-to-face instruction.
 
-Try to choose a provider that matches your learning style. If you’re more of a visual learner, look for a course with video tutorials and interactive quizzes. If you like a more traditional approach, live classes might offer a personal touch. Completing your required coursework not only meets state regulations, but it also gives you the foundation to tackle the Pennsylvania insurance licensing exam with clarity and confidence.
+Try to choose a provider that matches your learning style. If you’re more of a visual learner, look for a course with video tutorials and interactive quizzes. If you like a more traditional approach, live classes might offer a personal touch. Completing a course isn't required by the state, but it can give you the foundation to tackle the Pennsylvania insurance licensing exam with clarity and confidence.
 
 ## Develop a strong study routine
 
-Once you’ve enrolled in a pre-licensing course, commit to a regular study schedule. Avoid cramming all the material at the last minute, which can be counterproductive and add unnecessary stress. Instead, aim for daily or weekly study sessions that build a strong understanding of each topic over time.
+Once you’ve started studying — whether through a pre-licensing course or on your own — commit to a regular study schedule. Avoid cramming all the material at the last minute, which can be counterproductive and add unnecessary stress. Instead, aim for daily or weekly study sessions that build a strong understanding of each topic over time.
 
 Study with a sense of balance so you don’t burn out. Break complex subjects into smaller sections. Review insurance terminology in bite-sized pieces, and consider using flashcards or short quizzes to test your retention in real time. Keep an eye on any weak areas you discover and spend extra time reinforcing them. The more familiar you become with the core concepts, the more prepared you’ll feel as exam day approaches.
 

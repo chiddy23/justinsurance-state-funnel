@@ -70,7 +70,7 @@ To qualify for a Florida 4-40 license:
 
 - You must be a Florida resident or have a Florida-based employer
 
-- You must complete 52 hours of approved [prelicense](/florida/prelicensing) education (or qualify through experience or education equivalents)
+- You must complete a DFS-approved [prelicense](/florida/prelicensing) designation program or otherwise qualify through approved education or experience equivalents (check current hour requirements with DFS)
 
 - You must pass the Florida 4-40 state exam
 
@@ -107,6 +107,6 @@ If you're thinking long-term about a career as an independent P&C agent or agenc
 
 ## Start Your Florida Insurance Career with the Right License
 
-At JustInsurance, our Florida prelicense courses prepare you for your exam — whether that's the 4-40, 2-15, 2-40, or 2-20. Choose the path that fits your role and we'll get you ready to pass.
+At JustInsurance, our Florida prelicense courses prepare you for the 2-14, 2-40, and 2-15 exams. If your path runs through the 4-40 or 2-20, you'll need to complete a DFS-approved program for that specific credential — but we're glad to help you plan whichever route fits your goals.
 
 Enroll today and start building your Florida insurance career.

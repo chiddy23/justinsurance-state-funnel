@@ -288,6 +288,8 @@ Step 7: Be patient but persistent. Automotive industry relationships develop thr
 
 ## Income Reality in Automotive Specialty Practice
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 Big Three executive practices: Established specialists commonly earn $145,000-$290,000+ annually, with top practitioners earning substantially more.
 
 UAW retiree practices: Medicare-anchored senior practices with LTC and supplemental coverage commonly earn $100,000-$190,000+ for established producers.

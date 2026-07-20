@@ -22,19 +22,19 @@ Keywords:[north carolina property and casualty license](/north-carolina)
 
 ## Understand the exam prerequisites
 
-Before you can sit for the North Carolina property and casualty license exam, you need to meet a few basic requirements. You must be at least 18 years old and maintain U.S. residency. Although you do not need previous insurance experience, you are required to complete a state-approved [pre-licensing](/north-carolina/prelicensing) course for property and casualty insurance.
+Before you can sit for the North Carolina property and casualty license exam, you need to meet a few basic requirements. You must be at least 18 years old and maintain U.S. residency. As of October 1, 2025 (HB 737), North Carolina no longer requires a state-approved [pre-licensing](/north-carolina/prelicensing) course for property and casualty insurance — it's optional, though most candidates still take one to prepare for the exam.
 
 You will also be asked to submit fingerprints and undergo a background check. This process helps ensure that insurance producers in North Carolina uphold professional standards. If you have any prior incidents on your record, you may need to provide extra documentation or explanations before being allowed to take the exam.
 
-## Complete a pre-licensing course
+## Consider a pre-licensing course
 
-North Carolina requires that you finish a [North Carolina prelicensing](/north-carolina/prelicensing) course specific to the property and casualty lines of authority. This coursework covers topics such as policy types, state regulations, underwriting guidelines, and ethics. Because the exam tests you on these core concepts, your pre-licensing class is more than just a formality, it builds the foundation for your future success in the industry.
+Even though it's optional, most candidates still choose a [North Carolina prelicensing](/north-carolina/prelicensing) course specific to the property and casualty lines of authority. This coursework covers topics such as policy types, state regulations, underwriting guidelines, and ethics. Because the exam tests you on these core concepts, a pre-licensing class is more than just a formality, it builds the foundation for your future success in the industry.
 
 Look for courses offered by reputable providers that focus on interactivity, such as live webinars or practice quizzes you can retake. As you study, take note of any topics that come up frequently, such as property insurance fundamentals and liability coverage limits. By engaging with the material often, you will reduce your chances of last-minute cramming and walk into the testing center with greater confidence.
 
 ## Schedule your exam
 
-Once you finish your pre-licensing program, you are ready to schedule your state exam. You will typically register through an approved testing service, so confirm the process on the official [North Carolina Department of Insurance](/north-carolina/requirements) website. Aim to book your test date a week or two in advance to get your preferred time slot, especially if you plan to test on weekends or wish to avoid busy periods.
+Once you feel prepared — whether through a pre-licensing course or self-study — you are ready to schedule your state exam. You will typically register through an approved testing service, so confirm the process on the official [North Carolina Department of Insurance](/north-carolina/requirements) website. Aim to book your test date a week or two in advance to get your preferred time slot, especially if you plan to test on weekends or wish to avoid busy periods.
 
 When selecting a test day, consider your personal schedule so you can give yourself time to review. If you have a demanding workweek, it may be helpful to choose an early weekend appointment so you can focus on final prep sessions without rushing.
 
@@ -52,9 +52,9 @@ What to Do
 
 Typical Time/Cost
 
-Pre-licensing course
+Pre-licensing course (optional)
 
-Complete state-approved training
+Complete training if you choose to enroll
 
 20–40 hours; varies by provider
 
@@ -62,7 +62,7 @@ State exam registration
 
 Book your exam date with testing service
 
-$45–$75 exam fee
+$45 exam fee
 
 Exam day
 
@@ -104,6 +104,6 @@ Whether you are brand-new to the industry or looking to expand your credentials,
 
 ## Take the next step now
 
-You have read the requirements, studied the process, and explored ways to maintain your license in the future. The rest is up to you. Schedule your pre-licensing course, plan a realistic study timeline, and register for your exam. As soon as you secure your North Carolina property and casualty license, you can start building a career that serves the people of your state and opens new opportunities for professional growth.
+You have read the requirements, studied the process, and explored ways to maintain your license in the future. The rest is up to you. Decide whether to enroll in a pre-licensing course, plan a realistic study timeline, and register for your exam. As soon as you secure your North Carolina property and casualty license, you can start building a career that serves the people of your state and opens new opportunities for professional growth.
 
 If you are ready to get started, reach out to JustInsurance or a similar licensing support provider. With the right preparation, you will feel confident on exam day and well-equipped to begin your journey in the property and casualty insurance field.

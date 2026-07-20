@@ -16,7 +16,7 @@ imageAlt: >-
   insurance code: core laws for licensed producers.
 ---
 
-Missouri's insurance legal framework is built on Missouri Revised Statutes (RSMo) — administered by the Department of Commerce and Insurance (DCI/DIFP). What makes Missouri's framework most distinctive is the combination of pure comparative negligence (Mo. Rev. Stat. § 537.765 — the most plaintiff-friendly auto liability standard; no fault bar; any fault recovers proportionally), RSMo § 303.190's $10,000 statutory property damage minimum (among the lowest nationally), required UM at 25/50 (RSMo § 379.203), and the 5-employee workers' comp threshold (1-employee for construction) with NCCI rating and Travelers as the assigned risk carrier. Add Healthcare.gov (federal marketplace), MO HealthNet (Missouri Medicaid expanded through contested Amendment 2 ballot initiative; implemented summer 2021), the Annuity Best Interest standard (effective August 30, 2024), and the "highest degree of care" auto driving standard — and Missouri's insurance legal landscape is more distinctive than its Midwest geographic profile suggests.
+Missouri's insurance legal framework is built on Missouri Revised Statutes (RSMo) — administered by the Department of Commerce and Insurance (DCI/DIFP). What makes Missouri's framework most distinctive is the combination of pure comparative negligence (Mo. Rev. Stat. § 537.765 — the most plaintiff-friendly auto liability standard; no fault bar; any fault recovers proportionally), RSMo § 303.190's $10,000 statutory property damage minimum (among the lowest nationally), required UM at 25/50 (RSMo § 379.203), and the 5-employee workers' comp threshold (1-employee for construction) with NCCI rating and Travelers as the assigned risk carrier. Add Healthcare.gov (federal marketplace), MO HealthNet (Missouri Medicaid expanded through contested Amendment 2 ballot initiative; implemented summer 2021), and the "highest degree of care" auto driving standard — and Missouri's insurance legal landscape is more distinctive than its Midwest geographic profile suggests.
 
 ## Missouri Insurance Legal Framework
 
@@ -48,7 +48,7 @@ NIPR application: $100; 24-48 hr wait; 5-10 business days; no temp license
 
 Renewal: 2 years; last day birth month; CE 16 hrs/3 Ethics
 
-Annuity Best Interest: 4-hr one-time (August 30, 2024); or 1-hr update for prior completions
+Specialty CE (annuity, LTC, NFIP flood): not on record with the DCI — confirm current requirements with the Missouri DCI if you sell these product lines
 
 License grounds for action:
 

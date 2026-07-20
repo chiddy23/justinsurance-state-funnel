@@ -24,7 +24,7 @@ Every Louisiana resident insurance producer must complete 24 hours of approved c
 
 The 24-hour Louisiana requirement applies per license class — Life, Accident & Health, Property, and Casualty are separate license classes in Louisiana. Producers who hold multiple license classes should verify with the LDI whether CE hours are shared across classes or required independently per class, as this is a Louisiana-specific consideration that differs from states like Kentucky, where a single 24-hour block covers all lines.
 
-⚠️ Verify with LDI at (225) 342-0860 whether CE hours are shared across Louisiana license classes or required per class before advising clients.
+⚠️ Verify with LDI at (800) 259-5300 whether CE hours are shared across Louisiana license classes or required per class before advising clients.
 
 ## The New Legislative Updates Requirement (Effective July 31, 2027)
 
@@ -34,9 +34,9 @@ This is a significant and recent change that reflects the pace of legislative ac
 
 ## Renewal Period and Deadline
 
-Louisiana insurance producer licenses expire on the last day of the licensee's birth month, every two years. All required CE must be completed before the renewal application is submitted. The renewal fee for resident individual producers is $50.
+Louisiana insurance producer licenses expire on the last day of the licensee's birth month, every two years. All required CE must be completed before the renewal application is submitted. Contact the LDI for the current resident individual producer renewal fee before submitting your renewal.
 
-⚠️ Late renewal fees and reinstatement procedures — verify current penalty amounts with LDI at (225) 342-0860 or ldi.la.gov.
+⚠️ Late renewal fees and reinstatement procedures — verify current penalty amounts with LDI at (800) 259-5300 or ldi.la.gov.
 
 ## How CE Hours Are Reported
 

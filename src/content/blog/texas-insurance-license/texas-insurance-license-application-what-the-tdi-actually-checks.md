@@ -34,9 +34,9 @@ Having a criminal record doesn't automatically disqualify you — but certain co
 
 The application asks a series of yes/no questions about your background — prior license denials, criminal history, regulatory actions, bankruptcies, and more. Answer these honestly. TDI cross-references your answers against background check results. Misrepresentation on a license application is taken seriously and can result in denial or future disciplinary action.
 
-## Your Prelicense Education Completion
+## Prelicense Education — Not Required in Texas
 
-TDI confirms that your 40 hours of approved [prelicense](/texas/prelicensing) education were completed through a TDI-approved provider. Make sure your course provider submits your completion electronically — most reputable providers do this automatically.
+Texas doesn't require prelicensing education for standard producer licenses, so there's nothing for TDI to verify here. If you choose to take an [optional prelicense course](/texas/prelicensing) to prepare for the exam, TDI won't ask for a completion certificate — the course simply helps you get ready for the Pearson VUE exam itself.
 
 ## Your Application Fee
 

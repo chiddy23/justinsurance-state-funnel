@@ -166,7 +166,7 @@ Never leave questions blank — guess rather than skip
 
 ## After the Exam
 
-If you pass: Your result reports electronically to the DFR. You can submit your license application through NIPR within 12 months of passing.
+If you pass: Your result reports electronically to the DFR. Note that Oregon's 12-month clock runs on your prelicensing completion certificate — you must pass the PSI exam within 12 months of finishing your prelicensing course, or you'll need to retake the course. Once you pass, you submit your license application through NIPR.
 
 If you fail: You receive a score report showing weak content areas. Use this for diagnostic purposes. You can retake the exam — pay a new fee and schedule again.
 
@@ -175,7 +175,7 @@ If you fail: You receive a score report showing weak content areas. Use this for
 - How many questions are on the Oregon Life and Health combined exam? 150 questions. You have 2 hours 40 minutes to complete them.
 - What's the passing score? 70%. You need to answer at least 70% of questions correctly to pass.
 - Can I take the Oregon insurance exam online from home? Yes. Oregon offers online remote-proctored testing through PSI as an alternative to physical test centers.
-- How long is my Oregon passing exam result valid? 12 months. You must submit your license application within 12 months of passing your prelicense exam, or you'll need to retake.
+- How long is my Oregon passing exam result valid? The 12-month window applies to your prelicensing completion certificate, not your exam result — you must pass the PSI exam within 12 months of completing your prelicensing course, or you'll need to retake the course.
 - Does Oregon use a separate Laws and Regulations exam? Some license paths involve a separate Laws and Regulations exam (12-00, 50 questions, 1 hour). For the combined Life and Health pathway (12-03), Oregon-specific laws are integrated within the main exam.
 
 ## Walk Into the Oregon Exam Prepared

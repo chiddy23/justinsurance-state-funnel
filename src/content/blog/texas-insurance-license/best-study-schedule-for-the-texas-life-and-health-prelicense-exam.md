@@ -56,7 +56,7 @@ Take breaks. 45 to 50 minutes of focused study followed by a 10-minute break out
 
 ## 5 Frequently Asked Questions
 
-- How many hours of studying does it take to pass the Texas exam? Most successful candidates put in 40 to 60 hours of total study time. This aligns closely with the required 40-hour [prelicense](/texas/prelicensing) course — but you'll want additional practice time on top of that.
+- How many hours of studying does it take to pass the Texas exam? Most successful candidates put in 40 to 60 hours of total study time. This aligns closely with the optional 40-hour [prelicense](/texas/prelicensing) course (Texas doesn't require prelicensing, but many candidates take one) — but you'll want additional practice time on top of that.
 - Is it better to study a little every day or do longer sessions on weekends? Daily consistency beats weekend cramming significantly. Even 60 minutes a day five days a week leads to better retention than five hours on Saturday.
 - Should I study Life and Health separately or together? Study them separately during your content weeks, but mix them in your practice exams during week four. The actual combined exam won't separate them for you.
 - How do I know when I'm ready to sit for the exam? When you're consistently scoring 75% or higher on full practice exams, you're ready. Don't aim for 70% in practice — give yourself a buffer.

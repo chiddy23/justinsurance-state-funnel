@@ -21,6 +21,8 @@ imageCredit: Photo by Aleksandar Cvetanovic on Pexels
 
 Insurance agent earnings might surprise you, especially if you are new to the field. While many entry-level agents start out around the $30,000–$50,000 per year mark, there is significant room for growth once you gain experience and build a solid client base. Some top-producing agents eventually make six figures, thanks to a steady flow of commissions and policy renewals.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 That said, income is never guaranteed. Factors like the health of the economy, your local market, and the types of policies you sell all play roles in shaping your take-home pay. It helps to stay informed so you can maximize your earning potential right from the start.
 
 ## Know how commissions work

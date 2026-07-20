@@ -30,9 +30,9 @@ Take the time to review Arizona’s specific guidelines. Even if you are complet
 
 ## Choose the right training
 
-Before you can officially apply for your Arizona health insurance license, you need to complete state-approved pre-licensing coursework. This requirement is designed to give you a foundational understanding of relevant laws, ethical considerations, and basic coverage concepts. Despite its importance, some candidates try to rush through or skip classes.
+Arizona doesn't legally require pre-licensing coursework before you sit for the health exam — but a quality prep course is designed to give you a foundational understanding of relevant laws, ethical considerations, and basic coverage concepts, and most candidates find skipping it makes the exam much harder to pass.
 
-Cutting corners on your pre-licensing coursework can hurt you in the long run. Not only might you fail to meet the state’s requirements, but you also risk missing the chance to build a solid knowledge base. Here are four key points to keep in mind when selecting a course:
+Cutting corners on your pre-licensing prep can hurt you in the long run. Not only might you struggle to pass the exam, but you also risk missing the chance to build a solid knowledge base. Here are four key points to keep in mind when selecting a course:
 
 -   Verify the provider is state-approved to ensure your hours count.
 -   Look for flexible learning options like online or weekend sessions.
@@ -70,7 +70,7 @@ Below are five common questions that arise when people apply for the Arizona hea
 1.  How long does it take to get my license? The timeline varies based on how quickly you complete your pre-licensing hours, submit your application, and schedule your exam. Plan on a few weeks to a few months from start to finish, depending on your personal schedule and availability of exam dates.
 2.  What happens if I fail the exam? You can retake the exam, but you will need to pay the exam fee again. Consider reviewing your weak areas and possibly choosing an alternative study approach, such as more practice tests or additional tutoring, before your next attempt.
 3.  Do I need separate licenses for different lines of authority? Yes. If you want to sell property and casualty insurance, for example, that requires a different line of authority and possibly different coursework and exams. However, many people hold multiple licenses to broaden their career opportunities.
-4.  Are online pre-licensing courses acceptable for Arizona? Yes, as long as the provider is approved by the state. Confirm that the course you choose includes the required hours and topics for your line of authority.
+4.  Are online pre-licensing courses acceptable for Arizona? Yes. Arizona doesn't mandate a specific course or hour count, but choosing a state-approved provider that covers the topics for your line of authority will best prepare you for the exam.
 5.  What if my license expires? You may face penalties, and you will typically need to reapply. Keep track of your renewal date, submit your CE credits on time, and ensure you complete any renewal paperwork before your license expires.
 
 Taking these details into account can save you weeks of headaches and keep you from making major missteps along the way.

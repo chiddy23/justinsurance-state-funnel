@@ -14,6 +14,8 @@ imageAlt: How to Build a Six-Figure Insurance Income in Minnesota
 
 Six figures is not a ceiling in Minnesota insurance — it is a milestone that most producers with five to eight years of disciplined effort can realistically reach, and that high-performing producers typically surpass well before their careers mature. The BLS reported a mean hourly wage of $50.44 for insurance sales agents in the Minneapolis-St. Paul MSA in May 2024 — approximately $104,915 annually — and that figure represents the average across all experience levels, not the ceiling for producers who build strategically. The producers who reach $100,000, $150,000, $200,000, and beyond in Minnesota are not exceptional in talent — they are exceptional in the specific decisions they make about market focus, compensation structure, retention discipline, cross-sell systems, and the compounding mechanics of book-based income that most new producers do not understand when they start. This post covers the complete roadmap from licensed producer to six-figure income in Minnesota: the income mechanics, the market choices, the timeline, the specific activities that accelerate the trajectory, and the mistakes that stall producers who should be earning more.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Understanding the Income Mechanics First
 
 Before discussing how to reach six figures, producers must understand exactly how insurance income is generated — because the mechanics differ fundamentally from salaried employment and determine which activities actually move income.

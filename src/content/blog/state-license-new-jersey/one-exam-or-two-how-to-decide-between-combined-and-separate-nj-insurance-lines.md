@@ -38,7 +38,7 @@ Advantages:
 
 Full study focus on one body of material at a time
 
-Lower upfront cost — $38 per exam paid separately
+Lower upfront cost — $47 per exam paid separately
 
 Less cognitive load, especially for candidates with no insurance background
 
@@ -98,7 +98,7 @@ Property and Casualty have less content overlap in the national sections than Li
 
 However, the state law sections for both P&C exams share the same Section 6 content (the 25 common NJ law questions) and differ only in their Section 7 line-specific content — Property-specific NJ rules versus Casualty-specific NJ rules (primarily the no-fault auto system).
 
-NJ's Property exam has the lowest [pass rate](/pass-rates) of all NJ lines at approximately 49%. The Casualty exam is higher at approximately 65–66%. Candidates who find the coinsurance formula and named-perils versus open-perils analysis challenging may benefit from taking Property alone first, with Casualty added after.
+NJ's Property exam has the lowest [pass rate](/pass-rates) of all NJ lines at approximately 49%. The Casualty exam is higher at approximately 65–66%. (These are approximate first-attempt candidate pass rates as reported by the state exam vendor, distinct from JustInsurance's own student pass rate — check the exam administrator for the current figures.) Candidates who find the coinsurance formula and named-perils versus open-perils analysis challenging may benefit from taking Property alone first, with Casualty added after.
 
 Total prelicensing requirement: 40 hours for both lines (20 per line).
 
@@ -122,7 +122,7 @@ Limitation: Personal Lines does not cover commercial lines. If your market inclu
 
 Does New Jersey offer a single combined Life and Health exam?
 
-No. New Jersey does not offer a combined Life and Health exam. Life and Accident & Health are separate lines of authority, each requiring its own 20-hour prelicensing course, its own PSI exam registration, and its own $38 exam fee. You may schedule both exams on the same day at a PSI test center if you choose, but they are administered as separate sessions. To hold both lines of authority — which is the standard for producers selling both life insurance and health insurance products — you must pass both exams separately.
+No. New Jersey does not offer a combined Life and Health exam. Life and Accident & Health are separate lines of authority, each requiring its own 20-hour prelicensing course, its own PSI exam registration, and its own $47 exam fee. You may schedule both exams on the same day at a PSI test center if you choose, but they are administered as separate sessions. To hold both lines of authority — which is the standard for producers selling both life insurance and health insurance products — you must pass both exams separately.
 
 Can I take all four exams — Life, Health, Property, and Casualty — in one day?
 
@@ -130,7 +130,7 @@ Technically, you can schedule multiple exams on the same day at a PSI test cente
 
 What if I only want to sell health insurance? Do I need to take the Life exam too?
 
-No. If your career plan is limited to selling health insurance products — medical, disability, long-term care, Medicare supplement — you only need the Accident and Health line of authority. You do not need the Life license unless you intend to sell life insurance or annuities. However, most producers who start in health eventually add Life because the products complement each other in client planning conversations. Completing both exams from the start costs an additional $38 and an additional 20 hours of prelicensing — a modest investment that significantly expands your product shelf.
+No. If your career plan is limited to selling health insurance products — medical, disability, long-term care, Medicare supplement — you only need the Accident and Health line of authority. You do not need the Life license unless you intend to sell life insurance or annuities. However, most producers who start in health eventually add Life because the products complement each other in client planning conversations. Completing both exams from the start costs an additional $47 and an additional 20 hours of prelicensing — a modest investment that significantly expands your product shelf.
 
 Is it better to take the Property or Casualty exam first if I'm doing them separately?
 

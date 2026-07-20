@@ -18,7 +18,7 @@ imageCredit: Photo by Anna Shvets on Pexels
 
 ## Understand licensure basics
 
-Embarking on your [Texas insurance license](/texas) training may feel overwhelming at first, but understanding the process helps you begin with confidence. One of the first things you need to know is that the Texas Department of Insurance (TDI) requires [pre-licensing](/texas/prelicensing) coursework before you can register for your state exam. This [Texas prelicensing coursework](/texas/prelicensing) is designed to provide a solid foundation, covering important insurance terms, regulations, and ethics. You will also learn about different lines of authority, such as life insurance or property and casualty, so you can decide which area suits you best.
+Embarking on your [Texas insurance license](/texas) training may feel overwhelming at first, but understanding the process helps you begin with confidence. One of the first things you need to know is that the Texas Department of Insurance (TDI) does not require [pre-licensing](/texas/prelicensing) coursework before you can register for your state exam — it's optional, though strongly recommended. This [Texas prelicensing coursework](/texas/prelicensing) is designed to provide a solid foundation, covering important insurance terms, regulations, and ethics. You will also learn about different lines of authority, such as life insurance or property and casualty, so you can decide which area suits you best.
 
 The pre-licensing phase isn’t just about cramming information. It’s about gaining practical knowledge that directly applies to your career in insurance. By having a clear sense of the rules and responsibilities, you’ll feel less stress when exam day arrives. Most importantly, you’ll be much better prepared to handle real-world insurance scenarios once you’re fully licensed.
 
@@ -28,7 +28,7 @@ Effective scheduling is your secret weapon for mastering your pre-licensing cour
 
 It may help to set clear milestones to track your progress. For example, you might aim to finish one chapter of your coursework each day or complete a set number of practice quizzes per week. Staying organized in this way helps you retain information and reduces the likelihood of last-minute panic. If you’re juggling work or family commitments, you’ll thank yourself later for having a well-structured plan.
 
-## Complete your required coursework
+## Complete your optional coursework
 
 Once your schedule is set, it’s time to dive into the actual coursework. Make sure you choose a state-approved provider with a track record of guiding learners through the [Texas insurance licensing requirements](/texas/requirements). Most providers offer online modules, textbooks, or a combination of both. That flexibility can be a game-changer if you’re studying around a busy schedule or prefer learning at your own pace.
 
@@ -38,7 +38,7 @@ Consider setting aside dedicated study blocks, free from distractions like socia
 
 When your coursework is nearly complete, you’ll be ready to register for your state exam. Typically, testing providers let you sign up online and choose the date, time, and location that fits best into your schedule. Depending on where you live in Texas, you may have multiple test centers within reasonable driving distance.
 
-Fees can vary, but expect to pay for each line of authority if you plan on getting licensed in multiple areas. It’s also important to note that you cannot take the exam until you have finished your pre-licensing education and received a certificate of completion. Keep that certificate handy because you may need to bring it on exam day as proof of eligibility.
+Fees can vary, but expect to pay for each line of authority if you plan on getting licensed in multiple areas. Texas does not require you to finish pre-licensing education or hold a certificate of completion before you can take the exam, but if you did complete a course, keep that certificate handy in case you want it as a study reference.
 
 ## Prepare for exam day
 
@@ -57,7 +57,7 @@ Planning your finances is an essential part of texas insurance license training.
 3.  Fingerprinting and background check fees, which are standard for most types of insurance licenses in Texas.
 4.  License application fees to the TDI after passing your exam.
 
-Timing also matters. Many people complete their coursework in a few weeks if they focus full-time, while others may spread it out over a couple of months. Once you finish your education requirement, aim to schedule your exam soon, ideally while the material is still fresh in your mind. After passing your exam, you’ll typically submit your application and any associated fees to the TDI. The state will then review your background check before granting your official license, which can take anywhere from a few days to a few weeks.
+Timing also matters. Many people complete their coursework in a few weeks if they focus full-time, while others may spread it out over a couple of months. Once you finish your coursework, aim to schedule your exam soon, ideally while the material is still fresh in your mind. After passing your exam, you’ll typically submit your application and any associated fees to the TDI. The state will then review your background check before granting your official license, which can take anywhere from a few days to a few weeks.
 
 ## Know what to expect after passing
 

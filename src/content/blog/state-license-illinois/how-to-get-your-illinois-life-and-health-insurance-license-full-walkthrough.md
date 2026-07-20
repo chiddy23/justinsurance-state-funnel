@@ -47,7 +47,7 @@ Total: 40 hours for a combined Life and Accident & Health license.
 
 Prelicense education must be completed through an IDOI-approved provider. You'll receive a certificate of completion once you finish — this is required before you can sit for the state exam.
 
-Prelicense education can be completed online at your own pace, which is how most Illinois candidates complete it.
+Most of your prelicense hours can be completed online at your own pace, but Illinois requires 7.5 of the 20 hours for each line of authority to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119). The remaining hours may be completed by self-study.
 
 ## Step 3: Schedule Your State Exam
 
@@ -57,7 +57,7 @@ Register at pearsonvue.com
 
 Schedule your exam at an Illinois testing center
 
-Pay the exam fee (approximately $41 per attempt, confirm current pricing)
+Pay the exam fee (Illinois splits the exam into a General and a State portion, each carrying its own $92 Pearson VUE fee — $184 total if booked separately, confirm current pricing)
 
 Bring two forms of valid ID on test day — one must be government-issued with photo
 
@@ -87,7 +87,7 @@ Disclosure of any criminal history, regulatory actions, or bankruptcies
 
 Personal and contact information
 
-Application fee payment (approximately $180 for resident producers, confirm current fee)
+Application fee payment (approximately $215 for resident producers, confirm current fee)
 
 ## Step 6: Fingerprinting (If Required)
 
@@ -116,7 +116,7 @@ From starting your prelicense course to holding your license, most Illinois cand
 ## 5 Frequently Asked Questions
 
 - Do I need separate licenses for life and health in Illinois? You can pursue life-only, health-only, or the combined Life and Accident & Health license. Most candidates pursue the combined license since the prelicense education and exam cover both.
-- Can I take the prelicense course online in Illinois? Yes. Illinois allows fully online prelicense education through IDOI-approved providers, and this is how most candidates complete it.
+- Can I take the prelicense course online in Illinois? Yes — but not entirely self-paced. Illinois requires 7.5 of the 20 hours per line of authority to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119). Live webinars satisfy that requirement from home, and the remaining hours may be completed through self-paced online study.
 - What happens if I fail the state exam? You can retake it. Illinois allows multiple attempts, though each retake requires a new Pearson VUE registration and fee. There's typically a short waiting period between attempts.
 - Is Illinois fingerprinting required for insurance licensure? Historically, most Illinois insurance producer applicants have not been required to submit fingerprints. Verify current requirements at the time of your application as regulations can change.
 - How long is an Illinois insurance license valid? Illinois producer licenses renew every 2 years. You'll need to complete [continuing education](/illinois/continuing-education) and pay renewal fees on schedule.

@@ -16,7 +16,7 @@ imageAlt: >-
   insurance license requirements explained.
 ---
 
-Indiana's licensing requirements sit in a mainstream midpoint among comparison states — PLE is required at 20 hours per line (same as Minnesota and New Jersey), the exam is administered by Pearson VUE (same as Ohio, Tennessee, Colorado), and fingerprinting is required through Gemalto. The most distinctive features are: the 6-month PLE certificate validity creating a firm timeline; the Ivy Tech Community College exam center partnership making test access uniquely broad; the OnVUE online exam rule (only one online attempt — all subsequent retakes must be in-person); and the $160 late renewal fee (4x the $40 renewal). Indiana's insurance code (IC 27-1-15.6) and July 2024 Annuity Best Interest rule (760 IAC 1-72-4.5) are specific regulatory updates that affect current licensing and CE obligations. Here's the complete breakdown.
+Indiana's licensing requirements sit in a mainstream midpoint among comparison states — PLE is required at 20 hours per line (same as Minnesota and New Jersey), the exam is administered by Pearson VUE (same as Tennessee, Colorado; Ohio uses PSI), and fingerprinting is NOT required — only self-disclosure on the NIPR application. The most distinctive features are: the 6-month PLE certificate validity creating a firm timeline; the Ivy Tech Community College exam center partnership making test access uniquely broad; the OnVUE online exam rule (only one online attempt — all subsequent retakes must be in-person); and the $160 late renewal fee (4x the $40 renewal). Indiana's insurance code (IC 27-1-15.6) and July 2024 Annuity Best Interest rule (760 IAC 1-72-4.5) are specific regulatory updates that affect current licensing and CE obligations. Here's the complete breakdown.
 
 ## Eligibility Requirements
 
@@ -62,7 +62,7 @@ Approved providers listed on sircon.com/Indiana
 
 ## Exam Requirements (Pearson VUE)
 
-Pearson VUE (Pearson Professional Assessments) — same as OH, TN, CO; different from NJ/MN (PSI) and MD/VA (Prometric).
+Pearson VUE (Pearson Professional Assessments) — same as TN, CO; different from OH/NJ/MN (PSI) and MD/VA (Prometric).
 
 Scheduling: pearsonvue.com/us/en/in/insurance.html; (866) 895-0496; at least 24 hours advance Remote: OnVUE — check compatibility at home.pearsonvue.com/in/insurance/onvue Spanish exams: test centers only (not available via OnVUE) Exam fee: $69 per exam Passing: 70% (statistical equating across forms) Score validity: within 6 months of PLE completion Results: Immediate pass/fail + score report Retakes: Unlimited; 48-hour wait; OnVUE: only 1 attempt (all retakes in-person) Cancel/reschedule: 48+ hours advance or forfeit fee
 
@@ -74,11 +74,9 @@ Test center network: Pearson VUE test centers throughout Indiana + Ivy Tech Comm
 
 Statistical equating: Indiana uses equating to ensure exam fairness across different exam forms (form X may require 30 correct answers to pass; form Y may require 32 — equating ensures both represent equivalent knowledge). This is IDOI's explained mechanism for why different candidates see different difficulty levels.
 
-## Fingerprinting Requirements
+## Background Check Requirements
 
-Required for all resident applicants.
-
-Vendor: Gemalto (~$47.35) Schedule through fingerprinting.gemalto.com or per IDOI current instructions Evidence of completed background check must be submitted to IDOI as part of the final licensing application.
+Indiana does not require fingerprinting for resident producer applicants. Background disclosure is handled through self-disclosure questions on the NIPR Uniform Individual Application — applicants must disclose all prior administrative actions, criminal history, and license denials/revocations. Affirmative responses require supporting documentation submitted with the application.
 
 ## Application Requirements
 
@@ -100,10 +98,10 @@ Temporary license: 180 days — email [email protected]
 
 ## 5 Frequently Asked Questions
 
-- How does Indiana's 6-month PLE validity compare to other states? Indiana's 6-month PLE certificate is shorter than Ohio (1 year), Colorado (1 year), Tennessee (1 year), and far shorter than MN (lifetime). Maryland eliminated PLE entirely in October 2024. Indiana's 6-month window creates a firm completion timeline: complete PLE → exam → fingerprinting → application all within 6 months. This is enough time for most candidates who progress efficiently but requires deliberate planning.
+- How does Indiana's 6-month PLE validity compare to other states? Indiana's 6-month PLE certificate is shorter than Ohio (1 year), Colorado (1 year), Tennessee (1 year), and far shorter than MN (lifetime). Maryland eliminated PLE entirely in October 2024. Indiana's 6-month window creates a firm completion timeline: complete PLE → exam → application all within 6 months (no fingerprinting step is required). This is enough time for most candidates who progress efficiently but requires deliberate planning.
 - What is the $4.00 PLE roster fee? Indiana collects a $4.00 roster fee through PLE providers during enrollment. This fee is separate from the PLE course tuition and represents Indiana's registration fee for the provider to submit the candidate's completion data to IDOI. It is typically built into the PLE course enrollment process automatically.
 - Does the OnVUE online exam rule affect strategy? Yes — Indiana allows only one OnVUE (online) exam attempt per exam. If you fail on OnVUE, all retakes must be in-person. This rule makes the first OnVUE attempt high-stakes. Candidates should prepare thoroughly before scheduling the online exam — scoring 78%+ on practice exams before scheduling is a reasonable benchmark. If you prefer the flexibility of online retakes, consider starting at an in-person Ivy Tech or Pearson VUE test center.
-- What is Indiana's Annuity Best Interest training and when was it required? Effective July 1, 2024, IDOI adopted a new rule (760 IAC 1-72-4.5) requiring any producer holding a life insurance line of authority who intends to sell annuities to complete a one-time 4-hour Best Interest Standards of Conduct training course approved by IDOI within 6 months of the rule's effective date (or within 6 months of obtaining a life line for new licensees after July 1, 2024). Contact IDOI at [email protected] or 317-232-5858 (Brooke Walters, Education Coordinator) for approved courses.
+- What is Indiana's Annuity Best Interest training and when was it required? Effective July 1, 2024, IDOI adopted a new rule (760 IAC 1-72-4.5) requiring any producer holding a life insurance line of authority who intends to sell annuities to complete a one-time 4-hour Best Interest Standards of Conduct training course approved by IDOI within 6 months of the rule's effective date (or within 6 months of obtaining a life line for new licensees after July 1, 2024). Contact IDOI at AgentLicensing@idoi.in.gov or (800) 622-4461 for approved courses.
 - What makes Indiana's workers' comp rating bureau distinctive? Indiana uses the Indiana Compensation Rating Bureau (ICRB) — its own independent, non-profit rating bureau — rather than NCCI (National Council on Compensation Insurance). Indiana is an "independent bureau state" where ICRB sets the statistical plan, classification system, and experience rating plan used by all Indiana workers' comp carriers. This differs from NCCI states (like Maryland) where NCCI sets the national standards.
 
 ## Get Your Indiana License With Confidence

@@ -38,7 +38,7 @@ When comparing providers, be on the lookout for a solid track record. Credibilit
 
 Student reviews and success stories also speak to a course’s credibility. Genuine testimonials, especially from users in your state, can help you gauge how well the program prepares test-takers. It is worth checking for recognized partnerships with insurance associations or other professional groups. These relationships often indicate that a provider meets high educational standards.
 
-Some well-known names in the industry, such as JustInsurance, present clear evidence of their credibility. They make it easy to verify their state approvals and typically provide transparent [pass rate](/pass-rates) data. Paying attention to such details can help you avoid programs that overpromise and underdeliver.
+Look for a provider that makes it easy to verify its state approvals and publishes its [pass rate](/pass-rates) methodology rather than a vague headline number (our own course, JustInsurance, is one example, in the interest of full disclosure). Paying attention to such details can help you avoid programs that overpromise and underdeliver.
 
 ## Compare course pricing and access
 
@@ -65,11 +65,11 @@ You may also want to see whether the course offers progress tracking features. S
 
 ## Examine pass rates and guarantees
 
-If you are looking for reliable insurance licensing course recommendations, pay special attention to pass rate claims and any guarantees the provider might offer. While no course can guarantee a 100 percent success rate, some companies promise a refund or a free course retake if you do not pass on your first try. This shows a level of confidence in their materials and teaching methods.
+If you are looking for reliable insurance licensing course recommendations, pay special attention to pass rate claims and any guarantees the provider might offer. No course can guarantee a 100 percent success rate, and some companies offer a refund or a free course retake if you do not pass on your first try, subject to specific terms and conditions and state eligibility — these programs are not available everywhere, so check the provider's official terms rather than relying on general marketing language.
 
 When you see a high pass rate, double-check if it specifically refers to your line of authority (e.g., Life & Health vs. Property & Casualty). A company might boast an 85 percent success rate overall, yet for your specific license type, the rate may vary significantly. If this information is not readily available, do not hesitate to ask. After all, your goal is to pass with one attempt, so make sure the course you choose offers a solid track record relevant to your exam category.
 
-A well-structured course will typically outline a recommended learning path, combining fundamental reading with interactive training sessions and plenty of practice questions. When a provider stands behind its content with a pass guarantee, it suggests that they have a track record of producing successful exam candidates.
+A well-structured course will typically outline a recommended learning path, combining fundamental reading with interactive training sessions and plenty of practice questions. Some providers back their content with a pass guarantee for eligible students in eligible states, which can be worth confirming as part of your research.
 
 ## Frequently asked questions
 
@@ -87,10 +87,10 @@ Everyone is different, but many experts suggest about 40–60 hours of focused s
 
 ### 4\. What is a “pass guarantee” and do I need it?
 
-A pass guarantee typically means the provider offers a refund or course extension if you fail. It is not a requirement, but it indicates that the course company believes in its materials. If test anxiety is a concern or you want extra peace of mind, a pass guarantee might be worth prioritizing.
+A pass guarantee typically means the provider offers a refund or course extension if you fail, though eligibility, terms, and state availability vary and it is not offered by every provider in every state. It is not a requirement, but it can indicate that the course company believes in its materials. If test anxiety is a concern or you want extra peace of mind, it's worth checking whether a pass guarantee applies to your state and reviewing the official terms before enrolling.
 
 ### 5\. How do I know if JustInsurance is right for me?
 
-JustInsurance is often praised for its comprehensive study modules and easy-to-reach support staff. If you value clear, step-by-step guidance and accessible instructors, it could be a strong choice. As with any course, confirm they are approved for the license type you need in your state, and check out their pass rates to see if they align with your goals.
+In the interest of full disclosure, JustInsurance is our own course — we built it with comprehensive study modules and easy-to-reach support staff. If you value clear, step-by-step guidance and accessible instructors, it could be a strong choice. As with any course, confirm we are approved for the license type you need in your state, and check out our pass rates to see if they align with your goals.
 
 When you factor in credibility, pricing, course content, and support, you are far more likely to choose a prelicense course that fits your needs. If you take the time to research thoroughly, you will begin your insurance career on the right foot. By following these recommendations, you can move forward with confidence and earn your license without any unnecessary hurdles. Good luck with your exam preparation!

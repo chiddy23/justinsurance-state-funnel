@@ -47,7 +47,7 @@ While product-specific study hours are no longer mandated, most candidates still
 
 After finishing your pre-licensing education, you’re ready to register for the state licensing exam. You’ll do this through the California Department of Insurance’s designated testing vendor, which you should find listed on the official California Department of Insurance website.
 
-Online portals often let you choose a date, time, and test location that works best. Exam fees vary but generally range between $50 and $75 for each exam you plan to take. Be sure to schedule in advance, as popular slots fill quickly. Book your appointment when you feel prepared—rushing into an exam date without enough study time can sabotage your efforts.
+Online portals often let you choose a date, time, and test location that works best. The California exam fee is $98 per attempt. Be sure to schedule in advance, as popular slots fill quickly. Book your appointment when you feel prepared—rushing into an exam date without enough study time can sabotage your efforts.
 
 ## Prepare for the exam
 

@@ -17,7 +17,7 @@ imageAlt: >-
   insurance exam format: strategic preparation guide.
 ---
 
-Arizona's exam format has features that demand a more deliberate strategic approach than most states. The two-section independent scoring requirement means a high overall score doesn't help if one section fails. The four-attempt annual limit means rushed preparation has real consequences. The September 2025 transition to PSI from the previous testing vendor means existing accounts don't transfer. And Arizona's relatively high exam fee ($59) compared to states like Michigan ($41) makes first-attempt success more financially valuable. Understanding these format dynamics translates into tangible exam strategy.
+Arizona's exam format has features that demand a more deliberate strategic approach than most states. The two-section independent scoring requirement means a high overall score doesn't help if one section fails. The four-attempt annual limit means rushed preparation has real consequences. The September 2025 transition to PSI from the previous testing vendor means existing accounts don't transfer. And Arizona's exam fee ($50) compared to states like Michigan ($41) makes first-attempt success more financially valuable. Understanding these format dynamics translates into tangible exam strategy.
 
 Here's a detailed look at Arizona insurance exam format and how to build a strategy that works.
 
@@ -35,9 +35,9 @@ Two independent sections. General Knowledge and Arizona State Law — both must 
 
 Immediate results. Score appears on screen immediately after completion. Printed score report provided.
 
-$59 per exam. Paid at registration. Non-refundable within 48 hours of exam.
+$50 per exam. Paid at registration. Non-refundable within 48 hours of exam.
 
-PSI system (since September 1, 2025). Previous testing vendor accounts do not transfer — create a fresh PSI account.
+PSI system (since September 3, 2025). Previous testing vendor accounts do not transfer — create a fresh PSI account.
 
 ## Complete Arizona Exam Specifications
 
@@ -85,7 +85,7 @@ What it means: Four attempts per line per year. After four failures, mandatory 1
 
 Financial reality of failing repeatedly:
 
-4 failed attempts × $59 = $236 in exam fees
+4 failed attempts × $50 = $200 in exam fees
 
 Plus 1 year of delay before retesting
 
@@ -113,7 +113,7 @@ Combined L&H option (150 questions, 2.5 hours, 70% each section):
 
 One exam event
 
-$59 fee covering both lines
+$50 fee covering both lines
 
 More content but one test day
 
@@ -121,7 +121,7 @@ Efficient for candidates ready across both areas
 
 Separate Life (100q) then A&H (100q):
 
-Two separate exam events ($118 total)
+Two separate exam events ($100 total)
 
 Smaller content scope per exam
 
@@ -137,19 +137,19 @@ Combined P&C (Series 13-34, 150 questions, 2.5 hours):
 
 One exam event
 
-$59 fee for both lines
+$50 fee for both lines
 
 Property is generally considered more accessible than Casualty
 
 Separate Property (100q) then Casualty (100q):
 
-Two separate exam events ($118 total)
+Two separate exam events ($100 total)
 
 Casualty (liability-focused) is generally considered harder
 
 Property-first approach allows confidence building before Casualty's more abstract liability concepts
 
-Recommendation for most candidates: Combined P&C is efficient and saves $59. The 2.5-hour format is manageable, and Property and Casualty content interconnects naturally.
+Recommendation for most candidates: Combined P&C is efficient and saves $50. The 2.5-hour format is manageable, and Property and Casualty content interconnects naturally.
 
 ## Exam Day Strategy
 

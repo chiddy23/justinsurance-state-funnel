@@ -109,7 +109,7 @@ Prepare disclosure responses. Be ready to answer detailed questions about your h
 
 Collect supporting documentation. If you have disclosures that require documentation — court records, dispositions, rehabilitation evidence — have it ready.
 
-Budget for fees. Application fees are approximately $180 for resident producers. Add exam fees, prelicense course fees, and any other costs.
+Budget for fees. Application fees are approximately $215 for resident producers. Add exam fees, prelicense course fees, and any other costs.
 
 Plan for exam completion. Your exam must be completed before you submit your application.
 

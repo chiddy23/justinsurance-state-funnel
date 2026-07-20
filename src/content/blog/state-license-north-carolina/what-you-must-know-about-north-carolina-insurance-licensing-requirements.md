@@ -58,15 +58,15 @@ Protects against liability
 
 Auto, General liability
 
-## Complete [pre-licensing requirements](/north-carolina/prelicensing)
+## Consider [pre-licensing education](/north-carolina/prelicensing) (optional)
 
-Before you can sign up for the state exam, you must fulfill a set number of [pre-licensing](/north-carolina/prelicensing) hours in your chosen lines of authority. These courses cover the core principles, ethics, and regulations required to pass the exam and practice insurance safely. You can take your pre-licensing classes in person or online, depending on your preference and learning style.
+As of October 1, 2025, North Carolina House Bill 737 eliminated the mandatory prelicensing-hour requirement, so you're no longer required to complete a [pre-licensing](/north-carolina/prelicensing) course before signing up for the state exam. Even so, these courses cover the core principles, ethics, and regulations tested on the exam, and most candidates still choose to take one. You can take your pre-licensing classes in person or online, depending on your preference and learning style.
 
 When selecting a course provider, make sure they’re approved by the state. They’ll guide you through the topics such as policy provisions, state regulations, and ethical responsibilities you need to master. You’ll usually complete quizzes or final assessments within these programs to confirm you thoroughly understand the material. A good pre-licensing course should also provide helpful study strategies, real-life examples, and exam tips.
 
 ## Prepare for the licensing exam
 
-North Carolina requires you to pass a licensing exam before you can move forward. Although it might feel nerve-racking, thinking of it as a milestone in your journey keeps you motivated. Once you’ve finished your pre-licensing requirements, sit down with your course materials and any practice exams you’ve received.
+North Carolina requires you to pass a licensing exam before you can move forward. Although it might feel nerve-racking, thinking of it as a milestone in your journey keeps you motivated. Once you’ve finished preparing — whether through a pre-licensing course or self-study — sit down with your course materials and any practice exams you’ve received.
 
 Exam questions tend to focus on key definitions, policy types, and regulatory rules. Practicing with sample tests can highlight areas where you need more review, whether it’s understanding policy exclusions or state-specific regulations. Spend a little time each day reviewing your notes and vocabulary so you don’t cram everything at the last minute.
 
@@ -74,7 +74,7 @@ Remember to also invest in mental preparation. Sleep is your friend here, and so
 
 ## Gather your documents
 
-Once you feel ready for the exam, check if you need to submit any specific paperwork to the testing provider. You’ll generally have to show proof of completing the required pre-licensing education. Upon course completion, you’ll receive a certificate with the course name and your completion date—keep it easily accessible.
+Once you feel ready for the exam, check if you need to submit any specific paperwork to the testing provider. If you completed a pre-licensing course, you'll receive a certificate with the course name and your completion date—keep it easily accessible, though it's no longer required to schedule your exam.
 
 Be aware that the state may require you to complete a background check or submit fingerprints while applying for your license. Requirements can vary, so take a moment to read the official instructions before scheduling your exam. Keeping your documents and IDs in one folder or bag will make the exam day less hectic.
 
@@ -88,7 +88,7 @@ After you complete your exam, you’ll learn whether you passed. Sometimes resul
 
 ## Plan your next steps
 
-Once you pass the exam, you’ll need to apply for your license with the North Carolina Department of Insurance. This application involves a fee and may require you to submit final documentation like your passing exam notice and proof of pre-licensing education. Double-check the instructions closely so you don’t miss any crucial details.
+Once you pass the exam, you’ll need to apply for your license with the North Carolina Department of Insurance. This application involves a fee and may require you to submit final documentation like your passing exam notice and proof of pre-licensing education if you completed a course. Double-check the instructions closely so you don’t miss any crucial details.
 
 As you prepare to take on clients, keep in mind that [North Carolina continuing education](/north-carolina/continuing-education) is a key part of maintaining your license. Over time, you’ll need to update your knowledge on new regulations, products, and ethical guidelines. It’s a good habit to stay curious and always keep learning. Your commitment to ongoing professional development will give you—and your clients—greater peace of mind.
 

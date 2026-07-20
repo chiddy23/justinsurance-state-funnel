@@ -274,7 +274,7 @@ Website: michigan.gov/difs/consumers/fraud
 
 Online complaint form: michigan.gov/DIFScomplaints
 
-Phone: (877) 999-6442
+Phone: (517) 284-8800
 
 DIFS Monday-Friday, 8 AM-5 PM
 
@@ -340,7 +340,7 @@ Report concerns promptly. Early reporting protects you and helps prevent larger 
 
 Stay current on fraud trends. DIFS bulletins and industry publications describe emerging fraud schemes. Michigan no-fault fraud schemes evolve continuously.
 
-Ethics CE. Michigan's required 3-hour ethics CE annually covers producer conduct standards including fraud prevention in practical contexts.
+Ethics CE. Michigan's required 3-hour ethics CE, due every 2-year review period, covers producer conduct standards including fraud prevention in practical contexts.
 
 ## 5 Frequently Asked Questions
 

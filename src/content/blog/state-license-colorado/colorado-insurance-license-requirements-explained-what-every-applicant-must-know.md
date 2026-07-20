@@ -56,7 +56,7 @@ Colorado requires 50 hours of state-approved prelicensing education for each maj
 
 The 10 Colorado-specific hours cover three mandatory topics: Principles of Insurance (3 hrs), Ethics (3 hrs), and Legal Concepts and Regulations (4 hrs).
 
-Combined Life + Accident & Health license: 90 hours total (80 general + 10 Colorado-specific). Candidates who want both Life and A&H authority on a single combined license complete one 90-hour course rather than two separate 50-hour courses.
+Life and Accident & Health authority together: 100 hours total. Colorado does not offer a combined Life/A&H prelicensing course or a combined exam — candidates who want both Life and A&H authority must complete two separate 50-hour courses (one for Life, one for A&H) and pass two separate Pearson VUE exams. Both lines of authority can then be held together on a single producer license.
 
 Property and Casualty: Each is a separate line of authority requiring its own 50-hour course. A candidate who wants both Property and Casualty completes 100 hours of prelicensing education total, though they may take both exams in a single Pearson VUE session.
 
@@ -74,7 +74,7 @@ Life — life insurance and annuities
 
 Accident & Health (A&H) — health insurance, disability income, LTC, Medicare supplement
 
-Life, Accident & Health (combined) — both Life and A&H on a single license (requires 90-hour prelicensing)
+Life, Accident & Health — both Life and A&H authority on a single producer license, each obtained through its own separate 50-hour prelicensing course and exam (100 hours total; Colorado has no combined course or combined exam)
 
 Property — homeowners, commercial property, fire insurance
 
@@ -92,7 +92,7 @@ Most producers pursue either Life/A&H or Property/Casualty (or both), depending 
 
 ## The State Exam
 
-After completing prelicensing and passing the Certificate Exam, the applicant schedules and takes the Pearson VUE state licensing exam. The exam fee is $47 per exam, paid at time of scheduling. The passing score is 70%, and results are available immediately after the exam.
+After completing prelicensing and passing the Certificate Exam, the applicant schedules and takes the Pearson VUE state licensing exam. The exam fee is $48 per exam, paid at time of scheduling. The passing score is 70%, and results are available immediately after the exam.
 
 Exam content is divided into a general knowledge section (basic insurance product principles applicable in all states) and a Colorado state law section (laws, rules, and regulations specific to Colorado). The Colorado state law section of the exam is one of the primary reasons prelicensing is required — it covers Title 10 CRS provisions, Division of Insurance authority, producer licensing rules, and line-specific Colorado regulations that are not part of general insurance knowledge.
 
@@ -128,7 +128,7 @@ No employer sponsorship required — you do not need a carrier appointment or em
 
 What is the difference between a Property license and a Casualty license in Colorado, and do I need both?
 
-In Colorado, Property and Casualty are two separate lines of authority — unlike some states that issue a combined "P&C" license. A Property license authorizes the sale of property insurance (homeowners, commercial property, fire, inland marine). A Casualty license authorizes the sale of casualty insurance (auto liability, commercial general liability, workers' compensation, umbrella/excess liability). Most producers who want to write standard commercial or personal lines accounts need both. The good news is that both exams can be taken in a single Pearson VUE session for one $47 fee at a physical test center, and both require the same 50-hour prelicensing course structure. A Personal Lines license covers personal auto and personal homeowners only — it is not a substitute for full Property and Casualty authority for producers who want to write commercial accounts.
+In Colorado, Property and Casualty are two separate lines of authority — unlike some states that issue a combined "P&C" license. A Property license authorizes the sale of property insurance (homeowners, commercial property, fire, inland marine). A Casualty license authorizes the sale of casualty insurance (auto liability, commercial general liability, workers' compensation, umbrella/excess liability). Most producers who want to write standard commercial or personal lines accounts need both. The good news is that both exams can be taken in a single Pearson VUE session at a physical test center (confirm current combined-session pricing directly with Pearson VUE), and both require the same 50-hour prelicensing course structure. A Personal Lines license covers personal auto and personal homeowners only — it is not a substitute for full Property and Casualty authority for producers who want to write commercial accounts.
 
 How does Colorado's prelicensing requirement compare to other states?
 
@@ -136,7 +136,7 @@ Colorado's 50-hour prelicensing requirement per line (40 general + 10 Colorado-s
 
 Can I hold both a Life/A&H license and a Property/Casualty license in Colorado?
 
-Yes — there is no restriction on holding multiple lines of authority in Colorado. Most producers who pursue full market access obtain both their Life/Accident & Health license and their Property/Casualty license, giving them the authority to serve clients across all personal and commercial insurance needs. Each license requires its own prelicensing education (50 hours per P&C line, 90 hours for combined Life/A&H) and its own Pearson VUE exam. However, once licensed, CE obligations do not double — Colorado's 24-hour biennial CE requirement applies regardless of how many lines you hold, with the requirement that 18 of those 24 hours cover the lines you are licensed for.
+Yes — there is no restriction on holding multiple lines of authority in Colorado. Most producers who pursue full market access obtain both their Life/Accident & Health license and their Property/Casualty license, giving them the authority to serve clients across all personal and commercial insurance needs. Each line of authority requires its own prelicensing education and its own Pearson VUE exam — 50 hours per P&C line, and 100 hours total for Life and A&H together (50 hours each, as two separate courses with two separate exams; there is no combined Life/A&H course or exam). However, once licensed, CE obligations do not double — Colorado's 24-hour biennial CE requirement applies regardless of how many lines you hold, with the requirement that 18 of those 24 hours cover the lines you are licensed for.
 
 What is the Colorado-specific content in the prelicensing course, and why does it matter for the exam?
 

@@ -38,7 +38,7 @@ Pre-licensing course offerings come in different formats. You can opt for online
 
 After you complete your pre-licensing course, you will sign up for the state insurance exam. The exam covers essential insurance concepts, state-specific regulations, and customer protection guidelines. Most exams are computer-based with multiple-choice questions, and you will learn your preliminary score immediately.
 
-Scheduling the exam in advance is key. Popular test dates can fill up quickly, especially in larger cities. Keep track of the exam registration fees as part of your overall budget. You can also decide if you prefer to test in person at a dedicated exam center or opt for a remote testing option if one is available. Give yourself enough study time between finishing your coursework and sitting for the test. This helps you avoid spending more money on retakes if you do not pass on your first try.
+Scheduling the exam in advance is key. Popular test dates can fill up quickly, especially in larger cities. Keep track of the exam registration fees as part of your overall budget. Note that effective June 10, 2025, PSI discontinued remote proctoring for Michigan insurance exams — all exams must be taken in person at a physical PSI testing center, so plan your travel accordingly. Give yourself enough study time between finishing your coursework and sitting for the test. This helps you avoid spending more money on retakes if you do not pass on your first try.
 
 ## Break down the fees
 
@@ -54,23 +54,23 @@ $100 – $200
 
 License exam
 
-$40 – $50
+$41
 
 Application fee
 
 $10 – $15
 
-Fingerprinting and background check
+Background check
 
-$60 – $70
+No separate fee (application-based review)
 
 Keep in mind these figures can vary by provider and may change over time. Be sure to look for any potential administrative or “convenience” fees that might pop up if you register late or choose expedited processing. Check the official Michigan DIFS website for the most up-to-date fee lists.
 
 ## Apply for your license
 
-Once you have passed the exam, you will need to complete your official license application with the State of Michigan. During this process, you will pay the application fee, supply proof of your pre-licensing course completion, and provide exam results if required. You will likely also schedule your fingerprinting appointment at this stage and pay any necessary background check fees.
+Once you have passed the exam, you will need to complete your official license application with the State of Michigan. During this process, you will pay the application fee, supply proof of your pre-licensing course completion, and provide exam results if required.
 
-Fingerprinting can be a step that surprises first-time applicants, but it is a state requirement for ensuring public safety. Make sure you go to a recognized vendor and follow the instructions given by DIFS. Confirm turnaround times for the results so you know when to expect final approval. This helps you manage timelines and any additional expenses if unforeseen delays occur.
+Unlike many states, Michigan does not require fingerprinting for resident producer applicants — DIFS instead conducts an application-based background review, so there is no separate fingerprinting vendor fee to budget for. You will still need to self-disclose any criminal history accurately on your NIPR application; DIFS will follow up directly if additional documentation is needed. Confirm current processing timelines on the [DIFS website](https://www.michigan.gov/difs) so you know when to expect final approval.
 
 ## Avoid surprising expenses
 

@@ -22,7 +22,7 @@ Here's what to expect on the South Carolina Life, Accident, and Health exam.
 
 ## Who Administers the Exam
 
-South Carolina insurance licensing exams are administered by an approved testing provider (typically Pearson VUE or PSI — confirm the current administrator at registration time). You register and schedule through the approved testing provider and take the exam at an authorized South Carolina testing center.
+South Carolina insurance licensing exams are administered by Pearson VUE. You register and schedule through Pearson VUE and take the exam at an authorized South Carolina testing center.
 
 ## Where You'll Take the Exam
 

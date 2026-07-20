@@ -160,7 +160,7 @@ What Phase 2 reveals: Your Phase 2 score identifies which Phase 1 content areas 
 
 Use the Phase 2 practice exam section performance breakdown to identify your three to five weakest content areas. Allocate Phase 3 study time exclusively to those areas. Do not review material you already know well — the marginal return on studying strong areas is negligible compared to the return on closing genuine gaps.
 
-For Tennessee state law gaps: Read the actual TCA statutory provision, not a paraphrase. The specific numbers — $1,000 civil penalty limit, 25% bad faith penalty, 48-hour application wait, 30-day grace period, $120 late fee, 15-day appointment filing window, 5-employee general workers' comp threshold, 1-employee construction threshold — are tested directly and must be recalled without hesitation. Create flashcards for every specific number and provision and drill them daily through Phase 3.
+For Tennessee state law gaps: Read the actual TCA statutory provision, not a paraphrase. The specific numbers — $1,000 civil penalty limit, 25% bad faith penalty, 48-hour application wait, 60-day grace period, 15-day appointment filing window, 5-employee general workers' comp threshold, 1-employee construction threshold — are tested directly and must be recalled without hesitation (confirm the current late-fee amount with the TDCI, since it is not publicly posted). Create flashcards for every specific number and provision and drill them daily through Phase 3.
 
 For general content gaps: Return to the study guide section for the specific topic, re-read it from the beginning, then immediately answer 10–15 practice questions on that specific topic. The combination of re-reading immediately followed by targeted practice questions activates the material more effectively than re-reading alone.
 
@@ -214,11 +214,11 @@ CE and renewal:
 
 24 CE hours biennial; 3 hours ethics; no classroom minimum
 
-Renewal fee: $60
+Renewal fee: standard amount (contact the TDCI for the current figure)
 
-Grace period: 30 days; no additional fee
+Grace period: 60 days; no additional fee
 
-Late renewal fee: $120; available up to 1 year from expiration
+Late renewal fee: not publicly posted — contact the TDCI; available up to 1 year from expiration
 
 After 1 year: full relicensing required
 
@@ -272,9 +272,7 @@ TCA §56-6-112 prohibition: knowingly directing a person with group coverage to 
 
 Reciprocity:
 
-Full-reciprocity with only 5 states: California, Louisiana, Michigan, Mississippi, Texas
-
-NAIC model law states: non-resident license without exam
+Broad reciprocity with other states under NAIC model law: non-resident license generally available without retaking the exam
 
 License transfer within 90 days of relocating to Tennessee: exam waived
 

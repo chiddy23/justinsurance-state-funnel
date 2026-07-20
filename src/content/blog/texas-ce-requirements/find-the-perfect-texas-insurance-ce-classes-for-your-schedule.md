@@ -54,7 +54,7 @@ In addition, pay attention to how long each course runs. Some classes might offe
 Below are five questions many agents ask before enrolling in Texas insurance CE classes, each with a short and direct answer to guide your planning.
 
 -   Q: How many CE hours do I need in Texas?  
-    A: Requirements vary by license type, but most insurance agents need 24 hours of continuing education every two-year renewal cycle. At least two hours must address ethics.
+    A: Requirements vary by license type, but most insurance agents need 24 hours of continuing education every two-year renewal cycle. At least three hours must address ethics.
 -   Q: Can I complete all my CE hours online?  
     A: Yes. Texas allows you to meet your continuing education requirements through approved online courses, in-person classes, or a blend of both.
 -   Q: What if I’m running out of time before my renewal deadline?  

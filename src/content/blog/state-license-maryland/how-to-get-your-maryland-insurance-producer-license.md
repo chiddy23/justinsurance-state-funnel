@@ -25,13 +25,13 @@ Maryland Insurance Administration (MIA):
 
 Address: 200 St. Paul Place, Suite 2700, Baltimore, Maryland 21202
 
-Producer Licensing Phone: (410) 468-2411 or (800) 492-6116
+Producer Licensing Phone: (410) 468-2000
 
-Email: [email protected]
+Email: producerlicensing.mia@maryland.gov
 
 Website: insurance.maryland.gov
 
-Commissioner: Marie L. Grant (confirmed April 2025)
+Commissioner: MIA Commissioner (verify current appointee at insurance.maryland.gov)
 
 Insurance Code: Maryland Code, Insurance Article
 

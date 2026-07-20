@@ -34,15 +34,15 @@ To figure out which license suits you best, consider the types of clients you pl
 
 Some new agents also explore personal lines insurance, which focuses on policies for individuals rather than businesses. Comparing the pros and cons of each type will help you connect with your ideal clients and ensure that your career interests and license align. By choosing the right path from the start, you’ll maximize your focus and be able to offer reliable guidance.
 
-## Complete pre-licensing education
+## Consider pre-licensing education (optional)
 
-Texas requires you to take approved [Texas pre-licensing courses](/texas/prelicensing) before you sit for the official exam. These courses are designed to familiarize you with critical insurance topics, including ethics, state regulations, contract structure, and more. The number of hours varies depending on the license you seek, so it’s important to confirm exactly how many hours of study you need.
+Texas does not require you to take a [Texas pre-licensing course](/texas/prelicensing) before you sit for the official exam — it's optional, though recommended. These courses are designed to familiarize you with critical insurance topics, including ethics, state regulations, contract structure, and more. If you choose one, the number of hours varies depending on the license you seek, so it’s worth confirming what each provider offers.
 
-In addition to meeting the mandatory education requirements, solid coursework gives you a better foundation for advising future clients. Many individuals find that working with a company like JustInsurance can help streamline course selection, ensuring you’re fully prepared for the exam. The more thorough you are with your studies now, the more confident you’ll feel when it’s time to test.
+Even though it's not mandatory, solid coursework gives you a better foundation for advising future clients. Many individuals find that working with a company like JustInsurance can help streamline course selection, ensuring you’re fully prepared for the exam. The more thorough you are with your studies now, the more confident you’ll feel when it’s time to test.
 
 ## Prepare for the exam
 
-Your next step is to schedule and prepare for the licensing exam. By this stage, you should already be comfortable with the core insurance concepts taught during [pre-licensing](/texas/prelicensing). However, most people still benefit from supplemental study techniques and practice tests to sharpen their knowledge. Reviewing sample questions helps you feel at ease with the exam’s format, which includes multiple-choice questions that span various insurance scenarios.
+Your next step is to schedule and prepare for the licensing exam. If you took a pre-licensing course, you should already be comfortable with the core insurance concepts it covered. However, most people still benefit from supplemental study techniques and practice tests to sharpen their knowledge. Reviewing sample questions helps you feel at ease with the exam’s format, which includes multiple-choice questions that span various insurance scenarios.
 
 On exam day, being calm and organized can significantly improve your performance. To minimize stress, keep these tips in mind:
 

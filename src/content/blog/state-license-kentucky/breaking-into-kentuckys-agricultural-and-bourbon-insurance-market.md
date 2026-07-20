@@ -50,8 +50,6 @@ Agents who sell NFIP flood policies must complete the 3-hour one-time flood insu
 
 Kentucky's workers' compensation framework under KRS Chapter 342 includes specific provisions relevant to agricultural employers. Certain categories of agricultural workers — including specific family farm workers and domestic servants meeting the statutory definition — may be exempt from the mandatory coverage requirement. However, commercial agricultural employers with regular non-family employees are generally subject to the same 1-employee coverage threshold that applies to every other Kentucky employer. When in doubt, direct clients to the Department of Workers' Claims at dwc.ky.gov for guidance on their specific situation.
 
-## Specialty Training Comparison: Kentucky vs. Comparison States
-
 ## Frequently Asked Questions
 
 - Do I need a special license to sell crop insurance in Kentucky? Yes. To sell FCIC-backed federal crop insurance, you need both a Kentucky P&C producer license from the KDOI and a separate federal crop insurance agent license administered by USDA's Risk Management Agency (RMA). Contact RMA at usda.gov/rma for current requirements.

@@ -22,9 +22,9 @@ Here's an honest breakdown of what Florida insurance agents earn.
 
 ## Typical Income Ranges by Experience
 
-First-year agents (captive, with base): $40,000 – $60,000 First-year agents (independent, commission-only): $35,000 – $75,000 Agents 2–5 years in: $65,000 – $130,000 Experienced agents (5–10 years): $90,000 – $200,000 Top producers and agency owners: $200,000 – $500,000+
+First-year agents: $38,420 – $46,330 Experienced agents (several years in): $59,790 – $81,260 Average Florida agent income: around $80,300 Top producers and agency owners: $132,250+
 
-These numbers reflect realistic outcomes, not maximum potential. Top performers in niche markets like high-net-worth life insurance, Medicare, or final expense can exceed these ranges. Agents who don't actively prospect rarely reach them.
+These numbers reflect realistic outcomes, not maximum potential. Top performers in niche markets like high-net-worth life insurance, Medicare, or final expense can exceed these ranges. Agents who don't actively prospect rarely reach them. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## How Florida Agents Get Paid
 
@@ -64,7 +64,7 @@ Work ethic. Consistent prospecting and activity separate top earners from averag
 
 ## The Year-One Reality
 
-First-year income is almost always the hardest. Even at captive agencies with a base salary, total first-year income is usually modest. Independent agents starting from scratch often see $30,000 to $70,000 in their first year — which sounds disappointing until year two, when renewals start compounding.
+First-year income is almost always the hardest. Even at captive agencies with a base salary, total first-year income is usually modest. Independent agents starting from scratch often see roughly $38,000 to $46,000 in their first year — which sounds disappointing until year two, when renewals start compounding.
 
 Agents who expect a slow first year and plan for it almost always break through by year two. Agents who expect six-figure income immediately and don't get it often quit before the career has a chance to develop.
 

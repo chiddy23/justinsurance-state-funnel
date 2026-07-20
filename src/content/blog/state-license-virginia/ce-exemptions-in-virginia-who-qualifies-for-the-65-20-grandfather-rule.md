@@ -42,8 +42,6 @@ Submit a renewal application through NIPR or Sircon by their renewal deadline (e
 
 Pay the $10 per-line renewal fee
 
-Pay the CE continuance fee if applicable (confirm current requirements with Pearson VUE)
-
 The CE exemption eliminates the 16 or 24-hour CE obligation. It does not eliminate the renewal fee or the renewal application requirement.
 
 ## The 2019 Change: What It Means for New Exemption Claims
@@ -84,15 +82,11 @@ Non-resident producers are generally not required to complete Virginia CE regard
 
 How do I claim the CE exemption when renewing my Virginia insurance license?
 
-CE exemption claims are typically made as part of the license renewal process through NIPR or Sircon. The renewal application includes fields for certifying CE compliance or claiming an exemption. Producers claiming the exemption should be prepared to document the basis for the exemption — age (65+) and continuous licensure documentation — if the Bureau requests verification. For producers claiming Path 2/Criterion B (combining Virginia and out-of-state continuous licensure to reach 20 years), documentation of out-of-state licensure history may be required. Contact the Bureau of Insurance at BOILicenseRenewal@scc.virginia.gov for specific documentation requirements before claiming the exemption for the first time.
+CE exemption claims are typically made as part of the license renewal process through NIPR or Sircon. The renewal application includes fields for certifying CE compliance or claiming an exemption. Producers claiming the exemption should be prepared to document the basis for the exemption — age (65+) and continuous licensure documentation — if the Bureau requests verification. For producers claiming Path 2/Criterion B (combining Virginia and out-of-state continuous licensure to reach 20 years), documentation of out-of-state licensure history may be required. Contact the Bureau of Insurance at AgentLicensing@scc.virginia.gov for specific documentation requirements before claiming the exemption for the first time.
 
 Can a producer who qualifies for the CE exemption choose to take CE courses anyway?
 
-Yes. CE exemption is voluntary — it is a permission, not a prohibition. An exempt producer who wants to stay current with industry changes, complete specialty training, or maintain professional development can take CE courses and have them credited to their record. For exempt producers who complete CE courses, the CE continuance fee must still be paid to have those credits applied to the record, even if the credits are not required for renewal. Excess credits from voluntary CE do not carry forward meaningfully for an exempt producer, but the educational value and the regulatory currency the courses provide are independent of the exemption status.
-
-Does the 65/20 CE exemption apply to the continuance fee obligation?
-
-This is a nuanced point — the CE continuance fee is administered by Pearson VUE separately from the Bureau of Insurance renewal process. Confirm directly with Pearson VUE (877-234-6093 or VirginiaInsuranceCE@pearson.com) whether exempt producers are required to pay the continuance fee when no CE is completed. The general principle is that the continuance fee is associated with the CE program administration and may apply differently for exempt versus compliant producers. Do not assume the continuance fee is waived for exempt producers without specific confirmation from the CE administrator.
+Yes. CE exemption is voluntary — it is a permission, not a prohibition. An exempt producer who wants to stay current with industry changes, complete specialty training, or maintain professional development can take CE courses and have them credited to their record, even though the credits are not required for renewal. Because Virginia does not carry forward excess CE credits between biennia, voluntary courses taken by an exempt producer don't create any banked benefit for a future cycle — but the educational value and regulatory currency the courses provide are independent of the exemption status.
 
 The 65/20 CE exemption is a meaningful benefit for Virginia's longest-tenured senior producers, but it requires careful maintenance — continuous licensure, timely renewal, and ongoing specialty training compliance for applicable products. A single lapse permanently voids an exemption that may represent decades of earned tenure.
 

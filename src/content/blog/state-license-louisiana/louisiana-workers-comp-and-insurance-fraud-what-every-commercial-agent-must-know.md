@@ -40,11 +40,9 @@ For commercial producers, familiarity with both LWCC and the private carrier mar
 
 ## Benefits and Exclusive Remedy
 
-Louisiana workers' compensation provides: medical benefits (all reasonably necessary treatment at no cost to the employee), temporary total disability (TTD) at 66 2/3% of average weekly wage with a maximum of $845 per week (September 1, 2024 through August 31, 2025), permanent disability benefits, and death benefits. The exclusive remedy doctrine under the Louisiana Workers' Compensation Act bars employees covered by workers' comp from suing their employer in civil court for work-related injuries covered by the system, with narrow exceptions for intentional employer conduct.
+Louisiana workers' compensation provides: medical benefits (all reasonably necessary treatment at no cost to the employee), temporary total disability (TTD) at 66 2/3% of average weekly wage, capped at a maximum weekly compensation rate that the Louisiana Workforce Commission resets every September 1 — verify the current figure at laworks.net or with the LWC Office of Workers' Compensation Administration — permanent disability benefits, and death benefits. The exclusive remedy doctrine under the Louisiana Workers' Compensation Act bars employees covered by workers' comp from suing their employer in civil court for work-related injuries covered by the system, with narrow exceptions for intentional employer conduct.
 
 Louisiana's energy sector creates a distinctive workers' comp consideration: offshore workers may fall under federal maritime laws — the Jones Act and the Longshore and Harbor Workers' Compensation Act — rather than state workers' comp. Commercial producers serving oil and gas, maritime, or offshore industry clients need to understand this distinction and ensure clients have the appropriate coverage.
-
-## Workers' Comp Comparison: Louisiana vs. Neighboring States
 
 ## Insurance Fraud: Louisiana Law and Enforcement
 

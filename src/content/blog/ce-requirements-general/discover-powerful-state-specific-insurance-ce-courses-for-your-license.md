@@ -42,7 +42,7 @@ Texas
 
 24 hours every 2 years
 
-2 hours in Ethics
+3 hours in Ethics
 
 California
 
@@ -54,7 +54,7 @@ Florida
 
 24 hours every 2 years
 
-5-hour Law & Ethics Update
+4-hour Law & Ethics Update
 
 In addition to these common topics, your state might demand specific credits in areas like flood insurance or long-term care. By selecting courses that address these niche topics, you’ll show clients that you are not only compliant but also actively building your expertise in the areas they value most.
 

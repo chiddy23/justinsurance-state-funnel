@@ -125,7 +125,7 @@ Include [practice questions](/alabama/practice-exam) mirroring exam style
 
 Provide video content, reading, and quizzes
 
-Often include money-back passing guarantees
+Some providers offer satisfaction policies — read the terms carefully
 
 Look for providers with strong track records specifically for Alabama candidates.
 

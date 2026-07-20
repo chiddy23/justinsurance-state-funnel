@@ -33,7 +33,7 @@ Some professionals opt to hold multiple lines to serve a broader client base. Be
 
 ## Understand your exam requirements
 
-Before you can sell insurance in Arizona, you’ll need to pass a required licensing exam. The state mandates that you complete an [Arizona insurance prelicensing](/arizona/prelicensing) course, which covers key topics such as basic insurance terminology, policy types, and Arizona-specific regulations. For many aspiring agents, having a comprehensive study approach is crucial for passing the exam on the first attempt. A thorough grasp of these fundamentals lays the foundation for your success as an insurance professional.
+Before you can sell insurance in Arizona, you’ll need to pass a required licensing exam. Arizona doesn't mandate that you complete a prelicensing course first, but a quality [Arizona insurance prelicensing](/arizona/prelicensing) course covers key topics such as basic insurance terminology, policy types, and Arizona-specific regulations. For many aspiring agents, having a comprehensive study approach is crucial for passing the exam on the first attempt. A thorough grasp of these fundamentals lays the foundation for your success as an insurance professional.
 
 To prepare effectively, consider these study guidelines:
 
@@ -60,11 +60,11 @@ Below are answers to common questions many aspiring agents have when pursuing an
 
 ### 1\. How do I begin the pre-licensing process?
 
-You can start by enrolling in a state-approved [pre-licensing](/arizona/prelicensing) course. This training covers all the fundamentals you need to learn before taking your official exam. Look for programs that suit your schedule and learning style.
+Arizona doesn't require prelicensing coursework, but you can start by enrolling in a state-approved [pre-licensing](/arizona/prelicensing) course anyway. This optional training covers the fundamentals you need to learn before taking your official exam. Look for programs that suit your schedule and learning style.
 
-### 2\. How many hours of study are required?
+### 2\. How many hours does the optional prep course take?
 
-The number of hours varies depending on the line of authority you choose, but typically you’ll complete around 40 hours. Check the Arizona Department of Insurance guidelines for the most current information.
+Since Arizona doesn't require prelicensing hours by law, the length depends on which optional course you choose and the line of authority you're pursuing — JustInsurance's courses run roughly 20 hours for Life or Health, and around 40 hours for the combined Life & Health track. Check with your provider for exact course lengths.
 
 ### 3\. Is the exam difficult?
 

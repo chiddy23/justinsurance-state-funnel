@@ -1,6 +1,6 @@
 ---
 title: 'How to Get Your Illinois Insurance License in 2026'
-description: 'Illinois requires 20 hours of prelicensing per line (7.5 classroom or live web), Pearson VUE general + state exams, and a 5-day NIPR cooling period.'
+description: 'Illinois requires 20 hours of prelicensing per line (7.5 classroom or live web), Pearson VUE general + state exams, and a NIPR application filed after you pass both portions.'
 keyword: how to get Illinois insurance license
 targetKeywords: >-
   Illinois insurance producer license, Illinois Pearson VUE insurance exam,
@@ -16,7 +16,7 @@ imageAlt: >-
   to a printed Pearson VUE confirmation.
 ---
 
-Illinois is one of the few states that still splits your testing into **General** and **State** exam registrations per line of authority, then forces those passes inside **90** days of each other according to the Illinois Department of Insurance (DOI) [resident producer instructions](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html). You also cannot submit the NIPR application until **five** full days after you pass—DOI repeats that warning twice on the same page. Miss any one of those sequencing rules and you will redo Pearson VUE seats while your hiring manager wonders why the NPN never cleared.
+Illinois is one of the few states that still splits your testing into **General** and **State** exam registrations per line of authority, then forces those passes inside **90** days of each other according to the Illinois Department of Insurance (DOI) [resident producer instructions](https://idoi.illinois.gov/producers/licensescertificationsfaqs/become-resident-producer.html). Once you pass both portions, you submit your NIPR application, and DOI typically processes it within a few business days when your information is complete. Miss any one of those sequencing rules and you will redo Pearson VUE seats while your hiring manager wonders why the NPN never cleared.
 
 ## Finish the 20-hour stack—and respect the 7.5-hour classroom slice
 
@@ -26,9 +26,9 @@ DOI states plainly that resident producers need **20** hours of [prelicensing](/
 
 DOI tells you to review the [Pearson VUE candidate handbook](https://home.pearsonvue.com/il/insurance) for registration mechanics. You must pass the General and State components for each line within **90** days of each other. That means calendar math—not “about three months”—because day **91** forces a retest. DOI also requires separate registrations; you cannot assume one appointment covers both halves.
 
-## Wait five days after the pass before NIPR will accept the application
+## File your NIPR application promptly after you pass
 
-DOI’s page shouts in bold that you must wait **five** days after passing before applying online at [NIPR](https://nipr.com/). That delay is not Pearson lag; it is a DOI rule. If you try early, you will see a rejection or a stuck transaction that costs time to unwind with NIPR support.
+Once you have passed both exam portions, apply online at [NIPR](https://nipr.com/). Illinois's total licensing timeline runs a few business days for processing once your application and documentation are complete, so file promptly rather than sitting on your exam results. Rejections and stuck transactions usually trace back to incomplete submissions or mismatched name, SSN, or date-of-birth records—not a required waiting period—and those errors cost time to unwind with NIPR support.
 
 ## Exam scores last 12 months—shorter than some training certificates
 
@@ -68,7 +68,7 @@ DOI’s resident page still points applicants to [Company Bulletin #2022-14](htt
 
 ## Bottom line
 
-Finish **20** hours per line with the **7.5**-hour live component, pass General and State exams inside **90** days, cool off **five** days, then file on NIPR before the **12**-month score window closes. Drill with [Illinois practice exams](https://justinsuranceco.com/illinois/practice-exam), read the [insurance exam guide](https://justinsuranceco.com/insurance-exam-guide) for how split exams behave in real scheduling, and book [Illinois prelicensing](https://justinsuranceco.com/illinois/prelicensing) once you know which lines need classroom seats versus self-paced hours.
+Finish **20** hours per line with the **7.5**-hour live component, pass General and State exams inside **90** days, then file promptly on NIPR before the **12**-month score window closes. Drill with [Illinois practice exams](https://justinsuranceco.com/illinois/practice-exam), read the [insurance exam guide](https://justinsuranceco.com/insurance-exam-guide) for how split exams behave in real scheduling, and book [Illinois prelicensing](https://justinsuranceco.com/illinois/prelicensing) once you know which lines need classroom seats versus self-paced hours.
 
 **By Justin vom Eigen, Licensed Insurance Agent and Founder of JustInsurance**
 

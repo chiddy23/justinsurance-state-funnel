@@ -22,7 +22,7 @@ Here's everything you need to know about Georgia insurance exam retake rules.
 
 ## First: What Happens When You Fail
 
-When you finish the Georgia exam at a Prometric testing center, your pass/fail result appears on screen immediately. If you don't pass, you receive a printed score report showing your performance broken down by content area.
+When you finish the Georgia exam at a Pearson VUE testing center, your pass/fail result appears on screen immediately. If you don't pass, you receive a printed score report showing your performance broken down by content area.
 
 This score report is valuable — it's the most efficient diagnostic tool you have for figuring out what to study before your next attempt. It shows where you lost the most points, letting you prioritize those sections specifically.
 
@@ -30,25 +30,25 @@ Keep the score report. Don't discard it. You'll want it for your focused retake 
 
 ## The Waiting Period
 
-Georgia requires a 24-hour minimum waiting period before you can retake the exam. You can schedule your retake as early as the following day.
+Georgia requires an escalating waiting period before you can retake the exam: 14 days following your first or second failure, and 60 days following your third or any subsequent failure. There's no way to schedule a retake before that window ends.
 
-However, retaking immediately is rarely a good idea. Here's why:
+Use the mandatory waiting period strategically. Here's why it works in your favor:
 
-One day isn't enough time to address weak areas. You need focused study to improve.
+Two weeks (or more) is real time to address weak areas. You need focused study to improve.
 
 Test-day mindset needs recovery. Walking in still frustrated from the previous attempt affects performance.
 
 Patterns repeat without intervention. Taking it again with the same preparation level typically produces the same result.
 
-Most candidates who succeed on retake wait at least 1–2 weeks and use that time strategically.
+Most candidates who succeed on retake use the full waiting period productively rather than treating it as dead time.
 
 ## Retake Fees
 
 Each Georgia exam attempt requires:
 
-- New Prometric registration at prometric.com
+- New Pearson VUE registration at home.pearsonvue.com/ga/insurance
 
-- Full exam fee payment (approximately $63 per attempt, confirm current fee at registration)
+- Full exam fee payment (approximately $67 per attempt, confirm current fee at registration)
 
 The retake fee is the same as the initial attempt fee — no discounts for retakes. This is motivation to prepare thoroughly before each attempt.
 
@@ -60,7 +60,7 @@ However:
 
 - Each attempt costs money
 
-- Each attempt requires waiting at least 24 hours
+- Each attempt requires waiting the applicable 14-day or 60-day period
 
 - Multiple failed attempts can indicate deeper preparation issues
 
@@ -130,11 +130,11 @@ Cramming. Trying to learn material in days. Fix: spread study over weeks for act
 
 ## Scheduling Your Retake
 
-Re-register through Prometric. Same process as your initial registration — go to prometric.com, register, choose your retake date and testing center.
+Re-register through Pearson VUE. Same process as your initial registration — go to home.pearsonvue.com/ga/insurance, register, choose your retake date and testing center once your waiting period has passed.
 
-Choose your date carefully. Don't book too soon. Don't book too far out either — too much waiting can cause you to lose momentum. One to four weeks after your first attempt is typically the sweet spot.
+Choose your date carefully. Don't book too far out — too much waiting can cause you to lose momentum. Right after your waiting period ends is typically the sweet spot.
 
-Consider a different testing center. Some candidates report doing better at different Prometric locations. If one location felt uncomfortable, try another nearby.
+Consider a different testing center. Some candidates report doing better at different Pearson VUE locations. If one location felt uncomfortable, try another nearby.
 
 Pay the fee. Confirm payment and save the registration confirmation.
 
@@ -166,9 +166,9 @@ Don't pass and then sit on your results. Submit your application quickly after p
 
 ## 5 Frequently Asked Questions
 
-1. How soon can I retake the Georgia insurance exam after failing? After a minimum 24-hour waiting period. But waiting 1–2 weeks for focused preparation typically produces much better results.
+1. How soon can I retake the Georgia insurance exam after failing? After a mandatory 14-day waiting period for a first or second failure, or 60 days for a third or subsequent failure. Use that time for focused preparation.
 
-2. Do I have to redo my prelicense course if I fail the exam? No. Your prelicense completion remains valid. You only need to re-register with Prometric and pay the retake fee.
+2. Do I have to redo my prelicense course if I fail the exam? No. Your prelicense completion remains valid. You only need to re-register with Pearson VUE and pay the retake fee.
 
 3. Will a failed attempt show up on my license application? No. OCI's license application process considers your most recent passing result, not your full attempt history.
 

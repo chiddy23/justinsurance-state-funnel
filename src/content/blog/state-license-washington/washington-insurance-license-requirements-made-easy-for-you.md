@@ -25,13 +25,13 @@ Below, you will find a clear road map for each step, from completing [pre-licens
 
 Washington requires you to obtain a license for each major line of insurance you plan to sell, such as Life, Disability (Health), Property, and Casualty. While it might sound like a lot, each license primarily follows a similar path.
 
-In most cases, you must complete a specific number of pre-licensing hours from an approved course provider, pass a state-administered exam, and submit to a background check plus fingerprinting. This process helps protect the public by ensuring new agents thoroughly understand insurance products and state regulations.
+Washington does not require a set number of pre-licensing hours before you can sit for the exam — that requirement was eliminated in 2023. What you must do is pass a state-administered exam and submit to a background check plus fingerprinting. This process helps protect the public by ensuring new agents thoroughly understand insurance products and state regulations, and optional prep coursework can help you get there.
 
 Don’t worry if you are entirely new to insurance. Before you invest any time or money, decide which line(s) of authority (Life, Health, Property, or Casualty) best align with your interests or career goals. Once you pinpoint your direction, it becomes easier to focus on the exact requirements for that license type.
 
-## Complete your pre-licensing
+## Consider optional pre-licensing prep
 
-Once you settle on the line(s) of insurance you want to pursue, it is time to fulfill [Washington’s prelicensing education requirement](/washington/prelicensing). Depending on which license you seek, you will generally need either 20 hours of coursework per line or 40 hours for combined lines like Life and Disability.
+Once you settle on the line(s) of insurance you want to pursue, you can choose to work through [optional Washington prep coursework](/washington/prelicensing) — Washington does not mandate pre-licensing education. If you do choose a course, options are typically built around 20 hours of coursework per line or 40 hours for combined lines like Life and Disability, which is simply the course length JustInsurance offers, not a state requirement.
 
 Pre-licensing courses cover essential concepts like policy provisions, state regulations, marketing practices, and ethics. The material is usually found online or in classroom settings, taught by experts who know how to break down complex topics in practical terms. Many find the self-paced online platforms convenient if they have a packed schedule or prefer to learn at their own pace.
 
@@ -45,7 +45,7 @@ Think of this step as an investment in your future career. The more attentive yo
 
 ## Pass your Washington insurance exam
 
-After completing your pre-licensing education, you are eligible to register for the state exam. This test is administered by an approved provider, and it often includes both national content and Washington-specific questions. Expect to see multiple-choice items covering terminology, statutes, and scenario-based situations. The goal is to test both your theoretical knowledge and your ability to apply it in real-world settings.
+Once you feel ready, whether you completed optional pre-licensing coursework or studied independently, you are eligible to register for the state exam. This test is administered by an approved provider, and it often includes both national content and Washington-specific questions. Expect to see multiple-choice items covering terminology, statutes, and scenario-based situations. The goal is to test both your theoretical knowledge and your ability to apply it in real-world settings.
 
 It helps to spend time on [practice questions](/washington/practice-exam) to get a feel for the exam’s format. Many exam prep programs provide practice quizzes and topic-specific drills, so you can pinpoint where you need extra review. Come exam day, focus on pacing yourself. Reading each question carefully helps you avoid small mistakes.
 
@@ -69,7 +69,7 @@ Approximate Fee
 
 Typical Timeline
 
-Pre-licensing Course
+Pre-licensing Course (optional, not required)
 
 $150–$200 per course
 
@@ -101,8 +101,8 @@ Once you submit your application, you will typically wait a few business days fo
 
 1.  How long does the entire process take?  
     It varies by person, but many complete everything in about three to five weeks. This includes finishing pre-licensing, scheduling and passing the exam, and submitting the application. If you have more time to study or you combine multiple lines, the timeline may be slightly longer.
-2.  Can I complete my pre-licensing online?  
-    Yes. Many approved course providers offer robust online options that let you study wherever and whenever you want. If you prefer a traditional classroom setting, some providers also offer in-person sessions.
+2.  Do I have to complete pre-licensing before the exam?  
+    No. Washington does not require pre-licensing education. If you choose to prepare with a course anyway, many providers offer robust online options that let you study wherever and whenever you want, along with traditional classroom sessions.
 3.  Do I need separate licenses for Life and Health vs Property and Casualty?  
     Each line of authority (Life, Disability, Property, and Casualty) typically requires its own exam. Washington also offers combined exams for Life and Disability or for Property and Casualty. Combining them can save time and money if you plan to sell both.
 4.  What if I fail the exam on my first try?  
@@ -112,6 +112,6 @@ Once you submit your application, you will typically wait a few business days fo
 
 ## Wrap up your journey
 
-Earning your Washington insurance license can be a clear and rewarding process if you know where to focus your energy. By completing a reputable pre-licensing program, tackling the exam with confidence, and submitting your application correctly, you are already well on your way to a meaningful insurance career. More importantly, you will have the knowledge and credentials to help people protect what matters most to them.
+Earning your Washington insurance license can be a clear and rewarding process if you know where to focus your energy. By preparing thoroughly (whether or not you use a pre-licensing program), tackling the exam with confidence, and submitting your application correctly, you are already well on your way to a meaningful insurance career. More importantly, you will have the knowledge and credentials to help people protect what matters most to them.
 
-If you have been considering the next move in your career, this is your sign to take action. Start with a pre-licensing course if you have not already enrolled, then follow up with the exam at your earliest convenience. Once you secure your license, you will be ready to explore agency opportunities or even go independent, and plan for [Washington continuing education](/washington/continuing-education) each renewal cycle. Interested in more guidance? Reach out to JustInsurance for study materials, licensing tips, and personalized support. Your successful future in Washington insurance is just around the corner. Good luck on your licensing journey!
+If you have been considering the next move in your career, this is your sign to take action. Start studying, whether through an optional pre-licensing course or on your own, then follow up with the exam at your earliest convenience. Once you secure your license, you will be ready to explore agency opportunities or even go independent, and plan for [Washington continuing education](/washington/continuing-education) each renewal cycle. Interested in more guidance? Reach out to JustInsurance for study materials, licensing tips, and personalized support. Your successful future in Washington insurance is just around the corner. Good luck on your licensing journey!

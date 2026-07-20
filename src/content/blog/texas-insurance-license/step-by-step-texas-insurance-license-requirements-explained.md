@@ -21,7 +21,7 @@ imageCredit: Photo by Anna Zanovelli Bacci on Pexels
 
 If you want to build a successful career in insurance, meeting the [Texas insurance license requirements](/texas/requirements) is your first big step. Earning a license allows you to act as a professional insurance agent who can advise clients and sell policies legally. As a resident of Texas, you’ll find that the state’s application process is clear and accessible, though there are a few details you’ll need to handle carefully.
 
-In essence, you must meet certain age and residency conditions, complete a [pre-licensing](/texas/prelicensing) education program, and pass a qualifying exam. Each of these steps ensures that you’re knowledgeable, properly prepared, and ready to help Texans find the coverage they need. Learning these requirements in advance makes the entire process less intimidating and speeds up your journey to becoming a licensed agent.
+In essence, you must meet certain age and residency conditions, optionally prepare with a [pre-licensing](/texas/prelicensing) education program, and pass a qualifying exam. Each of these steps ensures that you’re knowledgeable, properly prepared, and ready to help Texans find the coverage they need. Learning these requirements in advance makes the entire process less intimidating and speeds up your journey to becoming a licensed agent.
 
 ## Meet the eligibility criteria
 
@@ -29,15 +29,15 @@ Before you sign up for any courses or exams, make sure you’re eligible for a [
 
 For most applicants, completing a fingerprint-based background check is also part of the process. While that might sound daunting, it’s typically straightforward if you follow the instructions provided by the Texas Department of Insurance. Once you’ve confirmed that you meet the basic criteria, you can get started on your training.
 
-## Complete your pre-licensing education
+## Consider pre-licensing education (optional)
 
-Texas requires a minimum number of [pre-licensing education](/texas/prelicensing) hours for anyone seeking an insurance license. These courses, usually offered online or in-person, cover essential topics such as policy types, ethical practices, claim handling, and Texas-specific regulations. They’re designed to give you a firm foundation in insurance principles so you can serve clients responsibly.
+Texas does not require a minimum number of [pre-licensing education](/texas/prelicensing) hours before you can sit for the state exam — it's optional, not mandatory. Even so, many candidates choose a structured course covering essential topics such as policy types, ethical practices, claim handling, and Texas-specific regulations, since it gives you a firm foundation in insurance principles so you can serve clients responsibly.
 
-Because you have multiple course providers and formats to choose from, it’s wise to do some research on quality and price. Many aspiring agents in Texas turn to JustInsurance for friendly, user-focused courses. Not only do reputable programs cover the required curriculum, but they also prepare you thoroughly for the official state exam.
+Because you have multiple course providers and formats to choose from, it’s wise to do some research on quality and price. Many aspiring agents in Texas turn to JustInsurance for friendly, user-focused courses. Not only do reputable programs cover the exam content, but they also prepare you thoroughly for the official state exam.
 
 ## Schedule and pass the exam
 
-Once you’ve completed your pre-licensing courses and received your certificate of completion, you can sign up for the state licensing exam. Typically, this exam is offered at designated testing centers throughout Texas, and many providers also offer remote proctoring. You’ll pay an exam fee, which varies depending on the test you take.
+Whether or not you completed a pre-licensing course, once you feel prepared you can sign up for the state licensing exam. Typically, this exam is offered at designated testing centers throughout Texas, and many providers also offer remote proctoring. You’ll pay an exam fee, which varies depending on the test you take.
 
 It’s normal to feel a bit nervous, but setting aside time for review sessions can relieve much of that anxiety. In your prep, focus on:
 
@@ -51,7 +51,7 @@ On test day, arrive early, double-check you have the necessary ID documents, and
 
 With your passing exam score in hand, you’re ready to apply for your license. The Texas Department of Insurance oversees the application process, which you can complete entirely online through the official website. You’ll typically need to upload:
 
--   Your certificate of completion for the required education
+-   Your pre-licensing certificate of completion, if you took a course
 -   Proof of your exam results
 -   Any supporting documents for previous names or addresses, if requested
 

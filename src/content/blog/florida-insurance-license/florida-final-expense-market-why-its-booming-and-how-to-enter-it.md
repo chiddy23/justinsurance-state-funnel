@@ -100,6 +100,8 @@ New final expense agents who work the business seriously often earn:
 
 - Established agents: $120,000 – $250,000+
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 These numbers assume consistent appointment-setting, lead spend, and follow-through. Final expense is a high-activity niche — income follows activity closely.
 
 ## Common Mistakes New Final Expense Agents Make

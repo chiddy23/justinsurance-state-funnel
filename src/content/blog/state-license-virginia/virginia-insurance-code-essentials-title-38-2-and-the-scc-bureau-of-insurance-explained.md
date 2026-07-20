@@ -38,7 +38,7 @@ Bureau of Insurance: P.O. Box 1157, Richmond, VA 23218-1157
 
 Physical address: 1300 East Main Street, 6th Floor, Richmond, VA 23219
 
-Phone: (804) 371-9631 (agent licensing); (800) 552-7945 (toll-free in VA)
+Phone: (800) 552-7945 (toll-free, agent licensing)
 
 Email: AgentLicensing@scc.virginia.gov
 

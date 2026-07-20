@@ -17,7 +17,7 @@ imageCredit: Photo by Alena Darmel on Pexels
 
 Master Description: Master the [Illinois insurance](/illinois) licensing process with friendly help so you can earn your license quickly.
 
-To begin your Illinois insurance licensing process, you need to confirm that you meet the state’s basic eligibility requirements. In most cases, you must be at least 18 years old and a resident of Illinois. You should also be prepared to pass a background check, which may include fingerprinting.
+To begin your Illinois insurance licensing process, you need to confirm that you meet the state’s basic eligibility requirements. In most cases, you must be at least 18 years old and a resident of Illinois. You should also be prepared to pass a background check — Illinois does not require fingerprinting for most resident producer applicants, relying instead on the disclosure questions in your application.
 
 It’s a good idea to review the [Illinois Department of Insurance](/illinois/requirements)’s website for the most current guidelines. Requirements can change occasionally, and verifying details early helps you avoid surprises. If you have any doubts or concerns, contact the department directly to clarify what you need before moving forward.
 
@@ -29,7 +29,7 @@ Think about whether a combined license makes sense. Some professionals choose to
 
 ## Finish pre-licensing education
 
-Illinois requires you to complete a set number of [Illinois insurance prelicensing](/illinois/prelicensing) hours before you can sit for the exam. Usually, you’ll need 20 hours per major line of authority, such as life or health. That time is split between classroom instruction and self-study, though you can also choose an online-only course if you prefer to learn at your own pace.
+Illinois requires you to complete a set number of [Illinois insurance prelicensing](/illinois/prelicensing) hours before you can sit for the exam. Usually, you’ll need 20 hours per major line of authority, such as life or health. That time is split between live instruction and self-study: Illinois requires 7.5 of the 20 hours per line to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119), while the remaining hours may be completed through self-paced study. Because live webinars count toward the classroom requirement, you can still complete the entire course from home.
 
 When selecting a [pre-licensing](/illinois/prelicensing) provider, double-check that they’re approved by the Illinois Department of Insurance. Reputable programs often provide practice quizzes, structured lessons, and direct instructor access for questions. This structured approach ensures you have a solid understanding of all essential topics, including policy details, state regulations, and ethical standards.
 

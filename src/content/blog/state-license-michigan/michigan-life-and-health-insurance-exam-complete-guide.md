@@ -28,8 +28,6 @@ PSI Michigan contact:
 
 Website: test-takers.psiexams.com/midifs
 
-Phone: (855) 579-4639 or (800) 733-9267
-
 Pay the $41 exam fee at registration by credit card, debit card, voucher, or electronic check
 
 ## The PLE-First Requirement

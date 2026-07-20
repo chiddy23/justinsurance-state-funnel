@@ -22,15 +22,13 @@ Here's the complete guide to the Massachusetts Life and Health insurance exam.
 
 ## Who Administers the Exam
 
-Massachusetts insurance licensing exams are administered by Prometric on behalf of the Massachusetts Division of Insurance. This is distinctive — most states use Pearson VUE for insurance exams, but Massachusetts uses Prometric. You register and schedule through Prometric's website at prometric.com/massachusetts/insurance.
+Massachusetts is transitioning its insurance licensing exam vendor from Prometric to Pearson VUE. Prometric administered the exam on behalf of the Massachusetts Division of Insurance through July 16, 2026; there is a testing blackout July 17–21, 2026; and Pearson VUE becomes the official vendor starting July 22, 2026. You register and schedule through Pearson VUE's website at pearsonvue.com/us/en/ma/insurance.html.
 
 ## Where You'll Take the Exam
 
-Prometric offers two testing options for Massachusetts:
+Pearson VUE requires in-person testing at an authorized test center — the remote/online-proctored option that Prometric offered (ProProctor) is being eliminated with the vendor switch.
 
-Prometric Testing Centers. Physical testing locations throughout Massachusetts including Boston, Worcester, Springfield, and other regional centers.
-
-ProProctor Remote Testing. Online proctored testing taken from home with a compatible computer or laptop. Massachusetts is one of the states accepting ProProctor remote testing for insurance exams, providing flexibility for candidates.
+Pearson VUE Testing Centers. Physical testing locations throughout Massachusetts including Boston, Worcester, Springfield, and other regional centers.
 
 ## Massachusetts Exam Structure
 
@@ -40,7 +38,7 @@ Question counts and time limits range from approximately 100-150 questions and 2
 
 Passing score: 70% on every Massachusetts insurance license exam.
 
-Exam fee: $39 (paid to Prometric at registration — notably lower than most states).
+Exam fee: $39 (paid at registration — notably lower than most states; confirm the current fee in the Pearson VUE candidate handbook before scheduling).
 
 Note: No exam is required for Variable Life and Variable Annuity, or Travel licenses.
 
@@ -130,7 +128,7 @@ Strong performance in these areas is often the difference between passing and fa
 
 ## What to Expect on Test Day
 
-Arrive at least 30 minutes early at your Prometric testing center.
+Arrive at least 30 minutes early at your Pearson VUE testing center.
 
 Bring two valid forms of identification. Both must be current and contain your name. The primary must be government-issued and photo-bearing with a signature. Your name must exactly match the name on your registration.
 
@@ -142,51 +140,13 @@ On-screen calculator is available for basic math.
 
 Results appear immediately after you submit. You'll receive a printed score report marked "pass" or "fail."
 
-## For Remote Testing (ProProctor)
+## A Note on Remote Testing
 
-If you choose ProProctor remote testing:
-
-Equipment requirements:
-
-Compatible computer or laptop
-
-Webcam
-
-Reliable high-speed internet
-
-Microphone
-
-Compatible operating system
-
-Environment requirements:
-
-Quiet, private testing space
-
-No other people in the room
-
-Clear desk/workspace
-
-Adequate lighting
-
-Identification requirements:
-
-Same two-form ID requirements as physical testing centers
-
-Verified during proctor check-in
-
-Testing experience:
-
-Live proctor monitors throughout exam
-
-Cannot leave camera view during exam
-
-Same time limits and scoring as physical testing
-
-If you don't have a compatible computer for ProProctor, schedule an in-person exam at a Prometric testing center.
+Prometric previously offered ProProctor remote testing (online proctored testing from home) for the Massachusetts exam. That option is being eliminated as part of the July 22, 2026 switch to Pearson VUE — going forward, candidates must test in person at an authorized Pearson VUE test center. Plan to schedule an in-person exam rather than counting on a remote option.
 
 ## Taking the Exam: Navigation
 
-Prometric's testing interface allows you to:
+The testing software allows you to:
 
 Navigate forward and backward through questions
 
@@ -236,8 +196,8 @@ These factors combine to challenge unprepared candidates.
 
 - How many questions are on the Massachusetts Life and Health combined exam? Approximately 150 questions for the combined Life and Health exam. Single-line exams (Life only or Health only) have approximately 105 questions.
 - What's the passing score? 70% on Massachusetts insurance license exams.
-- How much does the Massachusetts insurance exam cost? $39 paid to Prometric at registration — notably lower than most states.
-- Can I take the Massachusetts insurance exam from home? Yes. Prometric offers ProProctor remote testing for Massachusetts insurance exams. You need a compatible computer with webcam and reliable internet, plus a quiet private testing environment.
+- How much does the Massachusetts insurance exam cost? $39 paid at registration — notably lower than most states (confirm the current fee with your testing vendor before scheduling).
+- Can I take the Massachusetts insurance exam from home? No, not going forward. Prometric previously offered ProProctor remote testing, but that option is being eliminated as Massachusetts switches to Pearson VUE (effective July 22, 2026), which requires in-person testing at an authorized test center.
 - Can I retake the Massachusetts exam if I fail? Yes. There's no specific cap on retakes. Each attempt requires another $39 exam fee.
 
 ## Walk Into the Massachusetts Exam Prepared

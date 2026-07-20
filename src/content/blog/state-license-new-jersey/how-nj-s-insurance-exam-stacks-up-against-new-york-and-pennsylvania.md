@@ -22,7 +22,7 @@ All three states use PSI as their exam administrator. All three require a 70% pa
 
 New Jersey's 20-hour prelicensing requirement per line is modest — substantially lower than New York, but more demanding than Pennsylvania.
 
-New York requires 40 hours for Life and Accident & Health, and a striking 90 hours for Property and Casualty. That 90-hour P&C requirement is one of the highest in the country, with a minimum of roughly 90 classroom hours required for live instruction. The education requirement alone — before any exam preparation — takes most New York P&C candidates four to six weeks to complete.
+New York requires 20 hours per line — 40 hours for the combined Life and Accident & Health course — and a striking 90 hours for Property and Casualty. That 90-hour P&C requirement is one of the highest in the country, with a minimum of roughly 90 classroom hours required for live instruction. The education requirement alone — before any exam preparation — takes most New York P&C candidates four to six weeks to complete.
 
 Pennsylvania eliminated its mandatory prelicensing education requirement entirely, meaning candidates in Pennsylvania can walk into the PSI exam with zero formal coursework if they choose. This sounds like an advantage, but the state exam tests the same core concepts regardless — candidates who skip preparation in Pennsylvania face a test they may be significantly underprepared for.
 
@@ -38,7 +38,7 @@ By time pressure, New Jersey's exam is the most forgiving of the three. Candidat
 
 ## Pass Rates: New York's P&C Is Uniquely Difficult
 
-Pass rate data reveals a significant divergence among the three states — particularly for Property and Casualty.
+Pass rate data reveals a significant divergence among the three states — particularly for Property and Casualty. The figures below are approximate, first-attempt candidate pass rates as reported by each state's exam vendor and can shift from period to period; check each state's exam administrator for the current numbers. They are a different metric from JustInsurance's own student pass rate, which reflects outcomes for students who complete our courses rather than all first-time candidates statewide.
 
 New York's P&C pass rate sits at approximately 24% — meaning roughly three out of four first-time candidates fail. This is one of the lowest pass rates for any insurance licensing exam in the country, and it reflects the combination of a 90-hour prelicensing requirement, a dense exam, and narrow time limits. New York's P&C exam is widely considered the most challenging of any adjacent state.
 

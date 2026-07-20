@@ -52,9 +52,9 @@ Exemptions: OCI Form 11-026; 90 days before exam; technical college degree/4-yr 
 
 Intermediary's Guide to Wisconsin Insurance Law — OCI-developed online study resource for WI laws section
 
-PSI: $75; PSI Bridge (Chrome); 70%; 180-day apply window; no retake wait; bring Certificate + ID
+PSI: $75; PSI Bridge (Chrome); 70%; 180-day apply window; ~2-day retake wait; bring Certificate + ID
 
-Fieldprint: $36; fieldprintwisconsin.com; code FPWIOCIInsurance; 180-day validity; 2 signature IDs
+Fieldprint: $34.75; fieldprintwisconsin.com; code FPWIOCIInsurance; 180-day validity; 2 signature IDs
 
 NIPR: $75/line; $5.60 transaction; 48-72 hr wait; 1-3 business days; 90 days documentation; 180-day apply window
 

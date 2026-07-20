@@ -22,7 +22,9 @@ Here's an honest breakdown of North Carolina insurance agent income.
 
 ## The Short Answer
 
-North Carolina insurance agents typically earn between $48,000 and $82,000 in their first few years, with experienced agents regularly reaching $105,000 to $195,000 once they've built a solid book of business. Top producers and agency owners can earn $230,000 to $475,000+ annually.
+North Carolina insurance agents typically earn between $34,230 and $39,620 in their first few years, with experienced agents regularly reaching $57,110 to $78,860 once they've built a solid book of business. Top producers and agency owners can earn $100,000 to $126,970+ annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 These numbers reflect realistic outcomes, not ceiling potential. North Carolina's market — particularly Charlotte, the Research Triangle, and affluent suburban markets — supports strong earning potential for agents who specialize effectively. North Carolina also has a moderate income tax rate and cost of living substantially below northeast coastal states, meaning nominal income translates well to take-home purchasing power.
 
@@ -44,25 +46,25 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by North Carolina Region
 
-Charlotte metropolitan area. North Carolina's largest market, with substantial banking and financial services, healthcare, and growing technology. New agents in Charlotte can reach $50,000-$80,000 in their first 1-2 years; established agents commonly earn $120,000-$230,000+. Top Charlotte producers in banking professional or HNW markets earn substantially more.
+Charlotte metropolitan area. North Carolina's largest market, with substantial banking and financial services, healthcare, and growing technology. New agents in Charlotte can reach $34,000-$40,000 in their first 1-2 years; established agents commonly earn $60,000-$100,000+. Top Charlotte producers in banking professional or HNW markets can approach or exceed the state's top-producer benchmark of roughly $126,970.
 
-Raleigh-Durham and the Research Triangle. Strong technology, healthcare (Duke, UNC, WakeMed), pharmaceutical, and government markets. Established Research Triangle agents commonly earn $115,000-$215,000+.
+Raleigh-Durham and the Research Triangle. Strong technology, healthcare (Duke, UNC, WakeMed), pharmaceutical, and government markets. Established Research Triangle agents commonly earn $58,000-$95,000+.
 
-Charlotte affluent suburbs (Ballantyne, Matthews, Huntersville, Davidson, Cornelius, Mooresville). Substantial wealth concentration. Established suburban Charlotte agents commonly earn $120,000-$240,000+.
+Charlotte affluent suburbs (Ballantyne, Matthews, Huntersville, Davidson, Cornelius, Mooresville). Substantial wealth concentration. Established suburban Charlotte agents commonly earn $60,000-$100,000+.
 
-Research Triangle suburbs (Cary, Apex, Chapel Hill, Durham). Highly educated, high-income professional markets. Established agents commonly earn $110,000-$210,000+.
+Research Triangle suburbs (Cary, Apex, Chapel Hill, Durham). Highly educated, high-income professional markets. Established agents commonly earn $57,000-$90,000+.
 
-Greensboro and the Triad (Greensboro, Winston-Salem, High Point). Manufacturing, healthcare, and finance. Established Triad agents commonly earn $90,000-$170,000+.
+Greensboro and the Triad (Greensboro, Winston-Salem, High Point). Manufacturing, healthcare, and finance. Established Triad agents commonly earn $50,000-$80,000+.
 
-Wilmington and coastal NC. Growing coastal and retirement markets. Established coastal agents commonly earn $90,000-$175,000+.
+Wilmington and coastal NC. Growing coastal and retirement markets. Established coastal agents commonly earn $50,000-$80,000+.
 
-Asheville and Western NC. Growing affluent markets and substantial retiree in-migration. Established agents commonly earn $85,000-$165,000+.
+Asheville and Western NC. Growing affluent markets and substantial retiree in-migration. Established agents commonly earn $48,000-$78,000+.
 
-Fayetteville. Military-adjacent market (Fort Liberty, formerly Fort Bragg). Established agents commonly earn $80,000-$150,000+.
+Fayetteville. Military-adjacent market (Fort Liberty, formerly Fort Bragg). Established agents commonly earn $45,000-$75,000+.
 
-Smaller cities (Greenville, Rocky Mount, Hickory, Burlington, etc.). Less competition, moderate income. Established agents commonly earn $72,000-$135,000+.
+Smaller cities (Greenville, Rocky Mount, Hickory, Burlington, etc.). Less competition, moderate income. Established agents commonly earn $40,000-$70,000+.
 
-Rural markets. Lower per-client revenue offset by lower competition and cost of living. Established rural agents commonly earn $60,000-$115,000+.
+Rural markets. Lower per-client revenue offset by lower competition and cost of living. Established rural agents commonly earn $35,000-$60,000+.
 
 ## What Drives North Carolina Income
 
@@ -179,8 +181,8 @@ Each model has different income trajectories and lifestyle implications.
 - Is North Carolina a good state for insurance agent income? Yes. North Carolina's combination of Charlotte banking markets, Research Triangle tech and healthcare, substantial population growth, moderate cost of living, and flat 5.25% income tax creates favorable conditions. Top NC agents earn comparably to top agents in major insurance markets with better purchasing power than many higher-cost states.
 - How long does it take to earn a full-time income as a North Carolina agent? Most serious agents reach full-time income levels within 12-18 months. Agents with strong networks, connections to Charlotte banking or Research Triangle tech communities, or niche market focus can accelerate this timeline.
 - Do North Carolina agents pay state income tax on commissions? Yes. North Carolina has a flat 5.25% state income tax rate on all income including commissions. No local income tax in most NC municipalities.
-- What's a realistic first-year income for a new North Carolina agent? Most new agents earn between $46,000 and $82,000 in year one depending on agency structure, product mix, work ethic, and market focus.
-- Can I earn over $200,000 as a North Carolina insurance agent? Yes, consistently. Many established North Carolina agents — particularly those serving Charlotte banking professionals, Research Triangle tech and healthcare workers, HNW markets, or coastal property specialty — earn $200,000+ annually. Top producers earn substantially more.
+- What's a realistic first-year income for a new North Carolina agent? Most new agents earn between $34,230 and $39,620 in year one depending on agency structure, product mix, work ethic, and market focus (figures illustrative, not a guarantee of earnings).
+- Can I earn over $100,000 as a North Carolina insurance agent? Yes. Many established North Carolina agents — particularly those serving Charlotte banking professionals, Research Triangle tech and healthcare workers, HNW markets, or coastal property specialty — earn $100,000+ annually, and top producers can reach toward the state's top-producer benchmark of roughly $126,970 (figures illustrative, not a guarantee of earnings).
 
 ## Start Your North Carolina Insurance Income Right
 

@@ -74,7 +74,7 @@ Before paying for any CE course, confirm:
 
 3. The course matches your license type. A course approved for 2-20 agents won't count for 2-15 holders. Confirm the course is approved for your specific line.
 
-4. The course is current. The 5-hour Law and Ethics Update especially needs to reflect the current cycle's content. An outdated version won't satisfy the requirement.
+4. The course is current. The 4-hour Law and Ethics Update especially needs to reflect the current cycle's content. An outdated version won't satisfy the requirement.
 
 5. Reporting is included. Approved providers report your completion to DFS electronically — typically within days of completion. Ask the provider to confirm this before you enroll.
 
@@ -114,7 +114,7 @@ The MyProfile system is your command center for CE:
 
 - Check your renewal deadline
 
-- Confirm whether you've completed the 5-hour Law and Ethics Update
+- Confirm whether you've completed the 4-hour Law and Ethics Update
 
 Check MyProfile at least twice during your renewal cycle — once around the midpoint and once about 60 days before your deadline — to catch any missing credits early.
 

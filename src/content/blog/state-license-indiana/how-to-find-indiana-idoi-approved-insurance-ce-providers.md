@@ -24,7 +24,7 @@ Primary official source: in.gov/idoi → Licensing → Continuing Education
 
 Sircon: sircon.com/Indiana → "Look up education courses/credits" → "Approved Courses Inquiry" Same portal used for PLE course lookup and renewal submissions.
 
-IDOI Education Coordinator: Contact Brooke Walters at [email protected] or 317-232-5858 for CE provider and specialty training questions.
+IDOI Licensing Division: Contact AgentLicensing@idoi.in.gov or (800) 622-4461 for CE provider and specialty training questions.
 
 Multiple national providers and online platforms offer IDOI-approved Indiana CE — verify current Indiana approval before enrolling.
 
@@ -64,7 +64,7 @@ NFIP Flood Training: Find IDOI-approved NFIP flood courses through Sircon or nat
 
 ## 5 Frequently Asked Questions
 
-- How do I find IDOI-approved Indiana CE providers? Through sircon.com/Indiana → "Approved Courses Inquiry" and at in.gov/idoi → Licensing → CE. Contact IDOI Education Coordinator Brooke Walters at [email protected] or 317-232-5858 for specific CE and specialty training questions.
+- How do I find IDOI-approved Indiana CE providers? Through sircon.com/Indiana → "Approved Courses Inquiry" and at in.gov/idoi → Licensing → CE. Contact the IDOI Licensing Division at AgentLicensing@idoi.in.gov or (800) 622-4461 for specific CE and specialty training questions.
 - Do Indiana CE completions automatically appear in my Sircon transcript? CE providers are responsible for reporting completions to Sircon or NIPR. Most IDOI-approved providers report electronically — completions should appear within a few business days. Verify your transcript before submitting renewal. If a completion doesn't appear, contact your CE provider to confirm they reported it.
 - Can I complete all 24 CE hours in one day in Indiana? Verify current IDOI daily CE limit policy at in.gov/idoi. Some states (like Minnesota) have an 8-hour daily maximum; Maryland has a 12-hour limit. Indiana may not have an explicit daily limit — confirm with IDOI before attempting to complete all CE in a single day.
 - How do I claim the professional organization CE credit? Contact IDOI at [email protected] for current procedures. Generally: provide a signed, dated letter from the professional organization's designee confirming your participation, specific committee or board role, and active status. The Commissioner applies the credit (up to 2 hours). Start this process early in the CE cycle — don't wait until the renewal deadline.

@@ -91,7 +91,7 @@ Many test-takers benefit from arriving early on exam day and setting aside a lit
 
 ## Plan for costs and fees
 
-Whether you are going for a single line or combining two insurance licenses, it is essential to be aware of the financial details. Beyond the cost of your pre-licensing course, you will pay an exam fee for each line you test for, typically ranging from around $50 to $90. If you opt for background checks or fingerprinting, that will add another amount to your budget.
+Whether you are going for a single line or combining two insurance licenses, it is essential to be aware of the financial details. Beyond the cost of your pre-licensing course, you will pay a $92 Pearson VUE fee for each exam portion — Illinois splits every major-line exam into a General portion and a State portion, so budget $184 per line unless you book both portions together on the same order for a discount. Illinois does not require fingerprinting for most resident applicants — the state relies on application disclosures instead, so you can budget $0 for that step in most cases.
 
 Additionally, you will need to pay the state license application fee, which can vary based on your combined or single line of authority. It is safest to set aside extra funds for any unforeseen costs, including study materials or retake fees, just in case. Being prepared for these expenses prevents last-minute stress and keeps you focused on your studies rather than scrambling for cash.
 
@@ -103,7 +103,7 @@ Make your next move quickly so you can capitalize on your fresh knowledge. Most 
 
 Finding the right mentorship at this stage may mean connecting with seasoned agents or using a platform that bridges new licensees with industry veterans. Either way, your aim is to continue learning from professionals who have navigated this road before and can provide tips that go beyond textbooks.
 
-Finally, remember that education does not stop once you have your license in hand. Illinois requires ongoing [Illinois continuing education](/illinois/continuing-education) to keep your certification valid. This ensures you stay up to date with market changes, new laws, and evolving client needs. Scheduling your [continuing education](/illinois/continuing-education) courses well ahead of any renewal deadlines guarantees you stay compliant and maintain your career momentum.
+Finally, remember that education does not stop once you have your license in hand. Illinois requires ongoing [Illinois continuing education](/illinois/continuing-education) to keep your certification valid. This ensures you stay up to date with market changes, new laws, and evolving client needs. Scheduling your [continuing education](/illinois/continuing-education) courses well ahead of any renewal deadlines helps you stay compliant and maintain your career momentum.
 
 Feel free to put one of these steps into action right away, whether it is researching pre-licensing programs or mapping out your study schedule. The path to securing your insurance license might seem lengthy, but it is a manageable process when broken into clear tasks. And if you ever feel stuck, reach out to resources like JustInsurance for practical tips you can apply in your day-to-day work.
 

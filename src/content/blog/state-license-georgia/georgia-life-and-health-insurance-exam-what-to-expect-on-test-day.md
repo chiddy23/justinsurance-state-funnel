@@ -22,11 +22,11 @@ Here's what to expect on test day for the Georgia Life & Health exam.
 
 ## Who Administers the Exam
 
-Georgia insurance licensing exams are administered by Prometric under contract with the Georgia Office of Commissioner of Insurance and Safety Fire (OCI). You register and schedule through Prometric at prometric.com, and you take the exam at an approved Georgia testing center.
+Georgia insurance licensing exams are administered by Pearson VUE under contract with the Georgia Office of Commissioner of Insurance and Safety Fire (OCI). You register and schedule through Pearson VUE at home.pearsonvue.com/ga/insurance, and you take the exam at an approved Georgia testing center.
 
 ## Where You'll Take the Exam
 
-Prometric operates testing centers throughout Georgia, including:
+Pearson VUE operates testing centers throughout Georgia, including:
 
 - Atlanta metro area (multiple locations)
 
@@ -72,9 +72,9 @@ Two forms of valid ID. One must be government-issued with a photo. Common accept
 
 - Permanent resident card
 
-The name on your IDs must match the name on your Prometric registration exactly. Nickname mismatches or maiden name issues cause check-in delays.
+The name on your IDs must match the name on your Pearson VUE registration exactly. Nickname mismatches or maiden name issues cause check-in delays.
 
-Your Prometric confirmation. Bring a printed or digital copy of your registration confirmation.
+Your Pearson VUE confirmation. Bring a printed or digital copy of your registration confirmation.
 
 Nothing else. You cannot bring phones, notes, study materials, bags, watches, calculators, or electronic devices into the testing room. Most testing centers provide secure lockers for personal items.
 
@@ -86,7 +86,7 @@ Check-in process:
 
 - Present your IDs
 
-- Sign in with Prometric staff
+- Sign in with Pearson VUE staff
 
 - Complete any required biometric verification (palm scan, signature)
 
@@ -100,7 +100,7 @@ Late arrivals may be denied entry and required to reschedule (with additional fe
 
 ## What the Testing Environment Is Like
 
-Prometric testing centers are quiet, controlled environments:
+Pearson VUE testing centers are quiet, controlled environments:
 
 - Individual testing stations with computers
 
@@ -116,7 +116,7 @@ Some candidates find the atmosphere surprisingly clinical. This is normal. Focus
 
 ## Taking the Exam
 
-Navigation. The Prometric testing interface lets you:
+Navigation. The Pearson VUE testing interface lets you:
 
 - Click through questions one at a time
 
@@ -140,7 +140,7 @@ Don't overthink. Trust your preparation. Second-guessing correct answers is a co
 
 Make educated guesses. Every question counts — there's no penalty for guessing. Never leave a question blank, especially as time runs out.
 
-Use breaks if allowed. Some Prometric locations allow bathroom breaks during the exam. The clock keeps running, but if you need a minute to reset, take it.
+Use breaks if allowed. Some Pearson VUE locations allow bathroom breaks during the exam. The clock keeps running, but if you need a minute to reset, take it.
 
 ## After You Finish
 
@@ -170,11 +170,11 @@ Don't panic. Many successful Georgia agents failed their first attempt.
 
 Review the score report to identify weak content areas
 
-Wait at least 1–2 weeks before retaking — use the time for focused review
+Wait the required period before retaking — 14 days after a first or second failure, or 60 days after a third or subsequent failure — and use the time for focused review
 
-Re-register with Prometric and schedule your retake
+Re-register with Pearson VUE and schedule your retake
 
-Pay the retake fee (approximately $63)
+Pay the retake fee (approximately $67)
 
 Come back with stronger preparation in your weak areas
 
@@ -204,7 +204,7 @@ Breathe. If anxiety hits during the exam, pause for three deep breaths. Reset, t
 
 4. When do I find out if I passed? Immediately after submitting the exam. Your result appears on screen before you leave the testing center.
 
-5. How many times can I retake the exam if I fail? Georgia doesn't cap attempts, but each retake requires a new Prometric registration and fee. Most candidates pass within 1–2 attempts with proper preparation.
+5. How many times can I retake the exam if I fail? Georgia doesn't cap attempts, but each retake requires a new Pearson VUE registration and fee, plus the applicable waiting period. Most candidates pass within 1–2 attempts with proper preparation.
 
 ## Walk Into Test Day Prepared
 

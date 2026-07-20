@@ -41,7 +41,7 @@ You also need a valid Social Security number to complete the application forms. 
 
 Before you can sit for the life insurance licensing exam, Illinois requires you to attend a state-approved [Illinois insurance prelicensing](/illinois/prelicensing) course. This training ensures you have a solid grasp of insurance principles, policy details, and relevant laws.
 
-These courses often run around 20 hours for a single line of authority like life insurance. Expect a mix of core learning modules, reading assignments, and practice quizzes. Most providers offer in-person classes, online modules, or a combination of both. Choose a format that aligns with your schedule and learning style.
+These courses often run around 20 hours for a single line of authority like life insurance. Expect a mix of core learning modules, reading assignments, and practice quizzes. Most providers offer in-person classes, online modules, or a combination of both. Keep in mind that Illinois requires 7.5 of the 20 hours per line of authority to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119); the remaining hours may be completed by self-study, so choose a provider whose live-session schedule aligns with yours.
 
 ### Course considerations
 
@@ -53,7 +53,7 @@ By thoroughly engaging with the [pre-licensing](/illinois/prelicensing) course, 
 
 ## Schedule and pass your exam
 
-Once you’ve completed your pre-licensing education, you’re ready to tackle the state exam. The Illinois Department of Insurance uses a testing service to administer exams at designated centers across the state. You’ll typically sign up online, choose a convenient location, and reserve your spot. The cost for this exam varies, but it usually ranges between $50 and $60.
+Once you’ve completed your pre-licensing education, you’re ready to tackle the state exam. The Illinois Department of Insurance uses Pearson VUE to administer exams at designated centers across the state. You’ll typically sign up online, choose a convenient location, and reserve your spot. Illinois splits each major-line exam into a General portion and a State portion, each carrying its own $92 Pearson VUE fee — booking both portions for the same line together discounts the second fee, while booking them separately runs $184 total.
 
 The life insurance exam itself includes multiple-choice questions covering concepts from your coursework. Expect questions on policy types, policy riders, underwriting, ethics, and state regulations. You’ll be tested not just on definitions but also on your ability to apply concepts to real-world scenarios.
 
@@ -68,7 +68,7 @@ After submitting your exam, you’ll usually see your results immediately. If yo
 
 ## Submit your license application
 
-Having passed the exam, you’re almost ready to start your career in insurance. Your next move is to submit a formal application through the National Insurance Producer Registry (NIPR) or directly to the Illinois Department of Insurance, whichever method you prefer. Expect an application fee, typically around $180 for a life-only license, though fees can change over time.
+Having passed the exam, you’re almost ready to start your career in insurance. Your next move is to submit a formal application through the National Insurance Producer Registry (NIPR) or directly to the Illinois Department of Insurance, whichever method you prefer. Expect an application fee, typically around $215 for a life-only license, though fees can change over time.
 
 You’ll provide personal information, proof of your completed exam, and the application fee. The Department of Insurance reviews your documents and will contact you if there are any discrepancies. If everything checks out, you’ll receive your license electronically in most cases.
 

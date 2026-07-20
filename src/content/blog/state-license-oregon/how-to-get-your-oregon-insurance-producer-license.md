@@ -58,6 +58,8 @@ Property and Casualty combined: 40 hours total
 
 This is governed under OAR 836-071-0180. Prelicense courses must be completed through an Oregon-approved provider and cover basic insurance principles, producer duties and responsibilities, and Oregon-specific laws.
 
+JustInsurance's Oregon prelicense catalog currently offers Life, Health, and the combined Life & Health course. Property, Casualty, and Personal Lines prelicense education must be sourced through another Oregon-approved provider.
+
 You'll need to:
 
 Read each lesson and pass the end-of-chapter quizzes (70%+ on each)
@@ -92,7 +94,7 @@ Oregon offers these specific exams:
 
 Passing score: 70% on each exam.
 
-You must submit your license application within 12 months of passing the prelicense exam, or you'll need to retake your prelicense course.
+Oregon's 12-month clock runs on your prelicensing completion certificate — you must pass the PSI exam within 12 months of completing your prelicensing course, or you'll need to retake the course.
 
 ## Step 4: Complete Fingerprinting and Background Check
 

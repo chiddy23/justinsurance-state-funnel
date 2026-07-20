@@ -20,13 +20,13 @@ Natural light can make a cramped home feel welcoming. In the same way, having a 
 
 ## Understand the state requirements
 
-Before you dive into studying, it helps to confirm you meet the basic requirements set by the state for a Pennsylvania life insurance license. You must be at least 18 years old, maintain a legal residence in Pennsylvania, and be prepared to complete the mandatory [pre-licensing](/pennsylvania/prelicensing) education. Background checks are also part of the process, so it is good to be aware that a past conviction could affect your eligibility. However, if you have concerns, you can contact the [Pennsylvania Insurance Department](/pennsylvania/requirements) to learn about specific guidelines.
+Before you dive into studying, it helps to confirm you meet the basic requirements set by the state for a Pennsylvania life insurance license. You must be at least 18 years old and maintain a legal residence in Pennsylvania. Note that Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the [pre-licensing](/pennsylvania/prelicensing) education requirement, so completing a course is optional — though most candidates still take one to prepare for the exam. Background checks are also part of the process, so it is good to be aware that a past conviction could affect your eligibility. However, if you have concerns, you can contact the [Pennsylvania Insurance Department](/pennsylvania/requirements) to learn about specific guidelines.
 
 Most people who apply already have a strong desire to help others navigate important financial decisions, so consider this a chance to confirm your dedication and readiness for the responsibilities ahead. Once you are sure you meet the basic qualifications, you can move forward with confidence.
 
-## Complete pre-licensing education
+## Complete pre-licensing education (optional but recommended)
 
-[Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) training is required so you can develop a thorough understanding of life insurance principles before you ever meet with a future client. The state mandates a certain number of credit hours that focus on relevant topics. By completing this coursework, you establish the core knowledge you need to answer your clients’ questions accurately.
+While no longer a state requirement, [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) training can help you develop a thorough understanding of life insurance principles before you ever meet with a future client. Courses are typically built around 20 hours of relevant topics. By completing this coursework, you establish the core knowledge you need to answer your clients’ questions accurately.
 
 1.  Consider a self-paced online course if you have a busy schedule and need flexible hours.
 2.  In-person classroom sessions might be best if you learn faster through live interaction.
@@ -36,9 +36,9 @@ Beyond the requirement itself, these classes can give you plenty of practical ti
 
 ## Register for and schedule the exam
 
-Once your pre-licensing courses are completed, your next major step is registering for the Pennsylvania life insurance license exam. You will find that the exam covers the fundamentals, such as general insurance knowledge and Pennsylvania insurance regulations, along with specifics related to life insurance products.
+Once you feel ready — whether or not you took a pre-licensing course — your next major step is registering for the Pennsylvania life insurance license exam. You will find that the exam covers the fundamentals, such as general insurance knowledge and Pennsylvania insurance regulations, along with specifics related to life insurance products.
 
-Start by finding the official testing service authorized by Pennsylvania. You can typically register on their website or by phone. During registration, you will need to submit your details, provide proof of completing your pre-licensing hours, and pay the required exam fee. It is also wise to schedule your test date as soon as possible once you have a handle on your materials. Taking action sooner helps you keep the information fresh in your mind.
+Start by finding the official testing service authorized by Pennsylvania. You can typically register on their website or by phone. During registration, you will need to submit your details and pay the required exam fee. It is also wise to schedule your test date as soon as possible once you have a handle on your materials. Taking action sooner helps you keep the information fresh in your mind.
 
 ## Prepare effectively for test day
 
@@ -66,4 +66,4 @@ You will also need to stay current through [Pennsylvania continuing education](/
 
 ## Your call to action
 
-Now that you have a clear roadmap, it is time to take the first step and sign up for your pre-licensing course. Share this article with a friend who is also considering an insurance career, and keep each other motivated. If you ever feel stuck, JustInsurance can offer personalized guidance to concentrate on the areas where you need extra support. Together, you can create the kind of future that not only benefits you but offers real security and peace of mind for the families you will serve.
+Now that you have a clear roadmap, it is time to take the first step — whether that means signing up for an optional pre-licensing course or scheduling your exam. Share this article with a friend who is also considering an insurance career, and keep each other motivated. If you ever feel stuck, JustInsurance can offer personalized guidance to concentrate on the areas where you need extra support. Together, you can create the kind of future that not only benefits you but offers real security and peace of mind for the families you will serve.

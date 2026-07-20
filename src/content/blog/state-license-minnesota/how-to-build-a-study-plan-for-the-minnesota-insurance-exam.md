@@ -86,7 +86,7 @@ Application fee: $50 per line of authority
 
 Renewal: last day of birth month, biennial
 
-CE: 24 hours biennial, 3 hours ethics, 12 hours classroom minimum, 12 hours non-company-sponsored minimum
+CE: 24 hours biennial, 3 hours ethics, 12 hours non-company-sponsored minimum (no classroom or live-instruction requirement)
 
 Lapsed license reinstatement: 12-month window, double renewal fee penalty
 
@@ -96,7 +96,7 @@ Minnesota auto insurance — no-fault (Minn. Stat. §65B.49):
 
 Minnesota is a no-fault state
 
-Minimum liability: 30/60/10 ($30,000/$60,000 bodily injury, $10,000 property damage — lowest PD minimum in the U.S.)
+Minimum liability: 30/60/10 ($30,000/$60,000 bodily injury, $10,000 property damage — among the lowest PD minimums in the U.S.; Massachusetts and Pennsylvania are lower, at $5,000)
 
 Mandatory PIP: $40,000 ($20,000 medical + $20,000 non-medical including lost wages at 85% capped at $500/week)
 
@@ -166,7 +166,7 @@ A reference sheet is a single-page (or two-page) condensed summary of the most t
 
 What belongs on your reference sheet:
 
-All numerical thresholds: PIP $40,000, UM/UIM $25,000/$50,000, liability 30/60/10, tort threshold $4,000, CE 24 hours/3 ethics/12 classroom/12 non-sponsored, renewal fee $80, lapse reinstatement penalty double fee, workers' comp penalty $1,000/week plus 65%
+All numerical thresholds: PIP $40,000, UM/UIM $25,000/$50,000, liability 30/60/10, tort threshold $4,000, CE 24 hours/3 ethics/12 non-sponsored (no classroom requirement), renewal fee $80, lapse reinstatement penalty double fee, workers' comp penalty $1,000/week plus 65%
 
 All key statute numbers: Chapter 60K (licensing), Chapter 65B (auto), §72A.20 (unfair trade practices), §60C (P&C guaranty), §61B (L&H guaranty)
 

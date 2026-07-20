@@ -14,6 +14,8 @@ imageAlt: "How to Build a Six-Figure Insurance Income in Virginia: A Market-by-M
 
 Virginia is the 19th-highest-paying state for insurance agents nationally — but that average obscures enormous variation. A captive agent in Martinsville earning a $42,000 base salary and a commercial lines producer in McLean managing a $10 million book at 12% renewal commissions are both "Virginia insurance agents." The path to six-figure income in Virginia is specific, it requires understanding the state's distinct regional markets, and it rewards producers who select the right combination of line authority, geographic positioning, and specialty focus from the beginning rather than discovering these factors through trial and error years into their career. This post maps that path directly.
 
+⚠️ Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
+
 ## Why Virginia Is a Strong Platform for Six-Figure Income
 
 Virginia's economic geography creates multiple pathways to six-figure producer income that most states cannot replicate simultaneously:

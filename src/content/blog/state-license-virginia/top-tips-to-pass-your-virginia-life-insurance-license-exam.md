@@ -21,7 +21,7 @@ If you’re ready to start a new career path and need your [Virginia life insura
 
 ## Understand licensing basics
 
-Before diving into the details, it’s helpful to have a general overview of what obtaining a Virginia life insurance license involves. In a nutshell, you must complete [pre-licensing](/virginia/prelicensing) coursework, schedule and pass the official exam, and apply for your license. Life insurance is a regulated field, so these steps ensure that everyone who sells policies has the proper knowledge and responsibility to advise clients.
+Before diving into the details, it’s helpful to have a general overview of what obtaining a Virginia life insurance license involves. In a nutshell, you'll want to prepare (Virginia does not require [pre-licensing](/virginia/prelicensing) coursework, though many candidates take it voluntarily), then schedule and pass the official exam, and apply for your license. Life insurance is a regulated field, so these steps ensure that everyone who sells policies has the proper knowledge and responsibility to advise clients.
 
 Insurance in Virginia falls under the guidance of the State Corporation Commission, which sets certification requirements, exam formats, and licensing fees. Understanding the big picture—from registering for your course to sending in your final application—will make each task feel more manageable and less overwhelming.
 
@@ -33,15 +33,15 @@ If you meet the age requirement and don’t have significant legal barriers, you
 
 ## Finish pre-licensing education
 
-Virginia requires a specific number of [Virginia prelicensing](/virginia/prelicensing) study hours to ensure you have a sound understanding of life insurance products and state regulations. These courses often blend textbooks, practice quizzes, and interactive lessons. You’ll learn the basics of policy types, premiums, underwriting, and ethical conduct, all of which you’ll need to know cold by exam day.
+Virginia does not require a set number of [Virginia prelicensing](/virginia/prelicensing) study hours — the state repealed mandatory prelicensing for standard lines, so this step is optional. Even so, taking a course voluntarily can give you a sound understanding of life insurance products and state regulations before exam day. These courses often blend textbooks, practice quizzes, and interactive lessons. You’ll learn the basics of policy types, premiums, underwriting, and ethical conduct, all of which you’ll need to know cold by exam day.
 
 When selecting a course, look for user-friendly content that caters to your schedule. Some people prefer live classroom settings, while others thrive with flexible online platforms. If you need guidance, JustInsurance can point you to reputable pre-licensing options that fit a variety of budgets and lifestyles. The key is to find a study plan that supports steady progress, so you keep learning new information while reinforcing what you’ve already covered.
 
 ## Register and schedule your exam
 
-Once you’ve completed your pre-licensing hours, you’ll need to register for your official exam. Virginia works with testing providers who administer these exams at designated centers around the state. Plan to register as soon as you feel comfortable with the course material. That way, you’ll streamline your timeline and maintain your momentum.
+Once you’ve completed any optional pre-licensing study you chose to take, you’ll need to register for your official exam. Virginia works with testing providers who administer these exams at designated centers around the state. Plan to register as soon as you feel comfortable with the course material. That way, you’ll streamline your timeline and maintain your momentum.
 
-When scheduling your exam, choose a date and time that work well for your personal routines. Morning people might prefer an early test slot, while night owls often do better with midday options. In either case, read the exam procedures thoroughly so you know what to bring, such as a valid photo ID and your pre-licensing course completion certificate. Paying attention to small details helps you avoid last-minute stress.
+When scheduling your exam, choose a date and time that work well for your personal routines. Morning people might prefer an early test slot, while night owls often do better with midday options. In either case, read the exam procedures thoroughly so you know what to bring, such as a valid government-issued photo ID (Virginia does not require a pre-licensing completion certificate for exam registration). Paying attention to small details helps you avoid last-minute stress.
 
 ## Study effectively for success
 
@@ -62,7 +62,7 @@ Below is a brief plan to keep exam-day stress in check:
 -   Review a quick set of flashcards (easy concepts only) in the morning.
 -   Make sure you know the route to the testing center.
 -   Plan your arrival to give you at least 15 extra minutes.
--   Double-check necessary documents, such as your pre-licensing completion certificate.
+-   Double-check necessary documents, such as your valid photo ID (no pre-licensing certificate is required in Virginia).
 
 ## Move forward with confidence
 

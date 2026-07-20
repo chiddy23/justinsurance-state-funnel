@@ -22,9 +22,9 @@ Here's an honest breakdown of Alabama insurance agent income by city and experie
 
 ## The Short Answer
 
-Alabama insurance agents typically earn between $40,000 and $80,000 in their first few years, with experienced agents regularly reaching $85,000 to $170,000 once they've built a solid book of business. Top producers and agency owners can earn $200,000 to $400,000+ annually.
+Alabama insurance agents typically earn between $35,400 and $46,380 in their first few years, with experienced agents regularly reaching $63,060 to $102,440 once they've built a solid book of business. Top producers and agency owners can earn $176,240 or more annually.
 
-These numbers reflect realistic outcomes, not ceiling potential. Alabama's market — particularly in major metro areas — supports strong earning potential for agents who specialize effectively.
+These numbers reflect realistic outcomes, not ceiling potential. Alabama's market — particularly in major metro areas — supports strong earning potential for agents who specialize effectively. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## How Insurance Income Works in Alabama
 
@@ -44,6 +44,8 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by Alabama City
 
+The state's baseline labor-market figures (used sitewide) put full-time experienced Alabama agents at roughly $63,060-$102,440, with top producers around $176,240. The city-level ranges below are broader, more speculative estimates that account for local market conditions, niche specialization, and agency-ownership upside — treat them as directional context rather than the site's official benchmark figures.
+
 Birmingham. Alabama's largest metro area and economic center. Strongest market for higher-income clients including healthcare professionals, financial services workers, corporate executives, and professional services. New agents in Birmingham can reach $50,000-$80,000 in their first 1-2 years; established agents commonly earn $120,000-$220,000+.
 
 Huntsville. Significant aerospace, defense, and technology presence (Redstone Arsenal, NASA Marshall Space Flight Center, Cummings Research Park) creates strong markets for executive clients, technical professionals, and government contractors. Established Huntsville agents commonly earn $110,000-$210,000+.
@@ -59,6 +61,8 @@ Auburn-Opelika. Auburn University presence plus growing auto manufacturing creat
 Hoover, Vestavia Hills, Mountain Brook (Birmingham suburbs). Affluent suburbs supporting high-net-worth life insurance and estate planning markets. Established agents in these areas often earn $120,000-$250,000+.
 
 Smaller markets and rural Alabama. Lower cost of living significantly affects practical income. A $75,000 income in rural Alabama provides comparable lifestyle to higher incomes in major metros. Established rural agents commonly earn $65,000-$130,000+.
+
+These city-level figures are broader, speculative estimates, not the site's official benchmark figures. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## What Drives Alabama Income
 
@@ -128,7 +132,7 @@ Each model has different income trajectories and lifestyle implications.
 - How long does it take to earn a full-time income as an Alabama insurance agent? Most serious agents reach full-time income levels within 12-24 months. Agents with strong networks or niche focus can accelerate this timeline.
 - Do Alabama agents pay state income tax on commissions? Yes, Alabama has state income tax. However, Alabama's overall tax burden is moderate compared to higher-tax states.
 - What's a realistic first-year income for a new Alabama agent? Most new agents earn between $35,000 and $75,000 in year one depending on agency structure, product mix, and work ethic.
-- Can I earn over $200,000 as an Alabama insurance agent? Yes, consistently. Many established Alabama agents earn $200,000+ annually, and top producers earn substantially more. It requires sustained client relationships, specialization, and professional growth.
+- Can I earn over $200,000 as an Alabama insurance agent? Some established Alabama agents and agency owners report earnings in this range, particularly in higher-income metros and affluent suburbs, but it is not typical and not guaranteed. It requires sustained client relationships, specialization, and professional growth. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## Start Your Alabama Insurance Income Right
 

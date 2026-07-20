@@ -1,6 +1,6 @@
 ---
-title: 'North Carolina Insurance License 2026: 20-Hour Path & Steps'
-description: 'Get your North Carolina insurance license in 2026: 20-hour prelicensing per G.S. § 58-33-30, Pearson VUE exam, $38 fingerprints. Step-by-step guide.'
+title: 'North Carolina Insurance License 2026: Step-by-Step Guide'
+description: 'Get your North Carolina insurance license in 2026: prelicensing is now optional (HB 737), Pearson VUE exam, $38 fingerprints. Step-by-step guide.'
 keyword: how to get North Carolina insurance license
 targetKeywords: >-
   North Carolina insurance producer license, North Carolina Pearson VUE exam,
@@ -16,35 +16,21 @@ imageAlt: >-
   VUE exam admission ticket on a desk.
 ---
 
-North Carolina still reads **General Statute § 58-33-30** literally: individual producer applicants must furnish evidence of completing **at least 20 hours of instruction for each license** (with a 10-hour carve-out for Medicare Supplement/Long-Term Care described below), including the general principles the Commissioner adds by rule. Keep a printed copy of the statute section in your compliance binder even if you mostly live inside vendor PDFs — examiners and DOI investigators cite the same subsection when auditing schools. That statutory floor is why Pearson VUE publishes separate PDF lists of DOI-approved classroom and online [prelicensing](/north-carolina/prelicensing) providers — without those completions, you will not receive an admission ticket. NIPR's [North Carolina overview](https://nipr.com/licensing-center/state-information/north-carolina) adds another clock: **exam scores remain valid for 12 months**. Miss either requirement and you will pay Pearson again while your hiring manager stalls appointments.
+House Bill 737 (Session Law 2025-45), effective October 1, 2025, repealed **General Statute § 58-33-30's** prior prelicensing-hour mandate. Individual producer applicants are **no longer required** to complete prelicensing education for any line of authority — North Carolina now joins the small group of states that let candidates go straight to the Pearson VUE exam after their NIPR application clears. Structured prelicensing study is still widely recommended given how much North Carolina-specific law each exam covers, and Pearson VUE still publishes PDF lists of DOI-approved classroom and online [prelicensing](/north-carolina/prelicensing) providers for candidates who choose that route. NIPR's [North Carolina overview](https://nipr.com/licensing-center/state-information/north-carolina) adds another clock: **exam scores remain valid for 12 months**. Miss that window and you will pay Pearson again while your hiring manager stalls appointments.
 
-This guide walks through the actual sequence North Carolina resident producers follow in 2026 — including the prelicensing hour requirements that vary by line of authority, the $38 fingerprint and $38 prelicensing-exemption fees, and the NCDOI processes most candidates miss until after they've already paid Pearson VUE.
+This guide walks through the actual sequence North Carolina resident producers follow in 2026 — including what changed with HB 737, the optional prelicensing pathway, the $38 fingerprint fee, and the NCDOI processes most candidates miss until after they've already paid Pearson VUE.
 
-## Step 1 — Pick your line of authority and confirm hour requirements
+## Step 1 — Pick your line of authority
 
-NCDOI's [prelicensing requirements and exemptions chart](https://www.ncdoi.gov/documents/agent-services/resident-prelicensing-requirements-and-exemptions-chart/open) sets different hour floors depending on the line. Don't assume a blanket 20-hour rule applies to every authority:
+Before HB 737, NCDOI's prelicensing requirements and exemptions chart set different hour floors by line (20 hours for most major lines, 10 for Medicare Supplement/Long-Term Care). Those hour floors **no longer apply** — prelicensing education is optional for every line of authority as of October 1, 2025. Your only remaining task in this step is deciding which line(s) of authority you want to pursue, since that determines which Pearson VUE exam(s) you'll schedule.
 
-| Line of Authority | Required Prelicensing Hours |
-|---|---|
-| Life | 20 hours |
-| Accident & Health (or Sickness) | 20 hours |
-| Property | 20 hours |
-| Casualty | 20 hours |
-| Personal Lines | 20 hours |
-| **Medicare Supplement / Long-Term Care** | **10 hours** |
-| Title insurance | 0 hours (exempt) |
-| Auto Physical Damage | 0 hours (exempt) |
-| Adjuster (varies) | 0 hours for some adjuster categories |
-| Limited Representative (specialty) | 0 hours (exempt) |
-| Crop Hail | 0 hours (exempt) |
+The Medicare Supplement/LTC line still has a prerequisite unrelated to prelicensing: applicants must already hold an active North Carolina insurance producer license with **Accident & Health (or Sickness)** authority, OR must apply for both lines together. You cannot stack Medicare Supplement onto a Life-only license.
 
-The Medicare Supplement/LTC line has a key prerequisite: applicants must already hold an active North Carolina insurance producer license with **Accident & Health (or Sickness)** authority, OR must apply for both lines together. You cannot stack Medicare Supplement onto a Life-only license.
+## Step 2 — Decide whether to take a prelicensing course (optional)
 
-## Step 2 — Find a DOI-approved prelicensing provider
+Even though completion is no longer required, Pearson VUE still publishes the active DOI-approved provider lists in two PDF formats, both updated regularly: the [Approved Providers of Insurance Producer Prelicensing Classroom Courses (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123429.pdf) and the [Approved Providers of Insurance Producer Prelicensing Online Courses (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123430.pdf). Most candidates still choose a structured course because North Carolina's exams carry substantial state-specific law content and each retake costs $45 — but you're free to self-study and go straight to NIPR/Pearson VUE if you prefer.
 
-Pearson VUE publishes the active DOI-approved provider lists in two PDF formats, both updated regularly: the [Approved Providers of Insurance Producer Prelicensing Classroom Courses (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123429.pdf) and the [Approved Providers of Insurance Producer Prelicensing Online Courses (PDF)](https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/publications/123430.pdf). Confirm your chosen course appears on the current list before you pay — outdated provider lists circulating on social media have steered candidates to courses that no longer satisfy DOI.
-
-Course completions transmit electronically from the school to Pearson VUE. The certificate you receive is your proof; keep it for your records, but it's the electronic transmission that actually unlocks your exam ticket.
+If you do take a course, completions transmit electronically from the school to Pearson VUE. The certificate you receive is your proof of completion, though it's no longer a prerequisite for scheduling your exam.
 
 ## Step 3 — Pearson VUE exam logistics
 
@@ -70,11 +56,11 @@ NIPR's overview reminds applicants to verify that North Carolina received exam r
 
 Pearson's North Carolina page warns that **ITINs cannot substitute for Social Security numbers** and that names must match government IDs exactly. That is not bureaucracy for its own sake; DOI uses those identifiers to match exam results, prelicensing completions, and NIPR applications. If they don't match, your license sits in pending review until you correct the data.
 
-## The Medicare Supplement/LTC exemption pathway
+## The Medicare Supplement/LTC exemption pathway (largely historical since HB 737)
 
-If you already hold an active North Carolina insurance producer license (status not Inactive or Expired) with A&H authority, you can add Medicare Supplement/LTC by paying a **$38 prelicensing exemption fee** to NCDOI. You don't need to complete the 10 prelicensing hours under this exemption — but you still must pass the state Medicare Supplement/LTC examination.
+Before HB 737 eliminated the prelicensing mandate, agents adding Medicare Supplement/LTC to an active A&H license could bypass the 10-hour prelicensing requirement by paying a prelicensing exemption fee to NCDOI instead. Since prelicensing is no longer required for any candidate as of October 1, 2025, this fee pathway is largely moot going forward — but you still must pass the state Medicare Supplement/LTC examination to add the line.
 
-This is one of the few NCDOI fees that catches working agents off guard. Most candidates assume they need to retake prelicensing for the new line; the exemption pathway exists specifically because experienced agents shouldn't have to repeat foundational material when adding a related authority.
+Confirm current fee schedules directly with NCDOI before applying, since exemption-specific line items on older fee charts may not carry over now that the underlying requirement has been repealed.
 
 ## Use NCDOI's producer hub for CE lookups and bulletins
 
@@ -86,39 +72,39 @@ For [continuing education](/north-carolina/continuing-education) after licensure
 
 | State | Prelicensing per major line | Exam Vendor | Score Validity |
 |---|---|---|---|
-| North Carolina | 20 hours (10 for Medicare Supp/LTC) | Pearson VUE | 12 months |
+| North Carolina | None required (optional) as of HB 737 | Pearson VUE | 12 months |
 | Arizona | None mandated; PSI exam | PSI | 12 months |
 | Pennsylvania | Recommended, not state-mandated | PSI | 12 months |
 | Georgia | 8.0 hours per major line | Pearson VUE | 12 months |
 | Texas | None mandated | Pearson VUE | 12 months |
 
-North Carolina sits in the middle: more rigorous prelicensing than Texas, Arizona, or California, but lighter than Florida (40 hours). California eliminated its line-specific prelicensing hours under AB 943 (effective January 1, 2026) and now mandates only a 12-hour Code and Ethics course. Multistate recruiters should print three checklists, not one mail-merge template — every state's specifics differ.
+North Carolina now sits alongside Texas, Arizona, and California in not mandating prelicensing hours, while Georgia (8.0 hours) and Florida (60 hours for the combined 2-15 Life & Health line) still require completion. California eliminated its line-specific prelicensing hours under AB 943 (effective January 1, 2026) and now mandates only a 12-hour Code and Ethics course. Multistate recruiters should print three checklists, not one mail-merge template — every state's specifics differ.
 
 ## Realistic licensing timeline
 
 | Step | Typical duration |
 |---|---|
-| Prelicensing course (20 or 10 hours) | 1–2 weeks |
+| Prelicensing course (optional) | 1–2 weeks |
 | Pearson VUE exam scheduling | 3–7 days |
 | Pearson exam + score report | Same day |
 | Fingerprinting + background clearance | 5–14 business days |
 | NIPR application + NCDOI review | 7–14 business days |
 | **Total (clean application)** | **3–6 weeks** |
 
-Background hits, name mismatches, or CE/prelicensing transmission delays can extend this to 30–60 days while NCDOI staff resolve the discrepancy.
+Background hits, name mismatches, or CE transmission delays can extend this to 30–60 days while NCDOI staff resolve the discrepancy.
 
 ## Common pitfalls North Carolina resident producers hit
 
-- **Assuming 20 hours applies to every line.** Medicare Supplement/LTC is 10 hours; some specialty lines are 0.
-- **Choosing a non-DOI-approved provider.** Always verify against the current Pearson VUE PDF before enrolling.
+- **Assuming prelicensing is still required.** HB 737 eliminated the mandatory hour requirement for every line effective October 1, 2025 — you can go straight to the exam if you choose.
+- **Choosing a non-DOI-approved provider (if you do take a course).** Always verify against the current Pearson VUE PDF before enrolling.
 - **Letting the 12-month exam score expire.** If your application takes longer than expected, your exam score expires and you re-test.
-- **Missing the $38 fingerprint fee budget.** It's small, but it's separate from the prelicensing course fee and the exam fee.
-- **Confusing prelicensing hours with CE hours.** They are completely separate clocks. Prelicensing happens once per line; CE recurs every renewal cycle.
+- **Missing the $38 fingerprint fee budget.** It's small, but it's separate from any course fee and the exam fee.
+- **Confusing prelicensing hours with CE hours.** They are completely separate; CE is still mandatory and recurs every renewal cycle even though prelicensing is now optional.
 - **Filing on NIPR with a name mismatch.** If your driver's license, Pearson account, and NIPR profile don't match exactly, your application sits in review.
 
 ## Bottom line
 
-Finish your line-specific DOI-approved instruction (20 hours for major lines, 10 for Medicare Supplement/LTC), download Pearson's fee and provider PDFs, pass within the 12-month NIPR score window, then file on NIPR with clean identifying data. Drill with [North Carolina practice exams](/north-carolina/practice-exam), read the [insurance exam guide](/insurance-exam-guide) for how statutory hours translate into Pearson admission tickets, and book [North Carolina prelicensing](/north-carolina/prelicensing) once you know which classroom or online provider appears on DOI's current approval list. For post-license renewal planning, see our [license renewal guide](/license-renewal-guide) and our published [pass rate methodology](/pass-rates).
+Prelicensing education is optional in North Carolina as of HB 737 (eff. October 1, 2025) — but structured preparation still pays off given how much state-specific law each exam covers. Whether you take a course or self-study, pass within the 12-month NIPR score window, then file on NIPR with clean identifying data. Drill with [North Carolina practice exams](/north-carolina/practice-exam), read the [insurance exam guide](/insurance-exam-guide) for exam-day logistics, and book [North Carolina prelicensing](/north-carolina/prelicensing) if you decide structured study is right for you. For post-license renewal planning, see our [license renewal guide](/license-renewal-guide) and our published [pass rate methodology](/pass-rates).
 
 **By Justin vom Eigen, Licensed Insurance Agent and Founder of JustInsurance**
 

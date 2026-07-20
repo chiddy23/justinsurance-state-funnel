@@ -24,6 +24,8 @@ PSI Services LLC administers all Louisiana Department of Insurance producer lice
 
 ## Exam Fees by Line of Authority
 
+The Louisiana insurance exam fee is $36 per attempt, regardless of line of authority. Fees are paid at the time of reservation by credit card, debit card, voucher, or electronic check and are non-refundable — you must pay the fee again for each retake.
+
 ⚠️ Question counts and time allocations for Health & Accident and combined L/H&A exams — verify in the current PSI Candidate Handbook at test-takers.psiexams.com/ladi.
 
 ## Passing Score and Retake Policy
@@ -45,8 +47,6 @@ For the Property & Casualty exam, general content includes homeowners policies, 
 Report to the PSI testing center 30 minutes before your scheduled exam time. Bring a valid government-issued photo ID — the name on your ID must exactly match the name on your PSI registration. If you arrive late, you may be denied entry and forfeit your exam fee. You will be photographed and asked to complete sign-in procedures. Fingerprinting is available at PSI sites during regular testing hours if you have not yet completed it.
 
 The exam appears on your assigned computer. Before beginning, you have the opportunity to take a short computer tutorial. All questions are multiple choice with four options. The exam allows you to skip questions, change answers, and mark questions for later review — use these features strategically. Your score is displayed immediately upon submission.
-
-## Exam Comparison: Louisiana vs. Comparison States
 
 ## Frequently Asked Questions
 

@@ -53,15 +53,15 @@ Quality prelicense courses include practice exams that mirror the actual state e
 
 So while you can technically skip prelicense and go straight to the exam, doing so dramatically reduces your chances of passing on the first try. Most successful candidates complete a prelicense course even though it's not legally required.
 
-## Step 3: Schedule Your State Exam Through Prometric
+## Step 3: Schedule Your State Exam
 
-Massachusetts insurance licensing exams are administered by Prometric (not Pearson VUE — Massachusetts is one of the states using Prometric for insurance exams). Schedule through:
+Massachusetts is in the middle of an exam vendor transition. Prometric administered the exam through July 16, 2026; there is a testing blackout July 17–21, 2026; and Pearson VUE becomes the official vendor starting July 22, 2026 (Pearson scheduling is open now). Schedule through:
 
-Prometric's website at prometric.com/massachusetts/insurance
+Pearson VUE's website at pearsonvue.com/us/en/ma/insurance.html
 
-Pay the $39 exam fee at registration (lower than most states)
+Pay the $39 exam fee at registration (lower than most states) — confirm the current fee in the Pearson VUE candidate handbook before scheduling
 
-Schedule at a Prometric testing site or take it through ProProctor remote testing
+Pearson VUE requires in-person testing at an authorized test center; the remote/online-proctored option is being phased out with the vendor switch
 
 Bring two valid forms of identification on test day
 
@@ -95,7 +95,7 @@ Massachusetts license applications are submitted electronically through the Nati
 
 Application requirements:
 
-Confirmation of exam completion (reported electronically by Prometric)
+Confirmation of exam completion (reported electronically by your testing vendor — Prometric through July 16, 2026, Pearson VUE from July 22, 2026 onward)
 
 Background check authorization
 
@@ -189,7 +189,7 @@ Hours: Monday to Friday, 8:45 AM - 5:00 PM
 - Does Massachusetts require fingerprinting for insurance producers? No. Massachusetts doesn't require fingerprinting for individual producer licenses, though a background check is still conducted.
 - How much does a Massachusetts insurance license cost? Total typically $350-500 including any prelicense study materials, $39 exam fee, $225 state application fee, and $75 additional lead paint surcharge for P&C/Personal Lines applicants.
 - How long is my Massachusetts insurance license valid? Massachusetts producer licenses renew every 3 years (triennial cycle), with renewal due before your birth date.
-- What's the difference between Massachusetts and other states' licensing process? The most distinctive features are: no pre-licensing education required, lower exam fee ($39), Prometric administers the exam (not Pearson VUE), 3-year renewal cycle (not 2-year), and the additional $75 lead paint surcharge for P&C applicants.
+- What's the difference between Massachusetts and other states' licensing process? The most distinctive features are: no pre-licensing education required, lower exam fee ($39), a 3-year renewal cycle (not 2-year), and the additional $75 lead paint surcharge for P&C applicants. Massachusetts is also transitioning exam vendors from Prometric to Pearson VUE, effective July 22, 2026.
 
 ## Start Your Massachusetts Insurance Career Right
 

@@ -21,7 +21,7 @@ To land your dream role in the insurance industry, you first need to meet the [C
 
 ## Understand the basic [colorado insurance license](/colorado) requirements
 
-Before you commit to hours of study, get clear on what Colorado law expects from you as a future insurance professional. The state requires you to complete [pre-licensing](/colorado/prelicensing) coursework in your chosen line of authority, pass a licensing exam, submit fingerprints for a background check, and finally apply for your license through the National Insurance Producer Registry (NIPR).
+Before you commit to hours of study, get clear on what Colorado law expects from you as a future insurance professional. The state requires you to complete [pre-licensing](/colorado/prelicensing) coursework in your chosen line of authority, pass a licensing exam, self-disclose your background on the NIPR application (Colorado does not require fingerprinting), and finally apply for your license through the National Insurance Producer Registry (NIPR).
 
 Many applicants find the steps more straightforward than they initially feared. As long as you follow the guidelines and stay organized, you will be prepared to handle your licensing journey with confidence.
 
@@ -71,7 +71,7 @@ Most testing providers allow you to take the exam online or at a physical testin
 
 ## Submit your application and background check
 
-After you pass the exam, your next step is to complete the fingerprint and background check process, which helps ensure consumer protection. You will usually handle this through a Colorado-approved vendor, so check the Division of Insurance website for the most current details.
+After you pass the exam, your next step is to complete the background check process, which helps ensure consumer protection. Colorado handles this through self-disclosure on your NIPR application rather than fingerprinting, so check the Division of Insurance website for the most current details.
 
 Finally, submit your official application through the NIPR. This process confirms you have cleared state hurdles, passed the exam, and remain in good standing. While it might take a few days or weeks for final approval, you can often track your application status online.
 

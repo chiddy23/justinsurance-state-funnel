@@ -226,6 +226,8 @@ Specialty pricing. Farm, commercial, and specialty insurance often carries stron
 
 Many successful rural Alabama agents earn $80,000-$160,000+ with excellent quality of life.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## 5 Frequently Asked Questions
 
 - Is rural Alabama a viable insurance career market? Yes. Rural Alabama offers steady demand, less competition, and strong relationship-based practices. Many successful Alabama insurance careers are built in rural and small-town markets.

@@ -52,7 +52,7 @@ Website: mass.gov/orgs/division-of-insurance
 
 Before submitting your application, you should have:
 
-Passed the Massachusetts state exam through Prometric (no [prelicense](/massachusetts/prelicensing) required, but exam is required for most license types)
+Passed the Massachusetts state exam through your testing vendor — Prometric through July 16, 2026, Pearson VUE from July 22, 2026 onward (no [prelicense](/massachusetts/prelicensing) required, but exam is required for most license types)
 
 Gathered documentation for any disclosure answers
 
@@ -170,7 +170,7 @@ You can track status through NIPR
 
 After submission, the DOI reviews:
 
-Your exam completion. Prometric reports your exam results electronically.
+Your exam completion. Your testing vendor (Prometric through July 16, 2026, Pearson VUE from July 22, 2026 onward) reports your exam results electronically.
 
 Your background check. Background check results flow to the DOI for review.
 

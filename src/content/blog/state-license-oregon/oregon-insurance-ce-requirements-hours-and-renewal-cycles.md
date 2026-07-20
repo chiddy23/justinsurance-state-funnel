@@ -102,11 +102,11 @@ Applies to every renewal cycle
 
 This requirement reflects Oregon's commitment to ensuring producers stay current on Oregon-specific regulatory developments. Many CE providers don't offer Oregon-specific law courses, so verify before enrolling.
 
-## No Carryover of CE Hours
+## CE Carryover Policy
 
-Oregon does NOT allow carryover of excess CE credits to the next renewal period. Even if you complete more than 24 hours in one cycle, the excess doesn't roll forward.
+Oregon does not publicly post a CE carryover policy — contact the Oregon DFR to confirm whether excess credits from one cycle can roll forward.
 
-Plan each cycle independently — don't over-complete one cycle hoping to bank hours for the next.
+Plan each cycle independently — don't over-complete one cycle hoping to bank hours for the next, unless the DFR confirms otherwise.
 
 ## Course Repetition Rule
 
@@ -142,19 +142,13 @@ Plan your CE mix accordingly.
 
 ## Specialty Training Requirements
 
-Beyond standard CE, Oregon has specialty training requirements for specific product types:
+Beyond standard CE, Oregon has specialty training requirements for specific product types. Oregon DFR has not published a single standardized hour count for these requirements — confirm current details directly with the DFR before selling these products:
 
-Long-Term Care (LTC) Training. Before selling LTC insurance, producers must complete:
+Long-Term Care (LTC) Training. Before selling LTC insurance, producers must complete state-approved initial and ongoing LTC training. Verify the current hour requirement with the Oregon DFR.
 
-One-time 8-hour LTC training (state-approved)
+Annuity Best Interest Training. Before selling, soliciting, or negotiating annuity products, producers must complete Annuity Best Interest training consistent with the NAIC Best Interest model. Verify the current hour requirement with the Oregon DFR.
 
-4-hour ongoing training every 2-year license period after initial training
-
-Annuity Best Interest Training. Before selling, soliciting, or negotiating annuity products, producers must complete a one-time 4-hour Annuity Best Interest course.
-
-Flood Insurance Training. Producers who sell flood insurance must complete a one-time 3-hour course approved for the National Flood Insurance Program (NFIP).
-
-Ongoing Flood CE. Per OAR 836-071-0215, producers who negotiate, sell, or solicit flood insurance must complete at least 2 credit hours of CE on flood-related subjects (current state and federal laws relating to flood insurance, the NFIP, or private flood insurance) within their renewal cycle.
+Flood Insurance Training. Producers who sell flood insurance should confirm with the Oregon DFR whether specific training tied to the National Flood Insurance Program (NFIP) currently applies, and what ongoing flood-related CE, if any, is required within their renewal cycle.
 
 These specialty training hours count toward your 24-hour CE requirement if approved for Oregon CE credit.
 
@@ -255,10 +249,10 @@ Plan around the 8-hours-per-day limit. You can't cram 24 hours into one or two d
 ## 5 Frequently Asked Questions
 
 - How many CE hours do I need every 2 years in Oregon? 24 hours total, including 3 hours of ethics and 3 hours of Oregon statutes and administrative rules.
-- Can I carry over extra CE hours to the next renewal cycle? No. Oregon doesn't allow carryover of excess credits.
+- Can I carry over extra CE hours to the next renewal cycle? Oregon does not publicly post a carryover policy — contact the Oregon DFR to confirm before counting on banked hours.
 - How much CE can I complete in a single day? Maximum 8 hours per day. This applies to all formats including online courses.
 - What if I hold licenses in multiple lines of authority? Your total CE requirement is still 24 hours — you don't double it.
-- Does Oregon require ongoing flood training for producers who sell flood insurance? Yes. Beyond the one-time 3-hour NFIP course, producers selling flood must complete at least 2 hours of CE on flood-related subjects within each renewal cycle, per OAR 836-071-0215.
+- Does Oregon require ongoing flood training for producers who sell flood insurance? Oregon DFR has not published a single standardized flood-training rule — confirm current requirements directly with the DFR before relying on a specific hour count.
 
 ## Stay Compliant Without the Stress
 

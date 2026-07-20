@@ -114,7 +114,7 @@ The ethics requirement is unaffected: LTC training hours count as general CE hou
 
 ### When LTC Training and CE Cycles Align
 
-When the 24-month LTC ongoing training cycle falls within the same biennial CE period, the 4 LTC hours reduce the general CE burden for that period. When the LTC cycle falls in a different period than CE renewal, the producer may complete 4 hours of LTC training in a period where those hours are not needed for CE renewal — producing excess hours that may carry forward up to Tennessee's 12-hour carryover limit.
+When the 24-month LTC ongoing training cycle falls within the same biennial CE period, the 4 LTC hours reduce the general CE burden for that period. When the LTC cycle falls in a different period than CE renewal, the producer may complete 4 hours of LTC training in a period where those hours are not needed for CE renewal, producing excess hours. Tennessee's TDCI has not publicly posted a specific carryover policy or hour limit for excess CE, so confirm with the TDCI whether — and how much — those excess hours carry forward before assuming any specific figure applies.
 
 ## Exemptions
 

@@ -73,7 +73,7 @@ Issuing cease and desist orders
 
 Adopting regulations to implement the Code
 
-The SCDOI main office is at PO Box 100105, Columbia, SC 29202-3105, with the main phone line at 803-737-6205. Online access is through doi.sc.gov.
+The SCDOI main office is at PO Box 100105, Columbia, SC 29202-3105, with the main phone line at (803) 737-6160. Online access is through doi.sc.gov.
 
 ## Why Knowing the Code Matters
 

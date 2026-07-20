@@ -27,29 +27,29 @@ Your [Washington insurance license](/washington) application process can feel ov
 
 Before diving into the formal application steps, you should confirm that you meet Washington's basic eligibility requirements for becoming an insurance producer. You generally need to be at least 18 years old, have legal authorization to work in the United States, and maintain a clean legal record (or disclose any incidents as required by law).
 
-It is also key to decide which line of insurance you want to pursue. The most common options are Life and Health (L&H) or Property and Casualty (P&C). While you can apply for both, keep in mind that each line has its own [pre-licensing](/washington/prelicensing) coursework and exam. If you are not entirely sure which path to take, do not worry. You can still earn additional lines of authority later.
+It is also key to decide which line of insurance you want to pursue. The most common options are Life and Health (L&H) or Property and Casualty (P&C). While you can apply for both, keep in mind that each line has its own exam, and Washington does not require [pre-licensing](/washington/prelicensing) coursework for either one (that requirement was eliminated in 2023). If you are not entirely sure which path to take, do not worry. You can still earn additional lines of authority later.
 
-## Complete required pre-licensing
+## Consider optional pre-licensing prep
 
-Next, you will need to complete state-approved [Washington prelicensing courses](/washington/prelicensing) for each insurance line you plan to sell. These courses typically cover core insurance concepts, Washington-specific regulations, and best practices for client interactions. Because you must include proof of your completed coursework in your application, it is a good idea to keep the certificate you receive from the training provider in a safe place.
+Washington does not require state-approved pre-licensing courses for any insurance line, but many candidates still choose to work through [optional Washington prep coursework](/washington/prelicensing) for the line(s) they plan to sell. These courses typically cover core insurance concepts, Washington-specific regulations, and best practices for client interactions. Since this step is optional, you do not need a completion certificate for your application, though it can still be useful as a personal study record.
 
 You might find both classroom-based and online options. Online courses can be more flexible, allowing you to progress at your own pace. Classroom learning, on the other hand, offers live interactions with instructors and peers. Select the format that fits your schedule and learning style.
 
 ## Gather necessary documents
 
-Once your pre-licensing courses are done, focus on assembling the documents that will support your application. Generally, you will need a valid photo ID (such as a driver's license), proof of pre-licensing course completion, and payment information for your application and exam fees. Should you have relevant transcripts or certifications (for instance, if you studied related coursework in college), bring those along if requested by the Washington Office of the Insurance Commissioner.
+Once you feel ready for the exam, whether or not you completed optional prep coursework, focus on assembling the documents that will support your application. Generally, you will need a valid photo ID (such as a driver's license) and payment information for your application and exam fees. Should you have relevant transcripts or certifications (for instance, if you studied related coursework in college), bring those along if requested by the Washington Office of the Insurance Commissioner.
 
 If you anticipate needing any special accommodations for the exam, this is also an ideal time to gather relevant medical or official documentation to ensure the testing facility can meet your needs. Double-check everything so that you do not slow your progress by missing a crucial item.
 
 ## Schedule and pass the exam
 
-When you have your pre-licensing done and documents prepared, you are ready to tackle the [Washington insurance licensing exam](/washington/requirements). You will pick a testing date through a state-approved exam provider. Plan ahead—exam slots can fill quickly, especially during peak times of the year.
+When you have finished studying (with or without an optional pre-licensing course) and your documents are prepared, you are ready to tackle the [Washington insurance licensing exam](/washington/requirements). You will pick a testing date through a state-approved exam provider. Plan ahead—exam slots can fill quickly, especially during peak times of the year.
 
 If test-taking anxiety is a concern, try to give yourself enough study time before the exam date. Reviewing sample questions and practice exams can help you get familiar with the format and pinpoint any weak areas. On exam day, pace yourself, read each question carefully, and re-check your answers if you have time.
 
 ## Submit your official application
 
-After you pass the exam, your next step is to submit the official application. This typically takes place on the Washington Office of the Insurance Commissioner website. Be ready to provide personal details, exam results, pre-licensing completion certificates, and the necessary fees. Some lines of authority may require fingerprints or a background check at this stage, so factor in any additional fees and processing time.
+After you pass the exam, your next step is to submit the official application. This typically takes place on the Washington Office of the Insurance Commissioner website. Be ready to provide personal details, exam results, and the necessary fees. Fingerprints and a background check are also required at this stage, so factor in any additional fees and processing time.
 
 Make sure you receive a confirmation that your application was submitted successfully. Many applicants find it helpful to create an account on the state insurance portal to monitor status updates, correct any mistakes, or quickly respond to additional document requests.
 
@@ -69,15 +69,15 @@ Be 18+, authorized to work in the US, and decide on lines of authority
 
 \[ \]
 
-2\. Complete pre-licensing
+2\. Optional: pre-licensing prep
 
-Pass all state-approved courses for your desired insurance line(s)
+Consider optional prep coursework for your desired insurance line(s) — not a state requirement
 
 \[ \]
 
 3\. Gather required documents
 
-Photo ID, certificate(s) of pre-licensing completion, application fee payment method
+Photo ID and application fee payment method
 
 \[ \]
 
@@ -111,7 +111,7 @@ Once your license is approved, you can officially sell insurance within the line
 
 ### Do I need separate licenses for different lines of authority?
 
-Yes, you must complete separate exams and pre-licensing courses for each line of authority you intend to sell. However, you can combine some pre-licensing coursework if you plan to pursue both Life and Health lines or Property and Casualty lines at the same time.
+Yes, you must complete a separate exam for each line of authority you intend to sell. Washington does not require pre-licensing courses for any line, though you can pursue optional combined prep if you plan to sit for both Life and Health and Property and Casualty at the same time.
 
 ### Can I retake the exam if I fail?
 
@@ -127,10 +127,10 @@ Yes, Washington requires you to complete [continuing education](/washington/cont
 
 ### Which documents should I keep for my records?
 
-You should retain proof of pre-licensing course completion, exam pass letters, and receipts for your application fees. It is also helpful to keep track of any continuing education certificates to help with future renewals and audits.
+You should retain your exam pass letter and receipts for your application fees. If you took an optional pre-licensing course, keeping that completion certificate as a personal record can be helpful too. It is also useful to keep track of any continuing education certificates to help with future renewals and audits.
 
 ## Final thoughts and next steps
 
 Going through your Washington insurance license application process is an achievement that paves the way for a rewarding career. If you are feeling uncertain about any steps along the way, turn to resources like the Washington Office of the Insurance Commissioner or consider partnering with a supportive training provider. JustInsurance is committed to helping you thrive, offering expert guidance and comprehensive tools that simplify licensing logistics.
 
-Now is the perfect time to get started. Check off the first step in the chart above, sign up for your pre-licensing courses, and put yourself on a solid path toward a successful career in Washington’s insurance industry. By staying organized and following each step, you can walk into your first role as a licensed insurance producer with confidence and pride.
+Now is the perfect time to get started. Check off the first step in the chart above, start studying (with an optional pre-licensing course or on your own), and put yourself on a solid path toward a successful career in Washington’s insurance industry. By staying organized and following each step, you can walk into your first role as a licensed insurance producer with confidence and pride.

@@ -55,11 +55,11 @@ Here are additional tips that can help you handle your CE credits more smoothly:
 ## Frequently asked questions
 
 1.  How many credits do I need each renewal period?  
-    This varies based on your specific license type. Life and health agents typically need a certain number, while property and casualty agents might have a separate requirement. Check the Florida Department of Financial Services website to confirm your exact credit-hour total.
+    Most Florida license holders need 24 hours of CE every two-year cycle, including 4 hours of law and ethics. Check the Florida Department of Financial Services website to confirm any line-of-authority specifics.
 2.  Which courses are mandatory?  
     Most license holders must take an ethics or law update course, and you may also have specific classes required for your line of authority. Be sure all your classes come from approved providers so your credits qualify.
 3.  Can I carry extra credits forward?  
-    In many cases, Florida’s regulations do not allow you to carry forward unused credits. Since rules occasionally change, it is wise to review current guidelines or speak with your provider to see if any new policies apply.
+    Yes. Florida allows you to carry forward up to 24 excess CE hours into your next two-year renewal cycle. Carried-over ethics hours only count as general credit, so you still need to complete 4 new Florida law and ethics hours each cycle.
 4.  What if I miss my renewal deadline?  
     Missing your deadline can lead to regulatory consequences, such as fines or license suspension. Emergency extensions can be available, but they typically involve an additional fee or application process. It is better to plan ahead so you do not find yourself in that situation.
 5.  Where can I find approved study providers?  

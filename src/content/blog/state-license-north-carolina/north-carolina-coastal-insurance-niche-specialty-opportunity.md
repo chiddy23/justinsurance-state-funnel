@@ -246,6 +246,8 @@ Seasonal considerations. Some coastal NC communities have seasonal population fl
 
 Established coastal NC specialty practices commonly produce $90,000-$180,000+ annually for individual producers, with top coastal specialists — particularly those serving the Outer Banks high-value market or Cape Fear affluent retiree communities — earning substantially more.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Career Development in Coastal Specialty
 
 Years 1-2: Build basic coastal market knowledge. Develop CPIP expertise. Establish first coastal referral relationships.

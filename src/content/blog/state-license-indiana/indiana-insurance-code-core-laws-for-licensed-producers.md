@@ -46,7 +46,7 @@ PLE: 20 hours per line; 6-month validity; bring Certificate to exam; designation
 
 Pearson VUE exam: $69; 70%; 48-hr retake; 1 OnVUE; Ivy Tech/PVue/military sites; 6-month window
 
-Gemalto fingerprinting: ~$47.35
+Fingerprinting: Not required — self-disclosure on the NIPR application only
 
 Application: Sircon or NIPR; $40; 5-7 days; 6-month apply window
 
@@ -164,6 +164,6 @@ No Indiana individual mandate — no state tax penalty for being uninsured.
 
 ## Build Your Career on Strong Indiana Compliance Knowledge
 
-IC 27-1-15.6, modified comparative fault, HIP 2.0, ICRB, and the Annuity Best Interest rule form the foundation of Indiana insurance practice. JustInsurance's IDOI-approved Indiana courses cover the Insurance Code in depth.
+IC 27-1-15.6, modified comparative fault, HIP 2.0, ICRB, and the Annuity Best Interest rule form the foundation of Indiana insurance practice. JustInsurance's IDOI-approved Indiana Life, Health, and Life & Health courses cover the Insurance Code in depth for those lines.
 
 Enroll today and build your Indiana insurance career on solid compliance ground.

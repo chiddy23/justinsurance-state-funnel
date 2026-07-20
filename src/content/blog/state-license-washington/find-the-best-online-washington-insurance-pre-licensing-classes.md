@@ -20,7 +20,7 @@ imageCredit: Photo by C'Pho Ngondo R.Rouge on Pexels
 
 ## Understand Washington pre-licensing requirements
 
-Before you dive into your online [Washington insurance](/washington) [pre-licensing](/washington/prelicensing) classes, it’s essential to know exactly what the state requires of you. In Washington, you must complete a specified number of pre-licensing hours for each line of authority you plan to pursue—life & disability (health) and property & casualty being the most common. Once you finish those courses, you’ll need to pass a state licensing exam. That exam covers everything from basic insurance terminology to Washington-specific regulations.
+Before you dive into your online [Washington insurance](/washington) [pre-licensing](/washington/prelicensing) classes, it’s essential to know exactly what the state requires of you. Washington does not require a specified number of pre-licensing hours for any line of authority — life & disability (health) and property & casualty included — since that requirement was eliminated in 2023. What Washington does require is passing a state licensing exam, which covers everything from basic insurance terminology to Washington-specific regulations, and optional coursework like this can help you prepare for it.
 
 Each line of authority has its own prerequisites, and fulfilling them ensures you’re well-prepared to represent clients accurately and ethically. Think of it as building a foundation of knowledge that you’ll continue to refine throughout your career. And if you’re new to the industry, don’t worry: many programs are designed to guide you step by step, so you can feel confident in your progress.
 
@@ -45,35 +45,31 @@ Not all pre-licensing programs deliver the same experience. To make an informed 
 5.  Budget considerations  
     While cheaper courses can be tempting, make sure you’re not missing out on features like tutor support or robust practice exams. The goal is to pass your exam on the first try, so consider value alongside price.
 
-## Comparing popular WA programs
+## What to look for in a program
 
-When searching for the right [pre-licensing course in Washington](/washington/prelicensing), it helps to compare a few key offerings side by side. Below is a quick glance at how three popular providers stack up.
+When searching for the right [pre-licensing course in Washington](/washington/prelicensing), it helps to weigh a few key features side by side rather than picking the first option you find.
 
-Program
+Feature
 
-Highlights
+What to look for
 
-Price range
+Instructor access
 
-JustInsurance
+Email, phone, or live-chat support when you have questions
 
-Self-paced modules, expert Q&A, updated materials
+Practice exams
 
-$$ (Mid-range)
+Full-length practice tests that mirror the state exam format
 
-StateExam Prep
+Course pacing
 
-Live webinars, extensive practice exams
+Self-paced modules if you need flexibility, live webinars if you prefer real-time interaction
 
-$$$ (Higher-end)
+Price
 
-InsureU
+Compare cost against what's included — some budget options are bare-bones and may require supplemental materials
 
-Budget option, basic study materials
-
-$ (Lower cost)
-
-All three can prepare you for life & disability (health) or property & casualty lines. However, JustInsurance strikes a balance between live guidance and flexible pacing, giving you the ability to rewatch key lessons and reach out to expert instructors when you need clarification. StateExam Prep leans toward interactive learning in a virtual classroom, ideal if you crave collaboration with both instructors and peers. InsureU is more bare-bones, which might be fine if your main focus is saving money, but be prepared to supplement your learning with extra practice materials.
+JustInsurance, for example, offers self-paced modules, expert Q&A, and updated materials at a mid-range price point, giving you the ability to rewatch key lessons and reach out to instructors when you need clarification. Whichever provider you choose, prioritize the combination of support, practice exams, and up-to-date content that fits your learning style and budget.
 
 ## Your top five FAQs
 
@@ -88,7 +84,7 @@ Below are some common questions people ask when deciding on online pre-licensing
 4.  Are there tuition assistance plans available?  
     Many providers offer payment plans or discounts if you bundle multiple lines of authority. Check with your course provider to see if you qualify for any financial incentives.
 5.  How do I schedule my licensing exam once I finish?  
-    After completing your required hours, you’ll typically visit the [Washington Office of the Insurance Commissioner](/washington/requirements) website or an approved testing vendor. From there, you can pick a date and time that fits your schedule.
+    Whenever you feel ready, whether you completed an optional course or studied on your own, you’ll typically visit the [Washington Office of the Insurance Commissioner](/washington/requirements) website or an approved testing vendor. From there, you can pick a date and time that fits your schedule.
 
 ## Take the next step
 

@@ -194,7 +194,9 @@ Service intensity. Coastal practice requires substantial service infrastructure 
 
 Storm season volatility. Hurricane events create surge claim activity affecting practice rhythm.
 
-Established South Carolina coastal practices commonly produce $130,000-$280,000+ in annual income, with top HNW coastal practices earning substantially more.
+Established South Carolina coastal practices commonly produce $130,000-$280,000+ in annual income, with top HNW coastal practices earning substantially more. This reflects commission-based earning potential for an established, specialized book of business — distinct from broader statewide labor-statistics averages for insurance sales agents.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 ## Compliance Considerations
 
@@ -220,7 +222,7 @@ SCDOI regulatory compliance. All standard SCDOI requirements apply.
 - What's a hurricane deductible? Hurricane deductibles are percentage-based deductibles (typically 1-5% of dwelling value) applying when named tropical storms or hurricanes affect the property's area. They produce lower premiums but greater out-of-pocket exposure during storms.
 - Do all South Carolina coastal properties need flood insurance? Most coastal properties need flood insurance, particularly those in designated flood zones. Lenders typically require flood insurance for high-risk flood zone properties. Even properties in low-risk zones may benefit from flood coverage.
 - Can I sell coastal insurance without being a coastal specialist? Possible for occasional coastal clients, but genuine coastal practice requires specialty expertise. Casual coverage often fails clients with complex coastal needs.
-- What's the income potential in coastal South Carolina insurance practice? Established coastal practices commonly produce $130,000-$280,000+ annually. Top high-net-worth coastal specialists in markets like Hilton Head can earn substantially more.
+- What's the income potential in coastal South Carolina insurance practice? Established coastal practices commonly produce $130,000-$280,000+ annually. Top high-net-worth coastal specialists in markets like Hilton Head can earn substantially more. These figures are illustrative and not a guarantee of earnings; individual results vary.
 
 ## Build Your South Carolina Coastal Insurance Practice
 

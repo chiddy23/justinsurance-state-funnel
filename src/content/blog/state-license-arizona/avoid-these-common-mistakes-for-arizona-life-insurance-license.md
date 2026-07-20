@@ -24,7 +24,7 @@ Below are some of the most frequent missteps to watch for as you prepare for you
 
 ## Review the state requirements
 
-One of the biggest oversights is failing to understand Arizona’s unique licensing prerequisites. Each state has distinct regulations, and Arizona is no exception. This includes mandatory [Arizona insurance prelicensing](/arizona/prelicensing) education, application paperwork, and exam details.
+One of the biggest oversights is failing to understand Arizona’s unique licensing prerequisites. Each state has distinct regulations, and Arizona is no exception. This includes [Arizona insurance prelicensing](/arizona/prelicensing) education — which is optional but strongly recommended, since Arizona does not legally require prelicensing hours — along with application paperwork and exam details.
 
 If you skip verifying these requirements with the Arizona Department of Insurance, you could end up taking irrelevant courses or neglecting essential steps. A good rule of thumb is to always confirm whether you need a separate license for life, health, property, or casualty lines. By confirming these details early, you can register for the correct classes and develop a clear study plan.
 
@@ -66,7 +66,7 @@ To avoid this problem, create a simple calendar reminder or set up an alert on y
 
 ### 1\. How many hours of pre-licensing education do I need?
 
-Arizona requires [pre-licensing](/arizona/prelicensing) education, but the total hours depend on the specific license lines you plan to pursue. Some require 20 hours, while others may need more. Always confirm the latest requirement with the Arizona Department of Insurance to ensure you meet the correct threshold.
+Arizona does not require prelicensing education by law — you can register for the exam without taking a course. That said, [pre-licensing](/arizona/prelicensing) prep is strongly recommended, and JustInsurance's optional courses run around 20 hours for Life or Health. Always confirm the current exam registration rules with the Arizona Department of Insurance.
 
 ### 2\. Can I study for multiple license lines at once?
 
@@ -74,7 +74,7 @@ Yes, you can study for life and health, or other lines such as property and casu
 
 ### 3\. What do I need to bring on exam day?
 
-Typically, you’ll need two forms of valid ID that match the name on your application. Confirm with the testing provider which types of identification are acceptable. Also, you should have proof of completed pre-licensing coursework, such as a certificate or online record verifying your hours.
+Typically, you’ll need two forms of valid ID that match the name on your application. Confirm with the testing provider which types of identification are acceptable. If you did take an optional pre-licensing course, it can also be useful to bring your completion certificate, though Arizona doesn't require one to sit for the exam.
 
 ### 4\. How soon will I know if I passed?
 

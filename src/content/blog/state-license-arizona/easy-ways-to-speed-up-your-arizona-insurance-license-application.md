@@ -22,7 +22,7 @@ Speeding up your [Arizona insurance license](/arizona) application does not have
 
 ## Review your requirements
 
-Before you jump in, take a moment to confirm the particular requirements for your desired line of insurance. Arizona typically requires you to be at least 18 years old and to complete a certain number of hours in a [pre-licensing](/arizona/prelicensing) course. You also need to pass a state-approved exam. Getting clear on these basics is the first step toward avoiding any misunderstandings later in the process.
+Before you jump in, take a moment to confirm the particular requirements for your desired line of insurance. Arizona typically requires you to be at least 18 years old, and while [pre-licensing](/arizona/prelicensing) education is optional rather than state-mandated, most candidates still take a course to prepare. You also need to pass a state-approved exam. Getting clear on these basics is the first step toward avoiding any misunderstandings later in the process.
 
 If you are relocating from another state, you can often transfer part of your knowledge. However, be sure to check with the [Arizona Department of Insurance and Financial Institutions](/arizona/requirements) to see if any of your credits or existing certifications carry over. This quick overview helps you prevent any documentation issues or extra coursework you might not need.
 
@@ -30,7 +30,7 @@ If you are relocating from another state, you can often transfer part of your kn
 
 Once you confirm your exam requirements, the next logical move is to enroll in an approved [Arizona insurance prelicensing](/arizona/prelicensing) course. Quality coursework goes beyond memorizing vocabulary, giving you a deeper look into Arizona’s unique regulations. More importantly, these classes help you feel prepared for the state exam without needing endless retakes.
 
-While you can choose from in-person or online programs, figure out what best fits your learning style. Many find that flexible online options let them set a pace that keeps momentum without overwhelming their schedule. This also helps you finish the mandated hours quickly, so you can sign up for your exam sooner.
+While you can choose from in-person or online programs, figure out what best fits your learning style. Many find that flexible online options let them set a pace that keeps momentum without overwhelming their schedule. This also helps you finish your optional coursework quickly, so you can sign up for your exam sooner.
 
 ## Keep background checks on track
 

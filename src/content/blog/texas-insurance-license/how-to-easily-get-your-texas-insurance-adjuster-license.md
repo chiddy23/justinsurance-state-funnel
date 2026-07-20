@@ -23,17 +23,17 @@ Before you know it, you will be well on your way to adjusting claims, investigat
 
 Texas offers several types of adjuster licenses, but the All-Lines Adjuster License is among the most comprehensive and popular. It typically allows you to handle a variety of claim types such as property, casualty, and even workers' compensation within the state. If you would prefer a narrower specialty, you can look into other options, like a Property and Casualty Adjuster License, although your job prospects might be broader with the all-lines designation.
 
-Regardless of the license type you choose, you need to meet the same foundational requirements. You must be at least 18 years old, reside in or be employed in Texas, and meet any pre-licensing education and exam mandates set by the [Texas Department of Insurance](/texas/requirements). If you have a criminal history, you may also need to undergo additional scrutiny. By confirming your eligibility early on, you can avoid any hassles down the road.
+Regardless of the license type you choose, you need to meet the same foundational requirements. You must be at least 18 years old, reside in or be employed in Texas, and pass the exam mandated by the [Texas Department of Insurance](/texas/requirements) (pre-licensing education is optional in Texas). If you have a criminal history, you may also need to undergo additional scrutiny. By confirming your eligibility early on, you can avoid any hassles down the road.
 
 ## Choose an approved provider
 
-Texas requires that you complete a state-approved [Texas pre-licensing course](/texas/prelicensing) before you can sit for the exam—unless you qualify for an exemption. Pre-licensing providers must adhere to the guidelines set by the state, and you will find that many offer courses tailored for busy learners. Some allow you to study at your own pace, while others have structured, instructor-led sessions.
+Texas does not require you to complete a [Texas pre-licensing course](/texas/prelicensing) before you can sit for the exam — it's optional, though many candidates take one to prepare. Pre-licensing providers must adhere to the guidelines set by the state, and you will find that many offer courses tailored for busy learners. Some allow you to study at your own pace, while others have structured, instructor-led sessions.
 
 When comparing providers, you want to look into factors like price, course format, and student support. Classes can range from fully online to a hybrid of virtual and in-person learning. If you are balancing a job and family obligations, you might prefer an on-demand, online curriculum that fits into your schedule. On the other hand, if you prefer real-time guidance and accountability, a live or instructor-led option can help keep you on track.
 
-## Complete pre-licensing coursework
+## Complete optional pre-licensing coursework
 
-Once you have settled on a provider, you will begin your coursework. The number of hours can vary based on the license type, but 40 hours is a common benchmark for pre-licensing programs in Texas. This time is structured to give you a broad understanding of essential topics, including policy provisions, endorsements, relevant Texas insurance laws, federal regulations, and ethical responsibilities.
+If you choose to take a pre-licensing course, the number of hours can vary based on the license type, but 40 hours is a common benchmark for pre-licensing programs in Texas. This time is structured to give you a broad understanding of essential topics, including policy provisions, endorsements, relevant Texas insurance laws, federal regulations, and ethical responsibilities.
 
 You will find that most pre-licensing courses cover the following areas in detail:
 

@@ -1,8 +1,9 @@
 ---
 title: Boost Your Sales by Building an Insurance Practice Right
 description: >-
-  Building an insurance practice: how agents get paid, typical income ranges,
-  top-earning lines of insurance, and career advice from licensed pros.
+  Building an insurance practice the right way: setting a clear mission,
+  establishing your brand, nurturing client relationships, and diversifying
+  your marketing channels.
 keyword: building an insurance practice
 targetKeywords: building an insurance practice
 cluster: insurance-agent-career-guide

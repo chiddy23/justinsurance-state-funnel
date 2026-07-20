@@ -24,7 +24,7 @@ Here's an honest breakdown of what Georgia insurance agents earn.
 
 Georgia life and health insurance agents typically earn between $40,000 and $85,000 in their first few years, with experienced agents regularly reaching $90,000 to $175,000 once they've built a solid book of business. Top producers and agency owners can earn $200,000 to $400,000+ annually.
 
-These numbers reflect realistic outcomes, not ceiling potential. Georgia's strong market combined with its lower cost of living compared to coastal states means these incomes often go further than comparable figures elsewhere.
+These numbers reflect realistic outcomes, not ceiling potential. Georgia's strong market combined with its lower cost of living compared to coastal states means these incomes often go further than comparable figures elsewhere. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## How Insurance Income Works in Georgia
 

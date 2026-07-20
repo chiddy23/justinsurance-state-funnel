@@ -103,6 +103,8 @@ Property and Casualty combined: 40 hours total
 
 Confirm the prelicense provider is Oregon-approved before enrolling.
 
+JustInsurance's Oregon prelicense catalog currently covers Life, Health, and the combined Life & Health course. If you're adding Property, Casualty, or Personal Lines, you'll need to complete that prelicense education through another Oregon-approved provider.
+
 ## Step 3: Schedule and Pass the Required Exam(s)
 
 Each new line requires passing the corresponding state exam through PSI:
@@ -235,6 +237,6 @@ Plan your CE to cover the breadth of your licensed activities.
 
 ## Expand Your Oregon Insurance Career Strategically
 
-Adding lines of authority opens new career possibilities. At JustInsurance, our Oregon prelicense courses cover all major lines of authority, helping you build the comprehensive licensing your career needs.
+Adding lines of authority opens new career possibilities. At JustInsurance, our Oregon prelicense courses cover Life, Health, and combined Life & Health, helping you build the licensing your career needs.
 
 Enroll today and expand your Oregon insurance license strategically.

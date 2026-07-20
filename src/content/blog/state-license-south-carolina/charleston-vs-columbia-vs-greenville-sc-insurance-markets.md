@@ -63,6 +63,8 @@ Established agents: $115,000-$220,000+
 
 Top coastal property and HNW specialists: $250,000-$500,000+
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Columbia Metro: Government and Stability
 
 Population and scope. Columbia metro has approximately 850,000 residents. Includes Columbia, West Columbia, Lexington, Irmo, and surrounding communities. Note that Columbia metro and Charleston metro are similar in population.
@@ -107,6 +109,8 @@ Established agents: $90,000-$170,000+
 
 Top government, healthcare, or insurance industry specialists: $200,000-$350,000+
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Greenville Metro: Manufacturing and Growth
 
 Population and scope. Greenville-Anderson-Mauldin metro has approximately 940,000 residents (largest of the three). Includes Greenville, Spartanburg, Anderson, Mauldin, and surrounding upstate communities.
@@ -149,7 +153,11 @@ Established agents: $95,000-$185,000+
 
 Top manufacturing or corporate executive specialists: $215,000-$400,000+
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Comparing the Three Markets
+
+The income figures above describe commission-based earning potential tied to book-of-business size and metro-level specialization, which is why they run higher than broad, statewide labor-statistics averages for insurance sales agents — both describe real but different things.
 
 ## Choosing Your Market
 

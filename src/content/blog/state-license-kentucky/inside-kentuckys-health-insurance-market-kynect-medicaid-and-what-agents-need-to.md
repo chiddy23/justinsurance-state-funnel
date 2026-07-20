@@ -46,8 +46,6 @@ Agents who assist clients with kynect enrollment must understand plan metal tier
 
 Long-term care insurance is a natural complement to health insurance conversations, particularly for clients approaching retirement age. If you plan to sell LTC products alongside health coverage, Kentucky requires a 4-hour initial LTC training course before your first LTC sale, plus a 1-hour refresher each renewal period.
 
-## Health Insurance Market: State Comparison
-
 ## Frequently Asked Questions
 
 - What is kynect and how does it differ from Healthcare.gov? Kynect is Kentucky's own state-based health insurance marketplace operated at kynect.ky.gov. It functions similarly to Healthcare.gov in connecting Kentuckians with private health insurance plans and federal subsidies, but Kentucky manages it directly rather than relying on the federal platform. This gives Kentucky more control over carrier participation, consumer assistance infrastructure, and enrollment processes.

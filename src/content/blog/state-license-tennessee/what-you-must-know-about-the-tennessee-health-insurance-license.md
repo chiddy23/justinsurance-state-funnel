@@ -1,7 +1,7 @@
 ---
 title: What You Must Know About the Tennessee Health Insurance License
 description: >-
-  Tennessee health insurance license: required prelicensing hours, exam
+  Tennessee health insurance license: exam
   registration, state fees, application steps, and tips from licensed insurance
   agents.
 keyword: tennessee health insurance license
@@ -21,7 +21,7 @@ imageCredit: Photo by cottonbro studio on Pexels
 
 If you’re ready to pursue a fulfilling career as an insurance agent in Tennessee, understanding the [Tennessee health insurance license](/tennessee) process is your first big step. You might be wondering about the requirements, the exams, and how to keep your new license in good standing once you’ve passed. This guide will walk you through each step, so you can concentrate on what matters most—helping clients access the coverage they need for a secure future.
 
-Along the way, you’ll discover key details on [pre-licensing](/tennessee/prelicensing) education, exam preparation, and license maintenance. Think of this as your friendly roadmap. It’s designed to break down the key steps, clear up any confusion, and give you the confidence you need to launch your insurance career in the Volunteer State.
+Along the way, you'll discover key details on exam preparation (including [prelicensing](/tennessee/prelicensing) options, which Tennessee does not require but many candidates still choose) and license maintenance. Think of this as your friendly roadmap. It's designed to break down the key steps, clear up any confusion, and give you the confidence you need to launch your insurance career in the Volunteer State.
 
 ## Understand the Tennessee health insurance license
 
@@ -29,15 +29,15 @@ A Tennessee health insurance license authorizes you to sell or advise on health 
 
 As a licensed health insurance agent, you become a helpful resource for individuals and businesses alike. You’ll clarify plan differences, assist with enrollment, and empower people to make decisions that safeguard their well-being. If you’re driven to make a positive impact, securing this license is a smart way to do it.
 
-## Complete your pre-licensing education
+## Prepare for the exam (no prelicensing course required)
 
-Before you can sign up for the official state exam, Tennessee requires you to complete a set amount of [Tennessee prelicensing education](/tennessee/prelicensing). Courses vary in length, covering topics like state insurance regulations, policy provisions, ethics, and the fundamentals of health coverage. These classes are designed to ensure you fully grasp the responsibilities of an insurance agent before you start working with clients.
+Tennessee eliminated its mandatory prelicensing requirement in March 2023, so you can register for the health insurance exam directly through Pearson VUE without completing any prescribed course first. That said, a voluntary [Tennessee prelicensing course](/tennessee/prelicensing) covering state insurance regulations, policy provisions, ethics, and the fundamentals of health coverage is still worth considering — first-time pass rates reflect the real difficulty of the material, and most candidates who pass on the first attempt completed structured prep even though it was not required.
 
-When searching for a pre-licensing course provider, check that it’s officially approved by the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Whether you prefer in-person learning, live webinars, or online modules, flexibility is usually available. Focus on staying consistent with your study schedule—treat each lesson as a building block toward exam success.
+If you choose a prep course, check that it's officially approved by the [Tennessee Department of Commerce and Insurance](/tennessee/requirements). Whether you prefer in-person learning, live webinars, or online modules, flexibility is usually available. Focus on staying consistent with your study schedule—treat each lesson as a building block toward exam success.
 
 ## Schedule and pass the exam
 
-Once you’ve completed your pre-licensing education, it’s time to register for the state exam. This test is administered at official testing sites around Tennessee. You can typically choose your preferred date, time, and location, which makes planning easier for busy schedules.
+Once you feel prepared — whether through a prep course or self-directed study — it's time to register for the state exam. This test is administered by Pearson VUE at official testing sites around Tennessee, with a remote-proctored option also available. You can typically choose your preferred date, time, and location, which makes planning easier for busy schedules.
 
 While each person’s study style may differ, many learners appreciate a quick prep checklist for guidance:
 
@@ -66,8 +66,8 @@ Neglecting CE requirements could lead to a lapsed license, which disrupts your c
     The exam tests your knowledge of state regulations, ethical practices, health policy basics, and more. Expect multiple-choice questions on key terms, coverage options, and relevant insurance laws.
 2.  Can I combine a health insurance license with other lines?  
     Yes. Many agents also pursue qualifications for life insurance or property and casualty. Combining lines can expand your expertise and offer more value to clients.
-3.  Do I need to retake the pre-licensing course each time I renew?  
-    No. Once you’ve passed your initial requirements, you usually only need to fulfill [continuing education](/tennessee/continuing-education) credits, not retake the entire pre-licensing course.
+3.  Do I need to complete a prelicensing course to renew?  
+    No. Tennessee does not require a prelicensing course for initial licensing or renewal — you only need to fulfill your [continuing education](/tennessee/continuing-education) credits by each renewal deadline.
 4.  Is there support for first-time test takers?  
     Definitely. Many course providers offer additional study resources like practice exams, tutoring, or live Q&A sessions. You can also visit JustInsurance for advice from peers and industry professionals who have gone through the process.
 5.  What happens if I fail the exam?  
@@ -77,4 +77,4 @@ Neglecting CE requirements could lead to a lapsed license, which disrupts your c
 
 Locking down your Tennessee health insurance license is a big win, but it’s also just the start of your insurance journey. As you gain experience, you’ll build confidence helping clients choose the right policies for their unique health needs. Working in this field can be extraordinarily rewarding, especially when you see firsthand the difference reliable coverage makes in someone’s life.
 
-Whether you’re brand-new to the profession or shifting from a different line of insurance, your next chapter begins with taking action. If you haven’t already, explore your pre-licensing course options and schedule your exam. Once you become a licensed health insurance agent, you’ll have a prime opportunity to advise, educate, and protect Tennessee families. Don’t let fear of the process hold you back—get started today and discover just how far a dedicated agent like you can go.
+Whether you're brand-new to the profession or shifting from a different line of insurance, your next chapter begins with taking action. If you haven't already, decide on your exam prep approach — a voluntary course or self-directed study — and schedule your exam. Once you become a licensed health insurance agent, you'll have a prime opportunity to advise, educate, and protect Tennessee families. Don't let fear of the process hold you back—get started today and discover just how far a dedicated agent like you can go.

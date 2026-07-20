@@ -16,7 +16,7 @@ imageAlt: >-
   insurance ce requirements: complete guide.
 ---
 
-Maryland's CE framework is straightforward in overall structure but has several distinctive features. 24 hours every 2 years with 3 mandatory Ethics hours and line-specific content requirements (producers must take courses in the line they hold). No carryover — excess hours are lost (same as MN; stricter than NJ and Virginia which allow some carryover). Prometric is the MIA's CE vendor and platform (same provider as the licensing exam — unique to Maryland among comparison states). The NFIP Flood requirement is 2 hours — lower than NJ, Virginia, and MN which all require 3 hours. And Maryland's LTC tax credit creates a specific advisory context for LTC-selling producers where CE knowledge directly supports client value. Here's the complete CE guide.
+Maryland's CE framework is straightforward in overall structure but has several distinctive features. 24 hours every 2 years with 3 mandatory Ethics hours and line-specific content requirements (producers must take courses in the line they hold). No carryover — excess hours are lost (same as MN; stricter than NJ and Virginia which allow some carryover). Prometric is the MIA's CE vendor (same provider as the licensing exam), but producers verify their CE transcript at Sircon.com — a combination that's distinctive among comparison states. The NFIP Flood requirement is 2 hours — lower than NJ, Virginia, and MN which all require 3 hours. And Maryland's LTC tax credit creates a specific advisory context for LTC-selling producers where CE knowledge directly supports client value. Here's the complete CE guide.
 
 ## The Basic Framework
 
@@ -36,7 +36,7 @@ Duplicate courses: NOT allowed in same renewal period; NOT within 6 months of pr
 
 CE final exams: closed book; non-proctored (self-study)
 
-Prometric as MIA's CE vendor: Maryland's CE platform is managed by Prometric — the same company that administers the licensing exam. CE course registrations, completions, and transcripts are managed through the Prometric system. This is distinctive — most states use Sircon, NIPR, or state-specific platforms for CE; Maryland uses Prometric for both licensing exams and CE.
+Prometric as MIA's CE vendor: Maryland has contracted with Prometric (and Vertafore) to administer its CE program — the same company that administers the licensing exam. Course providers report your completions to Prometric within 10 days of finishing a course. However, you verify your CE transcript and browse course offerings at **Sircon.com**, or by calling Prometric directly at 1-800-324-4592. This split — Prometric as the underlying CE vendor, Sircon.com as the producer-facing transcript portal — is distinctive; most states point producers to a single Sircon or NIPR portal for CE.
 
 ## Line-Specific Content Requirement
 
@@ -66,7 +66,7 @@ All specialty training counts toward the 24-hour CE requirement.
 
 Complete 24 CE hours (3 Ethics + 21 line-relevant content) before renewal
 
-Verify all completions in Prometric CE transcript
+Verify all completions in your CE transcript at Sircon.com (or by calling Prometric at 1-800-324-4592)
 
 Submit renewal through NIPR
 
@@ -86,7 +86,7 @@ Check current MIA exemption list at insurance.maryland.gov
 
 ## 5 Frequently Asked Questions
 
-- What makes Maryland's CE platform distinctive? Maryland uses Prometric as its CE vendor and platform — the same provider that administers the licensing exam. Most states use Sircon, NIPR, or state-specific platforms. In Maryland, CE course registration, completion tracking, and transcript access all go through the Prometric system. This creates a unified Prometric ecosystem for both initial licensing and CE in Maryland.
+- What makes Maryland's CE platform distinctive? Maryland uses Prometric as its CE vendor — the same provider that administers the licensing exam — and course providers report your completions to Prometric. But producers verify their CE transcript and browse course offerings at Sircon.com (or by calling Prometric). Most states point producers to a single Sircon or NIPR portal; Maryland's split between a Prometric-administered backend and a Sircon.com front end for transcripts is the distinctive part.
 - Why is Maryland's NFIP Flood requirement only 2 hours when most states require 3? Maryland MIA established a 2-hour NFIP Flood requirement — lower than NJ, Virginia, and MN which each require 3 hours. The 2-hour requirement still covers the essential NFIP program structure, flood zone mapping, SFIP coverage, waiting periods, and producer obligations — just in a more condensed format.
 - Does Maryland's CE require line-specific content? Yes — producers must take CE courses in the line(s) of authority they hold. A Life producer takes Life CE; a P&C producer takes P&C CE. This differs from NJ and MN where any approved course in any line counts for the non-Ethics requirement. Maryland's line-specific requirement ensures continued competence in the producer's actual licensed line.
 - What is Maryland's LTC tax credit and how does it affect CE planning? Maryland offers a state income tax credit for qualifying LTC insurance premium payments. For producers who sell LTC, CE that covers the MD LTC tax credit rules — which clients qualify, how to document, what the credit amounts are — directly enhances client advisory. This is a specifically Maryland value-add in LTC CE that doesn't exist in comparison states.

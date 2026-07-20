@@ -16,7 +16,7 @@ imageAlt: >-
   insurance laws on the state licensing exam.
 ---
 
-Missouri's state section draws from Missouri Revised Statutes (RSMo) — primarily Chapters 375 and 379 for insurance regulation, Chapter 303 for auto insurance, and Chapter 287 for workers' compensation. The Missouri state section on each Pearson VUE exam is scored separately from the national section at 70%+. For Life/A&H exams, Healthcare.gov (federal marketplace), MO HealthNet (Missouri Medicaid; voter-approved August 2020; implemented summer 2021), and the Annuity Best Interest training (effective August 30, 2024) are highest-priority state topics. For P&C exams, Missouri's pure comparative negligence (any fault; recovery proportional), at-fault auto system (25/50/10 statutory per RSMo § 303.190), required UM (RSMo § 379.203), and the 5-employee workers' comp threshold (1-employee construction exception; NCCI) are the core state law areas.
+Missouri's state section draws from Missouri Revised Statutes (RSMo) — primarily Chapters 375 and 379 for insurance regulation, Chapter 303 for auto insurance, and Chapter 287 for workers' compensation. The Missouri state section on each Pearson VUE exam is scored separately from the national section at 70%+. For Life/A&H exams, Healthcare.gov (federal marketplace) and MO HealthNet (Missouri Medicaid; voter-approved August 2020; implemented summer 2021) are highest-priority state topics. For P&C exams, Missouri's pure comparative negligence (any fault; recovery proportional), at-fault auto system (25/50/10 statutory per RSMo § 303.190), required UM (RSMo § 379.203), and the 5-employee workers' comp threshold (1-employee construction exception; NCCI) are the core state law areas.
 
 ## Missouri's Insurance Legal Framework
 
@@ -72,17 +72,7 @@ Misrepresentation, twisting, churning, rebating, defamation, unfair discriminati
 
 ## Missouri Life Insurance State Laws
 
-Annuity Best Interest (eff. August 30, 2024) — most recent MO rule change:
-
-One-time 4-hour DCI-approved course before selling annuities
-
-Life/Variable Annuity licensees
-
-Prior annuity suitability completions before August 30, 2024: complete 1-hour update
-
-Resident and non-resident agents may complete in any state with substantially similar laws
-
-Counts toward 16-hour CE
+Annuity best-interest training: Missouri does not have this specialty CE requirement on record with the DCI. Confirm current requirements directly with the DCI if you sell annuities.
 
 Free-look period: Missouri law requires life insurance policies to provide a free-look period — verify current days at insurance.mo.gov.
 
@@ -106,7 +96,7 @@ The contested expansion through ballot initiative and litigation is distinctivel
 
 No Missouri individual mandate — no state tax penalty.
 
-Missouri LTC training: Standard initial and ongoing LTC training; residents may complete in any state if DCI-approved.
+Missouri LTC training: Missouri does not have an LTC training requirement on record with the DCI. Confirm current requirements directly with the DCI if you sell LTC products.
 
 ## Missouri P&C Auto Insurance (RSMo Chapter 303)
 

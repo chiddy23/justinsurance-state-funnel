@@ -37,13 +37,13 @@ As you decide which type (or combination of types) to pursue, consider your pers
 
 ### Meet Virginia’s licensing requirements
 
-Before you can apply for any license, you must meet Virginia’s baseline requirements. First, you must be at least 18 years old. You’ll also need to be a resident of Virginia or, if you live elsewhere, meet non-resident eligibility criteria. While you don’t need a college degree, completing specific [pre-licensing](/virginia/prelicensing) courses is a crucial step.
+Before you can apply for any license, you must meet Virginia’s baseline requirements. First, you must be at least 18 years old. You’ll also need to be a resident of Virginia or, if you live elsewhere, meet non-resident eligibility criteria. While you don’t need a college degree, Virginia does not mandate a set number of [pre-licensing](/virginia/prelicensing) course hours for standard lines — that requirement was repealed statewide except for title insurance.
 
-Virginia mandates a set number of course hours for each type of license. These classes cover insurance fundamentals, Virginia’s regulations, and ethical considerations that protect consumers. Many programs offer flexible scheduling, including online learning modules that let you study at your own pace. If you’re looking for a solid start, JustInsurance can help you navigate these [pre-licensing requirements](/virginia/prelicensing) and point you to the best resources for exam prep.
+Even though pre-licensing hours are optional in Virginia, many new agents still choose to complete a course voluntarily. These classes cover insurance fundamentals, Virginia’s regulations, and ethical considerations that protect consumers, which can make a real difference given how heavily the exam leans on state-specific content. Many programs offer flexible scheduling, including online learning modules that let you study at your own pace. If you’re looking for a solid start, JustInsurance can help you navigate these [pre-licensing requirements](/virginia/prelicensing) and point you to the best resources for exam prep.
 
 ### Navigate the pre-licensing exam
 
-Once you’ve fulfilled your course hours, it’s time to schedule the state exam through a recognized testing provider. This exam generally includes multiple-choice questions about insurance principles, specific product knowledge, and state guidelines. You can expect coverage of topics like policy types, exclusions, claim processes, and consumer protection laws.
+Whether or not you take an optional course, once you’re ready it’s time to schedule the state exam through a recognized testing provider. This exam generally includes multiple-choice questions about insurance principles, specific product knowledge, and state guidelines. You can expect coverage of topics like policy types, exclusions, claim processes, and consumer protection laws.
 
 Detailed directions on scheduling your exam are typically available on the testing provider’s website. You’ll likely choose a convenient test location and select from available dates and times. Keep in mind the test environment is typically secure—you might need to store personal items in a locker, provide valid identification, and sit in a monitored room while completing the exam on a computer.
 

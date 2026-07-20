@@ -26,9 +26,9 @@ Take your time to absorb each topic and focus on areas that directly impact cons
 
 ## Meet background check requirements
 
-In your eagerness to finish the [pre-licensing](/colorado/prelicensing) coursework, it can be easy to forget you also need a background check. Most states, including Colorado, conduct fingerprint-based checks to ensure that aspiring insurance professionals meet ethical standards. If you have any potential issues in your past, don’t panic just yet. In many cases, you can submit additional information or letters of explanation, but you do need to follow the correct procedures to the letter.
+In your eagerness to finish the [pre-licensing](/colorado/prelicensing) coursework, it can be easy to forget you also need a background check. Colorado does not require fingerprinting — the background check is handled through self-disclosure on your NIPR license application. If you have any potential issues in your past, don’t panic just yet. In many cases, you can submit additional information or letters of explanation, but you do need to follow the correct procedures to the letter.
 
-Properly scheduling and completing your fingerprints helps avoid delays in getting your license. Check the [Colorado Division of Insurance](/colorado/requirements) website for an authorized vendor, so your results go straight to the state. Plan this step as early as possible, because a hold-up here can set your entire application back, even if you’ve finished your coursework and exam.
+Answering the background questions on your NIPR application accurately and completely helps avoid delays in getting your license. Check the [Colorado Division of Insurance](/colorado/requirements) website for the most current guidance. Plan this step as early as possible, because a hold-up here can set your entire application back, even if you’ve finished your coursework and exam.
 
 ## Avoid rushed study methods
 
@@ -42,7 +42,7 @@ Another common stumbling block is misunderstanding the logistics around your exa
 
 Here are a few details to confirm well in advance:
 
--   Which exam you need: Sometimes you must register for a combined life and health test, or a health-only option.
+-   Which exam you need: Colorado does not offer a combined Life & Health exam, so confirm you are registering for the correct single line — if you plan to hold both Life and Accident & Health, you will need to pass two separate Pearson VUE exams.
 -   Testing location and time: Double-check the address, parking options, and your drive time.
 -   Required documentation: Most testing centers request a valid photo ID and sometimes proof of pre-licensing coursework.
 -   Exam structure: Look up the format (multiple choice, time limits, etc.) to avoid exam-day surprises.

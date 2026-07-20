@@ -69,6 +69,8 @@ Why Nashville is uniquely valuable for benefits producers: Healthcare company em
 
 The healthcare company employee demographics: Healthcare company employees in Nashville span a wide income range — from entry-level administrative staff to physicians and executives earning $400,000 or more. The income diversity means that voluntary benefits, supplemental life and disability, and ancillary products all have markets within the same employer group. A benefits producer who establishes a group health relationship with a 200-employee healthcare company and then adds dental, vision, disability, and supplemental life has built a $50,000–$100,000 annual commission account from a single client relationship.
 
+*Income and commission figures throughout this post are illustrative, based on public labor-market and industry data, and not a guarantee of earnings; individual results vary.*
+
 TennCare's non-expansion implication for benefits: Because Tennessee did not expand Medicaid, the coverage gap between TennCare eligibility and marketplace subsidies creates employer-sponsored insurance as the primary health coverage pathway for Tennessee's working population. Employers who want to attract talent must offer health coverage — they cannot rely on employees to access low-cost Medicaid alternative. This makes Nashville employers more benefits-motivated than employers in Medicaid expansion states where the public coverage alternative is more accessible.
 
 ### Commercial Property and Casualty: Healthcare Facilities

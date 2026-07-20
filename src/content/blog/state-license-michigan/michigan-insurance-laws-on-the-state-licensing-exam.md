@@ -87,7 +87,7 @@ License types: Life, Accident & Health, Property, Casualty, Personal Lines, Vari
 
 Perpetual license: Michigan producer licenses are perpetual as long as CE requirements are met — no fixed expiration date.
 
-CE requirement: 24 hours every 2 years (compliance date = last day of birth month, even/odd year cycle).
+CE requirement: 24 hours every 2 years (compliance date = first day of birth month, even/odd year cycle).
 
 CE failure consequences: License suspended 90 days; after 90 days qualifications terminated; reinstatement within 1 year; after 1 year must reapply.
 

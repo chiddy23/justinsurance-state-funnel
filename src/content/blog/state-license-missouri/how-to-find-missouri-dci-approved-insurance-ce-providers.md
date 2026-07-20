@@ -17,7 +17,7 @@ imageAlt: >-
   missouri dci-approved insurance ce providers.
 ---
 
-Missouri's CE system requires DCI-approved courses from approved providers. Completions are reported to DCI's CE tracking system. With only 16 hours required — the lowest of all comparison states — course selection efficiency matters: specialty training (Annuity Best Interest, LTC, NFIP Flood) plus Ethics can efficiently fill the majority of the 16-hour requirement. Here's how to find and work with DCI-approved Missouri CE providers.
+Missouri's CE system requires DCI-approved courses from approved providers. Completions are reported to DCI's CE tracking system. With only 16 hours required — the lowest of all comparison states — course selection efficiency matters: Ethics plus general/elective CE fills the requirement (confirm with the DCI whether any specialty training applies to your license type). Here's how to find and work with DCI-approved Missouri CE providers.
 
 ## Where to Find Approved Providers
 
@@ -37,9 +37,7 @@ Hours. Confirm exact hours per course.
 
 Reporting. CE providers report completions to DCI's tracking system. Verify completions before renewal.
 
-LTC geographic flexibility: Resident agents may complete LTC training in any state if DCI-approved; non-residents may complete in any state.
-
-Annuity geographic flexibility: Resident and non-resident agents may complete in any state with substantially similar laws.
+Specialty training: Missouri does not have annuity best-interest, LTC, or NFIP flood training requirements on record with the DCI. If you sell these product lines, confirm with the Missouri DCI whether any specialty training applies to your license type.
 
 ## Missouri's 16-Hour CE — Efficient Planning
 
@@ -49,17 +47,11 @@ Full-market producer (Life + A&H + P&C) example:
 
 3-hr Ethics ✓
 
-4-hr Annuity Best Interest (one-time) ✓
-
-LTC initial training (one-time, first renewal) ✓
-
-3-hr NFIP Flood (one-time) ✓
-
-6 general CE hours ✓
+13 general CE hours ✓
 
 Total: 16 hours ✓
 
-After specialty training is completed in earlier cycles, ongoing CE shifts to Ethics + general content to reach 16 hours.
+If specialty training (annuity, LTC, or NFIP flood) applies to your license type, confirm with the Missouri DCI how it counts toward your 16-hour total.
 
 ## The Renewal Submission Process
 
@@ -78,13 +70,13 @@ Renewal deadline: Last day of birth month; 2-year cycle.
 ## 5 Frequently Asked Questions
 
 - How do I find DCI-approved Missouri CE providers? Through insurance.mo.gov → CE section. Multiple national online providers offer DCI-approved Missouri CE — verify current Missouri approval. Contact DCI directly at insurance.mo.gov for current approved provider lists.
-- How does Missouri's Annuity Best Interest geographic flexibility work? Missouri's Annuity Best Interest training (eff. August 30, 2024) allows resident and non-resident agents to complete the required 4-hour course in any state with substantially similar laws. This means a Missouri resident producer can complete the Annuity Best Interest training through a DCI-approved course from any state's approved provider — as long as the state's laws are substantially similar to Missouri's Best Interest standard.
+- Does Missouri require Annuity Best Interest training? Missouri does not have this training requirement on record with the DCI. If you sell annuities, confirm current requirements — including any hour count, effective date, or geographic reciprocity provisions — directly with the Missouri DCI.
 - Do Missouri CE completions automatically appear in DCI records? CE providers are responsible for reporting completions to DCI's tracking system. Most DCI-approved providers report electronically within a few business days. Verify your CE transcript in DCI's system before submitting renewal to ensure all hours are properly recorded.
 - With only 16 hours required, can I complete all CE in one day? Missouri has not publicly adopted an explicit daily CE hour limit (verify current DCI policy at insurance.mo.gov). With only 16 hours required, completing CE in a condensed format over 2 days is feasible for some producers. Complete CE well before the renewal deadline to allow provider reporting and avoid last-minute issues.
 - Is there a carryover provision for excess CE hours in Missouri? Verify current DCI carryover policy at insurance.mo.gov. Some states allow excess CE hours to carry forward; others (like Indiana) do not allow carryover. Missouri's 16-hour total means excess CE is less likely — the low requirement makes it easier to complete exactly the required hours without significant surplus.
 
 ## Complete Your Missouri CE With Confidence
 
-JustInsurance's DCI-approved Missouri CE courses cover Ethics, Annuity Best Interest, LTC, NFIP Flood, and all required content types with DCI reporting.
+JustInsurance's DCI-approved Missouri CE courses cover Ethics and general/elective content types with DCI reporting.
 
 Enroll today and complete your Missouri CE efficiently.

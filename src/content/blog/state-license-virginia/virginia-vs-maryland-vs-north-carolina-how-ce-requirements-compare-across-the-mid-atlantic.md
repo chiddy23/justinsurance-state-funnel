@@ -22,13 +22,13 @@ For producers who are Virginia residents holding non-resident licenses in Maryla
 
 ## Renewal Deadline
 
-Virginia and Maryland both use the odd/even birth year system — producers born in even years renew in even years, those born in odd years in odd years. North Carolina uses a different biennial structure tied to individual license issue dates rather than birth year. All three states use NIPR and Sircon for renewal processing.
+Virginia, Maryland, and North Carolina all use the same birth-month biennial system — your license renews on the last day of your birth month every two years, and all three states use NIPR and Sircon for renewal processing. The only practical difference is that your birth-month renewal date is identical across all three, so a producer holding all three licenses can track a single date rather than three separate ones — though each state processes its own renewal independently.
 
-For a Virginia resident with NC and MD non-resident licenses, your Virginia renewal date is your primary compliance anchor. Non-resident renewal deadlines in Maryland and NC follow those states' systems and may not align with your Virginia deadline — track each state's deadline separately.
+For a Virginia resident with NC and MD non-resident licenses, your Virginia renewal date is your primary compliance anchor — and because all three states key off your birth month, your non-resident deadlines in Maryland and North Carolina should fall on the same date. Still verify each license's exact expiration in NIPR, since processing timing can occasionally shift the effective date by a few days.
 
 ## CE Administration
 
-Virginia and North Carolina both use Pearson VUE for CE program administration, but these are separate state-specific programs — completing a Virginia Pearson VUE CE course does not automatically satisfy North Carolina CE requirements. Course approvals are state-specific. A Virginia-approved course is not necessarily NC-approved and vice versa.
+Virginia's CE program is administered directly by the SCC Bureau of Insurance, with course completions tracked through Sircon. Whatever CE administration North Carolina uses is a separate, state-specific program — completing a Virginia-approved CE course does not automatically satisfy North Carolina CE requirements. Course approvals are state-specific. A Virginia-approved course is not necessarily NC-approved and vice versa.
 
 Maryland administers its own CE program through the Maryland Insurance Administration.
 
@@ -38,7 +38,7 @@ Virginia's 75% cap is a defined rule. Maryland and North Carolina have their own
 
 ## Carryover Credits
 
-Virginia's explicit carryover policy (one cycle forward, must be reported in current biennium) is one of its more producer-friendly features. Complete CE early in your biennium and any excess hours count toward the next cycle. MD and NC carryover rules differ — confirm before assuming.
+Virginia does not allow carryover — excess CE credits completed in one biennium do not count toward the next cycle, so producers must complete the full requirement fresh each renewal period. MD and NC carryover rules differ — confirm each state's current policy with its CE administrator before assuming credits will carry over.
 
 ## Specialty Training Requirements
 
@@ -56,17 +56,15 @@ For a Virginia resident holding non-resident licenses in both Maryland and North
 
 Complete Virginia CE (16 hours single / 24 dual) by your Virginia renewal deadline
 
-Pay Virginia's CE continuance fee by November 30
-
 Renew Virginia license through NIPR or Sircon by your birth-month deadline
 
 Confirm with Maryland and NC CE administrators that Virginia compliance satisfies non-resident requirements for your specific license types
 
 Complete any state-specific specialty training required for the lines and products you sell in each state
 
-Renew MD and NC non-resident licenses through NIPR or Sircon by each state's respective non-resident renewal deadline ($10 for Virginia, $54 for Maryland, $50 for North Carolina per application)
+Renew MD and NC non-resident licenses through NIPR or Sircon by each state's respective non-resident renewal deadline ($10 for Virginia, $54 for Maryland, $82 for North Carolina per application)
 
-The non-resident renewal deadlines in MD and NC are independent of your Virginia deadline — add them to your compliance calendar as separate events.
+Because all three states use the birth-month system, your MD and NC non-resident renewal deadlines should track your Virginia deadline — but confirm the exact dates in NIPR each cycle rather than assuming they will always match exactly.
 
 ## Frequently Asked Questions
 
@@ -80,11 +78,11 @@ CE courses are approved on a state-by-state basis. A Virginia-approved CE course
 
 How do North Carolina's renewal deadlines work, and how do I track them alongside my Virginia deadline?
 
-North Carolina producer licenses renew on a biennial cycle based on the license issue date rather than birth year. This means a Virginia resident's North Carolina non-resident license may expire on a date that has no relationship to their Virginia birth-month deadline. The most effective approach is to look up your NC non-resident license expiration date in your NIPR account and add it as a separate calendar event alongside your Virginia deadline. Both NIPR and Sircon show all active licenses and their expiration dates in your account dashboard. Non-resident renewals in NC are processed through NIPR or Sircon with a $50 NC renewal fee — straightforward once you know the deadline.
+North Carolina producer licenses renew on the same birth-month biennial cycle Virginia and Maryland use — the last day of your birth month, every two years. This means a Virginia resident's North Carolina non-resident license renews on the same calendar date as their Virginia resident license, which simplifies tracking compared to a state running an unrelated issue-date cycle. It is still worth confirming the exact expiration date in your NIPR account, since processing timing can shift the effective date slightly. Both NIPR and Sircon show all active licenses and their expiration dates in your account dashboard. Non-resident renewals in NC are processed through NIPR or Sircon with an $82 NC renewal fee — straightforward once you know the deadline.
 
-Does Virginia's carryover credit rule help me if I'm trying to maintain CE compliance across multiple states?
+Does Virginia allow CE credits to carry over, and does that help me maintain compliance across multiple states?
 
-Virginia's carryover provision helps Virginia-licensed producers who complete more than their required hours in a given biennium — those excess hours roll forward to the next Virginia cycle automatically. For multi-state compliance purposes, this primarily simplifies Virginia CE planning rather than directly benefiting MD or NC non-resident compliance (since non-resident CE is satisfied by Virginia compliance, not by credit transfer to those states). The practical benefit for multi-state producers is that completing CE earlier in the Virginia biennium — and carrying forward any excess — provides a buffer if scheduling becomes complicated in future cycles.
+No — Virginia does not allow carryover. Excess CE hours completed in one biennium do not roll forward to the next cycle; every Virginia producer must complete the full 16 or 24 hours fresh each renewal period, regardless of how many extra hours they banked previously. For multi-state compliance purposes, this means there is no carryover cushion to rely on in Virginia, so the practical strategy is to complete your full requirement comfortably before your renewal deadline each cycle rather than assuming any excess hours will help you later. Since non-resident CE in Maryland and North Carolina is satisfied by Virginia compliance rather than by transferring individual credits, staying current on your Virginia requirement each biennium is what keeps your non-resident authority in both states in good standing.
 
 Are there any CE topic areas that Virginia uniquely tests or requires compared to Maryland and North Carolina?
 

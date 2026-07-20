@@ -26,22 +26,22 @@ Before you dive into coursework or schedule your exam, it’s important to confi
 
 In addition, you’ll want to familiarize yourself with the specific lines of insurance you plan to sell. Different license types (such as Life, Health, Property, or Casualty) require separate study and exams. Starting with a clear sense of the license you need will save you time and keep you focused on the right curriculum from the very start.
 
-## Complete the pre-licensing education
+## Consider optional pre-licensing education
 
-Once you’ve confirmed your eligibility, your next step is completing a state-approved [Virginia prelicensing course](/virginia/prelicensing). These courses are designed to help you build a strong foundation in insurance terminology and regulations, as well as ethical standards and best practices in Virginia. Whether you prefer in-person classes or online study, you’ll want to dedicate enough time to thoroughly learn the material, since it factors heavily into your exam performance.
+Virginia does not require prelicensing hours for standard lines — that mandate was repealed statewide, and only title insurance still carries a separate education requirement. Even so, once you’ve confirmed your eligibility, many candidates choose to voluntarily complete a state-approved [Virginia prelicensing course](/virginia/prelicensing). These courses are designed to help you build a strong foundation in insurance terminology and regulations, as well as ethical standards and best practices in Virginia. Whether you prefer in-person classes or online study, you’ll want to dedicate enough time to thoroughly learn the material if you choose to take a course, since it factors heavily into your exam performance.
 
-Below are some common lines of authority and their required study hours:
+Common lines of authority in Virginia include:
 
 -   Life and Annuities
 -   Health
 -   Property
 -   Casualty
 
-Each line typically requires a set number of hours determined by the state, so be sure to check the official guidelines for the most up-to-date details. Many course providers bundle multiple lines of authority together, which can be a great option if you plan to expand your areas of expertise.
+No line has a state-mandated hour requirement, so any course length you see quoted is the provider's own recommended curriculum, not a state rule — check the official guidelines for the most up-to-date details. Many course providers bundle multiple lines of authority together, which can be a great option if you plan to expand your areas of expertise.
 
 ## Book and pass your exam
 
-After completing your [pre-licensing](/virginia/prelicensing) hours, you’ll need to schedule your state insurance exam. It’s best to book your exam date soon after finishing the coursework, while the information is still fresh in your mind. Most exam centers offer multiple test dates each week, and some may even provide the option to take your exam online.
+Whether or not you took an optional [pre-licensing](/virginia/prelicensing) course, once you feel ready you’ll need to schedule your state insurance exam. If you did complete a course, it’s best to book your exam date soon after finishing it, while the information is still fresh in your mind. Most exam centers offer multiple test dates each week, and some may even provide the option to take your exam online.
 
 Be prepared to pay an exam fee at the time of registration. On test day, arrive early with a valid photo ID. You’ll be allotted a set amount of time to complete the multiple-choice questions—so pace yourself, read each question carefully, and answer systematically. If you don’t pass on your first try, don’t be discouraged. You can typically retake the exam after paying the fee again and reviewing the material once more.
 

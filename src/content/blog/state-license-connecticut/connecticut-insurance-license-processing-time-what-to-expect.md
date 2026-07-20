@@ -140,7 +140,7 @@ Documentation problems. Missing or insufficient documentation triggers requests 
 
 Name mismatches. Discrepancies between application name and ID cause delays.
 
-Background check complications. State and federal background check issues can extend processing.
+Disclosure follow-up. Connecticut relies on self-disclosure rather than a separate state/federal criminal-history check, but flagged disclosures (criminal history, regulatory actions, bankruptcies) can still extend processing while the CID reviews supporting documentation.
 
 Carrier appointment delays. Building new carrier relationships from scratch takes time.
 
@@ -180,7 +180,7 @@ Failed exam. Each retake adds 1-2+ weeks. Multiple failures can add months.
 
 Disclosure complications. Yes answers to disclosure questions can extend processing 2-8 weeks depending on complexity.
 
-Background check issues. Problems with state or federal background checks can extend processing significantly.
+Disclosure documentation issues. Since Connecticut relies on self-disclosure rather than a separate background check, incomplete or unclear supporting documentation for a flagged disclosure can extend processing significantly.
 
 Documentation gaps. Missing documentation requires resubmission, adding time.
 
@@ -237,7 +237,7 @@ Website: portal.ct.gov/cid
 - How long does it typically take to get a Connecticut insurance license? 2-4 weeks for most candidates. The total includes prelicense education (1-2 weeks), state exam (1-2 weeks), and application processing (7-10 business days).
 - How long does Connecticut take to process license applications? 7-10 business days for clean applications. Applications with disclosures take longer.
 - Can I speed up the Connecticut licensing process? Yes — by completing prelicense quickly, scheduling the state exam promptly after prelicense, and ensuring your application is complete and accurate.
-- What slows down Connecticut licensing? Failed exam attempts, disclosure complications, documentation problems, name mismatches, and background check issues all extend the timeline.
+- What slows down Connecticut licensing? Failed exam attempts, disclosure complications, documentation problems, and name mismatches all extend the timeline. Connecticut screens applicants through self-disclosure rather than a separate background check, so incomplete disclosure documentation is a common culprit.
 - Can I work in insurance while my application is being processed? No. You cannot conduct insurance business until your license is officially issued and active. Use the waiting time to prepare for your insurance career.
 
 ## Plan Your Connecticut Licensing Realistically

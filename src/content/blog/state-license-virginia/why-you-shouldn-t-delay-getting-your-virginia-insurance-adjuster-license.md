@@ -25,12 +25,12 @@ Your adjuster license is more than a piece of paper. It represents specialized k
 
 ## Know the state requirements
 
-Before diving into your study materials, it’s important to understand Virginia’s licensing criteria. The State Corporation Commission (SCC) oversees the licensing process. As long as you meet the age requirement of 18 or older, you’re halfway to qualifying. You will also need to take an approved [Virginia prelicensing course](/virginia/prelicensing) covering essential insurance principles, ethics, and regulations specific to Virginia. Once you’ve finished these prerequisites, you become eligible to schedule the official exam. This helps ensure you’re well prepared for the unique challenges of working as an adjuster.
+Before diving into your study materials, it’s important to understand Virginia’s licensing criteria. The State Corporation Commission (SCC) oversees the licensing process. As long as you meet the age requirement of 18 or older, you’re halfway to qualifying. Virginia does not require a [prelicensing course](/virginia/prelicensing) as a prerequisite to scheduling the exam — that mandate was repealed for standard lines — though many candidates still take an optional course covering essential insurance principles, ethics, and regulations specific to Virginia to feel well prepared for the unique challenges of working as an adjuster.
 
 To help you visualize the process, here are the key requirements at a glance:
 
 -   Must be at least 18 years old
--   Complete an approved [pre-licensing](/virginia/prelicensing) course
+-   Optionally complete a [pre-licensing](/virginia/prelicensing) course (not state-required)
 -   Pass a background check (if required)
 -   Submit the license application to the SCC
 -   Pass the state exam with a minimum score
@@ -43,7 +43,7 @@ Once you understand the requirements, it’s time to structure your learning. Ma
 
 Timely organization is everything. Most folks need a few weeks of focused study to feel confident about the licensing exam. The fees associated with becoming licensed may vary based on your chosen course, application costs, and exam fees. However, it helps to think of these expenses as investments in your future earning potential. By plotting out your schedule from the start, you’ll avoid a last-minute scramble and reduce the chance of paying for additional retakes. Procrastination can be expensive in terms of time, money, and missed opportunities.
 
-For example, some pre-licensing courses cost anywhere from $100 to $300, while the state exam might cost around $50. Expect to pay a license application fee too, which could be about $15 or slightly higher. These amounts add up, but the long-term benefits often far outweigh the initial outlay. If you secure a position with an insurer or successfully grow your client base, you’ll soon see a return on the effort and money you invest now.
+For example, some optional pre-licensing courses cost anywhere from $100 to $300, while the state exam fee is $35. Expect to pay a license application fee too, which could be about $15 or slightly higher. These amounts add up, but the long-term benefits often far outweigh the initial outlay. If you secure a position with an insurer or successfully grow your client base, you’ll soon see a return on the effort and money you invest now.
 
 ## Take the exam with confidence
 

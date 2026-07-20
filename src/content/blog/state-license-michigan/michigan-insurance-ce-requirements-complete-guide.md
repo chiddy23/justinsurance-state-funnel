@@ -242,7 +242,7 @@ All specialty training counts toward the 24-hour CE requirement in the period co
 
 ## DIFS CE Contact Information
 
-Phone: (877) 999-6442
+Phone: (517) 284-8800
 
 Email: DIFS-Licensing@michigan.gov
 

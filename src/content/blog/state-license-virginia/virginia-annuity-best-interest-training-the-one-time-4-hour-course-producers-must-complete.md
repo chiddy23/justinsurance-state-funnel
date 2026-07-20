@@ -50,11 +50,11 @@ The 4-hour annuity best interest training counts as CE credit toward your bienni
 
 If you are unsure whether your prior annuity training satisfied Virginia's current best interest standard, check two things:
 
-1. When did you complete the training? Virginia adopted the NAIC 2020 Annuity Model Regulation effective April 1, 2017 (Virginia's initial annuity suitability training requirement) with subsequent updates. The specific transition to best interest standard language matters — confirm with Pearson VUE at 877-234-6093 or VirginiaInsuranceCE@pearson.com whether your prior course satisfies the current requirement.
+1. When did you complete the training? Virginia's annuity training requirement has been updated over time to align with the NAIC's best interest standard. The specific transition to best interest standard language matters — check your Sircon CE transcript and confirm with the Bureau of Insurance whether your prior course satisfies the current requirement.
 
 2. Was the training completed in a state that has adopted the NAIC 2020 Annuity Model Law? If you trained in a qualifying state, your training transfers. If you trained in a state that has not adopted the model, Virginia's requirement has not been satisfied.
 
-Your CE transcript on Sircon shows all courses credited to your Virginia CE record — check whether an annuity best interest or annuity suitability course appears there. If the training is not in your transcript, contact Pearson VUE to confirm current compliance status before your next annuity transaction.
+Your CE transcript on Sircon shows all courses credited to your Virginia CE record — check whether an annuity best interest or annuity suitability course appears there. If the training is not in your transcript, contact the Bureau of Insurance to confirm current compliance status before your next annuity transaction.
 
 ## Frequently Asked Questions
 
@@ -64,7 +64,7 @@ The requirement applies to all annuity products sold, solicited, or negotiated i
 
 If I completed a 4-hour annuity suitability course years ago in Virginia, does that satisfy the current best interest requirement?
 
-It depends on when the course was taken and whether it was approved under Virginia's current annuity regulatory framework. Virginia's annuity training requirement has been updated over time to align with the NAIC 2020 best interest standard. A course taken before the current standard was adopted may have satisfied an earlier suitability requirement but may not satisfy the current best interest requirement. Check your Sircon CE transcript to see what course was recorded, then contact Pearson VUE at VirginiaInsuranceCE@pearson.com to confirm whether that specific course credit satisfies Virginia's current annuity training requirement. Do not assume prior compliance without confirming.
+It depends on when the course was taken and whether it was approved under Virginia's current annuity regulatory framework. Virginia's annuity training requirement has been updated over time to align with the NAIC 2020 best interest standard. A course taken before the current standard was adopted may have satisfied an earlier suitability requirement but may not satisfy the current best interest requirement. Check your Sircon CE transcript to see what course was recorded, then contact the Bureau of Insurance to confirm whether that specific course credit satisfies Virginia's current annuity training requirement. Do not assume prior compliance without confirming.
 
 Do variable annuity products require the same 4-hour training as fixed and indexed annuities?
 

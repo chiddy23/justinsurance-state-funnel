@@ -28,19 +28,19 @@ This dual-agency structure — DLI for claims and employer compliance; DOC for c
 
 ## The Competitive Market Structure
 
-Minnesota operates a competitive market system. Unlike the four monopolistic states — North Dakota, Ohio, Washington, and Wyoming — where employers must buy coverage from a state-run fund, Minnesota gives employers choices. Indeed
+Minnesota operates a competitive market system. Unlike the four monopolistic states — North Dakota, Ohio, Washington, and Wyoming — where employers must buy coverage from a state-run fund, Minnesota gives employers choices.
 
 In Minnesota's competitive market, private insurance carriers set their own rates (within the framework of filings approved by the Department of Commerce), compete for employer accounts, and manage claims through their own claims operations. Employers can shop multiple carriers, compare pricing and service, and select the carrier that best serves their needs.
 
 The Minnesota Workers' Compensation Insurers Association (MWCIA): The MWCIA serves as the rating bureau for workers' compensation in Minnesota — analogous to NCCI in many other states. The MWCIA collects loss data from member carriers, develops the loss costs that serve as the basis for workers' compensation rates, and manages the classification system and experience rating plan used in Minnesota.
 
-The assigned risk plan: The Minnesota Workers' Compensation Assigned Risk Plan is the source of workers' compensation and employers' liability coverage for Minnesota employers who have been unable to secure coverage through the voluntary market. Administered by the MWCIA, the assigned risk plan is not a monopolistic state fund — it is a market of last resort for employers whose loss history, classification, or other characteristics make them unacceptable to voluntary market carriers. Assigned risk placements typically carry higher premiums than voluntary market coverage, reflecting the elevated risk profile of the employers who cannot obtain coverage elsewhere. AM Best
+The assigned risk plan: The Minnesota Workers' Compensation Assigned Risk Plan is the source of workers' compensation and employers' liability coverage for Minnesota employers who have been unable to secure coverage through the voluntary market. Administered by the MWCIA, the assigned risk plan is not a monopolistic state fund — it is a market of last resort for employers whose loss history, classification, or other characteristics make them unacceptable to voluntary market carriers. Assigned risk placements typically carry higher premiums than voluntary market coverage, reflecting the elevated risk profile of the employers who cannot obtain coverage elsewhere.
 
 Self-insurance: Large employers with sufficient financial resources may apply to the Department of Labor and Industry for approval to self-insure their workers' compensation obligations. Self-insured employers pay workers' compensation benefits directly rather than through an insurer and must demonstrate financial capacity to meet their obligations. Self-insurance approval requires DLI review and ongoing financial reporting.
 
 ## The Employer Coverage Requirement
 
-Threshold: One employee. Minnesota requires workers' compensation coverage from the moment an employer has any employee — full-time, part-time, seasonal, temporary, or family member employed by the business. There is no minimum hours threshold and no minimum wage threshold. Minnesota requires workers' compensation coverage from the first employee — there's no minimum threshold to meet. Indeed
+Threshold: One employee. Minnesota requires workers' compensation coverage from the moment an employer has any employee — full-time, part-time, seasonal, temporary, or family member employed by the business. There is no minimum hours threshold and no minimum wage threshold. Minnesota requires workers' compensation coverage from the first employee — there's no minimum threshold to meet.
 
 Who is an employee for workers' comp purposes: The general rule covers any person performing services for remuneration under the direction and control of the employer. The definition is broad by design — the system's goal is maximum coverage of Minnesota workers. Independent contractors are not employees and are generally not covered, but Minnesota applies a fact-specific test to determine true independent contractor status. Misclassification of employees as independent contractors is one of the most aggressively enforced compliance failures in the workers' compensation system.
 
@@ -76,9 +76,9 @@ Minnesota workers' compensation provides comprehensive benefits to injured emplo
 
 Medical benefits: Unlimited medical treatment for work-related injuries and occupational diseases, as long as treatment is reasonably necessary and causally related to the compensable condition. There is no medical benefit cap in Minnesota workers' compensation. A catastrophic injury requiring lifetime medical care — severe spinal cord injury, traumatic brain injury — generates unlimited medical benefit obligations for the employer and insurer.
 
-Temporary total disability (TTD): When an employee is unable to work at all during recovery, TTD pays two-thirds of the employee's average weekly wage. The maximum weekly benefit is $1,536.84. The minimum weekly benefit is set by statute. TTD continues until the employee returns to work, reaches maximum medical improvement, or exhausts the maximum TTD benefit period. Inszone Insurance
+Temporary total disability (TTD): When an employee is unable to work at all during recovery, TTD pays two-thirds of the employee's average weekly wage. The maximum weekly benefit is $1,536.84. The minimum weekly benefit is set by statute. TTD continues until the employee returns to work, reaches maximum medical improvement, or exhausts the maximum TTD benefit period.
 
-Three-day waiting period: Benefits have a 3-day waiting period. Wage-loss benefits won't be paid until employees have missed three calendar days of work. However, if disability continues for ten calendar days, they will be paid for the entire absence time. This means a temporary injury lasting 5 days generates TTD for days 4 and 5 only. An injury lasting 10 or more days generates TTD for all days including the first three. Metro Denver
+Three-day waiting period: Benefits have a 3-day waiting period. Wage-loss benefits won't be paid until employees have missed three calendar days of work. However, if disability continues for ten calendar days, they will be paid for the entire absence time. This means a temporary injury lasting 5 days generates TTD for days 4 and 5 only. An injury lasting 10 or more days generates TTD for all days including the first three.
 
 Temporary partial disability (TPD): When an employee returns to work but cannot earn their full pre-injury wage — working in a reduced capacity or light-duty role — TPD pays a portion of the wage difference.
 
@@ -86,9 +86,9 @@ Permanent partial disability (PPD): Compensates for permanent impairment that do
 
 Permanent total disability (PTD): When an employee cannot perform any gainful employment permanently, PTD pays two-thirds of the average weekly wage for life — subject to the maximum weekly benefit.
 
-Vocational rehabilitation: Retraining, education, and job placement assistance for employees who cannot return to their previous job. Inszone Insurance
+Vocational rehabilitation: Retraining, education, and job placement assistance for employees who cannot return to their previous job.
 
-Death benefits: Wage replacement payments to surviving dependents — spouse, children — if an employee dies from a work-related injury or illness. Funeral expenses are also covered up to a statutory maximum. Inszone Insurance
+Death benefits: Wage replacement payments to surviving dependents — spouse, children — if an employee dies from a work-related injury or illness. Funeral expenses are also covered up to a statutory maximum.
 
 ## The Exclusive Remedy Doctrine
 
@@ -102,11 +102,11 @@ Third-party liability: The exclusive remedy protects the employer — not third 
 
 Minnesota's penalties for employer non-compliance with the workers' compensation coverage requirement are among the most significant in the country for a competitive market state:
 
-Civil penalty: Penalties for operating without coverage can reach $1,000 per employee per week. This is a per-employee, per-week penalty — an employer with five employees who operates without coverage for eight weeks faces a potential civil penalty exposure of $40,000 ($1,000 × 5 × 8). DLI has authority to assess these penalties and may negotiate settlements, but the statutory maximum is substantial and reflects legislative intent to make non-compliance financially painful. Indeed
+Civil penalty: Penalties for operating without coverage can reach $1,000 per employee per week. This is a per-employee, per-week penalty — an employer with five employees who operates without coverage for eight weeks faces a potential civil penalty exposure of $40,000 ($1,000 × 5 × 8). DLI has authority to assess these penalties and may negotiate settlements, but the statutory maximum is substantial and reflects legislative intent to make non-compliance financially painful.
 
-Criminal penalty: Gross misdemeanor. Fine up to $10,000 and/or 1 year imprisonment. Willful failure to obtain and maintain workers' compensation coverage is a criminal offense in Minnesota. Inszone Insurance
+Criminal penalty: Gross misdemeanor. Fine up to $10,000 and/or 1 year imprisonment. Willful failure to obtain and maintain workers' compensation coverage is a criminal offense in Minnesota.
 
-The Special Compensation Fund and the 65% surcharge: When an employee is injured during a period when the employer has no workers' compensation coverage, the Special Compensation Fund steps in to pay the employee's statutory benefits. If an employee gets injured while you're uninsured, Minnesota's Special Compensation Fund will step in to pay their benefits. That's the good news for the worker. The bad news for you? You'll be ordered to reimburse every dollar the fund pays out, plus an additional 65% penalty on top of those benefits. Indeed
+The Special Compensation Fund and the 65% surcharge: When an employee is injured during a period when the employer has no workers' compensation coverage, the Special Compensation Fund steps in to pay the employee's statutory benefits. If an employee gets injured while you're uninsured, Minnesota's Special Compensation Fund will step in to pay their benefits. That's the good news for the worker. The bad news for you? You'll be ordered to reimburse every dollar the fund pays out, plus an additional 65% penalty on top of those benefits.
 
 The 65% surcharge transforms an already costly uninsured period into an existential financial threat for small employers. A single worker's injury generating $100,000 in workers' compensation benefits creates a $165,000 direct obligation for the uninsured employer — $100,000 in benefit reimbursement plus $65,000 in penalty. This cost structure makes even expensive workers' compensation coverage dramatically less costly than operating without it.
 
@@ -114,13 +114,13 @@ The 65% surcharge transforms an already costly uninsured period into an existent
 
 Workers' compensation premiums are calculated using three primary variables:
 
-Classification codes: Every employee's job function is assigned a classification code reflecting the loss experience of workers performing that type of work. Actual costs depend on your industry — office workers approximately $0.20 per $100 of payroll versus construction approximately $10 or more per $100 of payroll. The spread between the lowest and highest classification codes in Minnesota is enormous — a clerical worker's classification carries a fraction of the rate of a roofer or ironworker. Correct classification is critical — misclassification discovered at audit generates significant premium adjustments. Inszone Insurance
+Classification codes: Every employee's job function is assigned a classification code reflecting the loss experience of workers performing that type of work. Actual costs depend on your industry — office workers approximately $0.20 per $100 of payroll versus construction approximately $10 or more per $100 of payroll. The spread between the lowest and highest classification codes in Minnesota is enormous — a clerical worker's classification carries a fraction of the rate of a roofer or ironworker. Correct classification is critical — misclassification discovered at audit generates significant premium adjustments.
 
 Payroll: Premium is calculated as a rate per $100 of payroll. An employer with $1 million in payroll at a rate of $2.00 per $100 pays a manual premium of $20,000 before experience modification. Workers' compensation policies are written on estimated payroll and adjusted through an annual audit comparing actual payroll to the estimate.
 
 Experience modification factor (EMR): The EMR compares the employer's specific claims history to other employers in the same classification. An EMR of 1.0 is average. An EMR below 1.0 reflects better-than-average claims experience — a premium credit. An EMR above 1.0 reflects worse-than-average experience — a premium surcharge. The MWCIA calculates EMRs for qualifying Minnesota employers using three years of loss and payroll data.
 
-The Minnesota Contractors Premium Adjustment Program (MCPAP): This construction-specific program rewards contractors paying higher wages with premium credits of 5% to 25% based on average hourly wages. MCPAP creates a financial incentive for construction employers to pay above-average wages — higher wages produce both premium credits and typically better-qualified, safer workforces. ShunIns
+The Minnesota Contractors Premium Adjustment Program (MCPAP): This construction-specific program rewards contractors paying higher wages with premium credits of 5% to 25% based on average hourly wages. MCPAP creates a financial incentive for construction employers to pay above-average wages — higher wages produce both premium credits and typically better-qualified, safer workforces.
 
 ## What Producers Need to Know for Client Conversations
 
@@ -134,7 +134,7 @@ The EMR impact conversation: Producers who help clients understand that every cl
 
 What is the difference between Minnesota's competitive workers' compensation market and a monopolistic state fund?
 
-In the four monopolistic states — North Dakota, Ohio, Washington, and Wyoming — employers must buy workers' compensation coverage from a state-run fund. Private carriers cannot compete; every employer must purchase from the state fund. Minnesota's competitive market allows employers to purchase coverage from any licensed private carrier or, if the voluntary market will not accept them, through the Minnesota Workers' Compensation Assigned Risk Plan. Minnesota has no monopolistic state fund — producers can place workers' compensation coverage with multiple private carriers and must shop the market to find the best combination of price and service for their clients. Indeed
+In the four monopolistic states — North Dakota, Ohio, Washington, and Wyoming — employers must buy workers' compensation coverage from a state-run fund. Private carriers cannot compete; every employer must purchase from the state fund. Minnesota's competitive market allows employers to purchase coverage from any licensed private carrier or, if the voluntary market will not accept them, through the Minnesota Workers' Compensation Assigned Risk Plan. Minnesota has no monopolistic state fund — producers can place workers' compensation coverage with multiple private carriers and must shop the market to find the best combination of price and service for their clients.
 
 A client's sole proprietor business is growing and they want to hire their first employee. When exactly does the workers' compensation obligation begin?
 

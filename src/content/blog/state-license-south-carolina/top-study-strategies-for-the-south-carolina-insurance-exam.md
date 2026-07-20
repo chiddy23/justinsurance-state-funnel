@@ -231,7 +231,7 @@ Stop studying new material 2-3 days before the exam. Review and reinforcement ar
 
 ## 5 Frequently Asked Questions
 
-- How many hours should I study for the South Carolina insurance exam? Most successful candidates put in 40 to 60 hours of total study time. This aligns closely with the required 40-hour prelicense course plus additional practice and review time.
+- How many hours should I study for the South Carolina insurance exam? Most successful candidates put in 40 to 60 hours of total study time. South Carolina does not require prelicensing, but this aligns closely with the optional 40-hour combined prelicense course plus additional practice and review time.
 - Is it better to study a little every day or do longer sessions on weekends? Daily consistency beats weekend cramming significantly. Even 60 minutes a day five days a week leads to better retention than five hours on Saturday.
 - Should I study Life and Health separately or together? Study them separately during initial content learning, but mix them in your practice exams. The combined exam won't separate them for you.
 - How do I know when I'm ready to sit for the exam? When you're consistently scoring 80% or higher on full practice exams, you're ready. Don't aim for 70% in practice — build a buffer.

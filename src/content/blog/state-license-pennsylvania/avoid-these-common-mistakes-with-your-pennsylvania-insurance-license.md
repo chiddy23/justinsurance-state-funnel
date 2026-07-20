@@ -20,13 +20,13 @@ Navigating the process of earning your [Pennsylvania insurance producer](/pennsy
 
 ## Understand Pennsylvania licensing requirements
 
-Before you dive into any coursework or exams, take a moment to familiarize yourself with the state’s licensing guidelines. Pennsylvania requires you to be at least 18 years old and maintain a clean criminal record. Once you meet those basic requirements, you must register for the relevant [pre-licensing](/pennsylvania/prelicensing) courses in the specific lines of authority you intend to sell, such as Life, Accident, or Property and Casualty.
+Before you dive into any coursework or exams, take a moment to familiarize yourself with the state’s licensing guidelines. Pennsylvania requires you to be at least 18 years old and maintain a clean criminal record. Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so once you meet those basic requirements you can go straight to the exam — but most candidates still register for [pre-licensing](/pennsylvania/prelicensing) courses in the specific lines of authority they intend to sell, such as Life, Accident, or Property and Casualty, to prepare for the exam content.
 
 It’s easy to overlook the fact that each line of authority has its own set of course hours. If you’re adding multiple lines, your total hours could balloon quickly. Avoid the mistake of underestimating the time required by planning your study schedule early. Give yourself enough buffer in case life’s unexpected demands draw you away from the books.
 
-## Complete your pre-licensing courses
+## Complete your pre-licensing courses (optional but recommended)
 
-Finishing the mandatory coursework is often the most time-consuming phase. [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) courses range from about 20 hours for each line of authority all the way up to 40 hours or more, depending on provider requirements. Many people accidentally shortchange themselves by selecting the cheapest or fastest course without verifying whether it meets Pennsylvania’s licensing standards.
+Even though it’s no longer legally required, finishing a prep course is often the most time-consuming phase for candidates who choose to take one. [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) courses range from about 20 hours for each line of authority all the way up to 40 hours or more, depending on provider. Many people accidentally shortchange themselves by selecting the cheapest or fastest course without verifying whether it actually covers Pennsylvania’s exam content well.
 
 A better approach is to compare programs carefully. Look for:
 
@@ -38,7 +38,7 @@ Some individuals try to multitask while completing these courses, which can lead
 
 ## Avoid confusion with application details
 
-After you’ve nailed down the required coursework, you’ll need to submit an official application to the [Pennsylvania Insurance Department](/pennsylvania/requirements). This is where small data-entry mistakes can have outsized consequences. A misspelled name, an incorrect Social Security number, or a skipped fee payment can delay the entire process.
+After you’ve finished your exam prep (and any prelicense coursework you chose to take), you’ll need to submit an official application to the [Pennsylvania Insurance Department](/pennsylvania/requirements). This is where small data-entry mistakes can have outsized consequences. A misspelled name, an incorrect Social Security number, or a skipped fee payment can delay the entire process.
 
 Many first-time applicants rush this step, only to find their application returned or held up in bureaucratic limbo. Take a moment to confirm your personal information matches exactly across your exam registration, application, and identification documents.
 

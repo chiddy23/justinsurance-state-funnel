@@ -229,13 +229,13 @@ For most candidates, formal prelicense is more efficient than self-study.
 
 Once you're prepared:
 
-Schedule your state exam through Prometric.
+Schedule your state exam. Massachusetts is transitioning exam vendors: Prometric administered the exam through July 16, 2026, and Pearson VUE becomes the official vendor starting July 22, 2026.
 
-Visit prometric.com/massachusetts/insurance
+Visit pearsonvue.com/us/en/ma/insurance.html
 
-Pay $39 exam fee
+Pay $39 exam fee (confirm the current fee in the Pearson VUE candidate handbook before scheduling)
 
-Schedule at testing site or for ProProctor remote testing
+Schedule at an in-person Pearson VUE testing center — remote/online-proctored testing is being phased out with the vendor switch
 
 Pass the state exam.
 

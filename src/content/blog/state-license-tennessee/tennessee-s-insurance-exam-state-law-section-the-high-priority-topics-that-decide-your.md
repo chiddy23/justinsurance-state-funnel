@@ -68,7 +68,7 @@ TDCI contact information — occasionally tested in recognition questions:
 
 Address: 500 James Robertson Parkway, Nashville, TN 37243-1134
 
-Phone: (615) 741-2693 / (888) 416-0868
+Phone: (615) 741-2241
 
 Email: ce.agent.licensing@tn.gov
 
@@ -110,7 +110,7 @@ Pass score: 70% on scored questions
 
 Score reporting: Immediate — results displayed before leaving the testing environment
 
-Retakes: Unlimited attempts; no mandatory waiting period between attempts; full exam fee required for each retake
+Retakes: Unlimited attempts (no hard cap), but a mandatory 10-day waiting period after your first failure and a 30-day waiting period after each subsequent failure; full exam fee required for each retake
 
 ### Fingerprinting and Background Check
 
@@ -122,7 +122,7 @@ ORI number: TN920680Z (Transaction Type: IP) — occasionally tested in recognit
 
 Background check scope: Tennessee Bureau of Investigation (TBI) and FBI federal records
 
-Fingerprint Policy and Acknowledgement Form: Must be read, signed, and submitted to the TDCI by email (ce.agent.licensing@tn.gov) or fax (615-532-2862)
+Fingerprint Policy and Acknowledgement Form: Must be read, signed, and submitted to the TDCI by email (ce.agent.licensing@tn.gov) — confirm the current submission method on the TDCI's agent-producer resources page
 
 Timing: Fingerprinting must be completed at least 2 business days before submitting the NIPR application. This 2-business-day minimum is testable — candidates who complete fingerprinting on the same day they submit their application have violated the timing requirement.
 
@@ -146,15 +146,15 @@ License term: Biennial — every two years
 
 Renewal deadline: Last day of the producer's birth month in the renewal year. A producer born in July renews by July 31 of the renewal year.
 
-Renewal fee: $60
+Renewal fee: not publicly posted — contact the TDCI for the current amount
 
-NIPR transaction fee at renewal: $5.60
+NIPR transaction fee at renewal: charged in addition to the renewal fee
 
-Total standard renewal cost: $65.60
+Total standard renewal cost: contact the TDCI or check your NIPR renewal screen for the current combined total
 
-Grace period: 30 days after the expiration date — no late fee during this window. The license can be renewed for $65.60 within 30 days of expiration with no penalty.
+Grace period: 60 days after the expiration date — no late fee during this window. The license can be renewed at the standard cost within 60 days of expiration with no penalty.
 
-Late renewal fee: $120 — assessed in addition to the $60 renewal fee, not instead of it. Total late renewal cost: $185.60.
+Late renewal fee: not publicly posted by the TDCI — assessed in addition to the standard renewal fee, not instead of it. Contact the TDCI for the current total late renewal cost.
 
 Late renewal window: Up to 1 year from the expiration date (not from the end of the grace period). After 1 year, late renewal is unavailable and full relicensing — including retaking the Pearson VUE exam — is required.
 
@@ -190,7 +190,7 @@ Classroom minimum: None — all 24 hours can be completed through self-paced onl
 
 Company-sponsored CE cap: Tennessee's CE rules do not impose the same rigid company-sponsored hour limit as some states (such as Minnesota's 12-hour cap). Verify current TDCI rules on company-sponsored CE before advising clients.
 
-CE carryover: Tennessee does not permit CE hour carryover from one biennial period to the next. Hours completed beyond 24 in a given period are forfeited.
+CE carryover: The TDCI has not publicly posted a specific carryover policy or hour limit for excess CE completed beyond 24 hours in a biennial period. Do not assume a specific carryover figure applies — confirm directly with the TDCI before relying on any carried-forward hours in renewal planning.
 
 The specific CE figures are testable:
 
@@ -342,27 +342,13 @@ The construction-specific 1-employee threshold is the more frequently tested pro
 
 Competitive market: Tennessee's workers' compensation operates in a competitive private insurance market — not a monopolistic state fund. Employers purchase coverage from private insurers. This distinguishes Tennessee from the four monopolistic workers' compensation states: North Dakota, Ohio, Washington, and Wyoming.
 
-## Priority 8: Reciprocity — The Five-State Limitation
+## Priority 8: Reciprocity — Tennessee's Non-Resident Licensing Framework
 
-Tennessee's reciprocity structure is significantly more restricted than most candidates expect — and the exam tests this restriction directly.
+Tennessee maintains broad reciprocity agreements with other states, and the exam tests whether candidates understand how that reciprocity works.
 
-Full-reciprocity agreements with 5 states only:
+What reciprocity means: A producer licensed and in good standing in another state — including Tennessee's neighboring states of Georgia, North Carolina, Kentucky, Alabama, Arkansas, Missouri, and Virginia — can generally obtain a Tennessee non-resident license without taking the Tennessee Pearson VUE exam, provided their home state license covers the same lines of authority and their home state extends equivalent reciprocal treatment to Tennessee producers.
 
-California
-
-Louisiana
-
-Michigan
-
-Mississippi
-
-Texas
-
-What full reciprocity means: Producers licensed in these five states can obtain Tennessee non-resident licenses without taking the Tennessee Pearson VUE exam.
-
-What non-reciprocity means for producers from all other states: Producers from states not on the five-state list — including Tennessee's neighboring states of Georgia, North Carolina, Kentucky, Alabama, Arkansas, Missouri, and Virginia — must pass the Tennessee Pearson VUE exam to obtain a Tennessee non-resident license. (Note: NAIC model law-compliant states can still obtain non-resident licenses without the exam through the broader NAIC reciprocity framework — but they are not covered by Tennessee's formal full-reciprocity agreements.)
-
-The five-state list is testable. Know all five states. Exam questions present a producer from a specific state and ask whether the Tennessee exam is required — the answer depends on whether that state is one of the five formal reciprocity states.
+When the Tennessee exam is required for non-residents: The exam is required for applicants from a home state that does not extend equivalent reciprocal treatment to Tennessee producers, or whose license does not cover the requested lines of authority. Confirm your specific home state's status with the TDCI before applying.
 
 License transfer within 90 days of moving to Tennessee: A producer who relocates to Tennessee from another state and surrenders their prior state's resident license within 90 days of establishing Tennessee residency can obtain a Tennessee resident license without retaking the exam. After 90 days, the exam is required.
 

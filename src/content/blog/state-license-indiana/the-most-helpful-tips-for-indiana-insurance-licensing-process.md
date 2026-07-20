@@ -29,7 +29,7 @@ Contact the [Indiana Department of Insurance](/indiana/requirements) if you’re
 
 Once you know you’re eligible, the next move is fulfilling your state-mandated [Indiana prelicensing](/indiana/prelicensing) education. Indiana typically specifies a certain number of study hours for each specialty area, so confirm how many you need depending on whether you plan to sell Life & Health, Property & Casualty, or both.
 
-Courses may be delivered in various formats—classroom, online, or a blend of both—so you can study in the way that suits you best. When you’re ready for deeper support, explore resources like JustInsurance, which can offer practice exams and course materials designed to keep you on track and motivated.
+Courses may be delivered in various formats—classroom, online, or a blend of both—so you can study in the way that suits you best. For Life, Health, or combined Life & Health prelicensing, JustInsurance offers practice exams and course materials designed to keep you on track and motivated; for Property & Casualty, search Sircon or the Indiana Department of Insurance's approved-provider list.
 
 Below is a quick comparison of some common license lines and their typical focus areas:
 
@@ -47,7 +47,7 @@ Life insurance, medical plans
 
 Property & Casualty
 
-~ 40 hours total
+Varies — confirm with IDOI
 
 Home, auto, business policies
 

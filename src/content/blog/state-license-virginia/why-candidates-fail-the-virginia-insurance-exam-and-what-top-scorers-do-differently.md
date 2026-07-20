@@ -1,6 +1,6 @@
 ---
 title: Why Candidates Fail the Virginia Insurance Exam — and What Top Scorers Do Differently
-description: Virginia's insurance exam first-time pass rates cluster in the low-to-mid 70s across the major lines — roughly 73–75% of first-time candidates pass, and...
+description: Industry estimates put Virginia's insurance exam first-time pass rates in the low-to-mid 70s across the major lines — Virginia does not publish official line-level figures...
 keyword: why candidates fail the virginia insurance exam and what
 targetKeywords: why candidates fail the virginia insurance exam and what
 cluster: state-license-virginia
@@ -12,7 +12,7 @@ image: /blog/images/virginia-insurance-continuing-education-made-simple-for-you.
 imageAlt: Why Candidates Fail the Virginia Insurance Exam — and What Top Scorers Do Differently
 ---
 
-Virginia's insurance exam first-time [pass rates](/pass-rates) cluster in the low-to-mid 70s across the major lines — roughly 73–75% of first-time candidates pass, and approximately 25–27% do not. That gap is not explained by intelligence, financial sophistication, or aptitude for the insurance industry. It is explained almost entirely by preparation quality and preparation method. Candidates who fail follow predictable patterns that are easy to identify in hindsight. Candidates who pass follow a different set of patterns that are equally predictable. This post identifies both — specifically in the context of the Virginia exam's unique structure — so you can put yourself in the right group before exam day.
+Virginia does not publish official line-level pass-rate data, but industry estimates put first-time pass rates in the low-to-mid 70s across the major lines — roughly 73–75% of first-time candidates pass, and approximately 25–27% do not. (This is separate from [JustInsurance's own reported pass rate](/pass-rates) among students who complete our course, which runs meaningfully higher.) The gap between candidates who pass and fail on their first attempt is not explained by intelligence, financial sophistication, or aptitude for the insurance industry. It is explained almost entirely by preparation quality and preparation method. Candidates who fail follow predictable patterns that are easy to identify in hindsight. Candidates who pass follow a different set of patterns that are equally predictable. This post identifies both — specifically in the context of the Virginia exam's unique structure — so you can put yourself in the right group before exam day.
 
 ## Why Candidates Fail: The Six Most Common Patterns
 

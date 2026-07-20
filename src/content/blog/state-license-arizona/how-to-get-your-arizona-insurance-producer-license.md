@@ -57,7 +57,7 @@ Most successful Arizona candidates complete a prep course even though it's not l
 
 ## Step 3: Schedule and Take Your State Exam Through PSI
 
-Arizona insurance licensing exams are administered by PSI Services — which replaced the previous exam vendor effective September 1, 2025.
+Arizona insurance licensing exams are administered by PSI Services — which replaced the previous exam vendor effective September 3, 2025.
 
 PSI Arizona contact:
 
@@ -167,7 +167,7 @@ Variable products note: Variable life and variable annuity producers need a vali
 
 ## License Renewal and CE
 
-Renewal: Every 2 years (biennial) — but effective HB 2054 (June 2025), the renewal date for all Arizona license types was standardized to December 31 each year.
+Renewal: Every 4 years, on the last day of your birth month.
 
 Renewal fee: $120 per license class, processed through NIPR.
 
@@ -199,25 +199,25 @@ Website: difi.az.gov
 
 Single line (e.g., Life only):
 
-Exam: $59
+Exam: $50
 
 Fingerprinting: ~$42
 
 Application: ~$125.60
 
-Total: ~$226.60
+Total: ~$217.60
 
 Combined L&H or Combined P&C:
 
-Exam: $59
+Exam: $50
 
 Fingerprinting: ~$42 (one-time)
 
 Application: ~$125.60
 
-Total: ~$226.60
+Total: ~$217.60
 
-Arizona's costs are moderate nationally — higher than Michigan (~$97) but reflecting the fingerprint processing and higher license fee.
+Arizona's costs are moderate nationally — higher than Michigan (~$56.60 for application and exam, with no fingerprinting fee) but reflecting the fingerprint processing and higher license fee.
 
 ## 5 Frequently Asked Questions
 

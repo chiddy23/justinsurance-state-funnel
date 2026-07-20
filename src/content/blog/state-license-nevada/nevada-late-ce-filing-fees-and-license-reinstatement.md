@@ -24,9 +24,7 @@ Here's what Nevada producers should know about late CE filing and license reinst
 
 Before discussing late filing, here's the standard Nevada renewal framework:
 
-Initial license cycle. Major Lines licensees first renew on the last day of their birth month following their initial 2-year period.
-
-Subsequent cycles. Every 3 years on the first day of the month following the issuance month.
+License cycle. Major Lines licensees renew on the last day of their birth month, every 3 years.
 
 CE requirement: 30 hours of CE (3 hours ethics) completed and reported before submitting renewal application.
 

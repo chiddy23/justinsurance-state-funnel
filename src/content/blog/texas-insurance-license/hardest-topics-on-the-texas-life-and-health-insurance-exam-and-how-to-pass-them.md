@@ -58,7 +58,7 @@ It's not about reading everything — it's about practicing questions. The more 
 
 - How many questions are on the Texas Life & Health exam? The combined Life & Health exam has 150 questions. You have 2.5 hours to complete it, and you need a score of 70% to pass.
 - Is the Texas exam harder than other states? It's considered moderately difficult. The state law section is where Texas-specific knowledge matters most — generic study materials won't fully prepare you for that portion.
-- How soon can I retake the exam if I fail? You must wait 24 hours before retaking. Each attempt requires a new registration fee paid to Pearson VUE.
+- How soon can I retake the exam if I fail? There's no mandatory waiting period in Texas — you can typically schedule your next available test date right away. Each attempt requires a new registration fee paid to Pearson VUE.
 - Are there trick questions on the exam? The exam isn't designed to trick you, but questions are carefully worded. Read every question completely before answering — the difference between "all of the following EXCEPT" and a standard question changes your answer entirely.
 - Should I study both Life and Health equally? Yes. The combined exam tests both lines, and most people underestimate how much health insurance content is included. Don't let either side be your weak spot.
 

@@ -50,7 +50,7 @@ $50–$200
 
 State licensing exam
 
-$40–$70 per attempt
+$50 per attempt (flat PSI exam fee)
 
 Fingerprinting
 
@@ -70,7 +70,7 @@ When budgeting, consider your exam retake possibilities as well. If you do not p
 
 ### How many times can I retake the licensing exam?
 
-Arizona does not limit the number of times you can retake the exam, but each attempt requires a new exam fee. If you fail an exam, take the time to review the areas where you struggled, then retake practice tests or sign up for refresher classes. Preparation is usually the best way to avoid multiple retakes.
+Arizona limits you to 4 exam attempts per line of authority within a 12-month period, and each attempt requires a new exam fee. After a 4th unsuccessful attempt, you must wait a full year from the date of your last attempt before retaking it. If you fail an exam, take the time to review the areas where you struggled, then retake practice tests or sign up for refresher classes. Preparation is usually the best way to avoid multiple retakes.
 
 ### Do I need separate licenses for different lines of authority?
 

@@ -1,8 +1,8 @@
 ---
 title: How to Start an Insurance Agency and Avoid Common Pitfalls
 description: >-
-  How to start an insurance agency breakdown: base vs. commission pay,
-  top-earning specialties, and career growth advice from licensed insurance
+  How to start an insurance agency: clarifying your goals, choosing a legal
+  structure, getting licensed and appointed, and avoiding common pitfalls.
 keyword: how to start an insurance agency
 targetKeywords: how to start an insurance agency
 cluster: insurance-agent-career-guide

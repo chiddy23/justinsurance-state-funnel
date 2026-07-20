@@ -2,7 +2,7 @@
 title: How to Easily Get Your Maryland Life and Health Insurance License
 description: >-
   Maryland life and health insurance license — prelicensing hours, exam costs,
-  application steps, fingerprinting, and timeline explained by licensed
+  application steps, background check, and timeline explained by licensed
 keyword: maryland life and health insurance license
 targetKeywords: maryland life and health insurance license
 cluster: state-license-maryland
@@ -24,13 +24,13 @@ Before you dive in, remember that you’re preparing for an industry that values
 
 ## Understand [Maryland licensing requirements](/maryland/requirements)
 
-To work as a life and health insurance producer in Maryland, you generally need to be at least 18 years old and possess a clean criminal record. The state also requires specific [pre-licensing](/maryland/prelicensing) education hours for each line of authority, which you must complete before applying to take the licensing exam.
+To work as a life and health insurance producer in Maryland, you generally need to be at least 18 years old and possess a clean criminal record. Maryland eliminated its [pre-licensing](/maryland/prelicensing) education mandate effective October 1, 2024, so you're no longer required to complete education hours before applying to take the licensing exam — though optional prep courses are still available.
 
-While the Maryland Insurance Administration enforces these requirements, it’s helpful to think about them as foundational building blocks. Each step is designed to ensure you truly understand the laws, ethics, and best practices you’ll need to serve clients effectively. By staying organized and fulfilling these prerequisites, you’ll keep your licensing journey smooth from day one.
+While the Maryland Insurance Administration enforces its eligibility rules, it’s helpful to think about your exam prep as a foundational building block even though it isn't required. Studying the laws, ethics, and best practices you’ll need to serve clients effectively helps you feel ready, and staying organized keeps your licensing journey smooth from day one.
 
-## Take your pre-licensing course
+## Consider an optional pre-licensing course
 
-Once you understand the basic requirements, your next step is enrolling in a [Maryland prelicensing course](/maryland/prelicensing). This program focuses on Maryland insurance regulations and the fundamentals of life and health policies. You’ll explore topics like term and whole life insurance, health maintenance organizations, claims processes, and more.
+Once you understand the basic requirements, many candidates choose to enroll in an optional [Maryland prelicensing course](/maryland/prelicensing), even though Maryland doesn't require it. This type of program focuses on Maryland insurance regulations and the fundamentals of life and health policies. You’ll explore topics like term and whole life insurance, health maintenance organizations, claims processes, and more.
 
 • Look for approved providers who align with your schedule.  
 • Dedicate adequate study time each week, so you stay on track.  
@@ -40,7 +40,7 @@ Studying can feel overwhelming if you try to absorb everything at once, so pace 
 
 ## Submit your application
 
-After finishing the required course hours, you’ll move on to the application process. Maryland’s Insurance Administration requires you to apply electronically through the National Insurance Producer Registry (NIPR) or Maryland’s specified online portal. You’ll pay an application fee and possibly a small transaction fee.
+Whenever you're ready — whether or not you've taken an optional prep course — you'll move on to the application process. Maryland’s Insurance Administration requires you to apply electronically through the National Insurance Producer Registry (NIPR) or Maryland’s specified online portal. You’ll pay an application fee and possibly a small transaction fee.
 
 Be sure to fill out the forms accurately. Mistakes or incomplete fields can slow everything down. Once your application has been processed, the state will confirm your eligibility to schedule the exam.
 
@@ -56,14 +56,14 @@ If nerves kick in, remember that you’ve studied for this. You already mastered
 
 ## Move forward after your exam
 
-When you pass, you’re officially on the path to a new professional chapter. The next steps include finalizing any remaining paperwork, submitting fingerprints if needed, and waiting for confirmation from the Maryland Insurance Administration. Once approved, you’ll receive your license, and you can start working as a life and health insurance producer.
+When you pass, you’re officially on the path to a new professional chapter. The next steps include finalizing any remaining paperwork (Maryland does not require fingerprinting — the background check is name-based and handled through your NIPR application) and waiting for confirmation from the Maryland Insurance Administration. Once approved, you’ll receive your license, and you can start working as a life and health insurance producer.
 
 It’s natural to feel excited and maybe a bit restless while you wait. Stay productive by networking with local agencies or exploring job postings that fit your interests. This period is an excellent time to plan how you’ll put your new credentials to use.
 
 ## Frequently asked questions
 
 1.  How soon can I expect my license after passing the exam?  
-    In most cases, you’ll get your license within a few days to a couple of weeks, depending on any additional paperwork or fingerprinting requirements. Monitor your email or licensure portal for updates.
+    In most cases, you’ll get your license within a few days to a couple of weeks, depending on application processing volume (Maryland does not require fingerprinting). Monitor your email or licensure portal for updates.
 2.  Do I need to renew my Maryland license?  
     Yes. Maryland requires license renewal every two years. You’ll also need to complete [Maryland continuing education](/maryland/continuing-education) credits to keep your knowledge current and maintain compliance.
 3.  What happens if I fail the exam on the first try?  

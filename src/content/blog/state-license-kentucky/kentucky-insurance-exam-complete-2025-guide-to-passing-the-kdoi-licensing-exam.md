@@ -24,7 +24,7 @@ The KDOI itself administers all insurance producer licensing examinations throug
 
 ## Exam Fees
 
-The initial exam fee is $50 and is incorporated into the licensing process after your NIPR application is processed. If you fail and need to retake the exam, each retake costs $50. You file an Exam Retake Form with the KDOI and may reschedule beginning on the next business day following a failed attempt. You are limited to three attempts within a 120-day window. If you fail three times within 120 days, you must restart the licensing process, including completing new [prelicensing](/kentucky/prelicensing) education before reapplying.
+The initial exam fee is $50 and is incorporated into the licensing process after your NIPR application is processed. If you fail and need to retake the exam, each retake costs $50. You file an Exam Retake Form with the KDOI and may reschedule beginning on the next business day following a failed attempt. There is no cap on the number of retakes as long as you stay within your 120-day testing window; if the window expires before you pass, you must submit a new application and complete new [prelicensing](/kentucky/prelicensing) education before reapplying.
 
 ## Passing Score
 
@@ -36,7 +36,7 @@ Each line of authority has its own examination covering two broad categories: ge
 
 The exam questions for each line cover the topics KDOI considers essential knowledge for agents practicing in Kentucky. For Life and Annuity exams, expect questions on policy types, beneficiary designations, tax treatment of life insurance, annuity structures, and Kentucky-specific producer regulations. For Property & Casualty exams, expect questions on homeowners policies, commercial coverage, auto insurance basics, and Kentucky's specific auto insurance laws including the choice no-fault system under KRS 304.39 and the state's 25/50/25 minimum coverage requirements.
 
-Consultant examinations are structured differently — each is 150 questions requiring 190 minutes to complete. Contact the KDOI at (502) 564-6004 for consultant exam scheduling, as these are arranged separately.
+Consultant examinations are structured differently — each is 150 questions requiring 190 minutes to complete. Contact the KDOI at (502) 564-3630 for consultant exam scheduling, as these are arranged separately.
 
 ## Test Day Procedures
 
@@ -50,13 +50,11 @@ The most effective preparation combines thorough coverage of all content areas a
 
 Do not underestimate the Kentucky-specific content. State law questions — covering topics like the Motor Vehicle Reparations Act, workers' compensation under KRS Chapter 342, the Annuity Best Interest standard under 806 KAR 12:120, and the structure of Kentucky's health insurance marketplace through kynect — are tested alongside general insurance principles. Take full-length practice exams under timed conditions before your test date, and review any material you marked uncertain before your exam appointment.
 
-## Kentucky vs. Other States: Exam Comparison
-
 ## Frequently Asked Questions
 
 - Is the Kentucky insurance exam offered online or remotely? No. Kentucky does not offer a remote proctored exam option. All insurance producer licensing exams are administered in-person at KDOI-authorized testing sites. You must schedule through your KY eServices account and appear in person at the site you select.
 - What is the passing score for the Kentucky insurance exam? The passing score is 70% for all Kentucky insurance producer licensing examinations. Your score is computed and displayed immediately upon completing the computerized exam at the testing site.
-- What happens if I fail the exam? You can reschedule a retake starting on the next business day by filing an Exam Retake Form with the KDOI and paying a $50 retake fee. You may attempt the exam up to three times within a 120-day period. If you exceed three attempts or your 120-day window expires, you must complete new prelicensing education before reapplying.
+- What happens if I fail the exam? You can reschedule a retake starting on the next business day by filing an Exam Retake Form with the KDOI and paying a $50 retake fee. There is no limit on the number of retakes within your 120-day testing window. If the 120-day window expires before you pass, you must submit a new application and complete new prelicensing education before reapplying.
 - How do I get my license after passing the exam? If you test at the Frankfort KDOI location, your license certificate is printed and given to you on exam day. At all other testing sites, log into your KY eServices account to print your license certificate and pocket ID card at no additional cost.
-- Can I take exams for multiple lines of authority on the same day? Contact the KDOI at (502) 564-6004 to ask about scheduling multiple exams. Each line of authority requires a separate exam appointment. Attempting multiple full exams in a single day is physically taxing and rarely recommended — prepare thoroughly for one line before scheduling the next.
+- Can I take exams for multiple lines of authority on the same day? Contact the KDOI at (502) 564-3630 to ask about scheduling multiple exams. Each line of authority requires a separate exam appointment. Attempting multiple full exams in a single day is physically taxing and rarely recommended — prepare thoroughly for one line before scheduling the next.
 JustInsurance builds your Kentucky exam readiness from day one. Our KDOI-approved prelicensing courses cover every content area tested on the state exam. Enroll at justinsuranceco.com and pass on your first attempt.

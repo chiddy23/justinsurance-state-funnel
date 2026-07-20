@@ -18,7 +18,7 @@ The Denver metropolitan area is Colorado's largest insurance market by every mea
 
 The 10-county Denver metro region has 3 million residents and has experienced explosive growth, adding 750,000 people since 2010 as workers discovered outdoor recreation paradise with 300 days of annual sunshine and a tech sector boom that earned Denver the designation "Silicon Mountain."
 
-The metro area achieved an unemployment rate of 3.9% in late 2025, notably below the national average of 4.4%. Colorado added jobs at a rate of 0.8% year-over-year, outpacing national growth, with economists projecting approximately 17,500 new jobs for 2026. Professional and business services companies employ over 315,000 workers in the Denver-Aurora-Broomfield area, with financial services adding another 114,900 positions. StateRequirement
+The metro area achieved an unemployment rate of 3.9% in late 2025, notably below the national average of 4.4%. Colorado added jobs at a rate of 0.8% year-over-year, outpacing national growth, with economists projecting approximately 17,500 new jobs for 2026. Professional and business services companies employ over 315,000 workers in the Denver-Aurora-Broomfield area, with financial services adding another 114,900 positions.
 
 The Denver metro is neither a single-industry town nor a generalist market. Its economic strength derives from a specific combination of industries that coexist and cross-pollinate: a defense-anchored aerospace sector that provides stable high-wage employment; a technology sector that has grown from software startups into major operations of Google, Amazon, and hundreds of mid-market companies; a healthcare system anchored by UCHealth, SCL Health, National Jewish Health, and Children's Hospital Colorado; a financial services sector with regional headquarters of major banks, insurance carriers, and asset managers; an energy sector that combines traditional oil and gas with renewable energy development; and a construction and real estate sector that has built one of the most active residential and commercial development markets in the country over the past decade.
 
@@ -26,7 +26,7 @@ Each of these industries generates insurance demand. The mix determines the type
 
 ## Sector 1: Aerospace and Defense — Denver's Foundational Commercial Lines Market
 
-Denver ranks first among the 50 largest metro areas for private aerospace employment, with more than 30,000 professionals at Lockheed Martin Space, Ball Aerospace, Northrop Grumman, and Sierra Nevada Corporation. StateRequirement
+Denver ranks first among the 50 largest metro areas for private aerospace employment, with more than 30,000 professionals at Lockheed Martin Space, Ball Aerospace, Northrop Grumman, and Sierra Nevada Corporation.
 
 The aerospace and defense ecosystem in the Denver metro is not concentrated in a single employer or location. It is a layered supply chain:
 
@@ -48,11 +48,11 @@ The Denver tech sector is not a single company or cluster — it is a broad ecos
 
 The technology company insurance stack: Technology companies — regardless of size — generate a distinctive insurance need that differs significantly from traditional commercial accounts:
 
-Cyber liability is the most consequential coverage for technology companies. A company that handles customer data, operates SaaS platforms, or provides software with security implications faces first-party cyber risk (ransomware, data breach response costs, business interruption from network outages) and third-party cyber liability (claims from customers harmed by the company's security failures). The D&O and cyber markets remain competitive in 2026, with favorable conditions as competition drives prices down. This creates a buyer's market for well-managed tech companies — and an opportunity for producers to improve coverage quality while delivering competitive pricing. Bested
+Cyber liability is the most consequential coverage for technology companies. A company that handles customer data, operates SaaS platforms, or provides software with security implications faces first-party cyber risk (ransomware, data breach response costs, business interruption from network outages) and third-party cyber liability (claims from customers harmed by the company's security failures). The D&O and cyber markets remain competitive in 2026, with favorable conditions as competition drives prices down. This creates a buyer's market for well-managed tech companies — and an opportunity for producers to improve coverage quality while delivering competitive pricing.
 
 Technology errors and omissions (Tech E&O) covers claims arising from a technology company's failure to deliver promised functionality, software defects that cause customer financial harm, or technology consulting errors. Tech E&O is distinct from standard professional liability and requires underwriters who understand software development lifecycle risk, SaaS subscription model exposures, and the specific indemnification structures common in technology vendor agreements.
 
-Directors and officers liability (D&O) is essential for venture-backed startups with investor boards and for growth-stage companies approaching exit. Colorado's Denver tech ecosystem includes hundreds of venture-backed companies with institutional investors — each of which represents a D&O insurance need. The D&O market is competitive in 2026, with the abundance of capacity moderated by continued pressure toward rate stabilization. Bested
+Directors and officers liability (D&O) is essential for venture-backed startups with investor boards and for growth-stage companies approaching exit. Colorado's Denver tech ecosystem includes hundreds of venture-backed companies with institutional investors — each of which represents a D&O insurance need. The D&O market is competitive in 2026, with the abundance of capacity moderated by continued pressure toward rate stabilization.
 
 Employment practices liability (EPL) is a significant exposure for fast-growing technology companies that hire aggressively, restructure frequently, and operate in a competitive talent market where termination decisions and workplace culture issues can generate claims. Denver's tech sector's hiring cycles — aggressive expansion followed by periodic layoffs as companies recalibrate — create EPL exposure that producers should proactively address with technology clients.
 
@@ -72,7 +72,7 @@ Employee benefits: Denver's healthcare employers generate group health, dental, 
 
 ## Sector 4: Financial Services — Insurance for Those Who Know Risk
 
-Denver's financial services sector includes regional bank headquarters, insurance carrier home offices and regional operations, asset management firms, mortgage companies, and financial advisory firms. Financial services employs 114,900 people in the Denver-Aurora-Broomfield metropolitan area. StateRequirement
+Denver's financial services sector includes regional bank headquarters, insurance carrier home offices and regional operations, asset management firms, mortgage companies, and financial advisory firms. Financial services employs 114,900 people in the Denver-Aurora-Broomfield metropolitan area.
 
 Financial services companies generate a specific suite of coverage needs: financial institutions bonds (fidelity), professional liability for investment advisors and financial planners, D&O for publicly traded and investor-backed financial companies, and errors and omissions for mortgage brokers and real estate finance professionals. Securities industry E&O, investment advisor professional liability, and financial institution blended products (often called bankers blanket bonds or financial institution packages) are specialty lines that reward producers with sector-specific knowledge.
 
@@ -102,9 +102,9 @@ Golden and Lakewood: Energy sector including Coors (Molson Coors brewery), Natio
 
 ## What the Broader Commercial Market Looks Like in Denver Right Now
 
-The 2026 insurance market forecast for commercial clients indicates a more balanced market, where well-managed risks may see rate stability, while organizations with fewer or weaker controls are more likely to experience rate increases. Agenzee
+The 2026 insurance market forecast for commercial clients indicates a more balanced market, where well-managed risks may see rate stability, while organizations with fewer or weaker controls are more likely to experience rate increases.
 
-Heading into Q4 2025, the commercial insurance market is steadier than the turbulent 2023–2024 period. Rate momentum has cooled for many buyers, with competitive conditions returning in several lines. Capacity is generally ample for standard property and many professional lines; more constrained for catastrophe zones and large liability limits. Pearson VUE
+Heading into Q4 2025, the commercial insurance market is steadier than the turbulent 2023–2024 period. Rate momentum has cooled for many buyers, with competitive conditions returning in several lines. Capacity is generally ample for standard property and many professional lines; more constrained for catastrophe zones and large liability limits.
 
 For Denver-area producers, the current market conditions create specific opportunities. The property market's softening — driven by increased carrier capacity and favorable reinsurance renewals — creates a window to renegotiate property coverage terms for commercial accounts on more favorable conditions than were available in 2023–2024. Cyber and D&O markets remain competitive, creating favorable pricing for technology and financial services clients. Commercial auto and casualty face continued upward pressure — clients with fleet exposures and heavy liability profiles need producers who can present risk management credentials to carriers rather than simply submitting applications.
 

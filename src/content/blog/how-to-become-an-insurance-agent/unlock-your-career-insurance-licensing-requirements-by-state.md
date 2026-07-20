@@ -59,17 +59,17 @@ Application fee
 
 California
 
-52
+12 (Code & Ethics, effective 1/1/2026)
 
-$50
+$98
 
-$170
+$188
 
 Texas
 
-40
+None required (40-hr combo course optional)
 
-$62
+$39
 
 $50
 
@@ -87,7 +87,7 @@ New York
 
 $33
 
-$40
+$80
 
 Some states bundle life and health coverage into one license, while others split them into two distinct tests. If you plan to sell multiple product lines, be sure to check whether you need to complete separate pre-licensing courses and exams for each. This can affect how you structure your study schedule and budget.
 

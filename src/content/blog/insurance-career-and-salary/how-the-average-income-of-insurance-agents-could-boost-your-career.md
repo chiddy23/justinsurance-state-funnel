@@ -25,6 +25,8 @@ Some insurance agents develop a steady base salary, while many rely primarily on
 
 When you first research the average income of insurance agents, it may seem like there’s an incredibly wide range. Some agents earn around $40,000 annually as they start out, while others cross into six-figure territory once they establish their client base and build strong industry relationships. How can one field have such varied levels of pay?
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 It helps to view that range as a reflection of how flexible, and sometimes entrepreneurial, the insurance business can be. Many newly licensed agents enter smaller firms or agencies, receiving a modest salary paired with limited benefits. In contrast, experienced agents with extensive networks often land well above the “average,” particularly if they specialize in lucrative lines such as commercial insurance or advanced retirement solutions. Essentially, you can chart your own course.
 
 ## Consider key earning factors
@@ -53,7 +55,7 @@ Over time, successful agents often diversify by launching their own agencies, me
 ## Frequently asked questions
 
 1.  What does an entry-level insurance agent typically earn?  
-    Entry-level agents often earn around $40,000 per year, but this varies depending on your location, the agency, and commission structure. Some agents starting out also receive small bonuses based on policies sold.
+    Entry-level agents often earn around $40,000 per year, but this varies depending on your location, the agency, and commission structure. Some agents starting out also receive small bonuses based on policies sold. Income figures are illustrative and not a guarantee of earnings; individual results vary.
 2.  Do insurance agents rely mostly on commissions?  
     Many agents have a small base salary plus commissions. This balance rewards you for attracting new clients and closing sales. As you gain experience, you can choose opportunities with higher commission splits if you prefer to rely more on performance.
 3.  Is there a certain type of insurance that pays the most?  

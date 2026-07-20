@@ -111,7 +111,7 @@ Fingerprinting is conducted through IdentoGO:
 
 Schedule online at IdentoGO's website
 
-Use service code: SC920124Z - DOI SC Producer Licensing/Renewal
+Use the service code provided in your SCDOI fingerprinting email — do not use a code found elsewhere online, since SCDOI's process no longer allows a single public code to be reused
 
 Fingerprinting fee: $51.75
 
@@ -227,7 +227,7 @@ Website: doi.sc.gov
 
 - Does South Carolina require pre-licensing education? No. South Carolina does NOT require pre-licensing education for insurance producer licensure. However, it's strongly recommended given the difficulty of the state exam.
 - Does South Carolina require fingerprinting for insurance producers? Yes. Since January 2017, all resident producer applicants must submit fingerprints as part of the licensing process. Fingerprinting is conducted through IdentoGO at a cost of $51.75.
-- How much does a South Carolina insurance license cost? Total typically $200-400 including any prelicense study materials, $59 exam fee, $25 state application fee per line of authority, and $51.75 fingerprinting fee.
+- How much does a South Carolina insurance license cost? Total typically $350-500 including any prelicense study materials, $59 exam fee, $25 state application fee per line of authority, and $51.75 fingerprinting fee.
 - How long is my South Carolina insurance license valid? South Carolina producer licenses renew every 2 years on the last day of your birth month.
 - Do I need to be re-fingerprinted at renewal? No. Once your fingerprints are successfully submitted and processed, you do not need to be re-fingerprinted with future license renewals as long as your license remains active.
 

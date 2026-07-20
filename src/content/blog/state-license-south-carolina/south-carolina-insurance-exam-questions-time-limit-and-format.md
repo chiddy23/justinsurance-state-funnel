@@ -194,7 +194,7 @@ Wait at least 24 hours before scheduling a retake
 
 Pay a new exam fee
 
-South Carolina doesn't cap attempts — you can retake until you pass
+South Carolina allows a maximum of 6 attempts per exam within a one-year period; after that you must wait until the one-year period resets
 
 Each retake requires new registration
 

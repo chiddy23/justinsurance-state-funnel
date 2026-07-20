@@ -16,7 +16,7 @@ imageAlt: >-
   desk beside a laptop.
 ---
 
-Ohio’s Department of Insurance (ODI) still treats each major line—Life, Accident & Health, Property, Casualty, Personal Lines, and Surety Bail Bond—as its own **20**-hour [prelicensing](/ohio/prelicensing) stack. Miss the **180**-calendar-day window on your completion certificate, or show up at PSI without the original, unaltered certificate, and you will not sit for the exam you already paid for. NIPR’s Ohio page adds another clock: passing exam scores stay valid for **6** months, shorter than Georgia’s **12**-month window. If you are building an Ohio resident file, you need both ODI’s education rules and NIPR’s timing rules in the same checklist.
+Ohio’s Department of Insurance (ODI) still treats each major line—Life, Accident & Health, Property, Casualty, Personal Lines, and Surety Bail Bond—as its own **20**-hour [prelicensing](/ohio/prelicensing) stack. Miss the **180**-calendar-day window on your completion certificate, or show up at PSI without the original, unaltered certificate, and you will not sit for the exam you already paid for. If you are building an Ohio resident file, you need both ODI’s education rules and the NIPR application process in the same checklist.
 
 ## Lock the line plan before you buy the first hour of education
 
@@ -32,11 +32,11 @@ ODI states that each completion certificate lasts **180** calendar days and that
 
 ## Schedule PSI with the Ohio-specific client code
 
-NIPR’s [Ohio licensing overview](https://nipr.com/licensing-center/state-information/ohio) routes you to PSI at **855-807-3995** and the Ohio landing page at [psiexams.com/ohin](https://www.psiexams.com/ohin). Bookmark both. PSI handles seat inventory, remote proctoring eligibility, and reschedules; ODI handles whether your education and background satisfy Ohio law.
+NIPR’s [Ohio licensing overview](https://nipr.com/licensing-center/state-information/ohio) routes you to the Ohio landing page at [psiexams.com/ohin](https://www.psiexams.com/ohin). Bookmark it. PSI handles seat inventory, remote proctoring eligibility, and reschedules; ODI handles whether your education and background satisfy Ohio law. Confirm any current phone contact directly on the PSI Ohio portal rather than relying on a number from a third-party summary.
 
-## Apply through NIPR once exams clear—but mind the 6-month score clock
+## Apply through NIPR once exams clear—don’t let the 180-day certificate lapse first
 
-NIPR’s Ohio page lists **6** months of exam score validity. That is shorter than Pennsylvania’s **12**-month window on NIPR’s [Pennsylvania page](https://nipr.com/licensing-center/state-information/pennsylvania) or Georgia’s **12**-month window on NIPR’s [Georgia page](https://nipr.com/licensing-center/state-information/georgia). If you pass in January but wait until August to finish fingerprints or background follow-ups, you can age out a passing score and owe another full exam fee.
+Your 180-day prelicensing certificate window is the deadline that matters in Ohio — it governs how long you have to sit for and pass the exam, not how long a passing score itself remains usable afterward. If fingerprinting or background follow-ups drag on, confirm current timing directly with ODI or NIPR before assuming a passing score carries forward indefinitely.
 
 ## Waivers exist, but Surety Bail Bond never rides on a degree waiver
 
@@ -68,7 +68,7 @@ Other states trimmed hours (Georgia’s **8.0**-hour rule is the clearest contra
 
 ## Bottom line
 
-Pick lines, finish **20** hours per line from an ODI-approved provider, guard the **180**-day certificate, pass PSI inside NIPR’s **6**-month score window, then push the NIPR application with clean fingerprints. Drill with [Ohio practice exams](https://justinsuranceco.com/ohio/practice-exam) if you want item-level repetition after your statutory hours, read the [insurance exam guide](https://justinsuranceco.com/insurance-exam-guide) for how to read vendor bulletins, and book [Ohio prelicensing](https://justinsuranceco.com/ohio/prelicensing) once you know which certificates you need for the combined tests you plan to sit.
+Pick lines, finish **20** hours per line from an ODI-approved provider, guard the **180**-day certificate, pass PSI before that window closes, then push the NIPR application with clean fingerprints. Drill with [Ohio practice exams](https://justinsuranceco.com/ohio/practice-exam) if you want item-level repetition after your statutory hours, read the [insurance exam guide](https://justinsuranceco.com/insurance-exam-guide) for how to read vendor bulletins, and book [Ohio prelicensing](https://justinsuranceco.com/ohio/prelicensing) once you know which certificates you need for the combined tests you plan to sit.
 
 **By Justin vom Eigen, Licensed Insurance Agent and Founder of JustInsurance**
 
@@ -78,7 +78,7 @@ Pick lines, finish **20** hours per line from an ODI-approved provider, guard th
 
 - [Ohio Department of Insurance — Pre-Licensing Education](https://insurance.ohio.gov/wps/portal/gov/odi/agents-and-agencies/agent-education/pre-licensing-education)
 - [Ohio Administrative Code — Rule 3901-5-07](https://codes.ohio.gov/ohio-administrative-code/rule-3901-5-07)
-- [NIPR — Ohio licensing overview (6-month score validity, PSI contacts)](https://nipr.com/licensing-center/state-information/ohio)
+- [NIPR — Ohio licensing overview](https://nipr.com/licensing-center/state-information/ohio)
 - [PSI — Ohio insurance exam scheduling](https://www.psiexams.com/ohin)
 
 **Word count:** ~1,560 words

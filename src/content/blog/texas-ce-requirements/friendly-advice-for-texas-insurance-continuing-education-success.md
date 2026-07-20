@@ -21,7 +21,7 @@ imageCredit: Photo by Mikhail Nilov on Pexels
 
 [Texas insurance](/texas) [continuing education](/texas/continuing-education) is essential if you hold a resident insurance license in the state. By completing regular coursework, you stay informed about industry changes, new regulations, and the latest in risk management strategies. This not only helps you better serve policyholders, but also ensures you maintain your license in good standing.
 
-Staying current with state mandates protects both your business and your career. In most cases, you need to complete at least 24 credit hours of CE every two years, with 2 of those credits focused on ethics. The [Texas Department of Insurance](/texas/requirements) (TDI) regularly updates course guidelines, so always confirm the latest rules as you plan your studies.
+Staying current with state mandates protects both your business and your career. In most cases, you need to complete at least 24 credit hours of CE every two years, with 3 of those credits focused on ethics. The [Texas Department of Insurance](/texas/requirements) (TDI) regularly updates course guidelines, so always confirm the latest rules as you plan your studies.
 
 ### Why it matters
 
@@ -59,25 +59,25 @@ Life & Health
 
 24
 
-2
+3
 
 Property & Casualty
 
 24
 
-2
+3
 
 Adjuster (All lines)
 
 24
 
-2
+3
 
 Personal Lines
 
 24
 
-2
+3
 
 Title
 
@@ -101,7 +101,7 @@ When your course completions are in place, you’ll pay the renewal fee and subm
 ## Frequently asked questions
 
 1.  How often do I need to complete Texas insurance continuing education?  
-    You generally need 24 credit hours every two years, including 2 hours of ethics. Confirm your exact schedule with the TDI.
+    You generally need 24 credit hours every two years, including 3 hours of ethics. Confirm your exact schedule with the TDI.
 2.  What happens if I don’t complete my CE hours on time?  
     If you miss the deadline, your license could be suspended or subject to penalties. Make sure to track deadlines so you can finish courses well in advance.
 3.  Can I carry over extra CE credits to my next renewal cycle?  

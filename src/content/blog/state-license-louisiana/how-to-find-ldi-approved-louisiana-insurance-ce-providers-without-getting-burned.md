@@ -26,7 +26,7 @@ Louisiana's significant recent legislative activity — including the 2025 tort 
 
 ## How to Verify a Provider and Course Are Approved
 
-The most reliable verification method is direct confirmation from the LDI. Contact the LDI Producer Licensing Division at (225) 342-0860 or visit ldi.la.gov to confirm a specific provider's approval status and course catalog. Before enrolling in any CE course, ask your provider three specific questions: Is this course specifically approved for Louisiana CE credit and what is the LDI course approval number? How many CE hours does this course generate and is any portion designated as ethics credit? Are completions reported electronically to the LDI?
+The most reliable verification method is direct confirmation from the LDI. Contact the LDI at (800) 259-5300 or visit ldi.la.gov to confirm a specific provider's approval status and course catalog. Before enrolling in any CE course, ask your provider three specific questions: Is this course specifically approved for Louisiana CE credit and what is the LDI course approval number? How many CE hours does this course generate and is any portion designated as ethics credit? Are completions reported electronically to the LDI?
 
 Responsible providers answer these questions without hesitation and can provide LDI approval numbers on request. If a provider cannot or will not confirm these details, verify independently with the LDI before enrolling.
 
@@ -48,7 +48,7 @@ Specialty course accuracy is particularly important in Louisiana given the numbe
 
 ## Frequently Asked Questions
 
-- How do I verify that a Louisiana CE course is LDI-approved? Ask your provider for the LDI course approval number for the specific course you are taking. You can also contact the LDI Producer Licensing Division directly at (225) 342-0860 or check ldi.la.gov. Never assume approval based solely on a provider's general reputation.
+- How do I verify that a Louisiana CE course is LDI-approved? Ask your provider for the LDI course approval number for the specific course you are taking. You can also contact the LDI directly at (800) 259-5300 or check ldi.la.gov. Never assume approval based solely on a provider's general reputation.
 - Is Louisiana's flood CE requirement really ongoing every renewal period? Yes. Louisiana P&C and Personal Lines producers must complete a 3-hour NFIP flood insurance certification training course as part of each 2-year renewal period. This is an ongoing requirement, not a one-time completion. Given Louisiana's flood exposure, this is one of the most practically important CE requirements in the state.
 - Do CE courses from other states count toward Louisiana's 24-hour requirement? Generally no for resident producers. Louisiana requires CE from LDI-approved providers. Non-resident producers licensed in Louisiana are typically exempt from Louisiana CE requirements if they meet their home state's requirements.
 - What is the upcoming 2-hour legislative updates CE requirement? Beginning with renewals due on or after July 31, 2027, Louisiana producers must include 2 hours covering current Louisiana insurance law legislative updates as part of their 24-hour CE total, per Act 29 of the 2025 Regular Legislative Session. Confirm with your CE provider whether their courses include content specifically approved for this designation.

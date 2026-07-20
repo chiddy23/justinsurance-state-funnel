@@ -22,7 +22,9 @@ Here's an honest breakdown of Pennsylvania insurance agent income.
 
 ## The Short Answer
 
-Pennsylvania insurance agents typically earn between $50,000 and $85,000 in their first few years, with experienced agents regularly reaching $110,000 to $200,000 once they've built a solid book of business. Top producers and agency owners can earn $240,000 to $475,000+ annually.
+Pennsylvania insurance agents typically earn between $37,760 and $46,990 in their first year, with experienced agents regularly reaching $62,230 to $98,020 once they've built a solid book of business. Top producers and agency owners can earn $156,240 or more annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 These numbers reflect realistic outcomes, not ceiling potential. Pennsylvania's market — particularly Philadelphia, Pittsburgh, and affluent suburbs like the Main Line and South Hills — supports strong earning potential for agents who specialize effectively. Pennsylvania's flat 3.07% state income tax (one of the lowest progressive-or-flat rates in the country) and moderate cost of living also mean nominal income translates well to take-home purchasing power.
 
@@ -44,27 +46,27 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by Pennsylvania Region
 
-Philadelphia metropolitan area. Pennsylvania's largest market, with substantial healthcare, financial services, higher education, and pharmaceutical industries. New agents in Philadelphia metro can reach $52,000-$82,000 in their first 1-2 years; established agents commonly earn $130,000-$250,000+. Top Philadelphia producers serving substantial professional markets earn substantially more.
+Philadelphia metropolitan area. Pennsylvania's largest market, with substantial healthcare, financial services, higher education, and pharmaceutical industries. New agents in Philadelphia metro can reach $40,000-$55,000 in their first 1-2 years; established agents commonly earn $75,000-$150,000+. Top Philadelphia producers serving substantial professional markets earn substantially more.
 
-Main Line (Philadelphia western suburbs). Substantial wealth concentration in places like Bryn Mawr, Wayne, Villanova, Radnor, and Gladwyne. Established Main Line agents commonly earn $145,000-$280,000+, with HNW practices earning more.
+Main Line (Philadelphia western suburbs). Substantial wealth concentration in places like Bryn Mawr, Wayne, Villanova, Radnor, and Gladwyne. Established Main Line agents commonly earn $80,000-$156,000+, with HNW practices earning more — this is a specialized niche that can exceed typical statewide top-producer figures.
 
-Pittsburgh metropolitan area. Substantial healthcare (UPMC), banking, and growing technology sectors. Established Pittsburgh agents commonly earn $115,000-$215,000+. Top Pittsburgh producers earn substantially more.
+Pittsburgh metropolitan area. Substantial healthcare (UPMC), banking, and growing technology sectors. Established Pittsburgh agents commonly earn $70,000-$140,000+. Top Pittsburgh producers earn substantially more.
 
-South Hills (Pittsburgh affluent suburbs). Substantial wealth in Mt. Lebanon, Upper St. Clair, Sewickley, and similar communities. Established South Hills agents commonly earn $120,000-$235,000+.
+South Hills (Pittsburgh affluent suburbs). Substantial wealth in Mt. Lebanon, Upper St. Clair, Sewickley, and similar communities. Established South Hills agents commonly earn $75,000-$145,000+.
 
-Lehigh Valley (Allentown, Bethlehem, Easton). Industrial and growing professional services markets. Established Lehigh Valley agents commonly earn $95,000-$175,000+.
+Lehigh Valley (Allentown, Bethlehem, Easton). Industrial and growing professional services markets. Established Lehigh Valley agents commonly earn $65,000-$120,000+.
 
-Harrisburg Capital Region. State government, healthcare, and various industries. Established Capital Region agents commonly earn $90,000-$165,000+.
+Harrisburg Capital Region. State government, healthcare, and various industries. Established Capital Region agents commonly earn $63,000-$110,000+.
 
-Lancaster County. Mix of agricultural, industrial, and growing professional services. Established Lancaster agents commonly earn $90,000-$170,000+.
+Lancaster County. Mix of agricultural, industrial, and growing professional services. Established Lancaster agents commonly earn $63,000-$110,000+.
 
-York and Reading. Industrial and middle-income markets. Established York/Reading agents commonly earn $85,000-$160,000+.
+York and Reading. Industrial and middle-income markets. Established York/Reading agents commonly earn $62,000-$100,000+.
 
-State College (Penn State area). University and research-focused markets. Established State College agents commonly earn $85,000-$155,000+.
+State College (Penn State area). University and research-focused markets. Established State College agents commonly earn $62,000-$98,000+.
 
-Erie. Manufacturing and Lake Erie tourism. Established Erie agents commonly earn $80,000-$150,000+.
+Erie. Manufacturing and Lake Erie tourism. Established Erie agents commonly earn $62,000-$95,000+.
 
-Smaller cities and rural areas (Scranton, Wilkes-Barre, Williamsport, etc.). Smaller markets with less competition. Established agents in smaller markets commonly earn $70,000-$135,000+.
+Smaller cities and rural areas (Scranton, Wilkes-Barre, Williamsport, etc.). Smaller markets with less competition. Established agents in smaller markets commonly earn $60,000-$90,000+.
 
 ## What Drives Pennsylvania Income
 
@@ -213,8 +215,8 @@ For producers, transitioning to or from these roles can offer career flexibility
 - Is Pennsylvania a good state for insurance agent income? Yes. Pennsylvania's combination of substantial healthcare/financial services markets, flat 3.07% state income tax, and moderate cost of living creates favorable conditions. Top Pennsylvania agents earn comparably to top agents in major insurance markets, often with better take-home purchasing power than higher-cost states.
 - How long does it take to earn a full-time income as a Pennsylvania insurance agent? Most serious agents reach full-time income levels within 12-18 months. Agents with strong networks or niche focus (healthcare, senior, business owner) can accelerate this timeline.
 - Do Pennsylvania agents pay state income tax on commissions? Yes. Pennsylvania has a flat 3.07% state income tax — one of the lowest effective rates for higher earners among progressive-or-flat tax states. Local Earned Income Tax (typically 1-3% combined) and Philadelphia Wage Tax (~3.75% for residents) may also apply.
-- What's a realistic first-year income for a new Pennsylvania agent? Most new agents earn between $48,000 and $85,000 in year one depending on agency structure, product mix, and work ethic.
-- Can I earn over $200,000 as a Pennsylvania insurance agent? Yes, consistently. Many established Pennsylvania agents earn $200,000+ annually, particularly those serving Philadelphia or Pittsburgh metros, working in HNW markets, or specializing in healthcare professionals or other lucrative niches. Top producers earn substantially more.
+- What's a realistic first-year income for a new Pennsylvania agent? Most new agents earn between $37,760 and $46,990 in year one depending on agency structure, product mix, and work ethic.
+- Can I earn over $150,000 as a Pennsylvania insurance agent? It's possible but not typical. Canonical state data puts top-producer income around $156,240 annually — a level reached by agents with an established book who serve Philadelphia or Pittsburgh metros, work in HNW markets, or specialize in healthcare professionals or other lucrative niches. Earnings meaningfully above that level are outlier results, not a common outcome.
 
 ## Start Your Pennsylvania Insurance Income Right
 

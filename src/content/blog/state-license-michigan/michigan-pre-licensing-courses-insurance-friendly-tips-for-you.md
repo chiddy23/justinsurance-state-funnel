@@ -68,9 +68,9 @@ Varies by provider and format
 
 Exam fee
 
-About $40
+$41
 
-Confirm on official scheduling site
+Paid to PSI at registration
 
 License application
 
@@ -78,11 +78,11 @@ $10–$20
 
 View current fee structure for exact details
 
-Fingerprinting
+Background check
 
-$60–$70
+No separate fee
 
-Required through an approved Michigan vendor
+Application-based review — Michigan does not require fingerprinting
 
 Another important tip is to check for any rules about what you can bring on exam day. Some testing centers have strict ID and personal item requirements, and it’s easy to shave off last-minute stress by planning ahead.
 
@@ -90,7 +90,7 @@ Another important tip is to check for any rules about what you can bring on exam
 
 Congrats, you’ve completed your required hours and passed the exam. Your next move is to apply for your actual license through the state. Applications are generally submitted online, so make sure to have the necessary documents and payment lined up.
 
-Be prepared for processing times that can vary depending on state protocols and the volume of applications. Fingerprinting and background checks may add a bit of a delay, but as long as you meet all the application requirements, you’ll get there. Once your license is approved, you’ll be official and ready to start representing reputable insurance carriers.
+Be prepared for processing times that can vary depending on state protocols and the volume of applications. Michigan does not require fingerprinting — DIFS reviews your application disclosures directly — which helps keep the background check portion of the timeline shorter than in fingerprint-based states. As long as you meet all the application requirements, you’ll get there. Once your license is approved, you’ll be official and ready to start representing reputable insurance carriers.
 
 This final step is your validation of all the hard work and study that got you to this point. Before you know it, you’ll be guiding friends, family, and future clients toward better insurance decisions.
 

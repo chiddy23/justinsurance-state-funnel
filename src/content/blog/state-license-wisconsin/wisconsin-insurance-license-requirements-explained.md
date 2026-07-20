@@ -16,7 +16,7 @@ imageAlt: >-
   insurance license requirements explained.
 ---
 
-Wisconsin's licensing requirements sit in a distinctive middle position among comparison states — PLE is required at 20 hours per line (same as Indiana and Minnesota), the exam is PSI (same as Minnesota and New Jersey; different from IN/MO/TN Pearson VUE and MD/VA Prometric), fingerprinting through Fieldprint is required (similar to Indiana's Gemalto requirement), and the application fee of $75 per line is among the higher fees. The most distinctive features are: the 8-hour shared PLE section (reusable across lines within 12 months); no combined exams (each line is separate — unlike Missouri's combined L&H and P&C); no mandatory retake waiting period (immediate reschedule — most lenient of all comparison states); PSI Bridge remote testing with Chrome requirement; and the BadgerCare Plus distinctive approach to Medicaid (Wisconsin's partial expansion — not full ACA expansion to 138% FPL). Here's the complete breakdown.
+Wisconsin's licensing requirements sit in a distinctive middle position among comparison states — PLE is required at 20 hours per line (same as Indiana and Minnesota), the exam is PSI (same as Minnesota and New Jersey; different from IN/MO/TN Pearson VUE and MD/VA Prometric), fingerprinting through Fieldprint is required (similar to Indiana's Gemalto requirement), and the application fee of $75 per line is among the higher fees. The most distinctive features are: the 8-hour shared PLE section (reusable across lines within 12 months); no combined exams (each line is separate — unlike Missouri's combined L&H and P&C); a roughly 2-calendar-day mandatory retake waiting period (on par with Indiana's 48 hours, longer than Missouri's/Minnesota's 24 hours, shorter than Maryland's 4 days); PSI Bridge remote testing with Chrome requirement; and the BadgerCare Plus distinctive approach to Medicaid (Wisconsin's partial expansion — not full ACA expansion to 138% FPL). Here's the complete breakdown.
 
 ## Eligibility Requirements
 
@@ -64,7 +64,7 @@ No combined exams: Wisconsin does NOT offer combined Life & Health or combined P
 
 PSI — same as Minnesota and New Jersey; different from Indiana/Missouri/Tennessee (Pearson VUE) and Maryland/Virginia (Prometric).
 
-Scheduling: test-takers.psiexams.com/wiins; (888) 818-5805; at least 2 days advance Remote: PSI Bridge — check compatibility at syscheck.bridge.psiexams.com; requires Google Chrome Spanish exams: Available Exam fee: $75 per exam Passing: 70% Score validity: Apply within 180 days of passing Results: Immediate on screen; email report Retakes: Unlimited; no mandatory waiting period (immediate reschedule) Cancel/reschedule: 48+ hours advance or forfeit fee
+Scheduling: test-takers.psiexams.com/wiins; (888) 818-5805; at least 2 days advance Remote: PSI Bridge — check compatibility at syscheck.bridge.psiexams.com; requires Google Chrome Spanish exams: Available Exam fee: $75 per exam Passing: 70% Score validity: Apply within 180 days of passing Results: Immediate on screen; email report Retakes: Unlimited; approximately a 2-calendar-day mandatory waiting period before rescheduling Cancel/reschedule: 48+ hours advance or forfeit fee
 
 Wisconsin exam specifications:
 
@@ -78,7 +78,7 @@ Previously licensed same line: May take "State Specific Series" only (shorter ex
 
 Required for all unlicensed first-time applicants.
 
-Vendor: Fieldprint Wisconsin ($36.00)
+Vendor: Fieldprint Wisconsin ($34.75)
 
 fieldprintwisconsin.com; code: FPWIOCIInsurance
 
@@ -116,7 +116,7 @@ Veterans: Exam fee reimbursement; initial license fee waiver — see OCI Veteran
 
 - How does Wisconsin's PLE compare to Indiana's and Minnesota's? All three states require 20 hours per line. Wisconsin's 8-hour common section that can be shared across lines within 12 months is a practical efficiency — Indiana's PLE is line-specific per exam (no shared section); MN's PLE has a lifetime certificate validity (vs. Wisconsin's 1-year). The key Wisconsin distinction is the no-combined-exam policy — unlike Missouri (which offers combined L&H and P&C exams), Wisconsin requires each line's PSI exam separately.
 - What is the PSI Bridge remote testing requirement and how is it distinctive? PSI Bridge requires Google Chrome — specifically stated by OCI and confirmed by multiple sources. This is different from Missouri/Indiana's Pearson VUE OnVUE (multi-browser) and Minnesota's PSI Bridge (which may also require Chrome). Before scheduling remote testing, candidates must check compatibility at syscheck.bridge.psiexams.com. If the system check fails, candidates must schedule in-person at a PSI test center.
-- What is Wisconsin's "no mandatory retake waiting period" and why is it significant? After failing a Wisconsin PSI exam, candidates can immediately reschedule — no 24-hour, 48-hour, or longer mandatory wait. This is the most lenient retake policy of all comparison states (Indiana: 48 hours; Missouri: 24 hours; Minnesota: 24 hours; Maryland: 4 days). The immediate reschedule allows candidates to review their diagnostic report, focus on weak areas, and test again at the earliest available appointment. Each retake costs another $75.
+- What is Wisconsin's mandatory retake waiting period and how does it compare? After failing a Wisconsin PSI exam, candidates must wait approximately 2 calendar days before rescheduling. That's roughly on par with Indiana's 48-hour wait, longer than Missouri's or Minnesota's 24-hour waits, but shorter than Maryland's 4-day wait. Candidates should use the wait to review their diagnostic report, focus on weak areas, and test again at the earliest available appointment once the wait ends. Each retake costs another $75.
 - What is the Wisconsin $1.00 per credit hour CE reporting fee? Wisconsin charges a $1.00 per credit hour fee when CE completions are reported to OCI. This is collected by OCI-approved CE providers and reported within one business day. For a 24-hour CE cycle, this is $24 in reporting fees — a small but specifically Wisconsin fee structure not found in most comparison states (Indiana, Missouri, Maryland do not have this per-credit-hour reporting fee).
 - What is BadgerCare Plus and why is Wisconsin's approach distinctive? BadgerCare Plus is Wisconsin's Medicaid program. Unlike states that fully expanded Medicaid under the ACA to 138% FPL (Indiana through HIP 2.0; Missouri through MO HealthNet; Minnesota), Wisconsin used a Section 1115 waiver to cover adults at or below 100% FPL — but directed adults from 100-138% FPL to the Healthcare.gov marketplace with federal subsidies. This "partial expansion" is specifically Wisconsin and specifically testable — no other comparison state took this exact approach.
 

@@ -79,7 +79,7 @@ DIFS Fraud Investigation Unit (FIU): A criminal justice agency within DIFS dedic
 
 DIFS Contact:
 
-Phone: (877) 999-6442
+Phone: (517) 284-8800
 
 Email: DIFS-Licensing@michigan.gov
 

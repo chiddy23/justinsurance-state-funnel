@@ -18,23 +18,25 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-If you are exploring a dynamic path in the insurance industry, the [Maryland adjuster license](/maryland) process may set you on track for a rewarding career. Whether you live in Baltimore or further along the Washington corridor, becoming a licensed adjuster opens the door to specialized roles in property and casualty, life and health, or other insurance lines. With the right preparation, you can complete the necessary steps quickly and confidently.
+If you are exploring a dynamic path in the insurance industry, the [Maryland adjuster license](/maryland) process is worth understanding clearly before you invest time or money in it. **Maryland does not require a state license for staff, independent, or catastrophe claims adjusters.** The Maryland Insurance Administration (MIA) only licenses **public adjusters** — professionals who represent policyholders (not insurers) in negotiating and settling claims. If you plan to work as a staff or independent adjuster handling claims on behalf of an insurance company, you will typically need a non-resident adjuster license from your home state (states like Florida, Texas, or Indiana commonly serve this purpose) rather than a Maryland license. This guide focuses on what is actually required if you want to become a licensed **Maryland public adjuster**.
 
-## Consider adjuster role benefits
+## Consider the public adjuster role
 
-A licensed adjuster plays a key part in resolving insurance claims and safeguarding clients from financial losses. In this role, you gather evidence, evaluate damages, and negotiate settlements. It is both challenging and gratifying, especially if you enjoy helping people recover after unexpected events.
+A licensed public adjuster represents the policyholder — not the insurance company — when a claim is filed. In this role, you gather evidence, evaluate damages, and negotiate directly with the insurer on your client's behalf to help them recover a fair settlement. It is both challenging and gratifying, especially if you enjoy advocating for people recovering after unexpected losses.
 
-Adjusting also offers high flexibility and an opportunity to specialize in specific insurance areas. You might focus on auto claims, homeowners policies, or even commercial property. Having your Maryland license assures employers and clients that you meet industry standards, protecting your credibility and professional reputation.
+Public adjusting also offers flexibility and the chance to specialize, whether in residential property claims, commercial property, or catastrophe-related losses. Holding a Maryland public adjuster license assures clients that you are held to the state's professional and ethical standards.
 
-## Learn licensing requirements
+If you instead plan to work as a staff or independent adjuster for an insurance carrier, note again that Maryland does not require you to hold a Maryland-issued adjuster license for that work — check with your employer and your home state's licensing rules instead.
 
-Before diving into coursework or exams, you need to confirm that you meet Maryland’s basic licensing requirements. Generally, you need to be at least 18 years old, a resident of Maryland (or a resident from another state whose laws are similar to Maryland’s), and able to pass a background check. Fingerprinting is usually required so that the state can review your criminal history record.
+## Learn public adjuster licensing requirements
 
-Your [pre-licensing](/maryland/prelicensing) education is the next big step. Depending on the line of authority you choose, [Maryland prelicensing courses](/maryland/prelicensing) may require a set number of classroom or self-study hours. Make sure you understand which courses align with your goal, whether it is property, casualty, life, health, or a combination. Completion of these foundational lessons ensures you have the knowledge to pass the state exam and perform effectively on the job.
+Before diving into the exam, confirm you meet Maryland's basic requirements for a public adjuster license, including being of legal age and submitting the required application (individuals submit the NAIC Uniform Individual Application; business entities must employ licensed adjusters and submit the NAIC Uniform Business Entity Application). The [Maryland Insurance Administration](https://insurance.maryland.gov/Producer/pages/publicadjusters.aspx) publishes the current application requirements and fees — confirm the specifics there before you apply, since requirements can change.
+
+Unlike producer licensing, Maryland does not publish a fixed pre-licensing education-hour requirement for public adjusters. Rather than guessing at study hours, review the MIA's public adjuster page directly and consider a reputable [exam-prep course](/maryland/prelicensing) if you want structured review material before test day.
 
 ## Navigate the exam steps
 
-Once your coursework is behind you, it is time to tackle the Maryland Adjuster Exam. This test is typically multiple-choice and covers industry essentials such as insurance regulation, policy types, claims handling, and exam ethics. You will want to study a variety of question formats, because scenario-based or situational questions often appear on the test.
+Once you are ready, you will need to pass the Public Adjuster exam, which Maryland administers through **Prometric** — the same vendor Maryland uses for its resident producer exams. The test covers industry essentials such as insurance regulation, policy types, claims handling, and ethics. You will want to study a variety of question formats, because scenario-based or situational questions often appear on the test.
 
 Try to schedule your exam at a testing center or through a remote testing option as soon as you feel prepared. Practice tests can help you gauge your readiness and review unfamiliar topics. On exam day, remember to bring the required identification documents and arrive early to check in. A calm mindset, good note-taking habits, and a steady review of your study materials can make all the difference.
 
@@ -56,19 +58,19 @@ Check basic eligibility (age and residency)
 
 2
 
-Complete pre-licensing courses
+Prepare and study for the Public Adjuster exam
 
 1–3 weeks
 
 3
 
-Schedule and pass the adjuster exam
+Schedule and pass the Public Adjuster exam via Prometric
 
 1 day (exam date)
 
 4
 
-Undergo fingerprinting and background check
+Complete the required background/application review
 
 1 day
 
@@ -82,21 +84,23 @@ Each person’s experience may differ, particularly if you have to retake the ex
 
 ## FAQs about licensing
 
-Below are answers to five common questions that often arise during the Maryland adjuster license process.
+Below are answers to common questions that often arise during the Maryland public adjuster licensing process.
 
-1.  How many study hours do I need before taking the Maryland Adjuster Exam?  
-    The required hours can vary, but most lines of authority recommend at least 20 to 40 hours of dedicated study, either in a physical classroom or self-paced online setting. Check with the [Maryland Insurance Administration](/maryland/requirements) for the current guidelines.
-2.  Can I hold multiple lines of authority under a single adjuster license?  
-    Yes. It is possible to qualify for multiple lines (property, casualty, life, and health). Each line usually demands specialized coursework, and you might need to pass separate exam portions depending on the license class.
-3.  Is there a limit to how many times I can retake the exam if I fail?  
+1.  Does Maryland require a license for staff, independent, or catastrophe adjusters?  
+    No. The Maryland Insurance Administration only licenses **public adjusters**, who represent policyholders. If you work as a staff, independent, or catastrophe adjuster for an insurer, Maryland does not require you to hold a Maryland-issued adjuster license — check with your employer and your home-state licensing requirements instead.
+2.  How many study hours do I need before taking the Public Adjuster exam?  
+    Maryland does not publish a fixed pre-licensing study-hour requirement for public adjusters. Check the [Maryland Insurance Administration](https://insurance.maryland.gov/Producer/pages/publicadjusters.aspx) for current guidelines, and consider a prep course if you want structured review material.
+3.  Is a Maryland public adjuster license split into multiple lines of authority?  
+    No. Maryland issues a single public adjuster license type — it is not divided into life, health, property, and casualty lines the way a resident producer license is.
+4.  Is there a limit to how many times I can retake the exam if I fail?  
     Maryland does not typically impose a strict limit on exam retakes. However, you must pay the exam fee each time. Review missed questions, focus on weak spots, and retake the exam once you feel fully prepared.
-4.  Will I need [continuing education](/maryland/continuing-education) (CE) after obtaining the license?  
-    Generally, Maryland requires adjusters to meet ongoing [Maryland continuing education](/maryland/continuing-education) requirements to maintain active licensure. These classes keep you informed about regulatory updates and new policies. Noncompliance can lead to license suspension, so stay on top of your renewal dates.
-5.  Can I apply for a reciprocal license if I move or work across state lines?  
-    Many states have reciprocal agreements with Maryland, considering that you hold an active, valid license in good standing. You can often apply for a license in the new state without repeating the entire pre-licensing process. Always verify specific rules for each state.
+5.  Will I need continuing education (CE) after obtaining the license?  
+    Yes. Maryland requires resident public adjusters to complete ongoing CE (24 hours per renewal period, including 3 hours of ethics) to maintain active licensure. Noncompliance can lead to license suspension, so stay on top of your renewal dates.
+6.  Can I apply for a reciprocal license if I move or work across state lines?  
+    Non-resident public adjusters who hold an active, valid license in good standing in their home state may be able to apply for a Maryland non-resident public adjuster license. Always verify current reciprocity rules directly with the MIA.
 
 ## Your next steps
 
-As soon as you have your paperwork and study plan squared away, you are well on your way to becoming a Maryland adjuster. If you prefer personalized support, JustInsurance can help you navigate course selections and exam preparation. They offer guidance on choosing the right path for your situation, whether you aim to work in a local agency or expand into broader insurance fields.
+As soon as you understand whether the Maryland public adjuster license actually applies to your career goals, you can move forward with confidence. If you plan to work as a staff or independent adjuster instead, focus your energy on your home-state license rather than a Maryland-specific one. If you prefer personalized support figuring out which path fits your goals, JustInsurance can help you navigate your options.
 
 Now is the time to take charge of your new professional journey. Secure your license, build valuable experience, and enjoy the benefits of a career that allows you to be there for others when they need you most. If you are ready to jump in, set your schedule, gather your study tools, and make your mark in Maryland’s insurance industry.

@@ -61,7 +61,7 @@ Despite these trade-offs, many agents find that part-time work strikes just the 
 ## FAQ about part-time insurance agent salary
 
 1.  How much can you make as a part-time insurance agent?  
-    Your earnings can range from a few hundred dollars each month to several thousand, depending on factors such as your commission rates, niche focus, and how much time you invest. Some part-time agents build a strong client list and approach full-time incomes through efficient lead generation and strategic sales efforts.
+    Your earnings can range from a few hundred dollars each month to several thousand, depending on factors such as your commission rates, niche focus, and how much time you invest. Some part-time agents build a strong client list and approach full-time incomes through efficient lead generation and strategic sales efforts. *Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 2.  Do you need a license to earn a commission?  
     Yes. You must obtain the required insurance license(s) in your state before selling policies or earning commissions. Different lines of insurance may need separate licenses, so be sure to check local regulations for the types of coverage you plan to offer.
 3.  Can you transition from part-time to full-time?  

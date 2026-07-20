@@ -291,6 +291,8 @@ Eastern Washington income levels are below Seattle but must be evaluated against
 
 Salary.com Spokane: Average $57,583/year
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 Established specialty practice (Spokane): $80,000-$140,000
 
 Healthcare professional specialist (Spokane): $100,000-$180,000

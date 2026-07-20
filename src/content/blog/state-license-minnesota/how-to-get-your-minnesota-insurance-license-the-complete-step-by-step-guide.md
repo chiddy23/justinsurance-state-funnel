@@ -108,7 +108,7 @@ Most candidates who study consistently complete the entire process — prelicens
 
 Receiving your Minnesota producer license is the beginning, not the end, of your licensing obligations.
 
-CE requirement: You must complete 24 hours of [continuing education](/minnesota/continuing-education) every two years, including 3 hours of ethics. At least 12 of those 24 hours must be classroom or classroom-equivalent format. At least 12 hours must not be sponsored by or affiliated with any insurance company. JustInsurance reports CE completions to the Minnesota Department of Commerce the same day you finish — no paperwork required.
+CE requirement: You must complete 24 hours of [continuing education](/minnesota/continuing-education) every two years, including 3 hours of ethics. At least 12 of those 24 hours must not be sponsored by or affiliated with any insurance company — this can be satisfied entirely through self-paced online courses from an independent provider. JustInsurance typically reports CE completions to the Minnesota Department of Commerce the same day you finish — no paperwork required.
 
 Renewal deadline: Your license renews on the last day of your birth month, biennially. You may renew up to 90 days before the expiration date. Renewal is submitted electronically through NIPR with a $50 renewal fee plus a $30 technology surcharge.
 

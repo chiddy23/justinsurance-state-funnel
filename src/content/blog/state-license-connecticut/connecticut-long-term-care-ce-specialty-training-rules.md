@@ -216,9 +216,7 @@ This investment is reasonable given the LTC market opportunity and ongoing natur
 
 To find approved Connecticut LTC training:
 
-State Based Systems (SBS) Course Lookup. Lists approved LTC training courses.
-
-Pearson VUE Provider and Course Lookup. Comprehensive list of approved providers.
+State Based Systems (SBS) Course Lookup. Lists approved LTC training courses. (Note: Pearson VUE administers Connecticut's licensing exam only — it does not maintain a CE provider or course lookup.)
 
 Connecticut Partnership Program directly. The Partnership Program may maintain its own list of approved Partnership training providers.
 

@@ -22,9 +22,9 @@ Here's a realistic breakdown of what Texas insurance agents actually earn.
 
 ## The Short Answer
 
-Life and health insurance agents in Texas typically earn between $45,000 and $95,000 in their first few years, with experienced agents regularly earning $100,000 to $200,000+ once they've built a solid book of business.
+Life and health insurance agents in Texas typically earn between $30,140 and $38,310 in their first year, with experienced agents earning $47,530 to $77,270 — and top producers with an established book of business reaching upwards of $121,590, according to public labor-market data.
 
-But those numbers don't tell the full story. Insurance income isn't a straight salary — it's built on commissions, renewals, and long-term client relationships. Understanding how the income actually works helps you see the real potential.
+But those numbers don't tell the full story. Insurance income isn't a straight salary — it's built on commissions, renewals, and long-term client relationships. Understanding how the income actually works helps you see the real potential. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## How Insurance Agents Get Paid in Texas
 

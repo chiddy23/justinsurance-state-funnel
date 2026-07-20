@@ -44,7 +44,7 @@ PLE: 20 hrs/line; 8 hrs general; 12 hrs line-specific; Certificate 1 year; bring
 
 Exemptions: WI tech college; 4-yr business/insurance; veterans; designations; Form OCI 11-026; 90 days prior
 
-PSI: $75/exam; no combined; 70% both sections ONE sitting; 180-day validity; no wait retake; PSI Bridge (Chrome); Fieldprint $36 FPWIOCIInsurance 180 days
+PSI: $75/exam; no combined; 70% both sections ONE sitting; 180-day validity; ~2-day retake wait; PSI Bridge (Chrome); Fieldprint $34.75 FPWIOCIInsurance 180 days
 
 Application: $75/line + $10 + $5.60; 48-72 hr wait; 180 days to apply; 90 days docs; 1-3 business days
 

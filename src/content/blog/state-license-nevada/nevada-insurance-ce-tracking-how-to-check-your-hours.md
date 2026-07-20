@@ -176,7 +176,7 @@ CE transcript for NFIP training (if approved for CE credit)
 
 Beyond tracking hours, track your renewal date:
 
-Calendar your renewal date prominently. Last day of your birth month for initial renewal, first day of the month following issuance for subsequent 3-year cycles.
+Calendar your renewal date prominently. Nevada licenses renew every 3 years, by the last day of your birth month.
 
 Set milestone reminders:
 

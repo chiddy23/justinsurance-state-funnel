@@ -110,4 +110,4 @@ DOBI's CE database includes both approved providers and their approved courses. 
 
 Finding DOBI-approved CE providers in New Jersey is not complicated — but verifying approval before you register, rather than assuming it, is the difference between hours that count and hours that do not. The DOBI database, your Sircon transcript, and your certificates of completion are the three tools that keep your CE compliance airtight every renewal period.
 
-Visit JustInsurance to enroll today and complete your NJ CE through DOBI-approved courses with same-day reporting to Sircon.
+Visit JustInsurance to enroll today and complete your NJ CE through DOBI-approved courses with same-day reporting to Sircon in most cases.

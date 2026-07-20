@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Mikhail Nilov on Pexels
 ---
 
-When you’re pursuing or renewing your insurance license in New York, there’s one critical factor you can’t ignore: your [New York continuing education](/new-york/continuing-education) (CE) deadlines. Juggling these obligations might seem overwhelming, but it doesn’t have to be. A straightforward plan and the right resources can keep your license current and allow you to focus on advancing your insurance career. This post will guide you through the essential steps so you stay on track with your New York insurance CE deadlines.
+When you’re pursuing or renewing your insurance license in New York, there’s one critical factor you can’t ignore: your New York continuing education (CE) deadlines. Juggling these obligations might seem overwhelming, but it doesn’t have to be. A straightforward plan and the right resources can keep your license current and allow you to focus on advancing your insurance career. This post will guide you through the essential steps so you stay on track with your New York insurance CE deadlines.
 
 ## Master your NY CE basics
 
@@ -64,7 +64,7 @@ In any situation, it’s important to be proactive. If you suspect you qualify, 
 
 ## Keep building your expertise
 
-[Continuing education](/new-york/continuing-education) isn’t just a box to check. It can strengthen your professional reputation and skill set, particularly in a fast-paced market like New York. When you’re choosing classes, look for courses that enrich your existing knowledge or help you branch out into new areas, be it advanced underwriting concepts, marketing tactics, or specialized insurance products.
+Continuing education isn’t just a box to check. It can strengthen your professional reputation and skill set, particularly in a fast-paced market like New York. When you’re choosing classes, look for courses that enrich your existing knowledge or help you branch out into new areas, be it advanced underwriting concepts, marketing tactics, or specialized insurance products.
 
 By viewing CE requirements as an opportunity for growth, you’ll turn these study hours into an investment in your future. Clients appreciate an insurance professional who stays up-to-date on changing laws and industry trends. Ultimately, your commitment to ongoing education can shape you into a trusted advisor, not just someone who sells policies.
 

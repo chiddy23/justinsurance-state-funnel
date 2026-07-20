@@ -18,9 +18,9 @@ An existing Colorado insurance license authorizes you to sell only the lines of 
 
 Adding a new line of authority to an existing Colorado license requires:
 
-Completing [prelicensing](/colorado/prelicensing) education for the new line — 50 hours per line (40 general + 10 Colorado-specific); 90 hours for combined Life + A&H
+Completing [prelicensing](/colorado/prelicensing) education for the new line — 50 hours per line (40 general + 10 Colorado-specific); 100 hours total if pursuing both Life and A&H, since each is a separate 50-hour course (Colorado has no combined course)
 
-Passing the Pearson VUE exam for the new line — $47 exam fee, 70% passing score
+Passing the Pearson VUE exam for the new line — $48 exam fee, 70% passing score
 
 Submitting a line-of-authority addition application through NIPR or Sircon — $47 per new line
 
@@ -54,7 +54,7 @@ For existing producers adding a second major line (e.g., adding Property/Casualt
 
 Schedule your exam at pearsonvue.com/co/insurance or by calling (800) 274-2616. The process is identical to initial licensing:
 
-$47 exam fee, paid at scheduling
+$48 exam fee, paid at scheduling
 
 70% passing score required
 
@@ -76,13 +76,13 @@ The Division processes line additions in the same timeframe as new licenses — 
 
 ## The Most Common Line Addition Scenarios
 
-Life/A&H producer adding Property/Casualty: This is the most common expansion in Colorado's multi-line market. A Life/Health producer who has built a personal lines book of clients and wants to offer auto, homeowners, and umbrella coverage needs full Property and Casualty authority. This requires 100 additional hours of prelicensing (50 for Property + 50 for Casualty), two Pearson VUE exams (though these can be taken in a single combined session for $47 at a physical test center), and two $47 line addition applications.
+Life/A&H producer adding Property/Casualty: This is the most common expansion in Colorado's multi-line market. A Life/Health producer who has built a personal lines book of clients and wants to offer auto, homeowners, and umbrella coverage needs full Property and Casualty authority. This requires 100 additional hours of prelicensing (50 for Property + 50 for Casualty), two Pearson VUE exams (though these can be taken in a single combined session at a physical test center — confirm current combined-session pricing with Pearson VUE), and two $47 line addition applications.
 
-P&C producer adding Life/A&H: A Property/Casualty producer who wants to offer life insurance, disability income, or health coverage to their existing commercial and personal clients needs combined Life + Accident & Health authority. The 90-hour combined prelicensing course is the most efficient path. One combined exam (or two separate exams) and two line addition applications ($47 each).
+P&C producer adding Life/A&H: A Property/Casualty producer who wants to offer life insurance, disability income, or health coverage to their existing commercial and personal clients needs both Life and Accident & Health authority. This requires the two separate 50-hour courses (100 hours total — Colorado has no combined course), two separate Pearson VUE exams (there is no combined exam), and two line addition applications ($47 each).
 
 Personal Lines producer adding full Property and Casualty: A producer who started with Personal Lines authority and wants to write commercial accounts must add Property and Casualty authority separately. Personal Lines authority does not upgrade to full P&C — it requires the complete prelicensing and exam process for both Property and Casualty as new lines.
 
-Life producer adding Accident & Health (or vice versa): A producer with only Life authority adding standalone A&H, or vice versa, completes the 50-hour A&H course and passes the A&H exam. If you are considering this, evaluate whether starting fresh with the 90-hour combined Life/A&H course might have been more efficient — but for an existing single-line producer, the 50-hour addition is the correct path.
+Life producer adding Accident & Health (or vice versa): A producer with only Life authority adding standalone A&H, or vice versa, completes the 50-hour A&H course and passes the A&H exam. There is no combined Life/A&H course to consider instead — each line always requires its own separate 50-hour course and exam, so the 50-hour addition is simply the second of the two courses a dual-line producer needs.
 
 ## How the Line Addition Affects Your CE Obligation
 

@@ -24,6 +24,8 @@ Here's an honest breakdown of Washington insurance agent income.
 
 Washington insurance agents typically earn between $45,000 and $80,000 in their first several years, with experienced agents regularly reaching $90,000 to $165,000 once they've built an established book of business. Top producers, agency owners, and specialists working tech-executive, healthcare professional, or commercial lines niches can earn $180,000 to $350,000+ annually.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 Salary data from major sources shows a wide range reflecting the diversity of agent roles:
 
 Glassdoor (January 2026): Average $124,092/year; 25th-75th percentile $95K-$165K; top earners up to $210K

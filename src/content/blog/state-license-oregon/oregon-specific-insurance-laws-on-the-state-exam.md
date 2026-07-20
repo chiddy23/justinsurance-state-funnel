@@ -148,9 +148,9 @@ Mandated benefits: Oregon requires specific health insurance benefits beyond fed
 
 ## Oregon Annuity Best Interest Standard
 
-Oregon requires producers selling annuities to comply with annuity Best Interest standards. This includes:
+Oregon requires producers selling annuities to comply with annuity Best Interest standards, consistent with the NAIC Best Interest model. This includes:
 
-One-time 4-hour Annuity Best Interest training required before selling annuities
+Annuity Best Interest training required before selling annuities — confirm the current hour requirement with the Oregon DFR, since it is not uniformly published
 
 Suitability analysis for each annuity recommendation
 
@@ -158,11 +158,9 @@ Documentation of recommendations and supporting analysis
 
 ## Oregon Long-Term Care Training
 
-Oregon requires specific training for producers selling long-term care insurance:
+Oregon requires specific training for producers selling long-term care insurance, though a single standardized hour count is not publicly posted — confirm current requirements with the Oregon DFR before selling LTC:
 
-Initial 8-hour training required before selling LTC
-
-4-hour ongoing training every 2-year license period after initial training
+Initial and ongoing training required before selling LTC
 
 These training requirements ensure producers understand LTC product complexity and client suitability considerations.
 

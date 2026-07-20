@@ -16,7 +16,7 @@ imageAlt: >-
   indiana insurance producer license.
 ---
 
-Indiana's insurance licensing process is administered by the Indiana Department of Insurance (IDOI) under Indiana Code Title 27, Article 1 — a regulatory framework notable for requiring [prelicensing](/indiana/prelicensing) education at 20 hours per line, a fingerprint-based background check through Gemalto, and a Pearson VUE exam administered at the distinctive combination of Ivy Tech Community College locations and standard Pearson VUE test centers. The exam fee is $69, the application fee is $40, and the 6-month window (from PLE completion and exam passing to application) creates a clear sequential timeline. Indiana is home to Eli Lilly (one of the world's largest pharmaceutical companies), Elevance Health (world's largest for-profit health insurer by enrollment), and the globally recognized Warsaw, Indiana orthopedic device cluster — creating specialty insurance markets that reward producers who develop genuine local expertise. Here's the complete guide.
+Indiana's insurance licensing process is administered by the Indiana Department of Insurance (IDOI) under Indiana Code Title 27, Article 1 — a regulatory framework notable for requiring [prelicensing](/indiana/prelicensing) education at 20 hours per line, self-disclosure (not fingerprinting) for the background check, and a Pearson VUE exam administered at the distinctive combination of Ivy Tech Community College locations and standard Pearson VUE test centers. The exam fee is $69, the application fee is $40, and the 6-month window (from PLE completion and exam passing to application) creates a clear sequential timeline. Indiana is home to Eli Lilly (one of the world's largest pharmaceutical companies), Elevance Health (world's largest for-profit health insurer by enrollment), and the globally recognized Warsaw, Indiana orthopedic device cluster — creating specialty insurance markets that reward producers who develop genuine local expertise. Here's the complete guide.
 
 ## Who Regulates Indiana Insurance
 
@@ -52,8 +52,6 @@ Health (Accident & Health): 20 hours
 
 Life & Health combined: 40 hours
 
-Property & Casualty combined: 40 hours
-
 Personal Lines: 20 hours
 
 Limited Title: 10 hours
@@ -78,7 +76,7 @@ Course completions reported to Sircon daily
 
 Find approved providers: sircon.com/Indiana → "Look up education courses/credits" → "Approved Courses Inquiry"
 
-JustInsurance's IDOI-approved Indiana prelicensing courses are fully online and self-paced.
+JustInsurance's IDOI-approved Indiana Life, Health, and Life & Health prelicensing courses are fully online and self-paced.
 
 Designation exemptions from PLE (IC 27-1-15.6-9): Life & A&H: CLU, CFP, CFC, CPCU, CIC, AAI; bachelor's degree in insurance P&C: CPCU, CIC, AAI Email request to [email protected] with license qualification + photocopy of designation certificate or degree. Critical: Even with a PLE waiver, must still pass the Laws & Regulations Assessment — a separate Indiana-specific laws exam via Pearson VUE.
 
@@ -112,19 +110,9 @@ Exam day: Bring one government-issued photo ID AND your Certificate of Completio
 
 Indiana Exam Specifications:
 
-## Step 3: Complete Fingerprint-Based Background Check
+## Step 3: Submit License Application
 
-Indiana requires fingerprinting:
-
-Vendor: Gemalto (Thales/IDEMIA)
-
-Fee: ~$47.35
-
-Electronic fingerprinting; results forwarded to IDOI for background check
-
-## Step 4: Submit License Application
-
-After passing exam and completing fingerprinting, apply through Sircon or NIPR:
+Indiana does not require fingerprinting for resident producer licensing — only self-disclosure on the NIPR application background questions. After passing the exam, apply through Sircon or NIPR:
 
 Application fee: $40 per license + $5.60 transaction fee
 
@@ -132,7 +120,7 @@ Apply within 6 months of both completing PLE and passing the Pearson VUE exam.
 
 Work authorization: All applicants must be U.S. citizens or legal aliens with proper work authorization. Documentation to [email protected].
 
-## Step 5: Maintain Your License
+## Step 4: Maintain Your License
 
 Renewal: 2 years; last day of birth month. Renewal fee: $40. Late fee: $160. CE: 24 hours (3 Ethics) + additional for annuities and LTC.
 
@@ -148,6 +136,6 @@ Renewal: 2 years; last day of birth month. Renewal fee: $40. Late fee: $160. CE:
 
 ## Start Your Indiana License Process
 
-Indiana's IDOI regulatory framework, Pearson VUE/Ivy Tech exam structure, and distinctive pharmaceutical and medical device market create a licensing environment with meaningful specialty career potential. JustInsurance's IDOI-approved Indiana prelicensing courses cover the full Pearson VUE content outline.
+Indiana's IDOI regulatory framework, Pearson VUE/Ivy Tech exam structure, and distinctive pharmaceutical and medical device market create a licensing environment with meaningful specialty career potential. JustInsurance's IDOI-approved Indiana Life and Health prelicensing courses cover the full Pearson VUE content outline for those lines.
 
 Enroll today and start building your Indiana insurance career.

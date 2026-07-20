@@ -24,7 +24,7 @@ Here's an honest breakdown of Connecticut insurance agent income.
 
 Connecticut insurance agents typically earn between $50,000 and $95,000 in their first few years, with experienced agents regularly reaching $110,000 to $220,000 once they've built a solid book of business. Top producers and agency owners can earn $250,000 to $500,000+ annually.
 
-These numbers reflect realistic outcomes, not ceiling potential. Connecticut's market — particularly in Hartford, Fairfield County, and major metro areas — supports strong earning potential for agents who specialize effectively.
+These numbers reflect realistic outcomes, not ceiling potential. Connecticut's market — particularly in Hartford, Fairfield County, and major metro areas — supports strong earning potential for agents who specialize effectively. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## How Insurance Income Works in Connecticut
 

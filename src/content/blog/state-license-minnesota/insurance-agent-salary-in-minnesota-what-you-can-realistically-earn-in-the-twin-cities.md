@@ -20,6 +20,8 @@ Multiple compensation data sources track Minnesota insurance agent earnings, eac
 
 Bureau of Labor Statistics (BLS) OEWS — May 2024: The BLS Occupational Employment and Wage Statistics survey is the most rigorous and consistently measured data source for occupational wages. For insurance sales agents in the Minneapolis-St. Paul-Bloomington MSA, the BLS reported a mean hourly wage of $50.44 in May 2024 — equating to approximately $104,915 annually. This figure represents the mean (average) across all insurance sales agents in the Twin Cities metropolitan area, including high-earning commercial lines producers, experienced independent agents, and salaried insurance roles. The mean is pulled upward by the highest earners.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 JustInsurance Minnesota page (BLS source): Insurance agents in Minnesota earn an average of $98,220 per year according to Bureau of Labor Statistics data.
 
 Salary.com (April 2026): Minnesota statewide average of $59,527. Minneapolis specifically at $60,882. Salary.com's methodology focuses on base salary benchmarks rather than total compensation including commission — making their figures lower than BLS data that captures total earnings including variable compensation.

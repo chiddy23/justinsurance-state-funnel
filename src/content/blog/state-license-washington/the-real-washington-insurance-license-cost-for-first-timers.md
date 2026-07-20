@@ -22,13 +22,13 @@ You might feel a bit overwhelmed when you first look into the [Washington insura
 
 ## Understand the main fees
 
-When you pursue an insurance license in Washington, you will generally encounter several main fees. The most common include [pre-licensing](/washington/prelicensing) education, exam costs, application and fingerprinting fees, plus any extras for additional lines of authority. These expenses can add up quickly, but the key is understanding each category so you can create a realistic budget.
+When you pursue an insurance license in Washington, you will generally encounter several main fees. The mandatory ones are exam costs, your application fee, and fingerprinting; optional [pre-licensing](/washington/prelicensing) education is an additional expense some candidates choose in order to prepare for the exam. These expenses can add up quickly, but the key is understanding each category so you can create a realistic budget.
 
 Keep in mind that fees can vary between providers and change over time. What you ultimately pay might differ slightly from someone else, especially if you choose specialized courses or need multiple lines like Life & Health or Property & Casualty. However, having a basic roadmap will help you avoid sticker shock.
 
 ## Plan your pre-licensing courses
 
-Before you can sit for your exam, you will likely need to complete a state-approved [Washington prelicensing course](/washington/prelicensing). These courses are designed to give you a solid foundation in insurance concepts and regulations, and are often the gateway to feeling confident when test day arrives.
+Washington does not require a state-approved pre-licensing course before you sit for your exam — that requirement was eliminated in 2023. Even so, many first-timers choose to complete an optional [Washington prelicensing course](/washington/prelicensing) to build a solid foundation in insurance concepts and regulations and feel confident when test day arrives.
 
 Many online platforms offer convenient self-paced courses. These can cost anywhere from $150 to $300 or more, depending on how comprehensive the package is. Some programs offer additional perks, such as exam simulations or instructor support, which may cost extra. If your budget is lean, you can find more basic options starting closer to $100, but be sure to balance cost with the quality of instruction.
 
@@ -36,11 +36,11 @@ Many online platforms offer convenient self-paced courses. These can cost anywhe
 
 Once you have finished your pre-licensing course and feel ready to test, you will schedule your official exam. This exam typically focuses on the specific line(s) of authority you plan to sell. Washington State has authorized testing centers, and you can usually register online or by phone.
 
-The exam fee often ranges around $55 to $65 per attempt, although exact pricing can be subject to change. If you do not pass on your first try, you will need to pay this fee again to retake the exam, so make sure you have studied thoroughly. This is where quality pre-licensing courses really pay off, helping you pass on the first go.
+The exam fee often ranges around $35 to $52 per attempt, although exact pricing can be subject to change. If you do not pass on your first try, you will need to pay this fee again to retake the exam, so make sure you have studied thoroughly. Solid exam prep, whether through an optional prelicensing course or independent study, really pays off in helping you pass on the first go.
 
 ## Cover application and fingerprint fees
 
-When you successfully pass the exam, you must then apply for your license with the [Washington Office of the Insurance Commissioner](/washington/requirements). There is an application fee, which generally falls around $60 for each license type. If you plan to hold multiple lines, you might pay separate fees, so keep that in mind when mapping out your budget.
+When you successfully pass the exam, you must then apply for your license with the [Washington Office of the Insurance Commissioner](/washington/requirements). There is an application fee, which generally falls around $55 for each license type. If you plan to hold multiple lines, you might pay separate fees, so keep that in mind when mapping out your budget.
 
 Fingerprinting is also a requirement in Washington for new license applicants. You will typically pay around $40 to $50 for digital fingerprinting. This is a one-time cost that supports the state’s background check, ensuring you meet the ethical standards required to sell insurance.
 
@@ -52,17 +52,17 @@ Expense
 
 Estimated Fee
 
-Pre-licensing course
+Pre-licensing course (optional, not required)
 
 $100 – $300+
 
 Exam fee (per attempt)
 
-$55 – $65
+$35 – $52
 
 License application
 
-~$60 per license type
+~$55 per license type
 
 Fingerprinting & background
 
@@ -72,9 +72,9 @@ Additional materials
 
 Varies (optional)
 
-Total (approximate range)
+Total (approximate range, mandatory costs only)
 
-$255 – $475+
+$350 – $500
 
 These figures are only estimates, but they give you a strong baseline to help plan how much to set aside. If you need more than one line of authority or decide to pay for premium course packages, you will probably pay on the higher end. On the other hand, if you shop around for deals, you could knock that total closer to the lower range.
 
@@ -91,7 +91,7 @@ It is easy to let costs snowball when each expense arrives at different times. F
 
 ### 1\. Do I have to take a pre-licensing course for every insurance line?
 
-Yes, Washington requires state-approved pre-licensing coursework for each line of authority you wish to sell. If you are going for both Life & Health and Property & Casualty at the same time, you will need to complete the respective courses for each.
+No. Washington does not require state-approved pre-licensing coursework for any line of authority — that requirement was eliminated in 2023. You are free to sit for the exam without a course, though many candidates still choose optional prep coursework for each line, such as Life & Health or Property & Casualty, to help them study.
 
 ### 2\. Can I skip fingerprinting if I already have a background check?
 

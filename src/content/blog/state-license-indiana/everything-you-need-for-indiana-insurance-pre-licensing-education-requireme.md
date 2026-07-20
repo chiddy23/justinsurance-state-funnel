@@ -28,7 +28,7 @@ By the time you finish your pre-licensing coursework, you will have a clear sens
 
 ## Meet required education hours
 
-Before hitting the books, it helps to know the specific hours you need. Indiana generally requires 40 total hours of pre-licensing education for each major line of authority you choose. This means 20 hours of classroom or online instruction on general insurance principles, plus 20 hours dedicated to state-specific rules.
+Before hitting the books, it helps to know the specific hours you need. Indiana generally requires 20 hours of pre-licensing education for each single line of authority, such as Life or Health. If you're pursuing both Life and Health, the combined course totals 40 hours.
 
 During these lessons, you will learn about everything from policy types and underwriting procedures to ethical practices and consumer protection laws. You might cover topics like term versus whole life insurance, or the scope of coverage in homeowner and liability policies. Present-day techniques, such as how to tailor policies for a small business, are often part of the curriculum too.
 
@@ -59,7 +59,7 @@ Do not forget to pay attention to the practical application of insurance scenari
 
 Once you pass your exam, you are just a few steps away from receiving your license. In Indiana, you will need to submit an application to the Indiana Department of Insurance and pay the associated fees, making sure your information is up to date and complete.
 
-Before filing, double-check that your background information is correct and that you have met all requirements for each line of authority you plan to sell, such as Life & Health or Property & Casualty. You may also have to undergo fingerprinting and a background check, so give yourself enough time to schedule and complete those tasks.
+Before filing, double-check that your background information is correct and that you have met all requirements for each line of authority you plan to sell, such as Life & Health or Property & Casualty. Indiana does not require fingerprinting for resident producer applicants — the background check is handled through self-disclosure questions on the NIPR application itself, so there's no separate appointment to schedule.
 
 Filing your application promptly after you pass your exam can eliminate unnecessary delays. Having your certificate of completion and exam results on hand reduces back-and-forth and speeds up the review process. Once the state approves your application, you can officially call yourself a licensed [Indiana insurance producer](/indiana).
 
@@ -68,13 +68,13 @@ Filing your application promptly after you pass your exam can eliminate unnecess
 Below are answers to some of the most common questions about the Indiana insurance pre-licensing process:
 
 1.  How long does my pre-licensing certificate remain valid?  
-    Your course completion certificate typically remains valid for one year from the date of issue. If you do not pass your exam within that time, you may need to retake the course.
+    Indiana's pre-licensing Certificate of Completion is valid for just 6 months from the date of issue — one of the shortest windows in the country. If you do not pass your exam and apply for your license within that time, you will need to retake the course.
 2.  Can I combine different lines of authority, like Life & Health and Property & Casualty?  
     Yes. You just need to meet the required hours for each line and pass the corresponding exams. This approach expands your career options and allows you to serve multiple client needs.
 3.  What if I fail the licensing exam on my first attempt?  
     You can retake the exam. However, you will be required to pay the exam fee again. Check with your exam provider for any waiting period rules.
 4.  Do I have to pay for fingerprinting separately?  
-    Often, yes. Most states use a third-party vendor for fingerprinting. Fees vary, so review the latest instructions from the Indiana Department of Insurance to confirm current costs and procedures.
+    No. Indiana does not require fingerprinting for resident producer licensing — you'll only need to answer self-disclosure background questions on the NIPR application, so there's no separate fingerprinting fee to budget for.
 5.  Is online study as effective as in-person classes?  
     It can be equally effective if you stay motivated. Many online courses include interactive content and progress checks to help you master the material at your own pace. Select a format that matches your learning style so you can retain the information efficiently.
 

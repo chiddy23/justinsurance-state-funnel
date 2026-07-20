@@ -122,7 +122,7 @@ Bankruptcy history
 
 Insurance company terminations for cause
 
-Answer honestly. Connecticut cross-references your answers against background check results.
+Answer honestly. Connecticut does not run a separate state or federal criminal-history check — your self-disclosure on this application is the background screening, so inaccurate answers can jeopardize your license.
 
 ## Step 5: Upload Supporting Documentation
 
@@ -166,9 +166,9 @@ After submission, the CID reviews:
 
 Your exam completion. Pearson VUE reports your exam results electronically.
 
-Your background check. State and federal criminal history check results flow to the CID.
+Your background disclosure. Connecticut relies on self-disclosure — there is no separate state or federal criminal-history check for the CID to receive.
 
-Your disclosure answers. Cross-referenced against available records.
+Your disclosure answers. Reviewed against your application for completeness and accuracy.
 
 Your application completeness. Missing information triggers requests for more.
 

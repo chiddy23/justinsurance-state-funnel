@@ -1,8 +1,9 @@
 ---
 title: Top Life and Health Insurance Exam Questions and Answers You Need
 description: >-
-  Life and health insurance exam prep prep guide with practice questions, study
+  Life and health insurance exam prep guide with practice questions, study
   strategies, and test-day tips from licensed agents. 93% first-attempt pass
+  rate among students who complete the course.
 keyword: life and health insurance exam prep
 targetKeywords: life and health insurance exam prep
 cluster: life-and-health-exam-prep

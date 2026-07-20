@@ -26,7 +26,7 @@ Understanding the exam format is crucial to feeling comfortable on test day. In 
 
 Expect computer-based, multiple-choice questions. The test typically requires quick thinking and familiarity with industry language. You will need to show you understand state laws and how different insurance products work in everyday life. For example, you might see a question on Washington’s specific licensing requirements or temporary insurance agreements. Focus on learning how terms and rules apply in real scenarios to boost both your confidence and your exam score.
 
-Exam fees vary from year to year. Be sure to check with official sources, such as the Washington Office of the Insurance Commissioner, for the latest information on scheduling, costs, and available exam times. The registration process tends to be straightforward, but it is a good idea to confirm you have all the right documents and prerequisites (like completing [Washington prelicensing education](/washington/prelicensing)) before signing up.
+Exam fees vary from year to year. Be sure to check with official sources, such as the Washington Office of the Insurance Commissioner, for the latest information on scheduling, costs, and available exam times. Washington does not require state-approved pre-licensing education before you sit for the exam, but the registration process still requires you to confirm you have all the right documents in place, including your background check and fingerprinting through IdentoGO. Many candidates still choose to work through [Washington prelicensing education](/washington/prelicensing) on a voluntary basis to prepare for the exam content.
 
 ## Build your study timeline                
 
@@ -64,7 +64,7 @@ A great way to prepare is by exposing yourself to the types of questions you mig
 2.  Which of the following is a requirement to be licensed as a producer in Washington?  
     A. Proof of U.S. citizenship  
     B. A bachelor’s degree in business  
-    C. Successful completion of [pre-licensing](/washington/prelicensing) education  
+    C. Fingerprinting and a criminal background check  
     D. One year of industry experience
 3.  Property & Casualty coverage typically includes which of these potential losses?  
     A. Personal injury only  
@@ -75,7 +75,7 @@ A great way to prepare is by exposing yourself to the types of questions you mig
 Answer Key and Explanations:
 
 -   (1) Correct answer: B. If the insurer cancels before the policy term ends, the policyholder typically receives a pro-rated refund of unearned premiums.
--   (2) Correct answer: C. In Washington, passing a state-approved pre-licensing course is mandatory ahead of the exam.
+-   (2) Correct answer: C. Washington requires fingerprinting and a criminal background check as part of the licensing process; state-approved pre-licensing education is not required to sit for the exam.
 -   (3) Correct answer: B. Property & Casualty insurance covers property damage and liability exposures, such as injuries to others.
 
 ## Frequently asked questions
@@ -93,6 +93,6 @@ Answer Key and Explanations:
 
 ## Final encouragement and next steps
 
-Getting your [Washington insurance license](/washington) is a milestone in your professional life—one that can open doors to meaningful career options in life & health or property & casualty insurance. If you have not already, double-check that you completed any required state-approved pre-licensing course. Mentors and seasoned colleagues are often eager to share advice, so do not hesitate to ask for guidance at any stage.
+Getting your [Washington insurance license](/washington) is a milestone in your professional life—one that can open doors to meaningful career options in life & health or property & casualty insurance. If you have not already, double-check that you have completed your fingerprinting and background check requirements (Washington does not require a state-approved pre-licensing course). Mentors and seasoned colleagues are often eager to share advice, so do not hesitate to ask for guidance at any stage.
 
 When you are ready, consider connecting with JustInsurance for additional support. From comprehensive study materials to tips on navigating the licensing process, they offer resources tailored to your needs. Above all, keep moving forward on your test prep. Stay positive, give yourself the breaks you need, and you will soon be one step closer to helping clients protect what matters most in their lives.

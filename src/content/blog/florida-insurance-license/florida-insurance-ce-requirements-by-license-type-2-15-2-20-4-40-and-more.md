@@ -34,17 +34,17 @@ The exact numbers depend on your license type and how long you've been licensed.
 
 ## CE by License Type
 
-2-15 License (Life, Health & Variable Annuity Agent) 24 hours every 2 years, including 5 hours of Law and Ethics (the "5-hour Law and Ethics Update" course) and 19 hours in approved elective topics.
+2-15 License (Life, Health & Variable Annuity Agent) 24 hours every 2 years for your first 6 years of licensure, including 4 hours of Law and Ethics (the "4-hour Law and Ethics Update" course) and 20 hours in approved elective topics. After 6 years, the total drops to 20 hours every 2 years.
 
-2-14 License (Life, Including Variable Annuity) 24 hours every 2 years, including the 5-hour Law and Ethics requirement.
+2-14 License (Life, Including Variable Annuity) 24 hours every 2 years for your first 6 years of licensure, including the 4-hour Law and Ethics requirement. After 6 years, the total drops to 20 hours every 2 years.
 
-2-40 License (Health Agent) 24 hours every 2 years, including the 5-hour Law and Ethics requirement.
+2-40 License (Health Agent) 24 hours every 2 years for your first 6 years of licensure, including the 4-hour Law and Ethics requirement. After 6 years, the total drops to 20 hours every 2 years.
 
-2-20 License (General Lines — Property, Casualty, Surety, Health, Marine) 24 hours every 2 years, including the 5-hour Law and Ethics requirement.
+2-20 License (General Lines — Property, Casualty, Surety, Health, Marine) 24 hours every 2 years for your first 6 years of licensure, including the 4-hour Law and Ethics requirement. After 6 years, the total drops to 20 hours every 2 years (still including the 4-hour Law and Ethics requirement).
 
-4-40 License (Customer Representative) 10 hours every 2 years, including the 5-hour Law and Ethics Update.
+4-40 License (Customer Representative) 10 hours every 2 years, including the 4-hour Law and Ethics Update.
 
-Adjuster Licenses (6-20, 5-20, etc.) 24 hours every 2 years, including the 5-hour Law and Ethics Update.
+Adjuster Licenses (6-20, 5-20, etc.) 24 hours every 2 years for your first 6 years of licensure, including the 4-hour Law and Ethics Update. After 6 years, the total drops to 20 hours every 2 years.
 
 ## The New Licensee Requirement
 
@@ -52,11 +52,11 @@ New agents in Florida have a different initial CE requirement. During your first
 
 Check with DFS for the exact breakdown that applies to your license and initial period — this is one of the most commonly misunderstood areas of Florida CE.
 
-## The 20-Year Exemption
+## The 6-Year Step-Down
 
-Florida offers a reduced CE requirement for long-tenured agents. Licensees who have held their Florida resident license continuously for 20 years or more may qualify for a reduced CE schedule — typically just the mandatory Law and Ethics Update course, rather than the full 24 hours.
+Florida reduces the CE requirement for licensees once they've been licensed a while. Agents complete 24 CE hours per renewal cycle for their first 6 years of licensure. After that, the requirement drops to 20 CE hours per cycle — still including the 4-hour Law and Ethics Update.
 
-This exemption only applies to agents meeting the tenure requirement and doesn't eliminate CE entirely — it reduces the elective hours.
+This step-down doesn't eliminate CE entirely — it simply lowers the elective-hour total once you pass the 6-year mark.
 
 ## What Counts Toward Your CE
 
@@ -74,9 +74,9 @@ Only courses approved by Florida DFS count. Approved courses include:
 
 Before enrolling in any CE course, confirm it's on the DFS-approved list. Non-approved courses don't count — no exceptions.
 
-## The 5-Hour Law and Ethics Update
+## The 4-Hour Law and Ethics Update
 
-Every 2-year cycle, most Florida agents must complete a specific 5-hour Law and Ethics Update course. This requirement is non-negotiable. The content is updated periodically to reflect legislative and regulatory changes, so the course you took last cycle won't count for this cycle.
+Every 2-year cycle, most Florida agents must complete a specific 4-hour Law and Ethics Update course. This requirement is non-negotiable. The content is updated periodically to reflect legislative and regulatory changes, so the course you took last cycle won't count for this cycle.
 
 ## Consequences of Missing CE
 
@@ -98,7 +98,7 @@ Don't let this happen. DFS sends renewal notices, but the ultimate responsibilit
 
 2. Can I complete my CE all at once in the final month? Technically yes, but it's risky. Last-minute completions that aren't reported in time cause problems. Aim to finish at least 30 days before your deadline.
 
-3. Do CE hours carry over if I complete extra? No. Hours completed in one cycle only apply to that cycle. Excess hours don't roll forward.
+3. Do CE hours carry over if I complete extra? Yes. Florida allows up to 24 excess CE hours to carry forward into your next renewal cycle. The 4-hour Law and Ethics Update is the exception — you must earn that fresh each cycle, since carried-over hours count as general credit only and can't satisfy the ethics requirement.
 
 4. Are there separate CE requirements if I hold multiple licenses? If your licenses are related (e.g., 2-15 and 2-20), some overlap is allowed. But you must meet the highest applicable total, and each license's specific requirements must be satisfied.
 
@@ -106,6 +106,6 @@ Don't let this happen. DFS sends renewal notices, but the ultimate responsibilit
 
 ## Stay Compliant the Easy Way
 
-At JustInsurance, our Florida CE courses are DFS-approved, updated regularly, and cover every license type — including the required 5-hour Law and Ethics Update.
+At JustInsurance, our Florida CE courses are DFS-approved, updated regularly, and cover every license type — including the required 4-hour Law and Ethics Update.
 
 Enroll today and renew your Florida license without the last-minute stress.

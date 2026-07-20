@@ -16,7 +16,7 @@ Most people who fail the New Jersey insurance exam did not fail because the mate
 
 ## Why 30 Days Works for Most Candidates
 
-New Jersey requires 20 hours of prelicensing education per line of authority, with three of those hours dedicated to ethics. That is a relatively modest requirement compared to states like New York (40 hours for Life) or Florida (60 hours for 2-20). The course content is manageable in under two weeks for most people, which leaves the second half of your 30 days for active review, practice testing, and targeted drilling on the state law section — the area where NJ candidates most commonly fall short.
+New Jersey requires 20 hours of prelicensing education per line of authority, with three of those hours dedicated to ethics. That is a relatively modest requirement compared to states like New York (20 hours per line, 40 for the combined Life & Health course) or Florida (60 hours for 2-20). The course content is manageable in under two weeks for most people, which leaves the second half of your 30 days for active review, practice testing, and targeted drilling on the state law section — the area where NJ candidates most commonly fall short.
 
 If you are taking two lines simultaneously (for example, Life and Health), add 10 days to this plan and treat each line's state-specific content as a separate study unit.
 
@@ -32,7 +32,7 @@ Target: 3 hours of course study per day, finishing all 20 required hours by the 
 
 Days 8 through 14 shift from reading to active recall. Go back through your notes and build a personal glossary of terms. Focus especially on: types of policies and their features, policy provisions (grace periods, reinstatement, incontestability), and the mechanics of contract law as applied to insurance. These topics appear across multiple question types and reward candidates who understand the concepts, not just the definitions.
 
-On Day 12 or 13, take your first full-length [practice exam](/new-jersey/practice-exam) under timed conditions. Do not check answers as you go. Complete all 83 questions, then review every single answer — both the ones you got right and the ones you got wrong. The goal is not the score; it is identifying your weak topic areas before the real exam.
+On Day 12 or 13, take your first full-length [practice exam](/new-jersey/practice-exam) under timed conditions. Do not check answers as you go. Complete every question on the practice exam for your line, then review every single answer — both the ones you got right and the ones you got wrong. The goal is not the score; it is identifying your weak topic areas before the real exam.
 
 ### Week 3: Dominate the State Law Section
 
@@ -54,7 +54,7 @@ Spaced repetition for definitions. Insurance exams test vocabulary heavily. Buil
 
 Question-first studying. After completing a topic in your course, immediately find and answer 5 to 10 practice questions on that topic before moving on. This forces you to apply what you just read while it is fresh.
 
-Time your practice sessions. The NJ exam gives you 210 minutes for 83 questions — about 2.5 minutes per question. You should be comfortably finishing practice sets well under pace. If you are regularly running out of time, your familiarity with the material needs work.
+Time your practice sessions. Every NJ exam line gives you 210 minutes, but the scored-question count varies by line — 83 for Life, 88 for Health, 79 for Property, 91 for Casualty — which works out to roughly 2 to 2.5 minutes per question depending on your line. You should be comfortably finishing practice sets well under pace. If you are regularly running out of time, your familiarity with the material needs work.
 
 ## A Word on the Prelicensing Certification Exam
 
@@ -72,16 +72,16 @@ Allocate your study time proportionally to the content outline weights published
 
 Can I take practice exams before the real NJ insurance exam?
 
-Yes, and you should. Practice exams are one of the most effective preparation tools available. Look for practice exams that mirror the PSI format — 83 multiple-choice questions, timed, with NJ-specific state law questions included. Review every question you miss in detail, not just the correct answer but why the other choices were wrong. Practice exams also serve as a diagnostic: if you are consistently scoring below 70% on full practice exams one week before your scheduled date, delay your PSI appointment and address the weak areas before you sit.
+Yes, and you should. Practice exams are one of the most effective preparation tools available. Look for practice exams that mirror the PSI format for your specific line — 83 multiple-choice questions for Life, 88 for Health, 79 for Property, or 91 for Casualty — timed, with NJ-specific state law questions included. Review every question you miss in detail, not just the correct answer but why the other choices were wrong. Practice exams also serve as a diagnostic: if you are consistently scoring below 70% on full practice exams one week before your scheduled date, delay your PSI appointment and address the weak areas before you sit.
 
 What if I finish my prelicensing course but don't feel ready for the exam?
 
-Your prelicensing certificate of completion in New Jersey never expires, which means there is no pressure to rush to the exam after finishing your course. Take the time you need to study. The PSI exam fee is $38, and retakes cost the same — but avoiding retakes by preparing thoroughly is always the better strategy, both for your confidence and your wallet. If you finish your course and feel uncertain, spend one to two additional weeks on active recall and practice testing before scheduling.
+Your prelicensing certificate of completion in New Jersey never expires, which means there is no pressure to rush to the exam after finishing your course. Take the time you need to study. The PSI exam fee is $47, and retakes cost the same — but avoiding retakes by preparing thoroughly is always the better strategy, both for your confidence and your wallet. If you finish your course and feel uncertain, spend one to two additional weeks on active recall and practice testing before scheduling.
 
 Is the NJ insurance exam hard to pass?
 
 The exam is challenging for candidates who treat it as a reading comprehension test rather than an application test. The questions do not ask you to recite definitions — they present fact patterns and require you to apply the correct rule to the situation. A candidate who understands why a policy provision works the way it does will consistently outperform one who memorized the definition. The 70% passing threshold means you can miss roughly 25 questions and still pass — but only if your knowledge is evenly distributed across the exam, not concentrated in a few topic areas you studied heavily at the expense of others.
 
-Building a 30-day study plan is not about discipline for its own sake — it is about giving your brain enough structured exposure to the material to answer 58 out of 83 exam questions correctly under exam conditions. Follow the plan, prioritize the state law section, and take at least two full practice exams before your PSI appointment.
+Building a 30-day study plan is not about discipline for its own sake — it is about giving your brain enough structured exposure to the material to correctly answer at least 70% of your line's exam questions under exam conditions. Follow the plan, prioritize the state law section, and take at least two full practice exams before your PSI appointment.
 
 Visit JustInsurance to enroll today and get access to NJ-approved prelicensing courses built around the PSI content outline.

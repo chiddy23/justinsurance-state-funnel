@@ -45,7 +45,7 @@ Once you confirm your eligibility, the next major step is to complete [New Jerse
 
 Most pre-licensing courses are delivered online or through in-person classes. Some study materials work better for certain learning styles, so look for an approved provider that matches your preferences. Emphasize [practice questions](/new-jersey/practice-exam) and review sessions, because consistent studying helps you retain the wealth of information you need for the exam.
 
-Costs for these courses vary. Some providers charge a flat fee that includes study guides, while others may bundle their pre-licensing program with exam preparation. Pre-licensing coursework typically ranges between 20 to 40 hours for each major line of authority (e.g., life insurance, health insurance), so be prepared to schedule enough time to complete the required hours.
+Costs for these courses vary. Some providers charge a flat fee that includes study guides, while others may bundle their pre-licensing program with exam preparation. Pre-licensing coursework in New Jersey is 20 hours per line of authority (e.g., life insurance, health insurance), or 40 hours total if you're pursuing both Life and Health, so be prepared to schedule enough time to complete the required hours.
 
 ## Register for the exam
 
@@ -71,7 +71,7 @@ A successful exam means you are only a couple of steps away from becoming a lice
 
 • A completed form with personal details, work background, and other legal information.  
 • Proof of passing your exam.  
-• Any application fee, which can run around $150 to $200 depending on the lines of authority you selected.
+• An application fee of around $170.
 
 Double-check all of your details to avoid processing delays. Any inaccuracies or missing documentation could slow down your license approval. Once you submit everything, the typical processing time varies, so it’s helpful to stay patient and keep your confirmation email handy in case you need to reference it.
 

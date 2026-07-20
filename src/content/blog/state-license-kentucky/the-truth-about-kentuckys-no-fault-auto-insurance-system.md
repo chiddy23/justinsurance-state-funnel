@@ -48,8 +48,6 @@ For claims that proceed beyond the no-fault system, Kentucky applies pure compar
 
 Kentucky enforces its mandatory insurance requirement through the Kentucky Automated Vehicle Information System (KAVIS). Driving without the required coverage violates KRS 304.39-080 and carries penalties including fines starting at $500 for a first offense, driver's license revocation, and vehicle registration suspension.
 
-## Auto Insurance Laws: State Comparison
-
 ## Frequently Asked Questions
 
 - Is Kentucky a no-fault or at-fault auto insurance state? Kentucky is a "choice no-fault" state. By default, drivers are enrolled in the no-fault system, which means their own PIP coverage pays for injury claims first regardless of fault. However, drivers can opt out of the no-fault system by filing a written rejection with the KDOI, which gives them full tort rights but removes PIP protection.

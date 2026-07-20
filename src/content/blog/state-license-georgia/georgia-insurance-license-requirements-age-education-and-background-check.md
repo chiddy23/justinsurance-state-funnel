@@ -136,7 +136,7 @@ Fingerprint payment. You'll pay the fingerprinting fee directly to the provider 
 
 Application fee. The resident license application fee is approximately $100, paid through NIPR or Sircon at application submission.
 
-Exam registration fee. Prometric charges approximately $63 per exam attempt. This is separate from application and fingerprint fees.
+Exam registration fee. Pearson VUE charges approximately $67 per exam attempt. This is separate from application and fingerprint fees.
 
 ## 5 Frequently Asked Questions
 

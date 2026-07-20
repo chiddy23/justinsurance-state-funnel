@@ -42,7 +42,7 @@ Arizona's CE renewal cycle is tied to your birth month:
 
 Standard renewal date = Last day of your birth month, every 4 years
 
-Note on HB 2054: The June 2025 Arizona legislation (HB 2054) standardized license renewal dates to December 31 going forward. This change affects the fee renewal date. Producers should verify their specific CE deadline through DIFI or the SBS portal, as the CE compliance date and fee renewal date are both affected by the HB 2054 transition.
+Your CE deadline and license renewal date are the same date — both fall on the last day of your birth month, every 4 years. Confirm your exact renewal date through your DIFI account or the SBS portal if you're unsure.
 
 DIFI's strong advice: Complete CE early. DIFI explicitly warns that there can be a delay between when you complete a course and when the completion posts to your transcript or you receive a Certificate of Compliance. If DIFI does not receive your complete renewal application — including evidence of CE completion — by your renewal date, you must stop conducting insurance business until the license is renewed.
 

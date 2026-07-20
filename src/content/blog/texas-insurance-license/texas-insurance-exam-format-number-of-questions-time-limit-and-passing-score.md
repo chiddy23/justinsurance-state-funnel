@@ -26,7 +26,7 @@ The Texas Department of Insurance contracts with Pearson VUE to administer all i
 
 ## Exam Breakdown by License Type
 
-Most candidates sit for the combined Life & Health exam to earn the 2-15 license, which allows you to sell both lines of coverage.
+Most candidates sit for the combined Life & Health exam, which allows you to sell both lines of coverage.
 
 ## What Types of Questions Are on the Exam?
 

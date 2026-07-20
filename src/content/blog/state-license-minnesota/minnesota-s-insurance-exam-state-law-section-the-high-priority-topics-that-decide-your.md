@@ -20,7 +20,7 @@ This post identifies every high-priority topic in Minnesota's state law section 
 
 The state law section is the part of the exam where your [prelicensing](/minnesota/prelicensing) course content and the PSI exam content align most precisely — but where independent study beyond the course matters most. Your prelicensing course introduces the Minnesota statutory framework. The exam tests whether you have retained the specific provisions, numbers, and procedures that make Minnesota law distinct from the general insurance principles you studied in the course's first half.
 
-Two candidates can enter the PSI exam with equally strong general content knowledge and produce very different scores based entirely on how well each prepared for the state law section. The candidate who memorized the Minnesota auto insurance minimums, knows the CE requirement's classroom component, understands how Minnesota's no-fault PIP claim process works, and can define the specific unfair trade practices prohibited by §72A.20 picks up 10–15 additional correct answers compared to the candidate who skimmed the state law material and focused their study time on policy types and general definitions.
+Two candidates can enter the PSI exam with equally strong general content knowledge and produce very different scores based entirely on how well each prepared for the state law section. The candidate who memorized the Minnesota auto insurance minimums, knows the CE requirement's non-company-sponsored component, understands how Minnesota's no-fault PIP claim process works, and can define the specific unfair trade practices prohibited by §72A.20 picks up 10–15 additional correct answers compared to the candidate who skimmed the state law material and focused their study time on policy types and general definitions.
 
 The state law section covers the same core topics regardless of which line you are testing for — producer licensing, unfair trade practices, the Department of Commerce structure — plus line-specific topics that vary by exam. The topics below are organized from universally applicable (appear on every exam) to line-specific (appear only on relevant exams).
 
@@ -56,13 +56,13 @@ Exam questions this generates: "Under Minnesota law, what is required before a l
 
 Renewal deadline: Last day of the licensee's birth month, biennial (every 2 years). Business entities renew October 31 biennial. Renewals may be submitted up to 90 days early.
 
-CE requirements: 24 hours per renewal period. 3 hours must be ethics. At least 12 hours must be classroom or classroom-equivalent format. At least 12 hours must not be sponsored by or affiliated with an insurance company. The 12-hour non-company-sponsored requirement is a Minnesota-specific CE provision that appears regularly in state law section questions.
+CE requirements: 24 hours per renewal period. 3 hours must be ethics. At least 12 hours must not be sponsored by or affiliated with an insurance company. The 12-hour non-company-sponsored requirement is a Minnesota-specific CE provision that appears regularly in state law section questions.
 
 Renewal fee: $50 + $30 technology surcharge = $80 total.
 
 Lapsed license reinstatement: Within 12 months — double the unpaid renewal fee (approximately $160 in base penalty). After 12 months — full relicensing required (new prelicensing, new exam, new fingerprinting).
 
-Exam questions this generates: "How many total CE hours must a Minnesota insurance producer complete per renewal period?" (24.) "How many of those hours must be ethics?" (3.) "What is the minimum number of hours that must be in classroom or equivalent format?" (12.) "What is the penalty for reinstating a lapsed Minnesota license within 12 months?" (Double the unpaid renewal fee.) "What happens if a Minnesota producer's license lapses for more than 12 months?" (Full relicensing is required — new prelicensing, exam, and fingerprinting.)
+Exam questions this generates: "How many total CE hours must a Minnesota insurance producer complete per renewal period?" (24.) "How many of those hours must be ethics?" (3.) "What is the minimum number of hours that must not be sponsored by or affiliated with an insurance company?" (12.) "What is the penalty for reinstating a lapsed Minnesota license within 12 months?" (Double the unpaid renewal fee.) "What happens if a Minnesota producer's license lapses for more than 12 months?" (Full relicensing is required — new prelicensing, exam, and fingerprinting.)
 
 ### Grounds for License Action
 
@@ -138,7 +138,7 @@ Minnesota is a no-fault state. Every auto insurance policy issued in Minnesota m
 
 ### Required Minimum Coverages
 
-The $10,000 property damage minimum is the lowest in the United States — a Minnesota-specific fact that the exam tests repeatedly.
+The $10,000 property damage minimum is among the lowest in the United States (Massachusetts and Pennsylvania are lower, at $5,000) — a Minnesota-specific fact that the exam tests repeatedly.
 
 PIP structure: The $40,000 PIP limit is split — $20,000 for medical expenses and $20,000 for non-medical expenses including: lost wages at 85% of gross income capped at $500 per week; replacement services (household tasks the injured person cannot perform); and funeral expenses up to $2,000.
 
@@ -228,7 +228,7 @@ PSI does not publicly disclose the exact proportion of state-specific questions 
 
 I studied for the exam in another state before moving to Minnesota. Which topics are most different in Minnesota's state law section?
 
-The most distinctively Minnesota-specific topics are: (1) the no-fault auto insurance system with its $40,000 mandatory PIP, the dual UM/UIM mandatory requirement, and the $10,000 property damage minimum; (2) MinnesotaCare as a Basic Health Program unique to Minnesota; (3) the CE requirement's 12-hour classroom minimum and 12-hour non-company-sponsored minimum; (4) the bilateral rebating prohibition; and (5) the workers' comp dual-agency structure with DLI handling claims and DOC regulating carriers. If you were previously licensed in an at-fault state, Minnesota's no-fault auto framework will require the most significant adjustment — the claim sequence (PIP first, liability second, UM/UIM if needed), the tort threshold, and the mandatory coverages are all state-specific and will not be familiar from another state's licensing exam.
+The most distinctively Minnesota-specific topics are: (1) the no-fault auto insurance system with its $40,000 mandatory PIP, the dual UM/UIM mandatory requirement, and the $10,000 property damage minimum; (2) MinnesotaCare as a Basic Health Program unique to Minnesota; (3) the CE requirement's 12-hour non-company-sponsored minimum; (4) the bilateral rebating prohibition; and (5) the workers' comp dual-agency structure with DLI handling claims and DOC regulating carriers. If you were previously licensed in an at-fault state, Minnesota's no-fault auto framework will require the most significant adjustment — the claim sequence (PIP first, liability second, UM/UIM if needed), the tort threshold, and the mandatory coverages are all state-specific and will not be familiar from another state's licensing exam.
 
 The exam says it covers Minnesota law — does that mean it tests specific statute numbers like §65B.49 or §72A.20?
 

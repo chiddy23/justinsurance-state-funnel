@@ -98,7 +98,7 @@ Ethics hours count toward the total requirement (3 out of 24 hours). For the pur
 
 What happens to my CE credits if I drop a line of authority?
 
-If you voluntarily drop a line of authority mid-biennium — for example, removing your P&C lines to hold only L/A/H — your CE obligation for the next renewal cycle reverts to 16 hours. Credits already completed in the current biennium that are applicable to the dropped license type may carry forward toward your general CE total or may only apply to the remaining license type depending on their course category. Check your transcript on Sircon after any license change to confirm the current credit balance and applicable categories. Contact Pearson VUE at 877-234-6093 if you have questions about how mid-biennium license changes affect course credit applicability.
+If you voluntarily drop a line of authority mid-biennium — for example, removing your P&C lines to hold only L/A/H — your CE obligation for the next renewal cycle reverts to 16 hours. Note that Virginia does not carry forward excess CE credits between biennia in any case, so this only affects how credits already completed in the current biennium are categorized: credits applicable to the dropped license type may still count toward your general CE total for the current period, or may only apply to the remaining license type, depending on their course category. Check your transcript on Sircon after any license change to confirm the current credit balance and applicable categories, or contact the Bureau of Insurance if you have questions about how mid-biennium license changes affect course credit applicability.
 
 Is Personal Lines treated as a separate license type from full Property and Casualty for CE purposes?
 

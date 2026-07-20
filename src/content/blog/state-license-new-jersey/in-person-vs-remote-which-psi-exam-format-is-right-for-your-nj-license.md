@@ -13,7 +13,7 @@ image: /blog/images/achieve-your-goals-with-nj-insurance-license-eligibility-hel
 imageAlt: "In-Person vs. Remote: Which PSI Exam Format Is Right for Your NJ License?"
 ---
 
-PSI offers New Jersey insurance licensing candidates a genuine choice that most states did not have until recently: sit your exam at a physical test center, or take it remotely from your own computer at home or the office. Both formats deliver the same exam content, the same 70% passing threshold, the same $38 fee, and the same score report. But the experience of taking them is substantially different — and choosing the wrong format for your personality, equipment, or environment can hurt your performance on exam day even if your preparation was solid.
+PSI offers New Jersey insurance licensing candidates a genuine choice that most states did not have until recently: sit your exam at a physical test center, or take it remotely from your own computer at home or the office. Both formats deliver the same exam content, the same 70% passing threshold, the same $47 fee, and the same score report. But the experience of taking them is substantially different — and choosing the wrong format for your personality, equipment, or environment can hurt your performance on exam day even if your preparation was solid.
 
 ## How the Test Center Format Works
 
@@ -99,7 +99,7 @@ Most first-time candidates — especially those entering insurance through an ag
 
 Can I switch from remote to in-person after I register?
 
-You can change your exam format by canceling your existing appointment and rebooking, as long as you provide at least two calendar days' notice before your scheduled exam. Contact PSI directly — either through the website or by calling (855) 579-4634 — and speak with a representative. Do not leave a voicemail; voicemails are not an acceptable form of cancellation under PSI's rules. If you cancel with proper notice, your fee is not forfeited and you can rebook in either format. If you cancel late or no-show, you forfeit the $38 fee regardless of the reason, and you will need to pay again to reschedule.
+You can change your exam format by canceling your existing appointment and rebooking, as long as you provide at least two calendar days' notice before your scheduled exam. Contact PSI directly — either through the website or by calling (855) 579-4634 — and speak with a representative. Do not leave a voicemail; voicemails are not an acceptable form of cancellation under PSI's rules. If you cancel with proper notice, your fee is not forfeited and you can rebook in either format. If you cancel late or no-show, you forfeit the $47 fee regardless of the reason, and you will need to pay again to reschedule.
 
 What happens if my internet cuts out during the remote exam?
 

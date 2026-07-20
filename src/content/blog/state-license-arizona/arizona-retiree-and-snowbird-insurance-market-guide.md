@@ -188,11 +188,11 @@ Deferred income annuities for longevity protection
 
 Arizona's 20-day free-look for senior annuity clients (65+) provides extra protection
 
-Must complete 4-hour Annuity Best Interest training before selling any annuity products (ARS §20-1691.12 by reference through DIFI requirements).
+Must complete 4-hour Annuity Best Interest training before selling any annuity products (ARS §20-1241, per DIFI requirements).
 
 Final Expense and Burial Insurance: Accessible entry point for senior client relationships. Final expense policies ($5,000-$50,000) are attainable for most seniors on fixed income. Sun City, Sun City West, and Green Valley communities have particularly active final expense markets.
 
-Life Insurance (Estate Planning Focus): Affluent Arizona retirees with no estate tax to worry about at the state level still face federal estate tax exposure above $13.61 million (2024 exemption — but subject to change with expiring legislation). Life insurance in estate planning context is active in Scottsdale, Paradise Valley, Fountain Hills, and Green Valley's more affluent segments.
+Life Insurance (Estate Planning Focus): Affluent Arizona retirees with no estate tax to worry about at the state level can still face federal estate tax exposure above a multi-million-dollar exemption threshold that changes periodically with federal legislation — clients should confirm the current-year figure with a tax professional. Life insurance in estate planning context is active in Scottsdale, Paradise Valley, Fountain Hills, and Green Valley's more affluent segments.
 
 ## Seasonal and Calendar Rhythms of Arizona's Senior Market
 
@@ -231,6 +231,8 @@ Step 5: Partner with estate planning attorneys and CPAs. These professionals ser
 Step 6: Develop snowbird-specific expertise. Understanding Medicare network issues across state lines, multi-state auto coverage, and seasonal property insurance creates immediate differentiation with the snowbird segment.
 
 ## Income Reality in Arizona's Senior Market
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 Medicare-anchored senior practice: Established Medicare-focused producers commonly earn $80,000-$150,000+ annually in established Arizona markets, with strong renewal income from loyal client bases.
 

@@ -40,7 +40,7 @@ Renewal is not automatic. Three conditions must be satisfied before a Tennessee 
 
 The reporting verification step: CE providers report completions to the TDCI — but there is typically a delay of one to several business days between course completion and hours appearing in the TDCI's records. Submitting the NIPR renewal application before CE completions appear in the TDCI's records produces a rejected application. Verify your CE standing in the TDCI's system before submitting — not in the CE provider's system alone.
 
-How to verify: Contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov, or access the producer portal at tn.gov/commerce/insurance. Your confirmed CE total in the TDCI's records is the only count that matters for renewal processing.
+How to verify: Contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov, or access the producer portal at tn.gov/commerce/insurance. Your confirmed CE total in the TDCI's records is the only count that matters for renewal processing.
 
 Specialty training: LTC ongoing training (4 hours every 24 months) and other specialty training requirements are separate compliance obligations with separate deadlines. They count toward the 24-hour CE total but are tracked on independent schedules. Satisfying the 24-hour general CE requirement does not automatically satisfy outstanding specialty training — and conversely, completing specialty training counts toward the 24-hour total.
 
@@ -78,17 +78,17 @@ Answer all background questions accurately and completely. Disclose any new matt
 
 ### Step 5: Pay and Submit
 
-Pay $65.60 (standard renewal) by credit card or debit card. Submit. NIPR routes your renewal to the TDCI for processing.
+Pay the standard renewal fee (check your NIPR renewal screen or contact the TDCI for the current amount) by credit card or debit card. Submit. NIPR routes your renewal to the TDCI for processing.
 
 ### Step 6: Confirm Active Status
 
 After submission, monitor your license status through the TDCI's online license lookup at tn.gov/commerce/insurance. Standard renewal processing takes 2–5 business days for uncomplicated applications. Do not resume transacting business based on NIPR confirmation alone — confirm active status in the TDCI's system.
 
-## The 30-Day Grace Period
+## The 60-Day Grace Period
 
-Tennessee provides a 30-day grace period after the license expiration date. During this window:
+Tennessee provides a 60-day grace period after the license expiration date. During this window:
 
-The license can be renewed at the standard $65.60 cost — no late fee applies during the grace period
+The license can be renewed at the standard renewal cost — no late fee applies during the grace period
 
 Renewal submitted within the grace period is treated identically to an on-time renewal in terms of fees
 
@@ -96,15 +96,15 @@ The next renewal deadline is calculated from the original expiration date — no
 
 The grace period and active license status: A license that has passed its expiration date is technically expired even within the grace period. Producers who continue transacting insurance on an expired license — even within the grace period — may be operating without a valid license. Contact the TDCI directly to confirm the scope of authorization during the grace period before continuing to transact business after the expiration date.
 
-The grace period is not a planning strategy. It exists to accommodate honest oversights — a renewal that slipped due to travel, illness, or administrative error. Producers who routinely plan to renew during the grace period rather than before the expiration date are one administrative failure away from incurring a $120 late fee.
+The grace period is not a planning strategy. It exists to accommodate honest oversights — a renewal that slipped due to travel, illness, or administrative error. Producers who routinely plan to renew during the grace period rather than before the expiration date are one administrative failure away from incurring a late fee.
 
 ## Late Renewal: After the Grace Period
 
-When a producer does not renew within the 30-day grace period, the license enters a lapsed status. Late renewal is available for up to one year from the expiration date — but it carries a $120 late fee.
+When a producer does not renew within the 60-day grace period, the license enters a lapsed status. Late renewal is available for up to one year from the expiration date — but it carries a late fee.
 
 ### The Late Renewal Fee
 
-The $120 late fee is assessed in addition to the standard $60 renewal fee — not instead of it.
+A late fee is assessed in addition to the standard renewal fee — not instead of it. The TDCI does not publicly post the exact amount, so contact the TDCI directly for the current figure.
 
 ### CE Requirements for Late Renewal
 
@@ -112,7 +112,7 @@ Before submitting a late renewal application, all CE requirements for the lapsed
 
 ### The Late Renewal Process
 
-Late renewal is submitted through NIPR under the same process as standard renewal. Select the late renewal option when it appears in the NIPR interface. Pay the $185.60 total. The TDCI processes late renewals and restores the license to active status upon approval.
+Late renewal is submitted through NIPR under the same process as standard renewal. Select the late renewal option when it appears in the NIPR interface. Pay the standard renewal fee plus the late fee (confirm the current total with the TDCI). The TDCI processes late renewals and restores the license to active status upon approval.
 
 ### The One-Year Hard Deadline
 
@@ -152,7 +152,7 @@ The LTC exception: The LTC training exemption does not apply to non-residents wh
 
 ### Non-Resident Renewal Fee
 
-Identical to resident renewal. Non-resident late renewal carries the same $120 late fee as resident late renewal.
+Identical to resident renewal. Non-resident late renewal carries the same late fee as resident late renewal.
 
 ### The Home State License Dependency
 
@@ -168,7 +168,7 @@ Set three calendar reminders tied to your renewal deadline — the last day of y
 
 60 days before the deadline: CE verification checkpoint. Confirm that all completed hours appear in the TDCI's records. Address any reporting gaps with CE providers. If CE is not yet complete, identify what remains and schedule the remaining courses immediately.
 
-30 days before the deadline: Renewal submission target. Complete and submit the NIPR renewal application at 30 days before the deadline — not on the deadline. Submitting 30 days early provides buffer for any processing issues, payment failures, or application corrections without risking a lapse.
+30 days before the deadline: Renewal submission target. Complete and submit the NIPR renewal application well before the deadline — not on the deadline. Submitting early provides buffer for any processing issues, payment failures, or application corrections without risking a lapse.
 
 ### Address Currency
 
@@ -176,7 +176,7 @@ The TDCI sends renewal reminders to the address on file. Producers who have move
 
 ### Multi-Line License Renewal
 
-Producers holding multiple lines of authority renew all lines simultaneously through a single NIPR renewal application. All CE hours satisfy all lines together — the 24-hour total is not multiplied by the number of lines held. The single renewal fee of $60 covers all lines. There is no per-line renewal fee structure.
+Producers holding multiple lines of authority renew all lines simultaneously through a single NIPR renewal application. All CE hours satisfy all lines together — the 24-hour total is not multiplied by the number of lines held. The single standard renewal fee covers all lines. There is no per-line renewal fee structure.
 
 ### Multi-State Renewal Management
 
@@ -186,7 +186,7 @@ Producers holding licenses in multiple states must track each state's independen
 
 My license expires at the end of this month and I have completed all 24 CE hours, but two of them have not yet appeared in the TDCI's records. Should I submit renewal now or wait?
 
-Wait until all CE hours appear in the TDCI's records before submitting your renewal. A renewal application submitted with unverified CE will be rejected as non-compliant. Contact the CE provider immediately and request confirmation that the two outstanding completions were submitted to the TDCI — and ask for a resubmission if they were not. Simultaneously contact the TDCI to report the discrepancy. If the hours cannot be confirmed in the TDCI's records before your expiration date, submit the renewal within the 30-day grace period once the hours are confirmed — the grace period carries no additional fee. This situation is the reason the standard recommendation is to complete CE at least 30 days before the renewal deadline: reporting delays of one to several business days are normal, and a 30-day buffer accommodates them without creating grace period risk.
+Wait until all CE hours appear in the TDCI's records before submitting your renewal. A renewal application submitted with unverified CE will be rejected as non-compliant. Contact the CE provider immediately and request confirmation that the two outstanding completions were submitted to the TDCI — and ask for a resubmission if they were not. Simultaneously contact the TDCI to report the discrepancy. If the hours cannot be confirmed in the TDCI's records before your expiration date, submit the renewal within the 60-day grace period once the hours are confirmed — the grace period carries no additional fee. This situation is the reason the standard recommendation is to complete CE at least 30 days before the renewal deadline: reporting delays of one to several business days are normal, and a 30-day buffer accommodates them without creating grace period risk.
 
 I renewed my Tennessee license six months ago but I am now moving to Georgia. Can I keep my Tennessee license as a non-resident license?
 

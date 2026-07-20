@@ -466,7 +466,7 @@ Annuity suitability: 4-hour one-time training before selling annuities
 
 Renewal:
 
-Fee: $60; 30-day grace period; $120 late fee; up to 1 year late renewal; full relicensing after 1 year
+Fee: not publicly posted (contact the TDCI); 60-day grace period; late fee not publicly posted (contact the TDCI); up to 1 year late renewal; full relicensing after 1 year
 
 Appointments:
 

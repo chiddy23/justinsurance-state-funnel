@@ -28,7 +28,7 @@ The Legal Concepts and Regulations component is the most directly exam-relevant 
 
 Colorado's prelicensing structure varies by the license being pursued:
 
-The combined Life + Accident & Health course (90 hours) is the most common single-course choice for candidates pursuing Life and Health authority, because it counts toward both lines with one enrollment rather than two separate 50-hour courses. For Property and Casualty, each is a separate line requiring its own 50-hour course — there is no combined "P&C" prelicensing option, though the 10 Colorado-specific hours may be shared if structured by the provider.
+Life and Accident & Health are each a separate line of authority in Colorado — there is no combined course or combined exam for the two. Candidates pursuing both complete the full 50-hour Life course and the full 50-hour Health course separately (100 hours total) and pass two separate Pearson VUE exams. For Property and Casualty, the same principle applies — each is a separate line requiring its own 50-hour course, and there is no combined "P&C" prelicensing option either.
 
 ## The Certificate Exam: Required Before the State Exam
 

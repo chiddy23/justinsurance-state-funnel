@@ -228,7 +228,9 @@ Long-term client relationships. Clients often maintain relationships for many ye
 
 Practice value. Established senior practices represent substantial business value.
 
-Established Pennsylvania senior practices commonly produce $100,000-$280,000+ in annual income for individual producers, with top senior practitioners earning substantially more.
+Established Pennsylvania senior practices commonly produce $70,000-$150,000+ in annual income for individual producers — broadly in line with statewide experienced-to-top-producer benchmarks — with top senior practitioners serving HNW or sophisticated estate-planning clients able to exceed that range.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 ## Service Demands in Senior Practice
 
@@ -332,7 +334,7 @@ For producers prioritizing stability and mission-alignment, senior practice ofte
 - What's the most common entry point for Pennsylvania senior insurance practice? Medicare. Annual Enrollment Period activity (October 15 - December 7) creates substantial recurring opportunity. Most successful senior practices include strong Medicare component.
 - Do I need special training to sell LTC in Pennsylvania? Yes. Pennsylvania requires initial 8-hour state-approved LTC Training course (one-time), then 4-hour ongoing LTC Training every 24 months. Producers must hold active Health and Sickness/Accident license.
 - How does Pennsylvania annuity practice for seniors compare to other states? Pennsylvania adopted enhanced Annuity Best Interest standards aligned with NAIC 2020 Annuity Model Law. Producers licensed on or after June 20, 2022 must complete a 4-hour Annuity Best Interest course. All producers with life and fixed annuities or variable life/variable line must complete this regardless of intent to sell annuities.
-- What's a realistic income for Pennsylvania senior insurance practice? Established Pennsylvania senior practices commonly produce $100,000-$280,000+ in annual income for individual producers. Top senior practitioners with established practices serving HNW seniors or sophisticated estate planning markets earn substantially more.
+- What's a realistic income for Pennsylvania senior insurance practice? Established Pennsylvania senior practices commonly produce $70,000-$150,000+ in annual income for individual producers, broadly in line with statewide experienced-to-top-producer benchmarks. Top senior practitioners with established practices serving HNW seniors or sophisticated estate planning markets can exceed that range. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## Build Your Pennsylvania Senior Insurance Practice
 

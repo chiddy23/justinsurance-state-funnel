@@ -100,7 +100,7 @@ Tennessee does not require a [prelicensing](/tennessee/prelicensing) course, so 
 
 Typical Tennessee prep course pricing ranges:
 
-The pass guarantee consideration: Several reputable Tennessee prep course providers offer pass guarantees — if you complete the course and fail the exam, they provide a refund or free retake access. A pass guarantee is most valuable when it comes from a provider whose completion requirements are reasonable (not so onerous that triggering the guarantee is impractical) and whose refund policy is clearly defined. If you choose a course with a pass guarantee, read the guarantee terms before purchasing.
+Refund and support policy consideration: Course quality varies by provider, so check each provider's refund policy, access window, and instructor or student support before purchasing — clear, reasonable terms are a better signal of quality than price alone.
 
 Per-line vs. combined course pricing: Some providers price courses per line — a separate course for each of Life, A&H, Property, and Casualty. Others offer combination packages. Candidates pursuing multiple lines should compare the per-line cost to the combination package cost before purchasing. JustInsurance's Tennessee combined Life and Health package is $199 — the equivalent of purchasing Life and Health courses separately at a discount.
 
@@ -118,11 +118,11 @@ The initial licensing cost is a one-time investment — but Tennessee producers 
 
 ### License Renewal
 
-Tennessee licenses renew biennially — every two years — on the last day of the birth month. The $60 renewal fee is paid through NIPR at the time of renewal.
+Tennessee licenses renew biennially — every two years — on the last day of the birth month. The standard renewal fee is paid through NIPR at the time of renewal (check your NIPR renewal screen or contact the TDCI for the current amount).
 
 ### Late Renewal Fees
 
-The $120 late fee applies to renewals submitted after the 30-day grace period has expired but within one year of the expiration date. After one year, the producer must retake the Pearson VUE exam and reapply — the full initial licensing cost applies again.
+A late fee applies to renewals submitted after the 60-day grace period has expired but within one year of the expiration date. The TDCI does not publicly post the exact late-fee amount — contact the TDCI directly for the current figure. After one year, the producer must retake the Pearson VUE exam and reapply — the full initial licensing cost applies again.
 
 ### Continuing Education Costs
 
@@ -140,9 +140,9 @@ Producers licensed in other states who want a Tennessee non-resident license fac
 
 Non-resident applicants do not pay Tennessee's fingerprinting fee — the IdentoGO requirement applies to resident applicants only. Non-resident applicants are subject to their home state's background check requirements.
 
-Non-resident applicants must take the Tennessee exam unless they are residents of one of Tennessee's five full-reciprocity states: California, Louisiana, Michigan, Mississippi, or Texas. Producers from all other states — including neighboring Georgia, North Carolina, Kentucky, Alabama, Arkansas, Missouri, and Virginia — must pass the Tennessee Pearson VUE exam to obtain a Tennessee non-resident license.
+Tennessee maintains reciprocity agreements with other states, so most non-resident applicants — including producers from neighboring Georgia, North Carolina, Kentucky, Alabama, Arkansas, Missouri, and Virginia — do not need to take the Tennessee exam, provided their home state license is active, in good standing, and covers the matching lines of authority. Confirm your specific home state's reciprocity status with the TDCI before applying.
 
-Non-resident producers from the five reciprocity states (California, Louisiana, Michigan, Mississippi, Texas) do not take the Tennessee exam — their cost is only the application fee and NIPR transaction fee: $55.60 per line.
+For non-resident producers who qualify for reciprocity, the cost is only the application fee and NIPR transaction fee: $55.60 per line. Non-resident applicants whose home state does not satisfy Tennessee's reciprocity standard must pass the Tennessee Pearson VUE exam to obtain a Tennessee non-resident license.
 
 ## Frequently Asked Questions
 

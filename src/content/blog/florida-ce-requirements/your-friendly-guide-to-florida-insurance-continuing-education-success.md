@@ -24,7 +24,7 @@ Along with standard refresher courses, you can explore specialized topics like a
 
 ## Learn your credit-hour breakdown
 
-In Florida, you generally need 24 credit hours of CE during every two-year cycle. Out of these, at least 5 credit hours must be in law and ethics. If you hold multiple insurance-related licenses, check the specific statutes for each line of authority, as there could be additional or overlapping requirements.
+In Florida, you generally need 24 credit hours of CE during every two-year cycle. Out of these, at least 4 credit hours must be in law and ethics. If you hold multiple insurance-related licenses, check the specific statutes for each line of authority, as there could be additional or overlapping requirements.
 
 Completing these credits can be easier when you have a plan from day one. Some professionals choose to space out their courses over the full two-year period, while others prefer to tackle them in fewer sittings. You might also find online providers that let you move at your own pace, which can be helpful if you have a balancing act of work, family, and additional study obligations.
 
@@ -49,20 +49,20 @@ It might also be worthwhile to check out what other professionals in your field 
 ## Common questions about Florida insurance continuing education
 
 1.  What is the minimum number of CE hours required?  
-    You usually need 24 hours of continuing education every two years, including 5 hours in Florida law and ethics.
+    You usually need 24 hours of continuing education every two years, including 4 hours in Florida law and ethics.
 2.  When is my renewal deadline?  
     Your renewal deadline typically falls on your license anniversary or the official cycle date assigned by the Florida Department of Financial Services. You can confirm your exact date on the state’s licensing portal.
 3.  What if I miss my CE deadlines?  
     Missing deadlines may lead to late fees, possible fines, or eventual license suspension. If you’re running late, contact the state immediately for options to regain compliance.
 4.  Do I need specific ethics courses each cycle?  
-    Yes. You must include courses covering law and ethics. Florida typically mandates 5 credit hours in these topics to maintain high professional standards.
+    Yes. You must include courses covering law and ethics. Florida typically mandates 4 credit hours in these topics to maintain high professional standards.
 5.  Where can I find approved CE providers?  
     You can search on the Florida Department of Financial Services website or ask for referrals from colleagues. JustInsurance also offers courses designed specifically for Florida licensees.
 
 ## Frequently Asked Questions
 
 **Can I carry over unused CE credits to my next renewal cycle?**
-Generally, no. Florida does not allow unused CE credits from one cycle to roll over into the next. Credits must be earned and applied within the current two-year renewal period, so plan your coursework accordingly rather than banking on leftovers.
+Yes. Florida allows you to carry forward up to 24 excess CE hours into your next two-year renewal cycle. Keep in mind that carried-over ethics hours only count as general CE credit — you must still complete 4 new Florida law and ethics hours during each cycle.
 
 **What if a course I completed disappears from the approved provider list?**
 If a course loses its approval status after you completed it, your credits may still count as long as they were approved at the time you took them. Keep your completion certificates as documentation in case questions arise during an audit.

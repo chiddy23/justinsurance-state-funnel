@@ -20,9 +20,9 @@ Minnesota's insurance fraud law operates through two interconnected statutory fr
 
 ### Minn. Stat. §60A.951 — The Regulatory Framework
 
-The Minnesota insurance fraud statutory framework spans §60A.951 through §60A.956, covering definitions, disclosure of information, enforcement, antifraud plans, fraud warning requirements on claim forms, and other law enforcement authority. Prosum
+The Minnesota insurance fraud statutory framework spans §60A.951 through §60A.956, covering definitions, disclosure of information, enforcement, antifraud plans, fraud warning requirements on claim forms, and other law enforcement authority.
 
-Section 60A.951 defines the terms used throughout the fraud framework. An "insurance professional" means sales agents, agencies, managing general agents, brokers, producers, claims representatives, adjusters, and third-party administrators. This broad definition of insurance professional means that the regulatory fraud framework applies directly to licensed producers — not just insurers. A producer who participates in a fraudulent transaction is an insurance professional subject to this framework. NewGrad-Jobs
+Section 60A.951 defines the terms used throughout the fraud framework. An "insurance professional" means sales agents, agencies, managing general agents, brokers, producers, claims representatives, adjusters, and third-party administrators. This broad definition of insurance professional means that the regulatory fraud framework applies directly to licensed producers — not just insurers. A producer who participates in a fraudulent transaction is an insurance professional subject to this framework.
 
 The definition of insurance fraud under §60A.951: Insurance fraud includes any act committed with intent to defraud that involves: presenting or causing to be presented any false, incomplete, or misleading information to an insurer for the purpose of obtaining insurance coverage; presenting or causing to be presented any false claim for payment or other benefit under an insurance policy; or assisting, abetting, soliciting, or conspiring with another to commit any of the above acts.
 
@@ -34,11 +34,11 @@ The intent requirement: Both the regulatory and criminal fraud frameworks requir
 
 Section 609.611 is Minnesota's criminal insurance fraud statute, located in the Criminal Code (Chapter 609) rather than the Insurance Code (Chapter 60A). Its placement in the criminal code signals its purpose — criminal prosecution rather than regulatory enforcement.
 
-Criminal penalties under §609.611: Criminal sentences are based on the greater of the value of property, services, or other benefit wrongfully obtained or attempted to obtain, or the aggregate economic loss suffered by any person as a result of the violation. The penalty structure follows Minnesota's general theft sentencing framework under §609.52: USFunds
+Criminal penalties under §609.611: Criminal sentences are based on the greater of the value of property, services, or other benefit wrongfully obtained or attempted to obtain, or the aggregate economic loss suffered by any person as a result of the violation. The penalty structure follows Minnesota's general theft sentencing framework under §609.52.
 
-Mandatory restitution: A person convicted of a violation of this section must be ordered to pay restitution to persons aggrieved by the violation. Restitution must be ordered in addition to a fine or imprisonment but not in lieu of a fine or imprisonment. This mandatory restitution requirement means that a convicted insurance fraudster faces both the criminal sentence and a financial obligation to compensate those harmed — the insurer, policyholders who paid higher premiums as a result of fraud, or other affected parties. USFunds
+Mandatory restitution: A person convicted of a violation of this section must be ordered to pay restitution to persons aggrieved by the violation. Restitution must be ordered in addition to a fine or imprisonment but not in lieu of a fine or imprisonment. This mandatory restitution requirement means that a convicted insurance fraudster faces both the criminal sentence and a financial obligation to compensate those harmed — the insurer, policyholders who paid higher premiums as a result of fraud, or other affected parties.
 
-The statute of limitations — discovery rule: The applicable statute of limitations shall not begin to run until the insurance company or law enforcement agency is aware of the fraud, but in no event may the prosecution be commenced later than seven years after the act has occurred. This discovery-based limitations period is critical — it means that sophisticated fraud schemes that are not discovered for years can still be prosecuted long after the fraudulent acts occurred, as long as prosecution begins within seven years of the act and within the standard limitations period from discovery. USFunds
+The statute of limitations — discovery rule: The applicable statute of limitations shall not begin to run until the insurance company or law enforcement agency is aware of the fraud, but in no event may the prosecution be commenced later than seven years after the act has occurred. This discovery-based limitations period is critical — it means that sophisticated fraud schemes that are not discovered for years can still be prosecuted long after the fraudulent acts occurred, as long as prosecution begins within seven years of the act and within the standard limitations period from discovery.
 
 ## The Enforcement Structure: Multiple Agencies, Coordinated Jurisdiction
 
@@ -46,25 +46,25 @@ Minnesota's insurance fraud enforcement involves multiple agencies with distinct
 
 ### The Commerce Fraud Bureau
 
-The Commerce Fraud Bureau must allocate at least 70 percent of its work to insurance fraud, as defined in sections 60A.951, subdivision 4, and 609.611. The Commerce Fraud Bureau is a dedicated insurance fraud investigation unit within the Minnesota Department of Commerce. Its primary functions include: Denver Gazette
+The Commerce Fraud Bureau must allocate at least 70 percent of its work to insurance fraud, as defined in sections 60A.951, subdivision 4, and 609.611. The Commerce Fraud Bureau is a dedicated insurance fraud investigation unit within the Minnesota Department of Commerce. Its primary functions include:
 
-Reviewing notices and reports of insurance fraud and related crimes submitted by authorized insurers, their employees, and agents or producers pursuant to sections 60A.951 to 60A.956 Denver Gazette
+Reviewing notices and reports of insurance fraud and related crimes submitted by authorized insurers, their employees, and agents or producers pursuant to sections 60A.951 to 60A.956
 
-Responding to notifications or complaints generated by other law enforcement agencies, state or federal governmental units, or any other person Denver Gazette
+Responding to notifications or complaints generated by other law enforcement agencies, state or federal governmental units, or any other person
 
-Initiating inquiries and conducting investigations when the bureau has reason to believe that an offense has been or is being committed Denver Gazette
+Initiating inquiries and conducting investigations when the bureau has reason to believe that an offense has been or is being committed
 
-The Commerce Fraud Bureau is specifically authorized under §60A.951 as an "authorized person" for insurance fraud investigations — giving it full investigative authority within the insurance fraud framework. The commissioner of commerce is an authorized person, meaning the commissioner of commerce for insurers regulated by the commissioner of commerce. Jome
+The Commerce Fraud Bureau is specifically authorized under §60A.951 as an "authorized person" for insurance fraud investigations — giving it full investigative authority within the insurance fraud framework. The commissioner of commerce is an authorized person, meaning the commissioner of commerce for insurers regulated by the commissioner of commerce.
 
 ### The Financial Crimes and Fraud Section (Bureau of Criminal Apprehension)
 
-The Minnesota Bureau of Criminal Apprehension (BCA) maintains a Financial Crimes and Fraud Section that handles larger insurance fraud matters. The section may impose administrative penalties, order restitution to any person suffering loss, and order restitution to a company for the reasonable documented cost of any investigation. WTW
+The Minnesota Bureau of Criminal Apprehension (BCA) maintains a Financial Crimes and Fraud Section that handles larger insurance fraud matters. The section may impose administrative penalties, order restitution to any person suffering loss, and order restitution to a company for the reasonable documented cost of any investigation.
 
-One hundred percent of the funding allocated to the Bureau of Criminal Apprehension for the assessment may only be used for the investigation of insurance fraud and related crimes. This dedicated funding — generated by insurer assessments — ensures that insurance fraud investigation resources are protected from reallocation to other law enforcement priorities. CNBC
+One hundred percent of the funding allocated to the Bureau of Criminal Apprehension for the assessment may only be used for the investigation of insurance fraud and related crimes. This dedicated funding — generated by insurer assessments — ensures that insurance fraud investigation resources are protected from reallocation to other law enforcement priorities.
 
 ### County Attorneys and Local Law Enforcement
 
-Authorized persons include the county attorney, sheriff, or chief of police responsible for investigations in the county where the suspected insurance fraud occurred. Local prosecutors and law enforcement play an important role in insurance fraud enforcement — particularly for frauds that are geographically contained within a single county, such as staged accident schemes, contractor fraud following storm damage, or individual policyholder fraud. Jome
+Authorized persons include the county attorney, sheriff, or chief of police responsible for investigations in the county where the suspected insurance fraud occurred. Local prosecutors and law enforcement play an important role in insurance fraud enforcement — particularly for frauds that are geographically contained within a single county, such as staged accident schemes, contractor fraud following storm damage, or individual policyholder fraud.
 
 ### The Attorney General
 
@@ -98,9 +98,9 @@ Why the fraud warning matters for producers: A producer who assists a client in 
 
 ## The Administrative Penalty Framework
 
-In addition to criminal prosecution, the Department of Commerce has authority to impose administrative penalties for insurance fraud. The commissioner may impose an administrative penalty against any person for each intentional act of insurance fraud or substantiated acts of attempted insurance fraud, as defined in section 60A.951, subdivision 4, committed by that person. CNBC
+In addition to criminal prosecution, the Department of Commerce has authority to impose administrative penalties for insurance fraud. The commissioner may impose an administrative penalty against any person for each intentional act of insurance fraud or substantiated acts of attempted insurance fraud, as defined in section 60A.951, subdivision 4, committed by that person.
 
-The administrative penalty for each violation may be no more than: $20,000 if the funds or value wrongfully obtained exceeds $5,000; $10,000 if funds exceed $1,000 but not $5,000; $3,000 if more than $500 but not $1,000; $1,000 if $500 or less. WTW
+The administrative penalty for each violation may be no more than: $20,000 if the funds or value wrongfully obtained exceeds $5,000; $10,000 if funds exceed $1,000 but not $5,000; $3,000 if more than $500 but not $1,000; $1,000 if $500 or less.
 
 Administrative penalties are per-violation: Each separate fraudulent act constitutes a separate violation for penalty purposes. A producer who submitted 20 fraudulent applications faces up to 20 separate administrative penalties — potentially hundreds of thousands of dollars in total administrative liability, in addition to any criminal penalties and restitution obligations.
 
@@ -184,7 +184,7 @@ Your risk depends on your conduct. If you refuse to assist in the fraudulent sub
 
 How does the discovery-based statute of limitations affect a producer who committed fraud years ago?
 
-The statute of limitations shall not begin to run until the insurance company or law enforcement agency is aware of the fraud, but in no event may the prosecution be commenced later than seven years after the act has occurred. A producer who committed fraud five years ago and whose conduct has just been discovered has created a prosecution window that extends from the date of discovery — potentially many years into the future, subject only to the absolute seven-year outer limit from the date of the act. Fraud that was committed recently has a longer potential prosecution window than fraud committed six or seven years ago, which is approaching the absolute cutoff. The discovery rule is designed specifically to prevent fraudsters from evading prosecution by concealing their conduct until the standard limitations period expires. USFunds
+The statute of limitations shall not begin to run until the insurance company or law enforcement agency is aware of the fraud, but in no event may the prosecution be commenced later than seven years after the act has occurred. A producer who committed fraud five years ago and whose conduct has just been discovered has created a prosecution window that extends from the date of discovery — potentially many years into the future, subject only to the absolute seven-year outer limit from the date of the act. Fraud that was committed recently has a longer potential prosecution window than fraud committed six or seven years ago, which is approaching the absolute cutoff. The discovery rule is designed specifically to prevent fraudsters from evading prosecution by concealing their conduct until the standard limitations period expires.
 
 Can the Department of Commerce take regulatory action against a producer for fraud even if criminal charges are not filed?
 

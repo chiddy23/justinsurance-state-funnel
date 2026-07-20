@@ -24,19 +24,19 @@ Remember, this journey is about more than just passing an exam. It’s about pre
 
 ## Understand license prerequisites
 
-Before you dive into classes or study materials, it helps to know what the state expects from you. In Pennsylvania, you must typically be at least 18 years old and have a clean background to qualify. You’ll also need to fulfill [pre-licensing](/pennsylvania/prelicensing) coursework and pass an official state exam to become licensed for health insurance.
+Before you dive into classes or study materials, it helps to know what the state expects from you. In Pennsylvania, you must typically be at least 18 years old and have a clean background to qualify. Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so you no longer have to complete [pre-licensing](/pennsylvania/prelicensing) coursework before sitting for the exam — you just need to pass the official state exam to become licensed for health insurance. Most candidates still choose to take a prep course because the exam covers substantial state-specific content.
 
 Beyond these core requirements, you should anticipate a few administrative tasks. Gathering personal information, paying any associated state fees, and scheduling an exam date all fall under your responsibilities. It’s a good idea to create a simple checklist so that you don’t miss anything throughout your preparation.
 
-## Complete pre-licensing education
+## Complete pre-licensing education (optional but recommended)
 
-Pennsylvania requires specific [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) hours before you can take the health insurance licensing exam. This training ensures you know the fundamentals of state regulations, policy types, and ethical considerations. Pre-licensing courses are available online and in person, so picking the best option depends on your learning style. You might find virtual classes more flexible, while in-person classes can offer hands-on discussions.
+While Pennsylvania no longer mandates prelicense hours before you can take the health insurance licensing exam, a [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) course still gives you the fundamentals of state regulations, policy types, and ethical considerations. Pre-licensing courses are available online and in person, so picking the best option depends on your learning style. You might find virtual classes more flexible, while in-person classes can offer hands-on discussions.
 
 Take the time to choose a solid provider with a clear curriculum that targets essential topics. Most courses blend lectures with [practice questions](/pennsylvania/practice-exam) to help you retain information. You’ll explore topics like health insurance laws, policy provisions, disability income coverage, and more. By completing your coursework thoroughly, you’ll build a strong foundation and feel more comfortable tackling exam questions later.
 
 ## Pass the state exam
 
-Once you’ve finished the required education, you’re ready to put your knowledge to the test. The Pennsylvania health insurance license exam covers everything from terminology to compliance. It’s a computerized exam, and you’ll typically schedule it at a licensed test center. The fee and scheduling process vary, so confirm details with the state-approved exam provider.
+Once you’ve finished your exam prep, you’re ready to put your knowledge to the test. The Pennsylvania health insurance license exam covers everything from terminology to compliance. It’s a computerized exam, and you’ll typically schedule it at a licensed test center. The fee and scheduling process vary, so confirm details with the state-approved exam provider.
 
 Below are a few suggestions to help you study and perform well:
 

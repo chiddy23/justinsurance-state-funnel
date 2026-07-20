@@ -28,6 +28,8 @@ Starting out, you might receive a modest base salary plus commission. Many insur
 
 For instance, imagine your agency sets a base salary of around $35,000 per year when you’re starting. From there, you might earn 10 percent commission on certain policy types and a small bonus for meeting monthly sales targets. As you gain skills, learn to close deals, and build relationships with clients, you will likely see your commission checks increase. In your first year, you might find that this approach provides a balance between learning the business and getting rewarded for the policies you sell.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Recognize factors that influence earnings
 
 Your total compensation as an insurance agent depends on a variety of factors. While some people see a salary plateau, others achieve six figures or more every year. Here are a few elements that affect your bottom line:
@@ -63,9 +65,9 @@ You’ll want to explore what kind of marketing materials, lead generation progr
 
 ## FAQs about insurance agent salary
 
-1.  How much can a new insurance agent make? As a new agent, you might start with a modest base salary around $35,000, plus commission and bonuses. Your total compensation depends on your sales efforts and the specific type of policies you sell.
+1.  How much can a new insurance agent make? As a new agent, you might start with a modest base salary around $35,000, plus commission and bonuses. Your total compensation depends on your sales efforts and the specific type of policies you sell. Figures are illustrative and not a guarantee of earnings.
 2.  Do independent insurance agents earn more than those at larger agencies? This depends on your personal goals, sales savvy, and comfort with administrative tasks. Working independently, you keep more of the commission but you also shoulder more marketing, office, and operational expenses. A larger agency might help you with resources and brand recognition.
-3.  Can insurance agents really earn six figures? Yes, many dedicated agents do reach six figures by building a strong book of business. Consistent renewal commissions and successfully selling higher-value policies might speed up your progress toward that milestone.
+3.  Can insurance agents really earn six figures? Some dedicated agents do reach six figures by building a strong book of business. Consistent renewal commissions and successfully selling higher-value policies might speed up your progress toward that milestone, though results vary and six-figure income is not typical or guaranteed for every agent.
 4.  Is income mostly commission-based? That depends on your contract. Some agents rely more on commissions and bonuses, while others receive a stable base salary with smaller commissions. Over time, you can negotiate or seek out roles that align best with your preference for stability or commission-based earning.
 5.  What kind of training boosts my earning potential? Participating in sales training workshops, product knowledge sessions, and mentorship programs often makes a big difference. When you learn how to communicate effectively and solve client problems, you stand out from the competition and secure more deals.
 

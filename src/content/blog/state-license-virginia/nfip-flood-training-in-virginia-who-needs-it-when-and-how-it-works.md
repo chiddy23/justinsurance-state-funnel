@@ -78,7 +78,7 @@ Selling NFIP flood insurance without completing the required training is a viola
 
 Can the 3-hour flood training be completed in a state other than Virginia and still satisfy Virginia's requirement?
 
-Virginia's Bureau of Insurance has issued a reminder that Virginia flood producers must comply with FEMA and NFIP minimum training requirements. FEMA's national baseline is the foundation — a course that satisfies FEMA's minimum NFIP training standards should generally satisfy Virginia's requirement. However, the specific course must be approved for Virginia CE credit — a course completed in another state that is approved for that state's CE may or may not be cross-approved for Virginia. Confirm with Pearson VUE at VirginiaInsuranceCE@pearson.com whether a specific out-of-state flood training course satisfies Virginia's NFIP training requirement before relying on it for compliance.
+Virginia's Bureau of Insurance has issued a reminder that Virginia flood producers must comply with FEMA and NFIP minimum training requirements. FEMA's national baseline is the foundation — a course that satisfies FEMA's minimum NFIP training standards should generally satisfy Virginia's requirement. However, the specific course must be approved for Virginia CE credit — a course completed in another state that is approved for that state's CE may or may not be cross-approved for Virginia. Confirm with the course provider and check the course's Virginia CE approval on Sircon before relying on an out-of-state flood training course to satisfy Virginia's NFIP training requirement.
 
 How does the private flood insurance market affect Virginia producers who have completed NFIP training?
 

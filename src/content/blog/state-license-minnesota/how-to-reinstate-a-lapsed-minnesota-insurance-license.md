@@ -22,7 +22,7 @@ The renewal deadline: Minnesota producer licenses renew on the last day of the l
 
 CE must be completed before renewal, not after: Minnesota's CE requirements must be satisfied before the renewal deadline, not after. A producer who completes CE in April for a March 31 deadline has failed — the CE completion came after the license lapsed. Planning CE completion for the final days before the renewal deadline is risky; completing it several weeks before the deadline provides a buffer against unexpected delays in CE reporting.
 
-CE reporting lag: CE providers are required to report course completions to the Minnesota Department of Commerce within five business days. JustInsurance reports completions the same day you finish. If you complete your final CE course on March 27 for a March 31 deadline, verify with your provider that the completion will be reported to the Department before the deadline. A completion that is not yet in the Department's system as of the deadline may not prevent lapse.
+CE reporting lag: CE providers are required to report course completions to the Minnesota Department of Commerce within five business days. JustInsurance typically reports completions the same day you finish. If you complete your final CE course on March 27 for a March 31 deadline, verify with your provider that the completion will be reported to the Department before the deadline. A completion that is not yet in the Department's system as of the deadline may not prevent lapse.
 
 ## The Two-Phase Response to a Lapsed License
 
@@ -60,7 +60,7 @@ No continuity of CE credit: Any CE credits completed before the lapse do not car
 
 Producers who recognize they are at risk of missing a renewal deadline have options that may be less expensive and disruptive than allowing the license to lapse and reinstating afterward.
 
-Complete CE immediately: If your renewal deadline is approaching and you have not completed your CE, prioritize CE completion above all other tasks. Online CE from providers like JustInsurance can be completed in hours or days — a motivated producer can complete a 24-hour CE package in a focused weekend. The 12-hour classroom or equivalent requirement means at least half the CE must be from qualifying formats — confirm which courses satisfy this requirement before enrolling.
+Complete CE immediately: If your renewal deadline is approaching and you have not completed your CE, prioritize CE completion above all other tasks. Online CE from providers like JustInsurance can be completed in hours or days — a motivated producer can complete a 24-hour CE package in a focused weekend. At least 12 of those hours must come from a non-company-sponsored, independent provider — confirm your provider is independently approved (not carrier-affiliated) before enrolling.
 
 Submit renewal before CE is complete — does this work? Contact the Minnesota Department of Commerce at (651) 539-1599 to understand the specific consequences if your CE is completed after the renewal application is submitted but before the deadline. The general standard is that CE must be complete before renewal — but the Department can clarify whether a completed renewal application with pending CE creates a different outcome than a lapsed license. Do not assume submitting the renewal application protects the license if CE is not yet complete.
 

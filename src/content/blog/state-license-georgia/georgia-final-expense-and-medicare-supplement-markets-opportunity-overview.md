@@ -80,6 +80,8 @@ Commission structure. Final expense commissions typically run 80–130% of first
 
 Typical weekly income for active final expense agents. Serious agents working consistently can generate $1,500–$4,000+ per week in commissions after the initial ramp-up period.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## The Medicare Supplement Market
 
 What Medicare supplements are. Also called Medigap, these policies supplement Original Medicare by covering deductibles, copays, and coinsurance that Medicare doesn't pay. Plans are standardized (Plan G, Plan N, Plan F for those eligible, etc.) so the coverage is consistent across insurers, though premiums vary.
@@ -163,6 +165,8 @@ First year: $65,000–$110,000
 Established agents: $120,000–$250,000+
 
 These numbers assume consistent activity, adequate lead flow, and professional execution.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 ## 5 Frequently Asked Questions
 

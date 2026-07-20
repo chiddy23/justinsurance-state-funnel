@@ -48,11 +48,7 @@ The combined Life and Health Producer exam is most common for new agents pursuin
 
 Passing score: 70% on every Nevada insurance license exam.
 
-Exam fees:
-
-$55 for single-line exams
-
-$65 for combo exams
+Exam fee: $37, paid to Pearson VUE at registration. Confirm the current fee on the Pearson VUE Nevada candidate handbook before scheduling, as fees can change.
 
 ## Choosing the Right Exam
 
@@ -168,7 +164,7 @@ Reliable internet connection. Disconnections during the exam can cause issues â€
 
 Government-issued photo ID. Same requirement as physical centers.
 
-One attempt per exam. Candidates taking online exams are allowed only one attempt per exam.
+Limited attempts online. Candidates taking online exams are limited to 2 attempts before they must switch to testing at a physical Pearson VUE center (no limit on retakes at a physical test center).
 
 ## Taking the Exam: Navigation
 
@@ -208,8 +204,8 @@ If you fail: You receive a diagnostic report showing weak content areas. Use thi
 
 - How many questions are on the Nevada Life and Health combined exam? 150+ questions. You have between 2 hours 40 minutes and 3 hours 35 minutes to complete them depending on the specific exam.
 - What's the passing score? 70% on Nevada insurance license exams. The 80% figure occasionally cited isn't accurate â€” Nevada uses 70%.
-- Can I take the Nevada insurance exam online from home? Yes. Nevada offers online proctored testing through Pearson VUE as an alternative to physical test centers. Note that online exam takers are allowed only one attempt per exam.
-- How much do Nevada insurance exams cost? $55 for single-line exams and $65 for combo exams.
+- Can I take the Nevada insurance exam online from home? Yes. Nevada offers online proctored testing through Pearson VUE as an alternative to physical test centers. Online exam takers are limited to 2 attempts before they must switch to a physical test center; there's no limit on retakes in person.
+- How much do Nevada insurance exams cost? $37, paid to Pearson VUE at registration. Confirm the current fee before scheduling, as fees can change.
 - Is prelicense education required before taking the Nevada exam? No. Nevada doesn't require prelicense education. However, taking a quality exam prep course is highly recommended given the exam's challenging content.
 
 ## Walk Into the Nevada Exam Prepared

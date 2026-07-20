@@ -17,7 +17,7 @@ imageAlt: >-
 imageCredit: Photo by Pixabay on Pexels
 ---
 
-If you're aiming to keep your insurance license active in New York, affordable New York insurance CE classes can be your ticket to maintaining compliance without straining your budget. Knowing what's expected of you is the first step. Generally, New York requires you to complete [New York continuing education](/new-york/continuing-education) (CE) hours on a regular cycle to stay current with ever-evolving industry regulations.
+If you're aiming to keep your insurance license active in New York, affordable New York insurance CE classes can be your ticket to maintaining compliance without straining your budget. Knowing what's expected of you is the first step. Generally, New York requires you to complete New York continuing education (CE) hours on a regular cycle to stay current with ever-evolving industry regulations.
 
 In many cases, these CE requirements include a certain number of course hours in specific subject areas such as ethics or updates in state insurance laws. The exact number may vary depending on the type of insurance license you hold, so make sure you confirm your individual requirements by checking the New York Department of Financial Services website. Putting this research in at the beginning helps you avoid taking more courses than you actually need, saving both time and money.
 
@@ -41,7 +41,7 @@ It’s helpful to think in terms of total cost rather than just the price of an 
 
 ## Follow a step-by-step path to get licensed
 
-If you’re new to the insurance industry, [continuing education](/new-york/continuing-education) may sound like a later concern, but it’s important to map out your entire pathway from licensing to renewal. A clear plan keeps you on track from the start. Below is a basic overview of the steps you might follow, from applying for your initial license to finishing your CE courses:
+If you’re new to the insurance industry, continuing education may sound like a later concern, but it’s important to map out your entire pathway from licensing to renewal. A clear plan keeps you on track from the start. Below is a basic overview of the steps you might follow, from applying for your initial license to finishing your CE courses:
 
 Step
 
@@ -51,7 +51,7 @@ Considerations
 
 1
 
-Fulfill [pre-licensing](/new-york/prelicensing) requirements
+Fulfill pre-licensing requirements
 
 Verify required hours in specific lines of authority (e.g., Life, Accident & Health)
 

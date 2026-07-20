@@ -58,7 +58,7 @@ Most Indiana resident producers need 24 hours of approved CE, including three ho
 
 ### 2\. Can I carry over extra CE hours to my next cycle?
 
-Yes, Indiana usually allows you to carry over a surplus of up to 12 hours. However, any additional ethics hours can only fulfill ethics credit in the renewal cycle when they’re earned, so plan your courses accordingly.
+No, Indiana does not permit CE carry-forward. You must complete a fresh 24 CE hours (including 3 ethics hours) within each two-year renewal cycle; excess hours from a prior cycle do not roll over, so plan your courses accordingly.
 
 ### 3\. What types of courses count toward CE?
 

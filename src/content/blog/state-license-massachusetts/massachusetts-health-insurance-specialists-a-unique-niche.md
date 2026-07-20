@@ -255,6 +255,8 @@ Long-term retention. Health insurance clients tend to retain agents long-term wh
 
 Established Massachusetts health insurance specialty practices commonly produce $120,000-$240,000+ in annual income, with top practices substantially higher.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Service Demands
 
 Health insurance specialty involves substantial ongoing service:
@@ -329,7 +331,7 @@ The Massachusetts-specific knowledge accumulated over years of specialty practic
 
 - Why is Massachusetts health insurance specialty distinctive? Massachusetts pioneered state-based health insurance reform with 2006's Chapter 58, has its own state-based marketplace (Health Connector), distinctive supplemental subsidies (ConnectorCare), state-level individual mandate, and substantial healthcare industry — creating a unique specialty environment unavailable in most other states.
 - What certifications do I need for Massachusetts health insurance specialty? Massachusetts producer license with Health authority, Health Connector certification, AHIP certification (for Medicare), carrier-specific certifications, CMS compliance training, LTC training, and other relevant specialty training.
-- What's the income potential in Massachusetts health insurance specialty? Established practices commonly produce $120,000-$240,000+ annually. Top specialty practices earn substantially more through volume, renewals, and cross-sell.
+- What's the income potential in Massachusetts health insurance specialty? Established practices commonly produce $120,000-$240,000+ annually. Top specialty practices earn substantially more through volume, renewals, and cross-sell. These figures are illustrative and not a guarantee of earnings; individual results vary.
 - Is Massachusetts health insurance specialty good for new agents? Yes, particularly with mentor relationships and proper certification. Health insurance practices build durable books with strong retention, though the learning curve includes substantial Massachusetts-specific knowledge.
 - How seasonal is Massachusetts health insurance specialty work? Substantially seasonal, with concentrated activity during Medicare AEP (October 15 - December 7) and Marketplace Open Enrollment (typically November to mid-January). Year-round service work continues but new enrollment volume concentrates.
 

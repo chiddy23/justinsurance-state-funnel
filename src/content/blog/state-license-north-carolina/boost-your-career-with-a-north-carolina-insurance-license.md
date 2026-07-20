@@ -38,21 +38,21 @@ It’s a good idea to confirm these requirements early on, because meeting them 
 
 Securing your insurance license in North Carolina is straightforward when you break it down into four manageable steps. By taking it one stage at a time, you’ll stay focused and build the knowledge you need to succeed.
 
-### Step 1: Fulfill pre-licensing education
+### Step 1: Decide on pre-licensing education (optional)
 
-North Carolina requires that you complete a state-approved [North Carolina prelicensing](/north-carolina/prelicensing) course before you can sit for the exam. These courses cover the fundamentals of insurance, including policy types, ethical practices, and state regulations specific to North Carolina. You can typically choose between classroom or online learning, depending on your schedule.
+As of October 1, 2025, House Bill 737 eliminated North Carolina's mandatory prelicensing requirement, so completing a state-approved [North Carolina prelicensing](/north-carolina/prelicensing) course is now optional rather than a prerequisite to sitting for the exam. Even so, these courses cover the fundamentals of insurance, including policy types, ethical practices, and state regulations specific to North Carolina, and most candidates still choose to take one. You can typically choose between classroom or online learning, depending on your schedule.
 
 Aim to pay close attention to any material related to state rules, as you’ll be tested on legislation that applies uniquely to North Carolina residents. Investing extra effort here increases the odds of passing on your first try, so make the most of your study time and resources.
 
 ### Step 2: Register for your exam
 
-Once you’ve finished your coursework, you’ll schedule an exam with the authorized testing provider for North Carolina. Be sure to register ahead of time—slots can fill quickly, especially during peak seasons. You’ll pay an exam fee, which varies depending on the type of license you’re pursuing, such as Life, Health, or Property and Casualty.
+Once you’ve finished preparing — whether through a pre-licensing course or self-study — you’ll schedule an exam with the authorized testing provider for North Carolina. Be sure to register ahead of time—slots can fill quickly, especially during peak seasons. You’ll pay an exam fee, which varies depending on the type of license you’re pursuing, such as Life, Health, or Property and Casualty.
 
-When you register, confirm the details of your testing location, date, and time. If possible, schedule your exam soon after your classes end, so the material stays fresh in your mind. Keep any confirmation emails or documents organized in a folder or planner so you don’t miss any important information.
+When you register, confirm the details of your testing location, date, and time. If possible, schedule your exam soon after finishing your study, so the material stays fresh in your mind. Keep any confirmation emails or documents organized in a folder or planner so you don’t miss any important information.
 
 ### Step 3: Pass the exam
 
-Exam day can be nerve-racking, but remember, you’ve already put in the hard work by completing your [pre-licensing](/north-carolina/prelicensing) course. The test generally consists of multiple-choice questions covering insurance principles, policy provisions, and state laws. Try to pace yourself and read each question carefully—rushing often leads to mistakes.
+Exam day can be nerve-racking, but remember, you’ve already put in the hard work preparing, whether through a [pre-licensing](/north-carolina/prelicensing) course or self-study. The test generally consists of multiple-choice questions covering insurance principles, policy provisions, and state laws. Try to pace yourself and read each question carefully—rushing often leads to mistakes.
 
 If you need a confidence boost, consider taking a few practice tests beforehand. These mock exams help you get comfortable with the question format and the range of topics you’ll see on the real test. After all, a bit of extra preparation can make all the difference in feeling ready and calm when you sit down to begin.
 
@@ -83,6 +83,6 @@ Whether you aim to guide families toward financially secure futures or you have 
 
 ## Put your learning into action
 
-You’re now closer than ever to launching or elevating your career in insurance. Start by reviewing your checklist—fulfill your pre-licensing coursework, secure your exam date, pass the test, and submit your application. From there, the possibilities multiply as you explore new lines of authority, build relationships in the industry, and consider expanding your role.
+You’re now closer than ever to launching or elevating your career in insurance. Start by reviewing your checklist—decide on pre-licensing coursework, secure your exam date, pass the test, and submit your application. From there, the possibilities multiply as you explore new lines of authority, build relationships in the industry, and consider expanding your role.
 
 If you’re searching for further support, JustInsurance can help you stay on track and connect you with the right resources. Ultimately, your North Carolina insurance license isn’t just another credential. It’s your pathway to professional growth, steady income, and meaningful impact on the communities you’ll serve. Take that next step today, and watch as your confidence—and your career—continues to grow.

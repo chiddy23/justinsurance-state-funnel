@@ -54,7 +54,7 @@ Life line producers who obtained the line before July 1, 2024: must complete wit
 
 Life line producers who obtain the line after July 1, 2024: must complete within 6 months of obtaining the line
 
-Contact IDOI: brwalters@idoi.in.gov or 317-232-5858 (Brooke Walters, Education Coordinator) for approved courses
+Contact IDOI: AgentLicensing@idoi.in.gov or (800) 622-4461 for approved courses
 
 Counts toward CE
 
@@ -98,7 +98,7 @@ Renewal deadline: Last day of birth month every 2 years. Late renewal fee: $160 
 - Does the Annuity Best Interest training count toward CE? Yes — the 4-hour Annuity Best Interest training course (760 IAC 1-72-4.5) counts toward the 24-hour CE requirement in the renewal cycle completed. For a life producer completing the training in the first renewal period after July 1, 2024: the 4 hours of annuity training + 3 hours of Ethics + 17 additional hours = 24 hours total.
 - How does Indiana's $160 late renewal fee compare to other states? Indiana's $160 late renewal fee is 4x the standard $40 renewal — one of the most significant late renewal penalties among comparison states. Maryland's late renewal is $169 ($54 + $15 + $100 reinstatement); Colorado's is different; Minnesota's is $150 (within 1 year). Indiana's $160 creates the strongest financial incentive for timely renewal among comparison states.
 - Is CE reported to Sircon or NIPR? Both Sircon and NIPR are used for Indiana CE tracking — the same platforms used for license applications and renewals. CE providers report completions to Sircon or NIPR, which IDOI accesses for CE compliance verification. Producers should verify their CE transcript in Sircon or NIPR before submitting renewal to confirm all hours are properly recorded.
-- How does Indiana's CE structure compare to NJ or MN where any line counts? Indiana's CE requirements — verify current line-specific vs. general content requirements at in.gov/idoi or through IDOI's Education Coordinator (brwalters@idoi.in.gov). States like MN and NJ allow any approved course to count for non-Ethics CE; Indiana may have specific content requirements. Always verify current IDOI CE content requirements before enrolling.
+- How does Indiana's CE structure compare to NJ or MN where any line counts? Indiana's CE requirements — verify current line-specific vs. general content requirements at in.gov/idoi or by contacting IDOI at AgentLicensing@idoi.in.gov. States like MN and NJ allow any approved course to count for non-Ethics CE; Indiana may have specific content requirements. Always verify current IDOI CE content requirements before enrolling.
 
 ## Maintain Your Indiana License With Confidence
 

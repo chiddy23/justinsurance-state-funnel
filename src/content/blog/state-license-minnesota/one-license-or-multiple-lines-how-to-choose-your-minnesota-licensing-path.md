@@ -160,7 +160,11 @@ Yes. A producer holding Property, Casualty, Life, and A&H authority can sell any
 
 I'm not sure whether I want to sell P&C or Life and Health. Should I get all four lines at once?
 
-If you are genuinely uncertain about your direction, getting all four major lines now eliminates the decision entirely — you will be authorized to sell in whichever direction your career develops. The additional cost of getting all four lines simultaneously versus two lines is approximately $100 in additional application fees and roughly $150 in additional prelicensing and exam costs, for a total additional investment of around $250. Against a career in insurance that commonly generates $80,000–$150,000+ annually at maturity, the additional $250 to eliminate all line restrictions is almost certainly worth spending. The only reason not to get all four lines immediately is if the study commitment needed to complete 80 hours of prelicensing and two exams in a short window is not feasible given your current schedule.
+If you are genuinely uncertain about your direction, getting all four major lines now eliminates the decision entirely — you will be authorized to sell in whichever direction your career develops. The additional cost of getting all four lines simultaneously versus two lines is approximately $100 in additional application fees and roughly $150 in additional prelicensing and exam costs, for a total additional investment of around $250. Against a career in insurance that commonly generates $80,000–$150,000+ annually at maturity, the additional $250 to eliminate all line restrictions is almost certainly worth spending.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
+The only reason not to get all four lines immediately is if the study commitment needed to complete 80 hours of prelicensing and two exams in a short window is not feasible given your current schedule.
 
 The choice of which lines to pursue defines the boundaries of your Minnesota insurance practice for as long as those lines represent your only authority. Choose expansively when the cost difference is modest and the career difference is significant — and choose specifically when your distribution channel genuinely confines you to a single product category. Most producers who think carefully through this decision at the outset conclude that getting more lines now is almost always better than getting fewer lines and adding later.
 

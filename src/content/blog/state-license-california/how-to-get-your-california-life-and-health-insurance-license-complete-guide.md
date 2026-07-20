@@ -46,7 +46,7 @@ California insurance licensing exams are administered by PSI Exams Online. Once 
 
 - Register at psiexams.com
 - Schedule your exam at a California testing center
-- Pay the exam fee (typically around $75 per exam attempt)
+- Pay the exam fee ($98 per exam attempt)
 - Bring two forms of valid ID on test day — one must be government-issued with a photo
 - Exam seats are usually available within a week or two, though high-demand testing sites can take longer.
 

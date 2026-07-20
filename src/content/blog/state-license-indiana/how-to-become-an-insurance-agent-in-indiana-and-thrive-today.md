@@ -27,7 +27,7 @@ You will also want to ensure you meet the basic requirements. You must be at lea
 
 ## Complete your required education
 
-[Pre-licensing](/indiana/prelicensing) education is a must. The state mandates a specific number of hours for each license type, and you can find options both online and in-person. Courses typically cover insurance principles, state regulations, ethical considerations, and more. Studying thoroughly reduces stress when exam day arrives.
+[Pre-licensing](/indiana/prelicensing) education is a must. The state mandates a specific number of hours for each license type, and you can find options both online and in-person. Courses typically cover insurance principles, state regulations, ethical considerations, and more. JustInsurance's Indiana prelicensing courses cover Life, Health, and combined Life & Health; for Property and Casualty prelicensing, search Sircon or the IDOI's approved-provider list. Studying thoroughly reduces stress when exam day arrives.
 
 Spend some extra time with your course materials and consider supplementary resources. You will encounter a wide variety of topics, ranging from policy provisions to stakeholder responsibilities. Taking notes and reviewing key terms often helps these details sink in.
 

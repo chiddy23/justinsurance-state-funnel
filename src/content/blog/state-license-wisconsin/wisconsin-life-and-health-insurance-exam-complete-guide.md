@@ -16,7 +16,7 @@ imageAlt: >-
   and health insurance exam: complete guide.
 ---
 
-Wisconsin's Life and Health insurance exams are PSI-administered tests — each separate (100 questions; 2 hours; $75 each). Wisconsin does NOT offer combined Life & Health exams. The state section covers OCI Commissioner authority, Wisconsin Statutes Chapters 600-655 and 628 (intermediaries), BadgerCare Plus (Wisconsin's distinctive partial Medicaid expansion — covering adults at or below 100% FPL, NOT the full ACA 138% FPL expansion), Healthcare.gov (federal marketplace — Wisconsin has no state exchange), the Annuity Best Interest training requirement (effective April 15, 2022 — 2021 Wisconsin Act), and LTC training with Wisconsin Medicaid-specific content requirements (2 hours WI Medicaid-specific in initial training; 1 hour WI-specific in refresher). There is no mandatory retake waiting period — candidates can immediately reschedule after a failed attempt. Here's the complete guide.
+Wisconsin's Life and Health insurance exams are PSI-administered tests — each separate (100 questions; 2 hours; $75 each). Wisconsin does NOT offer combined Life & Health exams. The state section covers OCI Commissioner authority, Wisconsin Statutes Chapters 600-655 and 628 (intermediaries), BadgerCare Plus (Wisconsin's distinctive partial Medicaid expansion — covering adults at or below 100% FPL, NOT the full ACA 138% FPL expansion), Healthcare.gov (federal marketplace — Wisconsin has no state exchange), the Annuity Best Interest training requirement (effective April 15, 2022 — 2021 Wisconsin Act), and LTC training with Wisconsin Medicaid-specific content requirements (2 hours WI Medicaid-specific in initial training; 1 hour WI-specific in refresher). A roughly 2-calendar-day mandatory waiting period applies before candidates can reschedule after a failed attempt. Here's the complete guide.
 
 ## Exam Format and Specs
 
@@ -26,7 +26,7 @@ Per-question pacing: 100 questions / 120 minutes = 72 seconds per question — c
 
 Remote testing (PSI Bridge): Requires Google Chrome; check compatibility at syscheck.bridge.psiexams.com before scheduling.
 
-Retakes: Unlimited; no mandatory waiting period — immediate reschedule allowed. Each retake: $75.
+Retakes: Unlimited; approximately a 2-calendar-day mandatory waiting period before rescheduling. Each retake: $75.
 
 First-time candidates: Select "22-01 Life, General and State Specific" (not "State Specific Series" — that's only for previously licensed producers).
 
@@ -70,7 +70,7 @@ OCI: Office of the Commissioner of Insurance; PO Box 7872, Madison, WI 53707-787
 
 Intermediary (Producer) Individual: Wisconsin's term for insurance producer/agent
 
-Producer licensing (Chapter 628): PLE 20 hrs/line (8 hrs common + 12 hrs line-specific; 12-month sharing); Certificate valid 1 year; bring to PSI exam; no combined exams; PSI $75; PSI Bridge (Chrome); 70%; 180-day apply window; no retake wait; Fieldprint $36; $75/line NIPR; 1-3 business day processing; renewal 2 years/$35; CE 24 hrs/3 Ethics; $1/credit hr reporting; no carryover
+Producer licensing (Chapter 628): PLE 20 hrs/line (8 hrs common + 12 hrs line-specific; 12-month sharing); Certificate valid 1 year; bring to PSI exam; no combined exams; PSI $75; PSI Bridge (Chrome); 70%; 180-day apply window; ~2-day retake wait; Fieldprint $34.75; $75/line NIPR; 1-3 business day processing; renewal 2 years/$35; CE 24 hrs/3 Ethics; $1/credit hr reporting; no carryover
 
 Unfair practices under WI law
 

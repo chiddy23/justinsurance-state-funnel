@@ -22,7 +22,7 @@ Continuing your insurance education is essential if you want to thrive in New Yo
 
 ## Understand the statewide requirements
 
-Before you dive into any classes, it helps to get a clear picture of [New York continuing education](/new-york/continuing-education) guidelines. In most cases, you will need to complete 15 credit hours of New York insurance CE every two years, though the exact requirements can vary based on the type of license you hold. Adhering to these regulations ensures you remain compliant and avoid renewal delays.
+Before you dive into any classes, it helps to get a clear picture of New York continuing education guidelines. In most cases, you will need to complete 15 credit hours of New York insurance CE every two years, though the exact requirements can vary based on the type of license you hold. Adhering to these regulations ensures you remain compliant and avoid renewal delays.
 
 If you’re new to the process, it is useful to research specific guidelines on the New York State Department of Financial Services website. You will find detailed information that breaks down the coursework and deadlines, helping you understand exactly what to expect. By doing this homework early, you can minimize stress and avoid last-minute rushes to fulfill your credit hours.
 
@@ -34,7 +34,7 @@ Keep in mind that variety can keep you motivated as you continue insurance educa
 
 ## Plan your study schedule
 
-Building a realistic timeline for your [continuing education](/new-york/continuing-education) will save you countless headaches. Try mapping out the credit hours you need over your renewal cycle, and break them into manageable segments. This method works wonders for balancing your workload, especially if you have family commitments or a full-time job.
+Building a realistic timeline for your continuing education will save you countless headaches. Try mapping out the credit hours you need over your renewal cycle, and break them into manageable segments. This method works wonders for balancing your workload, especially if you have family commitments or a full-time job.
 
 Consider creating a simple calendar that includes study blocks throughout the week. You might devote a few hours on Sunday mornings or around lunchtime on weekdays, focusing on one module at a time. By setting a steady pace, you give yourself room to absorb the content without feeling pressured to cram everything at once.
 

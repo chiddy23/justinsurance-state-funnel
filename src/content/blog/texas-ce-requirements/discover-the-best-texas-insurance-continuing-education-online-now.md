@@ -45,7 +45,7 @@ You gain a deeper understanding of how to navigate the industry and meet client 
 
 ## Steps to fulfill requirements
 
-Many licensed agents in Texas need to complete 24 credit hours of continuing education every two years. Out of those hours, 2 must be dedicated to ethics content, though you should confirm exact requirements that apply to your specific license. While each approved provider may handle content delivery differently, you can generally expect an online learning experience that walks you through distinct modules or course sections.
+Many licensed agents in Texas need to complete 24 credit hours of continuing education every two years. Out of those hours, 3 must be dedicated to ethics content, though you should confirm exact requirements that apply to your specific license. While each approved provider may handle content delivery differently, you can generally expect an online learning experience that walks you through distinct modules or course sections.
 
 Below is a quick reference to help you see the broad structure:
 
@@ -63,7 +63,7 @@ Every 2 years
 
 Ethics requirement
 
-2
+3
 
 Included in the 24 hours
 
@@ -72,7 +72,7 @@ Once you have finished each course, confirm that the provider reports your credi
 ## Frequently asked questions
 
 1.  How many CE hours do I need to renew my license?  
-    Texas generally requires 24 hours of CE every two years, including 2 hours dedicated to ethics training. Always verify the latest information with the Texas Department of Insurance for your specific license type.
+    Texas generally requires 24 hours of CE every two years, including 3 hours dedicated to ethics training. Always verify the latest information with the Texas Department of Insurance for your specific license type.
 2.  Can I complete my CE requirements entirely online?  
     Yes. Many approved providers allow you to complete all required courses online, which means you can finish them from home or wherever you have internet access.
 3.  Are there mandatory topics besides ethics?  

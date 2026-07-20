@@ -34,7 +34,7 @@ Minnesota: PSI Services LLC administers all Minnesota insurance licensing exams.
 
 Wisconsin: PSI also administers Wisconsin's insurance licensing exams. PSI call center: (888) 818-5805. Remote via PSI Bridge. Exam fee varies by line — confirm with PSI at scheduling. A critical Wisconsin-specific detail: first-time applicants must select both the general and state-specific series labeled exams. Exams labeled as "state specific series" only are for previously licensed applicants relicensing in the same line. Selecting the wrong exam is a common Wisconsin mistake. Exam results are valid for only 180 days — significantly shorter than Minnesota's three-year window, creating time pressure that Minnesota candidates do not face.
 
-Iowa: Pearson VUE (now Pearson Professional Assessments) administers Iowa's insurance licensing exams — a different vendor from both Minnesota and Wisconsin. Schedule at pearsonvue.com/ia/insurance or call (877) 540-5825. Exam fee: $49 per exam. Remote testing via OnVUE — candidates get only one remote attempt; all subsequent attempts must be in person at a Pearson VUE test center, which is a notable restriction not found in Minnesota or Wisconsin. Exam results are valid for only 90 days — the shortest window of the three states. A candidate who passes the Iowa exam must submit their license application within 90 days or the results expire and they must retake the exam.
+Iowa: Pearson VUE (now Pearson Professional Assessments) administers Iowa's insurance licensing exams — a different vendor from both Minnesota and Wisconsin. Schedule at pearsonvue.com/ia/insurance or call (877) 540-5825. Exam fee: $44 per exam. Remote testing via OnVUE — candidates get only one remote attempt; all subsequent attempts must be in person at a Pearson VUE test center, which is a notable restriction not found in Minnesota or Wisconsin. Exam results are valid for only 90 days — the shortest window of the three states. A candidate who passes the Iowa exam must submit their license application within 90 days or the results expire and they must retake the exam.
 
 ## Fingerprinting and Background Checks
 
@@ -58,13 +58,13 @@ Iowa: Application must be submitted within 90 days of passing the exam — no ex
 
 ## Continuing Education: Three Different Frameworks
 
-The CE structures of Minnesota, Wisconsin, and Iowa differ in total hours, renewal period length, and the classroom requirement — creating meaningfully different ongoing obligations.
+The CE structures of Minnesota, Wisconsin, and Iowa differ in total hours, renewal period length, and format rules — creating meaningfully different ongoing obligations.
 
-Minnesota: 24 hours every 2 years, including 3 hours of ethics. At least 12 of the 24 hours must be classroom or classroom-equivalent. At least 12 hours must not be sponsored by or affiliated with an insurance company. Renewal deadline: last day of birth month, biennial. Renewal fee: $50 + $30 technology surcharge = $80.
+Minnesota: 24 hours every 2 years, including 3 hours of ethics. At least 12 hours must not be sponsored by or affiliated with an insurance company — this requirement can be satisfied entirely through self-paced online courses from an independent provider; Minnesota does not require any live or in-person instruction. Renewal deadline: last day of birth month, biennial. Renewal fee: $50 + $30 technology surcharge = $80.
 
 Wisconsin: 24 hours every 2 years, including 3 hours of ethics. Wisconsin does not carry over excess CE credits to the next period — any hours completed beyond 24 in a reporting period are forfeited. Wisconsin requires a proctor for self-study CE exam completion — a requirement that applies to CE as well as prelicensing, unlike Minnesota where the proctor requirement is only at prelicensing. Renewal deadline: last day of birth month, biennial.
 
-Iowa: 36 hours every 3 years, including 3 hours of ethics. Iowa requires 18 of those 36 hours to be completed in a classroom setting — not online. This in-person classroom requirement is significantly more restrictive than Minnesota's (which allows online for at least half the hours) and Wisconsin's (which allows online with proctored exams). Iowa's 3-year renewal cycle is longer than both Minnesota and Wisconsin's 2-year cycles, which means producers manage fewer renewals over a career but must plan for a larger single-period CE obligation. Renewal deadline: last day of birth month, triennial.
+Iowa: 36 hours every 3 years, including 3 hours of ethics. Iowa's 3-year renewal cycle is longer than both Minnesota and Wisconsin's 2-year cycles, which means producers manage fewer renewals over a career but must plan for a larger single-period CE obligation. Renewal deadline: last day of birth month, triennial.
 
 ## Reinstatement After Lapse
 

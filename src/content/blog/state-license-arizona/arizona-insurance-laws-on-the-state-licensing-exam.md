@@ -74,7 +74,7 @@ Exam limit (A.R.S. § 20-284(H)): Maximum 4 attempts per line per year. After 4 
 
 Exam validity: Must apply within 1 year of passing.
 
-License renewal: Biennial fee payment; December 31 renewal date standardized by HB 2054 (June 2025) for all Arizona license types.
+License renewal: Every 4 years, on the last day of your birth month.
 
 CE requirements: 48 hours per 4-year cycle, 6 hours ethics mandatory. No carryover. $1.50/hour reporting fee.
 
@@ -240,7 +240,7 @@ No carryover — excess hours cannot be applied to the next 4-year period.
 
 $1.50 per credit hour reporting fee.
 
-HB 2054 (June 2025): Changed Arizona license renewal date to December 31 for all license types.
+License renewal falls on the last day of your birth month, every 4 years — the same date your CE deadline is measured against.
 
 Exam questions sometimes test whether candidates know Arizona's CE framework differs from typical state requirements. Knowing 48 hours/4 years vs. 24 hours/2 years is specifically testable.
 

@@ -36,11 +36,11 @@ Criminal background checked as part of application
 
 Missouri does not require [prelicensing](/missouri/prelicensing) education. No mandated course hours, no PLE certification exam. Candidates proceed directly to scheduling the Pearson VUE exam.
 
-Study preparation is strongly recommended — industry sources cite first-attempt [pass rates](/pass-rates) of 40-60%, and Missouri's two-section format requires specific Missouri state law preparation that generic national materials don't provide.
+Study preparation is strongly recommended — industry sources cite first-attempt pass rates for all candidates of 40-60%, and Missouri's two-section format requires specific Missouri state law preparation that generic national materials don't provide. That 40-60% figure isn't JustInsurance's own outcome: among students who complete our full Missouri course and hit our practice-exam benchmarks, JustInsurance's first-attempt [pass rate](/pass-rates) is approximately 93% (see [pass rates](/pass-rates) for methodology).
 
 ## Exam Requirements (Pearson VUE)
 
-Pearson VUE — same as Indiana, Ohio, Tennessee, Colorado; different from MN/NJ (PSI) and MD/VA (Prometric).
+Pearson VUE — same as Indiana, Tennessee, Colorado; different from Ohio/MN/NJ (PSI) and MD/VA (Prometric).
 
 Scheduling: pearsonvue.com/us/en/mo/insurance.html; (866) 247-4740; at least 24 hours advance Remote testing: ELIMINATED as of May 7, 2025 — in-person only at Pearson VUE test centers Exam fees: $29-$35 (lowest of all comparison states) Two-section format: National section AND Missouri state section — each must reach 70% separately; scores NOT averaged Score validity: 1 year Results: Immediate pass/fail; diagnostic report in Pearson VUE account Retakes: Unlimited; 24-hour wait; can retake ONLY the failed section Cancel/reschedule: 48+ hours advance or forfeit fee
 

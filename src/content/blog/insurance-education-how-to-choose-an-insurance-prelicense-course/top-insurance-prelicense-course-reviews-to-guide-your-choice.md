@@ -55,9 +55,9 @@ Alternatively, if you crave real-time interactions, you might enjoy a live webin
 
 ## Look for a pass guarantee
 
-Exam pass guarantees offer an extra layer of confidence. If a provider pledges that you will pass on your first attempt, or they will refund your money or extend your course access, it shows they stand behind their content. That vote of confidence can reassure you that the guidance you are receiving is thorough and up to date.
+Some providers offer a pass guarantee, which can add a layer of reassurance that they stand behind their content. Eligible students may qualify for this kind of program in states where it is available, though terms and state eligibility vary by provider.
 
-Still, be sure to read any fine print. Some guarantees require you to confirm you finished all lessons or scored a certain percentage on practice exams. Others might offer a partial refund with restrictions attached. If the details seem reasonable and the pass guarantee matches your study plan, it can be a strong factor in your final decision.
+Still, be sure to read any fine print. Guarantees typically require you to confirm you finished all lessons, complete your studies within a set window, or score a certain percentage on practice exams, and they are not offered in every state. If the details seem reasonable, are clearly disclosed, and fit your study plan, a pass guarantee can be a helpful factor to weigh — check the provider's official terms page rather than relying on marketing claims alone.
 
 ## FAQs about insurance pre-license courses
 
@@ -85,8 +85,8 @@ It can if you plan to use all the extra features. Packages with full-length simu
 
 ## Choose your best fit
 
-Balancing schedule, budget, and learning style is the key to finding your ideal pre-license course. Whether you opt for a simple text-based program or a dynamic video-heavy one, the crucial point is that you feel confident and prepared for the official exam. Remember to verify state approval, confirm the pass guarantee, and ensure you have enough time to complete your studies.
+Balancing schedule, budget, and learning style is the key to finding your ideal pre-license course. Whether you opt for a simple text-based program or a dynamic video-heavy one, the crucial point is that you feel confident and prepared for the official exam. Remember to verify state approval, check whether a pass guarantee applies in your state and what its terms require, and ensure you have enough time to complete your studies.
 
-If you are looking for a reliable recommendation, JustInsurance is often mentioned by students who value a straightforward setup. It provides an intuitive online platform that helps you progress step by step, and it is known for prioritizing up-to-date materials. That said, the final decision comes down to your unique needs and preferences.
+Full disclosure: we built this guide, and we also happen to offer our own prelicensing course, JustInsurance, with a straightforward, step-by-step online platform. We think it is worth a look, but we would rather you compare it against the criteria above than take our word for it — the final decision comes down to your unique needs and preferences.
 
 Once you settle on the right course, commit fully to your study plan. By investing your energy in a structured and reputable program, you are setting yourself on a solid path to passing your [insurance licensing exam](/prelicensing). Pick the course that sparks your confidence and begin your study journey today.

@@ -16,7 +16,7 @@ imageAlt: >-
   insurance exam: no ple required but preparation m.
 ---
 
-Washington eliminated its [prelicense](/washington/prelicensing) education requirement on July 24, 2023, joining a growing group of states — including Arizona, Pennsylvania, North Carolina, South Carolina, Nevada, and others — that have moved to exam-only licensing frameworks. Washington's exam is administered by PSI, requires 70% to pass, and covers both national insurance content and Washington-specific state law from RCW Title 48 and WAC Title 284. Understanding what's on the exam and how to prepare effectively — even without a required PLE course — determines whether licensing takes 2-4 weeks or significantly longer.
+Washington eliminated its [prelicense](/washington/prelicensing) education requirement on July 23, 2023, joining a growing group of states — including Arizona, Pennsylvania, North Carolina, South Carolina, Nevada, and others — that have moved to exam-only licensing frameworks. Washington's exam is administered by PSI, requires 70% to pass, and covers both national insurance content and Washington-specific state law from RCW Title 48 and WAC Title 284. Understanding what's on the exam and how to prepare effectively — even without a required PLE course — determines whether licensing takes 2-4 weeks or significantly longer.
 
 Here's what Washington candidates need to know about the exam and how to prepare.
 
@@ -204,7 +204,7 @@ Not certifying exam registration compliance. When registering for the Washington
 
 ## 5 Frequently Asked Questions
 
-- When did Washington eliminate its prelicense education requirement? July 24, 2023. Washington eliminated mandatory PLE as part of a broader national trend toward exam-only licensing frameworks. Exam preparation is still strongly recommended — OIC's own resources acknowledge that prep courses significantly improve pass rates.
+- When did Washington eliminate its prelicense education requirement? July 23, 2023. Washington eliminated mandatory PLE as part of a broader national trend toward exam-only licensing frameworks. Exam preparation is still strongly recommended — OIC's own resources acknowledge that prep courses significantly improve pass rates.
 - What is a Health Care Service Contractor and why does it appear on Washington's exam? A Health Care Service Contractor (HCSC) is a Washington-specific entity type under RCW 48.44 that provides health care services directly to subscribers rather than paying indemnity benefits. HCSCs are regulated separately from traditional health insurance companies under their own statutory chapter. Washington's Disability exam tests knowledge of this distinctive Washington entity type.
 - Does Washington have a state-based health exchange? Yes — Washington Healthplanfinder (washingtonhealthplanfinder.org). Unlike Arizona (which uses Healthcare.gov), Washington manages its own state-based marketplace. Producers selling individual market health insurance in Washington must complete Washington Healthplanfinder certification.
 - What's the passing score for Washington insurance exams? 70% — a single combined percentage score. Washington does not use a two-section independent scoring model like Arizona. The 70% applies to the exam as a whole.

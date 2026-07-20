@@ -2,7 +2,7 @@
 title: Fast-Track Your Success with a Colorado Insurance License
 description: >-
   How to get a colorado insurance license — prelicensing hours, exam costs,
-  application steps, fingerprinting, and timeline explained by licensed
+  application steps, and timeline explained by licensed
   insurance
 keyword: how to get a colorado insurance license
 targetKeywords: colorado insurance license
@@ -52,7 +52,7 @@ If you don’t pass on your first attempt, don’t worry. You can retake the exa
 
 ## File your license application
 
-After you’ve passed your exam, you’re almost at the finish line. Your final task is to file your online application with the Colorado Division of Insurance. The application process includes a background check, which may involve fingerprinting. Make sure you fill out each form accurately to avoid delays. Any mismatched or missing information can slow down the approval process.
+After you’ve passed your exam, you’re almost at the finish line. Your final task is to file your online application with the Colorado Division of Insurance. The application process includes a background check via self-disclosure on your NIPR application — Colorado does not require fingerprinting. Make sure you fill out each form accurately to avoid delays. Any mismatched or missing information can slow down the approval process.
 
 Once the Division of Insurance reviews your documents, you’ll be granted an official Colorado insurance license. Congrats on reaching this milestone. You’re now cleared to represent insurance carriers and help customers find the protection they need.
 

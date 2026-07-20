@@ -134,7 +134,7 @@ Appointment requirement: carrier must file within 15 days
 
 Grounds for discipline: TCA §56-6-112
 
-CE requirements: 24 hours biennial; 3 hours ethics; 30-day grace period; $120 late fee after grace period; up to 1 year late renewal
+CE requirements: 24 hours biennial; 3 hours ethics; 60-day grace period; late fee not publicly posted (contact the TDCI) after grace period; up to 1 year late renewal
 
 Unfair Trade Practices and Unfair Claims Settlement Act:
 
@@ -350,9 +350,9 @@ What your score report shows: Your score report includes your pass or fail resul
 
 ## The Retake Policy and Its Implications
 
-Tennessee allows unlimited exam retakes with no mandatory waiting period between attempts. You can schedule a retake for the next available appointment — potentially the following day — after a failed attempt.
+Tennessee allows unlimited exam retakes — there is no cap on the number of attempts — but a mandatory waiting period applies: 10 days after your first failure, and 30 days after each subsequent failure. You cannot schedule the next available appointment right after a failed attempt; you must wait out the applicable period first.
 
-What the unlimited retake policy does not mean: It does not mean retaking immediately without changing your preparation approach is a viable strategy. Candidates who fail, do nothing differently, and retake within a day or two fail again at approximately the same rate. The score report from your first attempt identifies where your knowledge failed — the retake preparation should systematically address those specific gaps.
+What the unlimited retake policy does not mean: It does not mean retaking as soon as the waiting period ends without changing your preparation approach is a viable strategy. Candidates who fail, do nothing differently, and retake the moment they're eligible fail again at approximately the same rate. The score report from your first attempt identifies where your knowledge failed — the retake preparation should systematically address those specific gaps.
 
 The financial reality of unlimited retakes: Each retake costs the full exam fee — $59 per attempt, per line. A candidate who takes a line three times before passing has spent $165 on that line alone in exam fees. The total cost of multiple failed attempts across two lines (Property and Casualty, for example) compounds quickly. The unlimited retake policy is insurance against bad luck on a single attempt — not a subsidy for underprepared repeated attempts.
 

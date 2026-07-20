@@ -22,9 +22,9 @@ Here's an honest breakdown of Arizona insurance agent income.
 
 ## The Short Answer
 
-Arizona insurance agents typically earn between $45,000 and $80,000 in their first few years, with experienced agents regularly reaching $90,000 to $165,000 once they've built a solid book of business. Top producers and agency owners working established Phoenix metro, Scottsdale HNW, or senior specialty practices can earn $200,000 to $400,000+ annually.
+Arizona insurance agents typically earn between $36,990 and $43,340 in their first few years, with experienced agents regularly reaching $59,400 to $77,120 once they've built a solid book of business. Top producers and agency owners working established Phoenix metro, Scottsdale HNW, or senior specialty practices can earn $102,280 or more annually.
 
-Salary data sources show averages ranging from $54,000 (Salary.com base estimates for new agents) to $80,000 (Indeed averages from posted positions including experienced roles) to $83,000 for life insurance agents specifically (ZipRecruiter). These averages blend entry-level and experienced agent incomes — the realistic income picture is substantially shaped by experience, product mix, and market specialization.
+Salary data sources show averages ranging from $54,000 (Salary.com base estimates for new agents) to $80,000 (Indeed averages from posted positions including experienced roles) to $83,000 for life insurance agents specifically (ZipRecruiter). These averages blend entry-level and experienced agent incomes — the realistic income picture is substantially shaped by experience, product mix, and market specialization. Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## How Insurance Income Works in Arizona
 
@@ -63,6 +63,8 @@ Flagstaff. Northern Arizona University college town with year-round population, 
 Sedona. Small luxury market — upscale tourism, second homes, retirement, and arts community. Very small market but disproportionately affluent. Specialty focus required.
 
 Yuma. Agricultural community; MCAS Yuma military base creates military insurance opportunity. Established agents commonly earn $60,000-$100,000+.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 ## What Drives Arizona Income
 
@@ -111,10 +113,12 @@ Build referral systems from the first client interaction
 ## 5 Frequently Asked Questions
 
 - Is Arizona a good state for insurance agent income? Yes, with meaningful opportunity at multiple income levels. Arizona's population growth, flat 2.5% income tax, large senior market, semiconductor boom, and health insurance premium explosion create real income drivers for prepared producers.
-- What's a realistic first-year income for a new Arizona insurance agent? $42,000-$78,000 depending on structure (captive base vs. independent), product mix, and market focus. The full commission income potential takes 18-36 months to develop as renewals compound.
+- What's a realistic first-year income for a new Arizona insurance agent? $36,990-$43,340 depending on structure (captive base vs. independent), product mix, and market focus. The full commission income potential takes 18-36 months to develop as renewals compound.
 - Do Arizona agents pay state income tax on commissions? Yes — at a flat 2.5% state rate, one of the most competitive rates in the country. No city income tax in most Arizona jurisdictions (unlike Detroit's 2.4% or other Michigan cities).
 - Which Arizona city pays insurance agents the most? Scottsdale consistently leads Arizona income rankings for licensed insurance agents. The HNW market, tech executive clients, and professional athlete presence support premium per-client revenue well above state averages.
 - Can I earn six figures as an Arizona insurance agent? Yes — most experienced Arizona agents with established books of business earn over $100,000. Specialty practice areas (senior Medicare, HNW life, tech professional, semiconductor worker market, commercial lines for growing businesses) accelerate this timeline.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 ## Start Your Arizona Insurance Income Right
 

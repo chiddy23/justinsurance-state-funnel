@@ -30,7 +30,7 @@ Existing producers before July 1, 2024: must complete within 6 months of rule ef
 
 New life line producers after July 1, 2024: complete within 6 months of obtaining line
 
-IDOI-approved courses: contact brwalters@idoi.in.gov or 317-232-5858
+IDOI-approved courses: contact AgentLicensing@idoi.in.gov or (800) 622-4461
 
 Counts toward CE
 
@@ -136,13 +136,7 @@ Total: 24 hours ✓
 
 P&C/Personal Lines producer — 24 hours needed:
 
-NFIP Flood training ✓ (check hours)
-
-3-hr Ethics ✓
-
-Remaining P&C hours ✓
-
-Total: 24 hours ✓
+NFIP Flood training (check hours), 3-hr Ethics, and remaining P&C hours from an IDOI-approved provider fill out the 24-hour total. JustInsurance's current CE packages cover Life, Health, and Life & Health lines for Indiana — for P&C-specific CE providers, search Sircon's Approved Courses Inquiry or check in.gov/idoi.
 
 ## 5 Frequently Asked Questions
 
@@ -154,6 +148,6 @@ Total: 24 hours ✓
 
 ## Build Your Indiana Specialty Insurance Practice
 
-Indiana's annuity advisory demand from Eli Lilly and Elevance Health professionals, LTC Partnership advisory for aging Indiana homeowners and farm families, and NFIP flood advisory for riverine communities create specialty opportunities across the state. JustInsurance's IDOI-approved Indiana CE includes all specialty training courses.
+Indiana's annuity advisory demand from Eli Lilly and Elevance Health professionals, LTC Partnership advisory for aging Indiana homeowners and farm families, and NFIP flood advisory for riverine communities create specialty opportunities across the state. JustInsurance's IDOI-approved Indiana CE for Life, Health, and Life & Health lines includes relevant specialty training courses.
 
 Enroll today and develop your Indiana specialty insurance expertise.

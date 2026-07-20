@@ -12,7 +12,7 @@ image: /blog/images/virginia-insurance-continuing-education-made-simple-for-you.
 imageAlt: "Virginia Insurance License Renewal Deadlines: Birth Month Renewal and What You Must Know"
 ---
 
-Virginia's license renewal system changed fundamentally on January 1, 2021. Before that date, Virginia producer licenses were perpetual — they required only a biennial continuance fee and CE completion, but had no fixed expiration date. Since January 1, 2021, every Virginia resident producer license expires on a specific date determined by the producer's birth month and birth year — and that date controls every CE deadline, renewal window, and reinstatement timeline that follows. Getting this date right is not optional: Virginia terminates licenses automatically when renewals are not submitted on time, and there is no grace period for CE completion.
+Virginia's license renewal system changed fundamentally on January 1, 2021. Before that date, Virginia producer licenses were perpetual — they had no fixed expiration date, only an ongoing CE completion obligation. Since January 1, 2021, every Virginia resident producer license expires on a specific date determined by the producer's birth month and birth year — and that date controls every CE deadline, renewal window, and reinstatement timeline that follows. Getting this date right is not optional: Virginia terminates licenses automatically when renewals are not submitted on time, and there is no grace period for CE completion.
 
 ## How Your Renewal Date Is Determined
 
@@ -24,7 +24,7 @@ Born in an odd-numbered year → license expires at the end of your birth month 
 
 Examples:
 
-Your specific expiration date is shown on your license and in your NIPR/Sircon account. If you have questions about your renewal date, contact the Bureau of Insurance at BOILicenseRenewal@scc.virginia.gov.
+Your specific expiration date is shown on your license and in your NIPR/Sircon account. If you have questions about your renewal date, contact the Bureau of Insurance at AgentLicensing@scc.virginia.gov.
 
 ## The Renewal Window
 
@@ -38,11 +38,9 @@ Virginia requires all of the following before a renewal application will be acce
 
 1. Complete all CE requirements. Your CE hours must be completed and reported to the CE program before the Bureau will process your renewal. There is no simultaneous completion — CE must be done first. Allow at least 30 days before your expiration date for CE course providers to report completions to the system. Last-minute CE creates real risk if reporting is delayed.
 
-2. Pay the CE continuance fee. Virginia's CE program administrator (Pearson VUE) requires a biennial continuance fee before your completed CE credits are officially applied to your renewal requirement. This fee is due by November 30 of each year in which renewals occur. Confirm the current fee and payment instructions at virginiainsurancece.com.
+2. Submit the renewal application through NIPR or Sircon with the $10 per-line renewal fee.
 
-3. Submit the renewal application through NIPR or Sircon with the $10 per-line renewal fee.
-
-Important sequencing: CE completion → continuance fee payment → renewal application submission. All three steps must occur before your expiration date.
+Important sequencing: CE completion → renewal application submission. Both steps must occur before your expiration date.
 
 ## What Happens If You Miss the Deadline
 
@@ -60,7 +58,7 @@ Completing all CE requirements (if not already done)
 
 Submitting a reinstatement application through NIPR or Sircon
 
-Paying: $10 renewal fee + $30 late fee + $20 reinstatement fee = $60 per line of authority
+Paying: $10 renewal fee + $20 reinstatement fee = $30 per line of authority
 
 After the one-year reinstatement window closes, you must apply as a new producer — including retaking the Prometric exam.
 
@@ -72,25 +70,25 @@ Keep your contact information current. Address and email changes must be submitt
 
 ## Special Circumstances: Military Waiver
 
-Virginia law provides for renewal waivers for producers who are unable to comply with renewal requirements due to military service or other extenuating circumstances (long-term illness or incapacity). Waiver requests must be submitted in the form prescribed by the Commission and received by the last day of the renewal period. Contact the Bureau of Insurance at BOILicenseRenewal@scc.virginia.gov to initiate a waiver request.
+Virginia law provides for renewal waivers for producers who are unable to comply with renewal requirements due to military service or other extenuating circumstances (long-term illness or incapacity). Waiver requests must be submitted in the form prescribed by the Commission and received by the last day of the renewal period. Contact the Bureau of Insurance at AgentLicensing@scc.virginia.gov to initiate a waiver request.
 
 ## Frequently Asked Questions
 
 How do I find out my exact Virginia insurance license renewal date?
 
-Your renewal date appears on your license document and in your licensing account on NIPR or Sircon. You can also look up your license details using the SCC's online license lookup tool at scc.virginia.gov or by contacting the Bureau of Insurance at BOILicenseRenewal@scc.virginia.gov. Your renewal date is based on your birth month and whether your birth year is odd or even — agents born in January of an even year renew at the end of January of even years; agents born in December of an odd year renew at the end of December of odd years. The pattern repeats every two years indefinitely.
+Your renewal date appears on your license document and in your licensing account on NIPR or Sircon. You can also look up your license details using the SCC's online license lookup tool at scc.virginia.gov or by contacting the Bureau of Insurance at AgentLicensing@scc.virginia.gov. Your renewal date is based on your birth month and whether your birth year is odd or even — agents born in January of an even year renew at the end of January of even years; agents born in December of an odd year renew at the end of December of odd years. The pattern repeats every two years indefinitely.
 
 Can I start taking CE courses at any point in my two-year license term?
 
-Yes. CE courses can be taken at any point within your two-year license term — you do not need to wait until the final months before renewal. Taking courses throughout the biennium rather than compressing them into the final weeks before renewal is strongly recommended. It eliminates the risk of course providers not reporting completions before your renewal deadline, gives you time to identify and address any transcript discrepancies with Pearson VUE, and makes the CE obligation feel less burdensome. Excess credits completed early carry forward automatically to the next biennium.
+Yes. CE courses can be taken at any point within your two-year license term — you do not need to wait until the final months before renewal. Taking courses throughout the biennium rather than compressing them into the final weeks before renewal is strongly recommended. It eliminates the risk of course providers not reporting completions before your renewal deadline and gives you time to identify and address any transcript discrepancies on Sircon. Keep in mind that Virginia does not carry forward excess credits to the next biennium, so there's no benefit to over-completing hours early — the advantage of starting early is purely about avoiding reporting-deadline risk.
 
 Does my renewal deadline change if I add a new line of authority partway through my biennium?
 
 No. Adding a new line of authority does not change your existing renewal date. All lines on your Virginia producer license renew on the same date — the end of your birth month in your odd/even renewal year. If you add a new line six months before your renewal date, that new line renews on the same date as your existing lines. The only thing that changes when you add a second license type is your CE requirement for the upcoming cycle — it jumps from 16 to 24 hours if adding P&C to an existing L/A/H license (or vice versa).
 
-What is the CE continuance fee, and is it different from the license renewal fee?
+Is there a separate fee for CE, or just the license renewal fee?
 
-Yes — these are two separate fees paid to two separate entities. The CE continuance fee is paid to Virginia's CE program administrator (Pearson VUE) and is due by November 30 of the renewal year. It is required before your completed CE credits are officially recognized toward your renewal requirement. The license renewal fee of $10 per line of authority is paid to the Bureau of Insurance through NIPR or Sircon when you submit your renewal application. Both fees must be paid for your renewal to be complete. Paying the renewal fee without paying the continuance fee, or vice versa, leaves your renewal incomplete.
+The license renewal fee is $10 per line of authority, paid to the Bureau of Insurance through NIPR or Sircon when you submit your renewal application. Completing your CE hours has no separate fee attached to it beyond whatever the course provider charges for the courses themselves — CE completion and the renewal fee are two different obligations (hours completed vs. fee paid), but there's only one fee involved in the renewal itself.
 
 If I was born in January 1982 (even year), when did my license first expire and when does it expire next?
 

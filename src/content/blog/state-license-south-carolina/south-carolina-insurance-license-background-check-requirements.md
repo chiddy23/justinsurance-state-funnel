@@ -32,7 +32,7 @@ Aligning with national insurance regulatory best practices
 
 Ensuring ongoing monitoring of licensed producers (new charges automatically reported once fingerprints are on file)
 
-The requirement is established under South Carolina Code § 38-43-100(F)(a) and (b) and applies to all unlicensed applicants seeking resident producer licensure.
+The requirement is established under South Carolina Code § 38-43-100(F)(5)(a)-(b) and applies to all unlicensed applicants seeking resident producer licensure.
 
 ## What the Background Check Covers
 
@@ -92,7 +92,7 @@ Step 3: Schedule With IdentoGO
 
 Visit the IdentoGO website to schedule your fingerprint appointment. You'll need:
 
-The service code from the SCDOI email: SC920124Z - DOI SC Producer Licensing/Renewal
+The service code from the SCDOI email (this code is issued to you directly and should not be reused from another source)
 
 Your government-issued photo ID
 

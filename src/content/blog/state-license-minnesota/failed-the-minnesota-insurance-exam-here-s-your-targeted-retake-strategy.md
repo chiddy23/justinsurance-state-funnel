@@ -52,7 +52,7 @@ The signature: High scores on general insurance concepts and product knowledge s
 
 Why this happens: Candidates who study the [prelicensing](/minnesota/prelicensing) course material thoroughly develop strong general content knowledge. The course introduces Minnesota law but does not ensure that state-specific provisions are memorized with the precision the exam requires. Candidates who underweight state law study — spending 70–80% of preparation time on general content — consistently fail the state law sections while performing adequately on general questions.
 
-The retake strategy: Redirect 60% of your retake study time specifically to Minnesota state law. Build or rebuild your state law reference sheet from scratch — the act of reconstructing it surfaces gaps you missed the first time. Focus specifically on: the no-fault auto insurance framework (PIP $40,000, UM/UIM mandatory at 25/50, tort threshold $4,000 excluding diagnostics, six-month PIP filing deadline, $10,000 property damage minimum), producer licensing specifics (20-hour prelicensing, 24-hour CE with 3 ethics and 12 classroom hours, birth month renewal biennial, $50 per line application fee, 12-month reinstatement window), and unfair trade practices (all eight prohibited acts, the bilateral nature of the rebating prohibition, the frequency standard for unfair claims practices).
+The retake strategy: Redirect 60% of your retake study time specifically to Minnesota state law. Build or rebuild your state law reference sheet from scratch — the act of reconstructing it surfaces gaps you missed the first time. Focus specifically on: the no-fault auto insurance framework (PIP $40,000, UM/UIM mandatory at 25/50, tort threshold $4,000 excluding diagnostics, six-month PIP filing deadline, $10,000 property damage minimum), producer licensing specifics (20-hour prelicensing, 24-hour CE with 3 ethics and a 12-hour non-company-sponsored minimum, birth month renewal biennial, $50 per line application fee, 12-month reinstatement window), and unfair trade practices (all eight prohibited acts, the bilateral nature of the rebating prohibition, the frequency standard for unfair claims practices).
 
 ### Pattern 2: Broad Underperformance Across All Sections
 
@@ -76,7 +76,7 @@ The signature: Scores in the 65–69% range across multiple sections — the can
 
 Why this happens: The candidate's knowledge is broadly adequate but lacks precision. They know the general concepts but miss questions that require knowing the specific number, the specific timeframe, or the specific statutory distinction that makes one answer correct and the plausible alternative incorrect.
 
-The retake strategy: Precision study. The issue is not missing knowledge — it is insufficiently precise knowledge. Build a comprehensive numerical reference sheet covering every testable number in the Minnesota content: PIP $40,000 ($20,000/$20,000 split), tort threshold $4,000, lost wage cap $500/week, UM/UIM 25/50, liability 30/60/10, CE 24 hours with 3 ethics and 12 classroom and 12 non-sponsored, application fee $50/line, reinstatement window 12 months, reinstatement penalty double the renewal fee, workers' comp penalty $1,000/week plus 65% surcharge, maximum WC weekly benefit $1,536.84. Review this reference sheet until every number is immediately retrievable without deliberation.
+The retake strategy: Precision study. The issue is not missing knowledge — it is insufficiently precise knowledge. Build a comprehensive numerical reference sheet covering every testable number in the Minnesota content: PIP $40,000 ($20,000/$20,000 split), tort threshold $4,000, lost wage cap $500/week, UM/UIM 25/50, liability 30/60/10, CE 24 hours with 3 ethics and a 12-hour non-sponsored minimum (no classroom requirement), application fee $50/line, reinstatement window 12 months, reinstatement penalty double the renewal fee, workers' comp penalty $1,000/week plus 65% surcharge, maximum WC weekly benefit $1,536.84. Review this reference sheet until every number is immediately retrievable without deliberation.
 
 ## Step 3: The Retake Timeline — How Much Time Do You Need?
 
@@ -126,7 +126,7 @@ $20,000 of that pays medical expenses; $20,000 pays non-medical (lost wages capp
 
 UM and UIM are both mandatory at $25,000/$50,000 (not optional)
 
-The property damage minimum is $10,000 — the lowest in the United States
+The property damage minimum is $10,000 — among the lowest in the United States (Massachusetts and Pennsylvania are lower, at $5,000)
 
 The tort threshold requires more than $4,000 in medical expenses excluding diagnostic tests (X-rays, MRIs, CT scans do not count toward the $4,000)
 
@@ -136,7 +136,7 @@ Candidates who know "Minnesota requires PIP" without knowing the split, the lost
 
 ### CE Requirements — Specific Numbers Are the Difference
 
-Most candidates know that Minnesota requires 24 hours of CE including 3 hours of ethics. Far fewer know the classroom requirement (12 hours minimum must be classroom or equivalent) and the non-company-sponsored requirement (12 hours minimum must not be sponsored by or affiliated with an insurance company). These two additional constraints generate exam questions that candidates who only know the headline number miss.
+Most candidates know that Minnesota requires 24 hours of CE including 3 hours of ethics. Far fewer know the non-company-sponsored requirement (12 hours minimum must not be sponsored by or affiliated with an insurance company) — Minnesota does not impose any classroom or live-instruction requirement, so this constraint can be satisfied entirely through self-paced courses from an independent provider. This additional constraint generates exam questions that candidates who only know the headline number miss.
 
 The exam also tests the renewal fee structure ($80 total — $50 plus $30 technology surcharge), the 12-month reinstatement window, the reinstatement penalty (double the unpaid renewal fee), and what happens after 12 months (full relicensing required). Know all four of these, not just the 24-hour CE headline.
 

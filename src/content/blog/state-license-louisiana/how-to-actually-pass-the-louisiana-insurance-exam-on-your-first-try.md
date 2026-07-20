@@ -16,7 +16,7 @@ imageAlt: >-
   actually pass the louisiana insurance exam on your fi.
 ---
 
-If you're studying for the Louisiana PSI insurance exam and want to pass on the first attempt — rather than paying $53 twice and spending another week waiting to retake — this guide is for you. Louisiana's exam is intentionally challenging, and the absence of a required [prelicensing](/louisiana/prelicensing) course means many candidates sit the exam underprepared. Understanding the exam's structure, prioritizing the right content areas, and applying proven test-taking strategies on exam day makes the difference between walking out with a score report and walking out with a license.
+If you're studying for the Louisiana PSI insurance exam and want to pass on the first attempt — rather than paying the $36 exam fee twice and spending another week waiting to retake — this guide is for you. Louisiana's exam is intentionally challenging, and the absence of a required [prelicensing](/louisiana/prelicensing) course means many candidates sit the exam underprepared. Understanding the exam's structure, prioritizing the right content areas, and applying proven test-taking strategies on exam day makes the difference between walking out with a score report and walking out with a license.
 
 ## Why the Louisiana Exam Is Harder Than It Looks
 

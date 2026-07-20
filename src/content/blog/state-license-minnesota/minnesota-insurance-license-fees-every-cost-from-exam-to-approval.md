@@ -92,7 +92,7 @@ Full 24-hour CE package: $50–$150 for a complete biennial package from a singl
 
 Most producers complete their 24-hour biennial CE requirement for $50–$120 when using self-paced online courses, and somewhat more for classroom-format courses.
 
-Important constraint: At least 12 of the 24 required CE hours must be classroom or equivalent format. At least 12 hours must not be sponsored by or affiliated with an insurance company. These constraints affect how you assemble your CE package — not all CE hours can come from carrier-sponsored webinars or independent online courses.
+Important constraint: At least 12 of the 24 required CE hours must not be sponsored by or affiliated with an insurance company. Minnesota does not impose a classroom or live-instruction requirement — this constraint can be satisfied entirely through self-paced online courses from an independent provider. This constraint affects how you assemble your CE package — not all CE hours can come from carrier-sponsored webinars.
 
 ### License Renewal Fee
 

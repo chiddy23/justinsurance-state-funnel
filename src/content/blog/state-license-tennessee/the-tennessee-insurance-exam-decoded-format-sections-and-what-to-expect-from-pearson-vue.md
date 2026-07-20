@@ -308,7 +308,7 @@ Commissioner of Commerce and Insurance: gubernatorial appointee
 
 Address: 500 James Robertson Parkway, Nashville, TN 37243-1134
 
-Phone: (615) 741-2693 / (888) 416-0868
+Phone: (615) 741-2241
 
 Email: ce.agent.licensing@tn.gov
 
@@ -324,7 +324,7 @@ License suspension and revocation under TCA §56-6-112
 
 ### Producer Licensing Provisions
 
-No mandatory prelicensing — effective March 21, 2023 Exam: Pearson VUE; $59 per attempt; 70% pass; immediate results Fingerprinting: IdentoGO; $37.15; TBI and FBI background check; Fingerprint Policy and Acknowledgement Form to TDCI Application: NIPR; $50 per line; 48-hour post-exam wait mandatory License validity: Biennial; last day of birth month CE: 24 hours biennial; 3 hours ethics; no classroom minimum Renewal fee: $60; 30-day grace period; $120 late fee; up to 1 year late renewal; full relicensing after 1 year Appointment requirement: Carrier must file within 15 days of contract date; TCA §56-6-115 Appointment termination: Insurer must notify Commissioner within 30 days; TCA §56-6-117 Grounds for license discipline: TCA §56-6-112 — fourteen specific grounds including misrepresentation, directing persons to TennCare when covered by group insurance, accepting business from unlicensed individuals
+No mandatory prelicensing — effective March 21, 2023 Exam: Pearson VUE; $59 per attempt; 70% pass; immediate results Fingerprinting: IdentoGO; $37.15; TBI and FBI background check; Fingerprint Policy and Acknowledgement Form to TDCI Application: NIPR; $50 per line; 48-hour post-exam wait mandatory License validity: Biennial; last day of birth month CE: 24 hours biennial; 3 hours ethics; no classroom minimum Renewal fee: not publicly posted (contact the TDCI); 60-day grace period; late fee not publicly posted (contact the TDCI); up to 1 year late renewal; full relicensing after 1 year Appointment requirement: Carrier must file within 15 days of contract date; TCA §56-6-115 Appointment termination: Insurer must notify Commissioner within 30 days; TCA §56-6-117 Grounds for license discipline: TCA §56-6-112 — fourteen specific grounds including misrepresentation, directing persons to TennCare when covered by group insurance, accepting business from unlicensed individuals
 
 ### Unfair Trade Practices and Unfair Claims Settlement Act
 
@@ -392,9 +392,7 @@ Disclosure obligations to policyholders placing coverage in the surplus lines ma
 
 ### Tennessee Reciprocity
 
-Full reciprocity: Only five states — California, Louisiana, Michigan, Mississippi, Texas
-
-NAIC model law states: Non-resident licenses available without exam for producers from compliant states
+Broad reciprocity with other states under NAIC model law: Non-resident licenses generally available without retaking the exam for producers from other states in good standing
 
 License transfer within 90 days of relocation to Tennessee — exam waived within this window
 
@@ -476,17 +474,17 @@ The workers' compensation employee threshold — 5 employees generally; 1 in con
 
 The appointment filing timeline — 15 days from contract date. TCA §56-6-115 is tested directly on appointment mechanics.
 
-Tennessee's reciprocity limitation — formal full-reciprocity with only five states. The five states (California, Louisiana, Michigan, Mississippi, Texas) are testable as a group.
+Tennessee's non-resident reciprocity framework — broad reciprocity with other states under NAIC model law.
 
 The TennCare direction prohibition under TCA §56-6-112. The specific ground for discipline — knowingly directing someone with group coverage to apply for TennCare — is a Tennessee-specific provision that appears consistently on producer law questions.
 
-CE requirements — 24 hours biennial, 3 hours ethics, 30-day grace period, $120 late fee. Each specific number is testable individually.
+CE requirements — 24 hours biennial, 3 hours ethics, 60-day grace period, late fee not publicly posted (contact the TDCI). Each specific number is testable individually.
 
 ## Frequently Asked Questions
 
 I studied general insurance concepts thoroughly and feel confident about that section. Is the state law section likely to be a significant problem if I review it briefly?
 
-Yes — the state law section is where prepared candidates on general content most commonly fall short. The difficulty is not that the concepts are complex — Tennessee's statutory framework is organized and logical. The difficulty is that the specific numbers, specific timelines, and specific Tennessee provisions differ from what candidates assume based on other states or on general insurance principles. The 25% bad faith penalty, the 48-hour application wait, the 50% comparative fault bar, the 5-employee workers' compensation threshold, and the five-state reciprocity limitation are all Tennessee-specific provisions that do not follow from general knowledge. Allocate at least one-third of your total study time to the Tennessee state law section specifically — not general regulatory concepts, but Tennessee's specific statutes, numbers, and rules. Candidates who underweight the state law section in their preparation consistently underperform on it regardless of how well they know the general content.
+Yes — the state law section is where prepared candidates on general content most commonly fall short. The difficulty is not that the concepts are complex — Tennessee's statutory framework is organized and logical. The difficulty is that the specific numbers, specific timelines, and specific Tennessee provisions differ from what candidates assume based on other states or on general insurance principles. The 25% bad faith penalty, the 48-hour application wait, the 50% comparative fault bar, the 5-employee workers' compensation threshold, and the non-resident reciprocity framework are all Tennessee-specific provisions that do not follow from general knowledge. Allocate at least one-third of your total study time to the Tennessee state law section specifically — not general regulatory concepts, but Tennessee's specific statutes, numbers, and rules. Candidates who underweight the state law section in their preparation consistently underperform on it regardless of how well they know the general content.
 
 The score report shows I passed the general section but failed overall. Is that possible?
 

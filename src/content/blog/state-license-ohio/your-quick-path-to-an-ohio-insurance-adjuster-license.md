@@ -30,17 +30,17 @@ Because your role includes both fieldwork and desk duties, you’ll need solid i
 
 Your first official step is to confirm that you’re eligible for a state-issued license. In Ohio, you must be at least 18 years old. As part of your application, you’ll typically need to complete a background check that may include fingerprinting. This important step helps verify your identity and ensures your history doesn’t disqualify you from practicing in the insurance field.
 
-If you’ve had any legal issues in the past, it might be best to consult the [Ohio Department of Insurance](/ohio/requirements) website or speak with a licensing representative to see how it could affect your eligibility. When you clear these basic guidelines, you’re ready to enroll in the required studies.
+If you’ve had any legal issues in the past, it might be best to consult the [Ohio Department of Insurance](/ohio/requirements) website or speak with a licensing representative to see how it could affect your eligibility. When you clear these basic guidelines, you’re ready to prepare for the exam and bonding steps below.
 
-## Complete [pre-licensing requirements](/ohio/prelicensing)
+## Meet Ohio's exam and bonding requirements
 
-Ohio requires you to complete a state-approved [pre-licensing](/ohio/prelicensing) course. This course covers key insurance laws, ethics, and best practices you’ll rely on every day. It may also include sample claim scenarios and guidance on how to interpret different types of policies. Depending on your schedule, you can select an online program that allows you to study at your own pace or choose an in-person class that offers real-time interaction with instructors.
+Unlike Ohio's producer license, the state does not require a separate pre-licensing course for adjusters. Ohio does not license independent adjusters at all, and public adjusters — the one adjuster category Ohio does license — are exempt from pre-licensing and continuing education under state rules. Instead, you'll study on your own, then sit for the state exam covering insurance principles, ethics, and Ohio regulations.
 
-Make sure you enroll with a reputable course provider that’s recognized in Ohio. This lets you skip any last-minute surprises about the validity of your certification. Once you finish the lessons and pass the pre-licensing exam offered by your approved course provider, you’ll receive a certificate of completion. You’ll keep this as part of your records for the official adjuster exam.
+You'll also need to secure a surety bond (Ohio requires a $1,000 bond for public adjusters) before your application is complete. Shop around with a licensed bond provider, since premiums vary based on your credit and background. Keep your bond documentation on hand — you'll submit it alongside your exam results when you apply.
 
 ## Schedule your exam date
 
-Once you’ve wrapped up your pre-licensing coursework, the next checkpoint is your official licensing exam. You’ll want to schedule this test as soon as you’re comfortable with the material. Exam slots can fill up quickly, especially if you pick a popular weekday in a high-demand location. Give yourself enough lead time so you don’t have to rush your studies.
+Once you’ve wrapped up your self-study and secured your bond, the next checkpoint is your official licensing exam. You’ll want to schedule this test as soon as you’re comfortable with the material. Exam slots can fill up quickly, especially if you pick a popular weekday in a high-demand location. Give yourself enough lead time so you don’t have to rush your studies.
 
 To register, you’ll typically head to the exam website recommended by the Ohio Department of Insurance and choose a testing center or online proctoring option. In both cases, be sure to review any system requirements or location details well in advance. This ensures you avoid stressful last-minute glitches on exam day.
 
@@ -52,11 +52,11 @@ Approximate time
 
 Approximate cost
 
-Pre-licensing course
+Surety bond
 
-1–2 weeks
+1 week
 
-$100–$200
+$1,000 bond (premium varies by provider)
 
 Exam scheduling and studying
 
@@ -94,22 +94,22 @@ When you sit down for the test, pace yourself. Skip any tricky questions and ret
 
 ## Finalize your application process
 
-After you pass the exam, you’ll shift your focus to the application itself. You can generally complete the Ohio Department of Insurance license application online. During this process, you’ll submit proof of your exam results and any additional documents required by the state, such as your pre-licensing certificate. You’ll also pay the licensing fee.
+After you pass the exam, you’ll shift your focus to the application itself. You can generally complete the Ohio Department of Insurance license application online. During this process, you’ll submit proof of your exam results and any additional documents required by the state, such as your surety bond documentation. You’ll also pay the licensing fee.
 
 Double-check all the forms for accuracy before you finalize them. Mistakes in your mailing address or personal details could delay the licensing process. Technology is great but can’t always catch every data entry error, so reviewing everything carefully is a good way to avoid unnecessary complications.
 
 ## Maintain and renew your license
 
-Your Ohio insurance adjuster license remains valid for a specific time frame, after which you’ll need to renew. Renewals often involve completing [Ohio continuing education](/ohio/continuing-education) (CE) requirements. These classes help you stay up to date on new regulations, technology, and best practices, so you’re always equipped to provide accurate guidance to policyholders.
+Your Ohio insurance adjuster license remains valid for a specific time frame, after which you’ll need to renew. Ohio does not require continuing education for adjusters, so renewal centers on submitting your renewal form, keeping your surety bond active, and paying any associated fees on time.
 
-Be sure to track your CE credits and keep copies of your certificates. When it’s time to renew, you’ll submit your proof of [continuing education](/ohio/continuing-education), the renewal form, and any associated fees. Missing the renewal deadline can result in penalties or even license expiration, so mark your calendar or set an alert on your phone to stay current.
+Be sure to keep copies of your bond documentation and license record. Missing the renewal deadline can result in penalties or even license expiration, so mark your calendar or set an alert on your phone to stay current.
 
-### Why a focus on CE matters
+### Staying sharp between renewals
 
-One reason Ohio emphasizes ongoing education is that insurance laws, coverage intricacies, and industry trends shift over time. Staying on top of these changes demonstrates your professionalism and protects your clients.
+Even without a formal CE mandate, insurance laws, coverage intricacies, and industry trends shift over time. Many adjusters informally review updated regulations and best practices between renewals to stay sharp and protect their clients.
 
 ## Make your next move
 
-Bringing everything together, you now have a clear sense of the steps to secure your Ohio insurance adjuster license. From coursework to the exam and final application process, each stage helps you build the knowledge and legitimacy you need to do your job well. If you prefer a flexible study experience, JustInsurance offers resources designed to help you complete your pre-licensing quickly and confidently.
+Bringing everything together, you now have a clear sense of the steps to secure your Ohio insurance adjuster license. From exam prep to bonding and the final application process, each stage helps you build the knowledge and legitimacy you need to do your job well. If you prefer a flexible study experience, JustInsurance offers resources designed to help you prepare for the exam quickly and confidently.
 
 Don’t wait to start your future career. Decide on your timeline, set your study plan, and begin your journey to becoming a qualified Ohio insurance adjuster. A strong foundation gives you the skills to assist folks who are counting on you to guide them through difficult times. That’s a profession you can be proud of for years to come.

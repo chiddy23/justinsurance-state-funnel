@@ -218,7 +218,7 @@ Stopping CE while waiting for decision. Even while extension is being considered
 
 Oregon's distinctive 3-hour law requirement. Even with extensions, you'll still need to complete the 3-hour Oregon law CE before final renewal.
 
-Specialty training. Extensions typically don't excuse one-time training requirements like LTC, Annuity Best Interest, or NFIP flood. These remain required for product sales.
+Specialty training. Extensions typically don't excuse specialty training tied to products like LTC, Annuity Best Interest, or NFIP flood. Confirm current requirements with the Oregon DFR, since these remain required for product sales.
 
 Multi-state licensing. If you hold licenses in multiple states, an Oregon extension doesn't automatically affect other state licenses. Verify with each state.
 

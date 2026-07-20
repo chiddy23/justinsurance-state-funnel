@@ -239,7 +239,7 @@ Renewal window: Typically 60 days before expiration through the renewal date.
 
 Renewal fee: $55 standard.
 
-Late renewal window: 60 days after expiration with $100 surcharge ($165 total).
+Late renewal window: 60 days after expiration with $110 surcharge ($165 total).
 
 After 60-day late window: License terminates voluntarily; producer must restart licensing process.
 
@@ -249,7 +249,7 @@ Cannot renew online. Lapsed licenses cannot be renewed online — separate proce
 
 License lapses. Without timely renewal, license becomes inactive.
 
-Late renewal available. 60-day window with $100 surcharge for late renewal.
+Late renewal available. 60-day window with $110 surcharge for late renewal ($165 total).
 
 Beyond 60 days. Must restart licensing process (including new exam, new fingerprinting, and new application).
 

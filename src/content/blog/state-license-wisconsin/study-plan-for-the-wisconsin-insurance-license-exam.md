@@ -16,7 +16,7 @@ imageAlt: >-
   the wisconsin insurance license exam.
 ---
 
-Wisconsin's exam study plan is shaped by several structural facts: no combined exams means each of the four major lines is a separate preparation investment; the 8-hour shared PLE section creates study efficiency across multiple lines; the no-wait retake policy allows rapid iteration; and the Wisconsin state section — BadgerCare Plus partial expansion, LTC WI Medicaid-specific content, 51% comparative fault, WCRB, Annuity Best Interest — is where underprepared candidates most commonly fail. The 1-year PLE certificate validity is generous, but the 180-day score validity creates a soft deadline. Here's a study plan calibrated to Wisconsin's actual PSI exam.
+Wisconsin's exam study plan is shaped by several structural facts: no combined exams means each of the four major lines is a separate preparation investment; the 8-hour shared PLE section creates study efficiency across multiple lines; the roughly 2-calendar-day retake wait still allows fairly quick iteration; and the Wisconsin state section — BadgerCare Plus partial expansion, LTC WI Medicaid-specific content, 51% comparative fault, WCRB, Annuity Best Interest — is where underprepared candidates most commonly fail. The 1-year PLE certificate validity is generous, but the 180-day score validity creates a soft deadline. Here's a study plan calibrated to Wisconsin's actual PSI exam.
 
 ## How Long to Study
 
@@ -56,13 +56,13 @@ PSI facts:
 
 $75 per exam; PSI Bridge (Chrome); check syscheck.bridge.psiexams.com; 70%; 180-day apply window
 
-No mandatory retake wait; bring Certificate + government photo ID; arrive 30 minutes early
+~2-day mandatory retake wait; bring Certificate + government photo ID; arrive 30 minutes early
 
 First-time: select "General and State Specific" exam
 
 Fieldprint facts:
 
-$36; fieldprintwisconsin.com; code FPWIOCIInsurance; 180-day validity; two signature IDs
+$34.75; fieldprintwisconsin.com; code FPWIOCIInsurance; 180-day validity; two signature IDs
 
 Application facts:
 
@@ -149,7 +149,7 @@ Score displayed at end; select End Exam AND End Survey to receive results
 - How long to study for Wisconsin after completing PLE? 1-2 weeks per line for focused exam prep. The Wisconsin state section (BadgerCare Plus, LTC WI content, WCRB, 51% fault bar) requires specific targeted study — not just PLE review.
 - What is the #1 Wisconsin-specific state law topic to master for L&H? BadgerCare Plus partial expansion — adults at or below 100% FPL (not 138%). Adults from 100-138% FPL go to Healthcare.gov marketplace with federal subsidies. This threshold difference from all other comparison states is the most specifically Wisconsin and most consistently testable A&H state section fact.
 - What is the #1 Wisconsin-specific state law topic to master for P&C? WCRB (Wisconsin Compensation Rating Bureau) — Wisconsin uses its own independent bureau (NOT NCCI); rates are approximately 32% above the national average. This is the most distinctively Wisconsin P&C state law topic — particularly important because most generic study materials use "NCCI" throughout their workers' comp content.
-- Does the no-wait retake policy change study strategy? Yes — the immediate reschedule option makes Wisconsin's exam the most iterative of all comparison states. Candidates can take a "progress check" exam attempt (knowing they'll retake if needed) to see the diagnostic report and identify weak areas. However, each retake costs $75 — so balancing preparation thoroughness against the $75 per attempt cost is the strategic consideration.
+- Does the retake wait affect study strategy? Somewhat — Wisconsin's roughly 2-calendar-day mandatory wait before rescheduling is short enough that candidates can still treat a first attempt as a diagnostic check-in without losing much momentum. Candidates can review the diagnostic report during that short window and identify weak areas before the next attempt. However, each retake costs $75 — so balancing preparation thoroughness against the $75 per attempt cost is the strategic consideration.
 - How many Wisconsin-specific questions should I expect on each exam? Approximately 20-25 of 100 questions are Wisconsin state section questions — approximately 20-25%. Scoring 70% on 25 state questions requires getting at least 18 correct. Candidates who score 0% on the state section need 100% on 75 national questions to pass — practically impossible. Target 85%+ on Wisconsin state section [practice questions](/wisconsin/practice-exam) specifically.
 
 ## Build Your Wisconsin Study Plan Right

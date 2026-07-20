@@ -74,7 +74,7 @@ The grace period length varies. Check with IDOI for current specifics.
 
 Missing your deadline costs more than inconvenience:
 
-Standard renewal fee. Approximately $180 for most individual producer licenses.
+Standard renewal fee. Approximately $215 for most individual producer licenses.
 
 Late fees. Assessed during the grace period. Amount varies.
 

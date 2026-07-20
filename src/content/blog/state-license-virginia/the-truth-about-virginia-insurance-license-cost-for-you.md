@@ -27,7 +27,7 @@ It helps to think of these costs as an investment in your future career. By obta
 ### Cost breakdown at a glance
 
 -   Pre-licensing course: Could range from $100 to $300 depending on the provider.
--   State exam fee: Approximately $50 per attempt, but verify with official resources for updated pricing.
+-   State exam fee: $35 per attempt, but verify with official resources for updated pricing.
 -   Fingerprinting or background check: Usually around $35 to $50.
 -   Application fee to the Virginia Bureau of Insurance: Ranges from $15 to $20 for most license types.
 
@@ -35,15 +35,15 @@ You may also need to factor in additional study materials, travel expenses if yo
 
 ## Meet the [pre-licensing requirements](/virginia/prelicensing)
 
-Before you can register for the exam, you need to fulfill certain pre-licensing requirements. For most lines of insurance, Virginia mandates a set number of course hours to ensure you have a foundational understanding of policies, ethics, state regulations, and professional conduct. These rules are in place to protect consumers and help you learn the ropes of the insurance industry.
+Virginia does not mandate pre-licensing education for most lines of insurance — the state repealed its mandatory prelicensing requirement for standard producer lines (only title insurance still carries a separate education requirement). That said, structured prep is still strongly recommended given how heavily the Prometric exam leans on state-specific law, so most candidates choose to complete an optional course before sitting for the exam.
 
 Your pre-licensing course can be completed either online or in a classroom setting, depending on your personal learning style. Online classes are popular because of their flexibility. If you have a busy schedule, online training lets you study at your own pace. Classroom-based courses, on the other hand, offer immediate interaction with instructors and classmates if you prefer more structure.
 
-Pre-licensing providers typically provide in-depth discussions of topics such as life insurance basics, property and casualty coverage, or health insurance policies. Each line of authority requires specific hours of training, so it is important to register for the right course. Once you finish, you will usually receive a certificate of completion. Keep that document safe—you may need to show proof of your coursework to verify you are eligible for the licensing exam.
+Pre-licensing providers typically provide in-depth discussions of topics such as life insurance basics, property and casualty coverage, or health insurance policies. Even though the hours are optional, it is still worth choosing the course that matches your intended line of authority. Once you finish, you will usually receive a certificate of completion, which can be useful for your own study records even though Virginia does not require it for exam eligibility.
 
 ## Schedule and pay for your exam
 
-After completing your pre-licensing education, your next major task is scheduling the state licensing exam. Make sure you pick a date that gives you enough time to organize your paperwork and continue reviewing your course materials. Aim for a timeframe when you are not overloaded with other responsibilities. By doing this, you can arrive at the test center focused and ready.
+Once you feel ready — whether or not you took an optional pre-licensing course — your next major task is scheduling the state licensing exam. Make sure you pick a date that gives you enough time to organize your paperwork and continue reviewing your study materials. Aim for a timeframe when you are not overloaded with other responsibilities. By doing this, you can arrive at the test center focused and ready.
 
 Depending on the current guidelines, you might schedule your exam online or by phone. You will have to pay an exam fee for each line of authority you plan to pursue, so check the official [Virginia insurance department](/virginia/requirements) website or the approved testing vendor for the most accurate, up-to-date fees. Some people choose to schedule multiple lines of authority on the same day, while others prefer to tackle them one at a time.
 

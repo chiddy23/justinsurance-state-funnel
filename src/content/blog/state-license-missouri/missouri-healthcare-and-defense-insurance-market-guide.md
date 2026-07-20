@@ -128,11 +128,11 @@ Rural Missouri healthcare producers serve a less saturated market — fewer comp
 
 ## Building a Healthcare or Defense Practice in Missouri
 
-Step 1: Complete Annuity Best Interest training first. Physician retirement accounts (403(b) plans at academic medical centers) and Boeing engineer 401(k) balances at career transitions create rollover advisory demand. Annuity Best Interest certification (4-hour one-time training; eff. August 30, 2024) is required before advising on any annuity product rollover.
+Step 1: Confirm with the Missouri DCI whether annuity best-interest training currently applies to your license. Physician retirement accounts (403(b) plans at academic medical centers) and Boeing engineer 401(k) balances at career transitions create rollover advisory demand.
 
 Step 2: Develop disability income specialty. The most important insurance product for physicians, surgeons, and specialized defense engineers is own-occupation disability income. Generic disability income product knowledge is insufficient — understanding specialty-specific definitions, "partial disability" provisions, and the interaction between employer LTD and individual disability policies creates distinctive advisory value.
 
-Step 3: Complete LTC training. Academic medical center faculty and hospital administrators have above-average LTC awareness and above-average LTC premium affordability. Missouri's LTC Partnership program protects assets from MO HealthNet spend-down — relevant for physicians and healthcare executives with significant real property and retirement account wealth.
+Step 3: Confirm with the Missouri DCI whether LTC training currently applies to your license before selling LTC products. Academic medical center faculty and hospital administrators have above-average LTC awareness and above-average LTC premium affordability. Missouri's LTC Partnership program protects assets from MO HealthNet spend-down — relevant for physicians and healthcare executives with significant real property and retirement account wealth.
 
 Step 4: Build authentic professional relationships. Hospital-adjacent CPAs, Washington University Medical School financial wellness programs, and Boeing employee benefits professionals all encounter insurance gaps regularly. Authentic referral relationships with these professionals — focused on serving clients' specific needs rather than mass-market outreach — create sustainable introduction flow.
 

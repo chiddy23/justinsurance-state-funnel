@@ -58,8 +58,6 @@ Uninsured and underinsured motorist coverage is available in Louisiana but is no
 
 Louisiana recognizes diminished value claims — the loss in a vehicle's market value after an accident even after repairs. The statute of limitations for a diminished value claim in Louisiana is one year.
 
-## Auto Insurance Laws: State Comparison
-
 ## Frequently Asked Questions
 
 - What changed about Louisiana's comparative fault system in 2026? Effective January 1, 2026, Louisiana transitioned from pure comparative fault (no recovery bar at any fault level) to a modified 51% comparative fault system under Act 15. Any party found 51% or more at fault for an accident is completely barred from recovering any compensation. This is the most significant change to Louisiana tort law in the state's history, signed by Governor Landry on May 28, 2025, as part of the largest tort reform package in Louisiana history.

@@ -63,7 +63,7 @@ Texas
 
 24
 
-2 hours of ethics
+3 hours of ethics
 
 Every 2 years
 

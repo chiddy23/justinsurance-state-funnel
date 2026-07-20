@@ -73,7 +73,7 @@ Texas
 
 Every 2 years
 
-At least 2 hours in ethics
+At least 3 hours in ethics
 
 Florida
 
@@ -89,7 +89,7 @@ New York
 
 Every 2 years
 
-Specific regulations for flood CE
+1 hour of ethics required
 
 Illinois
 

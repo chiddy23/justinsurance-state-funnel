@@ -30,7 +30,7 @@ The Florida 2-15 Life, Health, and Variable Annuity Agent exam includes:
 
 - 165 total questions (150 scored + 15 unscored pilot questions)
 
-- 3 hours and 30 minutes to complete
+- 2 hours and 45 minutes to complete
 
 - 70% passing score required
 

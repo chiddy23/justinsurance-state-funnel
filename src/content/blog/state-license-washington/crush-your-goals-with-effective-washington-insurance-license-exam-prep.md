@@ -20,12 +20,12 @@ Whether you are seeking a new career path or simply looking to add a valuable cr
 
 ## Understand the exam basics
 
-Before you start memorizing terms or reviewing policies, be clear about what the exam covers and how it is structured. In Washington state, you can pursue different lines of authority, such as Life, Health, Property, or Casualty. Each line typically requires a set of [pre-licensing](/washington/prelicensing) education hours to ensure that you fully grasp the relevant laws and insurance concepts.
+Before you start memorizing terms or reviewing policies, be clear about what the exam covers and how it is structured. In Washington state, you can pursue different lines of authority, such as Life, Health, Property, or Casualty. Washington does not require [pre-licensing](/washington/prelicensing) education hours before the exam, but working through optional coursework can help you fully grasp the relevant laws and insurance concepts.
 
 To register for the exam, you’ll typically need to:
 
 1.  Be at least 18 years old.
-2.  Complete the required pre-licensing coursework for your chosen lines of authority.
+2.  Complete a background check and fingerprinting.
 3.  Schedule your exam date and time through an approved testing provider.
 
 Passing this state exam is the final step to earning your license, but it all begins with understanding the basic requirements. When you know what lies ahead, you can create a plan that fits your schedule and learning style.
@@ -101,14 +101,14 @@ Working with a reputable provider, like JustInsurance, can give you structured s
 
 4.  Can I self-study, or do I need a course?
 
--   Self-study is possible, but a structured course ensures you meet Washington’s [pre-licensing requirements](/washington/prelicensing) and stay on track. Many students find that guided lessons and interactive quizzes help them absorb and recall information more effectively.
+-   Washington does not require a pre-licensing course, so self-study is entirely allowed. That said, a structured [prep course](/washington/prelicensing) can help you stay on track, and many students find that guided lessons and interactive quizzes help them absorb and recall information more effectively.
 
 5.  How do I register for the exam?
 
--   Registration usually occurs through a state-approved testing service. After completing your required pre-licensing hours and gathering the necessary paperwork, sign up for your exam date online. Check the Washington Office of the Insurance Commissioner’s guidelines for exact steps.
+-   Registration usually occurs through a state-approved testing service. After gathering the necessary paperwork (no pre-licensing hours required), sign up for your exam date online. Check the Washington Office of the Insurance Commissioner’s guidelines for exact steps.
 
 ## Take the next step
 
-Success on the Washington insurance license exam is within reach once you zero in on proven study strategies and reliable resources. Stay disciplined, track your progress, and focus on improving any weaker areas. Joining a structured program such as those offered by JustInsurance can help you move through pre-licensing requirements with confidence and accountability, then stay ahead on [Washington continuing education](/washington/continuing-education) once you are licensed.
+Success on the Washington insurance license exam is within reach once you zero in on proven study strategies and reliable resources. Stay disciplined, track your progress, and focus on improving any weaker areas. Joining a structured program such as those offered by JustInsurance can help you move through optional exam prep with confidence and accountability, then stay ahead on [Washington continuing education](/washington/continuing-education) once you are licensed.
 
 You’ve invested the time to learn what it takes to pass the exam. Turn that motivation into action by scheduling your test and finalizing your study plan. The moment you earn your license is the moment you step into a field that offers professional growth and the chance to help others safeguard their future. Take a deep breath, trust your preparation, and get ready to excel in your new career. Good luck!

@@ -46,7 +46,7 @@ NIPR applications typically link to Prometric exam results automatically. Comple
 
 For clean applications: approximately 2 calendar weeks.
 
-Check application status: MIA website → name search. Contact MIA at (410) 468-2411 or [email protected] if no movement after 15 business days.
+Check application status: MIA website → name search. Contact MIA at (410) 468-2000 or producerlicensing.mia@maryland.gov if no movement after 15 business days.
 
 Print license: MIA website → license search → print. MIA does not mail license copies.
 
@@ -64,7 +64,7 @@ Incomplete application. Missing documentation or incomplete background responses
 
 For Life insurance candidates who need to begin working before full license issuance, Maryland's 15-month temporary Life license is available:
 
-Contact MIA at (410) 468-2411 or insurance.maryland.gov for current instructions
+Contact MIA at (410) 468-2000 or insurance.maryland.gov for current instructions
 
 Must be affiliated with an insurance company
 
@@ -89,8 +89,8 @@ Late renewal: up to 1 year ($169 total); after 1 year: new application
 - How long does Maryland insurance license processing take? 7-10 business days for clean NIPR applications — approximately 2 calendar weeks. The total from exam date to active license is typically 2-3 weeks, making Maryland one of the fastest licensing states among comparison states.
 - What is the fastest possible path to a Maryland license? Pass Prometric exam → submit NIPR application same day → wait 7-10 business days → print license from MIA website. Minimum total timeline: approximately 10-14 business days from exam date. There is no fingerprinting or vendor scheduling to extend the timeline.
 - Should I submit the NIPR application immediately after passing? Yes — apply promptly. The 6-month exam score validity window creates a clear imperative, but more practically, there's no benefit to waiting. Submit the NIPR application the same day you pass or the next business day, and receive your license within 2 weeks.
-- What if I need to start working within the week after passing? Maryland's 15-month temporary Life license (for Life line) allows immediate activity while the full application processes. Contact MIA at (410) 468-2411 or insurance.maryland.gov for current temporary license application instructions. For P&C lines, check with MIA on temporary license availability.
-- Does Maryland's MIA provide application status updates? Check status via the MIA website name search function. If no status change after 15 business days, contact the Producer Licensing unit at (410) 468-2411 or [email protected]. MIA typically processes clean applications within the 7-10 business day window consistently.
+- What if I need to start working within the week after passing? Maryland's 15-month temporary Life license (for Life line) allows immediate activity while the full application processes. Contact MIA at (410) 468-2000 or insurance.maryland.gov for current temporary license application instructions. For P&C lines, check with MIA on temporary license availability.
+- Does Maryland's MIA provide application status updates? Check status via the MIA website name search function. If no status change after 15 business days, contact the Producer Licensing unit at (410) 468-2000 or producerlicensing.mia@maryland.gov. MIA typically processes clean applications within the 7-10 business day window consistently.
 
 ## Build Your MD License Timeline Efficiently
 

@@ -253,6 +253,8 @@ Override income. General agents and agency principals earn overrides on producer
 
 Established Massachusetts group benefits practices commonly produce $150,000-$350,000+ in annual income for individual producers, with top group benefits practitioners earning substantially more.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Service Demands
 
 Group benefits practice involves substantial ongoing service:

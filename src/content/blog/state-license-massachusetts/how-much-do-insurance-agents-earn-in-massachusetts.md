@@ -23,7 +23,9 @@ Here's an honest breakdown of Massachusetts insurance agent income.
 
 ## The Short Answer
 
-Massachusetts insurance agents typically earn between $50,000 and $90,000 in their first few years, with experienced agents regularly reaching $110,000 to $210,000 once they've built a solid book of business. Top producers and agency owners can earn $240,000 to $475,000+ annually.
+Massachusetts insurance agents typically earn between $38,550 and $62,050 in their first few years, with experienced agents regularly reaching $77,660 to $114,430 once they've built a solid book of business. Top producers and agency owners can earn $203,410+ annually.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 These numbers reflect realistic outcomes, not ceiling potential. Massachusetts's market — particularly Boston metro, Cambridge, and the affluent suburbs — supports strong earning potential for agents who specialize effectively. Massachusetts also has one of the highest costs of living in the country, so nominal income comparisons don't tell the full story.
 
@@ -45,29 +47,29 @@ These ranges are working benchmarks. Top-end numbers require consistent work, st
 
 ## Income by Massachusetts Region
 
-Boston metro. Massachusetts's largest market by far. Substantial financial services concentration, healthcare sector, higher education, technology industry, and substantial professional client markets. New agents in Boston metro can reach $52,000-$90,000 in their first 1-2 years; established agents commonly earn $130,000-$245,000+.
+Boston metro. Massachusetts's largest market by far. Substantial financial services concentration, healthcare sector, higher education, technology industry, and substantial professional client markets. New agents in Boston metro can reach $45,000-$62,050 in their first 1-2 years; established agents commonly earn $95,000-$114,430+, with top producers and agency owners in the $203,410+ range.
 
-Cambridge. Adjacent to Boston with substantial higher education (Harvard, MIT) and biotech/pharma industry concentration. Established Cambridge agents commonly earn $125,000-$235,000+.
+Cambridge. Adjacent to Boston with substantial higher education (Harvard, MIT) and biotech/pharma industry concentration. Established Cambridge agents commonly earn $90,000-$114,430+.
 
-Brookline, Newton. Affluent Boston-area suburbs with substantial high-net-worth markets. Established agents in these communities commonly earn $130,000-$250,000+.
+Brookline, Newton. Affluent Boston-area suburbs with substantial high-net-worth markets. Established agents in these communities commonly earn $95,000-$114,430+.
 
-Wellesley, Weston, Lincoln. Among Massachusetts's most affluent suburbs. Strong HNW markets. Established agents commonly earn $140,000-$280,000+.
+Wellesley, Weston, Lincoln. Among Massachusetts's most affluent suburbs. Strong HNW markets. Established agents commonly earn toward the top of the experienced range, with top producers reaching $203,410+.
 
-Worcester metro. Massachusetts's second-largest metro. Healthcare (UMass Medical), higher education, manufacturing, and growing professional services. Established Worcester agents commonly earn $90,000-$170,000+.
+Worcester metro. Massachusetts's second-largest metro. Healthcare (UMass Medical), higher education, manufacturing, and growing professional services. Established Worcester agents commonly earn $80,000-$105,000+.
 
-Springfield metro. Western Massachusetts's largest metro. Healthcare (Baystate), insurance (MassMutual headquarters), education, and manufacturing. Established Springfield agents commonly earn $90,000-$165,000+.
+Springfield metro. Western Massachusetts's largest metro. Healthcare (Baystate), insurance (MassMutual headquarters), education, and manufacturing. Established Springfield agents commonly earn $80,000-$105,000+.
 
-North Shore (Lynn, Salem, Gloucester, Peabody). Mixed coastal communities. Established North Shore agents commonly earn $90,000-$175,000+.
+North Shore (Lynn, Salem, Gloucester, Peabody). Mixed coastal communities. Established North Shore agents commonly earn $77,660-$100,000+.
 
-South Shore (Quincy, Plymouth, Hingham, Cohasset). Mix of working-class and affluent coastal communities. Established South Shore agents commonly earn $95,000-$185,000+.
+South Shore (Quincy, Plymouth, Hingham, Cohasset). Mix of working-class and affluent coastal communities. Established South Shore agents commonly earn $80,000-$105,000+.
 
-MetroWest (Framingham, Natick, Marlborough). Suburban Boston with mix of corporate and residential. Established MetroWest agents commonly earn $95,000-$180,000+.
+MetroWest (Framingham, Natick, Marlborough). Suburban Boston with mix of corporate and residential. Established MetroWest agents commonly earn $80,000-$105,000+.
 
-Cape Cod and Islands. Vacation property and substantial retiree markets. Established Cape Cod agents commonly earn $95,000-$190,000+, with HNW vacation property specialty practices earning more.
+Cape Cod and Islands. Vacation property and substantial retiree markets. Established Cape Cod agents commonly earn $80,000-$110,000+, with HNW vacation property specialty practices earning more.
 
-Berkshires (Pittsfield, Lenox, Stockbridge). Western Massachusetts mountain communities with substantial second-home wealth from NYC and Boston. Established Berkshires agents commonly earn $80,000-$160,000+.
+Berkshires (Pittsfield, Lenox, Stockbridge). Western Massachusetts mountain communities with substantial second-home wealth from NYC and Boston. Established Berkshires agents commonly earn $77,660-$100,000+.
 
-Smaller markets and rural Massachusetts. Lower cost of living somewhat affects practical income. Established rural Massachusetts agents commonly earn $75,000-$140,000+.
+Smaller markets and rural Massachusetts. Lower cost of living somewhat affects practical income. Established rural Massachusetts agents commonly earn $77,660-$95,000+.
 
 ## What Drives Massachusetts Income
 
@@ -176,8 +178,8 @@ For producers, transitioning to or from these roles can offer career flexibility
 - Is Massachusetts a good state for insurance agent income? Yes, particularly for agents serving Greater Boston, Cambridge, and affluent suburbs. Top Massachusetts agents earn comparably to top agents in other major insurance markets. However, Massachusetts's high cost of living means nominal income comparisons need adjustment for purchasing power.
 - How long does it take to earn a full-time income as a Massachusetts insurance agent? Most serious agents reach full-time income levels within 12-24 months. Agents with strong networks or niche focus (financial services professionals, healthcare professionals, biotech) can accelerate this timeline.
 - Do Massachusetts agents pay state income tax on commissions? Yes. Massachusetts has a flat 5% state income tax on most income, plus a 4% surtax on income over $1 million annually.
-- What's a realistic first-year income for a new Massachusetts agent? Most new agents earn between $48,000 and $90,000 in year one depending on agency structure, product mix, and work ethic.
-- Can I earn over $200,000 as a Massachusetts insurance agent? Yes, consistently. Many established Massachusetts agents earn $200,000+ annually, particularly those serving Greater Boston, Cambridge, or specializing in high-net-worth, financial services professional, healthcare professional, or biotech markets. Top producers earn substantially more.
+- What's a realistic first-year income for a new Massachusetts agent? Most new agents earn between $38,550 and $62,050 in year one depending on agency structure, product mix, and work ethic.
+- Can I earn over $200,000 as a Massachusetts insurance agent? It's possible but not typical. Top Massachusetts producers and agency owners can reach $203,410+ annually, particularly those serving Greater Boston, Cambridge, or specializing in high-net-worth, financial services professional, healthcare professional, or biotech markets — but this reflects the top tier, not a typical outcome.
 
 ## Start Your Massachusetts Insurance Income Right
 

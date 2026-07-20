@@ -31,7 +31,7 @@ If you are in the early stages of your insurance career, it is important to know
 
 1.  Take a [pre-licensing](/illinois/prelicensing) course. Illinois requires a set number of hours in [Illinois insurance prelicensing](/illinois/prelicensing) education, covering fundamentals like policy provisions, state regulations, and ethical considerations.
 2.  Pass the state exam. Once you finish the required course, you can register for the state licensing test. Depending on the type of license you seek (such as Life, Health, or Property & Casualty), you will take an exam specific to that line of insurance.
-3.  Submit your fingerprints. This background check is mandatory and helps confirm your identity, ensuring compliance with state regulations.
+3.  Complete the background disclosure. Illinois does not require fingerprinting for most resident producer applicants — instead, you answer background disclosure questions on your application, so respond accurately and completely.
 4.  Apply for your license. After passing the exam, file an application through the [Illinois Department of Insurance](/illinois/requirements) website. Once approved, you will officially be a licensed insurance professional.
 
 By going through these steps, you gain a solid foundation in insurance practices. This grounding then makes the renewal phase easier to navigate because you will already be familiar with Illinois’s licensing processes and expectations.

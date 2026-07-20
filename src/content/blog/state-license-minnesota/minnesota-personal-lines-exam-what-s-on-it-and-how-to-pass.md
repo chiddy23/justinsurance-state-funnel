@@ -168,7 +168,7 @@ The injury caused permanent disfigurement
 
 The accident caused death
 
-Minnesota's $10,000 property damage minimum is the lowest in the United States — a fact that appears regularly as a Minnesota-specific exam question. Clients who carry only the minimum property damage coverage face significant personal liability exposure in any serious accident involving a newer vehicle.
+Minnesota's $10,000 property damage minimum is among the lowest in the United States (Massachusetts and Pennsylvania are lower, at $5,000) — a fact that appears regularly as a Minnesota-specific exam question. Clients who carry only the minimum property damage coverage face significant personal liability exposure in any serious accident involving a newer vehicle.
 
 SR-22: Not an insurance policy but a certificate filed by the insurer with the Minnesota Driver and Vehicle Services (DVS) certifying that the named driver carries the required minimum coverage. Required for certain license reinstatements — DUI convictions, driving without insurance, and certain other violations. The insurer must notify DVS if the policy lapses.
 
@@ -378,7 +378,7 @@ The injury caused permanent disfigurement
 
 The accident caused death
 
-Minnesota's $10,000 property damage minimum is the lowest in the United States — a fact that appears regularly as a Minnesota-specific exam question. Clients who carry only the minimum property damage coverage face significant personal liability exposure in any serious accident involving a newer vehicle.
+Minnesota's $10,000 property damage minimum is among the lowest in the United States (Massachusetts and Pennsylvania are lower, at $5,000) — a fact that appears regularly as a Minnesota-specific exam question. Clients who carry only the minimum property damage coverage face significant personal liability exposure in any serious accident involving a newer vehicle.
 
 SR-22: Not an insurance policy but a certificate filed by the insurer with the Minnesota Driver and Vehicle Services (DVS) certifying that the named driver carries the required minimum coverage. Required for certain license reinstatements — DUI convictions, driving without insurance, and certain other violations. The insurer must notify DVS if the policy lapses.
 

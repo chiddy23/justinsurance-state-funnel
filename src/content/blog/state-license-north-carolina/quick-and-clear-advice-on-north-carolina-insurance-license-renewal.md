@@ -24,25 +24,25 @@ Navigating the north carolina insurance license renewal and initial licensing pr
 
 ## Understand the basics
 
-Before focusing on renewals, it helps to know the path you’ll take to get your license in the first place. In North Carolina, you typically need to complete a specific set of [pre-licensing](/north-carolina/prelicensing) steps to become eligible for the state exam. You’ll pick the type of insurance license you want—like life, health, property, or casualty—and then follow the education requirements for that category.
+Before focusing on renewals, it helps to know the path you’ll take to get your license in the first place. In North Carolina, you’ll pick the type of insurance license you want—like life, health, property, or casualty—and then prepare for the state exam. As of October 1, 2025 (HB 737), North Carolina no longer requires [pre-licensing](/north-carolina/prelicensing) education for any line, so this preparation step is now optional rather than a prerequisite.
 
-Having a clear grasp of what the [North Carolina Department of Insurance](/north-carolina/requirements) expects lets you streamline your prep time. You’ll learn exactly which documents to collect, how many hours of pre-licensing education you’ll need, and how to handle background checks if required. Once you see the process laid out in front of you, it won’t seem so complicated.
+Having a clear grasp of what the [North Carolina Department of Insurance](/north-carolina/requirements) expects lets you streamline your prep time. You’ll learn exactly which documents to collect, whether a pre-licensing course fits your study style, and how to handle background checks if required. Once you see the process laid out in front of you, it won’t seem so complicated.
 
-## Meet the [pre-licensing requirements](/north-carolina/prelicensing)
+## Consider [pre-licensing education](/north-carolina/prelicensing) (optional)
 
-Nearly every insurance license aspirant in North Carolina must complete a state-approved pre-licensing course. This is your chance to build a solid foundation of knowledge so you’ll feel confident during the exam. Courses commonly cover policy types, state regulations, ethics, and any specialized content for your chosen line of authority.
+While it's no longer required, many insurance license aspirants in North Carolina still choose a pre-licensing course. This is your chance to build a solid foundation of knowledge so you’ll feel confident during the exam. Courses commonly cover policy types, state regulations, ethics, and any specialized content for your chosen line of authority.
 
 • Look for an approved provider: Verify the institution offering your course is authorized by the North Carolina Department of Insurance.  
 • Keep an eye on scheduling: Some courses are online, others are in-person during weekends or evenings. Pick the format that fits your weekly schedule best.  
 • Save your certificates: You’ll receive proof that you completed the required hours. Keep those records safe, since you’ll likely need them when you apply.
 
-Shopping around for a solid pre-licensing program can help you find the best mix of convenience, cost, and quality. Don’t forget to factor in your individual learning style. If you like structure, an in-person class might work best. If you prefer flexibility, an online program could be your answer.
+If you decide to enroll, shopping around for a solid pre-licensing program can help you find the best mix of convenience, cost, and quality. Don’t forget to factor in your individual learning style. If you like structure, an in-person class might work best. If you prefer flexibility, an online program could be your answer.
 
 ## Apply for and pass the exam
 
-Once you’ve wrapped up your pre-licensing training, the next big milestone is to schedule your official state exam. This step is where you’ll show that you understand North Carolina’s insurance laws and best practices.
+Once you’ve finished preparing — whether through a pre-licensing course or self-study — the next big milestone is to schedule your official state exam. This step is where you’ll show that you understand North Carolina’s insurance laws and best practices.
 
-1.  Complete the application: You’ll typically apply online, providing basic identification details and your pre-licensing course verification.
+1.  Complete the application: You’ll typically apply online, providing basic identification details and your pre-licensing course verification if you completed a course.
 2.  Pay the exam fee: Fees vary, so confirm the latest amount to avoid surprises. Many testing centers require advance payment.
 3.  Choose a testing center and date: You can often pick from multiple locations and times. Try to book when you’re fully prepared and free from other distractions.
 
@@ -76,7 +76,7 @@ Look for industry professionals who have done it themselves or who have guided o
 
 Remember that each phase of getting and keeping your North Carolina insurance license builds on the last. Everything you learn in pre-licensing courses and [continuing education](/north-carolina/continuing-education) goes straight into your daily work, so embrace the full journey:
 
--   Organize your pre-licensing course selection so you’re confident for the state exam.
+-   Decide whether a pre-licensing course fits your study style, since it's optional but can build confidence for the state exam.
 -   Submit all documents and schedule your exam early, when you’re best prepared.
 -   Keep track of continuing education hours so your license never lapses.
 -   Budget carefully to handle fees for both the exam and future renewals.

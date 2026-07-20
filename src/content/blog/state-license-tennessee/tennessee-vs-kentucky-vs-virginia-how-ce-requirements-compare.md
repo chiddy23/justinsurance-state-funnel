@@ -44,7 +44,7 @@ Kentucky: Ethics CE must be from courses specifically approved for ethics credit
 
 Virginia: Ethics CE may include Virginia Insurance Laws and Regulations content — a broader definition than Tennessee's or Kentucky's. A course on Virginia insurance law that carries the ethics credit designation satisfies Virginia's 3-hour ethics requirement. This makes Virginia's ethics requirement somewhat more flexible in terms of qualifying content than the other two states.
 
-Carryover of excess ethics hours: All three states restrict the carryover of excess ethics hours. Excess ethics hours carry as general CE credit in the next period — not as ethics credit. A producer who completes 6 ethics hours in a period has 3 credited as ethics and 3 as general. The next period's 3-hour ethics requirement must be satisfied with newly designated ethics CE.
+Carryover of excess ethics hours: Treatment varies by state — see the CE Carryover section below. Kentucky allows excess ethics hours to carry forward as general CE credit (not as ethics credit) up to its 12-hour cap; Tennessee's specific treatment is not publicly posted, so confirm with the TDCI; and Virginia does not permit carryover of excess hours of any kind, ethics included. In every state, the following period's 3-hour ethics requirement must still be satisfied with newly designated ethics CE — excess ethics hours from a prior period never substitute for the current period's ethics obligation.
 
 ## Line-Specific Distribution Requirements
 
@@ -72,21 +72,23 @@ Kentucky: No confirmed rigid company-sponsored CE cap analogous to states like M
 
 Virginia: No more than 75% of required CE credits may come from courses provided or given by insurance agencies or insurance companies. For a 16-hour requirement, a maximum of 12 hours can be company-sponsored. For a 24-hour requirement, a maximum of 18 hours can be company-sponsored. Virginia's 75% cap is the most explicitly defined company-sponsored limit of the three states.
 
-Additionally effective February 1, 2026, Virginia limits producers to no more than 12 CE hours of content completed within any consecutive 24-hour period. This new rule prevents producers from completing their entire CE requirement in a single intensive session.
+
 
 ## CE Carryover
 
-All three states allow carryover of excess CE hours to the next biennial period — a feature that Tennessee, which did not historically permit carryover, now provides.
+Carryover treatment is the least uniform CE feature across the three states — it ranges from a confirmed allowance, to an unconfirmed figure, to no carryover at all.
 
-Tennessee and Kentucky carryover: Both states allow up to 12 hours of excess CE to carry forward as general credit. Excess ethics hours carry as general CE — not as ethics credit in the next period. The 12-hour maximum applies regardless of how many excess hours were completed.
+Kentucky carryover: Kentucky allows up to 12 hours of excess CE to carry forward as general credit. Excess ethics hours carry as general CE — not as ethics credit in the next period. The 12-hour maximum applies regardless of how many excess hours were completed.
 
-Virginia carryover: Virginia allows carryover of excess hours, with the specific rule that hours must be reported in the biennium in which the course was taken. Virginia also allows excess ethics credits to be applied to cover other CE requirements in the current renewal period — and any remaining excess will carry forward into the next period where they can be applied to either ethics or other CE requirements. This is somewhat more flexible than Tennessee's and Kentucky's handling of excess ethics hours.
+Tennessee carryover: The TDCI has not publicly posted a specific carryover policy or hour limit. Producers with excess CE hours in a given period should contact the TDCI directly to confirm whether — and how much — excess credit carries forward before assuming Kentucky's 12-hour treatment applies.
+
+Virginia carryover: Virginia does not allow carryover of excess CE hours — hours must be reported and used within the biennium in which the course was taken, and any excess is forfeited rather than applied to the next renewal period. This makes Virginia the most restrictive of the three states on this point, not the most flexible.
 
 ## Renewal Deadlines and Fee Structure
 
 All three states use the same renewal deadline structure: last day of the birth month, biennially, with the odd/even year determined by the producer's birth year.
 
-Tennessee provides the most producer-friendly late renewal structure — a 30-day grace period with no additional fee, followed by up to one full year from expiration for late renewal at a $120 late fee.
+Tennessee provides the most producer-friendly late renewal structure — a 60-day grace period with no additional fee, followed by up to one full year from expiration for late renewal at a late fee (not publicly posted — contact the TDCI for the current amount).
 
 Kentucky allows late renewals for up to two months. The structure is more limited than Tennessee's one-year window — Kentucky producers who miss renewal by more than two months face full relicensing requirements more quickly than Tennessee producers.
 
@@ -116,7 +118,7 @@ Virginia: Non-resident producers are exempt from Virginia CE requirements based 
 
 Tennessee benefits producers who: Want maximum CE subject matter flexibility with no line-type restrictions, who want the longest late renewal window (one year), who prefer no per-hour reporting fees, and who value the absence of an annual continuance fee obligation.
 
-Kentucky benefits producers who: Hold licenses in multiple lines but want a relatively light line-type restriction (only 6 hours in a held line), who complete CE in line-specific content naturally through their practice, and who value carryover with the same 12-hour maximum as Tennessee.
+Kentucky benefits producers who: Hold licenses in multiple lines but want a relatively light line-type restriction (only 6 hours in a held line), who complete CE in line-specific content naturally through their practice, and who value a confirmed 12-hour carryover allowance — a firmer guarantee than Tennessee's unpublished carryover policy or Virginia's no-carryover rule.
 
 Virginia benefits producers who: Hold only a single license type — the 16-hour requirement is the lowest of the three states for single-license holders. The savings of 8 hours per biennial period for single-license holders is meaningful over a career. However, Virginia's per-hour reporting fee, annual continuance fee, line-type restriction for multi-license holders, and Virginia-specific LTC content requirements add administrative and financial burden that partially offset the hours advantage.
 

@@ -50,9 +50,9 @@ With 8 of the 25 state law questions, licensing is the single largest subsection
 
 What you must know:
 
-[Prelicensing](/new-jersey/prelicensing) education: 20 hours per line of authority, with 3 of those hours in ethics. Certificates of completion never expire in New Jersey.
+[Prelicensing](/new-jersey/prelicensing) education: 20 hours per line of authority. Certificates of completion never expire in New Jersey. (Separately, after licensure, each 2-year CE renewal period requires 3 of your 24 CE hours to be ethics — that ethics requirement applies to CE renewal, not to the prelicensing course.)
 
-Exam and application: Score valid for 1 year. License fee: $150 for a two-year term. Applications submitted through NIPR.
+Exam and application: Score valid for 1 year. License application fee: $170; the license itself is valid for a two-year term. Applications submitted through NIPR.
 
 Temporary work authority: Issued at the test center upon passing, valid for 60 days, requires supervision by a licensed producer. Not all candidates qualify — you must answer screening questions at the PSI kiosk.
 
@@ -70,7 +70,7 @@ What you must know:
 
 New Jersey's unfair trade practices rules prohibit a wide range of producer conduct. The following are specific NJ rules that differ from or add to the national standard:
 
-Inducements: It is prohibited in New Jersey to induce the purchase of insurance by offering anything with a monetary value exceeding $10, or to accept anything valued over $10 from a client in connection with an insurance transaction. This is the NJ-specific threshold — memorize the $10 figure.
+Inducements: It is prohibited in New Jersey to induce the purchase of insurance by offering anything with a monetary value exceeding $100, or to accept anything valued over $100 from a client in connection with an insurance transaction. This is the NJ-specific threshold — memorize the $100 figure.
 
 Discrimination: Denying or pricing insurance based on race, class, marital status, or sexual preference is prohibited. Notably, New Jersey law specifically prohibits denying coverage based on an applicant's blindness or partial blindness — this is a frequently tested NJ-specific provision.
 
@@ -106,20 +106,20 @@ The state law section carries 25 scored questions on both the Life and Accident 
 
 What is the most tested topic in the NJ state law section?
 
-Licensing — Section 6.3 in the PSI outline — carries approximately 8 of the 25 state law questions, making it the highest-weighted subsection. Questions in this area test prelicensing education hours, exam score validity, the temporary work authority process, license denial grounds under the NJ Insurance Producer Licensing Act, and nonresident licensing rules. Trade practices (Section 6.4) is the second most heavily tested subsection, with approximately 6 questions covering prohibited producer conduct, NJ's $10 inducement threshold, discrimination provisions, and unfair claims settlement practices.
+Licensing — Section 6.3 in the PSI outline — carries approximately 8 of the 25 state law questions, making it the highest-weighted subsection. Questions in this area test prelicensing education hours, exam score validity, the temporary work authority process, license denial grounds under the NJ Insurance Producer Licensing Act, and nonresident licensing rules. Trade practices (Section 6.4) is the second most heavily tested subsection, with approximately 6 questions covering prohibited producer conduct, NJ's $100 inducement threshold, discrimination provisions, and unfair claims settlement practices.
 
 Where do NJ candidates typically lose the most points on the state law section?
 
-The most common loss areas are the trade practices subsection — specifically the NJ-specific $10 inducement threshold and the blindness discrimination provision, which are unique to NJ law and not covered in standard national-content study materials — and the licensing subsection, particularly the grounds for license denial and the rules governing controlled business. Candidates who rely entirely on their prelicensing course content without specifically reviewing the NJ statutes and DOBI regulations tend to underperform on these questions. The diagnostic report PSI provides after a failed exam will show your performance by subsection, which is exactly the data you need to target a retake study plan.
+The most common loss areas are the trade practices subsection — specifically the NJ-specific $100 inducement threshold and the blindness discrimination provision, which are unique to NJ law and not covered in standard national-content study materials — and the licensing subsection, particularly the grounds for license denial and the rules governing controlled business. Candidates who rely entirely on their prelicensing course content without specifically reviewing the NJ statutes and DOBI regulations tend to underperform on these questions. The diagnostic report PSI provides after a failed exam will show your performance by subsection, which is exactly the data you need to target a retake study plan.
 
 Do I need to know specific dollar amounts and time periods for the NJ state law section?
 
-Yes — and this is a category where precision matters. PSI tests specific figures, not general concepts. Key numbers to memorize: the Commissioner can impose civil penalties of up to $15,000 per violation; hearing notices must be sent at least 20 days in advance; the inducement threshold is $10; the temporary work authority is valid for 60 days; the exam score is valid for 1 year; the prelicensing requirement is 20 hours per line; the license fee is $150 for two years; the retake waiting period is 24 hours. These figures appear regularly in exam questions, and candidates who do not know them precisely will guess on otherwise-straightforward questions.
+Yes — and this is a category where precision matters. PSI tests specific figures, not general concepts. Key numbers to memorize: the Commissioner can impose civil penalties of up to $15,000 per violation; hearing notices must be sent at least 20 days in advance; the inducement threshold is $100; the temporary work authority is valid for 60 days; the exam score is valid for 1 year; the prelicensing requirement is 20 hours per line; the license application fee is $170 and the license itself is valid for two years; there is no mandatory waiting period before a retake. These figures appear regularly in exam questions, and candidates who do not know them precisely will guess on otherwise-straightforward questions.
 
 Is the state law section harder than the general section of the NJ exam?
 
 Most candidates find the state law section more challenging, primarily because the content is narrower and more specific than the general section, and because general-market study materials vary in how thoroughly they cover NJ-specific rules. The general section tests concepts that appear in most insurance education — policy types, provisions, contract law — and candidates who completed a thorough prelicensing course tend to have solid preparation for it. The state law section requires additional, targeted study of NJ statutes, DOBI regulations, and NJ-specific rules that may not be fully covered in a standard 20-hour prelicensing course. Candidates who spend at least one dedicated study week on NJ state law specifically — using the PSI content outline as their guide — consistently score better on this section.
 
-The NJ state law section is 25 questions that can make or break your exam. Knowing the DOBI Commissioner's authority, the licensing grounds, the $10 inducement threshold, and the line-specific NJ rules cold is the difference between first-attempt pass and a $38 retake.
+The NJ state law section is 25 questions that can make or break your exam. Knowing the DOBI Commissioner's authority, the licensing grounds, the $100 inducement threshold, and the line-specific NJ rules cold is the difference between first-attempt pass and a $47 retake.
 
 Visit JustInsurance to enroll today and study NJ state law with a prelicensing course built directly to the PSI content outline.

@@ -314,7 +314,7 @@ Non-forfeiture options: cash surrender, reduced paid-up, extended term
 
 Annuity types and payout options
 
-Tennessee state law: bad faith (25%), auto minimums (25/50/25), workers' comp thresholds (5/1), CE (24 hours/3 ethics), appointment rules (15 days), late renewal ($120/1 year), comparative fault (50% bar), reciprocity (5 states)
+Tennessee state law: bad faith (25%), auto minimums (25/50/25), workers' comp thresholds (5/1), CE (24 hours/3 ethics), appointment rules (15 days), late renewal (late fee not publicly posted/1 year), comparative fault (50% bar), reciprocity (all other states)
 
 Medium-priority topics — solid understanding:
 

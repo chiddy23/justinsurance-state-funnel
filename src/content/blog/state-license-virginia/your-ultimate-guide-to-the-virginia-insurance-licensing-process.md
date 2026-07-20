@@ -1,7 +1,7 @@
 ---
 title: Your Ultimate Guide to the Virginia Insurance Licensing Process
 description: >-
-  Virginia insurance licensing process guide guide with detailed steps, key
+  Virginia insurance licensing process guide with detailed steps, key
   requirements, and practical advice from licensed agents to help you succeed in
 keyword: virginia insurance licensing process guide
 targetKeywords: virginia insurance licensing process
@@ -43,15 +43,15 @@ Selecting the right license is crucial since it determines which products and se
 
 By considering where you want to focus your expertise—individual life, group health, or broader property coverage—you can streamline your pre-licensing studies and avoid wasting time on material you don’t need.
 
-## Complete pre-licensing education
+## Consider pre-licensing education
 
-Next comes your required coursework. Virginia mandates that you finish [Virginia prelicensing education](/virginia/prelicensing) before sitting for your exam. This involves passing approved classes designed to cover essential industry knowledge, ethical considerations, and state laws.
+Virginia does not mandate that you finish [Virginia prelicensing education](/virginia/prelicensing) before sitting for your exam — that requirement was repealed statewide for standard lines. Many candidates still choose to take approved classes voluntarily, since they cover essential industry knowledge, ethical considerations, and state laws that show up on the exam.
 
-Many pre-licensing courses can be done in-person or online, so pick the format that best suits your learning style. You’ll often find self-paced options that work around a busy schedule. Consider the course provider’s reputation, your budget, and any extra resources—like practice exams or exam reviews—that improve comprehension. Once you’ve completed the required hours, you’ll receive a certificate of completion you must present when scheduling your official exam.
+Many pre-licensing courses can be done in-person or online, so pick the format that best suits your learning style if you decide to take one. You’ll often find self-paced options that work around a busy schedule. Consider the course provider’s reputation, your budget, and any extra resources—like practice exams or exam reviews—that improve comprehension.
 
 ## Schedule your Virginia exam
 
-Once your coursework is done, you can register for the [Virginia insurance exam](/virginia/requirements). You’ll need to pay an exam fee, which varies by license type. Keep in mind that seats can fill up quickly in some areas, so book your slot as soon as you know you’re ready.
+Whether or not you took an optional course, you can register for the [Virginia insurance exam](/virginia/requirements) once you feel prepared. You’ll need to pay an exam fee, which varies by license type. Keep in mind that seats can fill up quickly in some areas, so book your slot as soon as you know you’re ready.
 
 Most testing vendors offer a network of exam centers across Virginia and possibly neighboring states. If you live in a rural location, plan for any extra travel time. You can check the exam provider’s official website for details on locations, available dates, and the forms of identification you’ll need on test day. Since testing is done electronically, you can usually view your results soon after completion, which means you won’t have to wait anxiously for weeks to learn whether you passed.
 

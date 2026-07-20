@@ -70,7 +70,7 @@ Most common starting point for L&H-focused producers
 
 Separate Life and A&H:
 
-Two separate exams ($59 each = $118 total)
+Two separate exams ($50 each = $100 total)
 
 One application covering both lines
 
@@ -88,13 +88,13 @@ Standard path for P&C-focused producers
 
 Separate Property and Casualty:
 
-Two separate exams ($118 total)
+Two separate exams ($100 total)
 
 Allows per-line focused preparation
 
 All four major lines:
 
-Two separate exams ($118 — one combined L&H, one combined P&C)
+Two separate exams ($100 — one combined L&H, one combined P&C)
 
 One application covering all four lines
 
@@ -274,9 +274,9 @@ Non-resident applications: Processed through NIPR. Non-residents in good standin
 
 Arizona licenses are issued electronically. Check your DIFI account and email for notification.
 
-License renewal: Biennial fee payment through NIPR ($120 per license class). Note: HB 2054 (June 2025) standardized all Arizona license renewal dates to December 31.
+License renewal: Arizona licenses run on a single 4-year cycle, renewing on the last day of your birth month every 4 years. Renewal is processed through NIPR.
 
-CE: Arizona's 4-year CE cycle requires 48 hours including 6 hours ethics. Do not confuse the biennial fee renewal with the CE cycle — they operate on different timelines.
+CE: Arizona's 4-year CE cycle requires 48 hours including 6 hours ethics, due by your renewal deadline. Carry-forward of excess hours is not permitted.
 
 Carrier appointments: Contact carriers for appointment paperwork. Arizona requires carrier appointment for producers to sell.
 
@@ -296,7 +296,7 @@ Exceeding four exam attempts. The 4-attempt annual limit is hard. Adequate prepa
 
 Waiting too long after passing. You have one year from passing to apply. Don't let this window lapse.
 
-Confusing CE cycle with renewal cycle. Biennial fee renewal ≠ 4-year CE cycle. Both require attention on different timelines.
+Missing the 4-year CE deadline. Arizona's license and CE both run on the same 4-year cycle, so 48 hours (including 6 ethics) must be completed by your renewal deadline — don't let it sneak up on you.
 
 ## 5 Frequently Asked Questions
 

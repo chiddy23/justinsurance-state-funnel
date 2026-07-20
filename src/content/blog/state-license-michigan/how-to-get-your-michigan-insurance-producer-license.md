@@ -71,7 +71,7 @@ PLE requirements by line:
 
 PLE structure: Each 20-hour course includes 14 hours of subject-specific content and 6 hours of ethics and Michigan insurance law.
 
-PLE final exam: After completing the course, you must pass a Certification Exam with 70% or greater. This exam does not require a proctor or monitor.
+PLE final exam: After completing the course, you must pass a Certification Exam with 70% or greater. Under Mich. Admin. Code R 500.5, self-study and online PLE courses must conclude this exam under a signed proctor affidavit from a disinterested third-party proctor — you arrange the proctor, and your provider supplies the exam and affidavit.
 
 Certificate of Completion: Valid for 12 months from the date of completion. You must take and pass the state exam within this window.
 
@@ -103,8 +103,6 @@ PSI contact:
 
 Website: test-takers.psiexams.com/midifs
 
-Phone: (855) 579-4639
-
 Pay the $41 exam fee at registration
 
 Important: In-person only. Effective June 10, 2025, PSI discontinued remote proctoring for Michigan insurance exams. All exams must be taken at a physical PSI testing center. Plan accordingly for travel to the nearest center.
@@ -127,7 +125,7 @@ Results: Provided immediately after exam completion. If you fail, you receive a 
 
 ## Step 5: DIFS Reviews and Issues Your License
 
-After passing your exam, DIFS reviews your application, exam results, and background information. Processing typically takes up to 14 business days from the date you submit all requirements.
+After passing your exam, DIFS reviews your application, exam results, and background information. Processing typically takes 14-21 business days from the date you submit all requirements.
 
 Michigan mails physical licenses to the mailing address you provided on your application — distinctive from some states that only provide electronic licenses.
 
@@ -149,7 +147,7 @@ NIPR application: Same day
 
 Exam scheduling and completion: 1-2 weeks
 
-DIFS review and license issuance: Up to 14 business days after exam completion
+DIFS review and license issuance: 14-21 business days after exam completion
 
 ## No Fingerprinting Required
 
@@ -185,7 +183,7 @@ CE requirements:
 
 24 hours every 2 years
 
-Compliance date: last day of birth month (even/odd year system)
+Compliance date: first day of birth month (even/odd year system)
 
 Various exemptions for limited line licenses
 
@@ -223,7 +221,7 @@ Address: 530 W. Allegan St., 7th Floor, Lansing, MI 48933-1521
 
 Mailing: PO Box 30220, Lansing, MI 48909-7720
 
-Phone: (877) 999-6442
+Phone: (517) 284-8800
 
 Email: difs-licensing@michigan.gov
 
@@ -239,9 +237,9 @@ Application: ~$15.60 (NIPR)
 
 Exam: $41 (PSI)
 
-PLE course: $100-$200 (provider varies)
+PLE course: $199 (JustInsurance 20-hour course)
 
-Total: ~$157-$257
+Total: ~$250
 
 Combined P&C or Combined L&H:
 
@@ -249,9 +247,9 @@ Application: ~$15.60 (NIPR)
 
 Exam: $41 (PSI)
 
-PLE course: $150-$300 (40 hours)
+PLE course: $199 (JustInsurance 40-hour combined course)
 
-Total: ~$207-$357
+Total: ~$449
 
 No fingerprinting fee, no separate background check fee.
 
@@ -261,7 +259,7 @@ No fingerprinting fee, no separate background check fee.
 - Does Michigan require fingerprinting for insurance producers? No. Michigan does not require fingerprinting for insurance producer license applicants — an unusual feature nationally. DIFS conducts its background review through application disclosures and records.
 - How much does the Michigan insurance exam cost? $41 per exam, paid to PSI at registration.
 - What's the passing score for Michigan insurance exams? Michigan uses variable passing scores: 72% for Life, 76% for Accident & Health (the highest requirement in Michigan), and 74% for the combined Property and Casualty exam. These are higher than the standard 70% used by most states.
-- How long does Michigan license processing take? Up to 14 business days from the date you submit all requirements (exam results, completed application). Michigan mails a physical license to your address on file.
+- How long does Michigan license processing take? 14-21 business days from the date you submit all requirements (exam results, completed application). Michigan mails a physical license to your address on file.
 
 ## Start Your Michigan Insurance Career Right
 

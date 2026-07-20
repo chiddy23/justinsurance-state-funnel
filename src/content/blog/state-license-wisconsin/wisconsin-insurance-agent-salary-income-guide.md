@@ -18,9 +18,11 @@ imageAlt: >-
 
 Wisconsin's insurance market offers income potential built around three distinctive pillars: the Milwaukee financial services and manufacturing corridor (Northwestern Mutual, ManpowerGroup, Johnson Controls, Rockwell Automation, Harley-Davidson, and the growing Milwaukee financial services community), the Madison technology and government hub (Epic Systems, American Family Insurance, UW-Madison, state government), and the statewide agricultural economy (Wisconsin's dairy industry creating farm wealth advisory throughout rural communities). Wisconsin's median household income at approximately $63,293 is slightly below the national average — but Milwaukee and Madison metro professional communities generate significantly above-average incomes. Wisconsin's graduated income tax (up to 7.65%) is the highest of all comparison states — an important take-home income consideration for producers evaluating Wisconsin vs. lower-tax alternatives.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## The Short Answer
 
-Wisconsin insurance agents typically earn between $45,000 and $70,000 in their first few years, with experienced agents reaching $80,000 to $120,000 with established books. Specialists in the Northwestern Mutual financial services ecosystem, Epic Systems tech community advisory, or commercial workers' comp for Wisconsin's manufacturing sector regularly earn $120,000 to $175,000+.
+Wisconsin insurance agents typically earn between $42,980 and $55,970 in their first few years, with experienced agents reaching $70,650 to $97,690 with established books (statewide average around $87,280). Specialists in the Northwestern Mutual financial services ecosystem, Epic Systems tech community advisory, or commercial workers' comp for Wisconsin's manufacturing sector — Wisconsin's top producers — can reach $151,790+.
 
 Income data:
 

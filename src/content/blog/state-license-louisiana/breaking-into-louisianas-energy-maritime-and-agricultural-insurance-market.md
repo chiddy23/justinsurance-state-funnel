@@ -52,8 +52,6 @@ Louisiana's coastal and near-coastal property insurance market is shaped by the 
 
 Producers working in coastal parishes — particularly for agricultural clients with significant property values in flood and wind-exposed locations — need to understand LCPIC's coverage, eligibility requirements, and pricing relative to the private and surplus lines market alternatives.
 
-## Specialty Training Comparison: Louisiana vs. Comparison States
-
 ## Frequently Asked Questions
 
 - Do I need a special license to sell energy sector insurance in Louisiana? Your standard P&C producer license from the LDI authorizes you to sell commercial property and liability coverage for energy operations. However, many energy specialty coverages — offshore energy, pollution liability, complex property programs — are placed in the surplus lines market or through specialized admitted programs. Accessing these markets requires establishing relationships with surplus lines brokers and specialty energy carriers, which is a business development process rather than an additional licensing requirement.

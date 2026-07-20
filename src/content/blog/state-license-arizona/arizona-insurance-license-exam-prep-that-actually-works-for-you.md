@@ -79,7 +79,7 @@ Below are five of the most common questions about the Arizona insurance license 
 1.  How do I register for the Arizona insurance exam?  
     You can register online through your chosen exam provider’s website. Most providers let you set an exam date and test location based on availability.
 2.  How much does the licensing exam cost?  
-    Fees vary depending on your testing provider and which line of authority you’re pursuing. Expect to pay anywhere from around $40 to $70 per exam.
+    Arizona's PSI exam fee is a flat $50 per attempt, regardless of which line of authority you're testing for.
 3.  Do I need to complete a [pre-licensing](/arizona/prelicensing) course?  
     Arizona does not currently mandate a set number of classroom hours for pre-licensing, but taking a course is strongly recommended. Classes help you focus your study and get updated info on state regulations.
 4.  What if I fail on my first try?  

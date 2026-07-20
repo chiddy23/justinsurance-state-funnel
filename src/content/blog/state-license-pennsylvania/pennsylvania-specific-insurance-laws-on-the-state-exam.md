@@ -112,7 +112,7 @@ Phone: (717) 787-3840
 
 Fax: (717) 787-8553
 
-Email: ra-in-producer@state.pa.us
+Email: ra-in-producer@pa.gov
 
 Website: insurance.pa.gov
 

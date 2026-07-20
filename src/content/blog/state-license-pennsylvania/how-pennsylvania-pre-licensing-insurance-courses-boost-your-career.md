@@ -28,13 +28,13 @@ When you invest in Pennsylvania pre-licensing insurance courses, you also demons
 
 ## Meet Pennsylvania requirements
 
-Before diving in, it’s essential to know the basic licensing requirements in Pennsylvania. The state mandates a certain number of pre-licensing education hours, specific exams for each insurance line, and a background check process. By satisfying each step properly, you’ll meet state standards and avoid unnecessary delays.
+Before diving in, it’s essential to know the basic licensing requirements in Pennsylvania. Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the state’s prelicense education requirement, so the state now mandates specific exams for each insurance line and a background check process, while pre-licensing education itself is optional. By satisfying each required step properly, you’ll meet state standards and avoid unnecessary delays.
 
 Below is an overview of what you can expect:
 
 1.  Determine your specific line of authority, such as Life, Accident and Health, or Property and Casualty.
-2.  Enroll in the required pre-licensing course for your chosen line, ensuring the course is approved by the [Pennsylvania Insurance Department](/pennsylvania/requirements).
-3.  Complete the mandated contact hours—for instance, Life Insurance might require a certain number of hours focused on that topic alone.
+2.  Consider enrolling in a pre-licensing course for your chosen line—it’s optional in Pennsylvania, but a course approved by the [Pennsylvania Insurance Department](/pennsylvania/requirements) can help you prepare for the exam content.
+3.  If you take a course, complete its contact hours—for instance, a Life Insurance course might run around 20 hours focused on that topic alone.
 4.  Pass a background check, which typically includes fingerprinting or other identity verification.
 5.  Schedule your state licensing exam through an approved test provider.
 
@@ -54,7 +54,7 @@ Beyond the schedule, look for providers like JustInsurance that are recognized f
 
 ## Pass the exam and launch your career
 
-Once you’ve completed your pre-licensing hours, it’s time to schedule and take the exam. Exam fees vary based on the line of authority, so factor that into your budget alongside other costs like study materials and potential travel to a testing center. Arrive early on exam day, double-check your identification requirements, and remain calm if you encounter any challenging questions. Use the knowledge you acquired during your coursework and any practice exams you’ve taken.
+Once you’ve completed your exam prep (whether through a pre-licensing course or your own study), it’s time to schedule and take the exam. Exam fees vary based on the line of authority, so factor that into your budget alongside other costs like study materials and potential travel to a testing center. Arrive early on exam day, double-check your identification requirements, and remain calm if you encounter any challenging questions. Use the knowledge you acquired during your coursework and any practice exams you’ve taken.
 
 With a passing score in hand, you can officially apply for your [Pennsylvania insurance license](/pennsylvania). At this stage, you’ll pay the licensing fee and submit any final documentation. As soon as your license is approved, you’re ready to look for opportunities in the insurance market. Pennsylvania’s robust population means there’s a steady need for licensed agents and professionals—whether you’re drawn to a large agency, a boutique firm, or even launching your own practice.
 

@@ -28,7 +28,7 @@ Before you open a single study material, open your diagnostic report and identif
 
 New Jersey has no mandatory waiting period between exam attempts beyond the 24-hour scheduling restriction — you can call PSI the next business day and book your retake as soon as the following day. But booking immediately is almost never the right move.
 
-Unless your diagnostic report shows you were extremely close (within a few questions of passing) with no concentrated weak areas, give yourself a minimum of one week — and preferably two weeks — before retaking. The goal is not to take the exam again quickly; it is to take it and pass. An unprepared retake is another $38 and another diagnostic report.
+Unless your diagnostic report shows you were extremely close (within a few questions of passing) with no concentrated weak areas, give yourself a minimum of one week — and preferably two weeks — before retaking. The goal is not to take the exam again quickly; it is to take it and pass. An unprepared retake is another $47 and another diagnostic report.
 
 Rule of thumb by diagnostic score:
 
@@ -52,13 +52,13 @@ Commissioner's civil penalty authority: up to $15,000 per knowing violation
 
 Hearing notice: at least 20 days in advance
 
-Inducement threshold: $10
+Inducement threshold: $100
 
 Temporary work authority: 60 days
 
 Exam score validity: 1 year
 
-License fee: $150 for two years
+License application fee: $170, license valid for two years
 
 Retake scheduling: available the next business day, retest as early as the day after
 
@@ -68,7 +68,7 @@ Identify the specific subsections where you lost points and work through scenari
 
 ## Step 4: Take Two Full Practice Exams Under Exam Conditions
 
-Before you schedule your retake with PSI, take at least two complete, timed practice exams under conditions that mirror the real exam. That means: no notes, no phone, no breaks, 83 questions timed to 210 minutes, complete the entire exam before reviewing anything.
+Before you schedule your retake with PSI, take at least two complete, timed practice exams under conditions that mirror the real exam. That means: no notes, no phone, no breaks, the same scored-question count as your actual exam line (Life 83, Health 88, Property 79, Casualty 91) timed to 210 minutes, complete the entire exam before reviewing anything.
 
 Your target for both practice exams should be a consistent score of 75% or higher — a 5-point buffer above the passing threshold. If you are hitting 75%+ consistently on full practice exams with genuine weakness in the sections your diagnostic identified, you are ready to retake.
 
@@ -90,7 +90,7 @@ If any of these were factors, address them directly. Arrive 30 minutes early. Pr
 
 ## There Is No Lifetime Limit in New Jersey
 
-New Jersey imposes no limit on the number of times you can retake the exam. Each attempt costs $38. Your prelicensing certificate of completion never expires, so you do not need to retake the course before retaking the exam. Your score report from a failed attempt serves as your exam admission document in place of the certificate if you bring it to PSI on your retake.
+New Jersey imposes no limit on the number of times you can retake the exam. Each attempt costs $47. Your prelicensing certificate of completion never expires, so you do not need to retake the course before retaking the exam. Your score report from a failed attempt serves as your exam admission document in place of the certificate if you bring it to PSI on your retake.
 
 The only constraint on retakes is the one-year validity of a passing score — but that is irrelevant here, because you are working toward passing, not starting a clock.
 
@@ -106,7 +106,7 @@ No — for a retake, you can bring either your original prelicensing certificate
 
 How many times can I retake the NJ insurance exam?
 
-New Jersey imposes no lifetime limit on exam attempts. You can retake the exam as many times as needed, paying $38 per attempt. There is no escalating fee for multiple attempts and no cooling-off period beyond the 24-hour scheduling restriction. However, be aware that your passing score is only valid for one year from the date of the passing attempt — you must complete fingerprinting and submit a NIPR license application within 12 months of passing or your score expires.
+New Jersey imposes no lifetime limit on exam attempts. You can retake the exam as many times as needed, paying $47 per attempt. There is no escalating fee for multiple attempts and no cooling-off period beyond the 24-hour scheduling restriction. However, be aware that your passing score is only valid for one year from the date of the passing attempt — you must complete fingerprinting and submit a NIPR license application within 12 months of passing or your score expires.
 
 Should I retake the exam at a test center or switch to remote?
 
@@ -114,7 +114,7 @@ If you took your first exam at a test center and the environment itself was not 
 
 My diagnostic showed I failed the state law section specifically. What should I study?
 
-The NJ state law section has seven subsections; your diagnostic will show your percentage score in each. Focus first on whichever subsections scored below 60%. For most candidates who fail the state law section, the highest-loss areas are licensing (specifically the grounds for denial and the rules around temporary work authority, nonresident licensing, and controlled business) and trade practices (specifically the $10 inducement threshold, the blindness discrimination provision, and unfair claims settlement rules). Spend at least five to seven days exclusively on NJ state law, using the PSI content outline sections 6 and 7 as your checklist, and take scenario-based practice questions on each subsection before rebooking.
+The NJ state law section has seven subsections; your diagnostic will show your percentage score in each. Focus first on whichever subsections scored below 60%. For most candidates who fail the state law section, the highest-loss areas are licensing (specifically the grounds for denial and the rules around temporary work authority, nonresident licensing, and controlled business) and trade practices (specifically the $100 inducement threshold, the blindness discrimination provision, and unfair claims settlement rules). Spend at least five to seven days exclusively on NJ state law, using the PSI content outline sections 6 and 7 as your checklist, and take scenario-based practice questions on each subsection before rebooking.
 
 Failing the NJ insurance exam is a setback, not a verdict. The diagnostic report tells you exactly where the points went. Use it, study the right material, and go back in when your practice scores say you are ready.
 

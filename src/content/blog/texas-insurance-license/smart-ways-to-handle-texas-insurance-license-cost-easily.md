@@ -27,19 +27,19 @@ Most individuals pay around a few hundred dollars in total, although your costs 
 
 ## Meet the [pre-licensing requirements](/texas/prelicensing)
 
-Before you can sit for the licensing exam in Texas, you need to complete a state-approved pre-licensing course. The length of the course depends on the type of insurance license you want, but many options run in the 20-40 hour range. These courses teach you relevant regulations, policy basics, and ethical guidelines.
+Texas does not require you to complete a pre-licensing course before you can sit for the licensing exam — it's optional. If you choose to take one, the length depends on the type of insurance license you want, but many options run in the 20-40 hour range. These courses teach you relevant regulations, policy basics, and ethical guidelines.
 
 When comparing course providers, look for reputable organizations that explain the material clearly and offer support if you have questions. While it might be tempting to pick the cheapest course available, an engaging program that helps you truly master the content can pay off in the long run. A high-quality course reduces your chances of failing the licensing exam and having to spend extra money on retakes.
 
 ## Take your licensing exam
 
-Once you complete the pre-licensing course, you’ll be prepared to tackle the official licensing exam. Exam fees in Texas can vary slightly each year, but they usually hover around a modest price point—expect anywhere from about $50 to $70 per attempt. Factor in the possibility that you might need to retake the exam if you don’t pass on your first try. Make sure to schedule your exam at a testing facility or through an online proctor service as soon as you feel ready.
+Whether or not you take a pre-licensing course, you'll be ready to tackle the official licensing exam once you feel prepared. The current Texas exam fee is $39 per attempt through Pearson VUE. Factor in the possibility that you might need to retake the exam if you don’t pass on your first try. Make sure to schedule your exam at a testing facility or through an online proctor service as soon as you feel ready.
 
 When you arrive on test day, you’ll typically need two forms of ID and any appointment confirmations. The exam itself consists of multiple-choice questions covering various topics like state regulations, insurance fundamentals, and scenario-based applications. Passing the exam on your first attempt can help you avoid paying additional fees and speed up your time to licensure.
 
 ## Handle your application fees
 
-After passing the exam, you’ll submit your license application to the [Texas Department of Insurance](/texas/requirements) (TDI). The application fee for most insurance lines is generally in the $50 to $100 range. Some licenses may have separate fees, so read all requirements carefully before applying. You may also need to go through a fingerprinting or background check process, which could add an extra expense of around $40 to $50.
+After passing the exam, you’ll submit your license application to the [Texas Department of Insurance](/texas/requirements) (TDI). The application fee for a standard Texas producer license is $50. Some licenses may have separate fees, so read all requirements carefully before applying. You'll also need to go through fingerprinting through IdentoGO, which runs about $39.70.
 
 It’s helpful to gather all your paperwork beforehand—pre-licensing certificates, exam pass notifications, and your fingerprinting documents—so you don’t have to scramble at the last minute. Submitting these items together and in the specified format often accelerates the review process. Paying attention to detail here helps you steer clear of any potential application delays.
 

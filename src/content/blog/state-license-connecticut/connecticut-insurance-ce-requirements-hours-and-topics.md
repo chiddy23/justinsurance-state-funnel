@@ -188,7 +188,7 @@ You can find approved CE courses through:
 
 State Based Systems (SBS) Course Lookup
 
-Pearson VUE Provider and Course Lookup
+(Pearson VUE administers Connecticut's licensing exam only — it is not a source for CE provider or course approvals.)
 
 Approved courses cover topics including:
 

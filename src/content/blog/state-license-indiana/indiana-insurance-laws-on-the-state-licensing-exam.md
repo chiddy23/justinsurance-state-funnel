@@ -52,7 +52,7 @@ Designation exemptions: CLU, CFP, CFC, CPCU, CIC, AAI; bachelor's in insurance; 
 
 Pearson VUE exam: $69; 70%; 48-hr retake; 1 OnVUE attempt; 6-month score window; Ivy Tech/Pearson VUE/military sites
 
-Gemalto fingerprinting: ~$47.35
+Fingerprinting: Not required — self-disclosure on the NIPR application only
 
 Application: Sircon or NIPR; $40 + $5.60; 5-7 business days
 
@@ -100,7 +100,7 @@ Producers who obtained life line before July 1, 2024: must complete within 6 mon
 
 Producers who obtain life line after July 1, 2024: must complete within 6 months of obtaining the line before selling annuities
 
-IDOI-approved courses; contact brwalters@idoi.in.gov or 317-232-5858 (Brooke Walters, Education Coordinator)
+IDOI-approved courses; contact AgentLicensing@idoi.in.gov or (800) 622-4461
 
 Indiana LTC training: Standard initial LTC training before selling LTC products; ongoing training each CE cycle.
 
@@ -210,6 +210,6 @@ TTD benefits: 2/3 of average weekly wage; maximum average weekly wage $1,205 (fo
 
 ## Own the Indiana State Section
 
-Indiana's HIP 2.0 POWER accounts, Healthcare.gov, Annuity Best Interest rule, 51% comparative fault, and ICRB all require specific Indiana preparation. JustInsurance's IDOI-approved Indiana courses are built around the Pearson VUE content outline with Indiana state law depth.
+Indiana's HIP 2.0 POWER accounts, Healthcare.gov, Annuity Best Interest rule, 51% comparative fault, and ICRB all require specific Indiana preparation. JustInsurance's IDOI-approved Indiana Life, Health, and Life & Health courses are built around the Pearson VUE content outline with Indiana state law depth for those lines.
 
 Enroll today and master the Indiana state law that determines your exam outcome.

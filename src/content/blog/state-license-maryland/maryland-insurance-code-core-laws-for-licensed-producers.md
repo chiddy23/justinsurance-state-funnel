@@ -26,9 +26,9 @@ MIA contacts:
 
 200 St. Paul Place, Suite 2700, Baltimore, MD 21202
 
-(410) 468-2411 or (800) 492-6116; [email protected]; insurance.maryland.gov
+(410) 468-2000; producerlicensing.mia@maryland.gov; insurance.maryland.gov
 
-Commissioner: Marie L. Grant (confirmed April 2025)
+Commissioner: MIA Commissioner (verify current appointee at insurance.maryland.gov)
 
 Commissioner authority under Maryland Insurance Article:
 

@@ -64,7 +64,7 @@ Submission options:
 
 Email to: ce.agent.licensing@tn.gov
 
-Fax to: (615) 532-2862
+Confirm whether a fax submission option is currently available on the TDCI's agent-producer resources page.
 
 The name matching requirement: The name on your Fingerprint Policy and Acknowledgement Form must exactly match the name on your NIPR application. A discrepancy — even a missing middle initial or a nickname vs. legal name — creates a documentation mismatch that requires TDCI staff to manually reconcile. Use your full legal name as it appears on your government-issued photo ID on both documents.
 
@@ -116,7 +116,7 @@ Pending matters: Do you have any criminal charges currently pending against you?
 
 Truthful disclosure is mandatory — and the more serious violation is concealment: Answering disclosure questions dishonestly — omitting a criminal conviction or a prior license action — is a separate and more serious violation than the underlying matter itself. The TDCI expects applicants with complicated histories to disclose those histories completely and apply directly through the TDCI with supporting documentation. Concealment is treated as fraud; disclosure is treated as a transparency matter subject to individual evaluation.
 
-If you must answer yes to any background question: Do not attempt to complete the standard NIPR application. Tennessee requires applicants with criminal history, prior regulatory actions, or other disclosable matters to file their application directly with the TDCI Agent Licensing Section rather than through the standard NIPR electronic process. Contact the TDCI at (615) 741-2693 before proceeding. TDCI staff can advise you on the documentation to submit with your direct application and the evaluation process that will apply to your specific situation.
+If you must answer yes to any background question: Do not attempt to complete the standard NIPR application. Tennessee requires applicants with criminal history, prior regulatory actions, or other disclosable matters to file their application directly with the TDCI Agent Licensing Section rather than through the standard NIPR electronic process. Contact the TDCI at (615) 741-2241 before proceeding. TDCI staff can advise you on the documentation to submit with your direct application and the evaluation process that will apply to your specific situation.
 
 ### Step 5: Enter and Verify Personal Information
 
@@ -214,7 +214,7 @@ No. Once submitted, a NIPR application cannot be modified. The line of authority
 
 My NIPR application has been in "pending" status for 10 business days. What should I do?
 
-Contact the TDCI Agent Licensing Section directly at (615) 741-2693 or by email at ce.agent.licensing@tn.gov. Have your NIPR confirmation number and your application details ready. The most common causes of extended pending status are: background check results that have not yet been received from IdentoGO or the FBI, a documentation issue with the Fingerprint Policy and Acknowledgement Form, or a background disclosure that requires manual TDCI review. TDCI staff can identify the specific cause and advise on what, if anything, you need to do to advance your application. In most cases, extended pending status resolves on its own as the background check process completes — but proactive follow-up after 10 business days is appropriate and expected.
+Contact the TDCI Agent Licensing Section directly at (615) 741-2241 or by email at ce.agent.licensing@tn.gov. Have your NIPR confirmation number and your application details ready. The most common causes of extended pending status are: background check results that have not yet been received from IdentoGO or the FBI, a documentation issue with the Fingerprint Policy and Acknowledgement Form, or a background disclosure that requires manual TDCI review. TDCI staff can identify the specific cause and advise on what, if anything, you need to do to advance your application. In most cases, extended pending status resolves on its own as the background check process completes — but proactive follow-up after 10 business days is appropriate and expected.
 
 I am moving to Tennessee from Georgia. Can I transfer my Georgia license to Tennessee, or do I have to apply from scratch?
 

@@ -21,7 +21,7 @@ If you're researching what it takes to get a Louisiana insurance license — whe
 
 ## Basic Eligibility Requirements
 
-To apply for a Louisiana resident insurance producer license, you must be at least 18 years old, be a Louisiana resident, and have a valid Social Security Number. You must be able to truthfully answer the background disclosure questions on the NIPR application. Background disclosures do not automatically disqualify you — the LDI evaluates them individually — but they do require supporting documentation and additional review time. Contact the LDI Producer Licensing Division at (225) 342-0860 before applying if you have prior convictions.
+To apply for a Louisiana resident insurance producer license, you must be at least 18 years old, be a Louisiana resident, and have a valid Social Security Number. You must be able to truthfully answer the background disclosure questions on the NIPR application. Background disclosures do not automatically disqualify you — the LDI evaluates them individually — but they do require supporting documentation and additional review time. Contact the LDI at (800) 259-5300 before applying if you have prior convictions.
 
 ## No Prelicensing Education Requirement
 
@@ -33,7 +33,7 @@ This does not mean preparation is unnecessary. The Louisiana insurance licensing
 
 Louisiana's licensing exams are administered by PSI Services LLC at testing centers in Baton Rouge, Lafayette, Lake Charles, Metairie, Monroe, Pineville (Alexandria), and Shreveport. All exams are in-person — remote testing was eliminated effective July 8, 2024. The passing score for all exams is 70%. There is no limit on retakes within a one-year period, and you may reschedule 24 hours after a failed attempt.
 
-Exam fees by line: Life = $30, Health & Accident = $30, combined Life/Health/Accident = $53, Property & Casualty = $53. The P&C exam is 150 questions with 160 minutes. The Life exam is 100 questions with 2 hours. Each exam fee must be paid again for each attempt.
+The Louisiana insurance exam fee is $36 per attempt, regardless of line of authority. The P&C exam is 150 questions with 160 minutes. The Life exam is 100 questions with 2 hours. Each exam fee must be paid again for each attempt — confirm the current fee in the PSI Louisiana candidate handbook before scheduling.
 
 ## Fingerprinting and Background Check
 
@@ -41,7 +41,7 @@ Louisiana requires electronic fingerprinting for all first-time resident produce
 
 ## Application and License Issuance
 
-Apply through NIPR at nipr.com after passing your exam and completing fingerprinting. The application fee is $55 flat (all lines of authority in one application) plus a $5.60 NIPR transaction fee. A 60-day temporary Life license is available by email request to ProducerLicensing@ldi.la.gov. No temporary license is available for Property & Casualty.
+Apply through NIPR at nipr.com after passing your exam and completing fingerprinting. The application fee is $75, covering all lines of authority in one application (check NIPR for any additional transaction fee at the time you apply). A 60-day temporary Life license is available by email request to ProducerLicensing@ldi.la.gov. No temporary license is available for Property & Casualty.
 
 ## Continuing Education Requirements
 
@@ -50,8 +50,6 @@ Once licensed, all Louisiana resident producers must complete 24 hours of approv
 ## Specialty Training Requirements
 
 Louisiana requires additional pre-sale training for three key product areas. The Annuity Best Interest training (4-hour one-time) is required for all Life producers who sell annuities, effective September 20, 2024. LTC insurance requires an 8-hour initial course before first sale plus a 4-hour ongoing course every renewal period. NFIP flood insurance requires a 3-hour course completed every 2-year renewal period — notably, Louisiana's flood requirement is ongoing rather than one-time, which differs from some comparison states. Pet insurance training is required before selling any pet insurance product, per LA Act 94 effective January 1, 2024.
-
-## Louisiana vs. Neighboring States: Requirements Comparison
 
 ## Frequently Asked Questions
 

@@ -12,7 +12,7 @@ image: /blog/images/top-tips-to-crush-tennessee-insurance-license-exam-questions
 imageAlt: "Tennessee Non-Resident Insurance Licensing: The Reciprocity Rules You Need to Know"
 ---
 
-Tennessee's non-resident insurance licensing framework contains one of the most important distinctions a multi-state producer needs to understand — a reciprocity structure that is narrower in its formal agreements than most states while still being broadly accessible to producers from NAIC model law-compliant states. Tennessee has formal full-reciprocity agreements with only five states: California, Louisiana, Michigan, Mississippi, and Texas. Producers from every other state need to understand exactly what that means for their application — because it does not mean what most producers initially assume. This post covers the complete Tennessee non-resident licensing framework: what the two types of reciprocity actually are, who must take the Tennessee exam and who does not, how the application process works, how CE is handled across state lines, the retaliatory fee provision, and what happens when a non-resident producer moves to Tennessee or changes their home state.
+Tennessee maintains reciprocity agreements with other states, making it broadly accessible for non-resident producers licensed anywhere else in the country. But "reciprocity" does not mean automatic or unconditional — it depends on your home state's licensing status and whether your home state extends equivalent reciprocal treatment to Tennessee producers. This post covers the complete Tennessee non-resident licensing framework: how reciprocity actually works, who must take the Tennessee exam and who does not, how the application process works, how CE is handled across state lines, the retaliatory fee provision, and what happens when a non-resident producer moves to Tennessee or changes their home state.
 
 ## The Statutory Foundation: TCA §56-6-108
 
@@ -22,31 +22,9 @@ The applicant must be currently licensed as a resident insurance producer in goo
 
 The NAIC model law compliance standard: The fourth condition — that the home state awards licenses to Tennessee residents on the same basis — is the reciprocity test. States that have adopted the NAIC Producer Licensing Model Act and offer non-resident licenses to Tennessee producers without requiring retesting satisfy this standard. This covers the vast majority of U.S. states and is the foundation of Tennessee's broad non-resident licensing accessibility.
 
-## Two Types of Reciprocity: The Distinction That Matters
+## How Tennessee's Reciprocity Actually Works
 
-The most consequential concept in Tennessee non-resident licensing is the distinction between two different types of reciprocal arrangements — a distinction that most candidates misread when they first encounter Tennessee's five-state formal reciprocity list.
-
-### Type 1: Formal Full-Reciprocity Agreements
-
-Tennessee has established formal full-reciprocity agreements with exactly five states as of July 2025:
-
-California
-
-Louisiana
-
-Michigan
-
-Mississippi
-
-Texas
-
-Under a formal full-reciprocity agreement, producers licensed in these five states can obtain a Tennessee non-resident license without taking the Tennessee Pearson VUE exam. The home state license is explicitly accepted as equivalent to the Tennessee exam requirement through the formal bilateral agreement.
-
-What formal full-reciprocity means in practice: A licensed Texas P&C producer applies for a Tennessee non-resident P&C license through NIPR, pays the application fee, submits proof of good standing, and receives the Tennessee license without scheduling a Pearson VUE exam. The exam is fully waived by explicit agreement.
-
-### Type 2: NAIC Model Law Reciprocity
-
-For producers licensed in states other than the five formal reciprocity states — including all of Tennessee's neighboring states — Tennessee still offers non-resident producer licenses without requiring the Tennessee exam, provided:
+Tennessee's non-resident licensing reciprocity is based on the NAIC Producer Licensing Model Act framework, not a short list of hand-picked partner states. Under this framework, Tennessee offers non-resident producer licenses without requiring the Tennessee exam, provided:
 
 The applicant holds an active home-state resident license in good standing
 
@@ -54,13 +32,13 @@ The home state offers non-resident licenses to Tennessee producers without requi
 
 The home state license covers the same lines of authority being applied for in Tennessee
 
-This is the critical clarification: Tennessee's exam waiver for non-residents extends broadly to producers from NAIC model law-compliant states — not just to the five formal reciprocity states. A Georgia producer, a North Carolina producer, a Kentucky producer, a Virginia producer — all can obtain Tennessee non-resident licenses without taking the Tennessee exam, provided their home states are NAIC model law compliant and offer reciprocal non-resident licensing to Tennessee producers.
+Because the large majority of states — including all of Tennessee's neighboring states (Georgia, North Carolina, Kentucky, Virginia, Alabama, Arkansas, and Missouri) — have adopted the NAIC model law and extend equivalent reciprocal treatment to Tennessee producers, a licensed producer from almost any other state can generally obtain a Tennessee non-resident license without taking the Tennessee Pearson VUE exam.
 
-What the five-state formal agreement adds over NAIC reciprocity: The formal full-reciprocity agreement with the five named states provides explicit bilateral commitments and procedural streamlining beyond what NAIC model law provides. For practical licensing purposes, producers from NAIC-compliant states outside the five face essentially the same application process — apply through NIPR, pay the fee, demonstrate good standing, receive the license without testing.
+What this means in practice: A licensed producer in another state applies for a Tennessee non-resident license through NIPR, pays the application fee, submits proof of good standing, and receives the Tennessee license without scheduling a Pearson VUE exam.
 
-When the Tennessee exam IS required for non-residents: The Tennessee Pearson VUE exam is required for non-resident applicants from states that do not comply with NAIC model law standards, that do not offer non-resident licenses to Tennessee producers on equivalent terms, or that have reciprocity restrictions that break the standard chain. If your home state has such restrictions, Tennessee will require you to pass the exam before issuing a non-resident license.
+When the Tennessee exam IS required for non-residents: The Tennessee Pearson VUE exam is required for non-resident applicants from a home state that does not comply with NAIC model law standards, that does not offer non-resident licenses to Tennessee producers on equivalent terms, or whose license does not cover the lines of authority being applied for. If your home state has such restrictions, Tennessee will require you to pass the exam before issuing a non-resident license.
 
-Confirming your home state's status: Verify directly with the TDCI Agent Licensing Section at (615) 741-2693 or ce.agent.licensing@tn.gov whether your specific home state satisfies Tennessee's non-resident reciprocity standard before applying. Do not assume — confirm.
+Confirming your home state's status: Verify directly with the TDCI Agent Licensing Section at (615) 741-2241 or ce.agent.licensing@tn.gov whether your specific home state satisfies Tennessee's non-resident reciprocity standard before applying. Do not assume — confirm.
 
 ## The Non-Resident Application Process
 
@@ -126,7 +104,7 @@ Tennessee's CE requirements for non-resident producers follow the standard NAIC 
 
 What this means in practice: Complete your home state's CE requirements — whatever they are — and your Tennessee non-resident CE obligation is automatically satisfied. You do not need to take Tennessee-specific CE courses. You do not need to report CE completions separately to the TDCI. Home state CE compliance carries automatically.
 
-The practical financial implication: The ongoing compliance cost of maintaining Tennessee non-resident authority is essentially the biennial renewal fee — $60 plus $5.60 NIPR fee — because the CE you already complete for your home state satisfies Tennessee's requirement simultaneously. There is no incremental CE cost for most non-resident producers.
+The practical financial implication: The ongoing compliance cost of maintaining Tennessee non-resident authority is essentially the biennial renewal fee (check NIPR or contact the TDCI for the current amount) — because the CE you already complete for your home state satisfies Tennessee's requirement simultaneously. There is no incremental CE cost for most non-resident producers.
 
 ### Specialty Training Exceptions
 
@@ -144,7 +122,7 @@ NFIP flood certification: The one-time 3-hour flood certification applies when y
 
 Tennessee non-resident producer licenses renew every two years based on the producer's birth month — the same biennial birth month cycle as resident licenses. The renewal deadline is the last day of the birth month in the renewal year.
 
-Grace period: Tennessee provides a 30-day grace period after expiration with no additional fee. After the grace period, late renewal is available for up to one year past expiration with a $120 late fee added to the standard $60 renewal fee — $185.60 total. After one year, the license cannot be renewed and a new non-resident application must be submitted.
+Grace period: Tennessee provides a 60-day grace period after expiration with no additional fee. After the grace period, late renewal is available for up to one year past expiration with a late fee added to the standard renewal fee — the TDCI does not publicly post the exact amount, so contact the TDCI directly for the current total. After one year, the license cannot be renewed and a new non-resident application must be submitted.
 
 ### Renewal Process
 
@@ -176,10 +154,6 @@ Non-resident producers who change their address must update it with the TDCI wit
 
 Producers from Tennessee's six bordering states — Georgia, North Carolina, Kentucky, Virginia, Alabama, and Missouri — can obtain Tennessee non-resident authority without the Tennessee exam under NAIC model law reciprocity, provided their home state licenses are active and in good standing. The application process for all of these producers is: NIPR application, $50 per line application fee plus $5.60 NIPR fee, home state certification, 2–5 business day processing. No exam. No fingerprinting.
 
-### The Five Formal Reciprocity States
-
-California, Louisiana, Michigan, Mississippi, and Texas producers follow the identical NIPR application process as all other non-residents — the formal agreement adds explicit bilateral recognition without changing the practical application steps for the producer.
-
 ### States Where the Exam May Be Required
 
 Producers from states that do not comply with NAIC model law standards or that restrict non-resident licensing for Tennessee producers may be required to pass the Tennessee Pearson VUE exam before receiving a non-resident license. Confirm your home state's status with the TDCI before applying if you have any uncertainty about your state's reciprocity standing.
@@ -200,12 +174,12 @@ No. Georgia complies with NAIC model law and offers non-resident licenses to Ten
 
 My Tennessee non-resident license expired six months ago because I missed the renewal deadline. My home state license is still active. What do I do?
 
-A Tennessee non-resident license expired within one year of its expiration date can be reinstated through a late renewal application submitted through NIPR under the Non-Resident Renewal (NRR) path. The total cost is $185.60 — $60 standard renewal fee plus $120 late fee plus $5.60 NIPR transaction fee. Confirm your home state CE is current before submitting. Because your home state license is still active, you have the reciprocity basis needed for reinstatement. Submit the late renewal as soon as possible — the one-year late renewal window from your Tennessee expiration date is your deadline. After one year, late renewal is unavailable and you must submit a new non-resident application from scratch.
+A Tennessee non-resident license expired within one year of its expiration date can be reinstated through a late renewal application submitted through NIPR under the Non-Resident Renewal (NRR) path. The total cost is the standard renewal fee plus the late fee plus the NIPR transaction fee — contact the TDCI for the current combined total, since the late fee is not publicly posted. Confirm your home state CE is current before submitting. Because your home state license is still active, you have the reciprocity basis needed for reinstatement. Submit the late renewal as soon as possible — the one-year late renewal window from your Tennessee expiration date is your deadline. After one year, late renewal is unavailable and you must submit a new non-resident application from scratch.
 
 I hold a Tennessee non-resident license and I am moving to Tennessee permanently. What do I need to do and how quickly?
 
 You have 90 days from establishing Tennessee residency to convert your non-resident license to a Tennessee resident license without retaking the Pearson VUE exam. Within that 90-day window: surrender your prior state's resident license, apply for a Tennessee resident license through NIPR, complete IdentoGO fingerprinting ($37.15), submit the signed Fingerprint Policy and Acknowledgement Form to the TDCI, and pay the $50 per line application fee plus $5.60 NIPR fee. You also need to file a change of address with the TDCI within 30 days of your move. After 90 days from establishing Tennessee residency, the exam waiver expires and you must pass the Tennessee Pearson VUE exam to obtain a resident license. Treat the 90-day window as a hard deadline and begin the conversion process immediately upon relocating.
 
-Tennessee's non-resident licensing framework is more accessible than its five-state formal reciprocity list suggests to most producers who first encounter it. The NAIC model law basis extends the practical exam waiver to producers from the vast majority of U.S. states — including all of Tennessee's neighboring states — making Tennessee non-resident authority straightforward to obtain for any producer whose home state license is active and in good standing. The ongoing compliance cost is minimal — home state CE satisfaction carries automatically, renewal is biennial through NIPR at $65.60 total, and no Tennessee-specific CE obligation exists for most non-resident producers. For producers who serve clients near Tennessee's borders, represent carriers with Tennessee market activity, or want to expand their geographic reach without establishing Tennessee residency, a Tennessee non-resident license is among the most cost-effective multi-state licensing additions in the Southeast.
+Tennessee's non-resident licensing framework is broadly accessible thanks to its NAIC model law-based reciprocity. This extends the practical exam waiver to producers from the vast majority of U.S. states — including all of Tennessee's neighboring states — making Tennessee non-resident authority straightforward to obtain for any producer whose home state license is active and in good standing. The ongoing compliance cost is minimal — home state CE satisfaction carries automatically, renewal is biennial through NIPR at the standard renewal fee, and no Tennessee-specific CE obligation exists for most non-resident producers. For producers who serve clients near Tennessee's borders, represent carriers with Tennessee market activity, or want to expand their geographic reach without establishing Tennessee residency, a Tennessee non-resident license is among the most cost-effective multi-state licensing additions in the Southeast.
 
 Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course — whether you are pursuing a resident license from scratch or need to pass the Tennessee exam as part of a non-resident application from a non-reciprocal state.

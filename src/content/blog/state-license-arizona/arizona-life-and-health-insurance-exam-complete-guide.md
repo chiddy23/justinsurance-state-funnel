@@ -22,7 +22,7 @@ Here's the complete guide to the Arizona Life and Health insurance exams.
 
 ## Who Administers the Exams
 
-Arizona insurance licensing exams are administered by PSI Services, which replaced the previous vendor effective September 1, 2025.
+Arizona insurance licensing exams are administered by PSI Services, which replaced the previous vendor effective September 3, 2025.
 
 Important: If you have an account from the previous testing vendor, it does not transfer. Create a fresh account through PSI's Arizona portal.
 
@@ -32,7 +32,7 @@ Website: test-takers.psiexams.com/anzins
 
 Phone: (877) 215-7924
 
-Pay the $59 exam fee at registration
+Pay the $50 exam fee at registration
 
 ## Testing Options — In-Person and Remote
 
@@ -42,7 +42,7 @@ PSI Testing Centers: Physical locations in Phoenix, Tucson, Flagstaff, and other
 
 PSI Bridge Remote Testing: Remote proctored exam from home or office. Check system compatibility at syscheck.bridge.psiexams.com before scheduling.
 
-Cancel or change: Contact PSI at least 48 hours in advance or forfeit the $59 fee.
+Cancel or change: Contact PSI at least 48 hours in advance or forfeit the $50 fee.
 
 ## Arizona Exam Structure — Life & Health
 
@@ -262,7 +262,7 @@ Four-attempt exam limit (A.R.S. § 20-284)
 
 Exam validity (1 year)
 
-License renewal (December 31 per HB 2054)
+License renewal (every 4 years, last day of your birth month)
 
 CE requirements (48 hours/4-year cycle, 6 hours ethics)
 
@@ -375,7 +375,7 @@ Failing a combined exam: Arizona treats failure of a combined exam as failure on
 - What's the most important thing to know about Arizona's exam scoring? Both the General Knowledge section and the Arizona State Law section must independently score 70% or higher. Scores are NOT averaged. A failing state section score fails the entire exam regardless of your general section performance.
 - What are the Arizona Guaranty Association limits? $300,000 for life insurance death benefits, $250,000 for annuity values, and $500,000 for health insurance benefits. These are specific, frequently tested figures.
 - What are Arizona's free-look periods? 10 days for most policies, 20 days for annuities sold to seniors age 65 or older, and 30 days for Medicare supplement policies.
-- How many attempts do I get if I fail? Four attempts per line per year under A.R.S. § 20-284(H). After four failures, you must wait one full year from the date of the last attempt. Each attempt costs $59.
+- How many attempts do I get if I fail? Four attempts per line per year under A.R.S. § 20-284(H). After four failures, you must wait one full year from the date of the last attempt. Each attempt costs $50.
 - Is the A&H exam harder than the Life exam? Arizona candidates and instructors consistently report the A&H exam as more difficult — the health and disability products tested tend to be more complex than life insurance products, and the federal regulatory overlay (HIPAA, ERISA, ACA, Medicare) adds significant content volume.
 
 ## Walk Into the Arizona Exam Prepared

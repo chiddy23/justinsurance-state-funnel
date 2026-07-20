@@ -97,7 +97,7 @@ License application fee
 
 1–2 days processing
 
-Typically $125–$150
+Around $170
 
 While these costs and timelines can shift based on your provider and the testing center’s availability, this table gives a helpful snapshot. Keep in mind that retaking the exam can add extra costs, so thorough study and preparation are worth the effort to pass the first time.
 

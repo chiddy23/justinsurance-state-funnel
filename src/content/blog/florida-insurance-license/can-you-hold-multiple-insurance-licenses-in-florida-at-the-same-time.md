@@ -108,6 +108,6 @@ This approach builds real expertise at each stage rather than spreading yourself
 
 ## Build Your Florida Licensing Strategy the Right Way
 
-Strategic licensing is one of the smartest career moves a Florida agent can make — when it's aligned with a real business plan. At JustInsurance, our Florida prelicense courses cover the 2-14, 2-15, 2-40, 2-20, and 4-40 credentials, so whatever path you choose, we can get you there.
+Strategic licensing is one of the smartest career moves a Florida agent can make — when it's aligned with a real business plan. At JustInsurance, our Florida prelicense courses cover the 2-14 (life), 2-40 (health), and 2-15 (life, health & annuity) credentials, so whatever combination fits your plan, we can help you get there. If your strategy also includes a 2-20 general lines (P&C) or 4-40 customer representative license, you'll need to source that prelicensing education separately.
 
 Enroll today and start building your Florida insurance career with the licenses that fit your goals.

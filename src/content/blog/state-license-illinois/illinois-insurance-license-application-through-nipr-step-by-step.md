@@ -36,7 +36,7 @@ Passed your Pearson VUE state exam
 
 Gathered your personal information and identification
 
-Prepared to pay the application fee (approximately $180)
+Prepared to pay the application fee (approximately $215)
 
 Thought through how you'll answer the disclosure questions
 
@@ -130,7 +130,7 @@ Provide complete, accurate documentation. Missing or incomplete documentation is
 
 ## Step 6: Pay the Application Fee
 
-Illinois's resident producer application fee is approximately $180 (confirm current pricing at NIPR). Non-resident fees and other license types have different fees.
+Illinois's resident producer application fee is approximately $215 (confirm current pricing at NIPR). Non-resident fees and other license types have different fees.
 
 Payment is typically by credit card or debit card. You'll receive a confirmation and receipt after payment.
 
@@ -172,7 +172,7 @@ Unpaid application fees. Submissions without successful payment aren't processed
 - How quickly are exam results available on NIPR? Pearson VUE typically reports exam results electronically within 1-2 days. You can check NIPR after that to confirm results are visible.
 - What if I have past criminal issues — should I still apply? Yes, if you believe you meet the character and fitness standards. Disclose honestly, provide documentation, and let IDOI evaluate. Many applicants with past issues are approved when they demonstrate rehabilitation.
 - Can I save my application and return to it later? Yes. NIPR allows you to save progress and return to complete your application. This is useful if you need to gather documentation.
-- What's the application fee for an Illinois resident producer license? Approximately $180 for resident producers, though fees can change. Confirm current pricing on NIPR when you apply.
+- What's the application fee for an Illinois resident producer license? Approximately $215 for resident producers, though fees can change. Confirm current pricing on NIPR when you apply.
 
 ## Navigate NIPR Efficiently
 

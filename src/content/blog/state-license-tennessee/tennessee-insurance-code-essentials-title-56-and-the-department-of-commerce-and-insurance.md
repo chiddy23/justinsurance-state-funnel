@@ -205,7 +205,7 @@ Contact information:
 
 Address: 500 James Robertson Parkway, Nashville, TN 37243-1134
 
-Phone: (615) 741-2693 / (888) 416-0868
+Phone: (615) 741-2241
 
 Email: ce.agent.licensing@tn.gov
 

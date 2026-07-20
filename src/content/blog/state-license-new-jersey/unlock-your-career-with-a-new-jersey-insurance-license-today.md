@@ -56,7 +56,7 @@ When the exam day finally arrives, plan to show up a little early so you can set
 
 ## Submit your application for licensing
 
-Passing your exam is cause for celebration. However, you still have to submit your official application and pay the required fee to receive your actual license. The fees in New Jersey are usually in the $70 to $75 range, although this could vary depending on your license line and any additional costs for fingerprinting or background checks.
+Passing your exam is cause for celebration. However, you still have to submit your official application and pay the required fee to receive your actual license. The application fee in New Jersey is around $170, plus separate costs for fingerprinting and your background check, and this could vary depending on your license line.
 
 When you submit the application, you will also be asked for exam results, fingerprinting documentation, and possibly your pre-licensing certificate. Make sure each piece of paperwork is in order for a seamless submission process. This stage is crucial because incomplete or incorrect applications can lead to delays, which can impact when you can start working with clients.
 

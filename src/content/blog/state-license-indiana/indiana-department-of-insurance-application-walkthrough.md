@@ -2,9 +2,9 @@
 title: 'Indiana Department of Insurance Application Walkthrough'
 description: >-
   Indiana IDOI Insurance License Application. Practical guide to indiana
-  department of insurance insurance license application for Indiana agents.
-keyword: indiana department of insurance insurance license application
-targetKeywords: indiana department of insurance insurance license application
+  department of insurance license application for Indiana agents.
+keyword: indiana department of insurance license application
+targetKeywords: indiana department of insurance license application
 cluster: state-license-indiana
 clusterName: 'State License – Indiana'
 type: supporting
@@ -16,7 +16,7 @@ imageAlt: >-
   department of insurance application walkthrough.
 ---
 
-Indiana's license application process has four sequential steps — PLE, Pearson VUE exam, fingerprinting, and Sircon/NIPR application — with a firm 6-month window tying them together. The Ivy Tech Community College exam partnership and the fingerprint requirement through Gemalto are the most distinctive logistical features. Here's a precise walkthrough.
+Indiana's license application process has three sequential steps — PLE, Pearson VUE exam, and Sircon/NIPR application — with a firm 6-month window tying them together. The Ivy Tech Community College exam partnership and the fact that Indiana does not require fingerprinting (only self-disclosure on the NIPR application) are the most distinctive logistical features. Here's a precise walkthrough.
 
 ## The IN Licensing Sequence
 
@@ -24,9 +24,7 @@ Complete PLE (20 hours/line; Certificate valid 6 months)
 
 Schedule and pass Pearson VUE exam ($69; 70%; 48-hr retake wait)
 
-Complete Gemalto fingerprinting (~$47.35)
-
-Submit Sircon or NIPR application ($40 + $5.60)
+Submit Sircon or NIPR application ($40 + $5.60; no fingerprinting required — self-disclosure on the application only)
 
 Apply within 6 months of PLE completion AND exam passing
 
@@ -56,11 +54,7 @@ Exam day: Bring one government-issued photo ID + Certificate of Completion (elec
 
 If fail: Wait 48 hours; reschedule in-person only.
 
-STEP 4: Complete Gemalto Fingerprinting (~$47.35)
-
-After passing exam, complete electronic fingerprint-based background check through Gemalto (Thales/IDEMIA). Results forwarded to IDOI.
-
-STEP 5: Submit Application
+STEP 4: Submit Application
 
 Go to sircon.com/indiana or nipr.com
 
@@ -76,11 +70,11 @@ Submit within 6 months of PLE completion AND passing exam
 
 ## 5 Frequently Asked Questions
 
-- Can I complete fingerprinting before or after the exam? The standard recommendation is to complete fingerprinting after passing the exam, before or alongside the application submission. Verify current IDOI sequencing at in.gov/idoi — the exact timing relative to application submission may vary, but fingerprint results must be received by IDOI for license issuance.
+- Do I need to get fingerprinted for an Indiana license? No. Indiana does not require fingerprinting for resident producer licensing — you only need to complete the self-disclosure background questions on the NIPR application. Verify current requirements at in.gov/idoi if your situation involves prior disciplinary or criminal history disclosures.
 - What is the OnVUE remote exam option and can I use it for retakes? OnVUE allows first-attempt candidates to take the Pearson VUE exam from a private room at home using a computer, webcam, and stable internet. Check compatibility at home.pearsonvue.com/in/insurance/onvue. If you fail, all retakes must be taken in-person at a Pearson VUE or Ivy Tech location — OnVUE is not available for retakes.
 - Why is the 6-month window both from PLE completion AND exam passing? Indiana's 6-month window ensures that the entire licensing sequence (PLE → exam → application) is completed within a continuous window, not just the exam. The PLE certificate is valid for 6 months; you must also apply within 6 months of passing the exam. This means completing all steps promptly without extended delays between any stage.
 - What is the $4.00 roster fee? Indiana's PLE providers collect a $4.00 roster fee from candidates during enrollment. This fee covers the administrative cost of reporting course completion to Sircon. It's collected by the provider (not IDOI or Sircon directly) during the enrollment process.
-- How does Indiana's $40 application fee compare to other states? Indiana's $40 per-license application fee is among the lowest of comparison states — Maryland charges $54; Minnesota charges $50/line + $20 technology fee; Colorado charges $47/line. However, Indiana also has a fingerprinting fee (~$47.35) that Maryland (no fingerprinting) and Colorado (no fingerprinting) do not charge.
+- How does Indiana's $40 application fee compare to other states? Indiana's $40 per-license application fee is among the lowest of comparison states — Maryland charges $54; Minnesota charges $50/line + $20 technology fee; Colorado charges $47/line. Indiana also doesn't charge a fingerprinting fee, since fingerprinting isn't required for resident licensing.
 
 ## Apply for Your Indiana License Confidently
 

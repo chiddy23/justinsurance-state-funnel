@@ -50,9 +50,9 @@ You’ll want to schedule an appointment through a state-approved vendor to ensu
 
 ## Exam fees and scheduling
 
-After finishing your pre-licensing course, you’ll be ready to take the state exam, which is administered by a third-party testing provider. Plan to spend approximately $45 to $65 for the exam fee, depending on the license you’re pursuing. These fees go directly to the testing center, and you’ll likely pay them when scheduling online.
+After finishing your pre-licensing course, you’ll be ready to take the state exam, which is administered by Pearson VUE. Plan to spend approximately $44 for the exam fee. These fees go directly to the testing center, and you’ll likely pay them when scheduling online.
 
-Give yourself enough time to study before picking a test date. You can often choose a testing location close to you or take the exam online if that option is available. The exam itself usually includes multiple-choice questions on topics like Florida insurance laws, ethics, and the specific lines of insurance you intend to sell. Passing requires a solid understanding of these areas, so consider brushing up with practice tests and review sessions before test day.
+Give yourself enough time to study before picking a test date. As of February 2024, Florida no longer offers remote or online-proctored exams — all Florida insurance licensing exams must be taken in person at a Pearson VUE testing center, so plan to choose a testing location near you. The exam itself usually includes multiple-choice questions on topics like Florida insurance laws, ethics, and the specific lines of insurance you intend to sell. Passing requires a solid understanding of these areas, so consider brushing up with practice tests and review sessions before test day.
 
 ## Submit your license application
 
@@ -74,7 +74,7 @@ $100–$300+
 
 Exam fee
 
-$45–$65
+$44
 
 Fingerprinting
 
@@ -88,7 +88,7 @@ Additional materials (optional)
 
 Varies
 
-When you add up each line, the grand total might land around $300 to $500 or more, depending on the course you choose and any extra study resources. This is a worthwhile investment in a profession that can offer long-term earning potential and a fulfilling career helping others protect their financial future.
+When you add up each line, the grand total might land around $350 to $500 or more, depending on the course you choose and any extra study resources. This is a worthwhile investment in a profession that can offer long-term earning potential and a fulfilling career helping others protect their financial future.
 
 ## Plan for future fees
 

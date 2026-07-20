@@ -74,7 +74,7 @@ From pre-licensing courses to exam fees, you’ll invest both money and time. Co
 -   License application and background check costs
 -   Continuing education course fees
 
-Fortunately, spacing out exam preparation or using payment plans can ease the financial load. Also keep in mind that continuing education often happens every two years, giving you ample planning time to budget for courses. Once you know your renewal cycle, mark reminders in your calendar or set alerts on your phone. That way, you never scramble at the last second to fulfill your CE obligations.
+Fortunately, spacing out your exam preparation and budgeting ahead of time can ease the financial load. Also keep in mind that continuing education often happens every two years, giving you ample planning time to budget for courses. Once you know your renewal cycle, mark reminders in your calendar or set alerts on your phone. That way, you never scramble at the last second to fulfill your CE obligations.
 
 ## Work with a trusted advisor
 
@@ -90,7 +90,7 @@ If you’re uncertain about where to start, or if you’ve been licensed for a w
 
 ## Bring it all together
 
-Getting your Ohio insurance license goes well beyond passing a single exam. You’ll meet [pre-licensing requirements](/ohio/prelicensing), study diligently, and pass state-approved tests before you even earn your credentials. From there, continuing education guarantees that you provide clients with informed recommendations while adhering to Ohio’s regulations.
+Getting your Ohio insurance license goes well beyond passing a single exam. You’ll meet [pre-licensing requirements](/ohio/prelicensing), study diligently, and pass state-approved tests before you even earn your credentials. From there, continuing education ensures that you provide clients with informed recommendations while adhering to Ohio’s regulations.
 
 If you’re ready to start your licensing journey, investigate approved pre-licensing courses in your chosen field. Next, pencil in an exam date that gives you enough time to study. Finally, remember that your growth doesn’t stop once you’re licensed—keeping your knowledge current through ohio insurance license continuing education ensures you’ll maintain both compliance and credibility.
 

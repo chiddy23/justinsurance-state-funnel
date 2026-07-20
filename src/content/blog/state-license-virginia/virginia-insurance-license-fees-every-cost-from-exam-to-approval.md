@@ -61,9 +61,9 @@ Both NIPR and Sircon charge a platform transaction fee of $5.60 per application 
 
 ## Renewal Fees
 
-Virginia insurance licenses renew biennially. The renewal deadline is November 30 on even years for all Virginia producers. The renewal is tied to your birth year's odd/even cycle — producers born in even years renew on November 30 of even years; producers born in odd years also renew November 30 of even years (Virginia simplified to a single statewide renewal date rather than birthday-based individual deadlines). Confirm your specific renewal date with the Bureau, as individual records may vary.
+Virginia insurance licenses renew biennially. Your renewal deadline is the last day of your birth month, on the odd or even year matching your birth year — for example, a producer born in an even year renews at the end of their birth month in every even year. Virginia does not use a single fixed statewide renewal date; each producer's deadline is individual to their birth month and birth year.
 
-Virginia has no renewal grace period. If you do not complete your CE requirements and submit renewal before the November 30 deadline, your license is administratively terminated. You have up to one year after expiration to reinstate (paying the $30 late fee and $20 reinstatement fee per line plus the standard $10 renewal fee), but you must also be CE-compliant first.
+Virginia has no renewal grace period — the license expires on your renewal date. If you do not complete your CE requirements and submit renewal before your deadline, your license is administratively terminated. You have up to one year after expiration to reinstate (paying the $20 reinstatement fee per line plus the standard $10 renewal fee — $30 total per line), but you must also be CE-compliant first.
 
 ## What Fees Can Multiply
 
@@ -73,9 +73,7 @@ The $15 application fee per line: a dual-line applicant pays $30; a five-line ap
 
 The $10 renewal fee per line: renewing five lines costs $50 plus NIPR processing
 
-The $30 late fee per line: missing the renewal deadline on five lines costs $150 in late fees alone
-
-The $20 reinstatement fee per line: reinstating five expired lines costs $100 in reinstatement fees alone
+The $20 reinstatement fee per line (on top of the $10 renewal fee): reinstating five expired lines costs $150 total ($50 renewal + $100 reinstatement) in reinstatement charges alone
 
 Candidates who hold multiple lines — which is common in Virginia, where many producers hold both a Life & Annuities + Health combined license and a Property & Casualty license — should budget the full per-line cost at every stage.
 

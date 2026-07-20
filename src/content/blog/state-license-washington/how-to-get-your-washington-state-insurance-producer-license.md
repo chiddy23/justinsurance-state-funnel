@@ -18,7 +18,7 @@ imageAlt: >-
 
 Getting your Washington state insurance producer license opens doors to one of the most distinctive insurance markets in the country. Seattle's massive technology industry — home to Amazon, Microsoft, Boeing, and a rapidly growing startup ecosystem — creates sophisticated professional insurance demand found in few other markets. Washington's coast, mountains, and agricultural regions add P&C complexity. The state's own health exchange (Washington Healthplanfinder) creates year-round individual health insurance advisory opportunity. And Washington's complete absence of state income tax means every commission dollar translates to take-home pay at rates that beat virtually every other state.
 
-Washington's licensing process has several important features: no [prelicense](/washington/prelicensing) education requirement (eliminated July 24, 2023), a two-vendor fingerprinting process with a critical new application-first sequence (effective August 15, 2025), a 180-day exam validity window, and a relatively low exam fee of $35 for single lines. Here's exactly how to get your Washington state insurance producer license.
+Washington's licensing process has several important features: no [prelicense](/washington/prelicensing) education requirement (eliminated July 23, 2023), a two-vendor fingerprinting process with a critical new application-first sequence (effective August 15, 2025), a 180-day exam validity window, and a relatively low exam fee of $35 for single lines. Here's exactly how to get your Washington state insurance producer license.
 
 ## Step 1: Meet the Basic Eligibility Requirements
 
@@ -36,9 +36,9 @@ You must certify compliance with applicable Washington statutes and administrati
 
 These requirements are administered by the Washington Office of the Insurance Commissioner (OIC).
 
-## Step 2: Pre-Licensing Education (NOT Required — Eliminated July 24, 2023)
+## Step 2: Pre-Licensing Education (NOT Required — Eliminated July 23, 2023)
 
-Washington eliminated the prelicense education requirement effective July 24, 2023. Candidates can proceed directly to the state exam without completing a formal PLE course.
+Washington eliminated the prelicense education requirement effective July 23, 2023. Candidates can proceed directly to the state exam without completing a formal PLE course.
 
 Key notes:
 
@@ -242,7 +242,7 @@ Military veterans: May receive reimbursement of exam fees. Visit benefits.va.gov
 
 ## 5 Frequently Asked Questions
 
-- Does Washington require prelicense education? No. Washington eliminated the prelicense education requirement effective July 24, 2023. Candidates can proceed directly to the state exam. However, exam preparation is strongly recommended given that the exam covers Washington-specific laws and regulations.
+- Does Washington require prelicense education? No. Washington eliminated the prelicense education requirement effective July 23, 2023. Candidates can proceed directly to the state exam. However, exam preparation is strongly recommended given that the exam covers Washington-specific laws and regulations.
 - What's the correct fingerprinting sequence in Washington? Submit your license application first (through NIPR or OIC), receive your transaction number, then use that transaction number to schedule your fingerprint appointment with IDEMIA IdentoGO. This application-first sequence has been required since August 15, 2025.
 - How long after passing the exam can I apply for my license? 180 days. You must submit your complete license application within 180 days of passing your exam.
 - Does Washington have a state income tax? No. Washington has no state income tax — meaning all commission income is taxed only at the federal level (plus applicable local taxes in some cities). This makes Washington one of the most favorable states for insurance agent income retention.

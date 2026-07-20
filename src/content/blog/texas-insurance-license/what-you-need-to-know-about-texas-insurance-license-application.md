@@ -32,9 +32,9 @@ Before you start studying, it’s crucial to make sure you meet Texas’s eligib
 
 If you have any concerns about prior criminal history, it’s wise to contact TDI for clarification. A past offense won’t always disqualify your application, but you want everything squared away before investing time in [pre-licensing](/texas/prelicensing) classes or exam fees. By confirming eligibility early, you can plan your path with confidence.
 
-## Complete pre-licensing education
+## Consider pre-licensing education (optional)
 
-You can’t skip formal coursework. Texas requires a set number of pre-licensing hours, depending on the license type you choose. For instance, you might need 40 hours for Life and Health or 40 hours for Property and Casualty. Make sure you select a state-approved provider, because your course certificate has to come from an officially recognized institution.
+Formal coursework is optional in Texas — the state does not require pre-licensing hours before you can sit for the exam. Even so, many candidates choose a structured course, often around 40 hours for Life and Health or Property and Casualty, to prepare. If you do enroll, select a state-approved provider so your course certificate comes from an officially recognized institution.
 
 While you might see in-person classes offered, most people choose the convenience of online learning. These courses walk you through essential insurance concepts like policy types, coverage details, and state regulations. Take your time, study the material thoroughly, and ask questions whenever you’re unsure of something. You’re building a foundation of knowledge that will serve you on exam day and in your future career.
 
@@ -48,7 +48,7 @@ Description
 
 Study hours
 
-40 hours (varies by license type)
+40 hours (varies by license type; optional, not state-mandated)
 
 Delivery method
 
@@ -60,13 +60,13 @@ Policy basics, state laws, ethics, coverage options
 
 Course completion certificate
 
-Required before scheduling exam
+Not required to schedule the exam in Texas
 
 Aim to use these structured lessons to cement your understanding of Texas rules and regulations. You’ll still need independent study time, but pre-licensing courses give you a clear roadmap that can cut down on guesswork.
 
 ## Schedule your licensing exam
 
-With your pre-licensing certificate in hand, you’re ready to sit for the state exam. This test evaluates your command of insurance concepts, as well as your knowledge of regulations specific to Texas. Scheduling is typically done through a testing provider authorized by TDI. Many people book online, but phone registration is also an option.
+Whether or not you took a pre-licensing course, once you feel prepared you're ready to sit for the state exam. This test evaluates your command of insurance concepts, as well as your knowledge of regulations specific to Texas. Scheduling is typically done through a testing provider authorized by TDI. Many people book online, but phone registration is also an option.
 
 Schedule your exam at least a week or two in advance so you can choose a time that fits your routine. The exam itself usually takes a couple of hours, though you’ll want to arrive early and bring the necessary identification. Expect a multiple-choice format that tests key terms, policy structures, and ethical guidelines. If you’ve put in the study time, the questions should feel familiar, even if they’re phrased in tricky ways.
 
@@ -76,7 +76,7 @@ Try not to cram the night before. Instead, review your notes or practice quizzes
 
 ## Submit the official application
 
-Once you pass the exam, it’s time for the formalities of the texas insurance license application. You’ll submit this paperwork (or online form) to TDI. Be prepared to pay the application fee, which varies based on license type, but typically ranges from $50 to $100. You’ll also need to provide proof that you’ve met all [pre-licensing requirements](/texas/prelicensing) and exam credentials.
+Once you pass the exam, it’s time for the formalities of the texas insurance license application. You’ll submit this paperwork (or online form) to TDI. Be prepared to pay the $50 application fee for a standard producer license. You’ll also need to provide proof of your exam results (and your pre-licensing certificate, if you completed a course).
 
 Double-check that every section of your application is accurate, from your personal contact details to your license class information. Simple typos can slow the process, potentially resulting in additional fees if corrections are needed. After submission, follow up with TDI’s online portal or help desk if you haven’t received any updates within a few weeks.
 

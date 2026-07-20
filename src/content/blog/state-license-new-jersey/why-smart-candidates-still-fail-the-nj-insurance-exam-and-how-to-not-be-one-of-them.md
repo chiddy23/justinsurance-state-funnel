@@ -16,7 +16,7 @@ People who fail the New Jersey insurance exam are not, for the most part, unprep
 
 ## Failure Reason 1: Treating the Prelicensing Course as Sufficient Preparation
 
-New Jersey's 20-hour prelicensing requirement is a regulatory minimum, not a preparation benchmark. The course teaches you insurance concepts. The PSI exam tests whether you can apply those concepts correctly under scenario-based conditions, in 83 questions, within a timed setting.
+New Jersey's 20-hour prelicensing requirement is a regulatory minimum, not a preparation benchmark. The course teaches you insurance concepts. The PSI exam tests whether you can apply those concepts correctly under scenario-based conditions, in a timed setting with a scored-question count that varies by line (83 for Life, 88 for Health, 79 for Property, 91 for Casualty).
 
 Most prelicensing courses do not replicate the difficulty level or the question style of the actual PSI exam. A candidate who reads through the course content once, passes the internal certification exam at 70%, and books their PSI appointment the next week has completed the course — but has not done the preparation the exam actually demands.
 
@@ -26,7 +26,7 @@ The fix: Treat your prelicensing course as the foundation, not the ceiling. Afte
 
 The NJ state law section carries 25 scored questions — and on every NJ exam line, it is where candidates lose the most points relative to the general section. The reason is straightforward: the state law section tests New Jersey-specific rules that many prelicensing courses cover lightly, and candidates who rely on their general insurance knowledge to carry them through the state law section routinely find that it does not.
 
-The $10 inducement threshold. The Commissioner's $15,000 penalty authority. The 20-day hearing notice requirement. The controlled business prohibition. The 60-day temporary work authority. These are NJ-specific details that do not appear on exams in most other states, and a candidate who does not specifically study them will guess on questions that well-prepared candidates answer in seconds.
+The $100 inducement threshold. The Commissioner's $15,000 penalty authority. The 20-day hearing notice requirement. The controlled business prohibition. The 60-day temporary work authority. These are NJ-specific details that do not appear on exams in most other states, and a candidate who does not specifically study them will guess on questions that well-prepared candidates answer in seconds.
 
 The fix: Allocate at least one full week of your study plan exclusively to the NJ state law section. Use the PSI content outline sections 6 and 7 as your checklist. Study the specific numbers, the specific statutory names, and the specific fact patterns PSI uses to test each topic.
 
@@ -42,9 +42,9 @@ The fix: Study by retrieval. Cover your notes and write out the rule from memory
 
 A practice exam is not a confidence check — it is a diagnostic tool. Candidates who take one practice exam, score 72%, feel relieved, and book their PSI appointment have not used practice testing correctly. A single practice score tells you almost nothing unless you also analyze every question you missed in detail.
 
-More commonly, candidates skip practice exams entirely. They study their notes, feel prepared, and walk into PSI without ever having experienced the cognitive challenge of answering 83 scenario-based questions in sequence under timed conditions. The first time they experience that pressure is on the real exam, and it affects performance.
+More commonly, candidates skip practice exams entirely. They study their notes, feel prepared, and walk into PSI without ever having experienced the cognitive challenge of answering their line's full slate of scenario-based questions in sequence under timed conditions. The first time they experience that pressure is on the real exam, and it affects performance.
 
-The fix: Take at least two full-length practice exams under simulated conditions — 83 questions, no notes, timed to 210 minutes — before your PSI appointment. Spend as much time reviewing your wrong answers as you spent taking the exam. Do not schedule your PSI appointment until you are consistently scoring 75% or above on practice exams.
+The fix: Take at least two full-length practice exams under simulated conditions — your line's full scored-question count (83 for Life, 88 for Health, 79 for Property, 91 for Casualty), no notes, timed to 210 minutes — before your PSI appointment. Spend as much time reviewing your wrong answers as you spent taking the exam. Do not schedule your PSI appointment until you are consistently scoring 75% or above on practice exams.
 
 ## Failure Reason 5: Confusing Similar Concepts Under Pressure
 
@@ -62,7 +62,7 @@ The fix: For every concept pair or group that you know is similar, study them si
 
 ## Failure Reason 6: Poor Time Management on Exam Day
 
-The NJ exam gives you 210 minutes for 83 questions — approximately 2.5 minutes per question. Most candidates have time to spare. But some candidates spend 5 or 6 minutes on difficult questions early in the exam, begin to feel the time pressure, rush through later questions, and make avoidable errors on material they actually knew.
+Every NJ exam line gives you 210 minutes, and the scored-question count varies by line — 83 for Life, 88 for Health, 79 for Property, 91 for Casualty — which works out to roughly 2 to 2.5 minutes per question. Most candidates have time to spare. But some candidates spend 5 or 6 minutes on difficult questions early in the exam, begin to feel the time pressure, rush through later questions, and make avoidable errors on material they actually knew.
 
 The fix: Practice pacing during your full-length practice exams. When you encounter a question you are uncertain about, flag it and move on immediately. Return to flagged questions after completing the rest of the exam. This ensures you answer every question you know confidently first, then allocate remaining time to the difficult ones. Never let a single hard question cost you easy points on questions later in the exam.
 
@@ -96,7 +96,7 @@ No, but it is possible to prepare inefficiently in ways that feel like over-prep
 
 What should I do the night before the NJ insurance exam?
 
-Stop studying new material by the night before your exam. Spend 20 to 30 minutes doing a light review of your key facts list — the specific NJ figures (penalty amounts, time periods, fee amounts, waiting periods) and the concept pairs you find most confusing. Then stop. Get 7 to 8 hours of sleep. Eat breakfast before your exam. Arrive at the test center 30 minutes early to check in without rushing. The night before is not the time to close content gaps — it is the time to rest a brain that has been working hard for weeks so that it performs at its best when you are sitting in front of 83 questions that stand between you and your license.
+Stop studying new material by the night before your exam. Spend 20 to 30 minutes doing a light review of your key facts list — the specific NJ figures (penalty amounts, time periods, fee amounts, waiting periods) and the concept pairs you find most confusing. Then stop. Get 7 to 8 hours of sleep. Eat breakfast before your exam. Arrive at the test center 30 minutes early to check in without rushing. The night before is not the time to close content gaps — it is the time to rest a brain that has been working hard for weeks so that it performs at its best when you are sitting in front of the questions that stand between you and your license.
 
 Most exam failures are not failures of intelligence or effort — they are failures of strategy. Knowing exactly what the exam tests, studying the state law section with the same intensity as the general content, and validating your readiness through practice testing before booking your PSI appointment eliminates the most common failure patterns before they become your experience.
 

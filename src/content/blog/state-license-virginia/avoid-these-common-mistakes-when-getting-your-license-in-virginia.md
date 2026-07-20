@@ -22,13 +22,13 @@ When you set your sights on earning a [Virginia health insurance license](/virgi
 
 ## Understand the licensing requirements
 
-The first mistake many aspiring agents make is not taking the time to learn the must-know details of Virginia’s licensing process. In general, you must be at least 18 years old, comply with fingerprinting and background checks, and complete the required [Virginia prelicensing coursework](/virginia/prelicensing) before you can even register for the exam.
+The first mistake many aspiring agents make is not taking the time to learn the must-know details of Virginia’s licensing process. In general, you must be at least 18 years old and comply with fingerprinting and background checks. Virginia does not require [prelicensing coursework](/virginia/prelicensing) for standard producer lines before you register for the exam — the state repealed that mandate for most lines, so you can move straight to scheduling your exam once you meet the basic eligibility requirements.
 
-These [pre-licensing](/virginia/prelicensing) hours are not optional. They’re mandatory classes designed to give you an overview of important terms, regulations, and ethical standards that shape the insurance business. Skipping a portion of these can jeopardize your eligibility to take the exam or delay your license approval. Pay attention to all the topics covered in your course, since the exam questions often match these areas of study quite closely.
+[Pre-licensing](/virginia/prelicensing) hours are optional in Virginia, not mandatory, but skipping structured prep entirely is still a common mistake. The Prometric exam leans heavily on state-specific terms, regulations, and ethical standards, so voluntarily taking a course can make the difference between passing on your first try and having to retake it. Pay attention to all the topics covered if you do take a course, since the exam questions often match these areas of study quite closely.
 
 ## Plan your pre-licensing education
 
-Trying to cram all your learning into a short window is another common pitfall. The required coursework might seem straightforward, but it’s easy to underestimate the time you need to review, practice, and fully absorb each concept. This is especially true for the Virginia health insurance license track, because the subject matter can feel dense.
+Trying to cram all your learning into a short window is another common pitfall. The optional coursework might seem straightforward, but it’s easy to underestimate the time you need to review, practice, and fully absorb each concept. This is especially true for the Virginia health insurance license track, because the subject matter can feel dense.
 
 Give yourself enough time to read through all the materials, watch any recommended videos, and tackle sample questions. You can often find updated study guides that mimic the style of the official exam, which helps reduce test-day surprises. It’s also wise to build a study schedule and stick to it. Set aside specific blocks of time during the week, and treat your study sessions as seriously as you would any important appointment. Consistent effort pays off when exam day arrives.
 

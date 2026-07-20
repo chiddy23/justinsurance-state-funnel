@@ -66,6 +66,8 @@ Hurricane Helene's 2024 impact on western North Carolina — 107 deaths and appr
 
 This is the comparison dimension that salary data almost never addresses — and for producers making location decisions, it is among the most financially consequential.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 A Tennessee producer earning $100,000 retains approximately $5,490 more annually than an identical-income Georgia producer and $4,500 more than a North Carolina producer. Over a 30-year career with rising commission income, Tennessee's no-income-tax advantage compounds into a meaningful wealth differential that raw salary comparisons never reveal.
 
 North Carolina has been on the most aggressive state income tax reduction path in the Southeast — cutting from 5.25% in 2021 to 4.5% in 2026, with a 3.99% target by 2027. This trajectory narrows but does not close the gap with Tennessee for the foreseeable future. Georgia's 5.49% flat rate is the highest of the three states and the least likely to decrease materially in the near term.
@@ -96,13 +98,13 @@ North Carolina offers distinctive commercial niches that neither Tennessee nor G
 
 For producers making initial career decisions or considering multi-state expansion, the licensing process complexity matters.
 
-Tennessee has no mandatory prelicensing education requirement — the only state among the three that does not require prelicensing coursework before sitting for the licensing exam. A motivated candidate can schedule and sit for the Pearson VUE exam immediately, with no minimum hours requirement to satisfy first. Total typical cost to license: $49 (remote exam) + $37.15 (fingerprinting) + $50 + $5.60 (NIPR application fee) = approximately $142.
+Tennessee has no mandatory prelicensing education requirement. A motivated candidate can schedule and sit for the Pearson VUE exam immediately, with no minimum hours requirement to satisfy first. Total typical cost to license: $49 (remote exam) + $37.15 (fingerprinting) + $50 + $5.60 (NIPR application fee) = approximately $142.
 
-Georgia requires 40 hours of prelicensing education before sitting for the licensing exam. A Georgia Life/Health candidate must complete the 40-hour course before scheduling the exam. Total typical cost to license is higher due to the prelicensing course requirement (typically $150–$300 for the course) in addition to exam and application fees.
+Georgia requires prelicensing education before sitting for the licensing exam — 8 hours per line (Life or Health), or 16 hours for a combined Life and Health course. Total typical cost to license is higher due to the prelicensing course requirement (typically $150–$300 for the course) in addition to exam and application fees.
 
-North Carolina requires 20 hours of prelicensing education for Property and Casualty and a more comprehensive requirement for Life and Health candidates. North Carolina's licensing process is moderately more burdensome than Tennessee's but less so than Georgia's.
+North Carolina, like Tennessee, has no mandatory prelicensing hours requirement — candidates can sit for the exam without completing a course, though a roughly 20-hour course is commonly taken voluntarily to prepare. North Carolina's licensing process is comparable to Tennessee's and generally less burdensome than Georgia's mandatory-hours requirement.
 
-For Tennessee producers adding non-resident licenses in Georgia or North Carolina, the process is streamlined through NRRA reciprocity — Tennessee's license qualifies the producer for non-resident application in most states without re-examination. Tennessee has formal full-reciprocity agreements with only five states (California, Louisiana, Michigan, Mississippi, and Texas), but NAIC model law states — which include both Georgia and North Carolina — grant non-resident licenses to Tennessee licensees without requiring the state exam.
+For Tennessee producers adding non-resident licenses in Georgia or North Carolina, the process is streamlined through NAIC model law reciprocity — Tennessee's license qualifies the producer for non-resident application in most states, including Georgia and North Carolina, without re-examination, provided the home state license is active, in good standing, and covers the matching lines of authority.
 
 ## The Verdict: Which State Wins on Each Dimension
 

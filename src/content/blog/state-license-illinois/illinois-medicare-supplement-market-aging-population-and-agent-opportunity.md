@@ -154,6 +154,8 @@ Full-time Medicare specialists.
 
 First year: $50,000-$95,000 depending on ramp-up and lead investment
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 Years 2-3: $85,000-$150,000 as renewals build
 
 Established agents (5+ years): $125,000-$250,000+ with strong retention

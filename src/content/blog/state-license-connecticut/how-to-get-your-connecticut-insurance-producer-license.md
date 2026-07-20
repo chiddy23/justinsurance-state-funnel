@@ -30,11 +30,11 @@ You must have a Social Security Number (SSN) or Federal Employer Identification 
 
 You must provide proof of residency within Connecticut (for resident license)
 
-You must be able to pass a state and federal criminal history background check
+You must self-disclose any criminal history, regulatory actions, or bankruptcies on your NIPR application
 
 You must truthfully complete the license application and disclose any relevant history
 
-Note: Connecticut does NOT require fingerprinting for individual insurance producer licenses, which simplifies the process compared to many states.
+Note: Connecticut does NOT require fingerprinting for individual insurance producer licenses and does not run a separate state or federal criminal-history check — background screening is handled through self-disclosure on the NIPR application, which simplifies the process compared to many states.
 
 ## Step 2: Complete Prelicense Education (PLE)
 
@@ -108,15 +108,15 @@ The exam covers two sections: General (insurance principles applicable in any st
 
 ## Step 4: Background Check
 
-Connecticut requires state and federal criminal history background checks for license applicants. Unlike many states:
+Connecticut does not run a separate state or federal criminal-history background check. Instead, applicants self-disclose on the NIPR application:
 
 No fingerprinting required for individual producer licenses
 
-Background check is conducted through other means
+No separate background check fee — screening is self-disclosure only
 
-Results flow to the Connecticut Insurance Department for review
+Your disclosures are reviewed by the Connecticut Insurance Department alongside your application
 
-Disclosure on application is critical — Connecticut cross-references your application against background results
+Disclosure on application is critical — answer every question honestly, since inaccurate disclosures can delay or jeopardize licensure
 
 ## Step 5: Submit Your License Application
 
@@ -126,15 +126,13 @@ Application requirements:
 
 Confirmation of exam completion (reported electronically by Pearson VUE)
 
-Background check authorization
-
-Disclosure of any criminal history, regulatory actions, or bankruptcies
+Self-disclosure of any criminal history, regulatory actions, or bankruptcies
 
 Application fee payment
 
 State application fee: $140 (paid through NIPR with Visa, MasterCard, Discover, American Express, PayPal, or electronic checks; no cash or paper checks accepted)
 
-Answer all disclosure questions honestly. Connecticut cross-references your answers against background check results.
+Answer all disclosure questions honestly, since this self-disclosure is Connecticut's background screening process.
 
 ## Step 6: Connecticut DOI Reviews and Issues Your License
 
@@ -206,7 +204,7 @@ Adding additional lines to an existing license is more streamlined than initial 
 
 ## 5 Frequently Asked Questions
 
-- Does Connecticut require fingerprinting for insurance producers? No. Connecticut doesn't require fingerprinting for individual producer licenses, though state and federal background checks are still conducted.
+- Does Connecticut require fingerprinting for insurance producers? No. Connecticut doesn't require fingerprinting for individual producer licenses, and there's no separate state or federal criminal-history check — background screening is handled through self-disclosure on your NIPR application.
 - How long is Connecticut prelicense education? 20 hours per individual line of authority, or 40 hours for combined Life and Health or Property and Casualty licenses.
 - How much does a Connecticut insurance license cost? Total typically $350-500 including prelicense course fees, $65 exam fee, $140 state application fee, and any other related costs.
 - How long is my Connecticut insurance license valid? Connecticut producer licenses renew every 2 years on a biennial cycle, with renewal due by the last day of your birth month.

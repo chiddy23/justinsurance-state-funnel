@@ -29,7 +29,7 @@ Additionally, anyone seeking to become a licensed insurance agent in Texas must 
 
 ## Meet [pre-licensing requirements](/texas/prelicensing)
 
-Texas, like most states, mandates specific coursework before you can sit for the licensing exam. Requirements vary depending on the license you are pursuing. For example, life and health insurance applicants and property and casualty applicants often need a certain number of hours in an approved pre-licensing course. These classes will break down insurance terminology, state regulations, policy structures, and ethical standards you must uphold.
+Unlike most states, Texas does not mandate specific coursework before you can sit for the licensing exam — pre-licensing is optional here. Even so, many life and health insurance applicants and property and casualty applicants choose to complete a certain number of hours in an approved pre-licensing course to prepare. These classes will break down insurance terminology, state regulations, policy structures, and ethical standards you must uphold.
 
 Schools frequently offer flexible options. You might choose an online program that lets you study at your own pace, or you can attend in-person classes if you enjoy a classroom setting. Either way, your pre-licensing coursework is designed to help you fully understand Texas insurance laws and policy details, so you feel prepared when exam day arrives.
 
@@ -43,14 +43,14 @@ You may want to compare features such as:
 
 -   Curriculum depth: Ensure the program fully covers Texas regulations and exam-relevant topics.
 -   Instructor support: Check if the school offers email, phone, or live-chat assistance for questions.
--   Pass guarantees: Some courses provide refunds or free retakes if you do not pass the exam the first time.
+-   Retake policy: Check whether the provider charges extra for retakes or includes a retake in the course price.
 -   Student resources: See if they include flashcards, exam simulators, or additional reading materials.
 
 When making your decision, remember that convenience, price, and teaching style all matter. Choosing a reputable institution can make an enormous difference in your confidence and readiness to succeed. If you are still unsure, you could read online reviews from former students or talk to an insurance professional who has been through the process.
 
 ## Ace the licensing exam
 
-Once you complete your pre-licensing coursework, the next big milestone is passing the official state exam. This exam, administered by a TDI-approved testing provider, is typically multiple-choice and will evaluate your comprehension of Texas insurance regulations, policy provisions, and ethical standards.
+Once you feel ready — whether or not you took a pre-licensing course — the next big milestone is passing the official state exam. This exam, administered by a TDI-approved testing provider, is typically multiple-choice and will evaluate your comprehension of Texas insurance regulations, policy provisions, and ethical standards.
 
 Preparation is key at this stage. Paying close attention to the exam outline provided by your school or the testing authority will help you prioritize what to review. Practice quizzes or exam simulation software can be especially helpful since they mirror the question format you will see on test day. Many people also create their own study schedule, dedicating a set amount of time each day to reviewing tricky concepts like policy exclusions or endorsements.
 
@@ -68,6 +68,6 @@ With your Texas insurance license in hand, you will have a real opportunity to m
 
 ### Taking the next step
 
-Now that you have a roadmap, it is time to choose the right path for you. Consider which Texas insurance license schools fit your learning style, knock out your pre-licensing hours, and schedule your exam. If you find yourself looking for support or clarity on any part of the process, remember that there are plenty of resources—and people—ready to guide you.
+Now that you have a roadmap, it is time to choose the right path for you. Consider which Texas insurance license schools fit your learning style, complete pre-licensing coursework if you choose to, and schedule your exam. If you find yourself looking for support or clarity on any part of the process, remember that there are plenty of resources—and people—ready to guide you.
 
 Have more questions about what to do after getting licensed? JustInsurance is a great place to find expert guidance and professional connections. Whether you plan to work as an independent agent or join an established firm, your future in insurance can be as bright as you want it to be—starting with the education that gets you there.

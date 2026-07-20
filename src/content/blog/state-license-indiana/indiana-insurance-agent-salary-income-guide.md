@@ -18,9 +18,11 @@ imageAlt: >-
 
 Indiana's insurance market offers income potential built around several pillars: Indianapolis's corporate concentration (Eli Lilly, Elevance Health, Salesforce, Indiana University Health), the Cummins manufacturing corridor in Columbus, Subaru's Lafayette operations, and a broad agricultural economy throughout the state. The state's median household income at approximately $58,235 — below the national average — reflects Indiana's manufacturing-heavy economy, but producers who target the Indianapolis corporate professional market operate in a significantly higher-income environment than state averages suggest. Indiana's 3.05% flat income tax — one of the country's lowest — meaningfully enhances producer take-home income compared to higher-tax comparison states.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## The Short Answer
 
-Indiana insurance agents typically earn between $45,000 and $70,000 in their first few years, with experienced agents reaching $80,000 to $120,000 with established books. Specialists in the Eli Lilly pharmaceutical professional market, Elevance Health employee advisory, or commercial workers' comp for Indiana's large manufacturing sector regularly earn $120,000 to $175,000+.
+Indiana insurance agents typically earn between $36,980 and $47,640 in their first few years, with experienced agents reaching $61,710 to $95,410 with established books. Top producers — including specialists in the Eli Lilly pharmaceutical professional market, Elevance Health employee advisory, or commercial workers' comp for Indiana's large manufacturing sector — can reach $129,060 or more.
 
 Income data:
 

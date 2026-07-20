@@ -77,13 +77,13 @@ In addition to generic approval claims, double-check the provider’s website fo
 
 Almost every prelicense program offers a defined access period, which can range from 30 days up to a year. You want to ensure that the course length aligns with your schedule and study preferences. If you know you need extra time to grasp complex concepts, a shorter 30-day window might cause unnecessary stress. On the other hand, if you are confident you can handle an accelerated study schedule, a shorter access period may save you money.
 
-Some providers also allow extensions at a reduced cost. If you anticipate a busy schedule with work or family obligations, it is worth looking for a course that either has a longer standard access period or makes it easy to extend without overspending. Providers like JustInsurance are known for flexible course timelines, which can be a big advantage if you need leeway.
+Some providers also allow extensions at a reduced cost. If you anticipate a busy schedule with work or family obligations, it is worth looking for a course that either has a longer standard access period or makes it easy to extend without overspending (our own course, JustInsurance, is one example, in the interest of full disclosure), which can be a big advantage if you need leeway.
 
 ## Look for pass guarantees
 
-Knowing your course stands behind its materials can build your confidence as you prepare for the exam. A pass guarantee typically promises a free course extension or a refund if you do not pass on the first try, as long as you meet specific conditions (like completing all modules and practice exams). While it does not erase the pressure of the final exam, it assures you that the provider is invested in your success.
+Some providers offer a pass guarantee, which can build confidence as you prepare for the exam. This typically means a free course extension or a refund if you do not pass on the first try, as long as you meet specific conditions (like completing all modules and practice exams) — and eligible students may qualify only in states where the guarantee is offered, since it is not available everywhere. While it does not erase the pressure of the final exam, a well-documented guarantee can be a sign the provider is invested in your success.
 
-You will usually need to document your study progress, and you might have to complete a certain number of practice quizzes to qualify for a pass guarantee. Make sure you read through the terms. If the pass guarantee is too vague or has unrealistic requirements, approach with caution. A clear guarantee with supportive tools, like expert assistance and realistic practice tests, is far more valuable in boosting your confidence on exam day.
+You will usually need to document your study progress, and you might have to complete a certain number of practice quizzes to qualify for a pass guarantee. Make sure you read through the official terms rather than a general description. If the pass guarantee is too vague or has unrealistic requirements, approach with caution. A clear guarantee with supportive tools, like expert assistance and realistic practice tests, is far more valuable in boosting your confidence on exam day.
 
 ## Frequently asked questions
 
@@ -94,10 +94,10 @@ You will usually need to document your study progress, and you might have to com
 3.  What if my state has unique requirements?  
     Every state is different, so confirm that the course you choose has official approval. Some states require specific topics or additional study hours. A reputable provider usually lists each state’s guidelines, so you can verify in advance that you are meeting all mandatory components.
 4.  Will I have to retake the course if I fail the exam?  
-    Many programs offer free or discounted extensions if you do not pass on your first attempt. Check the details of the pass guarantee or retake policy. Sometimes you only need a quick refresher in weaker areas before you test again.
+    Some programs offer free or discounted extensions if you do not pass on your first attempt, though this varies by provider and state. Check the official details of any pass guarantee or retake policy before enrolling. Sometimes you only need a quick refresher in weaker areas before you test again.
 5.  Do all providers offer instructor support?  
     Not all. Some courses have limited instructor access, which may not be ideal if you prefer direct feedback. If real-time support is important to you, look for a program that provides Q&A forums, email support, or one-on-one sessions to keep your momentum going.
 
-You have many prelicense course choices, and picking the right one can feel like a big decision. The goal is to find an option that gives you a balanced combination of affordability, relevant content, reasonable access periods, and a strong pass guarantee. By focusing on these key factors, you can save time, energy, and stress on your path to becoming a licensed insurance professional.
+You have many prelicense course choices, and picking the right one can feel like a big decision. The goal is to find an option that gives you a balanced combination of affordability, relevant content, reasonable access periods, and, where available, a clearly documented pass guarantee. By focusing on these key factors, you can save time, energy, and stress on your path to becoming a licensed insurance professional.
 
 No matter where you are in your journey, a well-crafted prelicense program will help you approach test day feeling prepared and motivated. Use the guidelines above to narrow your shortlist, and remember to confirm your state’s specific rules before making a final choice. With the right course in hand, you will have the steady foundation you need to excel on the exam and start your insurance career strong.

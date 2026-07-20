@@ -36,8 +36,6 @@ Privacy and data security have become increasingly prominent content areas as in
 
 The upcoming legislative updates CE requirement (2 hours, effective July 31, 2027) will further reinforce the importance of staying current on Louisiana statutory developments as a core professional obligation. Ethics and current law are not separate subjects in Louisiana's market — they are deeply intertwined.
 
-## Ethics Requirements Compared to Other States
-
 ## How to Choose a Louisiana Ethics CE Course That Actually Serves You
 
 Three criteria matter when selecting a Louisiana ethics CE course. First, confirm the course is specifically approved by the LDI for ethics CE credit — not just general CE credit. The 3-hour ethics requirement must come from a designated ethics course. Second, choose a course that has been updated recently to reflect Louisiana's current regulatory environment, including the 2025 tort reform package and the Annuity Best Interest standard. Third, prioritize courses that use Louisiana-specific case studies and scenarios rather than generic industry content that could apply to any state.

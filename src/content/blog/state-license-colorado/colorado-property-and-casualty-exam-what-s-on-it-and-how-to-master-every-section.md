@@ -12,7 +12,7 @@ image: /blog/images/easy-steps-to-meet-colorado-insurance-license-requirements.j
 imageAlt: "Colorado Property and Casualty Exam: What's on It and How to Master Every Section"
 ---
 
-The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour [prelicensing](/colorado/prelicensing) course, its own Pearson VUE exam, and its own $47 application fee. You can sit for both in a single combined session at a physical Pearson VUE test center for one $41 exam fee, taking 120 minutes per exam back-to-back in a 240-minute total session. The content outline for each exam is published by Pearson VUE and effective January 1, 2024. This post maps every content area of both exams — general knowledge and Colorado state sections — with full topic detail and the specific strategy for the state section topics that most P&C candidates underprepare.
+The Colorado Property and Casualty licensing exams are two separate lines of authority — Property and Casualty — each with its own 50-hour [prelicensing](/colorado/prelicensing) course, its own Pearson VUE exam, and its own $47 application fee. You can sit for both in a single combined session at a physical Pearson VUE test center for one combined exam fee (confirm the current amount directly with Pearson VUE's Colorado candidate handbook), taking 120 minutes per exam back-to-back in a 240-minute total session. The content outline for each exam is published by Pearson VUE and effective January 1, 2024. This post maps every content area of both exams — general knowledge and Colorado state sections — with full topic detail and the specific strategy for the state section topics that most P&C candidates underprepare.
 
 ## The Two Exams at a Glance
 
@@ -276,7 +276,7 @@ Colorado-specific P&C topics that consistently surprise candidates: The claims-m
 
 Should I take Property and Casualty as separate exams or in one combined session?
 
-Taking both in a single combined session saves the $41 exam fee (one fee vs. two) and is the most cost-efficient approach. However, the combined session only makes sense if you are fully prepared for both exams. Each exam is 120 minutes long — the combined session is 240 minutes of consecutive testing, which is cognitively demanding. If your Property preparation is strong but your Casualty preparation needs more time, schedule them separately rather than risking the Casualty fail in the combined session. The financial saving from the combined session is modest; the cost of a failed Casualty attempt (additional exam fee, delay in licensing) is larger.
+Taking both in a single combined session saves you the cost of a second exam fee (one combined fee vs. two separate $48 fees — confirm the current combined-session amount with Pearson VUE) and is the most cost-efficient approach. However, the combined session only makes sense if you are fully prepared for both exams. Each exam is 120 minutes long — the combined session is 240 minutes of consecutive testing, which is cognitively demanding. If your Property preparation is strong but your Casualty preparation needs more time, schedule them separately rather than risking the Casualty fail in the combined session. The financial saving from the combined session is modest; the cost of a failed Casualty attempt (additional exam fee, delay in licensing) is larger.
 
 What is the difference between the BOP and the CPP, and why does it appear on the exam?
 

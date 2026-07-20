@@ -14,6 +14,8 @@ imageAlt: "How to Build a Six-Figure Insurance Income in New Jersey: A Realistic
 
 New Jersey is the fifth-highest-paying state for insurance agents in the country, with commercial lines producers averaging approximately $99,634 in total compensation and top earners — established independent producers with strong commercial books — clearing $200,000 or more annually. Six-figure income in NJ insurance is achievable. But the path to it is specific, and candidates who enter the industry without understanding what actually drives high-income outcomes in this market tend to spend years grinding at below-potential income levels before figuring out what the top producers already know. This post lays out exactly what distinguishes producers who reach $100,000+ from those who plateau at $50,000 to $60,000 — and what a realistic timeline to six figures looks like in New Jersey.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## Why New Jersey Is One of the Best States to Build Insurance Income
 
 New Jersey's income advantage for producers is structural, not accidental:

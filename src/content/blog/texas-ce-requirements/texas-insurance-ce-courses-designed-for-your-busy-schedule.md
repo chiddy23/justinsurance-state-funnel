@@ -66,7 +66,7 @@ You’ll find that maximizing your study time is as much about choosing the righ
 Below are answers to some of the most frequently asked questions about completing your Texas insurance continuing education requirements:
 
 1.  How many hours of CE do I need?  
-    Most Texas insurance licenses require 24 credit hours of CE per renewal cycle, including two hours of ethics or consumer protection. However, always verify specific requirements with the [Texas Department of Insurance](/texas/requirements).
+    Most Texas insurance licenses require 24 credit hours of CE per renewal cycle, including three hours of ethics or consumer protection. However, always verify specific requirements with the [Texas Department of Insurance](/texas/requirements).
 2.  Can I carry over extra credits?  
     Texas generally does not allow carryover credits from one renewal period to the next. Each cycle, you must earn the full 24 hours required.
 3.  Do I have to take an exam for every course?  

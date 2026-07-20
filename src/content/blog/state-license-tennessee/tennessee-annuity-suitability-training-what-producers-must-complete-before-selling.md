@@ -132,7 +132,7 @@ Tennessee's annuity suitability training follows the NAIC model regulation frame
 
 How reciprocity works: If a producer completed an annuity suitability training course in their home state that meets the NAIC model standards — typically a 4-hour course or equivalent — that completion is generally recognized by Tennessee for non-resident producers. Resident producers who held licenses in other states before establishing Tennessee residency and who completed equivalent training in their prior home state should verify with the TDCI whether that completion satisfies Tennessee's requirement or whether a new Tennessee-specific completion is needed.
 
-Verify before relying on out-of-state training: Do not assume that any prior annuity training automatically satisfies Tennessee's requirement. Contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov with specifics about the prior training — the state where completed, the course name and provider, the hours completed, and the completion date — to receive a determination before selling annuities in Tennessee based on out-of-state training.
+Verify before relying on out-of-state training: Do not assume that any prior annuity training automatically satisfies Tennessee's requirement. Contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov with specifics about the prior training — the state where completed, the course name and provider, the hours completed, and the completion date — to receive a determination before selling annuities in Tennessee based on out-of-state training.
 
 ## The Producer's Ongoing Best Interest Obligations After Training
 

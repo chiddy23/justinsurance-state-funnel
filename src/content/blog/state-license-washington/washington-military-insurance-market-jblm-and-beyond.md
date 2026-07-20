@@ -288,6 +288,8 @@ These federal laws affect which products you can offer and how
 
 Entry-level military insurance market: $55,000-$95,000 for producers building a primarily active duty supplemental coverage and life insurance practice
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 Established Medicare and LTC veteran practice: $90,000-$145,000 for producers serving veteran/retiree population with Medicare, LTC, and supplemental coverage
 
 Military financial planning integration: $130,000-$220,000+ for producers who develop genuine financial planning expertise around military retirement, SBP analysis, TSP rollovers, and comprehensive veteran planning

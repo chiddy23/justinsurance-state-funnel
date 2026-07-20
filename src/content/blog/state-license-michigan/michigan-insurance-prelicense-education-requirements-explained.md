@@ -66,7 +66,7 @@ After completing your PLE course, you must pass a Certification Exam:
 
 Passing score: 70% or greater
 
-Proctor requirement: None — the certification exam is not monitored
+Proctor requirement: Required — under Mich. Admin. Code R 500.5, self-study and online PLE courses must conclude with a passing final exam completed under a signed proctor affidavit from a disinterested third-party proctor
 
 Purpose: Certifies completion of the PLE requirement
 

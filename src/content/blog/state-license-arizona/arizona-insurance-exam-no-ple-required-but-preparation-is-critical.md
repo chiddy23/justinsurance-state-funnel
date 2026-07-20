@@ -75,7 +75,7 @@ Maximum 4 attempts per line of authority within a 12-month period
 
 After the 4th failed attempt: must wait one full year from the date of that last attempt before retesting
 
-Each retake costs $59 — four failed attempts = $236 in exam fees alone
+Each retake costs $50 — four failed attempts = $200 in exam fees alone
 
 Why this limit matters: Unlike states with unlimited retakes (Michigan) or no cooling-off periods, Arizona's limit means candidates who approach the exam underprepared risk locking themselves out for a full year. This makes adequate preparation before each attempt — particularly the first — significantly more valuable.
 
@@ -85,11 +85,11 @@ Strategic implication: Take the exam when you're genuinely ready. Don't rush to 
 
 ## Arizona Exam Specifications
 
-Current exam administrator: PSI Services (replaced the previous vendor effective September 1, 2025).
+Current exam administrator: PSI Services (replaced the previous vendor effective September 3, 2025).
 
 PSI website: test-takers.psiexams.com/anzins
 
-Exam fee: $59 per exam.
+Exam fee: $50 per exam.
 
 Single ID required: One valid government-issued photo ID with signature.
 
@@ -119,7 +119,7 @@ Background check requirements
 
 CE requirements (48 hours/4-year cycle, 6 hours ethics)
 
-License renewal (December 31 standardized renewal per HB 2054)
+License renewal (every 4 years, last day of your birth month)
 
 Relocating producer provisions
 
@@ -274,7 +274,7 @@ Ignoring Arizona's unique CE structure. Arizona's 48-hour/4-year CE cycle appear
 - Why doesn't Arizona require PLE? Arizona's regulatory philosophy favors market accessibility. The state has never required PLE for insurance producer licensure, reflecting confidence that exam-based competency assessment plus ongoing CE requirements are sufficient to maintain professional standards.
 - What's the most important thing to know about Arizona's passing score? Both the General Knowledge section and the Arizona State Law section must independently score 70% or higher. Scores are not averaged. A strong General score cannot compensate for a failing State section.
 - What are the most tested Arizona-specific topics? DIFI authority and licensing requirements, Arizona unfair trade practices, Arizona Guaranty Association limits ($300K life, $250K annuity, $500K health), Arizona free-look periods (10/20/30 days), replacement regulations, annuity suitability, and the 4-year/48-hour CE framework.
-- What happens after my fourth failed attempt in a year? You must wait one full year from the date of your last attempt before retesting on that line of authority (A.R.S. § 20-284). Each attempt costs $59 — four failed attempts costs $236 in exam fees.
+- What happens after my fourth failed attempt in a year? You must wait one full year from the date of your last attempt before retesting on that line of authority (A.R.S. § 20-284). Each attempt costs $50 — four failed attempts costs $200 in exam fees.
 - Can I take the Arizona exam online? Yes. Arizona offers remote proctored testing through PSI Bridge. Check system compatibility at syscheck.bridge.psiexams.com before scheduling. Remote testing requires a compatible computer, webcam, and quiet private environment.
 
 ## Prepare for Arizona's Distinctive Exam

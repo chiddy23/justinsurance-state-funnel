@@ -27,7 +27,7 @@ Colorado requires that you complete [Colorado insurance prelicensing](/colorado/
 
 Exam content is separated into distinct sections, so it’s helpful to know what percentage of the test each topic usually takes up. This knowledge allows you to prioritize your study time on areas that carry the most weight. You’ll also face questions designed to test your ability to apply insurance concepts to hypothetical scenarios. Concepts like underwriting, risk management, and claims processes are central to the exam, so expect to see those woven through many questions.
 
-Take time to read the Department of Regulatory Agencies (DORA) guidelines, which outline the administrative requirements for getting licensed. Staying informed about application fees, fingerprinting, and scheduling procedures helps minimize last-minute surprises and prevents delays on your path to becoming a licensed agent.
+Take time to read the Department of Regulatory Agencies (DORA) guidelines, which outline the administrative requirements for getting licensed. Staying informed about application fees, background-check disclosures, and scheduling procedures helps minimize last-minute surprises and prevents delays on your path to becoming a licensed agent.
 
 ## Plan your study approach
 
@@ -67,9 +67,9 @@ Challenging yourself with a variety of these questions is one of the best ways t
 Below are common questions about the Colorado property and casualty license process. Use them as a quick reference guide as you move forward.
 
 1.  What are the eligibility requirements?  
-    You generally need to meet the minimum age requirement (usually 18) and complete an approved [pre-licensing](/colorado/prelicensing) course. You must also pass a fingerprint-based background check, which helps ensure the integrity of licensed agents in Colorado.
+    You generally need to meet the minimum age requirement (usually 18) and complete an approved [pre-licensing](/colorado/prelicensing) course. You must also complete a background check via self-disclosure on your NIPR application — Colorado does not require fingerprinting.
 2.  How long does the pre-licensing course take?  
-    The length can vary, but for property and casualty lines, you’ll usually complete around 40 hours of coursework. Some people spread it over several weeks, while others use an accelerated format to finish more quickly.
+    Property and Casualty are each separate 50-hour lines of authority in Colorado, so completing both takes 100 hours of coursework total. Some people spread it over several weeks, while others use an accelerated format to finish more quickly.
 3.  Can I retake the exam if I fail?  
     Yes, you can retake the exam. However, you’ll need to pay a re-examination fee, so it’s beneficial to be as prepared as possible before your first attempt. Use practice tests, review notes, and focus on your weakest areas before you go for a retake.
 4.  When will I receive my exam results?  

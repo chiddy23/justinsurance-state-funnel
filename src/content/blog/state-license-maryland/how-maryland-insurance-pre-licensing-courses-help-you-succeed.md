@@ -21,9 +21,9 @@ By learning core insurance principles and state requirements in a supportive env
 
 ## Understand [Maryland licensing](/maryland/requirements) basics
 
-Maryland, like all states, mandates that prospective insurance producers complete a designated number of pre-licensing hours for each line of authority. Common lines of authority include Life & Health and Property & Casualty. Completing these prerequisites ensures you have the foundational knowledge required to serve clients ethically and responsibly.
+Unlike many states, Maryland does not mandate that prospective insurance producers complete pre-licensing hours for any line of authority — that requirement was eliminated effective October 1, 2024. Even so, many candidates choose an optional pre-licensing course covering common lines of authority like Life & Health and Property & Casualty, since it builds the foundational knowledge that helps you serve clients ethically and responsibly.
 
-In most cases, you can enroll in in-person or online classes. Both formats meet the state’s hour requirements and tend to feature study guides, [practice questions](/maryland/practice-exam), and exam simulations. Maryland’s Office of the Commissioner sets the rules, so you know your education will be relevant and up-to-date. It’s a good idea to double-check the latest guidelines on official state resources before getting started so you always follow the current standards.
+In most cases, you can enroll in in-person or online classes. Both formats tend to feature study guides, [practice questions](/maryland/practice-exam), and exam simulations even though neither is required by the state. The Maryland Insurance Administration sets the exam and licensing rules, so it's a good idea to double-check the latest guidelines on official state resources before getting started so you always follow the current standards.
 
 ## Boost your exam readiness
 
@@ -103,13 +103,13 @@ When selecting a program, think carefully about how you learn best. If you value
 Below are some common questions about Maryland insurance pre-licensing courses to help you feel more comfortable as you begin your journey.
 
 1.  What lines of insurance require pre-licensing in Maryland?  
-    Maryland requires pre-licensing for major lines like Life & Health and Property & Casualty. Depending on the type of license you want, you’ll need to complete the respective mandatory hours before sitting for the state exam.
-2.  How do online courses verify my required study hours?  
-    Many online programs use learning management systems that track the time you spend in each module. Once you reach the required threshold, you typically get a course completion certificate.
+    None. Maryland eliminated its pre-licensing mandate effective October 1, 2024, so no line of authority — including Life & Health and Property & Casualty — requires it before sitting for the state exam. Optional courses are still available if you want structured exam prep.
+2.  How do online courses track my study time?  
+    Many online programs use learning management systems that track the time you spend in each module. Once you finish the course, you typically get a completion certificate you can keep for your own records, even though Maryland doesn't require you to submit it.
 3.  Are practice tests included?  
     Most reputable providers include practice tests that mimic the question format and exam environment. These resources help you identify areas needing improvement before test day.
 4.  Can I retake the pre-licensing course if I don’t pass the exam?  
-    Yes, but it’s usually better to focus on targeted review before retaking the entire course. Look for programs with pass guarantees or those offering extended access to course materials so you can reinforce weak topics.
+    Yes, but it’s usually better to focus on targeted review before retaking the entire course. Look for programs offering extended access to course materials or free re-enrollment windows so you can reinforce weak topics.
 5.  Will completing a pre-licensing course guarantee I pass?  
     There’s never a 100% guarantee, but completing a well-structured course significantly improves your likelihood of passing. You’ll also receive professional guidance on exam strategies, which can be invaluable when you’re facing a timed test.
 

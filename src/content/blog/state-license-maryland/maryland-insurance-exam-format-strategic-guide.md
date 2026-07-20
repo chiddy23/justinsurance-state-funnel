@@ -74,7 +74,7 @@ For Life/A&H candidates:
 
 MIA: dedicated insurance regulator; Commissioner authority; Bulletin 24-19 (Oct 2024 PLE elimination)
 
-Producer licensing: no PLE; $60 Prometric exam; 6-month score validity; 4-day retake; $54 NIPR; no fingerprinting; 7-10 business days; renewal $69; CE 24 hrs/3 Ethics/no carryover
+Producer licensing: no PLE; $60 Prometric exam; 6-month score validity; 4-day retake; $54 NIPR; no fingerprinting; 7-10 business days; renewal $69 ($54 + $15 fraud prevention); CE 24 hrs/3 Ethics/no carryover
 
 Maryland Health Connection — state-based ACA exchange (NOT Healthcare.gov)
 

@@ -46,13 +46,13 @@ North Carolina's shorter exam: At 55 questions per exam with a 1-hour-15-minute 
 
 ### Exam Fees
 
-North Carolina has the lowest exam fee of the three states — $45 per line regardless of testing format. Georgia is the most expensive exam — $63 per line. Tennessee falls in the middle. For a candidate taking all four major lines remotely, the exam fee difference is meaningful:
+North Carolina has the lowest exam fee of the three states — $45 per line regardless of testing format. Georgia is the most expensive exam — $67 per line. Tennessee falls in the middle. For a candidate taking all four major lines remotely, the exam fee difference is meaningful:
 
 ### Retake Policies
 
-Tennessee: Unlimited retakes, no waiting period between attempts. Each retake costs the full exam fee.
+Tennessee: Unlimited retakes — no cap on the number of attempts — but a mandatory waiting period between attempts: 10 days after your first failure, 30 days after each subsequent failure. Each retake costs the full exam fee.
 
-Georgia: Retakes require a waiting period and returning to prelicensing completion — the 8-hour course must be retaken and a new certificate obtained before retaking the state exam. This is a significantly more demanding retake process than Tennessee's and creates a real cost of failure beyond just the retake exam fee.
+Georgia: Unlimited retakes with no forced return to prelicensing, but the waiting period escalates — 14 days after your first or second failure, 60 days after your third and any subsequent failure. This is a longer wait than Tennessee's, especially after multiple failures, and creates a real cost of failure beyond just the retake exam fee.
 
 North Carolina: A 24-hour waiting period between attempts. If a candidate fails five times or exceeds 90 days from application, they must restart the process — submitting a new NIPR application and completing any applicable prelicensing before retesting. The 5-attempt limit within the 90-day application window creates meaningful pressure to prepare thoroughly before the first attempt.
 
@@ -112,17 +112,17 @@ All three states require 24 CE hours including 3 ethics per biennial period with
 
 ### Grace Periods and Late Renewal
 
-Tennessee's 30-day grace period is twice as long as Georgia's 15-day window — a meaningful operational advantage for producers who miss renewal deadlines. North Carolina's perpetual license eliminates the renewal deadline entirely, replacing it with the CE completion deadline.
+Tennessee's 60-day grace period is longer than Georgia's 15-day window — a meaningful operational advantage for producers who miss renewal deadlines. North Carolina's perpetual license eliminates the renewal deadline entirely, replacing it with the CE completion deadline.
 
 ## The Master Comparison Table
 
 ## Which State Is Easiest to Get Licensed In?
 
-Tennessee has the lowest total initial cost, the simplest fingerprinting process through IdentoGO, the most forgiving retake policy (unlimited, no wait, no prelicensing redo), and the longest grace period for missed renewals. The 48-hour post-exam application wait is a minor inconvenience but creates a predictable, manageable sequence. For candidates who want the fastest and most affordable path to licensure with the most forgiving retake policy, Tennessee is the most accessible of the three.
+Tennessee has the lowest total initial cost, the simplest fingerprinting process through IdentoGO, no cap on the number of retake attempts and no forced return to prelicensing on retakes (only a 10-day-then-30-day wait between attempts), and the longest grace period for missed renewals. The 48-hour post-exam application wait is a minor inconvenience but creates a predictable, manageable sequence. For candidates who want the fastest and most affordable path to licensure with an uncapped, prelicensing-free retake structure, Tennessee is the most accessible of the three.
 
 North Carolina has the lowest exam fees and no renewal fees, making it the least expensive to maintain over a career. However, the application-first requirement — submitting to NIPR before scheduling the exam — is a sequencing reversal that trips up candidates accustomed to other states' processes. The law enforcement fingerprinting process is the most logistically complex of the three, and the 5-attempt limit within a 90-day window creates meaningful pressure for thorough preparation before the first attempt.
 
-Georgia has the highest total initial cost, the most demanding retake policy (failed attempts require returning to prelicensing), the unique citizenship affidavit requirement, and the shortest grace period for missed renewals. However, Georgia's first-period CE exemption benefits new licensees, and the 8-hour prelicensing requirement — while mandatory — is one of the shortest in the country and completable in a single focused day.
+Georgia has the highest total initial cost, an escalating retake wait (14 days for the first two failures, 60 days after a third or subsequent failure), the unique citizenship affidavit requirement, and the shortest grace period for missed renewals. However, Georgia's first-period CE exemption benefits new licensees, and the 8-hour prelicensing requirement — while mandatory — is one of the shortest in the country and completable in a single focused day.
 
 ## Frequently Asked Questions
 
@@ -138,6 +138,6 @@ Georgia requires a notarized citizenship affidavit that Tennessee and North Caro
 
 In practice, notarization is a minor logistical step rather than a significant obstacle for most candidates. Form GID-276-EN is a one-page document available from the Georgia OCI website. It requires a notary's signature and seal — obtainable at most banks, UPS Stores, FedEx Office locations, and dedicated notary services for $10–$20. As of September 2025, Georgia confirmed that online notaries are accepted, further reducing the friction. The step adds a day or two to the process — complete the form, find a notary, submit with your Sircon application — but does not create substantial difficulty for most applicants. The more meaningful operational awareness for Georgia candidates is that resident applications now route through Sircon rather than NIPR as of April 1, 2026 — the portal change is the more practically impactful recent development for candidates accustomed to NIPR from other states' licensing processes.
 
-Tennessee, Georgia, and North Carolina each offer accessible pathways to an insurance producer license — all three have eliminated or dramatically reduced mandatory prelicensing within the past two years, all three use Pearson VUE, and all three follow the NAIC model law framework that makes multi-state licensing manageable through home state CE reciprocity. The differences that matter most for career planning are the retake policies — Tennessee's unlimited no-wait policy versus Georgia's prelicensing-redo requirement versus North Carolina's 5-attempt limit — the fingerprinting process logistics, and the application sequencing that North Carolina uniquely requires before the exam. Candidates who understand these differences before beginning avoid the process errors that cause delays and additional costs.
+Tennessee, Georgia, and North Carolina each offer accessible pathways to an insurance producer license — all three have eliminated or dramatically reduced mandatory prelicensing within the past two years, all three use Pearson VUE, and all three follow the NAIC model law framework that makes multi-state licensing manageable through home state CE reciprocity. The differences that matter most for career planning are the retake policies — Tennessee's uncapped attempts with a 10-day-then-30-day wait versus Georgia's uncapped attempts with a 14-day-then-60-day wait versus North Carolina's 24-hour wait but 5-attempt/90-day limit that forces a prelicensing redo — the fingerprinting process logistics, and the application sequencing that North Carolina uniquely requires before the exam. Candidates who understand these differences before beginning avoid the process errors that cause delays and additional costs.
 
 Visit JustInsurance to enroll today and complete your Tennessee exam prep with a state-approved course — the foundation for a licensing process that is among the most accessible in the Southeast.

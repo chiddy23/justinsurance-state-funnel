@@ -78,11 +78,11 @@ Unfair Claims Settlement Practices. Rules governing how claims must be handled b
 
 Free-Look Periods. Oregon requires free-look periods on life insurance and annuity contracts.
 
-Long-Term Care Insurance Standards. Specific rules for LTC sales, including the one-time 8-hour training and 4-hour ongoing training every 2 years.
+Long-Term Care Insurance Standards. Oregon has specific rules for LTC sales, including special training obligations for producers who sell LTC products. Oregon DFR has not published a single standardized hour count for this training — confirm current requirements directly with the DFR before selling LTC.
 
-Annuity Best Interest Standard. Oregon requires producers to complete a one-time 4-hour Annuity Best Interest training before selling annuities.
+Annuity Best Interest Standard. Oregon requires producers to complete Annuity Best Interest training before selling annuities, consistent with the NAIC Best Interest model. Confirm the current hour requirement and deadline with the Oregon DFR, since it is not uniformly published.
 
-Flood Insurance Requirements. Producers selling NFIP flood insurance need one-time 3-hour training plus ongoing flood-related CE.
+Flood Insurance Requirements. Producers selling NFIP flood insurance should confirm whether Oregon currently requires specific flood-related training or CE, since Oregon DFR has not published a single standardized requirement — check directly with the DFR before relying on a specific hour count.
 
 Privacy and Information Protection. How you collect, store, and share client information is regulated under both Oregon law and federal frameworks like HIPAA and GLBA.
 
@@ -108,7 +108,7 @@ Oregon's insurance regulatory environment has seen ongoing developments:
 
 Annuity Best Interest standard adoption. Oregon's annuity training requirements reflect the NAIC Best Interest model, requiring producers to act in clients' best interests when recommending annuities.
 
-Flood insurance training updates. OAR 836-071-0215 includes specific flood-related CE requirements for producers selling NFIP coverage.
+Flood insurance training. Producers selling NFIP flood coverage should verify current flood-related training or CE requirements directly with the Oregon DFR, since a single standardized rule is not publicly posted.
 
 Continuing education refinement. Oregon's specific 3-hour Oregon law CE requirement reflects a commitment to producer regulatory awareness.
 

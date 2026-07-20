@@ -16,6 +16,8 @@ A six-figure insurance income in Tennessee is achievable — but it is not autom
 
 This post covers the specific, Tennessee-grounded strategy for building a six-figure insurance income: what the math actually looks like at each career stage, which lines and niches produce the highest income per unit of producer time, how renewal income compounds into a self-sustaining income floor, and what the producers who reach $100,000 do differently from those who plateau.
 
+⚠️ Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
+
 ## The Income Mechanics: How Insurance Producers Actually Earn
 
 Most professions pay a salary that grows incrementally with experience. Insurance producer income works differently — it is the sum of new business commissions earned this year plus renewal commissions on every policy placed in prior years that remains in force. This structure creates three distinct income phases.

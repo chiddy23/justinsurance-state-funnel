@@ -28,9 +28,9 @@ This score report is valuable. It tells you exactly which sections you underperf
 
 ## Texas Exam Retake Rules
 
-Waiting period: You must wait 24 hours before scheduling a retake. There's no extended cooling-off period in Texas — you can book your next attempt as early as the following day.
+Waiting period: There's no mandatory waiting period in Texas — you can typically schedule your next available test date right away.
 
-Retake fee: Each attempt requires a new registration and exam fee paid to Pearson VUE. As of the most recent fee schedule, this is approximately $43 per attempt. Confirm the current fee at pearsonvue.com when registering.
+Retake fee: Each attempt requires a new registration and exam fee paid to Pearson VUE. The current exam fee is $39 per attempt. Confirm the current fee at pearsonvue.com when registering.
 
 Number of attempts: Texas does not cap the number of times you can retake the exam. You can keep attempting until you pass — but each attempt costs money, so treating each retake seriously pays off.
 
@@ -50,8 +50,8 @@ Consider where your study approach broke down. Were you spending enough time on 
 
 ## 5 Frequently Asked Questions
 
-- How soon can I retake the Texas insurance exam? You can retake it after 24 hours. That said, booking it too quickly without additional preparation usually leads to another failed attempt.
-- Do I have to redo my [prelicense](/texas/prelicensing) course before retaking? No. Your 40-hour prelicense completion remains valid. You only need to pay the retake fee and schedule a new exam appointment.
+- How soon can I retake the Texas insurance exam? There's no mandatory waiting period — you can typically book your next attempt right away. That said, booking it too quickly without additional preparation usually leads to another failed attempt.
+- Do I have to redo a [prelicense](/texas/prelicensing) course before retaking? No — prelicensing is optional in Texas either way, so if you completed one it remains valid for reference. You only need to pay the retake fee and schedule a new exam appointment.
 - Will a failed attempt show up on my license application? No. TDI's application process looks at your most recent passing result, not your full attempt history.
 - Is there a limit to how many times I can retake the exam in Texas? Texas does not impose a maximum number of attempts. There is no point at which TDI bars you from trying again.
 - What if I keep failing? Is there additional help available? Yes. If you're struggling after multiple attempts, it's worth revisiting your study materials and switching your approach to more practice-focused preparation. A different course format may also help if your current one isn't clicking.

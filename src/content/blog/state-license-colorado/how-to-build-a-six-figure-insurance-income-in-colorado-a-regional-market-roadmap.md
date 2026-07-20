@@ -14,6 +14,8 @@ imageAlt: "How to Build a Six-Figure Insurance Income in Colorado: A Regional Ma
 
 Six figures in Colorado insurance income is not an aspirational ceiling — it is a realistic milestone for producers who make deliberate choices about market, line, structure, and timeline. The producers who reach it consistently are not the ones who worked harder than everyone else in year one. They are the ones who chose the right market for their network, selected the right lines for that market, built the right carrier relationships, and sustained the book-building discipline long enough for renewal income to compound. This post is the roadmap: which Colorado markets produce six-figure incomes, which lines generate them fastest, what the realistic timeline looks like in each path, and what the producers who succeed do differently from those who plateau.
 
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 ## The Colorado Six-Figure Threshold: What It Actually Requires
 
 Six figures in personal insurance income requires enough commission-generating book of business to produce $100,000 in annual commission after any agency split. Working backward from that target clarifies the scale of book required:

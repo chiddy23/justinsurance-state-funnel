@@ -102,7 +102,7 @@ Exam questions also cover:
 
 - Fingerprinting and background check rules
 
-- The 5-hour Law and Ethics CE requirement for every 2-year renewal cycle
+- The 4-hour Law and Ethics CE requirement for every 2-year renewal cycle
 
 - License renewal cycles and deadlines
 

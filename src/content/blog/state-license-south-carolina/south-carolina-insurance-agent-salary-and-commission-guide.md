@@ -24,6 +24,10 @@ Here's an honest breakdown of South Carolina insurance agent income.
 
 South Carolina insurance agents typically earn between $40,000 and $80,000 in their first few years, with experienced agents regularly reaching $95,000 to $180,000 once they've built a solid book of business. Top producers and agency owners can earn $200,000 to $400,000+ annually.
 
+These figures describe commission-based earning potential tied to book-of-business size and specialization, which is why they run higher than broad, statewide labor-statistics averages for insurance sales agents — both describe real but different things.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
+
 When combined with South Carolina's relatively low cost of living and favorable tax environment for retirees and middle-income earners, these income levels translate to strong real take-home value.
 
 ## How Insurance Income Works in South Carolina
@@ -63,6 +67,8 @@ Bluffton. Rapidly growing community near Hilton Head with substantial retiree mi
 Rock Hill. Charlotte-area suburb growing rapidly. Established Rock Hill agents commonly earn $85,000-$160,000+.
 
 Smaller markets and rural South Carolina. Lower cost of living significantly affects practical income. Established rural SC agents commonly earn $70,000-$130,000+.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 ## What Drives South Carolina Income
 
@@ -143,8 +149,8 @@ Each model has different income trajectories and lifestyle implications.
 - Is South Carolina a good state for insurance agent income? Yes. The combination of moderate income tax, low cost of living, substantial coastal property opportunity, retiree migration, and growing metro markets creates strong real income value for capable agents.
 - How long does it take to earn a full-time income as a South Carolina insurance agent? Most serious agents reach full-time income levels within 12-24 months. Agents with strong networks or niche focus (coastal property, retiree markets) can accelerate this timeline.
 - Do South Carolina agents pay state income tax on commissions? Yes. South Carolina has state income tax with a top rate of 6.4%. Moderate compared to high-tax states.
-- What's a realistic first-year income for a new South Carolina agent? Most new agents earn between $38,000 and $75,000 in year one depending on agency structure, product mix, and work ethic.
-- Can I earn over $150,000 as a South Carolina insurance agent? Yes, consistently. Many established South Carolina agents earn $150,000+ annually, particularly those serving coastal property, high-net-worth, or specialty markets. Top producers earn substantially more.
+- What's a realistic first-year income for a new South Carolina agent? Most new agents earn between $38,000 and $75,000 in year one depending on agency structure, product mix, and work ethic. *(Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.)*
+- Can I earn over $150,000 as a South Carolina insurance agent? Yes, consistently. Many established South Carolina agents earn $150,000+ annually, particularly those serving coastal property, high-net-worth, or specialty markets. Top producers earn substantially more. *(Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.)*
 
 ## Start Your South Carolina Insurance Income Right
 

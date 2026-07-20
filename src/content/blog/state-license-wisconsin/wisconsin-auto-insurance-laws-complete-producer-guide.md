@@ -44,7 +44,7 @@ Average 3-year-old used vehicle: $25,000-$35,000
 
 A Wisconsin driver with minimum $10,000 PD who totals a $45,000 vehicle faces $35,000+ personal exposure
 
-Advisory recommendation: 100/300/100 or higher — at a minimal premium premium increase for dramatically better protection.
+Advisory recommendation: 100/300/100 or higher — at a minimal premium increase for dramatically better protection.
 
 ## Wisconsin's Modified Comparative Negligence (Wis. Stat. § 895.045)
 

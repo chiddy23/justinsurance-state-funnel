@@ -20,15 +20,15 @@ One of the first questions people ask is: how long is this actually going to tak
 
 ## The 5 Steps and How Long Each Takes
 
-Step 1: Complete [Prelicense](/texas/prelicensing) Education — 1 to 3 weeks
+Step 1: Consider [Prelicense](/texas/prelicensing) Education (Optional) — 1 to 3 weeks
 
-Texas requires 40 hours of approved prelicense education. If you study consistently — a few hours a day — most people finish in 1 to 2 weeks. If you're fitting it around a full-time job, budget closer to 3 weeks.
+Texas does not require prelicense education, but many candidates opt for a 40-hour approved course to prepare. If you study consistently — a few hours a day — most people finish in 1 to 2 weeks. If you're fitting it around a full-time job, budget closer to 3 weeks.
 
-Don't try to rush this by cramming 40 hours into a weekend. The exam will test whether you actually understood the material.
+If you do take a course, don't try to rush it by cramming 40 hours into a weekend. The exam will test whether you actually understood the material.
 
-Step 2: Schedule and Pass the Exam — 3 to 10 days after finishing your course
+Step 2: Schedule and Pass the Exam — 3 to 10 days after finishing your course (or whenever you feel ready)
 
-Pearson VUE testing center appointments are usually available within a few days of completing your course. The exam itself takes under 3 hours. You get your results immediately after finishing.
+Pearson VUE testing center appointments are usually available within a few days. The exam itself takes under 3 hours. You get your results immediately after finishing.
 
 Step 3: Get Fingerprinted — 1 to 5 days
 
@@ -60,14 +60,14 @@ The best way to stay on schedule is to move through each step without unnecessar
 
 ## 5 Frequently Asked Questions
 
-- Can I schedule my exam before I finish my prelicense course? Yes — and it's actually a smart move. Booking your exam slot while still studying creates a deadline that keeps you focused.
+- Can I schedule my exam before I finish my prelicense course? Yes — and it's actually a smart move. Booking your exam slot while still studying creates a deadline that keeps you focused. (Remember, prelicensing itself is optional in Texas.)
 - Does fingerprinting have to happen before or after the exam? Either order works. Many applicants schedule fingerprinting and the exam around the same time to avoid waiting.
-- What if I fail the exam? How much does that add to my timeline? Each retake requires a new registration and a waiting period. Plan for at least 1 to 2 additional weeks per failed attempt.
+- What if I fail the exam? How much does that add to my timeline? Texas has no mandatory waiting period between attempts, but each retake requires a new registration. Plan for at least 1 to 2 additional weeks to review before retesting.
 - Is there an expiration on my exam results? Yes. In Texas, your exam results are valid for 1 year. You need to apply for your license within that window.
 - Can I start selling insurance while my application is being reviewed? No. You must have an active, issued license before conducting any insurance business in Texas.
 
 ## Don't Let the Timeline Drag
 
-The biggest time-waster in the licensing process is a slow start through the prelicense course. At JustInsurance, our Texas prelicense course is designed to help you move efficiently — with clear modules, practice exams, and everything you need to pass the first time.
+The biggest time-waster in the licensing process is a slow, unfocused prep period. At JustInsurance, our Texas prelicense course is designed to help you move efficiently — with clear modules, practice exams, and everything you need to pass the first time.
 
 Start today and be licensed in as little as 4 weeks.

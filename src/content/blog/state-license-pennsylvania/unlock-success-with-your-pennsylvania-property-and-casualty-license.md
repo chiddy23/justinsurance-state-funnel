@@ -26,9 +26,9 @@ Most importantly, you must be at least 18 years old to qualify for any insurance
 
 If you’re in doubt about your background or any specific eligibility questions, reach out to the [Pennsylvania Insurance Department](/pennsylvania/requirements). They’re your official resource for clarifying the guidelines and ensuring you start on the right foot. By confirming you meet every requirement, you’ll avoid wasting time or money on classes and exam fees only to learn you were never eligible in the first place.
 
-## Complete your pre-licensing education
+## Consider pre-licensing education (optional)
 
-The next step to earning your Pennsylvania property and casualty license is registering for the required [pre-licensing](/pennsylvania/prelicensing) education. Pennsylvania mandates a set number of [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) hours before you can sit for the state exam. The exact number of hours can vary, so you’ll want to confirm the current requirements with an approved education provider.
+Pennsylvania Act 142 of 2024 (effective April 29, 2025) eliminated the prelicense education requirement, so you can go straight to the state exam without taking a [pre-licensing](/pennsylvania/prelicensing) course. Even so, many candidates opt into [Pennsylvania insurance prelicensing](/pennsylvania/prelicensing) coursework to prepare, since the exam covers substantial Pennsylvania-specific content. If you choose a course, confirm its hours and content with an approved education provider.
 
 Once you’ve verified how many hours you need, choose a program that fits your schedule and learning style. Some people thrive in an online course environment, where you can study whenever you have free time. Others prefer an in-person classroom setting with live instruction and immediate feedback. Reputable providers like JustInsurance can guide you through the essentials, from risk management principles to policy details, ensuring you’re thoroughly prepared for the final exam.
 
@@ -36,7 +36,7 @@ Remember that these courses focus on practical knowledge, introducing the polici
 
 ## Schedule and pass the exam
 
-Once you’ve finished your pre-licensing coursework, you’re ready for the real challenge: passing the official Pennsylvania property and casualty exam. Begin by choosing a date and location through the state’s authorized testing service. Available testing locations span Pennsylvania, so it’s usually easy to find a site close to home. However, weekend and evening spots may fill up quickly, so book your seat as soon as you know you’re ready.
+Once you’ve finished your exam prep — whether through a pre-licensing course or your own study — you’re ready for the real challenge: passing the official Pennsylvania property and casualty exam. Begin by choosing a date and location through the state’s authorized testing service. Available testing locations span Pennsylvania, so it’s usually easy to find a site close to home. However, weekend and evening spots may fill up quickly, so book your seat as soon as you know you’re ready.
 
 On exam day, plan to arrive early. That way, you’ll have time to relax, check in, and gather your thoughts without feeling rushed. The test is typically administered on a computer, and it will consist of multiple-choice questions covering both broad insurance concepts and Pennsylvania-specific regulations. Keep in mind that you don’t have to be perfect. A passing score is all you need to move forward in the licensing process.
 

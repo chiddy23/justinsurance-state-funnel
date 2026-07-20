@@ -47,6 +47,8 @@ Illinois insurance pre-licensing courses are available in different formats, so 
 -   Online self-paced courses. These allow you to study at your convenience. If you are juggling other responsibilities, an online format lets you learn whenever you find the time, whether that is early morning or late at night.
 -   Hybrid programs. Some companies offer a blend of virtual learning with occasional live workshops or webinars. This format can provide more structure than purely online courses, while still fitting around a busy schedule.
 
+Whichever format appeals to you, keep in mind that Illinois requires 7.5 of the 20 prelicensing hours for each line of authority to be completed through live classroom or webinar instruction with verified attendance (50 Ill. Adm. Code 3119) — a purely self-paced course cannot satisfy the full requirement on its own, though the remaining hours may be completed by self-study.
+
 A crucial factor when choosing a course is to confirm that it is state-approved. Not every education provider meets Illinois’s standards, and investing in an unapproved course could leave you unable to sit for the exam.
 
 ## Know the exam details

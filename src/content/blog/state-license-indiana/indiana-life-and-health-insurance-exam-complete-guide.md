@@ -70,7 +70,7 @@ Common to all IN exams:
 
 IDOI: Indiana Department of Insurance; Commissioner Amy L. Beard; 311 West Washington Street, Suite 103, Indianapolis, IN 46204-2787; 317-232-2389; [email protected]; in.gov/idoi
 
-IC 27-1-15.6: Producer licensing statute; PLE 20 hrs/line; 6-month certificate validity; bring Certificate to exam; $69 Pearson VUE; 70%; 48-hr retake; 1 OnVUE attempt; Gemalto fingerprint ~$47.35; $40 NIPR application; 5-7 business day processing; 180-day temp license; renewal 2 years/$40; late fee $160; CE 24 hrs/3 Ethics; professional org up to 2 hrs CE
+IC 27-1-15.6: Producer licensing statute; PLE 20 hrs/line; 6-month certificate validity; bring Certificate to exam; $69 Pearson VUE; 70%; 48-hr retake; 1 OnVUE attempt; no fingerprinting (self-disclosure on NIPR application only); $40 NIPR application; 5-7 business day processing; 180-day temp license; renewal 2 years/$40; late fee $160; CE 24 hrs/3 Ethics; professional org up to 2 hrs CE
 
 Unfair practices: Indiana insurance unfair trade practices by name
 
@@ -78,7 +78,7 @@ IDOI exam partnership: Pearson VUE + Ivy Tech Community College + military sites
 
 Life-specific state section:
 
-Annuity Best Interest (760 IAC 1-72-4.5; eff. July 1, 2024): One-time 4-hour training before selling annuities; life line producers; within 6 months of rule effective date or obtaining life line; contact brwalters@idoi.in.gov
+Annuity Best Interest (760 IAC 1-72-4.5; eff. July 1, 2024): One-time 4-hour training before selling annuities; life line producers; within 6 months of rule effective date or obtaining life line; contact AgentLicensing@idoi.in.gov
 
 Indiana replacement regulations
 

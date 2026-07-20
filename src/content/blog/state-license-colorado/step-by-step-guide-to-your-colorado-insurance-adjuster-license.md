@@ -57,7 +57,7 @@ If you don’t pass on your first attempt, don’t get discouraged—you’re al
 
 ## Apply for your license
 
-Once you pass the exam, you’ll submit your official application to the Colorado Department of Insurance. This step typically involves paying a licensing fee and providing proof of your exam results. At some point, you’ll also undergo the fingerprinting and background check process if you haven’t already. Once the state processes your information, you can expect to receive your Colorado insurance adjuster license in electronic form.
+Once you pass the exam, you’ll submit your official application to the Colorado Department of Insurance. This step typically involves paying a licensing fee and providing proof of your exam results. At some point, you’ll also complete the background check process via self-disclosure on your application if you haven’t already — Colorado does not require fingerprinting. Once the state processes your information, you can expect to receive your Colorado insurance adjuster license in electronic form.
 
 Remember to keep your contact information updated with the Department of Insurance. If you move, change your name, or switch jobs, you should notify them promptly. Staying on top of basic administrative details helps you avoid potential fines or delays in renewing your license down the road.
 

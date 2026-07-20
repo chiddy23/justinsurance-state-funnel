@@ -1,8 +1,8 @@
 ---
 title: Take Control of Your Insurance Agent Lead Generation Journey
 description: >-
-  Insurance agent lead generation: what agents actually earn, commission
-  structures, income by specialty, and how to increase your earnings in 2026.
+  Insurance agent lead generation: traditional networking, building an online
+  presence, encouraging referrals, and nurturing leads into paying clients.
 keyword: insurance agent lead generation
 targetKeywords: insurance agent lead generation
 cluster: insurance-agent-career-guide

@@ -46,7 +46,7 @@ Life insurance: Group life through Edward Jones is typically 1-2x salary — ins
 
 Disability income: Own-occupation disability for financial advisors and executives — protecting the specific ability to advise clients is the most important coverage for this community
 
-Annuity rollover: Edward Jones professionals who leave the firm or retire carry 401(k)/profit-sharing balances requiring Annuity Best Interest-certified rollover advisory
+Annuity rollover: Edward Jones professionals who leave the firm or retire carry 401(k)/profit-sharing balances that may involve annuity rollover advisory — confirm with the Missouri DCI whether any specialty training currently applies before advising on annuity products
 
 LTC planning: Senior Edward Jones executives with significant wealth have genuine LTC planning needs
 

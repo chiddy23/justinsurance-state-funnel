@@ -26,7 +26,7 @@ CE not completed: The producer submitted the renewal application but CE was not 
 
 Renewal fee not paid: The renewal application was submitted but payment was not completed successfully. A failed payment transaction results in an unprocessed renewal application and a lapsed license.
 
-What does not cause lapse: Having outstanding specialty training obligations — LTC refresher, for example — does not independently cause lapse of the general producer license. The general CE requirement (24 hours including 3 ethics, 12 classroom-equivalent, 12 non-company-sponsored) is what must be complete for renewal. Specialty training obligations affect the producer's ability to sell specific products but do not on their own cause the license to lapse.
+What does not cause lapse: Having outstanding specialty training obligations — LTC refresher, for example — does not independently cause lapse of the general producer license. The general CE requirement (24 hours including 3 ethics, 12 non-company-sponsored) is what must be complete for renewal. Specialty training obligations affect the producer's ability to sell specific products but do not on their own cause the license to lapse.
 
 ## The Immediate Consequences of Lapse
 
@@ -46,7 +46,7 @@ The reinstatement window is 12 months from lapse, not 12 months from discovery. 
 
 What reinstatement within the 12-month window requires:
 
-Complete any outstanding CE: If the lapse was caused by failure to complete CE, the CE must be completed before submitting the reinstatement application. The Department does not process reinstatement for licenses with outstanding CE deficiencies. Complete all 24 required hours including the 3-hour ethics component, the 12-hour classroom-equivalent minimum, and the 12-hour non-company-sponsored minimum before submitting.
+Complete any outstanding CE: If the lapse was caused by failure to complete CE, the CE must be completed before submitting the reinstatement application. The Department does not process reinstatement for licenses with outstanding CE deficiencies. Complete all 24 required hours including the 3-hour ethics component and the 12-hour non-company-sponsored minimum before submitting.
 
 Pay the reinstatement penalty: The reinstatement fee is double the standard unpaid renewal fee. The standard renewal fee is $80 ($50 base + $30 technology surcharge). The reinstatement penalty doubles this to $160 in base penalty plus applicable technology and NIPR transaction fees — a total reinstatement payment of approximately $160–$175 depending on the transaction fees at the time of submission.
 
@@ -78,7 +78,7 @@ Starting the next CE cycle: The new CE period begins upon reinstatement. The pro
 
 A producer who missed the renewal deadline because CE was not complete — the most common lapse scenario — must complete the outstanding CE before reinstatement will be processed.
 
-CE requirement at reinstatement: Complete all remaining CE hours before submitting the reinstatement application. This includes all four components: reaching 24 total hours, satisfying the 3-hour ethics minimum, satisfying the 12-hour classroom-equivalent minimum, and satisfying the 12-hour non-company-sponsored minimum. The Department verifies CE completeness in the transcript system before processing the reinstatement.
+CE requirement at reinstatement: Complete all remaining CE hours before submitting the reinstatement application. This includes all three components: reaching 24 total hours, satisfying the 3-hour ethics minimum, and satisfying the 12-hour non-company-sponsored minimum. The Department verifies CE completeness in the transcript system before processing the reinstatement.
 
 Applying CE completed after the lapse date: CE completed after the license lapsed — during the lapse period while reinstatement is being pursued — counts toward satisfying the outstanding CE requirement for reinstatement. The producer can continue completing CE courses during the lapse period and apply those hours toward the reinstatement requirement.
 
@@ -86,15 +86,15 @@ The new CE cycle after reinstatement: Upon reinstatement, a new 24-month CE cycl
 
 ### Scenario 3: Lapse With Partial CE Completion
 
-A producer who completed 18 of the required 24 CE hours before the lapse deadline must complete the remaining 6 hours — plus satisfy any component deficiencies in ethics, classroom, or non-company-sponsored hours — before reinstatement.
+A producer who completed 18 of the required 24 CE hours before the lapse deadline must complete the remaining 6 hours — plus satisfy any component deficiencies in ethics or non-company-sponsored hours — before reinstatement.
 
-The component deficiency matters as much as the hour deficit: If the 18 completed hours included 0 ethics hours, the producer needs 6 more hours including at least 3 ethics hours. If the 18 hours included only 8 classroom-equivalent hours, the producer needs at least 4 more classroom-equivalent hours among the remaining CE. The reinstatement CE requirement is the full 24-hour obligation with all four components satisfied — not merely completing the remaining hour count.
+The component deficiency matters as much as the hour deficit: If the 18 completed hours included 0 ethics hours, the producer needs 6 more hours including at least 3 ethics hours. If the 18 hours included only 8 non-company-sponsored hours, the producer needs at least 4 more non-company-sponsored hours among the remaining CE. The reinstatement CE requirement is the full 24-hour obligation with all three components satisfied — not merely completing the remaining hour count.
 
 ### Scenario 4: Long Lapse (More Than 6 Months But Less Than 12 Months)
 
 A producer whose license has been lapsed for 7 or 8 months and who wants to reinstate must complete the CE requirement for the lapsed period and pay the doubled fee — the same requirements as a producer who discovers the lapse within weeks. The only thing the additional lapse time changes is the urgency: with 4–5 months remaining in the 12-month window, the producer has a tighter timeline to complete CE and submit the reinstatement before the window closes.
 
-Urgency calculation: Upon discovering a lapse, immediately calculate how much of the 12-month window remains. Subtract the number of months since the lapse date from 12 to determine remaining window time. If 8 months have passed since the lapse date, 4 months remain. Complete CE as quickly as possible — live webinars from independent providers can provide the classroom and non-company-sponsored components efficiently — and submit the reinstatement application as soon as all components are satisfied and recorded in the transcript.
+Urgency calculation: Upon discovering a lapse, immediately calculate how much of the 12-month window remains. Subtract the number of months since the lapse date from 12 to determine remaining window time. If 8 months have passed since the lapse date, 4 months remain. Complete CE as quickly as possible — self-paced online courses from an independent provider can satisfy the ethics and non-company-sponsored components efficiently without any scheduling constraints — and submit the reinstatement application as soon as all components are satisfied and recorded in the transcript.
 
 ## After the 12-Month Window: Full Relicensing
 
@@ -138,11 +138,11 @@ No. The 12-month reinstatement window closed 2 months ago. Minnesota's reinstate
 
 I completed 20 of my required 24 CE hours before my license lapsed. Can I apply those 20 hours toward the reinstatement CE requirement and complete only the remaining 4 hours?
 
-Yes — CE completed before the lapse date and recorded in the Department's CE transcript counts toward the reinstatement CE requirement. You need to complete the remaining 4 hours plus any component deficiencies. Review your transcript to determine not just the total hour deficit but also whether the completed 20 hours satisfied the component requirements — specifically, whether at least 3 of those hours carry ethics credit, whether at least 12 were classroom-equivalent, and whether at least 12 were non-company-sponsored. If the 20 completed hours left any component deficiencies, those deficiencies must be addressed in the remaining 4 hours. For example, if the 20 hours included only 8 classroom-equivalent hours, the remaining 4 hours must all be classroom-equivalent to reach the 12-hour minimum.
+Yes — CE completed before the lapse date and recorded in the Department's CE transcript counts toward the reinstatement CE requirement. You need to complete the remaining 4 hours plus any component deficiencies. Review your transcript to determine not just the total hour deficit but also whether the completed 20 hours satisfied the component requirements — specifically, whether at least 3 of those hours carry ethics credit and whether at least 12 were non-company-sponsored. If the 20 completed hours left any component deficiencies, those deficiencies must be addressed in the remaining 4 hours. For example, if the 20 hours included only 8 non-company-sponsored hours, the remaining 4 hours must all be non-company-sponsored to reach the 12-hour minimum.
 
-I found out my license lapsed and I have 3 months left in the reinstatement window. I still need 15 CE hours including 3 ethics and 8 classroom-equivalent hours. Is that achievable in 3 months?
+I found out my license lapsed and I have 3 months left in the reinstatement window. I still need 15 CE hours including 3 ethics hours and 8 non-company-sponsored hours. Is that achievable in 3 months?
 
-Yes — 15 hours in 3 months is entirely achievable with deliberate planning. The most efficient approach: enroll immediately in a live ethics webinar from an independent provider (3 hours — satisfies ethics, contributes to classroom-equivalent and non-company-sponsored). Follow with additional live webinars to reach the 8 classroom-equivalent hour total (5 more hours of live webinars). Then complete the remaining 7 hours through self-paced online courses from independent providers. Total: 8 hours of live webinars and 7 hours of self-paced — 15 hours satisfying all component requirements. Complete CE before submitting the reinstatement application. JustInsurance reports completions the same day you finish, which is important when working against a deadline — avoid providers who use the full 5-business-day reporting window when time is short.
+Yes — 15 hours in 3 months is entirely achievable with deliberate planning, and none of it needs to be completed live. The most efficient approach: enroll immediately in a self-paced ethics course from an independent provider (3 hours — satisfies ethics and contributes to the non-company-sponsored total). Complete additional self-paced courses from independent providers to reach the 8-hour non-company-sponsored total (5 more hours). Then complete the remaining 7 hours through any Department-approved self-paced online courses. Total: 15 hours satisfying all component requirements. Complete CE before submitting the reinstatement application. JustInsurance typically reports completions the same day you finish, which is important when working against a deadline — avoid providers who use the full 5-business-day reporting window when time is short.
 
 After reinstating my license, how long before I can start selling again?
 
@@ -150,4 +150,4 @@ You can resume selling insurance as soon as your license reinstatement is confir
 
 A lapsed Minnesota insurance license is a serious but recoverable situation for producers who act within the 12-month reinstatement window. The penalty is modest — double the renewal fee — and the process is straightforward for producers whose only deficiency was the missed renewal. The CE requirement at reinstatement is the same CE that should have been completed before the renewal deadline — satisfying it promptly and completely is both the regulatory requirement and the fastest path back to an active license. The one outcome that is not recoverable within the reinstatement framework is waiting past the 12-month window — at that point, full relicensing is the only option.
 
-Visit JustInsurance to enroll today and complete your Minnesota CE quickly with a state-approved provider that reports completions the same day you finish — getting you back to an active license as efficiently as possible.
+Visit JustInsurance to enroll today and complete your Minnesota CE quickly with a state-approved provider that typically reports completions the same day you finish — getting you back to an active license as efficiently as possible.

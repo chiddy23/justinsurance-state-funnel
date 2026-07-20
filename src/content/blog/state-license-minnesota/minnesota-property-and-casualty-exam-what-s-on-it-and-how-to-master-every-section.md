@@ -162,7 +162,7 @@ Minimum required coverages under Minnesota law:
 
 Bodily injury liability: $30,000 per person / $60,000 per accident
 
-Property damage liability: $10,000 per accident — the lowest property damage minimum in the United States
+Property damage liability: $10,000 per accident — among the lowest property damage minimums in the United States (Massachusetts and Pennsylvania are lower, at $5,000)
 
 Personal Injury Protection (PIP): $40,000 mandatory ($20,000 for medical expenses + $20,000 for non-medical expenses including lost wages at 85% of gross income capped at $500/week, replacement services, and up to $2,000 in funeral expenses)
 

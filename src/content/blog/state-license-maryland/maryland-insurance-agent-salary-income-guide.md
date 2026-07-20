@@ -20,7 +20,7 @@ Maryland's insurance market is shaped by the #1 median household income in the n
 
 ## The Short Answer
 
-Maryland insurance agents typically earn between $60,000 and $90,000 in their first several years, with experienced agents reaching $110,000 to $175,000 once they've built an established book. Specialists in the federal professional and defense contractor market, the Baltimore financial services sector, or the Johns Hopkins/academic medical community can earn $175,000 to $300,000+ annually.
+Statewide, first-year Maryland insurance agents typically earn in the $36,620-$45,070 range, with experienced agents reaching roughly $60,120-$77,400 and top producers around $97,070, according to public labor-market data. In Maryland's higher-income specialty markets, agents commonly report higher figures — $60,000 to $90,000 in the first several years, with experienced agents reaching $110,000 to $175,000 once they've built an established book. Specialists in the federal professional and defense contractor market, the Baltimore financial services sector, or the Johns Hopkins/academic medical community can earn $175,000 to $300,000+ annually. These specialty-market figures reflect regional and niche premiums above the statewide baseline, not a guaranteed or typical outcome for every Maryland agent.
 
 Key income data:
 
@@ -29,6 +29,8 @@ Maryland median household income: $94,384 — #1 nationally — this is the sing
 Maryland income tax: graduated 2%-5.75% state + local income taxes of 2%-3.2% (Baltimore City: 3.2% — among highest city income taxes in the US; Montgomery County: 3.17%)
 
 Combined state + local income tax can reach 8.92%-8.95% — higher than Virginia's 5.75% flat; lower than NJ's top rates; among the highest of comparison states
+
+⚠️ Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.
 
 ## Income by Maryland Region
 

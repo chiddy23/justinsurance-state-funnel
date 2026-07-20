@@ -298,7 +298,7 @@ Not knowing the specific numbers. Arizona state section questions ask for exact 
 
 Scheduling a retake without using PSI diagnostic results. After a failure, PSI provides section-level scores. If you failed the state section at 58%, the retake requires focused state law study — not general content review.
 
-Not accounting for Arizona's vendor change. PSI replaced the previous Arizona exam vendor on September 1, 2025. Old portal accounts don't transfer. Start fresh at test-takers.psiexams.com/anzins.
+Not accounting for Arizona's vendor change. PSI replaced the previous Arizona exam vendor on September 3, 2025. Old portal accounts don't transfer. Start fresh at test-takers.psiexams.com/anzins.
 
 ## Timing Your Exam Schedule
 

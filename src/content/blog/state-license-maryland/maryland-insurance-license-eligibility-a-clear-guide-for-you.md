@@ -34,9 +34,9 @@ You already know you must be 18, but take a moment to confirm your residency det
 
 Residency is not just for record-keeping. By showing you are truly based in Maryland, the state can expect you to understand the unique insurance laws and regulations that impact local consumers. This knowledge makes a real difference when helping Marylanders protect their homes, cars, and health.
 
-## Complete your pre-licensing education
+## Consider optional pre-licensing education
 
-To qualify for the state exam, you need formal [Maryland prelicensing education](/maryland/prelicensing) tied to each line of authority you wish to pursue. This requirement ensures you have a deep understanding of insurance fundamentals, policy specifics, and state regulations. While course details vary by provider, you can typically expect these topics:
+Maryland eliminated its formal [prelicensing education](/maryland/prelicensing) requirement effective October 1, 2024, so you don't need it to qualify for the state exam for any line of authority. Even so, many candidates choose an optional course to build a deeper understanding of insurance fundamentals, policy specifics, and state regulations before test day. While course details vary by provider, you can typically expect these topics:
 
 -   Maryland insurance laws and ethics
 -   Policy types, terms, and definitions
@@ -44,11 +44,11 @@ To qualify for the state exam, you need formal [Maryland prelicensing education]
 -   Best practices for client consultations
 -   Specific guidelines for your chosen line of authority (life and health or property and casualty)
 
-You can often choose between classroom-based sessions or online courses that fit your schedule. Make sure to pick an approved provider so your education hours count toward the official requirement.
+You can often choose between classroom-based sessions or online courses that fit your schedule if you decide to enroll in optional exam prep.
 
 ## Pass the mandatory insurance exams
 
-After completing the required education hours, you are ready to tackle the Maryland insurance exams. Each line of authority has its own exam, so if you plan to offer multiple lines, you may need to pass more than one test. The exams cover core insurance concepts and Maryland-specific regulations, so thorough study is key.
+Whenever you're ready — with or without optional prep coursework — you can schedule the Maryland insurance exams. Each line of authority has its own exam, so if you plan to offer multiple lines, you may need to pass more than one test. The exams cover core insurance concepts and Maryland-specific regulations, so thorough study is key.
 
 The exam typically uses a multiple-choice format. You will face a strict time limit, which means it is important to manage your pacing. Scoring at or above the required passing mark qualifies you to move on to the next step: submitting your license application.
 
@@ -89,7 +89,7 @@ Clean record or transparent disclosure
 
 Pre-licensing education
 
-Complete approved courses
+Optional — not required by the state
 
 Exam pass
 
@@ -107,7 +107,7 @@ You do not have to be a US citizen, but you generally need the legal right to wo
 
 ### 2\. Can I hold more than one line of authority at once?
 
-Yes. Many people hold multiple lines—like life and health, plus property and casualty—to serve a broader spectrum of clients. You will just need education and exams for each line.
+Yes. Many people hold multiple lines—like life and health, plus property and casualty—to serve a broader spectrum of clients. You will just need to pass an exam and submit an application for each line (education is optional for any line).
 
 ### 3\. What if I fail the licensing exam on my first try?
 

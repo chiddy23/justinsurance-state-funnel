@@ -3,7 +3,7 @@ title: Your Step-by-Step P&C Insurance Study Guide
 description: >-
   P&c insurance exam study guide prep guide with practice questions, study
   strategies, and test-day tips from licensed agents. 93% first-attempt pass
-  rate.
+  rate among students who complete the course.
 keyword: p&c insurance exam study guide
 targetKeywords: p&c insurance exam study guide
 cluster: p-and-c-exam-prep

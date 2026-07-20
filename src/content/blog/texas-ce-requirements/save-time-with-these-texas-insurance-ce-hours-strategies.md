@@ -65,7 +65,7 @@ A straightforward trick is to block off study sessions in your calendar as thoug
 ## FAQ about Texas insurance CE
 
 Q1: What are the basic renewal requirements?  
-Most Texas agents must complete 24 hours of continuing education every two years, including at least two hours of ethics. Check the Texas Department of Insurance’s latest guidelines for any updates or special prerequisites.
+Most Texas agents must complete 24 hours of continuing education every two years, including at least three hours of ethics. Check the Texas Department of Insurance’s latest guidelines for any updates or special prerequisites.
 
 Q2: Can I complete all of my CE hours online?  
 Yes. Many providers offer 100% online programs that meet the Texas state requirements. Just ensure the provider is officially approved before signing up.

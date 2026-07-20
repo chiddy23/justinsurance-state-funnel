@@ -67,9 +67,9 @@ Similarly, check if courses offer flexible formats like on-demand modules or liv
 
 ## Look for pass guarantees
 
-A pass guarantee is essentially a promise that you’ll have some financial or course-related safety net if you don’t pass on the first attempt. Most often, you’ll receive free extended access or a refund of some portion of your enrollment fees. While this guarantee might bring peace of mind, it’s essential to read the fine print. Some guarantees require you to submit evidence of your devoted study hours or pass all module quizzes before they’ll honor a free retake or refund.
+Some providers offer a pass guarantee, which can provide some financial or course-related safety net if you don't pass on the first attempt, such as free extended access or a partial refund of enrollment fees. Eligible students may qualify for programs like this in states where they're offered, but terms, conditions, and state eligibility vary by provider, so it's essential to read the official fine print rather than a generic description. Some guarantees require you to submit evidence of your devoted study hours or pass all module quizzes before they'll honor a free retake or refund, and many are not available in every state.
 
-If a provider doesn’t offer a pass guarantee, it doesn’t mean their course isn’t reliable. It could just mean they focus on transparent pricing rather than bundling additional perks. Use your own judgment and lean into how confident you feel about the materials.
+If a provider doesn't offer a pass guarantee, it doesn't mean their course isn't reliable. It could just mean they focus on transparent pricing rather than bundling additional perks. Use your own judgment and lean into how confident you feel about the materials.
 
 ## What to compare at a glance
 
@@ -105,11 +105,11 @@ Flexibility for busy schedules
 
 90 days, 6 months, or unlimited
 
-Pass guarantee
+Pass guarantee (where offered)
 
-Financial/value protection if you fail
+Financial/value protection if you fail, subject to terms and state eligibility
 
-Free retake or partial refund
+Free retake or partial refund; not available in every state
 
 Each provider has its own approach to these features, so really explore what’s included. Even if two courses cost the same, one might give you extended instructor support and advanced practice exams, while the other might limit you to basic video modules.
 
@@ -133,10 +133,10 @@ They can. Since insurance regulations vary, you need a course that’s approved 
 
 ### What if I need extra help to pass the exam?
 
-Many programs provide tutoring or Q&A sessions, so it’s worth asking about your options before you sign up. Some course providers, including JustInsurance, offer instructor-led review classes or a dedicated support team who can clarify concepts. If you still feel shaky on certain topics, you might consider investing in supplemental materials or practice tests from a different source.
+Many programs provide tutoring or Q&A sessions, so it’s worth asking about your options before you sign up — some course providers offer instructor-led review classes or a dedicated support team who can clarify concepts (our own course, JustInsurance, is one example, in the interest of full disclosure). If you still feel shaky on certain topics, you might consider investing in supplemental materials or practice tests from a different source.
 
 ## Take the next step
 
 If you’re looking to turn your insurance career dreams into reality, it all begins with finding the right course. Whether you’re eyeing a top-tier program or a straightforward budget-friendly option, make sure to weigh cost, materials, support, and state recognition. You’ll feel more confident choosing a class that aligns with your needs—and ensures you’re thoroughly prepared when exam day comes.
 
-It might seem intimidating at first, but you’ve got this. And if you ever need a convenient, user-friendly starting point, check out JustInsurance for guidance, resources, and a commitment to your success. With the right prelicensing partner on your side, you’ll be well on your way to passing that exam and launching a fulfilling insurance career. Good luck!
+It might seem intimidating at first, but you’ve got this. And in the interest of full disclosure: we publish this guide and also offer our own course, JustInsurance, as one convenient, user-friendly starting point — but weigh it against the criteria above rather than taking our word for it. With the right prelicensing partner on your side, you’ll be well on your way to passing that exam and launching a fulfilling insurance career. Good luck!

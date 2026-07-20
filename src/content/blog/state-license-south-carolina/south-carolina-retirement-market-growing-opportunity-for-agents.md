@@ -236,7 +236,9 @@ Geographic concentration. Concentrated retirement markets support efficient prac
 
 Service intensity. Senior practice involves substantial ongoing service.
 
-Established South Carolina retirement practices commonly produce $110,000-$220,000+ in annual income, with top HNW retiree practices substantially higher.
+Established South Carolina retirement practices commonly produce $110,000-$220,000+ in annual income, with top HNW retiree practices substantially higher. This reflects commission-based earning potential for an established, specialized book of business — distinct from broader statewide labor-statistics averages for insurance sales agents.
+
+*Income figures are illustrative, based on public labor-market data, and not a guarantee of earnings; individual results vary.*
 
 ## Pre-Retirement Planning Opportunity
 

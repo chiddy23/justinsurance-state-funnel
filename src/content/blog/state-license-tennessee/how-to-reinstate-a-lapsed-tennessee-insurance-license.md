@@ -23,15 +23,15 @@ Understanding exactly how and when a Tennessee license lapses prevents the timel
 
 Tennessee insurance producer licenses expire on the last day of the producer's birth month in the biennial renewal year. A producer born in March whose license is in a renewal year must renew by March 31. This deadline is fixed and predictable — it is calculated from your date of birth and your original license issuance date, and it does not change unless you formally reinstate and receive a new license cycle.
 
-### The 30-Day Grace Period
+### The 60-Day Grace Period
 
-Tennessee provides a 30-day grace period after the license expiration date. During this window, the license can be renewed with no late fee — only the standard $60 renewal fee plus $5.60 NIPR transaction fee applies. A license that expired March 31 can be renewed through April 30 at the standard cost.
+Tennessee provides a 60-day grace period after the license expiration date. During this window, the license can be renewed with no late fee — only the standard renewal fee applies. A license that expired March 31 can be renewed through May 30 at the standard cost.
 
-The grace period and active status: A license that has passed its expiration date — even within the grace period — is technically expired. Producers should not assume the grace period authorizes continued insurance transactions during the expired window. Contact the TDCI at (615) 741-2693 to confirm the scope of active authorization during the grace period before transacting any business.
+The grace period and active status: A license that has passed its expiration date — even within the grace period — is technically expired. Producers should not assume the grace period authorizes continued insurance transactions during the expired window. Contact the TDCI at (615) 741-2241 to confirm the scope of active authorization during the grace period before transacting any business.
 
 ### The Lapse Begins After the Grace Period
 
-Once the 30-day grace period expires without renewal, the license enters lapsed status. Two consequences follow immediately:
+Once the 60-day grace period expires without renewal, the license enters lapsed status. Two consequences follow immediately:
 
 First: Transacting insurance business — selling, soliciting, or negotiating insurance — on a lapsed Tennessee license violates TCA §56-6-101. The prohibition is absolute regardless of prior license history or how recently the license was active.
 
@@ -51,7 +51,7 @@ Intentional exit followed by return: Former producers who left the industry and 
 
 ### Who Qualifies
 
-Any Tennessee producer whose license has been expired for more than 30 days — beyond the grace period — but less than one full year from the expiration date qualifies for late renewal. The exam is not required. The process is entirely administrative through NIPR.
+Any Tennessee producer whose license has been expired for more than 60 days — beyond the grace period — but less than one full year from the expiration date qualifies for late renewal. The exam is not required. The process is entirely administrative through NIPR.
 
 The one-year calculation: The one-year window runs from the actual expiration date — not from the end of the grace period. A license that expired March 31, 2025 can be late-renewed through March 31, 2026. On April 1, 2026, late renewal is no longer available and full relicensing is required.
 
@@ -61,13 +61,13 @@ Before submitting a late renewal application, every outstanding CE requirement f
 
 The CE verification step: Tennessee CE providers report completed hours to the TDCI's CE tracking system. There is typically a delay of one to several business days between course completion and hours appearing in the TDCI's records. Verify that your completed hours are reflected in the TDCI's system — not just in the provider's own records — before submitting your late renewal application. A renewal submitted with unverified CE will be rejected.
 
-How to check your CE record: Contact the TDCI at (615) 741-2693 or ce.agent.licensing@tn.gov to verify your CE standing, or access the TDCI's online CE lookup through the producer portal at tn.gov/commerce/insurance.
+How to check your CE record: Contact the TDCI at (615) 741-2241 or ce.agent.licensing@tn.gov to verify your CE standing, or access the TDCI's online CE lookup through the producer portal at tn.gov/commerce/insurance.
 
 How quickly CE can be completed: Tennessee has no mandatory classroom hour minimum for CE — all 24 hours can be completed through self-paced online courses. A focused producer can realistically complete 24 hours of online CE in three to five days of dedicated study. CE can be completed and reported to the TDCI within one week for most producers who prioritize it, making CE completion a manageable step even under time pressure.
 
 ### The Late Renewal Fee Structure
 
-The $120 late fee is assessed in addition to the standard $60 renewal fee — not instead of it. The total of $185.60 compares to $65.60 for an on-time renewal. The $120 late fee is the financial consequence of missing both the renewal deadline and the grace period.
+A late fee is assessed in addition to the standard renewal fee — not instead of it. The TDCI does not publicly post the exact late-fee amount, so contact the TDCI directly for the current combined total. The late fee is the financial consequence of missing both the renewal deadline and the grace period.
 
 ### The Late Renewal Process Step by Step
 
@@ -79,7 +79,7 @@ Step 3: Navigate to the renewal section and select the late renewal path for Ten
 
 Step 4: Complete updated background disclosure questions. Any new criminal convictions, regulatory actions, or other disclosable matters since your last renewal must be accurately disclosed. If you must answer yes to any background question, submit supporting documentation through NIPR's Attachment Warehouse or contact the TDCI directly before proceeding.
 
-Step 5: Pay $185.60 — $60 renewal fee plus $120 late fee plus $5.60 NIPR transaction fee.
+Step 5: Pay the standard renewal fee plus the late fee plus the NIPR transaction fee — confirm the current total with the TDCI before submitting.
 
 Step 6: Submit. The TDCI processes late renewal applications and restores the license to active status upon approval.
 
@@ -107,7 +107,7 @@ Remote testing is available at $49 per line via OnVUE. In-person testing at a Pe
 
 Step 2 — Complete IdentoGO fingerprinting: Tennessee resident producers must complete new fingerprinting through IdentoGO. The prior background check from initial licensing is not reused — a new submission is required. The $37.15 fingerprinting fee applies. Schedule through identogo.com using ORI number TN920680Z (Transaction Type: IP).
 
-Step 3 — Submit Fingerprint Policy and Acknowledgement Form: The signed form must be submitted to the TDCI by email at ce.agent.licensing@tn.gov or by fax at (615) 532-2862. Names on the form and the NIPR application must match exactly.
+Step 3 — Submit Fingerprint Policy and Acknowledgement Form: The signed form must be submitted to the TDCI by email at ce.agent.licensing@tn.gov (confirm the current submission method, including whether a fax option is available, on the TDCI's agent-producer resources page). Names on the form and the NIPR application must match exactly.
 
 Step 4 — Wait the 48-hour post-exam period: The mandatory 48-hour wait between passing the Pearson VUE exam and submitting the NIPR application applies. Complete fingerprinting during this window.
 
@@ -125,7 +125,7 @@ The reinstatement framework for Tennessee non-resident licenses mirrors the resi
 
 ### Late Renewal for Non-Resident Licenses
 
-Non-resident producers whose Tennessee license has lapsed within one year submit a late renewal through NIPR under the Non-Resident Renewal (NRR) application path. The fee structure is identical to resident late renewal — $60 renewal fee plus $120 late fee plus $5.60 NIPR transaction fee, totaling $185.60.
+Non-resident producers whose Tennessee license has lapsed within one year submit a late renewal through NIPR under the Non-Resident Renewal (NRR) application path. The fee structure is identical to resident late renewal — the standard renewal fee plus the late fee plus the NIPR transaction fee (confirm the current total with the TDCI).
 
 The home state license dependency: Your home state resident license must be currently active and in good standing before submitting a Tennessee non-resident late renewal. A non-resident late renewal submitted while the home state license is lapsed or suspended will be rejected. Reinstate your home state license first — then submit the Tennessee non-resident late renewal.
 
@@ -157,7 +157,7 @@ After submitting your late renewal or new application, do not resume transacting
 
 The financial argument for acting on a lapsed license as quickly as possible is straightforward:
 
-The late renewal path at $185.60 is available only within the one-year window. Every day of delay within that window reduces the remaining time before the more expensive and more time-consuming full relicensing path becomes mandatory. A producer who waits 10 months before acting has two months left to complete CE and submit a late renewal — still achievable, but with substantially less margin for error than a producer who acts immediately upon discovering the lapse.
+The late renewal path is available only within the one-year window. Every day of delay within that window reduces the remaining time before the more expensive and more time-consuming full relicensing path becomes mandatory. A producer who waits 10 months before acting has two months left to complete CE and submit a late renewal — still achievable, but with substantially less margin for error than a producer who acts immediately upon discovering the lapse.
 
 ## Preventing Future Lapses
 
@@ -175,7 +175,7 @@ Track CE hours throughout the period: Do not rely on memory. Use the TDCI's CE t
 
 My license lapsed four months ago and I have not completed any CE for the period. Can I still use the late renewal path, and how quickly can I complete the required CE?
 
-Yes — four months of lapse is well within the one-year late renewal window. Your path is: complete 24 CE hours including 3 ethics through a TDCI-approved provider, verify those hours appear in the TDCI's system, then submit your late renewal through NIPR with the $185.60 fee. Tennessee has no mandatory classroom hour minimum, meaning all 24 hours can be completed through self-paced online courses. A focused producer can realistically complete 24 hours in three to five days. After completion, allow one to several business days for the provider to report your hours to the TDCI, verify your CE record is updated, and submit the late renewal. Your total timeline from starting CE today to receiving your reinstated license is realistically seven to fourteen days — well within the eight months remaining in your late renewal window.
+Yes — four months of lapse is well within the one-year late renewal window. Your path is: complete 24 CE hours including 3 ethics through a TDCI-approved provider, verify those hours appear in the TDCI's system, then submit your late renewal through NIPR with the standard renewal fee plus the late fee (contact the TDCI for the current total). Tennessee has no mandatory classroom hour minimum, meaning all 24 hours can be completed through self-paced online courses. A focused producer can realistically complete 24 hours in three to five days. After completion, allow one to several business days for the provider to report your hours to the TDCI, verify your CE record is updated, and submit the late renewal. Your total timeline from starting CE today to receiving your reinstated license is realistically seven to fourteen days — well within the eight months remaining in your late renewal window.
 
 I have been out of insurance for two years and my Tennessee license has been expired for 22 months. I want to return. What is the fastest realistic timeline to get back to active status?
 
@@ -185,6 +185,6 @@ I discovered my license lapsed last week. My employer does not know yet. Do I ne
 
 Yes — immediately. A lapsed license means you cannot legally transact insurance business in Tennessee from the moment the grace period expired. If you have continued writing business, processing applications, or collecting premiums after your license lapsed, that activity has been occurring without a valid license — creating regulatory exposure for both you and your employer. Notify your agency principal today, stop all insurance transactions immediately, and begin the CE completion and late renewal process without delay. Your employer has an independent obligation to ensure appointed producers hold active licenses — most agencies conduct periodic license verification for this reason. Proactive disclosure of a lapse discovered and promptly corrected is treated significantly more favorably by the TDCI than a lapse discovered through regulatory investigation or a third-party complaint. Transparency now and reinstatement promptly is the professional and legal response.
 
-A lapsed Tennessee insurance license has a defined, navigable solution — provided the producer acts before the one-year threshold converts a $185.60 late renewal into a full relicensing process requiring exam retaking, fingerprinting, and new application fees. The financial and time cost of late renewal is modest relative to the cost of delayed action. Every day of inaction within the one-year window is a day closer to the threshold where the simpler path closes permanently. Producers who discover a lapse should treat reinstatement as the immediate professional priority — completing CE, submitting the late renewal through NIPR, and returning to active status before the one-year clock expires.
+A lapsed Tennessee insurance license has a defined, navigable solution — provided the producer acts before the one-year threshold converts an affordable late renewal into a full relicensing process requiring exam retaking, fingerprinting, and new application fees. The financial and time cost of late renewal is modest relative to the cost of delayed action. Every day of inaction within the one-year window is a day closer to the threshold where the simpler path closes permanently. Producers who discover a lapse should treat reinstatement as the immediate professional priority — completing CE, submitting the late renewal through NIPR, and returning to active status before the one-year clock expires.
 
 Visit JustInsurance to enroll today and complete your Tennessee CE requirements with a state-approved provider — the fastest path to satisfying the CE obligation that stands between a lapsed license and an active one.

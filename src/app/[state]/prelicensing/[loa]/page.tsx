@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
-import { isPrelicensingHeld } from "@/lib/prelicensing-status";
+import { isPrelicensingHeld, credentialKindFromHours } from "@/lib/prelicensing-status";
 import PrelicensingHeldNotice from "@/components/PrelicensingHeldNotice";
 import { LOA_DEFINITIONS, type LOASlug } from "@/lib/loa";
 import { generatePageMetadata } from "@/lib/metadata";
@@ -533,6 +533,13 @@ export default async function PrelicensingCoursePage({
         examBookingUrl={stateData.examInfo.examBookingUrl}
         noCombinedExam={stateData.noCombinedExam}
         applicationBeforeExam={stateData.applicationBeforeExam}
+        prelicensingRequired={
+          credentialKindFromHours([
+            stateData.prelicensing.life.hours,
+            stateData.prelicensing.health.hours,
+            stateData.prelicensing.lifeAndHealth.hours,
+          ]) === "prelicensing"
+        }
         stateSlug={stateData.slug}
         loaSlug={loaDef.slug}
         examFeeDisplay={

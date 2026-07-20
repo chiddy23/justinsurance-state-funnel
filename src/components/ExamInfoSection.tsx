@@ -11,6 +11,10 @@ interface ExamInfoSectionProps {
   examBookingUrl: string;
   noCombinedExam: boolean;
   applicationBeforeExam: boolean;
+  /** Does this state actually mandate prelicensing? Exam-only states must not be
+   *  told to complete a prelicensing course as step 1 of the apply-before-exam
+   *  ordering. Defaults true so mandating states are unaffected. */
+  prelicensingRequired?: boolean;
   /** Optional exam-fee display override. Used on Life & Health pages in
    * no-combined-exam states (e.g. Illinois) where the candidate sits two
    * separate line exams, so the single-line fee understates the real cost. */
@@ -34,6 +38,7 @@ export default function ExamInfoSection({
   examBookingUrl,
   noCombinedExam,
   applicationBeforeExam,
+  prelicensingRequired = true,
   stateSlug,
   loaSlug,
   examFeeDisplay,
@@ -139,7 +144,10 @@ export default function ExamInfoSection({
                 <div>
                   <p className="font-semibold text-navy text-sm">Important: Apply Before You Exam</p>
                   <p className="text-gray-600 text-sm mt-1">
-                    {stateName} requires you to submit your license application to the Department of Insurance <strong>before</strong> scheduling your state exam. Complete your prelicensing course, then apply for your license, and then schedule your exam.
+                    {stateName} requires you to submit your license application to the Department of Insurance <strong>before</strong> scheduling your state exam.{" "}
+                      {prelicensingRequired
+                        ? "Complete your prelicensing course, then apply for your license, and then schedule your exam."
+                        : "Apply for your license first, then schedule your exam."}
                   </p>
                 </div>
               </div>

@@ -27,6 +27,12 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
   // and WA) cannot claim a "state-approved" course until approval issues.
   const providerApproved = stateData.providerApprovalNumber !== "PENDING";
   // CE-only states must not be told to finish a "state-approved" prelicensing course.
+  const prelicensingRequiredHere =
+    credentialKindFromHours([
+      stateData.prelicensing.life.hours,
+      stateData.prelicensing.health.hours,
+      stateData.prelicensing.lifeAndHealth.hours,
+    ]) === "prelicensing";
   const prelicensingApproved =
     providerApproved &&
     credentialKindFromHours([
@@ -44,8 +50,10 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
   const steps = [
     {
       n: 1,
-      title: "Complete your prelicensing course",
-      body: `Finish ${prelicensingApproved ? "a state-approved" : "an online"} prelicensing course covering the ${name} exam content outline. JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line.`,
+      title: prelicensingRequiredHere
+        ? "Complete your prelicensing course"
+        : "Prepare for your exam (optional)",
+      body: `${prelicensingRequiredHere ? `Finish ${prelicensingApproved ? "a state-approved" : "an online"} prelicensing course` : `${name} does not require a prelicensing course, but most successful candidates take one. Work through an online course`} covering the ${name} exam content outline. JustInsurance offers Life, Health, and Life & Health prelicensing online for $199 per line.`,
     },
     {
       n: 2,

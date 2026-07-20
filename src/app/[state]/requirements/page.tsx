@@ -578,8 +578,12 @@ export default async function RequirementsPage({
                     The {stateData.name} insurance licensing exam is administered
                     by {stateData.examInfo.examProvider}. The exam fee is $
                     {stateData.examInfo.examFee}, and you&apos;ll need a passing
-                    score of {formatPassingScore(stateData.slug, stateData.examInfo.passingScore)}. Schedule your
-                    exam online after completing your prelicensing education.
+                    score of {formatPassingScore(stateData.slug, stateData.examInfo.passingScore)}.{" "}
+                    {/* Exam-only states have no prelicensing to complete first —
+                        saying the exam follows it invents a prerequisite. */}
+                    {prelicensingRequired
+                      ? "Schedule your exam online after completing your prelicensing education."
+                      : `You can schedule your exam online at any time — ${stateData.name} does not require prelicensing education first.`}
                   </p>
                   {stateData.examInfo.examBookingUrl && (
                     <a

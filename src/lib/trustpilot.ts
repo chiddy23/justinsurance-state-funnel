@@ -11,6 +11,8 @@
 // `state` is set where the review explicitly names a state/exam (8 tagged) so
 // state hubs can feature locally-relevant reviews. Update here as reviews grow.
 
+import { mentionsCompetitor } from "@/lib/testimonials";
+
 export const TRUSTPILOT = {
   score: 4.8,
   count: 53,
@@ -26,9 +28,23 @@ export interface TrustpilotReview {
   text: string;
   /** Full state name when the review explicitly references one. */
   state?: string;
+  /** True to keep this real review on the national /reviews page but exclude it
+   *  from per-state filler — used when the text makes a course-specific claim
+   *  (e.g. "the 60 hours course") that doesn't match any single state's offering. */
+  excludeFromStateFiller?: boolean;
+  /** Withhold this real review from display everywhere. Same contract as the
+   *  flag of the same name in @/lib/testimonials: keep the record for
+   *  provenance, never edit the reviewer's words. Pair with excludeReason. */
+  excludeFromDisplay?: boolean;
+  /** Why this record is withheld. Required whenever excludeFromDisplay is set. */
+  excludeReason?: string;
 }
 
-export const TRUSTPILOT_REVIEWS: TrustpilotReview[] = [
+// Raw, unfiltered. TRUSTPILOT_REVIEWS below is the filtered view the site reads.
+// These are transcribed by hand from the live profile, so the named-competitor
+// gate is applied here at the source: a future review that names a competitor
+// is dropped on arrival rather than relying on whoever pastes it to notice.
+const TRUSTPILOT_REVIEWS_RAW: TrustpilotReview[] = [
   { name: "Joel H.", initials: "JH", stars: 5, date: "2026-06-18", text: "Very clear step by step training and easy to understand! Passed my test!" },
   { name: "Ramona M.", initials: "RM", stars: 5, date: "2026-06-18", text: "I knew nothing about life and health insurance when I started this course. I learned a lot from watching the videos and reading the chapters. I passed the exam thanks to this course!" },
   { name: "Frances J.", initials: "FJ", stars: 5, date: "2026-06-17", state: "California", text: "I have received and appreciated the support from Just insurance and their tech support staff ever since I signed up for the Education and study materials and group study on March 1st, in stages, to June 15th 2026 when I took, and passed, the Life Accident Health & Sickness exam. I passed with a score of 91 out of a maximum score of 150. I prayed, and followed their guide and study suggestions. The required passing score in CA is 60-70, I was relieved when I read the words pass-after I completed the exam, and blown away when I reviewed my score. I am so appreciative for all the help and guidance I received from JustInsurance. Now I am a Licensed Professional Insurance Agent. My second act in life from being a Licensed Social Worker and Counselor. My reward for putting in the work and following directions. Special shoutout to Justin, Matt and Tech Support. Thank you with all my heart. You’re the best!!❤️🤗" },
@@ -68,7 +84,7 @@ export const TRUSTPILOT_REVIEWS: TrustpilotReview[] = [
   { name: "Justin", initials: "J", stars: 5, date: "2026-05-29", text: "Must needed" },
   { name: "Cameron S.", initials: "CS", stars: 5, date: "2026-05-27", text: "Great and very informational pre-licensing course! Helped me pass my state exam, with room to spare! Although the test was a tad bit harder, if you go over the material and complete the pre-exam with videos and flash cards, and take the practice exams over and over, and score 80 or better each time, you will be prepared for the state exam!" },
   { name: "Jordan A.", initials: "JA", stars: 5, date: "2026-05-27", text: "So happy to say that I passed my life insurance exam after using this source. It was very easy to understand and navigate, and was filled loads of information that was all on the exam I would recommend to anybody who is in need in life insurance prep" },
-  { name: "Jesus R.", initials: "JR", stars: 5, date: "2026-05-26", text: "I took the 60 hours course. I like the fact that it is in parts, you have vocabulary, videos, terms and summary, as well as a quiz at the end, I was able to complete the course and pass my state test on the first try, I will suggest, do not skip parts because it could become very confusing, also, they were really helpful when it came to the next steps, they provided me with link and what to do next." },
+  { name: "Jesus R.", initials: "JR", stars: 5, date: "2026-05-26", excludeFromStateFiller: true, text: "I took the 60 hours course. I like the fact that it is in parts, you have vocabulary, videos, terms and summary, as well as a quiz at the end, I was able to complete the course and pass my state test on the first try, I will suggest, do not skip parts because it could become very confusing, also, they were really helpful when it came to the next steps, they provided me with link and what to do next." },
   { name: "Kaleb C.", initials: "KC", stars: 5, date: "2026-05-26", text: "Site layout and UI is extremely user-friendly. There is a lot of material, but it is covered in detail and in several ways to ensure that you’re able to comprehend the information. Their support team is on the ball and I always got a prompt reply that completely resolved any issues or questions I had. I took this course and I passed my exam first try and way ahead of the time limit. I have JustInsurance LLC to thank for the success!" },
   { name: "GOD’S D.", initials: "GD", stars: 5, date: "2026-05-24", text: "This was a very great experience. They’re very thorough and willing to make sure you pass your exam on the first try, which I love. I passed my exam on the first try. The level of support is just everything." },
   { name: "Madeline F.", initials: "MF", stars: 5, date: "2026-05-21", text: "I passed my state exam after 2 weeks of studying in this course. This course breaks everything down nicely for newbies to insurance concepts so all the information can be absorbed easily. I found a few typos here and there, but nothing major enough to make the information hard to understand. There is plenty of repetition in the modules to assist with retention. Highly recommend this course!" },
@@ -83,6 +99,22 @@ export const TRUSTPILOT_REVIEWS: TrustpilotReview[] = [
   { name: "Kirk H.", initials: "KH", stars: 5, date: "2026-05-12", text: "JustInsurance has been an incredible help for me in regards to me passing my life insurance state exam. The modules are easy to follow and the course can either be done through reading the material or of videos or a combination of the two which is what I did. Because of JustInsurance I was able to pass my state licensing exam on the first try within 3 weeks of studying for it. 10/10 would recommend the platform to anyone who’s interested in becoming an agent for life or health." },
   { name: "Braden R.", initials: "BR", stars: 5, date: "2026-05-08", text: "Great company! Got me through my Health and Life pre-course as well as passing my state exam first try. The exam prep material is updated regularly making it easy!" },
 ];
+
+/**
+ * Displayable Trustpilot reviews — the single list the site renders.
+ *
+ * Reuses mentionsCompetitor() from @/lib/testimonials rather than restating the
+ * pattern list, so there is exactly one definition of "names a competitor"
+ * across the site and adding a company there covers Trustpilot too.
+ *
+ * Note: TRUSTPILOT.count (53) is deliberately NOT recomputed from this array.
+ * It reports how many reviews exist on the public Trustpilot profile, which is
+ * what "Rated 4.8 out of 5 based on 53 reviews" asserts and what the score is
+ * actually calculated from. It stays true regardless of how many we reprint.
+ */
+export const TRUSTPILOT_REVIEWS: TrustpilotReview[] = TRUSTPILOT_REVIEWS_RAW.filter(
+  (r) => r.excludeFromDisplay !== true && !mentionsCompetitor(r)
+);
 
 // Deterministic per-state PRNG (xmur3 seed -> mulberry32) for a stable shuffle,
 // so each state gets a distinct-but-stable ordering (no hash-collision twins).
@@ -117,7 +149,9 @@ export function getTrustpilotForState(stateName: string, n = 3): TrustpilotRevie
   const matched = TRUSTPILOT_REVIEWS.filter(
     (r) => r.state && r.state.toLowerCase() === lc
   );
-  const fillerPool = TRUSTPILOT_REVIEWS.filter((r) => !r.state && r.text.length >= 70);
+  const fillerPool = TRUSTPILOT_REVIEWS.filter(
+    (r) => !r.state && r.text.length >= 70 && !r.excludeFromStateFiller
+  );
   const result = [...matched];
   for (const r of seededShuffle(stateName, fillerPool)) {
     if (result.length >= n) break;

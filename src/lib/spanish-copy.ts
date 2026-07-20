@@ -100,7 +100,7 @@ export const FLORIDA_ES: SpanishStateCopy = {
   heroSubtitle:
     "Florida es el tercer mercado más grande del país para agentes de seguros, con uno de los entornos de seguros más activos y complejos. La licencia 2-15 (Vida, Salud y Anualidades) es la designación combinada exclusiva de Florida y cubre seguros de vida, anualidades y seguros de salud bajo un solo número de licencia. Con la exposición a huracanes, una gran población de adultos mayores y el corredor tecnológico del I-4 en pleno crecimiento, Florida es un mercado privilegiado tanto para agentes de propiedad y casualidad como para los de vida y salud.",
   courseDescription:
-    "Curso de prelicenciatura en línea aprobado por el estado para Florida (Vida y Salud). Aprueba el examen estatal en tu primer intento. 100% en línea, a tu propio ritmo, con exámenes de práctica y garantía de aprobación incluidos.",
+    "Curso de prelicenciatura en línea aprobado por el estado para Florida (Vida y Salud). Prepárate para aprobar el examen estatal. 100% en línea, a tu propio ritmo, con exámenes de práctica y garantía de aprobación incluidos.",
   metaDescription:
     "Obtén tu licencia de seguros de Florida en línea — preparación para el examen de Pearson VUE, prelicenciatura aprobada por el estado, 93% de tasa de aprobación, garantía. Desde $199.",
   faqs: [
@@ -127,7 +127,7 @@ export const FLORIDA_ES: SpanishStateCopy = {
     {
       question: "¿Cuánto ganan los agentes de seguros en Florida?",
       answer:
-        "Los agentes de seguros en Florida ganan en promedio $80,300 al año según datos de la Oficina de Estadísticas Laborales (BLS). Los agentes nuevos suelen ganar alrededor de $38,420 en su primer año mientras construyen una cartera de clientes, y los productores de mejor desempeño en Florida pueden ganar $132,250 o más anualmente. La demanda de nuevos productores de seguros se mantiene estable en Florida. El ingreso depende mucho de las líneas de autoridad que tengas y de si trabajas como agente cautivo o independiente — la licencia combinada 2-15 (Vida, Salud y Anualidades) abre el rango de productos más amplio y el mayor potencial de ingresos.",
+        "Los agentes de seguros en Florida ganan en promedio $80,300 al año según datos de la Oficina de Estadísticas Laborales (BLS). Los agentes nuevos suelen ganar alrededor de $38,420 en su primer año mientras construyen una cartera de clientes, y los productores de mejor desempeño en Florida pueden ganar $132,250 o más anualmente. La demanda de nuevos productores de seguros se mantiene estable en Florida. El ingreso depende mucho de las líneas de autoridad que tengas y de si trabajas como agente cautivo o independiente — la licencia combinada 2-15 (Vida, Salud y Anualidades) abre el rango de productos más amplio y el mayor potencial de ingresos. Las cifras de ingresos son ilustrativas, se basan en datos públicos del mercado laboral y no constituyen una garantía de ingresos; los resultados individuales varían.",
     },
     {
       question: "¿Qué es la licencia de seguros 2-15 de Florida?",
@@ -172,7 +172,7 @@ export const TEXAS_ES: SpanishStateCopy = {
     {
       question: "¿Cuánto ganan los agentes de seguros en Texas?",
       answer:
-        "Los agentes de seguros en Texas ganan en promedio $66,490 al año según datos de la Oficina de Estadísticas Laborales (BLS). Los agentes nuevos suelen ganar alrededor de $30,140 en su primer año mientras construyen una cartera de clientes, y los productores de mejor desempeño en Texas pueden ganar $121,590 o más anualmente. La demanda de nuevos productores de seguros se mantiene fuerte en Texas gracias a su gran población y al crecimiento económico del estado. El ingreso depende mucho de las líneas de autoridad que tengas y de si trabajas como agente cautivo o independiente — la licencia combinada de Vida y Salud abre el rango de productos más amplio y el mayor potencial de ingresos.",
+        "Los agentes de seguros en Texas ganan en promedio $66,490 al año según datos de la Oficina de Estadísticas Laborales (BLS). Los agentes nuevos suelen ganar alrededor de $30,140 en su primer año mientras construyen una cartera de clientes, y los productores de mejor desempeño en Texas pueden ganar $121,590 o más anualmente. La demanda de nuevos productores de seguros se mantiene fuerte en Texas gracias a su gran población y al crecimiento económico del estado. El ingreso depende mucho de las líneas de autoridad que tengas y de si trabajas como agente cautivo o independiente — la licencia combinada de Vida y Salud abre el rango de productos más amplio y el mayor potencial de ingresos. Las cifras de ingresos son ilustrativas, se basan en datos públicos del mercado laboral y no constituyen una garantía de ingresos; los resultados individuales varían.",
     },
     {
       question: "¿Texas requiere educación de prelicenciatura para una licencia de seguros?",

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { loaShortName } from "./loa";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
 
 const BASE_URL = "https://justinsuranceco.com";
 const OG_IMAGE = "/og-image.png";
@@ -169,38 +170,66 @@ function buildDescription(
   // All descriptions target ≤ 160 characters.
   const { stateName = "", loaName = "" } = params;
 
-  // Descriptions: 120-155 chars, include 2+ conversion signals (93% pass rate, $199, pass guarantee, state-approved, same-day reporting).
+  // Descriptions: 120-155 chars, include 2+ conversion signals (93% completer pass rate, $199, pass guarantee, state-approved, same-day reporting).
   const hours = params.hours;
+
+  // Ohio Admin. Code 3901-5-07(H)(16): no pass-guarantee offers on Ohio-facing
+  // pages. For excluded states, swap the guarantee clause for an
+  // "instant online access" benefit so length/signal density stays comparable.
+  // National pageTypes (home, practice-exam-hub) have no stateSlug and are
+  // unaffected — hasPassGuarantee(undefined) === true.
+  const guaranteeBit = hasPassGuarantee(params.stateSlug)
+    ? "pass guarantee"
+    : "instant online access";
+
+  // 50 Ill. Adm. Code Part 3119: Illinois requires 7.5 of the 20 prelicensing
+  // hours per line to be completed via live classroom/webinar instruction with
+  // verified attendance. Illinois prelicensing-facing meta descriptions must
+  // therefore use the hybrid "live webinar hours plus self-paced study"
+  // framing instead of unqualified "self-paced"/"online" claims. Gated on the
+  // slug so every other state's rendered output is byte-identical. CE and
+  // practice-exam descriptions are untouched — the Part 3119 classroom
+  // requirement applies to prelicensing hours, not CE self-study or exam prep.
+  const isIllinois = params.stateSlug === "illinois";
 
   switch (pageType) {
     case "home":
-      return "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% pass rate, pass guarantee. From $199.";
+      return "State-approved insurance prelicensing and CE courses nationwide. 100% online, self-paced, 93% completer pass rate, pass guarantee in eligible states. From $199.";
     case "state-hub": {
+      if (isIllinois) {
+        return "Get your Illinois insurance license — prelicensing with required live webinar hours plus self-paced online study. State-approved, 93% completer pass rate. From $199.";
+      }
       const ep = params.examProvider;
       const providerBit = ep ? `${ep} exam prep, ` : "";
-      const desc = `Get your ${stateName} insurance license online — ${providerBit}state-approved prelicensing, 93% pass rate, pass guarantee. From $199.`;
+      const desc = `Get your ${stateName} insurance license online — ${providerBit}state-approved prelicensing, 93% completer pass rate, ${guaranteeBit}. From $199.`;
       return desc.length <= 160
         ? desc
-        : `Get your ${stateName} insurance license online. State-approved prelicensing and CE, 93% pass rate, pass guarantee. From $199.`;
+        : `Get your ${stateName} insurance license online. State-approved prelicensing and CE, 93% completer pass rate, ${guaranteeBit}. From $199.`;
     }
     case "prelicensing-hub": {
+      if (isIllinois) {
+        return "Complete your Illinois insurance prelicensing — required live webinar hours plus self-paced study. State-approved, 93% completer pass rate. $199.";
+      }
       const h = hours ? `${hours}-hour ` : "";
-      const desc = `Complete your ${stateName} insurance prelicensing requirement online. ${h}State-approved course, self-paced, practice exams included. 93% pass rate. $199.`;
-      return desc.length <= 155 ? desc : `Complete your ${stateName} insurance prelicensing online. State-approved, self-paced, 93% pass rate, pass guarantee. $199.`;
+      const desc = `Complete your ${stateName} insurance prelicensing requirement online. ${h}State-approved course, self-paced, practice exams included. 93% completer pass rate. $199.`;
+      return desc.length <= 155 ? desc : `Complete your ${stateName} insurance prelicensing online. State-approved, self-paced, 93% completer pass rate, ${guaranteeBit}. $199.`;
     }
     case "ce-hub": {
       const ch = params.ceHours;
       const cp = params.ceRenewalPeriod;
       if (ch && cp) {
-        const desc = `Renew your ${stateName} insurance license — ${ch} CE hours every ${cp}. State-approved, same-day DOI reporting, self-paced. From $39.`;
+        const desc = `Renew your ${stateName} insurance license — ${ch} CE hours every ${cp}. State-approved, typically same-day DOI reporting, self-paced. From $39.`;
         if (desc.length <= 160) return desc;
       }
-      return `Renew your ${stateName} insurance license with state-approved CE courses. Complete online at your own pace, same-day DOI reporting. From $39.`;
+      return `Renew your ${stateName} insurance license with state-approved CE courses. Complete online at your own pace, typically same-day DOI reporting. From $39.`;
     }
     case "prelicensing-course":
-      return `${stateName} ${loaShortName(loaName)} insurance prelicensing course online. $199, state-approved, 93% pass rate, pass guarantee. Self-paced with practice exams.`;
+      if (isIllinois) {
+        return `Illinois ${loaShortName(loaName)} prelicensing — required live webinar hours plus self-paced online study. $199, state-approved, 93% completer pass rate.`;
+      }
+      return `${stateName} ${loaShortName(loaName)} insurance prelicensing course online. $199, state-approved, 93% completer pass rate, ${guaranteeBit}. Self-paced with practice exams.`;
     case "ce-course":
-      return `${stateName} ${loaName} CE course online. Same-day DOI reporting, self-paced, state-approved. Renew your insurance license with JustInsurance. From $39.`;
+      return `${stateName} ${loaName} CE course online. Typically same-day DOI reporting, self-paced, state-approved. Renew your insurance license with JustInsurance. From $39.`;
     case "practice-exam":
       return `${stateName} insurance practice exam — Life, Health, and Life & Health versions. Mirror the real state exam. Boost your score, pass with confidence. $59.`;
     case "practice-exam-hub":

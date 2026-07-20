@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
-import { ALL_STATE_SLUGS } from "./states";
+import { ALL_STATE_SLUGS, getStateBySlug } from "./states";
+import { isPrelicensingHeld } from "./prelicensing-status";
 import { ALL_LOA_SLUGS } from "./loa";
 
 export interface SitemapEntry {
@@ -54,10 +55,7 @@ export function generateSitemapEntries(): SitemapEntry[] {
     { path: "/prelicensing", priority: 0.85 },
     { path: "/continuing-education", priority: 0.85 },
     { path: "/practice-exam", priority: 0.85 },
-    { path: "/compare", priority: 0.8 },
     { path: "/reviews", priority: 0.75 },
-    { path: "/compare/xcel", priority: 0.75 },
-    { path: "/compare/examfx", priority: 0.75 },
     { path: "/life-insurance-license", priority: 0.8 },
     { path: "/health-insurance-license", priority: 0.8 },
     { path: "/life-and-health-insurance-license", priority: 0.8 },
@@ -87,6 +85,9 @@ export function generateSitemapEntries(): SitemapEntry[] {
   }
 
   for (const stateSlug of ALL_STATE_SLUGS) {
+    const stForHold = getStateBySlug(stateSlug);
+    const prelicHeld = stForHold ? isPrelicensingHeld(stForHold) : false;
+
     // State hub page
     entries.push({
       url: `${BASE_URL}/${stateSlug}`,
@@ -95,13 +96,15 @@ export function generateSitemapEntries(): SitemapEntry[] {
       priority: 0.9,
     });
 
-    // Prelicensing hub page
-    entries.push({
-      url: `${BASE_URL}/${stateSlug}/prelicensing`,
-      lastModified,
-      changeFrequency: "monthly",
-      priority: 0.85,
-    });
+    // Prelicensing hub page (excluded while approval is pending / held)
+    if (!prelicHeld) {
+      entries.push({
+        url: `${BASE_URL}/${stateSlug}/prelicensing`,
+        lastModified,
+        changeFrequency: "monthly",
+        priority: 0.85,
+      });
+    }
 
     // CE hub page
     entries.push({
@@ -127,14 +130,16 @@ export function generateSitemapEntries(): SitemapEntry[] {
       priority: 0.85,
     });
 
-    // Individual prelicensing course pages (one per LOA)
-    for (const loaSlug of ALL_LOA_SLUGS) {
-      entries.push({
-        url: `${BASE_URL}/${stateSlug}/prelicensing/${loaSlug}`,
-        lastModified,
-        changeFrequency: "monthly",
-        priority: 0.7,
-      });
+    // Individual prelicensing course pages (excluded while held)
+    if (!prelicHeld) {
+      for (const loaSlug of ALL_LOA_SLUGS) {
+        entries.push({
+          url: `${BASE_URL}/${stateSlug}/prelicensing/${loaSlug}`,
+          lastModified,
+          changeFrequency: "monthly",
+          priority: 0.7,
+        });
+      }
     }
 
     // Individual CE course pages (one per LOA)

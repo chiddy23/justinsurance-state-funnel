@@ -1,5 +1,6 @@
 import React from "react";
 import { loaShortName } from "./loa";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
 
 const BASE_URL = "https://justinsuranceco.com";
 const LOGO_URL = "https://justinsuranceco.com/justinsurance-logo.png";
@@ -119,8 +120,16 @@ export function generateStateHubCourseSchema(params: {
   stateSlug: string;
   price: string;
   hours?: number | string;
+  /**
+   * "prelicensing" (default, back-compat) when the state mandates
+   * prelicensing education; "ce" when the state has no prelicensing
+   * program (CE-only, per credentialKindFromHours in prelicensing-status.ts).
+   * CE-only states must not claim a "state-approved prelicensing" credential
+   * — see StateProviderBadge, which this description must match.
+   */
+  credentialKind?: "prelicensing" | "ce";
 }): object {
-  const { stateName, stateSlug, price, hours } = params;
+  const { stateName, stateSlug, price, hours, credentialKind } = params;
   const hoursNum = typeof hours === "number" ? hours : undefined;
   const prelicensingUrl = `${BASE_URL}/${stateSlug}/prelicensing`;
   const offer = {
@@ -132,11 +141,19 @@ export function generateStateHubCourseSchema(params: {
     category: "Paid",
   };
 
+  const description =
+    credentialKind === "ce"
+      ? `Online insurance license exam-prep course for ${stateName}. Prepare to pass your ${stateName} state licensing exam. 100% online, self-paced, includes practice exams.`
+      : // Ohio Admin. Code 3901-5-07(H)(16): no pass-guarantee offers may flow
+        // into Ohio-facing structured data. Excluded states get an
+        // "instant course access" benefit instead so the description shape holds.
+        `State-approved online insurance prelicensing course for ${stateName}. Prepare to pass your ${stateName} state licensing exam. 100% online, self-paced, includes practice exams and ${hasPassGuarantee(stateSlug) ? "pass guarantee" : "instant course access"}.`;
+
   return {
     "@context": "https://schema.org",
     "@type": "Course",
     name: `${stateName} Insurance Prelicensing Course — Life & Health`,
-    description: `State-approved online insurance prelicensing course for ${stateName}. Pass your ${stateName} state licensing exam on the first attempt. 100% online, self-paced, includes practice exams and pass guarantee.`,
+    description,
     image: LOGO_URL,
     provider: {
       "@type": "Organization",
@@ -212,7 +229,7 @@ export function generateCEHubCourseSchema(params: {
     "@context": "https://schema.org",
     "@type": "Course",
     name: `${stateName} Insurance Continuing Education (CE) Course`,
-    description: `State-approved online insurance continuing education for ${stateName} producers. Complete all required CE hours, including the ethics requirement, in one self-paced package with same-day reporting to the ${stateName} Department of Insurance.`,
+    description: `State-approved online insurance continuing education for ${stateName} producers. Complete all required CE hours, including the ethics requirement, in one self-paced package typically reported the same business day to the ${stateName} Department of Insurance.`,
     image: LOGO_URL,
     provider: {
       "@type": "Organization",
@@ -329,7 +346,7 @@ export function generateOrganizationSchema(): object {
       "https://finance.yahoo.com/news/justinsurance-unveils-93-pass-rate-160000549.html",
     ],
     description:
-      "JustInsurance LLC offers state-approved online insurance prelicensing and continuing education courses for life and health insurance agents nationwide.",
+      "JustInsurance LLC offers state-approved online insurance continuing education courses nationwide and state-approved prelicensing courses in states that require prelicensing education, for life and health insurance agents.",
   };
 }
 

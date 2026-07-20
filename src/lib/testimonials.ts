@@ -27,6 +27,109 @@ export interface Testimonial {
   licenseType?: string;
   /** YouTube video ID where this comment originated (for source link) */
   videoId?: string;
+  /**
+   * Explicit opt-out: keep the record here for provenance, but never render it.
+   * Use this for judgment calls a regex cannot make (see mentionsCompetitor
+   * below for the automatic named-competitor filter). NEVER edit a real
+   * reviewer's words to make a record displayable — exclude the whole record.
+   * Always pair with excludeReason.
+   */
+  excludeFromDisplay?: boolean;
+  /** Why this record is withheld. Required whenever excludeFromDisplay is set. */
+  excludeReason?: string;
+}
+
+// ---------------------------------------------------------------------------
+// Pass-guarantee compliance filter (Ohio Admin. Code 3901-5-07(H)(16))
+// Ohio pages may not display ANY pass-guarantee offer, including testimonial
+// quotes that mention it. The regex is intentionally broad ("guarantee" in
+// any form) — over-filtering a testimonial on Ohio pages is harmless;
+// under-filtering is a compliance violation. Default behavior everywhere
+// else is unchanged.
+// ---------------------------------------------------------------------------
+
+const PASS_GUARANTEE_MENTION_RE = /guarantee/i;
+
+/** True when a testimonial's text mentions the pass guarantee (or any
+ * guarantee). Accepts any object with a `text` field so component-local
+ * testimonial pools can reuse it. */
+export function mentionsPassGuarantee(t: { text: string }): boolean {
+  return PASS_GUARANTEE_MENTION_RE.test(t.text);
+}
+
+// ---------------------------------------------------------------------------
+// Named-competitor filter (Lanham Act § 43(a) / FTC Act § 5)
+//
+// A sitewide purge removed our own competitor-comparison content. A third
+// party's review is NOT exempt from that purge: when we select a review and
+// republish it as our own marketing, we adopt the statement. Republishing a
+// disparaging comparative claim about a named competitor is republication and
+// carries the same false-advertising exposure as making the claim ourselves.
+//
+// So: no testimonial that names a competitor renders anywhere on the site —
+// unfavorable ("their book was dry"), favorable, or merely incidental ("I also
+// read the X book"). We are not in a position to substantiate a claim about
+// another company's product, and an incidental mention is not worth the
+// argument over whether it reads as comparative.
+//
+// This is a mechanical, fail-closed predicate rather than a hand-maintained
+// list of blocked records: any FUTURE review naming one of these companies is
+// dropped automatically the moment it is pasted in, with no code change. To
+// cover another company, add a matcher below — that is the only edit needed.
+//
+// We do NOT scrub the competitor's name out of a reviewer's sentence to save
+// the record. Altering the words of a real endorsement is itself an FTC
+// problem (16 CFR 255.1(a) — an endorsement must reflect the endorser's actual
+// statement). The whole record is withheld instead.
+//
+// NOT on this list, deliberately: Prometric, PSI, and Pearson VUE are the
+// states' testing vendors, not our competitors. Our own state pages name them
+// as a matter of fact, and a student saying which vendor proctored their exam
+// is not comparative advertising.
+// ---------------------------------------------------------------------------
+
+interface CompetitorMatcher {
+  /** The company, as we would refer to it. */
+  name: string;
+  /** Matches the spellings reviewers actually use. Non-global: `test()` on a
+   *  /g/ regex is stateful via lastIndex and would alternate pass/fail. */
+  pattern: RegExp;
+}
+
+const COMPETITOR_MATCHERS: readonly CompetitorMatcher[] = [
+  // \bxcel\b intentionally does NOT match "Excel" or "excellent" — the "xcel"
+  // inside those is preceded by "e", a word character, so \b cannot match there.
+  { name: "Xcel Solutions", pattern: /\bxcel\b/i },
+  // "ExamFX", "EXAMFX", "examfx", "exam FX", "Exam Fx".
+  { name: "ExamFX", pattern: /\bexam\s*fx\b/i },
+  // "Adbanker", "AdBanker", "Ad Banker", "A.D. Banker", "A D Banker".
+  { name: "A.D. Banker", pattern: /\ba\.?\s*d\.?\s*banker\b/i },
+  { name: "Kaplan", pattern: /\bkaplan\b/i },
+];
+
+/** Competitors that may not be named in any testimonial we display. */
+export const COMPETITOR_NAMES: readonly string[] = COMPETITOR_MATCHERS.map(
+  (m) => m.name
+);
+
+/**
+ * True when a testimonial names a competitor and therefore may not be
+ * republished as our marketing. Accepts any object with a `text` field so
+ * component-local pools (and the Trustpilot pool) can reuse it.
+ */
+export function mentionsCompetitor(t: { text: string }): boolean {
+  return COMPETITOR_MATCHERS.some((m) => m.pattern.test(t.text));
+}
+
+/**
+ * The single display gate for a testimonial. Fail-closed: a record renders
+ * only if it neither names a competitor nor carries an explicit opt-out.
+ * ALL_TESTIMONIALS / GOOGLE_REVIEWS are already filtered through this, so
+ * every consumer is safe by default; components re-apply it as defense in
+ * depth against a future raw-array import.
+ */
+export function isDisplayable(t: Testimonial): boolean {
+  return t.excludeFromDisplay !== true && !mentionsCompetitor(t);
 }
 
 // Helper: derive initials from a name like "Marcus T." or "Sarah K."
@@ -40,33 +143,15 @@ function deriveInitials(name: string): string {
 }
 
 // ---------------------------------------------------------------------------
-// Internal generic testimonials (use until YouTube comments replace them)
-// These are the original placeholder set. As real YouTube comments come in,
-// move them into the YOUTUBE_COMMENTS section below and remove the matching
-// generic ones — the site auto-updates everywhere.
-// ---------------------------------------------------------------------------
-
-const GENERIC_TESTIMONIALS: Testimonial[] = [
-  { name: "Marcus D.", initials: "MD", source: "verified-student", state: "Florida", licenseType: "Life & Health", text: "I was nervous about the licensing exam, but JustInsurance's practice tests were spot-on. I passed on my first try and had my license in hand three weeks after I enrolled. The video lessons made even the complicated state regulations easy to understand." },
-  { name: "Jennifer M.", initials: "JM", source: "verified-student", state: "Texas", licenseType: "Life", text: "JustInsurance's course content was thorough and well-organized. The practice exams were spot-on." },
-  { name: "David R.", initials: "DR", source: "verified-student", state: "Georgia", text: "I passed on my first try thanks to JustInsurance. The self-paced format fit perfectly with my schedule." },
-  { name: "Sarah K.", initials: "SK", source: "verified-student", state: "California", licenseType: "Health", text: "The video lessons broke down complicated regulations into plain language. I felt genuinely prepared walking into the exam room." },
-  { name: "Marcus T.", initials: "MT", source: "verified-student", state: "New York", licenseType: "Life & Health", text: "Flashcards and chapter quizzes made retention effortless. Finished my prelicensing in two weeks while working full time." },
-  { name: "Rebecca L.", initials: "RL", source: "verified-student", state: "Ohio", text: "Pass guarantee gave me total peace of mind. I ended up passing on the first attempt, but knowing the backup existed removed a lot of pressure." },
-  { name: "Thomas B.", initials: "TB", source: "verified-student", state: "Pennsylvania", text: "Customer support answered my state-specific questions within hours. That level of responsiveness is rare in an online course platform." },
-  { name: "Amanda W.", initials: "AW", source: "verified-student", state: "Illinois", licenseType: "Health", text: "I tried two other courses before finding JustInsurance. The difference in quality was night and day — clear explanations, no filler content." },
-  { name: "Christopher H.", initials: "CH", source: "verified-student", state: "Arizona", text: "The practice exams felt like the real thing. By test day I had taken so many mock exams that I was completely calm under pressure." },
-  { name: "Nicole D.", initials: "ND", source: "verified-student", state: "North Carolina", text: "Mobile-friendly format meant I could squeeze in study sessions during my lunch breaks. Got licensed in under a month without quitting my day job." },
-  { name: "Michael P.", initials: "MP", source: "verified-student", state: "Virginia", text: "I appreciated that the course covered exactly what the state exam tests — nothing more, nothing less. No time wasted on irrelevant material." },
-  { name: "Jessica R.", initials: "JR", source: "verified-student", state: "Michigan", licenseType: "Life", text: "The self-paced structure let me rewatch any lesson as many times as I needed. Totally worth it for someone balancing family and studying." },
-  { name: "Daniel F.", initials: "DF", source: "verified-student", state: "Washington", text: "Enrollment took five minutes, the content was immediately available, and I passed my exam three weeks later. Smooth from start to finish." },
-  { name: "Lauren G.", initials: "LG", source: "verified-student", state: "Massachusetts", licenseType: "P&C", text: "JustInsurance's practice tests nailed the question style and difficulty of my actual state exam. First attempt, passing score." },
-  { name: "Kevin S.", initials: "KS", source: "verified-student", state: "New Jersey", text: "The course organized every topic exactly the way the state exam breaks it down. Studying felt efficient rather than overwhelming." },
-  { name: "Patricia L.", initials: "PL", source: "ce-renewal", state: "Tennessee", licenseType: "CE", text: "Completed all my CE hours in one weekend. The same-day reporting meant my renewal was processed before my deadline. Couldn't be easier." },
-  { name: "Robert K.", initials: "RK", source: "ce-renewal", state: "Oregon", licenseType: "CE", text: "I've renewed with JustInsurance three cycles in a row now. The courses are straightforward, the ethics content is solid, and the certificate is instant." },
-  { name: "Angela S.", initials: "AS", source: "ce-renewal", state: "Colorado", licenseType: "CE", text: "Renewing my license used to be a hassle — finding approved courses, waiting for credits to post, worrying about deadlines. JustInsurance handles all of it." },
-];
-
+// NOTE: This file previously contained a GENERIC_TESTIMONIALS array of 18
+// invented personas (e.g. "Marcus D.", "Jennifer M.", "Angela S.") labeled
+// as "verified-student" / "ce-renewal". None of those people exist — they
+// were fabricated placeholder copy. Displaying invented named reviews as
+// real social proof is deceptive under FTC guidance on endorsements and
+// testimonials, so the set has been removed entirely rather than exported.
+// Only real, attributable sources remain below: real YouTube comments and
+// real Google Business Profile reviews. Do not reintroduce invented named
+// testimonials here or in any consumer of ALL_TESTIMONIALS.
 // ---------------------------------------------------------------------------
 // YouTube comments (real, attributed to the @InsuranceExam channel)
 // As you mine YouTube, paste real comments here. The site picks them up
@@ -74,7 +159,11 @@ const GENERIC_TESTIMONIALS: Testimonial[] = [
 // all update with no code changes.
 // ---------------------------------------------------------------------------
 
-const YOUTUBE_COMMENTS: Testimonial[] = [
+// Raw, unfiltered record of every real comment mined. Nothing reads this
+// directly — YOUTUBE_COMMENTS below is the filtered view that the site uses.
+// Keeping the excluded records here (rather than deleting them) preserves
+// provenance and stops a well-meaning future edit from re-adding one.
+const YOUTUBE_COMMENTS_RAW: Testimonial[] = [
   {
     name: "Sofyrelocs",
     initials: "SO",
@@ -282,6 +371,9 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     state: "Texas",
     text: "Did you pass? I test next week in Texas. I am very overwhelmed and I am \"book smart\" least I thought lol",
     videoId: "zcCOK4ztwec",
+    excludeFromDisplay: true,
+    excludeReason:
+      "Not an endorsement (FTC 16 CFR 255.0(b)): this is a question addressed to another commenter from someone who has not taken the exam and says nothing about our product. Displaying it as a testimonial implies an experience the writer never had.",
   },
   {
     name: "Fp",
@@ -298,6 +390,9 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     state: "New York",
     text: "New York is horrible. It took my test six freaking times. The proctor told me New York put 2000 questions in a pool, so that every time you come back come back to redo the test you get new questions. He hasn't seen anybody pass the test recently.",
     videoId: "0hP0lwdeDAE",
+    excludeFromDisplay: true,
+    excludeReason:
+      "Not an endorsement (FTC 16 CFR 255.0(b)) — says nothing about our product. Also republishes unverifiable secondhand assertions about the NY exam (a 2,000-question pool; 'hasn't seen anybody pass recently') that we cannot substantiate and would adopt by displaying. NY is additionally a PENDING-approval state.",
   },
   {
     name: "Desh C.",
@@ -322,6 +417,9 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     state: "Florida",
     text: "Im taking exam in Florida Monday 4th time. This time ill pass",
     videoId: "1MZWRHnmWFg",
+    excludeFromDisplay: true,
+    excludeReason:
+      "Not an endorsement (FTC 16 CFR 255.0(b)): a statement of intent from someone who has failed three times and has not used or evaluated our product. No genuine experience with the advertised product to reflect.",
   },
   {
     name: "Daniellebaylor",
@@ -941,6 +1039,9 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     source: "youtube",
     text: "I’ve already passed my exam but this is such great information you explain it so much better than this horrible video series that you have to pay for LOL you explain it in layman‘s terms and it’s really helping me now after the fact. Not even needing to pass anymore",
     videoId: "tVoyYZhVsng",
+    excludeFromDisplay: true,
+    excludeReason:
+      "Disparaging comparative claim about a competitor's paid course ('so much better than this horrible video series that you have to pay for'). mentionsCompetitor() cannot catch it because the product is unnamed, but the exposure is the same as a named comparison — we would be republishing an unsubstantiated superiority claim as our own marketing. Requires this explicit opt-out.",
   },
   {
     name: "JustInsurance Student",
@@ -956,13 +1057,9 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
     text: "Justin, I just wanted to say thank you. You were the reason I passed the life Insurance exam. I used Adbanker for prelicensing and it was pretty confusing the first I read through it. After I watched a few of your videos it all came together. I was able to score an 82. I can't say thank you enough.",
     videoId: "hP7QMSMUxDI",
   },
-  {
-    name: "Weiwilson",
-    initials: "WE",
-    source: "youtube",
-    text: "Passing the insurance exams is when you study hard , but if your are too busy and can't study I advise you get yourself a good help . I recommend Mr Ben to everyone , he's the man behind my exam success, congratulations I made 97% ️ If you need help with the exact Q&A contact him if you want",
-    videoId: "OOmBWg8yKxo",
-  },
+  // REMOVED 2026-07-14 (audit): a "Weiwilson" YouTube comment was a spam
+  // solicitation for exam cheating ("exact Q&A… contact him") — never
+  // republish comments like it as testimonials.
   {
     name: "Juliestark",
     initials: "JU",
@@ -1120,7 +1217,8 @@ const YOUTUBE_COMMENTS: Testimonial[] = [
 // ---------------------------------------------------------------------------
 // Google Business Profile reviews (verified, 5-star)
 // ---------------------------------------------------------------------------
-export const GOOGLE_REVIEWS: Testimonial[] = [
+// Raw, unfiltered. GOOGLE_REVIEWS below is the filtered view the site reads.
+const GOOGLE_REVIEWS_RAW: Testimonial[] = [
   {
     name: "Ben H.",
     initials: "BH",
@@ -1220,33 +1318,54 @@ export const GOOGLE_REVIEWS: Testimonial[] = [
   },
 ];
 
-/** All testimonials, YouTube first (most credible), Google next, then generic */
+/**
+ * Displayable YouTube comments. Filtering here — at the source, not at each
+ * call site — means every selection path (state hubs, LOA pages, /reviews,
+ * schema counts) is competitor-clean by construction. A record that names a
+ * competitor or carries excludeFromDisplay simply does not exist downstream.
+ */
+const YOUTUBE_COMMENTS: Testimonial[] = YOUTUBE_COMMENTS_RAW.filter(isDisplayable);
+
+/** Displayable Google Business Profile reviews (see YOUTUBE_COMMENTS above). */
+export const GOOGLE_REVIEWS: Testimonial[] = GOOGLE_REVIEWS_RAW.filter(isDisplayable);
+
+/** All real, attributable testimonials — YouTube first (most credible), then Google. No invented personas. */
 export const ALL_TESTIMONIALS: Testimonial[] = [
   ...YOUTUBE_COMMENTS,
   ...GOOGLE_REVIEWS,
-  ...GENERIC_TESTIMONIALS,
 ];
 
 /** Just the YouTube comments — used to count "verified social proof" */
 export const YOUTUBE_TESTIMONIAL_COUNT = YOUTUBE_COMMENTS.length;
 
-/** Total reviews displayed across the site (drives schema reviewCount) */
+/** Total reviews displayed across the site (drives schema reviewCount).
+ *  Counts the FILTERED set, so the advertised review count never includes a
+ *  record the site withholds. */
 export const TOTAL_REVIEW_COUNT = ALL_TESTIMONIALS.length;
 
 /**
- * Get the most relevant testimonial for a specific state.
- * Priority: YouTube comment for that state > verified student for that state > null.
- * State pages call this to surface state-specific social proof.
+ * Get the most relevant real testimonial for a specific state.
+ * Priority: YouTube comment for that state > Google review for that state > null.
+ * State pages call this to surface state-specific social proof. Only real,
+ * attributable sources are considered — no invented personas.
  */
-export function getTestimonialForState(stateName: string): Testimonial | null {
+export function getTestimonialForState(
+  stateName: string,
+  /** Set true on pages for states where the pass guarantee cannot be
+   * offered (see hasPassGuarantee in @/lib/pass-guarantee) to skip
+   * testimonials that mention it. Default false — behavior unchanged. */
+  excludeGuaranteeMentions = false
+): Testimonial | null {
+  const allowed = (t: Testimonial) =>
+    !excludeGuaranteeMentions || !mentionsPassGuarantee(t);
   const youtubeMatch = YOUTUBE_COMMENTS.find(
-    (t) => t.state?.toLowerCase() === stateName.toLowerCase()
+    (t) => t.state?.toLowerCase() === stateName.toLowerCase() && allowed(t)
   );
   if (youtubeMatch) return youtubeMatch;
-  const studentMatch = GENERIC_TESTIMONIALS.find(
-    (t) => t.state?.toLowerCase() === stateName.toLowerCase()
+  const googleMatch = GOOGLE_REVIEWS.find(
+    (t) => t.state?.toLowerCase() === stateName.toLowerCase() && allowed(t)
   );
-  return studentMatch || null;
+  return googleMatch || null;
 }
 
 /**
@@ -1256,11 +1375,17 @@ export function getTestimonialForState(stateName: string): Testimonial | null {
 export function getTestimonialsForState(
   stateName: string,
   count = 3,
-  variant: "prelicensing" | "ce" = "prelicensing"
+  variant: "prelicensing" | "ce" = "prelicensing",
+  /** Set true on pages for states where the pass guarantee cannot be
+   * offered to skip testimonials that mention it. Default false —
+   * behavior unchanged. */
+  excludeGuaranteeMentions = false
 ): Testimonial[] {
   const isCE = variant === "ce";
-  const pool = ALL_TESTIMONIALS.filter((t) =>
-    isCE ? t.source === "ce-renewal" : t.source !== "ce-renewal"
+  const pool = ALL_TESTIMONIALS.filter(
+    (t) =>
+      (isCE ? t.source === "ce-renewal" : t.source !== "ce-renewal") &&
+      (!excludeGuaranteeMentions || !mentionsPassGuarantee(t))
   );
 
   const stateSpecific = pool.filter(

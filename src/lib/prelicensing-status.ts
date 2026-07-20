@@ -32,6 +32,112 @@ export function credentialKindFromHours(
 }
 
 /**
+ * Does a free-text requirement note MEAN "not required"?
+ *
+ * Several fields (fingerprintingNotes, prelicensing hours, ...) express absence in
+ * prose rather than as a flag, and every ad-hoc attempt to detect that prose has
+ * eventually missed a phrasing. `/^not required/i` handles "Not required" but not
+ * "No fingerprinting required — Kentucky requires a criminal background check…",
+ * which is the same failure shape that cost 33 states on the prelicensing gate.
+ * Centralise the detection so a new phrasing is fixed in one place.
+ */
+export function meansNotRequired(note: string | null | undefined): boolean {
+  const s = (note ?? "").trim().toLowerCase();
+  if (!s) return false;
+  return (
+    /^not\s+required\b/.test(s) ||
+    /^none\s+required\b/.test(s) ||
+    /^no\s+\w+ing\s+required\b/.test(s) || // "No fingerprinting required …"
+    /^n\/a\b/.test(s)
+  );
+}
+
+/**
+ * Per-line prelicensing requirement as a DISCRIMINATED UNION.
+ *
+ * WHY THIS EXISTS. The raw data encodes "no requirement" as English prose —
+ * "None required (optional)", "Not Required (as of Jan 1, 2024)", "no combined
+ * license". Templates repeatedly tried to detect that prose by string matching and
+ * silently guessed wrong, falling back to plausible-looking output with no error:
+ *
+ *   - cost page   `/not\s*required/i`  matched "Not Required…" but MISSED
+ *                 "None required (optional)" — the value 33 states use — so nine
+ *                 cost surfaces sold prelicensing as mandatory in exam-only states.
+ *   - faq-data    `loaName === "Life"`      never matched "Life Insurance".
+ *   - faq-data    `loaName.toLowerCase()`   never matched the score-table key.
+ *
+ * Consuming THIS union instead of a raw `string | number` makes the compiler force
+ * you to handle the not-required branch, so the bug becomes unrepresentable rather
+ * than merely detectable. Prefer it over any ad-hoc test of `.hours`.
+ */
+export type PleRequirement =
+  | { required: true; hours: number }
+  | { required: false; note: string };
+
+export function pleRequirement(
+  raw: number | string | null | undefined,
+): PleRequirement {
+  if (typeof raw === "number") return { required: true, hours: raw };
+  if (typeof raw === "string") {
+    const m = raw.match(/^\s*(\d+(?:\.\d+)?)/);
+    if (m) return { required: true, hours: Number(m[1]) };
+    return { required: false, note: raw };
+  }
+  return { required: false, note: "Not required" };
+}
+
+/** Minimal shape needed to decide what a page may claim. */
+interface ClaimSource {
+  providerApprovalNumber: string;
+  prelicensing: {
+    life: { hours: number | string };
+    health: { hours: number | string };
+    lifeAndHealth: { hours: number | string };
+  };
+}
+
+/**
+ * What a page is ALLOWED to assert for a state — computed ONCE, in one place.
+ *
+ * Previously ~10 files each re-derived eligibility inline, which is ten chances to
+ * get it wrong; several did. The critical trap: `providerApprovalNumber` is a
+ * CONTINUING EDUCATION credential, so "we are approved" is NOT the same question as
+ * "we may advertise approved PRELICENSING." Read these booleans; never re-derive.
+ */
+export interface StateClaims {
+  /** The state mandates prelicensing on at least one line. */
+  prelicensingRequired: boolean;
+  /** Our provider approval has not issued yet (NY/WA). */
+  approvalPending: boolean;
+  /** Safe to say "state-approved prelicensing course" / "approved by the DOI". */
+  canClaimPrelicensingApproval: boolean;
+  /** Safe to say we report PRELICENSING completions to the DOI. */
+  canClaimPrelicensingReporting: boolean;
+  /** Safe to say "state-approved CE" (CE approval exists in its own right). */
+  canClaimCeApproval: boolean;
+}
+
+export function stateClaims(state: ClaimSource): StateClaims {
+  const prelicensingRequired =
+    credentialKindFromHours([
+      state.prelicensing.life.hours,
+      state.prelicensing.health.hours,
+      state.prelicensing.lifeAndHealth.hours,
+    ]) === "prelicensing";
+  const approvalPending = state.providerApprovalNumber === "PENDING";
+  const approved = !approvalPending;
+  return {
+    prelicensingRequired,
+    approvalPending,
+    // Both conditions are required. An exam-only state has no prelicensing
+    // approval program at all, so a CE number can never authorize this claim.
+    canClaimPrelicensingApproval: approved && prelicensingRequired,
+    canClaimPrelicensingReporting: approved && prelicensingRequired,
+    canClaimCeApproval: approved,
+  };
+}
+
+/**
  * A state that MANDATES prelicensing (any line has numeric hours) but whose
  * JustInsurance provider approval is still PENDING must NOT publish
  * "state-approved prelicensing course" pages until approval issues. Held pages

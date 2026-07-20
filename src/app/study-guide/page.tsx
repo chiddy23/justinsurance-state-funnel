@@ -11,6 +11,7 @@ import PracticeQuestionCard from "@/components/PracticeQuestionCard";
 import { SchemaMarkup, generateBreadcrumbSchema, generateFAQSchema, generateArticleSchemaWithReviewer } from "@/lib/schema";
 import { ALL_STATE_SLUGS, STATES, type StateData } from "@/lib/states";
 import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import { formatPassingScore } from "@/lib/exam-score";
 import studyGuideStates from "@/lib/study-guide-states.json";
 import {
   LIFE_INSURANCE_TYPES,
@@ -179,6 +180,12 @@ const tableStates: StudyGuideState[] = studyGuideStates.map((row) => {
     ...row,
     admin,
     hours: formatPrelicensingHours(facts.prelicensing),
+    // The JSON hard-coded "70%" for all 51 rows. That is wrong outright for four
+    // states (CA 60, MI 72, MS 65, MT 75) and, for the 17 scaled-score states,
+    // renders a scaled cut as a raw percentage of questions answered correctly.
+    // Derive it from the same helper the state pages use so this table cannot
+    // drift again — exactly like admin/hours above.
+    pass: formatPassingScore(toSlug(row.name), facts.examInfo.passingScore),
     law: contradictsStateFacts(row.law, facts)
       ? `We're re-verifying our ${row.name} law summary against primary sources. The current, source-verified ${row.name} requirements are on the ${row.name} state page linked below.`
       : row.law,

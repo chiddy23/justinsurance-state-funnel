@@ -61,7 +61,7 @@ const faqs = [
   {
     question: "Do I need to finish the prelicensing course before I take the exam?",
     answer:
-      "Yes. Nearly every state requires you to complete a state-approved prelicensing course and receive a certificate of completion before you are eligible to schedule the state licensing exam. The certificate is transmitted electronically to the state or exam vendor in most jurisdictions.",
+      "Only in the states that mandate it — 17 of the 49 we serve. In those states you must complete a state-approved prelicensing course and receive a certificate of completion before you are eligible to schedule the state licensing exam, and the certificate is transmitted electronically to the state or exam vendor in most of them. In the other 32 states you can schedule the exam directly.",
   },
   {
     question: "How long are exam results good for?",

@@ -149,7 +149,7 @@ export default function LifeInsuranceLicensePage() {
               The career opportunity in life insurance is substantial. The U.S. has an estimated 10 million households that are underinsured or have no life coverage at all. Independent agents who build a life insurance book of business benefit from renewal commissions that pay out year after year as clients keep their policies in force — creating a compounding income stream that rewards consistent effort.
             </p>
             <p>
-              To sell life insurance legally, you must first complete a state-approved prelicensing course, pass the state licensing exam, submit a license application, and receive approval from your state&apos;s Department of Insurance. JustInsurance provides the prelicensing education for this process — online, self-paced, and at a flat $199 with no hidden fees. Select your state below to see the specific course hours required and what the exam covers.
+              To sell life insurance legally you must pass the state licensing exam, submit a license application, and receive approval from your state&apos;s Department of Insurance &mdash; and in the 17 states that mandate it, complete a state-approved prelicensing course first. JustInsurance provides the prelicensing education for this process — online, self-paced, and at a flat $199 with no hidden fees. Select your state below to see the specific course hours required and what the exam covers.
             </p>
           </div>
         </div>

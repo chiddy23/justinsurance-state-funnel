@@ -424,7 +424,7 @@ export default async function ReviewsPage() {
             Ready to Join Them?
           </h2>
           <p className="text-blue-100 leading-relaxed mb-6 max-w-2xl mx-auto">
-            State-approved prelicensing across the country. $199 all-inclusive.
+            State-approved prelicensing where states require it, exam prep everywhere else. $199 all-inclusive.
             Pass guarantee in eligible states, backed by published methodology.
           </p>
           <div className="flex flex-wrap justify-center gap-3">

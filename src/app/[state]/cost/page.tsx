@@ -7,7 +7,7 @@ import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { hasPassGuarantee } from "@/lib/pass-guarantee";
 import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
-import { credentialKindFromHours } from "@/lib/prelicensing-status";
+import { credentialKindFromHours, meansNotRequired } from "@/lib/prelicensing-status";
 import {
   generateArticleSchemaWithReviewer,
   generateBreadcrumbSchema,
@@ -167,7 +167,7 @@ export default async function CostPage({
 
   const refundAnswer = `JustInsurance offers a 30-day refund policy (processing fee applies; unavailable after 50% course completion) on ${stateData.name} prelicensing courses — see our terms for full details. State-collected fees (exam fee, ${applicationFeeDisplay} application fee, ${backgroundDisplay === "Included" ? "background check" : backgroundDisplay} background check) are non-refundable once paid to the ${stateData.doiAbbr} or the testing vendor. Always confirm requirements before paying state fees.`;
 
-  const totalCostAnswer = `Plan for about ${jiLowDisplay} all-in to get your ${stateData.name} insurance license through JustInsurance. That covers ${noPrelicensingRequired ? "the optional prelicensing course," : "prelicensing course,"} the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee, the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee, and the ${backgroundDisplay} background-check cost. ${/^not required/i.test(stateData.fingerprintingNotes) ? `Fingerprinting is not required in ${stateData.name}.` : `${stateData.fingerprintingNotes.split(".")[0].trim()}.`} JustInsurance's all-in price for the prelicensing portion is ${JI_PRICE_LABEL}.`;
+  const totalCostAnswer = `Plan for about ${jiLowDisplay} all-in to get your ${stateData.name} insurance license through JustInsurance. That covers ${noPrelicensingRequired ? "the optional prelicensing course," : "prelicensing course,"} the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee, the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee, and the ${backgroundDisplay} background-check cost. ${meansNotRequired(stateData.fingerprintingNotes) ? `Fingerprinting is not required in ${stateData.name}.` : `${stateData.fingerprintingNotes.split(".")[0].trim()}.`} JustInsurance's all-in price for the prelicensing portion is ${JI_PRICE_LABEL}.`;
 
   const faqs = [
     {
@@ -233,9 +233,7 @@ export default async function CostPage({
     note?: string;
   };
 
-  const fingerprintRequired = !/^not required/i.test(
-    stateData.fingerprintingNotes || ""
-  );
+  const fingerprintRequired = !meansNotRequired(stateData.fingerprintingNotes);
   const fingerprintTypicalCost = fingerprintRequired
     ? backgroundDisplay
     : "Not required";
@@ -315,8 +313,16 @@ export default async function CostPage({
           {stateData.providerApprovalNumber !== "PENDING" && (
             <span>Provider Approval #{stateData.providerApprovalNumber}</span>
           )}
+          {/* An unqualified "State-approved by {DOI}" on a PRELICENSING cost page
+              reads as prelicensing approval. In exam-only states the DOI runs no
+              prelicensing approval program at all and this number is a CE
+              credential, so name the credential we actually hold. */}
           {isProviderApproved && (
-            <span>State-approved by {stateData.doiAbbr}</span>
+            <span>
+              {noPrelicensingRequired
+                ? `${stateData.doiAbbr}-approved CE provider`
+                : `State-approved by ${stateData.doiAbbr}`}
+            </span>
           )}
         </div>
       </div>

@@ -44,7 +44,7 @@ const faqs = [
   {
     question: "Is the prelicensing course required, or can I skip it?",
     answer:
-      "Most states require a state-approved prelicensing course before you are allowed to sit for the exam. A handful of states do not mandate prelicensing hours (for example, California eliminated line-specific prelicensing hours under AB 943 effective January 2026 and now only requires 12 hours of Ethics and Code), but in nearly every case the candidates who complete a course pass at dramatically higher rates than self-studiers. The course is where the cost savings on retake fees come from.",
+      "17 of the 49 states we serve require a state-approved prelicensing course before you are allowed to sit for the exam; the other 32 do not mandate prelicensing hours at all. Among the states that have changed their rules (for example, California eliminated line-specific prelicensing hours under AB 943 effective January 2026 and now only requires 12 hours of Ethics and Code), but in nearly every case the candidates who complete a course pass at dramatically higher rates than self-studiers. The course is where the cost savings on retake fees come from.",
   },
   {
     question: "Do I have to pay for fingerprinting separately?",
@@ -390,7 +390,7 @@ export default function InsuranceLicenseCostPage() {
             <div className="bg-white rounded-xl p-7 shadow-sm border border-gray-100">
               <h3 className="font-bold text-navy text-lg mb-3">1. Prelicensing Course — $150 to $400</h3>
               <p className="text-gray-700 leading-relaxed text-sm mb-3">
-                Most states require a state-approved prelicensing course before you can sit for the exam, and course prices vary widely — many providers use tiered or add-on pricing where the advertised base price covers core content and additional study tools cost extra. <Link href="/prelicensing" className="text-navy underline underline-offset-2 hover:text-gold">JustInsurance charges a flat $199</Link> per line of authority, all-inclusive — every practice question, every flashcard, every instructor session is in the base price.
+                In the 17 states that require a state-approved prelicensing course before you can sit for the exam, course prices vary widely — many providers use tiered or add-on pricing where the advertised base price covers core content and additional study tools cost extra. <Link href="/prelicensing" className="text-navy underline underline-offset-2 hover:text-gold">JustInsurance charges a flat $199</Link> per line of authority, all-inclusive — every practice question, every flashcard, every instructor session is in the base price.
               </p>
               <p className="text-gray-700 leading-relaxed text-sm">
                 This is the one fee you actually control. Picking a course that is aligned to your state&apos;s exam content outline is the difference between passing on the first try and paying $98 per retake in a high-fee state.

@@ -327,8 +327,16 @@ export default async function RequirementsPage({
           {stateData.providerApprovalNumber !== "PENDING" && (
             <span>Provider Approval #{stateData.providerApprovalNumber}</span>
           )}
+          {/* Use the prelicensingApproved predicate already computed above rather
+              than the bare CE-approval flag: in an exam-only state an unqualified
+              "Approved by {DOI}" implies a prelicensing approval that does not
+              exist. Name the CE credential we actually hold instead. */}
           {isProviderApproved && (
-            <span>Approved by {stateData.doiAbbr}</span>
+            <span>
+              {prelicensingApproved
+                ? `Approved by ${stateData.doiAbbr}`
+                : `${stateData.doiAbbr}-approved CE provider`}
+            </span>
           )}
         </div>
       </div>

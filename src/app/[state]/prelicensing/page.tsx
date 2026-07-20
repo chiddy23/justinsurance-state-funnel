@@ -281,6 +281,8 @@ export default async function PrelicensingHubPage({
                   ? `Complete all required hours — 7.5 live webinar hours per line of authority (attendance verified) plus 12.5 self-paced online hours per line.`
                   : isCalifornia
                   ? `Complete the single 12-hour Code and Ethics course — it satisfies the ethics requirement for every line of authority and is completed only once — online at your own pace.`
+                  : isCEOnlyState
+                  ? `Work through the full course for your line of authority online at your own pace.`
                   : `Study through all the required hours for your line of authority online at your own pace.`,
               },
               {

@@ -60,7 +60,7 @@ export default function HowToGetLicensed({ stateData }: HowToGetLicensedProps) {
     {
       n: 4,
       title: `Submit your license application`,
-      body: `File your producer license application via NIPR with the ${applicationFee ? `$${applicationFee}` : "state"} application fee. Most ${name} applications are processed within ${totalLicensingTime || "2-4 weeks"}.`,
+      body: `File your producer license application via NIPR with the ${applicationFee ? `$${applicationFee}` : "state"} application fee. Most ${name} applications are processed within ${stateData.applicationProcessingTime || "a few business days"}, and most candidates complete the whole process in ${totalLicensingTime || "2-4 weeks"}.`,
     },
   ];
 

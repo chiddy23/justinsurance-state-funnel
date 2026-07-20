@@ -1,9 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { stateDisclosure } from "@/lib/state-disclosures";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
 import {
   generateArticleSchemaWithReviewer,
   generateBreadcrumbSchema,
@@ -51,14 +54,6 @@ function feeLow(raw: string | undefined | null): number | null {
   return match ? parseFloat(match[0]) : null;
 }
 
-function feeHigh(raw: string | undefined | null): number | null {
-  if (!raw) return null;
-  const cleaned = String(raw).replace(/[$,\s]/g, "");
-  const matches = cleaned.match(/[0-9]+(?:\.[0-9]+)?/g);
-  if (!matches || matches.length === 0) return null;
-  return parseFloat(matches[matches.length - 1]);
-}
-
 // Format a fee for display. Preserves the source string when it is
 // non-numeric (e.g. "No separate fee") so users see the actual
 // regulatory wording.
@@ -79,6 +74,24 @@ export default async function CostPage({
   const { state } = await params;
   const stateData = getStateBySlug(state);
   if (!stateData) notFound();
+
+  // Ohio Admin. Code 3901-5-07(H)(16) — no pass-guarantee offers on
+  // Ohio-facing pages. Gates the retake FAQ, cost-table note, comparison
+  // block, savings box, and closing CTA below. Other states unchanged.
+  const guaranteeOk = hasPassGuarantee(stateData.slug);
+
+  // Gates the "state-approved" DOI badge and any self-referential
+  // "state-approved" product claim for states where JustInsurance's own
+  // provider application is still pending (providerApprovalNumber ===
+  // "PENDING", e.g. New York, Washington) — same condition already used
+  // for the adjacent Provider Approval # badge.
+  const isProviderApproved = stateData.providerApprovalNumber !== "PENDING";
+
+  // 50 Ill. Adm. Code Part 3119 — Illinois-only: the approved short format
+  // line is added to the cost-breakdown intro so this prelicensing surface
+  // states the live-webinar + self-paced hybrid format. No rendered-output
+  // change for any other state.
+  const ilWebinar = hasClassroomWebinarHours(stateData);
 
   // -------------------------------------------------------------------------
   // Determine prelicensing requirement & cost
@@ -106,24 +119,14 @@ export default async function CostPage({
   const backgroundDisplay = feeDisplay(stateData.backgroundCheckCost);
 
   const examLow = feeLow(stateData.examInfo.examFee) ?? 0;
-  const examHigh = feeHigh(stateData.examInfo.examFee) ?? examLow;
   const appLow = feeLow(stateData.applicationFee) ?? 0;
-  const appHigh = feeHigh(stateData.applicationFee) ?? appLow;
   const bgLow = feeLow(stateData.backgroundCheckCost) ?? 0;
-  const bgHigh = feeHigh(stateData.backgroundCheckCost) ?? bgLow;
-  const preLow = noPrelicensingRequired
-    ? 0
-    : feeLow(stateData.prelicensing.lifeAndHealth.totalCost) ?? JI_PRICE_NUM;
-  const preHigh = noPrelicensingRequired
-    ? 0
-    : feeHigh(stateData.prelicensing.lifeAndHealth.totalCost) ?? preLow;
 
-  // Typical low/high estimated total — using JustInsurance's $199 prelicensing
-  // for the JI total, and the source state's totalCost for the typical range.
-  const typicalLow = preLow + examLow + appLow + bgLow;
-  const typicalHigh = preHigh + examHigh + appHigh + bgHigh;
-
-  const jiLow = (noPrelicensingRequired ? 0 : JI_PRICE_NUM) + examLow + appLow + bgLow;
+  // Always include the $199 JustInsurance course: this page prices the "all-in
+  // cost to get licensed THROUGH JustInsurance," and excluding it for optional-
+  // prelicensing states produced a total that both under-counted the real cost
+  // and contradicted the same sentence's "$199 prelicensing portion" (Alabama bug).
+  const jiLow = JI_PRICE_NUM + examLow + appLow + bgLow;
 
   const formatRange = (low: number, high: number): string => {
     if (low === 0 && high === 0) return "Varies";
@@ -132,31 +135,28 @@ export default async function CostPage({
     return low === high ? lowStr : `${lowStr}–${highStr}`;
   };
 
-  const totalLowDisplay = formatRange(typicalLow, typicalHigh);
   const jiLowDisplay = noPrelicensingRequired
     ? formatRange(jiLow, jiLow)
     : `$${Math.round(jiLow)}`;
-  const savingsLow = Math.max(0, Math.round(typicalLow - jiLow));
-  const savingsHigh = Math.max(0, Math.round(typicalHigh - jiLow));
-  const savingsDisplay =
-    savingsLow === savingsHigh
-      ? `$${savingsLow}`
-      : `$${savingsLow}–$${savingsHigh}`;
 
   // -------------------------------------------------------------------------
   // FAQs
   // -------------------------------------------------------------------------
-  const ceFaqAnswer = `${stateData.name} requires ${stateData.ce.totalHours} hours of CE every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} ethics hours. JustInsurance offers a complete ${stateData.name} CE package for ${stateData.ce.packagePrice}, with same-day reporting to the ${stateData.doiAbbr}. Single courses start at ${stateData.ce.individualCoursePrice}.`;
+  const ceFaqAnswer = `${stateData.name} requires ${stateData.ce.totalHours} hours of CE every ${stateData.ce.renewalPeriod}, including ${stateData.ce.ethicsHours} ethics hours. JustInsurance offers a complete ${stateData.name} CE package for ${stateData.ce.packagePrice}${isProviderApproved ? `, with same-day reporting to the ${stateData.doiAbbr}` : ``}. Single courses start at ${stateData.ce.individualCoursePrice}.`;
 
   const examRetakeAnswer = noPrelicensingRequired
     ? `Failing the ${stateData.name} state exam means paying the ${examFeeDisplay} exam fee again for each retake. ${stateData.examInfo.retakeWaitingPeriod ? "Retake rules: " + stateData.examInfo.retakeWaitingPeriod + "." : ""} JustInsurance practice exams ($59) are designed to mirror the ${stateData.examInfo.examProvider} format so you pass on the first attempt.`
-    : `If you fail the ${stateData.name} state exam, you'll pay the ${examFeeDisplay} exam fee again for each retake — and depending on your prelicensing provider, you may need to repurchase course access. ${stateData.examInfo.retakeWaitingPeriod ? "Retake rules: " + stateData.examInfo.retakeWaitingPeriod + "." : ""} JustInsurance includes a pass guarantee and unlimited practice exams to keep retake costs at zero.`;
+    : `If you fail the ${stateData.name} state exam, you'll pay the ${examFeeDisplay} exam fee again for each retake — and depending on your prelicensing provider, you may need to repurchase course access. ${stateData.examInfo.retakeWaitingPeriod ? "Retake rules: " + stateData.examInfo.retakeWaitingPeriod + "." : ""} ${
+        guaranteeOk
+          ? "JustInsurance includes a pass guarantee and unlimited practice exams to help you pass the first time and avoid retake fees."
+          : "JustInsurance includes unlimited practice exams designed to help you pass on the first attempt and avoid retake fees."
+      }`;
 
-  const paymentPlanAnswer = `Yes — JustInsurance offers ${stateData.name} prelicensing through Affirm, with monthly payment plans starting at $199 paid over 3, 6, or 12 months (subject to credit approval). You can also pay in full upfront. State exam fees, application fees, and fingerprinting are paid directly to the testing vendor, ${stateData.doiAbbr}, and the fingerprint provider — those aren't covered by Affirm financing.`;
+  const paymentPlanAnswer = `JustInsurance ${stateData.name} prelicensing is a flat, one-time $199 per course — we do not currently offer payment plans or third-party financing. You pay the course price in full when you enroll. State exam fees, application fees, and fingerprinting are paid separately and directly to the testing vendor, the ${stateData.doiAbbr}, and the fingerprint provider.`;
 
-  const refundAnswer = `JustInsurance offers a satisfaction-based refund policy on ${stateData.name} prelicensing courses — see our terms for full details. State-collected fees (exam fee, ${applicationFeeDisplay} application fee, ${backgroundDisplay === "Included" ? "background check" : backgroundDisplay} background check) are non-refundable once paid to the ${stateData.doiAbbr} or the testing vendor. Always confirm requirements before paying state fees.`;
+  const refundAnswer = `JustInsurance offers a 30-day refund policy (processing fee applies; unavailable after 50% course completion) on ${stateData.name} prelicensing courses — see our terms for full details. State-collected fees (exam fee, ${applicationFeeDisplay} application fee, ${backgroundDisplay === "Included" ? "background check" : backgroundDisplay} background check) are non-refundable once paid to the ${stateData.doiAbbr} or the testing vendor. Always confirm requirements before paying state fees.`;
 
-  const totalCostAnswer = `Plan for ${totalLowDisplay} all-in to get your ${stateData.name} insurance license. That covers ${noPrelicensingRequired ? "the optional prelicensing course," : "prelicensing course,"} the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee, the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee, and the ${backgroundDisplay} background-check cost. Fingerprinting is ${/^not required/i.test(stateData.fingerprintingNotes) ? "not required in " + stateData.name : "handled per " + stateData.fingerprintingNotes.split(".")[0].toLowerCase() + "."} JustInsurance's all-in price for the prelicensing portion is ${JI_PRICE_LABEL}.`;
+  const totalCostAnswer = `Plan for about ${jiLowDisplay} all-in to get your ${stateData.name} insurance license through JustInsurance. That covers ${noPrelicensingRequired ? "the optional prelicensing course," : "prelicensing course,"} the ${examFeeDisplay} ${stateData.examInfo.examProvider} exam fee, the ${applicationFeeDisplay} ${stateData.doiAbbr} application fee, and the ${backgroundDisplay} background-check cost. ${/^not required/i.test(stateData.fingerprintingNotes) ? `Fingerprinting is not required in ${stateData.name}.` : `${stateData.fingerprintingNotes.split(".")[0].trim()}.`} JustInsurance's all-in price for the prelicensing portion is ${JI_PRICE_LABEL}.`;
 
   const faqs = [
     {
@@ -198,7 +198,7 @@ export default async function CostPage({
   const faqSchema = generateFAQSchema(faqs);
 
   const articleHeadline = `How Much Does It Cost to Get a ${stateData.name} Insurance License?`;
-  const articleDescription = `The estimated total cost to get your ${stateData.name} insurance license is ${stateData.totalCostRange}. Here's the full breakdown — prelicensing, exam, application, and fingerprint fees — plus how JustInsurance's $199 all-in prelicensing keeps you on the low end.`;
+  const articleDescription = `The estimated total cost to get your ${stateData.name} insurance license is ${stateData.totalCostRange}. Here's the full breakdown — prelicensing, exam, application, and fingerprint fees — with JustInsurance's $199 all-in prelicensing.`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
     description: articleDescription,
@@ -238,10 +238,12 @@ export default async function CostPage({
       typical: noPrelicensingRequired
         ? "Not required"
         : prelicensingDisplay,
-      ji: noPrelicensingRequired ? "Optional" : JI_PRICE_LABEL,
+      ji: noPrelicensingRequired ? `${JI_PRICE_LABEL} (optional)` : JI_PRICE_LABEL,
       note: noPrelicensingRequired
         ? `${stateData.name} eliminated mandatory prelicensing — most candidates still study to pass on the first attempt.`
-        : `JustInsurance includes practice exams + pass guarantee in the $199 base price.`,
+        : guaranteeOk
+        ? `JustInsurance includes practice exams + pass guarantee in the $199 base price.`
+        : `JustInsurance includes unlimited practice exams in the $199 base price.`,
     },
     {
       label: `State exam fee (${stateData.examInfo.examProvider})`,
@@ -277,7 +279,7 @@ export default async function CostPage({
       <StateHero
         eyebrow={`${stateData.name} License Cost`}
         title={`How Much Does It Cost to Get a ${stateData.name} Insurance License?`}
-        subtitle={`The estimated total cost to get your ${stateData.name} insurance license is ${stateData.totalCostRange}. Here's the full breakdown — prelicensing, exam, application, and fingerprint fees — plus how JustInsurance's $199 all-in prelicensing keeps you on the low end.`}
+        subtitle={`The estimated total cost to get your ${stateData.name} insurance license is ${stateData.totalCostRange}. Here's the full breakdown — prelicensing, exam, application, and fingerprint fees — with JustInsurance's $199 all-in prelicensing.`}
         ctaButtons={[
           {
             text: "Start Now for $199",
@@ -302,9 +304,19 @@ export default async function CostPage({
           {stateData.providerApprovalNumber !== "PENDING" && (
             <span>Provider Approval #{stateData.providerApprovalNumber}</span>
           )}
-          <span>State-approved by {stateData.doiAbbr}</span>
+          {isProviderApproved && (
+            <span>State-approved by {stateData.doiAbbr}</span>
+          )}
         </div>
       </div>
+
+      {stateDisclosure(stateData.slug)?.prelicense && (
+        <div className="bg-navy px-4 pb-3">
+          <p className="max-w-4xl mx-auto text-center text-xs text-blue-200 leading-relaxed">
+            {stateDisclosure(stateData.slug)!.prelicense}
+          </p>
+        </div>
+      )}
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <EditorialByline lastVerified={stateData.lastVerified} />
@@ -318,22 +330,20 @@ export default async function CostPage({
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
             Every fee you&apos;ll pay between today and your active {stateData.name}{" "}
-            insurance license, side-by-side with the JustInsurance all-inclusive
-            price.
+            insurance license — course, exam, application, and fingerprinting.
+            {/* 50 Ill. Adm. Code 3119 — approved short format line (Illinois only) */}
+            {ilWebinar && <> {IL_WEBINAR_SHORT_LINE}</>}
           </p>
 
           <div className="overflow-x-auto rounded-xl border border-gray-200 shadow-sm">
             <table className="w-full text-sm">
               <thead>
                 <tr className="bg-gray-bg text-navy">
-                  <th className="px-5 py-3 text-left font-semibold w-1/3">
+                  <th className="px-5 py-3 text-left font-semibold w-2/3">
                     Line Item
                   </th>
-                  <th className="px-5 py-3 text-left font-semibold w-1/4">
-                    Typical {stateData.abbreviation} Cost
-                  </th>
-                  <th className="px-5 py-3 text-left font-semibold w-1/4">
-                    JustInsurance Path
+                  <th className="px-5 py-3 text-left font-semibold w-1/3">
+                    Cost
                   </th>
                 </tr>
               </thead>
@@ -352,9 +362,6 @@ export default async function CostPage({
                       )}
                     </td>
                     <td className="px-5 py-3.5 align-top text-gray-700 font-medium">
-                      {row.typical}
-                    </td>
-                    <td className="px-5 py-3.5 align-top text-gray-700 font-medium">
                       {row.ji}
                     </td>
                   </tr>
@@ -362,10 +369,7 @@ export default async function CostPage({
                 {/* Totals row */}
                 <tr className="bg-navy text-white">
                   <td className="px-5 py-4 font-bold">
-                    Estimated Total (low–high)
-                  </td>
-                  <td className="px-5 py-4 font-bold">
-                    {totalLowDisplay}
+                    Estimated Total
                   </td>
                   <td className="px-5 py-4 font-bold text-gold">
                     {jiLowDisplay}
@@ -380,25 +384,25 @@ export default async function CostPage({
             {stateData.doiName}, {stateData.examInfo.examProvider}, and the{" "}
             JustInsurance prelicensing catalog. Last verified{" "}
             {stateData.lastVerified}. Individual costs may vary by line of
-            authority, fingerprint provider, and county. Total cost range
-            reported by the {stateData.doiAbbr}: {stateData.totalCostRange}.
+            authority, fingerprint provider, and county. Estimated total cost
+            range: {stateData.totalCostRange}.
           </p>
         </div>
       </section>
 
-      {/* ── 3. JustInsurance Comparison Block ───────────────────────────────── */}
+      {/* ── 3. What's Included ──────────────────────────────────────────────── */}
       <section className="bg-gray-bg py-16 px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-navy text-center mb-3">
-            Why JustInsurance Costs Less in {stateData.name}
+            Everything Included at {JI_PRICE_LABEL}
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-            Most {stateData.name} prelicensing providers charge separately for
-            practice exams, retake protection, and pass guarantees. We bundle
-            all three into the $199 base price.
+            One flat price for your {stateData.name} prelicensing — practice exams
+            {guaranteeOk ? " and pass guarantee" : " and full course access"} bundled in,
+            with no add-on tiers.
           </p>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-8">
+          <div className="max-w-md mx-auto">
             <div className="bg-white rounded-xl p-6 shadow-sm border-l-4 border-gold">
               <p className="text-xs uppercase tracking-wider text-gray-500 mb-2">
                 JustInsurance — All-Inclusive
@@ -412,7 +416,9 @@ export default async function CostPage({
               <ul className="space-y-2 text-sm text-gray-700">
                 <li className="flex gap-2">
                   <span className="text-gold font-bold">✓</span>
-                  State-approved {stateData.name} prelicensing course
+                  {isProviderApproved
+                    ? `State-approved ${stateData.name} prelicensing course`
+                    : `${stateData.name} prelicensing course`}
                 </li>
                 <li className="flex gap-2">
                   <span className="text-gold font-bold">✓</span>
@@ -420,66 +426,16 @@ export default async function CostPage({
                 </li>
                 <li className="flex gap-2">
                   <span className="text-gold font-bold">✓</span>
-                  Pass guarantee — refund or rebook if you fail (terms apply)
+                  {guaranteeOk
+                    ? "Pass guarantee — course-fee refund if you fail your first attempt (terms apply)"
+                    : "Instant course access — start studying within minutes of enrolling"}
                 </li>
                 <li className="flex gap-2">
                   <span className="text-gold font-bold">✓</span>
-                  Affirm financing (3, 6, or 12 months)
-                </li>
-                <li className="flex gap-2">
-                  <span className="text-gold font-bold">✓</span>
-                  93% pass rate among compliant students
+                  One-time $199 — pay once, no subscription
                 </li>
               </ul>
             </div>
-
-            <div className="bg-white rounded-xl p-6 shadow-sm border-l-4 border-gray-300">
-              <p className="text-xs uppercase tracking-wider text-gray-500 mb-2">
-                Typical {stateData.name} Provider Stack
-              </p>
-              <p className="text-3xl font-bold text-gray-700 mb-3">
-                $300+
-                <span className="text-base font-normal text-gray-500">
-                  {" "}à la carte
-                </span>
-              </p>
-              <ul className="space-y-2 text-sm text-gray-600">
-                <li className="flex gap-2">
-                  <span className="text-gray-400 font-bold">·</span>
-                  Base prelicensing course ($199–$299)
-                </li>
-                <li className="flex gap-2">
-                  <span className="text-gray-400 font-bold">·</span>
-                  Practice exams sold separately ($49–$99)
-                </li>
-                <li className="flex gap-2">
-                  <span className="text-gray-400 font-bold">·</span>
-                  Pass guarantee usually a paid upgrade
-                </li>
-                <li className="flex gap-2">
-                  <span className="text-gray-400 font-bold">·</span>
-                  Limited course-access window (often 30 days)
-                </li>
-                <li className="flex gap-2">
-                  <span className="text-gray-400 font-bold">·</span>
-                  No published pass rate
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div className="bg-white rounded-xl p-6 shadow-sm text-center border border-gold">
-            <p className="text-sm text-gray-500 mb-1 uppercase tracking-wider">
-              Estimated savings vs typical {stateData.abbreviation} provider
-              stack
-            </p>
-            <p className="text-3xl md:text-4xl font-bold text-navy mb-2">
-              {savingsDisplay}
-            </p>
-            <p className="text-sm text-gray-600">
-              Includes practice exams and pass guarantee — most providers
-              charge $50–$100 more for these.
-            </p>
           </div>
         </div>
       </section>
@@ -497,14 +453,19 @@ export default async function CostPage({
             average {stateData.name} insurance agent earning {stateData.avgIncome}{" "}
             per year and entry-level agents starting at{" "}
             {stateData.firstYearIncome}, most new licensees earn back their
-            full licensing cost within their first month of selling. The
-            {" "}{stateData.doiAbbr} reports{" "}
-            {stateData.studentsCount} licensed agents currently active in{" "}
-            {stateData.name}, with concentrations in {stateData.city1} and{" "}
+            full licensing cost within their first month of selling.
+            {" "}Insurance producers are in steady demand across{" "}
+            {stateData.name}, with the largest concentrations in {stateData.city1} and{" "}
             {stateData.city2}. Career advancement is also fast: experienced
             agents in {stateData.name} earn between {stateData.experiencedIncome}{" "}
             and {stateData.experiencedIncomeHigh}, and top producers pull in
             {" "}{stateData.topProducerIncome}+ annually.
+          </p>
+          <p className="text-gray-500 text-sm italic leading-relaxed mb-6">
+            Income figures are illustrative and drawn from public
+            labor-market data (e.g., U.S. Bureau of Labor Statistics); they
+            are not a guarantee or representation of earnings, and
+            individual results vary.
           </p>
           <p className="text-gray-600 leading-relaxed">
             On the maintenance side, your {stateData.name} license renews every{" "}
@@ -554,10 +515,9 @@ export default async function CostPage({
               <li>
                 <strong className="text-navy">Course-access expiration.</strong>{" "}
                 JustInsurance gives you {stateData.courseAccessDays}-day access
-                to your prelicensing course; many competitors expire access
-                after 30 days, forcing repurchase if your test-day slips.
-                Certificate of completion validity in {stateData.name}:{" "}
-                {stateData.certificateValidity}.
+                to your prelicensing course, so a slipped test date doesn&apos;t
+                force a repurchase. Certificate of completion validity in{" "}
+                {stateData.name}: {stateData.certificateValidity}.
               </li>
             )}
             <li>
@@ -604,7 +564,9 @@ export default async function CostPage({
                   ? "Optional in " +
                     stateData.name +
                     " — but recommended for first-attempt success."
-                  : "State-approved courses for every line of authority."}
+                  : isProviderApproved
+                  ? "State-approved courses for every line of authority."
+                  : "Courses for every line of authority."}
               </div>
             </Link>
             <Link
@@ -647,7 +609,11 @@ export default async function CostPage({
       {/* ── 8. CTA Banner ────────────────────────────────────────────────────── */}
       <CTABanner
         title={`Start Your ${stateData.name} Insurance License for $199`}
-        subtitle={`All-inclusive prelicensing — practice exams, pass guarantee, and Affirm financing built in. Most students recoup the cost in their first month selling.`}
+        subtitle={
+          guaranteeOk
+            ? `All-inclusive $199 prelicensing — practice exams and a pass guarantee built in.`
+            : `All-inclusive $199 prelicensing — practice exams and instant course access built in.`
+        }
         ctaText="Start Now for $199"
         ctaHref={`/${stateData.slug}/prelicensing`}
       />

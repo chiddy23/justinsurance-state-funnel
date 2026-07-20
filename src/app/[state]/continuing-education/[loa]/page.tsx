@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
+import CeApprovalNotice from "@/components/CeApprovalNotice";
 import { LOA_DEFINITIONS, type LOASlug } from "@/lib/loa";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateLOAParams } from "@/lib/generateStaticParams";
@@ -19,7 +20,7 @@ import CourseOverviewBox from "@/components/CourseOverviewBox";
 import CourseFeatures from "@/components/CourseFeatures";
 import TestimonialCards from "@/components/TestimonialCards";
 import FAQAccordion from "@/components/FAQAccordion";
-import CTABanner from "@/components/CTABanner";
+import CTABanner, { RefundDisclosure } from "@/components/CTABanner";
 import StickyMobileCTA from "@/components/StickyMobileCTA";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import RelatedStatePages from "@/components/RelatedStatePages";
@@ -101,6 +102,31 @@ export default async function CECoursePage({
   if (!stateData || !loaDef) notFound();
 
   const { ce } = stateData;
+  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
+  // and WA): the CE course is not yet state-approved and completions cannot be
+  // reported to the DOI. Gate every such claim off; approved states are
+  // byte-identical.
+  const providerApproved = stateData.providerApprovalNumber !== "PENDING";
+  // First-term CE rule: some states require MORE hours before a producer's FIRST
+  // renewal than per recurring cycle (states.ts ce.firstTermHours — currently
+  // Massachusetts only: 60 credits, 3 of them ethics, before the first renewal
+  // date, then 45 per 3-year cycle; M.G.L. c. 175, § 177E / 211 CMR 50.00).
+  // The package sold on this page is sized to the RECURRING total, so a brand-new
+  // licensee who buys it alone under-completes and can lapse. Surface the higher
+  // first-term total wherever the hours render. The `>` guard keeps the
+  // "N additional hours" arithmetic positive. Undefined for every other state →
+  // their copy renders byte-identically.
+  const firstTermHours =
+    ce.firstTermHours && ce.firstTermHours > ce.totalHours ? ce.firstTermHours : undefined;
+  const firstTermExtraHours = firstTermHours ? firstTermHours - ce.totalHours : 0;
+  // "45 required CE hours" would tell a first-term licensee that 45 is their
+  // total. Qualify it to the renewal cycle for those states only.
+  const ceHoursPhrase = firstTermHours
+    ? `${ce.totalHours} renewal-cycle CE hours`
+    : `${ce.totalHours} required CE hours`;
+  const ceRequirementPhrase = firstTermHours
+    ? `${ce.totalHours}-hour renewal-cycle CE requirement`
+    : `${ce.totalHours}-hour CE requirement`;
   const enrollLink = getCatalogLink(stateData.slug, loaDef.slug);
   const faqs = getCECourseFAQs(
     buildFaqData(stateData),
@@ -117,7 +143,9 @@ export default async function CECoursePage({
     courseType: "continuing-education",
     hours: ce.totalHours,
     price: ce.packagePrice,
-    description: `${stateData.name} ${loaDef.name} continuing education course — ${ce.totalHours} hours state-approved CE, online, self-paced. Same-day DOI reporting. ${ce.packagePrice}.`,
+    description: providerApproved
+      ? `${stateData.name} ${loaDef.name} continuing education course — ${ce.totalHours} hours state-approved CE, online, self-paced. Same-day DOI reporting in most cases. ${ce.packagePrice}.`
+      : `${stateData.name} ${loaDef.name} continuing education course — ${ce.totalHours} hours, online, self-paced, built to the ${stateData.doiName} CE topic requirements. ${ce.packagePrice}.`,
   });
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -134,7 +162,9 @@ export default async function CECoursePage({
   const faqSchema = generateFAQSchema(faqs);
 
   const articleHeadline = `${stateData.name} ${loaDef.name} Continuing Education Course`;
-  const articleDescription = `Complete your ${ce.totalHours} required CE hours online, at your own pace. We report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`;
+  const articleDescription = providerApproved
+    ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`
+    : `Complete your ${ceHoursPhrase} online, at your own pace, with courses built to the ${stateData.doiName} CE topic requirements. Only ${ce.packagePrice}.`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
     description: articleDescription,
@@ -158,6 +188,8 @@ export default async function CECoursePage({
 
       <BreadcrumbNav crumbs={crumbs} />
 
+      <CeApprovalNotice stateSlug={stateData.slug} />
+
       {/* Urgency Banner */}
       <div className="bg-gold text-gray-dark py-2 px-4 text-center text-sm font-semibold">
         Don&apos;t let your license lapse — complete your CE before your renewal deadline.
@@ -166,61 +198,103 @@ export default async function CECoursePage({
       <StateHero
         eyebrow={`${stateData.name} ${loaDef.shortName} CE`}
         title={`${stateData.name} ${loaDef.name} Continuing Education Course`}
-        subtitle={`Complete your ${ce.totalHours} required CE hours online, at your own pace. We report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`}
+        subtitle={
+          providerApproved
+            ? `Complete your ${ceHoursPhrase} online, at your own pace. We typically report your completion to the ${stateData.doiName} the same day. Only ${ce.packagePrice}.`
+            : `Complete your ${ceHoursPhrase} online, at your own pace, with courses built to the ${stateData.doiName} CE topic requirements. Only ${ce.packagePrice}.`
+        }
         ctaButtons={[
           { text: `Enroll Now — ${ce.packagePrice}`, href: enrollLink },
         ]}
       />
 
+      {/* Item #6 — refund policy microcopy under the hero Enroll CTA */}
+      <div className="bg-navy-dark px-4 pb-6">
+        <p className="max-w-4xl mx-auto text-center text-blue-200 text-xs leading-relaxed">
+          <RefundDisclosure />
+        </p>
+      </div>
+
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
       </div>
 
-      {/* Trust Badge Strip */}
-      <div className="bg-navy-dark border-t border-white/10 py-3 px-4">
-        <div className="max-w-4xl mx-auto flex justify-center">
-          <span className="inline-flex items-center gap-1.5 bg-gold/20 text-gold px-3 py-1 rounded-full text-sm font-semibold">
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-            </svg>
-            Same-Day DOI Reporting
-          </span>
+      {/* Trust Badge Strip — hidden for pending-approval states (no DOI reporting yet). */}
+      {providerApproved && (
+        <div className="bg-navy-dark border-t border-white/10 py-3 px-4">
+          <div className="max-w-4xl mx-auto flex justify-center">
+            <span className="inline-flex items-center gap-1.5 bg-gold/20 text-gold px-3 py-1 rounded-full text-sm font-semibold">
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+              Same-Day DOI Reporting
+            </span>
+          </div>
         </div>
-      </div>
+      )}
+
+      {/* First-term CE notice — renders ONLY for states that require more CE
+          hours before a producer's FIRST renewal than per recurring cycle
+          (states.ts ce.firstTermHours; currently Massachusetts: 60 then 45).
+          This package covers the recurring total, so a newly licensed producer
+          has to see the higher first-renewal number BEFORE they buy — otherwise
+          they under-complete and can lapse. No other state renders this block. */}
+      {firstTermHours ? (
+        <section className="bg-white px-4 pt-10">
+          <div className="max-w-4xl mx-auto">
+            <div className="bg-amber-50 border-l-4 border-gold rounded-r-lg p-5">
+              <p className="font-bold text-navy text-sm mb-1">
+                Newly licensed in {stateData.name}? Your first renewal takes {firstTermHours} hours.
+              </p>
+              <p className="text-gray-700 text-sm leading-relaxed">
+                {stateData.name} requires {firstTermHours} CE hours before your <strong>first</strong>{" "}
+                license renewal
+                {ce.ethicsHours > 0 ? ` (including the same ${ce.ethicsHours} ethics hours)` : ""}, then{" "}
+                {ce.totalHours} hours every {ce.renewalPeriod} for each renewal after that. This{" "}
+                {ce.packagePrice} package covers the {ce.totalHours} hours required for a standard renewal
+                cycle, so if you are heading into your first renewal you need {firstTermExtraHours} additional
+                CE hours. Confirm your own requirement with the {stateData.doiName} before you enroll.
+              </p>
+            </div>
+          </div>
+        </section>
+      ) : null}
 
       <CourseOverviewBox
         hours={ce.totalHours}
         price={ce.packagePrice}
         accessDuration="365 Days"
         includes={[
-          "All required CE hours",
+          firstTermHours ? `All ${ce.totalHours} renewal-cycle CE hours` : "All required CE hours",
           "Ethics hours included",
           "Interactive online modules",
           "Progress tracking",
-          "Same-day DOI reporting",
+          ...(providerApproved ? ["Same-day DOI reporting"] : []),
           "Instant certificate of completion",
           "Expert support",
         ]}
       />
 
-      {/* Same-Day DOI Reporting Feature Row */}
-      <section className="bg-white px-4 pb-4">
-        <div className="max-w-4xl mx-auto">
-          <div className="bg-navy rounded-xl px-6 py-5 flex items-center gap-5">
-            <div className="flex-shrink-0 bg-gold rounded-full p-3">
-              <svg className="w-6 h-6 text-navy" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-              </svg>
-            </div>
-            <div>
-              <p className="text-gold font-bold text-base">Same-Day DOI Reporting</p>
-              <p className="text-white/90 text-sm mt-0.5">
-                Finish your course and we electronically report your CE completion to the {stateData.doiName} the same business day — no paperwork, no mailing certificates.
-              </p>
+      {/* Same-Day DOI Reporting Feature Row — hidden for pending-approval states. */}
+      {providerApproved && (
+        <section className="bg-white px-4 pb-4">
+          <div className="max-w-4xl mx-auto">
+            <div className="bg-navy rounded-xl px-6 py-5 flex items-center gap-5">
+              <div className="flex-shrink-0 bg-gold rounded-full p-3">
+                <svg className="w-6 h-6 text-navy" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+              </div>
+              <div>
+                <p className="text-gold font-bold text-base">Same-Day DOI Reporting</p>
+                <p className="text-white/90 text-sm mt-0.5">
+                  Finish your course and we typically electronically report your CE completion to the {stateData.doiName} the same business day — no paperwork, no mailing certificates.
+                </p>
+              </div>
             </div>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
 
       {/* License Renewal Process */}
       <section className="bg-white py-16 px-4">
@@ -245,8 +319,10 @@ export default async function CECoursePage({
               },
               {
                 step: "3",
-                title: "We Report It",
-                desc: `JustInsurance reports your CE completion to the ${stateData.doiName} the same day you finish.`,
+                title: providerApproved ? "We Report It" : "Get Your Certificate",
+                desc: providerApproved
+                  ? `JustInsurance typically reports your CE completion to the ${stateData.doiName} the same day you finish.`
+                  : `Download your certificate of completion as soon as you finish your ${loaDef.name} CE hours.`,
               },
               {
                 step: "4",
@@ -273,13 +349,13 @@ export default async function CECoursePage({
             CE Topics Covered
           </h2>
           <p className="text-gray-500 text-center mb-8 max-w-xl mx-auto">
-            This state-approved course covers all required topics for your {stateData.name} {loaDef.name} CE renewal.
+            {providerApproved ? "This state-approved course covers" : "This course covers"} all required topics for your {stateData.name} {loaDef.name} CE renewal.
           </p>
           <div className="bg-white rounded-xl p-6 md:p-8 shadow-sm">
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-3">
               {ceTopics.map((topic) => (
                 <li key={topic} className="flex items-start gap-3 text-sm text-gray-700">
-                  <svg className="w-5 h-5 text-success flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <svg className="w-5 h-5 text-success-dark flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
                   {topic}
@@ -290,25 +366,31 @@ export default async function CECoursePage({
         </div>
       </section>
 
-      {/* Same-Day Reporting Callout */}
-      <section className="bg-navy py-12 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <div className="w-14 h-14 bg-gold rounded-full flex items-center justify-center mx-auto mb-4">
-            <svg className="w-7 h-7 text-gray-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-            </svg>
+      {/* Same-Day Reporting Callout — hidden for pending-approval states. */}
+      {providerApproved && (
+        <section className="bg-navy py-12 px-4">
+          <div className="max-w-3xl mx-auto text-center">
+            <div className="w-14 h-14 bg-gold rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-7 h-7 text-gray-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+            </div>
+            <h2 className="text-2xl font-bold text-white mb-3">Same-Day DOI Reporting</h2>
+            <p className="text-blue-100 leading-relaxed">
+              When you complete this CE course, JustInsurance typically reports your completion electronically to the {stateData.doiName} the same business day. No certificates to mail, no forms to fill out. Your CE credit is recorded automatically.
+            </p>
+            <p className="text-xs text-blue-200/70 mt-2">
+              Processing times at the state level may vary. Most states reflect credits within 3-5 business days.
+            </p>
           </div>
-          <h2 className="text-2xl font-bold text-white mb-3">Same-Day DOI Reporting</h2>
-          <p className="text-blue-100 leading-relaxed">
-            When you complete this CE course, JustInsurance reports your completion electronically to the {stateData.doiName} the same business day. No certificates to mail, no forms to fill out. Your CE credit is recorded automatically.
-          </p>
-          <p className="text-xs text-blue-200/70 mt-2">
-            Processing times at the state level may vary. Most states reflect credits within 3-5 business days.
-          </p>
-        </div>
-      </section>
+        </section>
+      )}
 
-      <CourseFeatures variant="ce" />
+      <CourseFeatures
+        variant="ce"
+        ceEthicsWebinar={!!stateData.classroomWebinarHours}
+        providerApproved={stateData.providerApprovalNumber !== "PENDING"}
+      />
 
       <TestimonialCards variant="ce" stateName={stateData.name} seed={stateData.slug} />
 
@@ -320,6 +402,7 @@ export default async function CECoursePage({
         stateName={stateData.name}
         doiName={stateData.doiName}
         sectionClassName="bg-white px-4 pb-12"
+        providerApproved={providerApproved}
       />
 
       <FAQAccordion
@@ -344,10 +427,15 @@ export default async function CECoursePage({
 
       <CTABanner
         title={`Renew Your ${stateData.name} ${loaDef.shortName} License Today`}
-        subtitle={`Complete your ${ce.totalHours}-hour CE requirement online. Only ${ce.packagePrice}. We report to the state same-day.`}
+        subtitle={
+          providerApproved
+            ? `Complete your ${ceRequirementPhrase} online. Only ${ce.packagePrice}. We typically report to the state same-day.`
+            : `Complete your ${ceRequirementPhrase} online. Only ${ce.packagePrice}.`
+        }
         ctaText={`Enroll Now — ${ce.packagePrice}`}
         ctaHref={enrollLink}
         externalLink
+        disclosure={<RefundDisclosure />}
       />
 
       <StickyMobileCTA

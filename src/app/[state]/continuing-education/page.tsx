@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
+import CeApprovalNotice from "@/components/CeApprovalNotice";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
 import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateCEHubCourseSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
@@ -8,6 +9,7 @@ import { getCEHubFAQs, buildFaqData } from "@/lib/faq-data";
 import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import LOASelector from "@/components/LOASelector";
+import { RefundDisclosure } from "@/components/CTABanner";
 import FAQAccordion from "@/components/FAQAccordion";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import CEComplianceSection from "@/components/CEComplianceSection";
@@ -50,6 +52,12 @@ export default async function CEHubPage({
   if (!stateData) notFound();
 
   const { ce } = stateData;
+  // Pending-approval states (providerApprovalNumber === "PENDING", currently NY
+  // and WA): the CE course is not yet state-approved and completions cannot be
+  // reported to the DOI, so every "state-approved" / "same-day reporting" claim
+  // on this page is gated off until approval issues. Approved states are
+  // byte-identical.
+  const providerApproved = stateData.providerApprovalNumber !== "PENDING";
   const faqs = getCEHubFAQs(buildFaqData(stateData));
 
   const breadcrumbSchema = generateBreadcrumbSchema([
@@ -63,7 +71,9 @@ export default async function CEHubPage({
   const faqSchema = generateFAQSchema(faqs);
 
   const articleHeadline = `${stateData.name} Insurance Continuing Education (CE) Courses`;
-  const articleDescription = `Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We report your completion to the state the same day.`;
+  const articleDescription = providerApproved
+    ? `Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We typically report your completion to the state the same day.`
+    : `Complete your ${stateData.name} CE hours online with self-paced courses built to the ${stateData.doiName} CE topic requirements.`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
     description: articleDescription,
@@ -93,10 +103,16 @@ export default async function CEHubPage({
 
       <BreadcrumbNav crumbs={crumbs} />
 
+      <CeApprovalNotice stateSlug={stateData.slug} />
+
       <StateHero
         eyebrow={`${stateData.name} CE Courses`}
         title={`${stateData.name} Insurance Continuing Education (CE) Courses`}
-        subtitle={`Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We report your completion to the state the same day.`}
+        subtitle={
+          providerApproved
+            ? `Don't let your license lapse! Complete your ${stateData.name} CE hours online with state-approved courses. We typically report your completion to the state the same day.`
+            : `Don't let your license lapse! Complete your ${stateData.name} CE hours online with self-paced courses built to the ${stateData.doiName} CE topic requirements.`
+        }
         ctaButtons={[
           { text: "See CE Courses Below", href: "#ce-courses" },
         ]}
@@ -106,20 +122,23 @@ export default async function CEHubPage({
         <ArticleByline lastReviewed={stateData.lastVerified} />
       </div>
 
-      {/* Same-Day DOI Reporting Banner */}
-      <section className="bg-navy text-white py-6">
-        <div className="max-w-4xl mx-auto px-4 flex items-center gap-4">
-          <div className="flex-shrink-0 bg-gold rounded-full p-3">
-            <svg className="w-8 h-8 text-navy" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-            </svg>
+      {/* Same-Day DOI Reporting Banner — hidden for pending-approval states,
+          which cannot yet report completions to the DOI. */}
+      {providerApproved && (
+        <section className="bg-navy text-white py-6">
+          <div className="max-w-4xl mx-auto px-4 flex items-center gap-4">
+            <div className="flex-shrink-0 bg-gold rounded-full p-3">
+              <svg className="w-8 h-8 text-navy" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+            </div>
+            <div>
+              <p className="text-lg font-bold text-gold">Same-Day CE Reporting</p>
+              <p className="text-white/90">We typically report your CE completion to the {stateData.doiName} the same day you finish.</p>
+            </div>
           </div>
-          <div>
-            <p className="text-lg font-bold text-gold">Same-Day CE Reporting</p>
-            <p className="text-white/90">We report your CE completion to the {stateData.doiName} the same day you finish.</p>
-          </div>
-        </div>
-      </section>
+        </section>
+      )}
 
       {/* P&C CE cross-link tile — only rendered for states with a P&C package.
           Discreet gold/navy tile so dual-licensed agents can navigate to the P&C
@@ -131,14 +150,14 @@ export default async function CEHubPage({
               href={`/${stateData.slug}/continuing-education/property-and-casualty`}
               className="block bg-gold/10 border-l-4 border-gold rounded-r-lg p-5 hover:bg-gold/20 transition-colors group"
             >
-              <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-1">
+              <p className="text-gold-deep font-semibold uppercase tracking-wide text-xs mb-1">
                 Dual-licensed?
               </p>
               <p className="text-navy font-bold text-base md:text-lg group-hover:underline">
                 Hold a P&amp;C license too? See our {stateData.name} Property &amp; Casualty CE package &rarr;
               </p>
               <p className="text-gray-600 text-sm mt-1">
-                State-approved Ethics + P&amp;C electives, same-day DOI reporting, satisfies your full {stateData.name} P&amp;C renewal cycle.
+                State-approved Ethics + P&amp;C electives, with same-day DOI reporting in most cases, satisfies your full {stateData.name} P&amp;C renewal cycle.
               </p>
             </Link>
           </div>
@@ -157,12 +176,20 @@ export default async function CEHubPage({
                 {stateData.name} requires all licensed insurance producers to complete continuing education (CE) hours to renew their license every {ce.renewalPeriod}. This ensures agents stay current with changing insurance products, regulations, and ethics requirements.
               </p>
               <p className="text-gray-600 leading-relaxed mb-4">
-                JustInsurance offers state-approved online CE courses that you can complete entirely at your own pace, on any device. When you finish, we report your completion directly to the {stateData.doiName} the same day — no paperwork, no delays.
+                {providerApproved ? (
+                  <>
+                    JustInsurance offers state-approved online CE courses that you can complete entirely at your own pace, on any device. When you finish, we typically report your completion directly to the {stateData.doiName} the same day — no paperwork, no delays.
+                  </>
+                ) : (
+                  <>
+                    JustInsurance offers online CE courses built to the {stateData.doiName} CE topic requirements that you can complete entirely at your own pace, on any device. Our {stateData.name} CE provider approval is currently pending with the {stateData.doiName}.
+                  </>
+                )}
               </p>
               <div className="bg-amber-50 border-l-4 border-gold rounded-r-lg p-4">
                 <p className="font-semibold text-navy text-sm mb-1">Don&apos;t Wait Until the Last Minute</p>
                 <p className="text-gray-600 text-sm">
-                  License lapses can result in reinstatement fees and additional requirements. Complete your CE at least 30 days before your renewal deadline. JustInsurance courses can be finished in a single day.
+                  License lapses can result in reinstatement fees and additional requirements. Complete your CE at least 30 days before your renewal deadline. JustInsurance courses are self-paced online, so you can work through your required hours on your own schedule.
                 </p>
               </div>
             </div>
@@ -173,7 +200,7 @@ export default async function CEHubPage({
               <ul className="space-y-3 text-sm">
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                   <span className="text-gray-500">Total CE Hours</span>
-                  <span className="font-bold text-navy">{ce.totalHours} hours</span>
+                  <span className="font-bold text-navy">{ce.firstTermHours ? `${ce.firstTermHours} hrs first term, then ${ce.totalHours} hrs` : `${ce.totalHours} hours`}</span>
                 </li>
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                   <span className="text-gray-500">Renewal Period</span>
@@ -183,9 +210,18 @@ export default async function CEHubPage({
                   <span className="text-gray-500">Ethics Hours Required</span>
                   <span className="font-bold text-navy">{ce.ethicsHours} hours</span>
                 </li>
+                {/* States mandating specific topic-hours beyond ethics (e.g. New
+                    York: insurance law + ethics + DEI). ethicsHours alone would
+                    understate the requirement. Undefined elsewhere -> not rendered. */}
+                {ce.mandatedTopicHours && (
+                  <li className="pb-3 border-b border-gray-200">
+                    <span className="text-gray-500 block mb-1">Mandated Topic Hours</span>
+                    <span className="text-navy text-xs leading-relaxed block">{ce.mandatedTopicHours}</span>
+                  </li>
+                )}
                 <li className="flex justify-between items-center pb-3 border-b border-gray-200">
                   <span className="text-gray-500">CE Reporting</span>
-                  <span className="font-bold text-success">Same-Day</span>
+                  <span className="font-bold text-success-dark">{providerApproved ? "Same-Day" : "On approval"}</span>
                 </li>
                 <li className="flex justify-between items-center">
                   <span className="text-gray-500">DOI</span>
@@ -206,6 +242,10 @@ export default async function CEHubPage({
           courseType="continuing-education"
           stateData={stateData}
         />
+        {/* COM-08 (audit 2026-07-14): refund microcopy at the point of sale. */}
+        <p className="max-w-4xl mx-auto px-4 pt-4 text-center text-xs text-gray-600">
+          <RefundDisclosure />
+        </p>
 
         {/* Individual-courses catalog tile — links to the à-la-carte
             INDIVIDUAL course category in Absorb (distinct from the PACKAGE
@@ -215,6 +255,7 @@ export default async function CEHubPage({
           stateSlug={stateData.slug}
           stateName={stateData.name}
           doiName={stateData.doiName}
+          providerApproved={providerApproved}
         />
       </div>
 
@@ -241,8 +282,10 @@ export default async function CEHubPage({
               {
                 step: "3",
                 icon: "⚡",
-                title: "We Report to the State",
-                desc: `JustInsurance reports your completion to the ${stateData.doiName} the same day. No paperwork needed.`,
+                title: providerApproved ? "We Report to the State" : "Get Your Certificate",
+                desc: providerApproved
+                  ? `JustInsurance typically reports your completion to the ${stateData.doiName} the same day. No paperwork needed.`
+                  : `Download your certificate of completion as soon as you finish your ${stateData.name} CE hours.`,
               },
             ].map((item) => (
               <div key={item.step} className="text-center bg-gray-bg rounded-xl p-6">
@@ -258,26 +301,33 @@ export default async function CEHubPage({
         </div>
       </section>
 
-      {/* Same-Day Reporting Callout */}
-      <section className="bg-navy py-12 px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <div className="w-14 h-14 bg-gold rounded-full flex items-center justify-center mx-auto mb-4">
-            <svg className="w-7 h-7 text-gray-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-            </svg>
+      {/* Same-Day Reporting Callout — hidden for pending-approval states, which
+          cannot yet report completions to the DOI. */}
+      {providerApproved && (
+        <section className="bg-navy py-12 px-4">
+          <div className="max-w-3xl mx-auto text-center">
+            <div className="w-14 h-14 bg-gold rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg className="w-7 h-7 text-gray-dark" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+            </div>
+            <h2 className="text-2xl font-bold text-white mb-3">Same-Day DOI Reporting</h2>
+            <p className="text-blue-100 leading-relaxed">
+              When you complete your CE with JustInsurance, we typically electronically report your course completion to the {stateData.doiName} the same business day. Your CE credit appears on your license record automatically — no certificates to mail, no forms to submit.
+            </p>
+            <p className="text-xs text-blue-200/70 mt-2">
+              JustInsurance typically transmits your completion to your state&apos;s Department of Insurance the same business day you finish; the time for your state to post the credit to your license record varies by state.
+            </p>
           </div>
-          <h2 className="text-2xl font-bold text-white mb-3">Same-Day DOI Reporting</h2>
-          <p className="text-blue-100 leading-relaxed">
-            When you complete your CE with JustInsurance, we electronically report your course completion to the {stateData.doiName} the same business day. Your CE credit appears on your license record automatically — no certificates to mail, no forms to submit.
-          </p>
-        </div>
-      </section>
+        </section>
+      )}
 
       {ce.compliance && (
         <CEComplianceSection
           stateName={stateData.name}
           doiName={stateData.doiName}
           compliance={ce.compliance}
+          providerApproved={stateData.providerApprovalNumber !== "PENDING"}
         />
       )}
 

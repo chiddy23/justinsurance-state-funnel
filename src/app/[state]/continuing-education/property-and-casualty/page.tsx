@@ -19,8 +19,9 @@ import ArticleByline from "@/components/ArticleByline";
 import StateHero from "@/components/StateHero";
 import CourseOverviewBox from "@/components/CourseOverviewBox";
 import FAQAccordion from "@/components/FAQAccordion";
-import CTABanner from "@/components/CTABanner";
+import CTABanner, { RefundDisclosure } from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import CeApprovalNotice from "@/components/CeApprovalNotice";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import CEIndividualCoursesTile from "@/components/CEIndividualCoursesTile";
 
@@ -53,8 +54,8 @@ export async function generateMetadata({
     : `${stateData.name} P&C CE Package — ${totalHrsLabel} | JustInsurance`;
 
   const description = isMulti
-    ? `${packages.length} state-approved Property & Casualty CE packages for ${stateData.name} insurance producers. Hour ranges from ${totalHrsLabel}. Online, self-paced, same-day DOI reporting.`
-    : `Complete your ${stateData.name} P&C continuing education in one package: ${packages[0].ethicsHours}-hour ${packages[0].ethicsLabel} + ${packages[0].pcHours}-hour P&C electives. Online, self-paced, same-day DOI reporting. ${packages[0].price}.`;
+    ? `${packages.length} state-approved Property & Casualty CE packages for ${stateData.name} insurance producers. Hour ranges from ${totalHrsLabel}. Online, self-paced, same-day DOI reporting in most cases.`
+    : `Complete your ${stateData.name} P&C continuing education in one package: ${packages[0].ethicsHours}-hour ${packages[0].ethicsLabel} + ${packages[0].pcHours}-hour P&C electives. Online, self-paced, same-day DOI reporting in most cases. ${packages[0].price}.`;
 
   const canonical = `https://justinsuranceco.com/${state}/continuing-education/property-and-casualty`;
 
@@ -69,6 +70,13 @@ export async function generateMetadata({
       description,
       url: canonical,
       type: "website",
+    },
+    // Own twitter block so the root layout's fallback (which may carry
+    // marketing claims not valid in every state) is never inherited here.
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
     },
   };
 }
@@ -137,7 +145,7 @@ export function buildPCFAQs(
     },
     {
       question: `How does CE reporting work?`,
-      answer: `When you complete your final module, JustInsurance electronically reports your CE completion to the ${doiName} the same business day. Most states post the credit to your license record within 3-5 business days. There are no certificates to mail and no additional forms to submit on your end.`,
+      answer: `When you complete your final module, JustInsurance typically electronically reports your CE completion to the ${doiName} the same business day. Most states post the credit to your license record within 3-5 business days. There are no certificates to mail and no additional forms to submit on your end.`,
     },
     {
       question: `What happens if I miss my CE deadline?`,
@@ -180,7 +188,7 @@ export function PCPackageDetail({
 }) {
   const { ce } = stateData;
   const providerLine = stateData.providerNumber
-    ? `State-Approved ${stateData.doiName} CE Provider #${stateData.providerNumber}`
+    ? `State-Approved ${stateData.doiName} CE Provider #${stateData.ceProviderNumber ?? stateData.providerNumber}`
     : `State-Approved ${stateData.doiName} CE Provider`;
 
   return (
@@ -193,11 +201,20 @@ export function PCPackageDetail({
       <StateHero
         eyebrow={`${stateData.name} P&C CE`}
         title={`${stateData.name} Property & Casualty CE Package`}
-        subtitle={`Complete your ${pkg.totalHours}-hour P&C CE requirement online: ${pkg.ethicsHours}-hr ${pkg.ethicsLabel} + ${pkg.pcHours}-hr P&C electives. Same-day reporting to the ${stateData.doiName}. ${pkg.price}.`}
+        subtitle={`Complete your ${pkg.totalHours}-hour P&C CE requirement online: ${pkg.ethicsHours}-hr ${pkg.ethicsLabel} + ${pkg.pcHours}-hr P&C electives. Same-day reporting to the ${stateData.doiName} in most cases. ${pkg.price}.`}
         ctaButtons={[
           { text: `Enroll Now — ${pkg.price}`, href: pkg.cartLink },
         ]}
       />
+
+      <CeApprovalNotice stateSlug={stateData.slug} />
+
+      {/* Item #6 — refund policy microcopy under the hero Enroll CTA */}
+      <div className="bg-navy-dark px-4 pb-6">
+        <p className="max-w-4xl mx-auto text-center text-blue-200 text-xs leading-relaxed">
+          <RefundDisclosure />
+        </p>
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
@@ -260,7 +277,7 @@ export function PCPackageDetail({
               </li>
               <li className="flex justify-between items-center">
                 <span className="text-gray-500">Reporting</span>
-                <span className="font-bold text-success">Same-Day to {stateData.doiAbbr || stateData.doiName}</span>
+                <span className="font-bold text-success-dark">Same-Day to {stateData.doiAbbr || stateData.doiName}</span>
               </li>
             </ul>
           </div>
@@ -361,7 +378,7 @@ export function PCPackageDetail({
               {
                 step: "3",
                 title: "We Report to the State",
-                desc: `JustInsurance electronically files your completion with the ${stateData.doiName} the same business day.`,
+                desc: `JustInsurance typically electronically files your completion with the ${stateData.doiName} the same business day.`,
               },
               {
                 step: "4",
@@ -398,7 +415,7 @@ export function PCPackageDetail({
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-white rounded-xl p-6 border border-gray-200">
               <h3 className="font-bold text-navy mb-4 flex items-center gap-2">
-                <span className="inline-block bg-gold/20 text-gold-dark text-xs font-bold uppercase px-2 py-1 rounded">P&C</span>
+                <span className="inline-block bg-gold/20 text-gold-deep text-xs font-bold uppercase px-2 py-1 rounded">P&C</span>
                 This Package
               </h3>
               <ul className="space-y-3 text-sm">
@@ -466,10 +483,11 @@ export function PCPackageDetail({
 
       <CTABanner
         title={`Renew Your ${stateData.name} P&C License Today`}
-        subtitle={`Complete your ${pkg.totalHours}-hour P&C CE requirement online for ${pkg.price}. We report to the ${stateData.doiName} same-day.`}
+        subtitle={`Complete your ${pkg.totalHours}-hour P&C CE requirement online for ${pkg.price}. We typically report to the ${stateData.doiName} same-day.`}
         ctaText={`Enroll Now — ${pkg.price}`}
         ctaHref={pkg.cartLink}
         externalLink
+        disclosure={<RefundDisclosure />}
       />
     </>
   );
@@ -526,7 +544,7 @@ export default async function PCStateHubPage({
         courseType: "continuing-education",
         hours: repPkg.totalHours,
         price: repPkg.price,
-        description: `${stateData.name} Property & Casualty continuing education package — ${repPkg.totalHours} hours total (${repPkg.ethicsHours}-hr ${repPkg.ethicsLabel} + ${repPkg.pcHours}-hr P&C electives). Online, self-paced, same-day reporting to the ${stateData.doiName}. ${repPkg.price}.`,
+        description: `${stateData.name} Property & Casualty continuing education package — ${repPkg.totalHours} hours total (${repPkg.ethicsHours}-hr ${repPkg.ethicsLabel} + ${repPkg.pcHours}-hr P&C electives). Online, self-paced, same-day reporting to the ${stateData.doiName} in most cases. ${repPkg.price}.`,
       })
     : null;
   // Override the offers.url so it points at the Absorb cart link, satisfying
@@ -541,7 +559,7 @@ export default async function PCStateHubPage({
     ? `${stateData.name} Property & Casualty Continuing Education Packages`
     : `${stateData.name} Property & Casualty Continuing Education Package`;
   const articleDescription = isMulti
-    ? `${packages.length} state-approved P&C CE packages for ${stateData.name} producers, ranging from ${Math.min(...packages.map((p) => p.totalHours))} to ${Math.max(...packages.map((p) => p.totalHours))} hours. Same-day reporting to the ${stateData.doiName}.`
+    ? `${packages.length} state-approved P&C CE packages for ${stateData.name} producers, ranging from ${Math.min(...packages.map((p) => p.totalHours))} to ${Math.max(...packages.map((p) => p.totalHours))} hours. Reporting to the ${stateData.doiName} is typically same-day.`
     : `Complete your ${repPkg.totalHours}-hour ${stateData.name} P&C CE in one package. ${repPkg.ethicsHours}-hr ${repPkg.ethicsLabel} + ${repPkg.pcHours}-hr P&C electives. ${repPkg.price}.`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
@@ -572,7 +590,7 @@ export default async function PCStateHubPage({
           <StateHero
             eyebrow={`${stateData.name} P&C CE`}
             title={`${stateData.name} Property & Casualty CE Packages`}
-            subtitle={`Choose the ${stateData.name} P&C CE package that matches your license type and renewal cycle. ${packages.length} state-approved options, all with same-day reporting to the ${stateData.doiName}.`}
+            subtitle={`Choose the ${stateData.name} P&C CE package that matches your license type and renewal cycle. ${packages.length} state-approved options, all with same-day reporting to the ${stateData.doiName} in most cases.`}
             ctaButtons={[
               { text: "See Packages Below", href: "#packages" },
             ]}
@@ -590,7 +608,7 @@ export default async function PCStateHubPage({
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
                 </svg>
                 {stateData.providerNumber
-                  ? `State-Approved ${stateData.doiName} CE Provider #${stateData.providerNumber}`
+                  ? `State-Approved ${stateData.doiName} CE Provider #${stateData.ceProviderNumber ?? stateData.providerNumber}`
                   : `State-Approved ${stateData.doiName} CE Provider`}
               </span>
             </div>
@@ -603,7 +621,7 @@ export default async function PCStateHubPage({
                 {stateData.name} P&amp;C CE Packages
               </h2>
               <p className="text-gray-500 text-center mb-10 max-w-2xl mx-auto">
-                Pick the package that fits your license type and CE cycle. All packages include same-day DOI reporting.
+                Pick the package that fits your license type and CE cycle. All packages typically include same-day DOI reporting.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
                 {packages.map((p) => (
@@ -612,10 +630,10 @@ export default async function PCStateHubPage({
                     href={`/${stateData.slug}/continuing-education/property-and-casualty/${p.packageSlug}`}
                     className="block bg-gray-bg hover:bg-white border border-gray-200 hover:border-gold rounded-xl p-6 transition-all hover:shadow-md group"
                   >
-                    <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-2">
+                    <p className="text-[10px] font-bold uppercase tracking-wide text-gold-deep mb-2">
                       {p.totalHours}-Hour Package
                     </p>
-                    <h3 className="font-bold text-navy text-lg mb-3 group-hover:text-gold-dark transition-colors leading-snug">
+                    <h3 className="font-bold text-navy text-lg mb-3 group-hover:text-gold-deep transition-colors leading-snug">
                       {p.shortName}
                     </h3>
                     <ul className="space-y-1.5 text-xs text-gray-600 mb-4">
@@ -625,13 +643,16 @@ export default async function PCStateHubPage({
                     </ul>
                     <div className="flex items-center justify-between pt-3 border-t border-gray-200">
                       <span className="text-2xl font-bold text-gold">{p.price}</span>
-                      <span className="text-xs font-semibold text-navy group-hover:text-gold-dark transition-colors">
+                      <span className="text-xs font-semibold text-navy group-hover:text-gold-deep transition-colors">
                         View Package →
                       </span>
                     </div>
                   </Link>
                 ))}
               </div>
+              <p className="text-center text-xs text-gray-500 mt-6">
+                <RefundDisclosure />
+              </p>
             </div>
           </section>
 

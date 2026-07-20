@@ -4,6 +4,8 @@ import Link from "next/link";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { hasClassroomWebinarHours, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
 import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, SchemaMarkup } from "@/lib/schema";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
 import ArticleByline from "@/components/ArticleByline";
@@ -11,6 +13,7 @@ import StateHero from "@/components/StateHero";
 import FAQAccordion from "@/components/FAQAccordion";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import AddToCartLink from "@/components/AddToCartLink";
+import { formatPassingScore } from "@/lib/exam-score";
 
 export function generateStaticParams() {
   return generateStateParams();
@@ -40,7 +43,13 @@ export default async function PracticeExamPage({
   const stateData = getStateBySlug(state);
   if (!stateData) notFound();
 
-  const { practiceExams, name: stateName, slug, examInfo } = stateData;
+  const { practiceExams, name: stateName, slug, examInfo, noCombinedExam } =
+    stateData;
+
+  // 50 Ill. Adm. Code Part 3119 — Illinois-only: the approved short format
+  // line is added to the intro copy (this page markets prelicensing in its
+  // cross-sell copy). No rendered-output change for any other state.
+  const ilWebinar = hasClassroomWebinarHours(stateData);
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -61,11 +70,18 @@ export default async function PracticeExamPage({
     },
     {
       question: `How close is the practice exam to the real ${stateName} state exam?`,
-      answer: `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt — that's the benchmark our pass guarantee uses.`,
+      // Ohio Admin. Code 3901-5-07(H)(16): the descriptive 80%-benchmark stat
+      // is allowed everywhere; the pass-guarantee clause is dropped for
+      // excluded states (flows into FAQPage JSON-LD automatically).
+      answer: hasPassGuarantee(slug)
+        ? `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt — that's the benchmark our pass guarantee uses.`
+        : `The JustInsurance practice exam mirrors the actual ${examInfo.examProvider} ${stateName} insurance licensing exam in format, question style, and topic weighting. Students who score 80% or higher on the practice exam three times in a row typically pass the state exam on the first attempt.`,
     },
     {
       question: `Which practice exam should I buy — Life, Health, or Life + Health?`,
-      answer: `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. If you're taking the combined Life & Health exam (the most common path), buy the Life + Health Practice Exam — it covers both lines in one sitting just like the real state exam.`,
+      answer: noCombinedExam
+        ? `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. Note that ${stateName} has no combined Life & Health exam — Life and Accident & Health are two separate state exams — so if you're pursuing both lines, the Life + Health Practice Exam prepares you for each of the two exams you'll sit.`
+        : `Match your practice exam to the license you plan to test for. If you're sitting for just the Life exam, buy the Life Practice Exam. If you're sitting for Health only, buy the Health Practice Exam. If you're taking the combined Life & Health exam (the most common path), buy the Life + Health Practice Exam — it covers both lines in one sitting just like the real state exam.`,
     },
     {
       question: `Do I need to take a prelicensing course first?`,
@@ -97,7 +113,9 @@ export default async function PracticeExamPage({
         {
           loa: "Life + Health",
           title: `${stateName} Life & Health Insurance Practice Exam`,
-          desc: `Most popular. Covers both Life and Health in one combined practice exam — matches the format of the real ${stateName} combined state exam.`,
+          desc: noCombinedExam
+            ? `Most popular. Covers both Life and Health — preps you for ${stateName}'s two separate Life and Accident & Health state exams (${stateName} has no combined exam).`
+            : `Most popular. Covers both Life and Health in one combined practice exam — matches the format of the real ${stateName} combined state exam.`,
           url: practiceExams.combinedUrl,
           accent: "from-gold to-gold-dark",
           popular: true,
@@ -163,14 +181,14 @@ export default async function PracticeExamPage({
         <div className="max-w-5xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
           <div>
             <p className="text-2xl font-bold text-gold">{Math.round(parseFloat(examInfo.passRate))}%</p>
-            <p className="text-sm text-blue-100">JustInsurance pass rate</p>
+            <p className="text-sm text-blue-100">pass rate*</p>
           </div>
           <div>
             <p className="text-2xl font-bold text-gold">$59</p>
             <p className="text-sm text-blue-100">per practice exam</p>
           </div>
           <div>
-            <p className="text-2xl font-bold text-gold">{examInfo.passingScore}%</p>
+            <p className="text-2xl font-bold text-gold">{formatPassingScore(slug, examInfo.passingScore)}</p>
             <p className="text-sm text-blue-100">state exam passing score</p>
           </div>
           <div>
@@ -178,6 +196,12 @@ export default async function PracticeExamPage({
             <p className="text-sm text-blue-100">full access</p>
           </div>
         </div>
+        <p className="max-w-5xl mx-auto px-4 text-xs text-blue-200 text-center mt-4">
+          *Among JustInsurance students nationwide who complete the course and recommended practice.{" "}
+          <Link href="/pass-rates" className="underline hover:text-gold">
+            See how we calculate this &rarr;
+          </Link>
+        </p>
       </section>
 
       {/* Practice exam cards */}
@@ -190,6 +214,9 @@ export default async function PracticeExamPage({
             Pick the exam that matches the license you&apos;re testing for. Each practice exam is
             full-length, includes detailed explanations, and can be retaken as many times as you
             need.
+            {/* 50 Ill. Adm. Code 3119 — approved short format line (Illinois
+                only), labeling the prelicensing course format. */}
+            {ilWebinar && <> Illinois prelicensing note: {IL_WEBINAR_SHORT_LINE}</>}
           </p>
 
           {examCards.length > 0 ? (

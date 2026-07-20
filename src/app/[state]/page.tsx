@@ -3,14 +3,17 @@ import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateParams } from "@/lib/generateStaticParams";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { hasClassroomWebinarHours, withIlWebinarFaq, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
 import { generateArticleSchemaWithReviewer, generateBreadcrumbSchema, generateFAQSchema, generateStateHubCourseSchema, SchemaMarkup } from "@/lib/schema";
 import { getStateHubFAQs, buildFaqData } from "@/lib/faq-data";
 import ArticleByline from "@/components/ArticleByline";
+import IllinoisWebinarCallout from "@/components/IllinoisWebinarCallout";
 import Link from "next/link";
 import StateHero from "@/components/StateHero";
 import TrustBar from "@/components/TrustBar";
 import TwoPathSelector from "@/components/TwoPathSelector";
-import { PC_STATE_SLUGS } from "@/data/pc-ce-packages";
+import { PC_STATE_SLUGS, getPCPackagesForState } from "@/data/pc-ce-packages";
 import StateRequirementsBlock from "@/components/StateRequirementsBlock";
 import TestimonialCards from "@/components/TestimonialCards";
 import TrustpilotStateReviews from "@/components/TrustpilotStateReviews";
@@ -18,6 +21,7 @@ import FAQAccordion from "@/components/FAQAccordion";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StateNoticesSection from "@/components/StateNoticesSection";
 import StateProviderBadge from "@/components/StateProviderBadge";
+import { credentialKindFromHours } from "@/lib/prelicensing-status";
 import LastUpdated from "@/components/LastUpdated";
 import CTABanner from "@/components/CTABanner";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
@@ -131,6 +135,26 @@ export default async function StateHubPage({
   const stateData = getStateBySlug(state);
   if (!stateData) notFound();
 
+  // Ohio Admin. Code 3901-5-07(H)(16) — no pass-guarantee offers on
+  // Ohio-facing pages. Gates the hero fallback, the 3-card bullet, the
+  // "Why Choose" grid card, and the closing CTA below. All other states
+  // keep the guarantee unchanged.
+  const guaranteeOk = hasPassGuarantee(stateData.slug);
+  const isProviderApproved = stateData.providerApprovalNumber !== "PENDING";
+  // "Starting at" price for the inline overview P&C CE card — the state's lowest
+  // P&C package price, never a hard-coded figure. Falls back to the L&H CE price.
+  const pcStartPrice = PC_STATE_SLUGS.includes(stateData.slug)
+    ? `$${Math.min(...getPCPackagesForState(stateData.slug).map((p) => Number(p.price.replace(/[^0-9.]/g, ""))))}`
+    : stateData.ce.packagePrice;
+
+  // 50 Ill. Adm. Code Part 3119 — Illinois requires 7.5 of the 20
+  // prelicensing hours per line via live classroom/webinar with verified
+  // attendance. When set (Illinois only), the webinar-format callout renders
+  // high on the page, unqualified "self-paced" primary claims switch to the
+  // approved hybrid framing, and the approved format FAQ is appended (flows
+  // into FAQPage JSON-LD). All other states render byte-identically.
+  const ilWebinar = hasClassroomWebinarHours(stateData);
+
   // Fix 2 & 3 — use realPassRate / marketGrowthRate when available, otherwise
   // fall back to the existing examInfo / stateData values so FAQ text stays valid.
   const faqData = {
@@ -147,14 +171,20 @@ export default async function StateHubPage({
 
   const baseFaqs = getStateHubFAQs(faqData);
 
-  // Fix 6 — append state-specific FAQ as question 6
-  const faqs = [
-    ...baseFaqs,
-    {
-      question: stateData.stateSpecificFAQ.question,
-      answer: stateData.stateSpecificFAQ.answer,
-    },
-  ];
+  // Fix 6 — append state-specific FAQ as question 6.
+  // withIlWebinarFaq appends the approved Illinois live-webinar format FAQ
+  // (50 Ill. Adm. Code 3119) as the final question when the state carries
+  // classroomWebinarHours; no-op for every other state.
+  const faqs = withIlWebinarFaq(
+    [
+      ...baseFaqs,
+      {
+        question: stateData.stateSpecificFAQ.question,
+        answer: stateData.stateSpecificFAQ.answer,
+      },
+    ],
+    stateData
+  );
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -162,23 +192,57 @@ export default async function StateHubPage({
   ]);
   const faqSchema = generateFAQSchema(faqs);
   const lahHours = stateData.prelicensing?.lifeAndHealth?.hours;
-  const courseSchema = generateStateHubCourseSchema({
+  // Shared with the visible StateProviderBadge below so the JSON-LD Course
+  // description never claims a "state-approved prelicensing" credential in
+  // CE-only states (see src/lib/prelicensing-status.ts).
+  const stateCredentialKind = credentialKindFromHours([
+    stateData.prelicensing?.life?.hours,
+    stateData.prelicensing?.health?.hours,
+    stateData.prelicensing?.lifeAndHealth?.hours,
+  ]);
+  // A "state-approved PRELICENSING" claim needs BOTH: approval granted AND the
+  // state actually regulating prelicensing. In exam-only states our approval is
+  // CE-only, so isProviderApproved alone would assert a credential we do not hold.
+  const prelicensingApproved =
+    isProviderApproved && stateCredentialKind === "prelicensing";
+  const courseSchemaBase = generateStateHubCourseSchema({
     stateName: stateData.name,
     stateSlug: stateData.slug,
     price: stateData.prelicensing?.lifeAndHealth?.price || "$199",
     hours: typeof lahHours === "number" ? lahHours : undefined,
+    credentialKind: stateCredentialKind,
   });
+  // 50 Ill. Adm. Code 3119 — the shared Course-schema generator's description
+  // contains an unqualified "100% online, self-paced" claim. Override the
+  // description for Illinois only; all other states get the generator's
+  // object untouched.
+  const courseSchema = ilWebinar
+    ? {
+        ...courseSchemaBase,
+        description: `State-approved online insurance prelicensing course for ${stateData.name}. Pass your ${stateData.name} state licensing exam on the first attempt. ${IL_WEBINAR_SHORT_LINE} Includes practice exams.`,
+      }
+    : courseSchemaBase;
 
   const crumbs = [
     { name: "Home", href: "/" },
     { name: stateData.name },
   ];
 
-  // Fix 1 — hero subtitle from stateSpecificIntro with fallback
+  // Fix 1 — hero subtitle from stateSpecificIntro with fallback.
+  // Illinois (50 Ill. Adm. Code 3119) currently always takes the
+  // stateSpecificIntro branch (its intro is non-empty and makes no format
+  // claim), but the fallback is gated too so an unqualified "self-paced"
+  // claim can never surface on Illinois even if the intro is ever emptied.
   const heroSubtitle =
     stateData.stateSpecificIntro && stateData.stateSpecificIntro.trim() !== ""
       ? stateData.stateSpecificIntro
-      : "State-approved prelicensing and CE courses. 100% online, self-paced, pass guarantee included.";
+      : ilWebinar
+      ? `State-approved prelicensing and CE courses. 100% online. ${IL_WEBINAR_SHORT_LINE}`
+      : !prelicensingApproved
+      ? "Prelicensing and CE courses. 100% online, self-paced, with instant access the moment you enroll."
+      : guaranteeOk
+      ? "State-approved prelicensing and CE courses. 100% online, self-paced, pass guarantee included."
+      : "State-approved prelicensing and CE courses. 100% online, self-paced, with instant access the moment you enroll.";
 
   const articleHeadline =
     stateData.slug === "florida"
@@ -227,7 +291,7 @@ export default async function StateHubPage({
           <a
             href={`/es/${stateData.slug}`}
             hrefLang="es-US"
-            className="text-navy font-semibold hover:text-gold-dark transition-colors text-sm md:text-base inline-flex items-center gap-2"
+            className="text-navy font-semibold hover:text-gold-deep transition-colors text-sm md:text-base inline-flex items-center gap-2"
           >
             <span aria-hidden="true">🇪🇸</span>
             <span>Curso de licencia de seguros disponible en español →</span>
@@ -248,23 +312,35 @@ export default async function StateHubPage({
             : `Get Your ${stateData.name} Insurance License Online`
         }
         subtitle={heroSubtitle}
-        ctaButtons={[
-          { text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing` },
-          { text: "Renew with CE", href: `/${stateData.slug}/continuing-education`, variant: "secondary" },
-        ]}
+        ctaButtons={
+          ilWebinar
+            ? [{ text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing` }]
+            : [
+                { text: "Start Prelicensing", href: `/${stateData.slug}/prelicensing` },
+                { text: "Renew with CE", href: `/${stateData.slug}/continuing-education`, variant: "secondary" },
+              ]
+        }
       />
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
       </div>
 
-      <TrustBar />
+      {/* 50 Ill. Adm. Code 3119 — Illinois-only live-webinar format callout,
+          placed at the very top of the main content (directly under the hero
+          + byline) so the hybrid format is established before any course
+          copy. Never rendered for other states. */}
+      {ilWebinar && <IllinoisWebinarCallout />}
+
+      <TrustBar stateSlug={stateData.slug} />
 
       <StateProviderBadge
         stateName={stateData.name}
         doiName={stateData.doiName}
         providerNumber={stateData.providerNumber}
         doiUrl={stateData.doiUrl}
+        stateSlug={stateData.slug}
+        credentialKind={stateCredentialKind}
       />
 
       {/* State-hub step-by-step walkthrough video for the states that have
@@ -312,23 +388,29 @@ export default async function StateHubPage({
                 </div>
                 <h3 className="text-xl font-bold text-navy mb-3">Prelicensing</h3>
                 <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
-                  New to insurance? Get your {stateData.name} insurance license with a state-approved prelicensing course. Study online at your own pace, then pass the state exam.
+                  {ilWebinar ? (
+                    // 50 Ill. Adm. Code 3119 — approved short format line
+                    // replaces the unqualified self-paced claim on Illinois.
+                    <>New to insurance? Get your {stateData.name} insurance license with a state-approved prelicensing course. {IL_WEBINAR_SHORT_LINE} Then pass the state exam.</>
+                  ) : (
+                    <>New to insurance? Get your {stateData.name} insurance license with {prelicensingApproved ? "a state-approved" : "an online"} prelicensing course. Study online at your own pace, then pass the state exam.</>
+                  )}
                 </p>
                 <ul className="space-y-2 mb-6">
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    100% online &amp; self-paced
+                    {ilWebinar ? "Live webinar hours + self-paced study" : "100% online & self-paced"}
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    Pass guarantee included
+                    {guaranteeOk ? "Pass guarantee included" : "Instant course access"}
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     Starting at $199
@@ -342,6 +424,13 @@ export default async function StateHubPage({
                 </Link>
               </div>
 
+              {/* CE cross-sell cards — hidden for states that require a live CE
+                  ethics component (Illinois: 3 of 24 CE hours must be a
+                  classroom/webinar ethics course, 215 ILCS 5/500-35(b)(1)), so
+                  the hub never markets a self-paced CE package where the state
+                  bars it. Non-IL states are unaffected (byte-identical). */}
+              {!ilWebinar && (
+                <>
               {/* L&H CE Card */}
               <div className="border-2 border-gold rounded-xl p-8 flex flex-col hover:shadow-xl transition-shadow">
                 <div className="w-14 h-14 bg-gold rounded-full flex items-center justify-center mb-5">
@@ -351,26 +440,26 @@ export default async function StateHubPage({
                 </div>
                 <h3 className="text-xl font-bold text-navy mb-3">L&amp;H Continuing Education</h3>
                 <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
-                  Already licensed in life &amp; health? Complete your {stateData.name} CE hours online before your renewal deadline. We report your completion to the state same-day.
+                  Already licensed in life &amp; health? Complete your {stateData.name} CE hours online before your renewal deadline.{isProviderApproved ? " We typically report your completion to the state same-day." : ""}
                 </p>
                 <ul className="space-y-2 mb-6">
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    Same-day DOI reporting
+                    {isProviderApproved ? "Same-day DOI reporting" : "Self-paced on any device"}
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
                     Complete at your own pace
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    Starting at $39
+                    Starting at {stateData.ce.packagePrice}
                   </li>
                 </ul>
                 <Link
@@ -390,26 +479,26 @@ export default async function StateHubPage({
                 </div>
                 <h3 className="text-xl font-bold text-navy mb-3">Property &amp; Casualty CE</h3>
                 <p className="text-gray-600 mb-6 flex-grow leading-relaxed">
-                  Hold a P&amp;C license? Complete your {stateData.name} P&amp;C continuing education online with state-approved Ethics + P&amp;C electives. Same-day DOI reporting included.
+                  Hold a P&amp;C license? Complete your {stateData.name} P&amp;C continuing education online with {isProviderApproved ? "state-approved " : ""}Ethics + P&amp;C electives.{isProviderApproved ? " Same-day DOI reporting is typically included." : ""}
                 </p>
                 <ul className="space-y-2 mb-6">
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    State-approved Ethics + P&amp;C
+                    {isProviderApproved ? "State-approved " : ""}Ethics + P&amp;C
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    Same-day DOI reporting
+                    {isProviderApproved ? "Same-day DOI reporting" : "Self-paced on any device"}
                   </li>
                   <li className="flex items-center gap-2 text-sm text-gray-600">
-                    <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                     </svg>
-                    Starting at $39
+                    Starting at {pcStartPrice}
                   </li>
                 </ul>
                 <Link
@@ -419,6 +508,8 @@ export default async function StateHubPage({
                   Renew P&amp;C License &rarr;
                 </Link>
               </div>
+                </>
+              )}
             </div>
           </div>
         </section>
@@ -435,7 +526,7 @@ export default async function StateHubPage({
 
       {/* Fix 5 — Last Verified + Provider Approval Number */}
       <section className="bg-white py-4 px-4 border-t border-gray-100">
-        <div className="max-w-5xl mx-auto flex flex-wrap gap-x-8 gap-y-1 text-xs text-gray-400">
+        <div className="max-w-5xl mx-auto flex flex-wrap gap-x-8 gap-y-1 text-xs text-gray-500">
           <span>Last Verified: {stateData.lastVerified}</span>
           {stateData.providerApprovalNumber !== "PENDING" && (
             <span>Provider Approval #: {stateData.providerApprovalNumber}</span>
@@ -524,19 +615,21 @@ export default async function StateHubPage({
               <p className="text-2xl mb-2" aria-hidden="true">🎓</p>
               <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} Prelicensing</h3>
               <p className="text-gray-500 text-xs leading-relaxed">
-                State-approved prelicensing courses, all lines of authority.
+                {prelicensingApproved ? "State-approved prelicensing courses, all lines of authority." : "Prelicensing courses for all lines of authority."}
               </p>
             </Link>
-            <Link
-              href={`/${stateData.slug}/continuing-education`}
-              className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
-            >
-              <p className="text-2xl mb-2" aria-hidden="true">🔄</p>
-              <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} CE Courses</h3>
-              <p className="text-gray-500 text-xs leading-relaxed">
-                Renew your {stateData.name} license with online CE.
-              </p>
-            </Link>
+            {!ilWebinar && (
+              <Link
+                href={`/${stateData.slug}/continuing-education`}
+                className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
+              >
+                <p className="text-2xl mb-2" aria-hidden="true">🔄</p>
+                <h3 className="font-bold text-navy text-sm mb-1">{stateData.name} CE Courses</h3>
+                <p className="text-gray-500 text-xs leading-relaxed">
+                  Renew your {stateData.name} license with online CE.
+                </p>
+              </Link>
+            )}
             <Link
               href={`/${stateData.slug}/practice-exam`}
               className="block bg-white rounded-xl p-5 border border-gray-200 hover:border-gold hover:shadow-md transition-all"
@@ -568,29 +661,41 @@ export default async function StateHubPage({
             Why Choose JustInsurance for Your {stateData.name} License?
           </h2>
           <p className="text-gray-500 text-center mb-10 max-w-xl mx-auto">
-            We&apos;ve helped 20,000+ students get licensed nationwide. Here&apos;s why they choose us.
+            We&apos;ve helped train 20,000+ students nationwide. Here&apos;s why they choose us.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
               {
                 icon: "🏛️",
-                title: "State-Approved Courses",
-                desc: `Every JustInsurance course is officially approved by the ${stateData.doiName} to fulfill prelicensing and CE requirements.`,
+                title: isProviderApproved ? "State-Approved Courses" : "Built to State Standards",
+                desc: isProviderApproved
+                  ? `Every JustInsurance course is officially approved by the ${stateData.doiName} to fulfill ${stateCredentialKind === "prelicensing" ? "prelicensing and CE" : "CE"} requirements.`
+                  : `JustInsurance courses are built to the ${stateData.doiName}'s ${stateCredentialKind === "prelicensing" ? "prelicensing and CE" : "CE"} standards; full state approval is pending.`,
               },
               {
                 icon: "📱",
                 title: "Study Anywhere",
                 desc: "Access your course on any device — desktop, tablet, or phone. Study at home, during lunch, or on the go.",
               },
-              {
-                icon: "✅",
-                title: "Pass Guarantee",
-                desc: "Meet the study hours, score 80%+ on the practice exam three times, and test within 30 days of enrollment. If you don't pass, we refund your course fee.",
-              },
+              // Ohio Admin. Code 3901-5-07(H)(16): swap the guarantee card
+              // 1-for-1 for excluded states so the 6-card grid keeps its shape.
+              guaranteeOk
+                ? {
+                    icon: "✅",
+                    title: "Pass Guarantee",
+                    desc: "Meet the study hours, score 80%+ on the practice exam three times, and test within 30 days of enrollment. If you don't pass, we refund your course fee.",
+                  }
+                : {
+                    icon: "⏱️",
+                    title: "Instant Course Access",
+                    desc: "Enroll and start studying within minutes — no waiting, no shipping. Your course unlocks the moment your order completes.",
+                  },
               {
                 icon: "⚡",
-                title: "Same-Day CE Reporting",
-                desc: `We report your CE completions to the ${stateData.doiName} the same day you finish. No paperwork needed.`,
+                title: isProviderApproved ? "Same-Day CE Reporting" : "Self-Paced CE",
+                desc: isProviderApproved
+                  ? `We typically report your CE completions to the ${stateData.doiName} the same day you finish. No paperwork needed.`
+                  : `Complete your ${stateData.name} CE hours online at your own pace, on any device — no classroom, no paperwork.`,
               },
               {
                 icon: "🎓",
@@ -610,13 +715,25 @@ export default async function StateHubPage({
               </div>
             ))}
           </div>
+          {/* Footnote for the "Same-Day CE Reporting" card above. It is a
+              DOI-reporting claim, so it must render ONLY where our provider
+              approval has actually issued — pending states (NY, WA) cannot
+              report completions to their regulator at all, and their own CE FAQ
+              correctly says approval is pending. Gated on the same
+              isProviderApproved the card is gated on; approved states are
+              byte-identical. */}
+          {isProviderApproved && (
+            <p className="text-xs text-gray-500 mt-6 max-w-3xl mx-auto text-center">
+              *JustInsurance typically transmits your completion to your state insurance regulator the same business day you finish; the time for your state to post the credit to your license record varies by state.
+            </p>
+          )}
         </div>
       </section>
 
       {/* Fix 4 — Lead testimonial uses state-matched data */}
       {/* Auto-fills all 3 cards with state-specific YouTube testimonials
           (falling back to generic when fewer than 3 are available). */}
-      <TestimonialCards stateName={stateData.name} seed={stateData.slug} />
+      <TestimonialCards stateName={stateData.name} seed={stateData.slug} stateSlug={stateData.slug} />
 
       <TrustpilotStateReviews stateName={stateData.name} />
 
@@ -665,12 +782,12 @@ export default async function StateHubPage({
         return (
           <section className="bg-white py-10 px-4 border-t border-gray-100">
             <div className="max-w-3xl mx-auto text-center">
-              <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-2">
+              <p className="text-gold-deep font-semibold uppercase tracking-wide text-xs mb-2">
                 Recent Articles
               </p>
               <Link
                 href={`/blog/state-license-${stateData.slug}`}
-                className="text-base md:text-lg font-bold text-navy hover:text-gold-dark transition-colors underline-offset-4 hover:underline"
+                className="text-base md:text-lg font-bold text-navy hover:text-gold-deep transition-colors underline-offset-4 hover:underline"
               >
                 {stateData.name} Insurance License — Articles, Guides &amp; News &rarr;
               </Link>
@@ -685,12 +802,12 @@ export default async function StateHubPage({
       {(() => {
         const blogMap: Record<string, { href: string; title: string }> = {
           florida: {
-            href: "/blog/florida-insurance-license/best-florida-insurance-prelicensing-courses-2026",
-            title: "Best Florida Insurance Prelicensing Courses 2026: JustInsurance vs XCEL vs ExamFX",
+            href: "/blog/florida-insurance-license",
+            title: "How to Get Your Florida Insurance License: Step-by-Step Guide",
           },
           texas: {
-            href: "/blog/texas-insurance-license/best-texas-insurance-prelicensing-courses-2026",
-            title: "Best Texas Insurance Prelicensing Courses 2026: JustInsurance vs XCEL vs ExamFX vs AD Banker",
+            href: "/blog/texas-insurance-license",
+            title: "How to Get Your Texas Insurance License: Step-by-Step Guide",
           },
           georgia: {
             href: "/blog/state-license-georgia/how-to-get-your-georgia-insurance-license-2026-step-by-step-guide",
@@ -722,21 +839,21 @@ export default async function StateHubPage({
         return (
           <section className="bg-white py-12 px-4 border-t border-gray-100">
             <div className="max-w-3xl mx-auto">
-              <p className="text-gold-dark font-semibold uppercase tracking-wide text-xs mb-2 text-center">
+              <p className="text-gold-deep font-semibold uppercase tracking-wide text-xs mb-2 text-center">
                 Deep Dive
               </p>
               <a
                 href={feat.href}
                 className="block bg-gray-bg hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-xl p-6 transition-colors group"
               >
-                <h3 className="text-lg md:text-xl font-bold text-navy mb-2 group-hover:text-gold-dark transition-colors">
+                <h3 className="text-lg md:text-xl font-bold text-navy mb-2 group-hover:text-gold-deep transition-colors">
                   {feat.title}
                 </h3>
                 <p className="text-gray-600 text-sm">
                   Full walkthrough of the {stateData.name} licensing process with
-                  primary-source data from the {stateData.doiName}, Pearson VUE/PSI, and NIPR.
+                  primary-source data from the {stateData.doiName}, {stateData.examInfo.examProvider}, and NIPR.
                 </p>
-                <p className="mt-3 text-gold-dark font-semibold text-sm group-hover:underline">
+                <p className="mt-3 text-gold-deep font-semibold text-sm group-hover:underline">
                   Read the full {stateData.name} guide →
                 </p>
               </a>
@@ -785,7 +902,17 @@ export default async function StateHubPage({
 
       <CTABanner
         title={`Ready to Get Your ${stateData.name} Insurance License?`}
-        subtitle="Enroll in a state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee."
+        subtitle={
+          // 50 Ill. Adm. Code 3119 — Illinois swaps the unqualified
+          // "self-paced" claim for the approved hybrid format line.
+          ilWebinar
+            ? `Enroll in a state-approved prelicensing course today. ${IL_WEBINAR_SHORT_LINE}`
+            : !prelicensingApproved
+            ? "Enroll in an online prelicensing course today. 100% online, self-paced, with instant access the moment you enroll."
+            : guaranteeOk
+            ? "Enroll in a state-approved prelicensing course today. 100% online, self-paced, and backed by our pass guarantee."
+            : "Enroll in a state-approved prelicensing course today. 100% online, self-paced, with instant access the moment you enroll."
+        }
         ctaText="Browse Courses"
         ctaHref={`/${stateData.slug}/prelicensing`}
       />

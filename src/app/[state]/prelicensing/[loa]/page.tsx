@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getStateBySlug } from "@/lib/states";
+import { isPrelicensingHeld } from "@/lib/prelicensing-status";
+import PrelicensingHeldNotice from "@/components/PrelicensingHeldNotice";
 import { LOA_DEFINITIONS, type LOASlug } from "@/lib/loa";
 import { generatePageMetadata } from "@/lib/metadata";
 import { generateStateLOAParams } from "@/lib/generateStaticParams";
@@ -12,8 +14,11 @@ import {
   SchemaMarkup,
 } from "@/lib/schema";
 import { getPrelicensingCourseFAQs, buildFaqData } from "@/lib/faq-data";
+import { hasPassGuarantee } from "@/lib/pass-guarantee";
+import { hasClassroomWebinarHours, withIlWebinarFaq, IL_WEBINAR_SHORT_LINE } from "@/lib/il-webinar";
 import catalogLinks from "@/lib/catalog-links.json";
 import ArticleByline from "@/components/ArticleByline";
+import IllinoisWebinarCallout from "@/components/IllinoisWebinarCallout";
 import StateHero from "@/components/StateHero";
 import CourseOverviewBox from "@/components/CourseOverviewBox";
 import CourseFeatures from "@/components/CourseFeatures";
@@ -21,10 +26,11 @@ import ExamInfoSection from "@/components/ExamInfoSection";
 import PassGuarantee from "@/components/PassGuarantee";
 import TestimonialCards from "@/components/TestimonialCards";
 import FAQAccordion from "@/components/FAQAccordion";
-import CTABanner from "@/components/CTABanner";
+import CTABanner, { RefundDisclosure } from "@/components/CTABanner";
 import PracticeExamCTA from "@/components/PracticeExamCTA";
 import StickyMobileCTA from "@/components/StickyMobileCTA";
 import BreadcrumbNav from "@/components/BreadcrumbNav";
+import PrelicenseApprovalNotice from "@/components/PrelicenseApprovalNotice";
 import RelatedStatePages from "@/components/RelatedStatePages";
 import LastUpdated from "@/components/LastUpdated";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
@@ -148,7 +154,7 @@ export async function generateMetadata({
   if (!stateData || !loaDef) return {};
   const pricing = getCoursePricing(state, loa as LOASlug);
   const hoursNum = typeof pricing?.hours === "number" ? pricing.hours : undefined;
-  return generatePageMetadata({
+  const baseMeta = generatePageMetadata({
     pageType: "prelicensing-course",
     stateName: stateData.name,
     stateSlug: stateData.slug,
@@ -158,6 +164,13 @@ export async function generateMetadata({
     hours: hoursNum,
     price: pricing?.price,
   });
+  return isPrelicensingHeld(stateData)
+    ? {
+        title: `${stateData.name} ${loaDef.name} Prelicensing — Enrollment Opening Soon | JustInsurance`,
+        description: `Our ${stateData.name} ${loaDef.name} prelicensing course is completing state approval and will open for enrollment soon.`,
+        robots: { index: false, follow: true },
+      }
+    : baseMeta;
 }
 
 export default async function PrelicensingCoursePage({
@@ -174,16 +187,68 @@ export default async function PrelicensingCoursePage({
   const pricing = getCoursePricing(state, loa as LOASlug);
   if (!pricing) notFound();
 
+  // Approval pending in a prelicensing-mandate state -> hold the course page.
+  if (isPrelicensingHeld(stateData)) {
+    return (
+      <PrelicensingHeldNotice
+        stateName={stateData.name}
+        stateSlug={stateData.slug}
+        loaName={loaDef.name}
+      />
+    );
+  }
+
   const enrollLink = getCatalogLink(stateData.slug, loaDef.slug);
   const hoursIsNumber = typeof pricing.hours === "number";
   const pricingHoursNum = hoursIsNumber ? (pricing.hours as number) : undefined;
-  const faqs = getPrelicensingCourseFAQs(
-    buildFaqData(stateData),
-    loaDef.name,
-    pricing.hours,
-    pricing.price.replace("$", "")
+
+  // 50 Ill. Adm. Code Part 3119 — Illinois requires 7.5 of the 20
+  // prelicensing hours per line via live classroom/webinar with verified
+  // attendance. Gates the callout, hybrid hero/schema format copy, the
+  // Course Overview format cell, and the appended format FAQ (flows into
+  // FAQPage JSON-LD). Every other state renders byte-identically.
+  const ilWebinar = hasClassroomWebinarHours(stateData);
+  // California: AB 943 (eff. 1/1/2026, amending Cal. Ins. Code § 1749) repealed
+  // line-specific product prelicensing hours. The only mandatory prelicensing is
+  // a single 12-hour Code & Ethics course; line content is exam prep, not a
+  // state-required line-specific curriculum. Gated so no other state changes.
+  const isCalifornia = stateData.slug === "california";
+  // States that impose monitored seat time / a required course duration (CA's
+  // 12-hr timed C&E; MN's seat-time control) are NOT accurately "self-paced" —
+  // the length is fixed. Gate the "online, self-paced / at your own pace" claims.
+  const isMinnesota = stateData.slug === "minnesota";
+  const monitoredHours = isCalifornia || isMinnesota;
+  // Illinois live-webinar hours are charged PER LINE (7.5 live / 12.5 self of
+  // each 20-hour line), so the combined 40-hour Life & Health course is
+  // 15 live + 25 self — compute from the line count, never hardcode 7.5/12.5.
+  const ilLineCount = hoursIsNumber
+    ? Math.max(1, Math.round((pricingHoursNum as number) / 20))
+    : 1;
+  const ilLiveHours = ilWebinar
+    ? (stateData.classroomWebinarHours as number) * ilLineCount
+    : 0;
+  const ilSelfHours =
+    ilWebinar && hoursIsNumber ? (pricingHoursNum as number) - ilLiveHours : 0;
+
+  const faqs = withIlWebinarFaq(
+    getPrelicensingCourseFAQs(
+      buildFaqData(stateData),
+      loaDef.name,
+      pricing.hours,
+      pricing.price.replace("$", "")
+    ),
+    stateData
   );
   const learnBullets = WHAT_YOULL_LEARN[loaDef.slug];
+
+  // Ohio Admin. Code 3901-5-07(H)(16): no pass-guarantee offers on Ohio
+  // pages — hero copy, JSON-LD descriptions, "What's Included" list, and
+  // the closing CTA all swap the guarantee clause for excluded states.
+  const guaranteeOk = hasPassGuarantee(stateData.slug);
+  const isProviderApproved = stateData.providerApprovalNumber !== "PENDING";
+  const guaranteeSentence = guaranteeOk
+    ? "Pass guarantee included."
+    : "Instant course access.";
 
   const courseSchema = generateCourseSchema({
     stateName: stateData.name,
@@ -193,9 +258,13 @@ export default async function PrelicensingCoursePage({
     courseType: "prelicensing",
     hours: pricingHoursNum,
     price: pricing.price,
-    description: hoursIsNumber
-      ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, state-approved, online, self-paced. Pass guarantee included. ${pricing.price}.`
-      : `${stateData.name} ${loaDef.name} prelicensing course — state-approved, online, self-paced. Pass guarantee included. ${pricing.price}.`,
+    // 50 Ill. Adm. Code 3119 — Illinois Course schema descriptions use the
+    // hybrid format instead of unqualified "online, self-paced".
+    description: ilWebinar
+      ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours per line (7.5 live webinar + 12.5 self-paced), state-approved. ${guaranteeSentence} ${pricing.price}.`
+      : hoursIsNumber
+      ? `${stateData.name} ${loaDef.name} prelicensing course — ${pricing.hours} hours, ${isProviderApproved ? "state-approved, " : ""}online, ${monitoredHours ? "on your own schedule" : "self-paced"}. ${guaranteeSentence} ${pricing.price}.`
+      : `${stateData.name} ${loaDef.name} prelicensing course — online, ${monitoredHours ? "on your own schedule" : "self-paced"}. ${guaranteeSentence} ${pricing.price}.`,
   });
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://justinsuranceco.com/" },
@@ -211,9 +280,13 @@ export default async function PrelicensingCoursePage({
   // already live inside the Course schema's hasCourseInstance.offers block.
 
   const articleHeadline = `${stateData.name} ${loaDef.name} Prelicensing Course`;
-  const articleDescription = hoursIsNumber
-    ? `${pricing.hours}-hour state-approved course. Study online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`
-    : `Complete our state-approved ${loaDef.name} prelicensing course online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`;
+  // 50 Ill. Adm. Code 3119 — Illinois hero subtitle / Article description
+  // swaps the unqualified self-paced claim for the approved short line.
+  const articleDescription = ilWebinar
+    ? `${pricing.hours}-hour state-approved course. ${IL_WEBINAR_SHORT_LINE} Then pass the ${stateData.name} licensing exam. ${guaranteeSentence} Only ${pricing.price}.`
+    : hoursIsNumber
+    ? `${pricing.hours}-hour ${isProviderApproved ? "state-approved " : ""}course. ${monitoredHours ? "Study online on your own schedule" : "Study online at your own pace"}, then pass the ${stateData.name} licensing exam. ${guaranteeSentence} Only ${pricing.price}.`
+    : `Complete our ${loaDef.name} prelicensing course online at your own pace, then pass the ${stateData.name} licensing exam. ${guaranteeSentence} Only ${pricing.price}.`;
   const articleSchema = generateArticleSchemaWithReviewer({
     headline: articleHeadline,
     description: articleDescription,
@@ -240,22 +313,100 @@ export default async function PrelicensingCoursePage({
 
       <BreadcrumbNav crumbs={crumbs} />
 
+      <PrelicenseApprovalNotice stateSlug={stateData.slug} loaSlug={loaDef.slug} stateName={stateData.name} />
+
       <StateHero
         eyebrow={`${stateData.name} ${loaDef.shortName} Prelicensing`}
         title={`${stateData.name} ${loaDef.name} Prelicensing Course`}
-        subtitle={
-          hoursIsNumber
-            ? `${pricing.hours}-hour state-approved course. Study online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`
-            : `Complete our state-approved ${loaDef.name} prelicensing course online at your own pace, then pass the ${stateData.name} licensing exam. Pass guarantee included. Only ${pricing.price}.`
-        }
+        subtitle={articleDescription}
         ctaButtons={[
           { text: `Enroll Now — ${pricing.price}`, href: enrollLink },
         ]}
       />
 
+      {/* Item #6 — refund policy microcopy under the hero Enroll CTA */}
+      <div className="bg-navy-dark px-4 pb-6">
+        <p className="max-w-4xl mx-auto text-center text-blue-200 text-xs leading-relaxed">
+          <RefundDisclosure />
+        </p>
+      </div>
+
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <ArticleByline lastReviewed={stateData.lastVerified} />
       </div>
+
+      {/* 50 Ill. Adm. Code 3119 — Illinois-only live-webinar format callout,
+          top of main content before the Course Overview box. */}
+      {ilWebinar && <IllinoisWebinarCallout />}
+
+      {/* Illinois treats Life and Accident & Health as SEPARATE lines of
+          authority (215 ILCS 5/500-30(b)); Part 3119 certifies prelicensing
+          courses per line against separate content exhibits (Ex. E Life, Ex. F
+          A&H). So the "Life & Health" package is two individually IDOI-certified
+          20-hour courses + two separate Pearson VUE exams — never one combined
+          course/exam. IL L&H only. */}
+      {ilWebinar && loaDef.slug === "life-and-health" && (
+        <section className="bg-white py-10 px-4">
+          <div className="max-w-4xl mx-auto bg-gray-bg border-l-4 border-gold rounded-r-lg p-6">
+            <h2 className="text-xl md:text-2xl font-bold text-navy mb-3">
+              How the Illinois Life &amp; Health package works
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-3">
+              In Illinois, &ldquo;Life &amp; Health&rdquo; is not one combined
+              course. State law treats Life and Accident &amp; Health as separate
+              lines of authority (215 ILCS 5/500-25), so this package includes{" "}
+              <strong>two individually state-approved prelicensing courses</strong>{" "}
+              — a 20-hour Life course and a 20-hour Accident &amp; Health course
+              (40 hours total), each with at least 7.5 hours of live classroom or
+              webinar instruction. Each course is individually approved by the
+              Illinois Department of Insurance.
+            </p>
+            <p className="text-gray-700 leading-relaxed">
+              Your state exams are separate too: you&apos;ll sit a Life exam and a
+              separate Accident &amp; Health exam through Pearson VUE, each with its
+              own General and State portion — <strong>four exams in total</strong>{" "}
+              for the Life &amp; Health license. We bundle both approved courses at
+              one price so you&apos;re prepared for all four.
+            </p>
+          </div>
+        </section>
+      )}
+
+      {/* Minnesota approves prelicensing per line of authority — the MN Dept.
+          of Commerce course-approval application is filed one line at a time
+          ("CHOOSE ONE LINE OF AUTHORITY") and requires 20 hours per line (Minn.
+          Stat. § 45.37). So MN "Life & Health" is two separately approved
+          courses, NOT one combined course. Unlike Illinois, though, MN DOES
+          offer a combined Life, Accident & Health EXAM (135 items via PSI), so
+          the exam side is a choice — verified 2026-07-14 vs. the PSI MN
+          candidate bulletin. MN L&H only. */}
+      {isMinnesota && loaDef.slug === "life-and-health" && (
+        <section className="bg-white py-10 px-4">
+          <div className="max-w-4xl mx-auto bg-gray-bg border-l-4 border-gold rounded-r-lg p-6">
+            <h2 className="text-xl md:text-2xl font-bold text-navy mb-3">
+              How the Minnesota Life &amp; Health package works
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-3">
+              In Minnesota, &ldquo;Life &amp; Health&rdquo; is not one combined
+              course. The Department of Commerce approves prelicensing education{" "}
+              <strong>per line of authority</strong> — 20 hours per line — so
+              this package includes{" "}
+              <strong>two separately state-approved courses</strong>: a 20-hour
+              Life course and a 20-hour Accident &amp; Health course (40 hours
+              total). We bundle both approved courses at one price.
+            </p>
+            <p className="text-gray-700 leading-relaxed">
+              Your exam, however, can go either way: after finishing both
+              courses you may sit Minnesota&apos;s{" "}
+              <strong>combined Life, Accident &amp; Health exam</strong> (a
+              single 135-item exam) <em>or</em> take the separate Life and
+              Accident &amp; Health exams — all administered by PSI. So the{" "}
+              <strong>courses are separate, but the exam can be combined</strong>{" "}
+              — the opposite of states like Illinois, which split both.
+            </p>
+          </div>
+        </section>
+      )}
 
       {/* Step-by-step walkthrough video for life-and-health buyers in
           states that have one (FL/CA/TX as of 2026-06-12 — see LOA_VIDEOS
@@ -273,6 +424,27 @@ export default async function PrelicensingCoursePage({
         <CourseOverviewBox
           hours={pricingHoursNum as number}
           price={pricing.price}
+          stateSlug={stateData.slug}
+          // 50 Ill. Adm. Code 3119 — Illinois overrides the default
+          // "Online, Self-Paced" format cell and lists the live webinar
+          // sessions in What's Included. Conditional spread so every other
+          // state hits the component defaults byte-identically.
+          {...(ilWebinar
+            ? {
+                format: `${ilLiveHours}h Live Webinar + ${ilSelfHours}h Self-Paced`,
+                includes: [
+                  "7.5 live webinar hours per line — attendance verified",
+                  "Video lessons",
+                  "Interactive e-book",
+                  "Practice exams",
+                  "Flashcard review sets",
+                  "Progress tracking",
+                  "Expert support",
+                  "Certificate of completion",
+                  "Pass guarantee",
+                ],
+              }
+            : {})}
         />
       ) : (
         // When no mandatory hours, omit the Credit Hours stat to avoid showing "0"
@@ -292,7 +464,7 @@ export default async function PrelicensingCoursePage({
                   <p className="text-gray-500 text-sm mt-1">Course Format</p>
                 </div>
                 <div className="p-5 text-center">
-                  <p className="text-base font-bold text-navy">12 Months</p>
+                  <p className="text-base font-bold text-navy">{stateData.courseAccessDays} Days</p>
                   <p className="text-gray-500 text-sm mt-1">Access Duration</p>
                 </div>
               </div>
@@ -307,10 +479,10 @@ export default async function PrelicensingCoursePage({
                     "Progress tracking",
                     "Expert support",
                     "Certificate of completion",
-                    "Pass guarantee",
+                    guaranteeOk ? "Pass guarantee" : "Instant course access",
                   ].map((item) => (
                     <li key={item} className="flex items-center gap-2 text-gray-600 text-sm">
-                      <svg className="w-4 h-4 text-success flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <svg className="w-4 h-4 text-success-dark flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                       </svg>
                       {item}
@@ -330,13 +502,17 @@ export default async function PrelicensingCoursePage({
             What You&apos;ll Learn
           </h2>
           <p className="text-gray-500 text-center mb-8 max-w-xl mx-auto">
-            This course covers everything tested on the {stateData.name} {loaDef.name} licensing exam.
+            {ilWebinar && loaDef.slug === "life-and-health"
+              ? `These two courses cover everything tested on the two Illinois exams — Life and Accident & Health — required for a Life & Health license.`
+              : isCalifornia
+              ? `This course delivers California's required 12-hour Code & Ethics prelicensing content, plus focused exam preparation for the ${stateData.name} ${loaDef.name} licensing exam.`
+              : `This course covers everything tested on the ${stateData.name} ${loaDef.name} licensing exam.`}
           </p>
           <div className="bg-white rounded-xl p-6 md:p-8 shadow-sm">
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-3">
               {learnBullets.map((bullet) => (
                 <li key={bullet} className="flex items-start gap-3 text-sm text-gray-700">
-                  <svg className="w-5 h-5 text-success flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <svg className="w-5 h-5 text-success-dark flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                   </svg>
                   {bullet}
@@ -357,9 +533,18 @@ export default async function PrelicensingCoursePage({
         examBookingUrl={stateData.examInfo.examBookingUrl}
         noCombinedExam={stateData.noCombinedExam}
         applicationBeforeExam={stateData.applicationBeforeExam}
+        stateSlug={stateData.slug}
+        loaSlug={loaDef.slug}
+        examFeeDisplay={
+          loaDef.slug === "life-and-health" && stateData.noCombinedExam
+            ? `$${2 * Number(stateData.examInfo.examFee)} (two exams)`
+            : undefined
+        }
       />
 
-      <PassGuarantee />
+      {/* Ohio Admin. Code 3901-5-07(H)(16): PassGuarantee self-suppresses /
+          swaps content for excluded states via the stateSlug prop. */}
+      <PassGuarantee stateSlug={stateData.slug} />
 
       <PracticeExamCTA
         stateName={stateData.name}
@@ -374,7 +559,7 @@ export default async function PrelicensingCoursePage({
         }
       />
 
-      <TestimonialCards stateName={stateData.name} seed={stateData.slug} />
+      <TestimonialCards stateName={stateData.name} seed={stateData.slug} stateSlug={stateData.slug} />
 
       <FAQAccordion
         faqs={faqs}
@@ -400,12 +585,13 @@ export default async function PrelicensingCoursePage({
         title={`Ready to Start Your ${stateData.name} ${loaDef.shortName} Prelicensing?`}
         subtitle={
           hoursIsNumber
-            ? `Enroll in our ${pricing.hours}-hour state-approved course today. Pass guarantee included. Only ${pricing.price}.`
-            : `Enroll in our state-approved ${loaDef.name} course today. Pass guarantee included. Only ${pricing.price}.`
+            ? `Enroll in our ${pricing.hours}-hour ${isProviderApproved ? "state-approved " : ""}course today. ${guaranteeSentence} Only ${pricing.price}.`
+            : `Enroll in our ${loaDef.name} course today. ${guaranteeSentence} Only ${pricing.price}.`
         }
         ctaText={`Enroll Now — ${pricing.price}`}
         ctaHref={enrollLink}
         externalLink
+        disclosure={<RefundDisclosure />}
       />
 
       <StickyMobileCTA

@@ -45,7 +45,7 @@ export async function generateMetadata({
 
   const canonical = `https://justinsuranceco.com/${state}/continuing-education/property-and-casualty/${packageSlug}`;
   const title = `${pkg.shortName} | JustInsurance`;
-  const description = `${pkg.totalHours}-hour ${stateData.name} Property & Casualty CE package: ${pkg.ethicsHours}-hr ${pkg.ethicsLabel} + ${pkg.pcHours}-hr P&C electives. Online, self-paced, same-day reporting to the ${stateData.doiName}. ${pkg.price}.`;
+  const description = `${pkg.totalHours}-hour ${stateData.name} Property & Casualty CE package: ${pkg.ethicsHours}-hr ${pkg.ethicsLabel} + ${pkg.pcHours}-hr P&C electives. Online, self-paced, same-day reporting to the ${stateData.doiName} in most cases. ${pkg.price}.`;
 
   return {
     // .absolute prevents root layout's "%s | JustInsurance" template from
@@ -115,7 +115,7 @@ export default async function PCPackagePage({
     courseType: "continuing-education",
     hours: pkg.totalHours,
     price: pkg.price,
-    description: `${pkg.packageName}. Online, self-paced, same-day reporting to the ${stateData.doiName}. ${pkg.price}.`,
+    description: `${pkg.packageName}. Online, self-paced, same-day reporting to the ${stateData.doiName} in most cases. ${pkg.price}.`,
   });
   // Override offers.url to the actual Absorb cart link.
   (courseSchema as { offers: { url: string } }).offers.url = pkg.cartLink;
@@ -166,10 +166,10 @@ export default async function PCPackagePage({
                   href={`/${stateData.slug}/continuing-education/property-and-casualty/${s.packageSlug}`}
                   className="block bg-white hover:bg-gold/10 border border-gray-200 hover:border-gold rounded-lg p-4 transition-colors group"
                 >
-                  <p className="text-[10px] font-bold uppercase tracking-wide text-gold-dark mb-1">
+                  <p className="text-[10px] font-bold uppercase tracking-wide text-gold-deep mb-1">
                     {s.totalHours}-Hour Package
                   </p>
-                  <h3 className="font-semibold text-navy text-sm mb-1 group-hover:text-gold-dark transition-colors leading-snug">
+                  <h3 className="font-semibold text-navy text-sm mb-1 group-hover:text-gold-deep transition-colors leading-snug">
                     {s.shortName}
                   </h3>
                   <p className="text-gray-600 text-xs leading-relaxed">
